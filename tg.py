@@ -3,6 +3,8 @@ from docx.shared import Pt, Cm, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
+# 生成符合中文学术论文格式的 Word 文档
+# python可以干这个，很神奇吧
 
 def create_chinese_academic_paper():
     doc = docx.Document()
