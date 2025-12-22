@@ -1,0 +1,24 @@
+# 忽略所有图片
+*.png
+*.jpg
+*.jpeg
+
+# 忽略 ROOT 数据文件 (通常很大)
+*.root
+
+# 忽略 Python 的缓存垃圾 (建议加上)
+__pycache__/
+*.pyc
+# LaTeX 编译过程文件
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.dvi
+*.nav
+*.snm
