@@ -15,7 +15,7 @@ inline constexpr int NUM_THREADS = 10;
 // --- 2. 文件路径配置 ---
 
 // [输入] 原始 ROOT 文件
-inline constexpr char INPUT_DIR_PATTERN[] = "/home/evalie2/Project/document/273Ds/nokb/SS032%05d_map.root";
+inline constexpr char INPUT_DIR_PATTERN[] = "/home/evalie/Project/Document/After/SS032%05d_map.root";
 inline constexpr int RUN_START = 2;
 inline constexpr int RUN_END = 178;
 inline constexpr char TREE_NAME[] = "tr_map";
@@ -61,7 +61,7 @@ double fit_win  = 100.0; //仅仅搜索范围，double fit_radius = (win < 60.0)
 // 刻度参考峰
 inline const std::vector<PeakDef> REF_PEAKS = {
    // {8784, 30.0}, {7065, 30.0}, {7128, 30.0}
-    {7682, 30.0}, {7065, 30.0}, {7128, 30.0}
+    {8783, 30.0}, {7065, 30.0}, {7128, 30.0}
 };
 
 // 诊断参考峰
