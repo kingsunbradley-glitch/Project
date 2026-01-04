@@ -53,6 +53,11 @@ static void BindSummaryBranches(TTree& t, SummaryRow& r) {
   t.Branch("Y80eq", r.Y80eq, "Y80eq[3]/D");
   t.Branch("Y80pix", r.Y80pix, "Y80pix[3]/L");
   t.Branch("Y80cov", r.Y80cov, "Y80cov[3]/D");
+
+  t.Branch("Nfix", r.Nfix, "Nfix[3]/L");
+  t.Branch("A80eq_fixN", r.A80eq_fixN, "A80eq_fixN[3]/D");
+  t.Branch("A80pix_fixN", r.A80pix_fixN, "A80pix_fixN[3]/L");
+  t.Branch("A80cov_fixN", r.A80cov_fixN, "A80cov_fixN[3]/D");
 }
 
 int main(int argc, char** argv) {

@@ -1,5 +1,5 @@
 #pragma once
-#include "A80Types.h"
+#include "Config.h"
 #include <string>
 
 class TFile;
@@ -8,21 +8,7 @@ class TFile;
 // write per-run QA objects into fqa, and produce per-run multi-page PDF.
 class RunProcessor {
 public:
-  struct Config {
-    double EgLo = 5000.0;
-    double EgHi = 6000.0;
-    double targetFrac = 0.80;
-    double fitWindow = 80.0;
-
-    int nx = 128;
-    int ny = 48;
-    double xlo = -0.5, xhi = 127.5;
-    double ylo = -0.5, yhi = 47.5;
-
-    PeakWin Ptpl[3];
-
-    Config();
-  };
+  using Config = A80Config;
 
   explicit RunProcessor(Config cfg = Config());
 

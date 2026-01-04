@@ -76,3 +76,22 @@ AeqResult CalcAeq1D(const TH1D* h, double targetFrac) {
   }
   return CalcAeqFromCounts(std::move(counts), targetFrac);
 }
+
+
+AeqResult CalcAeq2DFromSampledBins(const std::vector<int>& binIdx, int nx, int ny, double targetFrac) {
+  AeqResult r;
+  if (nx <= 0 || ny <= 0) return r;
+
+  const int nbin = nx * ny;
+  std::vector<int> cnt(nbin, 0);
+  for (int idx : binIdx) {
+    if (idx >= 0 && idx < nbin) cnt[idx] += 1;
+  }
+
+  std::vector<double> counts;
+  counts.reserve(static_cast<size_t>(nbin));
+  for (int c : cnt) {
+    if (c > 0) counts.push_back(static_cast<double>(c));
+  }
+  return CalcAeqFromCounts(std::move(counts), targetFrac);
+}

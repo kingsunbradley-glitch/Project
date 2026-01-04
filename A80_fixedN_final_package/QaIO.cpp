@@ -10,7 +10,6 @@
 #include <TCanvas.h>
 #include <TLatex.h>
 
-#include <memory>
 
 void EnsureDir(const std::string& dir) {
   gSystem->mkdir(dir.c_str(), kTRUE);
@@ -54,9 +53,13 @@ void WriteRunObjects(
 
 void DrawXYPage(
   TCanvas& c, TLatex& t,
-  TH2D& hxy, const char* title,
+  TH2D& hxy, TH1D& hx, TH1D& hy, const char* title,
   const PeakWin* pinfo,
-  const AeqResult& Aall, const AeqResult& Xall, const AeqResult& Yall
+  const AeqResult& Aall, const AeqResult& Xall, const AeqResult& Yall,
+  const char* roiDesc,
+  const AeqResult* A80_fixN,
+  long long Nfix,
+  int N0
 ) {
   c.Clear();
   c.Divide(2, 2);
@@ -68,17 +71,11 @@ void DrawXYPage(
 
   // RAII projections to avoid leaking histograms (important for long run batches)
   c.cd(2);
-  std::unique_ptr<TH1D> hx(hxy.ProjectionX(Form("%s_px_tmp", hxy.GetName())));
-  hx->SetDirectory(nullptr);
-  hx->SetTitle("X projection;DSSDX_Ch;Counts");
-  hx->Draw();
-
+  hx.SetTitle("X projection;DSSDX_Ch;Counts");
+  hx.Draw();
   c.cd(4);
-  std::unique_ptr<TH1D> hy(hxy.ProjectionY(Form("%s_py_tmp", hxy.GetName())));
-  hy->SetDirectory(nullptr);
-  hy->SetTitle("Y projection;DSSDY_Ch;Counts");
-  hy->Draw();
-
+  hy.SetTitle("Y projection;DSSDY_Ch;Counts");
+  hy.Draw();
   c.cd(3);
   gPad->Clear();
   t.SetNDC(true);
@@ -89,15 +86,28 @@ void DrawXYPage(
   t.SetTextSize(0.037);
   if (pinfo) {
     if (pinfo->ok) {
-      t.DrawLatex(0.08, 0.72, TString::Format("N = %lld", pinfo->N));
-      t.DrawLatex(0.08, 0.66, TString::Format("mux = %.3f, muy = %.3f", pinfo->mux, pinfo->muy));
-      t.DrawLatex(0.08, 0.60, TString::Format("A80_eq = %.3f  (A80_pix=%lld, cov@pix=%.4f)",
+      t.DrawLatex(0.08, 0.72, TString::Format("Npk=%lld   mux=%.3f   muy=%.3f", pinfo->N, pinfo->mux, pinfo->muy));
+      t.DrawLatex(0.08, 0.66, TString::Format("A80_eq = %.3f  (pix=%lld, cov=%.4f)",
                                                pinfo->A80_2D.n_eq, pinfo->A80_2D.n_pix, pinfo->A80_2D.cov_at_npix));
+
+      if (N0 > 0 && A80_fixN) {
+        if (Nfix >= N0 && A80_fixN->n_pix > 0) {
+          t.DrawLatex(0.08, 0.60, TString::Format("A80_fixN (N0=%d,Nfix=%lld) = %.3f (pix=%lld,cov=%.4f)",
+                                                   N0, Nfix, A80_fixN->n_eq, A80_fixN->n_pix, A80_fixN->cov_at_npix));
+        } else {
+          t.DrawLatex(0.08, 0.60, TString::Format("A80_fixN (N0=%d) : skip (Npk < N0)", N0));
+        }
+      }
+
       t.DrawLatex(0.08, 0.54, TString::Format("X80_eq = %.3f (pix=%lld,cov=%.4f)",
                                                pinfo->X80_1D.n_eq, pinfo->X80_1D.n_pix, pinfo->X80_1D.cov_at_npix));
       t.DrawLatex(0.08, 0.48, TString::Format("Y80_eq = %.3f (pix=%lld,cov=%.4f)",
                                                pinfo->Y80_1D.n_eq, pinfo->Y80_1D.n_pix, pinfo->Y80_1D.cov_at_npix));
       t.DrawLatex(0.08, 0.42, TString::Format("ROI = [%.0f, %.0f] keV", pinfo->roi_lo, pinfo->roi_hi));
+
+      if (roiDesc) {
+        t.DrawLatex(0.08, 0.36, TString::Format("ROI mode: %s", roiDesc));
+      }
     } else {
       t.DrawLatex(0.08, 0.72, "Peak NOT FOUND");
     }
@@ -108,5 +118,9 @@ void DrawXYPage(
                                              Xall.n_eq, Xall.n_pix, Xall.cov_at_npix));
     t.DrawLatex(0.08, 0.60, TString::Format("Y80_eq=%.3f (pix=%lld,cov=%.4f)",
                                              Yall.n_eq, Yall.n_pix, Yall.cov_at_npix));
+
+    if (roiDesc) {
+      t.DrawLatex(0.08, 0.54, TString::Format("ROI mode: %s", roiDesc));
+    }
   }
 }

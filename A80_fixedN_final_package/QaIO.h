@@ -25,10 +25,14 @@ void WriteRunObjects(
 );
 
 // Draw a 4-panel page: XY heatmap + X/Y projections + text block (A80/X80/Y80 + ROI).
-// NOTE: This function will allocate projection histograms and delete them before returning.
+// NOTE: Pass in projections (hx, hy) that stay alive until after printing.
 void DrawXYPage(
   TCanvas& c, TLatex& t,
-  TH2D& hxy, const char* title,
+  TH2D& hxy, TH1D& hx, TH1D& hy, const char* title,
   const PeakWin* pinfo,
-  const AeqResult& Aall, const AeqResult& Xall, const AeqResult& Yall
+  const AeqResult& Aall, const AeqResult& Xall, const AeqResult& Yall,
+  const char* roiDesc = nullptr,
+  const AeqResult* A80_fixN = nullptr,
+  long long Nfix = 0,
+  int N0 = 0
 );

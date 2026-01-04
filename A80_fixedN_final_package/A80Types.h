@@ -63,6 +63,12 @@ struct SummaryRow {
   long long Y80pix[3];
   double Y80cov[3];
 
+  // Fixed-N version (reservoir sampling) for A80 (per peak)
+  long long Nfix[3];
+  double A80eq_fixN[3];
+  long long A80pix_fixN[3];
+  double A80cov_fixN[3];
+
   void reset(int run_) {
     run = run_;
     nPeaks = 0;
@@ -83,6 +89,11 @@ struct SummaryRow {
       A80eq[i] = X80eq[i] = Y80eq[i] = -999.0;
       A80pix[i] = X80pix[i] = Y80pix[i] = 0;
       A80cov[i] = X80cov[i] = Y80cov[i] = 0.0;
+
+      Nfix[i] = 0;
+      A80eq_fixN[i] = -999.0;
+      A80pix_fixN[i] = 0;
+      A80cov_fixN[i] = 0.0;
     }
   }
 };
