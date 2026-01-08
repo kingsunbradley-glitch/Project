@@ -14,6 +14,9 @@
 # 忽略 Python 的缓存垃圾 (建议加上)
 __pycache__/
 *.pyc
+# 忽略C++编译生成的文件
+*.o
+*.exe
 # LaTeX 编译过程文件
 *.aux
 *.log
