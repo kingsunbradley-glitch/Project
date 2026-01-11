@@ -12,8 +12,8 @@ FILE = Path("./273DsDataSum.txt")
 # ---------- 参数 ----------
 SCALE_1000 = True          # 能量 *1000 -> keV
 X_NUM_MIN = 8000
-X_LEFT_MAX = 9500          # 左段上限
-X_RIGHT_MIN = 10500        # 右段下限
+X_LEFT_MAX = 9600          # 左段上限
+X_RIGHT_MIN = 10400        # 右段下限
 X_NUM_MAX = 11500
 XTICK_STEP = 500
 
@@ -97,17 +97,13 @@ def add_break_marks(axL, axR, d=0.012):
     axR.plot((-d, +d), (-d, +d), **kwargsR)
     axR.plot((-d, +d), (1-d, 1+d), **kwargsR)
 
-def draw_continuous_ygrid(fig, axL, axR, y_positions, linestyle="--", linewidth=0.8, alpha=0.7):
-    """
-    在 figure 坐标系里画横向网格线，使其跨过断轴中间的空隙不断开。
-    """
-    # 横线从左子图左边界到右子图右边界
+def draw_continuous_ygrid(fig, axL, axR, y_positions,
+                          linestyle="--", linewidth=0.8, alpha=0.7, zorder=1.1):
     x0 = axL.get_position().x0
     x1 = axR.get_position().x1
     inv = fig.transFigure.inverted()
 
     for yy in y_positions:
-        # 把 (任意x, yy) 从 data 坐标转到 display，再转到 figure 坐标
         y_disp = axL.transData.transform((0, yy))[1]
         y_fig = inv.transform((0, y_disp))[1]
 
@@ -117,9 +113,11 @@ def draw_continuous_ygrid(fig, axL, axR, y_positions, linestyle="--", linewidth=
             linestyle=linestyle,
             linewidth=linewidth,
             alpha=alpha,
-            zorder=0,          # 放到底层当网格
+            color="0.6",       # 网格颜色（你也可以删掉这行用默认色）
+            zorder=zorder,     # ✅关键：必须高于 axes patch
             clip_on=False
         ))
+
 
 def main():
     df = read_table(FILE)
