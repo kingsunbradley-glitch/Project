@@ -2,6 +2,11 @@
 # git commit -m "your message"
 # git push 
 
+# 
+# git config --global http.proxy http://127.0.0.1:9674
+# git config --global https.proxy http://127.0.0.1:9674
+# git config --global --unset https.proxy
+# git config --global --unset http.proxy
 
 # 忽略所有图片
 *.png
@@ -32,3 +37,5 @@ __pycache__/
 *.snm
 *.pdf
 
+# Mac 系统文件
+.DS_Store
