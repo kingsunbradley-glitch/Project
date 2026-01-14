@@ -157,7 +157,7 @@ for i, (data, color, label) in enumerate(plots_config):
 # 0.10, 0.5: 【用户配置】X, Y 坐标。
 # - 如果觉得字离图太近，就把 0.10 改成 0.05 (往左移)
 # - 如果觉得字被切掉了，就结合 subplots_adjust 的 left 参数一起改
-fig.text(0.10, 0.5, 'Event Counts', va='center', rotation='vertical', fontsize=16)
+fig.text(0.10, 0.5, 'Event Counts / 5 keV', va='center', rotation='vertical', fontsize=16)
 
 # subplots_adjust: 调整图表边缘留白
 # left=0.15: 左边留 15% 空白 (给 Y 轴标题腾位置)
