@@ -1,0 +1,42 @@
+%!TEX program = xelatex
+\documentclass[UTF8, a4paper, 12pt]{ctexart}
+
+% 常用宏包
+\usepackage{amsmath}  % 数学公式
+\usepackage{amssymb}  % 数学符号
+\usepackage{graphicx} % 插入图片
+\usepackage{geometry} % 页面设置
+\geometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+
+% 标题信息
+\title{\textbf{这是一个基础的中文 LaTeX 模版}}
+\author{作者姓名}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+这是摘要部分。在这里简要概述您的文档内容。这个模版适合用于日常的课程作业、实验报告或者简单的文章撰写。
+\end{abstract}
+
+\section{第一部分：文本与公式}
+在 LaTeX 中输入公式非常优雅。例如，我们可以轻松写出欧拉公式：
+\begin{equation}
+    e^{i\pi} + 1 = 0
+\end{equation}
+
+或者一个积分公式：
+\begin{equation}
+    \int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
+\end{equation}
+
+\section{第二部分：列表}
+这是一个无序列表的示例：
+\begin{itemize}
+    \item 第一点：清晰明了
+    \item 第二点：格式美观
+\end{itemize}
+
+\end{document}
