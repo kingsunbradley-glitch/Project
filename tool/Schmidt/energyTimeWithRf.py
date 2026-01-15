@@ -138,7 +138,7 @@ energy_min, energy_max = 7.8, 12.2
 time_min, time_max = 10**-2.7, 1e6
 
 # Pre-calculate bins to ensure alignment
-bins_energy = np.linspace(energy_min, energy_max, 400) 
+bins_energy = np.linspace(energy_min, energy_max, 500) 
 bins_time = np.logspace(np.log10(time_min), np.log10(time_max), 80)
 
 first_ax_left = None

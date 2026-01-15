@@ -1,3 +1,4 @@
+#Final version
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
@@ -11,17 +12,17 @@ plt.rcParams['font.serif'] = ['STIXGeneral', 'Times New Roman', 'serif']
 plt.rcParams['mathtext.fontset'] = 'stix'
 
 # --- 【新增】全局加粗设置 ---
-plt.rcParams['axes.linewidth'] = 2.0        # 坐标轴边框粗细
-plt.rcParams['xtick.major.width'] = 2.0     # X轴主刻度线粗细
-plt.rcParams['ytick.major.width'] = 2.0     # Y轴主刻度线粗细
-plt.rcParams['xtick.minor.width'] = 1.5     # X轴次刻度线粗细
-plt.rcParams['ytick.minor.width'] = 1.5     # Y轴次刻度线粗细
+plt.rcParams['axes.linewidth'] = 1.0        # 坐标轴边框粗细
+plt.rcParams['xtick.major.width'] = 1.0     # X轴主刻度线粗细
+plt.rcParams['ytick.major.width'] = 1.0     # Y轴主刻度线粗细
+plt.rcParams['xtick.minor.width'] = 0.5     # X轴次刻度线粗细
+plt.rcParams['ytick.minor.width'] = 0.5     # Y轴次刻度线粗细
 
 # --- 【新增】刻度线长度设置 ---
-plt.rcParams['xtick.major.size'] = 8.0      # 主刻度线长度 (默认约 3.5)
-plt.rcParams['ytick.major.size'] = 8.0
-plt.rcParams['xtick.minor.size'] = 5.0      # 次刻度线长度 (默认约 2.0) <-- 这里控制次刻度长度
-plt.rcParams['ytick.minor.size'] = 5.0
+plt.rcParams['xtick.major.size'] = 3.5      # 主刻度线长度 (默认约 3.5)
+plt.rcParams['ytick.major.size'] = 3.5 
+plt.rcParams['xtick.minor.size'] = 2.0      # 次刻度线长度 (默认约 2.0) <-- 这里控制次刻度长度
+plt.rcParams['ytick.minor.size'] = 2.0
 
 
 
@@ -144,7 +145,7 @@ num_rows = len(all_datasets)
 gs = GridSpec(num_rows, 2, figure=fig, wspace=0, hspace=0, width_ratios=[1.5, 1])
 
 # Global Axes Limits
-energy_min, energy_max = 7.8, 11.7
+energy_min, energy_max = 7.8, 11.8
 
 # [修改 2 & 3] 时间轴范围改为 log10 值 (-2.0 到 6.0)
 log_time_min, log_time_max = -3.4, 6.0 
@@ -248,6 +249,8 @@ for i, data in enumerate(all_datasets):
             ax_right.plot(x_axis, y_scaled_curve, '-', linewidth=2, color='#6A5ACD')
 
     # Frame Styles
+    ax_right.xaxis.set_major_locator(ticker.MultipleLocator(2))
+    ax_right.xaxis.set_minor_locator(ticker.MultipleLocator(1))
     ax_right.spines['top'].set_visible(True)
     ax_right.spines['left'].set_linestyle('--')
     ax_right.spines['left'].set_linewidth(3)
@@ -262,7 +265,7 @@ for i, data in enumerate(all_datasets):
         ax_right.set_xlabel(r"$\log_{10}[t (\mathrm{ms})]$", fontsize=28)
         
     if i == 0:
-        ax_right.legend(frameon=False, fontsize=30, loc='upper right')
+        ax_right.legend(frameon=False, fontsize=20, loc='upper right')
 
     # -------------------------------------------------------------
     # Set Y-Limits (with 1.6 factor)
@@ -271,9 +274,9 @@ for i, data in enumerate(all_datasets):
     current_ylim = ax_left.get_ylim()
     ax_left.set_ylim(0, max(current_ylim[1], 1) * 1.6)
 
-fig.text(0.06, 0.5, 'Counts', va='center', rotation='vertical', fontsize=28)
+fig.text(0.04, 0.5, 'Counts / 5 keV', va='center', rotation='vertical', fontsize=28)
 
-plt.subplots_adjust(left=0.1, right=0.95, top=0.95, bottom=0.05, hspace=0, wspace=0)
+plt.subplots_adjust(left=0.12, right=0.95, top=0.95, bottom=0.05, hspace=0, wspace=0)
 
-plt.savefig('combined_plot_log10_axis_rf_fixed.png', dpi=300, bbox_inches='tight')
+plt.savefig('combined_plot_log10_axis_rf_fixed.pdf', dpi=300, bbox_inches='tight')
 plt.show()
