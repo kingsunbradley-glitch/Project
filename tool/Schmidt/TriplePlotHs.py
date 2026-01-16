@@ -75,7 +75,7 @@ plots_config = [
     # 第二张图：EVR数据，红色 (#D81525 是 RGB 十六进制颜色)
     (evr_data,  "#126782" , "EVR"),
     # 第三张图：Decay数据，蓝色，标签用了 LaTeX 语法 ($...$) 显示上标，r表示原始字符串，避免Latex的\转义问题
-    (decay_data, "#D81525", r"$^{273}$Ds $\alpha$ Decay")
+    (decay_data, "#D81525", r"From $^{273}$Ds $\alpha$ Decay")
 ]
 
 axes = [] # 用来存储生成的三个子图对象
