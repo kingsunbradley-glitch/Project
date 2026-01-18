@@ -49,7 +49,7 @@ inline constexpr int NORM_MIN_ENTRIES = 500;
 inline constexpr int NORM_REF_MIN_COUNTS = 2000;
 // 手动指定归一化参考条：
 #define REF_STRIP_X 10  //一定检查最热的条分辨如何,与Veto否决情况
-#define REF_STRIP_Y 23
+#define REF_STRIP_Y 23  //小心X:40，90的Veto缝隙
 
 // --- 5. 绝对刻度 (Step 2) 参数 ---
 struct PeakDef {
