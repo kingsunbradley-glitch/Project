@@ -1,68 +1,48 @@
-# ==========================
-#  SS032 3-peak calibration
-#  build:
-#    make Pres | Norm | Cali | all
-#  run (build + run):
-#    make runPres  MAP=run00001_map.root PRE=preselected.root
-#    make runNorm  PRE=preselected.root NORM=SS032_Normalize_Params.txt NDIAG=Diagnose_Normalize.root
-#    make runCali  PRE=preselected.root NORM=SS032_Normalize_Params.txt OUT=ener_cal.dat DMAIN=diagMain.root DED=diaged.root
-# ==========================
-
-CXX      := g++
-CXXFLAGS := -O2 -std=c++17 -Wall -Wextra
+CXX ?= g++
 
 ROOTCFLAGS := $(shell root-config --cflags)
 ROOTLIBS   := $(shell root-config --libs)
-SPECTRUM_LIB := -lSpectrum
 
-PRES_BIN := Preselect_Main
-NORM_BIN := Normalize_Main
-CALI_BIN := Calibrator_Main
+CXXFLAGS += -O2 -std=c++17 $(ROOTCFLAGS)
+LDLIBS   += $(ROOTLIBS) -lSpectrum
 
-PRES_SRC := Preselect_Main.cpp
-NORM_SRC := Normalize_Main.cpp
-CALI_SRC := Calibrator_Main.cpp Calibrator.cpp
+# -------------------------
+# Runtime variables (override at make time)
+# e.g. make Pres IN=run00001_map.root
+#      make all IN=run00001_map.root
+# -------------------------
+IN       ?= run00001_map.root
+PRESEL   ?= preselected.root
+NORMTXT  ?= SS032_Normalize_Params.txt
+NORMDIAG ?= Diagnose_Normalize.root
+OUTDAT   ?= ener_cal.dat
+DIAGMAIN ?= diagMain.root
+DIAGED   ?= diaged.root
 
-.PHONY: all Pres Norm Cali clean runPres runNorm runCali
+.PHONY: all clean Pres Norm Cali build
 
 all: Pres Norm Cali
 
-Pres: $(PRES_BIN)
-Norm: $(NORM_BIN)
-Cali: $(CALI_BIN)
+# -------- Build only --------
+Preselect_Main: Preselect_Main.cpp Config.h
+	$(CXX) $(CXXFLAGS) $< $(LDLIBS) -o $@
 
-$(PRES_BIN): $(PRES_SRC)
-	$(CXX) $(CXXFLAGS) $(ROOTCFLAGS) $^ $(ROOTLIBS) -o $@
+Normalize_Main: Normalize_Main.cpp Config.h
+	$(CXX) $(CXXFLAGS) $< $(LDLIBS) -o $@
 
-$(NORM_BIN): $(NORM_SRC)
-	$(CXX) $(CXXFLAGS) $(ROOTCFLAGS) $^ $(ROOTLIBS) -o $@
+Calibrator_Main: Calibrator_Main.cpp Calibrator.cpp Calibrator.h Config.h
+	$(CXX) $(CXXFLAGS) Calibrator.cpp Calibrator_Main.cpp $(LDLIBS) -o $@
 
-$(CALI_BIN): $(CALI_SRC)
-	$(CXX) $(CXXFLAGS) $(ROOTCFLAGS) $^ $(ROOTLIBS) $(SPECTRUM_LIB) -o $@
+# -------- Build + Run (requested) --------
+Pres: Preselect_Main
+	./Preselect_Main "$(IN)" "$(PRESEL)"
+
+Norm: Normalize_Main
+	./Normalize_Main "$(PRESEL)" "$(NORMTXT)" "$(NORMDIAG)"
+
+Cali: Calibrator_Main
+	./Calibrator_Main "$(PRESEL)" "$(NORMTXT)" "$(OUTDAT)" "$(DIAGMAIN)" "$(DIAGED)"
 
 clean:
-	rm -f $(PRES_BIN) $(NORM_BIN) $(CALI_BIN) *.o *.so *.d
-
-# --------------------------
-# Run targets (build + run)
-# --------------------------
-
-# Defaults (override on command line)
-MAP   ?= run00001_map.root
-PRE   ?= preselected.root
-
-NORM  ?= SS032_Normalize_Params.txt
-NDIAG ?= Diagnose_Normalize.root
-
-OUT   ?= ener_cal.dat
-DMAIN ?= diagMain.root
-DED   ?= diaged.root
-
-runPres: Pres
-	./$(PRES_BIN) "$(MAP)" "$(PRE)"
-
-runNorm: Norm
-	./$(NORM_BIN) "$(PRE)" "$(NORM)" "$(NDIAG)"
-
-runCali: Cali
-	./$(CALI_BIN) "$(PRE)" "$(NORM)" "$(OUT)" "$(DMAIN)" "$(DED)"
+	rm -f Preselect_Main Normalize_Main Calibrator_Main
+	rm -f "$(PRESEL)" "$(NORMTXT)" "$(NORMDIAG)" "$(OUTDAT)" "$(DIAGMAIN)" "$(DIAGED)"
