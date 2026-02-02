@@ -1,0 +1,305 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+runSrim.py (WSL + SRIM-2013) — robust batch runner (v2)
+
+修复你现在的“SRIM 已自动关闭但脚本卡住”的常见原因：
+- /mnt/c (drvfs) 上 getmtime() 有时会出现抖动/分辨率问题，导致“mtime稳定检测”永远不满足
+- v2 改为：用文件 size 稳定 + 关键字校验（Total Ions calculated）来判定 IONIZ.txt 已写完
+- 同时：若 TRIM.exe 进程已退出但 IONIZ.txt 已存在，则直接接受输出（不再等待稳定窗口）
+- 仍然保留：TRIMAUTO=1、PlotType=5、超时、强制 taskkill、防止整批中断、逐点日志
+
+用法：直接替换原 runSrim.py 运行即可。
+"""
+
+import os
+import shutil
+import subprocess
+import time
+from datetime import datetime
+
+# ================= 配置区域 =================
+SRIM_DIR_WSL = "/mnt/c/srim"
+TRIM_EXE_WIN = r"C:\srim\TRIM.exe"
+
+TRIM_IN_PATH = os.path.join(SRIM_DIR_WSL, "TRIM.IN")
+TRIMAUTO_PATH = os.path.join(SRIM_DIR_WSL, "TRIMAUTO")
+OUTPUT_DIR_WSL = os.path.join(SRIM_DIR_WSL, "SRIM Outputs")
+IONIZ_PATH = os.path.join(OUTPUT_DIR_WSL, "IONIZ.txt")
+
+ENERGIES_KEV = [100, 500, 1000, 3000]
+IONS = {
+    "1H":  [1, 1.008],
+    "2H":  [1, 2.014],
+    "3H":  [1, 3.016],
+    "3He": [2, 3.016],
+    "4He": [2, 4.003],
+}
+
+LAYER_WIDTH_ANGSTROMS = 3_000_000  # 300 um
+
+# --- TRIM 运行控制 ---
+N_IONS_PER_RUN = 1000
+
+# 等输出的软超时：如果 IONIZ.txt 一直没出来就认为失败
+OUTPUT_WAIT_TIMEOUT_S = 180
+
+# TRIM.exe 的硬超时：无论如何，超过这个时间就杀掉，避免整批卡死
+PROCESS_HARD_TIMEOUT_S = 600
+
+# 认为“写完”的条件：文件 size 在这段时间内不再变化 + 头部含关键字
+OUTPUT_STABLE_S = 2.0
+
+# 若输出已完成，给 TRIM 自己退出的宽限时间
+EXIT_GRACE_S = 6
+
+# 失败重试次数
+MAX_RETRIES = 1
+
+SLEEP_BETWEEN_RUNS_S = 0.5
+
+CURRENT_DIR = os.getcwd()
+BASE_RESULTS_DIR = os.path.join(CURRENT_DIR, "Isotope_Scan_Results")
+LOG_DIR = os.path.join(BASE_RESULTS_DIR, "_logs")
+# ===========================================
+
+
+def _ts() -> str:
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+
+def ensure_dirs():
+    os.makedirs(BASE_RESULTS_DIR, exist_ok=True)
+    os.makedirs(LOG_DIR, exist_ok=True)
+
+
+def ensure_trimauto():
+    # Windows CRLF
+    with open(TRIMAUTO_PATH, "w", encoding="ascii", newline="\r\n") as f:
+        f.write("1\r\n")
+
+
+def kill_trim_processes():
+    subprocess.run(["taskkill.exe", "/IM", "TRIM.exe", "/F", "/T"],
+                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    subprocess.run(["taskkill.exe", "/IM", "SRIM.exe", "/F", "/T"],
+                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
+def cleanup_old_outputs():
+    if os.path.exists(IONIZ_PATH):
+        try:
+            os.remove(IONIZ_PATH)
+        except OSError:
+            kill_trim_processes()
+            time.sleep(0.5)
+            try:
+                os.remove(IONIZ_PATH)
+            except OSError:
+                pass
+
+
+def generate_trim_in(ion_z: int, ion_m: float, energy_kev: int, layer_width: int):
+    plot_max = layer_width * 2
+    content = f"""==> SRIM-2012.01 This file controls TRIM Calculations.
+Ion: Z1 ,  M1,  Energy (keV), Angle,Number,Bragg Corr,AutoSave Number.
+     {ion_z}      {ion_m}      {energy_kev}       0    {N_IONS_PER_RUN}        0    10000
+Cascades(1=No;2=Full;3=Sputt;4-5=Ions;6-7=Neutrons), Random Number Seed, Reminders
+                      1                                   0       0
+Diskfiles (0=no,1=yes): Ranges, Backscatt, Transmit, Sputtered, Collisions(1=Ion;2=Ion+Recoils), Special EXYZ.txt file
+                          1       1           1       1               0                               0
+Target material : Number of Elements & Layers
+"Si(300um) + Si(300um)                "       1               2
+PlotType (0-5); Plot Depths: Xmin, Xmax(Ang.) [=0 0 for Viewing Full Target]
+       5                         0            {plot_max}
+Target Elements:    Z   Mass(amu)
+Atom 1 = Si =      14      28.09
+Layer   Layer Name /               Width Density     Si(14)
+Numb.   Description                (Ang) (g/cm3)    Stoich
+ 1      "Si_Top    "           {layer_width}  2.321       1
+ 2      "Si_Bottom "           {layer_width}  2.321       1
+0  Target layer phases (0=Solid, 1=Gas)
+0 0
+Target Compound Corrections (Bragg)
+ 1   1
+Individual target atom displacement energies (eV)
+      15
+Individual target atom lattice binding energies (eV)
+       2
+Individual target atom surface binding energies (eV)
+     4.7
+Stopping Power Version (1=2011, 0=2011)
+ 0
+"""
+    with open(TRIM_IN_PATH, "w", encoding="latin-1", newline="\r\n") as f:
+        f.write(content)
+
+
+def _ioniz_has_key_marker() -> bool:
+    """
+    只读头部 8KB 判断是否为完整 IONIZ.txt（避免 mtime 抖动导致永不“稳定”）
+    """
+    try:
+        with open(IONIZ_PATH, "rb") as f:
+            head = f.read(8192)
+        return (b"Total Ions calculated" in head) and (b"IONIZATION" in head or b"Ionization" in head)
+    except OSError:
+        return False
+
+
+def wait_for_output(proc: subprocess.Popen, timeout_s: int, hard_timeout_s: int, logf) -> tuple[bool, str]:
+    """
+    同时监视：IONIZ.txt size 稳定 + 进程退出 + 超时
+    """
+    t0 = time.monotonic()
+    last_size = None
+    stable_since = None
+    last_report = 0.0
+
+    while True:
+        now = time.monotonic()
+        elapsed = now - t0
+
+        # --- 进度提示：每 5 秒报告一次，避免“看起来像卡死” ---
+        if elapsed - last_report >= 5.0:
+            last_report = elapsed
+            size = os.path.getsize(IONIZ_PATH) if os.path.exists(IONIZ_PATH) else 0
+            msg = f"[{_ts()}]    ...waiting IONIZ.txt (size={size} bytes, elapsed={int(elapsed)}s)\n"
+            try:
+                logf.write(msg.encode("utf-8", errors="ignore"))
+                logf.flush()
+            except Exception:
+                pass
+
+        # --- 输出检测（size 稳定 + marker） ---
+        if os.path.exists(IONIZ_PATH):
+            try:
+                size = os.path.getsize(IONIZ_PATH)
+            except OSError:
+                time.sleep(0.2)
+                continue
+
+            if size > 0:
+                if last_size is None or size != last_size:
+                    last_size = size
+                    stable_since = None
+                else:
+                    if stable_since is None:
+                        stable_since = now
+                    elif (now - stable_since) >= OUTPUT_STABLE_S and _ioniz_has_key_marker():
+                        return True, "output_ready(size_stable)"
+
+        # --- 进程退出：如果 TRIM 已退出但 IONIZ 已有内容，直接接受 ---
+        rc = proc.poll()
+        if rc is not None:
+            if os.path.exists(IONIZ_PATH):
+                try:
+                    if os.path.getsize(IONIZ_PATH) > 0 and _ioniz_has_key_marker():
+                        return True, f"proc_exit_rc={rc}_accept_output"
+                except OSError:
+                    pass
+            return False, f"proc_exit_rc={rc}_no_output"
+
+        # --- 超时控制 ---
+        if elapsed > timeout_s:
+            return False, f"output_wait_timeout>{timeout_s}s"
+
+        if elapsed > hard_timeout_s:
+            return False, f"hard_timeout>{hard_timeout_s}s"
+
+        time.sleep(0.2)
+
+
+def run_trim_once(log_path: str) -> tuple[bool, str]:
+    os.makedirs(OUTPUT_DIR_WSL, exist_ok=True)
+
+    with open(log_path, "wb") as logf:
+        proc = subprocess.Popen(
+            ["cmd.exe", "/C", TRIM_EXE_WIN],
+            cwd=SRIM_DIR_WSL,
+            stdout=logf,
+            stderr=logf
+        )
+
+        ok, reason = wait_for_output(proc, OUTPUT_WAIT_TIMEOUT_S, PROCESS_HARD_TIMEOUT_S, logf)
+
+        if ok:
+            # 给它一点点时间自己退出，不退就强杀（防止下一点被卡）
+            try:
+                proc.wait(timeout=EXIT_GRACE_S)
+            except subprocess.TimeoutExpired:
+                kill_trim_processes()
+                try:
+                    proc.wait(timeout=3)
+                except subprocess.TimeoutExpired:
+                    pass
+            return True, reason
+
+        # 失败：杀掉以确保不会挂住
+        kill_trim_processes()
+        try:
+            proc.wait(timeout=3)
+        except subprocess.TimeoutExpired:
+            pass
+        return False, reason
+
+
+def run_simulation():
+    ensure_dirs()
+    ensure_trimauto()
+
+    print(f"[{_ts()}] 脚本正在运行。SRIM 安装路径: {SRIM_DIR_WSL}")
+    print(f"[{_ts()}] 结果将保存到: {BASE_RESULTS_DIR}")
+    print(f"[{_ts()}] 日志目录: {LOG_DIR}")
+
+    for ion_name, (z, m) in IONS.items():
+        print(f"\n========== 开始模拟离子: {ion_name} (Z={z}, M={m}) ==========")
+
+        ion_result_dir = os.path.join(BASE_RESULTS_DIR, ion_name)
+        os.makedirs(ion_result_dir, exist_ok=True)
+
+        for energy in ENERGIES_KEV:
+            print(f"  -> 正在处理能量: {energy} keV ...")
+
+            generate_trim_in(z, m, energy, LAYER_WIDTH_ANGSTROMS)
+
+            success = False
+            reason_last = "not_run"
+
+            for attempt in range(MAX_RETRIES + 1):
+                cleanup_old_outputs()
+                ensure_trimauto()
+
+                log_path = os.path.join(
+                    LOG_DIR,
+                    f"log_{ion_name}_{energy}keV_try{attempt}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+                )
+
+                ok, reason = run_trim_once(log_path=log_path)
+                reason_last = reason
+
+                if ok and os.path.exists(IONIZ_PATH):
+                    try:
+                        if os.path.getsize(IONIZ_PATH) > 0:
+                            new_filename = f"IONIZ_{ion_name}_{energy}keV.txt"
+                            dest_path = os.path.join(ion_result_dir, new_filename)
+                            shutil.copy2(IONIZ_PATH, dest_path)
+                            print(f"     ✅ 完成. 已保存至 {ion_name}/{new_filename}  (reason={reason})")
+                            success = True
+                            break
+                    except OSError:
+                        pass
+
+                print(f"     ⚠️ 本次失败/卡死，已自动处理并继续。reason={reason}  log={os.path.basename(log_path)}")
+                time.sleep(1.0)
+
+            if not success:
+                print(f"     ❌ 跳过该点：{ion_name} {energy} keV（最后原因：{reason_last}）")
+
+            time.sleep(SLEEP_BETWEEN_RUNS_S)
+
+    print("\n所有任务结束。")
+
+
+if __name__ == "__main__":
+    run_simulation()
