@@ -9,7 +9,7 @@ os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:7890'
 
 # 2. 配置 API Key
 # 记得把这里换成你的真实 Key
-genai.configure(api_key="AIzaSyD-b9YY9KP9vDtFC6f5eyjq0XcPPbucjwo") 
+genai.configure(api_key="") 
 
 print("正在查询可用模型列表...\n")
 
