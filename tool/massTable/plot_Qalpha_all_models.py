@@ -146,13 +146,13 @@ def main():
 
     # 1. Define all model files
     model_files = {
-        #"FRDM(2012)": "Q@a_FRDM.dat",
+        "FRDM(2012)": "Q@a_FRDM.dat",
         #"HFB-32":     "Q@a_HFB.dat",
-        #"WS4+RBF":    "Q@a_WS4+RBF.dat",#  mechine learning improved
+        "WS4+RBF":    "Q@a_WS4+RBF.dat",#  mechine learning improved
         "UNEDF1":     "Q@a_UNEDF1.dat",
         #"SKMS":       "Q@a_SKMS.dat", #    all over estimate;like the shit
         #"SLY4":       "Q@a_SLY4.dat", #    estimate shell effect
-        "SV-MIN":     "Q@a_SV-MIN.dat" #    estimate with Z increase
+        #"SV-MIN":     "Q@a_SV-MIN.dat" #    estimate with Z increase
     }
 
     # 2. Read all models
