@@ -1,0 +1,305 @@
+% Compile with: xelatex glossary.tex  (recommended on macOS)
+\documentclass[11pt,a4paper]{ctexart}
+\usepackage{geometry}
+\geometry{left=2.5cm, right=2.5cm, top=3cm, bottom=3cm}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% ===== Mac 系统专用的音标字体设置 =====
+\usepackage{fontspec}
+\setmainfont{Times New Roman} % Mac系统自带，支持国际音标
+% ======================================
+
+% 设置列宽，适应较长的专业词汇
+\newcolumntype{E}{>{\raggedright\arraybackslash}p{5.5cm}} % 英文
+\newcolumntype{P}{>{\raggedright\arraybackslash}p{4.5cm}} % 音标
+\newcolumntype{C}{>{\raggedright\arraybackslash}p{4.5cm}} % 中文释义
+
+\title{\textbf{Glossary of Superheavy Element Synthesis \& Decay Spectroscopy}\\超重核合成与衰变谱学专业词汇表}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{longtable}{E P C}
+\toprule
+\textbf{English Term} & \textbf{Pronunciation} & \textbf{中文释义} \\
+\midrule
+\endfirsthead
+
+\multicolumn{3}{c}%
+{{\bfseries \tablename\ \thetable{} -- 续前页}} \\
+\toprule
+\textbf{English Term} & \textbf{Pronunciation} & \textbf{中文释义} \\
+\midrule
+\endhead
+
+\midrule \multicolumn{3}{r}{{接下页...}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+\multicolumn{3}{c}{\textbf{第一阶段：反应机理与核物理概念 (Reaction Mechanisms \& Physics)}} \\[0.5em]
+Fusion-Evaporation Reaction & /ˈfjuːʒn ɪˌvæpəˈreɪʃn riˈækʃn/ & \textbf{熔合蒸发反应} \\
+\addlinespace
+Deep Inelastic Scattering & /diːp ˌɪnɪˈlæstɪk ˈskætərɪŋ/ & \textbf{深度非弹散射} \\
+\addlinespace
+Multi-Nucleon Transfer (MNT) & /ˈmʌlti ˈnjuːkliɒn trænsˈfɜː/ & \textbf{多核子转移反应} \\
+\addlinespace
+Compound Nucleus (CN) & /ˈkɒmpaʊnd ˈnjuːkliəs/ & \textbf{复合核} \\
+\addlinespace
+Evaporation Residue (ER) & /ɪˌvæpəˈreɪʃn ˈrezɪdjuː/ & \textbf{蒸发残核 / 蒸发余核} \\
+\addlinespace
+Quasi-Fission (QF) & /ˈkweɪzaɪ ˈfɪʃn/ & \textbf{准裂变} \\
+\addlinespace
+Production Cross Section & /prəˈdʌkʃn krɒs ˈsekʃn/ & \textbf{产生截面 / 反应截面} \\
+\addlinespace
+Excitation Function & /ˌeksɪˈteɪʃn ˈfʌŋkʃn/ & \textbf{激发函数} \\
+\addlinespace
+Survival Probability & /səˈvaɪvl ˌprɒbəˈbɪləti/ & \textbf{存活几率} \\
+\addlinespace
+Coulomb Barrier & /ˈkuːlɒm ˈbæriə/ & \textbf{库伦位垒} \\
+\addlinespace
+Isomeric State & /ˌaɪsəˈmerɪk steɪt/ & \textbf{同核异能态} \\
+\addlinespace
+Quadrupole Deformation & /ˈkwɒdrʊpəʊl ˌdiːfɔːˈmeɪʃn/ & \textbf{四极形变} \\
+
+\addlinespace
+Hot-fusion reaction & /hɒt ˈfjuːʒn/ & \textbf{热熔合反应（高激发能熔合）} \\
+\addlinespace
+Cold-fusion reaction & /kəʊld ˈfjuːʒn/ & \textbf{冷熔合反应（较低激发能熔合）} \\
+\addlinespace
+Evaporation channel (xn) & /ɪˌvæpəˈreɪʃn ˈtʃænəl/ & \textbf{蒸发道（xn：2n/3n/4n...）} \\
+\addlinespace
+Excitation energy (E$^\ast$) & /ˌeksɪˈteɪʃn ˈenədʒi/ & \textbf{激发能（复合核 $E^\ast$）} \\
+\addlinespace
+Capture cross section & /ˈkæptʃə krɒs ˈsekʃn/ & \textbf{俘获截面} \\
+\addlinespace
+Fusion probability & /ˈfjuːʒn ˌprɒbəˈbɪləti/ & \textbf{熔合概率} \\
+\addlinespace
+Fission barrier & /ˈfɪʃn ˈbæriə/ & \textbf{裂变势垒} \\
+\addlinespace
+Shell closure / Magic number & /ʃel ˈkləʊʒə/ /ˈmædʒɪk ˈnʌmbə/ & \textbf{壳闭合 / 幻数} \\
+\addlinespace
+Q value / Q$_\alpha$ & /kjuː ˈvæljuː/ & \textbf{Q 值 / $Q_\alpha$（$\alpha$ 衰变能）} \\
+\addlinespace
+Hindrance factor (HF) & /ˈhɪndrənst ˈfæktə/ & \textbf{阻滞因子（阻滞系数）} \\
+
+\midrule
+
+\multicolumn{3}{c}{\textbf{第二阶段：加速器与靶系统 (Accelerator \& Target Systems)}} \\[0.5em]
+Electron Cyclotron Resonance (ECR) Ion Source & /ɪˈlektrɒn ˈsaɪklətrɒn ˈrezənəns ˈaɪən sɔːs/ & \textbf{ECR离子源} \\
+\addlinespace
+Radio-Frequency Quadrupole (RFQ) & /ˌreɪdiəʊ ˈfriːkwənsi ˈkwɒdrʊpəʊl/ & \textbf{射频四极场加速器} \\
+\addlinespace
+Continuous Wave Linear Accelerator (CW-Linac) & /kənˈtɪnjuəs weɪv ˈlɪniə əkˈseləreɪtə/ & \textbf{连续波直线加速器} \\
+\addlinespace
+Beam Intensity / Current & /biːm ɪnˈtensəti/ /ˈkʌrənt/ & \textbf{束流强度 / 流强} \\
+\addlinespace
+Differential Pumping System & /ˌdɪfəˈrenʃl ˈpʌmpɪŋ ˈsɪstəm/ & \textbf{差分抽气系统} \\
+\addlinespace
+Rotating Target Wheel & /rəʊˈteɪtɪŋ ˈtɑːɡɪt wiːl/ & \textbf{旋转靶轮 / 转靶系统} \\
+\addlinespace
+Target Backing & /ˈtɑːɡɪt ˈbækɪŋ/ & \textbf{靶背衬 / 靶衬} \\
+\addlinespace
+Duty Cycle & /ˈdjuːti ˈsaɪkl/ & \textbf{占空比} \\
+\addlinespace
+Faraday Cup (FC) & /ˈfærədeɪ kʌp/ & \textbf{法拉第筒} \\
+\addlinespace
+AC Current Transformer (ACCT) & /ˌeɪ ˈsiː ˈkʌrənt trænsˈfɔːmə/ & \textbf{交流流强变压器 (非拦截式探测)} \\
+\addlinespace
+Beam Position Monitor (BPM) & /biːm pəˈzɪʃn ˈmɒnɪtə/ & \textbf{束流位置探针} \\
+\addlinespace
+Beam Dump & /biːm dʌmp/ & \textbf{束流收集器 / 废束挡块} \\
+
+\addlinespace
+Beam energy (E$_{lab}$/E$_{cm}$) & /biːm ˈenədʒi/ & \textbf{束流能量（实验室系/质心系）} \\
+\addlinespace
+Integrated beam dose & /ˈɪntɪɡreɪtɪd biːm dəʊs/ & \textbf{累计束流剂量} \\
+\addlinespace
+Beam emittance & /biːm ˈemɪtəns/ & \textbf{束流发射度} \\
+\addlinespace
+Beam spot size & /biːm spɒt saɪz/ & \textbf{束斑尺寸} \\
+\addlinespace
+Target thickness & /ˈtɑːɡɪt ˈθɪknəs/ & \textbf{靶厚（常用 mg/cm$^2$）} \\
+\addlinespace
+Energy loss & /ˈenədʒi lɒs/ & \textbf{能量损失（能损）} \\
+\addlinespace
+Energy straggling & /ˈenədʒi ˈstræɡlɪŋ/ & \textbf{能损涨落} \\
+\addlinespace
+Beam pulsing / Beam-off interval & /biːm ˈpʌlsɪŋ/ & \textbf{脉冲束 / 关束时间窗} \\
+
+\midrule
+
+\multicolumn{3}{c}{\textbf{第三阶段：离子光学与分离 (Ion Optics \& On-line Separation)}} \\[0.5em]
+Gas-Filled Recoil Separator (GFRS) & /ɡæs fɪld rɪˈkɔɪl ˈsepəreɪtə/ & \textbf{充气反冲核谱仪} \\
+\addlinespace
+Ion Optics & /ˈaɪən ˈɒptɪks/ & \textbf{离子光学} \\
+\addlinespace
+Multiparticle Tracking & /ˌmʌltiˈpɑːtɪkl ˈtrækɪŋ/ & \textbf{多粒子追踪 (轨迹模拟)} \\
+\addlinespace
+Macroparticle & /ˈmækrəʊˌpɑːtɪkl/ & \textbf{宏粒子 (模拟计算用)} \\
+\addlinespace
+Phase Space / Transverse Phase Space & /feɪz speɪs/ & \textbf{相空间 / 横向相空间} \\
+\addlinespace
+Beam Envelope & /biːm ˈenvələʊp/ & \textbf{束流包络} \\
+\addlinespace
+Optical Aberration & /ˈɒptɪkl ˌæbəˈreɪʃn/ & \textbf{光学像差 / 高阶像差} \\
+\addlinespace
+Fringe Field Effect & /frɪndʒ fiːld ɪˈfekt/ & \textbf{边缘场效应} \\
+\addlinespace
+Magnetic Rigidity & /mæɡˈnetɪk rɪˈdʒɪdəti/ & \textbf{磁刚度 ($B\rho$)} \\
+\addlinespace
+Equilibrium Charge State & /ˌiːkwɪˈlɪbriəm tʃɑːdʒ steɪt/ & \textbf{平衡电荷态 ($\overline{q}$)} \\
+\addlinespace
+Charge Exchange & /tʃɑːdʒ ɪksˈtʃeɪndʒ/ & \textbf{电荷交换} \\
+\addlinespace
+Multiple Scattering & /ˈmʌltɪpl ˈskætərɪŋ/ & \textbf{多次散射效应} \\
+\addlinespace
+Momentum Dispersion & /məˈmentəm dɪˈspɜːʃn/ & \textbf{色散度} \\
+\addlinespace
+Transmission Efficiency & /trænzˈmɪʃn ɪˈfɪʃnsi/ & \textbf{传输效率} \\
+\addlinespace
+Solid Angle Acceptance & /ˈsɒlɪd ˈæŋɡl əkˈseptəns/ & \textbf{立体角接收度} \\
+\addlinespace
+Focal Plane & /ˈfəʊkl pleɪn/ & \textbf{焦平面} \\
+
+\addlinespace
+Charge-state distribution & /tʃɑːdʒ steɪt ˌdɪstrɪˈbjuːʃn/ & \textbf{电荷态分布} \\
+\addlinespace
+Gas pressure & /ɡæs ˈpreʃə/ & \textbf{气体压强（充气压强）} \\
+\addlinespace
+Aperture / Collimator / Slit & /ˈæpətʃə/ /ˈkɒlɪmeɪtə/ /slɪt/ & \textbf{孔径 / 准直器 / 狭缝} \\
+\addlinespace
+Transfer matrix / Transfer map & /ˈtrænsfɜː ˈmeɪtrɪks/ & \textbf{传输矩阵 / 传输映射} \\
+\addlinespace
+First-order / Higher-order optics & /fɜːst ˈɔːdə/ & \textbf{一阶 / 高阶光学} \\
+\addlinespace
+Edge focusing / Edge angle & /edʒ ˈfəʊkəsɪŋ/ & \textbf{边缘聚焦 / 边缘角} \\
+
+\midrule
+
+\multicolumn{3}{c}{\textbf{第四阶段：磁铁系统设计 (Magnet System Design)}} \\[0.5em]
+Magnetic Dipole (D) & /mæɡˈnetɪk ˈdaɪpəʊl/ & \textbf{二极磁铁 (偏转磁铁)} \\
+\addlinespace
+Magnetic Quadrupole (Q) & /mæɡˈnetɪk ˈkwɒdrʊpəʊl/ & \textbf{四极磁铁 (聚焦磁铁)} \\
+\addlinespace
+Pole Ends Chamfering & /pəʊl endz ˈtʃæmfərɪŋ/ & \textbf{磁极端部倒角 (匀场技术)} \\
+\addlinespace
+Pole Face Shimming & /pəʊl feɪs ˈʃɪmɪŋ/ & \textbf{磁极表面垫补 (匀场技术)} \\
+\addlinespace
+Integral Field Homogeneity & /ˈɪntɪɡrəl fiːld ˌhɒmədʒəˈniːəti/ & \textbf{积分场均匀度} \\
+\addlinespace
+Transversal Field Homogeneity & /trænzˈvɜːsl fiːld ˌhɒmədʒəˈniːəti/ & \textbf{横向场均匀度} \\
+\addlinespace
+3D Magnetic Field Map & /θriː diː mæɡˈnetɪk fiːld mæp/ & \textbf{三维磁场图} \\
+
+\addlinespace
+Hall probe / Hall sensor & /hɔːl prəʊb/ & \textbf{霍尔探头 / 霍尔传感器} \\
+\addlinespace
+Field integral ($\int B\,dl$) & /fiːld ˈɪntɪɡrəl/ & \textbf{磁场积分（$\int B\,dl$）} \\
+\addlinespace
+Quadrupole gradient (G) & /ˈkwɒdrʊpəʊl ˈɡreɪdiənt/ & \textbf{四极梯度（场梯度 G）} \\
+\addlinespace
+Good field region & /ɡʊd fiːld ˈriːdʒən/ & \textbf{好场区} \\
+\addlinespace
+Multipole errors & /ˈmʌltɪpəʊl ˈerəz/ & \textbf{多极误差（如 sextupole 等）} \\
+
+\midrule
+
+\multicolumn{3}{c}{\textbf{第五阶段：探测系统 (Detection System)}} \\[0.5em]
+Multi-Wire Proportional Counter (MWPC) & /ˈmʌlti waɪə prəˈpɔːʃənl ˈkaʊntə/ & \textbf{多丝正比计数室 (气体探测器)} \\
+\addlinespace
+Double-Sided Silicon Strip Detector (DSSD) & /ˈdʌbl ˈsaɪdɪd ˈsɪlɪkən strɪp dɪˈtektə/ & \textbf{双面硅条探测器} \\
+\addlinespace
+Single-Sided Silicon Strip Detector (SSD) & /ˈsɪŋɡl ˈsaɪdɪd ˈsɪlɪkən strɪp dɪˈtektə/ & \textbf{单面硅条探测器 (周边硅)} \\
+\addlinespace
+Veto Detector & /ˈviːtəʊ dɪˈtektə/ & \textbf{反符合探测器} \\
+\addlinespace
+Silicon Photomultiplier (SiPM) & /ˈsɪlɪkən ˌfəʊtəʊˈmʌltɪplaɪə/ & \textbf{硅光电倍增器（SiPM）} \\
+\addlinespace
+Plastic Scintillator & /ˈplæstɪk ˈsɪntɪleɪtə/ & \textbf{塑料闪烁体} \\
+\addlinespace
+Pulse-Height Defect (PHD) & /pʌls haɪt ˈdiːfekt/ & \textbf{脉冲幅度亏损} \\
+\addlinespace
+Energy Resolution & /ˈenədʒi ˌrezəˈluːʃn/ & \textbf{能量分辨} \\
+\addlinespace
+Preamplifier & /priːˈæmplɪfaɪə/ & \textbf{前置放大器 / 前放} \\
+\addlinespace
+Digital Waveform Sampling & /ˈdɪdʒɪtl ˈweɪvfɔːm ˈsɑːmplɪŋ/ & \textbf{数字化波形采样} \\
+
+\addlinespace
+Time-of-flight (TOF) & /taɪm əv flaɪt/ & \textbf{飞行时间（TOF）} \\
+\addlinespace
+Implantation signal & /ˌɪmplɑːnˈteɪʃn ˈsɪɡnəl/ & \textbf{注入信号（ER 注入）} \\
+\addlinespace
+Pixel (strip intersection) & /ˈpɪksl/ & \textbf{像素（X/Y 条交叉点）} \\
+\addlinespace
+Threshold & /ˈθreʃhəʊld/ & \textbf{阈值} \\
+\addlinespace
+Dead layer & /ded ˈleɪə/ & \textbf{死层} \\
+\addlinespace
+ADC / TDC & /ˌeɪ diː ˈsiː/ / /ˌtiː diː ˈsiː/ & \textbf{模数转换 / 时数转换} \\
+\addlinespace
+FPGA & /ˌef piː dʒiː ˈeɪ/ & \textbf{现场可编程门阵列（FPGA）} \\
+\addlinespace
+Trigger & /ˈtrɪɡə/ & \textbf{触发} \\
+
+\midrule
+
+\multicolumn{3}{c}{\textbf{第六阶段：衰变模式与数据分析 (Decay Modes \& Data Analysis)}} \\[0.5em]
+Alpha Decay Chain & /ˈælfə dɪˈkeɪ tʃeɪn/ & \textbf{$\alpha$ 衰变链} \\
+\addlinespace
+Spontaneous Fission (SF) & /spɒnˈteɪniəs ˈfɪʃn/ & \textbf{自发裂变} \\
+\addlinespace
+Internal Conversion Electron (CE) & /ɪnˈtɜːnl kənˈvɜːʃn ɪˈlektrɒn/ & \textbf{内转换电子} \\
+\addlinespace
+Electron Capture (EC) & /ɪˈlektrɒn ˈkæptʃə/ & \textbf{轨道电子俘获} \\
+\addlinespace
+Gamma Transition & /ˈɡæmə trænˈzɪʃn/ & \textbf{$\gamma$ 跃迁} \\
+\addlinespace
+Pile-up Signal & /paɪl ʌp ˈsɪɡnəl/ & \textbf{叠加信号 / 堆积信号} \\
+\addlinespace
+Event-by-event Data & /ɪˈvent baɪ ɪˈvent ˈdeɪtə/ & \textbf{逐事件数据} \\
+\addlinespace
+Alpha-Gamma Correlation & /ˈælfə ˈɡæmə ˌkɒrəˈleɪʃn/ & \textbf{$\alpha-\gamma$ 关联} \\
+\addlinespace
+Position-Time Correlation & /pəˈzɪʃn taɪm ˌkɒrəˈleɪʃn/ & \textbf{位置-时间关联} \\
+\addlinespace
+Background Subtraction & /ˈbækɡraʊnd səbˈtrækʃn/ & \textbf{本底扣除 / 本底抑制} \\
+\addlinespace
+Half-life & /ˈhɑːf laɪf/ & \textbf{半衰期} \\
+\addlinespace
+Branching Ratio & /ˈbrɑːntʃɪŋ ˈreɪʃiəʊ/ & \textbf{分支比} \\
+\addlinespace
+Dead Time & /ded taɪm/ & \textbf{死时间} \\
+
+\addlinespace
+Recoil--alpha correlation & /rɪˈkɔɪl ˈælfə ˌkɒrəˈleɪʃn/ & \textbf{反冲--$\alpha$ 关联} \\
+\addlinespace
+Recoil--SF correlation & /rɪˈkɔɪl ˌes ef ˌkɒrəˈleɪʃn/ & \textbf{反冲--自发裂变（SF）关联} \\
+\addlinespace
+Correlation time window & /ˌkɒrəˈleɪʃn taɪm ˈwɪndəʊ/ & \textbf{关联时间窗} \\
+\addlinespace
+Energy gate & /ˈenədʒi ɡeɪt/ & \textbf{能量门} \\
+\addlinespace
+Position gate & /pəˈzɪʃn ɡeɪt/ & \textbf{位置门} \\
+\addlinespace
+Accidental coincidence & /ˌæksɪˈdentl kəʊˈɪnsɪdəns/ & \textbf{偶然符合 / 随机关联} \\
+\addlinespace
+Detection efficiency & /dɪˈtekʃn ɪˈfɪʃnsi/ & \textbf{探测效率} \\
+\addlinespace
+Geometric efficiency & /ˌdʒiːəˈmetrɪk ɪˈfɪʃnsi/ & \textbf{几何效率} \\
+\addlinespace
+Upper limit (cross section) & /ˈʌpə ˈlɪmɪt/ & \textbf{上限（如截面上限）} \\
+\addlinespace
+Poisson statistics & /ˈpwɑːsɒn stəˈtɪstɪks/ & \textbf{泊松统计（少事例计数）} \\
+\addlinespace
+Confidence interval (CL) & /ˈkɒnfɪdəns ˈɪntəvl/ & \textbf{置信区间（CL）} \\
+
+\end{longtable}
+
+\end{document}
