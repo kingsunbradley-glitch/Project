@@ -7,10 +7,15 @@ import pandas as pd
 # ==============================================================================
 # --- 1. 全局字体与样式设置 (用于发表级绘图) ---
 # ==============================================================================
-# 这里的设置是为了让图片的字体和 Physical Review 等期刊的风格一致 (Times New Roman 风格)
+
+# ==============================================================================
+# --- 1. 全局字体与样式设置 (用于发表级绘图) ---
+# ==============================================================================
+# 将 Mac 的中文字体 (Songti SC 或 Arial Unicode MS) 加入到字体列表中排在前面
 plt.rcParams['font.family'] = 'serif'
 plt.rcParams['font.serif'] = ['STIXGeneral', 'Times New Roman', 'serif']
-plt.rcParams['mathtext.fontset'] = 'stix'  # 公式字体设置 (如上标、希腊字母)
+plt.rcParams['mathtext.fontset'] = 'stix'  # 公式字体设置保持不变，继续渲染上标和希腊字母
+plt.rcParams['axes.unicode_minus'] = False # 【关键】防止引入中文字体后，坐标轴的负号 '-' 变成小方块
 
 # ==============================================================================
 # --- 2. 数据读取与预处理 ---
@@ -63,7 +68,7 @@ else:
 # 400: 【用户配置】桶的数量。
 # - 改大 (如 800): 柱子变细，分辨率更高。
 # - 改小 (如 50): 柱子变粗，看起来更平滑。
-bins = np.linspace(energy_min, energy_max, 400)
+bins = np.linspace(energy_min, energy_max, 100)
 
 # ==============================================================================
 # --- 5. 绘图配置列表 (核心控制区) ---
@@ -71,11 +76,11 @@ bins = np.linspace(energy_min, energy_max, 400)
 # 列表中的每个元组代表一张图的配置：(数据变量, 颜色代码, 显示标签)
 plots_config = [
     # 第一张图：所有数据，黑色
-    (all_data,   "black",   "All"),
+    (all_data,   "black",   "Total (EVR + Decay)"),
     # 第二张图：EVR数据，红色 (#D81525 是 RGB 十六进制颜色)
-    (evr_data,  "#126782" , "EVR"),
+    (evr_data,  "black" , "EVR"),
     # 第三张图：Decay数据，蓝色，标签用了 LaTeX 语法 ($...$) 显示上标，r表示原始字符串，避免Latex的\转义问题
-    (decay_data, "#D81525", r"From $^{273}$Ds $\alpha$ Decay")
+    (decay_data, "#D81525", r"From $^{273}$Ds $\alpha$ decay ")
 ]
 
 axes = [] # 用来存储生成的三个子图对象
@@ -91,14 +96,19 @@ for i, (data, color, label) in enumerate(plots_config):
     axes.append(ax)
     
     # --- A. 绘制直方图 ---
+    # --- A. 绘制直方图 ---
     if len(data) > 0:
-        # ax.hist: 绘制直方图函数
-        # alpha=0.9: 透明度 (0-1)，0.9 表示稍有透明
-        # edgecolor='white': 【用户配置】柱子边缘颜色。'white' 为白衬线，'none' 为无边框
-        # linewidth=0.5: 衬线的粗细
-        # 返回值: n(每个桶的计数), bins_out(桶的边界), patches(所有的柱子对象)
-        n, bins_out, patches = ax.hist(data, bins=bins, color=color, alpha=0.9, 
-                                      label=label, edgecolor='white', linewidth=0.5)
+        if i == 0:
+            # 针对第一张图 (i==0)：绘制 EVR 和 Decay 的堆叠直方图 (Stacked Histogram)
+            # 传入数据列表 [evr_data, decay_data]，对应颜色 ["black", "#D81525"]
+            # stacked=True 实现“加和”效果，柱子会上下堆叠，总高度即为总 counts
+            n, bins_out, patches = ax.hist([evr_data, decay_data], bins=bins, 
+                                           color=["black", "#D81525"], stacked=True, 
+                                           alpha=0.9, edgecolor='white', linewidth=0.5)
+        else:
+            # 针对第二和第三张图：保持普通的单色直方图绘制
+            n, bins_out, patches = ax.hist(data, bins=bins, color=color, alpha=0.9, 
+                                          label=label, edgecolor='white', linewidth=0.5)
         
         # --- B. 特殊高亮逻辑 (仅针对第3张图 i==2) ---
         if i == 2:
@@ -148,7 +158,7 @@ for i, (data, color, label) in enumerate(plots_config):
         ax.tick_params(labelbottom=False)
     else:
         # 最后一张图，加上 X 轴名称
-        ax.set_xlabel("Energy / MeV", fontsize=14)
+        ax.set_xlabel(r"$E_{\alpha} $/ MeV", fontsize=14)
 
 # ==============================================================================
 # --- 7. 全局标签与保存 ---
@@ -157,7 +167,7 @@ for i, (data, color, label) in enumerate(plots_config):
 # 0.10, 0.5: 【用户配置】X, Y 坐标。
 # - 如果觉得字离图太近，就把 0.10 改成 0.05 (往左移)
 # - 如果觉得字被切掉了，就结合 subplots_adjust 的 left 参数一起改
-fig.text(0.10, 0.5, 'Event Counts / 5 keV', va='center', rotation='vertical', fontsize=16)
+fig.text(0.10, 0.5, 'Counts / 20 keV', va='center', rotation='vertical', fontsize=16)
 
 # subplots_adjust: 调整图表边缘留白
 # left=0.15: 左边留 15% 空白 (给 Y 轴标题腾位置)

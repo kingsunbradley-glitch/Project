@@ -131,14 +131,14 @@ data_rf = {
 all_datasets = [data_ds, data_hs, data_sg, data_rf]
 
 # Styles
-labels = ['IMP', 'Dubna', 'RIKEN', 'GSI']
+labels = ['IMP', 'JINR', 'RIKEN', 'GSI']
 colors = ["#D81525", 'blue', 'green', "#B8860b"]
 hatches = ['', '', '', '', '']
 
 # -----------------------------------------------------------------
 # --- Plotting Main Logic ---
 # -----------------------------------------------------------------
-fig = plt.figure(figsize=(12, 14)) 
+fig = plt.figure(figsize=(17, 16)) 
 num_rows = len(all_datasets)
 
 # [修改 1] width_ratios=[2, 1] 让能量占 2/3，时间占 1/3
@@ -148,9 +148,9 @@ gs = GridSpec(num_rows, 2, figure=fig, wspace=0, hspace=0, width_ratios=[1.5, 1]
 energy_min, energy_max = 7.8, 11.8
 
 # [修改 2 & 3] 时间轴范围改为 log10 值 (-2.0 到 6.0)
-log_time_min, log_time_max = -3.4, 6.0 
+log_time_min, log_time_max = -3.4, 6.2 
 
-bins_energy = np.linspace(energy_min, energy_max, 400) 
+bins_energy = np.linspace(energy_min, energy_max, 100) 
 # 使用线性bins来统计 log 后的数据
 bins_time_log = np.linspace(log_time_min, log_time_max, 90)
 
@@ -255,7 +255,7 @@ for i, data in enumerate(all_datasets):
     ax_right.spines['left'].set_linestyle('--')
     ax_right.spines['left'].set_linewidth(3)
     ax_right.spines['left'].set_color('gray')
-    ax_right.tick_params(direction='in', top=True, right=True, which='both', labelsize=24)
+    ax_right.tick_params(direction='in', top=True, right=True, which='both', labelsize=24, labelright=True)
     ax_right.tick_params(axis='y', labelleft=False, left=False) 
     
     if i < num_rows - 1:
@@ -274,9 +274,13 @@ for i, data in enumerate(all_datasets):
     current_ylim = ax_left.get_ylim()
     ax_left.set_ylim(0, max(current_ylim[1], 1) * 1.6)
 
-fig.text(0.04, 0.5, 'Counts / 5 keV', va='center', rotation='vertical', fontsize=28)
+# 1. 左侧标签：将原来的 x=0.04 增大到 0.08 左右（具体数值可微调），让它更靠近左坐标轴
+fig.text(0.08, 0.5, 'Counts / 20 keV', va='center', rotation='vertical', fontsize=28)
+
+# 2. 右侧标签：新增一行，x=0.96 或 0.97，放在右侧坐标轴外侧，rotation=-90 让文字方向顺应右侧阅读习惯
+fig.text(0.97, 0.5, 'Counts', va='center', rotation='vertical', fontsize=28)
 
 plt.subplots_adjust(left=0.12, right=0.95, top=0.95, bottom=0.05, hspace=0, wspace=0)
 
-plt.savefig('combined_plot_log10_axis_rf_fixed.pdf', dpi=300, bbox_inches='tight')
+plt.savefig('combined_plot_log10_axis_rf_fixed.png', dpi=300, bbox_inches='tight')
 plt.show()
