@@ -1,19 +1,197 @@
-\documentclass[aps,prc,reprint,groupedaddress]{revtex4-2}
+\documentclass[aps,prc,reprint,superscriptaddress]{revtex4-2}
+
+%\usepackage{CJK}
+%\usepackage{ctex}
+\usepackage{graphicx}
+\usepackage{dcolumn}
+\usepackage{bm}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{color}
+\usepackage{array, longtable}%%%lv
+
+\usepackage{multirow}%%%lvxe
+\usepackage{hhline}%%%lv
+\usepackage{color,hyperref}%%%lv
+\usepackage{threeparttable} 
+\usepackage{mathtools}
+\usepackage{flushend}
+\usepackage{textcomp,mathcomp}
+\hypersetup{colorlinks,breaklinks,linkcolor=blue,urlcolor=blue,anchorcolor=blue,citecolor=blue}%%%lv
+\usepackage{multirow}
+\usepackage{lineno}
 
 
+\newcommand{\hide}[1]{}
 \begin{document}
 
 %Title of paper
 \title{Independent confirmation of an isomeric state in $^{273}\text{Ds}$ and its decay properties via the $^{238}\text{U}(^{40}\text{Ar},5n)$ reaction}
 
 % repeat the \author .. \affiliation  etc. as needed
-\author{Z.R.Sun} % 请替换为实际作者姓名
-\affiliation{Institute of Modern Physics, Chinese Academy of Sciences (IMP CAS), Lanzhou, China}
+\author{Z . R . Sun \hide{(孙志睿)}}
+\email[Corresponding author: ]{sunzhirui@impcas.ac.cn}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{M. H. Huang \hide{(黄明辉)}}
+\email[Corresponding author: ]{hmh@impcas.ac.cn}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{Z. G. Gan \hide{(甘再国)}}
+\email[Corresponding author: ]{zggan@impcas.ac.cn}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+\affiliation{Advanced Energy Science and Technology Guangdong Laboratory, Huizhou 516000, China}
+
+\author{H. B. Yang \hide{(杨华彬)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{J. G. Wang \hide{(王建国)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+
+\author{M. M. Zhang \hide{(张明明)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{Joint Institute for Nuclear Research, RU-141980 Dubna, Russian Federation}
+
+\author{Z. Y. Zhang \hide{(张志远)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{L. Ma \hide{(马龙)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{Advanced Energy Science and Technology Guangdong Laboratory, Huizhou 516000, China}
+
+\author{C. L. Yang \hide{(杨春莉)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+
+\author{X. L. Wu \hide{(吴晓蕾)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{Advanced Energy Science and Technology Guangdong Laboratory, Huizhou 516000, China}
+
+
+\author{Y. L. Tian \hide{(田玉林)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{Advanced Energy Science and Technology Guangdong Laboratory, Huizhou 516000, China}
+
+\author{Y. S. Wang \hide{(王永生)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{Advanced Energy Science and Technology Guangdong Laboratory, Huizhou 516000, China}
+
+\author{J. Y. Wang \hide{(王均英)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{Advanced Energy Science and Technology Guangdong Laboratory, Huizhou 516000, China}
+
+\author{Y. H. Qiang \hide{(强赟华)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+
+\author{L. C. Sun \hide{(孙路冲)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{Shandong Provincial Key Laboratory of Nuclear Science, Nuclear Energy Technology and Comprehensive Utilization, Weihai Frontier Innovation Institute of Nuclear Technology, School of Innovation Science, Energy and Power Engineering, Shandong University, Shandong 250061, People's Republic of China}
+
+\author{X. Zhang \hide{(张旭)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{X. Y. Huang \hide{(黄鑫源)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{G. Xie \hide{(谢港)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{S. Y. Xu \hide{(徐苏扬)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{Z. Zhao \hide{(赵圳)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{Z. C. Li \hide{(李宗池)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+
+\author{L. Zhu \hide{(祝霖)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{H. Zhou \hide{(周浩)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{J. H. Zheng \hide{(郑佳卉)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{Z. L. Cheng \hide{(程志凌)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{Z. H. Li \hide{(李泽浩)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+
+\author{W. X. Huang \hide{(黄文学)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+\affiliation{Advanced Energy Science and Technology Guangdong Laboratory, Huizhou 516000, China}
+
+\author{Y. F. Cui \hide{(崔云飞)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{Z. W. Lu \hide{(卢子伟)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+
+\author{Y. He \hide{(何源)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{L. T. Sun \hide{(孙良亭)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+
+\author{Z. Z. Ren \hide{(任中洲)}}
+\affiliation{School of Physics Science and Engineering, Tongji University, Shanghai 200092, China}
+
+\author{S. G. Zhou \hide{(周善贵)}}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
+\affiliation{CAS Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 100190, China}
+
+\author{V. K. Utyonkov}
+\affiliation{Joint Institute for Nuclear Research, RU-141980 Dubna, Russian Federation}
+
+\author{A. A. Voinov}
+\affiliation{Joint Institute for Nuclear Research, RU-141980 Dubna, Russian Federation}
+
+\author{Yu. S. Tsyganov}
+\affiliation{Joint Institute for Nuclear Research, RU-141980 Dubna, Russian Federation}
+
+\author{A. N. Polyakov}
+\affiliation{Joint Institute for Nuclear Research, RU-141980 Dubna, Russian Federation}
+
+\author{D. I. Solovyev}
+\affiliation{Joint Institute for Nuclear Research, RU-141980 Dubna, Russian Federation}
+
+\author{N. D. Kovrizhnykh}
+\affiliation{Joint Institute for Nuclear Research, RU-141980 Dubna, Russian Federation}
+
+\author{M. V. Shumeiko}
+\affiliation{Joint Institute for Nuclear Research, RU-141980 Dubna, Russian Federation}
+
+
+
+%\end{CJK}
 
 \date{\today}
 
 \begin{abstract}
-An extensive series of experiments was performed at the SHANS-2 separator at IMP CAS.  First, the cross section of the $^{238}\text{U}(^{40}\text{Ar},5n)^{273}\text{Ds}$ reaction was measured in the excitation-energy range from 42 to 51 MeV.Previously, the same reaction was studied in the JINR-IMP CAS collaborative experiment at the DGFRS-2 separator at the energy of 49 MeV. In those experiments, two decay chains of $^{273}\text{Ds}$ were observed, and two decays from different energy levels with different energies and lifetimes were found, indicating the existence of an isomeric level in addition to the ground-state one.  In the experiments at SHANS-2, the entire energy range was studied in detail at excitation energies of 40, 45, and 50 MeV, and the upper cross-section limits of 833, 1118, and 511 fb, respectively, were set.  But at 49.5 MeV, two decay chains of $^{273}\text{Ds}$ with a cross section of $219_{-147}^{+292}$ fb was measured.  In the experiment at DGFRS-2, the production cross section of this isotope was $180_{-120}^{+440}$ fb. Transitions from different energy levels were also observed at SHANS-2 in the two new chains. 
+The $^{238}\text{U}(^{40}\text{Ar},5n)^{273}\text{Ds}$ reaction was investigated across an excitation-energy range of 40 to 51 MeV using the SHANS-2 separator. Upper cross-section limits of 833, 1118, and 511 fb were established at excitation energies of 40, 45, and 50 MeV, respectively. At an excitation energy of 49.5 MeV, two decay chains of $^{273}\text{Ds}$ were observed, yielding a production cross section of $219_{-147}^{+292}$ fb. The transitions observed in these new chains exhibit distinct energies and lifetimes, corroborating previous findings and confirming the existence of an isomeric state in $^{273}\text{Ds}$ in addition to the ground state. The measured cross section is in excellent agreement with the previously reported value of $180_{-120}^{+440}$ fb obtained at the DGFRS-2 separator at 49 MeV.
 \end{abstract}
 
 %\maketitle must follow title, authors, abstract, and keywords
@@ -30,4 +208,5 @@ Subsequently, Z. Wang \textit{et al.} performed theoretical calculations on the 
 The experiment is described below in Table~\ref{tab:table1}, and the experimental data are presented.
 
 \bibliography{Ds273}
+
 \end{document}
