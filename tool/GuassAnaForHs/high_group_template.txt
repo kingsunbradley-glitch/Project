@@ -1,0 +1,34 @@
+# high_group_template.txt
+# 说明：
+# 1) 这个模板是给 high_group_m1_m2_fit.py 用的。
+# 2) 该脚本读取的是 sigma_keV（高斯标准差），不是 FWHM_keV。
+# 3) 你要求的固定分辨率是：
+#       EVR   : FWHM = 50 keV  -> sigma = 50 / 2.355 = 21.231 keV
+#       Decay : FWHM = 30 keV  -> sigma = 30 / 2.355 = 12.739 keV
+# 4) 所以下面的 sigma_keV 已经按上面的 FWHM 换算好了。
+# 5) 只保留高能组（例如 > 9000 keV）的点即可。
+#
+# 列说明：
+# energy_keV   sigma_keV   source   label
+#
+# source 只能写 EVR 或 Decay（大小写都行）
+# label 可写文献名、作者缩写或你自己的编号
+
+energy_keV sigma_keV source label
+9160 21.231 EVR paper01
+9180 21.231 EVR paper01
+9120 21.231 EVR paper01
+9030 21.231 EVR paper01 
+9060 21.231 EVR paper01
+9080 21.231 EVR paper01
+9110 21.231 EVR paper01
+9110 21.231 EVR paper01
+9130 21.231 EVR paper01
+9180 21.231 EVR paper01
+
+9150 12.739 Decay paper04
+9170 12.739 Decay paper05
+9180 12.739 Decay paper06
+9250 12.739 Decay paper07
+9103 12.739 Decay paper04
+9230 12.739 Decay paper04
