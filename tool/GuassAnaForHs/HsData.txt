@@ -15,20 +15,20 @@
 # label 可写文献名、作者缩写或你自己的编号
 
 energy_keV sigma_keV source label
-9160 21.231 EVR paper01
-9180 21.231 EVR paper01
-9120 21.231 EVR paper01
-9030 21.231 EVR paper01 
-9060 21.231 EVR paper01
-9080 21.231 EVR paper01
-9110 21.231 EVR paper01
-9110 21.231 EVR paper01
-9130 21.231 EVR paper01
-9180 21.231 EVR paper01
+9160 30 EVR Turler2002
+9180 30 EVR Turler2002
+9100 30 EVR Turler2002
+9120 42.462 EVR southAfica 
+9060 21.231 EVR Dvorak2006
+9080 21.231 EVR Dvorak2006
+9110 21.231 EVR Dvorak2006
+9110 21.231 EVR Dvorak2008
+9130 21.231 EVR Dvorak2008
+9180 21.231 EVR Dvorak2008
 
-9150 12.739 Decay paper04
-9170 12.739 Decay paper05
-9180 12.739 Decay paper06
-9250 12.739 Decay paper07
-9103 12.739 Decay paper04
-9230 12.739 Decay paper04
+9150 17 Decay Sumita2013
+9170 17 Decay Morita2007
+9180 8.5 Decay Hofmann2002
+9250 30 Decay Morita2007
+9103 12.739 Decay IMP2024
+9230 8.5 Decay Hofmann2002

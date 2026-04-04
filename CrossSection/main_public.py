@@ -20,7 +20,7 @@ class Input():
         # Experiment Information
         self.auto = True
         self.exp_num = "SS032"
-        self.file_path = os.path.abspath("/home/evalie2/Project/document/273Ds/inter_map/")
+        self.file_path = os.path.abspath("/home/evalie/Project/Document/After/")
         
         # --- FIX 2: 自动创建 history 文件夹，防止报错 ---
         self.history_path = os.getcwd() + "/history"
@@ -30,10 +30,10 @@ class Input():
         # ---------------------------------------------
 
         self.charge = 13 # Beam charge (电荷态)
-        # self.thickness = 0.469424  #1
-        self.thickness = 0.604  # 2              # Target thickness in mg/cm^2  
+        self.thickness = 0.469424  #1
+        #self.thickness = 0.604  # 2              # Target thickness in mg/cm^2  
         self.duty_ratio = 0.91 # Duty ratio 
-        self.eff = [1, 0.52, 1] # Transmission efficiency  差分段传输效率，谱仪传输效率，探测器探测效率
+        self.eff = [1, 0.20, 1] # Transmission efficiency  差分段传输效率，谱仪传输效率，探测器探测效率
         self.target = 238 # Target atomic mass
         self.BPM_threshold = 3 # BPM threshold
         self.MACCT_threshold = 0 # MACCT threshold
@@ -41,22 +41,22 @@ class Input():
         
         # --- FIX 1: 确保 self.skip 是列表 (List) ---
         # 如果只想跳过一个文件，也要写成 [22]
-        self.skip = list(range(28, 35))  # Skip file numbers
-        # self.skip = [22] 
+        #self.skip = list(range(21, 50))  # Skip file numbers
+        self.skip = [None] 
         # -----------------------------------------
         
         self.target_limit = 1   # 靶位限制
         # self.runstart = 2  #1
-        self.runstart = 21  # 2  # Start file number
+        self.runstart = 21# 2  # Start file number
         # self.runstop = 81  #1
         self.runstop = 50   # 2  # Stop file number
         # self.D1_mag =2.21  #1
         self.D1_mag = 2.212 # 2   # 磁刚度
-        self.TKE = 225 # Beam kinetic energy in MeV
+        self.TKE = 220 # Beam kinetic energy in MeV
         # self.central_energy = 212.7    #1
         self.central_energy = 212.2 # 2  # Central energy in MeV
         # self.excitation_energy = 49.5 #1
-        self.excitation_energy = 49.1 # 2    # Excitation energy in MeV
+        self.excitation_energy = 45 # 2    # Excitation energy in MeV
         
         self.file_history, self.perhour_history, self.total_time = self.read_history()
         self.num_list = self.read_numder_list() 
@@ -119,7 +119,14 @@ class StatisticPV(Input):
         last_file_num = int(self.file_history[-1][3].split("-")[0]) if self.file_history else self.runstart - 1
         last_file_dose = float(self.file_history[-1][6]) if self.file_history else 0
         
+        # --- 新增：初始化 >4puA 的统计变量 ---
+        high_current_time = 0
+        high_current_dose = 0
+        max_peak_current_puA = 0.0
+        peak_file_num = None         # <--- 新增：记录峰值所在的文件号
+        peak_time_range = ""         # <--- 新增：记录峰值文件的时间段
         tmp_MACCT, flag = np.array([]), False
+        
         
         # 恢复绘图数据
         if len(self.perhour_history) != 0:
@@ -160,7 +167,8 @@ class StatisticPV(Input):
                 print(f"读取文件 {num} 失败")
                 continue
 
-            if num == self.runstart:
+            # 修改前：if num == self.runstart:
+            if pre_time == 0:  # 只有在完全没有历史数据时，才初始化第一个时间点
                 trPV.GetEntry(0)
                 systime = np.append(systime, trPV.SysTime)
                 pre_time = trPV.SysTime
@@ -258,10 +266,23 @@ class StatisticPV(Input):
             
             # 计算文件平均 euA
             file_MACCT_ave = np.mean(MACCT) if len(MACCT) != 0 else 0
-            
+
+            # --- 新增：获取当前文件的峰值流强并更新全局最大值 ---
+            file_max_MACCT = np.max(MACCT) if len(MACCT) != 0 else 0
+            file_max_puA = (file_max_MACCT * self.eff[0]) / self.charge
+            if file_max_puA > max_peak_current_puA:
+                max_peak_current_puA = file_max_puA
+                peak_file_num = num                                # 记录文件号
+                peak_time_range = f"{start_time} —— {end_time}"    # 记录时间段
+            # ------------------------------------------------
+
+
             # --- FIX 3: 打印时转换为 puA 单位 ---
             # puA = euA * 效率 / 电荷态
             current_puA = (file_MACCT_ave * self.eff[0]) / self.charge
+            if current_puA > 4.0:
+                high_current_time += total_time
+                high_current_dose += dose
             # --------------------------------
             
             print(
@@ -287,17 +308,36 @@ class StatisticPV(Input):
         print("有效束流总时间{0:.2f} h".format(self.total_time/3600))
         
         # --- FIX 4: 计算全实验平均 puA ---
+        # --- FIX 4: 计算全实验平均 puA ---
+        # --- FIX 4: 计算全实验平均 puA ---
         if self.total_time > 0:
-            # I_avg(puA) = Total_Q / Total_t
+            # 计算总平均流强 (puA)
             # last_file_dose 是总粒子数, 乘 e 得到总库仑量, 除以时间(s)得到安培, 再乘 1e6 得到 uA
             total_avg_puA = (last_file_dose * 1.60217663e-19) / (self.total_time * 1e-6)
+            
             print("-" * 50)
             print("【统计结果】")
-            print("实验全过程总平均流强: {0:.2f} puA".format(total_avg_puA))
-            print("累计总粒子数 (Dose): {0:.3e}".format(last_file_dose))
-            print("-" * 50)
-        # ------------------------------
+            
+            # --- 新增：显示累计总有效束流时间 ---
+            # 这包含了 history 文件中的历史时长 + 本次新处理的文件时长
+            print("累计总有效束流时间: {0:.2f} h (共计 {1} s)".format(self.total_time / 3600, self.total_time))
+            # ----------------------------------
 
+            print("实验全过程总平均流强: {0:.2f} puA".format(total_avg_puA))
+            
+            # 打印峰值信息 (上一轮添加的功能)
+            if peak_file_num is not None:
+                print("实验全过程峰值流强: {0:.2f} puA".format(max_peak_current_puA))
+                print("  └─ 出现于文件号: {0}{1:0>5d}.root".format(self.exp_num, peak_file_num))
+                print("  └─ 该文件时间段: {0}".format(peak_time_range))
+            
+            print("累计总粒子数 (Dose): {0:.3e}".format(last_file_dose))
+            
+            # 打印 >4puA 的统计 (上一轮添加的功能)
+            print("流强 > 4 puA 的有效束流总时间: {0:.2f} h".format(high_current_time / 3600))
+            print("流强 > 4 puA 的累计束流剂量: {0:.3e}".format(high_current_dose))
+            
+            print("-" * 50)
         if self.drawset:
             self.Draw(MACCT_perhour, total_dose_perhour, systime)
             self.write_perhour(MACCT_perhour, total_dose_perhour, systime)
