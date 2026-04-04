@@ -1,0 +1,81 @@
+hivap.f:       PROGRAM HIVAP
+hivap.f:       CALL ALLOCH
+hivap.f:       CALL CASOUT
+hivap.f:       CALL DENSTY
+               densty.f:      CALL BETA
+               densty.f:      CALL FISROT
+               densty.f:      PINERK=TABIP()
+                              tabip.f:       CALL IP1
+                              tabip.f:       CALL IP2
+hivap.f:       CALL ENGOUT
+               engout.f:      CALL CASOUT
+               engout.f:      CALL OUT1
+hivap.f:       CALL EVA
+               eva.f:         CALL DENSTY
+               eva.f:         CALL POPUL
+hivap.f:       CALL FUSE
+               fuse.f:        CALL INVPAR
+               fuse.f:        CALL MYRD
+hivap.f:       CALL FUSIO
+               fusio.f:       CALL FUSION
+                              fusion.f:      CALL FISROT
+                              fusion.f:      CALL PARABO
+                              fusion.f:      DUM=TWKB()
+                                             twkb.f:        V=VLRO()
+                              fusion.f:      V=VLRO()
+hivap.f:       CALL GAMMAS
+               gammas.f:      CALL MYRD
+hivap.f:       CALL GETPUT
+hivap.f:       CALL GRIDS
+               grids.f:       CALL CUTOFF
+               grids.f:       CALL GETPUT
+               grids.f:       CALL SUMPOP
+               grids.f:       CALL TOT
+hivap.f:       CALL MYRD
+               myrd.f:        CALL DECODN
+hivap.f:       CALL OM
+               om.f:          CALL MYRD
+               om.f:          CALL TLD
+hivap.f:       CALL PARAP
+               parap.f:       CALL FISROT
+               parap.f:       CALL MYRD
+hivap.f:       CALL ROT
+               rot.f:         CALL BARFIT
+               rot.f:         CALL DECODN
+               rot.f:         CALL FISROT
+               rot.f:         CALL IP2
+                              ip2.f:         CALL IP1
+               rot.f:         CALL MYRD
+hivap.f:       CALL ROWOUT
+               rowout.f:      CALL OUT1
+hivap.f:       CALL SEPENF
+               sepenf.f:      CALL BARFIT
+               sepenf.f:      CALL FISROT
+               sepenf.f:      CALL MSBEN
+               sepenf.f:      CALL MYRD
+hivap.f:       CALL SEQIN
+               seqin.f:       CALL DROPB
+                              dropb.f:       CALL DROPL
+                              dropb.f:       CALL IP2
+                                             ip2.f:         CALL IP1
+                              dropb.f:       CALL PARABO
+hivap.f:       CALL SEQOUT
+               seqout.f:      CALL FISROT
+               seqout.f:      CALL GETPUT
+               seqout.f:      CALL OUT1
+               seqout.f:      CALL OUT2
+               seqout.f:      CALL TOT
+hivap.f:       CALL TRANSM
+               transm.f:      CALL HALLOC
+               transm.f:      CALL OUT2
+               transm.f:      CALL OVER2
+                              over2.f:       CALL TLD
+               transm.f:      CALL OWKB
+                              owkb.f:        CALL FUSION
+----------------------------------------------------------------------
+ENTRIES - werden aber nicht benutzt:
+twkb.f:        ENTRY WKB
+
+vlro.f:        ENTRY VO
+vlro.f:        ENTRY VL
+vlro.f:        ENTRY VR

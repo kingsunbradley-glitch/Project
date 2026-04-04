@@ -1,0 +1,269 @@
+/u/giese/hivaptest-corr=>: diff engout.f.ohne engout.f                                                                             
+12,13c12,13
+< C     WRITE(6,5500) N1
+< C5500 FORMAT('ENGOUT-N1', I12)
+---
+>       WRITE(6,5500) N1
+>  5500 FORMAT('ENGOUT-N1', I12)
+61,62c61,62
+< C     WRITE(6,5501) N1
+< C5501 FORMAT('ENGOUT-N2', I12)
+---
+>       WRITE(6,5501) N1
+>  5501 FORMAT('ENGOUT-N2', I12)
+
+Mit TESTAUSGABE ABSTURZ:
+------------------------
+
+/u/giese/hivaptest-corr=>: hivapn                    
+fmt: read unexpected character
+apparent state: unit 10 named /tmp/tmp.FP75leV
+last format: (E10.5)
+lately reading sequential formatted external IO
+Abort 
+
+/u/giese/hivaptest-corr=>: grep NAN hivaperg.dat
+DENSTY1:        12740          NAN
+DENSTY2:        12739        12740          NAN
+DENSTY2:        12738        12739          NAN
+DENSTY2:        12737        12738          NAN
+DENSTY2:        12736        12737          NAN
+DENSTY2:        12735        12736          NAN
+DENSTY2:        12734        12735          NAN
+DENSTY2:        12733        12734          NAN
+DENSTY2:        12732        12733          NAN
+DENSTY2:        12731        12732          NAN
+DENSTY2:        12730        12731          NAN
+DENSTY2:        12729        12730          NAN
+EVA:            1          NAN     0.14E+15          NAN     0.26E+14
+PALL:            2          NAN     0.37E+15     0.12E+13     0.76E+12          NAN
+PALL:            3          NAN     0.81E+12
+FACT:            1          NAN     0.21E-05          NAN
+FACTOR:            1          NAN          NAN     0.81E+12     0.81E+12
+FACTOR:            2          NAN          NAN     0.37E+15     0.37E+15
+POPUL:          264          NAN          NAN            1     0.28E+14          NAN
+...
+
+Absturz nach etwa 1/3 des Outputs:
+-rw-r--r--  1 giese rz  88056850 2007-06-25 14:58 hivaperg.dat
+
+Ohne Testausgabe:
+-----------------
+-rw-r--r--  1 giese rz 297707557 2007-06-25 15:02 hivaperg.dat
+
+Trotzdem:
+DENSTY1:        12722          NAN
+DENSTY2:        12721        12722          NAN
+DENSTY2:        12720        12721          NAN
+DENSTY2:        12719        12720          NAN
+DENSTY2:        12718        12719          NAN
+DENSTY2:        12717        12718          NAN
+DENSTY2:        12716        12717          NAN
+DENSTY2:        12715        12716          NAN
+DENSTY2:        12714        12715          NAN
+...
+Nicht bei EVA,PALL,FACT,FACTOR,POPUL usw.
+
+URSACHE:
+========
+
+      DO 3040 KJ=1,JDIM                                                 01190000
+      ...
+      DUM=DMAX1(AMPAR1,DUM)                                             01330000
+ 3040 ARRAY(KJ)=DUM                                                     01340000
+      WRITE(6,5706) DUM,AMPAR1,KJ,JDIM
+ 5706 FORMAT(/'DENSTY_OM-6: ',2(E12.3,1X),2(I12,1X)/)
+
+=>
+DENSTY_OM-6:    0.000E+00    0.000E+00          101          100
+
+Ohne diese Testausgabe hat ARRAY(KJ) den Wert NAN
+
+Aber spaeter:
+DENSTY_OM-5:          NAN    0.203E-15          NAN            4
+
+???????
+
+grep DENSTY in hivaperg.dat mit Zeilennummern (117 Mal NAN, 533129 Zeilen mit DENSTY):
+
+52068   DENSTY_OM-4:    0.229E+02    0.197E+02   -0.336E+01          270
+52069   DENSTY_OM-4:    0.821E+01    0.548E+01    0.203E-15          401
+        DENSTY_OM-10:    0.227E+02    0.226E+02    0.226E+02    0.223E+02    0.236E+02    0.000E+00    0.000E+00    0.000E+00          NAN    0.564-314            1
+        DENSTY_OM-9:          NAN          NAN    0.227E+02    0.226E+02    0.226E+02    0.223E+02    0.236E+02
+52070   DENSTY_OM-5:    0.134E-14    0.203E-15    0.662E+01            1
+52071   DENSTY_OM-1:          NAN          NAN
+52072   DENSTY_OM-2:    0.100E+01    0.134E-14    0.111E+02    0.185E+02    0.548E+00
+52073   DENSTY_OM-3:          NAN    0.100E+01          NAN
+52074   DENSTY_OM:    0.000E+00          NAN          NAN    0.574E-05          NAN          NAN    0.111E+02
+52075   DENSTY_OM-4:    0.822E+01    0.549E+01    0.203E-15          402
+52076   DENSTY_OM-5:    0.507E-15    0.203E-15    0.250E+01            2
+52077   DENSTY_OM-1:    0.227E+02    0.227E+02
+52078   DENSTY_OM-2:    0.100E+01    0.507E-15    0.111E+02    0.185E+02    0.548E+00
+52079   DENSTY_OM-3:    0.227E+02    0.100E+01    0.227E+02
+52080   DENSTY_OM:    0.000E+00    0.227E+02    0.476E+01    0.172E-04    0.318E+02    0.629E+14    0.111E+02
+
+URSACHE:
+========
+      ALJF=(AL(5)-AL(1))*(1./(1.+EXP((RJ-RJLIM)/RJDIF) ))
+      XXX=EXP((RJ-RJLIM)/RJDIF)
+      WRITE(6,5710) (AL(III),III=1,5),RJ,RJLIM,RJDIF,XXX,ALFJ,LDBM
+ 5710 FORMAT(/'DENSTY_OM-10: ',10(E12.3,1X),I12,1X/)
+
+Also: EXP(0.0/0.0) <=================================================================
+
+Von:
+      JSHAP=97                                                          01150000
+      JBAR=99                                                           01160000
+      RJLIM=0.5*(JBAR+JSHAP)                                            01360000
+      RJLIM=DMAX1(AMPAR2,RJLIM)                                         01370000
+      RJDIF=0.2*(JBAR-JSHAP)                                            01380000
+      RJDIF=DMAX1(AMPAR3,RJDIF)                                         01390000
+      RJDIF=DMIN1(AMPAR5,RJDIF)                                         01400000
+      IF(LPRINT.LT.3) WRITE(6,3041) JSHAP,JBAR,RJLIM,RJDIF              01410000
+      RJ=KJ-1                                                           02110000
+      ALJF=(AL(5)-AL(1))*(1./(1.+EXP((RJ-RJLIM)/RJDIF) )) 
+      
+Neu:
+
+DENSTY_OM-11:           67           56    0.300E+02    0.200E+01    0.100E+02    0.615E+02    0.220E+01
+DENSTY_OM-8:    0.227E+02    0.227E+02    0.226E+02    0.226E+02    0.223E+02    0.236E+02
+...
+...
+DENSTY_OM-4:    0.229E+02    0.197E+02   -0.336E+01    0.690E+02          270           70           70
+DENSTY_OM-4:    0.821E+01    0.548E+01    0.203E-15    0.000E+00          401            1           63
+DENSTY_OM-10:    0.227E+02    0.226E+02    0.226E+02    0.223E+02    0.236E+02    0.000E+00    0.000E+00    0.000E+00          NAN  
+  0.564-314            1
+DENSTY_OM-9:          NAN          NAN    0.227E+02    0.226E+02    0.226E+02    0.223E+02    0.236E+02
+DENSTY_OM-5:    0.134E-14    0.203E-15    0.662E+01            1
+DENSTY_OM-1:          NAN          NAN
+
+LOESUNG:
+========
+Im Common-Bereich aufheben: RJLIM, RJDIM
+ => nur noch 45 mal NAN gefunden !
+Gegenueber 294 mal NAN (in den DENSTY-Ausgaben) !
+
+D.h.: Viele Variablen werden bei einem Aufruf gesetzt und erst bei spaeteren Aufrufen benutzt!
+
+DENSTY_OM-5:          NAN    0.203E-15          NAN            6
+DENSTY_OM-2:          NAN          NAN    0.505E+01          NAN          NAN
+DENSTY_OM-3:    0.236E+02          NAN          NAN
+DENSTY_OM:    0.000E+00          NAN          NAN    0.631E-04          NAN          NAN    0.505E+01
+DENSTY1:        12734          NAN          NAN    0.000E+00          301
+DENSTY2:        12733        12734          NAN
+DENSTY2:        12732        12733          NAN
+...
+
+Im Common-Bereich noch aufheben: ARRAY
+ => kein NAN mehr gefunden !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Daraufhin:
+-----------
+
+In eva.f kein WRITE-Befehl mehr (der frueher half)
+ => Immer noch OK
+ 
+In popul.f:
+Drei evtl. Problem-Varioable in Common-Bereich:
+ COMMON/POPULVAR/PER0,
+     1                FACT,FACTOR,PALL
+
+Weiterhin kein NAN (nan) mehr... (War evtl. gar nicht notwenig)
+
+Wegnehmen von immer mehr WRITE-Befehlen, aber auch
+E12.2 statt E12.3 => immer weniger Unterschiede!
+
+Jetzt nur noch in 174 Zeilen!
+Z.B.:
+276610c276610
+< TEST-GRIDS-1A:          283     0.49E+01     0.60E-02
+---
+> TEST-GRIDS-1A:          283     0.49E+01     0.59E-02
+283193c283193
+< TEST-GRIDS-1A:          523     0.23E+02     0.24E-01
+---
+> TEST-GRIDS-1A:          523     0.22E+02     0.24E-01
+287616c287616
+< TEST-GRIDS-2-VORHER:           58           22   0.2177E+02   0.0000E+00   0.0000E+00         4096           49           14   0.1
+357E+02   0.0000E+00   0.7813E+01   0.0000E+00   0.0000E+00            5
+---
+> TEST-GRIDS-2-VORHER:           58           22   0.2177E+02   0.0000E+00   0.0000E+00         4096           49           14   0.1
+357E+02   0.0000E+00   0.7812E+01   0.0000E+00   0.0000E+00            5
+287619c287619
+< SUMPOP:           58           22   0.2177E+02   0.0000E+00   0.0000E+00         4096           49           14   0.1357E+02   0.0
+000E+00   0.7813E+01   0.0000E+00   0.0000E+00            5
+---
+> SUMPOP:           58           22   0.2177E+02   0.0000E+00   0.0000E+00         4096           49           14   0.1357E+02   0.0
+000E+00   0.7812E+01   0.0000E+00   0.0000E+00            5
+287622c287622
+< TEST-GRIDS-2-NACHHER:           58           22   0.2177E+02   0.0000E+00   0.0000E+00         4096           49           14   0.
+1357E+02   0.0000E+00   0.7813E+01   0.0000E+00   0.0000E+00            5
+---
+> TEST-GRIDS-2-NACHHER:           58           22   0.2177E+02   0.0000E+00   0.0000E+00         4096           49           14   0.
+1357E+02   0.0000E+00   0.7812E+01   0.0000E+00   0.0000E+00            5
+
+Interessant in sumpop.f:
+------------------------
+
+Obwohl fast alle Einzelwerte uebereinstimmen, ist die Summe verschieden:
+AIX:
+...
+SUMPOP-SUM:            6         2837   0.0000E+00
+SUMPOP-SUM:            6         2838   0.0000E+00
+SUMPOP-FLOST:   0.9326E-14   0.9326E-14   0.2646E+01   0.1016E+01   0.2646E+01
+
+Linux:
+...
+SUMPOP-SUM:            6         2837   0.0000E+00
+SUMPOP-SUM:            6         2838   0.0000E+00
+SUMPOP-FLOST:   0.7105E-14   0.7105E-14   0.2646E+01   0.1016E+01   0.2646E+01
+
+Unterschiede waren nur an 13 von 2838 Stellen:
+< SUMPOP-SUM:            6           13   0.2096E-03
+> SUMPOP-SUM:            6           13   0.2097E-03
+< SUMPOP-SUM:            6          183   0.3175E-02
+> SUMPOP-SUM:            6          183   0.3176E-02
+< SUMPOP-SUM:            6          497   0.9598E-05
+> SUMPOP-SUM:            6          497   0.9599E-05
+< SUMPOP-SUM:            6          507   0.8959E-09
+> SUMPOP-SUM:            6          507   0.8960E-09
+< SUMPOP-SUM:            6          920   0.9525E-03
+> SUMPOP-SUM:            6          920   0.9526E-03
+< SUMPOP-SUM:            6         1070   0.9958E-12
+> SUMPOP-SUM:            6         1070   0.9959E-12
+< SUMPOP-SUM:            6         1882   0.4612E-12
+> SUMPOP-SUM:            6         1882   0.4613E-12
+< SUMPOP-SUM:            6         1924   0.1527E-11
+> SUMPOP-SUM:            6         1924   0.1528E-11
+< SUMPOP-SUM:            6         2136   0.4273E-11
+> SUMPOP-SUM:            6         2136   0.4274E-11
+< SUMPOP-SUM:            6         2221   0.2874E-11
+> SUMPOP-SUM:            6         2221   0.2875E-11
+< SUMPOP-SUM:            6         2263   0.5373E-11
+> SUMPOP-SUM:            6         2263   0.5374E-11
+< SUMPOP-SUM:            6         2305   0.9618E-11
+> SUMPOP-SUM:            6         2305   0.9619E-11
+< SUMPOP-SUM:            6         2556   0.1693E-11
+> SUMPOP-SUM:            6         2556   0.1694E-11
+
+Ursache: Ausloeschung!
+
+Aehnlich wohl bei (insgesamt 12 Mal):
+< TEST-GRIDS-1A:          283     0.49E+01     0.60E-02
+> TEST-GRIDS-1A:          283     0.49E+01     0.59E-02
+< TEST-GRIDS-1A:          523     0.23E+02     0.24E-01
+> TEST-GRIDS-1A:          523     0.22E+02     0.24E-01
+
+Unterschied schon in der 2. Stelle !
+
+Endversion:
+===========
+more hivaperg.dat | grep POPUL-ISO | wc
+896
+
+Aber immer:
+POPUL-ISO:            0            0     0.00E+00            0            0
+
+Frueher waren dort unterschiedliche Werte !
+Trotzdem Programmierfehler !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+

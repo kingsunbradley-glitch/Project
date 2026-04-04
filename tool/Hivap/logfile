@@ -1,0 +1,932 @@
+HIVAP im AIX (clri6m):
+----------------------
+
+†bersetzbar mit f77=xlf erst nach Splitten der Dateien mit mehr als 1 Programm pro Datei:
+ barfit.f, beta.f, fusio.f, hivap.f
+Sonst: xlf: 1501-224 fatal error in /usr/lpp/xlf/bin/bolt: signal 11 received
+ barfit.f hat:  SUBROUTINE LPOLY(X,N,PL)  => lpoly.f
+ beta.f   hat:  FUNCTION EXF(X)           => exf.f
+ fusio.f  hat:  FUNCTION GAU(X,SI,XLIM)   => gau.f
+ hivap.f  hat:  BLOCK DATA                => main.f
+
+Nach Trennung und †bersetzung:
+diff hivaperg.dat /u/schaedel/hivap/Hivap_source/hivaperg.dat
+
+HIVAP-Umstellung auf Linux:
+===========================
+
+03.05.07:
+Source geholt von: /u/schaedel/hivap/Hivap_source
+
+Bemerkungen:
+eva2.f und hivap2.f und pri.f und vlro2.f: werden nicht benutzt
+
+-------------------------------------------------------------------
+
+€nderungen in Makefile:
+# F77 = f77 oder F77 = pgf77
+F77 = g77
+# Debug
+FFLAGS = -g
+# Warnings unsichtbar
+# FFLAGS = -g -w
+# Optimize
+# FFLAGS = -O
+#
+.f.o:
+        $(F77) -c $(FFLAGS) $<
+
+hivapn: $(OBJS) hivap.f
+        $(F77) $(FFLAGS) $(OBJS) hivap.f -o hivapn
+
+clean: 
+        rm -f $(OBJS) hivan
+-------------------------------------------------------------------
+
+†bersetzung:
+Padding-Warnings - Fast Ÿberall:
+--------------------------------
+
+ common.f:7: warning:
+         COMMON IPOPS,POP(4096),POPN(4096),POPP(4096),POPA(4096),EXMAX1,M1,
+         ^
+ Padding of 4 bytes required before `q' in common block `_BLNK__' at (^) -- consider reordering members, largest-type-size first
+
+ Initial padding for common block `_BLNK__' is 4 bytes at (^) -- consider reordering members, largest-type-size first
+ common.f:28: warning:
+         COMMON/YR/JDIM,EJAY(500),JUPYR,IYR,IRAST,RATIOS(6),               
+                ^
+ Padding of 4 bytes required before `ratios' in common block `yr' at (^) -- consider reordering members, largest-type-size first
+
+ common.f:31: warning:
+         COMMON/GAM/KEG,ECUBE(26),EFIVE(26),CGIANT,EGIANT,GAMMA,GAMQ,JFACTR
+                ^
+ Initial padding for common block `gam' is 4 bytes at (^) -- consider reordering members, largest-type-size first
+
+ common.f:33: warning:
+         COMMON/TRNS/TCOFN(25,13),TCOFP(25,13),TCOFA(50,21),KEN,KEP,KEA,   
+                ^
+ Padding of 4 bytes required before `del' in common block `trns' at (^) -- consider reordering members, largest-type-size first
+
+ common.f:39: warning:
+         COMMON/CASE/XSECTE(27,27,NENMX),ELABE(NENMX),SIGFUE(NENMX),       
+                ^
+ Padding of 4 bytes required before `elabe1' in common block `case' at (^) -- consider reordering members, largest-type-size first
+
+ common.f:42: warning:
+         COMMON/POPU/JFMINN,JFMINP,JFMINA,DJJ2,DJJ3,DJJ4,YPOPJ(100),       
+                ^
+ Initial padding for common block `popu' is 4 bytes at (^) -- consider reordering members, largest-type-size first
+
+ common.f:46: warning:
+         COMMON/ISOM/NUMISO,ISO,ISOA(5),ISOZ(5),ISOJ(5),SIGISO(5)          
+                ^
+ Initial padding for common block `isom' is 4 bytes at (^) -- consider reordering members, largest-type-size first
+
+Warning in rot.f:
+-----------------
+ rot.f:91: warning:
+         CALL FISROT(AMASS,ZEE,AN,0.,DELR,BFCPS,EROT,0.)                   
+              1
+ rot.f:94: (continued):
+         CALL FISROT(AMASS,ZEE,AN,AA,DELR,SPT,EROT,DUM)                    
+              2
+ Argument #4 of `fisrot' is one precision at (2) but is some other precision at (1) [info -f g77 M GLOBALS]
+ Argument #8 of `fisrot' is one precision at (2) but is some other precision at (1) [info -f g77 M GLOBALS]
+
+Warning in seqout.f:
+--------------------
+ seqout.f:194: warning:
+         CALL OUT2(FLAND,N1,1,0,0,0,0,10,0,1)                              
+              1
+ seqout.f:250: (continued):
+         CALL OUT2(SPECG,KEG,1,1,0,0,FACTOR,10,0,0)                        
+              2
+ Argument #7 of `out2' is one type at (2) but is some other type at (1) [info -f g77 M GLOBALS]
+
+Warning in vlro.f:
+------------------
+ vlro.f:40: 
+         COMMON/PUSHPA/SPUSH,SCREIPA
+         1
+ vlro.f:41: (continued):
+         IMPLICIT REAL*8 (A-H,O-Z)
+         2
+ Statement at (2) invalid in context established by statement at (1)
+=> ABBRUCH:
+ make: *** [vlro.o] Error 1
+
+Korrektur von vlro.f:
+---------------------
+      COMMON/PUSHPA/SPUSH,SCREIPA
+      IMPLICIT REAL*8 (A-H,O-Z)
+zu
+C     I.Giese 2007
+      IMPLICIT REAL*8 (A-H,O-Z)
+      COMMON/PUSHPA/SPUSH,SCREIPA
+
+Neu-†bersetzung:
+----------------
+OK
+
+Aufruf:
+-------
+Memory fault
+
+Ursache: Entries:
+-----------------
+twkb.f:      ENTRY WKB(OCOS,ECM,L,RIN,ROUT)                                    WIRD NICHT BENUTZT...
+vlro.f:      ENTRY VO(L,R,ECM,OCOS)                                            
+vlro.f:      ENTRY VL(L,R,ECM,OCOS)                                            WIRD NICHT BENUTZT...
+vlro.f:      ENTRY VR(R)                                                       
+
+Reparatur in VLRO:
+------------------
+Benutzung von lokalen Grš§en fŸr:
+ P_AP,P_AT,P_Q2,L_NORUTH,L_NOPROX,L_NOCURV,P_V0,P_D,P_XTH,P_APUSH,L_IOP
+Problem:
+ ParameterrŸckgabe bei umgesetzen Werten:
+ L_NORUTH,L_NOCURV,P_V0,P_D
+ Aber nur, wenn vom Hauptentry aufgerufen!
+ Dazu Variable L0_ENTRY,L1_ENTRY,L2_ENTRY besetzen und in BlockData speichern
+Auch die o.a. Variable in einem Common-Block speichern, damit beim nŠchsten Aufruf vorhanden
+
+Neuer Make:
+-----------
+LŠuft!!!
+hivapaus.dat stimmt mit Original Ÿberein!
+hivaperg.dat zeigt Unterschiede:
+ AIX:    Exp. Schaleneffekte,  SHELL0=     .00
+ Linux:  Exp. Schaleneffekte,  SHELL0=    0.00
+ 
+Aber:
+ AIX:    Extra-Push Parameter: E_push =     .00 MeV   x_eq_m=  .569   xth=  .700   Apush=18.000   E_ch=   9.570   xcn=  .758   x_eq_eff=  .427
+ Linux:  Extra-Push Parameter: E_push =    0.00 MeV   x_eq_m=   nan   xth=******   Apush= 0.000   E_ch=     nan   xcn=   nan   x_eq_eff=   nan
+
+Ursache: Schlechte Formatangaben fuer Testausgaben und VLRO-Problem
+
+ NEU:    Extra-Push Parameter: E_push =    0.00 MeV   x_eq_m= 0.569   xth= 0.700   Apush=18.000   E_ch=   9.570   xcn= 0.758   x_eq_eff= 0.42
+7
+
+EQUIVALENCE:
+------------
+barfit.f:      EQUIVALENCE (EGS1(1,1),EGSCOF(1,1,1)), (EGS2(1,1),EGSCOF(1,1,2)),...         
+common.f:      EQUIVALENCE (RLOSTF(1),SIGF(1)),(STORE(1,1),EXC(1,1))             
+decodn.f:      EQUIVALENCE (SY(11),MINUS),(SY(14),ESIGN),(SY(12),PERIOD),(SY(15),...
+
+Muss untersucht werden! Geht aber im AIX...
+
+Weitere Probleme:
+-----------------
+Memory fault und Segmentation-Fault in VLRO:
+
+Ursache: In HIVAP wurde FUSIO mit zwei Konstanten (1) aufgerufen, die aber zum Teil (L_NORUTH) RŸckgabeparameter waren.
+
+Weitere Probleme:
+-----------------
+Memory fault und Segmentation-Fault in VLRO:
+
+Ursache: In VLRO mit den beiden Entries muessen alle Variable, die beim Haupt- oder Nebenentry gesetzt werden und in den Nebenentries benutzt werden, in einem COMMON-Block gespeichert werden!
+
+Laeuft besser, aber dann:
+
+fmt: read unexpected character
+apparent state: unit 10 named /tmp/tmp.FolveSj
+last format: (E10.5)
+lately reading sequential formatted external IO
+Abort 
+
+Aber noch vorher:
+1. Durchlaeufe mit 22, 197, 10, 79, ... OK
+2. Durchlauf   mit  1, 218,  9, 89, ... => Unterschiede
+
+AIX:
+TEST1:    .1000E+01    .2180E+03    .0000E+00    .8900E+02    .0000E+00            1            1            1    .1000E+01    .4701
+E+02    .1084E+01    .6600E+00    .0000E+00    .0000E+00    .2653-314    .9954E-01            1    .7605E+01           -1
+
+
+TEST1:    .1000E+01    .2180E+03    .0000E+00    .8900E+02    .0000E+00            1            1            1    .1000E+01    .4701
+E+02    .1084E+01    .6600E+00    .0000E+00    .0000E+00    .2653-314    .9954E-01            1    .1246E+02           -1
+
+
+TEST1:    .1000E+01    .2180E+03    .0000E+00    .8900E+02    .0000E+00            1            1            1    .1000E+01    .4701
+E+02    .1084E+01    .6600E+00    .0000E+00    .0000E+00    .2653-314    .9954E-01            1    .1122E+02           -1
+
+
+TEST1:    .1000E+01    .2180E+03    .0000E+00    .8900E+02    .0000E+00            1            1            1    .1000E+01    .4701
+E+02    .1084E+01    .6600E+00    .0000E+00    .0000E+00    .2653-314    .9954E-01            2    .1122E+02           -1
+...
+Linux:
+TEST1:   0.1000E+01   0.2180E+03   0.0000E+00   0.8900E+02   0.0000E+00            1            1            1   0.1000E+01   0.4701
+E+02   0.1084E+01   0.6600E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.9954E-01            1   0.7605E+01           -1
+
+
+TEST1:   0.1000E+01   0.2180E+03   0.0000E+00   0.8900E+02   0.0000E+00            1            1            1   0.1000E+01   0.4701
+E+02   0.1084E+01   0.6600E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.9954E-01            1   0.1246E+02           -1
+
+
+TEST1:   0.1000E+01   0.2180E+03   0.0000E+00   0.8900E+02   0.0000E+00            1            1            1   0.1000E+01   0.4701
+E+02   0.1084E+01   0.6600E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.9954E-01            1   0.1122E+02           -1
+
+
+TEST1:   0.1000E+01   0.2180E+03   0.0000E+00   0.8900E+02   0.0000E+00            1            1            1   0.1000E+01   0.4701
+E+02   0.1084E+01   0.6600E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.1095E+01            1   0.7605E+01           -1
+...
+
+Ab der 4. Zeile Unterschied (von Nichtbesetzung des 5.-letzten Parameters abgesehen)
+
+Notloesung:
+-----------
+
+In grids.f 4 Werte in einen Common-Bereich gegeben, damit sie die Werte behalten:
+
+COMMON/CGRIDS/N,M,EXMAX,SUMN
+
+Beobachtung - Rundungsfehler im dritten Wert POPN(I):
+
+251003c251003
+< TEST-GRIDS-1A:          721   0.5180E+02   0.2749E-04
+---
+> TEST-GRIDS-1A:          721   0.5180E+02   0.2750E-04
+253133c253133
+< TEST-GRIDS-1A:         1431   0.1641E+03   0.1658E-09
+---
+> TEST-GRIDS-1A:         1431   0.1641E+03   0.1659E-09
+253700c253700
+< TEST-GRIDS-1A:         1620   0.2003E+03   0.4910E-04
+---
+> TEST-GRIDS-1A:         1620   0.2003E+03   0.4911E-04
+253823c253823
+< TEST-GRIDS-1A:         1661   0.2091E+03   0.3305E-01
+---
+> TEST-GRIDS-1A:         1661   0.2091E+03   0.3306E-01
+
+Aber dann spaeter groessere Abweichungen beim 3. Durchgang (1, 3, 66, 44, ...) ab Zeile 771 bis 791:
+- Aber erst ab der 8. Stelle nach dem Komma relativ zu SUMN
+
+261383c261383
+< TEST-GRIDS-1A:          771   0.4913E+02   0.1019E-03
+---
+> TEST-GRIDS-1A:          771   0.4913E+02   0.1023E-03
+261386c261386
+< TEST-GRIDS-1A:          772   0.4913E+02   0.4676E-04
+---
+> TEST-GRIDS-1A:          772   0.4913E+02   0.4871E-04
+261389c261389
+< TEST-GRIDS-1A:          773   0.4913E+02   0.2050E-04
+---
+> TEST-GRIDS-1A:          773   0.4913E+02   0.2275E-04
+
+Noch spaeter:
+
+261644c261644
+< TEST-GRIDS-1A:          858   0.5794E+02          NAN
+---
+> TEST-GRIDS-1A:          858   0.5794E+02   0.2067E-03
+261647c261647
+< TEST-GRIDS-1A:          859          NAN          NAN
+---
+> TEST-GRIDS-1A:          859   0.5794E+02   0.9983E-04
+
+(Eventuell auch Ursache fuer Absturz am Ende:
+fmt: read unexpected character
+apparent state: unit 10 named /tmp/tmp.FQ8kCdI
+last format: (E10.5)
+lately reading sequential formatted external IO
+...)
+
+D.h. POPN ist "falsch" berechnet!
+
+Aenderung in sumpop.f:
+DIMENSION POP(4096),POP1(4096),POP0(4096),SUME(120),SUMJ(400)
+spaeter:
+DIMENSION POP(*),POP1(*),POP0(*),SUME(120),SUMJ(400)
+
+Analog in:
+tot.f
+cutoff.f
+decodn.f  <=  UNKLAR: myrd.f ruft DECODN(ARRAY(I),...) auf, aber rot.f ruft DECODN(ARRAY,...) auf !
+fusio.f
+fusion.f
+invpar.f
+om.f
+out2.f
+over2.f   <=  UNKLAR: transm.f ruft es mit verschiedenen zweidimensionalen Feldern auf: TCOFA,TCOFN,TCOFP: TCOFN(25,13),TCOFP(25,13),TCOFA(50,21) - Innerhalb over2.f aber eindimensional!
+owkb.f    <=  Das gleiche !!!
+parap.f   <=  UNKLAR: Aufruf aus hivap.f mit CALL PARAP(..., POPN(1),POPN(401),FLGRAZ)
+sepenf.f  <=  UNKLAR: wird aufgerufen mit zweidimensionalem Feld - innerhalb aber eindimensional !
+
+Testausgaben in popul.f:
+Ab Zeile 987563:
+POPUL:           22
+POPUL:           22          NAN          NAN
+POPUL:           23          NAN          NAN
+POPUL:           24          NAN          NAN
+POPUL:           25          NAN          NAN
+POPUL:           26          NAN          NAN
+POPUL:           27          NAN          NAN
+POPUL:           28          NAN          NAN
+POPUL:           29          NAN          NAN
+POPUL:           30          NAN          NAN
+POPUL:           31          NAN          NAN
+POPUL:           32          NAN          NAN
+POPUL:           33          NAN          NAN
+POPUL:           34          NAN          NAN
+POPUL:           35          NAN          NAN
+POPUL:           36          NAN          NAN
+POPUL:           37          NAN          NAN
+POPUL:           38          NAN          NAN
+POPUL:           39          NAN          NAN
+POPUL:           40          NAN          NAN
+POPUL:           41          NAN          NAN
+POPUL:           42          NAN          NAN
+POPUL:           43          NAN          NAN
+Danach erst Probleme in TEST-GRIDS-1A...
+
+Neues Makefile:
+---------------
+FFLAGS = -g -O -fpedantic -Wunused -Wuninitialized
+
+=>
+
+Alle uninitialisierten variablen in jeder Routine in einen Common-Block geschrieben
+(da jeweilige Initialisierung mit 0 ja nicht klar ist)
+
+Jetzt nur noch etwa 38900 Zeilen Ausgabe
+Ab 38774 Unterschiede zu AIX.
+
+Evtl. auch wegen:
+FFLAGS = -g -O -fpedantic -Wunused -Wuninitialized
+
+Anderer Compiler:
+-----------------
+
+. pgilogin
+und im Makefile: pgf77
+
+Unterschiede jetzt (in hivap.f):
+
+38429c38429
+< POPN:            1            1  -0.5986E+04   0.1000E+01  -0.5986E+04
+---
+> POPN:            1            1   0.3074E+00   0.1000E+01   0.3074E+00
+38432c38432
+< POPN:            2            2  -0.1796E+05   0.1000E+01  -0.1796E+05
+---
+> POPN:            2            2   0.9221E+00   0.1000E+01   0.9221E+00
+
+Auffallend:
+hivap.f ruft auf: OM,PARAP,FUSE,MYRD mit POPN(1) statt POPN und einmal sogar POPN(1) und POPN(401)!
+
+Problem:
+POP wird in fusio.f falsch berechnet.
+=> GAU wird falsch berechnet.
+
+AHA:
+T = ERF(T) wird falsch berechnet !!!
+
+URSACHE: Man muss DERF benutzen, keine automatische Umwandlung auf REAL*8
+
+AIX:
+GAU-1:    .3536E+01
+GAU-2:    .1000E+01    <= RICHTIG, ab etwa Wert 2 asymptotisch gegen 1 gehend !
+
+Linux:
+GAU-1:   0.3536E+01
+GAU-2:  -0.5135E-04    <= FALSCH
+
+DER PGI-COMPILER IST UNSINN !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Zurueck zu f77:
+---------------
+
+POPUL-Ungenauigkeiten:
+DUM=TMTBN(IT)*FACTOR
+POPN(IPO)=POPN(IPO)+DUM
+WRITE(6,5022) IPO,DUM,POPN(IPO),IT,TMTBN(IT),FACTOR
+
+Beachte: IDL liefert (ebenso bcl):
+print, 0.115266D+22 * 0.729907D-23  =>   0.0084133460
+
+249590c249584
+< POPUL:            1   0.841333E-02   0.841333E-02            1   0.115266E+22   0.729907E-23
+---
+> POPUL:            1   0.841333E-02   0.841333E-02            1   0.115267E+22   0.729899E-23
+249593c249587
+< POPUL:            2   0.482548E-01   0.482548E-01            2   0.661109E+22   0.729907E-23
+---
+> POPUL:            2   0.482548E-01   0.482548E-01            2   0.661115E+22   0.729899E-23
+...
+988115c988106
+< POPUL:         2364   0.000000E+00   0.000000E+00           22   0.000000E+00   0.832325E-18
+---
+> POPUL:         2364   0.000000E+00   0.000000E+00           22   0.000000E+00   0.832324E-18
+988118c988109
+< POPUL:         2365   0.000000E+00   0.000000E+00           23   0.000000E+00   0.832325E-18
+---
+> POPUL:         2365   0.000000E+00   0.000000E+00           23   0.000000E+00   0.832324E-18
+988124c988115
+< POPUL:           22            NAN            NAN            1   0.180516E+12            NAN
+---
+> POPUL:           22   0.595207E-08   0.111958E-05            1   0.180518E+12   0.329722E-19
+988127c988118
+< POPUL:           23            NAN            NAN            2   0.779378E+12            NAN
+---
+> POPUL:           23   0.256981E-07   0.564574E-06            2   0.779388E+12   0.329722E-19
+...
+988187c988178
+< POPUL:           43            NAN            NAN           22   0.103790E+03            NAN
+---
+> POPUL:           43   0.342221E-17   0.110808E-16           22   0.103791E+03   0.329722E-19
+988193c988184
+< POPUL:           65   0.179838E-07   0.336225E-05            1   0.537128E+12   0.334815E-19
+---
+> POPUL:           65   0.179838E-07   0.336225E-05            1   0.537135E+12   0.334810E-19
+
+Ursache:
+FACTOR ist falsch, da FACT falsch, da PALL falsch, P(5) falsch:
+
+WRITE(6,5301)1,FACT,POP(JPEP),PALL
+WRITE(6,5300)1,FACTOR,FACT,P(1),HIST(1)
+WRITE(6,5303)2,PALL,P(2),P(3),P(4),P(5)
+
+COMMON: P(5)
+
+11928   FACT:            1            NAN   0.805575E-07            NAN
+
+11931   FACTOR:            1            NAN            NAN   0.675436E+09   0.691577E+09
+11934   FACTOR:            2            NAN            NAN   0.221404E+13   0.219877E+13
+12003   FACTOR:            3            NAN            NAN   0.198234E+10   0.198235E+10
+12006   FACTOR:            4            NAN            NAN   0.177328E+10   0.177301E+10
+
+66051   PALL:            2            NAN   0.221404E+13   0.198234E+10   0.177328E+10            NAN
+66054   PALL:            3            NAN   0.675436E+09
+
+==================================================================================
+30. Mai 2007:
+Einbau von Test-Ausgaben in eva.f => PROGRAMM LAEUFT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+HIVAP  CASOUT
+
+ Ne-22 + Au-197 --> Ac-219  30. 10. 1996    Normale  Rechnung           
+
+
+     E_lab  A*MeV   E*/MeV     SI_fus      SI_VR     SI_Spalt  L_krit     b_Spalt
+
+   120.000    5.45    57.2  0.7140E+03  0.2688E+02  0.6842E+03    57.0       95.83
+   124.000    5.64    60.8  0.8074E+03  0.2055E+02  0.7834E+03    59.0       97.03
+   128.000    5.82    64.4  0.8784E+03  0.1571E+02  0.8586E+03    61.0       97.75
+   132.000    6.00    68.0  0.9278E+03  0.1191E+02  0.9112E+03    62.0       98.21
+
+     Querschnitte / mbarn
+
+  E*/MeV   211Ac     212Ac     213Ac     214Ac     215Ac     216Ac     217Ac     218Ac     219Ac  
+    57.2 0.000E+00 0.463E-03 0.781E+01 0.155E+02 0.142E+01 0.298E-02 0.000E+00 0.000E+00 0.000E+00
+     2.6
+    60.8 0.000E+00 0.425E-01 0.108E+02 0.713E+01 0.342E+00 0.428E-03 0.000E+00 0.000E+00 0.000E+00
+     2.5
+    64.4 0.000E+00 0.436E+00 0.103E+02 0.263E+01 0.746E-01 0.540E-04 0.000E+00 0.000E+00 0.000E+00
+     2.6
+    68.0 0.409E-03 0.142E+01 0.743E+01 0.847E+00 0.154E-01 0.195E-05 0.000E+00 0.000E+00 0.000E+00
+     0.0
+
+  E*/MeV   210Ra     211Ra     212Ra     213Ra     214Ra     215Ra     216Ra     217Ra     218Ra  
+    57.2 0.000E+00 0.000E+00 0.875E-03 0.555E+00 0.149E+01 0.101E+00 0.153E-02 0.230E-05 0.000E+00
+     2.6
+    60.8 0.000E+00 0.000E+00 0.232E-01 0.116E+01 0.999E+00 0.314E-01 0.293E-03 0.142E-06 0.000E+00
+     2.5
+    64.4 0.000E+00 0.265E-05 0.172E+00 0.152E+01 0.531E+00 0.858E-02 0.516E-04 0.000E+00 0.000E+00
+     2.6
+    68.0 0.000E+00 0.318E-03 0.524E+00 0.144E+01 0.228E+00 0.213E-02 0.832E-05 0.000E+00 0.000E+00
+     0.0
+
+Beachte:
+--------
+Im Linux werden zwischen den letzten Zeilen noch 4*1 Wert ausgegeben!
+
+Evtl. in casout.f:
+IF(EXCITE1(IE).GT.0.) WRITE(LOGUN,'(F8.1)') EXCITE1(IE)
+
+Aha. Unterschied in EXCITE1(IE):
+
+AIX:
+CASOUT:            4            1   0.0000E+00
+Linux:
+CASOUT:            4            1   0.2596E+01
+
+Ursache:
+IF(ELABE1(I).GT.0.) EXCITE1(I)=DUM0
+
+Bei ELABE1(I).LE.0. bekommt EXCITE1(I) keinen Wert!
+
+Bemerkung:
+----------
+Ausgabe in eva.f und popul.f von den obigen Testdaten (PALL: FACT: usw.) mit E12.2 statt E14.6 =>
+
+/u/giese/hivap=>: wc hivaperg* 
+  7656544  14413059 177134634 hivaperg.dat
+    15196     60416    656650 hivaperg.diff
+  7656536  14413051 177134562 hivaperg.null.dat
+ 
+Bei TEST-GRIDS-1A noch Unterschiede in der 4. Stelle!
+Ausgabe in grids.f mit E12.3 statt E12.4 (TEST-GRIDS-1A und TEST-GRIDS-1B)
+
+/u/giese/hivap=>: wc hivaperg*
+  7656544  14413059 177134634 hivaperg.dat
+    10104     45144    489320 hivaperg.diff
+  7656536  14413051 177134562 hivaperg.null.dat
+  
+Aber:
+Die Zwischendatei dummi6.dat hat zum Teil unterschiedliche Werte!
+Sind aber eventuell auch nicht besetzte Werte wie bei hivaperg.dat !!!
+  
+Verringerung der Testdaten:
+===========================
+
+twkb.f:
+C     WRITE(6,5030) 1,R
+ 5030 FORMAT(/'TWKB: ', I12,1X,E12.4,1X/)
+C     WRITE(6,5030) 2,R3
+C     WRITE(6,5030) 3,ROUT
+C     WRITE(6,5030) 4,R
+C     WRITE(6,5030) 5,R3
+C     WRITE(6,5030) 6,D1
+C     WRITE(6,5030) 7,DUM
+C     WRITE(6,5030) 8,DUM1
+
+Folge:
+3424 Mal Ausgabe von NAN (und 1 Mal nan).
+
+/u/giese/hivap=>: grep -i nan hivaperg.dat
+EVA:            1          NAN     0.12E+18          NAN     0.29E+17
+PALL:            2          NAN     0.73E+18     0.19E+16     0.11E+16          NAN
+PALL:            3          NAN     0.10E+16
+FACT:            1          NAN     0.97E-05          NAN
+FACTOR:            1          NAN          NAN     0.10E+16     0.10E+16
+FACTOR:            2          NAN          NAN     0.73E+18     0.73E+18
+POPUL:          399          NAN          NAN            1     0.42E+17          NAN
+POPUL:          400          NAN          NAN            2     0.21E+18          NAN
+POPUL:          401          NAN          NAN            3     0.19E+18          NAN
+POPUL:          402          NAN          NAN            4     0.13E+18          NAN
+...
+TEST-GRIDS-1A:         3780          NAN    0.000E+00
+TEST-GRIDS-1B:         3780          NAN
+TEST-GRIDS-2-VORHER:           70           54   0.5322E+02   0.1003E-07   0.1649E+01         4096           70           54   0.5322E+02   0.1042E-07          NAN   0.0000E+00   0.0000E+00            5
+SUMPOP:           70           54   0.5322E+02   0.1003E-07   0.1649E+01         4096           70           54   0.5322E+02   0.1042E-07          NAN   0.0000E+00   0.0000E+00            5
+TEST-GRIDS-2-NACHHER:           70           54   0.5322E+02   0.1003E-07   0.1649E+01         4096           70           54   0.5322E+02   0.1042E-07          NAN   0.2046E-07          NAN            5
+TEST-GRIDS-3-VORHER:           70           54   0.5322E+02   0.2046E-07          NAN         4096           70           54   0.5322E+02   0.0000E+00   0.0000E+00   0.0000E+00          NAN            5
+SUMPOP:           70           54   0.5322E+02   0.2046E-07          NAN         4096           70           54   0.5322E+02   0.0000E+00   0.0000E+00   0.0000E+00          NAN            5
+TEST-GRIDS-3-NACHHER:           70           54   0.5322E+02   0.2046E-07          NAN         4096           70           54   0.5322E+02   0.0000E+00          NAN   0.2046E-07          NAN            5
+TEST-GRIDS-1:            2            3           70           54   0.4544E-08           70           54   0.5322E+02          NAN
+   132.000    6.00    68.0  0.9278E+03  0.1056E+02         NAN    62.0         nan
+
+und: FAST richtiges Ergebnis !!!
+
+Unterschiede auch in dummi6.dat:
+29c29
+<     AVERAGE=   0.000    SUM=   0.762E+02
+---
+>     AVERAGE=   0.016    SUM=   0.762E+02
+35c35
+<     AVERAGE=   0.100    SUM=   0.579E+03
+---
+>     AVERAGE=   0.120    SUM=   0.579E+03
+37c37
+<     0.10     26     13      6      3      1      0      0      0      0      0
+---
+>     0.18     26     13      6      3      1      0      0      0      0      0
+...
+
+dummi6.dat = File 22
+
+engout.f:      IF(LPRINT. GT.4)LOGUN=22
+rowout.f:      IF(LPRINT.GT.3)LOGUN=22
+rowout.f: 55   WRITE (LOGUN,101)(TITLE(I),I=1,18)
+In beiden Routinen:
+               CALL OUT1(SPECG,20,ROUND,1.,LOGUN)
+Evtl. auch:
+               CALL CASOUT(LOGUN,IDISC) 
+
+Testdaten aus twkb.f wieder eingebaut:
+--------------------------------------
+wc hivaperg*
+  7656566  14413103 177135212 hivaperg.dat
+    10096     45168    489660 hivaperg.diff
+  7656566  14413103 177135212 hivaperg.null.dat
+
+wc dummi6*
+  243  1454 13303 dummi6.dat
+  160   936  6676 dummi6.diff
+  243  1454 13303 dummi6.null.dat
+
+Differenzen i.A: in der ersten Variablen (siehe out1.f):
+
+29c29
+<     AVERAGE=   0.000    SUM=   0.762E+02
+---
+>     AVERAGE=   0.016    SUM=   0.762E+02
+35c35
+<     AVERAGE=   0.100    SUM=   0.579E+03
+---
+>     AVERAGE=   0.120    SUM=   0.579E+03
+37c37
+<     0.10     26     13      6      3      1      0      0      0      0      0
+---
+>     0.18     26     13      6      3      1      0      0      0      0      0
+
+
+NEUER VERSUCH: Intel-Compiler auf lxdv01:
+=========================================
+Meldungen (neben common-Alignments):
+
+ifort -c -g owkb.f
+fortcom: Info: owkb.f, line 24: The value was too small when converting to REAL(KIND=4); the result is in the denormalized range.   [1.03641E-44]
+      AMU=1.03641E-44                                                   00180000
+
+
+ifort -c -g vlro.f
+fortcom: Info: vlro.f, line 53: The value was too small when converting to REAL(KIND=4); the result is in the denormalized range.   [1.03641E-44]
+      DATA ESQUAR,HBAR,AMU/1.4399, 0.65819E-21, 1.03641E-44/            00340012
+
+Erster Lauf:
+
+-rw-r-----  1 giese rz 177135212 Jun  1 11:00 hivaperg.null.dat
+-rw-r--r--  1 giese rz    489660 Jun  1 11:02 hivaperg.diff
+-rw-r--r--  1 giese rz 177135212 Jun  1 11:37 hivaperg.dat
+-rw-r--r--  1 giese rz   4910546 Jun  1 11:39 hivaperg.diffx
+
+D.h. Differenzfile 10 Mal so gro§ wie bei f77.
+Aber:
+Endergebnis richtig.
+
+Ursache:
+Viele Werte 0.2787-308, 0.8751-269 usw.  => jetzt etwa gleich gross !
+
+ZAHLEN-Groessenordnung:
+-----------------------
+
+AIX:
+.1000E-38    .1000E-39    .1000E-40    .1001E-41    .9949E-43    .9809E-44    .1401E-44
+=
+1.0E-39      1.0E-40, ...
+
+Google: 
+Kleinste REAL-Zahl: 1.4012985E-45  <= AIX
+Aber auch:          1.1754994E-38  <= Linux
+
+Intel-Compiler: 1.176E-38  <= OK
+                1.175E-38  <= FEHLER
+
+Linux:
+The value was too small when converting to REAL(KIND=4); the result is in the denormalized range.
+A(14) = 1.0E-38, A(15) = 1.0E-39, ...
+
+TEST MIT AMU=E-38 statt E-44 und DERF statt ERF:
+------------------------------------------------
+
+pgf77:
+
+FUSION: POTENTIAL FOR L=0 HAS NO POCKET COS=   1.000
+    1.  218.    0.   89.     0.0   1   1   1
+   1.000  47.010   1.084   0.660     0.1   1   17.80  -1
+ CALCULATION STOPS BECAUSE PROBLEM WITH WKB TRANSMISSION
+ ELAB,ITEST=       0.1  99
+
+Schon sehr frueh Unterschiede und immer groesser werdende:
+725c725
+< TEST1-FUSION-nach PARABO-2:   0.1023E+02   0.1016E+03  -0.5446E+03   0.1038E+02   0.1018E+03
+---
+> TEST1-FUSION-nach PARABO-2:   0.1014E+02   0.1079E+03  -0.5970E+03   0.1028E+02   0.1080E+03
+728c728
+<  FUSION:SIGF   0.1920E+03
+...
+Danach anderer Ablauf !
+
+Auch bei f77!
+
+Ursache:
+AMU
+
+Zuruecksetzen auf E-44:
+Geht wieder wie vorher!
+
+Umordnen der COMMON-Variablen:
+------------------------------
+
+Alphabetisch sortiert, erst REAL*8, dann INTEGER*4, dann CHARACTER
+
+=> Trotzdem Meldungen bei f77 (nicht bei pgf77):
+Warning: Mixed CHARACTER and non-CHARACTER types via COMMON/EQUIVALENCE -- for example, `acn' and `table'
+
+(fuer TABLE und TITLE)
+
+Wirkung der Reihenfolge-Aenderungen:
+
+Job jaeuft falsch: 
+... 671836 2007-06-04 13:39 hivaperg.dat
+
+39176c39176
+< TEST1:   0.1000E+01   0.2180E+03   0.0000E+00   0.8900E+02   0.0000E+00            1            1            1   0.1000E+01   0.47
+01E+02   0.1084E+01   0.6600E+00   0.5278E+14   0.5278E+14   0.5278E+14   0.9954E-01            1   0.7605E+01           -1
+---
+> TEST1:   0.1000E+01   0.2180E+03   0.0000E+00   0.8900E+02   0.0000E+00            1            1            1   0.1000E+01   0.47
+01E+02   0.1084E+01   0.6600E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.9954E-01            1   0.7605E+01           -1
+39329c39329
+< FUSION:            2   0.1280E+02
+---
+> FUSION:            3   0.1261E+02
+39332c39332
+< TEST1-ENTRY VR:   0.1280E+02
+---
+> TEST1-ENTRY VR:   0.1261E+02
+...
+
+Aber:
+-----
+pgf77 laeuft bis zum Ende:
+... 120877490 2007-06-04 13:47 hivaperg.dat
+
+Aber falsche Werte, jedoch viel spaeter !!!
+
+249581c249581
+< EVA:            1     0.00E+00     0.00E+00     0.00E+00     0.00E+00
+---
+> EVA:            1     0.13E+23     0.84E+22     0.60E+22     0.31E+22
+249587c249587
+< PALL:            2     0.29E+23     0.29E+23     0.29E+21     0.00E+00     0.00E+00
+---
+> PALL:            2     0.42E+23     0.29E+23     0.29E+21     0.17E+21     0.13E+23
+...
+
+Und:
+----
+ifort
+
+Uebersetzen:
+fortcom: Info: owkb.f, line 24: The value was too small when converting to REAL(KIND=4); the result is in the denormalized range.   [1.03641E-44]
+      AMU=1.03641E-44
+fortcom: Info: vlro.f, line 52: The value was too small when converting to REAL(KIND=4); the result is in the denormalized range.   [1.03641E-44]
+      DATA ESQUAR,HBAR,AMU/1.4399, 0.65819E-21, 1.03641E-44/
+
+ifort laeuft bis zum Ende:
+... 120877490 Jun  4 13:56 hivaperg.dat
+Aber gleiche Fehler wie bei pgf77
+
+AMU-TEST:
+---------
+AMU=1.03641D-44
+
+ifort laeuft bis zum Ende:
+... 117552400 Jun  4 14:05 hivaperg.dat
+
+Aber noch falscher als vorher...
+
+==================================================
+
+Neue Versuche in hivap-ohne:
+
+Alle Optionen -O, -O1, -O2 bringen Unsinn
+-ffloat-store auch
+-finit-local-zero auch
+-fno-trapping-math und -ffinite-,ath-only bringen wenigstens 50% richtige Ergebnisse
+
+Veruch mit -fbounds-check:
+
+Subscript out of range on file line 48, procedure decodn.f/decodn.
+Attempt to access the 2-th element of variable a.
+In CHARACTER*1 ... A(1)
+=> CHARACTER*1 ... A(*)
+
+Subscript out of range on file line 275, procedure densty.f/densty.
+Attempt to access the 2501-th element of variable omegg.
+OMEGG(INDEX) =OM * (1.+ENHANC(IU+KE0))
+=> IF (INDEX.GT.2500)INDEX=2500
+
+Subscript out of range on file line 431, procedure densty.f/densty.
+Attempt to access the 2501-th element of variable omegg.
+OMEGG(INDEX)=OMEGG(ITM)
+=> IF (ITM.GT.2500)ITM=2500
+   IF (INDEX.GT.2500)INDEX=2500
+
+Subscript out of range on file line 47, procedure popul.f/popul.
+Attempt to access the 0-th element of variable isoj.
+common.f: COMMON/ISOM/NUMISO,ISO,ISOA(5),ISOZ(5),ISOJ(5),SIGISO(5)
+=> IF(ISO.LT.1)ISO=1
+   IF(ISO.GT.5)ISO=5
+
+Hilft nicht, nur kein Absturz mehr...
+
+Statt Grenzen setzen nur Ausgabe bei AIX und Linux.
+---------------------------------------------------
+Zaehlung im AIX:
+
+grep DENSTY hivaperg.dat | wc
+ 2533558 9658802 115430194
+ und zwar weit ueber 2500:
+ DENSTY1:        14957    .0000E+00
+ DENSTY2:        14956        14957    .0000E+00
+
+DAS KANN JA WOHL NICHT RICHTIG SEIN ???
+common.f: OMEGG(2500),OMEGN(2500),OMEGP(2500),OMEGA(5000),OMEGF(2500)
+          Das sind 15000 Elemente !
+Also geht das doch !!! Damit wird "einfacher" auf Teilbereiche zugegfriffen!
+Das macht aber eine Umsortierung der Common-Bereichs-Variablen obsolet !!!
+
+grep POPUL-ISO hivaperg.dat | wc
+AIX:     896    3584   45696 
+Linux:   882    3528   44982
+
+ und zwar i.A.:
+ PPOPUL-ISO:            0            0      .23E-04
+
+DAS KANN JA WOHL NICHT RICHTIG SEIN !!!
+COMMON/ISOM/NUMISO,ISO,ISOA(5),ISOZ(5),ISOJ(5),SIGISO(5)
+
+SIGISO(0) ist dann ISOJ(5), aber REAL*8 != INTEGER*4
+=> ISOJ(4) und ISOJ(5) sind betroffen!
+und:
+ISOJ(0) ist ISOZ(5) !!!
+
+DAS IST WOHL EIN RICHTIGER UNTERSCHIED:
+=======================================
+
+Ausgabe von ISOJ(4) und ISOJ(5):
+
+AIX:
+PPOPUL-ISO:            0            0     0.23E-04   1056454270   1722074630
+PPOPUL-ISO:            0            0     0.18E-03   1059528057  -1364829326
+PPOPUL-ISO:            0            0     0.47E-03   1061078788    372100936
+PPOPUL-ISO:            0            0     0.97E-03   1062198635  -2059764778
+PPOPUL-ISO:            0            0     0.16E-02   1062824208  -1536809058
+
+Linux:
+PPOPUL-ISO:            0            0     0.23E-04   1231542803   1056454288
+PPOPUL-ISO:            0            0     0.18E-03    166820915   1059528079
+PPOPUL-ISO:            0            0     0.47E-03  -1247402288   1061078815
+PPOPUL-ISO:            0            0     0.97E-03    631588474   1062198660
+PPOPUL-ISO:            0            0     0.16E-02   2008163942   1062824225
+
+AHA:
+Schon die Vorzeichen liegen anders!
+D.h. ISOJ(4) und ISOJ(5) haben ziemlich unterschiedliche (und i.A. unsinnige) Werte!
+
+Haven aber wohl keinen direkten Einfluss in diesem Fall, da NUMISO = 0 ist ...
+
+Analyse dummi6.dat:
+===================
+                                                               D                         FI
+AIX:
+OUT1:            1           20    .0000E+00    .0000E+00    .7813E-02    .0000E+00    .0000E+00    .0000E+00    .0000E+00
+OUT1:            2           20    .3163E+02    .3163E+02    .7813E-02    .0000E+00    .7813E-02    .0000E+00    .2471E+00
+OUT1:            3           20    .2453E+02    .5616E+02    .7813E-02    .0000E+00    .1563E-01    .2471E+00    .6303E+00
+
+Linux:
+OUT1:            1           20   0.0000E+00   0.0000E+00   0.4297-312   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+OUT1:            2           20   0.3163E+02   0.3163E+02   0.4297-312   0.0000E+00   0.4297-312   0.0000E+00   0.1359-310
+OUT1:            3           20   0.2453E+02   0.5616E+02   0.4297-312   0.0000E+00   0.8593-312   0.1359-310   0.3467-310
+
+D.h.:
+D hat falschen (unbesetzten) Wert, FI und FM daher ebenfalls
+D kommt aus der Parameterliste:
+ SUBROUTINE OUT1(SPEC,N,ZERO,D,LOGUN)
+ 
+Jeder Aufruf auf OUT1 hat aber 1. als Wert fuer D !!!
+Ist aber nach Testausgabe:  0.7813E-02                 <=== ?????????????????????????????
+
+engout.f:      CALL OUT1(SPECGT,20,ROUND,1.,LOGUN)                               01170035
+engout.f:      CALL OUT1(SPECQT,20,ROUND,1.,LOGUN)                               01210035
+engout.f:      CALL OUT1(SPECNT,25,ROUND,1.,LOGUN)                               01240035
+engout.f:      CALL OUT1(SPECPT,45,ROUND,1.,LOGUN)                               01270035
+engout.f:      CALL OUT1(SPECAT,80,ROUND,1.,LOGUN)                               01300035
+engout.f:      CALL OUT1(SPECFT,20,ROUND,1.,LOGUN)                               01340035
+rowout.f:      CALL OUT1(SPECG,20,ROUND,1.,LOGUN)                                01440031
+rowout.f:      CALL OUT1(SPECQ,20,ROUND,1.,LOGUN)                                01480031
+rowout.f:      CALL OUT1(SPECN,25,ROUND,1.,LOGUN)                                01510031
+rowout.f:      CALL OUT1(SPECP,45,ROUND,1.,LOGUN)                                01540031
+rowout.f:      CALL OUT1(SPECA,80,ROUND,1.,LOGUN)                                01570031
+rowout.f:      CALL OUT1(SPECF,20,ROUND,1.,LOGUN)                                01610031
+seqout.f:      CALL OUT1(SPECJ,N1,ZERO,1.,6)                                     01380031
+seqout.f:      CALL OUT1(YFISJ,N1,ZERO,1.,6)                                     01420036
+seqout.f:      CALL OUT1(SPECE,IDUM,ZERO,1.,6)                                   01470046
+seqout.f:      CALL OUT1(DJN,IDUM,ZERO,1.,ILOG)                                  01680031
+seqout.f:      CALL OUT1(DJP,IDUM,ZERO,1.,ILOG)                                  01740031
+seqout.f:      CALL OUT1(DJA,IDUM,ZERO,1.,ILOG)                                  01800031
+seqout.f:      CALL OUT1(FLAND,N1,ZERO,1.,6)                                     01890031
+
+testeins.f:
+===========
+CALL TESTSUB(A,N,1.)
+CALL TESTSUB(A,N,1.0)
+CALL TESTSUB(A,N,1.0E0)
+CALL TESTSUB(A,N,1.0D0)
+
+Nur der 4. Fall ist OK, sonst kommt im
+ AIX   0.7813E-02 
+ Linux 9.0143E-314
+heraus!
+
+Real z.B. auch bei:
+seqout.f:      CALL FISROT(AMAA,ZMZ,AN,1.,DELR,DELSP,ERO,0. ) 
+
+Alle diese Faelle muessen mit ...D0 geschrieben werden !!!
+
