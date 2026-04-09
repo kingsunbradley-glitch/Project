@@ -29,14 +29,15 @@
 %% \documentclass[final,3p,times,authoryear]{elsarticle}
 %% \documentclass[final,3p,times,twocolumn,authoryear]{elsarticle}
 %% \documentclass[final,5p,times,authoryear]{elsarticle}
- \documentclass[final,5p,times,twocolumn,authoryear]{elsarticle}
-
+%  \documentclass[final,5p,times,twocolumn,authoryear]{elsarticle}
+\documentclass[final,5p,times,twocolumn,number,sort&compress]{elsarticle}
 %% For including figures, graphicx.sty has been loaded in
 %% elsarticle.cls. If you prefer to use the old commands
 %% please give \usepackage{epsfig}
 
 %% The amssymb package provides various useful mathematical symbols
 \usepackage{amssymb}
+\usepackage{amsmath}
 \usepackage{lipsum}
 %% The amsthm package provides extended theorem environments
 %% \usepackage{amsthm}
@@ -49,6 +50,8 @@
 %% You might want to define your own abbreviated commands for common used terms, e.g.:
 \newcommand{\kms}{km\,s$^{-1}$}
 \newcommand{\msun}{$M_\odot}
+\newcommand{\hide}[1]{}
+
 
 \journal{Physics Letters B}
 
@@ -82,7 +85,7 @@
 %%            country={}}
 %% \fntext[label3]{}
 
-\title{Title of paper}
+\title{Isomeric States in $^{269}$Hs and the Shell Structure near $N=162$ Probed via $^{273}$Ds Decay}
 
 %% use optional labels to link authors explicitly to addresses:
 %% \author[label1,label2]{}
@@ -100,17 +103,27 @@
 %%             state={},
 %%             country={}}
 
-\author[first]{Author name}
-\affiliation[first]{organization={University of the Moon},%Department and Organization
-            addressline={}, 
-            city={Earth},
-            postcode={}, 
-            state={},
-            country={}}
+% \author[first]{Author name}
+% \affiliation[first]{organization={University of the Moon},%Department and Organization
+%            addressline={}, 
+%           city={Earth},
+%             postcode={}, 
+%             state={},
+%             country={}}
+\author{Z . R . Sun \hide{(孙志睿)}}
+\affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
+\affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
 
 \begin{abstract}
 %% Text of abstract
-Example abstract for the Physics Letters B journal. Here you provide a brief summary of the research and the results.
+%Example abstract for the Physics Letters B journal. Here you provide a brief summary of the research and the results.
+An extensive series of experiments was performed at the SHANS-2 separator at IMP CAS. First, the cross section of the $^{238}$U($^{40}$Ar, 5n)$^{273}$Ds reaction was measured in the excitation-energy range from 42 to 50 MeV.
+Previously, the same reaction was studied in a JINR-IMP CAS collaborative experiment at the DGFRS-2 separator at an energy of 49 MeV.
+In those prior experiments, two decay chains of $^{273}$Ds were observed, exhibiting decays with different energies and lifetimes, which indicated the existence of an isomeric level in addition to the ground state. 
+In the present SHANS-2 experiments, the excitation energies of 42, 45, and 50 MeV were studied in detail, establishing upper cross-section limits of 0.34, 1.09 pb, respectively. 
+However, at 50 MeV, two decay chains of $^{273}$Ds were measured, yielding a cross section of $0.14^{+0.18}_{-0.08}$ pb, which is consistent with the $0.18^{+0.44}_{-0.12}$ pb measured at DGFRS-2. 
+Notably, the isomer chains observed at SHANS-2 represent previously unknown decay pathways.
+Furthermore, by analyzing the $\alpha$-particle energy  branching ratios of $^{269}$Hs produced from different sources, the possible existence of an isomeric state in $^{269}$Hs is discussed.
 \end{abstract}
 
 %%Graphical abstract
@@ -126,7 +139,7 @@ Example abstract for the Physics Letters B journal. Here you provide a brief sum
 
 \begin{keyword}
 %% keywords here, in the form: keyword \sep keyword, up to a maximum of 6 keywords
-keyword 1 \sep keyword 2 \sep keyword 3 \sep keyword 4
+$\alpha$ Decay \sep $N=162$ subshell \sep Isomeric state \sep Gas-filled recoil separator
 
 %% PACS codes here, in the form: \PACS code \sep code
 
@@ -142,12 +155,50 @@ keyword 1 \sep keyword 2 \sep keyword 3 \sep keyword 4
 
 %% \linenumbers
 
-%% main text
+%% main textsweere2022deep
 
 \section{Introduction}
 \label{introduction}
 
-Here is where you provide an introduction to work and some background. For example building on previous work of image enhancment in optical astronomy \citep{vojtekova2021learning}, \cite{sweere2022deep} developed a method to improve the resolution of X-ray images from XMM-Newton to provide similar spatial resolution to Chandra.
+% Here is where you provide an introduction to work and some background. For example building on previous work of image enhancment in optical astronomy \citep{vojtekova2021learning}, \cite{sweere2022deep} developed a method to improve the resolution of X-ray images from XMM-Newton to provide similar spatial resolution to Chandra.
+The macroscopic liquid-drop model precludes the existence of superheavy elements (SHEs, $Z \ge 104$) due to dominant Coulomb repulsion . 
+Nevertheless, remarkable experimental and theoretical advances have enabled the synthesis of nuclei in this extreme mass region,especially with $^{48}\mathrm{Ca}$-induced reactions  \cite{oganessianSuperheavyNuclei48Cainduced2015, oganessianInvestigationCa482022}. 
+The very existence and survival of these SHEs rely intrinsically on quantum shell effects, which supply the requisite additional binding energy to stabilize them against spontaneous fission.
+Theoretical models predict that these shell corrections manifest as "islands of stability" across the superheavy landscape. 
+Enhanced stability is anticipated near the deformed doubly magic closures at $Z  = 108$ and $N = 162$ \cite{dvorakDoublyMagicNucleus2006}, extending toward heavier spherical configurations
+near $N = 184$ and $Z = 114-126$, albeit with model-dependent variations\cite{kruppa2000ShellCorrectionsSuperheavy}.Probing odd-$A$ nuclei in this mass region offers a stringent test of these theoretical frameworks,
+yielding direct access to the single-particle levels that govern the deformed $N = 162$ shell closure. 
+Specifically, the odd-neutron nucleus $^{273}\mathrm{Ds}$ constitutes a single-particle state just above the $N=162$ gap, while its $\alpha$-decay daughter, $^{269}\mathrm{Hs}$, 
+acts as a one-neutron hole state below the $N=161$ subshell. Consequently, characterizing the $\alpha$-decay properties linking $^{273}\mathrm{Ds}$ and $^{269}\mathrm{Hs}$ provides a highly sensitive probe into the underlying $N=162$ shell structure. 
+
+The isotope $^{273}\mathrm{Ds}$ was initially and unambiguously identified at the GSI velocity filter SHIP as an $\alpha$-decay product of cold fusion reactions \cite{hofmann2002NewResultsElements}. 
+Notably, in the $^{208}\mathrm{Pb}(^{70}\mathrm{Zn}, n)^{277}\mathrm{Cn}$ cold fusion experiments conducted at GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112} and RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, 
+the measured lifetime of the $^{273}\mathrm{Ds}$ descendant consistently fell within the $0.1\ \mathrm{ms}$ order of magnitude. 
+Recently, the direct production of $^{273}\mathrm{Ds}$ via the $^{238}\mathrm{U}(^{40}\mathrm{Ar}, 5n)$ reaction was investigated by Oganessian et al.\ \cite{oganessian2024SynthesisDecayProperties} %utilizing the DGFRS-2 separator \cite{ref9}. 
+Two decay chains were identified via established genetic correlations \cite{geneticcorrelations}; one sequence exhibited agreement with previous data, while the other was attributed to an isomeric state of $^{273}\mathrm{Ds}$.
+However, both observed decay chains were incomplete, providing limited information regarding the decay properties of the daughter nucleus $^{269}\mathrm{Hs}$. 
+Subsequently, theoretical evaluations of these decay sequences were performed by Wang et al.\ \cite{Wang2024} 
+employing the density-dependent cluster model (DDCM+) and the unified decay formula (UDF), prompting minor proposed revisions to the assigned decay paths. 
+In the present work conducted at the SHANS-2 facility \cite{xu2023GasfilledRecoilSeparator}, the same reaction was utilized, resulting in the observation of two additional, distinct, and complete decay paths. 
+These comprehensive chains, rigorously verified through genetic correlations \cite{geneticcorrelations} in agreement with historical data, 
+provide robust and independent confirmation for the existence of the two distinct states of $^{273}\mathrm{Ds}$, designated as $^{273}\mathrm{Ds}^{a}$ and $^{273}\mathrm{Ds}^{b}$, as initially reported by Oganessian et al.\ \cite{oganessian2024SynthesisDecayProperties}.
+
+In the present work, based on the distinct $^{273}\mathrm{Ds}$ decay paths observed herein coupled with relevant historical data,
+we aim to investigate the existence of the $^{273}\mathrm{Ds}$ isomeric state and explore the potential for isomerism in $^{269}\mathrm{Hs}$. 
+Furthermore, by incorporating macroscopic-microscopic models, we extract structural insights regarding the $N=162$ neutron shell.
+The experiment is described below, and experimental data are presented.
+
+In the absence of shell corrections, the macroscopic liquid-drop model predicts that superheavy nuclei ($Z\geq104$) should be unstable against fission. 
+Their observed existence therefore reflects the stabilizing role of quantum shell effects, which give rise to the predicted islands of stability in the superheavy region. 
+In particular, enhanced stability is expected around the deformed shell closure at $N=162$ and $Z=108$, with the center of the spherical island predicted near $N=184$ and $Z=114\text{--}126$, depending on the model \cite{dvorakDoublyMagicNucleus2006,kruppa2000ShellCorrectionsSuperheavy}. 
+Odd-$A$ nuclei in the vicinity of the deformed $N=162$ shell closure are especially valuable, because their $\alpha$-decay properties provide sensitive information on the underlying single-particle structure. In this context, $^{273}\mathrm{Ds}$ and its daughter $^{269}\mathrm{Hs}$, both odd-neutron nuclei, 
+constitute an important pair for probing neutron configurations around $N=162$.
+The isotope $^{273}\mathrm{Ds}$ was first identified as a descendant in cold-fusion reactions at SHIP \cite{hofmann2002NewResultsElements,hofmann1996NewElement112,sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}. More recently, it was directly produced in the $^{238}\mathrm{U}(^{40}\mathrm{Ar},5n)$ reaction, where two genetically correlated decay chains were reported and one of them was interpreted as originating from an isomeric state \cite{oganessian2024SynthesisDecayProperties}. However, the incompleteness of those chains limited the information available on the decay of the daughter nucleus $^{269}\mathrm{Hs}$. In the present work, using the same reaction at the SHANS-2 separator \cite{xu2023GasfilledRecoilSeparator}, we observed two additional distinct and complete decay chains assigned to $^{273}\mathrm{Ds}$. Combined with historical data, these new results provide stronger experimental support for the existence of two states in $^{273}\mathrm{Ds}$ and enable a more detailed discussion of possible isomerism in $^{269}\mathrm{Hs}$. By comparing the observed decay sequences with macroscopic-microscopic calculations, we further explore the structural implications of these states for the deformed $N=162$ shell.
+
+
+
+
+
 
 \section{Title 2}
 %%\label{}
@@ -217,7 +268,7 @@ Thanks to ...
 %% If you have bibdatabase file and want bibtex to generate the
 %% bibitems, please use
 %%
-\bibliographystyle{elsarticle-harv} 
+\bibliographystyle{elsarticle-num}
 \bibliography{example}
 
 %% else use the following coding to input the bibitems directly in the
