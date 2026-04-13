@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 from matplotlib.gridspec import GridSpec
+from pathlib import Path
 
 # -----------------------------------------------------------------
 # --- Global Font Settings ---
@@ -253,10 +254,11 @@ for i, data in enumerate(all_datasets):
     # Multiply by 1.3 to leave space for labels
     ax_left.set_ylim(0, max(current_ylim[1], 1) * 1.4)
 
-# Global Y Label
-fig.text(0.06, 0.5, 'Event Counts', va='center', rotation='vertical', fontsize=16)
+# Global Y label
+fig.supylabel('Event Counts', fontsize=16, x=0.04)
 
-plt.subplots_adjust(left=0.1, right=0.95, top=0.95, bottom=0.05, hspace=0, wspace=0)
-
-plt.savefig('combined_plot_4rows_fixed.png', dpi=300, bbox_inches='tight')
+# Tighten the left margin so the figure does not leave excessive whitespace
+plt.subplots_adjust(left=0.12, right=0.95, top=0.95, bottom=0.05, hspace=0, wspace=0)
+output_path = Path(__file__).with_name('Final.pdf')
+plt.savefig(output_path, dpi=300, bbox_inches='tight')
 plt.show()

@@ -1,3 +1,4 @@
+
 \documentclass[tikz,border=6pt]{standalone}
 \usepackage{fontspec}
 \usepackage{newtxmath}
@@ -114,7 +115,16 @@
 % 右链文字
 %--------------------------------
 \node[redtxt,anchor=west] at ($(hs2.east)+(0.65,0.50)$) {10.858\err{14} MeV\\8.320 ms};
-\node[redtxt,anchor=west]    at ($(sg2.east)+(0.25,0.30)$) {8.916\err{14} MeV\\9.363 s};
+\node[
+  redtxt,
+  anchor=west,
+  draw=red,
+  rounded corners=2pt,
+  line width=0.9pt,
+  inner xsep=4pt,
+  inner ysep=3pt,
+  dash pattern=on 4pt off 2pt
+] at ($(sg2.east)+(0.25,0.30)$) {8.916\err{14} MeV\\9.363 s};
 \node[blk,anchor=west]    at ($(rf2.east)+(0.20,0.25)$) {8.690\err{43} (=0.316+8.374) MeV\\11.663 s};
 
 %--------------------------------
@@ -133,4 +143,5 @@ at ($(rf1.south)+(0,-1.20)$) {83.4+73.7 MeV\\5.298 s};
 at ($(rf2.south)+(0,-1.20)$) {131.3+58.6 MeV\\7.241 s};
 
 \end{tikzpicture}
-\end{document}
+\end{document}w我想让\node[redtxt,anchor=west] (sg2txtA) at ($(sg2.east)+(0.25,0.30)$) {8.916\err{14} MeV};
+\node[redtxt,anchor=west] (sg2txtB) at ($(sg2txtA.south west)+(0,-0.12)$) {9.363 s};
