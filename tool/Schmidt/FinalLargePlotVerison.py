@@ -7,9 +7,22 @@ from matplotlib.gridspec import GridSpec
 # -----------------------------------------------------------------
 # --- Global Font Settings ---
 # -----------------------------------------------------------------
+# 用户可调：统一字体与子图标注
+LEFT_PANEL_LABELS = ['(a)', '(b)', '(c)', '(d)']
+RIGHT_PANEL_LABELS = ['(e)', '(f)', '(g)', '(h)']
+FONT_WEIGHT = 'bold'
+FONT_SIZE_NUCLEUS = 44
+FONT_SIZE_TICK = 30
+FONT_SIZE_AXIS = 32
+FONT_SIZE_LEGEND = 26
+FONT_SIZE_GLOBAL = 34
+
 plt.rcParams['font.family'] = 'serif'
 plt.rcParams['font.serif'] = ['STIXGeneral', 'Times New Roman', 'serif']
 plt.rcParams['mathtext.fontset'] = 'stix'
+plt.rcParams['font.weight'] = FONT_WEIGHT
+plt.rcParams['axes.labelweight'] = FONT_WEIGHT
+plt.rcParams['axes.titleweight'] = FONT_WEIGHT
 
 # --- 【新增】全局加粗设置 ---
 plt.rcParams['axes.linewidth'] = 1.0        # 坐标轴边框粗细
@@ -179,23 +192,30 @@ for i, data in enumerate(all_datasets):
                      label=labels)
     
     ax_left.set_xlim(energy_min, energy_max)
-    ax_left.text(0.05, 0.7, data['name'], transform=ax_left.transAxes, fontsize=40)
+    ax_left.text(0.05, 0.7, data['name'], transform=ax_left.transAxes,
+                 fontsize=FONT_SIZE_NUCLEUS, fontweight=FONT_WEIGHT)
+    ax_left.text(0.95, 0.92, LEFT_PANEL_LABELS[i], transform=ax_left.transAxes,
+                 ha='right', va='top', fontsize=FONT_SIZE_AXIS, fontweight=FONT_WEIGHT)
     ax_left.xaxis.set_major_locator(ticker.MultipleLocator(0.5))
     ax_left.xaxis.set_minor_locator(ticker.MultipleLocator(0.1))
     ax_left.yaxis.set_major_locator(ticker.MaxNLocator(integer=True, nbins=5))
     
     ax_left.spines['top'].set_visible(True)
     ax_left.spines['right'].set_visible(False)
-    ax_left.tick_params(direction='in', top=True, right=False, which='both', labelsize=24)
+    ax_left.tick_params(direction='in', top=True, right=False, which='both', labelsize=FONT_SIZE_TICK)
+    for tick_label in ax_left.get_xticklabels() + ax_left.get_yticklabels():
+        tick_label.set_fontweight(FONT_WEIGHT)
     
     if i < num_rows - 1:
         ax_left.tick_params(labelbottom=False)
     else:
         # 正确写法
-        ax_left.set_xlabel(r"$E_{\alpha}$ (MeV) ", fontsize=28)
+        ax_left.set_xlabel(r"$E_{\alpha}$ (MeV) ", fontsize=FONT_SIZE_AXIS, fontweight=FONT_WEIGHT)
     
     # --- Right Plot: Time (Log10 Axis) ---
     ax_right.set_xlim(log_time_min, log_time_max)
+    ax_right.text(0.05, 0.92, RIGHT_PANEL_LABELS[i], transform=ax_right.transAxes,
+                  ha='left', va='top', fontsize=FONT_SIZE_AXIS, fontweight=FONT_WEIGHT)
     
     # 将时间数据转换为 log10(T)
     log_time_data_list = []
@@ -255,17 +275,21 @@ for i, data in enumerate(all_datasets):
     ax_right.spines['left'].set_linestyle('--')
     ax_right.spines['left'].set_linewidth(3)
     ax_right.spines['left'].set_color('gray')
-    ax_right.tick_params(direction='in', top=True, right=True, which='both', labelsize=24, labelright=True)
+    ax_right.tick_params(direction='in', top=True, right=True, which='both',
+                         labelsize=FONT_SIZE_TICK, labelright=True)
     ax_right.tick_params(axis='y', labelleft=False, left=False) 
+    for tick_label in ax_right.get_xticklabels() + ax_right.get_yticklabels():
+        tick_label.set_fontweight(FONT_WEIGHT)
     
     if i < num_rows - 1:
         ax_right.tick_params(labelbottom=False)
     else:
         # [修改 5] 更改标签
-        ax_right.set_xlabel(r"$\log_{10}[t (\mathrm{ms})]$", fontsize=28)
+        ax_right.set_xlabel(r"$\log_{10}[t (\mathrm{ms})]$", fontsize=FONT_SIZE_AXIS, fontweight=FONT_WEIGHT)
         
     if i == 0:
-        ax_right.legend(frameon=False, fontsize=20, loc='upper right')
+        ax_right.legend(frameon=False, fontsize=FONT_SIZE_LEGEND, loc='upper right',
+                        prop={'weight': FONT_WEIGHT, 'size': FONT_SIZE_LEGEND})
 
     # -------------------------------------------------------------
     # Set Y-Limits (with 1.6 factor)
@@ -275,10 +299,12 @@ for i, data in enumerate(all_datasets):
     ax_left.set_ylim(0, max(current_ylim[1], 1) * 1.6)
 
 # 1. 左侧标签：将原来的 x=0.04 增大到 0.08 左右（具体数值可微调），让它更靠近左坐标轴
-fig.text(0.08, 0.5, 'Counts / 20 keV', va='center', rotation='vertical', fontsize=28)
+fig.text(0.08, 0.5, 'Counts / 20 keV', va='center', rotation='vertical',
+         fontsize=FONT_SIZE_GLOBAL, fontweight=FONT_WEIGHT)
 
 # 2. 右侧标签：新增一行，x=0.96 或 0.97，放在右侧坐标轴外侧，rotation=-90 让文字方向顺应右侧阅读习惯
-fig.text(0.97, 0.5, 'Counts', va='center', rotation='vertical', fontsize=28)
+fig.text(0.97, 0.5, 'Counts', va='center', rotation='vertical',
+         fontsize=FONT_SIZE_GLOBAL, fontweight=FONT_WEIGHT)
 
 plt.subplots_adjust(left=0.12, right=0.95, top=0.95, bottom=0.05, hspace=0, wspace=0)
 

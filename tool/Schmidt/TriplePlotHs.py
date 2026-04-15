@@ -11,11 +11,22 @@ from pathlib import Path
 # ==============================================================================
 # --- 1. 全局字体与样式设置 (用于发表级绘图) ---
 # ==============================================================================
+# 【用户配置】：统一字体与子图标注（放在前面方便统一调整）
+PANEL_LABELS = ['(a)', '(b)', '(c)']
+FONT_SIZE_MAIN = 18
+FONT_SIZE_COUNT = 16
+FONT_SIZE_AXIS = 18
+FONT_SIZE_TICK = 14
+FONT_WEIGHT = 'bold'
+
 # 将 Mac 的中文字体 (Songti SC 或 Arial Unicode MS) 加入到字体列表中排在前面
 plt.rcParams['font.family'] = 'serif'
 plt.rcParams['font.serif'] = ['STIXGeneral', 'Times New Roman', 'serif']
 plt.rcParams['mathtext.fontset'] = 'stix'  # 公式字体设置保持不变，继续渲染上标和希腊字母
 plt.rcParams['axes.unicode_minus'] = False # 【关键】防止引入中文字体后，坐标轴的负号 '-' 变成小方块
+plt.rcParams['font.weight'] = FONT_WEIGHT
+plt.rcParams['axes.labelweight'] = FONT_WEIGHT
+plt.rcParams['axes.titleweight'] = FONT_WEIGHT
 
 # ==============================================================================
 # --- 2. 数据读取与预处理 ---
@@ -146,12 +157,16 @@ for i, (data, color, label) in enumerate(plots_config):
     
     # 1. 添加左上角的大标签 (如 "All", "EVR")
     # 0.05, 0.85: X位置(靠左), Y位置(靠上)
-    ax.text(0.05, 0.85, label, transform=ax.transAxes, fontsize=16)
+    ax.text(0.05, 0.85, label, transform=ax.transAxes, fontsize=FONT_SIZE_MAIN, fontweight=FONT_WEIGHT)
     
     # 2. 添加事件统计 (如 "13 events")
     # 0.05, 0.75: Y位置比上面那个低 0.1，形成两行字的效果
     count_text = f"{len(data)} events"
-    ax.text(0.05, 0.75, count_text, transform=ax.transAxes, fontsize=14)
+    ax.text(0.05, 0.75, count_text, transform=ax.transAxes, fontsize=FONT_SIZE_COUNT, fontweight=FONT_WEIGHT)
+
+    # 3. 添加右上角子图编号 (a)(b)(c)
+    ax.text(0.95, 0.90, PANEL_LABELS[i], transform=ax.transAxes,
+            ha='right', va='top', fontsize=FONT_SIZE_MAIN, fontweight=FONT_WEIGHT)
     
     # --- D. 坐标轴美化 ---
     ax.set_xlim(energy_min, energy_max) # 限制 X 轴显示范围
@@ -168,7 +183,9 @@ for i, (data, color, label) in enumerate(plots_config):
     # tick_params: 刻度线设置
     # direction='in': 刻度线朝里
     # top=True, right=True: 上边和右边也要有刻度线
-    ax.tick_params(direction='in', top=True, right=True, which='both', labelsize=12)
+    ax.tick_params(direction='in', top=True, right=True, which='both', labelsize=FONT_SIZE_TICK)
+    for tick_label in ax.get_xticklabels() + ax.get_yticklabels():
+        tick_label.set_fontweight(FONT_WEIGHT)
     
     # --- E. 隐藏不需要的 X 轴标签 ---
     # 如果不是最后一张图 (i < 2)，就把 X 轴的数字隐藏掉，避免中间重叠
@@ -176,7 +193,7 @@ for i, (data, color, label) in enumerate(plots_config):
         ax.tick_params(labelbottom=False)
     else:
         # 最后一张图，加上 X 轴名称
-        ax.set_xlabel(r"$E_{\alpha} $/ MeV", fontsize=14)
+        ax.set_xlabel(r"$E_{\alpha} $/ MeV", fontsize=FONT_SIZE_AXIS, fontweight=FONT_WEIGHT)
 
 # ==============================================================================
 # --- 7. 全局标签与保存 ---
@@ -185,7 +202,8 @@ for i, (data, color, label) in enumerate(plots_config):
 # 0.10, 0.5: 【用户配置】X, Y 坐标。
 # - 如果觉得字离图太近，就把 0.10 改成 0.05 (往左移)
 # - 如果觉得字被切掉了，就结合 subplots_adjust 的 left 参数一起改
-fig.text(0.10, 0.5, 'Counts / 20 keV', va='center', rotation='vertical', fontsize=16)
+fig.text(0.10, 0.5, 'Counts / 20 keV', va='center', rotation='vertical',
+         fontsize=FONT_SIZE_AXIS, fontweight=FONT_WEIGHT)
 
 # subplots_adjust: 调整图表边缘留白
 # left=0.15: 左边留 15% 空白 (给 Y 轴标题腾位置)
