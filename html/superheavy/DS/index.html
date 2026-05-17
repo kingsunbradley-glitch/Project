@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>超重核合成历史脉络 — 从 Rf 到 Og 的人造元素之旅</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+:root {
+  --bg: #fafaf8;
+  --card: #ffffff;
+  --text: #222;
+  --text-muted: #666;
+  --border: #e0e0dc;
+  --accent: #2b5f8a;
+  --accent2: #8b3a3a;
+  --cold: #3a6b8b;
+  --hot: #b8443a;
+  --early: #6b8b3a;
+  --gold: #b8860b;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-serif: Georgia, "Times New Roman", "STSong", "Songti SC", serif;
+  --font-mono: "SF Mono", "Fira Code", "Consolas", monospace;
+  --max-w: 1100px;
+}
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;font-size:16px}
+body{
+  font-family:var(--font-sans);
+  background:var(--bg);
+  color:var(--text);
+  line-height:1.7;
+  -webkit-font-smoothing:antialiased
+}
+
+/* ── Typography ── */
+h1{font-family:var(--font-serif);font-size:2.4rem;font-weight:700;letter-spacing:-0.02em}
+h2{font-family:var(--font-serif);font-size:1.5rem;font-weight:600;color:var(--accent);margin-bottom:1rem;border-bottom:2px solid var(--border);padding-bottom:.4rem}
+h3{font-size:1rem;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:.4rem}
+h4{font-size:.95rem;font-weight:600}
+
+/* ── Layout ── */
+section{padding:3rem 1.5rem;max-width:var(--max-w);margin:0 auto}
+.hero{text-align:center;padding:4rem 1.5rem 3rem}
+.hero h1{margin-bottom:.5rem}
+.hero .subtitle{font-size:1.05rem;color:var(--text-muted);max-width:640px;margin:0 auto}
+.hero .accent-bar{width:60px;height:3px;background:var(--accent);margin:1.2rem auto}
+
+.card{
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:6px;
+  padding:1.5rem;
+  margin-bottom:1rem;
+  box-shadow:0 1px 3px rgba(0,0,0,.04)
+}
+
+/* ── Element detail popup ── */
+.detail-overlay{
+  display:none;position:fixed;top:0;left:0;right:0;bottom:0;
+  background:rgba(0,0,0,.35);z-index:1000;align-items:center;justify-content:center
+}
+.detail-overlay.active{display:flex}
+.detail-card{
+  background:var(--card);border-radius:8px;padding:2rem;max-width:460px;width:90%;
+  box-shadow:0 8px 40px rgba(0,0,0,.15);position:relative;border:1px solid var(--border)
+}
+.detail-card .close-btn{
+  position:absolute;top:.8rem;right:1rem;background:none;border:none;font-size:1.4rem;
+  cursor:pointer;color:var(--text-muted);line-height:1
+}
+.detail-card .elem-symbol{font-family:var(--font-serif);font-size:3rem;font-weight:700;color:var(--accent)}
+.detail-card .elem-name{font-size:1.3rem;margin-bottom:.3rem}
+.detail-card .elem-z{font-size:.85rem;color:var(--text-muted);margin-bottom:1rem}
+.detail-card dl{display:grid;grid-template-columns:auto 1fr;gap:.3rem 1rem;font-size:.9rem}
+.detail-card dt{color:var(--text-muted);font-weight:500}
+.detail-card dd{font-weight:500}
+
+/* ── Periodic Table ── */
+.pt-wrapper{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1rem 0}
+.pt-grid{display:grid;grid-template-columns:repeat(18,1fr);gap:3px;min-width:900px}
+.pt-cell{
+  aspect-ratio:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  border-radius:3px;font-size:.65rem;cursor:default;position:relative;transition:transform .15s;
+  background:#f0f0ed;color:#999;border:1px solid transparent
+}
+.pt-cell.she{
+  background:#e8f0f8;color:var(--accent);cursor:pointer;border-color:#c0d4e4;font-weight:600
+}
+.pt-cell.she:hover{transform:scale(1.12);z-index:2;box-shadow:0 3px 12px rgba(43,95,138,.2);border-color:var(--accent)}
+.pt-cell.she.cold{background:#e4eef5}
+.pt-cell.she.hot{background:#fdf0ee}
+.pt-cell.she.early{background:#eef5e4}
+.pt-cell .pt-symbol{font-size:.75rem;font-weight:700;line-height:1.1}
+.pt-cell .pt-z{font-size:.5rem;line-height:1;color:inherit;opacity:.7}
+.pt-cell.placeholder{background:transparent;border:none}
+.pt-legend{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:.75rem;font-size:.8rem;color:var(--text-muted)}
+.pt-legend span{display:flex;align-items:center;gap:.3rem}
+.pt-legend .swatch{width:12px;height:12px;border-radius:2px;display:inline-block}
+
+/* ── Timeline ── */
+.timeline-container{overflow-x:auto;padding:1rem 0}
+.timeline-axis line{stroke:var(--border)}
+.timeline-axis text{fill:var(--text-muted);font-size:.7rem}
+.timeline-dot{cursor:pointer}
+.timeline-dot:hover{stroke-width:3}
+.timeline-label{font-size:.7rem;fill:var(--text);text-anchor:middle;pointer-events:none;font-weight:500}
+
+/* ── Network ── */
+.network-svg{width:100%;height:520px}
+.network-node{cursor:pointer}
+.network-link{stroke:#ccc;stroke-width:1.5;fill:none}
+.network-node text{font-size:.65rem;pointer-events:none;text-anchor:middle}
+.network-node.target text{fill:var(--accent)}
+.network-node.projectile text{fill:var(--text-muted)}
+.network-node.product text{fill:var(--text);font-weight:600}
+
+/* ── Charts ── */
+.charts-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:1.5rem}
+.chart-box{background:var(--card);border:1px solid var(--border);border-radius:6px;padding:1rem}
+.chart-box h4{font-size:.85rem;color:var(--text-muted);margin-bottom:.5rem;text-transform:uppercase;letter-spacing:.05em}
+.chart-svg{width:100%;height:260px}
+.chart-axis text{fill:var(--text-muted);font-size:.65rem}
+.chart-axis line,.chart-axis path{stroke:var(--border)}
+.grid-line{stroke:#f0f0ed;stroke-dasharray:3,3}
+
+/* ── Island of Stability ── */
+.island-svg{width:100%;height:480px}
+
+/* ── Labs ── */
+.labs-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem}
+.lab-card{background:var(--card);border:1px solid var(--border);border-radius:6px;padding:1.2rem}
+.lab-card .lab-name{font-family:var(--font-serif);font-size:1.1rem;font-weight:600;margin-bottom:.3rem}
+.lab-card .lab-loc{font-size:.8rem;color:var(--text-muted);margin-bottom:.5rem}
+.lab-card .lab-elems{font-size:.8rem;color:var(--accent)}
+.lab-card .lab-era{font-size:.75rem;color:var(--text-muted);margin-top:.3rem}
+
+/* ── Footer ── */
+footer{text-align:center;padding:2rem 1.5rem;color:var(--text-muted);font-size:.8rem;border-top:1px solid var(--border);margin-top:2rem}
+footer a{color:var(--accent)}
+
+/* ── Responsive ── */
+@media(max-width:700px){
+  h1{font-size:1.6rem}
+  section{padding:2rem 1rem}
+  .hero{padding:2.5rem 1rem 2rem}
+  .charts-grid{grid-template-columns:1fr}
+  .labs-grid{grid-template-columns:1fr 1fr}
+}
+</style>
+</head>
+<body>
+
+<!-- ════════════════ HERO ════════════════ -->
+<section class="hero">
+  <h1>超重核合成历史脉络</h1>
+  <div class="accent-bar"></div>
+  <p class="subtitle">
+    从 Rf (Z=104) 到 Og (Z=118)，人类如何在加速器终端逐格推进周期表的边界。
+    两条主线——冷聚变与热聚变——交织出元素发现的科学史诗。
+  </p>
+</section>
+
+<!-- ════════════════ 交互式周期表 ════════════════ -->
+<section>
+  <h2>周期表中的超重元素</h2>
+  <div class="pt-wrapper">
+    <div class="pt-grid" id="periodicTable"></div>
+  </div>
+  <div class="pt-legend">
+    <span><span class="swatch" style="background:#eef5e4"></span>早期合成 (Rf, Db, Sg)</span>
+    <span><span class="swatch" style="background:#e4eef5"></span>冷聚变 (Bh→Cn + Nh)</span>
+    <span><span class="swatch" style="background:#fdf0ee"></span>热聚变 (Fl→Og)</span>
+  </div>
+</section>
+
+<!-- ════════════════ 发现时间线 ════════════════ -->
+<section>
+  <h2>发现时间线</h2>
+  <div class="timeline-container" id="timeline"></div>
+</section>
+
+<!-- ════════════════ 反应路径网络 ════════════════ -->
+<section>
+  <h2>核反应路径网络</h2>
+  <p style="color:var(--text-muted);font-size:.9rem;margin-bottom:1rem">
+    冷聚变路径（左，Pb/Bi 靶）与热聚变路径（右，⁴⁸Ca 束流轰击锕系靶）分别通往不同的超重核。
+    拖动节点可交互探索。
+  </p>
+  <div id="network"></div>
+</section>
+
+<!-- ════════════════ 数据图表 ════════════════ -->
+<section>
+  <h2>趋势与规律</h2>
+  <div class="charts-grid">
+    <div class="chart-box"><h4>半衰期 vs 原子序数</h4><div id="chartHL"></div></div>
+    <div class="chart-box"><h4>发现年份 vs 原子序数</h4><div id="chartYear"></div></div>
+    <div class="chart-box"><h4>截面量级 vs 原子序数</h4><div id="chartXS"></div></div>
+    <div class="chart-box"><h4>最长半衰期对比</h4><div id="chartBar"></div></div>
+  </div>
+</section>
+
+<!-- ════════════════ 稳定岛 ════════════════ -->
+<section>
+  <h2>"稳定岛"：N-Z 平面上的超重核区</h2>
+  <p style="color:var(--text-muted);font-size:.9rem;margin-bottom:1rem">
+    理论预言在 Z≈114–126, N≈184 附近存在一个长寿命"稳定岛"。
+    已知超重同位素（圆点）正逐步逼近这一区域。颜色越深代表半衰期越长。
+  </p>
+  <div id="island"></div>
+</section>
+
+<!-- ════════════════ 实验室 ════════════════ -->
+<section>
+  <h2>主要研究机构</h2>
+  <div class="labs-grid" id="labs"></div>
+</section>
+
+<!-- ════════════════ 元素详情弹窗 ════════════════ -->
+<div class="detail-overlay" id="detailOverlay">
+  <div class="detail-card" id="detailCard"></div>
+</div>
+
+<footer>
+  数据来源：IUPAC, NUBASE2020, 各实验室公开文献 · 可视化：D3.js
+</footer>
+
+<script>
+// ╔══════════════════════════════════════════════╗
+// ║            DATA: Superheavy Elements         ║
+// ╚══════════════════════════════════════════════╝
+const elements = [
+  {
+    z:104,symbol:"Rf",name:"Rutherfordium",nameCN:"钅卢",
+    year:1969,era:"early",
+    lab:"LBNL / JINR",labAbbr:["LBNL","JINR"],
+    target:"²⁴⁹Cf",projectile:"¹²C",targetA:249,targetZ:98,projA:12,projZ:6,
+    compound:"²⁶¹Rf",evap:"4n",product:"²⁵⁷Rf",
+    halfLife:"1.3 h",halfLifeSec:4680,isoA:267,isoN:163,
+    crossSection:"~5 nb",xsecBarn:5e-9,
+    discoverers:"Ghiorso et al. (LBNL) / Flerov et al. (JINR)",
+    note:"命名源自卢瑟福；最初发现存在 Dubna-Berkeley 争议"
+  },
+  {
+    z:105,symbol:"Db",name:"Dubnium",nameCN:"钅杜",
+    year:1968,era:"early",
+    lab:"JINR / LBNL",labAbbr:["JINR","LBNL"],
+    target:"²⁴³Am",projectile:"²²Ne",targetA:243,targetZ:95,projA:22,projZ:10,
+    compound:"²⁶⁵Db",evap:"4n",product:"²⁶¹Db",
+    halfLife:"29 h",halfLifeSec:104400,isoA:268,isoN:163,
+    crossSection:"~3 nb",xsecBarn:3e-9,
+    discoverers:"Flerov et al. (JINR) / Ghiorso et al. (LBNL)",
+    note:"以 Dubna (杜布纳) 命名"
+  },
+  {
+    z:106,symbol:"Sg",name:"Seaborgium",nameCN:"钅喜",
+    year:1974,era:"early",
+    lab:"LBNL",labAbbr:["LBNL"],
+    target:"²⁴⁹Cf",projectile:"¹⁸O",targetA:249,targetZ:98,projA:18,projZ:8,
+    compound:"²⁶⁷Sg",evap:"4n",product:"²⁶³Sg",
+    halfLife:"14 min",halfLifeSec:840,isoA:269,isoN:163,
+    crossSection:"~0.3 nb",xsecBarn:3e-10,
+    discoverers:"Ghiorso et al. (LBNL)",
+    note:"以 Glenn T. Seaborg 命名，首位以在世人命名的元素"
+  },
+  {
+    z:107,symbol:"Bh",name:"Bohrium",nameCN:"钅波",
+    year:1981,era:"cold",
+    lab:"GSI Darmstadt",labAbbr:["GSI"],
+    target:"²⁰⁹Bi",projectile:"⁵⁴Cr",targetA:209,targetZ:83,projA:54,projZ:24,
+    compound:"²⁶³Bh",evap:"n",product:"²⁶²Bh",
+    halfLife:"~60 s",halfLifeSec:60,isoA:270,isoN:163,
+    crossSection:"~2 nb",xsecBarn:2e-9,
+    discoverers:"Münzenberg, Armbruster et al. (GSI)",
+    note:"冷聚变时代开启；以 Niels Bohr 命名"
+  },
+  {
+    z:108,symbol:"Hs",name:"Hassium",nameCN:"钅黑",
+    year:1984,era:"cold",
+    lab:"GSI Darmstadt",labAbbr:["GSI"],
+    target:"²⁰⁸Pb",projectile:"⁵⁸Fe",targetA:208,targetZ:82,projA:58,projZ:26,
+    compound:"²⁶⁶Hs",evap:"n",product:"²⁶⁵Hs",
+    halfLife:"~16 s",halfLifeSec:16,isoA:269,isoN:161,
+    crossSection:"~2 pb",xsecBarn:2e-12,
+    discoverers:"Münzenberg, Armbruster et al. (GSI)",
+    note:"以 Hesse (黑森州) 命名，GSI 所在地"
+  },
+  {
+    z:109,symbol:"Mt",name:"Meitnerium",nameCN:"钅麦",
+    year:1982,era:"cold",
+    lab:"GSI Darmstadt",labAbbr:["GSI"],
+    target:"²⁰⁹Bi",projectile:"⁵⁸Fe",targetA:209,targetZ:83,projA:58,projZ:26,
+    compound:"²⁶⁷Mt",evap:"n",product:"²⁶⁶Mt",
+    halfLife:"~4.5 s",halfLifeSec:4.5,isoA:278,isoN:169,
+    crossSection:"~10 pb",xsecBarn:1e-11,
+    discoverers:"Münzenberg, Armbruster et al. (GSI)",
+    note:"以 Lise Meitner 命名"
+  },
+  {
+    z:110,symbol:"Ds",name:"Darmstadtium",nameCN:"钅达",
+    year:1994,era:"cold",
+    lab:"GSI Darmstadt",labAbbr:["GSI"],
+    target:"²⁰⁸Pb",projectile:"⁶²Ni",targetA:208,targetZ:82,projA:62,projZ:28,
+    compound:"²⁷⁰Ds",evap:"n",product:"²⁶⁹Ds",
+    halfLife:"~11 s",halfLifeSec:11,isoA:281,isoN:171,
+    crossSection:"~3 pb",xsecBarn:3e-12,
+    discoverers:"Hofmann, Ninov et al. (GSI)",
+    note:"以 Darmstadt (达姆施塔特) 命名"
+  },
+  {
+    z:111,symbol:"Rg",name:"Roentgenium",nameCN:"钅仑",
+    year:1994,era:"cold",
+    lab:"GSI Darmstadt",labAbbr:["GSI"],
+    target:"²⁰⁹Bi",projectile:"⁶⁴Ni",targetA:209,targetZ:83,projA:64,projZ:28,
+    compound:"²⁷³Rg",evap:"n",product:"²⁷²Rg",
+    halfLife:"~100 s",halfLifeSec:100,isoA:282,isoN:171,
+    crossSection:"~1 pb",xsecBarn:1e-12,
+    discoverers:"Hofmann et al. (GSI)",
+    note:"以 Wilhelm Röntgen 命名"
+  },
+  {
+    z:112,symbol:"Cn",name:"Copernicium",nameCN:"钅哥",
+    year:1996,era:"cold",
+    lab:"GSI Darmstadt",labAbbr:["GSI"],
+    target:"²⁰⁸Pb",projectile:"⁷⁰Zn",targetA:208,targetZ:82,projA:70,projZ:30,
+    compound:"²⁷⁸Cn",evap:"n",product:"²⁷⁷Cn",
+    halfLife:"~30 s",halfLifeSec:30,isoA:285,isoN:173,
+    crossSection:"~1 pb",xsecBarn:1e-12,
+    discoverers:"Hofmann et al. (GSI)",
+    note:"以 Nicolaus Copernicus 命名"
+  },
+  {
+    z:113,symbol:"Nh",name:"Nihonium",nameCN:"钅尔",
+    year:2004,era:"cold",
+    lab:"RIKEN Wako",labAbbr:["RIKEN"],
+    target:"²⁰⁹Bi",projectile:"⁷⁰Zn",targetA:209,targetZ:83,projA:70,projZ:30,
+    compound:"²⁷⁹Nh",evap:"n",product:"²⁷⁸Nh",
+    halfLife:"~12 s",halfLifeSec:12,isoA:286,isoN:173,
+    crossSection:"~30 fb",xsecBarn:3e-14,
+    discoverers:"Morita et al. (RIKEN)",
+    note:"亚洲发现的首个元素；极低截面 (~30 fb)，实验持续九年"
+  },
+  {
+    z:114,symbol:"Fl",name:"Flerovium",nameCN:"钅夫",
+    year:1999,era:"hot",
+    lab:"JINR Dubna",labAbbr:["JINR"],
+    target:"²⁴⁴Pu",projectile:"⁴⁸Ca",targetA:244,targetZ:94,projA:48,projZ:20,
+    compound:"²⁹²Fl",evap:"4n",product:"²⁸⁸Fl",
+    halfLife:"~2.6 s",halfLifeSec:2.6,isoA:289,isoN:175,
+    crossSection:"~5 pb",xsecBarn:5e-12,
+    discoverers:"Oganessian et al. (JINR)",
+    note:"热聚变时代开启；以 Georgy Flerov 命名"
+  },
+  {
+    z:115,symbol:"Mc",name:"Moscovium",nameCN:"钅莫",
+    year:2003,era:"hot",
+    lab:"JINR / LLNL",labAbbr:["JINR","LLNL"],
+    target:"²⁴³Am",projectile:"⁴⁸Ca",targetA:243,targetZ:95,projA:48,projZ:20,
+    compound:"²⁹¹Mc",evap:"3n",product:"²⁸⁸Mc",
+    halfLife:"~0.65 s",halfLifeSec:0.65,isoA:290,isoN:175,
+    crossSection:"~3 pb",xsecBarn:3e-12,
+    discoverers:"Oganessian et al. (JINR/LLNL)",
+    note:"以 Moscow (莫斯科) 命名"
+  },
+  {
+    z:116,symbol:"Lv",name:"Livermorium",nameCN:"钅立",
+    year:2000,era:"hot",
+    lab:"JINR / LLNL",labAbbr:["JINR","LLNL"],
+    target:"²⁴⁸Cm",projectile:"⁴⁸Ca",targetA:248,targetZ:96,projA:48,projZ:20,
+    compound:"²⁹⁶Lv",evap:"4n",product:"²⁹²Lv",
+    halfLife:"~53 ms",halfLifeSec:0.053,isoA:293,isoN:177,
+    crossSection:"~1 pb",xsecBarn:1e-12,
+    discoverers:"Oganessian et al. (JINR/LLNL)",
+    note:"以 Lawrence Livermore 国家实验室命名"
+  },
+  {
+    z:117,symbol:"Ts",name:"Tennessine",nameCN:"钅田",
+    year:2010,era:"hot",
+    lab:"JINR / LLNL / ORNL",labAbbr:["JINR","LLNL","ORNL"],
+    target:"²⁴⁹Bk",projectile:"⁴⁸Ca",targetA:249,targetZ:97,projA:48,projZ:20,
+    compound:"²⁹⁷Ts",evap:"4n",product:"²⁹³Ts",
+    halfLife:"~51 ms",halfLifeSec:0.051,isoA:294,isoN:177,
+    crossSection:"~1 pb",xsecBarn:1e-12,
+    discoverers:"Oganessian et al. (JINR/LLNL/ORNL)",
+    note:"含 ²⁴⁹Bk 靶 (半衰期仅330天)，需 ORNL 专门生产"
+  },
+  {
+    z:118,symbol:"Og",name:"Oganesson",nameCN:"钅奥",
+    year:2002,era:"hot",
+    lab:"JINR / LLNL",labAbbr:["JINR","LLNL"],
+    target:"²⁴⁹Cf",projectile:"⁴⁸Ca",targetA:249,targetZ:98,projA:48,projZ:20,
+    compound:"²⁹⁷Og",evap:"3n",product:"²⁹⁴Og",
+    halfLife:"~0.69 ms",halfLifeSec:0.00069,isoA:294,isoN:176,
+    crossSection:"~0.5 pb",xsecBarn:5e-13,
+    discoverers:"Oganessian et al. (JINR/LLNL)",
+    note:"以 Yuri Oganessian 命名；第7周期最后一位成员"
+  },
+  // Future / attempted
+  {
+    z:119,symbol:"Uue",name:"Ununennium",nameCN:"(未命名)",
+    year:null,era:"future",
+    lab:"RIKEN (尝试中)",labAbbr:["RIKEN"],
+    target:"²⁴⁸Cm",projectile:"⁵¹V",targetA:248,targetZ:96,projA:51,projZ:23,
+    compound:"²⁹⁹Uue",evap:"3n?",product:"²⁹⁶Uue?",
+    halfLife:"—",halfLifeSec:null,isoA:null,isoN:null,
+    crossSection:"预计 ~10–100 fb",xsecBarn:null,
+    discoverers:"—",
+    note:"第8周期开端；RIKEN 使用 ⁵¹V 束流，至今未成功"
+  },
+  {
+    z:120,symbol:"Ubn",name:"Unbinilium",nameCN:"(未命名)",
+    year:null,era:"future",
+    lab:"JINR / GSI (探索中)",labAbbr:["JINR","GSI"],
+    target:"²⁴⁹Cf",projectile:"⁵⁰Ti",targetA:249,targetZ:98,projA:50,projZ:22,
+    compound:"²⁹⁹Ubn",evap:"3n?",product:"²⁹⁶Ubn?",
+    halfLife:"—",halfLifeSec:null,isoA:null,isoN:null,
+    crossSection:"预计 ~fb 量级",xsecBarn:null,
+    discoverers:"—",
+    note:"可能位于稳定岛边缘"
+  }
+];
+
+// Helper maps
+const elByZ = Object.fromEntries(elements.map(e=>[e.z,e]));
+const eraNames = {early:"早期合成",cold:"冷聚变",hot:"热聚变",future:"探索中"};
+const eraCSS = {early:"#6b8b3a",cold:"#3a6b8b",hot:"#b8443a",future:"#999"};
+
+const labInfo = [
+  {abbr:"JINR",name:"Joint Institute for Nuclear Research",nameCN:"联合核子研究所",city:"Dubna, Russia",era:"热聚变 (Fl–Og)",elems:"Fl, Mc, Lv, Ts, Og (⁴⁸Ca 路线)",desc:"Yuri Oganessian 领导的热聚变计划，利用 ⁴⁸Ca 束流轰击锕系靶合成了 Z=114–118 全部元素。"},
+  {abbr:"GSI",name:"GSI Helmholtz Centre",nameCN:"亥姆霍兹重离子研究中心",city:"Darmstadt, Germany",era:"冷聚变 (Bh–Cn)",elems:"Bh, Hs, Mt, Ds, Rg, Cn",desc:"冷聚变技术的开创者。使用 ²⁰⁸Pb/²⁰⁹Bi 靶配合中重离子束流，连续合成了 Z=107–112 的六个元素。"},
+  {abbr:"LBNL",name:"Lawrence Berkeley National Lab",nameCN:"劳伦斯伯克利国家实验室",city:"Berkeley, USA",era:"早期超锕系",elems:"Rf, Db, Sg (与 JINR 竞争/合作)",desc:"超重元素合成的先驱，Ghiorso 团队利用重离子加速器 (HILAC) 首次合成 Rf 和 Sg。"},
+  {abbr:"RIKEN",name:"RIKEN Nishina Center",nameCN:"理化学研究所仁科中心",city:"Wako, Japan",era:"冷聚变 (Nh)",elems:"Nh (唯一)",desc:"Morita 团队使用 ²⁰⁹Bi + ⁷⁰Zn 反应，以仅 ~30 fb 的极低截面，历时九年确认了 Nh 的合成——亚洲首个新元素。"},
+  {abbr:"LLNL",name:"Lawrence Livermore National Lab",nameCN:"劳伦斯利弗莫尔国家实验室",city:"Livermore, USA",era:"热聚变合作 (Mc–Og)",elems:"Mc, Lv, Ts, Og (与 JINR)",desc:"在 JINR 热聚变计划中提供靶材与核数据支持，参与 Z=115–118 的联合发现。"},
+  {abbr:"ORNL",name:"Oak Ridge National Laboratory",nameCN:"橡树岭国家实验室",city:"Oak Ridge, USA",era:"靶材供应 (Ts)",elems:"Ts (²⁴⁹Bk 靶生产)",desc:"专门生产了稀有的 ²⁴⁹Bk 靶材 (半衰期仅 330 天)，使 Ts (Z=117) 的合成成为可能。"}
+];
+
+// ╔══════════════════════════════════════════════╗
+// ║          SECTION 1: Periodic Table           ║
+// ╚══════════════════════════════════════════════╝
+function buildPeriodicTable(){
+  const grid = d3.select("#periodicTable");
+  // Standard periodic table layout: 7 periods x 18 groups + Ln/An rows
+  // We place elements by [row, col] in the CSS grid
+  const layout = [
+    // period 1
+    {z:1,sym:"H",r:1,c:1},{z:2,sym:"He",r:1,c:18},
+    // period 2
+    {z:3,sym:"Li",r:2,c:1},{z:4,sym:"Be",r:2,c:2},{z:5,sym:"B",r:2,c:13},{z:6,sym:"C",r:2,c:14},
+    {z:7,sym:"N",r:2,c:15},{z:8,sym:"O",r:2,c:16},{z:9,sym:"F",r:2,c:17},{z:10,sym:"Ne",r:2,c:18},
+    // period 3
+    {z:11,sym:"Na",r:3,c:1},{z:12,sym:"Mg",r:3,c:2},{z:13,sym:"Al",r:3,c:13},{z:14,sym:"Si",r:3,c:14},
+    {z:15,sym:"P",r:3,c:15},{z:16,sym:"S",r:3,c:16},{z:17,sym:"Cl",r:3,c:17},{z:18,sym:"Ar",r:3,c:18},
+    // period 4
+    {z:19,sym:"K",r:4,c:1},{z:20,sym:"Ca",r:4,c:2},{z:21,sym:"Sc",r:4,c:3},{z:22,sym:"Ti",r:4,c:4},
+    {z:23,sym:"V",r:4,c:5},{z:24,sym:"Cr",r:4,c:6},{z:25,sym:"Mn",r:4,c:7},{z:26,sym:"Fe",r:4,c:8},
+    {z:27,sym:"Co",r:4,c:9},{z:28,sym:"Ni",r:4,c:10},{z:29,sym:"Cu",r:4,c:11},{z:30,sym:"Zn",r:4,c:12},
+    {z:31,sym:"Ga",r:4,c:13},{z:32,sym:"Ge",r:4,c:14},{z:33,sym:"As",r:4,c:15},{z:34,sym:"Se",r:4,c:16},
+    {z:35,sym:"Br",r:4,c:17},{z:36,sym:"Kr",r:4,c:18},
+    // period 5
+    {z:37,sym:"Rb",r:5,c:1},{z:38,sym:"Sr",r:5,c:2},{z:39,sym:"Y",r:5,c:3},{z:40,sym:"Zr",r:5,c:4},
+    {z:41,sym:"Nb",r:5,c:5},{z:42,sym:"Mo",r:5,c:6},{z:43,sym:"Tc",r:5,c:7},{z:44,sym:"Ru",r:5,c:8},
+    {z:45,sym:"Rh",r:5,c:9},{z:46,sym:"Pd",r:5,c:10},{z:47,sym:"Ag",r:5,c:11},{z:48,sym:"Cd",r:5,c:12},
+    {z:49,sym:"In",r:5,c:13},{z:50,sym:"Sn",r:5,c:14},{z:51,sym:"Sb",r:5,c:15},{z:52,sym:"Te",r:5,c:16},
+    {z:53,sym:"I",r:5,c:17},{z:54,sym:"Xe",r:5,c:18},
+    // period 6
+    {z:55,sym:"Cs",r:6,c:1},{z:56,sym:"Ba",r:6,c:2},
+    {z:71,sym:"Lu",r:6,c:3},{z:72,sym:"Hf",r:6,c:4},{z:73,sym:"Ta",r:6,c:5},{z:74,sym:"W",r:6,c:6},
+    {z:75,sym:"Re",r:6,c:7},{z:76,sym:"Os",r:6,c:8},{z:77,sym:"Ir",r:6,c:9},{z:78,sym:"Pt",r:6,c:10},
+    {z:79,sym:"Au",r:6,c:11},{z:80,sym:"Hg",r:6,c:12},{z:81,sym:"Tl",r:6,c:13},{z:82,sym:"Pb",r:6,c:14},
+    {z:83,sym:"Bi",r:6,c:15},{z:84,sym:"Po",r:6,c:16},{z:85,sym:"At",r:6,c:17},{z:86,sym:"Rn",r:6,c:18},
+    // period 7
+    {z:87,sym:"Fr",r:7,c:1},{z:88,sym:"Ra",r:7,c:2},
+    {z:103,sym:"Lr",r:7,c:3},
+    {z:104,sym:"Rf",r:7,c:4,she:true},{z:105,sym:"Db",r:7,c:5,she:true},{z:106,sym:"Sg",r:7,c:6,she:true},
+    {z:107,sym:"Bh",r:7,c:7,she:true},{z:108,sym:"Hs",r:7,c:8,she:true},{z:109,sym:"Mt",r:7,c:9,she:true},
+    {z:110,sym:"Ds",r:7,c:10,she:true},{z:111,sym:"Rg",r:7,c:11,she:true},{z:112,sym:"Cn",r:7,c:12,she:true},
+    {z:113,sym:"Nh",r:7,c:13,she:true},{z:114,sym:"Fl",r:7,c:14,she:true},{z:115,sym:"Mc",r:7,c:15,she:true},
+    {z:116,sym:"Lv",r:7,c:16,she:true},{z:117,sym:"Ts",r:7,c:17,she:true},{z:118,sym:"Og",r:7,c:18,she:true},
+    // Lanthanides row 8
+    {z:57,sym:"La",r:8,c:4},{z:58,sym:"Ce",r:8,c:5},{z:59,sym:"Pr",r:8,c:6},{z:60,sym:"Nd",r:8,c:7},
+    {z:61,sym:"Pm",r:8,c:8},{z:62,sym:"Sm",r:8,c:9},{z:63,sym:"Eu",r:8,c:10},{z:64,sym:"Gd",r:8,c:11},
+    {z:65,sym:"Tb",r:8,c:12},{z:66,sym:"Dy",r:8,c:13},{z:67,sym:"Ho",r:8,c:14},{z:68,sym:"Er",r:8,c:15},
+    {z:69,sym:"Tm",r:8,c:16},{z:70,sym:"Yb",r:8,c:17},
+    // Actinides row 9
+    {z:89,sym:"Ac",r:9,c:4},{z:90,sym:"Th",r:9,c:5},{z:91,sym:"Pa",r:9,c:6},{z:92,sym:"U",r:9,c:7},
+    {z:93,sym:"Np",r:9,c:8},{z:94,sym:"Pu",r:9,c:9},{z:95,sym:"Am",r:9,c:10},{z:96,sym:"Cm",r:9,c:11},
+    {z:97,sym:"Bk",r:9,c:12},{z:98,sym:"Cf",r:9,c:13},{z:99,sym:"Es",r:9,c:14},{z:100,sym:"Fm",r:9,c:15},
+    {z:101,sym:"Md",r:9,c:16},{z:102,sym:"No",r:9,c:17}
+  ];
+  // Fill all 9x18=162 cells, blank ones as placeholder
+  const rows=9,cols=18;
+  const occupied=new Set(layout.map(d=>`${d.r},${d.c}`));
+  // Re-index rows: 1-7 for main table, 8 for Ln, 9 for An
+  // Build a flat array of all cells in grid order
+  const allCells=[];
+  for(let r=1;r<=rows;r++){
+    for(let c=1;c<=cols;c++){
+      const key=`${r},${c}`;
+      if(occupied.has(key)){
+        const d=layout.find(e=>e.r===r&&e.c===c);
+        allCells.push({...d,placeholder:false});
+      }else{
+        // Add a small separator indicator between groups 2 and 3 for rows 8-9
+        // and blank spaces for rows 1-3 cols 3-12
+        allCells.push({r,c,placeholder:true,sym:""});
+      }
+    }
+  }
+  const cells=grid.selectAll(".pt-cell").data(allCells);
+  const enter=cells.enter().append("div")
+    .attr("class",d=>{
+      let cls="pt-cell";
+      if(d.placeholder) cls+=" placeholder";
+      else if(d.she){
+        const e=elByZ[d.z];
+        cls+=" she "+(e?e.era:"");
+      }
+      return cls;
+    })
+    .style("grid-row",d=>d.r)
+    .style("grid-column",d=>d.c)
+    .on("click",function(ev,d){if(d.she) showDetail(elByZ[d.z]);});
+  enter.filter(d=>!d.placeholder)
+    .html(d=>`<span class="pt-z">${d.z}</span><span class="pt-symbol">${d.sym}</span>`);
+}
+
+function showDetail(el){
+  if(!el) return;
+  const eraLabel=eraNames[el.era]||el.era;
+  const eraCol=eraCSS[el.era]||"#999";
+  const card=d3.select("#detailCard").html(`
+    <button class="close-btn" onclick="closeDetail()">×</button>
+    <div class="elem-symbol">${el.symbol}</div>
+    <div class="elem-name">${el.name} / ${el.nameCN}</div>
+    <div class="elem-z">Z = ${el.z} · ${eraLabel} · ${el.lab}</div>
+    <dl>
+      <dt>发现年份</dt><dd>${el.year||"—"}</dd>
+      <dt>反应</dt><dd>${el.target} + ${el.projectile} → ${el.compound} → ${el.product} + ${el.evap}</dd>
+      <dt>最长半衰期</dt><dd>${el.halfLife} (²${el.isoA}${el.symbol})</dd>
+      <dt>截面</dt><dd>${el.crossSection}</dd>
+      <dt>发现者</dt><dd>${el.discoverers}</dd>
+    </dl>
+    <p style="margin-top:.8rem;font-size:.82rem;color:var(--text-muted);font-style:italic">${el.note}</p>
+  `);
+  d3.select("#detailOverlay").classed("active",true);
+}
+function closeDetail(){d3.select("#detailOverlay").classed("active",false);}
+d3.select("#detailOverlay").on("click",function(ev){if(ev.target===this)closeDetail();});
+
+// ╔══════════════════════════════════════════════╗
+// ║          SECTION 2: Timeline                ║
+// ╚══════════════════════════════════════════════╝
+function buildTimeline(){
+  const container=d3.select("#timeline");
+  container.html("");
+  const W=1050,H=150,margin={top:40,right:40,bottom:60,left:40};
+  const w=W-margin.left-margin.right,h=H-margin.top-margin.bottom;
+  const svg=container.append("svg").attr("viewBox",`0 0 ${W} ${H}`).attr("width","100%").attr("height",H)
+    .append("g").attr("transform",`translate(${margin.left},${margin.top})`);
+  const data=elements.filter(e=>e.year!==null);
+  const x=d3.scaleLinear().domain([1960,2025]).range([0,w]);
+  const axis=d3.axisBottom(x).tickFormat(d3.format("d")).ticks(14);
+  svg.append("g").attr("class","timeline-axis").attr("transform",`translate(0,${h-20})`).call(axis);
+  // Era background bands
+  const eras=[{start:1960,end:1980,label:"早期合成",col:"#6b8b3a11"},{start:1980,end:2000,label:"冷聚变时代",col:"#3a6b8b11"},{start:2000,end:2025,label:"热聚变时代",col:"#b8443a11"}];
+  eras.forEach(er=>{
+    svg.append("rect").attr("x",x(er.start)).attr("y",0).attr("width",x(er.end)-x(er.start))
+      .attr("height",h-22).attr("fill",er.col);
+    svg.append("text").attr("x",x(er.start)+2).attr("y",h-2).style("fill","var(--text-muted)")
+      .attr("font-size",".6rem").text(er.label);
+  });
+  // Dots
+  const yOffsets={early:h*0.25,cold:h*0.55,hot:h*0.55};
+  data.forEach(d=>{
+    const cy=yOffsets[d.era]||h*0.4;
+    svg.append("circle").attr("class","timeline-dot")
+      .attr("cx",x(d.year)).attr("cy",cy).attr("r",5)
+      .attr("fill","none").attr("stroke",eraCSS[d.era]||"#999").attr("stroke-width",2);
+    svg.append("text").attr("class","timeline-label")
+      .attr("x",x(d.year)).attr("y",cy-10)
+      .text(d.symbol);
+    svg.append("text").attr("class","timeline-label")
+      .attr("x",x(d.year)).attr("y",h-26).attr("font-size",".55rem").style("fill","var(--text-muted)")
+      .text(d.year);
+  });
+  // Extra: 119/120 marks
+  [{z:119,year:2024,label:"119 attempt"},{z:120,year:2024,label:"120 attempt"}].forEach(d=>{
+    svg.append("line").attr("x1",x(d.year)).attr("x2",x(d.year)).attr("y1",h*0.55).attr("y2",h-22)
+      .attr("stroke","#999").attr("stroke-dasharray","4,3").attr("stroke-width",1);
+    svg.append("text").attr("x",x(d.year)).attr("y",h*0.55-3).attr("text-anchor","middle")
+      .attr("font-size",".55rem").attr("fill","#999").text(d.label);
+  });
+}
+
+// ╔══════════════════════════════════════════════╗
+// ║       SECTION 3: Reaction Network           ║
+// ╚══════════════════════════════════════════════╝
+function buildNetwork(){
+  const container=d3.select("#network");
+  container.html("");
+  const W=container.node().clientWidth||1000;
+  const H=520;
+  const nodes=[],links=[],nodeMap={};
+  function getNode(id,group,label,meta={}){
+    if(!nodeMap[id]){nodeMap[id]={id,group,label,...meta};nodes.push(nodeMap[id]);}
+    return nodeMap[id];
+  }
+  elements.forEach(el=>{
+    if(el.era==="future") return;
+    const tId=`t_${el.target}`;
+    const pId=`p_${el.projectile}`;
+    const prodId=`prod_${el.symbol}`;
+    getNode(tId,"target",el.target,{z:el.targetZ,el});
+    getNode(pId,"projectile",el.projectile,{z:el.projZ,el});
+    getNode(prodId,"product",el.symbol,{z:el.z,el});
+    links.push({source:tId,target:prodId,type:el.era});
+    links.push({source:pId,target:prodId,type:el.era});
+  });
+
+  const svg=container.append("svg").attr("viewBox",`0 0 ${W} ${H}`).attr("class","network-svg");
+  const g=svg.append("g");
+
+  const colorMap={target:"#4a7c59",projectile:"#888",product:"#333"};
+  const col=d3.scaleOrdinal().domain(["cold","hot","early"]).range([eraCSS.cold,eraCSS.hot,eraCSS.early]);
+
+  const sim=d3.forceSimulation(nodes)
+    .force("link",d3.forceLink(links).id(d=>d.id).distance(90))
+    .force("charge",d3.forceManyBody().strength(-200))
+    .force("x",d3.forceX(d=>{if(d.group==="target")return W*0.15;if(d.group==="projectile")return W*0.45;return W*0.80;}))
+    .force("y",d3.forceY(H/2))
+    .force("collide",d3.forceCollide(16));
+
+  const link=g.selectAll(".network-link").data(links).join("line").attr("class","network-link")
+    .attr("stroke",d=>col(d.type)).attr("stroke-opacity",0.5);
+
+  const node=g.selectAll(".network-node").data(nodes).join("g")
+    .attr("class",d=>`network-node ${d.group}`)
+    .call(d3.drag().on("start",(ev,d)=>{if(!ev.active)sim.alphaTarget(0.3).restart();d.fx=d.x;d.fy=d.y;})
+      .on("drag",(ev,d)=>{d.fx=ev.x;d.fy=ev.y;})
+      .on("end",(ev,d)=>{if(!ev.active)sim.alphaTarget(0);d.fx=null;d.fy=null;}));
+
+  node.each(function(d){
+    const n=d3.select(this);
+    n.append("circle").attr("r",d.group==="product"?8:6)
+      .attr("fill",d.group==="product"?(d.el?eraCSS[d.el.era]||"#999":"#333"):(d.group==="target"?"#fff":"#f5f5f5"))
+      .attr("stroke",d.group==="product"?"#333":"#888").attr("stroke-width",1.5);
+    n.append("text").attr("dy",d.group==="product"?-10:-9).text(d.label);
+    if(d.el){
+      n.on("click",()=>showDetail(d.el));
+      n.style("cursor","pointer");
+    }
+  });
+
+  sim.on("tick",()=>{
+    link.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y)
+      .attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);
+    node.attr("transform",d=>`translate(${d.x},${d.y})`);
+  });
+}
+
+// ╔══════════════════════════════════════════════╗
+// ║          SECTION 4: Charts                  ║
+// ╚══════════════════════════════════════════════╝
+function chartHL(){
+  const el=d3.select("#chartHL");el.html("");
+  const data=elements.filter(e=>e.halfLifeSec!==null);
+  const W=el.node().clientWidth,H=260,mg={top:20,right:20,bottom:36,left:44},w=W-mg.left-mg.right,h=H-mg.top-mg.bottom;
+  const svg=el.append("svg").attr("viewBox",`0 0 ${W} ${H}`).attr("class","chart-svg").append("g").attr("transform",`translate(${mg.left},${mg.top})`);
+  const x=d3.scaleLinear().domain([104,118]).range([0,w]);
+  const y=d3.scaleLog().domain([1e-4,2e5]).range([h,0]);
+  // Grid
+  svg.append("g").attr("class","grid-line").call(d3.axisLeft(y).ticks(6).tickSize(-w).tickFormat(""));
+  svg.append("g").attr("transform",`translate(0,${h})`).attr("class","chart-axis").call(d3.axisBottom(x).tickFormat(d=>d));
+  svg.append("g").attr("class","chart-axis").call(d3.axisLeft(y).ticks(6).tickFormat(d=>{if(d>=1)return d+" s";if(d>=1e-3)return (d*1e3).toFixed(0)+" ms";return (d*1e6).toFixed(0)+" µs";}));
+  // Connecting line
+  const line=d3.line().x(d=>x(d.z)).y(d=>y(d.halfLifeSec)).curve(d3.curveMonotoneX);
+  svg.append("path").datum(data).attr("fill","none").attr("stroke","#ccc").attr("stroke-width",1).attr("d",line);
+  // Dots
+  const dots=svg.selectAll(".dot").data(data).join("circle")
+    .attr("cx",d=>x(d.z)).attr("cy",d=>y(d.halfLifeSec)).attr("r",5)
+    .attr("fill",d=>eraCSS[d.era]||"#999").attr("stroke","white").attr("stroke-width",1);
+  dots.append("title").text(d=>`²${d.isoA}${d.symbol}: ${d.halfLife}`);
+  // Labels for outliers
+  data.forEach(d=>{
+    svg.append("text").attr("x",x(d.z)).attr("y",y(d.halfLifeSec)-8).attr("text-anchor","middle")
+      .attr("font-size",".6rem").style("fill","var(--text-muted)").text(d.symbol);
+  });
+}
+
+function chartYear(){
+  const el=d3.select("#chartYear");el.html("");
+  const data=elements.filter(e=>e.year!==null);
+  const W=el.node().clientWidth,H=260,mg={top:20,right:20,bottom:36,left:44},w=W-mg.left-mg.right,h=H-mg.top-mg.bottom;
+  const svg=el.append("svg").attr("viewBox",`0 0 ${W} ${H}`).attr("class","chart-svg").append("g").attr("transform",`translate(${mg.left},${mg.top})`);
+  const x=d3.scaleLinear().domain([104,118]).range([0,w]);
+  const y=d3.scaleLinear().domain([1960,2015]).range([h,0]);
+  svg.append("g").attr("class","grid-line").call(d3.axisLeft(y).ticks(6).tickSize(-w).tickFormat(""));
+  svg.append("g").attr("transform",`translate(0,${h})`).attr("class","chart-axis").call(d3.axisBottom(x).tickFormat(d=>d));
+  svg.append("g").attr("class","chart-axis").call(d3.axisLeft(y).ticks(6).tickFormat(d3.format("d")));
+  // Stepped line
+  svg.selectAll("line.step").data(data).join("line")
+    .attr("x1",(d,i)=>i>0?x(data[i-1].z):x(d.z)).attr("x2",d=>x(d.z))
+    .attr("y1",(d,i)=>i>0?y(data[i-1].year):y(d.year)).attr("y2",d=>y(d.year))
+    .attr("stroke","#ccc").attr("stroke-width",1).attr("stroke-dasharray","3,3");
+  svg.selectAll(".dot").data(data).join("circle")
+    .attr("cx",d=>x(d.z)).attr("cy",d=>y(d.year)).attr("r",5)
+    .attr("fill",d=>eraCSS[d.era]||"#999").attr("stroke","white").attr("stroke-width",1)
+    .append("title").text(d=>`${d.symbol}: ${d.year} (${d.lab})`);
+  // Era bands
+  svg.append("rect").attr("x",x(104)).attr("width",x(118)-x(104)).attr("y",y(2000)).attr("height",y(1980)-y(2000))
+    .attr("fill",eraCSS.hot+"18");
+  svg.append("rect").attr("x",x(104)).attr("width",x(118)-x(104)).attr("y",y(1996)).attr("height",y(1981)-y(1996))
+    .attr("fill",eraCSS.cold+"18");
+  svg.append("text").attr("x",x(109)).attr("y",y(1988)).attr("font-size",".55rem").attr("fill",eraCSS.cold).text("冷聚变时代");
+  svg.append("text").attr("x",x(109)).attr("y",y(2007)).attr("font-size",".55rem").attr("fill",eraCSS.hot).text("热聚变时代");
+}
+
+function chartXS(){
+  const el=d3.select("#chartXS");el.html("");
+  const data=elements.filter(e=>e.xsecBarn!==null&&e.era!=="early");
+  const W=el.node().clientWidth,H=260,mg={top:20,right:20,bottom:36,left:48},w=W-mg.left-mg.right,h=H-mg.top-mg.bottom;
+  const svg=el.append("svg").attr("viewBox",`0 0 ${W} ${H}`).attr("class","chart-svg").append("g").attr("transform",`translate(${mg.left},${mg.top})`);
+  const x=d3.scaleLinear().domain([107,118]).range([0,w]);
+  const y=d3.scaleLog().domain([1e-14,1e-8]).range([h,0]);
+  svg.append("g").attr("class","grid-line").call(d3.axisLeft(y).ticks(5).tickSize(-w).tickFormat(""));
+  svg.append("g").attr("transform",`translate(0,${h})`).attr("class","chart-axis").call(d3.axisBottom(x).tickFormat(d=>d));
+  svg.append("g").attr("class","chart-axis").call(d3.axisLeft(y).ticks(5).tickFormat(d=>d>=1e-9?`${(d*1e9).toFixed(1)} nb`:`${(d*1e12).toFixed(0)} pb`));
+  const line=d3.line().x(d=>x(d.z)).y(d=>y(d.xsecBarn));
+  svg.append("path").datum(data).attr("fill","none").attr("stroke","#ccc").attr("stroke-width",1).attr("d",line);
+  svg.selectAll(".dot").data(data).join("circle")
+    .attr("cx",d=>x(d.z)).attr("cy",d=>y(d.xsecBarn)).attr("r",5)
+    .attr("fill",d=>eraCSS[d.era]||"#999").attr("stroke","white").attr("stroke-width",1)
+    .append("title").text(d=>`${d.symbol}: ${d.crossSection}`);
+  data.forEach(d=>{
+    svg.append("text").attr("x",x(d.z)).attr("y",y(d.xsecBarn)-8).attr("text-anchor","middle")
+      .attr("font-size",".55rem").style("fill","var(--text-muted)").text(d.symbol);
+  });
+}
+
+function chartBar(){
+  const el=d3.select("#chartBar");el.html("");
+  const data=elements.filter(e=>e.halfLifeSec!==null&&e.era!=="early");
+  const W=el.node().clientWidth,H=260,mg={top:10,right:10,bottom:30,left:48},w=W-mg.left-mg.right,h=H-mg.top-mg.bottom;
+  const svg=el.append("svg").attr("viewBox",`0 0 ${W} ${H}`).attr("class","chart-svg").append("g").attr("transform",`translate(${mg.left},${mg.top})`);
+  const x=d3.scaleBand().domain(data.map(d=>d.symbol)).range([0,w]).padding(.3);
+  const y=d3.scaleLog().domain([1e-4,1e5]).range([h,0]);
+  svg.append("g").attr("transform",`translate(0,${h})`).attr("class","chart-axis").call(d3.axisBottom(x).tickSize(0));
+  svg.append("g").attr("class","chart-axis").call(d3.axisLeft(y).ticks(5,"~s"));
+  svg.selectAll("rect").data(data).join("rect")
+    .attr("x",d=>x(d.symbol)).attr("y",d=>y(d.halfLifeSec))
+    .attr("width",x.bandwidth()).attr("height",d=>h-y(d.halfLifeSec))
+    .attr("fill",d=>eraCSS[d.era]||"#999").attr("rx",2);
+  data.forEach(d=>{
+    svg.append("text").attr("x",x(d.symbol)+x.bandwidth()/2).attr("y",y(d.halfLifeSec)-4)
+      .attr("text-anchor","middle").attr("font-size",".55rem").style("fill","var(--text-muted)").text(d.halfLife);
+  });
+}
+
+// ╔══════════════════════════════════════════════╗
+// ║     SECTION 5: Island of Stability          ║
+// ╚══════════════════════════════════════════════╝
+function buildIsland(){
+  const el=d3.select("#island");el.html("");
+  const W=el.node().clientWidth||960,H=480,mg={top:20,right:30,bottom:40,left:50},w=W-mg.left-mg.right,h=H-mg.top-mg.bottom;
+  const svg=el.append("svg").attr("viewBox",`0 0 ${W} ${H}`).attr("class","island-svg").append("g").attr("transform",`translate(${mg.left},${mg.top})`);
+
+  const x=d3.scaleLinear().domain([140,190]).range([0,w]);
+  const y=d3.scaleLinear().domain([98,122]).range([h,0]);
+
+  // Grid
+  svg.append("g").attr("class","grid-line").call(d3.axisLeft(y).ticks(8).tickSize(-w).tickFormat(""));
+  svg.append("g").attr("class","grid-line").attr("transform",`translate(0,${h})`)
+    .call(d3.axisBottom(x).ticks(10).tickSize(-h).tickFormat(""));
+  svg.append("g").attr("transform",`translate(0,${h})`).attr("class","chart-axis").call(d3.axisBottom(x).tickFormat(d=>"N="+d));
+  svg.append("g").attr("class","chart-axis").call(d3.axisLeft(y).tickFormat(d=>"Z="+d));
+
+  // Stability island contour (theoretical)
+  const theoryPoints=[
+    [160,114],[162,115],[164,116],[166,116],[168,117],[170,117],[172,118],[174,118],[176,119],[178,119],
+    [180,120],[182,121],[184,122],[184,120],[184,118],[186,119],[186,117],[186,115],[182,114],[182,116],
+    [178,114],[178,116],[174,113],[174,115],[170,112],[170,114],[166,111],[166,113],[162,110],[162,112],[160,114]
+  ];
+  const contour=d3.line().x(d=>x(d[0])).y(d=>y(d[1])).curve(d3.curveCardinalClosed);
+  svg.append("path").datum(theoryPoints).attr("d",contour)
+    .attr("fill","#f0e6d2").attr("stroke","#c8a45c").attr("stroke-width",1.5).attr("stroke-dasharray","6,4");
+  svg.append("text").attr("x",x(184)).attr("y",y(120)-5).attr("text-anchor","middle")
+    .attr("font-size",".7rem").attr("fill","#b8860b").attr("font-style","italic").text("理论稳定岛");
+
+  // "Sea of Instability" label
+  svg.append("text").attr("x",x(158)).attr("y",y(102)).attr("font-size",".6rem")
+    .style("fill","var(--text-muted)").attr("font-style","italic").text("~ 不稳定海 ~");
+
+  // Known SHE isotopes scatter
+  const isoData=[];
+  elements.filter(e=>e.era!=="future").forEach(el=>{
+    isoData.push({z:el.z,n:el.isoN,hl:el.halfLifeSec,symbol:el.symbol,era:el.era,label:`²${el.isoA}${el.symbol}`});
+  });
+  // Also neighboring non-SHE for context: U, Pu, Cm isotopes
+  [{z:92,n:146,hl:1.4e17,label:"²³⁸U"},{z:94,n:150,hl:2.5e11,label:"²⁴⁴Pu"},{z:96,n:152,hl:1.1e15,label:"²⁴⁸Cm"},
+   {z:98,n:153,hl:1.1e10,label:"²⁵¹Cf"},{z:100,n:157,hl:8.7e6,label:"²⁵⁷Fm"},{z:102,n:157,hl:58,label:"²⁵⁹No"}]
+   .forEach(d=>{isoData.push({...d,era:"context"});});
+
+  const hlColor=d3.scaleSequentialLog(d3.interpolateYlOrRd).domain([1e-4,1e5]);
+  svg.selectAll(".iso-dot").data(isoData).join("circle")
+    .attr("cx",d=>x(d.n)).attr("cy",d=>y(d.z)).attr("r",d=>d.era==="context"?3:5)
+    .attr("fill",d=>d.hl?hlColor(d.hl):"#ccc")
+    .attr("stroke",d=>d.era==="context"?"#999":"white").attr("stroke-width",1)
+    .append("title").text(d=>d.label+(d.hl?` (t½≈${d.hl>86400?(d.hl/86400).toFixed(1)+" d":d.hl>3600?(d.hl/3600).toFixed(1)+" h":d.hl>1?d.hl.toFixed(1)+" s":(d.hl*1e3).toFixed(1)+" ms"})`:""));
+  // Labels for key isotopes
+  isoData.filter(d=>d.era!=="context").forEach(d=>{
+    svg.append("text").attr("x",x(d.n)+6).attr("y",y(d.z)-4).attr("font-size",".55rem")
+      .style("fill","var(--text-muted)").text(d.symbol);
+  });
+
+  // Legend
+  const legendX=x(175),legendY=y(100);
+  svg.append("text").attr("x",legendX).attr("y",legendY-10).attr("font-size",".55rem")
+    .style("fill","var(--text-muted)").text("半衰期: 短 → 长");
+  const gradW=60;
+  const stops=[0,0.25,0.5,0.75,1];
+  stops.forEach((t,i)=>{
+    svg.append("rect").attr("x",legendX+i*gradW/5).attr("y",legendY).attr("width",gradW/5).attr("height",6)
+      .attr("fill",hlColor(1e-4+(1e5-1e-4)*t));
+  });
+}
+
+// ╔══════════════════════════════════════════════╗
+// ║          SECTION 6: Labs                   ║
+// ╚══════════════════════════════════════════════╝
+function buildLabs(){
+  const container=d3.select("#labs");
+  labInfo.forEach(l=>{
+    const card=container.append("div").attr("class","lab-card");
+    card.append("div").attr("class","lab-name").text(`${l.nameCN} / ${l.abbr}`);
+    card.append("div").attr("class","lab-loc").text(l.city);
+    card.append("div").attr("class","lab-era").text(l.era);
+    card.append("div").attr("class","lab-elems").text("元素: "+l.elems);
+    card.append("p").style("font-size",".8rem").style("color","var(--text-muted)").style("margin-top",".5rem").text(l.desc);
+  });
+}
+
+// ╔══════════════════════════════════════════════╗
+// ║               Init All                     ║
+// ╚══════════════════════════════════════════════╝
+buildPeriodicTable();
+buildTimeline();
+buildNetwork();
+chartHL();
+chartYear();
+chartXS();
+chartBar();
+buildIsland();
+buildLabs();
+
+// Rebuild responsive charts on resize
+let resizeTimeout;
+window.addEventListener("resize",()=>{
+  clearTimeout(resizeTimeout);
+  resizeTimeout=setTimeout(()=>{
+    chartHL();chartYear();chartXS();chartBar();
+    buildNetwork();
+    buildIsland();
+  },300);
+});
+</script>
+</body>
+</html>

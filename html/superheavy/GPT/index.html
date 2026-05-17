@@ -1,0 +1,1970 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>超重核合成历史脉络 | 离线交互单页</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f4ef;
+      --surface: #ffffff;
+      --surface-2: #ebe7dd;
+      --ink: #1d2327;
+      --muted: #5f686f;
+      --line: #d8d1c3;
+      --early: #5d7e42;
+      --cold: #286c93;
+      --hot: #b85632;
+      --future: #6c5d92;
+      --gold: #b68a2f;
+      --beam: #d24835;
+      --shadow: 0 16px 48px rgba(24, 30, 35, 0.10);
+      --radius: 8px;
+      --max: 1180px;
+      --mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      letter-spacing: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      background: var(--bg);
+    }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0) 34rem),
+        radial-gradient(circle at 18% 10%, rgba(184, 138, 47, 0.12), transparent 26rem),
+        var(--bg);
+      font-family: var(--sans);
+      font-size: 16px;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    a {
+      color: #155e89;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+
+    button,
+    select {
+      font: inherit;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    .skip-link {
+      position: fixed;
+      left: 1rem;
+      top: 1rem;
+      z-index: 60;
+      transform: translateY(-5rem);
+      background: var(--ink);
+      color: #fff;
+      padding: 0.7rem 0.9rem;
+      border-radius: 6px;
+      transition: transform 160ms ease;
+    }
+
+    .skip-link:focus {
+      transform: translateY(0);
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      border-bottom: 1px solid rgba(29, 35, 39, 0.12);
+      background: rgba(246, 244, 239, 0.92);
+      backdrop-filter: blur(14px);
+    }
+
+    .nav {
+      width: min(var(--max), calc(100% - 2rem));
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      min-height: 58px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      color: var(--ink);
+      font-weight: 760;
+      white-space: nowrap;
+    }
+
+    .brand-mark {
+      width: 32px;
+      height: 32px;
+      border: 1px solid rgba(29, 35, 39, 0.22);
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      color: var(--beam);
+      font-family: var(--mono);
+      font-size: 0.78rem;
+      background: #fff;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      overflow-x: auto;
+      padding: 0.45rem 0;
+      scrollbar-width: thin;
+    }
+
+    .nav-links a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      line-height: 1;
+      padding: 0.65rem 0.72rem;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+
+    .nav-links a:hover,
+    .nav-links a:focus-visible {
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.85);
+      outline: none;
+    }
+
+    .hero {
+      position: relative;
+      min-height: 620px;
+      overflow: hidden;
+      border-bottom: 1px solid rgba(29, 35, 39, 0.12);
+      background: #171d21;
+      color: #f7f4ec;
+    }
+
+    .beam-canvas {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      display: block;
+      background: #171d21;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(23, 29, 33, 0.95) 0%, rgba(23, 29, 33, 0.82) 36%, rgba(23, 29, 33, 0.32) 72%, rgba(23, 29, 33, 0.58) 100%),
+        linear-gradient(180deg, rgba(23, 29, 33, 0.35), rgba(23, 29, 33, 0.96));
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 2;
+      width: min(var(--max), calc(100% - 2rem));
+      min-height: 620px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: minmax(0, 0.95fr) minmax(280px, 0.55fr);
+      align-items: center;
+      gap: 2rem;
+      padding: 4.5rem 0 3.5rem;
+    }
+
+    .kicker {
+      margin: 0 0 0.8rem;
+      color: #d8c17b;
+      font-family: var(--mono);
+      font-size: 0.9rem;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      margin-top: 0;
+    }
+
+    h1 {
+      max-width: 780px;
+      margin-bottom: 1rem;
+      font-size: 3.65rem;
+      line-height: 1.05;
+      font-weight: 800;
+    }
+
+    .hero-lead {
+      max-width: 720px;
+      margin-bottom: 1.8rem;
+      color: rgba(247, 244, 236, 0.84);
+      font-size: 1.08rem;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0.68rem 0.95rem;
+      border: 1px solid rgba(255, 255, 255, 0.24);
+      border-radius: 999px;
+      color: #fff;
+      background: rgba(255, 255, 255, 0.10);
+      text-decoration: none;
+    }
+
+    .button.primary {
+      border-color: rgba(210, 72, 53, 0.96);
+      background: #d24835;
+      color: #fff;
+    }
+
+    .signal-panel {
+      justify-self: end;
+      width: min(100%, 390px);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: var(--radius);
+      background: rgba(18, 23, 27, 0.58);
+      box-shadow: var(--shadow);
+      padding: 1.1rem;
+    }
+
+    .signal-title {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.9rem;
+      color: rgba(247, 244, 236, 0.78);
+      font-family: var(--mono);
+      font-size: 0.82rem;
+    }
+
+    .signal-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+    }
+
+    .stat {
+      min-height: 94px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 6px;
+      padding: 0.8rem;
+      background: rgba(255, 255, 255, 0.06);
+    }
+
+    .stat strong {
+      display: block;
+      color: #fff;
+      font-size: 1.7rem;
+      line-height: 1.1;
+      font-family: var(--mono);
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 0.35rem;
+      color: rgba(247, 244, 236, 0.76);
+      font-size: 0.82rem;
+      line-height: 1.35;
+    }
+
+    main {
+      overflow: hidden;
+    }
+
+    section {
+      scroll-margin-top: 82px;
+    }
+
+    .section {
+      width: min(var(--max), calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 4.7rem 0;
+    }
+
+    .section.band {
+      width: 100%;
+      max-width: none;
+      background: rgba(255, 255, 255, 0.54);
+      border-top: 1px solid rgba(29, 35, 39, 0.08);
+      border-bottom: 1px solid rgba(29, 35, 39, 0.08);
+    }
+
+    .section.band > .section-inner {
+      width: min(var(--max), calc(100% - 2rem));
+      margin: 0 auto;
+    }
+
+    .section-head {
+      display: grid;
+      grid-template-columns: minmax(0, 0.72fr) minmax(240px, 0.28fr);
+      gap: 1.6rem;
+      align-items: end;
+      margin-bottom: 1.6rem;
+    }
+
+    h2 {
+      margin-bottom: 0.6rem;
+      font-size: 2rem;
+      line-height: 1.15;
+    }
+
+    .section-head p {
+      margin-bottom: 0;
+      color: var(--muted);
+    }
+
+    .section-note {
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 0.55rem;
+    }
+
+    .chip {
+      min-height: 36px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0.46rem 0.75rem;
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.72);
+      font-size: 0.9rem;
+    }
+
+    .chip:hover,
+    .chip:focus-visible {
+      color: var(--ink);
+      border-color: rgba(29, 35, 39, 0.32);
+      outline: none;
+    }
+
+    .chip[aria-pressed="true"] {
+      color: #fff;
+      border-color: #24323a;
+      background: #24323a;
+    }
+
+    .select {
+      min-height: 36px;
+      max-width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0.42rem 2rem 0.42rem 0.75rem;
+      color: var(--ink);
+      background: #fff;
+    }
+
+    .viz-frame {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255, 255, 255, 0.78);
+      box-shadow: 0 8px 28px rgba(29, 35, 39, 0.06);
+      overflow: hidden;
+    }
+
+    .viz-scroll {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .timeline-svg,
+    .routes-svg,
+    .island-svg {
+      display: block;
+      width: 100%;
+      min-width: 860px;
+      height: auto;
+    }
+
+    .routes-grid {
+      display: grid;
+      grid-template-columns: 1.25fr 0.75fr;
+      gap: 1rem;
+      align-items: stretch;
+    }
+
+    .route-side {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .summary-card,
+    .lab-card,
+    .element-card,
+    .future-card,
+    .source-item {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--surface);
+      box-shadow: 0 8px 28px rgba(29, 35, 39, 0.05);
+    }
+
+    .summary-card {
+      padding: 1rem;
+    }
+
+    .summary-card h3,
+    .lab-card h3,
+    .future-card h3 {
+      margin-bottom: 0.45rem;
+      font-size: 1.06rem;
+      line-height: 1.25;
+    }
+
+    .summary-card p,
+    .lab-card p,
+    .future-card p {
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    .summary-meter {
+      height: 8px;
+      margin: 0.8rem 0 0.2rem;
+      border-radius: 999px;
+      background: var(--surface-2);
+      overflow: hidden;
+    }
+
+    .summary-meter span {
+      display: block;
+      height: 100%;
+      border-radius: 999px;
+    }
+
+    .labs-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+    }
+
+    .lab-card {
+      padding: 1rem;
+      min-height: 190px;
+    }
+
+    .lab-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 0.65rem;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 24px;
+      border-radius: 999px;
+      padding: 0.25rem 0.5rem;
+      color: var(--muted);
+      background: #f0ede5;
+      font-size: 0.78rem;
+      line-height: 1.1;
+    }
+
+    .tag.route-early {
+      color: var(--early);
+      background: rgba(93, 126, 66, 0.12);
+    }
+
+    .tag.route-cold {
+      color: var(--cold);
+      background: rgba(40, 108, 147, 0.12);
+    }
+
+    .tag.route-hot {
+      color: var(--hot);
+      background: rgba(184, 86, 50, 0.12);
+    }
+
+    .tag.route-future {
+      color: var(--future);
+      background: rgba(108, 93, 146, 0.12);
+    }
+
+    .element-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 0.85rem;
+    }
+
+    .element-card {
+      position: relative;
+      min-height: 178px;
+      padding: 0.85rem;
+      text-align: left;
+      color: var(--ink);
+      transition: transform 150ms ease, border-color 150ms ease, box-shadow 150ms ease;
+    }
+
+    button.element-card {
+      width: 100%;
+      border-color: var(--line);
+    }
+
+    .element-card:hover,
+    .element-card:focus-visible {
+      transform: translateY(-2px);
+      border-color: rgba(29, 35, 39, 0.34);
+      outline: none;
+      box-shadow: 0 16px 38px rgba(29, 35, 39, 0.11);
+    }
+
+    .element-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.75rem;
+      margin-bottom: 0.72rem;
+    }
+
+    .z {
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 0.78rem;
+    }
+
+    .symbol {
+      display: block;
+      margin: 0.1rem 0 0.35rem;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 2.35rem;
+      line-height: 1;
+      font-weight: 760;
+    }
+
+    .element-name {
+      display: block;
+      min-height: 2.45rem;
+      color: var(--muted);
+      font-size: 0.84rem;
+      line-height: 1.35;
+    }
+
+    .element-reaction {
+      margin-top: 0.7rem;
+      color: var(--ink);
+      font-family: var(--mono);
+      font-size: 0.76rem;
+      line-height: 1.35;
+      overflow-wrap: anywhere;
+    }
+
+    .future-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+
+    .future-card {
+      padding: 1.1rem;
+      border-color: rgba(108, 93, 146, 0.28);
+    }
+
+    .future-status {
+      display: inline-flex;
+      margin-bottom: 0.7rem;
+      border-radius: 999px;
+      padding: 0.3rem 0.55rem;
+      color: var(--future);
+      background: rgba(108, 93, 146, 0.12);
+      font-size: 0.82rem;
+      font-weight: 700;
+    }
+
+    .source-list {
+      display: grid;
+      gap: 0.7rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      counter-reset: source;
+    }
+
+    .source-item {
+      counter-increment: source;
+      padding: 0.95rem 1rem;
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 0.75rem;
+      align-items: start;
+    }
+
+    .source-item::before {
+      content: "S" counter(source);
+      display: inline-grid;
+      place-items: center;
+      width: 34px;
+      height: 28px;
+      border-radius: 999px;
+      background: #24323a;
+      color: #fff;
+      font-family: var(--mono);
+      font-size: 0.78rem;
+    }
+
+    .source-item strong {
+      display: block;
+      margin-bottom: 0.2rem;
+    }
+
+    .source-item span {
+      display: block;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .source-item a {
+      overflow-wrap: anywhere;
+    }
+
+    .modal {
+      position: fixed;
+      inset: 0;
+      z-index: 80;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      background: rgba(14, 18, 22, 0.62);
+    }
+
+    .modal[aria-hidden="false"] {
+      display: flex;
+    }
+
+    .modal-panel {
+      width: min(620px, 100%);
+      max-height: min(720px, calc(100vh - 2rem));
+      overflow: auto;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: var(--radius);
+      background: var(--surface);
+      box-shadow: 0 24px 80px rgba(0, 0, 0, 0.28);
+    }
+
+    .modal-head {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 1.2rem 1.2rem 0.5rem;
+    }
+
+    .modal-close {
+      flex: 0 0 auto;
+      width: 36px;
+      height: 36px;
+      border: 1px solid var(--line);
+      border-radius: 50%;
+      background: #fff;
+      color: var(--ink);
+      font-size: 1.2rem;
+      line-height: 1;
+    }
+
+    .modal-body {
+      padding: 0 1.2rem 1.2rem;
+    }
+
+    .detail-symbol {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 3.7rem;
+      line-height: 0.95;
+      font-weight: 760;
+    }
+
+    .detail-title {
+      margin: 0.25rem 0 0;
+      color: var(--muted);
+    }
+
+    .detail-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.65rem;
+      margin-top: 1rem;
+    }
+
+    .detail-field {
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 0.75rem;
+      background: #fbfaf7;
+    }
+
+    .detail-field span {
+      display: block;
+      margin-bottom: 0.28rem;
+      color: var(--muted);
+      font-size: 0.78rem;
+    }
+
+    .detail-field strong {
+      display: block;
+      font-size: 0.95rem;
+      line-height: 1.35;
+    }
+
+    .footnote {
+      margin: 1rem 0 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .svg-label {
+      fill: var(--muted);
+      font-family: var(--sans);
+      font-size: 12px;
+    }
+
+    .svg-small {
+      fill: var(--muted);
+      font-family: var(--mono);
+      font-size: 11px;
+    }
+
+    .svg-title {
+      fill: var(--ink);
+      font-family: var(--sans);
+      font-size: 14px;
+      font-weight: 760;
+    }
+
+    .svg-axis {
+      stroke: rgba(29, 35, 39, 0.36);
+      stroke-width: 1;
+    }
+
+    .svg-grid {
+      stroke: rgba(29, 35, 39, 0.10);
+      stroke-width: 1;
+    }
+
+    .svg-hit {
+      cursor: pointer;
+    }
+
+    .svg-hit:focus {
+      outline: none;
+    }
+
+    .svg-hit:focus-visible circle,
+    .svg-hit:focus-visible rect {
+      stroke: #111;
+      stroke-width: 3;
+    }
+
+    .empty-state {
+      padding: 1.2rem;
+      border: 1px dashed var(--line);
+      border-radius: var(--radius);
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.54);
+    }
+
+    footer {
+      border-top: 1px solid rgba(29, 35, 39, 0.12);
+      padding: 2rem 1rem;
+      color: var(--muted);
+      text-align: center;
+      font-size: 0.88rem;
+    }
+
+    @media (max-width: 980px) {
+      .hero-inner {
+        grid-template-columns: 1fr;
+        align-items: end;
+        padding-top: 4rem;
+      }
+
+      .signal-panel {
+        justify-self: start;
+      }
+
+      h1 {
+        font-size: 2.7rem;
+      }
+
+      .section-head,
+      .routes-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .toolbar {
+        justify-content: flex-start;
+      }
+
+      .labs-grid,
+      .element-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 640px) {
+      .nav {
+        width: calc(100% - 1rem);
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.25rem;
+        padding: 0.5rem 0;
+      }
+
+      .nav-links {
+        width: 100%;
+      }
+
+      .hero {
+        min-height: 720px;
+      }
+
+      .hero-inner {
+        width: calc(100% - 1.2rem);
+        min-height: 720px;
+        padding: 2.6rem 0 2rem;
+      }
+
+      h1 {
+        font-size: 2.05rem;
+      }
+
+      h2 {
+        font-size: 1.55rem;
+      }
+
+      .hero-lead {
+        font-size: 1rem;
+      }
+
+      .signal-grid,
+      .labs-grid,
+      .element-grid,
+      .future-grid,
+      .detail-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .section,
+      .section.band > .section-inner {
+        width: calc(100% - 1.2rem);
+      }
+
+      .section {
+        padding: 3.2rem 0;
+      }
+
+      .timeline-svg,
+      .routes-svg,
+      .island-svg {
+        min-width: 760px;
+      }
+
+      .element-card {
+        min-height: 154px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: 0.001ms !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#timeline">跳到正文</a>
+
+  <header class="topbar">
+    <nav class="nav" aria-label="主导航">
+      <a class="brand" href="#top" aria-label="回到顶部">
+        <span class="brand-mark">Z&gt;</span>
+        <span>超重核合成史</span>
+      </a>
+      <div class="nav-links">
+        <a href="#timeline">时间线</a>
+        <a href="#routes">反应路线</a>
+        <a href="#labs">实验室</a>
+        <a href="#island">稳定岛</a>
+        <a href="#elements">元素档案</a>
+        <a href="#future">119/120</a>
+        <a href="#sources">来源</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <canvas class="beam-canvas" id="beamCanvas" aria-hidden="true"></canvas>
+      <div class="hero-inner">
+        <div>
+          <p class="kicker">offline native canvas + svg · Rf 到 Og</p>
+          <h1 id="hero-title">超重核合成的历史脉络</h1>
+          <p class="hero-lead">
+            这不是一张静态周期表，而是一条从靶材、束流、衰变链、实验室竞争与合作中延伸出来的科学路线图。页面离线运行，用原生 Canvas 和 SVG 展示冷聚变、热聚变以及仍未确认的 119/120 探索。
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#timeline">进入时间线</a>
+            <a class="button" href="#routes">查看合成路线</a>
+          </div>
+        </div>
+        <aside class="signal-panel" aria-label="概览统计">
+          <div class="signal-title">
+            <span>beam log</span>
+            <span>截至 2026-05-12</span>
+          </div>
+          <div class="signal-grid">
+            <div class="stat">
+              <strong>15</strong>
+              <span>已确认超重元素 Z=104-118</span>
+            </div>
+            <div class="stat">
+              <strong>2</strong>
+              <span>主合成路线：冷聚变与热聚变</span>
+            </div>
+            <div class="stat">
+              <strong>6</strong>
+              <span>关键机构贯穿发现与靶材供应</span>
+            </div>
+            <div class="stat">
+              <strong>119/120</strong>
+              <span>仍处于探索中，未确认发现</span>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section" id="timeline" aria-labelledby="timeline-title">
+      <div class="section-head">
+        <div>
+          <h2 id="timeline-title">发现时间线</h2>
+          <p>超重元素的推进不是等速的。早期争议之后，GSI 的冷聚变路线迅速推进到 Z=112；JINR/LLNL 的热聚变路线则把周期表推进到第 7 周期末端。</p>
+        </div>
+        <div class="toolbar" role="group" aria-label="路线筛选">
+          <button class="chip" type="button" data-route="all" aria-pressed="true">全部</button>
+          <button class="chip" type="button" data-route="early" aria-pressed="false">早期</button>
+          <button class="chip" type="button" data-route="cold" aria-pressed="false">冷聚变</button>
+          <button class="chip" type="button" data-route="hot" aria-pressed="false">热聚变</button>
+        </div>
+      </div>
+      <div class="viz-frame viz-scroll">
+        <div id="timelineViz"></div>
+      </div>
+    </section>
+
+    <section class="section band" id="routes" aria-labelledby="routes-title">
+      <div class="section-inner">
+        <div class="section-head">
+          <div>
+            <h2 id="routes-title">反应路线图</h2>
+            <p>冷聚变偏向铅/铋靶和中重离子束流，激发能较低但截面迅速降低；热聚变依赖 48Ca 束流与锕系靶材，成为 Z=114-118 的关键路线。</p>
+          </div>
+          <div class="toolbar">
+            <label class="section-note" for="labFilter">实验室</label>
+            <select class="select" id="labFilter" aria-label="按实验室筛选">
+              <option value="all">全部实验室</option>
+            </select>
+          </div>
+        </div>
+        <div class="routes-grid">
+          <div class="viz-frame viz-scroll">
+            <div id="routesViz"></div>
+          </div>
+          <div class="route-side" id="routeSummary" aria-label="路线摘要"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="labs" aria-labelledby="labs-title">
+      <div class="section-head">
+        <div>
+          <h2 id="labs-title">实验室版图</h2>
+          <p>超重元素不是单点突破，而是加速器、分离器、靶材制备、核化学与衰变链识别共同构成的系统工程。</p>
+        </div>
+        <p class="section-note">数量表示在本页叙事中直接关联的元素或靶材贡献。</p>
+      </div>
+      <div class="labs-grid" id="labsGrid"></div>
+    </section>
+
+    <section class="section band" id="island" aria-labelledby="island-title">
+      <div class="section-inner">
+        <div class="section-head">
+          <div>
+            <h2 id="island-title">N-Z 平面上的稳定岛</h2>
+            <p>已知超重核普遍远离理论预期的 N≈184 区域。向更富中子的同位素推进，是延长寿命和检验壳效应预言的核心挑战。</p>
+          </div>
+          <p class="section-note">圆点为代表性同位素位置；颜色表示合成路线，不表示精确寿命。</p>
+        </div>
+        <div class="viz-frame viz-scroll">
+          <div id="islandViz"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="elements" aria-labelledby="elements-title">
+      <div class="section-head">
+        <div>
+          <h2 id="elements-title">元素档案</h2>
+          <p>每个元素都是一次低截面事件的累积证据。这里用代表性反应和量级信息，避免把不同同位素的精确核数据误写成唯一值。</p>
+        </div>
+        <p class="section-note">点击元素卡片查看反应、机构和来源。</p>
+      </div>
+      <div class="element-grid" id="elementGrid"></div>
+    </section>
+
+    <section class="section band" id="future" aria-labelledby="future-title">
+      <div class="section-inner">
+        <div class="section-head">
+          <div>
+            <h2 id="future-title">119/120：第 8 周期门前</h2>
+            <p>119 和 120 在页面中以“探索中”单独呈现。截至 2026-05-12，没有 IUPAC 确认的新元素发现公告，因此不把它们并入已确认元素序列。</p>
+          </div>
+          <p class="section-note">显示的是实验路线意图和未观测状态，不是发现记录。</p>
+        </div>
+        <div class="future-grid" id="futureGrid"></div>
+      </div>
+    </section>
+
+    <section class="section" id="sources" aria-labelledby="sources-title">
+      <div class="section-head">
+        <div>
+          <h2 id="sources-title">来源与口径</h2>
+          <p>页面使用机构和 IUPAC 来源建立历史主线。半衰期、截面等作为代表量级展示，具体核素数据应以专业数据库和原始论文为准。</p>
+        </div>
+      </div>
+      <ol class="source-list" id="sourceList"></ol>
+    </section>
+  </main>
+
+  <footer>
+    单文件离线页面：无 CDN、无外链脚本、无外链字体。外部 URL 仅作为资料来源链接。
+  </footer>
+
+  <div class="modal" id="detailModal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-panel">
+      <div class="modal-head">
+        <div>
+          <div class="detail-symbol" id="modalSymbol">Rf</div>
+          <h2 id="modalTitle" class="detail-title">Rutherfordium</h2>
+        </div>
+        <button class="modal-close" id="modalClose" type="button" aria-label="关闭详情">×</button>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <script>
+    const NS = "http://www.w3.org/2000/svg";
+    const routeColors = {
+      early: "#5d7e42",
+      cold: "#286c93",
+      hot: "#b85632",
+      future: "#6c5d92"
+    };
+    const routeNames = {
+      early: "早期合成",
+      cold: "冷聚变",
+      hot: "热聚变",
+      future: "探索中"
+    };
+
+    const sources = [
+      {
+        id: "S1",
+        title: "IUPAC: elements 113, 115, 117 and 118 names",
+        label: "113、115、117、118 的 Nh、Mc、Ts、Og 正式命名来源。",
+        url: "https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/"
+      },
+      {
+        id: "S2",
+        title: "IUPAC PAC: flerovium and livermorium",
+        label: "114、116 的 Fl、Lv 命名与符号来源。",
+        url: "https://publications.iupac.org/pac/84/7/1669/index.html"
+      },
+      {
+        id: "S3",
+        title: "GSI: New Elements",
+        label: "GSI 对 107-112 发现脉络、日期和命名的机构资料。",
+        url: "https://www.gsi.de/en/researchaccelerators/research_an_overview/new_elements?C=0"
+      },
+      {
+        id: "S4",
+        title: "RIKEN: The element 113 story",
+        label: "Nihonium 的 RIKEN 发现故事与亚洲首个新元素背景。",
+        url: "https://www.riken.jp/en/about/history/story/113/"
+      },
+      {
+        id: "S5",
+        title: "ORNL: Search for elements 119 and 120",
+        label: "119/120 搜索与未观测状态的公开论文页面。",
+        url: "https://www.ornl.gov/publication/search-elements-119-and-120"
+      },
+      {
+        id: "S6",
+        title: "DOE: Superheavy element progress",
+        label: "关于超重元素探索与 120 路线准备的机构科普资料。",
+        url: "https://www.energy.gov/science/articles/making-and-understanding-new-atom-superheavy-element-120"
+      },
+      {
+        id: "S7",
+        title: "ACS Landmark: Transuranium Elements at Berkeley Lab",
+        label: "Berkeley Lab 对 Rf、Db、Sg 等早期超锕系元素发现历史的整理。",
+        url: "https://www.acs.org/education/whatischemistry/landmarks/transuranium-elements-at-berkeley-lab.html"
+      }
+    ];
+
+    const elements = [
+      {
+        z: 104, symbol: "Rf", name: "Rutherfordium", reported: 1969, recognized: "命名争议于 1997 年前后解决",
+        route: "early", labs: ["LBNL", "JINR"], target: "249Cf", projectile: "12C",
+        reaction: "249Cf(12C,4n)257Rf", halfLife: "代表长寿同位素为小时量级", halfLifeSec: 4680,
+        crossSection: "nb 量级", isoA: 267, n: 163, source: ["S7"],
+        note: "早期超锕系竞争中的核心元素，命名纪念 Ernest Rutherford。"
+      },
+      {
+        z: 105, symbol: "Db", name: "Dubnium", reported: 1968, recognized: "命名争议于 1997 年前后解决",
+        route: "early", labs: ["JINR", "LBNL"], target: "243Am", projectile: "22Ne",
+        reaction: "243Am(22Ne,4n)261Db", halfLife: "代表长寿同位素为小时到天量级", halfLifeSec: 104400,
+        crossSection: "nb 量级", isoA: 268, n: 163, source: ["S7"],
+        note: "名称来自 Dubna；早期发现权存在长期争议。"
+      },
+      {
+        z: 106, symbol: "Sg", name: "Seaborgium", reported: 1974, recognized: "命名争议于 1997 年前后解决",
+        route: "early", labs: ["LBNL"], target: "249Cf", projectile: "18O",
+        reaction: "249Cf(18O,4n)263Sg", halfLife: "代表长寿同位素为分钟量级", halfLifeSec: 840,
+        crossSection: "nb 以下量级", isoA: 269, n: 163, source: ["S7"],
+        note: "以 Glenn T. Seaborg 命名，是早期超重元素命名史中的标志事件。"
+      },
+      {
+        z: 107, symbol: "Bh", name: "Bohrium", reported: 1981, recognized: "IUPAC 1997 命名",
+        route: "cold", labs: ["GSI"], target: "209Bi", projectile: "54Cr",
+        reaction: "209Bi(54Cr,n)262Bh", halfLife: "秒到分钟量级", halfLifeSec: 60,
+        crossSection: "nb 量级", isoA: 270, n: 163, source: ["S3"],
+        note: "GSI 冷聚变路线的重要开端之一，名称纪念 Niels Bohr。"
+      },
+      {
+        z: 108, symbol: "Hs", name: "Hassium", reported: 1984, recognized: "IUPAC 1997 命名",
+        route: "cold", labs: ["GSI"], target: "208Pb", projectile: "58Fe",
+        reaction: "208Pb(58Fe,n)265Hs", halfLife: "秒量级", halfLifeSec: 16,
+        crossSection: "pb 量级", isoA: 269, n: 161, source: ["S3"],
+        note: "名称来自 GSI 所在的 Hesse 黑森州。"
+      },
+      {
+        z: 109, symbol: "Mt", name: "Meitnerium", reported: 1982, recognized: "IUPAC 1997 命名",
+        route: "cold", labs: ["GSI"], target: "209Bi", projectile: "58Fe",
+        reaction: "209Bi(58Fe,n)266Mt", halfLife: "秒量级", halfLifeSec: 4.5,
+        crossSection: "pb 量级", isoA: 278, n: 169, source: ["S3"],
+        note: "名称纪念 Lise Meitner。"
+      },
+      {
+        z: 110, symbol: "Ds", name: "Darmstadtium", reported: 1994, recognized: "IUPAC 2003 认可，2003 命名",
+        route: "cold", labs: ["GSI"], target: "208Pb", projectile: "62Ni",
+        reaction: "208Pb(62Ni,n)269Ds", halfLife: "秒量级", halfLifeSec: 11,
+        crossSection: "pb 量级", isoA: 281, n: 171, source: ["S3"],
+        note: "名称来自 Darmstadt，GSI 所在城市。"
+      },
+      {
+        z: 111, symbol: "Rg", name: "Roentgenium", reported: 1994, recognized: "IUPAC 2004 认可，2004 命名",
+        route: "cold", labs: ["GSI"], target: "209Bi", projectile: "64Ni",
+        reaction: "209Bi(64Ni,n)272Rg", halfLife: "秒到分钟量级", halfLifeSec: 100,
+        crossSection: "pb 量级", isoA: 282, n: 171, source: ["S3"],
+        note: "名称纪念 Wilhelm Röntgen。"
+      },
+      {
+        z: 112, symbol: "Cn", name: "Copernicium", reported: 1996, recognized: "IUPAC 2009 认可，2010 命名",
+        route: "cold", labs: ["GSI"], target: "208Pb", projectile: "70Zn",
+        reaction: "208Pb(70Zn,n)277Cn", halfLife: "秒到分钟量级", halfLifeSec: 30,
+        crossSection: "pb 量级", isoA: 285, n: 173, source: ["S3"],
+        note: "名称纪念 Nicolaus Copernicus；冷聚变路线推进到 Z=112。"
+      },
+      {
+        z: 113, symbol: "Nh", name: "Nihonium", reported: 2004, recognized: "IUPAC 2015 认可，2016 命名",
+        route: "cold", labs: ["RIKEN"], target: "209Bi", projectile: "70Zn",
+        reaction: "209Bi(70Zn,n)278Nh", halfLife: "秒量级", halfLifeSec: 12,
+        crossSection: "十 fb 量级", isoA: 286, n: 173, source: ["S1", "S4"],
+        note: "RIKEN 历时多年确认；Nihonium 是亚洲发现并命名的首个元素。"
+      },
+      {
+        z: 114, symbol: "Fl", name: "Flerovium", reported: 1999, recognized: "IUPAC 2011 认可，2012 命名",
+        route: "hot", labs: ["JINR", "LLNL"], target: "244Pu", projectile: "48Ca",
+        reaction: "244Pu(48Ca,4n)288Fl", halfLife: "秒量级", halfLifeSec: 2.6,
+        crossSection: "pb 量级", isoA: 289, n: 175, source: ["S2", "S3"],
+        note: "48Ca 热聚变路线使 Z=114 及以上元素合成进入新阶段。"
+      },
+      {
+        z: 115, symbol: "Mc", name: "Moscovium", reported: 2004, recognized: "IUPAC 2015 认可，2016 命名",
+        route: "hot", labs: ["JINR", "LLNL"], target: "243Am", projectile: "48Ca",
+        reaction: "243Am(48Ca,3n)288Mc", halfLife: "亚秒到秒量级", halfLifeSec: 0.65,
+        crossSection: "pb 量级", isoA: 290, n: 175, source: ["S1", "S3"],
+        note: "名称来自 Moscow 地区，反映 JINR 所在区域。"
+      },
+      {
+        z: 116, symbol: "Lv", name: "Livermorium", reported: 2001, recognized: "IUPAC 2011 认可，2012 命名",
+        route: "hot", labs: ["JINR", "LLNL"], target: "248Cm", projectile: "48Ca",
+        reaction: "248Cm(48Ca,4n)292Lv", halfLife: "毫秒到秒量级", halfLifeSec: 0.053,
+        crossSection: "pb 量级", isoA: 293, n: 177, source: ["S2", "S3"],
+        note: "名称来自 Lawrence Livermore National Laboratory。"
+      },
+      {
+        z: 117, symbol: "Ts", name: "Tennessine", reported: 2010, recognized: "IUPAC 2015 认可，2016 命名",
+        route: "hot", labs: ["JINR", "LLNL", "ORNL"], target: "249Bk", projectile: "48Ca",
+        reaction: "249Bk(48Ca,4n)293Ts", halfLife: "毫秒量级", halfLifeSec: 0.051,
+        crossSection: "pb 量级", isoA: 294, n: 177, source: ["S1", "S3"],
+        note: "249Bk 靶材制备极其关键，ORNL 的靶材贡献使实验成为可能。"
+      },
+      {
+        z: 118, symbol: "Og", name: "Oganesson", reported: 2006, recognized: "IUPAC 2015 认可，2016 命名",
+        route: "hot", labs: ["JINR", "LLNL"], target: "249Cf", projectile: "48Ca",
+        reaction: "249Cf(48Ca,3n)294Og", halfLife: "毫秒量级", halfLifeSec: 0.00069,
+        crossSection: "pb 以下量级", isoA: 294, n: 176, source: ["S1", "S3"],
+        note: "名称纪念 Yuri Oganessian；Og 标志第 7 周期元素序列闭合。"
+      }
+    ];
+
+    const futureElements = [
+      {
+        z: 119, symbol: "Uue", name: "Ununennium", labs: ["RIKEN", "JINR"], target: "248Cm", projectile: "51V",
+        reaction: "248Cm(51V,3n?)296Uue", status: "截至 2026-05-12 未确认发现",
+        crossSection: "预期 fb 量级", source: ["S5"], route: "future",
+        note: "可能开启第 8 周期；当前公开资料不支持把它列为已发现元素。"
+      },
+      {
+        z: 120, symbol: "Ubn", name: "Unbinilium", labs: ["JINR", "LBNL", "ORNL"], target: "249Cf / 248Cm / 244Pu", projectile: "50Ti",
+        reaction: "249Cf(50Ti,3n?)296Ubn 等路线", status: "截至 2026-05-12 未确认发现",
+        crossSection: "预期 fb 量级或更低", source: ["S5", "S6"], route: "future",
+        note: "120 的合成路线正在围绕更强束流、靶材供应和极低事件率展开。"
+      }
+    ];
+
+    const labs = [
+      {
+        id: "LBNL", name: "Lawrence Berkeley National Laboratory", city: "Berkeley, USA",
+        roles: ["早期合成", "120 探索"], routes: ["early", "future"],
+        contribution: "Rf、Db、Sg 早期竞争与确认；参与后续超重元素探索路线。"
+      },
+      {
+        id: "JINR", name: "Joint Institute for Nuclear Research", city: "Dubna, Russia",
+        roles: ["早期竞争", "热聚变"], routes: ["early", "hot", "future"],
+        contribution: "以 48Ca + 锕系靶材路线推动 Fl 到 Og 的发现。"
+      },
+      {
+        id: "GSI", name: "GSI Helmholtz Centre", city: "Darmstadt, Germany",
+        roles: ["冷聚变"], routes: ["cold"],
+        contribution: "利用 Pb/Bi 靶和中重离子束流合成 Bh 到 Cn。"
+      },
+      {
+        id: "RIKEN", name: "RIKEN Nishina Center", city: "Wako, Japan",
+        roles: ["Nh", "119 探索"], routes: ["cold", "future"],
+        contribution: "确认 Nh，使日本获得亚洲首个新元素命名权。"
+      },
+      {
+        id: "LLNL", name: "Lawrence Livermore National Laboratory", city: "Livermore, USA",
+        roles: ["热聚变合作"], routes: ["hot"],
+        contribution: "与 JINR 合作参与 Mc、Lv、Ts、Og 的发现链条。"
+      },
+      {
+        id: "ORNL", name: "Oak Ridge National Laboratory", city: "Oak Ridge, USA",
+        roles: ["靶材供应", "119/120"], routes: ["hot", "future"],
+        contribution: "生产稀有锕系靶材，特别是 Ts 所需的 249Bk。"
+      }
+    ];
+
+    const state = {
+      route: "all",
+      lab: "all",
+      lastFocus: null
+    };
+
+    function $(selector, root = document) {
+      return root.querySelector(selector);
+    }
+
+    function $all(selector, root = document) {
+      return Array.from(root.querySelectorAll(selector));
+    }
+
+    function svgEl(tag, attrs = {}) {
+      const el = document.createElementNS(NS, tag);
+      Object.entries(attrs).forEach(([key, value]) => {
+        if (key === "text") {
+          el.textContent = value;
+        } else if (key === "className") {
+          el.setAttribute("class", value);
+        } else if (value !== null && value !== undefined) {
+          el.setAttribute(key, value);
+        }
+      });
+      return el;
+    }
+
+    function routeColor(route) {
+      return routeColors[route] || "#555";
+    }
+
+    function sourceText(ids) {
+      return ids.map(id => id).join(", ");
+    }
+
+    function filteredElements() {
+      return elements.filter(el => {
+        const routeOk = state.route === "all" || el.route === state.route;
+        const labOk = state.lab === "all" || el.labs.includes(state.lab);
+        return routeOk && labOk;
+      });
+    }
+
+    function initCanvas() {
+      const canvas = $("#beamCanvas");
+      const ctx = canvas.getContext("2d");
+      const reducedQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
+      let width = 0;
+      let height = 0;
+      let raf = null;
+      const particles = Array.from({ length: 80 }, (_, index) => ({
+        x: Math.random(),
+        y: 0.20 + Math.random() * 0.60,
+        speed: 0.0016 + Math.random() * 0.0028,
+        size: 1.2 + Math.random() * 2.8,
+        phase: index * 0.37
+      }));
+
+      function resize() {
+        const ratio = window.devicePixelRatio || 1;
+        const rect = canvas.getBoundingClientRect();
+        width = Math.max(1, Math.floor(rect.width));
+        height = Math.max(1, Math.floor(rect.height));
+        canvas.width = Math.floor(width * ratio);
+        canvas.height = Math.floor(height * ratio);
+        ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
+        draw(0);
+      }
+
+      function draw(time) {
+        ctx.clearRect(0, 0, width, height);
+        ctx.fillStyle = "#171d21";
+        ctx.fillRect(0, 0, width, height);
+
+        ctx.save();
+        ctx.globalAlpha = 0.22;
+        ctx.strokeStyle = "#50606a";
+        ctx.lineWidth = 1;
+        for (let x = 0; x < width; x += 54) {
+          ctx.beginPath();
+          ctx.moveTo(x, 0);
+          ctx.lineTo(x + height * 0.34, height);
+          ctx.stroke();
+        }
+        for (let y = 32; y < height; y += 54) {
+          ctx.beginPath();
+          ctx.moveTo(0, y);
+          ctx.lineTo(width, y);
+          ctx.stroke();
+        }
+        ctx.restore();
+
+        const targetX = width * 0.76;
+        const targetY = height * 0.48;
+        const targetR = Math.min(width, height) * 0.17;
+        const beamY = targetY;
+
+        const beamGradient = ctx.createLinearGradient(0, beamY, targetX, beamY);
+        beamGradient.addColorStop(0, "rgba(210,72,53,0)");
+        beamGradient.addColorStop(0.18, "rgba(210,72,53,0.48)");
+        beamGradient.addColorStop(1, "rgba(255,210,120,0.86)");
+        ctx.strokeStyle = beamGradient;
+        ctx.lineWidth = 4;
+        ctx.beginPath();
+        ctx.moveTo(0, beamY);
+        ctx.lineTo(targetX + targetR * 0.25, beamY);
+        ctx.stroke();
+
+        particles.forEach(p => {
+          if (!reducedQuery.matches) {
+            p.x = (p.x + p.speed) % 1.1;
+          }
+          const x = p.x * (targetX + targetR * 0.35);
+          const y = beamY + Math.sin(time * 0.002 + p.phase) * 22 * p.y;
+          ctx.fillStyle = "rgba(255, 200, 126, 0.82)";
+          ctx.beginPath();
+          ctx.arc(x, y, p.size, 0, Math.PI * 2);
+          ctx.fill();
+        });
+
+        ctx.save();
+        ctx.translate(targetX, targetY);
+        const pulse = reducedQuery.matches ? 0 : Math.sin(time * 0.002) * 0.08;
+        for (let i = 0; i < 5; i += 1) {
+          ctx.beginPath();
+          ctx.arc(0, 0, targetR * (0.35 + i * 0.16 + pulse * (i + 1) * 0.12), 0, Math.PI * 2);
+          ctx.strokeStyle = i % 2 ? "rgba(40,108,147,0.48)" : "rgba(184,138,47,0.52)";
+          ctx.lineWidth = 2;
+          ctx.stroke();
+        }
+        const nucleons = 22;
+        for (let i = 0; i < nucleons; i += 1) {
+          const a = i * (Math.PI * 2 / nucleons) + (reducedQuery.matches ? 0 : time * 0.0002);
+          const r = targetR * (0.22 + (i % 5) * 0.05);
+          ctx.fillStyle = i % 3 === 0 ? "#d24835" : i % 3 === 1 ? "#d8c17b" : "#66a1bd";
+          ctx.beginPath();
+          ctx.arc(Math.cos(a) * r, Math.sin(a) * r, 5.2, 0, Math.PI * 2);
+          ctx.fill();
+        }
+        ctx.fillStyle = "rgba(247,244,236,0.88)";
+        ctx.font = "13px " + getComputedStyle(document.documentElement).getPropertyValue("--mono");
+        ctx.fillText("actinide target", -42, targetR + 34);
+        ctx.restore();
+
+        if (!reducedQuery.matches) {
+          raf = requestAnimationFrame(draw);
+        }
+      }
+
+      resize();
+      window.addEventListener("resize", resize);
+      reducedQuery.addEventListener("change", () => {
+        if (raf) cancelAnimationFrame(raf);
+        raf = null;
+        draw(0);
+        if (!reducedQuery.matches) raf = requestAnimationFrame(draw);
+      });
+      if (!reducedQuery.matches) raf = requestAnimationFrame(draw);
+    }
+
+    function initFilters() {
+      $all("[data-route]").forEach(button => {
+        button.addEventListener("click", () => {
+          state.route = button.dataset.route;
+          $all("[data-route]").forEach(btn => {
+            btn.setAttribute("aria-pressed", String(btn.dataset.route === state.route));
+          });
+          renderAllDataViews();
+        });
+      });
+
+      const labFilter = $("#labFilter");
+      labs.forEach(lab => {
+        const option = document.createElement("option");
+        option.value = lab.id;
+        option.textContent = lab.id + " · " + lab.city;
+        labFilter.appendChild(option);
+      });
+      labFilter.addEventListener("change", () => {
+        state.lab = labFilter.value;
+        renderAllDataViews();
+      });
+    }
+
+    function renderTimeline() {
+      const host = $("#timelineViz");
+      host.innerHTML = "";
+      const width = 980;
+      const height = 310;
+      const pad = { left: 64, right: 42, top: 34, bottom: 58 };
+      const minYear = 1966;
+      const maxYear = 2026;
+      const innerW = width - pad.left - pad.right;
+      const rows = { early: 94, cold: 164, hot: 234 };
+      const svg = svgEl("svg", {
+        viewBox: "0 0 " + width + " " + height,
+        className: "timeline-svg",
+        role: "img",
+        "aria-label": "超重元素发现时间线"
+      });
+      const x = year => pad.left + (year - minYear) / (maxYear - minYear) * innerW;
+
+      const bands = [
+        { start: 1966, end: 1980, label: "早期争议与确认", route: "early" },
+        { start: 1980, end: 1998, label: "冷聚变推进", route: "cold" },
+        { start: 1998, end: 2026, label: "热聚变与新周期探索", route: "hot" }
+      ];
+      bands.forEach(band => {
+        svg.appendChild(svgEl("rect", {
+          x: x(band.start), y: 20, width: x(band.end) - x(band.start), height: 246,
+          fill: routeColor(band.route), opacity: "0.08"
+        }));
+        svg.appendChild(svgEl("text", {
+          x: x(band.start) + 8, y: 42, className: "svg-small", text: band.label
+        }));
+      });
+
+      for (let year = 1970; year <= 2020; year += 10) {
+        svg.appendChild(svgEl("line", {
+          x1: x(year), y1: 54, x2: x(year), y2: 266, className: "svg-grid"
+        }));
+        svg.appendChild(svgEl("text", {
+          x: x(year), y: 288, className: "svg-small", "text-anchor": "middle", text: String(year)
+        }));
+      }
+
+      Object.entries(rows).forEach(([route, y]) => {
+        svg.appendChild(svgEl("line", {
+          x1: pad.left, y1: y, x2: width - pad.right, y2: y,
+          stroke: routeColor(route), "stroke-width": 2, opacity: "0.24"
+        }));
+        svg.appendChild(svgEl("text", {
+          x: 18, y: y + 4, className: "svg-label", text: routeNames[route]
+        }));
+      });
+
+      filteredElements().forEach((el, index) => {
+        const group = svgEl("g", {
+          className: "svg-hit",
+          tabindex: "0",
+          role: "button",
+          "aria-label": el.symbol + " " + el.name + " " + el.reported
+        });
+        const cx = x(el.reported);
+        const cy = rows[el.route] + (index % 2 === 0 ? -7 : 7);
+        group.appendChild(svgEl("line", {
+          x1: cx, y1: cy, x2: cx, y2: 266, stroke: routeColor(el.route), "stroke-width": 1, opacity: "0.28"
+        }));
+        group.appendChild(svgEl("circle", {
+          cx, cy, r: 9, fill: "#fff", stroke: routeColor(el.route), "stroke-width": 3
+        }));
+        group.appendChild(svgEl("text", {
+          x: cx, y: cy - 16, className: "svg-title", "text-anchor": "middle", text: el.symbol
+        }));
+        group.appendChild(svgEl("text", {
+          x: cx, y: cy + 29, className: "svg-small", "text-anchor": "middle", text: String(el.reported)
+        }));
+        group.addEventListener("click", () => showDetail(el));
+        group.addEventListener("keydown", event => {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            showDetail(el);
+          }
+        });
+        svg.appendChild(group);
+      });
+
+      futureElements.forEach((el, i) => {
+        const fx = x(2024 + i);
+        svg.appendChild(svgEl("line", {
+          x1: fx, y1: 58, x2: fx, y2: 266, stroke: routeColor("future"),
+          "stroke-width": 1.4, "stroke-dasharray": "6 5", opacity: "0.62"
+        }));
+        svg.appendChild(svgEl("text", {
+          x: fx, y: 70 + i * 18, className: "svg-small", "text-anchor": "middle",
+          fill: routeColor("future"), text: el.symbol + " 未确认"
+        }));
+      });
+
+      host.appendChild(svg);
+    }
+
+    function renderRoutes() {
+      const host = $("#routesViz");
+      host.innerHTML = "";
+      const width = 940;
+      const height = 560;
+      const svg = svgEl("svg", {
+        viewBox: "0 0 " + width + " " + height,
+        className: "routes-svg",
+        role: "img",
+        "aria-label": "超重元素代表合成反应路线"
+      });
+      const routes = [
+        { id: "early", y: 112, label: "早期超锕系：锕系靶 + 轻/中离子" },
+        { id: "cold", y: 278, label: "冷聚变：Pb/Bi 靶 + 中重离子" },
+        { id: "hot", y: 444, label: "热聚变：48Ca + 锕系靶" }
+      ];
+
+      routes.forEach(route => {
+        svg.appendChild(svgEl("text", { x: 28, y: route.y - 66, className: "svg-title", text: route.label }));
+        svg.appendChild(svgEl("line", {
+          x1: 58, y1: route.y, x2: 845, y2: route.y,
+          stroke: routeColor(route.id), "stroke-width": 5, "stroke-linecap": "round", opacity: "0.22"
+        }));
+        svg.appendChild(svgEl("circle", { cx: 72, cy: route.y, r: 18, fill: "#fff", stroke: routeColor(route.id), "stroke-width": 2 }));
+        svg.appendChild(svgEl("text", { x: 72, y: route.y + 5, className: "svg-small", "text-anchor": "middle", text: "target" }));
+        svg.appendChild(svgEl("circle", { cx: 250, cy: route.y, r: 18, fill: "#fff", stroke: "#7d858b", "stroke-width": 2 }));
+        svg.appendChild(svgEl("text", { x: 250, y: route.y + 5, className: "svg-small", "text-anchor": "middle", text: "beam" }));
+        svg.appendChild(svgEl("path", {
+          d: "M 275 " + route.y + " C 360 " + (route.y - 58) + ", 430 " + (route.y + 58) + ", 520 " + route.y,
+          fill: "none", stroke: routeColor(route.id), "stroke-width": 2, "stroke-dasharray": "8 6", opacity: "0.75"
+        }));
+        svg.appendChild(svgEl("text", { x: 524, y: route.y + 5, className: "svg-small", text: "compound nucleus" }));
+      });
+
+      const byRoute = { early: [], cold: [], hot: [] };
+      filteredElements().forEach(el => byRoute[el.route].push(el));
+      Object.entries(byRoute).forEach(([route, list]) => {
+        const routeDef = routes.find(r => r.id === route);
+        if (!routeDef || !list.length) return;
+        list.forEach((el, index) => {
+          const x = 610 + index * (route === "early" ? 84 : route === "cold" ? 46 : 58);
+          const y = routeDef.y + (index % 2 ? 22 : -22);
+          const group = svgEl("g", {
+            className: "svg-hit",
+            tabindex: "0",
+            role: "button",
+            "aria-label": el.symbol + " " + el.reaction
+          });
+          group.appendChild(svgEl("line", {
+            x1: 520, y1: routeDef.y, x2: x, y2: y,
+            stroke: routeColor(route), "stroke-width": 1.5, opacity: "0.34"
+          }));
+          group.appendChild(svgEl("rect", {
+            x: x - 22, y: y - 18, width: 44, height: 36, rx: 6,
+            fill: "#fff", stroke: routeColor(route), "stroke-width": 2
+          }));
+          group.appendChild(svgEl("text", {
+            x, y: y + 5, className: "svg-title", "text-anchor": "middle", text: el.symbol
+          }));
+          const title = svgEl("title", { text: el.reaction + " · " + el.crossSection });
+          group.appendChild(title);
+          group.addEventListener("mouseenter", () => updateRouteSummary(el));
+          group.addEventListener("focus", () => updateRouteSummary(el));
+          group.addEventListener("click", () => showDetail(el));
+          group.addEventListener("keydown", event => {
+            if (event.key === "Enter" || event.key === " ") {
+              event.preventDefault();
+              showDetail(el);
+            }
+          });
+          svg.appendChild(group);
+        });
+      });
+
+      if (!filteredElements().length) {
+        svg.appendChild(svgEl("text", {
+          x: width / 2, y: height / 2, className: "svg-label", "text-anchor": "middle",
+          text: "当前筛选没有匹配的已确认元素"
+        }));
+      }
+      host.appendChild(svg);
+      renderRouteSummary();
+    }
+
+    function renderRouteSummary() {
+      const host = $("#routeSummary");
+      host.innerHTML = "";
+      const data = [
+        {
+          route: "early",
+          title: "早期合成",
+          text: "从 Rf、Db、Sg 开始，发现权和命名权在 Berkeley 与 Dubna 之间长期交织。",
+          value: elements.filter(e => e.route === "early").length
+        },
+        {
+          route: "cold",
+          title: "冷聚变",
+          text: "Pb/Bi 靶降低激发能，GSI 连续推进到 Cn，RIKEN 用同一路线确认 Nh。",
+          value: elements.filter(e => e.route === "cold").length
+        },
+        {
+          route: "hot",
+          title: "热聚变",
+          text: "48Ca 的中子丰度和双幻数特性，使 JINR/LLNL 合作把元素序列推进到 Og。",
+          value: elements.filter(e => e.route === "hot").length
+        }
+      ];
+      data.forEach(item => {
+        const card = document.createElement("article");
+        card.className = "summary-card";
+        card.innerHTML = [
+          "<h3>" + item.title + "</h3>",
+          "<p>" + item.text + "</p>",
+          "<div class=\"summary-meter\" aria-hidden=\"true\"><span style=\"width:" + (item.value / 8 * 100) + "%;background:" + routeColor(item.route) + "\"></span></div>",
+          "<p class=\"section-note\">" + item.value + " 个已确认元素</p>"
+        ].join("");
+        host.appendChild(card);
+      });
+    }
+
+    function updateRouteSummary(el) {
+      const host = $("#routeSummary");
+      const top = document.createElement("article");
+      top.className = "summary-card";
+      top.innerHTML = [
+        "<h3>" + el.symbol + " · " + el.name + "</h3>",
+        "<p><strong>代表反应：</strong>" + el.reaction + "</p>",
+        "<p><strong>实验室：</strong>" + el.labs.join(" / ") + "</p>",
+        "<p><strong>量级：</strong>" + el.crossSection + "，" + el.halfLife + "</p>"
+      ].join("");
+      host.innerHTML = "";
+      host.appendChild(top);
+      renderRouteSummary();
+    }
+
+    function renderLabs() {
+      const host = $("#labsGrid");
+      host.innerHTML = "";
+      labs.forEach(lab => {
+        const confirmedCount = elements.filter(el => el.labs.includes(lab.id)).length;
+        const futureCount = futureElements.filter(el => el.labs.includes(lab.id)).length;
+        const max = 8;
+        const card = document.createElement("article");
+        card.className = "lab-card";
+        card.innerHTML = [
+          "<h3>" + lab.id + "</h3>",
+          "<p><strong>" + lab.name + "</strong><br>" + lab.city + "</p>",
+          "<div class=\"lab-meta\">" + lab.roles.map(role => "<span class=\"tag\">" + role + "</span>").join("") + "</div>",
+          "<p>" + lab.contribution + "</p>",
+          "<div class=\"summary-meter\" aria-hidden=\"true\"><span style=\"width:" + Math.min(100, confirmedCount / max * 100) + "%;background:#24323a\"></span></div>",
+          "<p class=\"section-note\">已确认关联 " + confirmedCount + " · 探索关联 " + futureCount + "</p>"
+        ].join("");
+        host.appendChild(card);
+      });
+    }
+
+    function renderIsland() {
+      const host = $("#islandViz");
+      host.innerHTML = "";
+      const width = 980;
+      const height = 520;
+      const pad = { left: 68, right: 36, top: 34, bottom: 58 };
+      const nMin = 156;
+      const nMax = 188;
+      const zMin = 102;
+      const zMax = 122;
+      const innerW = width - pad.left - pad.right;
+      const innerH = height - pad.top - pad.bottom;
+      const svg = svgEl("svg", {
+        viewBox: "0 0 " + width + " " + height,
+        className: "island-svg",
+        role: "img",
+        "aria-label": "中子数和质子数平面上的超重核位置"
+      });
+      const x = n => pad.left + (n - nMin) / (nMax - nMin) * innerW;
+      const y = z => pad.top + (zMax - z) / (zMax - zMin) * innerH;
+
+      for (let n = 156; n <= 188; n += 4) {
+        svg.appendChild(svgEl("line", { x1: x(n), y1: pad.top, x2: x(n), y2: height - pad.bottom, className: "svg-grid" }));
+        svg.appendChild(svgEl("text", { x: x(n), y: height - 28, className: "svg-small", "text-anchor": "middle", text: String(n) }));
+      }
+      for (let z = 102; z <= 122; z += 2) {
+        svg.appendChild(svgEl("line", { x1: pad.left, y1: y(z), x2: width - pad.right, y2: y(z), className: "svg-grid" }));
+        svg.appendChild(svgEl("text", { x: 28, y: y(z) + 4, className: "svg-small", text: String(z) }));
+      }
+      svg.appendChild(svgEl("line", { x1: pad.left, y1: height - pad.bottom, x2: width - pad.right, y2: height - pad.bottom, className: "svg-axis" }));
+      svg.appendChild(svgEl("line", { x1: pad.left, y1: pad.top, x2: pad.left, y2: height - pad.bottom, className: "svg-axis" }));
+      svg.appendChild(svgEl("text", { x: width / 2, y: height - 10, className: "svg-label", "text-anchor": "middle", text: "中子数 N" }));
+      svg.appendChild(svgEl("text", { x: 14, y: 26, className: "svg-label", text: "质子数 Z" }));
+
+      svg.appendChild(svgEl("ellipse", {
+        cx: x(184), cy: y(118), rx: 104, ry: 72,
+        fill: "#b68a2f", opacity: "0.12", stroke: "#b68a2f", "stroke-width": 2, "stroke-dasharray": "8 6"
+      }));
+      svg.appendChild(svgEl("text", {
+        x: x(184), y: y(121.4), className: "svg-title", "text-anchor": "middle",
+        fill: "#8f681c", text: "理论稳定岛方向"
+      }));
+
+      elements.forEach(el => {
+        const group = svgEl("g", {
+          className: "svg-hit",
+          tabindex: "0",
+          role: "button",
+          "aria-label": el.symbol + " N=" + el.n + " Z=" + el.z
+        });
+        const cx = x(el.n);
+        const cy = y(el.z);
+        group.appendChild(svgEl("circle", {
+          cx, cy, r: 7.5, fill: routeColor(el.route), stroke: "#fff", "stroke-width": 2
+        }));
+        group.appendChild(svgEl("text", {
+          x: cx + 11, y: cy - 8, className: "svg-small", text: el.symbol
+        }));
+        group.appendChild(svgEl("title", { text: el.isoA + el.symbol + " · " + el.halfLife }));
+        group.addEventListener("click", () => showDetail(el));
+        group.addEventListener("keydown", event => {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            showDetail(el);
+          }
+        });
+        svg.appendChild(group);
+      });
+
+      [
+        { x: 706, y: 78, route: "early", label: "早期" },
+        { x: 706, y: 104, route: "cold", label: "冷聚变" },
+        { x: 706, y: 130, route: "hot", label: "热聚变" }
+      ].forEach(item => {
+        svg.appendChild(svgEl("circle", { cx: item.x, cy: item.y - 4, r: 6, fill: routeColor(item.route) }));
+        svg.appendChild(svgEl("text", { x: item.x + 14, y: item.y, className: "svg-small", text: item.label }));
+      });
+
+      host.appendChild(svg);
+    }
+
+    function renderElements() {
+      const host = $("#elementGrid");
+      host.innerHTML = "";
+      const data = filteredElements();
+      if (!data.length) {
+        const empty = document.createElement("div");
+        empty.className = "empty-state";
+        empty.textContent = "当前筛选没有匹配的已确认元素。";
+        host.appendChild(empty);
+        return;
+      }
+      data.forEach(el => {
+        const card = document.createElement("button");
+        card.type = "button";
+        card.className = "element-card";
+        card.style.borderTopColor = routeColor(el.route);
+        card.style.borderTopWidth = "4px";
+        card.innerHTML = [
+          "<span class=\"element-top\"><span class=\"z\">Z=" + el.z + "</span><span class=\"tag route-" + el.route + "\">" + routeNames[el.route] + "</span></span>",
+          "<span class=\"symbol\">" + el.symbol + "</span>",
+          "<span class=\"element-name\">" + el.name + "<br>" + el.labs.join(" / ") + " · " + el.reported + "</span>",
+          "<span class=\"element-reaction\">" + el.reaction + "</span>"
+        ].join("");
+        card.addEventListener("click", () => showDetail(el));
+        host.appendChild(card);
+      });
+    }
+
+    function renderFuture() {
+      const host = $("#futureGrid");
+      host.innerHTML = "";
+      futureElements.forEach(el => {
+        const card = document.createElement("article");
+        card.className = "future-card";
+        card.innerHTML = [
+          "<span class=\"future-status\">" + el.status + "</span>",
+          "<h3>Z=" + el.z + " · " + el.symbol + " · " + el.name + "</h3>",
+          "<p><strong>候选路线：</strong>" + el.reaction + "</p>",
+          "<p><strong>相关机构：</strong>" + el.labs.join(" / ") + "</p>",
+          "<p><strong>截面预期：</strong>" + el.crossSection + "</p>",
+          "<p>" + el.note + "</p>",
+          "<p class=\"section-note\">来源：" + sourceText(el.source) + "</p>"
+        ].join("");
+        host.appendChild(card);
+      });
+    }
+
+    function renderSources() {
+      const host = $("#sourceList");
+      host.innerHTML = "";
+      sources.forEach(source => {
+        const item = document.createElement("li");
+        item.className = "source-item";
+        item.innerHTML = [
+          "<div>",
+          "<strong>" + source.title + "</strong>",
+          "<span>" + source.label + "</span>",
+          "<a href=\"" + source.url + "\" rel=\"noreferrer\">" + source.url + "</a>",
+          "</div>"
+        ].join("");
+        host.appendChild(item);
+      });
+    }
+
+    function showDetail(el) {
+      state.lastFocus = document.activeElement;
+      $("#modalSymbol").textContent = el.symbol;
+      $("#modalTitle").textContent = "Z=" + el.z + " · " + el.name;
+      $("#modalBody").innerHTML = [
+        "<div class=\"lab-meta\"><span class=\"tag route-" + el.route + "\">" + routeNames[el.route] + "</span><span class=\"tag\">" + el.labs.join(" / ") + "</span><span class=\"tag\">" + el.reported + "</span></div>",
+        "<div class=\"detail-grid\">",
+        detailField("首次报道", String(el.reported)),
+        detailField("IUPAC 口径", el.recognized),
+        detailField("靶核", el.target),
+        detailField("束流", el.projectile),
+        detailField("代表反应", el.reaction),
+        detailField("截面量级", el.crossSection),
+        detailField("半衰期口径", el.halfLife),
+        detailField("来源", sourceText(el.source)),
+        "</div>",
+        "<p class=\"footnote\">" + el.note + "</p>"
+      ].join("");
+      const modal = $("#detailModal");
+      modal.setAttribute("aria-hidden", "false");
+      $("#modalClose").focus();
+    }
+
+    function detailField(label, value) {
+      return "<div class=\"detail-field\"><span>" + label + "</span><strong>" + value + "</strong></div>";
+    }
+
+    function closeDetail() {
+      const modal = $("#detailModal");
+      modal.setAttribute("aria-hidden", "true");
+      if (state.lastFocus && typeof state.lastFocus.focus === "function") {
+        state.lastFocus.focus();
+      }
+    }
+
+    function initModal() {
+      $("#modalClose").addEventListener("click", closeDetail);
+      $("#detailModal").addEventListener("click", event => {
+        if (event.target.id === "detailModal") closeDetail();
+      });
+      document.addEventListener("keydown", event => {
+        if (event.key === "Escape" && $("#detailModal").getAttribute("aria-hidden") === "false") {
+          closeDetail();
+        }
+      });
+    }
+
+    function renderAllDataViews() {
+      renderTimeline();
+      renderRoutes();
+      renderElements();
+    }
+
+    function initResize() {
+      let timer = null;
+      window.addEventListener("resize", () => {
+        clearTimeout(timer);
+        timer = setTimeout(() => {
+          renderTimeline();
+          renderRoutes();
+          renderIsland();
+        }, 180);
+      });
+    }
+
+    initCanvas();
+    initFilters();
+    initModal();
+    renderAllDataViews();
+    renderLabs();
+    renderIsland();
+    renderFuture();
+    renderSources();
+    initResize();
+  </script>
+</body>
+</html>

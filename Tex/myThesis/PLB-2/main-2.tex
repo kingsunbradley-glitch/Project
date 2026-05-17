@@ -1,46 +1,7 @@
-%% 
-%% Copyright 2007-2020 Elsevier Ltd
-%% 
-%% This file is part of the 'Elsarticle Bundle'.
-%% ---------------------------------------------
-%% 
-%% It may be distributed under the conditions of the LaTeX Project Public
-%% License, either version 1.2 of this license or (at your option) any
-%% later version.  The latest version of this license is in
-%%    http://www.latex-project.org/lppl.txt
-%% and version 1.2 or later is part of all distributions of LaTeX
-%% version 1999/12/01 or later.
-%% 
-%% The list of all files belonging to the 'Elsarticle Bundle' is
-%% given in the file `manifest.txt'.
-%% 
-%% Template article for Elsevier's document class `elsarticle'
-%% with harvard style bibliographic references
-
-%\documentclass[preprint,12pt,authoryear]{elsarticle}
-
-%% Use the option review to obtain double line spacing
-%% \documentclass[authoryear,preprint,review,12pt]{elsarticle}
-
-%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
-%% for a journal layout:
-%% \documentclass[final,1p,times,authoryear]{elsarticle}
-%% \documentclass[final,1p,times,twocolumn,authoryear]{elsarticle}
-%% \documentclass[final,3p,times,authoryear]{elsarticle}
-%% \documentclass[final,3p,times,twocolumn,authoryear]{elsarticle}
-%% \documentclass[final,5p,times,authoryear]{elsarticle}
-%  \documentclass[final,5p,times,twocolumn,authoryear]{elsarticle}
 \documentclass[final,5p,times,twocolumn,number,sort&compress]{elsarticle}
-%% For including figures, graphicx.sty has been loaded in
-%% elsarticle.cls. If you prefer to use the old commands
-%% please give \usepackage{epsfig}
 
-%% The amssymb package provides various useful mathematical symbols
 \usepackage{amssymb}
 \usepackage{amsmath}
-\usepackage{booktabs}
-\usepackage{threeparttable}
-\usepackage{lipsum}
 \usepackage{booktabs}
 \usepackage{threeparttable}
 \usepackage{makecell}
@@ -48,98 +9,61 @@
 \usepackage[version=4]{mhchem}
 \usepackage[hidelinks]{hyperref}
 \usepackage[capitalise]{cleveref}
-%% The amsthm package provides extended theorem environments
-%% \usepackage{amsthm}
 
-%% The lineno packages adds line numbers. Start line numbering with
-%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
-%% for the whole article with \linenumbers.
-%% \usepackage{lineno}
-
-%% You might want to define your own abbreviated commands for common used terms, e.g.:
-\newcommand{\kms}{km\,s$^{-1}$}
-\newcommand{\msun}{$M_\odot}
 \newcommand{\hide}[1]{}
 
-
 \journal{Physics Letters B}
-
 
 \begin{document}
 
 \begin{frontmatter}
 
-%% Title, authors and addresses
+\title{Distinct $\alpha$ Decay Branches in $^{273}$Ds and Evidence for a Low-Energy State in $^{269}$Hs near $N=162$}
 
-%% use the tnoteref command within \title for footnotes;
-%% use the tnotetext command for theassociated footnote;
-%% use the fnref command within \author or \affiliation for footnotes;
-%% use the fntext command for theassociated footnote;
-%% use the corref command within \author for corresponding author footnotes;
-%% use the cortext command for theassociated footnote;
-%% use the ead command for the email address,
-%% and the form \ead[url] for the home page:
-%% \title{Title\tnoteref{label1}}
-%% \tnotetext[label1]{}
-%% \author{Name\corref{cor1}\fnref{label2}}
-%% \ead{email address}
-%% \ead[url]{home page}
-%% \fntext[label2]{}
-%% \cortext[cor1]{}
-%% \affiliation{organization={},
-%%            addressline={}, 
-%%            city={},
-%%            postcode={}, 
-%%            state={},
-%%            country={}}
-%% \fntext[label3]{}
-
-\title{Isomeric States in $^{269}$Hs and Shell Structure near $N=162$ Probed through the Decay of $^{273}$Ds}
-
-\author{Z. R. Sun}
+\author{Z.\ R.\ Sun \hide{(孙志睿)}}
 \affiliation{State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China}
 \affiliation{School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China}
 
 \begin{abstract}
-A series of experiments was carried out at the SHANS-2 separator at IMP CAS. The cross section of the $^{238}$U($^{40}$Ar, $5n$)$^{273}$Ds reaction was investigated over the excitation-energy range of 42--50 MeV. The same reaction had previously been studied in a JINR--IMP CAS collaborative experiment at the DGFRS-2 separator at a comparable excitation energy of 49 MeV. In that study, two decay chains of $^{273}$Ds were observed with different $\alpha$-decay energies and lifetimes, which suggested the coexistence of a ground state and an isomeric state. In the present work, excitation energies of 42, 45, and 50 MeV were examined in detail. Upper limits of 0.34 and 1.1 pb were obtained for the production cross section at 42 and 45 MeV, respectively, whereas two decay chains were observed at 50 MeV, corresponding to a cross section of $0.14^{+0.18}_{-0.08}$ pb. This value is consistent with the $0.18^{+0.44}_{-0.12}$ pb reported from DGFRS-2. Notably, one chain attributed to the isomeric state at SHANS-2 follows a previously unreported decay path. In addition, the possible existence of an isomeric state in $^{269}$Hs is discussed on the basis of the $\alpha$-particle energy distribution of $^{269}$Hs populated through different production routes.
+A series of experiments was carried out at the SHANS-2 separator of IMP CAS to study the $^{238}$U($^{40}$Ar, $4n$--$5n$)$^{274,273}$Ds reaction. The excitation function was investigated in the excitation-energy range from 42 to 50 MeV. At 42 and 45 MeV, no correlated decay chain attributable to $^{273}$Ds was identified, and upper limits of 0.34 and 1.09 pb were obtained. At 50 MeV, two complete decay chains of $^{273}$Ds were observed, corresponding to a cross section of $0.14^{+0.18}_{-0.08}$ pb, in agreement with the value of $0.18^{+0.44}_{-0.12}$ pb reported previously for the same reaction at DGFRS-2. One chain follows the known high-energy, short-lived branch, whereas the other defines a lower-energy, longer-lived branch that supports the interpretation of a distinct state in $^{273}$Ds. By combining the present data with earlier results, the population pattern and the $\alpha$-particle energy distribution of $^{269}$Hs suggest the presence of an additional low-energy state in this nucleus. The combined decay properties and isotopic systematics of Ds and Hs provide new constraints on the single-particle structure around the deformed $N=162$ shell closure.
 \end{abstract}
 
 \begin{keyword}
 $\alpha$ decay \sep $N=162$ subshell \sep Isomeric state \sep Gas-filled recoil separator
 \end{keyword}
 
+\end{frontmatter}
+
 \section{Introduction}
 \label{introduction}
 
-The macroscopic liquid-drop model does not predict the existence of superheavy elements (SHEs, $Z \ge 104$), because Coulomb repulsion dominates in this region. Their experimental synthesis therefore reflects the stabilizing role of quantum shell effects. Major experimental and theoretical advances, especially in $^{48}\mathrm{Ca}$-induced reactions, have made it possible to produce nuclei in this extreme mass region \cite{oganessianSuperheavyNuclei48Cainduced2015, oganessianInvestigationCa482022}. These shell effects lead to the predicted islands of stability in the superheavy region. Enhanced stability is expected near the deformed doubly magic shell closures at $Z = 108$ and $N = 162$ \cite{dvorakDoublyMagicNucleus2006}, and toward heavier spherical configurations near $N = 184$ and $Z = 114\text{--}126$, although the exact location depends on the theoretical model \cite{kruppa2000ShellCorrectionsSuperheavy}. Odd-$A$ nuclei in this region provide stringent tests of these models because their decay properties offer direct information on the underlying single-particle structure around the deformed $N = 162$ shell gap. In this context, the odd-neutron nucleus $^{273}\mathrm{Ds}$ can be regarded as a one-neutron system above the $N = 162$ gap, whereas its $\alpha$-decay daughter $^{269}\mathrm{Hs}$ represents a one-neutron-hole system below this gap. The $\alpha$-decay properties connecting $^{273}\mathrm{Ds}$ and $^{269}\mathrm{Hs}$ are therefore highly sensitive to the shell structure near $N = 162$.
+In the absence of shell corrections, the macroscopic liquid-drop model does not allow the existence of superheavy elements ($Z \ge 104$), because the Coulomb repulsion becomes dominant. Nevertheless, major experimental and theoretical progress has enabled the synthesis of nuclei in this extreme mass region, in particular through $^{48}\mathrm{Ca}$-induced reactions \cite{oganessianSuperheavyNuclei48Cainduced2015,oganessianInvestigationCa482022}. The existence and survival of these nuclei rely on quantum shell effects, which provide the additional binding energy required to stabilize them against spontaneous fission. Theoretical models predict that these shell corrections generate islands of stability across the superheavy landscape. Enhanced stability is expected near the deformed doubly magic region around $Z = 108$ and $N = 162$ \cite{dvorakDoublyMagicNucleus2006}, and the shell stabilization is predicted to extend toward heavier spherical configurations near $N = 184$ and $Z = 114$--126, although the exact location remains model dependent \cite{kruppa2000ShellCorrectionsSuperheavy}. Odd-$A$ nuclei in this mass region provide stringent tests of these theoretical frameworks, because their decay properties are sensitive to the single-particle structure around the deformed $N = 162$ shell gap.
 
-The isotope $^{273}\mathrm{Ds}$ was first identified unambiguously at the GSI velocity filter SHIP as an $\alpha$-decay product in cold-fusion reactions \cite{hofmann2002NewResultsElements}. In the $^{208}\mathrm{Pb}(^{70}\mathrm{Zn}, n)^{277}\mathrm{Cn}$ experiments performed at GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112} and RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, the measured lifetime of $^{273}\mathrm{Ds}$ was consistently of the order of $0.1\ \mathrm{ms}$. More recently, Oganessian et al.\ \cite{oganessian2024SynthesisDecayProperties} investigated the direct production of $^{273}\mathrm{Ds}$ in the $^{238}\mathrm{U}(^{40}\mathrm{Ar}, 5n)$ reaction. Two genetically correlated decay chains were reported \cite{geneticcorrelations}; one agreed with the known decay pattern, whereas the other was attributed to an isomeric state of $^{273}\mathrm{Ds}$. Because both chains were incomplete, however, the available information on the decay of the daughter nucleus $^{269}\mathrm{Hs}$ remained limited. Wang et al.\ \cite{Wang2024} subsequently analyzed these sequences with the density-dependent cluster model (DDCM+) and the unified decay formula (UDF), and proposed minor revisions to the decay assignments.
+In this context, $^{273}\mathrm{Ds}$ and its daughter $^{269}\mathrm{Hs}$ form a particularly important pair. The nucleus $^{273}\mathrm{Ds}$ contains one neutron above the $N = 162$ gap, whereas $^{269}\mathrm{Hs}$ corresponds to one neutron hole below it. The $\alpha$-decay link between these two nuclei therefore probes the single-particle structure on both sides of the same deformed shell closure. The isotope $^{273}\mathrm{Ds}$ was first identified unambiguously at SHIP as an $\alpha$-decay descendant in cold-fusion reactions \cite{hofmann2002NewResultsElements}. In the $^{208}\mathrm{Pb}(^{70}\mathrm{Zn}, n)^{277}\mathrm{Cn}$ experiments at GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112} and RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, the lifetime of the $^{273}\mathrm{Ds}$ descendant was consistently found in the $0.1\ \mathrm{ms}$ range. More recently, direct production of $^{273}\mathrm{Ds}$ in the $^{238}\mathrm{U}(^{40}\mathrm{Ar}, 5n)$ reaction was reported by Oganessian \textit{et al.} \cite{oganessian2024SynthesisDecayProperties}. Two genetically correlated decay chains were observed, one of which was interpreted as originating from an isomeric state of $^{273}\mathrm{Ds}$. However, those chains were incomplete and therefore provided only limited information on the decay of the daughter nucleus $^{269}\mathrm{Hs}$.
 
-In the present work, the same reaction was studied at the SHANS-2 facility \cite{xu2023GasfilledRecoilSeparator}. Two additional complete decay chains were observed and assigned through established genetic correlations \cite{geneticcorrelations}. Together with the historical data, these chains provide independent support for the coexistence of two states in $^{273}\mathrm{Ds}$, denoted here as $^{273}\mathrm{Ds}^{a}$ and $^{273}\mathrm{Ds}^{b}$ following Ref.~\cite{oganessian2024SynthesisDecayProperties}. On this basis, the present study examines the possible existence of an isomeric state in $^{273}\mathrm{Ds}$ and explores whether a related isomeric structure may also exist in $^{269}\mathrm{Hs}$. By comparing the observed decay patterns with macroscopic-microscopic considerations, we further discuss the implications of these results for the neutron shell structure near $N = 162$.
+In the present work, the same reaction was studied at the SHANS-2 separator \cite{xu2023GasfilledRecoilSeparator}. Two additional complete decay chains were observed and assigned to $^{273}\mathrm{Ds}$ on the basis of genetic correlations \cite{geneticcorrelations} and consistency with historical data. These new data provide independent support for the existence of two distinct decay branches in $^{273}\mathrm{Ds}$, denoted here as $^{273}\mathrm{Ds}^{a}$ and $^{273}\mathrm{Ds}^{b}$ following Ref.~\cite{oganessian2024SynthesisDecayProperties}. By combining the present results with earlier measurements and with macroscopic--microscopic considerations, the present work examines the possible existence of isomeric structures in $^{273}\mathrm{Ds}$ and $^{269}\mathrm{Hs}$ and discusses the implications for the shell structure near $N = 162$.
 
-\section{Experiment}
+\section{Experiment and results}
 
-The experiment was carried out at the China Accelerator Facility for Superheavy Elements (CAFE2) at IMP, using the gas-filled recoil separator SHANS-2 (Spectrometer for Heavy Atoms and Nuclear Structure-2). The nucleus $^{273}\text{Ds}$ was produced through the $^{238}\text{U}(^{40}\text{Ar}, 5n)$ fusion-evaporation reaction. A $^{40}\text{Ar}^{13+}$ beam with average incident energies of 217, 220, and 225 MeV was delivered by the superconducting linear accelerator. The typical beam intensity on target was about $5\text{ p}\mu\text{A}$, and the total effective irradiation time was approximately 728 h.
+The experiment was performed at the China Accelerator Facility for Superheavy Elements of the Institute of Modern Physics by using the gas-filled recoil separator SHANS-2 (Spectrometer for Heavy Atoms and Nuclear Structure-2). The nucleus $^{273}\text{Ds}$ was synthesized in the $^{238}\text{U}(^{40}\text{Ar}, 5n)$ fusion-evaporation reaction. A $^{40}\text{Ar}^{13+}$ beam with average incident energies of 217, 220, and 225 MeV was delivered by the superconducting linear accelerator. The typical beam intensity on target was about $5\ \mathrm{p}\mu\mathrm{A}$, and the total effective irradiation time was about 728 h.
 
-The targets were prepared by magnetron sputtering of $^{238}\text{U}$ onto Ti backings with thicknesses of 2.22 and 2.19 $\mu\text{g/cm}^2$, giving average $^{238}\text{U}$ layer thicknesses of 470 and 604 $\mu\text{g/cm}^2$, respectively. The arc-shaped target segments were mounted on a wheel of 50 cm diameter and rotated at 1500 rpm during irradiation in order to withstand the intense beam load.
+The targets were prepared by magnetron sputtering of $^{238}\text{U}$ onto Ti backings with thicknesses of 2.22 and 2.19 $\mu\text{g/cm}^{2}$, resulting in average $^{238}\text{U}$ layer thicknesses of 470 and 604 $\mu\text{g/cm}^{2}$. The arc-shaped target segments were mounted on a wheel with a diameter of 50 cm and rotated at 1500 rpm during irradiation in order to withstand the high beam load.
 
-Evaporation residues (ERs) were separated in flight from the primary beam and other reaction products by SHANS-2. The separator was filled with helium at a pressure of about 1 mbar, and the magnetic rigidity was optimized for the transmission of $^{273}\text{Ds}$. At the focal plane, the ERs passed through two multi-wire proportional chambers (MWPCs) before being implanted into a double-sided silicon strip detector (DSSD). The MWPCs were located about 20 cm upstream of the DSSD and were operated with isobutane gas. They were used to distinguish implantation events from decay events by combining time-of-flight (TOF) information with MWPC trigger signals.
+Evaporation residues were separated in flight from the primary beam and other reaction products by SHANS-2. The separator was filled with helium gas at a pressure of about 1 mbar, and the magnetic rigidity was optimized for the transmission of $^{273}\text{Ds}$. At the focal plane, the evaporation residues passed through two multi-wire proportional chambers (MWPCs) and were then implanted into a double-sided silicon strip detector (DSSD). The MWPCs were mounted about 20 cm upstream of the DSSD and operated with isobutane gas. They were used mainly to distinguish implantation events from decay events by combining time-of-flight information with time--position correlations and the trigger status of the MWPCs.
 
-The DSSD has an active area of $128 \times 48\text{ mm}^2$ and a thickness of 300 $\mu\text{m}$. The front side, defined as the Y plane, is segmented into 48 horizontal strips, whereas the back side, defined as the X plane, is segmented into 128 vertical strips. This arrangement forms 6144 pixels and provides a position resolution of about 1 mm. To detect $\alpha$ particles and spontaneous-fission (SF) fragments escaping from the front side of the DSSD, six single-sided silicon detectors (SSDs) were installed upstream of the DSSD in a box configuration. Each SSD has a thickness of 500 $\mu\text{m}$ and an active area of $120 \times 63\text{ mm}^2$. In addition, three silicon detectors with thicknesses of 300 $\mu\text{m}$ were mounted immediately behind the DSSD as veto detectors to reject light particles punching through the focal-plane detectors. The entire silicon detector system was cooled to approximately $-30^\circ\text{C}$ with a circulating liquid-alcohol system in order to suppress thermal noise and improve the energy resolution. For full-energy $\alpha$ particles in the 5--9 MeV range, the typical energy resolution of the DSSD was about 30 keV (FWHM). The detection efficiency for $\alpha$ particles was 87(6)\%. All detector signals were processed with 14-bit analog-to-digital converters operating at 100 MHz in triggerless mode after preamplification and shaping. Further details of SHANS-2 and the detection system can be found in Refs.~\cite{xu2023GasfilledRecoilSeparator,sheng2021IonopticalDesignMultiparticle}.
+The DSSD has an active area of $128 \times 48\ \text{mm}^{2}$ and a thickness of 300 $\mu\text{m}$. The front side, defined as the $X$ plane, is segmented into 128 vertical strips, whereas the back side, defined as the $Y$ plane, is segmented into 48 horizontal strips. This geometry provides 6144 pixels and a position resolution of about 1 mm. Six single-sided silicon detectors were arranged upstream of the DSSD in a box-like geometry to detect $\alpha$ particles and spontaneous-fission fragments escaping from the front side of the DSSD. Each detector has a thickness of 500 $\mu\text{m}$ and an active area of $120 \times 63\ \text{mm}^{2}$. In addition, three silicon detectors with a thickness of 300 $\mu\text{m}$ were installed directly behind the DSSD as veto detectors in order to reject light particles punching through the focal-plane detector system. The entire silicon array was cooled to about $-30^{\circ}\text{C}$ with a circulating alcohol system to suppress thermal noise and improve the energy resolution. For full-energy $\alpha$ particles in the range from 5 to 9 MeV, the typical full width at half maximum of the DSSD was about 30 keV. The detection efficiency for $\alpha$ particles was about 87(6)\%. All detector signals were preamplified, shaped, and digitized with 14-bit analog-to-digital converters operated at 100 MHz in a triggerless mode. Further details of SHANS-2 and the detector system can be found in Refs.~\cite{xu2023GasfilledRecoilSeparator,sheng2021IonopticalDesignMultiparticle}.
 
-In the present work, the silicon detectors were calibrated with standard $\alpha$ sources (\ce{^{239}Pu}, \ce{^{241}Am}, and \ce{^{244}Cm}) and with the well-known $\alpha$ lines of \ce{^{218}Rn} \cite{SINGH2019405}, \ce{^{214}Po} \cite{ZHU20211a}, \ce{^{216}Po} \cite{WU20071057}, and \ce{^{217}At} \cite{KONDEV2018382}. The reference energies were taken from the evaluated \textit{Nuclear Data Sheets}. The cross sections were deduced with simulations performed according to the method described in Ref.~\cite{zhang2026MonteCarloSimulation}, which gave a transmission efficiency of 20\%. The experimental conditions and the measured cross sections are summarized in Table~\ref{tab:cross_sections}.
+The silicon detectors were calibrated with standard $\alpha$ sources (\ce{^{239}Pu}, \ce{^{241}Am}, and \ce{^{244}Cm}) and with the well-known $\alpha$-decay lines of \ce{^{218}Rn} \cite{SINGH2019405}, \ce{^{214}Po} \cite{ZHU20211a}, \ce{^{216}Po} \cite{WU20071057}, and \ce{^{217}At} \cite{KONDEV2018382}. The reference energies were taken from the evaluated \textit{Nuclear Data Sheets}. The transmission efficiency used for the cross-section evaluation was obtained from simulations performed according to the procedure described in Ref.~\cite{zhang2026MonteCarloSimulation}, yielding a value of 20\%. The experimental conditions and the measured cross sections are summarized in Table~\ref{tab:cross_sections}.
 
 \begin{table}[htbp]
 \centering
 \captionsetup{font=small}
-\caption{Thicknesses of the $^{238}$U targets, average laboratory-frame projectile energies $\bar{E}_{\rm lab}$ at the middle of the target layers, corresponding average excitation energies $\bar{E}^{*}$ of the compound nucleus, calculated from the mass tables in Refs.~\cite{myers1996NuclearPropertiesAccording,wang2021NUBASE2020EvaluationNuclear}, total beam doses, and measured cross sections $\sigma$ or upper limits for the $4n$ and $5n$ evaporation channels in the $^{40}$Ar + $^{238}$U reaction. Values separated by ``$|$'' correspond to measurements performed with two target thicknesses, and the beam doses are given in the same order.}
+\caption{Target thicknesses of $^{238}$U, average projectile energies $\bar{E}_{\rm lab}$ at the middle of the target layers, corresponding average excitation energies $\bar{E}^{*}$ of the compound nucleus calculated from the mass tables of Refs.~\cite{myers1996NuclearPropertiesAccording,wang2021NUBASE2020EvaluationNuclear}, total beam doses, and measured cross sections $\sigma$ or upper limits for the $4n$ and $5n$ evaporation channels in the $^{40}$Ar + $^{238}$U reaction. Values separated by ``$|$'' correspond to measurements with two target thicknesses, and the beam doses are listed in the same order.}
 \label{tab:cross_sections}
-
 \begin{threeparttable}
 \setlength{\tabcolsep}{3.5pt}
 \renewcommand{\arraystretch}{1.08}
 \small
-
 \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}cccccc@{}}
 \toprule
 \makecell[c]{Target thickness\\(mg/cm$^{2}$)} &
@@ -150,108 +74,136 @@ In the present work, the silicon detectors were calibrated with standard $\alpha
 \makecell[c]{$\sigma_{5n}$\\(pb)} \\
 \midrule
 $0.47\,|\,0.60$ & 225 & 50 & $2.28\,|\,2.96$ & $<0.15$ & $0.14^{+0.18}_{-0.08}$ \\
-0.47            & 220 & 45 & 0.817           & $<1.1$  & $<1.1$ \\
-0.60            & 217 & 42 & 2.04            & $<0.34$ & $<0.34$ \\
+0.47 & 220 & 45 & 0.817 & $<1.1$ & $<1.1$ \\
+0.60 & 217 & 42 & 2.04 & $<0.34$ & $<0.34$ \\
 \bottomrule
 \end{tabular*}
-
 \begin{tablenotes}[flushleft]
 \footnotesize
-\item[a] The beam energy was measured with a systematic uncertainty of 1 MeV.
+\item[a] The systematic uncertainty of the beam energy is 1 MeV.
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
 
-\section{Results}
+\section{Results and discussion}
 
-For the $^{238}\text{U}(^{40}\text{Ar}, xn)^{278-x}\text{Ds}$ reaction at an excitation energy of about 50 MeV, the $5n$ evaporation channel is expected to dominate \cite{oganessian2024SynthesisDecayProperties}. At this excitation energy, two decay chains were observed. Their full correlations are shown in Fig.~\ref{fig:decay-chain}.
-
-\begin{figure}
-	\centering
-	\includegraphics[width=0.4\textwidth]{decayChain.pdf}
-	\caption{Two decay chains assigned to $^{273}$Ds observed in the $^{238}$U($^{40}$Ar, $5n$)$^{273}$Ds reaction. For each chain, the energy of the evaporation-residue (ER) event and the corresponding $X/Y$ implantation position are given at the top. The energies of the successive $\alpha$ decays and the terminal spontaneous-fission (SF) event, together with the time intervals between adjacent events, are listed below. Energies in parentheses indicate summed signals. Italic values denote the corresponding energy uncertainties. Red text and red frames mark the information established in the present work and the assignments related to the proposed isomeric states.}
-	\label{fig:decay-chain}
-\end{figure}
-
-The energy and decay time of $\alpha_{1}$ in Chain 1 are consistent with the values reported in the cold-fusion $^{208}\text{Pb}(^{70}\text{Zn}, n)^{277}\text{Cn}$ experiments at GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112} and RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, as well as in the hot-fusion $^{238}\text{U}(^{40}\text{Ar}, 5n)^{273}\text{Ds}$ study at JINR \cite{oganessian2024SynthesisDecayProperties}. The subsequent decay properties of $^{269}\text{Hs}$, which give rise to $\alpha_{2}$ and $\alpha_{3}$, and the terminal SF of $^{261}\text{Rf}$ in both chains are also consistent with the literature \cite{dvorakDoublyMagicNucleus2006,dullmannCm248Ne2008,dvorakObservation3Evaporation2008,graegerExperimentalStudy2382010,vonzweidorfEvidenceFormationSodium2004,habaProductionDecayProperties2011,habaProduction265Sg2012}. The decay assignments are discussed below.
-
-D\"ullmann \textit{et al.}~\cite{dullmannCm248Ne2008} proposed that $^{261}\text{Rf}$ populated through the $\alpha$ decay of $^{265}\text{Sg}$ has two states, $^{261}\text{Rf}^{a}$ and $^{261}\text{Rf}^{b}$. The decay properties of these states were later confirmed by Haba \textit{et al.}~\cite{habaProductionDecayProperties2011} in the $^{248}\text{Cm}(^{22}\text{Ne}, 5n)^{265}\text{Sg}$ reaction. The state $^{261}\text{Rf}^{a}$ decays to $^{257}\text{No}$ by emission of an 8.28 MeV $\alpha$ particle with $T_{1/2} = 68$ s, whereas $^{261}\text{Rf}^{b}$ has $T_{1/2} = 2.6$ s and decays through an 18\% $\alpha$ branch with $E_{\alpha} = 8.51$ MeV and an 82\% SF branch \cite{habaProductionDecayProperties2011}. The terminal SF events observed in both chains of the present work are therefore assigned to $^{261}\text{Rf}^{b}$.
-
-Dvorak \textit{et al.}~\cite{dvorakDoublyMagicNucleus2006} also suggested that the $\alpha$ decay of $^{269}\text{Hs}$ proceeds through two energies, $E_{\alpha} = 9.13$ and 8.95 MeV, feeding two states in the daughter nucleus, $^{265}\text{Sg}^{a}$ and $^{265}\text{Sg}^{b}$. These two values agree well with the observed $E_{\alpha_{2}}$ values in Chain 1 and Chain 2, respectively. The decay properties of $^{265}\text{Sg}^{a}$ and $^{265}\text{Sg}^{b}$ were later established by Haba \textit{et al.}~\cite{habaProduction265Sg2012} on the basis of high-statistics data from the $^{248}\text{Cm}(^{22}\text{Ne}, 5n)^{265}\text{Sg}$ reaction. They reported that $^{265}\text{Sg}^{a}$ with $T_{1/2} = 8.5$ s decays by 8.84 MeV $\alpha$ emission and feeds $^{261}\text{Rf}^{a}$ and $^{261}\text{Rf}^{b}$ with branching ratios of 91\% and 9\%, respectively. In contrast, $^{265}\text{Sg}^{b}$ with $T_{1/2} = 14.4$ s decays by 8.69 MeV $\alpha$ emission and feeds $^{261}\text{Rf}^{a}$ and $^{261}\text{Rf}^{b}$ with branching ratios of 20\% and 80\%, respectively. Both chains observed in the present work are thus assigned to the $^{265}\text{Sg}^{b} \rightarrow {}^{261}\text{Rf}^{b}$ sequence.
-
-A comparison of the $E_{\alpha}$ values and decay times for nuclei in decay chains involving $^{273}$Ds is shown in Fig.~\ref{fig:EalphaAndDecaytime}.
+For the $^{238}\text{U}(^{40}\text{Ar}, xn)^{278-x}\text{Ds}$ reaction at an excitation energy of about 50 MeV, the $5n$ evaporation channel is expected to be the dominant channel \cite{oganessian2024SynthesisDecayProperties}. At this energy, two decay chains were observed. The full event information is shown in Fig.~\ref{fig:decay-chain}.
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.48\textwidth]{EalphaAndDecaytime.pdf}
-	\caption{Comparison of $E_{\alpha}$ values and decay-time distributions for nuclei in decay chains involving $^{273}$Ds. The red, blue, green, and yellow histograms correspond to the data from IMP, JINR \cite{oganessian2024SynthesisDecayProperties}, RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, and GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112}, respectively. The curves in the decay-time panels were drawn according to Ref.~\cite{schmidt2000NewTestRandom}.}
-	\label{fig:EalphaAndDecaytime}
+\centering
+\includegraphics[width=0.4\textwidth]{decayChain.pdf}
+\caption{Two complete decay chains assigned to $^{273}$Ds in the $^{238}$U($^{40}$Ar, $5n$)$^{273}$Ds reaction. For each chain, the energy of the evaporation residue and the corresponding $X/Y$ implantation position are given at the top, followed by the energies of the successive $\alpha$ decays and of the terminal spontaneous-fission event together with the correlation times between adjacent signals. Energies in parentheses indicate summed signals. The numbers written as subscripts after the energies denote the corresponding uncertainties in units of keV. The red entries mark the newly observed branch and the related tentative state assignment discussed in the present work.}
+\label{fig:decay-chain}
 \end{figure}
 
-\subsection{Decay properties of $^{273}\text{Ds}$}
+The energy and decay time of $\alpha_{1}$ in Chain 1 are consistent with the data obtained in the previous cold-fusion $^{208}\text{Pb}(^{70}\text{Zn}, n)^{277}\text{Cn}$ experiments at GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112} and RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, as well as with the direct-production experiment on $^{238}\text{U}(^{40}\text{Ar}, 5n)^{273}\text{Ds}$ at JINR \cite{oganessian2024SynthesisDecayProperties}. The subsequent decay properties of $^{269}\text{Hs}$, which produce $\alpha_{2}$ and $\alpha_{3}$, and the terminal spontaneous fission of $^{261}\text{Rf}$ in both chains are also consistent with the decay data reported in Refs.~\cite{dvorakDoublyMagicNucleus2006,dullmannCm248Ne2008,dvorakObservation3Evaporation2008,graegerExperimentalStudy2382010,vonzweidorfEvidenceFormationSodium2004,habaProductionDecayProperties2011,habaProduction265Sg2012}. The detailed assignments are discussed below.
 
-As shown in Fig.~\ref{fig:EalphaAndDecaytime}, most data points from Chains 1 and 2 are consistent with the historical results. A clear exception concerns one chain reported in Ref.~\cite{oganessian2024SynthesisDecayProperties} with $E_{\alpha} = 10.929(14)\text{ MeV}$ and $\tau = 41.703\text{ ms}$, together with the chain observed in the present work with $E_{\alpha} = 10.858(14)\text{ MeV}$ and $\tau = 8.320\text{ ms}$. These values differ markedly from the higher-energy and shorter-lived decays measured at GSI and RIKEN. This separation in both energy and lifetime supports the existence of a long-lived state in $^{273}\text{Ds}$ in addition to the previously known state.
+D\"ullmann \textit{et al.}~\cite{dullmannCm248Ne2008} proposed that $^{261}\text{Rf}$ populated by the $\alpha$ decay of $^{265}\text{Sg}$ has two states, $^{261}\text{Rf}^{a}$ and $^{261}\text{Rf}^{b}$. The existence and decay properties of these states were later confirmed by Haba \textit{et al.}~\cite{habaProductionDecayProperties2011} in the $^{248}\text{Cm}(^{22}\text{Ne}, 5n)^{265}\text{Sg}$ reaction. The state $^{261}\text{Rf}^{a}$ decays to $^{257}\text{No}$ by emission of an 8.28 MeV $\alpha$ particle with $T_{1/2} = 68$ s, whereas $^{261}\text{Rf}^{b}$ has $T_{1/2} = 2.6\ \text{s}$ and decays through an 18\% $\alpha$ branch with $E_{\alpha} = 8.51\ \text{MeV}$ and an 82\% spontaneous-fission branch \cite{habaProductionDecayProperties2011}. The terminal spontaneous-fission events observed in both chains of the present work are therefore attributed to $^{261}\text{Rf}^{b}$.
 
-At present, $^{273}\text{Ds}$ has been observed through two production routes: as the $\alpha$-decay daughter of $^{277}\text{Cn}$ in the cold-fusion $^{208}\text{Pb}(^{70}\text{Zn}, n)$ reaction at GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112} and RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, and by direct production in the hot-fusion $^{238}\text{U}(^{40}\text{Ar}, 5n)$ reaction at JINR \cite{oganessian2024SynthesisDecayProperties} and in the present SHANS-2 experiment. Two groups of $\alpha$-decay energies and lifetimes are now evident. Following Ref.~\cite{oganessian2024SynthesisDecayProperties}, the lower-energy, longer-lived state is denoted as $^{273}\text{Ds}^{a}$, whereas the higher-energy, shorter-lived state is denoted as $^{273}\text{Ds}^{b}$. An important feature is that $^{273}\text{Ds}$ populated through the decay of $^{277}\text{Cn}$ has so far been observed only in the $^{273}\text{Ds}^{b}$ state, whereas direct production populates both $^{273}\text{Ds}^{a}$ and $^{273}\text{Ds}^{b}$. This pattern further supports the interpretation of $^{273}\text{Ds}^{a}$ as a possible isomeric state.
+D\"ullmann \textit{et al.}~\cite{dvorakDoublyMagicNucleus2006} also suggested that the $\alpha$ decay of $^{269}\text{Hs}$ proceeds through two distinct $\alpha$-particle energies, $E_{\alpha} = 9.13$ and $8.95\ \text{MeV}$, which populate two corresponding states in the daughter nucleus, $^{265}\text{Sg}^{a}$ and $^{265}\text{Sg}^{b}$. These values match the observed $E_{\alpha_{2}}$ values in Chain 1 and Chain 2, respectively. The decay properties of $^{265}\text{Sg}^{a}$ and $^{265}\text{Sg}^{b}$ were established later by Haba \textit{et al.}~\cite{habaProduction265Sg2012} from high-statistics data for the $^{248}\text{Cm}(^{22}\text{Ne}, 5n)^{265}\text{Sg}$ reaction. The state $^{265}\text{Sg}^{a}$, with $T_{1/2} = 8.5\ \text{s}$, decays by an 8.84 MeV $\alpha$ transition to $^{261}\text{Rf}^{a}$ and $^{261}\text{Rf}^{b}$ with branching ratios of 91\% and 9\%, respectively. The state $^{265}\text{Sg}^{b}$, with $T_{1/2} = 14.4\ \text{s}$, decays by an 8.69 MeV $\alpha$ transition to $^{261}\text{Rf}^{a}$ and $^{261}\text{Rf}^{b}$ with branching ratios of 20\% and 80\%, respectively. Both chains observed in the present work are therefore assigned to the sequence $^{265}\text{Sg}^{b} \rightarrow {}^{261}\text{Rf}^{b}$.
 
-\subsection{Decay properties of $^{269}\text{Hs}$}
-
-T\"{u}rler \textit{et al.}~\cite{turlerNuclearStructureReaction2012} noted that the $\alpha$-decay energies of $^{269}\text{Hs}$ observed as the daughter of $^{277}\text{Cn}$ and $^{273}\text{Ds}$, 9.17--9.25 MeV, are among the highest values reported for this nuclide. They suggested two possible explanations: summing of $\alpha$-particle energy with conversion-electron energy in the focal-plane detector, or the existence of long-lived isomeric states in $^{269}\text{Hs}$ analogous to those known in $^{265}\text{Sg}$ and $^{261}\text{Rf}$. Motivated by this suggestion and by the present data, we tentatively classify the observed $^{269}\text{Hs}$ decays into three groups. Following the nomenclature adopted here, the group with $E_{\alpha} = 9.20(4)\text{ MeV}$ and $T_{1/2} = 13^{+10}_{-4}\text{ s}$ is denoted as $^{269}\text{Hs}^{a}$, and the group with $E_{\alpha} = 9.08(15)\text{ MeV}$ and $T_{1/2} = 2.8^{+13.6}_{-1.3}\text{ s}$ is denoted as $^{269}\text{Hs}^{b}$. In the present work, the decay with $E_{\alpha} = 8.915\text{ MeV}$ and $\tau = 9.363\text{ s}$ is tentatively assigned to a third state, denoted as $^{269}\text{Hs}^{c}$. Because the energy resolution of some earlier measurements was limited, $^{269}\text{Hs}^{a}$ and $^{269}\text{Hs}^{b}$ cannot always be distinguished reliably; in such cases they are grouped together as $^{269}\text{Hs}^{a+b}$.
+The $E_{\alpha}$ and $T_{1/2}$ values for all decay chains involving \ce{^{273}Ds} are compiled and compared with the historical data in Fig.~\ref{fig:EalphaAndDecaytime}.
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.35\textwidth]{distributionHs.pdf}
-	\caption{Energy distributions of $\alpha$ particles assigned to $^{269}$Hs. The upper panel shows all events, the middle panel shows nuclei produced directly as evaporation residues (EVRs), and the lower panel shows nuclei populated through the $\alpha$ decay of $^{273}$Ds. The hatched bar indicates the event observed in the present work at $E_{\alpha} = 8.915$ MeV.}
-	\label{fig:distributionHs}
+\centering
+\includegraphics[width=0.48\textwidth]{EalphaAndDecaytime.pdf}
+\caption{Compilation of the $E_{\alpha}$ values and decay-time distributions for the decay chains involving $^{273}$Ds, $^{269}$Hs, $^{265}$Sg, and $^{261}$Rf. Panels (a)--(d) show the measured $\alpha$-particle energies, and panels (e)--(h) show the corresponding distributions of $\log_{10}[t(\mathrm{ms})]$. The red, blue, green, and yellow histograms represent the data from IMP, JINR \cite{oganessian2024SynthesisDecayProperties}, RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, and GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112}, respectively. The smooth curves in the decay-time panels are drawn according to Ref.~\cite{schmidt2000NewTestRandom}.}
+\label{fig:EalphaAndDecaytime}
 \end{figure}
 
-As shown in Fig.~\ref{fig:distributionHs}, the directly produced EVR data extend over both the high-energy region assigned to $^{269}\text{Hs}^{a+b}$ and the lower-energy region assigned to $^{269}\text{Hs}^{c}$. Using an energy boundary of 9.0 MeV, the population ratio is $n(^{269}\text{Hs}^{a+b}):n(^{269}\text{Hs}^{c}) = 11:6$. In contrast, for $^{269}\text{Hs}$ populated through the $\alpha$ decay of $^{273}\text{Ds}$, this ratio is $n(^{269}\text{Hs}^{a+b}):n(^{269}\text{Hs}^{c}) = 6:1$. More specifically, the observed decays indicate $n(^{273}\text{Ds}^{b} \rightarrow {}^{269}\text{Hs}^{a+b}):n(^{273}\text{Ds}^{a} \rightarrow {}^{269}\text{Hs}^{c}) = 6:1$. Cross-decay branches such as $^{273}\text{Ds}^{b} \rightarrow {}^{269}\text{Hs}^{c}$ and $^{273}\text{Ds}^{a} \rightarrow {}^{269}\text{Hs}^{a+b}$ were not observed. This strong selectivity suggests that $^{269}\text{Hs}^{c}$ may correspond to an isomeric state, although further theoretical support is still required.
+\subsection{\texorpdfstring{Decay properties of $^{273}\mathrm{Ds}$}{Decay properties of 273Ds}}
+
+As shown in Fig.~\ref{fig:EalphaAndDecaytime}, most events in the two chains observed in the present work agree with the historical data. The notable exception is one $^{273}\text{Ds}$ decay with $E_{\alpha} = 10.858(14)\ \text{MeV}$ and $\tau = 8.320\ \text{ms}$, which differs substantially from the higher-energy, shorter-lived decays observed at GSI and RIKEN and from the short-lived branch identified in the present work. In combination with the chain reported in Ref.~\cite{oganessian2024SynthesisDecayProperties} with $E_{\alpha} = 10.929(14)\ \text{MeV}$ and $\tau = 41.703\ \text{ms}$, this observation supports the existence of a lower-energy, longer-lived branch in $^{273}\text{Ds}$.
+
+The nucleus $^{273}\text{Ds}$ has been populated in two ways: as the $\alpha$-decay daughter of $^{277}\text{Cn}$ in the cold-fusion $^{208}\text{Pb}(^{70}\text{Zn}, n)$ reaction at GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112} and RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, and by direct production in the hot-fusion $^{238}\text{U}(^{40}\text{Ar}, 5n)$ reaction at JINR \cite{oganessian2024SynthesisDecayProperties} and in the present work. Two groups of decay properties are now observed. Following Ref.~\cite{oganessian2024SynthesisDecayProperties}, the lower-energy, longer-lived branch is denoted as $^{273}\text{Ds}^{a}$ and the higher-energy, shorter-lived branch is denoted as $^{273}\text{Ds}^{b}$. The available data indicate that population through the decay of $^{277}\text{Cn}$ favors the former branch, whereas direct production populates both branches. This pattern is consistent with the interpretation of $^{273}\text{Ds}^{a}$ as a distinct low-lying state, possibly of isomeric character.
+
+\subsection{\texorpdfstring{Decay properties of $^{269}\mathrm{Hs}$}{Decay properties of 269Hs}}
+
+T\"urler \textit{et al.}~\cite{turlerNuclearStructureReaction2012} pointed out that the reported $\alpha$-decay energies of $^{269}\text{Hs}$ in the range 9.17--9.25 MeV, observed as descendants of $^{277}\text{Cn}$ and $^{273}\text{Ds}$, are among the highest known for this nuclide. Two explanations were considered: energy summing with conversion electrons in the focal-plane detector, or the presence of long-lived states in $^{269}\text{Hs}$ similar to those already established in $^{265}\text{Sg}$ and $^{261}\text{Rf}$. When the present data are combined with the historical information, the $^{269}\text{Hs}$ events can be grouped into several energy regions. Following the notation of Ref.~\cite{oganessian2024SynthesisDecayProperties}, the state with $E_{\alpha} = 9.20(4)\ \text{MeV}$ and $T_{1/2} = 13^{+10}_{-4}\ \text{s}$ is denoted as $^{269}\text{Hs}^{a}$, and the state with $E_{\alpha} = 9.08(15)\ \text{MeV}$ and $T_{1/2} = 2.8^{+13.6}_{-1.3}\ \text{s}$ is denoted as $^{269}\text{Hs}^{b}$. The event observed in the present work with $E_{\alpha} = 8.915\ \text{MeV}$ and $\tau = 9.363\ \text{s}$ is assigned to an additional low-energy group denoted as $^{269}\text{Hs}^{c}$. Because the energy resolution of part of the historical data is limited, the distinction between $^{269}\text{Hs}^{a}$ and $^{269}\text{Hs}^{b}$ is not always robust, and these two groups are combined as $^{269}\text{Hs}^{a+b}$ when appropriate.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.4\textwidth]{distributionHs.pdf}
+\caption{Measured $\alpha$-particle energy distribution for events assigned to $^{269}$Hs. Panel (a) shows the full event sample, panel (b) shows the directly produced evaporation-residue sample, and panel (c) shows the events populated through the $\alpha$ decay of $^{273}$Ds. The hatched bar marks the low-energy event observed in the present work at $E_{\alpha} = 8.915\ \text{MeV}$.}
+\label{fig:distributionHs}
+\end{figure}
+
+As shown in Fig.~\ref{fig:distributionHs}, the directly produced $^{269}\text{Hs}$ events are distributed over both the high-energy and low-energy groups. By adopting 9.0 MeV as a practical dividing line, the event numbers in the present grouping correspond to $n(^{269}\text{Hs}^{a+b}):n(^{269}\text{Hs}^{c}) = 11:5$ for the directly produced sample and to $6:1$ for the sample populated through the $\alpha$ decay of $^{273}\text{Ds}$. These ratios are quoted directly from the full event compilation shown in Fig.~\ref{fig:distributionHs}, in which the questionable literature datum is retained for completeness. Within the present statistics, the low-energy group appears to be preferentially connected with the longer-lived branch of $^{273}\text{Ds}$, whereas no convincing example of the cross-population channels $^{273}\text{Ds}^{b} \rightarrow {}^{269}\text{Hs}^{c}$ or $^{273}\text{Ds}^{a} \rightarrow {}^{269}\text{Hs}^{a+b}$ is found. This selectivity suggests that $^{269}\text{Hs}^{c}$ may represent an additional low-lying state in $^{269}\text{Hs}$, although firmer support will require both higher-statistics data and dedicated structure calculations.
 
 \section{Discussion}
-%%\label{}
-The present data reveal two distinct decay patterns in $^{273}$Ds and a correlated change in the population of $^{269}$Hs states. 
-Together with the known multistate structure in $^{265}$Sg and $^{261}$Rf, this behavior suggests configuration-dependent $\alpha$ decay across the odd-$N$ chain around the deformed $N=162$ shell closure,
- and provides new experimental constraints on the single-particle structure in this region.
+
+For clarity, the working assignments adopted in the present work are summarized in Table~\ref{tab:state_summary}. On the basis of the present data, two distinct states are discussed for $^{273}$Ds, denoted as $^{273}$Ds$^{a}$ and $^{273}$Ds$^{b}$. By combining the present results with the data of Oganessian \textit{et al.}~\cite{oganessian2024SynthesisDecayProperties}, three groups are tentatively discussed for $^{269}$Hs, denoted as $^{269}$Hs$^{a}$, $^{269}$Hs$^{b}$, and $^{269}$Hs$^{c}$. At the present stage, the distinction between $^{269}$Hs$^{a}$ and $^{269}$Hs$^{b}$ remains less secure than the separation of $^{269}$Hs$^{c}$, because the statistics are limited and part of the historical data has a modest energy resolution. The present classification should therefore be regarded as a working scheme for discussing the decay pattern and the underlying structure rather than as a definitive level assignment.
+
+\begin{table}[htbp]
+\centering
+\caption{Working assignment of the decay branches discussed in the present work. The labels $a$, $b$, and $c$ are descriptive identifiers used for discussion and do not imply definitive spin-parity assignments.}
+\label{tab:state_summary}
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.08}
+\small
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}p{0.18\columnwidth}p{0.28\columnwidth}p{0.30\columnwidth}p{0.18\columnwidth}@{}}
+\toprule
+State & Characteristic signature & Adopted decay branch & Status \\
+\midrule
+$^{273}\mathrm{Ds}^{b}$ & higher $E_{\alpha}$ and shorter lifetime & $^{273}\mathrm{Ds}^{b} \rightarrow {}^{269}\mathrm{Hs}^{a+b} \rightarrow {}^{265}\mathrm{Sg}^{b} \rightarrow {}^{261}\mathrm{Rf}^{b}$ & supported by present work and literature \\
+$^{273}\mathrm{Ds}^{a}$ & lower $E_{\alpha}$ and longer lifetime & $^{273}\mathrm{Ds}^{a} \rightarrow {}^{269}\mathrm{Hs}^{c} \rightarrow {}^{265}\mathrm{Sg}^{b} \rightarrow {}^{261}\mathrm{Rf}^{b}$ & tentative low-lying or isomeric branch \\
+$^{269}\mathrm{Hs}^{a}$ & $E_{\alpha}$ around 9.20 MeV and longer lifetime & feeds $^{265}\mathrm{Sg}^{b}$ through the high-energy group & historical assignment \\
+$^{269}\mathrm{Hs}^{b}$ & $E_{\alpha}$ around 9.08 MeV and shorter lifetime & feeds $^{265}\mathrm{Sg}^{b}$ through the high-energy group & historical assignment \\
+$^{269}\mathrm{Hs}^{c}$ & $E_{\alpha} = 8.915\ \mathrm{MeV}$ and intermediate lifetime & preferentially linked with $^{273}\mathrm{Ds}^{a}$ in the present scheme & tentative additional low-energy state \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+The most direct result of the present work is the appearance of two distinct decay patterns in $^{273}$Ds. One branch is characterized by a higher $\alpha$-decay energy and a shorter lifetime, whereas the other branch shows a lower $\alpha$-decay energy and a much longer lifetime. When the present chains are considered together with the chain reported in Ref.~\cite{oganessian2024SynthesisDecayProperties}, this separation is difficult to reconcile with a single-state interpretation. At the same time, the decay pattern of $^{269}$Hs is not random. The high-energy and low-energy groups are not populated with the same weight in direct production and in the decay of $^{273}$Ds, and the data do not show obvious cross feeding between the two proposed parent branches and the daughter groups. Such selectivity is naturally suggestive of configuration-dependent $\alpha$ decay.
+
+Accordingly, the branch that starts from the higher $E_{\alpha}$ value and the shorter lifetime of $^{273}\mathrm{Ds}$ is assigned to
+\begin{align*}
+^{273}\text{Ds}^{b} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{a,b} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
+\end{align*}
+The branch that starts from the lower $E_{\alpha}$ value and the longer lifetime of $^{273}\mathrm{Ds}$ is assigned to
+\begin{align*}
+^{273}\text{Ds}^{a} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{c} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
+\end{align*}
+
+A plausible physical interpretation is that the long-lived branch of $^{273}$Ds is associated with a structure different from that of the short-lived branch. In a strongly deformed odd-$N$ nucleus, the $\alpha$-decay rate is controlled not only by $Q_{\alpha}$, but also by the angular-momentum change, the overlap between the initial and final intrinsic configurations, and the corresponding hindrance of $\alpha$ formation and barrier penetration \cite{clark2023RoleQuasiparticleStructure}. A large difference in lifetime between two branches of the same nuclide can therefore arise even when the difference in $Q_{\alpha}$ is modest. In this context, the observed separation between $^{273}$Ds$^{a}$ and $^{273}$Ds$^{b}$ is consistent with the presence of two competing quasineutron configurations, one of which gives rise to a hindered and longer-lived $\alpha$ decay.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=1\textwidth]{System.pdf}
+\caption{Systematics of $Q_{\alpha}$, $T_{1/2}$, and reduced $\alpha$-decay width $\delta^{2}$ for the Ds and Hs isotopic chains. Panels (a)--(c) correspond to Ds isotopes and panels (d)--(f) correspond to Hs isotopes. The upper, middle, and lower rows show $Q_{\alpha}$, $T_{1/2}$, and $\delta^{2}$, respectively, as functions of neutron number. Experimental values are compared with the UNEDF1 and WS4+RBF calculations in the $Q_{\alpha}$ panels and with the URF values in the half-life panels. The filled stars denote the branches assigned in the present work, and the open stars denote the tentative isomeric branches. The vertical dotted lines indicate $N=162$.}
+\label{fig:System}
+\end{figure*}
+
+This interpretation is especially interesting in view of the expected shell structure around the deformed $N = 162$ gap \cite{guoStabilizationDeformedSuperheavy2024}. The nucleus $^{273}$Ds contains one neutron above this gap, whereas $^{269}$Hs corresponds to one neutron hole below it. The decay chain $^{273}$Ds $\rightarrow$ $^{269}$Hs therefore probes the single-particle structure on both sides of the same deformed shell closure. Several theoretical calculations indicate that low-lying high-$\Omega$ neutron configurations may be important in this region. In particular, the unique-parity orbital $\nu 13/2^{-}[716]$ has been predicted to lie close to the Fermi surface, while macroscopic--microscopic calculations for neighboring odd-$N$ transfermium nuclei also place $\nu 11/2^{-}[725]$ among the low-lying candidates \cite{Shi2014,Parkhomenko2005}. Within this picture, the long-lived branch of $^{273}$Ds may be associated with a high-$\Omega$ one-neutron configuration. This possibility is qualitatively consistent with the occurrence of high-$K$ isomerism in the neighboring deformed superheavy region, as discussed for the $^{270}$Ds $\rightarrow$ $^{266}$Hs decay sequence \cite{xuEnhancedStabilitySuperheavy2004}. At present, however, the available data do not allow a unique spin-parity or Nilsson-orbital assignment, and several interpretations remain possible.
+
+Within the same framework, the decay selectivity observed in the daughter nucleus $^{269}$Hs also acquires a natural interpretation. If $^{273}$Ds$^{a}$ and $^{273}$Ds$^{b}$ correspond to different intrinsic configurations, favored $\alpha$ decay is expected to populate daughter states with similar structure. The proposed $^{269}$Hs$^{c}$ group, which appears in the low-energy branch and is preferentially associated with $^{273}$Ds$^{a}$, may therefore reflect a corresponding low-lying configuration in the daughter nucleus. By contrast, the higher-energy groups $^{269}$Hs$^{a}$ and $^{269}$Hs$^{b}$ may be associated with the decay of $^{273}$Ds$^{b}$. In this sense, the present data may indicate not only a possible isomeric structure in $^{273}$Ds, but also a correlated multistate structure in $^{269}$Hs. It should nevertheless be emphasized that the present evidence for three distinct groups in $^{269}$Hs remains tentative, and the possibility that part of the observed pattern reflects unresolved subgroups cannot yet be excluded.
+
+Additional support for this picture is provided by the isotopic systematics. As shown in Fig.~\ref{fig:System}, the evolution of $Q_{\alpha}$, half-life, and reduced $\alpha$-decay width along the Ds and Hs isotopic chains gives a broader context for the present assignments. In a simple single-configuration picture, these observables are expected to change rather smoothly with neutron number. A local separation of branches, especially when it appears simultaneously in decay energy, lifetime, and reduced width, is more naturally interpreted as a signature of a structural change than as a statistical fluctuation. In the present case, the long-lived branch of $^{273}$Ds and the low-energy branch of $^{269}$Hs deviate from the local trends and therefore strengthen the interpretation in terms of different underlying configurations. At the same time, the reduced width in this strongly deformed superheavy region is model dependent, because deformation, angular-momentum change, and structure effects all enter its extraction. For this reason, the reduced width should not be regarded as a standalone proof of isomerism in the present work. Its main value is comparative: when it is evaluated consistently within the same prescription, it provides an additional indicator that the proposed branches are structurally different.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.5\textwidth]{exFun.pdf}
+\caption{Measured cross section and upper limits for the $^{40}$Ar + $^{238}$U $\rightarrow$ $^{278}$Ds$^{*}$ reaction. The curves show the calculated excitation functions for the $4n$ and $5n$ channels leading to $^{274}$Ds and $^{273}$Ds, respectively. The lower horizontal axis gives the laboratory beam energy, and the upper axis gives the corresponding average excitation energy of the compound nucleus. The arrow marked $V_{\mathrm{BASS}}$ indicates the Coulomb barrier estimated with the BASS prescription.}
+\label{fig:exFun}
+\end{figure}
+
+The excitation-function information provides an additional consistency check for the present interpretation. As shown in Fig.~\ref{fig:exFun}, the measured cross section at the present beam energy is broadly consistent with the calculated expectation that the $5n$ channel dominates near this energy. This agreement supports the assignment of the observed chains to $^{273}$Ds produced in the $^{238}$U($^{40}$Ar, $5n$)$^{273}$Ds reaction rather than to neighboring evaporation channels. Although the excitation function does not by itself distinguish between different intrinsic states, it shows that the long-lived and short-lived branches emerge within the same reaction framework. This point strengthens the conclusion that the difference between the two branches is more likely to be structural than to originate from different reaction channels.
 
 \section{Summary and conclusions}
-%%\label{}
-\lipsum[1-4]
 
+A beam-energy scan of the $^{238}$U($^{40}$Ar, $4n$--$5n$)$^{274,273}$Ds reaction was performed at SHANS-2. No correlated decay chain attributable to $^{273}$Ds was identified at excitation energies of 42 and 45 MeV, and upper limits of 0.34 and 1.09 pb were obtained. At 50 MeV, two complete decay chains of $^{273}$Ds were observed, and the extracted cross section of $0.14^{+0.18}_{-0.08}$ pb agrees with the value reported previously for the same reaction at DGFRS-2.
+
+One of the observed chains follows the known high-energy, short-lived branch of $^{273}$Ds, whereas the other reveals a lower-energy, longer-lived branch. When the present data are combined with the literature results, the evidence supports the existence of two distinct decay branches in $^{273}$Ds, and the lower-energy branch is naturally interpreted as a candidate low-lying or isomeric state.
+
+The daughter nucleus $^{269}$Hs shows a nonuniform population pattern. In addition to the previously recognized high-energy groups, the present work identifies a low-energy event at 8.915 MeV that is preferentially connected with the longer-lived branch of $^{273}$Ds. Although the present statistics remain limited, this behavior is compatible with the presence of an additional low-lying state in $^{269}$Hs.
+
+The isotopic systematics of $Q_{\alpha}$, $T_{1/2}$, and reduced $\alpha$-decay width in the Ds and Hs chains provide further support for a structural change near $N = 162$. The overall picture is consistent with configuration-dependent $\alpha$ decay in odd-$N$ transfermium nuclei and provides new constraints on the ordering of low-lying quasineutron orbitals around the deformed $N = 162$ shell gap. More decisive conclusions will require higher-statistics direct-production measurements and dedicated structure calculations.
 
 \section*{Acknowledgements}
-Thanks to ...
 
-%% The Appendices part is started with the command \appendix;
-%% appendix sections are then done as normal sections
-\appendix
+The author thanks the operating staff of CAFE2 and SHANS-2 for stable beam delivery and technical support.
 
-\section{Appendix title 1}
-%% \label{}
-
-\section{Appendix title 2}
-%% \label{}
-
-%% If you have bibdatabase file and want bibtex to generate the
-%% bibitems, please use
-%%
 \bibliographystyle{elsarticle-num}
 \bibliography{example}
 
-%% else use the following coding to input the bibitems directly in the
-%% TeX file.
-
-%%\begin{thebibliography}{00}
-
-%% \bibitem[Author(year)]{label}
-%% For example:
-
-%% \bibitem[Aladro et al.(2015)]{Aladro15} Aladro, R., Martín, S., Riquelme, D., et al. 2015, \aas, 579, A101
-
-
-%%\end{thebibliography}
-
 \end{document}
-
-\endinput
-%%
-%% End of file `elsarticle-template-harv.tex'.

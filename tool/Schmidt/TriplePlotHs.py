@@ -214,6 +214,6 @@ plt.subplots_adjust(left=0.15, right=0.95, top=0.95, bottom=0.08)
 # dpi=300: 分辨率 (300是出版级标准)
 # bbox_inches='tight': 自动裁剪掉多余的白边
 plt.savefig('HsData_WithEvents.pdf', dpi=300, bbox_inches='tight')
-
+plt.savefig('HsData_WithEvents.png', dpi=600, bbox_inches='tight')
 # show: 在屏幕上显示出来
 plt.show()

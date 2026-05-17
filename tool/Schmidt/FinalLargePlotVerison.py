@@ -307,6 +307,6 @@ fig.text(0.97, 0.5, 'Counts', va='center', rotation='vertical',
          fontsize=FONT_SIZE_GLOBAL, fontweight=FONT_WEIGHT)
 
 plt.subplots_adjust(left=0.12, right=0.95, top=0.95, bottom=0.05, hspace=0, wspace=0)
-
+plt.savefig('combined_plot_log10_axis_rf_fixed.png', dpi=600, bbox_inches='tight')
 plt.savefig('combined_plot_log10_axis_rf_fixed.pdf', dpi=300, bbox_inches='tight')
 plt.show()
