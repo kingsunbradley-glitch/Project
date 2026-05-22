@@ -129,7 +129,7 @@ def plot_half_life(ax, df, show_ylabel=True, legend=True):
 
     annotate_shell(ax, mode='log')
     if show_ylabel:
-        ax.set_ylabel(r'$T_{1/2}$ (s)')
+        ax.set_ylabel(r'$T_{1/2}$ (ms)')
     if legend:
         ax.legend(loc='lower right', frameon=False)
     ax.yaxis.set_minor_locator(ticker.LogLocator(base=10.0, subs=np.arange(2, 10) * 0.1))

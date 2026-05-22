@@ -373,7 +373,7 @@ def half_life_panel(ax, df, style, special=None, side='left', show_legend=True, 
     if ylim is not None:
         ax.set_ylim(*ylim)
 
-    ax.set_ylabel(r'$T_{1/2}$ (s)', fontweight='bold')
+    ax.set_ylabel(r'$T_{1/2}$ (ms)', fontweight='bold')
     ax.yaxis.set_minor_locator(ticker.LogLocator(base=10.0, subs=np.arange(2, 10) * 0.1))
     set_axis_side(ax, side)
     annotate_shell(ax, mode='log', text_pos=shell_pos)

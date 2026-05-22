@@ -14,14 +14,9 @@ int main()
 			   std::cout << "b("<<b<<" )is bigger than a(" << a << ")" << std::endl;
 			   std::cout << "swapping..." << std::endl;
 			
-			   a = (b+a)/2; // a now holds the sum of a and b
-			   std::cout << "a: " << a << ", b: " << b << std::endl;
-			   b = (a-b);
-			   std::cout << "a: " << a << ", b: " << b << std::endl;
-			   a = a+b; // a now holds the original value of b
-			   std::cout << "a: " << a << ", b: " << b << std::endl;
-			   b = 2*a+b; // b now holds the original value of a
-			   std::cout << "a: " << a << ", b: " << b << std::endl;
+			  a = a + b;  // a 变为和
+	b = a - b;  // b 变为原 a
+	a = a - b;  // a 变为原 b
 
 	}
     return 0;
