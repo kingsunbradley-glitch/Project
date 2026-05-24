@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Half-life by nuclide</title>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<style>
+  body {
+    margin: 0;
+    background: #f3f4f6;
+    color: #111827;
+    font-family: "Times New Roman", "STIXGeneral", "DejaVu Serif", serif;
+  }
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(720px, 1fr) 280px;
+    gap: 16px;
+    min-height: 100vh;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+  .plot-wrap,
+  .controller {
+    background: #ffffff;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+  }
+  .plot-wrap {
+    min-width: 0;
+  }
+  #plot {
+    width: 100%;
+    height: calc(100vh - 34px);
+    min-height: 620px;
+  }
+  .controller {
+    max-height: calc(100vh - 34px);
+    overflow: auto;
+    padding: 12px;
+    box-sizing: border-box;
+  }
+  .controller-title {
+    margin: 0 0 10px;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .actions {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  button {
+    font: inherit;
+    cursor: pointer;
+  }
+  .action {
+    border: 1px solid #9ca3af;
+    border-radius: 4px;
+    background: #ffffff;
+    padding: 4px 9px;
+  }
+  .element-button {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 6px 0;
+    border: 1px solid #d1d5db;
+    border-left-width: 5px;
+    border-radius: 4px;
+    background: #ffffff;
+    padding: 7px 9px;
+    text-align: left;
+  }
+  .element-button.active {
+    background: #f3f4f6;
+    border-color: #6b7280;
+    font-weight: 700;
+  }
+  .element-meta {
+    color: #6b7280;
+    font-size: 12px;
+  }
+  @media (max-width: 980px) {
+    .layout {
+      grid-template-columns: 1fr;
+    }
+    #plot {
+      height: 620px;
+    }
+  }
+</style>
+</head>
+<body>
+<main class="layout">
+  <section class="plot-wrap">
+    <div id="plot"></div>
+  </section>
+  <aside class="controller">
+    <p class="controller-title">Element visibility</p>
+    <div class="actions">
+      <button class="action" type="button" id="hide-all">Hide all</button>
+      <button class="action" type="button" id="show-all">Show all</button>
+    </div>
+    <div id="element-list"></div>
+  </aside>
+</main>
+<script>
+const markerTraces = [{"type": "scatter", "mode": "markers", "name": "Rg", "x": [161.0, 163.0, 167.0, 168.0, 169.0, 170.0, 171.0], "y": [3.8, 12.0, 4.6, 90.0, 3900.0, 11000.0, 510.0], "customdata": [["272Rg_161", "272Rg"], ["274Rg_163", "274Rg"], ["278Rg_167", "278Rg"], ["279Rg_168", "279Rg"], ["280Rg_169", "280Rg"], ["281Rg_170", "281Rg"], ["282Rg_171", "282Rg"]], "hovertemplate": "%{customdata[1]}<br>N=%{x}<br>T<sub>1/2</sub>=%{y:.4g} ms<extra></extra>", "marker": {"color": "#D62728", "symbol": "circle", "size": 10, "line": {"color": "#D62728", "width": 1.2}}, "error_y": {"type": "data", "symmetric": false, "array": [1.4, 17.0, 5.5, 60.0, 300.0, 3000.0, 470.0], "arrayminus": [0.8, 5.0, 1.6, 25.0, 300.0, 1000.0, 200.0], "color": "#D62728", "thickness": 1.4, "width": 4, "visible": true}}, {"type": "scatter", "mode": "markers", "name": "Ds", "x": [157.0, 159.0, 160.0, 161.0, 163.0, 165.0, 166.0, 167.0, 169.0, 171.0], "y": [0.003, 0.17, 0.2, 1.63, 0.17, 0.43, 0.15, 3.5, 186.0, 13000.0], "customdata": [["267Ds_157", "267Ds"], ["269Ds_159", "269Ds"], ["270Ds_160", "270Ds"], ["271Ds_161", "271Ds"], ["273Ds_163", "273Ds"], ["275Ds_165", "275Ds"], ["276Ds_166", "276Ds"], ["277Ds_167", "277Ds"], ["279Ds_169", "279Ds"], ["281Ds_171", "281Ds"]], "hovertemplate": "%{customdata[1]}<br>N=%{x}<br>T<sub>1/2</sub>=%{y:.4g} ms<extra></extra>", "marker": {"color": "#1F77B4", "symbol": "square", "size": 10, "line": {"color": "#1F77B4", "width": 1.2}}, "error_y": {"type": "data", "symmetric": false, "array": [0.013, 0.16, 0.07, 0.44, 0.17, 0.29, 0.1, 2.1, 21.0, 4500.0], "arrayminus": [0.001, 0.06, 0.04, 0.32, 0.06, 0.12, 0.04, 0.9, 17.0, 2700.0], "color": "#1F77B4", "thickness": 1.4, "width": 4, "visible": true}}, {"type": "scatter", "mode": "markers", "name": "Ds^m", "x": [163.0], "y": [17.34], "customdata": [["273Ds^m_163", "273Ds^m"]], "hovertemplate": "%{customdata[1]}<br>N=%{x}<br>T<sub>1/2</sub>=%{y:.4g} ms<extra></extra>", "marker": {"color": "#17BECF", "symbol": "star", "size": 10, "line": {"color": "#17BECF", "width": 1.2}}, "error_y": {"type": "data", "symmetric": false, "array": [31.55], "arrayminus": [6.83], "color": "#17BECF", "thickness": 1.4, "width": 4, "visible": true}}, {"type": "scatter", "mode": "markers", "name": "Mt", "x": [157.0, 159.0, 161.0, 165.0, 166.0, 167.0, 169.0], "y": [1.7, 21.0, 480.0, 640.0, 20.0, 620.0, 4500.0], "customdata": [["266Mt_157", "266Mt"], ["268Mt_159", "268Mt"], ["270Mt_161", "270Mt"], ["274Mt_165", "274Mt"], ["275Mt_166", "275Mt"], ["276Mt_167", "276Mt"], ["278Mt_169", "278Mt"]], "hovertemplate": "%{customdata[1]}<br>N=%{x}<br>T<sub>1/2</sub>=%{y:.4g} ms<extra></extra>", "marker": {"color": "#2CA02C", "symbol": "triangle-up", "size": 10, "line": {"color": "#2CA02C", "width": 1.2}}, "error_y": {"type": "data", "symmetric": false, "array": [0.6, 8.0, 660.0, 760.0, 13.0, 60.0, 3500.0], "arrayminus": [0.4, 5.0, 180.0, 230.0, 6.0, 40.0, 1300.0], "color": "#2CA02C", "thickness": 1.4, "width": 4, "visible": true}}, {"type": "scatter", "mode": "markers", "name": "Hs", "x": [155.0, 156.0, 157.0, 158.0, 159.0, 160.0, 161.0, 162.0, 163.0, 164.0, 165.0, 167.0], "y": [0.74, 0.63, 1.9, 2.97, 53.0, 380.0, 9660.0, 7600.0, 7100.0, 160.0, 510.0, 150.0], "customdata": [["263Hs_155", "263Hs"], ["264Hs_156", "264Hs"], ["265Hs_157", "265Hs"], ["266Hs_158", "266Hs"], ["267Hs_159", "267Hs"], ["268Hs_160", "268Hs"], ["269Hs_161", "269Hs"], ["270Hs_162", "270Hs"], ["271Hs_163", "271Hs"], ["272Hs_164", "272Hs"], ["273Hs_165", "273Hs"], ["275Hs_167", "275Hs"]], "hovertemplate": "%{customdata[1]}<br>N=%{x}<br>T<sub>1/2</sub>=%{y:.4g} ms<extra></extra>", "marker": {"color": "#9467BD", "symbol": "diamond", "size": 10, "line": {"color": "#9467BD", "width": 1.2}}, "error_y": {"type": "data", "symmetric": false, "array": [0.48, 0.34, 0.2, 0.78, 12.0, 180.0, 4410.0, 4900.0, 8400.0, 190.0, 30.0, 270.0], "arrayminus": [0.21, 0.16, 0.1, 0.51, 8.0, 130.0, 2740.0, 2200.0, 2500.0, 60.0, 130.0, 60.0], "color": "#9467BD", "thickness": 1.4, "width": 4, "visible": true}}, {"type": "scatter", "mode": "markers", "name": "Bh", "x": [153.0, 154.0, 155.0, 157.0, 158.0, 159.0, 160.0, 163.0, 164.0, 165.0, 167.0], "y": [35.0, 11.8, 102.0, 440.0, 940.0, 10000.0, 14000.0, 144000.0, 2900.0, 8800.0, 44000.0], "customdata": [["260Bh_153", "260Bh"], ["261Bh_154", "261Bh"], ["262Bh_155", "262Bh"], ["264Bh_157", "264Bh"], ["265Bh_158", "265Bh"], ["266Bh_159", "266Bh"], ["267Bh_160", "267Bh"], ["270Bh_163", "270Bh"], ["271Bh_164", "271Bh"], ["272Bh_165", "272Bh"], ["274Bh_167", "274Bh"]], "hovertemplate": "%{customdata[1]}<br>N=%{x}<br>T<sub>1/2</sub>=%{y:.4g} ms<extra></extra>", "marker": {"color": "#FF7F0E", "symbol": "triangle-down", "size": 10, "line": {"color": "#FF7F0E", "width": 1.2}}, "error_y": {"type": "data", "symmetric": false, "array": [19.0, 5.3, 26.0, 600.0, 420.0, 2600.0, 6000.0, 264000.0, 2200.0, 700.0, 34000.0], "arrayminus": [9.0, 2.8, 15.0, 160.0, 210.0, 1700.0, 3000.0, 54000.0, 900.0, 700.0, 13000.0], "color": "#FF7F0E", "thickness": 1.4, "width": 4, "visible": true}}, {"type": "scatter", "mode": "markers", "name": "Sg", "x": [151.0, 153.0, 154.0, 155.0, 156.0, 157.0, 161.0, 163.0, 165.0], "y": [12.6, 402.0, 4.95, 183.0, 8.5, 940.0, 588000.0, 186000.0, 31000.0], "customdata": [["257Sg_151", "257Sg"], ["259Sg_153", "259Sg"], ["260Sg_154", "260Sg"], ["261Sg_155", "261Sg"], ["262Sg_156", "262Sg"], ["263Sg_157", "263Sg"], ["267Sg_161", "267Sg"], ["269Sg_163", "269Sg"], ["271Sg_165", "271Sg"]], "hovertemplate": "%{customdata[1]}<br>N=%{x}<br>T<sub>1/2</sub>=%{y:.4g} ms<extra></extra>", "marker": {"color": "#8C564B", "symbol": "cross", "size": 10, "line": {"color": "#8C564B", "width": 1.2}}, "error_y": {"type": "data", "symmetric": false, "array": [3.7, 56.0, 0.33, 5.0, 3.8, 140.0, 55000.0, 100000.0, 13000.0], "arrayminus": [2.3, 56.0, 0.33, 5.0, 1.8, 140.0, 24000.0, 40000.0, 7000.0], "color": "#8C564B", "thickness": 1.4, "width": 4, "visible": true}}];
+const elementCounts = {"Rg": 7, "Ds": 10, "Ds^m": 1, "Mt": 7, "Hs": 12, "Bh": 11, "Sg": 9};
+const styles = {"Rg": {"color": "#D62728"}, "Ds": {"color": "#1F77B4"}, "Ds^m": {"color": "#17BECF"}, "Mt": {"color": "#2CA02C"}, "Hs": {"color": "#9467BD"}, "Bh": {"color": "#FF7F0E"}, "Sg": {"color": "#8C564B"}};
+const elementOrder = ["Rg", "Ds", "Ds^m", "Mt", "Hs", "Bh", "Sg"];
+const layout = {"template": "plotly_white", "margin": {"l": 88, "r": 28, "t": 26, "b": 78}, "font": {"family": "Times New Roman, STIXGeneral, DejaVu Serif, serif", "size": 16}, "xaxis": {"title": {"text": "Neutron number <i>N</i>", "font": {"size": 24}}, "range": [150, 173], "dtick": 2, "ticks": "inside", "mirror": "ticks", "showline": true, "linecolor": "#000000", "linewidth": 1.6, "showgrid": false, "zeroline": false}, "yaxis": {"title": {"text": "<i>T</i><sub>1/2</sub> (ms)", "font": {"size": 24}}, "type": "log", "range": [-4.0, 7.0], "ticks": "inside", "mirror": "ticks", "showline": true, "linecolor": "#000000", "linewidth": 1.6, "showgrid": false, "zeroline": false}, "legend": {"x": 0.82, "y": 0.08, "xanchor": "left", "yanchor": "bottom", "bgcolor": "rgba(255,255,255,0)", "borderwidth": 0, "orientation": "v", "font": {"size": 16}}, "shapes": [{"type": "line", "xref": "x", "yref": "paper", "x0": 162, "x1": 162, "y0": 0, "y1": 1, "line": {"color": "#7f7f7f", "width": 1.5, "dash": "dot"}}], "annotations": [{"x": 162.25, "y": 0.0044668359215096305, "xref": "x", "yref": "y", "text": "<i>N</i>=162", "showarrow": false, "font": {"size": 18, "color": "#000000"}, "xanchor": "left"}]};
+const config = {responsive: true, displaylogo: false};
+const activeElements = new Set(elementOrder);
+const buttonsByElement = new Map();
+const traceByElement = new Map(markerTraces.map((trace, index) => [trace.name, index]));
+
+Plotly.newPlot("plot", markerTraces, layout, config).then(() => {
+  buildController();
+  document.getElementById("plot").on("plotly_legendclick", event => {
+    const trace = markerTraces[event.curveNumber];
+    if (!trace) return false;
+    toggleElement(trace.name);
+    return false;
+  });
+});
+
+function setElement(element, visible) {
+  const traceIndex = traceByElement.get(element);
+  if (traceIndex === undefined) return;
+  Plotly.restyle("plot", {visible: visible}, [traceIndex]);
+  const button = buttonsByElement.get(element);
+  if (visible) {
+    activeElements.add(element);
+    if (button) button.classList.add("active");
+  } else {
+    activeElements.delete(element);
+    if (button) button.classList.remove("active");
+  }
+}
+
+function toggleElement(element) {
+  setElement(element, !activeElements.has(element));
+}
+
+function buildController() {
+  const host = document.getElementById("element-list");
+  elementOrder.forEach(element => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "element-button active";
+    button.style.borderLeftColor = styles[element].color;
+    button.innerHTML = `<span>${element}</span><span class="element-meta">${elementCounts[element] || 0} points</span>`;
+    button.addEventListener("click", () => toggleElement(element));
+    buttonsByElement.set(element, button);
+    host.appendChild(button);
+  });
+
+  document.getElementById("hide-all").addEventListener("click", () => {
+    elementOrder.forEach(element => setElement(element, false));
+  });
+  document.getElementById("show-all").addEventListener("click", () => {
+    elementOrder.forEach(element => setElement(element, true));
+  });
+}
+</script>
+</body>
+</html>
