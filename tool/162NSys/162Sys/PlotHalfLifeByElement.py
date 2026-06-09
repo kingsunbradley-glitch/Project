@@ -1,3 +1,8 @@
+'''
+py -m http.server 8000
+'''
+
+
 import argparse
 import json
 import os
