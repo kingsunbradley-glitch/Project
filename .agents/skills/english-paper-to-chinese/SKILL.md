@@ -253,6 +253,33 @@ Translate as:
 
 \section{\texorpdfstring{$^{273}\mathrm{Ds}$}{273Ds} 的衰变性质}
 
+## Formula formatting preference
+
+When translating an English academic paper into Chinese Markdown, preserve all mathematical expressions and isotope notation accurately.
+
+Use Markdown math environments only when necessary:
+
+- Use inline math `$...$` for short symbols, variables, isotope notation, and formulas embedded in a sentence.
+  Examples: `$Q_{\alpha}$`, `$T_{1/2}$`, `$^{270}\mathrm{Ds}$`, `$K^\pi=10^{-}$`.
+
+- Use display math `$$...$$` for standalone equations, multi-term formulas, or expressions that are important enough to occupy their own line.
+
+- Do not overuse display math. If a symbol or short formula appears naturally in prose, keep it inline.
+
+- Preserve the original equation content. Do not translate variable names, change subscripts/superscripts, or alter equation numbering.
+
+- If the source text contains malformed or line-broken equations from PDF extraction, reconstruct the equation carefully in standard LaTeX math syntax when the meaning is clear.
+
+Preferred examples:
+
+Inline:
+该高K同核异能态的组态可写为 `$K^\pi=10^{-}$`。
+
+Display:
+$$
+t_{1/2}=2.77\times10^{-21}\exp\left[\frac{2\pi B_f}{\hbar\omega}\right]
+$$
+
 ## Markdown handling
 
 If translating Markdown:

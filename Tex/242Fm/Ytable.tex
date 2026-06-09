@@ -1,0 +1,261 @@
+%% ****** Start of file apstemplate.tex ****** %
+%%
+%%
+%%   This file is part of the APS files in the REVTeX 4.2 distribution.
+%%   Version 4.2a of REVTeX, January, 2015
+%%
+%%
+%%   Copyright (c) 2015 The American Physical Society.
+%%
+%%   See the REVTeX 4 README file for restrictions and more information.
+%%
+%
+% This is a template for producing manuscripts for use with REVTEX 4.2
+% Copy this file to another name and then work on that file.
+% That way, you always have this original template file to use.
+%
+% Group addresses by affiliation; use superscriptaddress for long
+% author lists, or if there are many overlapping affiliations.
+% For Phys. Rev. appearance, change preprint to twocolumn.
+% Choose pra, prb, prc, prd, pre, prl, prstab, prstper, or rmp for journal
+%  Add 'draft' option to mark overfull boxes with black boxes
+%  Add 'showkeys' option to make keywords appear
+%\documentclass[aps,prl,preprint,groupedaddress]{revtex4-2}
+%\documentclass[aps,prl,preprint,superscriptaddress]{revtex4-2}
+%\documentclass[aps,prl,reprint,groupedaddress]{revtex4-2}
+\documentclass[amsmath, amssymb, aps, prl, reprint, superscriptaddress]{revtex4-2}
+
+\usepackage{graphicx} % Include figure files
+\usepackage{dcolumn} % Align table columns on decimal point
+\usepackage{bm} % bold math
+\usepackage{CJK}
+\usepackage{url}
+\usepackage{color,hyperref}%%%lv
+\usepackage{lineno}
+\modulolinenumbers[5]
+\usepackage{multirow,booktabs}
+\usepackage{makecell}
+%\usepackage{fourier}
+%\usepackage{booktabs}
+%\usepackage{threeparttable}
+\usepackage{longtable}
+
+\hypersetup{colorlinks,breaklinks,linkcolor=blue,urlcolor=blue,anchorcolor=blue,citecolor=blue}%%%lv
+
+% You should use BibTeX and apsrev.bst for references
+% Choosing a journal automatically selects the correct APS
+% BibTeX style file (bst file), so only uncomment the line
+% below if necessary.
+%\bibliographystyle{apsrev4-2}
+
+\begin{document}
+% Use the \preprint command to place your local institutional report
+% number in the upper righthand corner of the title page in preprint mode.
+% Multiple \preprint commands are allowed.
+% Use the 'preprintnumbers' class option to override journal defaults
+% to display numbers if necessary
+%\preprint{}
+%\begin{CJK*}{UTF8}{} % Use default fonts from CJK (see below)
+
+%Title of paper
+\title{Supplemental Material}
+
+% repeat the \author .. \affiliation  etc. as needed
+% \email, \thanks, \homepage, \altaffiliation all apply to the current
+% author. Explanatory text should go in the []'s, actual e-mail
+% address or url should go in the {}'s for \email and \homepage.
+% Please use the appropriate macro foreach each type of information
+% \affiliation command applies to all authors since the last
+% \affiliation command. The \affiliation command should follow the
+% other information
+% \affiliation can be followed by \email, \homepage, \thanks as well.
+
+
+%\date{\today}
+
+%\begin{abstract}
+
+%\end{abstract}
+
+
+
+\setlength{\tabcolsep}{8pt}
+\setlength{\LTcapwidth}{0.8\textwidth}
+\begin{longtable*}{cllllll}
+\caption{The observed decay chains attributed to $^{259}$Bh (No. $1-32$) and  $^{259}$Bh (No. $33-36$). Laboratory-frame beam energy $E_{\textrm{lab}}$ in the middle of the target layer, the DSSD strip numbers in $X$ and $Y$, energy of the implanted recoil, $\alpha$-particle or spontaneous fission (SF) energies $E$, and correlation times $\Delta T$ are listed for each chain.} 
+\label{table1} \\
+\hline
+Chain no.& $E_{\textrm{lab}}$~(MeV) & $X$ strip & $Y$ strip & Type & $E$~(MeV)& $\Delta T$~(ms) \\
+\hline
+\endfirsthead
+
+\hline
+Chain no.& $E_{\textrm{lab}}$~(MeV) & $X$ strip & $Y$ strip & Type & $E$~(MeV)& $\Delta T$~(ms) \\
+\hline
+\endhead
+
+%\hline
+%\endfoot
+
+1& 259.9  &121 & 19 & ER                           & 16.84                        & 0 \\
+  &         &       &      & SF($^{259}$Bh)      & 186.2(176.1+10.07)\textsuperscript{a}   & 67.524 \\
+\hline
+2& 259.9  &10  & 47 & ER                          & 6.560                        & 0 \\
+  &        &       &     & SF($^{259}$Bh)      & 185.7                        & 191.01 \\
+\hline
+3& 259.9  &$83\&84$  & 41 & ER               & 13.65                        & 0 \\
+ &         &                   &      &SF($^{259}$Bh)   & 172.89               & 36.994 \\
+\hline
+4& 259.9  & $76\&75$  & 41 & ER           & 16.30               & 0 \\
+ &     &        &    & SF($^{259}$Bh)     & 179.3               & 8.336 \\
+\hline
+5& 259.9  & 6    & 31 & ER                & 24.92               & 0 \\
+  &     &          &    & SF($^{259}$Bh)   & 200.4               & 198.60 \\
+\hline
+6& 259.9  & 110  & 18 & ER                & 16.11               & 0 \\
+  &     &          &    & SF($^{259}$Bh)   & 185.3               & 29.182 \\ 
+\hline
+7& 259.9  & 80   & 23 & ER                & 16.00               & 0 \\
+  &     &       &    & SF($^{259}$Bh)   & 200.1               & 63.876 \\
+\hline
+8& 273.2  & 45   & $12\&13$ & ER                & 10.75               & 0 \\
+  &     &         &    & SF($^{259}$Bh)   & 200.7($199.2\&1.470$)  & 322.72\\
+\hline
+9& 273.2 & 118  & 27 & ER                & 15.11               & 0 \\
+  &     &          &    & SF($^{259}$Bh)   & 187.8(143.9+43.93)  & 98.996\\ 
+\hline
+10& 251.7  & 30 & 20 & ER                     & 16.92               & 0 \\
+  &     &        &    & $\alpha$($^{259}$Bh)   & 0.289& 60.430 \\
+  &     &       &    & SF($^{255}$Db)         & 175.1(168.8+6.322)  & 12.109 \\
+\hline
+11& 259.9 & 31 & 14 & ER                      & 15.64               & 0 \\
+ &     &        &     & $\alpha$($^{259}$Bh)   & 9.702               & 72.686 \\
+ &     &        &     & SF($^{255}$Db)         & 182.3               & 18.851 \\
+\hline
+12& 259.9  & 19 & 7  & ER                      & 16.21               & 0 \\
+ &     &        &    & $\alpha$($^{259}$Bh)    & 9.909(0.736+9.173)  & 10.009 \\
+ &     &        &    & SF($^{255}$Db)          & 174.1(151.2+22.85)  & 9.5525 \\
+\hline
+13& 259.9  &$22\&23$  & 32 & ER                & 14.20              & 0 \\
+ &     &        &    & $\alpha$($^{259}$Bh)    & 9.925               & 86.055 \\
+ &     &        &    & SF($^{255}$Db)          & 197.1(155.9+41.23)       & 0.9768 \\
+\hline
+14& 259.9  & 73  & 29 & ER                     & 18.01               & 0 \\
+ &     &         &    & $\alpha$($^{259}$Bh)   & 9.757(3.424+6.333)  & 232.61 \\
+ &     &         &    & SF($^{255}$Db)         & 182.9               & 1.5713 \\
+\hline
+15& 259.9 & 89  & 30 & ER                    & 17.32               & 0 \\
+  &     &         &    & $\alpha$($^{259}$Bh)  & 9.654               & 95.460 \\
+  &     &         &    & SF($^{255}$Db)        & 187.8               & 6.8390 \\
+\hline
+16& 259.9  & 75  & 26 & ER                    & 16.13               & 0 \\
+  &     &         &    & $\alpha$($^{259}$Bh)  & 9.781               & 72.164 \\
+  &     &         &    & SF($^{255}$Db)        & 180.6(153.9+26.72)  & 5.2364 \\
+\hline
+17& 259.9  & 61  & 33 & ER                    & 16.44               & 0 \\
+  &     &         &    & $\alpha$($^{259}$Bh)  & 9.903(1.077+8.826)  & 20.076 \\
+  &     &        &    & SF($^{255}$Db)        & 173.3               & 0.5864 \\
+\hline
+18& 259.9  & 125  & 17 & ER                   & 18.58               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 2.471               & 7.4508 \\
+  &     &          &    & SF($^{255}$Db)       & 164.2               & 5.7013 \\
+\hline
+19& 259.9  & 24   & 35 & ER                   & 16.85               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.924               & 83.951 \\
+  &     &          &    & SF($^{255}$Db)       & 180.6(171.4+9.195)  & 11.739 \\
+\hline
+20& 259.9  & 107  & 7 & ER                    & 15.48               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.940               & 47.622 \\
+  &     &        &    & SF($^{255}$Db)       & 168.8               & 3.6894 \\
+\hline
+21& 259.9  & 75  & 7 & ER                     & 10.56               & 0  \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.792               & 41.388 \\
+  &     &          &    & $\alpha$($^{255}$Db) & 9.320(0.626+8.693)  & 9.2157 \\
+  &     &          &    & SF($^{251}$Lr)       & 178.0(142.7+35.27)  & 0.1544 \\
+\hline
+22& 259.9 & 65   & 16 & ER                   & 15.96               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.782(0.584+9.198)  & 80.604 \\
+  &     &          &    & $\alpha$($^{255}$Db) & 9.403(1.204+8.199)  & 9.8906 \\
+  &     &          &    & SF($^{251}$Lr)            & 173.2                          & 0.0073 \\
+\hline
+23& 259.9  & 20   & 21 & ER                   & 12.84               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.940               & 165.97 \\
+  &     &          &    & SF($^{255}$Db)       & 163.5               & 7.5544 \\
+\hline
+24& 259.9  & 61   & 28 & ER                   & 15.18               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.766               & 13.464 \\
+  &     &         &    & SF($^{255}$Db)       & 184.6(156.2+28.41)  & 4.1286 \\
+\hline
+25& 259.9  & 104  & 25 & ER                   & 11.30               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.776               & 67.440 \\
+  &     &          &    & SF($^{255}$Db)       & 156.1(146.4+9.780)  & 10.635 \\
+\hline
+26& 259.9  & $71\&70$  & 39 & ER              & 16.50               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.964               & 31.798 \\
+  &     &          &    & SF($^{255}$Db)       & 166.9               & 3.0493 \\
+\hline
+27& 259.9 & 117  & 16 & ER                   & 15.27               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.800(1.877+7.924)  & 131.93 \\
+  &     &         &    & SF($^{255}$Db)       & 173.2               & 14.346 \\
+\hline
+28& 259.9  & 121  & 30 & ER                   & 16.65               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.736(2.255+7.481)  & 4.8053 \\
+  &     &         &    & SF($^{255}$Db)       & 171.3(163.1+8.218)  & 7.2060 \\
+\hline
+29& 259.9  & 5    & 18 & ER                   & 15.71               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.766(0.869+8.897)  & 90.475 \\
+  &     &          &    & SF($^{255}$Db)       & 192.0(187.0+5.013)  & 16.267 \\
+\hline
+30& 259.9  & 120  & 13 & ER                   & 17.61               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.803               & 63.931 \\
+  &     &          &    & SF($^{255}$Db)       & 198.0               & 0.5160 \\
+\hline
+31& 259.9  & 36   & 32 & ER                   & 16.39               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.927               & 73.194 \\
+  &     &          &    & SF($^{255}$Db)       & 162.2(154.7+7.452)  & 9.3529 \\
+\hline
+32& 273.2  & 84  & 30 & ER                    & 14.36               & 0 \\
+  &     &          &    & $\alpha$($^{259}$Bh) & 9.799(0.566+9.233)  & 22.894\\
+  &     &         &    & SF($^{255}$Db)       & 192.5(174.5+18.02)  & 3.3593\\
+\hline
+33& 273.2  &100 & 43  & ER                                   & 17.14                          & 0 \\
+    &         &       &       & $\alpha$($^{258}$Bh)   & 10.034(0.857+9.177)  & 41.212 \\
+    &         &       &       & $\alpha$($^{254}$Db)   & 9.634(0.934+8.700)    & 28.481 \\
+    &         &       &       & $\alpha$($^{250}$Lr)    & 9.406                           & 1.7685 \\
+    &         &       &       & $\alpha$($^{246}$Md)  & 8.573(1.100+7.473)    & 1490.1 \\
+\hline
+34& 273.2 &81 & 38   & ER                                   & 15.61                            & 0 \\
+   &         &     &        & $\alpha$($^{258}$Bh)    & 9.908                           & 1.4172 \\
+   &         &     &        & $\alpha$($^{254}$Db)    & 9.534                           & 65.266 \\
+   &         &     &        & $\alpha$($^{250}$Lr)     & 9.417                           & 8.9366 \\
+   &         &     &        & $\alpha$($^{246}$Md)   & 8.562(0.665+7.897)     & 33.606 \\
+\hline
+35& 273.2  &118 & 16  & ER                                   & 18.00                           & 0 \\
+   &         &     &        & $\alpha$($^{258}$Bh)    & 9.942                            & 48.191 \\
+   &         &     &        & $\alpha$($^{254}$Db)    & 9.582                           & 59.906 \\
+   &         &     &        & SF($^{250}$Lr)                & 166.74                          & 6.0320 \\
+\hline
+36& 273.2  &82 & 27  & ER                                   & 15.50                           & 0 \\
+   &         &     &        & $\alpha$($^{258}$Bh)    & 9.852(2.628+7.224)     & 1.2319 \\
+   &         &     &        & $\alpha$($^{254}$Db)    & 9.626(0.709+8.917)     & 40.632 \\
+   &         &     &        & SF($^{250}$Lr)                & 165.07                          & 0.4386 \\
+\hline
+\multicolumn{7}{l}{\footnotesize \textsuperscript{a} The beam energy was measured with a systematic uncertainty of 1 MeV.}\\
+\end{longtable*}
+
+
+
+
+%\begin{acknowledgments}
+
+%\end{acknowledgments}
+%
+
+
+% Create the reference section using BibTeX:
+%\bibliography{Bibliography}
+
+\end{document}
+%
+% ****** End of file apstemplate.tex ******
+

@@ -18,14 +18,16 @@ INPUT_COLUMNS = [
 SF_COLUMNS = [
     "chain_no",
     "Elab",
-    "file_no",
+    "runnum",
+    "map_entry0",
+    "map_entry1",
     "x_strip",
     "y_strip",
     "ER_E",
     "SF_E",
     "DSSD_E1",
     "SSD_E1",
-    "DeltaT_ms",
+    "DeltaT_us",
 ]
 
 
@@ -63,8 +65,8 @@ def mev_to_keV(value: Decimal) -> str:
     return round_int(value * Decimal("1000"))
 
 
-def ms_to_us(value: Decimal) -> str:
-    text = format(value * Decimal("1000"), "f")
+def us_text(value: Decimal) -> str:
+    text = format(value, "f")
     if "." in text:
         text = text.rstrip("0").rstrip(".")
     return text
@@ -75,11 +77,10 @@ def sf_to_input_row(row: dict[str, Decimal]) -> dict[str, str]:
         "E_ER": mev_to_keV(row["ER_E"]),
         "X_Pos": round_int(row["x_strip"]),
         "Y_Pos": round_int(row["y_strip"]),
-        "Delta_t1": ms_to_us(row["DeltaT_ms"]),
+        "Delta_t1": us_text(row["DeltaT_us"]),
         "E_1_DSSD": mev_to_keV(row["DSSD_E1"]),
         "E_1_SSD": mev_to_keV(row["SSD_E1"]),
     }
-
 
 def parse_args() -> argparse.Namespace:
     here = Path(__file__).resolve().parent
