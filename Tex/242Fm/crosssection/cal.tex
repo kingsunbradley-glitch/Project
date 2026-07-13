@@ -1,0 +1,165 @@
+\documentclass[10pt]{article}
+
+\usepackage{amsmath}
+\usepackage[margin=1.05cm]{geometry}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.15em}
+\setlength{\abovedisplayskip}{0.35em}
+\setlength{\belowdisplayskip}{0.35em}
+\setlength{\abovedisplayshortskip}{0.25em}
+\setlength{\belowdisplayshortskip}{0.25em}
+\setlength{\jot}{0.15em}
+\newcommand{\pb}{\mathrm{pb}}
+
+\begin{document}
+\small
+
+\begin{center}
+\begin{minipage}[t]{0.49\textwidth}
+\centering
+\textbf{Cross-section calculation with flight loss}
+
+\vspace{0.25em}
+
+\[
+\sigma=
+\frac{N_{\rm obs}}
+{N_{\rm beam}n_t\varepsilon_{\rm tr}\varepsilon_{\rm det}
+ \varepsilon_{\rm flight}b_{\rm SF}},
+\qquad
+n_t=\frac{d_t}{A}N_{\rm A}.
+\]
+
+\[
+\begin{gathered}
+N_{\rm obs}=22,\quad
+N_{\rm beam}=8.43\times10^{17},\quad
+d_t=0.50\times10^{-3}~{\rm g/cm^2},\\
+A=204,\quad
+\varepsilon_{\rm tr}=0.119,\quad
+\varepsilon_{\rm det}=1.00,\quad
+b_{\rm SF}=1.000,\\
+\varepsilon_{\rm flight}=0.826^{+0.034}_{-0.033}.
+\end{gathered}
+\]
+
+\[
+\begin{aligned}
+n_t&=\frac{0.50\times10^{-3}}{204}
+      \times6.02214076\times10^{23}  \\
+   &=1.476\times10^{18}~{\rm cm^{-2}} .
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+\sigma_{\rm cen}&=
+\frac{22}
+{
+(8.43\times10^{17})(1.476\times10^{18})
+(0.119)(1.00)(0.826)(1.000)}  \\
+&=1.799\times10^{-34}~{\rm cm^2}
+ =179.9~\pb .
+\end{aligned}
+\]
+
+\[
+\sigma_{\rm cen}=\frac{148.6}{0.826}=179.9~\pb .
+\]
+
+\[
+\boxed{
+\sigma_{\rm cen}=179.9~\pb
+}
+\]
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.49\textwidth}
+\centering
+\textbf{Uncertainty calculation}
+
+\vspace{0.25em}
+
+\[
+\begin{aligned}
+\delta_{\rm exp}^2
+={}&
+\left(\frac{\Delta N_{\rm obs}}{N_{\rm obs}}\right)^2
++\left(\frac{\Delta N_{\rm beam}}{N_{\rm beam}}\right)^2
++\left(\frac{\Delta d_t}{d_t}\right)^2\\
+&+\left(\frac{\Delta\varepsilon_{\rm tr}}{\varepsilon_{\rm tr}}\right)^2
++\left(\frac{\Delta\varepsilon_{\rm det}}{\varepsilon_{\rm det}}\right)^2 .
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+\delta_{\rm exp}
+&=\sqrt{\left(\frac{5}{22}\right)^2+0.10^2+0.10^2+0^2+0^2}
+  =0.2677,\\
+\Delta\sigma_{\rm exp}
+&=179.9\times0.2677=48.2~\pb .
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+\varepsilon_{f,\rm low}&=0.826-0.033=0.793,\\
+\varepsilon_{f,\rm high}&=0.826+0.034=0.860 .
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+\Delta\sigma_{\rm flight,+}
+&=\frac{148.6}{0.793}-\frac{148.6}{0.826}
+ =187.4-179.9=7.5~\pb,\\
+\Delta\sigma_{\rm flight,-}
+&=\frac{148.6}{0.826}-\frac{148.6}{0.860}
+ =179.9-172.8=7.1~\pb .
+\end{aligned}
+\]
+
+\[
+\begin{gathered}
+b_{\rm SF}=1.000,\qquad
+b_{\rm SF,low}=0.949,\qquad
+\Delta\sigma_{b,-}=0,\\
+\Delta\sigma_{b,+}
+=\frac{179.9}{0.949}-179.9=9.7~\pb .
+\end{gathered}
+\]
+
+\[
+\begin{aligned}
+\Delta\sigma_{+}
+&=\sqrt{(48.2)^2+(7.5)^2+(9.7)^2}
+ =49.7~\pb,\\
+\Delta\sigma_{-}
+&=\sqrt{(48.2)^2+(7.1)^2}
+ =48.7~\pb .
+\end{aligned}
+\]
+
+\[
+\boxed{
+\sigma
+=
+179.9^{+49.7}_{-48.7}~\pb
+}
+\]
+
+\[
+\boxed{
+\sigma
+=
+180^{+50}_{-49}~\pb
+}.
+\]
+
+\end{minipage}
+\end{center}
+
+\end{document}

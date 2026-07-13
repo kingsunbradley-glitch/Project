@@ -18,6 +18,7 @@ FONT_SIZE_COUNT = 16
 FONT_SIZE_AXIS = 18
 FONT_SIZE_TICK = 14
 FONT_WEIGHT = 'bold'
+PANEL_C_MAX_BAR_FRACTION = 0.70
 
 # 将 Mac 的中文字体 (Songti SC 或 Arial Unicode MS) 加入到字体列表中排在前面
 plt.rcParams['font.family'] = 'serif'
@@ -141,6 +142,10 @@ for i, (data, color, label) in enumerate(plots_config):
         
         # --- B. 特殊高亮逻辑 (仅针对第3张图 i==2) ---
         if i == 2:
+            max_count = np.max(n) if len(n) > 0 else 0
+            if max_count > 0:
+                ax.set_ylim(0, max_count / PANEL_C_MAX_BAR_FRACTION)
+
             target_value = 8.915 # 【用户配置】需要高亮的能量值
             
             # zip: 将“柱子对象”和“桶的左右边界”打包在一起遍历

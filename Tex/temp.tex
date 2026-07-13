@@ -1,0 +1,78 @@
+\documentclass[11pt,fleqn]{article}
+\usepackage{amsmath}
+\usepackage{siunitx}
+\usepackage[margin=2.2cm]{geometry}
+
+\setlength{\mathindent}{0pt}
+
+\begin{document}
+\[
+N_{\rm ER}=8.2\times 10^{6}.
+\]
+\[
+N_{\rm hE}=32.
+\]
+\[
+T_{\rm live}=96.2~{\rm h}
+=96.2\times3600
+=3.4632\times10^{5}~{\rm s}.
+\]
+\[
+\lambda_{\rm hE}
+=
+\frac{N_{\rm hE}}{T_{\rm live}}
+=
+\frac{32}{3.4632\times10^{5}}
+=
+9.240\times10^{-5}~{\rm s}^{-1}.
+\]
+\[
+N_{\rm pix}=128\times48=6144.
+\]
+\[
+\lambda_{\rm hE,pix}
+=
+\frac{\lambda_{\rm hE}}{N_{\rm pix}}
+=
+\frac{9.240\times10^{-5}}{6144}
+=
+1.504\times10^{-8}~{\rm s}^{-1}.
+\]
+\[
+\Delta t=50~\mu{\rm s}
+=5.0\times10^{-5}~{\rm s}.
+\]
+\[
+P_{\rm acc}
+=
+1-\exp\left(-\lambda_{\rm hE,pix}\Delta t\right).
+\]
+Since \(\lambda_{\rm hE,pix}\Delta t \ll 1\),
+\[
+P_{\rm acc}
+\simeq
+\lambda_{\rm hE,pix}\Delta t
+=
+1.504\times10^{-8}
+\times
+5.0\times10^{-5}
+=
+7.519\times10^{-13}.
+\]
+\[
+E(N_{\rm acc})
+=
+N_{\rm ER}P_{\rm acc}
+=
+8.2\times10^{6}
+\times
+7.519\times10^{-13}
+=
+6.17\times10^{-6}.
+\]
+\[
+\boxed{
+E(N_{\rm acc})\approx6.2\times10^{-6}
+}
+\]
+\end{document}

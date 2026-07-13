@@ -126,8 +126,14 @@ def plot_delta_t(
     if log_max <= log_min:
         raise ValueError("log-max must be larger than log-min.")
 
-    bins = np.linspace(log_min, log_max, bins_count + 1)
+    #bins = np.linspace(log_min, log_max, bins_count + 1) # Auto Equal-width bins in log10(t)
+    bin_width = 0.2
 
+    bins = np.arange(
+    log_min,
+    log_max + bin_width,
+    bin_width
+    )
     fig, ax = plt.subplots(figsize=(6, 5))
     ax.hist(
         data_log,
@@ -149,7 +155,7 @@ def plot_delta_t(
         ax.plot(x_axis, y_curve * (max_count / y_curve.max()), "-", linewidth=2, color="#6A5ACD")
 
     ax.set_xlim(log_min, log_max)
-    ax.set_xlabel(r"$\log_{10}[t\;(\mu\mathrm{s})]$", fontsize=18)
+    ax.set_xlabel(r"$\log_{10}[t\;(\mathrm{\mu s})]$", fontsize=18)
     ax.set_ylabel("Counts", fontsize=18)
     ax.xaxis.set_major_locator(ticker.MultipleLocator(1.0))
     ax.xaxis.set_minor_locator(ticker.MultipleLocator(0.5))
@@ -161,11 +167,11 @@ def plot_delta_t(
 
     ax.text(0.05, 0.9, r"$^{242}$Fm", transform=ax.transAxes, fontsize=22, ha="left")
     ax.text(
-        -1.75,
+        -1.5,
         2.0,
         "\n".join(
             [
-                rf"$T_{{1/2}}^{{SF}} = {half_life:.2f}^{{+{err_high:.2f}}}_{{-{err_low:.2f}}}\ \mu\mathrm{{s}}$",
+                rf"$\mathrm{{T}}_{{1/2}}^{{\mathrm{{SF}}}} = {half_life:.2f}^{{+{err_high:.2f}}}_{{-{err_low:.2f}}}\ \mathrm{{\mu s}}$",
             ]
         ),
         fontsize=16,

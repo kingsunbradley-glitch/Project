@@ -163,7 +163,7 @@ energy_min, energy_max = 7.8, 11.8
 # [修改 2 & 3] 时间轴范围改为 log10 值 (-2.0 到 6.0)
 log_time_min, log_time_max = -3.4, 6.2 
 
-bins_energy = np.linspace(energy_min, energy_max, 100) 
+bins_energy = np.linspace(energy_min, energy_max, 201) 
 # 使用线性bins来统计 log 后的数据
 bins_time_log = np.linspace(log_time_min, log_time_max, 90)
 
