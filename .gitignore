@@ -37,6 +37,7 @@ __pycache__/
 *.snm
 *.pdf
 !Tex/myThesis/PLB/*.pdf
+!Tex/myThesis/*/*.pdf
 *.xdv
 
 # Mac 系统文件

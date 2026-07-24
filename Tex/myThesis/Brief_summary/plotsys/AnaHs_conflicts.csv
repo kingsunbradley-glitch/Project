@@ -1,9 +1,0 @@
-conflict_type,Isotope,column,target_value,source_value,note
-value_mismatch,269Ds,T1/2,170^+160_-60 us,170^+160_-60 us^u,
-manual_override_retained,271Hs,alpha_branching_percent,100,unknown,"Retained by user request; Talpha_1/2_s and errors are calculated assuming alpha branching = 100%."
-value_mismatch,271Hs,T1/2,7.1^+8.4-2.5s,7.1^+8.4_-2.5 s,
-value_mismatch,271Hs,alpha_branching_percent,100,unknown,
-value_mismatch,271Hs,Qalpha_MeV,9480,9.48,
-value_mismatch,273Hs,T1/2,0.51^+0.30_-0.13 s,0.51^+0.30_-0.13 s^t,
-manual_override_retained,265Sg,,,,Retained by user request; isotope is absent from source table and values come from the previous AnaHs.csv row.
-source_valid_row_missing_in_target,267Ds,,,,Source row has numeric alpha branching ratio but was absent from target.
