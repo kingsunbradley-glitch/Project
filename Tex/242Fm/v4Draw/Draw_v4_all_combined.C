@@ -25,10 +25,13 @@ constexpr double kLowXMaxMeV = 9.5;
 constexpr double kFullXMinMeV = 0.0;
 constexpr double kFullXMaxMeV = 250.0;
 constexpr double kYMinSeconds = 1.0e-8;
-constexpr double kYMaxSeconds = 18.0;
+constexpr double kYMaxSeconds = 30.0;
+// Equivalent to the original-data cut Delta_Ts[1] < 12e9 (Delta_Ts in ns).
+constexpr double kDeltaTSelectionMaxSeconds = 12.0;
 constexpr double kYMajorTickLength = 0.010;
 constexpr double kYMinorTickLength = 0.006;
 constexpr double kYLabelGap = 0.010;
+constexpr double kLeftMargin = 0.13;
 
 // Canvas layout.  The full-energy panel is on top; the two low-energy panels
 // share their X axis below it.  Pad heights are derived so all three frames
@@ -80,7 +83,7 @@ void StylePad(
     double topMargin,
     double bottomMargin)
 {
-    pad->SetLeftMargin(0.15);
+    pad->SetLeftMargin(kLeftMargin);
     pad->SetRightMargin(0.04);
     pad->SetTopMargin(topMargin);
     pad->SetBottomMargin(bottomMargin);
@@ -165,6 +168,7 @@ TGraph *MakeScatterGraph(
     graph->SetName(name);
 
     int kept = 0;
+    int removedByDeltaTCut = 0;
     int removedByFigure3Cut = 0;
     for (Long64_t entry = 0; entry < entries; ++entry) {
         if (tree->GetEntry(entry) <= 0)
@@ -173,9 +177,12 @@ TGraph *MakeScatterGraph(
         const double energyMeV = energyKeV / 1000.0;
         if (energyMeV < xMinMeV || energyMeV > xMaxMeV)
             continue;
-        if (deltaTSeconds < kYMinSeconds ||
-            deltaTSeconds > kYMaxSeconds)
+        if (deltaTSeconds < kYMinSeconds)
             continue;
+        if (deltaTSeconds >= kDeltaTSelectionMaxSeconds) {
+            ++removedByDeltaTCut;
+            continue;
+        }
 
         if (applyFigure3Cut &&
             energyMeV >= 10.0 && energyMeV <= 20.0 &&
@@ -192,7 +199,8 @@ TGraph *MakeScatterGraph(
     tree->SetBranchStatus("*", true);
 
     std::cout << "[Info] " << name << ": kept " << kept << " / "
-              << entries;
+              << entries << "; Delta_Ts[1] < 12e9 cut removed "
+              << removedByDeltaTCut;
     if (applyFigure3Cut)
         std::cout << "; Figure 3 cut removed " << removedByFigure3Cut;
     std::cout << std::endl;
@@ -203,8 +211,22 @@ void StyleGraph(TGraph *graph, Color_t color)
 {
     graph->SetMarkerColor(color);
     graph->SetLineColor(color);
-    graph->SetMarkerStyle(7);
-    graph->SetMarkerSize(0.50);
+    // Marker style 7 has a fixed pixel size; use a scalable filled circle so
+    // SetMarkerSize actually makes the scatter points larger.
+    graph->SetMarkerStyle(20);
+    graph->SetMarkerSize(1.0);
+}
+
+void DrawNuclideLabel(
+    double xMeV,
+    double ySeconds,
+    const char *labelText)
+{
+    TLatex *label = new TLatex();
+    label->SetTextFont(kFontCode);
+    label->SetTextSize(kTextSize);
+    label->SetTextAlign(22);
+    label->DrawLatex(xMeV, ySeconds, labelText);
 }
 
 void DrawPanelLabel(TPad *pad, const char *label, bool upperRight)
@@ -309,7 +331,7 @@ void DrawManualLogYLabels(
         const TString labelText =
             decade == 1 ? "10" : TString::Format("10^{%d}", decade);
         tickLabel->DrawLatex(
-            0.15 - kYMajorTickLength - kYLabelGap,
+            kLeftMargin - kYMajorTickLength - kYLabelGap,
             canvasY,
             labelText);
     }
@@ -324,7 +346,7 @@ void DrawCommonYTitle(double centerY)
     title->SetTextAlign(22);
     title->SetTextAngle(90.0);
     title->DrawLatex(
-        0.040, centerY, "#Delta#it{t}(ER-#alpha/SF) (s)");
+        0.022, centerY, "#Delta#it{t}(ER-#alpha/SF) (s)");
 }
 
 }  // namespace
@@ -400,7 +422,7 @@ void Draw_v4_all_combined()
     StyleGraph(redFull, kRed + 1);
 
     TCanvas *canvas = new TCanvas(
-        "c_all_combined", "", 1100, 1300);
+        "c_all_combined", "", 1100, 1600);
 
     TPad *panelA = new TPad(
         "p_all_a", "", 0.0, kTopPadBottomY, 1.0, 1.0);
@@ -424,6 +446,8 @@ void Draw_v4_all_combined()
     frameA->Draw();
     redFull->Draw("P SAME");
     greenFull->Draw("P SAME");
+    DrawNuclideLabel(200.0, 1.0e-1, "^{246}Fm");
+    DrawNuclideLabel(200.0, 1.0e-7, "^{242}Fm");
     DrawPanelLabel(panelA, "(a)", true);
     panelA->Modified();
     panelA->Update();
@@ -436,6 +460,11 @@ void Draw_v4_all_combined()
     StyleFrame(frameB, false, false);
     frameB->Draw();
     greenLow->Draw("P SAME");
+    DrawNuclideLabel(8.5, 1.0e-1, "^{246}Fm");
+    DrawNuclideLabel(9.0, 1.0e-6, "^{212}Po");
+    DrawNuclideLabel(8.3, 1.0e-7, "^{213}Po");
+    DrawNuclideLabel(7.9, 1.0e-6, "^{216}Rn, ^{215}At");
+    DrawNuclideLabel(7.3, 1.0e-3, "^{211}Po");
     DrawPanelLabel(panelB, "(b)", true);
     panelB->Modified();
     panelB->Update();
@@ -448,6 +477,7 @@ void Draw_v4_all_combined()
     StyleFrame(frameC, true, true);
     frameC->Draw();
     redLow->Draw("P SAME");
+    DrawNuclideLabel(8.0, 5.0e-5, "^{213}Rn");
     DrawPanelLabel(panelC, "(c)", false);
     panelC->Modified();
     panelC->Update();
@@ -464,6 +494,7 @@ void Draw_v4_all_combined()
     overlay->SetBorderMode(0);
     overlay->SetBorderSize(0);
     overlay->SetMargin(0, 0, 0, 0);
+    overlay->SetBit(TObject::kCannotPick);
     overlay->Draw();
     overlay->cd();
 
