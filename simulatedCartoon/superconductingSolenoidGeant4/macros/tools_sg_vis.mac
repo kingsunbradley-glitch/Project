@@ -1,0 +1,30 @@
+# Optional ToolsSG/Qt viewer. Requires a Geant4 build that exposes TSG_QT.
+/control/verbose 1
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+/sim/geometry/solenoidRadius 0.20 m
+/sim/geometry/solenoidLength 1.00 m
+/sim/geometry/targetDistance 0.30 m
+/sim/field/centerField 2.50 tesla
+/sim/gas/enabled true
+/sim/gas/pressure 100 pascal
+/sim/gas/temperature 300 kelvin
+/sim/reaction/projectileZA 18 40
+/sim/reaction/targetZA 69 169
+/sim/reaction/beamEnergyLab 200 MeV
+/sim/reaction/mode reaction
+/sim/output/fileName output/tools_sg_vis.root
+/sim/output/trackSampleCount 30
+/sim/output/randomSeed 20260810
+/run/initialize
+/vis/open TSG_QT
+/vis/drawVolume
+/vis/scene/add/axes 0 0 0 0.25 m
+/vis/modeling/trajectories/create/drawByCharge
+/vis/scene/add/trajectories smooth
+/vis/scene/endOfEventAction accumulate 50
+/vis/viewer/set/viewpointThetaPhi 65 25 deg
+/vis/viewer/set/style surface
+/tracking/storeTrajectory 1
+/run/beamOn 30

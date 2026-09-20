@@ -1,0 +1,35 @@
+/control/verbose 1
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+
+/sim/geometry/solenoidRadius 0.20 m
+/sim/geometry/solenoidLength 1.00 m
+/sim/geometry/targetDistance 0.30 m
+/sim/field/centerField 2.50 tesla
+/sim/gas/enabled true
+/sim/gas/pressure 100 pascal
+/sim/gas/temperature 300 kelvin
+/sim/reaction/projectileZA 18 40
+/sim/reaction/targetZA 69 169
+/sim/reaction/beamEnergyLab 200 MeV
+/sim/reaction/mode reaction
+/sim/output/fileName output/vis_Ar40_Tm169.root
+/sim/output/trackSampleCount 30
+/sim/output/randomSeed 20260810
+
+/run/initialize
+/vis/open OGLSQt 1100x760-0+0
+/vis/drawVolume
+/vis/scene/add/axes 0 0 0 0.25 m
+/vis/modeling/trajectories/create/drawByCharge
+/vis/modeling/trajectories/drawByCharge-0/default/setDrawStepPts true
+/vis/modeling/trajectories/drawByCharge-0/default/setStepPtsSize 2
+/vis/scene/add/trajectories smooth
+/vis/scene/endOfEventAction accumulate 50
+/vis/viewer/set/viewpointThetaPhi 65 25 deg
+/vis/viewer/set/style surface
+/vis/viewer/set/auxiliaryEdge true
+/vis/viewer/set/autoRefresh true
+/tracking/storeTrajectory 1
+/run/beamOn 30

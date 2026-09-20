@@ -1,0 +1,9 @@
+name: root_env
+channels:
+  - conda-forge
+dependencies:
+  - root=6.36.06
+  - geant4=11.4.2
+  - qt6-main
+  - cmake
+  - ninja

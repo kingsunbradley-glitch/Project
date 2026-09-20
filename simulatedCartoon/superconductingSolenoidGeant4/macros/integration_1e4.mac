@@ -1,0 +1,23 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/sim/geometry/solenoidRadius 0.20 m
+/sim/geometry/solenoidLength 1.00 m
+/sim/geometry/targetDistance 0.30 m
+/sim/geometry/maxStep 2 mm
+/sim/field/centerField 2.50 tesla
+/sim/gas/enabled true
+/sim/gas/pressure 100 pascal
+/sim/gas/temperature 300 kelvin
+/sim/reaction/projectileZA 18 40
+/sim/reaction/targetZA 69 169
+/sim/reaction/beamEnergyLab 200 MeV
+/sim/reaction/sigma4n 0
+/sim/reaction/sigma5n 0
+/sim/reaction/mode reaction
+/sim/output/fileName output/integration_1e4.root
+/sim/output/trackSampleCount 0
+/sim/output/randomSeed 20260810
+/run/initialize
+/run/beamOn 10000

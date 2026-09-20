@@ -10,12 +10,14 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{graphicx}
 \usepackage{siunitx}
+\usepackage{booktabs}
+\usepackage{multirow}
 
 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt}
 
-\title{\vspace{-1.2cm}Brief summary of the present $^{273}$Ds and $^{269}$Hs analysis}
+\title{\vspace{-1.2cm}Brief summary of the $^{273}$Ds and $^{269}$Hs analysis}
 \author{Z. R. Sun}
 \date{}
 
@@ -60,35 +62,40 @@ The energy difference is about 71 keV, which is larger than three times the pres
 The daughter decay in the long-lived $^{273}$Ds chain has $E_{\alpha}= 8.916\ \mathrm{MeV}$,
 which is lower than the higher-energy $^{269}$Hs alpha group near 9.0--9.3 MeV. In the present analysis, the lower-energy $^{269}$Hs group is preferentially associated with the lower-energy, longer-lived $^{273}$Ds branch, whereas the higher-energy $^{269}$Hs group is mainly associated with the higher-energy, shorter-lived $^{273}$Ds branch. No clear cross feeding has been observed within the available statistics.
 
+
 \begin{table*}[htbp]
 \centering
 \caption{Decay properties of the observed chains assigned to
 $^{277}$Cn, $^{273}$Ds, $^{269}$Hs, $^{265}$Sg, and $^{261}$Rf.
 The decay times of individual events are listed.}
 \label{tab:decay_chains}
+
 \resizebox{\textwidth}{!}{%
-\begin{tabular}{cc
+\begin{tabular}{ccc
                 cc
                 cc
                 cc
                 cc
                 cc}
 \toprule
-\multicolumn{2}{c}{} &
+
+\multirow{2}{*}{Production} &
+\multirow{2}{*}{No.} &
+\multirow{2}{*}{Institute} &
 \multicolumn{2}{c}{$^{277}$Cn} &
 \multicolumn{2}{c}{$^{273}$Ds} &
 \multicolumn{2}{c}{$^{269}$Hs} &
 \multicolumn{2}{c}{$^{265}$Sg} &
 \multicolumn{2}{c}{$^{261}$Rf}
 \\
-\cmidrule(lr){3-4}
-\cmidrule(lr){5-6}
-\cmidrule(lr){7-8}
-\cmidrule(lr){9-10}
-\cmidrule(lr){11-12}
 
-No. &
-Reference &
+\cmidrule(lr){4-5}
+\cmidrule(lr){6-7}
+\cmidrule(lr){8-9}
+\cmidrule(lr){10-11}
+\cmidrule(lr){12-13}
+
+& & &
 $E_{\alpha}$ &
 $\Delta t$ (ms) &
 $E_{\alpha}$ &
@@ -100,9 +107,12 @@ $\Delta t$ (s) &
 $E_{\alpha}$ &
 $\Delta t$ (s)
 \\
+
 \midrule
 
-Ch1 & \cite{hofmann2002NewResultsElements}
+\multirow[c]{5}{*}{$^{208}$Pb($^{70}$Zn,1n)$^{277}$Cn} &
+Ch1 &
+\multirow[c]{2}{*}{GSI}
 & 11.45 & 0.280
 & 11.08 & 0.110
 & 9.23  & 19.7
@@ -110,7 +120,8 @@ Ch1 & \cite{hofmann2002NewResultsElements}
 & 8.52 & 4.7
 \\
 
-Ch2 & \cite{hofmann2002NewResultsElements}
+&
+Ch2 &
 & 11.17 & 1.406
 & 11.20 & 0.310
 & 9.18  & 22.0
@@ -118,7 +129,11 @@ Ch2 & \cite{hofmann2002NewResultsElements}
 & (SF) & 14.5
 \\
 
-Ch3 & \cite{morita2007ExperimentSynthesisIsotope277}
+\cmidrule(lr){2-13}
+
+&
+Ch3 &
+\multirow[c]{3}{*}{RIKEN}
 & 11.09 & 1.10
 & 11.14 & 0.520
 & 9.17  & 14.2
@@ -126,7 +141,8 @@ Ch3 & \cite{morita2007ExperimentSynthesisIsotope277}
 & (SF) & 2.97
 \\
 
-Ch4 & \cite{morita2007ExperimentSynthesisIsotope277}
+&
+Ch4 &
 & 11.32 & 1.22
 & 11.15 & 0.0399
 & 9.25  & 0.270
@@ -134,7 +150,8 @@ Ch4 & \cite{morita2007ExperimentSynthesisIsotope277}
 & (SF) & 8.30
 \\
 
-Ch5 & \cite{sumita2013NewResultProduction}
+&
+Ch5 &
 & 11.07 & 0.370
 & 11.03 & 0.373
 & 9.15  & 36.0
@@ -142,7 +159,11 @@ Ch5 & \cite{sumita2013NewResultProduction}
 & (SF) & 3.73
 \\
 
-Ch6 & \cite{oganessian2024SynthesisDecayProperties}
+\midrule
+
+\multirow[c]{4}{*}{$^{238}$U($^{40}$Ar,5n)$^{273}$Ds} &
+Ch6 &
+\multirow[c]{2}{*}{JINR}
 & -- & --
 & 11.017 & 0.184
 & -- & --
@@ -150,7 +171,8 @@ Ch6 & \cite{oganessian2024SynthesisDecayProperties}
 & (SF) & 3.0344
 \\
 
-Ch7 & \cite{oganessian2024SynthesisDecayProperties}
+&
+Ch7 &
 & -- & --
 & 10.929 & 41.703
 & (0.342) & 4.0978
@@ -158,21 +180,24 @@ Ch7 & \cite{oganessian2024SynthesisDecayProperties}
 & (SF) & 0.3923
 \\
 
-\midrule
+\cmidrule(lr){2-13}
 
-Ch8 & This work
+&
+Ch8 &
+\multirow[c]{2}{*}{IMP}
 & -- & --
 & 11.165 & 0.108
-& 9.103  & 5.006
-& 8.660  & 6.340
+& 9.103 & 5.006
+& 8.660 & 6.340
 & (SF) & 5.298
 \\
 
-Ch9 & This work
+&
+Ch9 &
 & -- & --
 & 10.858 & 8.320
-& 8.916  & 9.363
-& 8.690  & 11.663
+& 8.916 & 9.363
+& 8.690 & 11.663
 & (SF) & 7.241
 \\
 
@@ -181,9 +206,14 @@ Ch9 & This work
 }
 \end{table*}
 
+
+
+
+
+
 \begin{figure}[H]
 	\centering 
-	\includegraphics[width=0.74\textwidth]{EalphaAndDecaytime.pdf}	
+	\includegraphics[width=1.0\textwidth]{EalphaAndDecaytime.pdf}	
 	\caption{Comparison of the $E_{\alpha}$ and mean life information for decay chains involving $^{273}$Ds. The red, blue, green, and yellow symbols correspond to the IMP, JINR\cite{oganessian2024SynthesisDecayProperties}, RIKEN\cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, and GSI\cite{hofmann2002NewResultsElements,hofmann1996NewElement112}. The fit curves in the decay-time panels are drawn according to Ref.~\cite{schmidt2000NewTestRandom}.}
 	\label{fig:EalphaAndDecaytime}%
 \end{figure}

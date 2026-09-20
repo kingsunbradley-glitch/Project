@@ -1,0 +1,22 @@
+Environment: /home/evalie/miniconda3/envs/root_env
+Post-install snapshot: conda history revision 1, created 2026-08-10 18:59:38.
+
+Verified core versions:
+  ROOT       6.36.06  (unchanged)
+  root_base  6.36.06  (unchanged)
+  Geant4     11.4.2   py313h8fe9328_0, conda-forge
+  Qt6        6.11.1   conda-forge
+  CLHEP      2.4.7.2  conda-forge
+
+Installed Geant4 datasets:
+  ABLA 3.3, CHANNELING 2.0, EMLOW 8.8, ENSDFSTATE 3.0, INCL 1.3,
+  NDL 4.7.1, PARTICLEXS 4.2, PII 1.3, PhotonEvaporation 6.1.2,
+  RadioactiveDecay 6.1.2, RealSurface 2.2, SAIDDATA 2.0.
+
+The exact before/after package transaction is retained by conda:
+
+  conda list -n root_env --revision 0
+  conda list -n root_env --revision 1
+
+The installation also updated ABI-compatible Qt/graphics/network dependencies
+selected by conda-forge. ROOT and root_base remained at 6.36.06.

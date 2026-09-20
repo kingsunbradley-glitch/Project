@@ -1,0 +1,16 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/sim/geometry/solenoidRadius 0.20 m
+/sim/geometry/solenoidLength 0.40 m
+/sim/geometry/targetDistance 0.20 m
+/sim/field/centerField 1.0 tesla
+/sim/gas/enabled false
+/sim/reaction/beamEnergyLab 200 MeV
+/sim/reaction/mode reaction
+/sim/output/fileName output/smoke.root
+/sim/output/trackSampleCount 4
+/sim/output/randomSeed 1234567
+/run/initialize
+/run/beamOn 10

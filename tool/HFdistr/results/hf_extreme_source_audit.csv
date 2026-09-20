@@ -1,0 +1,51 @@
+source_csv_line,isotope,state_label,initial_trigger,post_VS_HF,post_Rurarz_HF,post_trigger,audit_status,action_or_note,source_basis
+15,253Es,,VS<1,0.995370194052,1.41378181696,VS<1,verified,Half-life alpha branch and Qalpha agree with adopted evaluation,NNDC ENSDF adopted + NUBASE2020
+17,255Es,,VS<1,0.977436394742,1.26488540126,VS<1,verified,Alpha branch 8.0(4)% and 39.8 d half-life verified,NNDC ENSDF adopted + NUBASE2020
+20,241Fm,,VS<1|R<1,0.0604263427405,0.0832127403065,VS<1|R<1,verified_qualified,Alpha branch is an upper limit and Qalpha is systematic; HF is a lower limit,NNDC ENSDF adopted + NUBASE2020
+22,243Fm,,VS<1,0.899912596633,1.30170751068,VS<1,verified,231 ms and alpha=91(3)% verified,NNDC ENSDF adopted + NUBASE2020
+23,244Fm,,VS<1|R<1,0.417868952796,0.619260334238,VS<1|R<1,verified_qualified,Alpha<1% and systematic Qalpha retained; HF is a lower limit,NNDC ENSDF adopted + NUBASE2020
+25,246Fm,,VS<1|R<1,0.609002520475,0.935249040891,VS<1|R<1,corrected,Decay-mode order corrected from alpha/EC/SF to alpha/SF/EC; bSF=6.4%,NNDC ENSDF adopted
+27,248Fm,,R>100,0.661984850101,1.04035768201,VS<1,corrected_qualified,Alpha 0.99 fraction had been read as 0.99%; corrected to approximately 99%,NNDC ENSDF adopted + NUBASE2020
+29,250Fm,,VS<1,0.909288276794,1.41564053149,VS<1,verified,31.0 min and alpha-dominant decay agree with evaluated data,NUBASE2020 + Ackermann review table
+30,251Fm,,VS>100|R>100,160.754080457,248.234315556,VS>100|R>100,verified,Alpha=1.80(13)% and Qalpha=7.4245 MeV verified,NNDC ENSDF adopted + NUBASE2020
+31,252Fm,,VS<1,1.13509845536,1.69314049017,none,corrected_removed_from_extreme,Qalpha digit transposition corrected 7.1357 to 7.1527 MeV; primary SF branch restored,NNDC ENSDF adopted
+33,254Fm,,VS<1|R<1,0.612144625372,0.939671649698,VS<1|R<1,corrected_non_HF_field,Primary SF branch 0.06% restored instead of beta-delayed SF limit; alpha HF unchanged,NNDC ENSDF adopted
+35,256Fm,,VS<1|R<1,0.425776781052,0.620520596951,VS<1|R<1,verified,SF=91.9(3)% and alpha=8.1(3)% verified,NNDC ENSDF adopted + NUBASE2020
+49,255Md,,R>100,88.8695043886,140.727800144,R>100,verified,27 min and alpha=7(1)% verified,NNDC ENSDF adopted + NUBASE2020
+53,259Md,,VS<1,0.791506608195,1.10777680281,VS<1,verified_qualified,Alpha<1.3% and systematic Qalpha retained; HF is a lower limit,NNDC ENSDF adopted + NUBASE2020
+56,250No,,VS<1|R<1,0.00101690461581,0.00147327599861,VS<1|R<1,verified_qualified,Only SF observed; alpha<2% and Qalpha systematic make HF a lower limit,NNDC ENSDF adopted + NUBASE2020
+57,251No,,VS<1,0.97616593785,1.4475305562,VS<1,verified,0.80 s and alpha near 90% verified within adopted uncertainty,NNDC ENSDF adopted + NUBASE2020
+58,252No,,VS<1,0.914234532386,1.37926289126,VS<1,verified,2.467 s and alpha=67.6% verified,NNDC ENSDF adopted + NUBASE2020
+61,255No,,R>100,71.3686459042,110.643102784,R>100,verified,3.52 min and alpha=30(5)% verified,NNDC ENSDF adopted + NUBASE2020
+62,256No,,VS<1,0.935427529893,1.46113132918,VS<1,verified,2.91 s and alpha=99.45% verified,NNDC ENSDF adopted + NUBASE2020
+84,254Rf,,VS<1|R<1,0.00843113194824,0.0114734438958,VS<1|R<1,verified_qualified,Only SF observed; alpha<1.5% and systematic Qalpha make HF a lower limit,NNDC ENSDF adopted + NUBASE2020
+90,260Rf,,VS<1,0.694920139834,1.01462086597,VS<1,verified_qualified,Alpha decay is unobserved; 2% is an evaluator recommendation and retained as approximate,Ackermann review table + ENSDF non-observation
+97,255Db,,VS<1|R<1,0.200738076669,0.260079468854,VS<1|R<1,verified_newer_source,2.6 ms and 8/92 branches are the 2024 activity rather than the older second-scale assignment,doi:10.1103/PhysRevC.110.044313
+110,257Sg,,VS<1|R<1,0.76244735028,0.950578193336,VS<1|R<1,verified_qualified,New 2025 isotope; approximate 10% alpha branch retained,doi:10.1103/s7hr-y7zq
+113,260Sg,,VS<1|R<1,0.766560795447,0.946313483434,VS<1|R<1,verified_review_value,4.95 ms and 71/29 values retained from the newer review compilation,Ackermann review table; older ENSDF differs
+124,271Sg,,VS<1|R<1,0.739215102381,0.990524887275,VS<1|R<1,verified_newer_source,31 s and 73/27 are the updated combined 2022 data,doi:10.1103/PhysRevC.106.024612
+140,266Hs,,VS<1|R<1,0.388397639104,0.433278793299,VS<1|R<1,verified_review_value,0.74 ms ground-state value retained from state-resolved review treatment,doi:10.1140/epjs/s11734-024-01150-1
+144,270Hs,,VS<1|R<1,0.712027841819,0.876763856912,VS<1|R<1,verified,7.6 s and Qalpha=9.07 MeV verified; no firm SF branch,NNDC ENSDF adopted + Ackermann review table
+148,275Hs,,VS<1|R<1,0.226839290295,0.278074025827,VS<1|R<1,verified_qualified,Alpha>89% makes the reported HF an upper limit,Ackermann review table + doi:10.1103/PhysRevC.109.054307
+153,274Mt,,VS>100|R>100,570.315077148,616.044119871,VS>100|R>100,verified_qualified,Qalpha is systematic and alpha branching is approximate; large HF is not an exact value,NNDC ENSDF adopted + NUBASE2020
+158,267Ds,,VS<1|R<1,0.739484855929,0.582875236036,VS<1|R<1,verified_qualified,One-event uncertain activity retained with uncertainty qualifier,NNDC ENSDF adopted
+162,273Ds^a,a,VS>100,101.518149595,97.1098323987,VS>100,verified_state_resolved,17.34 ms state and Ealpha=10.89 MeV transition retained separately from the short-lived state,User-supplied original paper table
+165,276Ds,,VS<1|R<1,0.899274549493,0.893549048207,VS<1|R<1,verified_newer_source,New 2023 isotope absent from older evaluations,doi:10.1103/PhysRevC.108.024611
+171,274Rg,,VS>100|R>100,368.022227684,312.228163629,VS>100|R>100,verified,12 ms and Qalpha near 11.48 MeV verified,NNDC ENSDF adopted + NUBASE2020
+175,281Rg,,VS>100|R>100,233.635149409,237.560228935,VS>100|R>100,unresolved_warning,Review gives 14/88 whose central values sum to 102%; retained without arbitrary normalization,Ackermann review table; ENSDF gives older 18/82
+182,284Cn,,VS<1|R<1,0.350194172779,0.329312168638,VS<1|R<1,verified_newer_source,98 ms and recommended 2/98 branches retained from newer compilation,Ackermann review table + post-2019 data
+183,285Cn,,VS<1|R<1,0.866502922433,0.802269690137,VS<1|R<1,verified,33 s alpha activity verified,NNDC ENSDF adopted + Ackermann review table
+184,286Cn,,VS<1|R<1,0.123202750659,0.112296964417,VS<1|R<1,verified_qualified,Tentative parenthesized assignment and systematic Qalpha retained; HF is not a firm ground-state value,Ackermann review table citing Kaji2017
+185,278Nh,,VS>100|R>100,244.450644519,172.654391555,VS>100|R>100,verified,Millisecond alpha activity and high transition energy verified,NNDC ENSDF adopted + Ackermann review table
+191,284Fl,,VS<1|R<1,0.652685413088,0.526547344827,VS<1|R<1,verified_newer_source,24% alpha branch is from the newer review compilation,Ackermann review table + doi:10.1103/k2g4-5k7x
+193,286Fl,,VS>100|R>100,1.53396319969,1.26010137912,none,corrected_removed_from_extreme,Half-life unit corrected from 105 s to 105 ms; branches retained as 40/60,Ackermann review table + NNDC ENSDF millisecond-scale activity
+194,287Fl,,VS<1|R<1,0.961865232365,0.790080483442,VS<1|R<1,verified_qualified,Alpha>70% makes HF an upper limit,Ackermann review table + NNDC ENSDF adopted
+195,288Fl,,VS<1|R<1,0.705684295675,0.576414412902,VS<1|R<1,verified,0.64 s alpha-dominant decay verified,NNDC ENSDF adopted + Ackermann review table
+196,289Fl,,R<1,1.1484698384,0.930163652786,R<1,verified,2.4 s and Qalpha near 9.95 MeV verified,NNDC ENSDF adopted + Ackermann review table
+197,290Fl,,VS<1|R<1,0.120082098388,0.0961723272089,VS<1|R<1,verified_qualified,Tentative parenthesized assignment and half-life upper limit retained,Ackermann review table citing Kaji2017
+203,288Lv,,VS<1|R<1,0.695816898323,0.774002156203,VS<1|R<1,verified_newer_source,New 2025 isotope absent from older evaluations,Ackermann review table + doi:10.1103/k2g4-5k7x
+204,289Lv,,VS<1|R<1,0.29155408197,0.332753736129,VS<1|R<1,verified_newer_source,New 2025 activity retained from the latest review compilation,Ackermann review table + doi:10.1103/k2g4-5k7x
+205,290Lv,,VS<1|R<1,0.722655356503,0.82759049718,VS<1|R<1,verified,8.3 ms and Qalpha near 11.0 MeV verified,NNDC ENSDF adopted + Ackermann review table
+206,291Lv,,VS<1|R<1,0.863464545958,0.997695696255,VS<1|R<1,verified_qualified,Alpha branching is approximate; HF inherits the approximation,NNDC ENSDF adopted + Ackermann review table
+207,292Lv,,VS<1|R<1,0.326306368682,0.378872796445,VS<1|R<1,verified_qualified,Alpha branching is approximate; HF inherits the approximation,NNDC ENSDF adopted + Ackermann review table
+208,293Lv,,VS<1|R<1,0.728193188622,0.848543316682,VS<1|R<1,verified_newer_source,57 ms value retained from newer compilation rather than older 95 ms evaluation,Ackermann review table

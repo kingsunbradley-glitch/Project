@@ -1,6 +1,12 @@
 \documentclass[11pt]{article}
 
-\usepackage[a4paper,margin=1in]{geometry}
+\usepackage[
+  a4paper,
+  left=20mm,
+  right=20mm,
+  top=18mm,
+  bottom=20mm
+]{geometry}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{booktabs}
@@ -10,10 +16,34 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{graphicx}
 \usepackage{siunitx}
+\usepackage{etoolbox}
+\usepackage{microtype}
+\usepackage{placeins}
+
+\newlength{\HFvalidationcolwidth}
 
 
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt}
+\setlength{\parskip}{4pt plus 1pt minus 1pt}
+
+% Keep figures close to the discussion without forcing premature page breaks.
+\setlength{\textfloatsep}{12pt plus 2pt minus 3pt}
+\setlength{\floatsep}{10pt plus 2pt minus 2pt}
+\setlength{\intextsep}{10pt plus 2pt minus 2pt}
+\renewcommand{\topfraction}{0.90}
+\renewcommand{\bottomfraction}{0.80}
+\renewcommand{\textfraction}{0.08}
+\renewcommand{\floatpagefraction}{0.80}
+\setcounter{topnumber}{4}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{5}
+
+% The bibliography is long; a compact setting avoids a sparsely filled last page.
+\AtBeginEnvironment{thebibliography}{%
+  \footnotesize
+  \setlength{\itemsep}{0pt}%
+  \setlength{\parsep}{0pt}%
+}
 
 \title{\vspace{-1.2cm}Brief summary of the present $^{273}$Ds and $^{269}$Hs analysis}
 \author{Z. R. Sun}
@@ -26,7 +56,7 @@
 
 This note summarizes the current experimental evidence and tentative structural interpretation of two decay chains assigned to $^{273}$Ds, observed in the $^{238}$U($^{40}$Ar,$5n$)$^{273}$Ds reaction at the SHANS-2 separator. The manuscript is still under preparation, and the state assignments discussed below should be regarded as working hypotheses rather than final level assignments.
 
-The main point on which we would appreciate expert advice is whether the lower-energy, longer-lived $^{273}$Ds decay observed in the present work should be connected with the corresponding long-lived event reported in the DGFRS-2 experiment, or whether the two events should be kept separate at the present stage. This choice affects the estimated hindrance factor and the possible Nilsson-configuration assignment.
+The main point on which we would appreciate advice is whether the lower-energy, longer-lived $^{273}$Ds decay observed in the present work should be connected with the corresponding long-lived event reported in the DGFRS-2 experiment, or whether the two events should be kept separate at the present stage. This choice affects the estimated hindrance factor and the possible Nilsson-configuration assignment.
 
 \section*{Experimental results}
 
@@ -34,7 +64,7 @@ The experiment was performed at SHANS-2 using the $^{238}$U($^{40}$Ar,$xn$)$^{27
 The event-by-event decay sequences are shown in Fig.~\ref{fig:decay-chain}, and the corresponding decay properties are summarized together with previously reported chains in Table~\ref{tab:decay_chains}.
 The subsequent decays in both observed chains proceed through $^{269}$Hs, $^{265}$Sg, and terminal spontaneous fission of $^{261}$Rf, and are consistent with previously reported decay properties of these nuclides\cite{habaProduction265Sg2012}.
 
-\begin{figure}[tbp]
+\begin{figure}[!htbp]
 	\centering 
 	\includegraphics[width=0.74\textwidth]{decayChain.pdf}	
 	\caption{Two decay chains assigned to $^{273}$Ds observed in the $^{238}$U($^{40}$Ar, $5n$)$^{273}$Ds reaction. For each chain, the energy of the evaporation residue (ER) event and its $X/Y$ position on the detector are given at the top, followed by the energies of the successive $\alpha$-decay events and the terminal spontaneous-fission (SF) event, together with the time intervals between adjacent events. Energies in parentheses denote summed signals. Italic values indicate the corresponding energy uncertainties. Red text validated in the present work and the inferred assignments related to the isomeric states.} 
@@ -42,7 +72,8 @@ The subsequent decays in both observed chains proceed through $^{269}$Hs, $^{265
 \end{figure}
 
 The first chain starts with a higher-energy and shorter-lived $^{273}$Ds alpha decay, whereas the second chain starts with a lower-energy and longer-lived decay. This two-branch pattern resembles that reported in the DGFRS-2 $^{40}$Ar + $^{238}$U experiment\cite{oganessian2024SynthesisDecayProperties}, but the present chains are complete and therefore provide additional information on the daughter decays.
-
+The marked difference in the lifetimes of $^{273}$Ds suggests that the two decay chains originate from two distinct states in $^{273}$Ds. The fact that only the short-lived $^{273}$Ds state has been observed when populated by the $\alpha$ decay of $^{277}$Cn provides further support for the existence of two different states,as shown in Table~\ref{tab:decay_chains}.
+\FloatBarrier
 \section*{Relation to the DGFRS-2 result}
 
 The long-lived $^{273}$Ds alpha decay in the present work has
@@ -55,6 +86,14 @@ E_{\alpha}=10.929(22)\ \mathrm{MeV}, \qquad \Delta t=41.703\ \mathrm{ms}.
 \]
 The energy difference is about 71 keV, which is larger than three times the present experimental energy uncertainty. Therefore, although both events belong to the lower-energy, longer-lived branch relative to the known high-energy $^{273}$Ds decay, it is not obvious whether they should be assigned to the same state. The comparison of the available $E_{\alpha}$ and decay-time information in Fig.~\ref{fig:EalphaAndDecaytime} illustrates this ambiguity, and we are considering both possibilities.
 
+\begin{figure}[!htbp]
+	\centering 
+	\includegraphics[width=0.60\textwidth]{EalphaAndDecaytime.pdf}	
+	\caption{Comparison of the $E_{\alpha}$ and mean life information for decay chains involving $^{273}$Ds. The red, blue, green, and yellow symbols correspond to the IMP, JINR\cite{oganessian2024SynthesisDecayProperties}, RIKEN\cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, and GSI\cite{hofmann2002NewResultsElements,hofmann1996NewElement112}. The fit curves in the decay-time panels are drawn according to Ref.~\cite{schmidt2000NewTestRandom}.}
+	\label{fig:EalphaAndDecaytime}%
+\end{figure}
+
+\FloatBarrier
 \section*{Possible low-lying state in $^{269}$Hs}
 
 The daughter decay in the long-lived $^{273}$Ds chain has $E_{\alpha}= 8.916\ \mathrm{MeV}$,
@@ -89,16 +128,16 @@ The decay times of individual events are listed.}
 
 No. &
 Reference &
-$E_{\alpha}$ &
-$\Delta t$ (ms) &
-$E_{\alpha}$ &
-$\Delta t$ (ms) &
-$E_{\alpha}$ &
-$\Delta t$ (s) &
-$E_{\alpha}$ &
-$\Delta t$ (s) &
-$E_{\alpha}$ &
-$\Delta t$ (s)
+$E_{\alpha}/ \mathrm{MeV}$ &
+$\Delta t$ /$\mathrm{ms}$ &
+$E_{\alpha}/ \mathrm{MeV}$ &
+$\Delta t$ /$\mathrm{ms}$ &
+$E_{\alpha}/ \mathrm{MeV}$ &
+$\Delta t$ /$\mathrm{s}$ &
+$E_{\alpha}/ \mathrm{MeV}$ &
+$\Delta t$ /$\mathrm{s}$ &
+$E_{\alpha}/ \mathrm{MeV}$ &
+$\Delta t$ /$\mathrm{s}$
 \\
 \midrule
 
@@ -181,27 +220,24 @@ Ch9 & This work
 }
 \end{table*}
 
-\begin{figure}[H]
-	\centering 
-	\includegraphics[width=0.74\textwidth]{EalphaAndDecaytime.pdf}	
-	\caption{Comparison of the $E_{\alpha}$ and mean life information for decay chains involving $^{273}$Ds. The red, blue, green, and yellow symbols correspond to the IMP, JINR\cite{oganessian2024SynthesisDecayProperties}, RIKEN\cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, and GSI\cite{hofmann2002NewResultsElements,hofmann1996NewElement112}. The fit curves in the decay-time panels are drawn according to Ref.~\cite{schmidt2000NewTestRandom}.}
-	\label{fig:EalphaAndDecaytime}%
-\end{figure}
+This apparent selectivity in the $\alpha$-decay feeding makes it more plausible that the 8.92–9.00 MeV group corresponds to an additional low-lying or isomeric state in $^{269}$Hs, rather than merely to an unresolved $\alpha$-decay branch from the same state. The compiled $^{269}$Hs $\alpha$-energy distribution in Fig.~\ref{fig:HsData_WithEvents} shows how the present low-energy event compares with the directly produced and daughter-populated $^{269}$Hs data. Owing to the inability of previous radiochemical experiments to determine the ER–$\alpha_1$ correlation time, the present work provides the first direct decay time measurement for this low-energy $\alpha$-decay group in $^{269}$Hs. However, its measured lifetime does not appear to differ significantly from those of the other groups. Given the still limited number of events, the proposed classification of states in $^{269}$Hs should therefore remain tentative.
 
-This apparent selectivity in the $\alpha$-decay feeding makes it more plausible that the 8.92–9.00 MeV group corresponds to an additional low-lying or isomeric state in $^{269}$Hs, rather than merely to an unresolved $\alpha$-decay branch from the same state. The compiled $^{269}$Hs $\alpha$-energy distribution in Fig.~\ref{fig:HsData_WithEvents} shows how the present low-energy event compares with the directly produced and daughter-populated $^{269}$Hs data. Owing to the inability of previous radiochemical experiments to determine the ER–$\alpha_1$ correlation time, the present work provides the first direct lifetime measurement for this low-energy $\alpha$-decay group in $^{269}$Hs. However, its measured lifetime does not appear to differ significantly from those of the other groups. Given the still limited number of events, the proposed classification of states in $^{269}$Hs should therefore remain tentative.
-
-\begin{figure}[H]
+\begin{figure}[!htbp]
 	\centering 
-	\includegraphics[width=0.74\textwidth]{HsData_WithEvents.pdf}	
-	\caption{Energy distributions of $\alpha$ particles assigned to $^{269}$Hs. The upper panel shows all events, the middle panel shows nuclei produced directly as evaporation residues (EVRs)\cite{dvorakDoublyMagicNucleus2006,dvorakObservation3Evaporation2008,turlerNuclearStructureReaction2012,vonzweidorfEvidenceFormationSodium2004}, and the lower panel shows nuclei populated through the $\alpha$ decay of $^{273}$Ds\cite{hofmann2002NewResultsElements,morita2007ExperimentSynthesisIsotope277,sumita2013NewResultProduction}. The hatched bin indicates the event observed in the present work at $E_{\alpha} = 8.915$ MeV.}
+	\includegraphics[width=0.52\textwidth]{HsData_WithEvents.pdf}	
+	\caption{Energy distributions of $\alpha$ particles assigned to $^{269}$Hs. The upper panel shows all events, the middle panel shows nuclei produced directly as evaporation residues (EVRs)\cite{dvorakDoublyMagicNucleus2006,dvorakObservation3Evaporation2008,turlerNuclearStructureReaction2012,vonzweidorfEvidenceFormationSodium2004}, and the lower panel shows nuclei populated through the $\alpha$ decay of $^{273}$Ds\cite{hofmann2002NewResultsElements,morita2007ExperimentSynthesisIsotope277,sumita2013NewResultProduction}. The hatched bin indicates the event observed in the present work at $E_{\alpha} = 8.916$ MeV.}
 	\label{fig:HsData_WithEvents}%
 \end{figure}
 
+\FloatBarrier
 \section*{Tentative structural interpretation}
 
 \begin{table}[htbp]
 \centering
-\caption{Decay properties assigned to the long- and short-lived states of $^{273}\mathrm{Ds}$.The half-life of $^{273}\mathrm{Ds}^{a}$ was obtained from a combined analysis of the long-lived decay events observed at JINR and IMP,whereas $^{273}\mathrm{Ds}^{b}$ denotes the short-lived component.The value for $^{273}\mathrm{Ds}^{c}$ was deduced from the singlelong-lived event observed at IMP only.}
+\caption{Decay properties assigned to the long- and short-lived states of $^{273}\mathrm{Ds}$.The half-life of $^{273}\mathrm{Ds}^{a}$ was obtained from a combined analysis of the long-lived decay events observed at JINR and IMP,whereas $^{273}\mathrm{Ds}^{b}$ denotes the short-lived component.The value for $^{273}\mathrm{Ds}^{c}$ was deduced from the single long-lived event observed at IMP only.
+The adopted HF calculation procedure was further checked against the
+results reported in Table~2 of Ref.~\cite{hessbergerLowLyingIsomers2025};
+the comparison is presented in Appendix, Table~\ref{tab:HF_validation}.}
 \label{tab:decay_properties}
 \begingroup
 \renewcommand{\arraystretch}{1.22}
@@ -219,7 +255,7 @@ Nucleus
 $^{273}\mathrm{Ds}^{a}$
 & $17.34^{+31.55}_{-6.83}$
 & $10.89(2)$
-& $97^{+183}_{40}$
+& $97^{+183}_{-40}$
 & $101^{+192}_{-42}$
 \\
 \addlinespace[0.25em]
@@ -235,7 +271,7 @@ $^{273}\mathrm{Ds}^{b}$
 $^{273}\mathrm{Ds}^{c}$
 & $5.76^{+27.62}_{-2.64}$
 & $10.86(2)$
-& $27^{+130}_{13}$
+& $27^{+130}_{-13}$
 & $28^{+135}_{-13}$
 \\
 
@@ -265,7 +301,12 @@ The nuclear surface is parameterized in terms of spherical harmonics, and the to
 The total energy combines a macroscopic contribution from the standard liquid-drop model~\cite{myersNUCLEARMASSESDEFORMATIONS} with a microscopic contribution comprising the Strutinsky shell correction~\cite{strutinsky1967ShellEffectsNuclear} and the pairing correlation energy. 
 The single-particle spectrum is generated from a deformed Woods--Saxon potential using the universal parameter set~\cite{CWIOK1987379}, while pairing correlations are treated with the approximate particle-number-conserving Lipkin--Nogami method~\cite{PRADHAN1973357}, adopting monopole pairing strengths $G$ determined by the average-gap prescription~\cite{MOLLER199220}. 
 For each specified one-quasineutron configuration, the unpaired neutron orbital is tracked and blocked at every point on the deformation lattice, thereby treating deformation and pairing consistently for that configuration. 
-The hindrance factors used to distinguish the long- and short-lived $^{273}$Ds components are listed in Table~\ref{tab:decay_properties}, while the calculated low-lying one-quasineutron configurations in $^{273}$Ds and $^{269}$Hs are summarized in Table~\ref{tab:configurations_Ds_Hs}. Their comparison with the observed $\alpha$-decay branches is used to examine possible Nilsson-configuration assignments around the deformed $N=162$ shell closure.
+The calculated Nilsson single-particle levels in
+$^{273}\mathrm{Ds}$ and $^{269}\mathrm{Hs}$ as functions of the
+deformation parameters $\beta_{2}$, $\beta_{4}$, and $\beta_{6}$
+are shown in Figs.~\ref{fig:nilsson_273Ds} and~\ref{fig:nilsson_269Hs},
+respectively.
+The hindrance factors used to distinguish the long- and short-lived $^{273}$Ds components are listed in Table~\ref{tab:decay_properties}, while the calculated one-quasineutron configurations in $^{273}$Ds and $^{269}$Hs are summarized in Table~\ref{tab:configurations_Ds_Hs}. Their comparison with the observed $\alpha$-decay branches is used to examine possible Nilsson-configuration assignments around the deformed $N=162$ shell closure.
 \begin{table}[htbp]
     \centering
     \caption{Calculated one-quasineutron configurations and excitation energies for $^{273}\mathrm{Ds}$ and $^{269}\mathrm{Hs}$.}
@@ -308,24 +349,39 @@ The hindrance factors used to distinguish the long- and short-lived $^{273}$Ds c
 \end{table}
 
 In this region, $^{273}$Ds can be viewed as containing one neutron above the $N=162$ gap, while $^{269}$Hs contains one neutron hole below it. 
-The long-lived $^{273}$Ds branch may therefore reflect a high-$\Omega$ one-quasineutron configuration whose alpha decay is hindered by configuration mismatch and, possibly, by angular-momentum and parity changes.
 
+Given the near degeneracy of the relevant one-quasineutron configurations in $^{269}\mathrm{Hs}$, the observed difference in $Q_{\alpha}$ between the two decay chains may primarily reflect the energy separation between the corresponding states in $^{273}\mathrm{Ds}$. 
 Two working scenarios are being considered, as illustrated in Fig.~\ref{energylevel}.
 
-\begin{figure}[H]
-	\centering 
-	\includegraphics[width=\textwidth]{energylevel.pdf}	
-	\caption{Comparison of the level assignments for the observed $\alpha$-decay events. In the IMP+JINR interpretation (left), the two events are assigned to a common state in $^{269}\mathrm{Hs}$. In the IMP interpretation (right), the IMP event is assigned to a separate state in $^{269}\mathrm{Hs}$, followed by the indicated $\gamma$ transition to the lower-lying state. The blue arrows denote the short-lived decay transitions, whereas the red arrows denote the long-lived decay transitions.}
-	\label{energylevel}%
+\begin{figure}[p]
+    \centering
+    \includegraphics[width=0.76\textwidth]{273Ds_n.pdf}
+    \caption{Calculated Nilsson single-particle levels in
+    $^{273}\mathrm{Ds}$ as functions of the deformation parameters
+    $\beta_{2}$, $\beta_{4}$, and $\beta_{6}$.}
+    \label{fig:nilsson_273Ds}
+
+    \vspace{4pt}
+    \includegraphics[width=0.76\textwidth]{269Hs_n.pdf}
+    \caption{Calculated Nilsson single-particle levels in
+    $^{269}\mathrm{Hs}$ as functions of the deformation parameters
+    $\beta_{2}$, $\beta_{4}$, and $\beta_{6}$.}
+    \label{fig:nilsson_269Hs}
+
+    \vspace{4pt}
+    \includegraphics[width=0.76\textwidth]{energylevel.pdf}
+    \caption{Comparison of the level assignments for the observed $\alpha$-decay events. In the IMP+JINR interpretation (left), the two long-lived events are assigned to a common state. In the IMP interpretation (right), the IMP event is assigned to a separate state, followed by the indicated $\gamma$ transition to the lower-lying state. The blue arrows denote the short-lived decay transitions, whereas the red arrows denote the long-lived decay transitions. The green wavy arrows indicate the proposed $\gamma$-ray or internal-transition (IT) decays.}
+    \label{energylevel}
 \end{figure}
 
 At present, neither the hindrance-factor analysis nor the configuration-constrained calculation provides a unique assignment. They are used mainly as consistency checks for possible structural interpretations.
 
+\FloatBarrier
 \section*{Systematics and limitations}
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 	\centering
-	\includegraphics[width=0.78\textwidth]{sys.pdf}
+	\includegraphics[width=0.70\textwidth]{sys.pdf}
 	\caption{Systematics of $Q_{\alpha}$ values and partial $\alpha$-decay half-lives for the Sg, Hs, and Ds isotopic chains. The dashed vertical lines mark $N=152$ and $N=162$. The open diamond labeled m represents $^{273}\mathrm{Ds}^{a}$, whereas the filled diamond connected to the Ds isotopic trend represents $^{273}\mathrm{Ds}^{c}$.}
     \label{fig:System}%
 \end{figure}
@@ -334,33 +390,223 @@ The isotopic systematics provide a useful broader context for the tentative assi
 
 This argument should remain modest. The same region is experimentally constrained by Extremely low fusion-evaporation cross sections, so several key nuclei are represented by only one or a few correlated decay chains, and some historical chains are incomplete. As a result, adopted half-lives, partial $\alpha$-decay half-lives, and even branch assignments may be affected by low statistics, unresolved feeding. The systematics in Fig.~\ref{fig:System} should therefore be treated as a consistency check that supports the plausibility of the proposed picture, not as an independent proof of a particular level ordering or Nilsson-configuration assignment. More complete, higher-statistics decay data are needed to fix the ordering in $^{273}$Ds and $^{269}$Hs.
 
+\FloatBarrier
 \section*{Open points for discussion}
 
 We would be grateful for comments on the following points.
 
 \begin{enumerate}
-\item From an experimental point of view, should the 10.858 MeV and 10.929 MeV long-lived $^{273}$Ds events be assigned to the same state, or is it better to keep them separate until more data are available?
-\item Can the selective association between the 8.92--9.00 MeV $^{269}$Hs decay and the long-lived $^{273}$Ds branch be regarded as meaningful evidence for an additional low-lying or isomeric state in $^{269}$Hs?
 \item How reliable are hindrance factors and configuration-constrained calculations for assigning Nilsson configurations in odd-$A$ superheavy nuclei with such limited statistics?
-\item Are the following configuration assignments for the $\alpha$-decay transitions physically reasonable,
-\[
-\nu 13/2^{-}[716]\xrightarrow{\alpha}\nu 9/2^{+}[615],\qquad \mathrm{HF}\sim 100
-\]
-
-\[
-\nu 13/2^{-}[716]\xrightarrow{\alpha}\nu 11/2^{-}[725]\xrightarrow{\gamma}\nu 9/2^{+}[615],
-\qquad \mathrm{HF}\sim 30
-\]
-and
-$$
-\nu 3/2^{+}[611]\xrightarrow{\alpha}\nu 1/2^{+}[620]\xrightarrow{\gamma}\nu 3/2^{+}[622],
-\qquad \mathrm{HF}\sim 4
-$$
-or should alternative configurations be considered?
 \item The present calculations tend to favor assigning the lower-energy, longer-lived $^{273}$Ds sequence to the ground state and the higher-energy, shorter-lived sequence to a low-lying excited state. Because the available systematics of $Q_{\alpha}$ values and half-lives near $N\approx 162$ are sparse, would such an ordering be reasonable?
+
+
+\item
+Two possible interpretations are currently being considered for the
+lower-energy, longer-lived $^{273}$Ds decay.
+They differ mainly in whether the 10.858 MeV event observed at IMP and
+the 10.929 MeV event observed at JINR should be regarded as the same
+$\alpha$-decay transition, different branches from the same parent state,
+or unrelated transitions.
+
+\medskip
+
+\textbf{Scenario I: IMP-only interpretation.}
+
+In the most conservative interpretation, the 10.858 MeV event observed
+at IMP is treated independently when discussing the microscopic
+$\alpha$-decay path. The corresponding half-life gives an empirical
+hindrance factor of approximately
+\[
+\mathrm{HF}\sim 30 .
+\]
+The preferred long-lived decay path would then be
+\[
+^{273}\mathrm{Ds}\;
+\nu 13/2^{-}[716]
+\xrightarrow{\alpha}
+^{269}\mathrm{Hs}\;
+\nu 11/2^{-}[725]
+\xrightarrow{\gamma}
+\nu 9/2^{+}[615].
+\]
+For the $\alpha$ transition,
+\[
+\Delta K=1,\qquad
+\Delta\pi=0,\qquad
+l_{\min}=2,
+\]
+and the initial and final Nilsson orbitals have closely related
+$1j_{15/2}$ spherical parentage. This makes the population of the
+$\nu 11/2^{-}[725]$ state microscopically natural compared with a
+direct transition to the nearby $\nu 9/2^{+}[615]$ state.
+The calculated excitation energies of the two states in $^{269}$Hs
+differ by only about 34~keV, so there is little energetic penalty for
+populating the $\nu 11/2^{-}[725]$ state.
+
+The main difficulty with this interpretation is that the long-lived
+transition has $\mathrm{HF}\sim30$, whereas the proposed short-lived
+transition,
+\[
+^{273}\mathrm{Ds}\;
+\nu 3/2^{+}[611]
+\xrightarrow{\alpha}
+^{269}\mathrm{Hs}\;
+\nu 1/2^{+}[620]
+\xrightarrow{\gamma}
+\nu 3/2^{+}[622],
+\]
+has only
+\[
+\mathrm{HF}\sim4 .
+\]
+Both proposed $\alpha$ transitions conserve parity, have
+$\Delta K=1$ and $l_{\min}=2$, and approximately preserve their
+dominant spherical parentage,$[1j_{15/2}\rightarrow1j_{15/2}$
+and $2g_{7/2}\rightarrow2g_{7/2},$
+respectively.
+Therefore, the difference between $\mathrm{HF}\sim30$ and
+$\mathrm{HF}\sim4$ cannot be explained simply by $\Delta K$, parity,
+or the minimum transferred angular momentum.
+It would therefore have to arise from differences in the detailed
+Nilsson-wave-function overlap between the parent and daughter states
+and in the corresponding $\alpha$-formation amplitudes.The difference may reflect more detailed differences in the quasiparticle wave functions, 
+including those associated with the high-$\Omega$ and low-$\Omega$ character of the orbitals.which are not
+evaluated in the present configuration-constrained PES approach.
+
+\medskip
+
+\textbf{Scenario II: IMP+JINR as a common $\alpha$ transition.}
+
+If the 10.858 MeV IMP event and the 10.929 MeV JINR event are assumed
+to represent the same long-lived $\alpha$-decay transition, the combined
+decay-time analysis gives
+\[
+T_{1/2}=17.34^{+31.55}_{-6.83}\ {\rm ms},
+\]
+corresponding to
+\[
+\mathrm{HF}\sim100 .
+\]
+Such a large hindrance can be naturally associated with the direct
+transition
+\[
+^{273}\mathrm{Ds}\;
+\nu 13/2^{-}[716]
+\xrightarrow{\alpha}
+^{269}\mathrm{Hs}\;
+\nu 9/2^{+}[615],
+\]
+for which
+\[
+\Delta K=2,
+\qquad
+\Delta\pi\neq0,
+\qquad
+l_{\min}=3,
+\]
+and the dominant spherical parentage changes approximately from
+\[
+1j_{15/2}\rightarrow2g_{9/2}.
+\]
+Thus, if this transition occurs, its large hindrance is qualitatively
+easy to understand.
+
+However, this scenario has a different microscopic difficulty.
+The calculation predicts the
+$\nu 11/2^{-}[725]$ state only about 34~keV above the
+$\nu 9/2^{+}[615]$ state in $^{269}$Hs.
+The competing transition
+\[
+\nu 13/2^{-}[716]
+\xrightarrow{\alpha}
+\nu 11/2^{-}[725]
+\]
+has
+\[
+\Delta K=1,\qquad
+\Delta\pi=0,\qquad
+l_{\min}=2,
+\]
+and approximately preserves the $1j_{15/2}$ spherical parentage.
+On the basis of these gross structural properties, this channel would
+normally be expected to be more favorable than the direct transition
+to $\nu 9/2^{+}[615]$.
+
+Consequently, the large value
+$\mathrm{HF}\sim100$ explains why a
+$\nu13/2^{-}[716]\rightarrow\nu9/2^{+}[615]$
+transition would be slow, but does not by itself explain why this
+strongly hindered branch should be favored over the nearby,
+more configuration-preserving
+$\nu13/2^{-}[716]\rightarrow\nu11/2^{-}[725]$
+transition.Moreover, as discussed in Ref.~\cite{hessbergerLowLyingIsomers2025}, the reliability of the experimental assignment of the JINR event remains open to question.
+The present PES calculation does not provide a microscopic
+$\alpha$-formation calculation capable of resolving this competition.
+
+\medskip
+
 \end{enumerate}
 
-\bibliographystyle{unsrt}
+\section*{Appendix}
+
+\begin{table}[H]
+\centering
+\caption{
+Validation of the hindrance-factor (HF) calculation adopted in the
+present work. The HF values calculated are compared with those reported in
+Table~2 of Ref.~\cite{hessbergerLowLyingIsomers2025}.
+}
+\label{tab:HF_validation}
+\begingroup
+\renewcommand{\arraystretch}{1.22}
+\setlength{\tabcolsep}{10pt}
+\setlength{\HFvalidationcolwidth}{%
+  \dimexpr(0.88\textwidth-10\tabcolsep-\arrayrulewidth)/6\relax}
+\begin{tabular}
+{@{}*{5}{w{c}{\HFvalidationcolwidth}}|w{c}{\HFvalidationcolwidth}@{}}
+\hline
+\rule[-0.65em]{0pt}{3.35em}\raisebox{0.5em}[0pt][0pt]{Nucleus}
+& \shortstack{$E_{\alpha}$\\(\si{\mega\electronvolt})}
+& \shortstack{$T_{1/2}$\\(\si{\milli\second})}
+& \shortstack{HF\\ \cite{HFPoenaru,HFE}}
+& \shortstack{HF\\ \cite{HFVs}}
+& \shortstack{HF\\ \cite{hessbergerLowLyingIsomers2025}}
+\\
+\hline
+$^{271}\mathrm{Ds}$
+& $10.44$
+& $32$
+& $14.24$
+& $14.19$
+& $14.5$
+\\
+
+$^{267}\mathrm{Hs}$
+& $9.73$
+& $803$
+& $21.29$
+& $18.05$
+& $21.2$
+\\
+
+$^{263}\mathrm{Sg}$
+& $9.31$
+& $4100$
+& $33.54$
+& $25.44$
+& $34.1$
+\\
+\hline
+\end{tabular}
+\endgroup
+\end{table}
+
+
+\bibliographystyle{unsrturl}
+\begingroup
+\let\originalhref\href
+\renewcommand{\href}[2]{\originalhref{#1}{\nolinkurl{#1}}}
 \bibliography{example}
+\endgroup
 
 \end{document}

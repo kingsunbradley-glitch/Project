@@ -1,0 +1,19 @@
+Environment: /home/evalie/miniconda3/envs/root_env
+Snapshot taken before the Geant4 transaction on 2026-08-10 (Asia/Shanghai).
+Conda history revision: 0 (created 2025-12-22 23:02:21)
+
+Key packages before installation:
+  ROOT       6.36.06  conda-forge
+  root_base  6.36.06  conda-forge
+  Python     3.13.11  conda-forge
+  CMake      4.2.1    conda-forge
+  GCC/G++    14.3.0   conda-forge
+  Geant4     not installed
+
+The complete immutable package list remains in the conda history and can be
+reproduced/inspected with:
+
+  conda list -n root_env --revision 0
+  conda install -n root_env --revision 0
+
+The second command is intentionally documented but was not executed.

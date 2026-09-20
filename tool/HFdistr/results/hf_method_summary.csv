@@ -1,0 +1,8 @@
+method,method_slug,n_records,n_unique_nz_cells,HF_min,HF_median,HF_max,log10_HF_min,log10_HF_median,log10_HF_max,n_HF_lt_0p1,n_HF_0p1_to_lt4,n_HF_4_to_lt10,n_HF_10_to_100,n_HF_gt_100,note
+Poenaru,poenaru,176,172,0.0200472207729,272.358734008,67260.0713686,-1.69794582687,2.43511754626,4.8277573238,1,8,5,48,114,Poenaru–Ivașcu–Mazilu parameters with B6 = −0.16820.
+DZR,dzr,176,172,0.000908186875883,1.38110701056,134.313322109,-3.04182477834,0.140219507116,2.12811909109,5,121,35,13,2,Deng–Zhang–Royer model; l is not tabulated and is assumed.
+Ismail2022_FormulaE,ismail2022_formula_e,176,172,0.00095573755569,1.25808016966,106.706398127,-3.01966134806,0.0996845108762,2.02819046055,5,136,25,9,1,Parity-specific Formula E coefficients; l is assumed.
+Qi2009_UDL,qi2009_udl,176,172,0.00135428099143,6.35286342184,1185.18242802,-2.86829121721,0.802932232125,3.07378520384,3,71,31,59,12,Universal Decay Law with the alpha-decay coefficient set.
+Viola-Seaborg,viola_seaborg,176,172,0.00101690461581,3.56709768918,570.315077148,-2.99271978137,0.552256491817,2.75611485297,3,88,29,50,6,Viola–Seaborg implementation from method/all.
+Xu2022_Unified,xu2022_unified,176,172,0.00197027412162,4.81132710036,563.328431231,-2.70547334682,0.682253673596,2.75076167067,3,75,34,55,9,"C(Z,N) is defined by the local implementation only for Z≤90. For this database (Z=99–118), C=0 is an outside-domain extrapolation."
+E. Rurarz,e_rurarz,176,172,0.00147327599861,4.43142465369,616.044119871,-2.83171588626,0.646527357331,2.7896118166,4,79,33,53,7,Poenaru-type target parameter set with B5 = B6 = −0.003033.

@@ -1,0 +1,12 @@
+isotope,audit_status,original_problem,action,T_alpha_half_s_after,T_alpha_qualifier,Viola_Seaborg_HF_after,E_Rurarz_HF_after,primary_reference
+251Es,corrected,"alpha/EC branch order was reversed (99.5% was EC, not alpha)","set EC=99.5(2)%; alpha=0.5(2)%",23760000,,3.04993024,4.18742985,https://www.nndc.bnl.gov/ensnds/251/Es/adopted.pdf
+255Es,corrected,"92% beta-minus branch was misread as alpha and EC was mislabeled","set beta-=92.0(4)%; alpha=8.0(4)%; SF=0.0041(2)%",42984000,,0.977436395,1.26488540,https://www-nds.iaea.org/amdc/ame2020/NUBASE2020.pdf
+241Fm,retained,"no reading error; alpha branch and alpha partial half-life are limits","retain BR_alpha<14% and T_alpha>0.00521428571429 s",0.00521428571429,>,0.0604263427,0.0832127403,https://www-nds.iaea.org/amdc/ame2020/NUBASE2020.pdf
+245Fm,corrected,"half-life unit was written as ms instead of s","set T_1/2=T_alpha=5.4(6) s",5.4,,1.91117809,2.89388997,https://doi.org/10.1103/PhysRevC.102.044312
+256Fm,corrected,"alpha and SF branches were reversed","set SF=91.9(3)%; alpha=8.1(3)%",116370.370370,,0.425776781,0.620520597,https://www-nds.iaea.org/amdc/ame2020/NUBASE2020.pdf
+250No,retained,"no reading error; alpha branch and Q_alpha are limits/estimates","retain BR_alpha<2%; T_alpha>0.00023 s; estimated Q_alpha",0.00023,>,0.00101690462,0.00147327600,https://www-nds.iaea.org/amdc/ame2020/NUBASE2020.pdf
+254Rf,retained,"no reading error; alpha branch and Q_alpha are limits/estimates","retain BR_alpha<1.5%; T_alpha>0.00152666666667 s; estimated Q_alpha",0.00152666666667,>,0.00843113195,0.0114734439,https://www-nds.iaea.org/amdc/ame2020/NUBASE2020.pdf
+258Rf,corrected,"alpha and SF branches were reversed","set SF=95.1(16)%; alpha=4.9(16)%",0.255102040816,,1.28122015,1.82097845,https://nucleardata.berkeley.edu/research/betap_pages/isospins/tables/tab_even_pos_25_integral.pdf
+260Rf,corrected_estimate,"35% alpha branch is unsupported; alpha decay has not been observed","use ENSDF evaluator recommendation SF~98%; alpha~2% and mark estimated",1.085,approx,0.694920140,1.01462087,https://www.nndc.bnl.gov/ensnds/260/Rf/adopted.pdf
+290Fl,retained,"no reading error in the selected Kaji-2017 tentative record; value is an upper limit","retain T_alpha<0.46 s and parenthesized-state flag",0.46,<,0.120082098,0.0961723272,https://www-nds.iaea.org/amdc/ame2020/NUBASE2020.pdf
+290Mc,corrected,"half-life unit was written as ms instead of s","set T_1/2=T_alpha=0.65(+0.49,-0.20) s",0.65,,3.05705296,2.30113187,https://www-nds.iaea.org/amdc/ame2020/NUBASE2020.pdf

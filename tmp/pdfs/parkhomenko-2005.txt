@@ -1,0 +1,1436 @@
+Vol. 36 (2005)                ACTA PHYSICA POLONICA B                        No 10
+
+
+
+
+         NEUTRON ONE-QUASIPARTICLE STATES
+               OF HEAVIEST NUCLEI
+
+                   A. Parkhomenko, A. Sobiczewski
+
+                    A. Sołtan Institute for Nuclear Studies
+                       Hoża 69, 00-681 Warsaw, Poland
+                                      and
+                  Gesellschaft für Schwerionenforschung mbH
+                          64220 Darmstadt, Germany
+
+                          (Received September 2, 2005)
+
+       Neutron one-quasiparticle states of heaviest nuclei are calculated within
+   a macroscopic–microscopic approach. Basic characteristics of these states
+   (projection of spin on the symmetry axis, parity, excitation energy, Nilsson
+   label) are given. Much attention is paid to systematics of them (especially
+   of the ground state), as functions of proton number. Other important
+   properties of the analyzed nuclei, as deformation, deformation energy, shell
+   correction to energy and neutron pairing-energy gap parameter, are also
+   given. Heavy and superheavy (even-Z, odd-N ) nuclei with proton number
+   Z = 90–110 and neutron number N =145–161 are considered. All of them
+   are expected to be deformed. It is obtained that characteristics of the
+   ground states, which are known experimentally, is rather well reproduced.
+
+    PACS numbers: 21.10.–k, 21.10.Hw, 21.10.Pc, 27.90.+b
+
+                               1. Introduction
+    We are recently witnessing intensive experimental studies of single-
+particle structure of heaviest nuclei (e.g. [1–7]). This is connected with
+a fast progress in synthesis of these nuclei and in detection of their decays.
+A review of older studies may be found in e.g. [8] and of more recent ones
+in [9]. Theoretical studies are being also done (e.g. [10–14]).
+    The objective of this paper is a theoretical study of neutron single-
+particle states of heavy and superheavy nuclei. A macroscopic–microscopic
+approach is applied, which appeared very useful in description of many other
+properties of these nuclei (e.g. [15–19]). The study is performed in a very
+similar way to that used in our previous analysis of proton single-particle
+states [14]. Even-Z, odd-N nuclei with Z = 90–110 and N = 145–161 are
+considered.
+
+                                      (3115)
+3116                   A. Parkhomenko, A. Sobiczewski
+
+                           2. Theoretical model
+    The calculations are done within a macroscopic–microscopic approach.
+The Yukawa-plus-exponential model [20] is used for the calculation of the
+macroscopic part of energy of a nucleus, and the Strutinski shell correction is
+taken for its microscopic part. The Woods–Saxon single-particle potential,
+with the “universal” variant of its parameters found in [21] and also specified
+explicitly in [15], is used for description of the single-particle properties of
+a nucleus. Values of parameters of the macroscopic part of mass are taken
+the same as in [22], where they were adjusted to experimental masses [23]
+of even–even heaviest nuclei with atomic number Z ≥ 84.
+    A large, 7-dimensional deformation space, {βλ }, λ = 2, 3, . . . , 8, is used
+to obtain the equilibrium deformation of a nucleus. The contribution of an
+odd nucleon, occupying a single-particle state | µi,
+                                                   q to energy of a nucleus is
+described by the one-quasiparticle energy Eµ = (eµ − λ)2 + ∆2 . Here, eµ
+is the energy of the odd nucleon in the state | µi and ∆ is the pairing-energy
+gap parameter, calculated in the BCS approximation. Pairing interaction of
+the monopole type, with the same strength parameters as in [22], is taken.
+No blocking is used. The calculations are done in a very similar way to that
+of [14] (cf. also [18, 24]).
+
+                                  3. Results
+                        3.1. Equilibrium deformations
+    As stated in the previous section, equilibrium deformation of a nucleus
+is calculated in the 7-dimensional deformation space, {βλ }, λ = 2, 3, . . . , 8.
+Non-zero equilibrium deformation parameters of odd multipolarity, βλ0 6= 0,
+λ = 3, 5, 7, are obtained, however, only for very light isotopes of the analyzed
+elements, e.g. 227 Th, 225 U, 227 Pu (cf. [25]), i.e. much lighter than these
+considered in the present paper. Thus, for all nuclei studied here, only
+deformations of even multipolarities βλ0 , λ = 2, 4, 6, 8, are different from
+zero. Their values are given in Table I.
+
+       3.2. Deformation energy, shell correction energy and neutron
+                             pairing-energy gap
+    Table I also shows a few other important characteristics of the considered
+nuclei: deformation energy Edef , shell correction energy Esh and neutron
+energy gap parameter ∆n . The energy Edef tells us how well is a nucleus
+deformed and Esh informs us how much it gains in energy from its shell
+structure. Value of the parameter ∆n gives an information how good is the
+BCS approximation. If ∆n is not too close to zero, the approximation is
+good.
+           Neutron One-Quasiparticle States of Heaviest Nuclei            3117
+
+    One can see in Table I that all considered nuclei are well deformed (as
+such ones, we consider nuclei with Edef > 2 MeV [26]). For most of them
+Edef exceeds 10 MeV and for some of them this energy is even larger than
+13 MeV.
+    Concerning shell correction energy Esh , it reflects a general tendency
+discussed e.g. in [15, 16, 27]. For nuclei considered in this paper, Esh takes
+its maximum (6.4 MeV in absolute value) for the nucleus 269 Hs (Z=108),
+i.e. for a neighbor of the doubly magic deformed nucleus 270 Hs [15, 27].
+    What concerns the pairing-energy gap parameter ∆n , one can see in
+Table I that it is never equal to zero. The smallest value of it (0.36 MeV)
+is obtained for the nucleus 269 Hs, i.e. the nucleus with the largest shell
+correction Esh , which means that it strongly feels the influence of a large
+energy gap in the neutron single-particle spectrum appearing at the closed
+deformed shell at N = 162. For such a nucleus, the value ∆n = 0.36 MeV
+may be considered as a “normal” value, not influenced by the deficiency of
+the BCS approximation which appears at the pairing interaction strength
+G close to its critical value Gcr . A direct check shows that we are really, in
+this case, in a sufficiently large distance from Gcr .
+
+
+
+                        3.3. One-quasiparticle states
+    In this subsection, we present quantum characteristics and excitation
+energies of 5 lowest neutron states: the ground state and 4 excited states.
+The quantum characteristics are: projection of the total spin of a state
+on the symmetry axis Ω and the Nilsson (“asymptotic”) quantum numbers
+[N nz Λ], where N is the total number of the oscillator quanta, nz is the
+number of quanta along the symmetry axis Oz and Λ is projection of the
+orbital angular momentum on the symmetry axis. For a shorter notation,
+we give 2Ω instead of Ω, and do not show explicitly parity π of a state,
+as it is the same as parity of the number N (π = (−1)N ). (In the figures,
+however, we explicitly show also π.)
+    Characteristics of the ground state (g.s.) of considered nuclei are given
+in Table I. They are compared with available experimental data, taken from
+references given in the last column. As usual, data, which are not certain,
+are put into round brackets. One can see that in most cases, calculated Ω
+and parity agree with experimental ones. More particularly, of 34 cases,
+in which experimental indications of the values of Ω and π are given, the
+agreement appears in 23 cases. In the rest ones, a calculated state with
+proper Ω and π is often close or even very close in energy to the ground
+state (e.g. 241 Cm), but sometimes it is not (e.g. 255 Fm), as can bee seen in
+Figs. 3 to 9.
+3118                        A. Parkhomenko, A. Sobiczewski
+
+                                                                                   TABLE I
+Deformation parameters βλ0 , deformation energies Edef , shell correction energies Esh , neu-
+tron energy-gap parameters ∆n and the ground-state quantum characteristics: theoretical
+(th) and experimental (exp) given for even-Z, odd-N nuclei with N = 145–161.
+
+    Z A       β20     β40     β60       β80    Edef Esh    ∆n         (th) (exp) Ref.
+    — —       —       —       —         —     [MeV] [MeV] [MeV]       g.s.  g.s.  —
+
+                               N = 145
+    90 235 0.219    0.091   −0.007
+                               −0.025           7.9   −1.9    0.55   7[743] (1+) [28]
+    92 237 0.223    0.095   −0.007
+                               −0.026           9.5   −2.4    0.53   7[743] 1+ [28]
+    94 239 0.229    0.091   −0.011
+                               −0.026          10.7   −2.8    0.51   7[743] 1+ [28]
+    96 241 0.233    0.081   −0.018
+                               −0.021          11.7   −2.9    0.52   7[743] 1+ [28]
+    98 243 0.237    0.072   −0.027
+                               −0.018          12.3   −3.0    0.53   1[631] (1+) [5, 28]
+   100 245 0.241    0.062   −0.032
+                               −0.021          12.6   −2.9    0.54   1[631]
+   102 247 0.242    0.052   −0.037
+                               −0.014          12.3   −2.4    0.58   1[631]
+                               N = 147
+    92 239 0.231 0.083 −0.018 −0.028            9.6   −2.5    0.49   5[622] 5+      [28]
+    94 241 0.235 0.081 −0.021 −0.025           10.8   −2.9    0.48   5[622] 5+      [28]
+    96 243 0.238 0.073 −0.026 −0.021           12.0   −3.2    0.49   5[622] 5+      [28]
+    98 245 0.242 0.064 −0.034 −0.017           12.7   −3.4    0.50   5[622] (5+)     [5]
+   100 247 0.247 0.055 −0.043 −0.015           13.2   −3.5    0.51   5[622] (7+)     [5]
+   102 249 0.247 0.044 −0.045 −0.011           12.9   −3.1    0.55   5[622]
+   104 251 0.244 0.028 −0.040 −0.008           12.3   −2.7    0.61   5[622]
+   106 253 0.243 0.009 −0.038    0.001         11.6   −2.3    0.68   7[624]
+                               N = 149
+    94 243 0.235 0.062 −0.027 −0.013           10.5   −2.8    0.53   7[624] 7+ [28]
+    96 245 0.238 0.058 −0.031 −0.011           11.7   −3.3    0.53   7[624] 7+ [28]
+    98 247 0.243 0.050 −0.038 −0.008           12.7   −3.6    0.52   7[624] (7+) [28]
+   100 249 0.247 0.042 −0.046 −0.006           13.2   −3.9    0.52   7[624] 7+ [5, 9]
+   102 251 0.249 0.029 −0.050 −0.002           13.2   −3.7    0.55   7[624] 7+ [4, 5]
+   104 253 0.247 0.016 −0.045    0.000         12.8   −3.5    0.57   9[734]
+   106 255 0.246 −0.001 −0.043   0.007         12.2   −3.3    0.62   9[734]
+                               N = 151
+    94 245 0.239 0.043 −0.035 −0.002           10.1   −2.9    0.49   9[734] (9-)    [28]
+    96 247 0.242 0.041 −0.038 −0.001           11.4   −3.4    0.47   9[734] 9-      [28]
+    98 249 0.245 0.035 −0.044    0.000         12.4   −4.0    0.44   9[734] 9-      [28]
+   100 251 0.249 0.029 −0.051    0.002         13.2   −4.4    0.42   9[734] (9-)    [28]
+   102 253 0.252 0.019 −0.054    0.005         13.4   −4.5    0.42   9[734] 9-       [5]
+   104 255 0.249 0.008 −0.050    0.006         13.2   −4.4    0.43   9[734] 9-       [4]
+   106 257 0.247 −0.006 −0.047   0.011         12.8   −4.3    0.45   9[734]
+                               N = 153
+    94 247 0.243 0.027 −0.042 0.006             9.3   −2.6    0.51   1[620]
+    96 249 0.245 0.026 −0.045 0.006            10.5   −3.2    0.49   1[620] 1(+)    [28]
+    98 251 0.248 0.023 −0.049 0.007            11.6   −3.8    0.47   1[620] 1+      [28]
+   100 253 0.251 0.017 −0.054 0.005            12.4   −4.3    0.45   1[620] 1+      [28]
+   102 255 0.254 0.009 −0.059 0.012            12.8   −4.6    0.43   1[620] (1+)    [28]
+   104 257 0.252 −0.004 −0.054 0.014           12.8   −4.7    0.43   1[620] 1+       [1]
+   106 259 0.250 −0.016 −0.051 0.018           12.5   −4.8    0.44   1[620] (1+)    [28]
+   108 261 0.243 −0.028 −0.043 0.018           11.6   −4.5    0.47   1[620]
+           Neutron One-Quasiparticle States of Heaviest Nuclei                    3119
+
+                                                                         TABLE I cont.
+    Z A     β20    β40    β60      β80      Edef Esh    ∆n       (th)    (exp) Ref.
+    — —     —      —      —        —       [MeV] [MeV] [MeV]     g.s.     g.s. —
+
+                                 N = 155
+    94 249 0.240 0.016 −0.041     0.011     8.3   −2.3   0.61   1[620]
+    96 251 0.243 0.016 −0.043     0.011     9.4   −2.8   0.60   1[620] (1+) [28]
+    98 253 0.246 0.012 −0.048     0.012    10.5   −3.4   0.58   1[620] (7+) [28]
+   100 255 0.250 0.006 −0.053     0.014    11.3   −4.0   0.56   1[620] 7+ [28]
+   102 257 0.253 −0.003 −0.056    0.019    11.8   −4.3   0.54   1[620] (7+) [28]
+   104 259 0.251 −0.015 −0.053    0.021    11.9   −4.6   0.54   1[620]
+   106 261 0.249 −0.027 −0.050    0.025    11.9   −5.0   0.54   1[620]
+   108 263 0.245 −0.041 −0.040    0.025    11.1   −4.9   0.56   1[620]
+
+                                 N =157
+    96 253 0.237 0.002 −0.043     0.020     8.3   −2.5   0.62   11[725]
+    98 255 0.245 −0.002 −0.047    0.020     9.3   −3.0   0.60   11[725] (9+) [28]
+   100 257 0.249 −0.007 −0.052    0.022    10.1   −3.6   0.57   11[725] (9+) [28]
+   102 259 0.252 −0.016 −0.055    0.026    10.7   −4.2   0.54   11[725] (9+) [28]
+   104 261 0.251 −0.026 −0.052    0.029    10.9   −4.6   0.52   11[725]
+   106 263 0.250 −0.037 −0.050    0.032    11.1   −5.1   0.51   11[725]
+   108 265 0.245 −0.049 −0.039    0.030    10.5   −5.2   0.54   11[725]
+   110 267 0.234 −0.050 −0.028    0.023     8.5   −4.1   0.59    3[622]
+
+                                 N =159
+    98 257 0.237 −0.016 −0.037    0.019     8.2   −2.9   0.58   9[615]
+   100 259 0.244 −0.021 −0.045    0.025     9.0   −3.5   0.54   7[613]
+   102 261 0.243 −0.029 −0.044    0.026     9.7   −4.1   0.52   7[613]
+   104 263 0.245 −0.038 −0.044    0.029    10.1   −4.8   0.49   7[613]
+   106 265 0.247 −0.047 −0.045    0.034    10.3   −5.4   0.47   7[613]
+   108 267 0.240 −0.059 −0.034    0.032     9.9   −5.7   0.50   7[613]
+   110 269 0.232 −0.063 −0.022    0.027     8.1   −4.8   0.54   9[615]
+
+                                 N =161
+   100 261 0.233 −0.037 −0.031    0.022     8.1   −3.7   0.43   9[615]
+   102 263 0.235 −0.042 −0.032    0.024     8.8   −4.3   0.41   9[615]
+   104 265 0.237 −0.049 −0.033    0.026     9.3   −5.1   0.39   9[615]
+   106 267 0.238 −0.057 −0.033    0.030     9.6   −5.8   0.37   9[615]
+   108 269 0.237 −0.067 −0.026    0.031     9.5   −6.4   0.36   9[615]
+   110 271 0.230 −0.072 −0.017    0.028     7.8   −5.6   0.38   9[615]
+
+    Table II gives quantum characteristics and excitation energies of the
+lowest four neutron one-quasiparticle states of considered nuclei, in addition
+to the ground state. Here, the structure of the states is better described
+than in Table I, as three main components of each state, instead of only one,
+are specified. These are the components in the expansion of a given state
+(Ω,π) in terms of pure harmonic oscillator (h.o.) states. Magnitude of the
+contribution of a component to the state is given (in % ) by square of the
+amplitude of this component. Sum of the contributions of all components
+3120                       A. Parkhomenko, A. Sobiczewski
+
+                                                                                 TABLE II
+Quantum characteristics 2Ω[N nz Λ] of three main components (and their contributions
+given in %) of the ground state (g.s.) and of four excited states of (even-Z, odd-N ) nuclei
+with neutron number N = 145–161. For an excited state, the excitation energy is also
+given (in MeV).
+
+    Z    A      g.s.        1               2                3                4
+
+                                          N =145
+    90 235 7[743] 58     1[631] 38 0.05   5[622] 47 0.12   7[624] 50 0.53   5[633] 57 0.57
+           7[723] 16     1[611] 11        5[633] 14        7[633] 13        5[642] 14
+           7[734] 10     1[640] 11        5[422] 8         7[613] 10        5[613] 12
+    92 237 7[743] 59     1[631] 39 0.04   5[622] 47 0.14   7[624] 51 0.57   5[633] 58 0.58
+           7[723] 16     1[611] 11        5[633] 13        7[633] 13        5[642] 14
+           7[734] 10     1[640] 10        5[422] 8         7[613] 10        5[613] 12
+    94 239 7[743] 59     1[631] 39 0.02   5[622] 48 0.16   7[624] 57 0.59   5[633] 60 0.62
+           7[723] 15     1[611] 11        5[633] 12        7[633] 12        5[642] 14
+           7[734] 10     1[640] 10        5[422] 9         7[613] 7         5[613] 11
+    96 241 7[743] 59     1[631] 39 0.00   5[622] 50 0.14   7[624] 65 0.52   5[633] 61 0.67
+           7[723] 15     1[640] 10        5[633] 10        7[633] 12        5[642] 14
+           7[734] 10     1[611] 10        5[422] 9         7[604] 6         5[613] 10
+    98 243 1[631] 39     7[743] 58 0.02   5[622] 51 0.14   7[624] 70 0.48   1[501] 45 0.53
+           1[640] 11     7[723] 14        5[422] 10        7[633] 11        1[701] 22
+           1[611] 10     7[734] 10        5[633] 9         7[604] 5         1[301] 19
+   100 245 1[631] 39     7[743] 58 0.05   5[622] 52 0.14   1[501] 47 0.37   7[624] 72 0.44
+           1[640] 10     7[723] 14        5[422] 10        1[701] 21        7[633] 10
+           1[611] 9      7[734] 10        5[633] 8         1[301] 18        7[604] 5
+   102 247 1[631] 38     7[743] 58 0.06   5[622] 53 0.10   1[501] 48 0.26   7[624] 74 0.32
+           1[640] 11     7[723] 14        5[422] 10        1[701] 21        7[633] 10
+           1[611] 8      7[734] 11        5[633] 7         1[301] 18        7[604] 4
+                                          N =147
+    92 239 5[622] 49     7[624] 60 0.26   7[743] 58 0.26   1[631] 39 0.34   9[734] 72 0.47
+           5[633] 10     7[633] 12        7[723] 15        1[611] 10        9[714] 10
+           5[422] 9      7[613] 6         7[734] 10        1[640] 10        9[725] 8
+    94 241 5[622] 50     7[624] 64 0.25   7[743] 58 0.30   1[631] 40 0.34   9[734] 72 0.43
+           5[633] 10     7[633] 11        7[723] 15        1[611] 10        9[714] 9
+           5[422] 9      7[604] 6         7[734] 10        1[640] 10        9[725] 8
+    96 243 5[622] 51     7[624] 69 0.21   1[631] 39 0.31   7[743] 58 0.32   9[734] 72 0.37
+           5[422] 10     7[633] 11        1[640] 10        7[723] 14        9[714] 9
+           5[633] 9      7[604] 5         1[611] 10        7[734] 10        9[725] 8
+    98 245 5[622] 52     7[624] 72 0.17   1[631] 39 0.30   9[734] 73 0.31   7[743] 58 0.34
+           5[422] 10     7[633] 10        1[640] 10        9[714] 8         7[723] 14
+           5[822] 8      7[604] 5         1[611] 9         9[725] 7         7[734] 10
+   100 247 5[622] 53     7[624] 74 0.14   9[734] 73 0.24   1[631] 39 0.30   7[743] 57 0.37
+           5[422] 10     7[633] 10        9[714] 8         1[640] 10        7[723] 13
+           5[822] 8      7[604] 4         9[725] 7         1[611] 8         7[734] 10
+   102 249 5[622] 53     7[624] 75 0.09   9[734] 72 0.19   1[631] 37 0.25   7[743] 57 0.34
+           5[422] 11     7[633] 10        9[714] 8         1[640] 11        7[723] 13
+           5[822] 7      7[604] 4         9[725] 7         1[611] 8         7[734] 11
+         Neutron One-Quasiparticle States of Heaviest Nuclei                       3121
+
+                                                                        TABLE II cont.
+
+ Z   A    g.s.        1                2                3                4
+
+                                     N =147 (continuation)
+104 251 5[622] 53   7[624] 76 0.03   9[734] 72 0.15   1[631] 35 0.16   7[743] 57 0.29
+        5[422] 11   7[633] 10        9[725] 8         1[640] 11        7[723] 14
+        5[822] 7    7[604] 3         9[714] 7         1[431] 8         7[734] 12
+106 253 7[624] 76   5[622] 52 0.01   9[734] 71 0.09   1[631] 31 0.10   1[501] 52 0.16
+        7[633] 11   5[422] 12        9[725] 8         1[640] 12        1[701] 19
+        7[844] 4    5[842] 8         9[954] 7         1[431] 8         1[301] 18
+
+                                     N =149
+ 94 243 7[624] 71   9[734] 72 0.10   5[622] 50 0.11   7[743] 57 0.50   1[631] 37 0.54
+        7[633] 11   9[714] 8         5[422] 10        7[723] 14        1[640] 10
+        7[604] 5    9[725] 8         5[633] 9         7[734] 11        1[611] 9
+ 96 245 7[624] 72   9[734] 72 0.08   5[622] 51 0.10   1[631] 37 0.53   7[743] 57 0.53
+        7[633] 10   9[714] 8         5[422] 11        1[640] 10        7[723] 14
+        7[604] 5    9[725] 8         5[822] 8         1[611] 9         7[734] 11
+ 98 247 7[624] 74   9[734] 72 0.06   5[622] 52 0.09   1[631] 37 0.52   7[743] 57 0.55
+        7[633] 10   9[714] 8         5[422] 11        1[640] 11        7[723] 14
+        7[604] 4    9[725] 7         5[822] 8         1[611] 8         7[734] 11
+100 249 7[624] 75   9[734] 72 0.04   5[622] 52 0.08   1[631] 36 0.51   7[743] 56 0.56
+        7[633] 10   9[714] 7         5[422] 11        1[640] 11        7[723] 13
+        7[604] 4    9[954] 7         5[822] 8         1[431] 8         7[734] 11
+102 251 7[624] 76   9[734] 72 0.02   5[622] 53 0.07   1[631] 34 0.44   7[743] 56 0.52
+        7[633] 10   9[954] 8         5[422] 11        1[640] 11        7[723] 13
+        7[844] 4    9[725] 7         5[822] 8         1[431] 8         7[734] 11
+104 253 9[734] 71   7[624] 76 0.01   5[622] 52 0.07   1[631] 32 0.33   1[501] 50 0.38
+        9[725] 8    7[633] 10        5[422] 12        1[640] 11        1[701] 20
+        9[954] 8    7[844] 4         5[842] 8         1[431] 8         1[301] 18
+106 255 9[734] 71   7[624] 75 0.08   5[622] 52 0.11   1[501] 51 0.23   1[631] 29 0.26
+        9[725] 8    7[633] 11        5[422] 12        1[701] 19        1[640] 11
+        9[954] 8    7[844] 5         5[842] 9         1[301] 18        1[431] 8
+
+                                     N =151
+ 94 245 9[734] 71   7[624] 73 0.16   5[622] 50 0.39   1[620] 44 0.49   7[613] 55 0.55
+        9[725] 8    7[633] 10        5[422] 11        1[420] 10        7[813] 15
+        9[714] 8    7[604] 4         5[822] 8         1[820] 8         7[413] 13
+ 96 247 9[734] 71   7[624] 74 0.17   5[622] 51 0.38   1[620] 44 0.54   7[613] 56 0.64
+        9[725] 8    7[633] 10        5[422] 11        1[420] 10        7[813] 14
+        9[714] 7    7[604] 4         5[822] 8         1[820] 8         7[413] 13
+ 98 249 9[734] 71   7[624] 75 0.17   5[622] 51 0.36   1[620] 45 0.59   3[622] 52 0.72
+        9[954] 8    7[633] 10        5[422] 12        1[420] 11        3[422] 8
+        9[725] 7    7[604] 4         5[822] 8         1[820] 8         3[631] 7
+100 251 9[734] 71   7[624] 75 0.18   5[622] 52 0.33   1[620] 46 0.63   3[622] 53 0.76
+        9[954] 8    7[633] 10        5[422] 12        1[420] 11        3[422] 8
+        9[725] 7    7[844] 4         5[842] 8         1[820] 8         3[631] 7
+3122                      A. Parkhomenko, A. Sobiczewski
+
+                                                                          TABLE II cont.
+  Z    A   g.s.       1                 2                 3                 4
+
+                                      N =151 (continuation)
+102 253 9[734] 71   7[624] 76 0.20    5[622] 52 0.32 1[620] 47 0.66       1[501] 47 0.71
+        9[954] 8    7[633] 10         5[422] 12      1[420] 11            1[701] 20
+        9[725] 7    7[844] 5          5[842] 9       1[820] 8             1[301] 18
+104 255 9[734] 70   7[624] 75 0.25    5[622] 52 0.32 1[501] 49 0.58       1[631] 31 0.63
+        9[954] 8    7[633] 10         5[422] 12      1[701] 20            1[640] 11
+        9[725] 8    7[844] 5          5[842] 9       1[301] 18            1[431] 8
+106 257 9[734] 70   7[624] 75 0.32    5[622] 51 0.34 1[501] 50 0.41       1[631] 28 0.51
+        9[954] 8    7[633] 10         5[422] 13      1[701] 19            1[640] 11
+        9[725] 8    7[844] 5          5[842] 10      1[301] 18            1[431] 8
+                                      N =153
+ 94 247 1[620] 44   3[622] 50 0.09    7[613] 56 0.15    9[734] 70 0.17    11[725] 81 0.33
+        1[420] 11   3[422] 8          7[813] 15         9[954] 8          11[925] 5
+        1[820] 8    3[631] 8          7[413] 13         9[725] 8          11[945] 5
+ 96 249 1[620] 44   3[622] 51 0.09    7[613] 57 0.18    9[734] 70 0.23    11[725] 81 0.30
+        1[420] 11   3[422] 8          7[813] 14         9[954] 8          11[925] 5
+        1[820] 8    3[631] 7          7[413] 13         9[725] 8          11[945] 5
+ 98 251 1[620] 45   3[622] 52 0.08    7[613] 58 0.22    11[725] 81 0.28   9[734] 70 0.30
+        1[420] 11   3[422] 8          7[813] 14         11[945] 5         9[954] 8
+        1[820] 8    3[631] 7          7[413] 13         11[925] 5         9[725] 8
+100 253 1[620] 46   3[622] 53 0.07    11[725] 82 0.25   7[613] 59 0.26    9[734] 70 0.39
+        1[420] 11   3[422] 8          11[945] 5         7[813] 14         9[954] 8
+        1[820] 8    3[631] 7          11[925] 5         7[413] 13         9[725] 7
+102 255 1[620] 46   3[622] 53 0.06    11[725] 82 0.22   7[613] 60 0.37    9[734] 70 0.47
+        1[420] 11   3[422] 8          11[945] 6         7[813] 13         9[954] 9
+        1[840] 9    3[842] 8          11[925] 5         7[413] 12         9[725] 7
+104 257 1[620] 46   3[622] 52 0.05    11[725] 82 0.15   7[613] 60 0.36    9[734] 69 0.48
+        1[420] 11   3[422] 9          11[945] 6         7[813] 13         9[954] 9
+        1[840] 9    3[842] 8          11[925] 5         7[413] 13         9[725] 8
+106 259 1[620] 45   3[622] 52 0.05    11[725] 81 0.09   7[613] 61 0.37    9[734] 69 0.47
+        1[420] 12   3[422] 9          11[945] 7         7[413] 13         9[954] 9
+        1[840] 10   3[842] 9          11[925] 5         7[813] 12         9[725] 8
+108 261 1[620] 43   11[725] 81 0.03   3[622] 50 0.04    7[613] 61 0.29    9[734] 68 0.40
+        1[420] 12   11[945] 7         3[422] 9          7[413] 13         9[725] 9
+        1[840] 10   11[925] 5         3[842] 9          7[813] 12         9[954] 8
+                                      N =155
+ 94 249 1[620] 43   3[622] 49 0.02    7[613] 56 0.06    11[725] 81 0.14   9[615] 78 0.39
+        1[420] 11   3[422] 9          7[813] 15         11[925] 5         9[624] 6
+        1[820] 8    3[631] 8          7[413] 13         11[945] 5         9[815] 4
+ 96 251 1[620] 43   3[622] 50 0.02    7[613] 57 0.07    11[725] 81 0.12   9[615] 79 0.40
+        1[420] 11   3[422] 9          7[813] 14         11[945] 5         9[624] 6
+        1[840] 8    3[631] 8          7[413] 13         11[925] 5         9[815] 4
+ 98 253 1[620] 44   3[622] 51 0.01    11[725] 81 0.10   7[613] 58 0.10    9[615] 81 0.44
+        1[420] 11   3[422] 9          11[945] 6         7[813] 14         9[624] 6
+        1[840] 9    3[842] 8          11[925] 5         7[413] 13         9[815] 4
+          Neutron One-Quasiparticle States of Heaviest Nuclei                      3123
+
+                                                                         TABLE II cont.
+ Z   A    g.s.         1                2                3                 4
+
+                                      N =155 (continuation)
+100 255 1[620] 45    3[622] 52 0.01   11[725] 81 0.08 7[613] 59 0.14     9[615] 82 0.50
+        1[420] 11    3[422] 9         11[945] 6       7[813] 14          9[624] 5
+        1[840] 9     3[842] 8         11[925] 5       7[413] 13          9[815] 4
+102 257 1[620] 45    3[622] 52 0.00   11[725] 81 0.05 7[613] 60 0.20     9[615] 84 0.55
+        1[420] 12    3[422] 9         11[945] 7       7[813] 13          9[624] 5
+        1[840] 9     3[842] 9         11[925] 5       7[413] 13          9[815] 3
+104 259 1[620] 44    3[622] 51 0.00   11[725] 81 0.03 7[613] 60 0.21     9[615] 85 0.51
+        1[420] 12    3[422] 9         11[945] 7       7[413] 13          9[624] 5
+        1[840] 10    3[842] 9         11[925] 5       7[813] 13          9[835] 3
+106 261 1[620] 43    3[622] 50 0.00   11[725] 81 0.01 7[613] 61 0.22     9[615] 85 0.48
+        1[420] 12    3[842] 9         11[945] 7       7[413] 13          9[624] 5
+        1[840] 10    3[422] 9         11[925] 5       7[813] 12          9[835] 4
+108 263 1[620] 42    3[622] 48 0.00   11[725] 80 0.00 7[613] 60 0.17     9[615] 85 0.34
+        1[420] 12    3[842] 10        11[945] 7       7[413] 13          9[624] 5
+        1[840] 11    3[422] 9         11[925] 5       7[813] 12          9[835] 5
+
+                                      N =157
+ 96 253 11[725] 80   7[613] 57 0.00   3[622] 48 0.02   1[620] 42 0.05    9[615] 82 0.19
+        11[945] 6    7[813] 14        3[422] 9         1[420] 12         9[624] 6
+        11[925] 6    7[413] 13        3[842] 8         1[840] 9          9[815] 4
+ 98 255 11[725] 81   7[613] 58 0.02   3[622] 50 0.03   1[620] 43 0.07    9[615] 83 0.24
+        11[945] 6    7[813] 14        3[422] 9         1[420] 12         9[624] 5
+        11[925] 5    7[413] 13        3[842] 9         1[840] 10         9[815] 4
+100 257 11[725] 81   7[613] 59 0.04   3[622] 50 0.04   1[620] 43 0.08    9[615] 84 0.28
+        11[945] 7    7[813] 14        3[422] 9         1[420] 12         9[624] 5
+        11[925] 5    7[413] 13        3[842] 9         1[840] 10         9[815] 4
+102 259 11[725] 81   3[622] 50 0.06   7[613] 60 0.06   1[620] 43 0.09    9[615] 85 0.32
+        11[945] 7    3[842] 9         7[813] 13        1[420] 12         9[624] 5
+        11[925] 5    3[422] 9         7[413] 13        1[840] 10         9[835] 4
+104 261 11[725] 80   3[622] 50 0.05   7[613] 60 0.06   1[620] 43 0.08    9[615] 85 0.28
+        11[945] 8    3[842] 10        7[413] 13        1[420] 12         9[624] 5
+        11[925] 5    3[422] 9         7[813] 13        1[840] 11         9[835] 4
+106 263 11[725] 80   3[622] 49 0.04   7[613] 60 0.06   1[620] 42 0.06    9[615] 85 0.25
+        11[945] 8    3[842] 10        7[413] 13        1[420] 12         9[835] 5
+        11[925] 5    3[422] 9         7[813] 12        1[840] 11         9[624] 5
+108 265 11[725] 80   3[622] 47 0.01   7[613] 60 0.02   1[620] 40 0.02    9[615] 85 0.12
+        11[945] 8    3[842] 10        7[413] 13        1[420] 12         9[835] 6
+        11[925] 5    3[422] 9         7[813] 12        1[840] 11         9[624] 5
+110 267 3[622] 46    7[613] 59 0.00   1[620] 39 0.01   11[725] 79 0.02   9[615] 85 0.04
+        3[842] 10    7[413] 14        1[420] 12        11[945] 7         9[624] 5
+        3[422] 10    7[813] 12        1[840] 11        11[925] 5         9[835] 5
+3124                    A. Parkhomenko, A. Sobiczewski
+
+                                                                          TABLE II cont.
+  Z    A   g.s.        1                2                 3                 4
+
+                                      N =159
+  98 257 9[615] 84   7[613] 57 0.00   11[725] 80 0.03   3[622] 47 0.11    1[620] 40 0.16
+         9[624] 5    7[813] 14        11[945] 7         3[422] 10         1[420] 12
+         9[815] 4    7[413] 14        11[925] 6         3[842] 9          1[840] 10
+ 100 259 7[613] 58   9[615] 84 0.05   11[725] 80 0.08   3[622] 48 0.19    1[620] 41 0.24
+         7[813] 14   9[624] 5         11[945] 7         3[842] 10         1[420] 12
+         7[413] 13   9[835] 4         11[925] 6         3[422] 9          1[840] 10
+ 102 261 7[613] 59   9[615] 85 0.04   11[725] 80 0.11   3[622] 48 0.20    1[620] 41 0.24
+         7[413] 13   9[624] 5         11[945] 7         3[842] 10         1[420] 12
+         7[813] 13   9[835] 4         11[925] 6         3[422] 10         1[840] 11
+ 104 263 7[613] 59   9[615] 85 0.04   11[725] 80 0.15   3[622] 47 0.23    1[620] 41 0.27
+         7[413] 13   9[835] 5         11[945] 8         3[842] 10         1[420] 12
+         7[813] 13   9[624] 5         11[925] 5         3[422] 10         1[840] 11
+ 106 265 7[613] 59   9[615] 84 0.05   11[725] 79 0.21   3[622] 47 0.28    1[620] 40 0.31
+         7[413] 13   9[835] 6         11[945] 8         3[842] 10         1[420] 12
+         7[813] 12   9[624] 5         11[925] 5         3[422] 9          1[840] 11
+ 108 267 7[613] 59   9[615] 84 0.01   11[725] 79 0.19   3[622] 45 0.19    1[620] 38 0.21
+         7[413] 13   9[835] 6         11[945] 8         3[842] 10         1[420] 12
+         7[813] 12   9[624] 5         11[925] 6         3[422] 10         1[840] 11
+ 110 269 9[615] 84   7[613] 58 0.01   3[622] 43 0.11    1[620] 37 0.12    11[725] 78 0.16
+         9[835] 6    7[413] 14        3[842] 10         1[420] 12         11[945] 8
+         9[624] 5    7[813] 12        3[422] 10         1[840] 11         11[925] 6
+
+                                      N =161
+ 100 261 9[615] 84   7[613] 57 0.15   11[725] 79 0.24   3[622] 45 0.33    1[620] 38 0.38
+         9[624] 5    7[413] 14        11[945] 7         3[842] 10         1[420] 12
+         9[835] 5    7[813] 14        11[925] 6         3[422] 10         1[840] 11
+ 102 263 9[615] 84   7[613] 57 0.13   11[725] 79 0.29   3[622] 45 0.36    1[620] 38 0.40
+         9[624] 5    7[413] 14        11[945] 7         3[842] 10         1[420] 12
+         9[835] 5    7[813] 14        11[925] 6         3[422] 10         1[840] 11
+ 104 265 9[615] 84   7[613] 58 0.11   11[725] 79 0.33   3[622] 45 0.38    1[620] 38 0.42
+         9[835] 5    7[413] 14        11[945] 8         3[842] 10         1[420] 12
+         9[624] 5    7[813] 13        11[925] 6         3[422] 10         1[840] 11
+ 106 267 9[615] 84   7[613] 58 0.08   11[725] 78 0.38   3[622] 45 0.41    1[620] 38 0.44
+         9[835] 6    7[413] 14        11[945] 8         3[842] 10         1[420] 12
+         9[624] 5    7[813] 13        11[925] 6         3[422] 10         1[840] 11
+ 108 269 9[615] 83   7[613] 58 0.05   3[622] 43 0.34    11[725] 78 0.35   1[620] 37 0.36
+         9[835] 7    7[413] 14        3[842] 11         11[945] 8         1[420] 12
+         9[624] 5    7[813] 12        3[422] 10         11[925] 6         1[840] 11
+ 110 271 9[615] 83   7[613] 57 0.02   3[622] 42 0.19    1[620] 35 0.20    11[725] 77 0.26
+         9[835] 7    7[413] 14        3[842] 10         1[420] 12         11[945] 8
+         9[624] 5    7[813] 12        3[422] 10         1[840] 11         11[925] 6
+           Neutron One-Quasiparticle States of Heaviest Nuclei          3125
+
+is 100%, as each state is normalized to unity. The components are given
+in the sequence of decreasing contributions. Knowledge of such structure of
+a state is important for interpretation and predictions of α decay of odd-A
+nuclei. Usual Nilsson label (asymptotic quantum numbers) of a state (Ω,π)is
+the h.o. state which gives the largest contribution to this state.
+    One can see in Table II that the main component may give as large as
+85%, but also as small as 28% contribution. Usually, the main contribution
+significantly differs in its magnitude from the next one, but the second and
+the third contributions are already comparable with each other.
+    It is interesting to see how representative is the Nilsson label for the
+structure of a given state. An inspection to Table II indicates that it rep-
+resents this structure quite well. We mean by this that if two states, in
+two different nuclei, have the same Nilsson label (i.e. the same h.o. state,
+which gives the largest contributions to them), these contributions are of
+a comparable magnitude and the next contributing states are also the same
+and of similar contributions to these states. And this is, to a large extent,
+independent of how different are nuclei, in which the states appear, and
+of how different are the excitation energies of these states. An example of
+this may be the states 7+, which appear in 249 Pu at the excitation energy
+Eexc = 60 keV and in 261 Sg at the excitation energy Eexc = 220 keV. Both
+nuclei have neutron number N = 155. One can see in the Table that the
+structure of these states is similar (the same 3 main components with sim-
+ilar contributions). One should add that deformations of these nuclei differ
+from each other. Although quadrupole components of the deformations are
+similar (β20 =0.240 and 0.249, respectively), the hexadecapole ones are quite
+different (β40 = 0.016 and −0.027, respectively).
+    To get an orientation, how well the calculated spectra reproduce experi-
+mental ones, we show Figs. 1 and 2. One can see that usually the discrepancy
+in energy of the lowest states does not exceed about 300 keV. Average dis-
+crepancy for the lowest six excited states of 245 Cm, shown in Fig. 1, is 165
+keV, and for four exited states of 249 Cf, shown in Fig. 2, is 235 keV.
+    Figs. 3 to 11 illustrate the dependence of the neutron spectra on proton
+number Z (or mass number A) for the isotones with N = 145 to N = 161.
+Here, all states with the excitation energy up to about 1 MeV are shown.
+Behavior of each level with changing Z is shown. Generally, larger the
+excitation energy, stronger is the dependence on Z. In particular, the ground
+state remains usually the same for a rather long chain of isotones.
+3126                   A. Parkhomenko, A. Sobiczewski
+
+          1,2
+                                                  245
+                                   1-[501]
+                                                      Cm
+                                                           149
+          1,0                      3+[622]
+
+
+                                                                            (1-)
+  (MeV)
+
+                                   1+[620]
+          0,8                      7+[613]
+                                                                            (1+)
+
+                                                                            (7+)
+
+                                                                            (7-)
+          0,6
+                                  7-[743]
+  E
+
+
+
+
+                                  1+[631]
+
+
+          0,4                                                               9-
+
+                                                                            1+
+
+
+                                                                            5+
+          0,2
+
+                                  5+[622]
+
+                                  9-[734]
+
+          0,0                      7+[624]                                  7+
+
+
+                          th                                     exp
+
+
+
+Fig. 1. Comparison between theoretical and experimental single-neutron spectra
+for the nucleus 245 Cm.
+                                 1-[501]
+
+                                       249
+          1,0
+                                             Cf                        9+
+
+                                 11-[725]       151
+
+                                 7-[743]
+          0,8                    1+[631]
+
+                                 7+[613]
+
+                                 3+[622]
+  (MeV)
+
+
+
+
+          0,6                    1+[620]
+                                                                       (1+)
+
+
+                                                                       (7+)
+
+          0,4                                                          1+
+
+                                 5+[622]                               7+
+  E
+
+
+
+
+          0,2
+                                 7+[624]
+                                                                       5+
+
+
+
+
+          0,0                    9-[734]                               9-
+
+                     th                                          exp
+
+
+
+
+                   Fig. 2. Same as in Fig. 1, but for 249 Cf.
+                 1,1
+
+
+                 1,0                                      N=145
+                                                                                  3-[501]
+
+                                  3+[631]     3+[631]                             5-[503]
+                       3+[631]
+                 0,9                                                                          3+[631]
+
+
+
+
+                                                                                                                     Neutron One-Quasiparticle States of Heaviest Nuclei
+                                                          3+[631]     3+[631]
+                                  9-[734]     1-[501]
+                       9-[734]                                                    3+[631]
+                                                                                              5+[633]
+                                              9-[734]
+                                                                                              5-[503]
+                                              5-[752]                             5+[633]     3-[501]
+                 0,8              5-[752]                 5-[752]
+
+                                                                      5-[752]
+                                                          9-[734]                 5-[752]
+                       5-[752]                                        5+[633]
+                 0,7                                      1-[501]
+       E (MeV)
+
+                                                          5+[633]     9-[734]
+                                              5+[633]                                         5-[503]
+
+                 0,6   5+[633]
+                                  5+[633]     7+[624]
+                                                                                  9-[734]
+
+
+                       7+[624]    7+[624]                             1-[501]
+                                                          7+[624]
+
+                 0,5                                                  7+[624]
+                                                                                              9-[734]
+                                                                                  7+[624]
+
+
+
+                 0,4
+                                                                                  1-[501]
+
+
+                                                                                              7+[624]
+
+                 0,3
+                                                                                              1-[501]
+
+
+
+
+                 0,2
+                                              5+[622]
+                                  5+[622]                 5+[622]     5+[622]     5+[622]
+                       5+[622]
+                                                                                              5+[622]
+                 0,1
+                                                                                              7-[743]
+                       1+[631]    1+[631]                                         7-[743]
+                                              1+[631]                 7-[743]
+                       7-[743]    7-[743]     7-[743]     1+[631]                 1+[631]     1+[631]
+                 0,0
+                                                          7-[743]     1+[631]
+
+
+
+
+                       90          92          94          96          98         100         102         Z
+
+                       235        237         239         241         243         245         247         A
+
+
+Fig. 3. Systematics of one-quasiparticle neutron states calculated for odd-A isotones with neutron number N = 145.
+
+
+
+
+                                                                                                                     3127
+                                                                                                            3128
+          1,1
+                                                   N=147
+                                                               5-[503]              5-[752]
+                          7+[613]
+          1,0                            1-[501]
+
+
+                7+[613]
+
+
+          0,9
+                                                                          5-[503]
+                                                                                    3-[501]
+                                                                                              5-[752]
+                                                    1-[501]
+          0,8
+
+                                                                                    5-[503]
+
+          0,7
+
+
+
+
+                                                                                                            A. Parkhomenko, A. Sobiczewski
+E (MeV)
+
+
+                                                               1-[501]                        3-[501]
+
+          0,6
+
+                                                                                              5-[503]
+
+          0,5   9-[734]
+                                                                          1-[501]
+
+                          9-[734]
+
+
+          0,4                            9-[734]               7-[743]
+
+                1+[631]   1+[631]                   7-[743]               7-[743]
+                                         7-[743]                                    1-[501]
+                                                    9-[734]    1+[631]
+                          7-[743]
+          0,3                            1+[631]
+                                                    1+[631]
+                                                                                    7-[743]
+                7-[743]
+                          7+[624]                              9-[734]   1+[631]
+                7+[624]                                                                       7-[743]
+                                         7+[624]
+                                                                          9-[734]
+          0,2                                       7+[624]                         1+[631]   1-[501]
+                                                               7+[624]
+                                                                                    9-[734]
+                                                                                              1+[631]
+          0,1                                                            7+[624]
+                                                                                              9-[734]
+
+                                                                                    7+[624]
+
+                5+[622]   5+[622]        5+[622]    5+[622]    5+[622]   5+[622]    5+[622]   5+[622]
+          0,0
+                                                                                              7+[624]
+
+
+
+
+                92        94              96         98        100        102        104      106       Z
+                239       241             243       245        247        249        251      253       A
+
+
+                                    Fig. 4. Same as in Fig. 3, but for N = 147.
+          1,1
+
+                                                  N=149
+          1,0   3+[622]
+                                                                                     3+[622]
+                                      7+[613]      1+[620]     1+[620]
+                                                                           1+[620]
+                                                               5-[503]
+                                      1+[620]
+          0,9
+
+
+
+
+                                                                                                   Neutron One-Quasiparticle States of Heaviest Nuclei
+                                                                           3-[501]
+                                                                                     1+[620]
+                          1+[620]
+
+
+                1+[620]
+                          7+[613]
+          0,8                                                              5-[503]
+                                                   1-[501]
+
+
+                7+[613]                                                              3-[501]
+
+          0,7
+E (MeV)
+
+
+                                                                                     5-[503]
+          0,6
+                                                   7-[743]
+                                       7-[743]
+                1+[631]                                        1-[501]
+                          7-[743]
+                                      1+[631]
+                7-[743]                            1+[631]
+                          1+[631]
+          0,5                                                  7-[743]
+
+                                                                           7-[743]
+                                                               1+[631]
+                                                                                     7-[743]
+          0,4                                                              1-[501]
+
+
+                                                                           1+[631]
+
+
+          0,3
+                                                                                     1+[631]
+                                                                                     1-[501]
+
+
+          0,2
+
+                5+[622]                                                              5+[622]
+                          5+[622]
+          0,1                         5+[622]
+                                                   5+[622]                           7+[624]
+                9-[734]                                        5+[622]     5+[622]
+                                       9-[734]
+                          9-[734]                  9-[734]
+                                                               9-[734]     7+[624]
+                7+[624]   7+[624]     7+[624]      7+[624]                           9-[734]
+          0,0
+                                                               7+[624]     9-[734]
+
+
+
+
+                                                                                               N
+                94         96          98          100          102        104       106
+
+                243       245         247          249          251        253       255       A
+
+                             Fig. 5. Same as in Fig. 3, but for N = 149.
+
+
+
+
+                                                                                                   3129
+                                                                                                      3130
+          1,1
+                                      N=151
+                                                                             5-[503]
+          1,0                                                   7+[613]
+                                                   11-[725]                 7+[613]
+                                        11-[725]
+                                                                11-[725]                3-[501]
+                           11-[725]
+                11-[725]                            1-[501]
+
+          0,9                                       7+[613]                             7+[613]
+
+                                                                            11-[725]
+                                                    7-[743]                             5-[503]
+                                         7-[743]
+                1+[631]    1+[631]
+                                                                 7-[743]
+          0,8               7-[743]     1+[631]
+                                                    1+[631]
+                 7-[743]                                        3+[622]
+                                        7+[613]     3+[622]                  7-[743]
+                                                                1+[631]
+                                        3+[622]                             3+[622]
+                                                                 1-[501]               11-[725]
+          0,7
+E (MeV)
+                           3+[622]                                                     3+[622]
+
+
+
+
+                                                                                                      A. Parkhomenko, A. Sobiczewski
+                                                                1+[620]     1+[620]
+                3+[622]    7+[613]                  1+[620]                 1+[631]     7-[743]
+
+
+                                                                                       1+[620]
+          0,6                           1+[620]                              1-[501]
+
+                7+[613]
+                           1+[620]
+                                                                                       1+[631]
+                1+[620]
+          0,5
+
+                                                                                        1-[501]
+
+          0,4   5+[622]
+                           5+[622]
+                                        5+[622]
+                                                                                       5+[622]
+                                                    5+[622]
+                                                                5+[622]     5+[622]
+                                                                                       7+[624]
+          0,3
+                                                                            7+[624]
+
+
+                                                                7+[624]
+          0,2                           7+[624]     7+[624]
+                7+[624]    7+[624]
+
+
+
+
+          0,1
+
+
+                 9-[734]    9-[734]      9-[734]    9-[734]      9-[734]     9-[734]    9-[734]
+          0,0
+
+
+
+
+                  94         96            98        100        102          104        106       Z
+
+                 245        247           249        251        253          255        257       A
+
+
+                              Fig. 6. Same as in Fig. 3, but for N = 151.
+          1,1
+
+                                                              N=153
+          1,0
+                                         1-[770]                                                7+[624]
+                                                                                     5+[622]
+                                                               5+[622]
+                            1-[770]                                       7+[624]
+                                                                                                5+[622]
+          0,9
+
+
+
+
+                                                                                                                     Neutron One-Quasiparticle States of Heaviest Nuclei
+                 1-[770]
+                                                   5+[622]
+                                                               7+[624]
+                                                               9+[615]                          1+[631]
+                                        5+[622]                                       1-[501]
+
+          0,8              5+[622]
+                5+[622]                                                   9+[615]
+                                                   7+[624]
+
+                                                                                     9+[615]
+          0,7                           9+[615]    9+[615]                                      1-[501]
+E (MeV)
+
+                                        7+[624]
+                           9+[615]
+                9+[615]
+
+          0,6              7+[624]
+
+
+                7+[624]
+                                                                                                9+[615]
+
+
+          0,5                                                   9-[734]    9-[734]
+                                                                                      9-[734]
+
+
+
+                                                                                                9-[734]
+          0,4                                       9-[734]
+                                                                                     7+[613]
+                                                               7+[613]
+                                                                          7+[613]
+                11-[725]
+                           11-[725]      9-[734]
+          0,3                           11-[725]
+                                                                                                7+[613]
+                                                   7+[613]
+
+                            9-[734]     7+[613]    11-[725]    11-[725]
+
+          0,2    9-[734]   7+[613]
+                7+[613]                                                   11-[725]
+
+
+
+          0,1   3+[622]    3+[622]      3+[622]
+                                                   3+[622]
+                                                                                     11-[725]
+                                                               3+[622]
+                                                                          3+[622]
+                                                                                     3+[622]
+                                                                                                3+[622]
+                                                                                                          11-[725]
+                1+[620]    1+[620]      1+[620]    1+[620]     1+[620]    1+[620]    1+[620]    1+[620]
+          0,0
+
+
+
+
+                  94         96           98        100         102        104         106      108            Z
+
+                 247        249          251        253         255        257         259      261            A
+
+
+                                  Fig. 7. Same as in Fig. 3, but for N = 153.
+
+
+
+
+                                                                                                                     3131
+                                                                                                                   3132
+          1,1
+
+
+          1,0
+                7+[624]
+                                                   1-[770]
+                                                               N=155                1-[501]
+                           7+[624]
+
+                9+[604]
+                           9+[604]      1-[770]
+
+          0,9
+                 1-[770]
+                            1-[770]
+
+                                                                                               1-[501]
+
+          0,8
+                                                                         9-[734]    9-[734]
+                                                              9-[734]
+
+
+          0,7                                      9-[734]
+                                                                                               9-[734]
+
+
+
+
+                                                                                                                   A. Parkhomenko, A. Sobiczewski
+E (MeV)
+
+
+
+          0,6                           9-[734]
+
+                                                              9+[615]
+
+                            9-[734]
+                                                                         9+[615]
+                                                   9+[615]
+          0,5                                                                      9+[615]
+                 9-[734]
+                                        9+[615]
+
+                           9+[615]
+          0,4   9+[615]
+
+                                                                                              9+[615]
+
+
+
+          0,3
+
+                                                                                   7+[613]
+                                                                         7+[613]
+                                                              7+[613]
+          0,2                                                                                 7+[613]
+
+                11-[725]                           7+[613]
+                           11-[725]
+                                        7+[613]
+          0,1              7+[613]     11-[725]   11-[725]
+                7+[613]
+                                                             11-[725]
+                                                                        11-[725]
+                3+[622]    3+[622]      3+[622]                                    11-[725]
+                                                   3+[622]    3+[622]    3+[622]              11-[725]
+                                                                                                         3+[622]
+          0,0   1+[620]    1+[620]      1+[620]   1+[620]     1+[620]   1+[620]    3+[622]    1+[620]
+
+                                                                                   1+[620]
+
+
+
+
+                  94         96           98       100        102        104         106       108            Z
+                 249        251          253       255        257        259         261       263            A
+
+
+                                  Fig. 8. Same as in Fig. 3, but for N = 155.
+          1,1
+                                                          N=157
+          1,0                                                                                  1+[631]
+                                        1-[770]
+                                                    9-[734]   9-[734]     9-[734]
+                1-[770]
+                           9+[604]
+                                                                                    1-[501]
+                           1-[770]
+          0,9
+
+
+
+
+                                                                                                                        Neutron One-Quasiparticle States of Heaviest Nuclei
+                                        9-[734]
+                                                                                    9-[734]
+
+
+
+                           9-[734]
+          0,8   9+[604]                                                                        9-[734]
+
+
+
+
+                9-[734]
+          0,7
+E (MeV)
+
+
+          0,6
+
+
+          0,5
+
+
+          0,4
+
+                                                   9+[615]
+
+          0,3                           9+[615]               9+[615]
+
+                                                                         9+[615]
+                           9+[615]
+
+
+          0,2   9+[615]
+
+
+
+                                                                                    9+[615]
+                                                                         1+[620]
+          0,1                           1+[620]
+                                                   1+[620]
+                                                              1+[620]    7+[613]
+                           1+[620]                 7+[613]                          1+[620]
+                1+[620]
+                                        3+[622]                          3+[622]               9+[615]
+                           3+[622]                 3+[622]                          7+[613]              11-[725]
+                                                              7+[613]
+                3+[622]
+                                                   11-[725]              11-[725]                        1+[620]
+          0,0   7+[613]    7+[613]      7+[613]               3+[622]               3+[622]    7+[613]
+                11-[725]   11-[725]     11-[725]              11-[725]              11-[725]   3+[622]
+
+
+
+
+                 96          98         100         102        104        106        108        110                 Z
+                253         255         257         259        261        263        265        267                 A
+
+
+                                  Fig. 9. Same as in Fig. 3, but for N = 157.
+
+
+
+
+                                                                                                                        3133
+                                                                                                      3134
+          1,1
+
+
+          1,0    1-[770]
+
+                 9-[734]
+                           9+[604]
+                                                    N=159                              13-[716]
+
+
+
+          0,9
+
+                9+[604]
+
+          0,8
+
+
+          0,7
+
+
+
+
+                                                                                                      A. Parkhomenko, A. Sobiczewski
+E (MeV)
+
+
+
+          0,6
+
+
+          0,5
+
+
+          0,4
+
+                                                                1+[620]
+          0,3                                                   3+[622]
+                                                    1+[620]
+                           1+[620]     1+[620]
+                                                    3+[622]
+                                                               11-[725]     1+[620]
+                                       3+[622]
+          0,2              3+[622]
+
+                1+[620]                            11-[725]                 3+[622]    11-[725]
+
+                                                                            11-[725]   1+[620]
+                3+[622]                11-[725]
+
+          0,1              11-[725]                                                    3+[622]
+
+                           9+[615]                  9+[615]     9+[615]
+                                       9+[615]
+                11-[725]
+                                                                            9+[615]    7+[613]
+                           7+[613]     7+[613]      7+[613]     7+[613]
+          0,0   7+[613]                                                                9+[615]
+                                                                            7+[613]
+                9+[615]
+
+
+
+
+                 98        100          102         104         106         108        110        Z
+
+                257        259          261         263         265         267        269        A
+
+                             Fig. 10. Same as in Fig. 3, but for N = 159.
+          1,1
+
+
+          1,0
+                             9+[604]
+                                                      N=161
+
+          0,9
+
+
+
+
+                                                                                                    Neutron One-Quasiparticle States of Heaviest Nuclei
+                9+[604]
+                                                         13-[716]
+                                           13-[716]
+                                                                          13-[716]
+                            13-[716]
+          0,8   13-[716]
+
+
+
+
+          0,7                                                                        13-[716]
+E (MeV)
+
+
+          0,6
+
+
+          0,5
+                                                         1+[620]
+                                           1+[620]
+                                                         3+[622]
+                             1+[620]
+          0,4   1+[620]                    3+[622]       11-[725]
+                             3+[622]                                      1+[620]
+                3+[622]                    11-[725]
+                                                                          11-[725]
+
+          0,3               11-[725]                                      3+[622]
+                                                                                     11-[725]
+                11-[725]
+
+
+                                                                                     1+[620]
+          0,2
+                                                                                     3+[622]
+                7+[613]
+                             7+[613]
+                                           7+[613]
+          0,1                                            7+[613]
+
+                                                                          7+[613]
+
+                                                                                     7+[613]
+                9+[615]      9+[615]       9+[615]       9+[615]          9+[615]    9+[615]
+          0,0
+
+
+
+
+                100          102            104           106              108        110       Z
+                261          263            265           267              269        271       A
+
+
+                           Fig. 11. Same as in Fig. 3, but for N = 161.
+
+
+
+
+                                                                                                    3135
+3136                   A. Parkhomenko, A. Sobiczewski
+
+                               4. Conclusions
+   The following conclusions may be drawn from our study:
+  1. Heavy and superheavy nuclei with proton number Z = 90–110 and
+     neutron number N = 145–161, analyzed in the present paper, are well
+     deformed;
+  2. For all of them, pairing energy strength G is larger than its critical
+     value Gcr (characteristic for the BCS approach) and rather distant
+     from it. Due to this, the BCS approximation, used in the paper, is
+     justified;
+  3. Quantum characteristics Ω and π of most experimentally known
+     ground states of analyzed nuclei are reproduced by the calculations;
+  4. Energies of known lowest neutron excited states are reproduced by the
+     applied model within an average accuracy of about 200 keV;
+  5. The Nilsson label (asymptotic harmonic oscillator (h.o.) quantum
+     numbers) of a given nuclear single-particle state is quite representative
+     for the structure of this state, even if the contribution of the asymp-
+     totic h.o. state to the given state is not large. This means that if
+     two given states, in two different nuclei, have the same Nilsson label,
+     the next h.o. components of the given states are usually the same
+     and with similar contributions to these states. At least as far as three
+     main components (analyzed in the present paper) are considered. This
+     conclusion is important for the analysis of α decay of odd-A nuclei.
+
+    The authors would like to thank Fritz Hessberger, Sigurd Hofmann and
+Alexander Yeremin for helpful discussions. Support by the Polish State
+Committee for Scientific Research (KBN), Grant No. 2 P03B 039 22, and the
+Polish–JINR(Dubna) Cooperation Programme is gratefully acknowledged.
+
+
+                               REFERENCES
+
+ [1] F.P. Hessberger, S. Hofmann, V. Ninov, P. Armbruster, H. Folger, G. Münzen-
+     berg, H.J. Schött, A.G. Popeko, A.V. Yeremin, A.N. Andreyev, S. Saro,
+     Z. Phys. A359, 415 (1997).
+ [2] I. Ahmad, R.R. Chasman, P.R. Fields, Phys. Rev. C61, 044301 (2000).
+ [3] I. Ahmad, M.P. Carpenter, R.R. Chasman, J.P. Greene, R.V.F. Janssens,
+     T.L. Khoo, F.G. Kondev, T. Lauritsen, C.J. Lister, P. Reiter, D. Seweryniak,
+     A. Sonzogni, J. Uusitalo, I. Wiederhöver, P. Bhattacharyya, Phys. Rev. C62,
+     064302 (2000).
+ [4] F.P. Hessberger, S. Hofmann, D. Ackermann, V. Ninov, M. Leino, G. Münzen-
+     berg, S. Saro, A. Lavrentev, A.G. Popeko, A.V. Yeremin, Ch. Stodel, Eur.
+     Phys. J. A12, 57 (2001).
+            Neutron One-Quasiparticle States of Heaviest Nuclei                 3137
+
+ [5] F.P. Hessberger, S. Hofmann, D. Ackermann, P. Cagarda, R.-D. Herzberg,
+     I. Kojouharov, P. Kuusiniemi, M. Leino, R. Mann, Eur. Phys. J. A22, 417
+     (2004).
+ [6] I. Ahmad, F.G. Kondev, E.F. Moore, M.P. Carpenter, R.R. Chasman,
+     J.P. Greene, R.V.F. Janssens, T. Lauritsen, C.J. Lister, D. Seweryniak,
+     R.W. Hoﬀ, J.E. Evans, R.W. Lougheed, C.E. Porter, L.K. Felker, Argonne
+     National Lab. Report: PHY-11069-HI-05 (2005).
+ [7] F.P. Hessberger, S. Antalic, B. Streicher, S. Hofmann, D. Ackermann,
+     B. Kindler, I. Kojouharov, P. Kuusiniemi, M. Leino, B. Lommel, R. Mann,
+     K. Nishio, S. Saro, B. Sulignano, Eur. Phys. J., to be submitted (2005).
+ [8] R.R. Chasman, I. Ahmad, A.M. Friedman, J.R. Erskine, Rev. Mod. Phys. 49,
+     833 (1977).
+ [9] R.-D. Herzberg, J. Phys. G 30, R123 (2004).
+[10] S. Ćwiok, S. Hofmann, W. Nazarewicz, Nucl. Phys. A573, 356 (1994).
+[11] P. Ring, Prog. Part. Nucl. Phys. 37, 193 (1996).
+[12] K. Rutz, M. Bender, P.-G. Reinhard, J.A. Maruhn, W. Greiner, Nucl. Phys.
+     A634, 67 (1998).
+[13] A.V. Afanasjev, T.L. Khoo, S. Frauendorf, G.A. Lalazissis , I. Ahmad, Phys.
+     Rev. C67, 024309 (2003).
+[14] A. Parkhomenko, A. Sobiczewski, Acta Phys. Pol. B 35, 2447 (2004).
+[15] Z. Patyk, A. Sobiczewski, Nucl. Phys. A533, 132 (1991).
+[16] R. Smolańczuk, J. Skalski, A. Sobiczewski, Phys. Rev. C52, 1871 (1995).
+[17] A. Sobiczewski, I. Muntian, Z. Patyk, Phys. Rev. C63, 034306 (2001).
+[18] I. Muntian, Z. Patyk, A. Sobiczewski, Yad. Fiz. 66, 1051(2003); Phys. At.
+     Nucl. 66, 1015 (2003).
+[19] A. Sobiczewski, I. Muntian, O. Parkhomenko, Proc. NATO Advanced Study
+     Institute: Structure and Dynamics of Elementary Matter, Kemer (Turkey)
+     2003, Eds. W. Greiner, M.G. Itkis, J. Reinhardt, M.C. Guclu, Kluwer Aca-
+     demic Publishers, Dordrecht 2004, p. 377.
+[20] H.J. Krappe, J.R. Nix, A.J. Sierk, Phys. Rev. C20, 992 (1979).
+[21] S. Ćwiok, J. Dudek, W. Nazarewicz, J. Skalski, T. Werner, Comput. Phys.
+     Commun. 46, 379 (1987).
+[22] I. Muntian, Z. Patyk, A. Sobiczewski, Acta Phys. Pol. B 32, 691 (2001).
+[23] G. Audi, O. Bersillon, J. Blachot, A.H. Wapstra, Nucl. Phys. A624, 1 (1997).
+[24] I. Muntian, S. Hofmann, Z. Patyk, A. Sobiczewski, Acta Phys. Pol. B 34, 2073
+     (2003).
+[25] A. Sobiczewski, Z. Patyk, S. Ćwiok, P. Rozmej, Nucl. Phys. A485, 16 (1988).
+[26] I. Ragnarsson, A. Sobiczewski, R.K. Sheline, S.E. Larsson, B. Nerlo-Pomorska,
+     Nucl. Phys. A233, 329 (1974).
+[27] R. Smolańczuk, A. Sobiczewski, Proc. XV EPS Conf. on nuclear physics:
+     Low Energy Nuclear Dynamics, St. Petersburg (Russia) 1995, Ed. by
+     Yu. Ts. Oganessian, W. von Oertzen and R. Kalpakchieva, World Scientiﬁc,
+     Singapore, 1995, p. 313.
+[28] R.B. Firestone, Table of Isotopes, vol. 2, 8th edition, J. Wiley, New York 1999.
+

@@ -1,0 +1,26 @@
+# Visualization-only strong-field case: 100 T makes 2--3 turns visible in 1 m.
+# Use animation_sample.mac (2.5 T, He 100 Pa) for the realistic reference case.
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/sim/geometry/solenoidRadius 0.20 m
+/sim/geometry/solenoidLength 1.00 m
+/sim/geometry/targetDistance 0.30 m
+/sim/geometry/maxStep 1 mm
+/sim/field/centerField 100.00 tesla
+/sim/gas/enabled false
+/sim/reaction/projectileZA 18 40
+/sim/reaction/targetZA 69 169
+/sim/reaction/beamEnergyLab 200 MeV
+/sim/reaction/mode angleScan
+/sim/scan/thetaMin 0 deg
+/sim/scan/thetaMax 45 deg
+/sim/scan/bins 3
+/sim/scan/eventsPerBin 1
+/sim/output/fileName output/animation_helix_demo.root
+/sim/output/trackSampleCount 3
+/sim/output/postExitTrackLength 0.80 m
+/sim/output/randomSeed 20260811
+/run/initialize
+/run/beamOn 3

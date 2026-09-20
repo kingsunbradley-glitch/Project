@@ -1,0 +1,211 @@
+record_id,source_csv_line,isotope,state_label,symbol,A,Z,N,is_parenthesized,mass_number_uncertain,Qalpha_MeV,Ealpha_MeV,Qalpha_err_MeV,Qalpha_estimated,Qalpha_is_experimental,qalpha_estimated_used,Qalpha_qualifier,T_alpha_half_s,T_alpha_half_err_plus_s,T_alpha_half_err_minus_s,T_alpha_half_qualifier,T_half_s,b_alpha_percent,b_SF_percent,T_SF_half_s,decay_modes_raw,alpha_daughter,alpha_daughter_population_raw,partial_half_life_reconstructed_s,partial_half_life_consistent,nonexperimental_fields,eligible_for_hf,calculation_status,cell_record_index,cell_record_count,duplicate_nz_cell,l_assumed
+source-row-0002,2,240Es,,Es,240,99,141,False,False,8.26,,0.06,False,True,False,,8.57142857143,2.42857142857,2.42857142857,,6,70,,,"alpha, EC, SF",,,8.57142857143,True,Jpi,True,ok,1,1,False,0
+source-row-0003,3,241Es,,Es,241,99,142,False,False,8.259,,0.017,False,True,False,,4.3,2.4,1.2,,4.3,100,,,"alpha, EC",,,4.3,True,Jpi,True,ok,1,1,False,0
+source-row-0004,4,242Es,,Es,242,99,143,False,False,8.16,,0.02,False,True,False,,31.2280701754,2.80701754386,2.80701754386,,17.8,57,,,"alpha, EC",,,31.2280701754,True,Jpi,True,ok,1,1,False,0
+source-row-0005,5,243Es,,Es,243,99,144,False,False,8.072,,0.01,False,True,False,,36.0655737705,1.6393442623,1.6393442623,,22,61,1,2200,"alpha, EC, SF",,,36.0655737705,True,,True,ok,1,1,False,0
+source-row-0006,6,244Es,,Es,244,99,145,False,False,7.94,,0.1,True,False,True,,925,100,100,,37,4,,,"alpha, EC",,,925,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0007,7,245Es,,Es,245,99,146,False,False,7.909,,0.003,False,True,False,,124.444444444,6.66666666667,6.66666666667,,67.2,54,,,"alpha, EC",,,124.444444444,True,,True,ok,1,1,False,0
+source-row-0008,8,246Es,,Es,246,99,147,False,False,7.64,,0.1,True,False,True,,4545.45454545,303.03030303,303.03030303,,450,9.9,,,"alpha, EC",,,4545.45454545,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0009,9,247Es,,Es,247,99,148,False,False,7.464,,0.02,False,True,False,,3900,222.857142857,222.857142857,,273,7,,,"alpha, EC",,,3900,True,,True,ok,1,1,False,0
+source-row-0010,10,248Es,,Es,248,99,149,False,False,7.16,,0.05,True,False,True,,480000,40000,40000,,1440,0.3,,,"alpha, EC",,,480000,True,Qalpha,True,ok,1,1,False,0
+source-row-0011,11,249Es,,Es,249,99,150,False,False,6.94,,0.03,True,False,True,,1075789.47368,6315.78947368,6315.78947368,,6132,0.57,,,"alpha, EC",,,1075789.47368,True,Qalpha,True,ok,1,1,False,0
+source-row-0012,12,250Es,,Es,250,99,151,False,False,6.83,,0.12,True,False,True,,,,,,516,,,,"alpha, EC",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0013,13,251Es,,Es,251,99,152,False,False,6.5971,,0.001,False,True,False,,23760000,9531233.70818,9531233.70818,,118800,0.5,,,"EC, alpha",,,23760000,True,,True,ok,1,1,False,0
+source-row-0014,14,252Es,,Es,252,99,153,False,False,6.7386,,0.0005,False,True,False,,46268307.6923,210461.538462,210461.538462,,36089280,78,,,"alpha, EC",,,46268307.6923,True,,True,ok,1,1,False,0
+source-row-0015,15,253Es,,Es,253,99,154,False,False,6.73924,,5e-05,False,True,False,,1768608,1728,1728,,1768608,100,,,"alpha, EC; beta^-, SF",,,1768608,True,,True,ok,1,1,False,0
+source-row-0016,16,254Es,,Es,254,99,155,False,False,6.6172,,0.0005,False,True,False,,23820480,43200,43200,,23820480,100,3e-06,7.94016e+14,"alpha,; beta^-, SF; beta^-, SF",,,23820480,True,,True,ok,1,1,False,0
+source-row-0017,17,255Es,,Es,255,99,156,False,False,6.4363,,0.0013,False,True,False,,42984000,2509716.44613,2509716.44613,,3438720,8,0.0041,83871219512.2,"beta^-, alpha, SF",,,42984000,True,,True,ok,1,1,False,0
+source-row-0018,18,256Es,,Es,256,99,157,False,False,6.23,,0.22,True,False,True,,,,,,1524,,,,beta^-,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0019,19,257Es,,Es,257,99,158,False,False,6.05,,0.2,True,False,True,,,,,,665280,,,,"beta^-, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0020,20,241Fm,,Fm,241,100,141,False,False,8.86,,0.32,True,False,True,,0.00521428571429,0.000428571428571,0.000428571428571,>,0.00073,14,78,0.000935897435897,"alpha, EC, SF",,,0.00521428571429,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0021,21,242Fm,,Fm,242,100,142,True,False,8.7,,0.5,True,False,True,,,,,,0.0008,,100,0.0008,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0022,22,243Fm,,Fm,243,100,143,False,False,8.69,,0.05,False,True,False,,0.253846153846,0.00989010989011,0.00989010989011,,0.231,91,9,2.56666666667,"alpha, EC, SF",,,0.253846153846,True,,True,ok,1,1,False,0
+source-row-0023,23,244Fm,,Fm,244,100,144,False,False,8.55,,0.2,True,False,True,,0.321,0.008,0.008,>,0.00321,1,97,0.00330927835052,"alpha, EC, SF",,,0.321,True,Qalpha,True,ok,1,1,False,0
+source-row-0024,24,245Fm,,Fm,245,100,145,False,False,8.373,,0.025,False,True,False,,5.4,0.6,0.6,,5.4,100,0.3,1800,"alpha, EC, SF",,,5.4,True,,True,ok,1,1,False,0
+source-row-0025,25,246Fm,,Fm,246,100,146,False,False,8.379,,0.005,False,True,False,,1.6452991453,0.042735042735,0.042735042735,,1.54,93.6,6.4,24.0625,"alpha, SF, EC",,,1.6452991453,True,,True,ok,1,1,False,0
+source-row-0026,26,247Fm,,Fm,247,100,147,False,False,8.258,,0.01,False,True,False,,48.4375,1.5625,1.5625,,31,64,,,"alpha, EC",,,48.4375,True,,True,ok,1,1,False,0
+source-row-0027,27,248Fm,,Fm,248,100,148,False,False,7.995,,0.008,False,True,False,,34.8484848485,1.21212121212,1.21212121212,approx,34.5,99,0.1,34500,"alpha, EC, SF",,,34.8484848485,True,,True,ok,1,1,False,0
+source-row-0028,28,249Fm,,Fm,249,100,149,False,False,7.709,,0.006,False,True,False,,615.384615385,38.4615384615,38.4615384615,,96,15.6,,,"alpha, EC",,,615.384615385,True,,True,ok,1,1,False,0
+source-row-0029,29,250Fm,,Fm,250,100,150,False,False,7.557,,0.008,False,True,False,,1860,66,66,,1860,100,0.0069,26956521.7391,"alpha, EC, SF",,,1860,True,,True,ok,1,1,False,0
+source-row-0030,30,251Fm,,Fm,251,100,151,False,False,7.4245,,0.001,False,True,False,,1060000,16000,16000,,19080,1.8,,,"alpha, EC",,,1060000,True,,True,ok,1,1,False,0
+source-row-0031,31,252Fm,,Fm,252,100,152,False,False,7.1527,,0.002,False,True,False,,91368,432,432,,91368,100,0.0023,3972521739.13,"alpha, SF; beta^-, SF",,,91368,True,,True,ok,1,1,False,0
+source-row-0032,32,253Fm,,Fm,253,100,153,False,False,7.1979,,0.001,False,True,False,,2160000,86400,86400,,259200,12,,,"alpha, EC",,,2160000,True,,True,ok,1,1,False,0
+source-row-0033,33,254Fm,,Fm,254,100,154,False,False,7.3073,,0.001,False,True,False,,11671.0026016,7.20432259356,7.20432259356,,11664,99.94,0.06,19440000,"alpha, SF; beta^-, SF",,,11671.0026016,True,,True,ok,1,1,False,0
+source-row-0034,34,255Fm,,Fm,255,100,155,False,False,7.2406,,0.0005,False,True,False,,97452,252,252,,97452,100,2.4e-05,406050000000,"alpha, SF",,,97452,True,,True,ok,1,1,False,0
+source-row-0035,35,256Fm,,Fm,256,100,156,False,False,7.0253,,0.0019,False,True,False,,116370.37037,4400.72058885,4400.72058885,,9426,8.1,91.9,10256.8008705,"SF, alpha",,,116370.37037,True,,True,ok,1,1,False,0
+source-row-0036,36,257Fm,,Fm,257,100,157,False,False,6.8637,,0.0009,False,True,False,,8701473.0935,17316.3643652,17316.3643652,,8683200,99.79,0.21,4134857142.86,"alpha , SF",,,8701473.0935,True,,True,ok,1,1,False,0
+source-row-0037,37,258Fm,,Fm,258,100,158,False,False,6.66,,0.2,True,False,True,,,,,,0.00037,,100,0.00037,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0038,38,259Fm,,Fm,259,100,159,False,False,6.47,,0.2,True,False,True,,,,,,1.5,,100,1.5,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0039,39,244Md,,Md,244,101,143,False,False,8.95,,0.08,False,True,False,,0.3,0.19,0.09,approx,0.3,100,,,"alpha, EC",,,0.3,True,Jpi,True,ok,1,1,False,0
+source-row-0040,40,245Md,,Md,245,101,144,False,False,9.01,,0.012,False,True,False,,,,,,0.33,,,,"alpha, SF",,,,,,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0041,41,247Md,,Md,247,101,146,False,False,8.764,,0.01,False,True,False,,1.21040952189,0.121040952189,0.121040952189,,1.2,99.14,0.86,139.534883721,"alpha, SF",,,1.21040952189,True,,True,ok,1,1,False,0
+source-row-0042,42,248Md,,Md,248,101,147,False,False,8.5,,0.03,False,True,False,,35,15,15,,7,20,,,"alpha, EC",,,35,True,,True,ok,1,1,False,0
+source-row-0043,43,249Md,,Md,249,101,148,False,False,8.441,,0.018,True,False,True,,34.1333333333,1.2,1.2,,25.6,75,,,"alpha, EC",,,34.1333333333,True,Qalpha,True,ok,1,1,False,0
+source-row-0044,44,250Md,,Md,250,101,149,False,False,8.155,,0.028,False,True,False,,762.857142857,64.2857142857,64.2857142857,,53.4,7,,,"alpha, EC",,,762.857142857,True,Jpi,True,ok,1,1,False,0
+source-row-0045,45,251Md,,Md,251,101,150,False,False,7.963,,0.004,False,True,False,,2526,138,138,>,252.6,10,,,"alpha, EC",,,2526,True,,True,ok,1,1,False,0
+source-row-0046,46,252Md,,Md,252,101,151,False,False,7.74,,0.11,True,False,True,,,,,,138,,,,EC,,,,,Qalpha;Jpi,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0047,47,253Md,,Md,253,101,152,False,False,7.573,,0.008,False,True,False,,51428.5714286,102857.142857,25714.2857143,approx,360,0.7,,,"alpha, EC",,,51428.5714286,True,,True,ok,1,1,False,0
+source-row-0048,48,254Md,,Md,254,101,153,False,False,7.8,,0.14,True,False,True,,,,,,600,,,,EC,,,,,Qalpha;Jpi,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0049,49,255Md,,Md,255,101,154,False,False,7.9056,,0.0017,False,True,False,,23142.8571429,1714.28571429,1714.28571429,,1620,7,,,"alpha, EC",,,23142.8571429,True,,True,ok,1,1,False,0
+source-row-0050,50,256Md,,Md,256,101,155,False,False,7.74,,0.11,True,False,True,,50673.9130435,978.260869565,978.260869565,,4662,9.2,3,155400,"alpha, EC, SF",,,50673.9130435,True,Qalpha,True,ok,1,1,False,0
+source-row-0051,51,257Md,,Md,257,101,156,False,False,7.5571,,0.0009,False,True,False,,132480,1200,1200,,19872,15,1,1987200,"alpha, EC, SF",,,132480,True,,True,ok,1,1,False,0
+source-row-0052,52,258Md,,Md,258,101,157,False,False,7.2713,,0.0019,False,True,False,,4449600,25056,25056,,4449600,100,,,"alpha, EC",,,4449600,True,Jpi,True,ok,1,1,False,0
+source-row-0053,53,259Md,,Md,259,101,158,False,False,7.05,,0.1,True,False,True,,445846.153846,16615.3846154,16615.3846154,>,5796,1.3,100,5796,"alpha, SF",,,445846.153846,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0054,54,260Md,,Md,260,101,159,False,False,6.94,,0.3,True,False,True,,54950400,864000,864000,>,2747520,5,100,2747520,"alpha, EC, beta^-, SF",,,54950400,True,Qalpha,True,ok,1,1,False,0
+source-row-0055,55,249No,,No,249,102,147,False,False,9.276,,0.02,False,True,False,,0.0381,0.0025,0.0025,,0.0381,100,,,alpha,,,0.0381,True,Jpi,True,ok,1,1,False,0
+source-row-0056,56,250No,,No,250,102,148,False,False,8.95,,0.2,True,False,True,,0.00023,1e-05,1e-05,>,4.6e-06,2,100,4.6e-06,"alpha, SF",,,0.00023,True,Qalpha,True,ok,1,1,False,0
+source-row-0057,57,251No,,No,251,102,149,False,False,8.752,,0.004,False,True,False,,0.888888888889,0.111111111111,0.111111111111,,0.8,90,0.0014,57142.8571429,"alpha, EC, SF",,,0.888888888889,True,,True,ok,1,1,False,0
+source-row-0058,58,252No,,No,252,102,150,False,False,8.549,,0.005,False,True,False,,3.64940828402,0.0236686390533,0.0236686390533,,2.467,67.6,31,7.95806451613,"alpha, EC, SF",,,3.64940828402,True,,True,ok,1,1,False,0
+source-row-0059,59,253No,,No,253,102,151,False,False,8.415,,0.004,False,True,False,,171.272727273,2.18181818182,2.18181818182,,94.2,55,,,"alpha, EC",,,171.272727273,True,,True,ok,1,1,False,0
+source-row-0060,60,254No,,No,254,102,152,False,False,8.226,,0.008,False,True,False,,56.8888888889,0.444444444444,0.444444444444,,51.2,90,0.17,30117.6470588,"alpha, EC, SF",,,56.8888888889,True,,True,ok,1,1,False,0
+source-row-0061,61,255No,,No,255,102,153,False,False,8.4282,,0.003,False,True,False,,704,36,36,,211.2,30,,,"alpha, EC",,,704,True,,True,ok,1,1,False,0
+source-row-0062,62,256No,,No,256,102,154,False,False,8.582,,0.005,False,True,False,,2.92609351433,0.0502765208648,0.0502765208648,,2.91,99.45,0.55,529.090909091,"alpha, SF",,,2.92609351433,True,,True,ok,1,1,False,0
+source-row-0063,63,257No,,No,257,102,155,False,False,8.477,,0.006,False,True,False,,28.8235294118,0.588235294118,0.588235294118,,24.5,85,1.5,1633.33333333,"alpha, EC, SF",,,28.8235294118,True,,True,ok,1,1,False,0
+source-row-0064,64,258No,,No,258,102,156,False,False,8.15,,0.1,True,False,True,,,,,,0.00123,,100,0.00123,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0065,65,259No,,No,259,102,157,False,False,7.854,,0.005,False,True,False,,4640,400,400,,3480,75,10,34800,"alpha, EC, SF",,,4640,True,,True,ok,1,1,False,0
+source-row-0066,66,260No,,No,260,102,158,False,False,7.7,,0.2,True,False,True,,,,,,0.106,,100,0.106,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0067,67,262No,,No,262,102,160,False,False,7.25,,0.3,True,False,True,,,,,,0.005,,100,0.005,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0068,68,251Lr,,Lr,251,103,148,False,False,9.438,,0.019,False,True,False,,0.0244,0.007,0.0045,,0.0244,100,,,alpha,,,0.0244,True,,True,ok,1,1,False,0
+source-row-0069,69,252Lr,,Lr,252,103,149,False,False,9.164,,0.017,False,True,False,,0.585714285714,0.1,0.0714285714286,approx,0.41,70,10,4.1,"alpha, EC, SF",,,0.585714285714,True,,True,ok,1,1,False,0
+source-row-0070,70,253Lr,,Lr,253,103,150,False,False,8.918,,0.02,False,True,False,,0.638383838384,0.0464646464646,0.0464646464646,,0.632,99,1,63.2,"alpha, EC, SF",,,0.638383838384,True,,True,ok,1,1,False,0
+source-row-0071,71,254Lr,,Lr,254,103,151,False,False,8.822,,0.008,False,True,False,,16.7364016736,1.25523012552,1.25523012552,,12,71.7,0.1,12000,"alpha, EC, SF",,,16.7364016736,True,Jpi,True,ok,1,1,False,0
+source-row-0072,72,255Lr,,Lr,255,103,152,False,False,8.556,,0.007,False,True,False,,31.1935807422,1.10330992979,1.10330992979,,31.1,99.7,0.1,31100,"alpha, EC, SF",,,31.1935807422,True,,True,ok,1,1,False,0
+source-row-0073,73,256Lr,,Lr,256,103,153,False,False,8.85,,0.12,False,True,False,,32.8235294118,1.17647058824,1.17647058824,,27.9,85,0.03,93000,"alpha, EC, SF",,,32.8235294118,True,Jpi,True,ok,1,1,False,0
+source-row-0074,74,257Lr,,Lr,257,103,154,False,False,9.07,,0.03,False,True,False,,6,0.4,0.4,,6,100,0.03,20000,"alpha, EC, SF",,,6,True,Jpi,True,ok,1,1,False,0
+source-row-0075,75,258Lr,,Lr,258,103,155,False,False,8.904,,0.019,False,True,False,,3.96303901437,24.6406570842,23.613963039,,3.86,97.4,2.6,148.461538462,"alpha, SF",,,3.96303901437,True,,True,ok,1,1,False,0
+source-row-0076,76,259Lr,,Lr,259,103,156,False,False,8.58,,0.07,True,False,True,,7.94871794872,0.384615384615,0.384615384615,,6.2,78,22,28.1818181818,"alpha, SF",,,7.94871794872,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0077,77,260Lr,,Lr,260,103,157,False,False,8.4,,0.14,True,False,True,,225,37.5,37.5,,180,80,,,"alpha, EC",,,225,True,Qalpha,True,ok,1,1,False,0
+source-row-0078,78,261Lr,,Lr,261,103,158,False,False,8.14,,0.2,True,False,True,,,,,,2340,,100,2340,SF,,,,,Qalpha;Jpi,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0079,79,262Lr,,Lr,262,103,159,False,False,7.99,,0.2,True,False,True,,,,,,14400,,10,144000,"alpha, EC, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0080,80,264Lr,,Lr,264,103,161,False,False,7.4,,0.3,True,False,True,,,,,,17280,,100,17280,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0081,81,266Lr,,Lr,266,103,163,False,False,7.57,,0.3,True,False,True,,,,,,39600,,100,39600,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0082,82,252Rf,,Rf,252,104,148,False,False,,,,False,True,False,,,,,,6e-08,,100,6e-08,SF,,,,,,False,missing_Qalpha_MeV;missing_T_alpha_half_s,1,1,False,0
+source-row-0083,83,253Rf,,Rf,253,104,149,False,False,9.46,,0.02,False,True,False,,,,,,0.0128,,100,0.0128,"alpha, SF",,,,,Jpi,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0084,84,254Rf,,Rf,254,104,150,False,False,9.21,,0.2,True,False,True,,0.00152666666667,6.66666666667e-05,6.66666666667e-05,>,2.29e-05,1.5,100,2.29e-05,"alpha, SF",,,0.00152666666667,True,Qalpha,True,ok,1,1,False,0
+source-row-0085,85,255Rf,,Rf,255,104,151,False,False,9.055,,0.004,False,True,False,,3.40816326531,0.0408163265306,0.0408163265306,,1.67,49,51,3.27450980392,"alpha, EC, SF",,,3.40816326531,True,,True,ok,1,1,False,0
+source-row-0086,86,256Rf,,Rf,256,104,152,False,False,8.926,,0.015,False,True,False,,2.12903225806,0.0161290322581,0.0161290322581,,0.0066,0.31,99.69,0.00662052362323,"alpha, SF",,,2.12903225806,True,,True,ok,1,1,False,0
+source-row-0087,87,257Rf,,Rf,257,104,153,False,False,9.083,,0.008,False,True,False,,5.59910414334,0.223964165733,0.223964165733,,5,89.3,1.3,384.615384615,"alpha, EC, SF",,,5.59910414334,True,,True,ok,1,1,False,0
+source-row-0088,88,258Rf,,Rf,258,104,154,False,False,9.196,,0.008,False,True,False,,0.255102040816,0.0839212982756,0.0839212982756,,0.0125,4.9,95.1,0.0131440588854,"SF, alpha",,,0.255102040816,True,,True,ok,1,1,False,0
+source-row-0089,89,259Rf,,Rf,259,104,155,False,False,9.13,,0.07,True,False,True,,2.94117647059,0.470588235294,0.352941176471,,2.5,85,3,83.3333333333,"alpha, EC, SF",,,2.94117647059,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0090,90,260Rf,,Rf,260,104,156,False,False,8.9,,0.2,True,False,True,,1.085,0.04,0.04,approx,0.0217,2,98,0.0221428571429,"SF, alpha (unobserved)",,,1.085,True,Qalpha,True,ok,1,1,False,0
+source-row-0091,91,261Rf^a,a,Rf,261,104,157,False,False,8.40887159533,8.28,,False,True,False,,68,,,,68,100,,,alpha,257No,257No:100% (within alpha branch),68,True,,True,ok,1,2,True,0
+source-row-0092,92,261Rf^b,b,Rf,261,104,157,False,False,8.64245136187,8.51,,False,True,False,,14.4444444444,,,,2.6,18,82,3.17073170732,"alpha, SF",257No,257No:100% (within alpha branch),14.4444444444,True,,True,ok,2,2,True,0
+source-row-0093,93,262Rf,,Rf,262,104,158,False,False,8.49,,0.2,True,False,True,,,,,,0.047,,100,0.047,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0094,94,263Rf,,Rf,263,104,159,False,False,8.25,,0.15,True,False,True,,,,,,5.1,,100,5.1,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0095,95,265Rf,,Rf,265,104,161,False,False,7.81,,0.3,True,False,True,,,,,,60,,100,60,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0096,96,267Rf,,Rf,267,104,163,False,False,7.89,,0.3,True,False,True,,,,,,172800,,100,172800,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0097,97,255Db,,Db,255,105,150,False,False,9.34,,0.2,True,False,True,,0.0325,0.005,0.00375,,0.0026,8,92,0.00282608695652,"alpha, SF",,,0.0325,True,Qalpha,True,ok,1,1,False,0
+source-row-0098,98,256Db,,Db,256,105,151,False,False,9.34,,0.03,False,True,False,,2.71428571429,0.571428571429,0.428571428571,approx,1.9,70,0.02,9500,"alpha, EC, SF",,,2.71428571429,True,,True,ok,1,1,False,0
+source-row-0099,99,257Db,,Db,257,105,152,False,False,9.206,,0.02,False,True,False,,2.44680851064,0.212765957447,0.212765957447,<=,2.3,94,6,38.3333333333,"alpha, SF",,,2.44680851064,True,Jpi,True,ok,1,1,False,0
+source-row-0100,100,258Db,,Db,258,105,153,False,False,9.437,,0.01,False,True,False,,3.390625,0.5625,0.5625,,2.17,64,36,6.02777777778,"alpha, SF",,,3.390625,True,Jpi,True,ok,1,1,False,0
+source-row-0101,101,259Db,,Db,259,105,154,False,False,9.62,,0.05,False,True,False,,0.51,0.16,0.16,,0.51,100,,,alpha,,,0.51,True,Jpi,True,ok,1,1,False,0
+source-row-0102,102,260Db,,Db,260,105,155,False,False,9.5,,0.04,True,False,True,,1.68888888889,0.144444444444,0.144444444444,,1.52,90,10,15.2,"alpha, EC, SF",,,1.68888888889,True,Qalpha,True,ok,1,1,False,0
+source-row-0103,103,261Db,,Db,261,105,156,False,False,9.22,,0.1,True,False,True,,5.61643835616,1.91780821918,1.09589041096,,4.1,73,27,15.1851851852,"alpha, SF",,,5.61643835616,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0104,104,262Db,,Db,262,105,157,False,False,9.05,,0.1,True,False,True,,70.8333333333,8.33333333333,8.33333333333,,34,48,52,65.3846153846,"alpha, EC, SF",,,70.8333333333,True,Qalpha,True,ok,1,1,False,0
+source-row-0105,105,263Db,,Db,263,105,158,False,False,8.83,,0.15,True,False,True,,72.972972973,27.027027027,18.9189189189,,27,37,56,48.2142857143,"alpha, EC, SF",,,72.972972973,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0106,106,266Db,,Db,266,105,161,False,False,8.21,,0.2,True,False,True,,,,,,660,,100,660,"EC, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0107,107,267Db,,Db,267,105,162,False,False,7.92,,0.3,True,False,True,,,,,,5040,,100,5040,"EC, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0108,108,268Db,,Db,268,105,163,False,False,7.7,,,False,True,False,,112941.176471,42352.9411765,28235.2941176,,57600,51,49,117551.020408,"alpha, EC, SF",,,112941.176471,True,,True,ok,1,1,False,0
+source-row-0109,109,270Db,,Db,270,105,165,False,False,8.019,,0.03,False,True,False,,21176.4705882,40235.2941176,8470.58823529,,3600,17,83,4337.34939759,"alpha, SF",,,21176.4705882,True,,True,ok,1,1,False,0
+source-row-0110,110,257Sg,,Sg,257,106,151,False,False,9.45,,0.07,False,True,False,,0.126,0.037,0.023,approx,0.0126,10,90,0.014,"alpha, SF",,,0.126,True,,True,ok,1,1,False,0
+source-row-0111,111,258Sg,,Sg,258,106,152,False,False,9.67,,0.3,True,False,True,,,,,,0.0027,,100,0.0027,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0112,112,259Sg,,Sg,259,106,153,False,False,9.765,,0.008,False,True,False,,0.402,0.056,0.056,,0.402,100,,,"alpha, EC, SF^r",,,0.402,True,,True,ok,1,1,False,0
+source-row-0113,113,260Sg,,Sg,260,106,154,False,False,9.901,,0.01,False,True,False,,0.00697183098592,0.000464788732394,0.000464788732394,,0.00495,71,29,0.0170689655172,"alpha, SF",,,0.00697183098592,True,,True,ok,1,1,False,0
+source-row-0114,114,261Sg,,Sg,261,106,155,False,False,9.55645914397,9.41,0.0101556420233,False,True,False,,0.187563710499,0.00515389899459,0.00515389899459,,0.184,98.1,0.6,30.6666666667,"alpha, EC, SF",257Rf,"g.s. (1/2+), 98.1(4)%",0.187563710499,True,,True,ok,1,1,False,0
+source-row-0115,115,262Sg,,Sg,262,106,156,False,False,9.6,,0.015,False,True,False,,0.141666666667,0.0383333333333,0.025,,0.0085,6,94,0.00904255319149,"alpha, SF",,,0.141666666667,True,,True,ok,1,1,False,0
+source-row-0116,116,263Sg,,Sg,263,106,157,False,False,9.4,,0.06,False,True,False,,1.08045977011,0.16091954023,0.16091954023,,0.94,87,13,7.23076923077,"alpha, SF",,,1.08045977011,True,Jpi,True,ok,1,1,False,0
+source-row-0117,117,264Sg,,Sg,264,106,158,False,False,9.21,,0.2,True,False,True,,,,,,0.068,,80,0.085,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0118,118,265Sg^a,a,Sg,265,106,159,False,False,8.9754789272,8.84,,False,True,False,,8.5,,,,8.5,100,,,alpha,261Rf,261Rf^a:91%; 261Rf^b:9%,8.5,True,,True,ok,1,2,True,0
+source-row-0119,119,265Sg^b,b,Sg,265,106,159,False,False,8.82318007663,8.69,,False,True,False,,14.4,,,,14.4,100,,,alpha,261Rf,261Rf^a:20%; 261Rf^b:80%,14.4,True,,True,ok,2,2,True,0
+source-row-0120,120,266Sg,,Sg,266,106,160,False,False,8.8,,0.1,True,False,True,,,,,,0.34,,90,0.377777777778,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0121,121,267Sg,,Sg,267,106,161,False,False,8.4,,0.02,False,True,False,,3458.82352941,3988.23529412,1588.23529412,,588,17,83,708.43373494,"alpha, SF",,,3458.82352941,True,,True,ok,1,1,False,0
+source-row-0122,122,268Sg,,Sg,268,106,162,False,False,8.3,,0.3,True,False,True,,,,,,13,,100,13,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0123,123,269Sg,,Sg,269,106,163,False,False,8.58,,0.07,False,True,False,,186,222,66,,186,100,,,alpha,,,186,True,,True,ok,1,1,False,0
+source-row-0124,124,271Sg,,Sg,271,106,165,False,False,8.629,,0.016,False,True,False,,42.4657534247,17.8082191781,9.58904109589,,31,73,27,114.814814815,"alpha, SF",,,42.4657534247,True,,True,ok,1,1,False,0
+source-row-0125,125,260Bh,,Bh,260,107,153,False,False,10.4,,0.06,False,True,False,,0.035,0.019,0.009,approx,0.035,100,,,"alpha, EC, SF",,,0.035,True,,True,ok,1,1,False,0
+source-row-0126,126,261Bh,,Bh,261,107,154,False,False,10.16,,,False,True,False,approx,0.0118,0.0039,0.0024,approx,0.0118,100,,,"alpha, SF",,,0.0118,True,,True,ok,1,1,False,0
+source-row-0127,127,262Bh,,Bh,262,107,155,False,True,10.08,,,False,True,False,approx,0.096,0.018,0.013,approx,0.096,100,,,"alpha, SF",,,0.096,True,,True,ok,1,2,True,0
+source-row-0128,128,262Bh,,Bh,262,107,155,False,True,10.55,,,False,True,False,approx,0.021,0.008,0.005,approx,0.021,100,,,"alpha, SF",,,0.021,True,,True,ok,2,2,True,0
+source-row-0129,129,264Bh,,Bh,264,107,157,False,False,9.86,,0.15,True,False,True,,1.1511627907,0.267441860465,0.209302325581,,0.99,86,14,7.07142857143,"alpha, SF",,,1.1511627907,True,Qalpha,True,ok,1,1,False,0
+source-row-0130,130,265Bh,,Bh,265,107,158,False,False,9.66,,0.21,True,False,True,,0.94,0.7,0.31,,0.94,100,,,alpha,,,0.94,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0131,131,266Bh,,Bh,266,107,159,False,False,9.43,,0.08,True,False,True,,10,2.7,1.6,,10,100,,,"alpha, EC, SF",,,10,True,Qalpha,True,ok,1,1,False,0
+source-row-0132,132,267Bh,,Bh,267,107,160,False,False,9.23,,0.2,True,False,True,,16,7,4,,16,100,,,alpha,,,16,True,Qalpha;Jpi,True,ok,1,1,False,0
+source-row-0133,133,270Bh,,Bh,270,107,163,False,False,9.06,,0.1,False,True,False,,144,264,54,approx,144,100,,,alpha,,,144,True,,True,ok,1,1,False,0
+source-row-0134,134,271Bh,,Bh,271,107,164,False,False,9.42,,0.09,False,True,False,,2.9,2.2,0.9,,2.9,100,,,alpha,,,2.9,True,,True,ok,1,1,False,0
+source-row-0135,135,272Bh,,Bh,272,107,165,False,False,9.3,,0.05,False,True,False,,8.8,0.7,0.7,,8.8,100,,,alpha,,,8.8,True,,True,ok,1,1,False,0
+source-row-0136,136,274Bh,,Bh,274,107,167,False,False,8.94,,0.06,False,True,False,,44,34,13,,44,100,,,alpha,,,44,True,,True,ok,1,1,False,0
+source-row-0137,137,263Hs,,Hs,263,108,155,False,False,10.73,,0.08,False,True,False,,0.00074,0.00048,0.00021,,0.00074,100,,,"alpha, SF",,,0.00074,True,Jpi,True,ok,1,1,False,0
+source-row-0138,138,264Hs,,Hs,264,108,156,False,False,10.591,,0.02,False,True,False,,0.0009,0.000485714285714,0.000228571428571,,0.00063,70,30,0.0021,"alpha, SF",,,0.0009,True,,True,ok,1,1,False,0
+source-row-0139,139,265Hs,,Hs,265,108,157,False,False,10.47,,0.015,False,True,False,,0.0019,0.0002,0.0001,,0.0019,100,,,"alpha, SF",,,0.0019,True,Jpi,True,ok,1,1,False,0
+source-row-0140,140,266Hs,,Hs,266,108,158,False,False,10.346,,0.016,False,True,False,,0.000973684210526,0.000631578947368,0.000276315789474,,0.00074,76,24,0.00308333333333,"alpha, SF",,,0.000973684210526,True,,True,ok,1,1,False,0
+source-row-0141,141,267Hs,,Hs,267,108,159,False,False,10.038,,0.013,False,True,False,,0.06625,0.015,0.01,<,0.053,80,,,"alpha, SF",,,0.06625,True,,True,ok,1,1,False,0
+source-row-0142,142,268Hs,,Hs,268,108,160,False,False,9.623,,0.016,False,True,False,,0.4,1.8,0.2,approx,0.4,100,,,alpha,,,0.4,True,,True,ok,1,1,False,0
+source-row-0143,143,269Hs,,Hs,269,108,161,False,False,9.34,,0.04,False,True,False,,13,10,4,,13,100,,,alpha,,,13,True,Jpi,True,ok,1,1,False,0
+source-row-0144,144,270Hs,,Hs,270,108,162,False,False,9.07,,0.04,False,True,False,,7.6,4.9,2.2,,7.6,100,,,"alpha, SF",,,7.6,True,,True,ok,1,1,False,0
+source-row-0145,145,271Hs,,Hs,271,108,163,False,False,9.48,,0.02,False,True,False,,,,,,7.1,,,,alpha,,,,,,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0146,146,272Hs,,Hs,272,108,164,False,False,9.772,,0.021,False,True,False,,0.16,0.19,0.06,,0.16,100,,,alpha,,,0.16,True,,True,ok,1,1,False,0
+source-row-0147,147,273Hs,,Hs,273,108,165,False,False,9.65,,0.06,False,True,False,,0.51,0.3,0.13,,0.51,100,,,"alpha, SF",,,0.51,True,,True,ok,1,1,False,0
+source-row-0148,148,275Hs,,Hs,275,108,167,False,False,9.45,,0.05,False,True,False,,0.168539325843,0.303370786517,0.0674157303371,<,0.15,89,11,1.36363636364,"alpha, SF",,,0.168539325843,True,,True,ok,1,1,False,0
+source-row-0149,149,277Hs,,Hs,277,108,169,False,False,9.03,,0.2,True,False,True,,,,,,0.003,,100,0.003,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0150,150,266Mt,,Mt,266,109,157,False,False,10.996,,0.025,False,True,False,,0.0017,0.0006,0.0004,approx,0.0017,100,,,"alpha, SF",,,0.0017,True,,True,ok,1,1,False,0
+source-row-0151,151,268Mt,,Mt,268,109,159,False,False,10.77,,0.15,False,True,False,,0.021,0.008,0.005,,0.021,100,,,alpha,,,0.021,True,,True,ok,1,1,False,0
+source-row-0152,152,270Mt,,Mt,270,109,161,False,False,10.181,,0.05,False,True,False,,0.48,0.66,0.18,approx,0.48,100,,,alpha,,,0.48,True,,True,ok,1,1,False,0
+source-row-0153,153,274Mt,,Mt,274,109,165,False,False,10.6,,0.23,True,False,True,,0.64,0.76,0.23,approx,0.64,100,,,"alpha, SF",,,0.64,True,Qalpha,True,ok,1,1,False,0
+source-row-0154,154,275Mt,,Mt,275,109,166,False,False,10.48,,0.05,False,True,False,,0.02,0.013,0.006,,0.02,100,,,alpha,,,0.02,True,,True,ok,1,1,False,0
+source-row-0155,155,276Mt,,Mt,276,109,167,False,False,10.1,,0.01,False,True,False,,0.62,0.06,0.04,,0.62,100,,,alpha,,,0.62,True,,True,ok,1,1,False,0
+source-row-0156,156,277Mt,,Mt,277,109,168,False,False,9.9,,0.1,True,False,True,,,,,,0.0039,,100,0.0039,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0157,157,278Mt,,Mt,278,109,169,False,False,9.58,,0.03,False,True,False,,4.5,3.5,1.3,,4.5,100,,,"alpha, SF",,,4.5,True,,True,ok,1,1,False,0
+source-row-0158,158,267Ds,,Ds,267,110,157,False,False,11.78,,0.05,False,True,False,,2.8e-06,1.33e-05,1e-07,uncertain,2.8e-06,100,,,alpha ?,,,2.8e-06,True,,True,ok,1,1,False,0
+source-row-0159,159,269Ds,,Ds,269,110,159,False,False,11.51,,0.03,False,True,False,,0.00017,0.00016,6e-05,,0.00017,100,,,alpha,,,0.00017,True,,True,ok,1,1,False,0
+source-row-0160,160,270Ds,,Ds,270,110,160,False,False,11.117,,0.028,False,True,False,,0.0002,7e-05,4e-05,,0.0002,100,,,"alpha, SF",,,0.0002,True,,True,ok,1,1,False,0
+source-row-0161,161,271Ds,,Ds,271,110,161,False,False,10.87,,0.018,False,True,False,,0.00163,0.00044,2e-05,,0.00163,100,,,alpha,,,0.00163,True,,True,ok,1,1,False,0
+source-row-0162,162,273Ds^a,a,Ds,273,110,163,False,False,11.0519330855,10.89,0.0202973977695,False,True,False,,0.01734,0.03155,0.00683,,0.01734,100,,,alpha,269Hs,269Hs:100% (within alpha branch),0.01734,True,,True,ok,1,2,True,0
+source-row-0163,163,273Ds^m,,Ds,273,110,163,False,False,11.33,,0.02,False,True,False,,0.00016,8e-05,5e-05,,0.00016,100,,,alpha,,,0.00016,True,,True,ok,2,2,True,0
+source-row-0164,164,275Ds,,Ds,275,110,165,False,False,11.37,,0.02,False,True,False,,0.00043,0.00029,0.00012,,0.00043,100,,,alpha,,,0.00043,True,,True,ok,1,1,False,0
+source-row-0165,165,276Ds,,Ds,276,110,166,False,False,10.904,,0.028,False,True,False,,0.000348837209302,0.000232558139535,9.3023255814e-05,,0.00015,43,57,0.000263157894737,"alpha, SF",,,0.000348837209302,True,,True,ok,1,1,False,0
+source-row-0166,166,277Ds,,Ds,277,110,167,False,False,10.71,,0.04,False,True,False,,0.0035,0.0021,0.0009,,0.0035,100,,,"alpha, SF",,,0.0035,True,,True,ok,1,1,False,0
+source-row-0167,167,279Ds,,Ds,279,110,169,False,False,9.827,,0.015,True,False,True,,1.43076923077,0.161538461538,0.130769230769,,0.186,13,87,0.213793103448,"alpha, SF",,,1.43076923077,True,Qalpha,True,ok,1,1,False,0
+source-row-0168,168,280Ds,,Ds,280,110,170,False,False,9.71,,0.2,True,False,True,,,,,,0.36,,100,0.36,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0169,169,281Ds,,Ds,281,110,171,False,False,9.47,,0.21,True,False,True,,130,45,27,,13,10,90,14.4444444444,"alpha, SF",,,130,True,Qalpha,True,ok,1,1,False,0
+source-row-0170,170,272Rg,,Rg,272,111,161,False,False,11.197,,0.013,False,True,False,,0.0038,0.0014,0.0008,,0.0038,100,,,alpha,,,0.0038,True,,True,ok,1,1,False,0
+source-row-0171,171,274Rg,,Rg,274,111,163,False,False,11.48,,0.09,False,True,False,,0.012,0.017,0.005,,0.012,100,,,alpha,,,0.012,True,,True,ok,1,1,False,0
+source-row-0172,172,278Rg,,Rg,278,111,167,False,False,10.85,,0.1,False,True,False,,0.0046,0.0055,0.0016,approx,0.0046,100,,,"alpha, SF",,,0.0046,True,,True,ok,1,1,False,0
+source-row-0173,173,279Rg,,Rg,279,111,168,False,False,10.53,,0.17,False,True,False,,0.103448275862,0.0689655172414,0.0287356321839,,0.09,87,13,0.692307692308,"alpha, SF",,,0.103448275862,True,,True,ok,1,1,False,0
+source-row-0174,174,280Rg,,Rg,280,111,169,False,False,10.149,,0.01,False,True,False,,3.9,0.3,0.3,,3.9,100,,,alpha,,,3.9,True,,True,ok,1,1,False,0
+source-row-0175,175,281Rg,,Rg,281,111,170,False,False,9.9,,0.4,True,False,True,,78.5714285714,21.4285714286,7.14285714286,,11,14,88,12.5,"alpha, SF",,,78.5714285714,True,Qalpha,True,ok,1,1,False,0
+source-row-0176,176,282Rg,,Rg,282,111,171,False,False,9.55,,0.1,True,False,True,,100,70,30,approx,100,100,,,"alpha, SF",,,100,True,Qalpha,True,ok,1,1,False,0
+source-row-0177,177,277Cn,,Cn,277,112,165,False,False,11.62,,0.06,False,True,False,,0.00061,0.00046,0.00018,,0.00061,100,,,alpha,,,0.00061,True,,True,ok,1,1,False,0
+source-row-0178,178,280Cn,,Cn,280,112,168,False,False,10.69,,0.2,True,False,True,,,,,,1e-05,,100,1e-05,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0179,179,281Cn,,Cn,281,112,169,False,False,10.43,,0.06,False,True,False,,0.18,0.1,0.05,,0.18,100,,,"alpha, SF",,,0.18,True,,True,ok,1,1,False,0
+source-row-0180,180,282Cn,,Cn,282,112,170,False,False,10.15,,0.2,True,False,True,,,,,,0.00083,,100,0.00083,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0181,181,283Cn,,Cn,283,112,171,False,False,9.667,,0.015,False,True,False,,4.23333333333,0.5,0.4,<,3.81,90,10,38.1,"alpha, SF",,,4.23333333333,True,,True,ok,1,1,False,0
+source-row-0182,182,284Cn,,Cn,284,112,172,False,False,9.46,,0.01,False,True,False,,4.9,1,0.7,,0.098,2,98,0.1,"alpha, SF",,,4.9,True,,True,ok,1,1,False,0
+source-row-0183,183,285Cn,,Cn,285,112,173,False,False,9.32,,0.02,False,True,False,,33,10,6,,33,100,,,alpha,,,33,True,,True,ok,1,1,False,0
+source-row-0184,184,286Cn,,Cn,286,112,174,True,False,9.24,,0.76,True,False,True,,8.4,40.5,3.9,,8.4,100,,,"(alpha, SF)",,,8.4,True,Qalpha,True,ok,1,1,False,0
+source-row-0185,185,278Nh,,Nh,278,113,165,False,False,11.99,,0.08,False,True,False,,0.002,0.0027,0.0007,,0.002,100,,,alpha,,,0.002,True,,True,ok,1,1,False,0
+source-row-0186,186,282Nh,,Nh,282,113,169,False,False,10.78,,0.08,False,True,False,,0.061,0.073,0.022,,0.061,100,,,alpha,,,0.061,True,,True,ok,1,1,False,0
+source-row-0187,187,283Nh,,Nh,283,113,170,False,False,10.35,,0.04,False,True,False,,0.123,0.08,0.035,,0.123,100,,,alpha,,,0.123,True,,True,ok,1,1,False,0
+source-row-0188,188,284Nh,,Nh,284,113,171,False,False,10.28,,0.04,False,True,False,,0.9,0.07,0.06,,0.9,100,,,alpha,,,0.9,True,,True,ok,1,1,False,0
+source-row-0189,189,285Nh,,Nh,285,113,172,False,False,10.01,,0.04,False,True,False,,2.56097560976,0.731707317073,0.365853658537,,2.1,82,18,11.6666666667,"alpha, SF",,,2.56097560976,True,,True,ok,1,1,False,0
+source-row-0190,190,286Nh,,Nh,286,113,173,False,False,9.79,,0.05,False,True,False,,9.5,6.3,2.7,,9.5,100,,,alpha,,,9.5,True,,True,ok,1,1,False,0
+source-row-0191,191,284Fl,,Fl,284,114,170,False,False,10.721,,0.017,False,True,False,,0.0104166666667,0.005,0.0025,,0.0025,24,76,0.00328947368421,"alpha, SF",,,0.0104166666667,True,,True,ok,1,1,False,0
+source-row-0192,192,285Fl,,Fl,285,114,171,False,False,10.56,,0.07,False,True,False,,0.1,0.06,0.03,,0.1,100,,,alpha,,,0.1,True,,True,ok,1,1,False,0
+source-row-0193,193,286Fl,,Fl,286,114,172,False,False,10.335,,0.01,False,True,False,,0.2625,0.0425,0.0325,,0.105,40,60,0.175,"alpha, SF",,,0.2625,True,,True,ok,1,1,False,0
+source-row-0194,194,287Fl,,Fl,287,114,173,False,False,10.157,,0.015,False,True,False,,0.514285714286,0.0642857142857,0.0514285714286,<,0.36,70,,,alpha,,,0.514285714286,True,,True,ok,1,1,False,0
+source-row-0195,195,288Fl,,Fl,288,114,174,False,False,10.076,,0.012,False,True,False,,0.64,0.14,0.1,,0.64,100,,,"alpha, SF",,,0.64,True,,True,ok,1,1,False,0
+source-row-0196,196,289Fl,,Fl,289,114,175,False,False,9.95,,0.07,False,True,False,,2.4,0.8,0.5,,2.4,100,,,alpha,,,2.4,True,,True,ok,1,1,False,0
+source-row-0197,197,290Fl,,Fl,290,114,176,True,False,9.86,,0.03,False,True,False,,0.46,,,<,0.46,100,,,(alpha),,,0.46,True,,True,ok,1,1,False,0
+source-row-0198,198,286Mc,,Mc,286,115,171,False,False,10.86,,0.02,False,True,False,,0.02,0.098,0.009,,0.02,100,,,alpha,,,0.02,True,,True,ok,1,1,False,0
+source-row-0199,199,287Mc,,Mc,287,115,172,False,False,10.76,,0.07,False,True,False,,0.038,0.022,0.01,,0.038,100,,,alpha,,,0.038,True,,True,ok,1,1,False,0
+source-row-0200,200,288Mc,,Mc,288,115,173,False,False,10.65,,0.05,False,True,False,,0.193,0.015,0.013,,0.193,100,,,alpha,,,0.193,True,,True,ok,1,1,False,0
+source-row-0201,201,289Mc,,Mc,289,115,174,False,False,10.49,,0.05,False,True,False,,0.25,0.051,0.035,,0.25,100,,,"alpha, SF",,,0.25,True,,True,ok,1,1,False,0
+source-row-0202,202,290Mc,,Mc,290,115,175,False,False,10.41,,0.04,False,True,False,,0.65,0.49,0.2,,0.65,100,,,alpha,,,0.65,True,,True,ok,1,1,False,0
+source-row-0203,203,288Lv,,Lv,288,116,172,False,False,11.24,,0.015,False,True,False,,0.002,0.0023,0.0007,,0.002,100,,,alpha,,,0.002,True,,True,ok,1,1,False,0
+source-row-0204,204,289Lv,,Lv,289,116,173,False,False,11.057,,0.015,False,True,False,,0.0024,0.0044,0.0009,,0.0024,100,,,alpha,,,0.0024,True,,True,ok,1,1,False,0
+source-row-0205,205,290Lv,,Lv,290,116,174,False,False,11,,0.06,False,True,False,,0.0083,0.0035,0.0019,,0.0083,100,,,"alpha, SF",,,0.0083,True,,True,ok,1,1,False,0
+source-row-0206,206,291Lv,,Lv,291,116,175,False,False,10.89,,0.09,False,True,False,,0.019,0.017,0.006,approx,0.019,100,,,"alpha, SF",,,0.019,True,,True,ok,1,1,False,0
+source-row-0207,207,292Lv,,Lv,292,116,176,False,False,10.791,,0.012,False,True,False,,0.013,0.007,0.004,approx,0.013,100,,,"alpha, SF",,,0.013,True,,True,ok,1,1,False,0
+source-row-0208,208,293Lv,,Lv,293,116,177,False,False,10.68,,0.06,False,True,False,,0.057,0.043,0.017,,0.057,100,,,alpha,,,0.057,True,,True,ok,1,1,False,0
+source-row-0209,209,293Ts,,Ts,293,117,176,False,False,11.32,,0.05,False,True,False,,0.022,0.008,0.004,,0.022,100,,,alpha,,,0.022,True,,True,ok,1,1,False,0
+source-row-0210,210,294Ts,,Ts,294,117,177,False,False,11.18,,0.04,False,True,False,,0.051,0.038,0.016,,0.051,100,,,alpha,,,0.051,True,,True,ok,1,1,False,0
+source-row-0211,211,294Og,,Og,294,118,176,False,False,11.87,,0.03,False,True,False,,0.00058,0.00044,0.00018,,0.00058,100,,,"alpha, SF",,,0.00058,True,,True,ok,1,1,False,0

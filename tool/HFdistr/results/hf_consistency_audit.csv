@@ -1,0 +1,2 @@
+severity,check,record_id,source_csv_line,isotope,observed,expected,relative_difference,details
+warning,two_mode_branch_sum,source-row-0175,175,281Rg,102,100,0.02,"Exact alpha+SF percentages do not sum to 100%; likely source rounding or unresolved uncertainty, not an automatic correction."

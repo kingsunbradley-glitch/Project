@@ -1,0 +1,35 @@
+record_id,source_csv_line,isotope,state_label,symbol,A,Z,N,is_parenthesized,mass_number_uncertain,Qalpha_MeV,Ealpha_MeV,Qalpha_err_MeV,Qalpha_estimated,Qalpha_is_experimental,qalpha_estimated_used,Qalpha_qualifier,T_alpha_half_s,T_alpha_half_err_plus_s,T_alpha_half_err_minus_s,T_alpha_half_qualifier,T_half_s,b_alpha_percent,b_SF_percent,T_SF_half_s,decay_modes_raw,alpha_daughter,alpha_daughter_population_raw,partial_half_life_reconstructed_s,partial_half_life_consistent,nonexperimental_fields,eligible_for_hf,calculation_status,cell_record_index,cell_record_count,duplicate_nz_cell,l_assumed
+source-row-0012,12,250Es,,Es,250,99,151,False,False,6.83,,0.12,True,False,True,,,,,,516,,,,"alpha, EC",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0018,18,256Es,,Es,256,99,157,False,False,6.23,,0.22,True,False,True,,,,,,1524,,,,beta^-,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0019,19,257Es,,Es,257,99,158,False,False,6.05,,0.2,True,False,True,,,,,,665280,,,,"beta^-, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0021,21,242Fm,,Fm,242,100,142,True,False,8.7,,0.5,True,False,True,,,,,,0.0008,,100,0.0008,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0037,37,258Fm,,Fm,258,100,158,False,False,6.66,,0.2,True,False,True,,,,,,0.00037,,100,0.00037,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0038,38,259Fm,,Fm,259,100,159,False,False,6.47,,0.2,True,False,True,,,,,,1.5,,100,1.5,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0040,40,245Md,,Md,245,101,144,False,False,9.01,,0.012,False,True,False,,,,,,0.33,,,,"alpha, SF",,,,,,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0046,46,252Md,,Md,252,101,151,False,False,7.74,,0.11,True,False,True,,,,,,138,,,,EC,,,,,Qalpha;Jpi,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0048,48,254Md,,Md,254,101,153,False,False,7.8,,0.14,True,False,True,,,,,,600,,,,EC,,,,,Qalpha;Jpi,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0064,64,258No,,No,258,102,156,False,False,8.15,,0.1,True,False,True,,,,,,0.00123,,100,0.00123,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0066,66,260No,,No,260,102,158,False,False,7.7,,0.2,True,False,True,,,,,,0.106,,100,0.106,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0067,67,262No,,No,262,102,160,False,False,7.25,,0.3,True,False,True,,,,,,0.005,,100,0.005,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0078,78,261Lr,,Lr,261,103,158,False,False,8.14,,0.2,True,False,True,,,,,,2340,,100,2340,SF,,,,,Qalpha;Jpi,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0079,79,262Lr,,Lr,262,103,159,False,False,7.99,,0.2,True,False,True,,,,,,14400,,10,144000,"alpha, EC, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0080,80,264Lr,,Lr,264,103,161,False,False,7.4,,0.3,True,False,True,,,,,,17280,,100,17280,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0081,81,266Lr,,Lr,266,103,163,False,False,7.57,,0.3,True,False,True,,,,,,39600,,100,39600,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0082,82,252Rf,,Rf,252,104,148,False,False,,,,False,True,False,,,,,,6e-08,,100,6e-08,SF,,,,,,False,missing_Qalpha_MeV;missing_T_alpha_half_s,1,1,False,0
+source-row-0083,83,253Rf,,Rf,253,104,149,False,False,9.46,,0.02,False,True,False,,,,,,0.0128,,100,0.0128,"alpha, SF",,,,,Jpi,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0093,93,262Rf,,Rf,262,104,158,False,False,8.49,,0.2,True,False,True,,,,,,0.047,,100,0.047,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0094,94,263Rf,,Rf,263,104,159,False,False,8.25,,0.15,True,False,True,,,,,,5.1,,100,5.1,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0095,95,265Rf,,Rf,265,104,161,False,False,7.81,,0.3,True,False,True,,,,,,60,,100,60,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0096,96,267Rf,,Rf,267,104,163,False,False,7.89,,0.3,True,False,True,,,,,,172800,,100,172800,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0106,106,266Db,,Db,266,105,161,False,False,8.21,,0.2,True,False,True,,,,,,660,,100,660,"EC, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0107,107,267Db,,Db,267,105,162,False,False,7.92,,0.3,True,False,True,,,,,,5040,,100,5040,"EC, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0111,111,258Sg,,Sg,258,106,152,False,False,9.67,,0.3,True,False,True,,,,,,0.0027,,100,0.0027,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0117,117,264Sg,,Sg,264,106,158,False,False,9.21,,0.2,True,False,True,,,,,,0.068,,80,0.085,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0120,120,266Sg,,Sg,266,106,160,False,False,8.8,,0.1,True,False,True,,,,,,0.34,,90,0.377777777778,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0122,122,268Sg,,Sg,268,106,162,False,False,8.3,,0.3,True,False,True,,,,,,13,,100,13,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0145,145,271Hs,,Hs,271,108,163,False,False,9.48,,0.02,False,True,False,,,,,,7.1,,,,alpha,,,,,,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0149,149,277Hs,,Hs,277,108,169,False,False,9.03,,0.2,True,False,True,,,,,,0.003,,100,0.003,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0156,156,277Mt,,Mt,277,109,168,False,False,9.9,,0.1,True,False,True,,,,,,0.0039,,100,0.0039,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0168,168,280Ds,,Ds,280,110,170,False,False,9.71,,0.2,True,False,True,,,,,,0.36,,100,0.36,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0178,178,280Cn,,Cn,280,112,168,False,False,10.69,,0.2,True,False,True,,,,,,1e-05,,100,1e-05,SF,,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0
+source-row-0180,180,282Cn,,Cn,282,112,170,False,False,10.15,,0.2,True,False,True,,,,,,0.00083,,100,0.00083,"alpha, SF",,,,,Qalpha,False,missing_T_alpha_half_s,1,1,False,0

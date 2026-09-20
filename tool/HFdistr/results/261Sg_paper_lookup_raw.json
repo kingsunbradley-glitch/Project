@@ -1,0 +1,41 @@
+{
+  "query": "261Sg decay Streicher, publication years 2009-2011",
+  "retrieved_on": "2026-08-24",
+  "crossref": {
+    "endpoint": "https://api.crossref.org/works?query.bibliographic=261Sg%20decay%20Streicher&filter=from-pub-date:2009-01-01,until-pub-date:2011-12-31&rows=1&select=DOI,title,published,container-title,volume,issue,page,type",
+    "raw_response": {
+      "status": "ok",
+      "message-type": "work-list",
+      "message-version": "1.0.0",
+      "message": {
+        "facets": {},
+        "total-results": 5258,
+        "items": [{
+          "DOI": "10.1140/epja/i2010-11005-2",
+          "title": ["Alpha-gamma decay studies of 261Sg and 257Rf"],
+          "published": {"date-parts": [[2010, 7, 20]]},
+          "container-title": ["The European Physical Journal A"],
+          "volume": "45",
+          "issue": "3",
+          "page": "275-286",
+          "type": "journal-article"
+        }],
+        "items-per-page": 1,
+        "query": {"start-index": 0, "search-terms": null}
+      }
+    }
+  },
+  "openalex": {
+    "endpoint": "https://api.openalex.org/works/doi:10.1140/epja/i2010-11005-2?select=id,doi,title,publication_year,publication_date,type,is_retracted,cited_by_count",
+    "raw_response": {
+      "id": "https://openalex.org/W2034473247",
+      "doi": "https://doi.org/10.1140/epja/i2010-11005-2",
+      "title": "Alpha-gamma decay studies of 261Sg and 257Rf",
+      "publication_year": 2010,
+      "publication_date": "2010-07-19",
+      "type": "article",
+      "is_retracted": false,
+      "cited_by_count": 51
+    }
+  }
+}

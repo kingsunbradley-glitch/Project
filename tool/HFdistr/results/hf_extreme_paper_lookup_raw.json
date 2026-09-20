@@ -1,0 +1,79 @@
+{
+  "retrieved_on": "2026-08-24",
+  "databases_queried": ["Crossref", "OpenAlex"],
+  "crossref": [
+    {
+      "endpoint": "https://api.crossref.org/works?filter=doi:10.1088/1674-1137/abddae&rows=1&select=DOI,published,container-title,volume,issue,page,type",
+      "raw_response": {
+        "status": "ok",
+        "message-type": "work-list",
+        "message-version": "1.0.0",
+        "message": {
+          "facets": {},
+          "total-results": 1,
+          "items": [{
+            "DOI": "10.1088/1674-1137/abddae",
+            "published": {"date-parts": [[2021, 3, 1]]},
+            "container-title": ["Chinese Physics C"],
+            "volume": "45",
+            "issue": "3",
+            "page": "030001",
+            "type": "journal-article"
+          }],
+          "items-per-page": 1,
+          "query": {"start-index": 0, "search-terms": null}
+        }
+      }
+    },
+    {
+      "endpoint": "https://api.crossref.org/works?filter=doi:10.1103/PhysRevC.106.024612&rows=1&select=DOI,published,container-title,volume,issue,page,type",
+      "raw_response": {
+        "status": "ok",
+        "message-type": "work-list",
+        "message-version": "1.0.0",
+        "message": {
+          "facets": {},
+          "total-results": 1,
+          "items": [{
+            "DOI": "10.1103/physrevc.106.024612",
+            "published": {"date-parts": [[2022, 8, 22]]},
+            "container-title": ["Physical Review C"],
+            "volume": "106",
+            "issue": "2",
+            "type": "journal-article"
+          }],
+          "items-per-page": 1,
+          "query": {"start-index": 0, "search-terms": null}
+        }
+      }
+    }
+  ],
+  "openalex": [
+    {
+      "endpoint": "https://api.openalex.org/works/doi:10.1088/1674-1137/abddae?select=id,doi,title,publication_year,publication_date,type,is_retracted,cited_by_count",
+      "raw_response": {
+        "id": "https://openalex.org/W3124757224",
+        "doi": "https://doi.org/10.1088/1674-1137/abddae",
+        "title": "The NUBASE2020 evaluation of nuclear physics properties *",
+        "publication_year": 2021,
+        "publication_date": "2021-01-20",
+        "type": "article",
+        "is_retracted": false,
+        "cited_by_count": 768
+      }
+    },
+    {
+      "endpoint": "https://api.openalex.org/works/doi:10.1103/PhysRevC.106.024612?select=id,doi,title,publication_year,publication_date,type,is_retracted,cited_by_count",
+      "raw_response": {
+        "id": "https://openalex.org/W4292648141",
+        "doi": "https://doi.org/10.1103/physrevc.106.024612",
+        "title": "Investigation of Ca48 -induced reactions with Pu242 and U238 targets at the JINR Superheavy Element Factory",
+        "publication_year": 2022,
+        "publication_date": "2022-08-22",
+        "type": "article",
+        "is_retracted": false,
+        "cited_by_count": 56
+      }
+    }
+  ]
+}

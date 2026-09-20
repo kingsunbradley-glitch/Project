@@ -1,0 +1,6 @@
+isotope,issue,old_value,corrected_value,calculation_or_reason,source
+261Sg,T_half unit,"183(5) s","184(5) ms","Ackermann table contains a seconds/milliseconds transcription error; current adopted evaluation gives 184(5) ms",https://www.nndc.bnl.gov/ensnds/261/Sg/adopted.pdf
+261Sg,alpha branching,"98.1%","98.1(4)%","T_alpha=T_total/(BR_alpha/100)=0.184/0.981=0.187563710499 s",https://www.nndc.bnl.gov/ensnds/261/Sg/adopted.pdf
+261Sg,alpha energy used for HF,"Qmass=9.714(15) MeV","Ealpha(lab)=9.410(10) MeV; Qtransition=9.556459143969 MeV","Qtransition=Ealpha*A/(A-4)=9.410*261/257; the observed transition feeds the 257Rf ground state",https://nucleardata.berkeley.edu/research/betap_pages/isospins/tables/tab_even_pos_49_2_halfint.pdf
+261Sg,Viola-Seaborg HF,"6316.24667742","2.29236577219","Tcalc=0.0818210220965 s; HF=T_alpha/Tcalc",https://www.nndc.bnl.gov/ensnds/261/Sg/adopted.pdf
+261Sg,E. Rurarz HF,"8027.88936984","2.95296832656","Tcalc=0.0635170072136 s; HF=T_alpha/Tcalc",https://doi.org/10.1140/epja/i2010-11005-2

@@ -1,0 +1,235 @@
+{
+  "database": "/home/evalie/Project/Function/Project/tool/HFdistr/ackermann_ground_states.csv",
+  "database_records": 210,
+  "database_unique_nz_cells": 206,
+  "eligible_records": 176,
+  "eligible_unique_nz_cells": 172,
+  "excluded_records": 34,
+  "hf_definition": "HF = T_alpha_half_s / Tcalc_s",
+  "experimental_partial_half_life_source": "T_alpha_half_s",
+  "total_half_life_used_in_hf": false,
+  "branching_ratio_used_to_reconstruct_talpha": false,
+  "qalpha_source": "Qalpha_MeV",
+  "l_assumed": 0.0,
+  "color_scale": {
+    "quantity": "HF",
+    "type": "discrete_bins",
+    "bins": [
+      {
+        "min": null,
+        "max": 0.1,
+        "include_max": false,
+        "label": "HF < 0.1",
+        "color": "#313695"
+      },
+      {
+        "min": 0.1,
+        "max": 4.0,
+        "include_max": false,
+        "label": "0.1 ≤ HF < 4",
+        "color": "#74add1"
+      },
+      {
+        "min": 4.0,
+        "max": 10.0,
+        "include_max": false,
+        "label": "4 ≤ HF < 10",
+        "color": "#fee090"
+      },
+      {
+        "min": 10.0,
+        "max": 100.0,
+        "include_max": true,
+        "label": "10 ≤ HF ≤ 100",
+        "color": "#f46d43"
+      },
+      {
+        "min": 100.0,
+        "max": null,
+        "include_max": false,
+        "label": "HF > 100",
+        "color": "#a50026"
+      }
+    ],
+    "text_values_clipped": false
+  },
+  "methods": [
+    {
+      "name": "Poenaru",
+      "slug": "poenaru",
+      "title": "Poenaru (original1980)",
+      "note": "Poenaru–Ivașcu–Mazilu parameters with B6 = −0.16820.",
+      "uses_assumed_l": false
+    },
+    {
+      "name": "DZR",
+      "slug": "dzr",
+      "title": "DZR",
+      "note": "Deng–Zhang–Royer model; l is not tabulated and is assumed.",
+      "uses_assumed_l": true
+    },
+    {
+      "name": "Ismail2022_FormulaE",
+      "slug": "ismail2022_formula_e",
+      "title": "Ismail 2022 — Formula E",
+      "note": "Parity-specific Formula E coefficients; l is assumed.",
+      "uses_assumed_l": true
+    },
+    {
+      "name": "Qi2009_UDL",
+      "slug": "qi2009_udl",
+      "title": "Qi 2009 UDL",
+      "note": "Universal Decay Law with the alpha-decay coefficient set.",
+      "uses_assumed_l": false
+    },
+    {
+      "name": "Viola-Seaborg",
+      "slug": "viola_seaborg",
+      "title": "Viola–Seaborg",
+      "note": "Viola–Seaborg implementation from method/all.",
+      "uses_assumed_l": false
+    },
+    {
+      "name": "Xu2022_Unified",
+      "slug": "xu2022_unified",
+      "title": "Xu 2022 Unified",
+      "note": "C(Z,N) is defined by the local implementation only for Z≤90. For this database (Z=99–118), C=0 is an outside-domain extrapolation.",
+      "uses_assumed_l": true
+    },
+    {
+      "name": "E. Rurarz",
+      "slug": "e_rurarz",
+      "title": "E. Rurarz / Poenaru target",
+      "note": "Poenaru-type target parameter set with B5 = B6 = −0.003033.",
+      "uses_assumed_l": false
+    }
+  ],
+  "method_summary": [
+    {
+      "method": "Poenaru",
+      "method_slug": "poenaru",
+      "n_records": 176,
+      "n_unique_nz_cells": 172,
+      "HF_min": 0.020047220772882308,
+      "HF_median": 272.3587340084548,
+      "HF_max": 67260.07136864883,
+      "log10_HF_min": -1.6979458268673975,
+      "log10_HF_median": 2.43511754626085,
+      "log10_HF_max": 4.827757323802196,
+      "n_HF_lt_0p1": 1,
+      "n_HF_0p1_to_lt4": 8,
+      "n_HF_4_to_lt10": 5,
+      "n_HF_10_to_100": 48,
+      "n_HF_gt_100": 114,
+      "note": "Poenaru–Ivașcu–Mazilu parameters with B6 = −0.16820."
+    },
+    {
+      "method": "DZR",
+      "method_slug": "dzr",
+      "n_records": 176,
+      "n_unique_nz_cells": 172,
+      "HF_min": 0.0009081868758832422,
+      "HF_median": 1.3811070105643708,
+      "HF_max": 134.3133221093678,
+      "log10_HF_min": -3.0418247783353722,
+      "log10_HF_median": 0.14021950711601905,
+      "log10_HF_max": 2.1281190910875,
+      "n_HF_lt_0p1": 5,
+      "n_HF_0p1_to_lt4": 121,
+      "n_HF_4_to_lt10": 35,
+      "n_HF_10_to_100": 13,
+      "n_HF_gt_100": 2,
+      "note": "Deng–Zhang–Royer model; l is not tabulated and is assumed."
+    },
+    {
+      "method": "Ismail2022_FormulaE",
+      "method_slug": "ismail2022_formula_e",
+      "n_records": 176,
+      "n_unique_nz_cells": 172,
+      "HF_min": 0.0009557375556903723,
+      "HF_median": 1.2580801696631332,
+      "HF_max": 106.70639812688952,
+      "log10_HF_min": -3.019661348061942,
+      "log10_HF_median": 0.0996845108761876,
+      "log10_HF_max": 2.0281904605481462,
+      "n_HF_lt_0p1": 5,
+      "n_HF_0p1_to_lt4": 136,
+      "n_HF_4_to_lt10": 25,
+      "n_HF_10_to_100": 9,
+      "n_HF_gt_100": 1,
+      "note": "Parity-specific Formula E coefficients; l is assumed."
+    },
+    {
+      "method": "Qi2009_UDL",
+      "method_slug": "qi2009_udl",
+      "n_records": 176,
+      "n_unique_nz_cells": 172,
+      "HF_min": 0.0013542809914336262,
+      "HF_median": 6.352863421839438,
+      "HF_max": 1185.1824280216072,
+      "log10_HF_min": -2.8682912172104986,
+      "log10_HF_median": 0.8029322321246739,
+      "log10_HF_max": 3.0737852038358358,
+      "n_HF_lt_0p1": 3,
+      "n_HF_0p1_to_lt4": 71,
+      "n_HF_4_to_lt10": 31,
+      "n_HF_10_to_100": 59,
+      "n_HF_gt_100": 12,
+      "note": "Universal Decay Law with the alpha-decay coefficient set."
+    },
+    {
+      "method": "Viola-Seaborg",
+      "method_slug": "viola_seaborg",
+      "n_records": 176,
+      "n_unique_nz_cells": 172,
+      "HF_min": 0.0010169046158069424,
+      "HF_median": 3.5670976891778534,
+      "HF_max": 570.3150771482951,
+      "log10_HF_min": -2.99271978136579,
+      "log10_HF_median": 0.5522564918172029,
+      "log10_HF_max": 2.756114852973418,
+      "n_HF_lt_0p1": 3,
+      "n_HF_0p1_to_lt4": 88,
+      "n_HF_4_to_lt10": 29,
+      "n_HF_10_to_100": 50,
+      "n_HF_gt_100": 6,
+      "note": "Viola–Seaborg implementation from method/all."
+    },
+    {
+      "method": "Xu2022_Unified",
+      "method_slug": "xu2022_unified",
+      "n_records": 176,
+      "n_unique_nz_cells": 172,
+      "HF_min": 0.0019702741216216907,
+      "HF_median": 4.811327100356401,
+      "HF_max": 563.3284312313879,
+      "log10_HF_min": -2.705473346820292,
+      "log10_HF_median": 0.6822536735963471,
+      "log10_HF_max": 2.7507616706660447,
+      "n_HF_lt_0p1": 3,
+      "n_HF_0p1_to_lt4": 75,
+      "n_HF_4_to_lt10": 34,
+      "n_HF_10_to_100": 55,
+      "n_HF_gt_100": 9,
+      "note": "C(Z,N) is defined by the local implementation only for Z≤90. For this database (Z=99–118), C=0 is an outside-domain extrapolation."
+    },
+    {
+      "method": "E. Rurarz",
+      "method_slug": "e_rurarz",
+      "n_records": 176,
+      "n_unique_nz_cells": 172,
+      "HF_min": 0.0014732759986068754,
+      "HF_median": 4.431424653688195,
+      "HF_max": 616.044119871056,
+      "log10_HF_min": -2.8317158862573324,
+      "log10_HF_median": 0.646527357330779,
+      "log10_HF_max": 2.789611816596874,
+      "n_HF_lt_0p1": 4,
+      "n_HF_0p1_to_lt4": 79,
+      "n_HF_4_to_lt10": 33,
+      "n_HF_10_to_100": 53,
+      "n_HF_gt_100": 7,
+      "note": "Poenaru-type target parameter set with B5 = B6 = −0.003033."
+    }
+  ]
+}

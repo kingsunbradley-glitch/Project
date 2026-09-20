@@ -1,0 +1,41 @@
+{
+  "databases_queried": [
+    "OpenAlex",
+    "Crossref"
+  ],
+  "query_target": "10.1103/PhysRevC.102.044312",
+  "openalex_raw_response": {
+    "id": "https://openalex.org/W3097347602",
+    "doi": "https://doi.org/10.1103/physrevc.102.044312",
+    "title": "α decay of Fm243143 and Fm245145 , and of their daughter nuclei",
+    "publication_year": 2020
+  },
+  "crossref_raw_response": {
+    "status": "ok",
+    "message-type": "work-list",
+    "message-version": "1.0.0",
+    "message": {
+      "facets": {},
+      "total-results": 1,
+      "items": [
+        {
+          "DOI": "10.1103/physrevc.102.044312",
+          "published": {
+            "date-parts": [
+              [2020, 10, 12]
+            ]
+          },
+          "container-title": [
+            "Physical Review C"
+          ],
+          "URL": "https://doi.org/10.1103/physrevc.102.044312"
+        }
+      ],
+      "items-per-page": 1,
+      "query": {
+        "start-index": 0,
+        "search-terms": null
+      }
+    }
+  }
+}
