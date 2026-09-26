@@ -119,5 +119,6 @@
         }
     },
     "terminal.integrated.defaultProfile.linux": "bash",
-    "cmake.sourceDirectory": "/home/evalie/Project/Function/Project/simulatedCartoon/superconductingSolenoidGeant4"
+    "cmake.sourceDirectory": "/home/evalie/Project/Function/Project/simulatedCartoon/superconductingSolenoidGeant4",
+    "cmake.ignoreCMakeListsMissing": true
 }

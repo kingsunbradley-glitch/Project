@@ -1,0 +1,18 @@
+246Fm fit results
+=================
+Input: /Users/evalie/Project/Tex/242Fm/v4Draw/246Fm.dat
+Events: 85
+
+Decay-time fit (unbinned exponential MLE)
+Time unit: s
+Confidence level: 68.27%
+Mean lifetime tau: 2.559413184e-06 s
+Decay constant lambda: 3.907145615e+05 s^-1
+Half-life T_1/2: 1.774050032e-06 +2.153609883e-07 -1.732917493e-07 s
+Half-life interval: [1.600758283e-06, 1.989411021e-06] s
+
+Energy fit (Gaussian fit to a Freedman-Diaconis histogram with Poisson errors)
+Gaussian mean: 8240.288833 +/- 2.730832 keV
+Gaussian mean: 8.240288833 +/- 0.002730832 MeV
+Gaussian sigma: 23.083894 +/- 2.509610 keV
+Arithmetic mean of all energies: 8235.633894 keV
