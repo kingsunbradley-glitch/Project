@@ -12,6 +12,7 @@
 \usepackage[capitalise]{cleveref}
 
 \newcommand{\hide}[1]{}
+\newcommand{\myerr}[4]{\SI[parse-numbers=false]{#1^{+#2}_{-#3}}{#4}}
 
 \journal{Physics Letters B}
 
@@ -231,7 +232,7 @@ Fig.~\ref{fig:EalphaAndDecaytime}.
 
 \subsection{\texorpdfstring{Decay properties of ~ $^{273}\mathrm{Ds}$}{Decay properties of 273Ds}}
 
-As shown in Fig.~\ref{fig:EalphaAndDecaytime}, most events in the two chains observed in the present work agree with the historical data. The notable exception is one $^{273}\text{Ds}$ decay with $E_{\alpha} = 10.858(14)\ \text{MeV}$ and $\tau = 8.320\ \text{ms}$, which differs substantially from the higher-energy, shorter-lived decays observed at GSI and RIKEN and from the short-lived branch identified in the present work. Based on the previously reported half-life of $T_{1/2}=0.18^{+0.11}_{-0.05}\  \text{ms}$  \cite{oganessian2024SynthesisDecayProperties}, the probability of observing a decay time of $\tau\geq8.320$ ms from the short-lived state is only $P=10^{-13.91^{+5.28}_{-5.35}}$, suggesting that this event may originate from a different state in $^{273}\mathrm{Ds}$. In combination with the chain reported in Ref.~\cite{oganessian2024SynthesisDecayProperties} with $E_{\alpha} = 10.929(14)\ \text{MeV}$ and $\tau = 41.703\ \text{ms}$, this observation supports the existence of a lower-energy, longer-lived branch in $^{273}\text{Ds}$. However, whether these two decay events originate from the same state remains uncertain.
+As shown in Fig.~\ref{fig:EalphaAndDecaytime}, most events in the two chains observed in the present work agree with the previously reported data. The notable exception is one $^{273}\mathrm{Ds}$ decay with $E_{\alpha} = 10.858(22)\ \mathrm{MeV}$ and $\Delta t = 8.320\ \mathrm{ms}$, which differs substantially from the higher-energy, shorter-lived decays observed at GSI and RIKEN . Based on the seven decay events reported in Ref.~\cite{oganessian2024SynthesisDecayProperties} and the half-life of $T_{1/2}=0.18^{+0.11}_{-0.05}\ \mathrm{ms}$, only $3.0\times10^{-8}$ events with $\Delta t>5\ \mathrm{ms}$ are expected from the short-lived state. This suggests that the observed event may originate from a different state in $^{273}\mathrm{Ds}$. In combination with the chain reported in Ref.~\cite{oganessian2024SynthesisDecayProperties} with $E_{\alpha} = 10.929(14)\ \mathrm{MeV}$ and $\tau = 41.703\ \mathrm{ms}$, this observation supports the existence of a lower-energy, longer-lived branch in $^{273}\mathrm{Ds}$. However, whether these two decay events originate from the same state remains uncertain.
 
 The nucleus $^{273}\text{Ds}$ has been populated in two ways: as the $\alpha$-decay daughter of $^{277}\text{Cn}$ in the cold-fusion $^{208}\text{Pb}(^{70}\text{Zn}, n)$ reaction at GSI \cite{hofmann2002NewResultsElements,hofmann1996NewElement112} and RIKEN \cite{sumita2013NewResultProduction,morita2007ExperimentSynthesisIsotope277}, and by direct production in the hot-fusion $^{238}\text{U}(^{40}\text{Ar}, 5n)$ reaction at JINR \cite{oganessian2024SynthesisDecayProperties} and in the present work. Two groups of decay properties are now observed. Following Ref.~\cite{oganessian2024SynthesisDecayProperties}, the lower-energy, longer-lived branch is denoted as $^{273}\text{Ds}^{a}$ and the higher-energy, shorter-lived branch is denoted as $^{273}\text{Ds}^{b}$. The available data indicate that population through the decay of $^{277}\text{Cn}$ favors the $^{273}\text{Ds}^{b}$, whereas direct production populates both branches. This pattern is consistent with the interpretation of $^{273}\text{Ds}^{a}$ as a distinct low-lying state.
 
@@ -248,39 +249,49 @@ As shown in Fig.~\ref{fig:distributionHs}, both $^{269}\mathrm{Hs}^{h}$ and $^{2
 \label{fig:distributionHs}
 \end{figure}
 
-\section{Discussion}
+\subsection{\text{Discussion}}
 
 For clarity, the working assignments adopted in the present work are summarized in Table~\ref{tab:state_summary}. On the basis of the present data, two distinct states are discussed for $^{273}$Ds, denoted as $^{273}$Ds$^{a}$ and $^{273}$Ds$^{b}$. By combining the present results with the data of Oganessian \textit{et al.}~\cite{oganessian2024SynthesisDecayProperties}, three groups are tentatively discussed for $^{269}$Hs, denoted as $^{269}$Hs$^{a}$, $^{269}$Hs$^{b}$, and $^{269}$Hs$^{c}$. At the present stage, the distinction between $^{269}$Hs$^{a}$ and $^{269}$Hs$^{b}$ remains less secure than the separation of $^{269}$Hs$^{c}$, because the statistics are limited and part of the historical data has a modest energy resolution. The present classification should therefore be regarded as a working scheme for discussing the decay pattern and the underlying structure rather than as a definitive level assignment.
 
 \begin{table}[htbp]
 \centering
-\caption{Working assignment of the decay branches discussed in the present work. The labels $a$, $b$, and $c$ are descriptive identifiers used for discussion and do not imply definitive spin-parity assignments.}
+\caption{Tentative state labels used in the present work. The assignments define the working scheme adopted in the present discussion. 
+The subdivision of the high-energy $^{269}$Hs data into $^{269}$Hs$^{a}$ and $^{269}$Hs$^{b}$ follows the statistical analysis described in the text.}
 \label{tab:state_summary}
-\setlength{\tabcolsep}{3pt}
-\renewcommand{\arraystretch}{1.08}
 \small
-\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}p{0.18\columnwidth}p{0.28\columnwidth}p{0.30\columnwidth}p{0.18\columnwidth}@{}}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}lccc@{}}
 \toprule
-State & Characteristic signature & Adopted decay branch & Status \\
+Nucleus & $T_{1/2}$ & $E_{\alpha}^{\mathrm{a}}$ & Reference\\
+        &           & (\si{MeV})               &          \\
 \midrule
-$^{273}\mathrm{Ds}^{b}$ & higher $E_{\alpha}$ and shorter lifetime & $^{273}\mathrm{Ds}^{b} \rightarrow {}^{269}\mathrm{Hs}^{a+b} \rightarrow {}^{265}\mathrm{Sg}^{b} \rightarrow {}^{261}\mathrm{Rf}^{b}$ & supported by present work and literature \\
-$^{273}\mathrm{Ds}^{a}$ & lower $E_{\alpha}$ and longer lifetime & $^{273}\mathrm{Ds}^{a} \rightarrow {}^{269}\mathrm{Hs}^{c} \rightarrow {}^{265}\mathrm{Sg}^{b} \rightarrow {}^{261}\mathrm{Rf}^{b}$ & tentative low-lying or isomeric branch \\
-$^{269}\mathrm{Hs}^{a}$ & $E_{\alpha}$ around 9.20 MeV and longer lifetime & feeds $^{265}\mathrm{Sg}^{b}$ through the high-energy group & historical assignment \\
-$^{269}\mathrm{Hs}^{b}$ & $E_{\alpha}$ around 9.08 MeV and shorter lifetime & feeds $^{265}\mathrm{Sg}^{b}$ through the high-energy group & historical assignment \\
-$^{269}\mathrm{Hs}^{c}$ & $E_{\alpha} = 8.915\ \mathrm{MeV}$ and intermediate lifetime & preferentially linked with $^{273}\mathrm{Ds}^{a}$ in the present scheme & tentative additional low-energy state \\
+$^{273}\mathrm{Ds}^{a}$ & \myerr{17.34}{31.55}{6.83}{ms}\textsuperscript{b} & 10.86(2) & this work \\
+$^{273}\mathrm{Ds}^{b}$ & $0.16^{+0.08}_{-0.05}~\si{ms}$ & 11.17(2) & this work \\
+$^{269}\mathrm{Hs}^{a}$ & \myerr{13}{10}{4}{s} & 9.20(4) & Ref.~\cite{hofmann2002NewResultsElements} \\
+$^{269}\mathrm{Hs}^{b}$ & \myerr{14.2}{25.8}{5.6}{s}\textsuperscript{b} & 9.10(2) & this work; Ref.~\cite{sumita2013NewResultProduction} \\
+$^{269}\mathrm{Hs}^{c}$ & \myerr{6.49}{31.09}{2.97}{s}\textsuperscript{b} & 8.92(2) & this work \\
+$^{265}\mathrm{Sg}^{a}$ & \myerr{8.5}{2.6}{1.6}{s} & 8.84(5) & Ref.~\cite{habaProduction265Sg2012} \\
+$^{265}\mathrm{Sg}^{b}$ & \myerr{14.4}{3.7}{2.5}{s} & 8.69(5) & Ref.~\cite{habaProduction265Sg2012} \\
+$^{261}\mathrm{Rf}^{a}$ & $68 \pm 3~\si{s}$ & 8.28(2) & Ref.~\cite{habaProduction265Sg2012} \\
+$^{261}\mathrm{Rf}^{b}$ & \myerr{2.6}{0.7}{0.5}{s} & 8.51(6) & Ref.~\cite{habaProduction265Sg2012} \\
 \bottomrule
-\end{tabular*}
+\end{tabular}
+\begin{flushleft}
+\footnotesize \textsuperscript{a} Energy uncertainties given in parentheses correspond to the data with the best energy resolution (68\% confidence interval).
+
+\footnotesize \textsuperscript{b} Half-lives are calculated by Ref.~\cite{schmidtRemarksErrorAnalysis1984a}.
+\end{flushleft}
 \end{table}
 
 The most direct result of the present work is the appearance of two distinct decay patterns in $^{273}$Ds. One branch is characterized by a higher $\alpha$-decay energy and a shorter lifetime, whereas the other branch shows a lower $\alpha$-decay energy and a much longer lifetime. When the present chains are considered together with the chain reported in Ref.~\cite{oganessian2024SynthesisDecayProperties}, this separation is difficult to reconcile with a single-state interpretation. At the same time, the decay pattern of $^{269}$Hs is not random. The high-energy and low-energy groups are not populated with the same weight in direct production and in the decay of $^{273}$Ds, and the data do not show obvious cross feeding between the two proposed parent branches and the daughter groups. Such selectivity is naturally suggestive of configuration-dependent $\alpha$ decay.
 
 Accordingly, the branch that starts from the higher $E_{\alpha}$ value and the shorter lifetime of $^{273}\mathrm{Ds}$ is assigned to
 \begin{align*}
-^{273}\text{Ds}^{b} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{a,b} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
+^{273}\text{Ds}^{b} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{h} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
 \end{align*}
 The branch that starts from the lower $E_{\alpha}$ value and the longer lifetime of $^{273}\mathrm{Ds}$ is assigned to
 \begin{align*}
-^{273}\text{Ds}^{a} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{c} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
+^{273}\text{Ds}^{a} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{l} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
 \end{align*}
 
 A plausible physical interpretation is that the long-lived branch of $^{273}$Ds is associated with a structure different from that of the short-lived branch. In a strongly deformed odd-$N$ nucleus, the $\alpha$-decay rate is controlled not only by $Q_{\alpha}$, but also by the angular-momentum change, the overlap between the initial and final intrinsic configurations, and the corresponding hindrance of $\alpha$ formation and barrier penetration \cite{clark2023RoleQuasiparticleStructure}. A large difference in lifetime between two branches of the same nuclide can therefore arise even when the difference in $Q_{\alpha}$ is modest. In this context, the observed separation between $^{273}$Ds$^{a}$ and $^{273}$Ds$^{b}$ is consistent with the presence of two competing quasineutron configurations, one of which gives rise to a hindered and longer-lived $\alpha$ decay.
