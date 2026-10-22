@@ -1,3 +1,9 @@
+#include <TCanvas.h>
+#include <TString.h>
+#include <TSystem.h>
+
+#include <iostream>
+
 #ifdef __CLING__
 #pragma cling optimize(0)
 #endif
@@ -6,9 +12,12 @@ void c_all_combined_mac()
 //=========Macro generated from canvas: c_all_combined_mac/
 //=========  (Mon Sep 21 16:53:13 2026) by ROOT version 6.36.06
    TCanvas *c_all_combined_mac = new TCanvas("c_all_combined_mac", "", 0, 67, 1275, 1040);
+   // The saved window size can be clamped by macOS; restore the drawable size.
+   c_all_combined_mac->SetCanvasSize(1100, 1600);
    gStyle->SetOptFit(0);
    gStyle->SetOptStat(0);
    gStyle->SetOptTitle(0);
+   gStyle->SetLineScalePS(1);
    TColor::SetPalette(57, nullptr);
    c_all_combined_mac->Range(0,0,1,1);
    c_all_combined_mac->SetFillColor(0);
@@ -1509,6 +1518,7 @@ void c_all_combined_mac()
    polyline->SetFillStyle(0);
    polyline->SetLineStyle(2);
    polyline->SetLineWidth(2);
+   polyline->SetNDC();
    polyline->Draw("");
    
    TPaveText *pt = new TPaveText(0.563, 0.712035, 0.693, 0.822035, "brNDC");
@@ -4035,4 +4045,19 @@ void c_all_combined_mac()
    c_all_combined_mac->cd();
    c_all_combined_mac->Modified();
    c_all_combined_mac->SetSelected(c_all_combined_mac);
+   c_all_combined_mac->Update();
+
+   // ROOT's direct PNG export can corrupt this tall canvas on macOS.
+   // Render the PDF instead so the PNG matches the vector figure.
+   const TString outputBase = TString(gSystem->DirName(__FILE__)) + "/c_all_combined_mac";
+   const TString pdfPath = outputBase + ".pdf";
+   const TString pngPath = outputBase + ".png";
+   c_all_combined_mac->SaveAs(pdfPath.Data());
+   const TString renderCommand = TString::Format(
+      "gs -q -dSAFER -dBATCH -dNOPAUSE -dUseCropBox -sDEVICE=png16m "
+      "-r800 -sOutputFile='%s' '%s'",
+      pngPath.Data(), pdfPath.Data());
+   if (gSystem->Exec(renderCommand.Data()) != 0)
+      std::cerr << "Failed to convert " << pdfPath
+                << " to PNG. Check that Ghostscript (gs) is installed.\n";
 }
