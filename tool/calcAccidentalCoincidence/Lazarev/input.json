@@ -1,0 +1,6 @@
+{
+  "description": "格式示例，非实验数据。ER-alpha1-alpha2-alpha3：三个相邻配对计数，两个中间事件计数。",
+  "pair_counts": [12, 5, 2],
+  "intermediate_counts": [1000, 800],
+  "observed_chains": 1
+}

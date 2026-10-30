@@ -1,0 +1,100 @@
+{
+  "calculation_sha256": "06dd90bd62f0c5a54a8c03b80f4bca2e6a678084ac48331cdeaee90226f314a2",
+  "calculation_rows": 48,
+  "experimental_records": 6,
+  "experimental_measurements": 1,
+  "experimental_upper_limits": 5,
+  "energy_basis": "Use each input's E* directly; no shared Elab conversion",
+  "zero_policy": "Mask zero cross sections on logarithmic axes; preserve gaps",
+  "error_confidence_level": "Not specified in the supplied table",
+  "channel_statistics": {
+    "275Ds": {
+      "positive_count": 13,
+      "zero_count": 35,
+      "sampled_peak_E_star_MeV": 36.0,
+      "sampled_peak_sigma_pb": 0.1,
+      "positive_points_outside_overview": 0,
+      "positive_points_outside_detail_axes": 0
+    },
+    "274Ds": {
+      "positive_count": 22,
+      "zero_count": 26,
+      "sampled_peak_E_star_MeV": 40.0,
+      "sampled_peak_sigma_pb": 0.132,
+      "positive_points_outside_overview": 0,
+      "positive_points_outside_detail_axes": 2
+    },
+    "273Ds": {
+      "positive_count": 31,
+      "zero_count": 17,
+      "sampled_peak_E_star_MeV": 49.0,
+      "sampled_peak_sigma_pb": 0.184,
+      "positive_points_outside_overview": 0,
+      "positive_points_outside_detail_axes": 6
+    },
+    "272Ds": {
+      "positive_count": 33,
+      "zero_count": 15,
+      "sampled_peak_E_star_MeV": 57.0,
+      "sampled_peak_sigma_pb": 0.00875,
+      "positive_points_outside_overview": 0,
+      "positive_points_outside_detail_axes": 18
+    }
+  },
+  "comparison_at_experimental_energies": [
+    {
+      "channel": "4n",
+      "E_star_MeV": 50.0,
+      "calculated_sigma_pb": 0.0128,
+      "experimental_sigma_pb": 0.15,
+      "kind": "upper_limit",
+      "calculation_Elab_MeV": 214.227,
+      "experimental_Elab_MeV": 225.0
+    },
+    {
+      "channel": "5n",
+      "E_star_MeV": 50.0,
+      "calculated_sigma_pb": 0.175,
+      "experimental_sigma_pb": 0.14,
+      "kind": "measurement",
+      "calculation_Elab_MeV": 214.227,
+      "experimental_Elab_MeV": 225.0
+    },
+    {
+      "channel": "4n",
+      "E_star_MeV": 45.0,
+      "calculated_sigma_pb": 0.0712,
+      "experimental_sigma_pb": 1.1,
+      "kind": "upper_limit",
+      "calculation_Elab_MeV": 208.387,
+      "experimental_Elab_MeV": 220.0
+    },
+    {
+      "channel": "5n",
+      "E_star_MeV": 45.0,
+      "calculated_sigma_pb": 0.0932,
+      "experimental_sigma_pb": 1.1,
+      "kind": "upper_limit",
+      "calculation_Elab_MeV": 208.387,
+      "experimental_Elab_MeV": 220.0
+    },
+    {
+      "channel": "4n",
+      "E_star_MeV": 42.0,
+      "calculated_sigma_pb": 0.123,
+      "experimental_sigma_pb": 0.34,
+      "kind": "upper_limit",
+      "calculation_Elab_MeV": 204.882,
+      "experimental_Elab_MeV": 217.0
+    },
+    {
+      "channel": "5n",
+      "E_star_MeV": 42.0,
+      "calculated_sigma_pb": 0.0127,
+      "experimental_sigma_pb": 0.34,
+      "kind": "upper_limit",
+      "calculation_Elab_MeV": 204.882,
+      "experimental_Elab_MeV": 217.0
+    }
+  ]
+}

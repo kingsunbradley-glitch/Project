@@ -1,0 +1,11 @@
+{
+  "description": "旧的宽总窗泊松计数格式示例，不代表用户逐级 search_win 筛选。",
+  "model": "total_window",
+  "alpha_rate_hz": 0.01,
+  "position_bins": 384,
+  "window_s": 60,
+  "n_alpha": 3,
+  "implantations": 10000,
+  "count_mode": "exact",
+  "observed_chains": 1
+}

@@ -1,0 +1,10 @@
+{
+  "description": "按用户确认的 655.2 h、128x48 单元、逐级至少一次公式计算；alpha2/3 同筛选，两个步骤分别使用 154000。",
+  "model": "sequential",
+  "step_background_counts": [65110, 154000, 154000],
+  "background_time_s": 2358720,
+  "position_bins": 6144,
+  "step_windows_s": [0.1, 100, 100],
+  "implantations": 13250000,
+  "observed_chains": 1
+}

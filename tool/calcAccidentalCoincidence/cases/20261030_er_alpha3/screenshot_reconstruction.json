@@ -1,0 +1,10 @@
+{
+  "description": "截图数值的反推重建，不是用户确认的本次采集时长：750 h；alpha1 取整为 65000，ER 取整为 1.3e7。",
+  "model": "sequential",
+  "step_background_counts": [65000, 154000, 154000],
+  "background_time_s": 2700000,
+  "position_bins": 6144,
+  "step_windows_s": [0.1, 100, 100],
+  "implantations": 13000000,
+  "observed_chains": 1
+}

@@ -1,0 +1,26 @@
+{
+  "description": "counts/time 使用 Zlokazov 2000 的 34 min 例子；decay 的区间取自原文；position 是独立格式示例。所有时间已换算为秒。",
+  "counts": {
+    "window_s": 2040,
+    "categories": [
+      {"name": "alpha", "rate_hz": 0.0002777777777777778, "count": 3},
+      {"name": "implantation", "rate_hz": 0.0003611111111111111, "count": 1}
+    ]
+  },
+  "time": {
+    "background_rate_hz": 0.0006388888888888889,
+    "event_times_s": [0, 30, 954, 1050, 2040]
+  },
+  "decay": {
+    "time_s": 2040,
+    "half_life_bounds_s": [[3, 30], [1800, 18000], [120, 1200], [420, 1620]],
+    "detection_efficiency": 1
+  },
+  "position": {
+    "standardized_differences": [1, -0.5, 0.8, -0.2],
+    "correlation_matrix": [[1, -0.5, 0, 0], [-0.5, 1, -0.5, 0], [0, -0.5, 1, -0.5], [0, 0, -0.5, 1]],
+    "samples": 100000,
+    "seed": 20261029,
+    "confidence": 0.67
+  }
+}

@@ -1,0 +1,7 @@
+channel,residue,E_lab_MeV,E_star_MeV,sigma_pb,err_minus_pb,err_plus_pb,kind,target_thickness_mg_cm2,beam_dose_1e19
+4n,274Ds,225,50,0.15,,,upper_limit,0.47|0.60,2.28|2.96
+5n,273Ds,225,50,0.14,0.08,0.18,measurement,0.47|0.60,2.28|2.96
+4n,274Ds,220,45,1.1,,,upper_limit,0.47,0.817
+5n,273Ds,220,45,1.1,,,upper_limit,0.47,0.817
+4n,274Ds,217,42,0.34,,,upper_limit,0.60,2.04
+5n,273Ds,217,42,0.34,,,upper_limit,0.60,2.04

@@ -23,6 +23,11 @@ Important areas:
 
 ## Environment
 
+- For Python analysis and plotting, prefer the existing Conda environment
+  `py_env` at `/home/evalie/miniconda3/envs/py_env`. In non-interactive shells,
+  invoke `/home/evalie/miniconda3/envs/py_env/bin/python` explicitly; the shell
+  may otherwise select `/usr/bin/python3`. Check this environment before
+  creating another environment or installing plotting dependencies.
 - ROOT is required for most C++ and PyROOT workflows. Use `root-config` from the
   active shell rather than hard-coding include or library paths.
 - Current local tools observed during initialization:

@@ -1,0 +1,16 @@
+{
+  "measurement_time_s": 2358720,
+  "measurement_time_description": "728 * 0.9 h = 655.2 h",
+  "position_bins": 6144,
+  "background_counts": {"ER": 13250000, "alpha1": 65110, "alpha23": 154000},
+  "sequence": ["ER", "alpha1", "alpha23", "alpha23"],
+  "windows_s": [0.1, 100, 100],
+  "observed_chains": 1,
+  "assumptions": [
+    "上述计数覆盖同一有效采集时长和全探测器，位置背景均匀",
+    "alpha2 和 alpha3 筛选相同，每步使用 154000，不平分、不相加",
+    "ER、alpha1、alpha23 视为互不重叠类别；alpha1 与 alpha23 的能窗是否重叠尚未提供",
+    "三个时间窗均为相邻事件的搜索上限，下限为零",
+    "尚未给定观测完整链数，输出至少一条的概率"
+  ]
+}
