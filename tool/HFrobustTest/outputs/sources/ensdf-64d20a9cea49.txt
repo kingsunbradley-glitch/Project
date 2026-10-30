@@ -1,0 +1,28 @@
+231U     235PU A DECAY (25.3 M)        1952OR03,1957TH10         22NDS    202210
+231U   H TYP=FUL$AUT=Balraj Singh, Jagdish K. Tuli, and Edgardo Browne$         
+231U 2 H CIT=NDS 185, 560 (2022)$CUT=31-Aug-2022$                               
+231U  c  1957Th10: {+235}Pu activity produced in {+233}U(|a,2n) and             
+231U 2c  {+235}U(|a,4n) at the Crocker Laboratory 60-inch cyclotron.            
+231U 3c  Measured E|a, %|a decay mode and half-life of {+235}Pu decay.          
+231U 4c  Except for the 5850 group, no other |a group with I|a|>5% found        
+231U 5c  in E|a=5.5-6.5 MeV range.                                              
+231U  c  Evaluators' note about the decay scheme: except for the energy and     
+231U 2c  approximate intensity of one |a transition, no other spectral          
+231U 3c  information is available in literature.                                
+235PU  P 0           (5/2+)            25.3 M    5              5951      20    
+235PU cP J,T$From {+235}Pu Adopted Levels in the ENSDF database                 
+235PU2cP (Feb 2014 update)                                                      
+235PU cP QP$From 2021Wa16                                                       
+231U   N                       0.000027 5                                       
+231U  cN BR$%|a=0.0027 {I5} for the decay of {+235}Pu from I(|a)/I(K| x ray) in 
+231U 2cN 1957Th10 and, |e(L+)/|e(K)(theory)=0.36. 1957Th10 gave partial         
+231U 3cN half-life of 1.7 y {I4}, and %|a=0.0030 {I6} using |e(L)/|e(K)=0.23.   
+231U 4cN Note that %|a=0.0028 {I7} in {+235}Pu Adopted Levels in the ENSDF      
+231U 5cN database (Feb 2014 update).                                            
+231U   L 0            (5/2-)                                                    
+231U   L 0+X          (5/2+)                                                    
+231U  cL E$x=40 {I40} from energy systematics of neighboring nuclides           
+231U   A 5850      20 100    AP                                                 
+231U  cA E$from 1957Th10. Other: 5850 {I30} (1952Or03)                          
+231U  cA IA$only one |a branch has been measured. Other: |?80 (1972El21,        
+231U 2cA systematics of |a decay)                                               

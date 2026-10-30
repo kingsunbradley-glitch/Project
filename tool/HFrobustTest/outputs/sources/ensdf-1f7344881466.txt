@@ -1,0 +1,162 @@
+221RA    ADOPTED LEVELS, GAMMAS                                  07NDS    200705
+221RA  H TYP=FUL$AUT=Ashok Jain, Sukhjeet Singh, Suresh Kumar, Jagdish Tuli$    
+221RA2 H CIT=NDS 108, 883 (2007)$CUT=15-Jan-2007$                               
+221RA  Q -1.56E3   5 5378    105808    6 6880.4  20    2012WA38                 
+221RA cQ $Note: Current evaluation has used the following Q record              
+221RA2cQ $ -1560    50 {I5380}   10 {I5808}   6  {I6880}.4 {I20}    2003Au03    
+221RA cG RI        Relative photon intensities deexciting each level.           
+221RA cG M$From |a decay, ({+14}C,3n|g). Multipolarities for transitions in     
+221RA2cG ({+14}C,3n|g) are based on DCO ratios. See ({+14}C,3n|g) for           
+221RA3cG multipolarities suggested by 1991Fe07 but not adopted here.            
+221RA cL E$From least-squares adjustment of E|g.                                
+221RA cL J$Based on suggested band assignments and other arguments given.       
+221RA2cL J|p for levels seen only in ({+14}C,3n|g) are from 1991Fe07 based on   
+221RA2cL DCO-deduced multipolarities                                            
+221RA3cL and band assignments. Similar band structure has been observed in      
+221RA4cL {+223}Th isotone (1991Fe07).                                           
+221RA CL BAND(A)   5/2[633]                                                     
+221RA CL BAND(B)   5/2[752]                                                     
+221RA CL BAND(D)   K=3/2                                                        
+221RA  XA225TH A DECAY                                                          
+221RA  XB210PB(14C,3NG)                                                         
+221RA  L  0.0        5/2+                28 S    2                          A   
+221RAX L  XREF=A                                                                
+221RA2 L  %A=100                                                                
+221RA3 L MOMM1=-0.1799 17 (1988Ah02,2005St24)$ MOME2=1.98 11 (1989Ne03,2005St24)
+221RA cL MOMM1,MOME2$LASER. Other Q measurement: 1.90 {i20} (1988Ah02).         
+221RA cL J         spin was measured (1988Ah02; LASER spectroscopy). Parity from
+221RA2cL measured magnetic dipole moment. Magnetic dipole moment and electric   
+221RA3cL quadrupole moment were calculated by 1988Ah02 for the 5/2[633] orbital,
+221RA4cL and by 1988Le13 for K=5/2, including octupole deformation with         
+221RA5cL |b{-2}|?|b{-3}|?0.1, by using the reflection-asymmetric rotor model.   
+221RA cL T         from 1958To25. Other measurement: 30 s {I2} (1951Me10).      
+221RA cL           {+14}C decay was not observed: <1.2|*10{+-11} %              
+221RAxcL (1986Ba26,1985Pr01).                                                   
+221RA cL           See 1991Cw01 for level energy calculations.                  
+221RA cL           For calculated heavy-ion emission rates, see 1985Po14,       
+221RA2cL 1986De32, 1986Gr20, 1986Ir01, 1986Pi11, 1986Po15, 1987Sh04, 1988Ba01,  
+221RA3cL 1988Bl11, 1988Sh29, 1989Bu06, 1989Ci03 and 1990Sh01.                   
+221RA cL           Isotope shifts were measured by 1987We03, 1988Ah02, 1989Ne03.
+221RA  L 53.14      8(7/2)+                                                 A   
+221RA cL J         53.2|g to 5/2+ g.s. is M1; |a hindrance factor and level     
+221RA2cL are consistent with its being the 7/2 member of the g.s. rotational    
+221RAxcL band                                                                   
+221RAX L  XREF=A                                                                
+221RA  G 53.2      2           M1(+E2)   0.22    +10-22 29    8                 
+221RA  L 103.61    11 (5/2)-                                                B   
+221RAX L  XREF=A                                                                
+221RA cL J         103.5|g to 5/2+ g.s. is E1; 50.5|g to (7/2)+ level.          
+221RA  G 50.5      2 13      4                                                  
+221RA  G 103.5     2 100     20 E1                     0.1022                   
+221RA  L 121.95    10 (9/2+)                                                A   
+221RAX L  XREF=A                                                                
+221RA cL J         68.8|g to (7/2)+ is (M1)                                     
+221RA  G 68.8      2 100     10 (M1)                   9.77                     
+221RA  G 121.9     2 24      6                                                  
+221RA  L 146.81    20 (7/2)-                                                B   
+221RAX L  XREF=A                                                                
+221RA cL J         146.8|g to 5/2+ g.s. is E1. Assignment as the 7/2- member of 
+221RA2cL the K=5/2 band was proposed by 1989Ac01.                               
+221RA  G 146.8     2            E1                     0.1919                   
+221RA  L 174       5                                                           ?
+221RAX L  XREF=A                                                                
+221RA  L 210.9     4  (11/2+)                                               B   
+221RAX L  XREF=B                                                                
+221RA  G  89.0     3 100                                                        
+221RA  L 299.16     8 (7/2)+                                                    
+221RAX L XREF=A                                                                 
+221RA cL J         299.2 and 246.0 |g's to 5/2+ and (7/2)+ levels are M1.       
+221RA2cL From the low hindrance factor for the                                  
+221RA3cL |a decay from 3/2+ {+225}Th, 1989Ac01 suggested that this level        
+221RA4cL contains a large K=3/2 amplitude, and suggested the possibility of     
+221RA5cL octupole deformation.                                                  
+221RA  G 177.2     1 19.1    9                                                  
+221RA  G 246.0     1 100     3  M1                     1.294                    
+221RA  G 299.2     1 16      3  M1                     0.753                    
+221RA  L 318.9     5  (13/2+)                                               A   
+221RAX L  XREF=B                                                                
+221RA  G 108.0     3 100                                                        
+221RA  L 321.39     9 (3/2)+                                                D   
+221RAX L XREF=A                                                                 
+221RA cL J         321.4|g to 5/2+ is M1. K=3/2 orbital with octupole           
+221RA2cL deformation was suggested by 1989Ac01.                                 
+221RA  G 217.7     2  1.7    3  (E1)                   0.0744                   
+221RA  G 321.4     1  100       M1                     0.619                    
+221RA  L 341.5     5  (13/2-)                                               B   
+221RAX L  XREF=B                                                                
+221RA  G 130.6     3  100       E1                                              
+221RA  L 359.02     8 (5/2)+                                                D   
+221RAX L XREF=A                                                                 
+221RA cL J         305.9 and 359.0 |g's to 5/2+ and (7/2)+ levels are M1; |a    
+221RA2cL hindrance factor is consistent with the assignment.                    
+221RA  G 212.0        4.4    22                                                 
+221RA  G 305.9     1  100    10 M1                     0.709                    
+221RA  G 359.0     1  100    12 M1                     0.458                    
+221RA  L 438.0     5  (15/2+)                                               B   
+221RAX L XREF=B                                                                 
+221RA  G 96.5      3 100       E1                                               
+221RA  L 440.4     5 (15/2-)                                                A   
+221RAX L XREF=B                                                                 
+221RA  G 121.5     3 100       E1                                               
+221RA  L 450.33    16 (5/2-)                                                    
+221RAX L XREF=A                                                                 
+221RA cL J         151.2|g to (7/2)+ level is (E1); 128.9|g to (3/2)+ level.    
+221RA  G 128.9     2  22     5                                                  
+221RA  G 151.2     2  100    8  (E1)                   0.179                    
+221RA  L 485.41    11 (3/2-,5/2-)                                               
+221RAX L XREF=A                                                                 
+221RA cL J         164.0 and 126.4 |g's to (3/2)+ and (5/2)+ levels are (E1).   
+221RA  G 126.4     2  45     10 (E1)                   0.277                    
+221RA  G 164.0     2  100    36 (E1)                   0.1471                   
+221RA  G 381.8     2  88     18                                                 
+221RA  G 485.4     2  18     6                                                  
+221RA  L 566.0     5 (17/2-)                                                B   
+221RAX L XREF=B                                                                 
+221RA  G 128.0     3 100       E1                                               
+221RA  G 224.5     3 21                                                        ?
+221RA  L 573.1     5 (17/2+)                                                A   
+221RAX L XREF=B                                                                 
+221RA  G 132.7     3 100                                                        
+221RA  G 254.2     3 48                                                         
+221RA  L 688.4     5 (19/2-)                                                A   
+221RAX L XREF=B                                                                 
+221RA  G 115.3     3 100       E1                                               
+221RA  G 248.0     3 28        E2                                               
+221RA  L 711.6     5 (19/2+)                                                B   
+221RAX L XREF=B                                                                 
+221RA  G 145.6     3 100       E1                                               
+221RA  G 273.6     3 43                                                         
+221RA  L 849.6     5 (21/2-)                                                B   
+221RAX L XREF=B                                                                 
+221RA  G 138.0     3 100       E1                                               
+221RA  G 161.2     3 32                                                         
+221RA  G 283.6     3 25        E2                                               
+221RA  L 866.9     5 (21/2+)                                                A   
+221RAX L XREF=B                                                                 
+221RA  G 178.5     3 100       E1                                               
+221RA  G 293.8     3 28        E2                                               
+221RA  L 990.4     5 (23/2-)                                                A   
+221RAX L XREF=B                                                                 
+221RA  G 123.5     3 100                                                        
+221RA  G 140.8     3  39                                                        
+221RA  G 302.0     3  78       E2                                               
+221RA  L 1025.9    5 (23/2+)                                                B   
+221RAX L XREF=B                                                                 
+221RA  G 176.3     3 100       E1                                               
+221RA  G 314.3     3 43                                                         
+221RA  L 1180.5     6(25/2-)                                                B   
+221RAX L XREF=B                                                                 
+221RA  G 154.6     3 100                                                        
+221RA  G 330.9     3 84        E2                                               
+221RA  L 1197.4     6(25/2+)                                                A   
+221RAX L XREF=B                                                                 
+221RA  G 207.0     3 100       E1                                               
+221RA  G 330.5     3  53                                                        
+221RA  L 1344.4     6(27/2-)                                                A   
+221RAX L XREF=B                                                                 
+221RA  G 147.0     3  74                                                        
+221RA  G 354.0     3  100                                                      ?
+221RA  L 1375.8     6(27/2+)                                                B   
+221RAX L XREF=B                                                                 
+221RA  G 195.2     3  100                                                       
+221RA  G 349.8     3  47                                                       ?

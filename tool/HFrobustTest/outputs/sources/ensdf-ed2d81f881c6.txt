@@ -1,0 +1,192 @@
+219RA    223TH A DECAY (0.60 S)        1992LI09,1987EL02,1989AN1321NDS    202106
+219RA  H TYP=FUL$AUT=Balraj Singh et al.,$CIT=NDS 175, 1 (2021)$CUT=19-May-2021$
+219RA c  1992Li09: {+223}Th produced in {+208}Pb({+18}O,3n),E=82 MeV,           
+219RA2c  using >99% enriched {+208}Pb target. Measured E|a, I|a, E|g, %I|g,     
+219RA3c  |a|g coin. Deduced |g-ray multipolarities from |g-ray transition       
+219RA4c  intensity balances and I(K x-ray)/I|g ratios. Revised decay scheme, in 
+219RA5c  view of the results from in-beam gamma-ray spectroscopy, is given by   
+219RA6c  2001Sh14 (also 1993Sh43), together with a detailed theoretical analysis
+219RA7c  of structure of {+219}Ra                                               
+219RA c  1987El02: {+223}Th produced in {+208}Pb({+18}O,3n),E=83 MeV.           
+219RA2c  Measured E|a, E|g, I|g, Ice, |a|g coin, |a(ce)-coin using Ge(Li) and   
+219RA3c  Si(Li) detectors. Assignment of |a-particle groups to {+223}Th is based
+219RA4c  on agreement with E|a values from 1970Va13, and on the observation of  
+219RA5c  Ra x-rays in coincidence with |a particles.                            
+219RA c  1989An13: {+223}Th produced in {+208}Pb({+22}Ne,|a3n),E=100-130        
+219RA2c  MeV. Measured E|a, I|a using semiconductor detector                    
+219RA c  1990An19: {+223}Th produced in {+205}Tl({+22}Ne,p3n), E=100-109 MeV.   
+219RA2c  Measured E|a, I|a using semiconductor detector                         
+219RA c  1970Va13: {+223}Th produced in {+208}Pb({+18}O,3n),E=108-130 MeV;      
+219RA2c  {+205}Tl({+22}Ne,p3n),E|?100 MeV; {+208}Pb({+19}F,p3n),E=100-130 MeV.  
+219RA3c  Measured E|a, I|a using semiconductor detector                         
+219RA c  2001Sh14 (also 1993Sh43): analyzed spectroscopic data from reaction and
+219RA2c  |a-decay experiments. Deduced levels, J, |p, configurations.           
+219RA c  The decay scheme presented here is from 1992Li09, as                   
+219RA2c  modified by 2001Sh14 on the basis of {+208}Pb({+14}C,3n|g) results     
+219RA3c  in 2000Ri12. Evaluators' assignment of (5/2+) for 140-keV level,       
+219RA4c  consistent with the favored |a decay (HF=2.7) from {+223}Th            
+219RA5c  parent J|p(g.s.)=(5/2+)                                                
+219RA6c  This decay scheme supersedes that of 1987El02, which included |g       
+219RA7c  rays of 57.1-, 68.2-, and 75.2 keV that defined levels at 57-,         
+219RA8c  68.2-, and 145 keV. 1992Li09 did not see these |g rays in a |g-ray     
+219RA9c  spectrum with about ten times better statistics.                       
+219RA c  The measured K| x-ray intensity of 49% {I3} (1992Li09) agrees well with
+219RA2c  50% {I5} deduced by evaluators (using the RADLST computer program), and
+219RA3c  confirms the self-consistency of the decay scheme adopted here. The    
+219RA4c  total average radiation energy of 7572 keV {I40}, deduced using the    
+219RA5c  RADLST code, agrees with Q(|a)=7567 keV {I4} from 2021Wa16             
+219RA cA E,IA$From 1992Li09, unless otherwise specified. Uncertainty of         
+219RA2cA 5 keV in energy is estimated by evaluators. Values of I|a deduced by   
+219RA3cA evaluators from |g-transition intensity balances are given             
+219RA4cA under comments                                                         
+219RA cA HF$The nuclear radius parameter r{-0}({+219}Ra)=1.5478 {I22}           
+219RA2cA is deduced from interpolation (or unweighted average) of radius        
+219RA3cA parameters of the adjacent even-even nuclides from 2020Si16            
+219RA cG E,RI$From 1992Li09 unless otherwise stated.                            
+219RA cG M(a)$Deduced from K| x ray/I|g ratios in |a|g coin experiments         
+219RAxcG (1992Li09).                                                            
+219RA cL E$Deduced from least-squares fit to |g-ray energies.                   
+219RA cL J$From Adopted Levels, based mainly on proposed assignments by         
+219RA2cL 2001Sh14 (also 1993Sh43) from their analysis of in-beam |g-ray         
+219RA3cL data, band assignments, and analogy with band structures in            
+219RA4cL {+221}Ra and {+223}Ra.                                                 
+219RA cL E(A)$Member of K|p=(1/2+) structure                                    
+219RA cL E(B)$Member of K|p=(5/2+) structure                                    
+223TH  P 0.0            (5/2+)           0.60 S  2              7567      4     
+223TH cP J,T$(5/2)+ in {+223}Th Adopted Levels in the ENSDF database            
+223TH2cP (May 2001 update), based on analogy with 5/2+ g.s. of isotonic         
+223TH3cP {+221}Ra, and also theoretical calculations by 1987Sh24. No new        
+223TH4cP references for T{-1/2} of {+223}Th decay are available after the       
+223TH5cP 2001 evaluation. Evaluators place the assignment in parentheses        
+223TH cP QP$From 2021Wa16                                                       
+219RA  N 1.0         1.0       1.0                                              
+219RA cN NR$Absolute |g-ray intensities (per 100 decays of parent) are          
+219RA2cN reported by 1992Li09.                                                  
+219RA cN BR$%|a=100 for {+223}Th |a decay                                       
+219RA PN                                                                     3  
+219RA  L 0.0            (7/2+)            9 MS   2                          A   
+219RA cL T$from Adopted Levels.                                                 
+219RA  A 7435      5 1       AP  440   AP                                       
+219RA cA E$value deduced by evaluators from E|a=7323 and E(level)=113.7,        
+219RA2cA E|a=7298 and E(level)=140.0, and E|a=7286 and E(level)=152.0           
+219RA3cA (1992Li09). E|a=7432 reported by 1992Li09.                             
+219RA  L 16.6      2    (11/2+)           10 MS  3                          AM  
+219RA2 L %A AP 100 (2018Sa45) $ %IT=?                                           
+219RA cL $Only the |a decay to {+215}Rn has been observed by 2018Sa45           
+219RA cL T$from Adopted Levels.                                                 
+219RA cL $The existence of this level is based upon the observation of          
+219RA2cL 97-keV |g rays in coincidence with 7323 keV |a particles that          
+219RA3cL populate the 113.7-keV level (1992Li09). The isomeric character of     
+219RA4cL this state, with an estimate of half-life, and its |a decay mode, has  
+219RA7cL been first proposed by 2018Sa45                                        
+219RA  A 7418          0.5   LT  750   GT                                      ?
+219RA  L 52.0      3    (3/2+)                                              A   
+219RA  A 7383          0.5   LT  570   GT                                      ?
+219RA cA $I|a=0% {I7} from |g-transition intensity balance                      
+219RA  G 52.0      3   0.03  1 [E2]                      216  7                 
+219RAS G LC=159 5$MC=43.1 14                                                    
+219RAS G NC=11.4 4$OC=2.41 8$PC=0.345 11$QC=0.000738 22                         
+219RA  L 113.74    11   (9/2+)                                              B   
+219RA  A 7323      5 13.2         14                                            
+219RA cA E,IA$other values: E|a=7320 {I20}, I|a=81 {I8}, multiplet              
+219RA2cA (1989An13). E|a=7317 {I10}, I|a=40 {I10} (original E|a has been        
+219RA3cA increased by 2 keV because of a change in the energy of the {+215}Po   
+219RA4cA calibration standard (1970Va13,1977Ma30)). E|a=7320 {I10}, I|a=29 {I5} 
+219RA5cA (1990An19). E|a=7324 {I10} (1987El02). Others: 1952Me13, 1969Ha32.     
+219RA cA $I|a=10% {I9} from |g-transition intensity balance.                    
+219RA  G 97.14     17  0.9   1 M1                        3.39                   
+219RA cG E$weighted average of 97.2 {I2} (1992Li09) and 97.10 {I17} (1987El02). 
+219RA2 G ELC=1.4 3 (1987El02)                                                   
+219RA cG M$|a(L)exp is |?60% lower than the theoretical value for M1 (1987El02),
+219RA2cG however, no other multipolarity is consistent with this conversion     
+219RA3cG coefficient, thus definite M1 is assigned for 97.14-keV transition     
+219RAS G LC=2.57 4$MC=0.614 10$NC=0.1619 25$OC=0.0369 6$                        
+219RAS G PC=0.00644 10$QC=0.000506 8                                            
+219RA  G 113.74    11  1.6   2 M1                        10.83              a   
+219RA cG E$weighted average of 113.8 {I1} (1992Li09) and 113.55 {I17}           
+219RAxcG (1987El02).                                                            
+219RA2 G ELC=1.4 3 (1987El02)                                                   
+219RAS G KC=8.68 13$LC=1.627 24$MC=0.389 6                                      
+219RAS G NC=0.1026 15$OC=0.0234 4$PC=0.00408 6$QC=0.000320 5                    
+219RA  L 140.02    9    (5/2+)                                              B   
+219RA  A 7298      7 55.3        2.7                                            
+219RA cA E$other E|a=7296 {I13} (1987El02).                                     
+219RA cA $I|a=46% {I8} from |g-transition intensity balance.                    
+219RA  G 88.0      5   0.5   4 [M1+E2]                    11   7  6.3     22    
+219RA cG TI$from |g-ray transition intensity balance at 52-keV level using      
+219RA2cG %|a=0 for 52-keV level (1992Li09).                                     
+219RA cG RI$from I(|g+ce) and |a(theory) for assumed mult=[M1+E2]               
+219RAS G LC=8 5$ MC=2.1 14$ NC=0.6 4$OC=0.12 8$PC=0.018 10$QC=0.0004 3          
+219RA  G 140.01    9   5.8   6 M1                       5.99                a   
+219RA cG E$weighted average of 140.0 {I1} (1992Li09) and 140.02 {I9} (1987El02).
+219RA2 G ELC=0.9 1                                                              
+219RA cG M$|a(L)exp is consistent with M1 (|d(E2/M1)<0.5) (1987El02).           
+219RAS G KC=4.81 7$LC=0.895 13$MC=0.214 3                                       
+219RAS G NC=0.0565 8$OC=0.01288 19$PC=0.00225 4$QC=0.0001761 25                 
+219RA  L 151.97    9    (7/2+)                                              B   
+219RA  A 7286      10 26.4       5.1                                            
+219RA cA $I|a=28% {I10} from |g-transition intensity balance.                   
+219RA cA E$others: E|a=7285 {I10}, measured in coincidence with 152|g           
+219RA2cA (1987El02); E|a=7287 {I10} (original E|a increased by 2 keV because of 
+219RA3cA a change in the energy of the {+215}Po calibration standard            
+219RA4cA (1970Va13,1977Ma30)); E|a=7290 {I10} (1990An19).                       
+219RA cA IA$others: 60 {I10} (1970Va13,1977Ma30); 41 {I5} (1990An19)            
+219RA  G 38.2      3   0.07  3 (M1+E2)   0.31    15     132   62  9.3     19    
+219RAS G LC=1.0E2 4$MC=25 11                                                    
+219RAS G NC=6 3$OC=1.4 6 $PC=0.22 8 $QC=0.0074 4                                
+219RA cG TI$from in-out intensity balance at 113.7 level. 20% uncertainty       
+219RA2cG is assumed by the evaluators                                           
+219RA cG MR$from |a=132 {I62}, deduced by evaluators from |g-ray transition     
+219RA2cG intensity balance at the 113-keV level using measured                  
+219RA3cG |a intensity of 13.2% from 1992Li09.                                   
+219RA  G 151.99    10  3.7   4 M1+E2     0.95    +90-50  3.3  10            a   
+219RA cG E$weighted average of 152.0 {I1} (1992Li09) and 151.98 {I12}           
+219RAxcG (1987El02).                                                            
+219RA2 G ELC=0.77 14 $ EMC=0.18 8                                               
+219RAS G KC=2.1 11$LC=0.86 10$MC=0.22 4                                         
+219RAS G NC=0.059 9 $OC=0.0128 18$PC=0.00203 17$QC=8.E-5 4                      
+219RA cG M,MR$from |a=3.3 {I10} (deduced by evaluators from |g-ray transition   
+219RA2cG intensity balance at the 152-keV level using measured |a intensity of  
+219RA3cG 26.4% from 1992Li09). |a(L)exp and |a(M)exp from 1987El02 give         
+219RA4cG |d(E2/M1)<1.0                                                          
+219RA  L   271.6   8                                                           ?
+219RA cL J$very tentative (9/2-) (2001Sh14)                                     
+219RA  G  119.6                                                                ?
+219RA  G  157.8                                                                ?
+219RA  L 320.6     4  (3/2+,5/2,7/2+)                                           
+219RA cL J$(5/2-) from systematics in 2001Sh14                                  
+219RA  A 7120        0.7          49                                            
+219RA  G 168.8     5   0.06  3                                                  
+219RA  G 268.0     10  0.1   AP                                                 
+219RA  G 320.6     8   0.02  AP                                                 
+219RA  L     328.3 5  (1/2+:7/2+)                                               
+219RA cL J$very tentative (3/2-) (2001Sh14)                                     
+219RA  A 7107        0.1     LT  310   GT                                       
+219RA  G 188.4     7   0.02  AP                                                 
+219RA  G 276.1     6   0.04  2                                                  
+219RA  L 404.75    16 (3/2+,5/2,7/2+)                                           
+219RA cL J$(5/2-) from systematics in 2001Sh14                                  
+219RA  A 7037        1.9          9                                             
+219RA  G 252.8     2   0.30  9                                                  
+219RA  G 264.7     2   0.7   2                                                  
+219RA  G 353.0         0.02  AP                                                 
+219RA  L 421.7     12                                                           
+219RA cL J$very tentative (7/2-) (2001Sh14)                                     
+219RA  A 7021        0.3          50                                            
+219RA  G 421.7     12  0.03  AP                                                 
+219RA  L 445.0     3  (5/2+,7/2,9/2+)                                           
+219RA cL J$(7/2-) from systematics in 2001Sh14                                  
+219RA  A 6998        1.5         8.2                                            
+219RA  G 124.4                                                                 ?
+219RA  G 293.0     5   0.20  5                                                  
+219RA  G 305.0     5   0.2   1                                                  
+219RA  G 331.3     5   0.2   1                                                  
+219RA  L 470.7     5  (5/2+:11/2+)                                              
+219RA cL J$(9/2-) from systematics in 2001Sh14                                  
+219RA  A 6972        0.6          16                                            
+219RA  G 318.8     7   0.06  3                                                  
+219RA  G 356.9     7   0.10  6                                                  
+219RA  L 515.4     10                                                           
+219RA cL J$very tentative (11/2-) (2001Sh14)                                    
+219RA  A 6928        0.4          17                                            
+219RA  G 401.7     10  0.06  3                                                  

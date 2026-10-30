@@ -1,0 +1,40 @@
+229PU    233CM A DECAY                 2010KH06                  26NDS    202601
+229PU  H TYP=FUL$AUT=F.G. KONDEV, J.K. TULI and E. BROWNE$                      
+229PU2 H CIT=NDS 208, 397 (2026)$CUT=23-Oct-2025$                               
+229PU c  2010Kh06: {+233}Cm was produced in |a decay of {+237}Cf that was       
+229PU2c  produced in {+204}Pb({+36}S,3n) reaction. The {+36}S beam with energies
+229PU3c  of 163.6, 170.0, 172.6, 173.0 and 174.3 MeV was provided by the        
+229PU4c  UNILAC accelerator at GSI. An isotopically enriched (>99% in {+204}Pb) 
+229PU5c  target was used. Evaporation residues (ERs) were separated from        
+229PU6c  the primary beam and target-like ions by the velocity filter SHIP and  
+229PU7c  were implanted into a position-sensitive 16-strip Si detector (PSSD).  
+229PU8c  A box of six Si detectors surrounded the PSSD to detect escape |a and  
+229PU9c  SF events. A Ge clover detector was mounted behind the Si detector     
+229PUac  for detecting X and |g rays. Measured Er-|a|a(t) correlations          
+229PU c  Other: 2002CaZZ,2002CaZU. {+233}Cm was produced in {+198}Pt({+40}Ar,5n)
+229PU2c  reaction with E({+40}Ar)=208 MeV provided by the UNILAC accelerator at 
+229PU3c  GSI. An isotopically enriched (95.7% in {+198}Pt) target was used.     
+229PU4c  Er were separated from the primary beam and target-like ions by        
+229PU5c  the velocity filter SHIP and were implanted into a position-sensitive  
+229PU6c  Si detector (PSSD). Measured Er-|a|a(t) correlations                   
+229PU cA HF$r{-0}({+229}Pu)=1.50 by evaluators from the trend of r{-0} in       
+229PU2cA 2020Si16                                                               
+233CM  P 0.0          (3/2+)            23 S     +13-6          7470      50    
+233CM cP QP$From 2021Wa16                                                       
+233CM cP T$From Er-|a|a(t) in 2010Kh06                                          
+233CM cP J$From 2021Ko07 based on systematics (J|p=3/2+ for the N=137 isotones  
+233CM2cP {+231}Pu and {+229}U, but J|p=1/2+ for the N=137 isotones {+227}Th and 
+233CM3cP {+225}Ra)                                                              
+233CM cP $Probable configuration=|n3/2[631]                                     
+229PU  N                       0.20    10                                       
+229PU cN BR$%|a=20 {I10}, %|e+%|b{++}=80 {I10} (2010Kh06)                       
+229PU  L 0.0           (3/2+)          88 S      +12-6                          
+229PU2 L %A=50 20 (2010Kh06) $ %EC+%B+=50 20 (2010Kh06) $ %SF<7 (2010Kh06)      
+229PU cL J,T$From adopted levels                                                
+229PU cL $Probable configuration=|n3/2[631]                                     
+229PU  A 7345      20   70   30  1.1   AP                                       
+229PU cA E,IA$From 2010Kh06. Other: E|a=7340 keV {I10} (2002CaZZ,2002CaZU)      
+229PU  L 93        28                                                           
+229PU cL E$From E(|a)=7345 keV {I20} and 7254 keV {I20} difference in 2010Kh06  
+229PU  A 7254      20   30   25  1.2   AP                                       
+229PU cA E,IA$From 2010Kh06. I(|a)=30 {I+30-20} in 2010Kh06                     

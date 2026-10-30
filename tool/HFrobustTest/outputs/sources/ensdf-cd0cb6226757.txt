@@ -1,0 +1,157 @@
+248BK    252ES A DECAY                 1973FI06                  25NDS    202507
+248BK  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 204, 374 (2025)$CUT=30-Jun-2024$     
+248BK dA HF$Hindrance Factor is calculated by AlphaHF (version 10-Jan-2025)     
+248BK dL E$Least-squares fitting is done by GLSC (version 30-Jun-2025)          
+248BK c  1973Fi06: |a particles were detected with a Au-Si surface barrier      
+248BK2c  detector and the photons were detected with a co-axial Ge(Li)          
+248BK3c  detector. Coincidence measurements were performed with a semiconductor 
+248BK4c  detector for alphas and a NaI(Tl) and Ge(Li) detectors for gammas.     
+248BK4c  Measured T{-1/2}, E|a, I|a, E|g, I|g, |g|g-coin,                       
+248BK5c  and |a|g coin ratio. Deduced levels, J|p and multipolarity.            
+248BK c  Other: 1965Mc11                                                        
+248BK tG $x-rays measured by 1973Fi06:                                          
+248BK tG $                                                                      
+248BK tG $         E(x ray)    I(per 100 |a decays)                             
+248BK tG $         --------    -------------------                              
+248BK tG $         107.20 {I5}         0.37 {I3}          Bk K|a{-2}| x ray     
+248BK tG $         115.02 {I5}         0.58 {I5}          Bk K|a{-1}| x ray     
+248BK tG $         125.4 {I1}                             Bk K|b{-3} x ray      
+248BK tG $                             0.23 {I2}                                
+248BK tG $         126.5 {I1}                             Bk K|b{-1} x ray      
+248BK tG $         130.7 {I2}          0.082 {I8}         Bk K|b{-2}'| x ray    
+248BK tG $                                                                      
+248BK cG $|a|g, |g|g and |gce coincidences were measured by 1973Fi06. See       
+248BK2cG 1973Fi06 for data.                                                     
+248BK cA HF$The nuclear radius parameter r{-0}({+248}Bk)=1.48487 {I52} is       
+248BK2cA deduced from interpolation of radius parameters of the adjacent        
+248BK3cA even-even nuclides in 2020Si16                                         
+248BK cA E$From 1973Fi06. The original energies are                             
+248BK2cA increased by 1 keV, as recommended by 1991Ry01, due to changes in      
+248BK3cA calibration energies. No higher-energy |a's were observed.             
+248BK cA IA$I|a per 100 |a decays (1973Fi06)                                    
+248BK cG E$From 1973Fi06                                                        
+248BK cG RI$I|g per 100 |a decays (1973Fi06)                                    
+248BK cG M$Except where noted otherwise, multipolarities are from K| x ray/|g in
+248BK2cG coincidence with |a's (1973Fi06) (E2 admixtures to M1's are not ruled  
+248BK3cG out). These multipolarities are provided in the Adopted Gammas.        
+248BK cL E$From least-squares fit to E|g data by the evaluator, except as noted.
+248BK DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+252ES  P 0.0          (4+)             471.7 D   19             6738.6    5     
+252ES cP QP$From 2021Wa16                                                       
+252ES cP T$From Adopted Levels in {+252}Es (2021Ma19)                           
+252ES cP J$From K|p=4+,|p7/2[633]|n1/2[620] configuration and systematics.      
+252ES2cP Note in the current ENSDF database (15 April, 2025),                   
+252ES4cP J|p({+252}Es)=(5-) (2021Ma19)                                          
+248BK  N 1.0                   0.78    2                                        
+248BK PN                                                                     2  
+248BK cN BR$From Adopted Levels in {+252}Cf (2021Ma19)                          
+248BK  G 52.33     5  0.72   6                                                  
+248BK2 G %IG=0.56 5                                                             
+248BK cG $The 52.33|g was observed in coincidence with the 6461|a;              
+248BK2cG therefore, it deexcites a level below the 171.5 level                  
+248BK  G 149.1     2  0.026  4                                                  
+248BK2 G %IG=0.020 4                                                            
+248BK  G 230.9     4  0.032  6                                                  
+248BK2 G %IG=0.025 +6-5                                                         
+248BK  G 326.0     4  0.031  6                                                  
+248BK2 G %IG=0.024 +6-5                                                         
+248BK  G 428.3     5  0.012  AP                                                 
+248BK2 G %IG AP 0.0094                                                          
+248BK  G 452.4     5  0.04   1                                                  
+248BK2 G %IG=0.031 9                                                            
+248BK  G 523       1  0.016  AP                                                 
+248BK2 G %IG AP 0.013                                                           
+248BK  G 548       AP 0.01   AP                                                 
+248BK2 G %IG AP 0.0078                                                          
+248BK  L 0.0          (6+)             9 Y       GT                             
+248BK cL E$From E|a and Q(|a). 1973Fi06 assumed that the 6632|a feeds           
+248BK2cL the {+248}Bk g.s.                                                      
+248BK  A 6632      3  80.2   9 43.1    14                                       
+248BK cA $The 6632- and 6562-keV |a's are not seen in coincidence               
+248BK2cA with 80 to 400-keV |g's within the coincidence resolving time of       
+248BK3cA 100 ns (1973Fi06).                                                     
+248BK  L 70.64     5 (7+)                                                       
+248BK  A 6562      3  13.6   3 122     5                                        
+248BK  G 70.65     5  0.16   2  M1+E2    3.4     21    98     24                
+248BK2 G %IG=0.125 19                                                           
+248BK cG M,MR$the requirement of an intensity balance at the 70.6               
+248BK2cG level gives |a(70.65|g)=98 {I+23-17} from which one gets               
+248BK3cG mult(70.65|g)=M1+E2 with |d=3.4 {I21}                                  
+248BKS G  LC=71 17$MC=20 5                                                      
+248BKS G  NC=5.6 14$OC=1.37 35$PC=0.23 5$QC=1.0E-3 9                            
+248BK  L 135.06    7 (8-)                                                       
+248BK  A 6498      5  0.31   4 2.7E3   5                                        
+248BK  G 64.42     5  0.36   3 [E1]                    0.450   6                
+248BKS G  LC=0.336 5$MC=0.0843 12                                               
+248BKS G  NC=0.02294 32$OC=0.00559 8$PC=0.000920 13$QC=3.14E-5 4                
+248BK2 G %IG=0.281 25                                                           
+248BK  L 145       3                                                            
+248BK DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+248BK  L 151.32    8 (8+)                                                       
+248BK  A 6482      3  2.19   9 324     17                                       
+248BK  G 80.7      1  0.042  7  M1+E2    1.3     +25-6 40     13                
+248BKS G  LC=29 9$MC=8.1 27                                                     
+248BKS G  NC=2.3 8$OC=0.56 18$PC=0.095 28$QC=0.0013 7                           
+248BK2 G %IG=0.033 +7-6                                                         
+248BK cG M,MR$the requirement of an intensity balance at the 151.3              
+248BK2cG level gives |a(80.7|g)=41 {I+12-7} from which one gets                 
+248BK3cG mult(80.7|g)=M1+E2 with |d=1.3 {I+25-6}                                
+248BK  G 151.3     1  0.096  9 [E2]                    3.26    5                
+248BKS G  KC=0.1614 23$LC=2.235 32$MC=0.633 9                                   
+248BKS G  NC=0.1770 25$OC=0.0435 6$PC=0.00732 10$QC=4.63E-5 7                   
+248BK2 G %IG=0.075 7                                                            
+248BK  L 171.5     8 (3+,4+,5+)                                                 
+248BK  A 6461      3  0.25   4 2.3E3   5                                        
+248BK  L 179.5     4                                                            
+248BK  L 212.6     8 (3+,4+,5+)                                                 
+248BK  A 6424      5  0.45   5 8.1E2   12                                       
+248BK  L 262       6                                                            
+248BK  A 6374      5  0.07   3 3.0E3   17                                       
+248BK  L 339       6                                                            
+248BK  A 6298      5  0.04   AP 2.3E3  16                                       
+248BK  L 373.0     4                                                            
+248BK  A 6265      3  0.75   7 84      8                                        
+248BK  G 193.5     1  0.068  8 M1                      5.33    7                
+248BK3 G FL=179.5                                                               
+248BKS G  KC=4.17 6$LC=0.869 12$MC=0.2130 30                                    
+248BKS G  NC=0.0587 8$OC=0.01512 21$PC=0.00298 4$QC=0.0002092 29                
+248BK2 G %IG=0.053 8                                                            
+248BK  G 228.0     4  0.036  6 M1                      3.36    5                
+248BK3 G FL=145                                                                 
+248BKS G  KC=2.63 4$LC=0.547 8$MC=0.1339 20                                     
+248BKS G  NC=0.0369 5$OC=0.00950 14$PC=0.001876 28$QC=0.0001313 20              
+248BK2 G %IG=0.028 +6-5                                                         
+248BK  L 399.7     3 (5+)                                                       
+248BK  A 6239      3  0.57   5 81      8                                        
+248BK  G 399.7     3  0.30   3 M1                      0.709  10                
+248BKS G  KC=0.556 8$LC=0.1145 16$MC=0.0280 4                                   
+248BKS G  NC=0.00772 11$OC=0.001987 28$PC=0.000392 6$QC=2.74E-5 4               
+248BK2 G %IG=0.235 30                                                           
+248BK  L 424       6                                                            
+248BK  A 6215      5  0.10   3 3.5E2   13                                       
+248BK  L 458       6                                                            
+248BK  A 6181      5  0.08   3 3.0E2   14                                       
+248BK  L 483       6                                                            
+248BK  A 6156      5  0.04   AP 4.5E2  32                                       
+248BK  L 529.1     7                                                            
+248BK  A 6109      5  0.12   3 87      26                                       
+248BK  G 529.1     7  0.07   1                                                  
+248BK2 G %IG=0.055 +10-9                                                        
+248BK  L 590.0     7 (4+)                                                       
+248BK  A 6051      3  1.02   9 5.0     5                                        
+248BK  G 377.4     3  0.16   2 M1                      0.830  12                
+248BKS G  KC=0.651 9$LC=0.1341 19$MC=0.0328 5                                   
+248BKS G  NC=0.00905 13$OC=0.002328 33$PC=0.000459 7$QC=3.21E-5 5               
+248BK2 G %IG=0.125 19                                                           
+248BK  G 418.5     3  0.29   3 M1                      0.625   9                
+248BKS G  KC=0.491 7$LC=0.1009 14$MC=0.02468 35                                 
+248BKS G  NC=0.00680 10$OC=0.001751 25$PC=0.000345 5$QC=2.413E-5 34             
+248BK2 G %IG=0.227 29                                                           
+248BK  G 590.0     7  0.11   1                                                  
+248BK2 G %IG=0.086 8                                                            
+248BK  L 624       5 (7+)                                                       
+248BK  A 6017      4  0.12   3 28      9                                        
+248BK  L 657       5                                                            
+248BK  A 5985      4  0.050  15 46     17                                       
+248BK  L 700       5 (8+)                                                       
+248BK  A 5943      4  0.040  15 34     16                                       

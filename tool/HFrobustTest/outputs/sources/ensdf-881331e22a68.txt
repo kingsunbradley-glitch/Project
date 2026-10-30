@@ -1,0 +1,201 @@
+234TH    ADOPTED LEVELS, GAMMAS                                  26NDS    202601
+234TH  H TYP=FUL$AUT=S. Ota$CIT=NDS 207, 351 (2026)$CUT=1-Dec-2023$             
+234TH  Q 274       3  6190   3  7984   13 3672    11   2021WA16                 
+234TH cQ $S(2n)=10976 {I3},  S(2p)=14462 {I10} (2021Wa16)                       
+234TH cG E,RI$From {+234}Th({+136}Xe,X|g) except where noted.                   
+234TH cG E(A),RI(A)$From {+238}U |a decay.                                      
+234TH cG E(B),RI(B)$From {+234}Ac |b{+-} decay.                                 
+234TH cG M(D)$Deduced by 1989Ge01 from particle-|g angular correlation          
+234TH2cG measurements in {+232}Th({+18}O,{+16}O|g) reaction.                    
+234TH cL J$For states populated in ({+136}Xe,X|g), J{+|p} assignments are       
+234TH2cL based on assignment of levels to g.s. band and octupole band,          
+234TH3cL supported by |g|g(|q) measurements.                                    
+234TH cL J(C)$From (d,{+6}Li) reaction data, based on systematics of 0+         
+234TH2cL states, and on angular distributions for transitions to the            
+234TH3cL unresolved 0+, 2+ states within the bands.                             
+234TH cL E$From least squares fit to E|g                                        
+234TH CL BAND(A)$GS BAND.                                                       
+234TH CL BAND(B)$Octupole band.                                                 
+234TH cG M$|g|g(|q) in {+234}Th({+136}Xe,X|g), except where noted. Q and D      
+234TH2cG assignments are assumed (E2) and (E1), respectively, based on          
+234TH3cG assignments to rotational bands                                        
+234TH D  Transition strength is calculated by Java-RULER (version 28-Apr-2022)  
+234TH D  CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+234TH  XA238U A DECAY                                                           
+234TH  XB234AC B- DECAY                                                         
+234TH  XC232TH(136XE,XG)                                                        
+234TH  XD238U(D,6LI)                                                            
+234TH  XE232TH(18O,16OG)                                                        
+234TH  XF232TH(T,P)                                                             
+234TH  L 0.0          0+                24.157 D  73                        A   
+234THX L XREF=ABCDEF                                                            
+234TH2 L %B-=100                                                                
+234TH cL $|a decay was not observed: %|a<1|*10{+-4} (1955De47).                 
+234TH cL T$from 2018Pa45; counting of 63.3|g rays from {+234}Th decay and       
+234TH2cL 1001|g from its daughter {+234m}Pa in equilibrium. Others: 24.101 d    
+234TH3cL {I25} (1948Kn23), 24.1 d {I2} (1939Sa11), 24.5 d (1931Cu01).           
+234TH cL $T{-1/2}(2|b)>4.5|*10{+3} y for 2|n mode and >4.1|*10{+4} y for 0|n    
+234TH2cL mode (2005Tr01)                                                        
+234TH  L 49.55     6  2+                0.37 NS   3                         A   
+234THX L XREF=ABCDEF                                                            
+234TH cL J$E2 49.55-keV |g to 0+.                                               
+234TH cL T$from |a|g(t) in {+238}U decay (1960Be25).                            
+234TH  G 49.55     6  100       E2                      322   5                 
+234THF G FLAG=A                                                                 
+234THS G LC=235 4$MC=64.4 10$NC=17.24 26$OC=3.83 6$PC=0.632 10$QC=0.001692 25   
+234THB G BE2W=185 +17-14                                                        
+234TH  L 163.05    12 4+                                                    A   
+234THX L XREF=ABCDEF                                                            
+234TH cL J$Q 113.5|g to 2+; band assignment.                                    
+234TH  G 113.5     1  100       (E2)                    6.49  9                 
+234THF G FLAG=A                                                                 
+234THS G KC=0.2332 33$LC=4.58 7$MC=1.258 18$NC=0.337 5$OC=0.0752 11$            
+234THS G PC=0.01250 18$QC=6.40E-5 9                                             
+234TH cG M$Assumed in {+238}U |a decay                                          
+234TH  L 336.45    24 6+                                                    A   
+234THX L XREF=CDE                                                               
+234TH cL J$Q 173.5|g to 4+; band assignment.                                    
+234TH  G 173.4     2  100       (E2)                    1.128 17                
+234THF G FLAG=D                                                                 
+234THS G KC=0.2004 28$LC=0.679 10$MC=0.1857 28$NC=0.0498 7$OC=0.01114 17$       
+234THS G PC=0.001872 28$QC=1.790E-5 26                                          
+234TH  L 564.7     3  8+                                                    A   
+234THX L XREF=CDE                                                               
+234TH cL J$Q 228.3|g to 6+; band assignment.                                    
+234TH  G 228.3     2  100       (E2)                    0.411 6                 
+234THF G FLAG=D                                                                 
+234THS G KC=0.1242 18$LC=0.2102 30$MC=0.0571 8$NC=0.01529 22$OC=0.00344 5$      
+234THS G PC=0.000584 8$QC=8.75E-6 12                                            
+234TH  L 688.38    22 (1-)                                                      
+234THX L XREF=B                                                                 
+234TH cL J$688.5- and 638.7-keV gammas to 0+ and 2+ levels; systematics of 1-   
+234TH2cL states.                                                                
+234TH  G 638.7     3  59     12                                                 
+234THF G FLAG=B                                                                 
+234TH  G 688.5     3  100    14                                                 
+234THF G FLAG=B                                                                 
+234TH  L 810       30 (0+)                                                  C   
+234THX L XREF=D                                                                 
+234TH  L 842.5     4  10+                                                   A   
+234THX L XREF=CE                                                                
+234TH cL J$Q 278.2|g to 8+; band assignment.                                    
+234TH  G 277.8     2  100       (E2)                    0.214230                
+234THF G FLAG=D                                                                 
+234THS G KC=0.0849 12$LC=0.0951 14$MC=0.0256 4$NC=0.00686 10$OC=0.001547 22$    
+234THS G PC=0.000265 4$QC=5.44E-6 8                                             
+234TH  L 995.0     5  (7-)                                                  B   
+234THX L XREF=C                                                                 
+234TH cL J$Q 199.7|g from (9{+-}); band assignment                              
+234TH  G 658.4     5  100                                                       
+234TH  L 1150      40 (0+)                                                  C   
+234THX L XREF=D                                                                 
+234TH  L 1164.9    6  (12+)                                                 A   
+234THX L XREF=CE                                                                
+234TH cL J$Q 317.2|g to 10+; band assignment.                                   
+234TH  G 322.3     5  100       (E2)                    0.136120                
+234THS G KC=0.0633 9$LC=0.0536 8$MC=0.01433 22$NC=0.00384 6$OC=0.000868 13$     
+234THS G PC=0.0001503 23$QC=3.86E-6 6                                           
+234TH  L 1194.8    5  (9-)                                                  B   
+234THX L XREF=C                                                                 
+234TH cL J$D 630.1|g to 8{++}; systematics of octupole bands in Th nuclei.      
+234TH  G 199.7     5  6.E1   3  (E2)                    0.662 11                
+234THS G KC=0.1588 23$LC=0.369 7$MC=0.1006 18$NC=0.0270 5$OC=0.00605 11$        
+234THS G PC=0.001021 18$QC=1.229E-5 19                                          
+234TH  G 630.1     5  100    12 (E1)                   0.0080411                
+234THS G KC=0.00655 9$LC=0.001125 16$MC=0.000267 4$NC=7.08E-5 10$               
+234THS G OC=1.661E-5 23$PC=3.17E-6 4$QC=2.76E-7 4                               
+234TH  L 1441.9    5  (11-)                                                 B   
+234THX L XREF=C                                                                 
+234TH  G 247.1     5  100    19 (E2)                    0.314 5                 
+234THS G KC=0.1068 16$LC=0.1519 25$MC=0.0411 7$NC=0.01102 18$OC=0.00248 4$      
+234THS G PC=0.000423 7$QC=7.21E-6 11                                            
+234TH  G 599.4     5  72     9  (E1)                   0.0088412                
+234THS G KC=0.00720 10$LC=0.001243 18$MC=0.000295 4$NC=7.83E-5 11$              
+234THS G OC=1.836E-5 26$PC=3.50E-6 5$QC=3.03E-7 4                               
+234TH  L 1470      40 (0+)                                                  C   
+234THX L XREF=D                                                                 
+234TH  L 1526.6    7  (14+)                                                 A   
+234THX L XREF=C                                                                 
+234TH  G 361.8     5  100       (E2)                    0.097814                
+234THS G KC=0.0503 7$LC=0.0350 5$MC=0.00929 14$NC=0.00249 4$OC=0.000564 8$      
+234THS G PC=9.84E-5 15$QC=2.97E-6 4                                             
+234TH  L 1731.0    6  (13-)                                                 B   
+234THX L XREF=C                                                                 
+234TH  G 289.1     5  100    4  (E2)                    0.189028                
+234THF G FLAG=A                                                                 
+234THS G KC=0.0784 11$LC=0.0813 13$MC=0.02186 34$NC=0.00585 9$OC=0.001321 21$   
+234THS G PC=0.0002271 35$QC=4.96E-6 7                                           
+234TH  G 566.0     5  41     13 (E1)                   0.0098814                
+234THS G KC=0.00804 11$LC=0.001396 20$MC=0.000332 5$NC=8.79E-5 12$              
+234THS G OC=2.062E-5 29$PC=3.92E-6 6$QC=3.37E-7 5                               
+234TH  L 1896.3    15 (1,2+)                                                    
+234THX L XREF=B                                                                 
+234TH cL J$|g rays to 0+ and 2+ states.                                         
+234TH  G 1847      2  100    17                                                 
+234THF G FLAG=B                                                                 
+234TH  G 1896      2  64     15                                                 
+234THF G FLAG=B                                                                 
+234TH  L 1913.0    15 (1,2+)                                                    
+234THX L XREF=B                                                                 
+234TH cL J$|g rays to 0+ and 2+ states.                                         
+234TH  G 1751      2  64     16                                                 
+234THF G FLAG=B                                                                 
+234TH  G 1912      2  100    20                                                 
+234THF G FLAG=B                                                                 
+234TH  L 1923.4    8  (16+)                                                 A   
+234THX L XREF=C                                                                 
+234TH  G 396.8     5  100       (E2)                    0.076111                
+234THS G KC=0.0420 6$LC=0.0252 4$MC=0.00665 10$NC=0.001780 26$OC=0.000405 6$    
+234THS G PC=7.11E-5 10$QC=2.428E-6 35                                           
+234TH  L 2059.2    7  (15-)                                                 B   
+234THX L XREF=C                                                                 
+234TH  G 328.2     5  100    16 (E2)                    0.129019                
+234THS G KC=0.0610 9$LC=0.0501 8$MC=0.01338 20$NC=0.00358 5$OC=0.000811 12$     
+234THS G PC=0.0001404 21$QC=3.70E-6 5                                           
+234TH  G 532.7     5  10     4  (E1)                   0.0111316                
+234THS G KC=0.00904 13$LC=0.001581 22$MC=0.000376 5$NC=9.96E-5 14$              
+234THS G OC=2.334E-5 33$PC=4.43E-6 6$QC=3.77E-7 5                               
+234TH  L 2351.0    9  (18+)                                                 A   
+234THX L XREF=C                                                                 
+234TH  G 427.6     5  100       (E2)                    0.06279                 
+234THS G KC=0.0363 5$LC=0.01949 28$MC=0.00512 7$NC=0.001369 20$OC=0.000312 5$   
+234THS G PC=5.51E-5 8$QC=2.066E-6 29                                            
+234TH  L 2422.9    8  (17-)                                                 B   
+234THX L XREF=C                                                                 
+234TH  G 363.7     5  100    24 (E2)                    0.096414                
+234THS G KC=0.0498 7$LC=0.0343 5$MC=0.00911 14$NC=0.00244 4$OC=0.000554 8$      
+234THS G PC=9.66E-5 14$QC=2.94E-6 4                                             
+234TH  G 499.4     5  10     4  (E1)                   0.0126518                
+234THS G KC=0.01027 15$LC=0.001808 26$MC=0.000430 6$NC=0.0001140 16$            
+234THS G OC=2.67E-5 4$PC=5.06E-6 7$QC=4.27E-7 6                                 
+234TH  L 2805.1    11 (20+)                                                 A   
+234THX L XREF=C                                                                 
+234TH  G 454.1     5  100       (E2)                    0.05398                 
+234THS G KC=0.0324 5$LC=0.01594 23$MC=0.00417 6$NC=0.001114 16$OC=0.000254 4$   
+234THS G PC=4.51E-5 7$QC=1.817E-6 26                                            
+234TH  L 2816.6    9  (19-)                                                 B   
+234THX L XREF=C                                                                 
+234TH  G 393.7     5            (E2)                    0.077711                
+234THS G KC=0.0427 6$LC=0.0259 4$MC=0.00684 10$NC=0.001831 27$OC=0.000416 6$    
+234THS G PC=7.30E-5 11$QC=2.470E-6 35                                           
+234TH  G 465.8     5                                                           ?
+234TH  L 3238.3    11 (21-)                                                 B   
+234THX L XREF=C                                                                 
+234TH  G 421.7     5  100       (E2)                    0.06509                 
+234THS G KC=0.0373 5$LC=0.02043 30$MC=0.00537 8$NC=0.001437 21$OC=0.000327 5$   
+234THS G PC=5.77E-5 8$QC=2.128E-6 30                                            
+234TH  L 3281.4    12 (22+)                                                 A   
+234THX L XREF=C                                                                 
+234TH  G 476.3     5  100       (E2)                    0.04797                 
+234THS G KC=0.0295 4$LC=0.01364 20$MC=0.00355 5$NC=0.000950 14$OC=0.0002172 31$ 
+234THS G PC=3.87E-5 6$QC=1.643E-6 23                                            
+234TH  L 3684.3    12 (23-)                                                 B   
+234THX L XREF=C                                                                 
+234TH  G 446.0     5  100       (E2)                    0.05648                 
+234THS G KC=0.0335 5$LC=0.01692 25$MC=0.00443 6$NC=0.001185 17$OC=0.000270 4$   
+234THS G PC=4.79E-5 7$QC=1.888E-6 27                                            
+234TH  L 3775.1    13 (24+)                                                 A   
+234THX L XREF=C                                                                 
+234TH  G 493.7     5  100       (E2)                    0.04406                 
+234THS G KC=0.0276 4$LC=0.01215 17$MC=0.00316 5$NC=0.000844 12$OC=0.0001932 28$ 
+234THS G PC=3.45E-5 5$QC=1.524E-6 22                                            

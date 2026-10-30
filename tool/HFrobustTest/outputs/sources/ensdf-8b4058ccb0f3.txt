@@ -1,0 +1,108 @@
+257RF    ADOPTED LEVELS, GAMMAS                                  13NDS    201309
+257RF  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+257RF2 H CUT=1-Mar-2012$                                                        
+257RF D  Modified by E. Browne (April, 2012)                                    
+257RF  Q -4341     SY6426    213168    849083    8     2012WA38                 
+257RF cQ           Estimated |DQ(|b{+-})=203 (2012Wa38)                         
+257RF c                                                                         
+257RF c  Calculations, compilations:                                            
+257RF c  Half-life: 2012Po01, 2011He12,                                         
+257RF2c  2010Si27, 2008Do12, 2008Ro06, 2007Zh41,                                
+257RF3c  2006Xu04, 2005Xu03, 2005Zh24, 2004Xu02, 2001Re13                       
+257RF c  Q(|a): 2011Ad15, 2009Do22, 2008Do12, 2008Ro06                          
+257RF c  {+208}Pb({+50}Ti,n), measured |s: 2011Ca08, 2011Ca14, 2011Wa41,        
+257RF2c  2010Li32, 2010Wa39, 2008Za07, 2007Fe17, 2005Fe05, 2005Sm02,            
+257RF3c  2005Sw01, 2004Ad32, 2004Ch31, 2003Sw01, 2001De23, 2001Sm06,            
+257RF4c  2001Za10, 2000Ad15, 2000De09, 2000Sm01, 1999Ad05, 1999Ch42,            
+257RF5c  1999Sm02, 1998Ad06                                                     
+257RF c  Rf K| x ray energies: 2008Th05                                         
+257RF c  Masses: 2004Mu27                                                       
+257RF c  Spontaneous fission half-life: 2004Ro01, 2003Zu02                      
+257RF c  Favored |a decay: 1993Bu09, 1992Bu03                                   
+257RF c  g.s. properties: 1997Mo25, 1995Mo29                                    
+257RF c  Single-particle Nilsson levels: 2010Se10, 2005Pa73, 1994Cw02           
+257RF c                                                                         
+257RF c  1994Cw02 calculate the following                                       
+257RF2c  single-particle level sequence:                                        
+257RF3c  g.s., 1/2[620]; 0.09 MeV, 3/2[622]; 0.21 MeV, 11/2[725]; 0.28 MeV,     
+257RF4c  7/2[613]; 0.46 MeV, 9/2[734]; 0.69 MeV, 9/2[615]; 0.87 MeV,            
+257RFxc  7/2[624].                                                              
+257RF c                                                                         
+257RF c  Assignment: {+249}Cf({+12}C,4n) excit, parent of {+253}No              
+257RF2c  (1969Gh01,1973Be33). {+208}Pb({+50}Ti,n) E({+50}Ti)=4.75-4.85          
+257RFxc  MeV/nucleon, parent of {+253}No (1985He06).                            
+257RF c                                                                         
+257RF c  The 4.4 s (1/2+) isomer is populated in the alpha decay of             
+257RF2c  0.18 s {+261}Sg; the 4.1 s (11/2-) isomer, however, is not populated   
+257RF3c  in the decay of 0.18 s {+261}Sg (1997He29).                            
+257RF CL BAND(A)$ROTATIONAL BAND (11/2-[725])                                   
+257RF  XA261SG A DECAY                                                          
+257RF  XB208PB(50TI,NG)                                                         
+257RF cL E$From {+208}Pb({+50}Ti,n|g), unless otherwise noted                   
+257RFxcL (2010Be16,2009Qi04).                                                   
+257RF cL J         Based on rotational-band structure, unless otherwise noted.  
+257RF  L 0.0          (1/2+)           4.4 S     +6-5                           
+257RF2 L %A=79.3 14$%EC=19.4 14$%SF=1.3 3 (2010St14)                            
+257RF2 L XREF=AB                                                                
+257RF cL J         In analogy with N=153 nuclei {+249}Cm and {+251}Cf           
+257RF2cL (configuration=1/2+[620]). Calculations in 1994Cw01 predict this       
+257RF3cL single-particle Nilsson configuration.                                 
+257RF cL T         From 2009Qi04, recommended value in 2010Be16.                
+257RF2cL Other values: 5.5 s {I4} (2010St14); 4.8 s {I2} (2010Be16);            
+257RF3cL 7.2 s {I+13-11} (2008Dr05); 4.3 s {I+13-8} (1985He06);                 
+257RF4cL 3.8 s {I8} (1985So03); 4.8 s {I3} (1974BeWM);                          
+257RF5cL 4.8 s {I5} (1971Gh03); 4.5 s {I10} (1969Gh01).                         
+257RF  L 50        1  [5/2+]                                                    
+257RF2 L XREF=A                                                                 
+257RF  L 75        AP (11/2-)          4.1 S     4                          AM  
+257RF2 L XREF=B                                                                 
+257RF cL J         Supported by alpha-hindrance factor HF=21 to {+253}No g.s.   
+257RF2cL (9/2-[734]). T{-1/2}=4.1 s is consistent with this J|p assignment.     
+257RF cL T$From 2009Qi04, recommended in 2010Be16. Other values:                
+257RF2cL 4.9 s {I7} (2010St14), 4.6 s {I3} (other value in 2010Be16),           
+257RF3cL 4.1 s {I+7-6} (2008Dr05).                                              
+257RF2 L %A=88 2$%EC=11 2$%SF LE 1.4                                            
+257RF cL           From 1997He29, 1999He11.                                     
+257RF cL           Decay branchings measured for a combined source              
+257RF2cL of {+257}Rf (4.4 s) and {+257}Rf (4.1 s): %SF=2 {I1} (2009Qi04),       
+257RF3cL %SF<3.5 (1985He06),                                                    
+257RF4cL %SF=14 {I9} (1985So03), %SF|?12 (1984Og03). Other: 2000Ho27.           
+257RF  L 148       1   (13/2-)                                              A   
+257RF2 L XREF=B                                                                 
+257RF  G 73                                                                     
+257RF  L 157       1   (3/2+)                                                   
+257RF cL           Possible configuration=3/2+[622]                             
+257RF2 L XREF=A                                                                 
+257RF  G 107.3                 [M1]                                             
+257RF  G 157       1                                                            
+257RF  L 234       1  (15/2-)                                               A   
+257RF2 L XREF=B                                                                 
+257RF  G 86        1                                                            
+257RF  G 159       1                                                            
+257RF  L 334       1  (17/2-)                                               A   
+257RF2 L XREF=B                                                                 
+257RF  G 100       1                                                            
+257RF  G 186       1                                                            
+257RF  L 446       1  (19/2-)                                               A   
+257RF2 L XREF=B                                                                 
+257RF  G 112       1                                                            
+257RF  G 212       1                                                            
+257RF  L 572       1  (21/2-)                                               A   
+257RF2 L XREF=B                                                                 
+257RF  G 126       1                                                            
+257RF  G 238       1                                                            
+257RF  L 711       1  (23/2-)                                               A   
+257RF2 L XREF=B                                                                 
+257RF  G 139       1                                                            
+257RF  G 265       1                                                            
+257RF  L 1157      1  (21/2,23/2)      139.9 US  77                             
+257RF2 L XREF=B                                                                 
+257RF cL J         |g rays to (21/2-) and (23/2-) in {+257}Rf.                  
+257RF2cL T{-1/2}=140 |ms is expected for |DK=5 or 6 transitions (2010Be16).     
+257RF cL T$From 2010Be16. Other values: 160 |ms {I+42-31} (2009Qi04);           
+257RF2cL 109 |ms {I13} (2009Je01).                                              
+257RF cL E         E|?1125 keV, measured with conversion electrons added        
+257RF2cL to the energies of coincident |g rays, agrees with value               
+257RF3cL from decay scheme.                                                     
+257RF  G 446       1                                                            
+257RF  G 585       1                                                            

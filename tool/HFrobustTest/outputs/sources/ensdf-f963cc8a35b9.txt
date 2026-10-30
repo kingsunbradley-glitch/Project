@@ -1,0 +1,47 @@
+246CF    250FM A DECAY                                           24NDS    202410
+246CF  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 198, 449 (2024)$CUT=31-Jul-2022$     
+246CF c  2006Fo02: {+250}Fm was produced from the |e decay of {+250}Md.         
+246CF2c  The study of the {+262}Bh decay chain was performed at Berkeley        
+246CF3c  Gas-filled Separator at Lawrence Berkeley Laboratory. Measurements     
+246CF4c  were performed with Si detectors and multiwire proportional counter.   
+246CF5c  Measured E|a and T{-1/2}                                               
+246CF c  1981Mu06: {+250}Fm was produced from the |e decay of {+250}Md.         
+246CF2c  The study of the decay chain was performed at UNILAC linear accelerator
+246CF3c  at GSI. Measurements were done with surface barrier detectors.         
+246CF4c  Measured E|a and T{-1/2}                                               
+246CF c  1977Be36: {+250}Fm was produced from the |e decay of {+250}Md.         
+246CF2c  The study of the decay chain was performed at the Oak Ridge            
+246CF3c  Isochronous Cyclotron (ORIC) at ORNL. Measurements were done with      
+246CF4c  surface barrier detectors. Measured E|a                                
+246CF c  1966Ak01: {+250}Fm produced from {+238}U({+16}O,6n). |a                
+246CF2c  decay was measured with (Si+Au) detectors. Measured E|a and T{-1/2}.   
+246CF c  Others: 1981Mu06, 1962Do11, 1957Am47                                   
+246CF cA IA$Calculated by evaluator from HF(7396)|?3.4 estimated from           
+246CF2cA systematics of neighboring even-even Cf nuclides ({+242}Cf,            
+246CF3cA {+244}Cf, {+248}Cf, {+250}Cf).                                         
+246CF cA HF$The nuclear radius parameter r{-0}({+246}Cf)=1.4776 {I41}           
+246CF2cA is deduced by assuming HF=1.0 for the ground-state to                  
+246CF3cA ground-state alpha decay branch.                                       
+246CF cL J,T$From Adopted Levels                                                
+250FM  P 0.0           0+               31.0 M    15             7557      8    
+250FM cP T$From weighted average of 32.5 min {I18} (2018Mi11),                  
+250FM2cP 28.4 min {I+39-30} (2008Ga25), 30.4 min {I15} (2006Ba09)               
+250FM3cP and 30 min {I3} (1957Am47).                                            
+250FM4cP Others: 18 min {I+13-6} (2006Fo02), 23 min {I+15-10} (1981Mu06),       
+250FM5cP 20.1 min {I80} (2006Ni09), 30 min (1962Do11).                          
+250FM6cP The current value in the ENSDF database                                
+250FM7cP (2001Ak11) is 30 min {I3}                                              
+250FM cP QP$From 2021Wa16                                                       
+246CF  N                        0.9    GT                                       
+246CF cN BR$From 2001Ak11.                                                      
+246CF  L 0            0+               35.7 H    5                              
+246CF  A 7435      15 83     AP   1    AP                                       
+246CF cA E$From weighted average of 7424 {I35} (2006Fo02),                      
+246CF2cA 7435 {I35} (1981Mu06), 7439 {I15} (1977Be36; uncertainty estimated by  
+246CF3cA the evaluator), 7440 {I30} (1973Es01; uncertainty estimated by the     
+246CF4cA evaluator), 7420 {I30} (1966Ak01) and 7430 {I50} (1957Am47).           
+246CF5cA Others: 7440 (1962Do11)                                                
+246CF  L 41        15   (2+)                                                    
+246CF cL E$Calculated by evaluator from E|a and Q(|a)                           
+246CF  A 7396      15 17     AP  3.4   AP                                       
+246CF cA E$From 1977Be36, uncertainty estimated by the evaluator                

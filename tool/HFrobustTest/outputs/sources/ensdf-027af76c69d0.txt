@@ -1,0 +1,328 @@
+232U     ADOPTED LEVELS, GAMMAS                                  06NDS    200610
+232U   H TYP=ERR$AUT=E. BROWNE$DAT=3-Nov-2011$COM=corrected %SF$                
+232U   H TYP=FUL$AUT=E. BROWNE$CIT=NDS 107, 2579 (2006)$CUT=1-Nov-2004$         
+232U   Q -2.75E3   SY7268    3 6104.1  205413.63 9     2012WA38                 
+232U  cQ $Note: Current evaluation has used the following Q record              
+232U 2cQ -2750     syst 7268.0 {I28} 6104   2 {I5413}.63 {I9}     2003Au03      
+232U  c  {+233}U(|g,n): measured cross-section (1993De36).                      
+232U  c  T{-1/2}({+24}Ne):Others (mostly theoretical papers                     
+232U 2c  and systematic studies of cluster decay): 2004Re22, 2004He16, 2004Ba64,
+232U 3c  2002Sa25, 2002Du16, 2002Ba80), 2001St29, 1998Ro11, 1997Tr17, 1997Ro24, 
+232U 4c  1997MiZP, 1997Bu20, 1995Ar33, 1993Si26, 1993Ka21, 1993Go18, 1993Bu05,  
+232U 5c  1992Sa30, 1992Lu07, 1992Gu10, 1992Ar02, 1991Ro03, 1991Bu01, 1991Bl07,  
+232U 6c  1990Sh01, 1990Ka15, 1990Bu13, 1990Ba20.                                
+232U  cG E(K),RI(K)$From {+232}Pa |b{+-} decay                                  
+232U  cG E(M),RI(M)$From {+236}Pu |a decay                                      
+232U  cG E(N),RI(N)$From {+232}Th(|a,4n|g), {+230}Th(|a,2n|g)                   
+232U  cG E(Q),RI(Q)$From {+232}Np |e decay                                      
+232U  cL E         Deduced by evaluator from a least squares fit of             
+232U 2cL adopted |g-ray energies, unless otherwise specified.                   
+232U  cL E(X)      From {+234}U(p,t)                                            
+232U  cL J         Most J|p assignments are based on rotational band structure. 
+232U 2cL For some individual levels additional arguments based on |g-ray        
+232U 3cL multipolarities are given.                                             
+232U  cL J(B)      Rotational band structure, |g-ray deexcitation               
+232U  cL J(A)      Rotational band structure, |g-ray cascade of stretched       
+232U 2cL E2 transitions in {+232}Th(|a,4n|g) and Coulomb excitation.            
+232U  CL BAND(A)   KPI=0+ GS rotational band                                    
+232U  CL BAND(B)   KPI=0- Octupole vibrational band                             
+232U  CL BAND(D)   KPI=0+ Beta vibrational band                                 
+232U  CL BAND(E)   KPI=2+ Gamma vibrational band                                
+232U  CL BAND(G)   KPI=2-                                                       
+232U  CL BAND(I)   KPI=(1)-                                                     
+232U  CL BAND(J)   KPI=(0+) Two-phonon octupole vibrational band                
+232U   XA232PA B- DECAY                                                         
+232U   XB232NP EC DECAY                                                         
+232U   XC236PU A DECAY                                                          
+232U   XD232TH(A,4NG), 230TH(A,2NG)                                             
+232U   XE234U(P,T)                                                              
+232U   L 0            0+               68.9 Y    4                          A   
+232U X L XREF=ABCDE                                                             
+232U  cL T$Average of 69.00 y {I40} (specific activity) and 68.81 y {I38}       
+232U 2cL (activity ratio relative to T{-1/2}=1.592|*10{+5} y for {+233}U, mass  
+232U 3cL spectrometry (1979Ag04, 1986Ag01). Others: 73.6 y {I10} (2|p a         
+232U 4cL counting, specific activity) (1954Se26); 71.4 y {I6} (calorimetry) and 
+232U 5cL 72.1 y {I5} (2|p a counting, specific activity)(1964Ch05). Others:     
+232U 6cL 1949Go01, 1949Ja01). Analysis of alpha spectra: 2003Ba64, 1999Sa15,    
+232U 7cL 1999Go26, 1999De51, 1996Ca30, 1994To17, 1993Ba72, 1991Kr18, 1990Ca43.  
+232U 2 L %A=100$%SF=2.7E-12 6$%24NE=8.9E-10 7                                   
+232U  cL %SF$From T{-1/2}(SF)=2.6|*10{+15} y {I5} (solid-state track detection  
+232U 2cL corrected for cluster decay (2000Bo46). Other values:                  
+232U 3cL T{-1/2}(SF)>6.84|*10{+15} y (1990Bo16); T{-1/2}(SF)=0.080|*10{+15} y   
+232U 4cL {I55} (1957Hy90), this value may have been affected by detection of    
+232U 5cL {+24}Ne (1990Bo16); T{-1/2}(SF)>0.008|*10{+15} y (1952Se67).           
+232U  cL %24NE$From 1991Bo20. Other values:%{+24}Ne=8.5|*10{+-10} {I7}, from    
+232U 2cL T{-1/2}({+24}Ne)=8.1|*10{+12} y {I7} (1990Bo16);                       
+232U 3cL %{+24}Ne=2.0|*10{+-10} {I5}, from T{-1/2}({+24}Ne)=3.4|*10{+13} y {I8} 
+232U xcL (1985Ba18).                                                            
+232U   L   47.573   8  2+              245 PS    20                         A   
+232U X L XREF=ABCDE                                                             
+232U  cL J$47.57|g E2 to 0+                                                     
+232U   G 47.57     2  100       E2                      464                 M   
+232U B G BE2W=241 21                                                            
+232U   L  156.566  10  4+                                                   A   
+232U X L XREF=ABCDE                                                             
+232U   G 108.95    2  100       E2                        9.15              M   
+232U   L    322.69 7   6+                                                   A   
+232U X L XREF=ABCD                                                              
+232U   G 166.09    7  100       E2                      1.58                M   
+232U   L    541.1  1  8+                                                    A   
+232U X L XREF=CDE                                                               
+232U   G 218.4     1  100       E2                       0.554              N   
+232U   L  563.194   7  1-                                                   B   
+232U X L XREF=ACD                                                               
+232U  cL J$563.197|g E1 to 0+                                                   
+232U  cL J         E1 to g.s.                                                   
+232U   G 515.607   9  100    3  E1                     0.01274              K   
+232U   G 563.197   7  69     2  E1                     0.01074              K   
+232U   L  628.965  8   3-                                                   B   
+232U X L XREF=ACD                                                               
+232U  cL J$581.398|g E1 to 2+, 472.39|g E1 to 4+.                               
+232U  cL J         E1 to 2+,4+                                                  
+232U   G 472.390   6  64     2  E1                     0.01516              K   
+232U   G 581.398   8  100    3  E1                     0.01010              K   
+232U   L   691.42  9   0+                                                   D   
+232U X L XREF=ACDE                                                              
+232U  cL J$691.3|g E0 to 0+, L=0 in {+234}U(p,t).                               
+232U   G 643.87    3            [E2]                    0.027               M  ?
+232U   G 691.3     1            E0                               100        M   
+232U   L   734.57  5   2+                                                   D   
+232U X L XREF=ACDE                                                              
+232U  cL J$687.04|g E0 to 2+                                                    
+232U   G 577.95    10 39     7                                              M   
+232U   G 687.04    10 75     3  E0+[E2]                          100        M   
+232U   G 734.55    10 100    4  [E2]                             60       LTM  S
+232U   L    746.8  1 (5-)                                                   B   
+232U X L XREF=CD                                                                
+232U   G 423.85    20 35     2                                              M   
+232U   G 590.28    10 100    6                                              M   
+232U   L    805.88 16 10+                                                   A   
+232U X L XREF=D                                                                 
+232U   G 264.8     1  100       E2                       0.286              N   
+232U   L   833.07  20  4+                                                   D   
+232U X L XREF=ACDE                                                              
+232U  cL J$676.5|g E0 to 4+                                                     
+232U   G 676.5     2            E0+[E2]                                     N   
+232U   L  866.790   8  2+                                                   E   
+232U X L XREF=ABCE                                                              
+232U  cL J$866.760|g E2 to 0+                                                   
+232U   G 132.5     2  0.13   6  M1,E2                   7     3             K   
+232U   G 174.9     2  0.13   3  [E2]                     1.268              K   
+232U   G 710.1     3  2.8    1  E2                     0.02206              K   
+232U   G 819.187   13 100    1  E2                      0.017               K   
+232U   G 866.760   19 77     2  E2                     0.01484              K   
+232U   L   911.49  4   (3)+                                                 E   
+232U X L XREF=AB                                                                
+232U  cL J$176.3|g M1, E2 to 2+, 754.8|g E2 to 4+.                              
+232U   G 176.3        0.2    1  M1,E2                   3.0   17            K   
+232U   G 754.8     2  28     2  E2                     0.01950              K   
+232U   G 863.89    4  100    4  E2                     0.01494              K   
+232U   G 911.4        0.60   5  [M3]                    0.2282              K  ?
+232U   L    915.2  4 (7-)                                                   B   
+232U X L XREF=D                                                                 
+232U   G 374.2     5                                                        N   
+232U   G 592.4     5                                                        N   
+232U   L 927.3     1  (0+)                                                  J   
+232U  cL J$HF=15 in {+236}Pu (J|p=0+) |a Decay.                                 
+232U X L XREF=CE                                                                
+232U   G 364.0     1 100     14 [E1]                    0.0260              M   
+232U S G KC=0.0208$LC=0.00392$MC=0.00094$NC+=0.00033                            
+232U   G 879.9     1 0.19    1  [E2]                    0.0144              M   
+232U S G KC=0.0106$LC=0.00284                                                   
+232U   L 967.6     1  (2)+                                                  J   
+232U X L XREF=CE                                                                
+232U  cL J$920.23|g M1+E2 to 2+, 967.9|g to 0+.                                 
+232U   G 338.5     1 100     2  [E1]                    0.0304              M   
+232U S G KC=0.0243$LC=0.00462$MC=0.00110$NC+=0.00039                            
+232U   G 404.46    10 76     2  [E1]                    0.0209              M   
+232U S G KC=0.0168$LC=0.00310$MC=0.00074$NC+=0.00026                            
+232U   G 811.26    20 13.0   2  [E2]                    0.0169              M   
+232U S G KC=0.0123$LC=0.00348                                                   
+232U   G 920.23    20 13.0   2  M1+E2    1.14    20     0.030  4            M   
+232U S G KC=0.024 3$LC=0.0049 6                                                 
+232U   G 967.9     3  5      1  [E2]                    0.0120              M   
+232U S G KC=0.0090$LC=0.00226                                                   
+232U   L   970.71  7  (4+)                                                  E   
+232U X L XREF=ABE                                                               
+232U  cL J$Rotational structure, 923.1|g to 2+, 814.2|g to 4+.                  
+232U   G 814.2     1  100    30                                             K   
+232U   G 923.1        45     14                                             K   
+232U   L    984.9  2 6+                                                     D   
+232U X L XREF=D                                                                 
+232U  cL J$662.2|g E0 to 6+                                                     
+232U   G 662.2     2            E0                              100         N   
+232U   L 1016.850  8   2-              50 PS     LT                         G   
+232U X L XREF=AB                                                                
+232U  cL J$1016.4|g M2 to 0+.                                                   
+232U  DL J$In |b{+-} decay from                                                 
+232U 2DL {+232}Pa, the low log| {Ift} (5.88 {I5}) suggests a significant 2p     
+232U 3DL component, probably configuration=((|p 1/2[530])(|p 5/2[642])). In     
+232U 4DL {+231}Th |b{+-} decay the analogous configuration=(|n 5/2[633]) to     
+232U 5DL configuration=(|p 5/2[642]) has the log| {Ift} value of 5.92 {I5}      
+232U   G 105.4     1  3.5    4  [E1]                    0.1102              K   
+232U   G 150.059   3  24.7   12 E1                      0.1962              K   
+232U   G 282.2     1  0.023  12 [E1]                    0.0452                  
+232U   G 387.884   4  15.2   3  E2+M1     4.6    5       0.111 5            K   
+232U   G 453.655   5  19.7   5  E2+M1     2.8    3       0.093 7            K   
+232U   G 969.315   11 100    1  E1                     0.00397              K   
+232U   G 1016.4    4  0.030  5  M2                      0.0915              K   
+232U   L 1050.90   1   3-              50 PS     LT                         G   
+232U X L XREF=ABE                                                               
+232U  cL J$1003.28|g E1 to 2+, 894.351|g E1 to.4+                               
+232U   G 80.23     10 2.7    4  [E1]                    0.2255              K   
+232U   G 139.2     1  4.7    3  [E1]                    0.2327              K   
+232U   G 184.101   9  11.8   3  [E1]                    0.1208              K   
+232U   G 421.932   7  12.7   10 E2+M1     1.96   15      0.1451             K   
+232U   G 894.351   12 100.0  15 E1                     0.00457              K   
+232U   G 1003.28   4  0.80   4  E1                     0.00373              K   
+232U   G 1051.4    1  0.087  10 [E3]                    0.026               K   
+232U 2 G FL=0                                                                   
+232U   L   1098.2   4 (4-)                                                  G   
+232U X L XREF=B                                                                 
+232U  DL J         rotational parameter                                         
+232U   G 941.6     4  100                                                   K   
+232U   L   1111.6  2  12+                                                   A   
+232U X L XREF=D                                                                 
+232U  cL J$305.7|g E2 to 10+                                                    
+232U   G 305.7     1  100       E2                      0.182               N   
+232U   L   1131.1  6 (9-)                                                   B   
+232U X L XREF=D                                                                 
+232U   G 590.0     5  100                                                   N   
+232U   L  1132.97  10 (2+)                                                      
+232U X L XREF=AB                                                                
+232U  cL J$1085.4|g E1,E2 to 2+, and 1132.7|g E1,E2 to 0+ suggests              
+232U 2cL J|p=1+, 1-, or 2+. Level feeding from {+232}Np |e decay suggests       
+232U xcL J|p=2+.                                                                
+232U  DL J         |g deexcitation suggests J|p=1+,1- or 2+. Observation        
+232U 2DL of the level in (4+) {+232}Np |e decay favors J=2                      
+232U   G 1085.4    1  100    8  (E2)                                        K   
+232U  cG M$E1 or E2. Decay scheme requires E2.                                  
+232U   G 1132.7    7  38     12 (E2)                                        K   
+232U  cG M$E1 or E2. Decay scheme requires E2.                                  
+232U   L  1173.06  17 (2)-                                                  I   
+232U X L XREF=AB                                                                
+232U  cL J$1125.48|g E1 to 2+, no |g-ray decay observed to 0+, 4+.              
+232U  DL J         E1 to 2+, no |g to 0+,4+                                     
+232U   G 1125.48   17 100          E1                   0.003               K   
+232U   L   1186.6  4 8+                                                     D   
+232U X L XREF=D                                                                 
+232U  cL J$645.5|g E0 to 8+                                                     
+232U   G 645.5     3            E0                              100         N   
+232U   L  1194.0   2  (3+,4+)                                                   
+232U X L XREF=BE                                                                
+232U  cL J$log| {Ift}=5.2 in {+232}Np |e decay suggests an allowed |e           
+232U 2cL transition, thus J|p=3+,4+,5+. 327.3|g to 2+ suggests J|p|<4.          
+232U  DL J         low log| {Ift} in {+232}Np |e decay suggests no parity       
+232U 2DL change. |g deexcitation suggests 2+ or 3+; however, if the 1193.9|g is 
+232U 3DL misplaced J|p=4+ is also possible. If {+232}Np is indeed 4+, then 2+   
+232U 4DL is excluded by the log| {Ift}=5.17                                     
+232U  cL           2-neutron level from low log| {Ift} in {+232}Np |e decay;    
+232U 2cL possible configuration=((|n 5/2[633])(|n 3/2[631])) resulting in       
+232U 3cL J|p=4+ (suggesting that the 1193.9|g is misplaced). It compares with   
+232U 4cL log|{Ift}'s|?5.3 for analogous transitions in the decays of {+233}Np   
+232U 5cL and {+235}Pu (|p 5/2[642]) to (|n 5/2[633]). No other log| {Ift}'s in  
+232U xcL the actinide region are that low.                                      
+232U   G 143.4     5  0.8    2  [E1]                    .22                 Q   
+232U   G 223.6     4  4.3    3  [E2]                    .51                 Q   
+232U   G 282.0     4  38     2  [E2]                    0.23                Q   
+232U   G 327.3     3  100       [E2]                   0.148                Q   
+232U   G 1037.4    5  6.3    4                                              Q   
+232U   G 1146.3    5  0.7    1                                              Q   
+232U   G 1193.9    6  0.7    2                                              Q  ?
+232U   L   1211.3  3   3-                                                   I   
+232U X L XREF=AE                                                                
+232U  DL J         E1 to 2+,4+                                                  
+232U  cL J$1054.5|g E1 to 4+, 1164.5|g E1 to 2+.                                
+232U   G 1054.5    3  100    6  E1                     0.00342              K   
+232U   G 1164.5    5  23     4  E1                     0.00289              K   
+232U   L 1227                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1277.2     4 0+                                                    X   
+232U  cL J         L=0 in {+234}U(p,t)                                          
+232U X L XREF=E                                                                 
+232U   L 1301                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1349                                                               X   
+232U X L XREF=E                                                                 
+232U   L   1390.9   6 11-                                                   B   
+232U X L XREF=DE                                                                
+232U   G 585.0     5  100                                                   N   
+232U   L   1434.3   510+                                                    D   
+232U X L XREF=DE                                                                
+232U  cL J$628.4|g E0 to 10+                                                    
+232U   G 628.4     4            E0                              100         N   
+232U   L 1438                                                               X   
+232U X L XREF=E                                                                 
+232U   L   1453.8  3  14+                                                   A   
+232U X L XREF=D                                                                 
+232U  cL J$342.2|g E2 to 12+                                                    
+232U   G 342.2     2 100        E2                      0.1297              N   
+232U   L 1482.0    4  0+                                                    X   
+232U X L XREF=E                                                                 
+232U  cL J         L=0 in {+234}U(p,t)                                          
+232U   L 1489                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1520                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1569.0    4  0+                                                    X   
+232U X L XREF=E                                                                 
+232U  cL J         L=0 in {+234}U(p,t)                                          
+232U   L 1600                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1646      5                                                            
+232U X L XREF=E                                                                 
+232U   L 1746                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1772                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1797.0     4 0+                                                    X   
+232U X L XREF=E                                                                 
+232U  cL J         L=0 in {+234}U(p,t)                                          
+232U   L 1822.1     4 0+                                                    X   
+232U X L XREF=E                                                                 
+232U  cL J         L=0 in {+234}U(p,t)                                          
+232U   L   1828.2   4 16+                                                   A   
+232U X L XREF=D                                                                 
+232U  cL J$374.4|g E2 to 14+                                                    
+232U   G 374.4     2  100       E2                      0.1007              N   
+232U   L 1861.5    4  0+                                                    X   
+232U X L XREF=E                                                                 
+232U  cL J         L=0 in {+234}U(p,t)                                          
+232U   L 1872                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1931.8    4  0+                                                    X   
+232U X L XREF=E                                                                 
+232U  cL J         L=0 in {+234}U(p,t)                                          
+232U   L 1972                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1979                                                               X   
+232U X L XREF=E                                                                 
+232U   L 1998                                                               X   
+232U X L XREF=E                                                                 
+232U   L 2023.2    1 (15-)                                                  B   
+232U X L XREF=D                                                                 
+232U   G 569.4        100       [E1]                                        N   
+232U   L 2043                                                               X   
+232U X L XREF=E                                                                 
+232U   L 2061                                                               X   
+232U X L XREF=E                                                                 
+232U   L 2072                                                               X   
+232U X L XREF=E                                                                 
+232U   L 2147                                                               X   
+232U X L XREF=E                                                                 
+232U   L 2172                                                               X   
+232U X L XREF=E                                                                 
+232U   L 2204                                                               X   
+232U X L XREF=E                                                                 
+232U   L   2231.6   6 18+                                                   A   
+232U X L XREF=DE                                                                
+232U  cL J$403.4|g E2 to 16+                                                    
+232U   G 403.4     5 100        E2                                          N   
+232U   L 2284                                                               X   
+232U X L XREF=E                                                                 
+232U   L 2333                                                               X   
+232U X L XREF=E                                                                 
+232U   L   2659.8   9 (20+)                                                 A   
+232U X L XREF=D                                                                 
+232U  cL J$428.2|g (E2) to 18+                                                  
+232U   G 428.2     6  100       (E2)                                        N   

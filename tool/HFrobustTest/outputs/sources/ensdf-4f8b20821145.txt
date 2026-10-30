@@ -1,0 +1,173 @@
+247BK    ADOPTED LEVELS, GAMMAS                                  15NDS    201503
+247BK  H TYP=FUL$AUT=C. D. NESARAJA$CIT=NDS 125, 395 (2015)$CUT=31-Mar-2014$    
+247BK  Q -613      166550    604417    5 5890    5     2012WA38                 
+247BK c                                                                         
+247BK c  Identification:                                                        
+247BK c  1965Mi08: {+247}Bk produced by irradiating {+246}Cm sample with He     
+247BK2c  ions from the Argonne 150-cm cyclotron. It was then followed by        
+247BK3c  chemical purification and mass spectrometric measurements. Half-life   
+247BK4c  was measured.                                                          
+247BK c  1956Ch77: {+244,245,246}Cm bombardment by 28-MeV He ions.              
+247BK2c  Bk was chemically separated from the decay of {+247}Cf                 
+247BK c                                                                         
+247BK c  Theoretical and Systematical studies:                                  
+247BK c  2013Ni13,2012Ni16: |a decay T{-1/2} for transitions from ground-state  
+247BK2c  to favored rotational bands using multichannel cluster model (MCCM)    
+247BK c  2012Sa05: Partial T{-1/2}, |a branching ratio to individual residual   
+247BK2c  states using Coulomb and proximity potential model for deformed nuclei 
+247BK3c  (CPPMDN).                                                              
+247BK c  2011Zh36: Systematic analysis of |a decay to members of favored bands  
+247BK2c  using the Geiger-Nutall law. Calculated the partial half-lives         
+247BK c  2010Ni02: Systematics and calculations of T{-1/2} and relative         
+247BK2c  intensities of |a decay within the generalized density-dependent       
+247BK3c  cluster model.                                                         
+247BK c  2004Pa40: Calculated deformation parameters and the proton             
+247BK2c  one-quasiparticle states of heaviest nuclei using the                  
+247BK3c  macroscopic-microscopic approach                                       
+247BK c  2003Re14: Calculated binding energy and Q|a and ground-state           
+247BK2c  deformations                                                           
+247BK2c  2002Du16: Calculated partial half-lives for |a and cluster decays      
+247BK c  1997Mo25: Calculated ground-state binding energy, proton and           
+247BK2c  neutron pairing gaps, neutron and proton separation energies, Q values 
+247BK3c  and partial half-lives for |a and |b decays                            
+247BK c  1995Mo29, 1980Ho32: Calculated ground-state masses and nuclear         
+247BK2c  ground-state deformations                                              
+247BK c  1993Bu09: Calculated partial |a decay half-life, |a branching, and     
+247BK2c  nuclear radius using the cluster model predictions                     
+247BK c  1985Lo17: Calculation of spontaneous fission half-life of              
+247BK2c  ground-state.                                                          
+247BK c  1981Mo24: Calculated ground-state electric multipole moments Q{-2},    
+247BK2c  Q{-4} and masses                                                       
+247BK c  1980Ho32: Calculated fission-barrier heights, deformation and energy   
+247BK2c  at saddle-point were                                                   
+247BK c                                                                         
+247BK cG E$From {+247}Cf |e decay.                                              
+247BK cG RI$Relative photon intensities de-exciting each level, as              
+247BK2cG measured in {+247}Cf |e decay.                                         
+247BK cG M$From ce data taken in {+247}Cf |e decay.                             
+247BK cG E(S)$Transition is expected but unobserved.                            
+247BK cL J$Spin and parity assignments from (|a,t) were based on L-values       
+247BK2cL deduced from angular distributions and on relative peak intensities.   
+247BK3cL Assignments from (p,t) were based on comparison of experimental        
+247BK4cL spectroscopic factors with calculated ones.                            
+247BK CL BAND(A)$3/2[521] BAND.                                                 
+247BK CL BAND(B)$7/2[633] BAND.                                                 
+247BK CL BAND(C)$5/2[642] BAND.                                                 
+247BK CL BAND(D)$5/2[523] BAND.                                                 
+247BK CL BAND(E)$1/2[400] BAND.                                                 
+247BK2cL Assignments to this band were made by 1979Ah03 on the bases of         
+247BK3cL spectroscopic factors for (|a,t) reaction and the systematics of       
+247BK4cL orbitals.                                                              
+247BK CL BAND(F)$1/2[521] BAND.                                                 
+247BK2cL Assignments to this band were made by 1979Ah03 from (|a,t) data.       
+247BK CL BAND(G)$7/2[514] BAND.                                                 
+247BK2cL Assignment was proposed by 1979Ah03 from (|a,t) data and from          
+247BK3cL systematics of orbitals.                                               
+247BK CL BAND(H)$9/2[624] BAND?.                                                
+247BK2cL The assignment was suggested by 1979Ah03 from comparison of (|a,t)     
+247BK3cL spectroscopic factor with that for 13/2+, 9/2[624] state in            
+247BK4cL {+251}Es (1978Ah02).                                                   
+247BK  XE247CF EC DECAY                                                         
+247BK  XA251ES A DECAY                                                          
+247BK  XT246CM(A,T) E=28, 29 MEV                                                
+247BK  XP249BK(P,T) E=15 MEV                                                    
+247BK PN                                                                     6  
+247BK  L 0.0          3/2-             1380 Y    250                        A   
+247BK2 L %A LE 100                                                              
+247BK cL $A calculated half-life of |?10000 y for spontaneous fission           
+247BK2cL (1985Lo17) yields %SF|?12.                                             
+247BKX L XREF=AET                                                               
+247BK cL T$From 1965Mi08                                                        
+247BK cL J$Favored |a decay from g.s level in {+251}Es                          
+247BK  L 29.88     11 (5/2-)                                                A   
+247BKX L XREF=AET                                                               
+247BK cL J$Band member; |g to 3/2- g.s. level                                   
+247BK  G 29.9      2 100                                                        
+247BK  L 40.81     11  7/2+                                                 B   
+247BKX L XREF=AEP                                                               
+247BK cL J$L=0 in {+249}Bk(p,t) reaction [J|p({+249}Bk)=7/2+].                  
+247BK  G 10.9                                                               S  S
+247BK  G 40.8      3                                                            
+247BK  L 71.60     13 (7/2-)                                                A   
+247BKX L XREF=AET                                                               
+247BK cL J$Band member in (|a,t) data                                           
+247BK  L 82.81     23 (9/2)+                                                B   
+247BKX L XREF=AEP                                                               
+247BK cL J$L=2 in {+249}Bk(p,t) reaction [J|p({+249}Bk)=7/2+];                  
+247BK2cL log{Ift}=6.05 for |e feeding from (7/2+) {+247}Cf                      
+247BK  G 42.0      2 100                                                        
+247BK  L 125.5      4 (9/2-)                                                A   
+247BKX L XREF=ET                                                                
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 137       5 (11/2+)                                                B   
+247BKX L XREF=P                                                                 
+247BK cL J$From band member in (p,t) data                                       
+247BK  L 196       3  (13/2+)                                               B   
+247BKX L XREF=PT                                                                
+247BK cL J$From band member in (|a,t) and (p,t) data                            
+247BK  L 265       2  (15/2+)                                               B   
+247BKX L XREF=P                                                                 
+247BK cL J$From band member in (p,t) data                                       
+247BK  L 334.92    12 (5/2)+                                                C   
+247BKX L XREF=E                                                                 
+247BK cL J$M1 294.1|g to 7/2+ level; 334.9|g to (3/2-) level, 305.2|g to        
+247BK2cL (5/2-) level                                                           
+247BK  G 294.1     1 100     8 M1                      1.651                    
+247BK  G 305.2     3 0.91    14                                                 
+247BK  G 334.9     2 2.9     3                                                  
+247BK  L 378.1     6  (7/2+)                                                C  ?
+247BKX L XREF=E                                                                 
+247BK cL J$337.3|g to 7/2+ level                                                
+247BK2cL 334.9-keV                                                              
+247BK  G 337.3     5 100                                                        
+247BK  L 447.80     9(5/2-)                                                 D   
+247BKX L XREF=E                                                                 
+247BK cL J$(E1)407.0|g to 7/2+ level; M1+E2 447.8|g to (3/2-) level             
+247BK  G 376.2     1 12.9    13                                                 
+247BK  G 407.0     1 35      4  (E1)                   0.0238                   
+247BK  G 417.9     1 62      5  M1+E2     0.68   24    0.494  10            *   
+247BK  G 447.8     1 100     7  M1+E2     1.0    2     0.319  7                 
+247BK  L 487       3  (1/2+)                                                E   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 489.4      3 (7/2-)                                                D   
+247BKX L XREF=E                                                                 
+247BK cL J$363.9|g to (9/2-) level,  459.5|g to (5/2-)                          
+247BK2cL from 447.8-keV level                                                   
+247BK  G 363.9     2  100    19                                                 
+247BK  G 417.9                                                              *   
+247BK  G 459.5     3  100    15                                                 
+247BK  L 518       5  (3/2+)                                                E   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 541       3  (9/2-)                                                D   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 587       4  (13/2+)                                               C   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 704       4  (1/2-)                                                F   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 743       3  (5/2-)                                                F   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 815       4  (7/2-)                                                F   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK cL J$(|a,t) data                                                          
+247BK  L 828       5  (9/2-)                                                F   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 904       3  (9/2-)                                                G   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 983       3                                                            
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 1149      4                                                            
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      
+247BK  L 1166      4  (13/2+)                                               H   
+247BKX L XREF=T                                                                 
+247BK cL J$From band member in (|a,t) data                                      

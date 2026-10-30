@@ -1,0 +1,29 @@
+240CM    ADOPTED LEVELS                                          25NDS    202511
+240CM  H TYP=FUL$AUT=C. Morse$CIT=NDS 206, 359 (2025)$CUT=27-Sep-2024$          
+240CM  Q -3940     SY 7.49E+315 4955.1 23 6397.8  6    2021Wa16                 
+240CM cQ $|DQ(|b{+-})=150 (2021Wa16)                                            
+240CM cQ $S(2n)=13864 {I12},  S(2p)=9016.9 {I17} (2021Wa16)                     
+240CM cL E(A)$Using the charge-plunger technique and invoking the rotational    
+240CM2cL model, 1978Ul01 determined a quadrupole moment of 12.0 b {I5} for the  
+240CM3cL ground-state rotational band.                                          
+240CM  XA244CF A DECAY                                                          
+240CM  L 0            0+                30.4 D    37                        A   
+240CMX L XREF=A                                                                 
+240CM2 L %SF=4E-6 1$%A GT 99.5$%EC LT 0.5 (1952Hi11)                            
+240CM cL %SF$Calculated from T{-1/2}(SF)=1.9|*10{+6} yr {I4} (1952Gh27)         
+240CM cL T$From 2008Qi03.  Others: 26.8 d (1949Se01), 28 d (1967Ba42).          
+240CM  L 40        6  (2+)              154 PS                              A   
+240CMX L XREF=A                                                                 
+240CM cL J$systematics of even-even nuclides                                    
+240CM cL T$1978Ul01 determine Q{-0} for this nucleus using the charge-plunger   
+240CM2cL technique, from which they infer the half-life for a single converted  
+240CM3cL transition within the rotational model.  The evaluator has assumed     
+240CM4cL that this is the same state populated by |a decay from {+244}Cf.       
+240CM cL E$From difference of Q{-|a} values for decay to the ground and         
+240CM2cL first-excited states.                                                  
+240CM  L X                              10 PS     3                             
+240CM2 L %SF LE 100                                                             
+240CM cL T$From 1976Sl01.                                                       
+240CM  L Y                              55 NS     12                            
+240CM2 L %SF LE 100                                                             
+240CM cL T$From 1976Sl01.                                                       

@@ -1,0 +1,79 @@
+243CF    ADOPTED LEVELS, GAMMAS                                  14NDS    201408
+243CF  H TYP=FUL$AUT=C.D. Nesaraja, E.A. McCutchan$CIT=NDS 121, 695 (2014)$     
+243CF2 H CUT=30-Sep-2013$                                                       
+243CF  Q -3757     SY 6467   SY 4033   SY 7418    SY   2012WA38                 
+243CF cQ $|DQ(|b{+-})=236; |DS(n)=115; |DS(p)=230; |DQ(|a)=100 (2012Wa38)       
+243CF cQ $S(2n)=14478 syst {i201}; S(2p)=7290 syst {i114} (2012Wa38)            
+243CF c                                                                         
+243CF c  First identification: 1967Fi04 using {+242}Cm,{+244}Cm({+3}He,xn)      
+243CF2c  followed by chemical separation and 1967Si08 using                     
+243CF3c  {+235}U,{+236}U({+12}C,xn) with excitation function.                   
+243CF c                                                                         
+243CF c  Theoretical calculations:                                              
+243CF c                                                                         
+243CF c  2013Zd01: T{-1/2} for |a decay calculated with phenomenological model  
+243CF2c  based on Gamow theory with WKB approximation for Coulomb barrier       
+243CF3c  penetration.                                                           
+243CF c  2012Zh01: |b{-2}, |b{-4}, moment of inertia, alignments calculated     
+243CF2c  with a particle conserving method based on the cranked shell model.    
+243CF c  2012Po01: calculated |a decay T{-1/2} with a universal decay law       
+243CF2c  using |a-like R matrix theory.                                         
+243CF c  2011Ad15: calculations of one-quasi-particle states                    
+243CF c  2009Sa25: calculated Q(|a) and T{-1/2} within the Coulomb and          
+243CF2c  Proximity Potential model.                                             
+243CF c  2008Th05: calculated E(K x-ray) using a Dirac Hartree Fock model.      
+243CF c  2005Pa73: single quasi-particle energies calculated in a               
+243CF2c  macroscopic-microscopic model.                                         
+243CF c  2005Si10,2005Si26: calculated |s and fission ratio for                 
+243CF2c  {+236}U({+12}C,5n) using a statistical model with shell effects.       
+243CF c  1994EfZW: calculation of spontaneous fission partial T{-1/2}.          
+243CF c  1983Ga20: calculated mass excess differences with a                    
+243CF2c  macroscopic-microscopic model.                                         
+243CF cG E$From {+247}Fm |a decay (31 s)                                        
+243CF cG M$From |a(K)exp measured in {+247}Fm |a decay (31 s)                   
+243CF DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+243CF cL E(a)$Proposed band based on 1/2+[631] Nilsson level.                   
+243CF cL E(b)$Proposed band based on 5/2+[622] Nilsson level.                   
+243CF cL E(c)$Proposed bandhead of 7/2+[624] Nilsson level.                     
+243CF  XA247FM A DECAY (31 S)                                                   
+243CF  XB247FM A DECAY (5.1 S)                                                  
+243CF  L 0.0          (1/2+)            10.7 M    5                         a   
+243CFX L XREF=AB                                                                
+243CF2 L %EC+%B+ AP 86$%A AP 14                                                 
+243CF cL T$weighted average of 12.5 min {I10} (1967Fi04) and 10.3 min {I5}      
+243CF2cL (1967Si08).                                                            
+243CF cL J$unhindered |a decay from {+247}Fm 5.1-sec isomeric level and         
+243CF2cL systematics of N=145 isotones suggests J|p=1/2+ with configuration     
+243CF3cL 1/2+[631].                                                             
+243CF cL %EC+%B+,%A$1967Si08 estimate (|a+|e)/7060|a=10 {I2} from measured      
+243CF2cL cross section for 7060|a of {+243}Cf and calculated maximum cross      
+243CF3cL sections for {+235}U({+12}C,4n), {+236}U({+12}C,6n) reactions. From    
+243CF4cL relative intensities of {+243}Cf |a's, 7060|a/7170|a|?2.5, branchings  
+243CF5cL were calculated to be |a/(|a+|e)|?0.14, |e/(|a+|e)|?0.86.              
+243CF  L 7         AP (3/2+)                                                a   
+243CFX L XREF=A                                                                 
+243CF cL E$from systematics of 3/2+ to 1/2+ spacings in the 1/2+[631] band,     
+243CF2cL E=7 keV {I2} is extrapolated by 2006He27.                              
+243CF  L 67        AP (5/2+)                                                a   
+243CFX L XREF=A                                                                 
+243CF cL J$from band assignment                                                 
+243CF  L 149       AP (5/2+)                                                b   
+243CFX L XREF=A                                                                 
+243CF cL J$from systematics of the energy difference between the 7/2+ member    
+243CF2cL and the 5/2+ bandhead of the 5/2+[622] Nisson level.                   
+243CF  G 82.2      2                                                            
+243CF  G 141.8     2            (M1)                    14.00                   
+243CFS G  KC=10.88 16$LC=2.33 4$MC=0.573 9                                      
+243CFS G  NC=0.1589 24$OC=0.0412 6$PC=0.00797 12$QC=0.000469 7                  
+243CF  L 193       AP (7/2+)                                                b   
+243CFX L XREF=A                                                                 
+243CF cL J$from band assignment                                                 
+243CF  L 315       AP (7/2+)                                                c   
+243CFX L XREF=A                                                                 
+243CF cL J$unhindered |a decay from {+247}Fm ground state with J|p=(7/2+) and   
+243CF2cL configuration 7/2+[624]; the same J|p and configuration are suggested  
+243CF  G 121.8     2                                                            
+243CF  G 166.6     2            (M1)                    8.89                    
+243CFF G FL=149                                                                 
+243CFS G  KC=6.93 10$LC=1.471 22$MC=0.362 6                                     
+243CFS G  NC=0.1002 15$OC=0.0260 4$PC=0.00502 8$QC=0.000295 5                   

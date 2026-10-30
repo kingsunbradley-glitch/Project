@@ -1,0 +1,166 @@
+221AC    ADOPTED LEVELS, GAMMAS                                  07NDS    200705
+221AC  H TYP=FUL$AUT=Ashok Jain, Sukhjeet Singh, Suresh Kumar, Jagdish Tuli$    
+221AC2 H CIT=NDS 108, 883 (2007)$CUT=15-Jan-2007$                               
+221AC  Q -2.41E3   6 7.29E3  5 3.04E3  6 7.78E3  5     2012WA38                 
+221AC cQ $Note: Current evaluation has used the following Q record              
+221AC2cQ -2410     50 {I7300}   50 {I3040}   50 {I7780}   50    2003Au03        
+221AC c  Assignment: parent {+217}Fr (1951Ke53 and 1968Ha14);                   
+221AC2c  excitation functions and cross bombardments (1970Bo13).                
+221AC c  Theory, Calculations:                                                  
+221AC c  1980Ji02: Deduced fission barrier from {+209}Bi({+12}C,F) reaction.    
+221AC c  2006Ho03: Angular distribution and correlation of two alphas           
+221AC2c  emitted in {+18}O on {+207,208}Pb targets gated on the 143,398,463     
+221AC3c  gammas of {+221}Ac.                                                    
+221AC c  1994Sh46: Interpretation of data in terms of reflection                
+221AC2c  symmetry breaking.                                                     
+221AC c  1991Cw01: Calculated levels and reviewed data.                         
+221AC CL BAND(A)$ 9/2+ BAND                                                     
+221AC CL BAND(B)$ 3/2- BAND                                                     
+221AC CL BAND(C)$ 5/2- BAND, s=-i                                               
+221AC CL BAND(D)$ 11/2+ BAND, s=-i                                              
+221AC cG M$From ce (1994Ai01)                                                   
+221AC cG RI$Relative photon branching from each level.                          
+221AC  XA225PA A DECAY                                                          
+221AC  XB209BI(14C,2NG)                                                         
+221AC cL J$From 1994Ai01 in {+209}Bi({+14}C,2n|g). J|p                          
+221AC2cL derived by the authors from theory for odd-A actinides using           
+221AC2cL reflection asymmetric mean-field approach. Excited-state assignments   
+221AC3cL are based on assumption of 3/2- and 5/2- for the g.s. and the 9.0-keV  
+221AC4cL level, respectively.                                                   
+221AC  L  0.0        (3/2-)              52 MS   2                          B   
+221ACX L XREF=AB                                                                
+221AC2 L  %A=100                                                                
+221AC cL J         from calculated level systematics                            
+221AC cL T         from 1970Bo13.                                               
+221AC  L        9.0 5   (5/2-)                                              C   
+221ACX L XREF=B                                                                 
+221AC cL E$Deduced from the level scheme                                        
+221AC  G        9.0 5                                                          S
+221AC  L  52       15                                                          ?
+221ACX L XREF=A(?)                                                              
+221AC  L      148.4 3   (7/2-)                                              B   
+221ACX L XREF=B                                                                 
+221AC  G   139.4                  M1                                            
+221AC  G      148.4 3             (E2)                                          
+221AC  L      201.2 4   (9/2-)                                              C   
+221ACX L XREF=B                                                                 
+221AC  G       52.8 5             M1                                            
+221AC cG E$Deduced from the level scheme                                        
+221AC  G      192.2 3             E2                                            
+221AC  L      321.1 4   (9/2+)                                              A   
+221ACX L XREF=B                                                                 
+221AC  G      172.7 3             E1                                            
+221AC  L      380.7 4   (11/2-)                                             B   
+221ACX L XREF=B                                                                 
+221AC  G       59.6 3      30 8   E1                                            
+221AC  G      179.5 3      57LT   M1                                            
+221AC  G      232.3 3     100 8   E2                                            
+221AC  L      413.8 5   (11/2+)                                             D   
+221ACX L XREF=B                                                                 
+221AC  G      212.5 3     100                                                   
+221AC  L      459.5 5   (13/2-)                                             C   
+221ACX L XREF=B                                                                 
+221AC  G       45.8 3                                                           
+221AC  G     78.8                 M1                                            
+221AC  G      258.3 3             E2                                            
+221AC  L      523.2 4   (13/2+)                                             A   
+221ACX L XREF=B                                                                 
+221AC  G      142.5 3     100 2   E1                                            
+221AC  G      202.2 3      11 2                                                 
+221AC  L      639.1 5   (15/2+)                                             D   
+221ACX L XREF=B                                                                 
+221AC  G      179.6 3                                                           
+221AC  G      225.2 3                                                           
+221AC  L      663.1 4   (15/2-)                                             B   
+221ACX L XREF=B                                                                 
+221AC  G      139.9 3     100LT   E1                                            
+221AC  G      203.7 3      29 7   M1                                            
+221AC cG           |a(exp)>2.0                                                  
+221AC  G      282.4 3      97 7   E2                                            
+221AC  L      762.8 5   (17/2-)                                             C   
+221ACX L XREF=B                                                                 
+221AC  G      123.7 3     100 5                                                 
+221AC  G      303.3 3      59 5                                                 
+221AC  L      789.9 4   (17/2+)                                             A   
+221ACX L XREF=B                                                                 
+221AC  G      126.7 3     100 4                                                 
+221AC  G      150.8 3       8 3                                                 
+221AC  G      266.7 3      24 3                                                 
+221AC  L      926.4 5   (19/2+)                                             D   
+221ACX L XREF=B                                                                 
+221AC  G      163.6 3     100 2                                                 
+221AC  G      287.2 3      15 2                                                 
+221AC  L      980.0 5   (19/2-)                                             B   
+221ACX L XREF=B                                                                 
+221AC  G      190.1 3     100 6                                                 
+221AC  G      317.0 3      18 6                                                 
+221AC  L     1097.0 5   (21/2-)                                             C   
+221ACX L XREF=B                                                                 
+221AC  G      170.7 3     100 6                                                 
+221AC  G      334.1 3      39 6                                                 
+221AC  L     1106.0 5   (21/2+)                                             A   
+221ACX L XREF=B                                                                 
+221AC  G      126.0 3     100 6                                                 
+221AC  G      316.2 3      52 6                                                 
+221AC  L     1261.4 5   (23/2+)                                             D   
+221ACX L XREF=B                                                                 
+221AC  G      164.3 3     100 5                                                 
+221AC  G      334.9 3      37 5                                                 
+221AC  L     1324.8 5   (23/2-)                                             B   
+221ACX L XREF=B                                                                 
+221AC  G      218.8 3     100 5                                                 
+221AC  G      344.9 3      18 5                                                 
+221AC  L     1457.2 5   (25/2-)                                             C   
+221ACX L XREF=B                                                                 
+221AC  G      195.8 3     100 5                                                 
+221AC  G      360.2 3      49 5                                                 
+221AC  L     1459.7 5   (25/2+)                                             A   
+221ACX L XREF=B                                                                 
+221AC  G      134.8 3                                                           
+221AC  G      353.7 3                                                           
+221AC  L     1631.4 5   (27/2+)                                             D   
+221ACX L XREF=B                                                                 
+221AC  G      174.1 3     100 5                                                 
+221AC  G      369.9 3      64 5                                                 
+221AC  L     1697.1 5   (27/2-)                                             B   
+221ACX L XREF=B                                                                 
+221AC  G      237.5 3                                                           
+221AC  G      372.4 3                                                           
+221AC  L     1843.6 5   (29/2+)                                             A   
+221ACX L XREF=B                                                                 
+221AC  G      146.4 3                                                           
+221AC  G      384.0 3                                                           
+221AC  L     1843.8 5   (29/2-)                                             C   
+221ACX L XREF=B                                                                 
+221AC  G      212.3 3     100 6                                                 
+221AC  G      386.6 3      49 6                                                 
+221AC  L     2029.8 5   (31/2+)                                             D   
+221ACX L XREF=B                                                                 
+221AC  G      186.3 3     100 9                                                 
+221ACF G FL=1843.8                                                              
+221AC  G      398.4 3      64 9                                                 
+221AC  L     2095.3 5   (31/2-)                                             B   
+221ACX L XREF=B                                                                 
+221AC  G      251.4 3                                                           
+221ACF G FL=1843.6                                                              
+221AC  G      398.3 3                                                           
+221AC  L     2255.3 6   (33/2-)                                             C   
+221ACX L XREF=B                                                                 
+221AC  G      225.4 3                                                           
+221AC  G      411.5 3                                                           
+221ACF G FL=1843.8                                                              
+221AC  L     2255.4 5   (33/2+)                                             A   
+221ACX L XREF=B                                                                 
+221AC  G      160.3 3                                                           
+221AC  G      411.7 3                                                           
+221ACF G FL=1843.6                                                              
+221AC  L     2454.2 6   (35/2+)                                             D   
+221ACX L XREF=B                                                                 
+221AC  G      198.8 3                                                           
+221ACF G FL=2255.3                                                              
+221AC  G      425.2 8                                                           
+221AC  L     2514.4 6   (35/2-)                                             B   
+221ACX L XREF=B                                                                 
+221AC  G      259.0 3                                                           
+221ACF G FL=2255.4                                                              
+221AC  G      419.1 3                                                           

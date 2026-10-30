@@ -1,0 +1,137 @@
+218TH    ADOPTED LEVELS, GAMMAS                                  ENSDF    202106
+218TH  H TYP=FUL$AUT=Balraj Singh$CIT=ENSDF$CUT=10-Jun-2021                     
+218TH  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Murray Martin et al.,$         
+218TH2 H CIT=NDS 160, 405 (2019)$CUT=30-Oct-2019$                               
+218TH  Q -6283     21 7910   15 3625   15 9849   9     2021WA16                 
+218TH cQ $Q(|e)=1520 {I60}, S(2n)=14074 {I15}, S(2p)=5503 {I13} (2021Wa16)      
+218TH d  Oct 30, 2019 (2019Si39) evaluation of {+218}Th by B. Singh,            
+218TH2d  R.L. Canavan, A. Olacel, and A. Singh at the IAEA-ICTP workshop in 2018
+218TH c  {+218}Th identified by 1973Hi06 in {+209}Bi({+14}N,5n) reaction        
+218TH2c  and by 1973Ha32 in {+206}Pb({+16}O,4n), the two independent studies,   
+218TH3c  1973Hi06 published July 23, 1973, and 1973Ha32 on July 30, 1973.       
+218TH c  Search for long-lived isomers: 2008La14 (no evidence found),           
+218TH2c  2007Ma57 (claimed evidence of presence of isomers)                     
+218TH d  Yield measurements: 2013Du17, 2011Ka30, 2005Li17                       
+218TH c  Theory references: consult NSR database (www.nndc.bnl.gov/nsr/)        
+218TH2c  for 64 primary references for calculations of half-lives               
+218TH3c  of radioactive decays, and 23 for nuclear structure.                   
+218TH d  Calculations of potential energy surface and equilibrium               
+218TH2d  deformations: 1978An17, 1988So08.                                      
+218TH d  Structure calculations: 2002Ts01, 1997Wu08, 1995Po11, 1988Sh18,        
+218TH2d  1988So08, 1983Da28, 1978An17                                           
+218TH d  Calculated half-life for |a decay with polarization: 1999Go26          
+218TH d  Calculated fission |s: 1997Gi11                                        
+218TH d  Calculated half-life for {+14}C emission: 1986Ir01                     
+218TH d  Calculated T{-1/2} for {+5}He emission: 1984Po11                       
+218TH d  Systematics of |a decay to 2+ vibrational states: 2005Pe08             
+218TH d  Analysis and syst of |a decay data: 1987Po06                           
+218TH cG E$From {+174}Yb({+48}Ca,4n|g). Values in {+206}Pb({+16}O,4n|g),        
+218TH2cG {+209}Bi({+14}N,5n|g), listed under comments, seem consistently        
+218TH3cG higher by about a keV                                                  
+218TH cG M(x)$From K/L ratios in ce data in {+209}Bi({+14}N,5n|g),              
+218TH2cG supplemented by |DJ=2, quadrupole from |g-ray angular distributions in 
+218TH3cG {+174}Yb({+48}Ca,4n|g), and by RUL for E2 and M2, when level half-lives
+218TH4cG are known                                                              
+218TH cG M(y)$From |g-ray angular distributions in {+174}Yb({+48}Ca,4n|g),      
+218TH2cG with mult=(Q) and (D), most likely (E2) and (E1), respectively.        
+218TH cG M(z)$From |g-ray angular distribution in {+174}Yb({+48}Ca,4n|g), and   
+218TH2cG intensity balance arguments                                            
+218TH cL E$From E|g data                                                        
+218TH cL J$In addition to the arguments given, the assignments are supported    
+218TH2cL from shell-model calculations in 2020Od01                              
+218TH CL BAND(A)$Yrast (g.s.) band                                              
+218TH CL BAND(B)$Band based on (11-)                                            
+218TH  XA222U A DECAY (4.7 US)                                                  
+218TH  XB174YB(48CA,4NG)                                                        
+218TH  XC206PB(16O,4NG),209BI(14N,5NG)                                          
+218TH PN                                                                     6  
+218TH  L 0.0          0+               122 NS    5                          A   
+218THX L XREF=ABC                                                               
+218TH2 L %A=100                                                                 
+218TH cL $Only the |a decay has been observed. Theoretical partial T{-1/2}>100 s
+218TH2cL for {+218}Th |e+|b{++} decay (2019Mo01) gives %|e+%|b{++}<1.2|*10{+-7} 
+218TH cL T$from decay curve for g.s. to g.s. 9666|a. Weighted average (NRM) of  
+218TH2cL 122 ns {I8} (1973Ha32); 96 ns {I7} (1973No09,1973Hi06); 125 ns {I5}    
+218TH3cL (1982Ch29); 0.16 |ms {I4} (2015Kh09); and 169 ns {I+73-40} (2018Br13). 
+218TH4cL Regular weighted average is 117 ns {I7}, with reduced |h{+2} of 3.7 as 
+218TH5cL compared to critical |h{+2}=2.4. Weighted average is 125 ns {I5}       
+218TH6cL if the lowest value of 96 ns from 1973Hi06 is omitted.                 
+218TH cL $Configuration=|p(h{-9/2}{+6}f{-7/2}{+2})~#|ng{-9/2}{+2} with 14%      
+218TH2cL probability (2020Od01)                                                 
+218TH  L 689.0     3  2+                                                    A   
+218THX L XREF=BC                                                                
+218TH cL J$E2 |g to 0+                                                          
+218TH cL $Configuration=|p(h{-9/2}{+6}f{-7/2}{+2})~#|ng{-9/2}{+2} with 25%      
+218TH2cL probability (2020Od01)                                                 
+218TH  G 689.0     3  100      E2                      0.0209               x   
+218TH cG E$689.6 {I6} in ({+16}O,4n|g)                                          
+218TH  L 1078.0     6 (3-)                                                      
+218THX L XREF=BC(?)                                                             
+218TH cL J$|DJ=(1) |g to 2+                                                     
+218TH cL $Configuration=|ph{-9/2}{+8}~#|n(g{-9/2}{+1}j{-15/2}{+1}) with 26%     
+218TH2cL probability (2020Od01)                                                 
+218TH  G 388.9     6  100       (D)                                         y   
+218TH cG E$390.5 {I10} in ({+16}O,4n|g)                                         
+218TH  L 1192.3    5  4+                                                    A   
+218THX L XREF=BC                                                                
+218TH cL J$E2 |g to 2+                                                          
+218TH cL $Configuration=|p(h{-9/2}{+6}f{-7/2}{+2})~#|ng{-9/2}{+2} with 28%      
+218TH2cL probability (2020Od01)                                                 
+218TH  G 114.2     7  2.3    2  (D)                                         y   
+218TH cG E$from ({+48}Ca,4n|g) only                                             
+218TH  G 503.3     3  100.0  17 E2                     0.0420               x   
+218TH cG E$504.6 {I6} in ({+16}O,4n|g)                                          
+218TH  L 1560.8    6   6+                                                   A   
+218THX L XREF=BC                                                                
+218TH cL J$E2 |g to 4+, yrast band member                                       
+218TH cL $Configuration=|p(h{-9/2}{+6}f{-7/2}{+2})~#|ng{-9/2}{+2} with 28%      
+218TH2cL probability (2020Od01)                                                 
+218TH  G 368.5     3 100       E2                      0.093                x   
+218TH cG E$369.7 {I6} in ({+16}O,4n|g)                                          
+218TH  L 1761.7    7  8+               1.2 NS    2                          A   
+218THX L XREF=BC                                                                
+218TH cL T$from ce(t) in {+209}Bi({+14}N,5n|g)                                  
+218TH cL J$E2 |g to 6+, yrast band member                                       
+218TH cL $Configuration=|p(h{-9/2}{+6}f{-7/2}{+2})~#|ng{-9/2}{+2} with 28%      
+218TH2cL probability (2020Od01)                                                 
+218TH  G 200.9     4  100      E2                      0.648  11            x   
+218TH cG E$201.9 {I6} in ({+16}O,4n|g)                                          
+218THB G BE2W=11 2                                                              
+218TH  L 2099.5    9  10+              0.25 NS   15                         A   
+218THX L XREF=BC                                                                
+218TH cL T$from ce(t) in {+209}Bi({+14}N,5n|g)                                  
+218TH cL J$E2 |g to 8+, yrast band member                                       
+218TH cL $Configuration=|p(h{-9/2}{+6}f{-7/2}{+2})~#|n(i{-11/2}{+1}g{-9/2}{+1}  
+218TH2cL with 26% probability (2020Od01)                                        
+218TH  G 337.8     5  100      E2                      0.1187               x   
+218TH cG E$338.2 {I6} in ({+16}O,4n|g)                                          
+218THB G BE2W=6 +9-2                                                            
+218TH  L 2272.6    10 (11-)                                                 B   
+218THX L XREF=BC(?)                                                             
+218TH cL J$|DJ=(1), (E1) |g to 10+; shell-model prediction (2020Od01)           
+218TH cL $Configuration=|ph{-9/2}{+8}~#|n(g{-9/2}{+1}j{-15/2}{+1}) with 32%     
+218TH2cL probability (2020Od01)                                                 
+218TH  G 173.1     4  100       (E1)                   0.133  2             z   
+218TH cG E$173.3 {I6} in ({+16}O,4n|g)                                          
+218TH  L 2686.3    10 (13-)                                                 B   
+218THX L XREF=BC(?)                                                             
+218TH cL J$|DJ=(2) |g to (11-); band member; shell-model prediction (2020Od01)  
+218TH cL $Configuration=|p(h{-9/2}{+6}i{-13/2}{+2})~#|n(g{-9/2}{+1}j{-15/2}{+1})
+218TH2cL with 31% probability (2020Od01)                                        
+218TH  G 413.7     4  100       (Q)                                         y   
+218TH cG E$414.5 {I10} in ({+16}O,4n|g)                                         
+218TH  L 3160.0    12 (15-)                                                 B   
+218THX L XREF=B                                                                 
+218TH cL J$|DJ=(2) |g to (13-); band member; shell-model prediction (2020Od01)  
+218TH cL $Configuration=|p(h{-9/2}{+6}i{-13/2}{+2})~#|n(g{-9/2}{+1}j{-15/2}{+1})
+218TH2cL with 37% probability (2020Od01)                                        
+218TH  G 473.7     5  100       (Q)                                         y   
+218TH cG E$from ({+48}Ca,n|g) only                                              
+218TH  L 3306.7    13 (16+)                                                     
+218THX L XREF=B                                                                 
+218TH cL J$|DJ=1, (E1) transition to (15-); shell-model prediction (2020Od01)   
+218TH cL $Configuration=|p(h{-9/2}{+7}f{-7/2}{+1})~#|ng{-9/2}{+2} with 42%      
+218TH2cL probability (2020Od01)                                                 
+218TH  G 146.7     5  100       (E1)                   0.197  4             z   
+218TH cG E$from ({+48}Ca,n|g). An unplaced 146.9 {I6} |g was seen in            
+218TH2cG ({+16}O,4n|g)                                                          

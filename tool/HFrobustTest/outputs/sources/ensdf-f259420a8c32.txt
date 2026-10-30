@@ -1,0 +1,554 @@
+224AC    228PA A DECAY (19.5 H)        1994AH03,1993SH07,1958HI78ENSDF    202205
+224AC  H TYP=FUL$AUT=Balraj Singh, Sukhjeet Singh$CIT=ENSDF$CUT=08-Mar-2022$    
+224AC  H TYP=FUL$AUT=SUKHJEET SINGH, BALRAJ SINGH$CIT=NDS 130, 127 (2015)$      
+224AC2 H CUT=15-Oct-2015$                                                       
+224AC c  1994Ah03: {+228}Pa produced in {+232}Th(p,5n) at 45 MeV followed by    
+224AC2c  chemical separation. Measured E|a, I|a, E|g, I|g, ce, |a|g-, and       
+224AC3c  |a(x ray)-coin, |a|g|g-coin, |a(ce)-coin using Ge, LEPS and Si(Li)     
+224AC4c  detectors. Deduced levels, J, |p, conversion coefficients,             
+224AC5c  multipolarity, |a hindrance factors, octupole deformation              
+224AC c  1993Sh07 (also 1991Sh14,2004Sh25,2008Sh18): {+228}Pa produced in       
+224AC2c  {+232}Th(p,5n) at 200 MeV followed by chemical separation. Measured    
+224AC3c  E|a, I|a, E|g, I|g, ce, |a|g-, and |a(ce)-coin using Ge and Si(Li)     
+224AC4c  detectors. Deduced levels, J, |p, multipolarity, |a hindrance factors, 
+224AC5c  octupole deformation and reflection asymmetry. 2004Sh25 (also 2008Sh18)
+224AC6c  discuss differences in the level schemes, bands and interpretation     
+224AC7c  presented in 1993Sh07 and those in 1994Ah03                            
+224AC c  1958Hi78: {+228}Pa formed in {+230}Th(d,4n) reaction; measured E|a,    
+224AC2c  I|a, E|g. Deduced levels, hindrance factors.                           
+224AC c  Levels in {+224}Ac were first proposed in 1958Hi78 from |a decay       
+224AC2c  of {+228}Pa to levels in {+224}Ac. 1993Sh07 first observed |g rays     
+224AC3c  in singles and coincidence modes, and proposed a level scheme          
+224AC4c  incorporating 34 |g rays out of a total of 45 |g rays observed.        
+224AC5c  The authors interpreted level scheme in terms of parity-doublet        
+224AC6c  (or reflection asymmetric) structures composed of K|p=0-, 0+, 3+,      
+224AC7c  3-, (1+) and (1-) bands. 1994Ah03 investigated in detail |g, ce and    
+224AC8c  |a spectra in singles and coincidence modes using a much stronger      
+224AC9c  source than in 1993Sh07, and reported 86 |g rays with 73 |g rays       
+224ACAc  incorporated in a level scheme based essentially on coincidence        
+224ACBc  data. For most levels the authors assigned only the parities based     
+224ACCc  on gamma-ray multipolarities, but did not agree with K|p=0- and 0+     
+224ACDc  parity-doublet bands proposed by 1993Sh07. Although energies and       
+224ACEc  relative intensities of most |g rays reported in 1993Sh07 agreed       
+224ACFc  with those in 1994Ah03, yet there were several differences in |g-ray   
+224ACGc  placements. 2004Sh25 (also 2008Sh18) have further discussed these      
+224ACHc  differences and proposed revised level schemes and band structures.    
+224AC c  In this evaluation, the level scheme is essentially that proposed by   
+224AC2c  1994Ah03 with some modifications suggested in 2004Sh25. The band       
+224AC3c  structures are taken essentially from 2004Sh25, but considered         
+224AC4c  tentative at this stage. As pointed out in 1994Ah03 and 2004Sh25, the  
+224AC5c  level scheme of {+224}Ac is very complex and many additional levels    
+224AC6c  are expected. Thus the level scheme presented here is considered as    
+224AC7c  incomplete. Information about confirmed multipolarities, mixing ratios 
+224AC8c  and other spectroscopic details is lacking. Further experiments on     
+224AC9c  the decay of {+228}Pa and involving nuclear reactions are needed to    
+224ACAc  confirm and elucidate the structure of this nucleus.                   
+224AC cA E$From 1994Ah03. Values from 1993Sh07 and 1958Hi78 are given under     
+224AC2cA comments. Uncertainties in 1958Hi78 are                                
+224AC3cA stated by 1994Ah03 as 0.5 keV, but systematic uncertainties are        
+224AC4cA 3-4 keV. A 6142|a group in 1958Hi78 was later assigned by 1964Mc21     
+224AC5cA to {+224}Ac |a decay                                                   
+224AC cA IA$From 1994Ah03, renormalized intensities in |a-spectrum of 1958Hi78  
+224AC cA HF$The nuclear radius parameter r{-0}({+224}Ac)=1.5318 {I16}           
+224AC2cA is deduced from interpolation (or unweighted average) of radius        
+224AC3cA parameters of the adjacent even-even nuclides from 2020Si16 evaluation 
+224AC cA E(D),IA(D)$Doublet feeding 78 and 80 levels; total I|a=19.5 {I7}       
+224AC cA E(d),IA(d)$Doublet feeding 109 and 110 levels; total I|a|?0.3          
+224AC cA E(e),IA(e)$Doublet feeding 448 and 451 levels; total I|a=1.00 {I12}    
+224AC cG $Measured I(K|a{-1}| x ray)=6.7 {I7}, I(K|a{-2}| x ray)=4.0 {I4},      
+224ACxcG I(K| x ray)=13.6 {I15} (1994Ah03)                                      
+224AC cG $Measured I(K| x ray)=12.5 {I11}, I(L| x ray)=55 {I10} (1993Sh07)      
+224AC cG $Experimental K-conversion coefficients are from 1994Ah03              
+224AC cG E,RI$From 1994Ah03, unless otherwise noted. I|g and I(ce(K)) are       
+224AC2cG given per 100 |a decays.                                               
+224AC cG E(A),RI(A)$From 1993Sh07                                               
+224AC cG E(N)$|g not reported in 1993Sh07                                       
+224AC cG M$The E1 assignments are based on intensity considerations,            
+224AC2cG the M1 assignments are based on experimental results as                
+224AC3cG indicated. In addition, 1994Ah03 have deduced, from a comparison of    
+224AC4cG (L| x ray)(|a) and (23<E|g<87)(|a) spectra that the major transitions  
+224AC5cG deexciting the 52, 80, 130, 177 and 183 levels have E1 multipolarity.  
+224AC cG M(E)$M1 assignment confirmed by 1993Sh07 from measured I(K x ray)/I|g  
+224AC2cG ratio                                                                  
+224AC cG M(B)$M1, E2 or higher multipolarities are rejected since these imply   
+224AC2cG unreasonably high transition intensities                               
+224AC cG E(G)$1993Sh07 placed a 281.0|g from 397.5 level. 1994Ah03              
+224AC2cG reported two |g rays at 280.0 and 280.8, former from 317 level, and    
+224AC3cG the latter from 333 level based on coincidence data                    
+224AC cL $Levels at 66.0, 89.3, (117.2), 132.9, 184.2, 397.5, (453.2) keV       
+224AC2cL reported by 1993Sh07 have not been included here. The |g rays from     
+224AC3cL these levels have been reassigned to other levels in 1994Ah03 from     
+224AC4cL their detailed  |a|g and |a|g|g coincidence data. Some of the levels   
+224AC5cL are close in energy to the ones given here but transitions from them   
+224AC6cL are different                                                          
+224AC cL E$ From least squares fit to E|g data, unless otherwise noted.         
+224AC cL J$J|p and band assignments are generally from 2004Sh25 (also 1993Sh07),
+224AC2cL K|p=3+ and 3- bands are supported also by 1994Ah03. For low-lying      
+224AC3cL levels (below 254 keV), 1994Ah03 assign only parities based on         
+224AC4cL |g-ray multipolarities. See also Adopted Levels                        
+224AC cL E(H)$From E|a                                                          
+224AC cL $Band assignments are proposed in 2004Sh25. For the K|p=0 and 1 bands, 
+224AC2cL two scenarios are presented in their figures 4 and 5. See detailed     
+224AC3cL discussion by the authors. Assignments given here are arbitrarily      
+224AC4cL taken from figure 4 in 2004Sh25. K|p=3+ and 3- parity-doublet bands    
+224AC5cL are also supported by 1994Ah03 with minor differences in level         
+224AC6cL assignments at high energy. 2004Sh25 suggest 5 other bands, not listed 
+224AC7cL here, for which only one or two levels each are known.                 
+224AC CL BAND(X)$Band based on 0-.                                              
+224AC2cL Mixture of K|p=0- and K|p=1- bands from |p3/2~#|n3/2 and |p5/2~#|n3/2  
+224AC3cL configurations (2004Sh25)                                              
+224AC CL BAND(Y)$Band based on 1+.                                              
+224AC2cL Mixture of K|p=0+ and K|p=1+ bands from |p3/2~#|n3/2 and |p5/2~#|n3/2  
+224AC3cL configurations (2004Sh25)                                              
+224AC CL BAND(Z)$Band based on (3-).                                            
+224AC2cL Mixture of K|p=2- and K|p=3- bands from |p5/2~#|n1/2 configuration     
+224AC3cL (2004Sh25)                                                             
+224AC CL BAND(U)$Band based on (3+).                                            
+224AC2cL Mixture of K|p=2+ and K|p=3+ bands from |p5/2~#|n1/2 configuration     
+224AC3cL (2004Sh25)                                                             
+228PA  P 0             3+              19.5 H    4              6264.5    15    
+228PA cP J$From {+228}Pa Adopted Levels in ENSDF database (Dec 2012 update).    
+228PA2cP 1989He07 discuss |p7/2[633]~#|n1/2[631] configuration for this state   
+228PA3cP and conclude that it is not probable due to energy mismatch even       
+228PA4cP though the measured magnetic moment is in agreement with theoretical   
+228PA5cP value for this configuration, and that |p5/2~#|n1/2 octupole deformed  
+228PA6cP configuration is more likely                                           
+228PA cP T$from 2021Km01 (|g-decay curves, uncertainty is statistical). Others: 
+228PA2cP 22 h {I1} (1951Me10, |a-decay curve, analysis complicated by the       
+228PA3cP presence of {+229}Pa activity); 29 h {I1} (1964Ge08).                  
+228PA cP QP$From 2021Wa16                                                       
+224AC  N   1.0                 0.020   2                                        
+224AC cN NR$1994Ah03 and 1993Sh07 give photon intensities per 100 |a decays     
+224AC cN BR$From measured I|a/(I|a+I|e)=0.020 {I2} (1994Ah03). Other:           
+224AC2cN I|e/I|a=53 {I5} (1951Me10)                                             
+224AC PN                                                                     4  
+224AC  G   23.3    2   0.12  5                                              A   
+224AC cG $Placed from an 89.3 level, and mult=(E1) (1993Sh07)                   
+224AC  G   24.9    2   0.10  5                                              A   
+224AC  L    0.0         0-              2.78 H   16                         X   
+224AC cL T$from Adopted Levels                                                  
+224AC  L 17.60     15   (1-)                                                X   
+224AC  L 23.40     11   (2-)                                                    
+224AC  L 29.83      9   (1+)                                                Y   
+224AC  A  6126     3   1.0   AP  5.2E3 AP                                   C   
+224AC  G 29.8      1  2.8    3 E1                      2.83   5             BC  
+224ACS G LC=2.13 4$MC=0.536 9                                                   
+224ACS G NC=0.1381 23$OC=0.0289 5$PC=0.00419 7$QC=0.0001448 23                  
+224AC cG $E|g=29.8 {I1}, I|g=3.10 {I30} (1993Sh07)                              
+224AC  L 34.2       8                                                          ?
+224AC  L 37.17      9   (2-)                                                X   
+224AC  A  6117     2   9.9   5   4.8E2 6                                        
+224AC cA $E|a=6118, I|a=10.5 (1958Hi78)                                         
+224AC  G 37.2      1  0.2    AP[E2]                    1200   24               ?
+224ACS G LC=881 17$MC=239 5                                                     
+224ACS G NC=63.5 13$OC=13.8 3$PC=2.13 5$QC=0.00463 9                            
+224AC cG $E|g=37.2 {I2}, I|g=0.13 {I5} (1993Sh07)                               
+224AC cG $|g placed from 37.2 and 89.3 levels (1993Sh07)                        
+224AC  L 44.2       3                                                          ?
+224AC  L 45.8       4   (-)                                                    ?
+224AC  L 47.4       4                                                          ?
+224AC  L 49.08     13   (3-)                                                    
+224AC  L 52.20     11   (2+)                                                Y   
+224AC  A  6104     2  11.3   6   3.6E2 4                                    C   
+224AC cA $E|a=6105, I|a=12.0 (1958Hi78)                                         
+224AC  G 22                    [M1]                    291                     S
+224ACS G LC=220 3$MC=53.4 8                                                     
+224ACS G NC=14.16 20$OC=3.29 5$PC=0.609 9$QC=0.0543 8                           
+224AC cG E$|g required by the |a|g results of 1993Sh07; |g not in 1994Ah03      
+224AC  G 28.8      1  0.76   12 E1                     3.10   6              C  
+224ACF G FLAG=B                                                                 
+224AC cG E$1993Sh07 placed 28.8|g from a 66.0 and 80.5 levels. 1994Ah03         
+224AC2cG reported two |g rays at 28.3 and 28.8, former from 80.4 level, and     
+224AC3cG the latter from 52.1 level based on coincidence data                   
+224ACS G LC=2.33 4$MC=0.588 10                                                  
+224ACS G NC=0.151 3$OC=0.0316 6$PC=0.00455 8$QC=0.0001549 25                    
+224AC cG $E|g=28.8 {I1}, I|g=1.33 {I20} (1993Sh07)                              
+224AC  G 34.6      1  1.8    2 E1                      1.91                 BC  
+224ACS G LC=1.437 23$MC=0.359 6                                                 
+224ACS G NC=0.0926 15$OC=0.0196 4$PC=0.00292 5$QC=0.0001074 17                  
+224AC cG $E|g=34.6 {I1}, I|g=1.55 {I20} (1993Sh07)                              
+224AC  G 52.1      2   0.30  6 [M2]                    963    22             ? ?
+224ACS G LC=699 16$MC=196 5                                                     
+224ACS G NC=53.4 12$OC=12.3 3$PC=2.16 5$QC=0.154 4                              
+224AC cG $Part of 51.9|g from 130 level in 1993Sh07                             
+224AC cG E$2004Sh25 argue against the placement or existence of this |g ray     
+224AC2cG in 1994Ah03, and suggest that its appearance in |a|g coincidence       
+224AC3cG data of 1994Ah03 may be due to |a+ce sum line. Its implied M2          
+224AC4cG multipolarity is also problematic for J|p=2+ for 52 level and          
+224AC5cG 0- for g.s.                                                            
+224AC  L 64.47     14  (3+)                                                     
+224AC cL J$no parity assigned in 1994Ah03                                       
+224AC  A  6089     2   2.2   3  1.6E3  3                                        
+224AC cA $E|a=6091, I|a=2.3 (1958Hi78)                                          
+224AC  G 41.1      1  0.54   9 [E1]                    1.211  19             C  
+224ACS G LC=0.912 14$MC=0.226 4                                                 
+224ACS G NC=0.0584 9$OC=0.01251 20$PC=0.00191 3$QC=7.56E-5 12                   
+224AC cG E$1993Sh07 placed 41.1|g from 78.4 level                               
+224AC cG $E|g=41.1 {I1}, I|g=0.48 {I8} (1993Sh07)                               
+224AC cG M$(M1) in 1993Sh07, but no argument given                              
+224AC  L 65.2       6                                                          ?
+224AC cL E$a level at 66.0 was suggested by 1993Sh07 with 28.8, 49 and 66.0     
+224AC2cL deexciting |g rays. These |g rays were placed elsewhere by 1994Ah03    
+224AC  L 75.9       6                                                          ?
+224AC  L 78.51     12    (3-)                                               X   
+224AC  A  6076     2                                                        C   
+224ACF A FLAG=D                                                                 
+224AC cA $E|a=6078, I|a=20.7 (1958Hi78)                                         
+224AC  G 26.3      1  0.36   5 E1                      3.93   7             BC  
+224ACS G LC=2.95 5$MC=0.751 13                                                  
+224ACS G NC=0.193 4$OC=0.0400 7$PC=0.00566 10$QC=0.000185 3                     
+224AC cG $E|g=26.3 {I1}, I|g=0.33 {I6} (1993Sh07)                               
+224AC  G 48.6      1   0.80  13[M2]                    1320   23            NC ?
+224ACS G LC=958 17$MC=269 5                                                     
+224ACS G NC=73.5 13$OC=16.9 3$PC=2.97 5$QC=0.210 4                              
+224AC cG $2004Sh25 suggest that this |g may belong to {+220}Fr from {+224}Ac    
+224AC2cG |a decay, yet |a|g coincidence data in figure 3 of 1994Ah03 clearly    
+224AC3cG show this |g ray, and this |g is also listed in |a|g|g coin data       
+224AC4cG in table 4 of 1994Ah03. Its implied M2 multipolarity is, however,      
+224AC5cG problematic, for J|p=3- for 78 level and 1+ for 29.8 level             
+224AC  L 80.49     10  (3+)                                                 Y   
+224AC  A  6076     2   19.5  7   1.6E2 2                                    C   
+224ACF A FLAG=D                                                                 
+224AC  G 28.3      1  0.1    AP[M1]                    138.9  25             C  
+224ACS G LC=105.1 19$MC=25.3 5                                                  
+224ACS G NC=6.71 12$OC=1.56 3$PC=0.289 5$QC=0.0257 5                            
+224AC cG $Part of the 28.8 doublet in 1993Sh07                                  
+224AC  G 43.3      1  2.4    3 E1                      1.054  17            BC  
+224ACS G LC=0.794 13$MC=0.196 3                                                 
+224ACS G NC=0.0508 8$OC=0.01092 17$PC=0.00168 3$QC=6.79E-5 10                   
+224AC cG $E|g=43.3 {I1}, I|g=2.40 {I20} (1993Sh07)                              
+224AC  L 84.1       4                                                          ?
+224AC  L 90.56     13 (+)                                                       
+224AC cL J$parity assigned in 1994Ah03                                          
+224AC  A  6065     2   1.0   2  2.7E3  6                                    C   
+224AC cA $E|a=6066, I|a=1.0 (1958Hi78)                                          
+224AC  G 67.2      1   1.7   3 (E1)                    0.327                 C  
+224ACS G LC=0.247 4$MC=0.0602 9                                                 
+224ACS G NC=0.01568 23$OC=0.00344 5$PC=0.000557 8$QC=2.67E-5 4                  
+224AC cG $E|g=67.3 {I1}, I|g=1.50 {I20} (1993Sh07); placed from an 89.3 level   
+224AC  L 92.6       4                                                          ?
+224AC  L 100.44    23                                                          ?
+224AC  L 103.31    13 (4+)                                                      
+224AC  A  6052     3   0.7   AP  3.4E3 AP                                   C   
+224AC  G 54.2      1   1.2   2 (E1)                    0.580                 C  
+224AC cG E$1993Sh07 placed 54.2|g from a 184.2 level.                           
+224ACS G LC=0.438 7$MC=0.1073 16                                                
+224ACS G NC=0.0279 5$OC=0.00606 9$PC=0.000958 15$QC=4.24E-5 7                   
+224AC cG $E|g=54.2 {I1}, I|g=1.30 {I15} (1993Sh07), placed from a 184.2 level   
+224AC  L 105.1      6                                                          ?
+224AC  L 109.33    17  (4-)                                                     
+224AC cL J$no parity assigned in 1994Ah03                                       
+224AC  A  6047     3                                                        C   
+224ACF A FLAG=d                                                                 
+224AC  G 60.3      2   0.84  13[M1]                    15.0   3             &C  
+224ACF G FLAG=G                                                                 
+224ACS G LC=11.34 20$MC=2.72 5                                                  
+224ACS G NC=0.722 13$OC=0.168 3$PC=0.0311 6$QC=0.00276 5                        
+224AC cG $E|g=60.3 {I2}, I|g=0.55 {I7} (1993Sh07), placed from 177.0 and 237.2  
+224AC2cG levels                                                                 
+224AC  L 110.53    15  (+)                                                      
+224AC cL J$parity from 1994Ah03                                                 
+224AC  A  6047     3   0.3   AP  7.3E3 AP                                       
+224ACF A FLAG=d                                                                 
+224AC  G   61.5    1   0.30  5                                               C  
+224AC cG E$1993Sh07 placed 61.4|g from 78.4 level.                              
+224AC cG $E|g=61.4 {I2}, I|g=0.33 {I6} (1993Sh07)                               
+224AC  L 116.46    13   (4-)                                                X   
+224AC  A  6040     2   2.2   3  9.3E2  16                                   C   
+224AC cA $E|a=6041, I|a=2.3 (1958Hi78)                                          
+224AC  G 36.0      1  0.52   8 (E1)                    1.72   3              C  
+224ACS G LC=1.294 21$MC=0.322 6                                                 
+224ACS G NC=0.0833 14$OC=0.0177 3$PC=0.00265 5$QC=9.91E-5 15                    
+224AC cG $E|g=36.1 {I1}, I|g=0.22 {I5} (1993Sh07)                               
+224AC  G 52.0      2   0.45  8 [E1]                    0.647  12             C  
+224ACF G FL=64.47                                                               
+224ACS G LC=0.489 9$MC=0.1199 21                                                
+224ACS G NC=0.0311 6$OC=0.00675 12$PC=0.001063 19$QC=4.62E-5 8                  
+224AC cG $Part of 51.9|g in 1993Sh07 from 130 level                             
+224AC  L 130.30    11   (4+)                                                Y   
+224AC  A  6027     2   8.5   4   2.1E2 3                                    C   
+224AC cA $E|a=6028, I|a=9.0 (1958Hi78)                                          
+224AC  G 49.8      1   0.27  5 [M1]                    26.3                  C  
+224ACS G LC=19.9 3$MC=4.77 8                                                    
+224ACS G NC=1.266 20$OC=0.294 5$PC=0.0545 9$QC=0.00485 8                        
+224AC cG $E|g=49.9 {I2}, I|g=0.36 {I10} (1993Sh07)                              
+224AC  G 51.8      1   1.35  15(E1)                    0.654                 C  
+224ACS G LC=0.494 8$MC=0.1211 18                                                
+224ACS G NC=0.0314 5$OC=0.00682 11$PC=0.001073 16$QC=4.66E-5 7                  
+224AC cG $E|g=51.9 {I1}, I|g=2.20 {I20} (1993Sh07); 51.8, 52.0, 52.1 |g rays    
+224AC2cG with total I|g=2.10 {I18} in 1994Ah03                                  
+224AC  G 78.6      3   0.11  5 [E2]                    32.2   8                ?
+224ACS G LC=23.6 6$MC=6.46 15                                                   
+224ACS G NC=1.72 4$OC=0.374 9$PC=0.0583 14$QC=0.000186 4                        
+224AC cG E$|g from 1993Sh07 only                                                
+224AC  G 81.2      1   1.2   2 [E1]                    0.198                    
+224ACS G LC=0.1495 22$MC=0.0363 6                                               
+224ACS G NC=0.00947 14$OC=0.00209 3$PC=0.000345 5$QC=1.77E-5 3                  
+224AC cG E$1993Sh07 placed 81.1|g from a 132.9 level.                           
+224AC cG $E|g=81.1 {I1}, I|g=1.50 {I20} (1993Sh07)                              
+224AC  L 133.4      4                                                          ?
+224AC  L 142.5      3  (5+)                                                     
+224AC cL J$no parity assigned in 1994Ah03                                       
+224AC  L 146.6      4                                                       H   
+224AC cL E$this level may be the same as 142.4 level, but the energy matching   
+224AC2cL is poor                                                                
+224AC  A  6010     2   0.8   1  1.9E3  3                                        
+224AC cA $E|a=6011, I|a=0.8 (1958Hi78)                                          
+224AC  G   62.5    1   0.36  6                                               C ?
+224AC cG $E|g=62.5 {I2}, I|g=0.29 {I5} (1993Sh07)                               
+224AC  L 159.3      4                                                       H   
+224AC  A  5997     2   0.3   AP  4.3E3 AP                                       
+224AC cA $E|a=5998, I|a=0.3 (1958Hi78)                                          
+224AC  G   66.3    3   0.05  AP                                              ? ?
+224AC cG $E|g=66.0 {I3}, I|g=0.16 {I4} (1993Sh07); placed from a 66.0 level     
+224AC  G   75.5    3   0.10  AP                                             N? ?
+224AC  L  169      2                                                        H   
+224AC  A  5988     2   1.0   1  1.2E3  2                                        
+224AC cA $E|a=5989, I|a=1.1 (1958Hi78)                                          
+224AC  L 176.72    14   (5+)                                                Y   
+224AC  A  5981     2   2.6   2   4.1E2 5                                    C   
+224AC cA $E|a=5982, I|a=2.8 (1958Hi78)                                          
+224AC  G 46.5      2   0.2   AP[M1]                    32.1   6                 
+224ACS G LC=24.3 5$MC=5.84 11                                                   
+224ACS G NC=1.55 3$OC=0.360 7$PC=0.0666 13$QC=0.00593 12                        
+224AC cG $E|g=46.5 {I2}, I|g=0.11 {I5} (1993Sh07)                               
+224AC  G 60.3      2   0.84  13(E1)                    0.436  8             &C  
+224ACS G LC=0.330 6$MC=0.0805 14                                                
+224ACS G NC=0.0209 4$OC=0.00457 8$PC=0.000733 12$QC=3.37E-5 6                   
+224AC cG $E|g=60.3 {I2}, I|g=0.55 {I7} (1993Sh07)                               
+224AC  G 67.4      2   0.67  10[E1]                    0.324  6              C  
+224ACS G LC=0.245 4$MC=0.0597 10                                                
+224ACS G NC=0.0156 3$OC=0.00341 6$PC=0.000553 9$QC=2.65E-5 4                    
+224AC cG $Part of 67.3|g from 89.3 level in 1993Sh07                            
+224AC  G 73.4      2   0.14  6 [M1]                    8.43   14             C  
+224ACS G LC=6.38 11$MC=1.531 25                                                 
+224ACS G NC=0.406 7$OC=0.0945 16$PC=0.0175 3$QC=0.00155 3                       
+224AC cG E$1993Sh07 placed 73.3|g from a 90.3 level.                            
+224AC cG $E|g=73.3 {I3}, I|g=0.18 {I5} (1993Sh07), placed from a 90.3 level     
+224AC  L 183.40    13   (5-)                                                X   
+224AC  A  5974     2   2.5   2   4.0E2 5                                    C   
+224AC cA $E|a=5975, I|a=2.7 (1958Hi78)                                          
+224AC  G 53.1      1   0.40  6 (E1)                    0.612                 C  
+224AC cG E$1993Sh07 placed 53.1|g from a 90.3 levels.                           
+224ACS G LC=0.462 7$MC=0.1133 17                                                
+224ACS G NC=0.0294 5$OC=0.00639 10$PC=0.001009 15$QC=4.42E-5 7                  
+224AC cG $E|g=53.1 {I1}, I|g=0.90 {I15}, mult=(E1) (1993Sh07), placed from a    
+224AC2cG 90.3 level                                                             
+224AC  G 74.1      3   0.15  4 [M1]                    8.20   15             C  
+224ACS G LC=6.21 12$MC=1.49 3                                                   
+224ACS G NC=0.395 8$OC=0.0919 17$PC=0.0170 4$QC=0.00151 3                       
+224AC cG $E|g=74.2 {I3}, I|g=0.16 {I5} (1993Sh07), unplaced                     
+224AC  G 80.1      1   0.34  6 (E1)                    0.205                 C  
+224AC cG E$1993Sh07 placed 79.9|g from a tentative 117.2 level.                 
+224ACS G LC=0.1550 23$MC=0.0376 6                                               
+224ACS G NC=0.00982 15$OC=0.00217 4$PC=0.000357 6$QC=1.82E-5 3                  
+224AC cG $E|g=79.9 {I2}, I|g=0.37 {I7} (1993Sh07)                               
+224AC  L  212      2                                                        H   
+224AC  A  5946     2   0.6   1  1.2E3  3                                        
+224AC cA $E|a= 5947, I|a=0.6 (1958Hi78)                                         
+224AC  L 219.7      4                                                           
+224AC  A  5940     2   0.5   1  1.3E3  3                                    C   
+224AC cA $E|a=5941, I|a=0.5 (1958Hi78)                                          
+224AC  G   77.2    2   0.3   AP                                             NC  
+224AC  G   86.3    2   0.2   AP                                             NC ?
+224AC  L  236.5    4   (6-)                                                 X   
+224AC  A  5921     2   0.8   1  7E2    1                                    C   
+224AC cA $E|a=5922, I|a=0.8 (1958Hi78)                                          
+224AC  G 59.8      3   0.14  5 [E1]                    0.446  9              C  
+224ACS G LC=0.337 7$MC=0.0824 16                                                
+224ACS G NC=0.0214 5$OC=0.00468 9$PC=0.000748 15$QC=3.43E-5 6                   
+224AC cG $Part of 60.3|g from 177 level in 1993Sh07                             
+224AC  L 252.68    17  (6+)                                                 Y   
+224AC  A  5905     2   1.0   1   4.6E2 7                                    C   
+224AC cA $E|a= 5907, I|a=1.1 (1958Hi78)                                         
+224AC  G 69.3      2   0.35  6 (E1)                    0.301                 C  
+224ACS G LC=0.228 4$MC=0.0555 9                                                 
+224ACS G NC=0.01444 24$OC=0.00317 5$PC=0.000515 9$QC=2.50E-5 4                  
+224AC cG $E|g=69.3 {I2}, I|g=0.25 {I5} (1993Sh07)                               
+224AC  G 76.0      2   0.15  4 [M1]                    7.62   13            NC  
+224ACS G LC=5.77 10$MC=1.384 23                                                 
+224ACS G NC=0.367 6$OC=0.0854 14$PC=0.0158 3$QC=0.001403 23                     
+224AC  G 110.3     4   0.30  6 [M1]                    12.82  22            NC  
+224ACS G KC=10.23 18$LC=1.96 4$MC=0.470 9                                       
+224ACS G NC=0.1246 22$OC=0.0290 5$PC=0.00536 10$QC=0.000476 9                   
+224AC  G 122.5     5   0.08  AP[E2]                    4.34   10            NC  
+224ACS G KC=0.284 4$LC=2.97 7$MC=0.812 20                                       
+224ACS G NC=0.216 5$OC=0.0471 11$PC=0.00741 18$QC=3.91E-5 8                     
+224AC  L 283.48    13 (3-)                                                      
+224AC  A  5875     2   1.30  11  2.5E2 3                                    C   
+224AC cA $E|a=5974, I|a=1.4 (1958Hi78)                                          
+224AC  G 140.8     4   0.15  4 [M2]                    36.9   7             NC  
+224ACS G KC=23.6 4$LC=9.83 18$MC=2.60 5                                         
+224ACS G NC=0.704 13$OC=0.162 3$PC=0.0292 6$QC=0.00227 4                        
+224AC  G  193.0    2   0.08  3                                              NC  
+224AC  G 237.7     3   0.20  4 (M1)                    1.473                 C ?
+224ACS G KC=1.182 17$LC=0.221 4$MC=0.0528 8                                     
+224ACS G NC=0.01401 21$OC=0.00326 5$PC=0.000603 9$QC=5.34E-5 8                  
+224AC cG $|a(K)exp(237.5|g+237.7|g)=1.1 {I3} (1994Ah03)                         
+224AC cG $Part of 237.5|g from 354 level in 1993Sh07                            
+224AC  G 246.2     2   0.27  6 [M1]                    1.336                NC  
+224ACS G KC=1.072 16$LC=0.200 3$MC=0.0479 7                                     
+224ACS G NC=0.01270 18$OC=0.00295 5$PC=0.000546 8$QC=4.84E-5 7                  
+224AC  G 260.1     1   0.76  8 [M1]                    1.147                 C  
+224ACS G KC=0.921 13$LC=0.1715 24$MC=0.0411 6                                   
+224ACS G NC=0.01089 16$OC=0.00253 4$PC=0.000468 7$QC=4.15E-5 6                  
+224AC cG $E|g=261.0 {I10}, I|g=0.50 {I20} (1993Sh07); unplaced                  
+224AC  L  300      2                                                        H   
+224AC  A  5859     2   0.3   AP  8.9E2 AP                                       
+224AC cA $E|a=5858, I|a=0.3 (1958Hi78)                                          
+224AC  L 317.2      5                                                           
+224AC  A  5844     2   0.4   AP  5.5E2 AP                                   C   
+224AC cA $E|a=5843, I|a=0.4 (1958Hi78)                                          
+224AC  G  280.0    5   0.2   AP                                             GC  
+224AC cG $Part of 279.7|g from 360 level in 1993Sh07                            
+224AC  G  283.0    5   0.2   AP                                              C ?
+224AC  L 333.04    12 (3+)                                                      
+224AC  A  5827     2   5.8   7    32   5                                    C   
+224AC  G 202.7     1   0.56  8 M1(+E2)   0.6     LT    2.07   23             C  
+224AC2 G EKC=1.8 4                                                              
+224ACS G KC=1.62 23$LC=0.342 6$MC=0.0832 13                                     
+224ACS G NC=0.0221 4$OC=0.00509 8$PC=0.000925 23$QC=7.4E-5 10                   
+224AC cG $E|g=202.5 {I4}, I|g=0.70 {I25} (1993Sh07); unplaced                   
+224AC  G  222.7    2   0.1   AP                                             NC  
+224AC  G  232.6    2   0.38  6                                               ? ?
+224AC cG $E|g=233.0 {I10}, I|g=0.50 {I30} (1993Sh07)                            
+224AC  G 242.6     2   0.30  5 (M1)                    1.392                 C  
+224ACS G KC=1.117 16$LC=0.208 3$MC=0.0499 7                                     
+224ACS G NC=0.01323 19$OC=0.00308 5$PC=0.000569 8$QC=5.04E-5 8                  
+224AC cG $|a(K)exp(242.6|g+244.7|g)=1.2 {I4}                                    
+224AC cG $E|g=242.5 {I7}, I|g=0.50 {I30} (1993Sh07); unplaced                   
+224AC  G 252.6     2   0.40  8 (M1)                    1.244                 C  
+224ACS G KC=0.998 15$LC=0.186 3$MC=0.0446 7                                     
+224ACS G NC=0.01182 17$OC=0.00275 4$PC=0.000508 8$QC=4.50E-5 7                  
+224AC cG $|a(K)exp(250.5|g+252.6|g)=0.95 {I26} (1994Ah03)                       
+224AC cG $E|g=252.6 {I10}, I|g=0.35 {I20} (1993Sh07); unplaced                  
+224AC  G  267.8    5   0.21  7                                               C ?
+224ACF G FL=65.2                                                                
+224AC  G  280.8    4   0.2   AP                                             GC  
+224AC cG $E|g=281.0 {I10}, I|g=0.40 {I20} (1993Sh07)                            
+224AC  G  283.4    4   0.3   AP                                              ?  
+224AC cG $E|g=283.0 {I10}, I|g=0.40 {I20} (1993Sh07); unplaced                  
+224AC  G  285.8    5   0.1   AP                                             N? ?
+224AC  G  288.9    5   0.3   AP                                             N? ?
+224AC  G  295.5    4   0.2   AP                                             NC  
+224AC  G 303.2     2   0.64  11[E2]                    0.1550                C  
+224ACS G KC=0.0704 10$LC=0.0624 9$MC=0.01665 24                                 
+224ACS G NC=0.00443 7$OC=0.000980 14$PC=0.0001601 23$QC=3.61E-6 5               
+224AC cG $E|g=303.0 {I10}, I|g=0.60 {I30} (1993Sh07); unplaced                  
+224AC  L 353.89    11   (3-)                                                Z   
+224AC  A  5806     2   6.9   4    21   3                                    C   
+224AC cA $E|a=5805, I|a=7.3 (1958Hi78)                                          
+224AC  G 237.5     2   0.40  5 (M1)                    1.476                 C  
+224ACS G KC=1.184 17$LC=0.221 4$MC=0.0529 8                                     
+224ACS G NC=0.01404 20$OC=0.00327 5$PC=0.000604 9$QC=5.35E-5 8                  
+224AC cG $|a(K)exp(237.5|g+237.7|g)=1.1 {I3} (1994Ah03)                         
+224AC cG $E|g=237.5 {I7}, I|g=0.60 {I30} (1993Sh07)                             
+224AC  G 244.7     5   0.21  5 (M1)                    1.359                 C  
+224ACS G KC=1.090 17$LC=0.203 3$MC=0.0487 8                                     
+224ACS G NC=0.01292 20$OC=0.00300 5$PC=0.000556 9$QC=4.92E-5 8                  
+224AC cG $|a(K)exp(242.6|g+244.7|g)=1.2 {I3} (1994Ah03)                         
+224AC cG $E|g=245.0 {I10}, I|g=0.40 {I20} (1993Sh07); unplaced                  
+224AC  G  248.8    5   0.17  6                                               ? ?
+224AC cG $E|g=248.6 {I6}, I|g=0.55 {I30} (1993Sh07)                             
+224AC  G  269.1    4   0.29  7                                               ? ?
+224AC cG $E|g=269.0 {I10}, I|g=0.50 {I20} (1993Sh07); 267.8, 268.7,             
+224AC2cG 269.1 |g rays with total I|g=0.86 {I13} in 1994Ah03                    
+224AC  G  278.0    5   0.2   AP                                              ? ?
+224AC  G  290.0    5   0.5   AP                                              ?  
+224AC cG $E|g=290.0 {I7}, I|g=0.60 {I30} (1993Sh07); unplaced                   
+224AC  G  309.6    3   0.5   AP                                             N? ?
+224AC  G 316.8     1   2.2   3 (M1)                    0.666                EC  
+224ACS G KC=0.535 8$LC=0.0992 14$MC=0.0238 4                                    
+224ACS G NC=0.00630 9$OC=0.001465 21$PC=0.000271 4$QC=2.40E-5 4                 
+224AC cG $|a(K)exp(316.8|g+317.2|g+317.8|g)=0.50 {I11} (1994Ah03)               
+224AC cG $E|g=316.8 {I2}, I|g=2.6 {I8} (1993Sh07)                               
+224AC  G 330.4     1   1.1   1 (M1)                    0.593                &C  
+224ACS G KC=0.476 7$LC=0.0884 13$MC=0.0211 3                                    
+224ACS G NC=0.00561 8$OC=0.001304 19$PC=0.000241 4$QC=2.14E-5 3                 
+224AC cG E,M$2004Sh25 suggest placement of 330.4|g from 354 level based         
+224AC2cG on |a|g coincidence displayed in top panel of figure 7 in 1994Ah03.    
+224AC3cG This placement is consistent with M1 multipolarity from experimental   
+224AC4cG K-conversion coefficient in 1994Ah03. Evaluators suggest double        
+224AC5cG placement of this |g ray based on |a|g coincidence with |a groups to   
+224AC6cG both the 354 and 360 levels (see |a|g coin figure 7 in 1994Ah03)       
+224AC2 G EKC=0.57 12                                                            
+224AC cG $E|g=330.2 {I3}, I|g=1.1 {I5} (1993Sh07)                               
+224AC  L 360.25    11   (3+)                                                U   
+224AC  A  5800     2  10.7   6   13    2                                    C   
+224AC cA $E|a=5799, I|a=11.3 (1958Hi78)                                         
+224AC  G 230.0     1   1.8   3 M1(+E2)   0.7     LT    1.41   21            EC  
+224AC cG $E|g=230.0 {I3}, I|g=2.0 {I5} (1993Sh07)                               
+224ACS G KC=1.10 20$LC=0.233 10$MC=0.0568 15                                    
+224ACS G NC=0.0151 4$OC=0.00347 11$PC=0.00063 4$QC=5.0E-5 9                     
+224AC2 G EKC=1.3 3                                                              
+224AC  G  268.7    5   0.36  8                                               ? ?
+224AC  G 279.5     4   0.37  9 [M1]                    0.940                 C  
+224ACS G KC=0.754 11$LC=0.1404 21$MC=0.0336 5                                   
+224ACS G NC=0.00891 13$OC=0.00207 3$PC=0.000383 6$QC=3.40E-5 5                  
+224AC cG $E|g=279.7 {I10}, I|g=0.40 {I20} (1993Sh07)                            
+224AC  G 308.0     1   4.0   4 M1(+E2)   0.4     LT    0.68   4             EC  
+224AC cG $E|g=308.1 {I2}, I|g=4.1 {I8} (1993Sh07)                               
+224ACS G KC=0.54 4$LC=0.104 4$MC=0.0250 8                                       
+224ACS G NC=0.00663 21$OC=0.00154 5$PC=0.000283 11$QC=2.44E-5 16                
+224AC2 G EKC=0.63 12                                                            
+224AC  G  312.8    4   0.2   AP                                             N? ?
+224AC  G 330.4     1   1.1   1 [E2]                    0.1202               &C  
+224ACS G KC=0.0591 9$LC=0.0451 7$MC=0.01198 17                                  
+224ACS G NC=0.00319 5$OC=0.000706 10$PC=0.0001161 17$QC=2.97E-6 5               
+224AC  L 380.80    16  (+)                                                      
+224AC  A  5780     2   1.30  14   82   13                                   C   
+224AC cA $E|a=5779, I|a=1.4 (1958Hi78)                                          
+224AC  G 250.5     2   0.34  7 (M1)                    1.273                 C  
+224ACS G KC=1.022 15$LC=0.190 3$MC=0.0456 7                                     
+224ACS G NC=0.01210 18$OC=0.00281 4$PC=0.000520 8$QC=4.61E-5 7                  
+224AC cG $|a(K)exp(250.5|g+252.6|g)=0.95 {I26} (1994Ah03)                       
+224AC cG $E|g=251.1 {I8}, I|g=0.45 {I25} (1993Sh07); unplaced                   
+224AC  G  300.3    3   0.1   AP                                             NC  
+224AC  G  328.6    2   0.58  8                                              NC  
+224AC  G  351.0    4   0.1   AP                                             NC  
+224AC  L 395.84    19   (4-)                                                Z   
+224AC  A  5765     2   2.6   2    34   5                                    C   
+224AC cA $E|a=5765, I|a=2.0 (1958Hi78)                                          
+224AC  G  212.5    5   0.05  AP                                             NC  
+224AC  G  253.4    5   0.08  AP                                             NC  
+224AC  G 317.2     2   0.7   AP[M1]                    0.663                 C  
+224ACS G KC=0.533 8$LC=0.0989 14$MC=0.0237 4                                    
+224ACS G NC=0.00628 9$OC=0.001460 21$PC=0.000270 4$QC=2.39E-5 4                 
+224AC cG $|a(K)exp(316.8|g+317.2|g+317.8|g)=0.50 {I11} (1994Ah03)               
+224AC  G 347.0     3   0.12  5 [M1]                    0.519                NC  
+224ACS G KC=0.417 6$LC=0.0772 11$MC=0.0185 3                                    
+224ACS G NC=0.00490 7$OC=0.001139 17$PC=0.000211 3$QC=1.87E-5 3                 
+224AC  L 402.92    16  (4+)                                                 U   
+224AC  A  5758     2   3.00  22   27   4                                    C   
+224AC cA $E|a=5756, I|a=2.5, and E|a=5760, I|a=1.4 (1958Hi78)                   
+224AC  G 226.3     2   0.1   AP[M1]                    1.689                NC  
+224ACS G KC=1.355 20$LC=0.253 4$MC=0.0606 9                                     
+224ACS G NC=0.01608 23$OC=0.00374 6$PC=0.000692 10$QC=6.13E-5 9                 
+224AC  G 299.5     3   0.2   AP[M1]                    0.777                NC  
+224ACS G KC=0.624 9$LC=0.1159 17$MC=0.0277 4                                    
+224ACS G NC=0.00736 11$OC=0.001711 25$PC=0.000317 5$QC=2.80E-5 4                
+224AC  G  312.3    3   0.1   AP                                             NC  
+224AC  G 322.4     2   0.60  8 M1(+E2)   0.7     LT    0.55   9             NC  
+224AC2 G EKC=0.45 10                                                            
+224ACS G KC=0.44 8$LC=0.087 8$MC=0.0211 16                                      
+224ACS G NC=0.0056 5$OC=0.00129 11$PC=0.000237 22$QC=2.0E-5 4                   
+224AC  L 448.08    20  (5-)                                                 Z   
+224AC  A  5711     2   1.00  12  48    8                                    C   
+224ACF A FLAG=e                                                                 
+224AC cA $E|a=5711, I|a=1.0 (1958Hi78)                                          
+224AC  G 195.5     2   0.10  3 [E1]                    0.0974               NC  
+224ACS G KC=0.0773 11$LC=0.01525 22$MC=0.00366 6                                
+224ACS G NC=0.000961 14$OC=0.000218 3$PC=3.80E-5 6$QC=2.50E-6 4                 
+224AC  G 317.8     3   0.3   AP[E1]                    0.0318               NC  
+224ACS G KC=0.0256 4$LC=0.00471 7$MC=0.001124 16                                
+224ACS G NC=0.000296 5$OC=6.75E-5 10$PC=1.202E-5 17$QC=8.80E-7 13               
+224AC cG $|a(K)exp(316.8|g+317.2|g+317.8|g)=0.50 {I11} (1994Ah03)               
+224AC  G 344.3     4   0.1   AP[E1]                    0.0267               NC  
+224ACS G KC=0.0215 3$LC=0.00391 6$MC=0.000934 14                                
+224ACS G NC=0.000246 4$OC=5.62E-5 8$PC=1.003E-5 15$QC=7.45E-7 11                
+224AC  L 452.1      4  (5+)                                                 U   
+224AC  A  5711     2                                                        C   
+224ACF A FLAG=e                                                                 
+224AC  G 335.6     3   0.16  4 [E1]                    0.0282               NC  
+224ACS G KC=0.0227 4$LC=0.00415 6$MC=0.000990 14                                
+224ACS G NC=0.000261 4$OC=5.96E-5 9$PC=1.062E-5 15$QC=7.86E-7 11                

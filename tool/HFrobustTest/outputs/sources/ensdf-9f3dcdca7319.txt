@@ -1,0 +1,20 @@
+260LR    ADOPTED LEVELS                                          99NDS    199908
+260LR  H TYP=FUL$AUT=Y. A. AKOVALI$CIT=NDS 87, 301 (1999)$CUT=1-Oct-1998$       
+260LR  Q -8.7E2    SY5.65E3  SY3.12E3  SY8.40E3  SY    2012WA38                 
+260LR cQ $Note: Current evaluation has used the following Q record              
+260LR2cQ -802      syst 5666   syst 3052   syst 8306   syst    1995Au04         
+260LR c  Assignment: {+249}Bk(95-MeV {+18}O), {+248}Cm(78-MeV {+15}N),          
+260LR2c  parent of {+256}Fm (|e daughter of {+256}Md) (1971Es01).               
+260LR c  For calculation of fission barrier as a function of deformation,       
+260LR2c  see 1985Cw01.                                                          
+260LR c  For calculations of production cross sections, see 1987Ma45, 1987Ma50. 
+260LR  L 0.0                           180 S     30                             
+260LR cL T         measured by 1971Es01.                                        
+260LR2 L %A=80 20 $ %EC<40                                                      
+260LR cL $%|e<40 was estimated by 1971Es01 by comparing the number of           
+260LR2cL {+260}Lr |a's observed with the number of {+260}No SF decay events; 40%
+260LR3cL was obtained when {+260}No is assumed to decay by spontaneous fission  
+260LR4cL only. Since {+256}Fm was also produced in the reaction, the estimate   
+260LR5cL for |e decay is very crude (1971Es01).                                 
+260LR cL $1997Mo25 calculated T{-1/2}(|e)>100 s. No |b half-life                
+260LR2cL calculations for Z>100 nuclei are given in 1973Ta30.                   

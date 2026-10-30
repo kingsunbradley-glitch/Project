@@ -1,0 +1,49 @@
+255FM    ADOPTED LEVELS, GAMMAS                                  13NDS    201309
+255FM  H TYP=ERR$AUT=B. Singh$DAT=22-SEP-2013$COM=Added RI for some single G's$ 
+255FM  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+255FM2 H CUT=1-Nov-2011$                                                        
+255FM  Q -1043     8  5175   5  5481   6  7239.7 18    2012WA38                 
+255FM D  Modified by E. Browne (12/11/2011)                                     
+255FM c                                                                         
+255FM c  Calculations, compilations:                                            
+255FM c  Cluster decay ({+20}O): 1994Ci12                                       
+255FM c  Delayed neutron emission: 1989Br25                                     
+255FM c  Favored |a decays: 1993Bu09, 1992Bu03                                  
+255FM c  Ground state configuration: 1995Ci09, 1995Du05                         
+255FM c  Single-particle Nilsson levels: 2005Pa73, 1994Cw02                     
+255FM c  Q(|a), half-lives, and decay branching ratios: 2010Ni02, 2010Si27,     
+255FM2c  2009Sa25, 2008Do12                                                     
+255FM c  Spontaneous fission half-lives: 2004Ro01, 2000Ho27                     
+255FM c                                                                         
+255FM c  1994Cw02 have calculated the following single-particle level sequence: 
+255FM2c  g.s. 1/2[620], 0.01 MeV, 3/2[622]; 0.09 MeV, 7/2[613]; 0.14 MeV,       
+255FM3c  11/2[725]; 0.49 MeV, 9/2[615].                                         
+255FM  XA255ES B- DECAY                                                         
+255FM  XB255MD EC DECAY                                                         
+255FM  XC259NO A DECAY                                                          
+255FM cL E         From {+255}Md |e decay, unless otherwise noted.              
+255FM CL BAND(A)   7/2[613]                                                     
+255FM cG E,RI,M    From {+255}Md |e decay (2000Ah02).                           
+255FM  L 0.0           7/2+            20.07 H   7                          A   
+255FM2 L MOMM1=-3.46                                                            
+255FM cL MOMM1     Resonance Ionization Spectroscopy (2005Bb14)                 
+255FM3 L MOME2=10.6                                                             
+255FM cL MOME2     Resonance Ionization Spectroscopy (2005Bb14)                 
+255FM2 L %A=100$ %SF=2.4E-5 10                                                  
+255FMX L XREF=ABC                                                               
+255FM cL J         Favored |a decay to 7/2[613] band in {+251}Cf.               
+255FM2cL See 1995Ci09, 1995Du05 for calculations of g.s. configuration.         
+255FM cL T         from 1964As01; other measurements: 21.5 h {I1} (1956Jo09),   
+255FM2cL 19.9 h {I3} (1963Ph01)                                                 
+255FM cL %SF       from SF/|a=2.4|*10{+-7} {I+11-9} (1963Ph01,2000Ho27).        
+255FM  L 61.6      3    (9/2+)                                              A   
+255FMX L XREF=ABC                                                               
+255FM dL E         from A=6.723 keV {I16} and B=-0.0014 keV {I3} (parameters of 
+255FM2dL the 7/2[613] band in {+251}Cf) one obtains E(9/2+)=60.0 {I5}           
+255FM  G   61.7         100     [M1]                    42.9  9                 
+255FM  L   231.1    2   9/2+                                                    
+255FMX L XREF=BC                                                                
+255FM cL J$M1+E2 to 7/2+, 9/2+; favored |a from {+259}No                        
+255FM2cL (configuration=(|n 9/2[615]))                                          
+255FM  G   169.5    2   11   1  M1+E2                                           
+255FM  G   231.1    2   100  11 M1+E2                                           

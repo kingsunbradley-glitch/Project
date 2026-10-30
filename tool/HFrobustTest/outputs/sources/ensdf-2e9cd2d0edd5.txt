@@ -1,0 +1,94 @@
+253RF    ADOPTED LEVELS                                          ENSDF    202312
+253RF  H TYP=FUL$AUT=Balraj Singh$CIT=ENSDF$CUT=12-Feb-2023                     
+253RF  H TYP=FUL$AUT=ASHOK K. JAIN, SUKHJEET SINGH, JAGDISH K. TULI$            
+253RF2 H CIT=NDS 107, 2103 (2006)$CUT=31-Jan-2006$                              
+253RF  Q              7230   CA 2180   SY 9430   SY    2021WA16,2019MO01        
+253RF cQ $S(p) and Q(|a) from 2021Wa16. S(n) from theory (2019Mo01)             
+253RF cQ $Estimated uncertainties (2021Wa16): 450 for S(p), 300 for Q(|a)       
+253RF cQ $Q(|e)=5120 {I440}, Q(|ep)=3480 {I410}, S(2p)=3790 {I450}              
+253RF2cQ (syst, 2021Wa16). S(2n)=16110 (theory,2019Mo01)                        
+253RF c  1976FlZN: review article on the production of superheavy elements      
+253RF2c  at JINR-Dubna, including {+253}Rf (labeled as {+253}Ku in the paper),  
+253RF3c  produced in {+206}Pb({+50}Ti,3n) reaction, with measured T{-1/2}=1.8 s,
+253RF4c  and 50% SF decay branching. This activity is likely different as the   
+253RF5c  measured half-life is in sharp disagreemet with 9.9 ms {I12}           
+253RF6c  in 2022Lo03.                                                           
+253RF c  1997He29: {+253}Rf produced in {+204}Pb({+50}Ti,n),E=4.68 MeV/nucleon  
+253RF2c  at GSI facility. A total of 14  correlated events with T{-1/2}=48 |ms  
+253RF3c  and eight correlated events with T{-1/2}=11 ms were observed.          
+253RF c  2021Kh07: {+253}Rf produced in {+204}Pb({+50}Ti,n),E=234.3 MeV,        
+253RF2c  followed by separation of evaporation residues (ERs) using gas-filled  
+253RF3c  TransActinide Separator and Chemistry Apparatus (TASCA) at UNILAC, GSI.
+253RF4c  Measured (Er)(fission)-correlated events, half-lives of the two fission
+253RF5c  activities of {+253}Rf.                                                
+253RF c  2022Lo03: {+253}Rf produced in {+204}Pb({+50}Ti,n),E=244 MeV. Measured 
+253RF2c  E|a, (recoil)|a|a-correlated decays, and T{-1/2} of the g.s. and two   
+253RF3c  isomers in {+253}Rf using SHELS fragment separator and implanted into  
+253RF4c  the GABRIELA setup at FLNR-JINR-Dubna.                                 
+253RF c                                                                         
+253RF c  Theoretical structure calculations:                                    
+253RF c  2018Ma38: calculated single-particle energy spectra, J|p, deformation  
+253RF2c  of odd isotones with N=149, 153 using Two-Center Shell Model (TCSM)    
+253RF3c  with K-mixing of the basis wave functions and inclusion of the Coriolis
+253RF4c  correction                                                             
+253RF c  2015As05: calculated energy levels, J|p, Nilsson single-particle       
+253RF2c  energies, deformation parameters.                                      
+253RF c  2006Sh19: calculated levels, J|p, rotational bands, transition dipole  
+253RF2c  and quadrupole moments using cluster model                             
+253RF c  2005Pa73: calculated following single-particle level sequence:         
+253RF2c  g.s., 9/2[734]; 0.01 MeV, 7/2[624]; 0.07 MeV, 5/2[622]; 0.33 MeV,      
+253RF3c  1/2[633]; 0.38 MeV, 1/2[501].                                          
+253RF c  1994Cw02: calculated following single-particle level sequence:         
+253RF2c  g.s., 7/2[624]; 0.02 MeV, 9/2[734]; 0.21 MeV, 5/2[622].                
+253RF c  1985Cw01: calculated deformation energy along fission barrier versus   
+253RF2c  |b{-2}, fission barrier versus neutron number using Strutinsky method  
+253RF c                                                                         
+253RF d  Theory references (for decay): 2022Ro05, 2022Xi08, 2021Bu02, 2021Ji04, 
+253RF2d  2021Ma17, 2021Sa34, 2021Si02, 2021Vl01, 2020Si27, 2015Ba24, 2014Si17,  
+253RF3d  2012Ji07, 2009Do22, 2008Do12, 2008Ro06, 2007Zh41, 2005Re16, 2004Ro01,  
+253RF4d  1978Po09.                                                              
+253RF  L  0           (1/2+)            9.9 MS   12                             
+253RF2 L %SF=83 6 $ %A=17 6 (2022Lo03)                                          
+253RF cL %A$from ratio of |a to SF activities (2022Lo03).                       
+253RF2cL Other %|a: |?12.5 (2021Kh07). SF decay observed by 1997He29; SF and    
+253RF3cL |a decay observed by 2021Kh07 and 2022Lo03.                            
+253RF cL E$it is assumed that longer-lived and slow-fissioning activity is      
+253RF2cL the ground state. Experimentally, however, the ordering of the energies
+253RF3cL of the two activities is unknown. Possibility exists for the reversal  
+253RF4cL of the ordering in energy of the two activities.                       
+253RF cL J$configuration=|n1/2[631] (2022Lo03). 2021Kh07 suggested 7/2+ for     
+253RF2cL the g.s. with configuration=|n7/2[724]. Note that 2022Lo03 reversed    
+253RF3cL the J|p assignments for the g.s. and the 52.8-|ms isomer from those    
+253RF4cL proposed by 2021Kh07, based on systematics of fission hindrances and   
+253RF5cL half-lives of the two activities.                                      
+253RF cL T$from SF decay curve (2022Lo03). Others: 5.7 ms {I+31-15} from        
+253RF2cL Er-|a-correlated decay curve (2022Lo03); 12.8 ms {I+70-34} (2021Kh07,  
+253RF3cL Er-|a decay); 11 ms {I+6-3} (1997He29).                                
+253RF  L 0+X           (7/2+)          52.8 US   44                          M1 
+253RF2 L %SF AP 100 $ %A=?                                                      
+253RF cL %SF$there is evidence for only the |a decay from 1997He29 and 2022Lo03 
+253RF cL E$x|<15 keV from the decoupling parameter of the |n1/2[631]            
+253RF2cL configuration known from lighter isotopes, but x|?-105 keV from trend  
+253RF3cL of the energies of the 1/2+ state in N=149 isotones as Z increases     
+253RF4cL (2022Lo03). Based on discussion in 2022Lo03, it is assumed that the    
+253RF5cL shorter-lived and fast-fissioning activity is the isomeric activity.   
+253RF6cL Experimentally, however, the ordering of the energies of the two       
+253RF7cL activities is unknown. Possibility exists for the reversal of the      
+253RF8cL ordering in energy of the two activities.                              
+253RF cL J$configuration=|n7/2[724] (2022Lo03). 2021Kh07 suggested 1/2+ for     
+253RF2cL the g.s. with configuration=|n1/2[631]. Note that 2022Lo03 reversed    
+253RF3cL the J|p assignments for the g.s. and the 52.8-|ms isomer from those    
+253RF4cL proposed by 2021Kh07, based on systematics of fission hindrances and   
+253RF5cL half-lives of the two activities.                                      
+253RF cL T$from SF decay curve (2022Lo03). Others: 44 |ms {I+17-10} (2021Kh07), 
+253RF2cL 48 |ms {I+17-10} (1997He29,1999He11)                                   
+253RF  L 1020+X    GE                  0.66 MS   +40-18                      M2 
+253RF2 L %IT AP 100 $ %A=?                                                      
+253RF cL $Level identified from observation of seven isomeric decays followed   
+253RF2cL by the fast fission of {+253}Rf (2022Lo03). From evidence of decay     
+253RF3cL by isomeric transitions only, |?100% IT decay is assigned by inference,
+253RF4cL while there is no experimental information for the branching ratio.    
+253RF cL J$possible high-K isomer (2022Lo03)                                    
+253RF cL T$from 2022Lo03. Other: |?0.6 |ms (2021Kh07)                           
+253RF cL E$energy removed by the isomeric cascades obtained from summing all    
+253RF2cL the signals in the GABRIELA detectors (2022Lo03).                      

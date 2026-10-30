@@ -1,0 +1,83 @@
+247FM    251NO A DECAY (0.80 S)        2006HE27,2004HE28         15NDS    201503
+247FM  H TYP=FUL$AUT=C. D. NESARAJA$CIT=NDS 125, 395 (2015)$CUT=31-Mar-2014$    
+247FM c  2009Fo02: {+251}No produced in the |a decay of {+255}Rf, which is the  
+247FM2c  daughter from the |a decay of {+259}Sg. {+259}Sg was produced in the   
+247FM3c  {+208}Pb({+52}Cr,n) reaction at the Lawrence Berkeley National         
+247FM4c  Laboratory with {+52}Cr beam energy ranging between E=250-267 MeV.     
+247FM5c  Decay products were observed using a detector array consisting of 48   
+247FM6c  vertically position-sensitive detector strips. Measured |a spectra     
+247FM7c  and half-live from six {+247}Fm decays resulting from                  
+247FM8c  |a decays of {+251}No to {+247}Fm                                      
+247FM c  2006He27: {+251}No produced by the {+206}Pb({+48}Ca,3n) reaction at    
+247FM2c  E=4.80 MeV/nucleon {+48}Ca beam at UNILAC accelerator at GSI, and from 
+247FM3c  |a decay of {+255}Rf. Reaction products were separated from the        
+247FM4c  primary beam by the SHIP velocity filter and implanted into a          
+247FM4c  position-sensitive 16-strip PIPS detector.                             
+247FM c  Measured E|g, I|g, |g|g, |a-|g coin, ce, and lifetimes with a clover   
+247FM2c  detector.                                                              
+247FM c  2004He28: {+251}No was produced via {+206}Pb({+48}Ca,3n) reaction at   
+247FM2c  E{-lab}=230.5 MeV {+48}Ca beam at UNILAC accelerator at GSI.           
+247FM3c  Reaction products were separated from the primary beam by the SHIP     
+247FM4c  velocity filter and implanted into a                                   
+247FM4c  position-sensitive 16-strip PIPS detector for |a measurement.          
+247FM c  Measured E|g, I|g, |g|g, |a-|g coin, ce, and lifetimes with a clover   
+247FM2c  detector.                                                              
+247FM c  2001He35: {+251}No was produced via {+255}Rf |a decay at the           
+247FM2c  filter SHIP at GSI. HPGe detectors were used to measure |a-|g coin, ce 
+247FM3c  half-life                                                              
+247FM c  1989He03: {+251}No was produced via |a decay chain of {+255}104 at GSI.
+247FM2c  Measured |a and T{-1/2} with surface barrier detectors                 
+247FM c  1967Gh01: {+251}No was produced via {+244}Cm({+12}C,5n) at Berkeley    
+247FM2c  heavy-ion linear accelerator. |a spectra and T{-1/2} were measured.    
+247FM c  All data are from 2006He27, unless otherwise stated                    
+247FM cA IA$Disagreements between the relative intensities of two alpha         
+247FM2cA groups observed by 1967Gh01, 1989He03 and 2001He35 were explained      
+247FM3cA by 2004He28 by existence of two separate |a decaying {+251}No parent   
+247FM4cA states which were produced in different amounts in direct reactions    
+247FM5cA than in |a decay of {+255}Rf. Alpha's assigned to these two parent     
+247FM6cA states were followed by different alpha activities.                    
+247FM cA E$Three types of uncertainties are combined in quadrature:             
+247FM2cA statistical uncertainty of 4-8 keV; systematic uncertainty of 15 keV   
+247FM3cA from calibration methods/standards; uncertainty of 3 keV due to        
+247FM4cA reproducibility of an |a peak energy.                                  
+247FM cA E(X)$Tentative line in the |a spectrum. Possibly contributed by        
+247FM2cA summing of main |a-line with conversion electrons from highly-converted
+247FM3cA transition(s).                                                         
+247FM cA HF$r{-0}({+247}Fm)=1.4708 {I58}, unweighted average of                 
+247FM2cA r{-0}({+246}Fm)=1.465 {I7} and r{-0}({+248}Fm)=1.4765 {I19}            
+247FM2cA 1998Ak04) is used in calculations for hindrance factors.               
+251NO  P 0.0          (7/2+)            0.80 S   1              8752      16    
+251NO cP J,T$From Adopted Levels in {+251}No (2013Br09)                         
+251NO cP QP$From 2012Wa38. Others: 8751 {I16} from E|a=8612 {I16} (2006He27)    
+251NO cP T$From 2006He27. Others: 0.78 s {I+38-22}, 0.78 s {I2} (2004He28),     
+251NO2cP 0.76 s {I3} (2001He35), 0.8 s {I2} (1967Gh01)                          
+251NO cP $Proposed configuration=7/2[624] (2006He27,2004He28).                  
+247FM  N                       0.84    16                                       
+247FM cN BR$%|a=91 {I+9-22}, %SF<0.3, %|e is expected to be small               
+247FM2cN %|a is from total number of {+255}Rf |a decays and the number of       
+247FM3cN |a-|a correlations in |a decay chain: {+255}Rf-{+251}No-{+247}Fm       
+247FM4cN (2001He35)                                                             
+247FM  A 8524      17 0.5    AP  133   AP                                   X   
+247FM cA E$Statistical uncertainty=8                                            
+247FM  A 8552      17 1      AP   66   AP                                   X   
+247FM cA E$Statistical uncertainty=8                                            
+247FM  A 8571      17 0.5    AP  133   AP                                   X   
+247FM cA E$Statistical uncertainty=7                                            
+247FM  L 0.0         (7/2+)             31 S     1                              
+247FM2 L %A=64 (2006He27)$%EC+%B+=36                                            
+247FM cL T$From 2006He27. Others: 57 s {I+30-17} (2009Fo02), 29 s {I1}          
+247FM2cL (2004He28), 37 s {I+21-10} (1989He03), 35 s {I4} (1967Fl15)            
+247FM cL $Proposed configuration=7/2[624] (2006He27,2004He28)                   
+247FM  A 8612      16  98    AP  0.68  AP                                       
+247FM cA E$Statistical uncertainty=4. E|a=8608 {I5} (2004He28), 8621 {I10}      
+247FM2cA (2001He35)                                                             
+247FM  L 45        7  (1/2+)            5.1 S    2                           M  
+247FM2 L %IT=12 2 (2006He27)$%A=88 2                                            
+247FM cL T$From 2006He27. Other: 4.3 s {I4} (2004He28)                          
+247FM cL E$From 2006He27 based on the mean value derived from the |a energy     
+247FM2cL in the |aK x-ray measurement and the difference in measured Q(|a)      
+247FM3cL values for decays from g.s. to g.s and g.s to isomeric states.         
+247FM2cL Other: |?29 keV (2004He28)                                             
+247FM cL $Proposed configuration=1/2[631] (2006He27,2004He28).                  
+247FM  A 8562      17  0.3   AP  161   AP                                       
+247FM cA E$Statistical uncertainty=7. E|a=8578 {I10} (2001He35)                 

@@ -1,0 +1,140 @@
+223NP    ADOPTED LEVELS                                          ENSDF    201911
+223NP  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=07-JUN-2019$                    
+223NP  Q              8490   SY  960   SY  9650  44    2017WA10                 
+223NP cQ $Estimated uncertainties (2017Wa10): 280 for S(n), 200 for S(p).       
+223NP cQ $Q(|a): deduced by evaluator from E|a=9477 keV {I44} (2017Su18).       
+223NP2cQ 2017Wa10 give 9640 {I200} from systematics                             
+223NP cQ $S(2n)=15390 {I280}, S(2p)=4360 {I200}, Q(|ep)=1160 {I210}             
+223NP2cQ (syst,2017Wa10).                                                       
+223NP c  2017Su18: {+223}Np nuclide produced and identified in                  
+223NP2c  {+187}Re({+40}Ar,4n),E=188 MeV reaction, the {+40}Ar beam from the     
+223NP3c  Sector-focusing cyclotron (SFC) of HIRFL-Lanzhou facility. Target=460  
+223NP4c  |mg/cm{+2} thick sputtered on 80 |mg/cm{+2} thick carbon foils.        
+223NP5c  Evaporation residues (ERs) were separated using the recoil separator   
+223NP6c  SHANS, and implanted into a 300-|mm double-sided silicon strip detector
+223NP7c  (DSSSD). Measured ERs, E|a, and half-life of {+223}Np decay. FWHM=22-30
+223NP8c  keV at E|a=7 MeV. The identification of {+223}Np nuclide was achieved  
+223NP9c  through Er-|a correlated decay chains with the |a decays of daughter   
+223NPAc  nuclides {+215}Ac and/or {+211}Fr, the third and fourth members of the 
+223NPBc  |a-decay chain {+223}Np |) {+219}Pa |) {+215}Ac |) {+211}Fr |)         
+223NPCc  {+207}At, with the pileup signals resolved using a digital pulse       
+223NPDc  processing technique. Comparison with large-scale shell-model          
+223NPEc  calculations, and deduced absence of a subshell closure at Z=92 and    
+223NPFc  N=130. A total of ten Er-|a correlated decay chains were observed, as  
+223NPGc  reported in Table 1 of 2017Su18, but only the first five were useful   
+223NPHc  for extracting |a energy information for the decays of {+223}Np and    
+223NPIc  {+219}Pa.                                                              
+223NP c                                                                         
+223NP c  History of ten (Er)-|a-|a-|a-|a correlated decay chains observed       
+223NP2c  by 2017Su18:                                                           
+223NP c                                                                         
+223NP c  Event #1: E(Er)=12891 keV                                              
+223NP c  E{-|a1}=9454 keV {I30}, |Dt{-|a1}=4.58 |ms, assigned to {+223}Np       
+223NP c  E{-|a2}=9992 keV {I30}, |Dt{-|a2}=239 ns, assigned to {+219}Pa.        
+223NP2c  E{-|a1}+E{-|a2}=19446 keV {I40}, overlapping signal.                   
+223NP c  E{-|a3}=7596 keV, |Dt{-|a3}=6.8 ms, assigned to {+215}Ac               
+223NP c  |a4 was not observed                                                   
+223NP c                                                                         
+223NP c  Event #2: E(Er)=13940 keV                                              
+223NP c  E{-|a1}=9404 keV, |Dt{-|a1}=1.88 |ms, assigned to {+223}Np.            
+223NP c  E{-|a2}=10033 keV, |Dt{-|a2}=43 ns, assigned to {+219}Pa.              
+223NP2c  E{-|a1}+E{-|a2}=19437 keV {I40}, overlapping signal. E{-|a1}           
+223NP3c  and E{-|a2} determined from {+223}Np |) {+219}Pa pileup signals        
+223NP c  E{-|a3}=7593 keV, |Dt{-|a3}=142.7 ms, assigned to {+215}Ac             
+223NP c  E{-|a4}=862 keV (escaped |a), |Dt{-|a4}=8.2 s, assigned to {+211}Fr    
+223NP c                                                                         
+223NP c  Event #3: E(Er)=9963 keV                                               
+223NP c  E{-|a1}=9568 keV, |Dt{-|a1}=4.28 |ms, assigned to {+223}Np.            
+223NP c  E{-|a2}=9879 keV, |Dt{-|a2}=80 ns, assigned to {+219}Pa.               
+223NP2c  E{-|a1}+E{-|a2}=19447 keV {I40}, overlapping signal. E{-|a1}           
+223NP3c  and E{-|a2} determined from {+223}Np |) {+219}Pa pileup signals        
+223NP c  E{-|a3}=1122 keV (escaped |a), |Dt{-|a3}=141.2 ms, assigned to {+215}Ac
+223NP c  E{-|a4}=6536 keV, |Dt{-|a4}=210.4 s, assigned to {+211}Fr              
+223NP c                                                                         
+223NP c  Event #4: E(Er)=14652 keV                                              
+223NP c  E{-|a1}=9316 keV, |Dt{-|a1}=2.60 |ms, assigned to {+223}Np.            
+223NP c  E{-|a2}=10133 keV, |Dt{-|a2}=39 ns, assigned to {+219}Pa.              
+223NP2c  E{-|a1}+E{-|a2}=19449 keV {I40}, overlapping signal. E{-|a1}           
+223NP3c  and E{-|a2} determined from {+223}Np |) {+219}Pa pileup signals        
+223NP c  E{-|a3}=7593 keV, |Dt{-|a3}=621.3 ms, assigned to {+215}Ac             
+223NP c  |a4 was not observed.                                                  
+223NP c                                                                         
+223NP c  Event #5: E(Er)=10721 keV                                              
+223NP c  E{-|a1} not reported, |Dt{-|a1}=9.36 |ms, assigned to {+223}Np.        
+223NP c  E{-|a2} not reported, |Dt{-|a2}=30 ns, assigned to {+219}Pa.           
+223NP2c  E{-|a1}+E{-|a2}=19484 keV {I40}, overlapping signal.                   
+223NP c  |a3 was not observed.                                                  
+223NP c  E{-|a4}=6521 keV, |Dt{-|a4}=55.3 s, assigned to {+211}Fr               
+223NP c                                                                         
+223NP c  Event #6: E(Er)=12935 keV                                              
+223NP c  E{-|a1}=752 keV {I60} (escaped |a), |Dt{-|a1}=0.72 |ms, assigned to    
+223NP2c  {+223}Np.                                                              
+223NP c  E{-|a2}=9961 keV {I60}, |Dt{-|a2}=140 ns, assigned to {+219}Pa.        
+223NP2c  E{-|a1}+E{-|a2}=10713 keV {I40}, overlapping signal.                   
+223NP c  E{-|a3}=7591 keV, |Dt{-|a3}=1023.0 ms, assigned to {+215}Ac            
+223NP c  |a4 was not observed.                                                  
+223NP c                                                                         
+223NP c  Event #7: E(Er)=16375 keV                                              
+223NP c  E{-|a1}=2455 keV {I60} (escaped |a), |Dt{-|a1}=1.20 |ms, assigned to   
+223NP2c  {+223}Np.                                                              
+223NP c  E{-|a2}=1016 keV {I60} (escaped |a), |Dt{-|a2}=160 ns, assigned to     
+223NP2c  {+219}Pa. E{-|a1}+E{-|a2}=3471 keV {I40}, overlapping signal.          
+223NP c  E{-|a3}=7586 keV, |Dt{-|a3}=194.0 ms, assigned to {+215}Ac             
+223NP c  |a4 was not observed.                                                  
+223NP c                                                                         
+223NP c  Event #8: E(Er)=12079 keV                                              
+223NP c  E{-|a1}=1093 keV (escaped |a), |Dt{-|a1}=1.74 |ms, assigned to {+223}Np
+223NP c  E{-|a2}=9793 keV, |Dt{-|a2}=19 ns, assigned to {+219}Pa.               
+223NP2c  E{-|a1}+E{-|a2}=10886 keV {I40}, overlapping signal. E{-|a1}           
+223NP3c  and E{-|a2} determined from {+223}Np |) {+219}Pa pileup signals        
+223NP c  E{-|a3}=7584 keV, |Dt{-|a3}=231.9 ms, assigned to {+215}Ac             
+223NP c  |a4 was not observed                                                   
+223NP c                                                                         
+223NP c  Event #9: E(Er)=15260 keV                                              
+223NP c  E{-|a1}=1785 keV (escaped |a), |Dt{-|a1}=0.30 |ms, assigned to {+223}Np
+223NP c  E{-|a2}=10714 keV, |Dt{-|a2}=44 ns, assigned to {+219}Pa.              
+223NP2c  E{-|a1}+E{-|a2}=12499 keV {I40}, overlapping signal. E{-|a1}           
+223NP3c  and E{-|a2} determined from {+223}Np |) {+219}Pa pileup signals        
+223NP c  E{-|a3}=7599 keV, |Dt{-|a3}=131.3 ms, assigned to {+215}Ac             
+223NP c  |a4 was not observed                                                   
+223NP c                                                                         
+223NP c  Event #10: E(Er)=13181 keV                                             
+223NP c  E{-|a1}=9381 keV, |Dt{-|a1}=4.42 |ms, assigned to {+223}Np             
+223NP c  E{-|a2}=731 keV (escaped |a), |Dt{-|a2}=81 ns, assigned to {+219}Pa.   
+223NP2c  E{-|a1}+E{-|a2}=10112 keV {I40}, overlapping signal. E{-|a1}           
+223NP3c  and E{-|a2} determined from {+223}Np |) {+219}Pa pileup signals        
+223NP c  E{-|a3}=7601 keV, |Dt{-|a3}=19.3 ms, assigned to {+215}Ac              
+223NP c  |a4 was not observed                                                   
+223NP c                                                                         
+223NP  L 0            (9/2-)            2.2 US   +10-5                          
+223NP2 L %A AP 100                                                              
+223NP cL $Only |a decay has been detected. From theoretical T{-1/2}(|b)=4.4 s   
+223NP2cL and T{-1/2}(|a)=18 ms in 2019Mo01, only |a decay is expected.          
+223NP cL $Production |s=0.9 nb {I+3-2} at E|?185 MeV (2017Su18)                 
+223NP cL J$tentative assignment proposed by 2017Su18, based on reduced |a-decay 
+223NP2cL width and large-scale shell-model calculations, while 7/2- is not      
+223NP3cL excluded. 2017Su18 considered the scenario of J|p=7/2- for the g.s. of 
+223NP4cL {+223}Np and its favored |a decay to a 7/2- excited state in {+219}Pa, 
+223NP5cL expected at an energy of 350 keV from shell-model calculations,        
+223NP6cL followed by a |g ray to the 9/2- g.s. of {+219}Pa, as direct |a decay  
+223NP7cL from 7/2- g.s. {+223}Np to 9/2- g.s. of {+219}Pa will be hindered.     
+223NP8cL Others: 9/2- (2017Au03, syst); 7/2 (2019Mo01, theory)                  
+223NP cL T$measured as 2.15 |ms {I+100-52} by 2017Su18 from averaging the time  
+223NP2cL differences between the {+223}Np implantations and |a decays. Authors  
+223NP3cL noted that the half-life of {+223}Np was comparable to the time of     
+223NP4cL flight (tof) in the SHANS recoil separator, and the effect of tof on   
+223NP5cL the half-life was investigated with reference to measurements of       
+223NP6cL half-lives (in |ms range) of {+219}Th, {+218}Ac and {+216}Ra in the    
+223NP7cL present experiment.                                                    
+223NP cL $E|a=9477 keV {I44} from the decay of {+223}Np was obtained from       
+223NP2cL measured |a energy of 9976 keV {I37} for {+219}Pa decay in events      
+223NP3cL #1 and #6 (see Table 1 in 2017Su18), and subtracting this energy from  
+223NP4cL summed |a energy of 19453 {I23} obtained from the first five events    
+223NP5cL for |a decays of {+223}Np and its daughter {+219}Pa.                   
+223NP cL $Only in the first five events in Table 1 of 2017Su18, deposited |a-sum
+223NP2cL energies of {+223}Np and {+219}Pa were consistent within 50 keV of     
+223NP3cL 19453 keV {I23}, suggesting that only one |a line (E|a=9477 keV) was   
+223NP4cL emitted by {+223}Np                                                    
+223NP cL $Deduced |a reduced width in Rasmussen formalism,                      
+223NP2cL (|d{+2})=0.17 MeV {I+8-4} (2017Su18), assuming the same J|p values for 
+223NP3cL parent and daughter ground states.                                     

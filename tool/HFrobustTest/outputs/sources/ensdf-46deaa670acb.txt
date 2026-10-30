@@ -1,0 +1,566 @@
+227AC    ADOPTED LEVELS, GAMMAS                                  16NDS    201602
+227AC  H TYP=FUL$AUT=ICTP-2014 Workshop Group$CIT=NDS 132, 257 (2016)$          
+227AC2 H CUT=15-Jan-2016$                                                       
+227AC  H TYP=FUL$CIT=ENSDF$CUT=15-JAN-2016$                                     
+227AC2 H AUT=B. Singh, I. Ami, A. Chakraborty, M. Latif, S. Rathi and D. Yang$  
+227AC  Q 44.8      8 6531    3 5107.5  23 5042.19 14   2012WA38                 
+227AC cQ $S(2n)=11930 {I5}, S(2p)=12548 {I12} (2012Wa38)                        
+227AC c  {B{+227}Ac evaluated by B. Singh, I. Ami, A. Chakraborty,}             
+227AC2c  {BS. Kumar, M. Latif and D. Yang.}                                     
+227AC c  {+227}Ac lies at the border of the octupole-quadrupole and pure        
+227AC2c  quadrupole deformation regions. 1983Sh16 interpreted this nucleus as   
+227AC3c  having a core with a "soft" octupole deformation (1990Ja11).           
+227AC4c  The presence of parity doublet rotational bands, and also of           
+227AC5c  K=1/2 rotational bands with decoupling parameters having opposite      
+227AC6c  signs, suggests a stable octupole deformation for {+227}Ac (1987Le05). 
+227AC7c  The level structure, (|a,t) spectroscopic factors, and the ground state
+227AC8c  magnetic and quadrupole moments, have been interpreted in terms of a   
+227AC9c  stable octupole deformation with |e{-3}|?0.1 (1988Le13,1983Sh16). It   
+227ACAc  should be mentioned, however, that the experimental (|a,t)             
+227ACBc  spectroscopic factors of 1988Ma18 agree with theoretical values        
+227ACCc  based on a quadrupole deformation only.                                
+227AC cG E$Weighted average from {+231}Pa |a decay and {+227}Ra |b{+-} decay.   
+227AC cG RI$Best value from {+231}Pa |a decay and {+227}Ra |b{+-} decay.        
+227AC cG E(X),RI(X)$From {+227}Ra |b{+-} decay                                  
+227AC cG E(Y)$With the intensity reported in {+227}Ra decay, the |g ray should  
+227AC2cG have been seen in {+231}Pa |a decay. Evaluators treat this transition  
+227AC3cG as uncertain                                                           
+227AC cG E(Z),RI(Z)$|g reported only in {+231}Pa |a decay. With the intensity   
+227AC2cG reported, it should have been seen in {+227}Ra |b{+-} decay. Evaluators
+227AC3cG treat this transition as uncertain                                     
+227AC cG M,MR$From {+231}Pa |a decay, based on ce, |g|g(|q) and |g(|q,H,t) data 
+227AC cG CC$From BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+227AC2cG |a value overlaps M1 and E2 when |d(E2/M1) not given                   
+227AC cL $Band assignments: parity doublet band assignments are from 1990Ja11.  
+227AC2cL Although octupole deformations are small in this region, the states are
+227AC3cL not fully characterized by single Nilsson orbitals. Single-particle    
+227AC4cL orbitals, however, are used here to label states rather than to        
+227AC5cL accurately describe their detailed configurations                      
+227AC cL J$Spin and parity assignments are based on rotational structure,       
+227AC2cL |g-ray multipolarities and decay patterns, |a|g(|q) data from 1971Le10,
+227AC3cL and comparison of experimental and theoretical cross sections (and     
+227AC4cL spectroscopic factors) in {+226}Ra(|a,t) reaction for band members     
+227AC5cL based on Nilsson model configurations ("finger-print" method). Nilsson 
+227AC6cL orbital assignments are based on their energy systematics in           
+227AC7cL neighboring odd-Z nuclei, favored |a decay transitions from {+231}Pa   
+227AC8cL parent with ground-state J|p=3/2- and configuration of |p1/2[530], and 
+227AC9cL also on comparison of experimental and theoretical relative |a-particle
+227ACAcL branches (1965PoZZ). Other specific arguments, based on |g transitions,
+227ACBcL are given with individual levels.                                      
+227AC cL E$From least-squares fit to adopted |g-ray energies, unless otherwise  
+227AC2cL specified.                                                             
+227AC CL BAND(A)$|p3/2[532] parity doublet band.                                
+227AC2cL Rotational parameter: A=6.0 (1990Ja11).                                
+227AC CL BAND(B)$|p3/2[651] parity doublet band.                                
+227AC2cL Coriolis mixed with other N=6 rotational bands.                        
+227AC CL BAND(D)$|p5/2[523] parity doublet band.                                
+227AC2cL Rotational parameter: A=6.3 (1990Ja11).                                
+227AC CL BAND(E)$|p5/2[642] parity doublet band.                                
+227AC2cL Coriolis mixed with other N=6 rotational bands.                        
+227AC CL BAND(F)$|p1/2[530] parity doublet band.                                
+227AC2cL Rotational parameters: A=6.7, a=-2.21 (1990Ja11).                      
+227AC CL BAND(G)$|p1/2[660] parity doublet band.                                
+227AC2cL Coriolis mixed with other N=6 rotational bands.                        
+227AC CL BAND(H)$|p1/2[400] band                                                
+227AC  XB227RA B- DECAY (42.2 M)                                                
+227AC  XA231PA A DECAY (3.276E+4 Y)                                             
+227AC  XC226RA(3HE,D)                                                           
+227AC  XD226RA(A,T)                                                             
+227AC  XE230TH(P,A)                                                             
+227AC PN                                                                     6  
+227AC  L        0.0         3/2-       21.772 Y  3                          A   
+227AC2 L %B-=98.6200 36$%A=1.3800 36                                            
+227AC2 L MOMM1=+1.1 1 (1955Fr26,2014StZZ)                                       
+227AC2 L MOME2=+1.7 2 (1955Fr26,2013StZZ)                                       
+227ACX L XREF=ABCD                                                              
+227AC cL MOMM1,MOME2$optical spectroscopy (1955Fr26).                           
+227AC cL %A$from 1970Ki12. Other values: 1.359 {I14} (1974Mo05), 1.45 {I6}      
+227AC2cL (1965Nu03), 1.25 {I2} (1949Pe03), 1939Pe02.                            
+227AC cL J$spin from optical spectroscopy (1951To19). Parity from               
+227AC2cL 330|g, M1+E2 from 3/2-.                                                
+227AC cL $Configuration: |a particle branching in {+231}Pa decay,               
+227AC2cL I|a(exp)=11.0 {I5} agrees well with I|a(theory)=12.1 for 3/2-,3/2[532] 
+227AC3cL (1969La04,1965PoZZ). The theoretical magnetic (|m=1.08) and            
+227AC4cL quadrupole (Q=1.44) moments for 3/2-,3/2[532] coupled to a stable      
+227AC5cL octupole deformation of |e{-3}=0.1 agree well with the experimental    
+227AC6cL values (1988Le13).                                                     
+227AC cL T$weighted average of 21.7728 y {I+29-32} (1967JoZX, calorimetric      
+227AC2cL measurement) and 21.7714 y {I+56-33} (1963Ei10). Others: 21.6 y {I3}   
+227AC3cL (1959Ro51), 21.2 y {I8} (1956Sh43), 21.6 y {I4} (1955To07),            
+227AC4cL 22.0 y {I3} (1950Ho79); these values are in general agreement with the 
+227AC5cL adopted value but much less precise. Their inclusion in the weighted   
+227AC6cL averaging procedure does not alter the recommended value.              
+227AC  L 27.369    11      3/2+          38.3 NS 3                          B   
+227ACX L XREF=ABC(*)DE(*)                                                       
+227AC cL J$27.4|g, E1 to 3/2-; |a|g(|q).                                        
+227AC cL $Configuration: |a particle branching in {+231}Pa decay, I|a(exp)|?2.5%
+227AC2cL disagrees with I|a(theory)=11.8 for 3/2+,3/2[651]                      
+227AC3cL (1969La04,1965PoZZ). Coriolis mixing with other N=6 Nilsson orbitals   
+227AC4cL probably affects this branching.                                       
+227AC cL T$from |a|g(t) in {+231}Pa |a decay (1985Is03). Others: 41.0 ns {I11}  
+227AC2cL (1972Ga39), 43.0 ns (1963Su10), 42.0 ns {I10} (1961Br32), 37.0 ns      
+227AC3cL (1956Fo21), 37.0 ns (1953Mo74), 42.0 ns (1953Te08)                     
+227AC  G 27.36     2    100    E1(+M2)   0.0020  LT    4.5    4                 
+227AC cG MR$ce data suggest |d=0.0070 {I13}. Value given here is                
+227AC2cG estimated from RUL=1 for M2 transitions                                
+227AC cG CC$from experimental ce data in {+231}Pa |a decay; suggests anomalous  
+227AC2cG conversion coefficient for E1 transition, since from BrIcc code,       
+227AC3cG theoretical value=3.59 {I7} for E1(+M2) with |d<0.0020                 
+227ACB G BE1W>3.9E-5                                                            
+227AC  L 29.978    11       5/2-                                            A   
+227ACX L XREF=ABC(*)DE(*)                                                       
+227AC cL J$29.9|g, M1+E2 to 3/2-; 357.1|g, M1+E2 from 7/2-.                     
+227AC cL $Configuration: |a particle branching in {+231}Pa decay,               
+227AC2cL I|a(exp)=20.0% {I5} compares well with I|a(theory)=13.3% for           
+227AC3cL 5/2-,3/2[532] (1969La04,1965PoZZ).                                     
+227AC  G 29.97     2    100    M1+E2     0.22    3     2.7E2  5                 
+227ACS G  LC=2.0E2 4$MC=52 9                                                    
+227ACS G  NC=13.8 23$OC=3.1 5$PC=0.52 8$QC=0.0213 4                             
+227AC  L 46.354    13       5/2+                                            B   
+227ACX L XREF=ABCD                                                              
+227AC cL J$283.7|g, E1 from 3/2-; 340.7|g, E1+M2 from 7/2-; |a|g(|q).           
+227AC cL $The |a particle branching in {+231}Pa decay, I|a(exp)=25.4% {I5} was  
+227AC2cL used by 1969La04 to normalize theory (1965PoZZ) and experiment for     
+227AC3cL 5/2+,3/2[651]                                                          
+227AC  G  16.5     1   119   5  [E1]                     8.58 12                
+227AC cG CC$BrIcc code cannot be used for this transition since its energy is   
+227AC2cG within 1 keV of L{-3} electronic shell binding energy. The total       
+227AC3cG conversion coefficient listed here is taken from the DDEP evaluation   
+227AC4cG of Feb 2010 by A. Arinc, where it was calculated by T. Kibedi using    
+227AC5cG the RAINE code, giving conversion coefficient of 5.06 {I7} for the     
+227AC6cG L{-3} shell                                                            
+227AC  G  19.6         186   53 [M1]                     112.8                  
+227ACS G LC=2.34 4$MC=82.5 12$NC=21.9 3$OC=5.09 8$PC=0.942 14$QC=0.0840 12      
+227AC  G 46.35     2   100   5 (E1)                    0.879                    
+227ACS G  LC=0.663 10$MC=0.1634 23                                              
+227ACS G  NC=0.0423 6$OC=0.00913 13$PC=0.001417 20$QC=5.89E-5 9                 
+227AC cG M$|d(Q/D)=+0.11 {I10} from |g|g(|q) in {+231}Pa decay (1982An02),      
+227AC2cG consistent with pure dipole                                            
+227AC  L 74.149    17        7/2-                                           A   
+227ACX L XREF=ABCD                                                              
+227AC cL J$312.9|g, M1+E2 from 7/2-; 255.8|g, E2 from 3/2-                      
+227AC cL $Configuration: |a particle branching in {+231}Pa decay, I|a(exp)=1.4% 
+227AC2cL agrees well with I|a(theory)=1.6% for 7/2-,3/2[532]                    
+227AC3cL (1969La04,1965PoZZ)                                                    
+227AC  G 44.14     2   100   8 [M1]                    37.4                     
+227ACS G  LC=28.3 4$MC=6.80 10                                                  
+227ACS G  NC=1.80 3$OC=0.420 6$PC=0.0777 11$QC=0.00691 10                       
+227AC  G 74.15     4    40.2 15 [E2]                   42.5                     
+227ACS G  LC=31.2 5$MC=8.52 13                                                  
+227ACS G  NC=2.27 4$OC=0.493 7$PC=0.0768 11$QC=0.000234 4                       
+227AC  L 84.544    14        7/2+                                           B   
+227ACX L XREF=ABCD                                                              
+227AC cL J$38.19|g, M1+E2 to 5/2+; 302.7|g, E1 from 7/2-                        
+227AC cL $Configuration: |a particle branching in {+231}Pa decay, I|a(exp)=0.4%,
+227AC2cL as compared to I|a(theory)=1.4% for 7/2+,3/2[651]                      
+227AC3cL (1969La04,1965PoZZ).                                                   
+227AC  G 38.20     2   100   3 M1+E2     0.19    9     92     38                
+227ACS G  LC=69 28$MC=17.4 76                                                   
+227ACS G  NC=4.6 20$OC=1.04 44$PC=0.180 67$QC=0.0104 3                          
+227AC  G 54.60     2   48    3 [E1]                    0.569                    
+227ACS G  LC=0.429 6$MC=0.1052 15                                               
+227ACS G  NC=0.0273 4$OC=0.00594 9$PC=0.000940 14$QC=4.17E-5 6                  
+227AC  G 57.19     3   22.6  15(E2)                    148.0                @   
+227ACS G  LC=108.5 16$MC=29.6 5                                                 
+227ACS G  NC=7.87 12$OC=1.709 25$PC=0.266 4$QC=0.000688 10                      
+227AC  L 109.992   21        9/2+                                           B   
+227ACX L XREF=ACDE                                                              
+227AC cL J$63.6|g, E2 to 5/2+; 277.2|g, E1+M2 from 7/2-                         
+227AC cL $Configuration: |a particle branching in {+231}Pa decay, I|a(exp)=22.8%
+227AC2cL as compared to I|a(theory)=16.9% for 9/2+,3/2[651] (1969La04,1965PoZZ) 
+227AC  G 25.48     6   100   11[M1]                    189                      
+227ACS G  LC=143.1 23$MC=34.5 6                                                 
+227ACS G  NC=9.16 15$OC=2.13 4$PC=0.394 7$QC=0.0351 6                           
+227AC  G 35.83     3   13.6  8 [E1]                    1.742                    
+227ACS G  LC=1.310 19$MC=0.327 5                                                
+227ACS G  NC=0.0843 12$OC=0.0179 3$PC=0.00268 4$QC=0.0001001 15                 
+227AC  G 63.64     3   37.5  13E2                      88.4                     
+227ACS G  LC=64.8 10$MC=17.7 3                                                  
+227ACS G  NC=4.70 7$OC=1.023 15$PC=0.1592 23$QC=0.000437 7                      
+227AC  L 126.848   22        9/2-                                           A   
+227ACX L XREF=ACDE                                                              
+227AC cL J$96.8|g, E2 to 5/2-; L(p,|a)=5 from 0+ target                         
+227AC cL $Configuration: |a particle branching in {+231}Pa decay, I|a(exp)=3.0% 
+227AC2cL agrees well with I|a(theory)=2.5% for 9/2-,3/2[532]                    
+227AC3cL (1969La04,1965PoZZ).                                                   
+227AC  G 52.71     3   92    5 [M1]                    22.2                     
+227ACS G  LC=16.82 24$MC=4.04 6                                                 
+227ACS G  NC=1.071 16$OC=0.249 4$PC=0.0461 7$QC=0.00410 6                       
+227AC  G 96.84     3  100.0  25 E2                     12.04                    
+227ACS G  LC=8.83 13$MC=2.41 4                                                  
+227ACS G  NC=0.642 9$OC=0.1399 20$PC=0.0219 3$QC=8.55E-5 12                     
+227AC  L 148       5                                                            
+227ACX L XREF=D                                                                 
+227AC  L 160       2                                                            
+227ACX L XREF=AC(?)                                                             
+227AC  L 187.34     3       11/2+                                           B   
+227ACX L XREF=ACD                                                               
+227AC cL J$102.6|g to 7/2+; 60.5|g to 9/2-.                                     
+227AC  G 60.50     3    9.2  12 [E1]                   0.433                    
+227ACS G  LC=0.327 5$MC=0.0798 12                                               
+227ACS G  NC=0.0208 3$OC=0.00454 7$PC=0.000726 11$QC=3.35E-5 5                  
+227AC  G 77.34     3   100   3 [M1]                    7.24                     
+227ACS G  LC=5.48 8$MC=1.315 19                                                 
+227ACS G  NC=0.349 5$OC=0.0811 12$PC=0.01501 21$QC=0.001334 19                  
+227AC  G 102.6     5    23   LT [E2]                   9.20   25                
+227ACS G  LC=6.74 19$MC=1.84 5                                                  
+227ACS G  NC=0.490 14$OC=0.107 3$PC=0.0167 5$QC=6.99E-5 16                      
+227AC  L 198.69     6       11/2-                                           A   
+227ACX L XREF=ACD                                                               
+227AC cL J$71.9|g to 9/2-; 124.6|g to 7/2-.                                     
+227AC  G 71.9      1   46    15 [M1]                   8.96                     
+227ACS G  LC=6.78 10$MC=1.626 24                                                
+227ACS G  NC=0.432 7$OC=0.1004 15$PC=0.0186 3$QC=0.001650 24                    
+227AC  G 124.58    8  100    9 [E2]                    4.04                     
+227ACS G  KC=0.285 4$LC=2.75 4$MC=0.752 11                                      
+227ACS G  NC=0.200 3$OC=0.0436 7$PC=0.00686 10$QC=3.71E-5 6                     
+227AC  L 210.84     7       13/2+                                           B   
+227ACX L XREF=ACDE                                                              
+227AC cL J$100.8|g to 9/2+; 23.6|g to 11/2+; L(p,|a)=6 from 0+ target           
+227AC  G 23.6         20     4 [M1]                    237                     S
+227ACS G  LC=179 3$MC=43.3 6                                                    
+227ACS G  NC=11.50 16$OC=2.67 4$PC=0.495 7$QC=0.0441 7                          
+227AC  G 100.85    6  100    4 [E2]                    9.96                     
+227ACS G  LC=7.30 11$MC=2.00 3                                                  
+227ACS G  NC=0.531 8$OC=0.1157 17$PC=0.0181 3$QC=7.42E-5 11                     
+227AC  L 227       2                                                            
+227ACX L XREF=C(?)D                                                             
+227AC  L 249       2                                                            
+227ACX L XREF=C(?)D                                                             
+227AC  L 271.32     7      (13/2-)                                          A   
+227ACX L XREF=AC(*)DE(*)                                                        
+227AC cL J$144.4|g to 9/2-; 72.7|g to 11/2-                                     
+227AC cL $Configuration: |a particle branching in {+231}Pa decay,               
+227AC2cL I|a(exp)=0.04% is the same as I|a(theory)=0.04% for 13/2-,3/2[532]     
+227AC3cL (1969La04,1965PoZZ)                                                    
+227AC  G 72.67     6    26   6 [M1]                    8.68                     
+227ACS G  LC=6.57 10$MC=1.577 23                                                
+227ACS G  NC=0.418 6$OC=0.0973 14$PC=0.0180 3$QC=0.001599 23                    
+227AC  G 144.40    8   100   9 [E2]                    2.18                     
+227ACS G  KC=0.263 4$LC=1.408 20$MC=0.384 6                                     
+227ACS G  NC=0.1023 15$OC=0.0223 4$PC=0.00353 5$QC=2.38E-5 4                    
+227AC  G 161.0     10          [M2]                    22.8   6                ?
+227ACS G  KC=15.0 4$LC=5.75 17$MC=1.51 5                                        
+227ACS G  NC=0.408 12$OC=0.094 3$PC=0.0170 5$QC=0.00133 4                       
+227AC cG E$evaluators treat this |g as questionable due to implied high         
+227AC2cG multipolarity                                                          
+227AC  L 273.19     4        (5/2)-                                         D   
+227ACX L XREF=ABC(*)DE(*)                                                       
+227AC cL J$273.1|g, M1+E2 to 3/2-; 243.1|g, M1+E2 to 5/2-; 198.9|g to 7/2-      
+227AC  G 198.89    10 7.3    7 [M1+E2]                 1.53   90                
+227ACS G  KC=1.05 90$LC=0.355 11$MC=0.091 4                                     
+227ACS G  NC=0.0241 10$OC=0.00543 10$PC=0.00093 7$QC=4.9E-5 39                  
+227AC cG RI$other: 3.1 in {+227}Ra decay                                        
+227AC  G 226.6     1  3.1      [E1]                    0.0688               X  ?
+227ACF G FLAG=Y                                                                 
+227ACS G  KC=0.0548 8$LC=0.01057 15$MC=0.00253 4                                
+227ACS G  NC=0.000666 10$OC=0.0001511 22$PC=2.65E-5 4$QC=1.81E-6 3              
+227AC  G 243.11    9  58     4 M1+E2     1.1     3     0.80   17                
+227ACS G  KC=0.56 16$LC=0.176 10$MC=0.0445 16                                   
+227ACS G  NC=0.0118 5$OC=0.00268 12$PC=0.00046 3$QC=2.60E-5 70                  
+227AC  G 246.04    9  20     6 [E1]                    0.0568                   
+227ACF G FL=27.369                                                              
+227ACS G  KC=0.0454 7$LC=0.00864 13$MC=0.00207 3                                
+227ACS G  NC=0.000544 8$OC=0.0001237 18$PC=2.18E-5 3$QC=1.515E-6 22             
+227AC cG RI$other: 3.1 in {+227}Ra decay                                        
+227AC  G 273.15    6  100.0  14M1+E2     0.7     3     0.74   15                
+227ACS G  KC=0.57 14$LC=0.131 11$MC=0.0323 21                                   
+227ACS G  NC=0.0086 6$OC=0.00197 15$PC=0.00035 4$QC=2.6E-5 6                    
+227AC  L 304.73     6       (5/2+)                                          E   
+227ACX L XREF=ABCD                                                              
+227AC cL $Level is weakly populated in {+231}Pa |a decay                        
+227AC cL J$277.4|g to 3/2+; 258.4|g to 5/2+; 219.9|g to 7/2+.                   
+227AC  G 219.90    15   10.5   [M1+E2]                 1.14   70            X   
+227ACS G  KC=0.80 67$LC=0.250 25$MC=0.0635 25                                   
+227ACS G  NC=0.0169 7$OC=0.00382 25$PC=0.00066 9$QC=3.7E-5 30                   
+227AC  G 230.0     10    70  35 [E1]                   0.0664 12            Z   
+227ACS G  KC=0.0530 10$LC=0.01019 18$MC=0.00244 5                               
+227ACS G  NC=0.000642 12$OC=0.000146 3$PC=2.56E-5 5$QC=1.75E-6 3                
+227AC  G 258.37    10   100  18 [M1+E2]                0.71   46                
+227ACS G  KC=0.52 42$LC=0.15 3$MC=0.037 6                                       
+227ACS G  NC=0.0097 14$OC=0.0022 4$PC=0.00039 9$QC=2.4E-5 19                    
+227AC  G 277.39    10   145     [M1+E2]                0.58   38            X   
+227ACS G  KC=0.43 35$LC=0.12 3$MC=0.029 6                                       
+227ACS G  NC=0.0077 15$OC=0.0018 4$PC=3.09E-4 84$QC=2.0E-5 16                   
+227AC  L 317       2       (7/2-)                                           D   
+227ACX L XREF=CD                                                                
+227AC  L 330.040   10       3/2-         70 PS   LT                         F   
+227ACX L XREF=ABCDE                                                             
+227AC cL J$favored |a transition with HF=2.5 from 3/2-,1/2[530] {+231}Pa state; 
+227AC2cL experimental band decoupling parameter (-2.1) agrees with theoretical  
+227AC3cL value for the 1/2[530] Nilsson orbital.                                
+227AC cL T$from |a(ce)(t) in {+231}Pa |a decay (1963Ab04).                      
+227AC  G 57.19     3    0.71   [M1+E2]                 83     66            @  ?
+227ACF G FL=273.19                                                              
+227ACS G  LC=61 48$MC=16 14                                                     
+227ACS G  NC=4.4 36$OC=0.95 76$PC=0.15 12$QC=0.0020 13                          
+227AC cG E,RI$energy from {+231}Pa |a decay. Placement and branching ratio from 
+227AC2cG {+227}Ra decay only. In {+231}Pa decay, this |g ray is placed from     
+227AC3cG 84.5 and 387.2 levels. Evaluators treat this transition as uncertain   
+227AC4cG since not confirmed in {+231}Pa |a decay                               
+227AC  G 245.60    13  0.407 32 [M2]                   5.23                     
+227ACS G  KC=3.70 6$LC=1.141 17$MC=0.293 5                                      
+227ACS G  NC=0.0787 12$OC=0.0182 3$PC=0.00331 5$QC=0.000268 4                   
+227AC cG $Deduced B(M2)(W.u.)>7.6 is inconsistent with RUL=1 for M2 transitions.
+227AC2cG The transition could be mixed with E3 or the level half-life is        
+227AC3cG longer than reported by 1963Ab04                                       
+227AC  G 255.78    7   6.42  6 E2                      0.265                    
+227ACS G  KC=0.0993 14$LC=0.1218 18$MC=0.0328 5                                 
+227ACS G  NC=0.00872 13$OC=0.00192 3$PC=0.000310 5$QC=5.37E-6 8                 
+227AC  G 283.682   16   100    E1                      0.0410                   
+227ACS G  KC=0.0329 5$LC=0.00614 9$MC=0.001468 21                               
+227ACS G  NC=0.000386 6$OC=8.81E-5 13$PC=1.561E-5 22$QC=1.117E-6 16             
+227AC  G 300.066   10  146.1 18 M1+E2    -0.12   7     0.764  17                
+227ACS G  KC=0.613 15$LC=0.1146 20$MC=0.0275 5                                  
+227ACS G  NC=0.00728 12$OC=0.00169 3$PC=0.000313 6$QC=2.75E-5 7                 
+227AC  G 302.667   9   138   20 E1                     0.0355               @   
+227ACS G  KC=0.0285 4$LC=0.00527 8$MC=0.001260 18                               
+227ACS G  NC=0.000331 5$OC=7.56E-5 11$PC=1.344E-5 19$QC=9.74E-7 14              
+227AC  G 330.055   15   82.3 10 M1+E2    +0.36   7     0.540  21                
+227ACS G  KC=0.430 19$LC=0.0836 22$MC=0.0202 5                                  
+227ACS G  NC=0.00535 13$OC=0.00124 3$PC=0.000228 6$QC=1.93E-5 8                 
+227AC  L 342       5       (7/2+)                                           E   
+227ACX L XREF=D                                                                 
+227AC  L     354.50 4       1/2-                                            F   
+227ACX L XREF=ABDE(*)                                                           
+227AC cL J$354.5|g, M1+E2 to 3/2-                                               
+227AC cL $Configuration: |a particle branching from {+231}Pa decay,             
+227AC2cL I|a(exp)|?1% agrees with I|a(theory)=1.4% for 1/2-,1/2[530]            
+227AC3cL (1969La04,1965PoZZ).                                                   
+227AC  G 24.5      1    5.1  AP [M1]                   213    4                 
+227ACS G  LC=161 3$MC=38.8 8                                                    
+227ACS G  NC=10.29 20$OC=2.39 5$PC=0.443 9$QC=0.0395 8                          
+227AC  G 327.14    7    37.4 7 (E1)                    0.0298                   
+227ACS G  KC=0.0240 4$LC=0.00440 7$MC=0.001050 15                               
+227ACS G  NC=0.000276 4$OC=6.32E-5 9$PC=1.125E-5 16$QC=8.28E-7 12               
+227AC  G 354.48    5  100.0  14 M1+E2    +2.8    +14-6 0.143  24                
+227ACS G  KC=0.090 21$LC=0.0391 24$MC=0.0101 5                                  
+227ACS G  NC=0.00269 14$OC=0.00060 4$PC=0.000102 7$QC=4.2E-6 9                  
+227AC  L 372       2       (9/2-)                                           D   
+227ACX L XREF=CDE(*)                                                            
+227AC  L 387.202   15       7/2-                                            F   
+227ACX L XREF=ACDE                                                              
+227AC cL J$260.2|g, M1+E2 to 9/2-; L(p,|a)=3 from 0+ target                     
+227AC cL $Configuration: |a particle branching from {+231}Pa decay,             
+227AC2cL I|a(exp)=1.5% as compared to I|a(theory)=2.2% for 7/2-,1/2[530]        
+227AC3cL (1969La04,1965PoZZ).                                                   
+227AC  G 57.19     3   1.54  27 E2                     148.0                @   
+227ACS G  LC=108.5 16$MC=29.6 5                                                 
+227ACS G  NC=7.87 12$OC=1.709 25$PC=0.266 4$QC=0.000688 10                      
+227AC  G 260.19    8   100.0 12 M1+E2    1.5     3     0.53   10                
+227ACS G  KC=0.35 9$LC=0.131 7$MC=0.0338 12                                     
+227ACS G  NC=0.0090 3$OC=0.00202 8$PC=0.000345 19$QC=1.6E-5 4                   
+227AC  G 277.22    7    37.4 5 (E1+M2)   0.40    5     0.52   11                
+227ACS G  KC=0.37 8$LC=0.107 23$MC=0.027 6                                      
+227ACS G  NC=0.0073 16$OC=0.0017 4$PC=0.00031 7$QC=2.5E-5 6                     
+227AC  G 302.667   9    96   24 E1                     0.0355               @   
+227ACS G  KC=0.0285 4$LC=0.00527 8$MC=0.001260 18                               
+227ACS G  NC=0.000331 5$OC=7.56E-5 11$PC=1.344E-5 19$QC=9.74E-7 14              
+227AC  G 312.92    5    55.3 6 M1+E2     1.5     +9-5  0.31   11                
+227ACF G FL=74.149                                                              
+227ACS G  KC=0.216 94$LC=0.070 10$MC=0.0178 19                                  
+227ACS G  NC=0.0047 5$OC=0.00107 13$PC=0.00018 3$QC=1.00E-5 42                  
+227AC  G 340.71    6   97.4  12 E1+M2    0.23    4     0.115  31                
+227ACS G  KC=0.086 23$LC=0.0215 62$MC=0.0054 16                                 
+227ACS G  NC=0.00144 42$OC=3.32E-4 97$PC=6.0E-5 18$QC=4.9E-6 15                 
+227AC  G 357.11    8   92.3  11 M1(+E2)  0.8     LT    0.40   8                 
+227ACS G  KC=0.32 7$LC=0.064 8$MC=0.0155 16                                     
+227ACS G  NC=0.0041 5$OC=0.00095 11$PC=0.000174 21$QC=1.4E-5 3                  
+227AC  G 387.0     1   0.16  5 [E2]                    0.0774                   
+227ACS G  KC=0.0430 6$LC=0.0254 4$MC=0.00669 10                                 
+227ACS G  NC=0.001778 25$OC=0.000396 6$PC=6.58E-5 10$QC=2.09E-6 3               
+227AC  L 403       5        (9/2+)                                          E   
+227ACX L XREF=CD                                                                
+227AC  L 425.59     5       5/2+                                            G   
+227ACX L XREF=ABC                                                               
+227AC cL J$379.4|g, M1(+E2) to 5/2+; 398.1|g to 5/2-;                           
+227AC2cL experimental M1 reduced transition probability ratios                  
+227AC3cL B(M1)(398|g)/B(M1)(379|g)=0.28 {I3}/1.35 {I4} as compared to           
+227AC4cL theoretical values 0.16/1.1 for J,K|p=5/2,1/2+ (Alaga rule).           
+227AC cL $Configuration: experimental band decoupling parameter (4.6) agrees wit
+227AC2cL with theoretical value for the 1/2[660] Nilsson orbital (1983Sh16).    
+227AC  G 341.1     1      47   [M1+E2]                 0.33   22            X  ?
+227ACF G FLAG=Y                                                                 
+227ACS G  KC=0.25 19$LC=0.061 21$MC=0.0150 44                                   
+227ACS G  NC=0.0040 12$OC=9.1E-4 29$PC=1.62E-4 59$QC=1.12E-5 84                 
+227AC  G 351.5     1    7.6  23 [E1]                   0.0255                   
+227ACS G  KC=0.0206 3$LC=0.00373 6$MC=0.000890 13                               
+227ACS G  NC=0.000234 4$OC=5.36E-5 8$PC=9.57E-6 14$QC=7.14E-7 10                
+227AC cG $|g not reported in {+227}Ra decay, probably because of detection limit
+227AC  G 379.35    7   100.0 17 M1(+E2)  1.1     LT    0.32   9                 
+227ACS G  KC=0.250 78$LC=0.051 10$MC=0.0125 20                                  
+227ACS G  NC=0.0033 6$OC=0.00076 13$PC=0.00014 3$QC=1.12E-5 34                  
+227AC  G 395.45    10   4.7  3 [E1]                    0.0198                   
+227ACS G  KC=0.01603 23$LC=0.00287 4$MC=0.000682 10                             
+227ACS G  NC=0.000180 3$OC=4.12E-5 6$PC=7.38E-6 11$QC=5.62E-7 8                 
+227AC  G 398.14    8    19.0 5 [M1+E2]                 0.21   15                
+227ACS G  KC=0.16 13$LC=0.038 15$MC=0.0094 34                                   
+227ACS G  NC=0.00248 88$OC=5.7E-4 22$PC=1.02E-4 43$QC=7.4E-6 55                 
+227AC  L 428.4     2                                                           ?
+227ACX L XREF=B                                                                 
+227AC  G      398.4 4    97                                                    ?
+227AC cG RI$doublet in {+227}Ra decay; intensity split based on its intensity in
+227AC2cG {+231}Pa decay, where the 398|g is a single line, placed from 425 level
+227AC  G      428.4 2    100                                                   ?
+227AC  L 435.19     4        1/2+                                           G   
+227ACX L XREF=ABC(*)D(*)E                                                       
+227AC cL J$407.8|g, M1 to 3/2+; L(p,|a)=0 from 0+ target                        
+227AC  G   390.4   6    3.3                                                 X  ?
+227ACF G FLAG=Y                                                                 
+227AC  G 407.82    4  100.0  14 M1                     0.334                    
+227ACS G  KC=0.269 4$LC=0.0496 7$MC=0.01187 17                                  
+227ACS G  NC=0.00315 5$OC=0.000732 11$PC=0.0001354 19$QC=1.200E-5 17            
+227AC  G  435.2    1    8.2  5                                                  
+227AC  L 437.94     5       (5/2-)                                          F   
+227ACX L XREF=AC(*)D(*)E                                                        
+227AC cL J$438.0|g to 3/2-; 410.3|g to 3/2+; 363.8|g to 7/2-.                   
+227AC cL $Configuration: |a particle branching from {+231}Pa decay,             
+227AC2cL I|a(exp)|?0.1% agrees with I|a(theory)=0.17 for 5/2-,1/2[530]          
+227AC3cL (1969La04,1967Po05).                                                   
+227AC  G 50.83     15   25   4 [M1]                    24.7                     
+227ACS G  LC=18.7 3$MC=4.49 8                                                   
+227ACS G  NC=1.192 20$OC=0.277 5$PC=0.0513 9$QC=0.00456 8                       
+227AC  G 363.84    10  100   3 [M1+E2]                 0.27   19                
+227ACS G  KC=0.21 16$LC=0.050 18$MC=0.0123 40                                   
+227ACS G  NC=0.0033 11$OC=7.5E-4 26$PC=1.33E-4 52$QC=9.4E-6 70                  
+227AC  G 391.61    9    84.5 25 [E1]                   0.0202                   
+227ACS G  KC=0.01636 23$LC=0.00293 5$MC=0.000697 10                             
+227ACS G  NC=0.000184 3$OC=4.21E-5 6$PC=7.54E-6 11$QC=5.74E-7 8                 
+227AC  G 410.30    12   23   3 [E1]                    0.0183                   
+227ACS G  KC=0.01484 21$LC=0.00264 4$MC=0.000629 9                              
+227ACS G  NC=0.0001656 24$OC=3.80E-5 6$PC=6.81E-6 10$QC=5.22E-7 8               
+227AC  G 438.01    9    57   3 [M1+E2]                 0.17   11                
+227ACS G  KC=0.128 94$LC=0.029 13$MC=0.0071 28                                  
+227ACS G  NC=0.00187 72$OC=4.3E-4 18$PC=7.7E-5 35$QC=5.7E-6 42                  
+227AC  L 469.27     9        9/2+                                           G   
+227ACX L XREF=ACD                                                               
+227AC cL J$359.3|g to 9/2+; 384.7|g to 7/2+.                                    
+227AC  G 359.33    15  100   3 [M1+E2]                 0.28   19                
+227ACS G  KC=0.21 17$LC=0.052 19$MC=0.0128 41                                   
+227ACS G  NC=0.0034 11$OC=7.8E-4 26$PC=1.39E-4 53$QC=9.7E-6 73                  
+227AC  G 384.7     1    43.2 23 [M1+E2]                0.24   16                
+227ACS G  KC=0.18 14$LC=0.042 17$MC=0.0104 36                                   
+227ACS G  NC=0.00275 94$OC=6.3E-4 23$PC=1.13E-4 46$QC=8.1E-6 60                 
+227AC  L 501.29     8  (3/2-,5/2-)                                              
+227ACX L XREF=ABCDE                                                             
+227AC cL J$501.4|g to 3/2-; 471.3|g to 5/2-; possible 146.9|g to 1/2-;          
+227AC2cL possible |g to 7/2-; log| {Ift}=7.2 from 3/2+ parent                   
+227AC cL E$level weakly populated in {+231}Pa |a decay                          
+227AC  G  146.9    5      29 LT                                             X  ?
+227AC  G  228.00   10     40                                                X   
+227AC  G  427.0    1                                                        Z  ?
+227AC cG RI$85 {I42} in {+231}Pa decay for a weak |g                            
+227AC  G  471.3    5      26                                                X   
+227AC  G  501.4    1     100                                                X   
+227AC  L     514.36 9  (3/2,5/2)+                                           G   
+227ACX L XREF=BCDE                                                              
+227AC cL J$L(p,|a)=2 from 0+ target                                             
+227AC  G  209.6    2      4.4                                                   
+227AC  G  468.5    5    10.8                                                    
+227AC  G  486.98   10    100                                                    
+227AC  L 527       3    (13/2+)                                             E   
+227ACX L XREF=CDE(*)                                                            
+227AC  L 537.02    10   (3/2+)                                                  
+227ACX L XREF=ABCE(*)                                                           
+227AC cL E$level weakly populated in {+231}Pa |a decay                          
+227AC cL J$510.0|g to 3/2+; 490.7|g to 5/2+;                                    
+227AC2cL band head of a K|p=3/2+ parity doublet rotational band (1988Le13).     
+227AC3cL Previous assignment to 1/2[660] rotational band by 1988Ma18 is         
+227AC4cL inconsistent with experimental (|a,t) spectroscopic factor.            
+227AC  G 232.20    10   100    [M1+E2]                 0.97   61            X   
+227ACS G  KC=0.69 57$LC=0.21 3$MC=0.053 4                                       
+227ACS G  NC=0.0140 11$OC=0.0032 4$PC=0.00055 10$QC=3.2E-5 26                   
+227AC  G  490.7    5     50                                                     
+227AC  G  510.0    2    117  50                                                 
+227AC cG RI$value given only in {+231}Pa decay.                                 
+227AC  L 549       3                                                            
+227ACX L XREF=D                                                                 
+227AC  L 562.78    14    (3/2+,5/2)                                             
+227ACX L XREF=ABCDE(*)                                                          
+227AC cL J$478.4|g to 7/2+; log| {Ift}=7.0 from 3/2+ parent                     
+227AC  G  478.4    4    8.6                                                 X   
+227AC  G  486.827  23  113   11                                             Z  ?
+227ACF G FL=74.149                                                              
+227AC  G  516.2    2   100   11                                                 
+227AC  G  535.6    2   45    5                                                  
+227AC  L 577           (9/2-)                                               F   
+227ACX L XREF=DE(*)                                                             
+227AC  L 592       2   (13/2)+                                              G   
+227ACX L XREF=C(589)DE                                                          
+227AC cL J$L(p,|a)=6 from 0+ target                                             
+227AC  L 639.09    15   1/2+                                                H   
+227ACX L XREF=BCDE                                                              
+227AC cL J$L(p,|a)=0 from 0+ target                                             
+227AC  G  611.4    2  100                                                       
+227AC  G  639.4    2   18                                                       
+227AC  L 656.4      4  (7/2+)                                               G   
+227ACX L XREF=ACD                                                               
+227AC cL J$609|g to 5/2+; 546.5|g to 9/2+                                       
+227AC  G  546.5    5   11.6  19                                                 
+227AC  G  571.6    8    7    3                                                  
+227AC  G  583      2   60.5  23                                                 
+227AC  G  609      2   100   5                                                  
+227AC  L  669      3                                                            
+227ACX L XREF=E                                                                 
+227AC  L 698.56    15  (3/2)+                                               H   
+227ACX L XREF=BCDE                                                              
+227AC cL J$L(p,|a)=2 from 0+ target                                             
+227AC  G   652.2   2  100                                                       
+227AC  G   671.2   2   67                                                       
+227AC  L  725      4                                                            
+227ACX L XREF=E                                                                 
+227AC  L 790.13    17  (1/2-,3/2,5/2)                                           
+227ACX L XREF=BCDE                                                              
+227AC cL J$789.8|g to 3/2-; 760.3|g to 5/2-; log| {Ift}=7.4 from 3/2+ parent    
+227AC  G   760.3   2   81                                                       
+227AC  G   789.8   3  100                                                       
+227AC  L  816      4                                                            
+227ACX L XREF=E                                                                 
+227AC  L 863.64    22 (1/2,3/2,5/2)                                             
+227ACX L XREF=BCDE(*)                                                           
+227AC cL J$863.5|g to 3/2-; 836.4|g to 3/2+                                     
+227AC  G   836.4   3     63                                                     
+227AC  G   863.5   3    100                                                     
+227AC  L 874.68    18  (1/2+,3/2,5/2)                                           
+227ACX L XREF=BCDE(*)                                                           
+227AC cL J$874.7|g to 3/2-; 836.4|g to 3/2+; 828.9|g to 5/2+                    
+227AC  G   828.9   3    33                                                      
+227AC  G   846.7   3   67    LT                                                 
+227AC  G   874.7   3   100   20                                                 
+227AC  L  895      2  (3/2)+                                                    
+227ACX L XREF=E                                                                 
+227AC cL J$L(p,|a)=2 from 0+ target; possible configuration=|p3/2[402]          
+227AC  L  920      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L  950      4                                                            
+227ACX L XREF=E                                                                 
+227AC  L  992      3                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1070      3                                                            
+227ACX L XREF=CDE                                                               
+227AC  L 1091      2                                                            
+227ACX L XREF=CD                                                                
+227AC  L 1117      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1148      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1183      3                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1215      3                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1274      4                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1311      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1385      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1438      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1483      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1550      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1591      2                                                            
+227ACX L XREF=E                                                                 
+227AC  L 1629      4                                                            
+227ACX L XREF=E                                                                 

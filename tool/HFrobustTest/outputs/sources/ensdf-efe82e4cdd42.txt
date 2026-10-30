@@ -1,0 +1,116 @@
+210RA    ADOPTED LEVELS, GAMMAS                                  14NDS    201408
+210RA  H TYP=FUL$AUT=M. SHAMSUZZOHA BASUNIA$CIT=NDS 121, 561 (2014)$            
+210RA2 H CUT=31-Mar-2014$                                                       
+210RA  Q -8330     60 9470   50 3061   21 7151   3     2012WA38                 
+210RA cG E,RI$From ({+30}Si,4n|g), except otherwise noted.                      
+210RA cG M$From 2004Re04 ({+30}Si,4n|g), suggested based on |g-ray intensities  
+210RA2cG between two rings of the clover array. Quadrupole transitions favored  
+210RA3cG in the backward ring (140|') and dipole transitions in the side        
+210RA4cG rings (90|').                                                          
+210RA DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+210RA cG MR$If no value given it was assumed |d=1.00 for E2/M1,                 
+210RA2cG |d=1.00 for E3/M2 and |d=0.10 for the other multipolarities            
+210RA cL E$From least-squares fit to adopted |g-ray energies.                   
+210RA cL J$Spin and parity suggested in ({+30}Si,4n|g) - 2004Re04 from          
+210RA2cL comparison with neighboring even-even Po, Rn, and Ra nuclides with 126 
+210RA3cL neutrons and |g-ray multipolarity.                                     
+210RA CL BAND(A)$ G-sequence based on GS                                        
+210RA CL BAND(B)$ Band based on 8+ isomer                                       
+210RA CL BAND(C)$ G-sequence based on (12+)                                     
+210RA  XA214TH A DECAY                                                          
+210RA  XB174YB(40AR,4NG)                                                        
+210RA  XC184W(30SI,4NG)                                                         
+210RA  XD204PB(12C,6NG)                                                         
+210RA PN                                                                     6  
+210RA  L 0.0         0+                3.7 S     2                              
+210RAX L XREF=ABCD                                                              
+210RA2 L %A AP 96$%EC+%B+ AP 4                                                  
+210RA cL           %|e+%|b{++} has not been observed. Branching is from gross   
+210RA2cL |b decay theory (1973Ta30).                                            
+210RA cL T         av: 3.8 s {I2} (1967Va22), 3.6 s {I2} (1968Lo15)             
+210RA cL           Measured isotope shifts: 1988Ah02, 1987We03, 1983Ah03.       
+210RA  L 603.7      3  2+                                                   A   
+210RAX L XREF=BCD                                                               
+210RA  G 603.7     3  100       E2                     0.0252                   
+210RAS G  KC=0.01757 25$LC=0.00568 8$MC=0.001438 21                             
+210RAS G  NC=0.000379 6$OC=8.39E-5 12$PC=1.358E-5 20$QC=6.28E-7 9               
+210RA cG E$Weighted average of 603.5 {I6} (2004Re04) and 603.4 {I5} (2005Re02)  
+210RA2cG from ({+30}Si,4n|g) and 604.5 {I6} (2004He25) from ({+12}C,6n|g).      
+210RA  L 1205.1     4  4+                                                       
+210RAX L XREF=BCD                                                               
+210RA  G 601.3     3  100       E2                     0.0254                   
+210RAS G  KC=0.01770 25$LC=0.00574 8$MC=0.001455 21                             
+210RAS G  NC=0.000384 6$OC=8.49E-5 12$PC=1.373E-5 20$QC=6.34E-7 9               
+210RA cG E$Weighted average of 601.2 {I5} (2004Re04) and 600.5 {I6} (2005Re02)  
+210RA2cG from ({+30}Si,4n|g) and 602.1 {I6} (2004He25) from ({+12}C,6n|g).      
+210RA  L 1377.8     4  4+                                                   A   
+210RAX L XREF=BCD                                                               
+210RA  G 774.2     3  100       E2                     0.01490                  
+210RAS G  KC=0.01106 16$LC=0.00288 4$MC=0.000716 10                             
+210RAS G  NC=0.000189 3$OC=4.21E-5 6$PC=6.96E-6 10$QC=3.85E-7 6                 
+210RA cG E$Weighted average of 773.7 {I5} (2004Re04) and 773.9 {I5} (2005Re02)  
+210RA2cG from ({+30}Si,4n|g) and 774.6 {I4} (2004He25) from ({+12}C,6n|g).      
+210RA  L 1955.2     5  6+                                                   A   
+210RAX L XREF=BCD                                                               
+210RA  G 577.5     3  100    5  E2                     0.0278                   
+210RAS G  KC=0.0191 3$LC=0.00646 10$MC=0.001642 24                              
+210RAS G  NC=0.000433 7$OC=9.56E-5 14$PC=1.542E-5 22$QC=6.87E-7 10              
+210RA cG E$Weighted average of 577.1 {I5} (2004Re04) and 577.1 {I5} (2005Re02)  
+210RA2cG from ({+30}Si,4n|g) and 578.0 {I4} (2004He25) from ({+12}C,6n|g).      
+210RA cG E,RI$Other: 577.1 {I5}, I|g=100 {I12} (scaled to 100 (577|g) by        
+210RA2cG evaluator) (2005Re02)                                                  
+210RA  G 750.0     3  59     3  E2                     0.01589                  
+210RAS G  KC=0.01172 17$LC=0.00313 5$MC=0.000780 11                             
+210RAS G  NC=0.000206 3$OC=4.58E-5 7$PC=7.55E-6 11$QC=4.09E-7 6                 
+210RA cG E$Weighted average of 749.7 {I5} (2004Re04) and 749.4 {I5} (2005Re02)  
+210RA2cG from ({+30}Si,4n|g) and 750.5 {I4} (2004He25) from ({+12}C,6n|g).      
+210RA cG RI$Other: 52.9 {I19} ({+12}C,6n|g)                                     
+210RA  L 2050.9     7  8+              2.1 US    1                          B   
+210RAX L XREF=BCD                                                               
+210RA cL T$from |g-|g(t) (2004Re04 -({+30}Si,4n|g)), also same value in         
+210RA2cL 2013Ba29 - measurement detail not mentioned. Others: 2.36 |ms {I5}     
+210RA3cL (2004He25-({+12}C,6n|g)), 2.24 |ms (1999Co13-({+40}Ar,4n|g)), |J2 |ms  
+210RAxcL (2005YeZZ).                                                            
+210RA cL $Measured isomeric ratio, R{-exp}%=Observed decay yield/number of      
+210RA2cL implanted ions, of 31 {I2} (2013Ba29) from {+9}Be({+238}U,X) projectile
+210RA3cL fragmentation reaction, E=1 GeV/nucleon.                               
+210RA  G 95.7      5  100       E2                     11.7   4                 
+210RAS G  LC=8.60 25$MC=2.34 7                                                  
+210RAS G  NC=0.618 18$OC=0.131 4$PC=0.0190 6$QC=6.44E-5 15                      
+210RAB G BE2W=0.0357 23                                                         
+210RA  L 2268.4     8 (9+)                                                  B   
+210RAX L XREF=C                                                                 
+210RA  G 217.5     5  100       (M1)                   1.73   3                 
+210RAS G  KC=1.391 22$LC=0.257 4$MC=0.0613 10                                   
+210RAS G  NC=0.01617 25$OC=0.00369 6$PC=0.000643 10$QC=5.04E-5 8                
+210RA  L 2575.1     9 (10+)                                                 B   
+210RAX L XREF=C                                                                 
+210RA  G 306.7     5            (M1)                   0.667                    
+210RAS G  KC=0.537 8$LC=0.0985 15$MC=0.0235 4                                   
+210RAS G  NC=0.00620 10$OC=0.001415 21$PC=0.000247 4$QC=1.93E-5 3               
+210RA  G 524.2     7            (E2)                   0.0346                   
+210RAS G  KC=0.0230 4$LC=0.00865 13$MC=0.00221 4                                
+210RAS G  NC=0.000584 9$OC=0.0001286 19$PC=2.06E-5 3$QC=8.38E-7 12              
+210RA  L 3093.4    10 (12+)                                                 B   
+210RAX L XREF=C                                                                 
+210RA  G 518.2     5  100      (E2)                    0.0356                   
+210RAS G  KC=0.0235 4$LC=0.00897 13$MC=0.00230 4                                
+210RAS G  NC=0.000606 9$OC=0.0001333 19$PC=2.13E-5 3$QC=8.58E-7 13              
+210RA  L 3263.0    10 (12+)                                                 C   
+210RAX L XREF=C                                                                 
+210RA  G 169.5     7  10.9   16(M1)                    3.49   7                 
+210RAS G  KC=2.80 6$LC=0.519 10$MC=0.1241 23                                    
+210RAS G  NC=0.0327 6$OC=0.00747 14$PC=0.001301 24$QC=0.0001020 19              
+210RA  G 687.9     5  100    5 (E2)                    0.0190                   
+210RAS G  KC=0.01375 20$LC=0.00394 6$MC=0.000988 14                             
+210RAS G  NC=0.000260 4$OC=5.78E-5 9$PC=9.47E-6 14$QC=4.85E-7 7                 
+210RA  L 3898.5    11 (14+)                                                 C   
+210RAX L XREF=C                                                                 
+210RA  G 635.5     5  100       (E2)                   0.0225                   
+210RAS G  KC=0.01595 23$LC=0.00491 7$MC=0.001237 18                             
+210RAS G  NC=0.000326 5$OC=7.23E-5 11$PC=1.176E-5 17$QC=5.67E-7 8               
+210RA  L 4257.0    12 (16+)                                                 C   
+210RAX L XREF=C                                                                 
+210RA  G 358.5     5  100       (E2)                   0.0908                   
+210RAS G  KC=0.0491 7$LC=0.0309 5$MC=0.00812 13                                 
+210RAS G  NC=0.00214 4$OC=0.000466 7$PC=7.19E-5 11$QC=1.89E-6 3                 

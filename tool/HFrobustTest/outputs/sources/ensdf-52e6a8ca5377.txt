@@ -1,0 +1,1186 @@
+230TH    ADOPTED LEVELS, GAMMAS                                  24NDS    202408
+230TH  H TYP=FUL$AUT=C. Morse$CIT=NDS 197, 259 (2024).$CUT=26-Sep-2023$         
+230TH  Q -1311     3  6794.3 22 7116   12 4770.0  15   2021Wa16                 
+230TH cQ $S(2n)=12051.0 {I11},  S(2p)=12655.6 {I18} (2021Wa16)                  
+230TH c  For deformation parameters deduced from Coulomb excitation, see        
+230TH2c  1973Be44 and 1977Mi11. For deformation parameter deduced from the      
+230TH3c  ratio of (p,t) spectroscopic factors for g.s. and the first 0+ state,  
+230TH4c  see 1979Ab10.                                                          
+230TH cG E,RI$From {+230}Pa |e decay, unless otherwise specified.               
+230TH cG M$From ce measurements in {+230}Pa |e decay. Multipolarities in        
+230TH2cG square brackets are from level scheme; they are included for           
+230TH3cG transition-rate calculations when needed.                              
+230TH cG RI(A)$Doublet. Individual intensities were determined from             
+230TH2cG coincidence data in {+230}Pa |e decay.                                 
+230TH cG RI(W)$Weak |g ray; seen only in |g|g- coincidence spectra in {+230}Pa  
+230TH2cG |e decay.                                                              
+230TH cG E(B),RI(B)$From Coulomb Excitation                                     
+230TH cG E(C),RI(C)$From {+230}Th(d,pn|g)                                       
+230TH cG E(D),RI(D)$From {+230}Ac |b{+-} decay                                  
+230TH cG E(E)$From {+232}Th({+136}Xe,X|g)                                       
+230TH cL E$Deduced by evaluator from a least squares fit to adopted |g-ray      
+230TH2cL energies, unless otherwise specified.                                  
+230TH cL J$Spin/parity assignments are based on rotational and band             
+230TH2cL structures, on |g-ray multipolarities, on log| {Ift} values from       
+230TH3cL {+230}Ac |b{+-} decay and {+230}Pa |e decay, and on hindrance factors  
+230TH4cL from {+234}U alpha decay. For levels populated only in {+234}Th(p,t),  
+230TH5cL spin/parity assignments are based on angular distribution of           
+230TH6cL scattered tritons. Some additional specific arguments are given for    
+230TH7cL individual levels.                                                     
+230TH CL BAND(A)$KPI=0+ GS ROTATIONAL BAND. Assignments for levels with         
+230TH2cL J|p|>6+ are from inband |g rays observed in Coulomb excitation.        
+230TH CL BAND(B)$KPI=0- OCTUPOLE-VIBRATIONAL BAND. Assignments for levels with  
+230TH2cL J|p|>5- are from |g rays to lower members of the K=0-                  
+230TH3cL octupole-vibrational band and to the g.s. rotational band.             
+230TH CL BAND(C)$KPI=0+ BETA-VIBRATIONAL BAND.                                  
+230TH CL BAND(D)$KPI=2+ GAMMA-VIBRATIONAL BAND. Assignments for levels with     
+230TH2cL J|p|>6+ are from |g ray decays to the g.s. rotational band, and from   
+230TH3cL fit to the K=2 |g- vibrational band.                                   
+230TH CL BAND(E)$KPI=1- OCTUPOLE-VIBRATIONAL BAND. Distorted by Coriolis        
+230TH2cL interaction.                                                           
+230TH CL BAND(G)$KPI=2+ BAND. Assignments for levels with J|p|>3+ are from |g   
+230TH2cL decays to the g.s. band observed in Coulomb excitation.                
+230TH CL BAND(H)$KPI=2- OCTUPOLE-VIBRATIONAL BAND.                              
+230TH c  $ The fission probability and the fission-fragment angular             
+230TH2c  distributions were measured by 1988Bl03. The fine structure observed   
+230TH3c  between 5.6 and 5.8 MeV was interpreted by 1988Bl03 as indicative of   
+230TH4c  two opposite parity rotational bands in the third well of the nuclear  
+230TH5c  potential.  Some structure near 6.1 and 6.4 MeV excitation was also    
+230TH6c  observed, and was tentatively interpreted as one (K=2) and two (K=4)   
+230TH7c  phonon vibrations in the third well.                                   
+230TH c  $ 1986De36 studied {+230}Th via the {+232}Th({+206}Pb,{+208}Pb|g)      
+230TH2c  reaction at 6.4 MeV/nucleon.  They reported observing |g-ray           
+230TH3c  transitions depopulating states in the ground-state band up to spin    
+230TH4c  12{++}, but reported no |g-ray energies or intensities.                
+230TH cG MR$From {+230}Ac |b{+-} decay                                          
+230TH dG Transition strength is calculated by Java-RULER (version 19-Aug-2022)  
+230TH DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+230TH  XA234U A DECAY                                                           
+230TH  XB230AC B- DECAY                                                         
+230TH  XC230PA EC DECAY                                                         
+230TH  XD230TH(D,D')                                                            
+230TH  XE230TH(D,PNG)                                                           
+230TH  XF232TH(P,T)                                                             
+230TH  XG232TH(A,A'2NG)                                                         
+230TH  XH232TH(136XE,XG)                                                        
+230TH  XICOULOMB EXCITATION                                                     
+230TH PN                                                                     6  
+230TH  L 0.0          0+                75584 Y   55                        A   
+230THX L XREF=ABCDEFGHI                                                         
+230TH2 L %A=100$%24NE=5.8E-11 13$%SF LE 4E-12                                   
+230TH cL $%{+24}Ne from T{-1/2}({+24}Ne)=1.3|*10{+17} y {I3} (1996Bu05).        
+230TH cL $%SF from T{-1/2}(SF)>2|*10{+18} y (1985TrZY). Value recommended in    
+230TH2cL 2000Ho27.                                                              
+230TH cL $Relative probability of cluster and |a emission was measured by       
+230TH2cL 1986Tr10; clusters were identified as neon ions from their residual    
+230TH3cL ionic paths, and assigned to {+24}Ne from comparison of experimental   
+230TH4cL path distribution with calculations and from its decay energies.       
+230TH cL T$From 2013Ch53. Other measured values: 7.57|*10{+4} y {I1}            
+230TH2cL (2000Ch56), 7.54|*10{+4} y {I3} (1980Me10, specific activity),         
+230TH3cL 8.23|*10{+4} y {I25} (1930Cu02, from {+222}Rn growth), 7.3|*10{+4} y   
+230TH4cL {I4} (1931So01, from {+226}Ra growth), 8.0|*10{+4} y {I3} (1949Hy03,   
+230TH5cL specific activity), 7.61|*10{+4} y {I14} (1962At01, calorimetry). See  
+230TH6cL 1980Me10 and 1990Ho28 for earlier measurements and for recalculated    
+230TH7cL half-lives. Other value: >1.5|*10{+17} y (1952Se67).                   
+230TH cL $T{-1/2}(SF)|>1.5|*10{+17} y (1952Se67) yields %SF|<5|*10{+-11}.       
+230TH cL $Isotope shift relative to {+232}Th was measured by 1989Ka29 by LASER  
+230TH2cL spectroscopy: IS=15360 {I30} MHz [IS=|n({+230}Th)-|n({+232}Th)]        
+230TH  L 53.230    11 2+                0.354 NS  9                         A   
+230THX L XREF=ABCDEFGHI                                                         
+230TH2 L BE2=8.06 11 (1973Be44)                                                 
+230TH cL J$53.20|g to 0+ is E2.                                                 
+230TH cL T$From (|a)(ce)(t) in {+234}U decay (1965Ne03). Other values:          
+230TH2cL T{-1/2}=0.37 ns {I2} from |gce(t) in {+230}Pa decay (1960Be25),        
+230TH3cL T{-1/2}=0.352 ns {I5} calculated by the evaluator from B(E2) of 8.06   
+230TH4cL {I11}.                                                                 
+230TH  G 53.20     2  100       E2                      227.9 32                
+230THS G LC=166.8 24$MC=45.7 6$NC=12.22 17$OC=2.72 4$PC=0.448 6$QC=0.001240 17  
+230THB G BE2W=196 6                                                             
+230TH cG E$From {+234}U alpha decay.                                            
+230TH  L 174.119   17 4+                0.166 NS  5                         A   
+230THX L XREF=ABCDEFGHI                                                         
+230TH cL J$120.90|g E2 to 2+; assignment to g.s. band.                          
+230TH cL T$from (|a)(ce)(t) in {+234}U decay (1965Ne03)                         
+230TH  G 120.90    2  100       E2                      4.94  7                 
+230THS G KC=0.257 4$LC=3.42 5$MC=0.940 13$NC=0.2520 35$OC=0.0562 8$             
+230THS G PC=0.00936 13$QC=5.21E-5 7                                             
+230THB G BE2W=265 9                                                             
+230TH cG E$From {+234}U alpha decay.                                            
+230TH  L 356.54    12 6+                                                    A   
+230THX L XREF=DEFGHI                                                            
+230TH  G 182.5     2  100                                                       
+230TH cG E$From {+232}Th({+136}Xe,X|g)                                          
+230TH  L 508.143   12 1-                                                    B   
+230THX L XREF=ABCDEFI                                                           
+230TH cL J$508.2|g E1 to 0+.                                                    
+230TH  G 454.92    2  100    5  E1                     0.0152821                
+230THS G KC=0.01237 17$LC=0.002202 31$MC=0.000525 7$NC=0.0001391 19$            
+230THS G OC=3.25E-5 5$PC=6.15E-6 9$QC=5.10E-7 7                                 
+230TH  G 508.15    2  61     3  E1                     0.0122217                
+230THS G KC=0.00992 14$LC=0.001743 24$MC=0.000415 6$NC=0.0001099 15$            
+230THS G OC=2.57E-5 4$PC=4.88E-6 7$QC=4.13E-7 6                                 
+230TH  L 571.758   14 3-                                                    B   
+230THX L XREF=BCDEFI                                                            
+230TH2 L BE3=0.64 6                                                             
+230TH cL J$518.5|g E1 and 397.7|g E1 to 2+ and 4+ levels; L(p,t)=3.             
+230TH  G 63.5      2                                                            
+230TH cG E$From {+230}Th(d,pn|g)                                                
+230TH  G 397.62    2  87     4  E1                     0.0201928                
+230THS G KC=0.01630 23$LC=0.00295 4$MC=0.000704 10$NC=0.0001866 26$             
+230THS G OC=4.36E-5 6$PC=8.20E-6 11$QC=6.65E-7 9                                
+230TH  G 518.54    2  100    5  E1                     0.0117416                
+230THS G KC=0.00953 13$LC=0.001671 23$MC=0.000398 6$NC=0.0001054 15$            
+230THS G OC=2.468E-5 35$PC=4.68E-6 7$QC=3.97E-7 6                               
+230TH  L 593.89    17 8+                                                    A   
+230THX L XREF=DEFGHI                                                            
+230TH  G 237.4     2  100                                                       
+230TH cG E$From {+232}Th({+136}Xe,X|g)                                          
+230TH  L 634.920   18 0+                                                    C   
+230THX L XREF=ABCDFI                                                            
+230TH cL J$634.9-keV E0 transition to 0+; L(p,t)=0.                             
+230TH  G 581.65    10 100    5  E2                      0.03024                 
+230THS G KC=0.02029 28$LC=0.00735 10$MC=0.001884 26$NC=0.000503 7$              
+230THS G OC=0.0001158 16$PC=2.094E-5 29$QC=1.089E-6 15                          
+230TH  G 634.9     2            E0                               120      25    
+230TH  L 677.530   16 2+                15 PS     2                         C   
+230THX L XREF=ABCEFI                                                            
+230TH2 L BE2=0.046 6                                                            
+230TH cL T$calculated by the evaluator from B(E2). See Coulomb excitation.      
+230TH cL J$624.3|g E0+M1+E2 to 2+.                                              
+230TH  G 503.55    10 86     13 E2                      0.04206             @   
+230THF G FLAG=A                                                                 
+230THS G KC=0.0266 4$LC=0.01141 16$MC=0.00296 4$NC=0.000792 11$OC=0.0001813 25$ 
+230THS G PC=3.24E-5 5$QC=1.463E-6 20                                            
+230THB G BE2W=4.2 +8-7                                                          
+230TH  G 624.33    7  88     5  E0+M1+E2                0.07  5                 
+230THS G KC=0.06 4$LC=0.012 6$MC=0.0028 13$NC=7.5E-4 35$OC=1.8E-4 8$            
+230THS G PC=3.4E-5 17$QC=2.9E-6 19                                              
+230TH  G 677.53    6  100    9  E2                     0.0217030                
+230THS G KC=0.01533 21$LC=0.00475 7$MC=0.001204 17$NC=0.000322 5$OC=7.43E-5 10$ 
+230THS G PC=1.359E-5 19$QC=8.03E-7 11                                           
+230THB G BE2W=1.10 +19-16                                                       
+230TH  L 686.76    14 (5-)                                                  B   
+230THX L XREF=DEFI                                                              
+230TH cL J$114.9|g to 3-, 330.1|g to 6+; band assignment.                       
+230TH  G 114.9        19     6                                                  
+230THF G FLAG=B                                                                 
+230TH  G 330.2     2  55     4                                                  
+230THF G FLAG=B                                                                 
+230TH cG E$From (d,pn|g)                                                        
+230TH  G 512.7     2  100    6                                                  
+230THF G FLAG=B                                                                 
+230TH cG E$From (d,pn|g)                                                        
+230TH  L 769.6     6  (4+)                                                      
+230THX L XREF=I                                                                 
+230TH cL J$413|g to 6+, 716|g to 2+.                                            
+230TH  G 413.0        45     LE                                                 
+230THF G FLAG=B                                                                 
+230TH  G 595.5        82     55                                                 
+230THF G FLAG=B                                                                 
+230TH  G 716.4        100    37                                                 
+230THF G FLAG=B                                                                 
+230TH  L 775.5     3  (4+)                                                  C   
+230THX L XREF=EF                                                                
+230TH cL J$420|g to 6+; band assignment.                                        
+230TH  G 419.7     5  16     4                                                  
+230THF G FLAG=C                                                                 
+230TH  G 601.1     3  100    10                                                 
+230THF G FLAG=C                                                                 
+230TH  L 781.374   13 2+                3.3 PS    5                         D   
+230THX L XREF=BCDFI                                                             
+230TH2 L BE2=0.123 13                                                           
+230TH cL J$781.35|g E2 to 0+, L(p,t)=2.                                         
+230TH cL T$calculated by the evaluator from B(E2). See Coulomb excitation.      
+230TH  G 607.41    8  2.72   6  [E2]                    0.02744                 
+230THS G KC=0.01873 26$LC=0.00647 9$MC=0.001654 23$NC=0.000442 6$               
+230THS G OC=0.0001018 14$PC=1.846E-5 26$QC=9.98E-7 14                           
+230THB G BE2W=0.37 +19-16                                                       
+230TH  G 728.13    2  100    5  E2                     0.0186826                
+230THS G KC=0.01345 19$LC=0.00391 5$MC=0.000985 14$NC=0.000263 4$OC=6.09E-5 9$  
+230THS G PC=1.120E-5 16$QC=6.97E-7 10                                           
+230THB G BE2W=5.5 +10-8                                                         
+230TH  G 781.39    2  75     4  E2                     0.0161823                
+230THS G KC=0.01184 17$LC=0.00325 5$MC=0.000815 11$NC=0.0002174 30$             
+230THS G OC=5.04E-5 7$PC=9.32E-6 13$QC=6.08E-7 9                                
+230THB G BE2W=2.9 +6-4                                                          
+230TH  L 825.660   20 3+                                                    D   
+230THX L XREF=BCEFI                                                             
+230TH cL J$772.4|g E2 to 2+; |g ray to 4+, and |g ray from 2-; ratio of         
+230TH2cL reduced transition rates agrees with theory (Alaga rule):              
+230TH3cL B(E2,772.4|g)/B(E2,651.6|g)=0.39 {I17} observed, 0.40 theory.          
+230TH  G 651.61    6  27     4  M1+E2                   0.06  4                 
+230THS G KC=0.050 33$LC=0.010 5$MC=0.0025 12$NC=6.7E-4 31$OC=1.6E-4 7$          
+230THS G PC=3.0E-5 15$QC=2.6E-6 17                                              
+230TH  G 772.41    6  100    7  M1+E2                   0.041 25                
+230THS G KC=0.033 20$LC=0.0066 32$MC=0.0016 7$NC=4.2E-4 20$OC=1.0E-4 5$         
+230THS G PC=1.9E-5 10$QC=1.7E-6 11                                              
+230TH  L 852.21    17 (7-)                                                  B   
+230THX L XREF=DEFHI                                                             
+230TH cL J$165.5|g to (5-), 496|g to 6+; band assignment.                       
+230TH  G 165.5     2  6      5                                                  
+230TH cG $E|g from {+230}Th(d,pn|g); I|g from Coulomb Excitation.               
+230TH  G 258.2     2  30     3                                                  
+230TH cG $E|g from {+230}Th(d,pn|g); I|g from Coulomb Excitation.               
+230TH  G 495.8     2  100    5                                                  
+230TH cG $E|g from {+230}Th(d,pn|g); I|g from Coulomb Excitation.               
+230TH  L 879.36    24 (10+)                                                 A   
+230THX L XREF=EGHI                                                              
+230TH  G 285.6     2  100                                                       
+230TH cG E$From (d,pn|g)                                                        
+230TH  L 883.6     5  4+                                                    D   
+230THX L XREF=DEFI                                                              
+230TH cL J$L(p,t)=4.                                                            
+230TH  G 205.9        6.0    30                                                ?
+230THF G FLAG=B                                                                 
+230TH  G 527.0        6.3    15                                                 
+230THF G FLAG=B                                                                 
+230TH  G 709.5        100    5                                                  
+230THF G FLAG=B                                                                 
+230TH  G 830.4        36.2   30                                                 
+230THF G FLAG=B                                                                 
+230TH  L 923.00    19 (6+)                                                  C   
+230THX L XREF=EF                                                                
+230TH cL J$567|g to 6+, 749|g to 4+; band assignment.                           
+230TH  G 566.5     2  34     4                                                  
+230TH cG E,RI$From {+230}Th(d,pn|g).                                            
+230TH  G 748.8     3  100    7                                                  
+230TH cG E,RI$From {+230}Th(d,pn|g).                                            
+230TH  L 951.900   13 1-                                                    E   
+230THX L XREF=BCDFI                                                             
+230TH cL J$951.95|g E1 to 0+.                                                   
+230TH  G 170.53    5  0.02   LE E1                      0.137719                
+230THF G FLAG=W                                                                 
+230THS G KC=0.1083 15$LC=0.02226 31$MC=0.00537 8$NC=0.001417 20$OC=0.000326 5$  
+230THS G PC=5.94E-5 8$QC=4.00E-6 6                                              
+230TH  G 274.38    2  0.25   2  E1                      0.04546                 
+230THS G KC=0.0363 5$LC=0.00690 10$MC=0.001656 23$NC=0.000438 6$                
+230THS G OC=0.0001017 14$PC=1.891E-5 26$QC=1.426E-6 20                          
+230TH  G 316.99    2  0.57   4                                                  
+230TH  G 380.12    2  1.12   6  E2                      0.085412                
+230THS G KC=0.0457 6$LC=0.0293 4$MC=0.00776 11$NC=0.002077 29$OC=0.000472 7$    
+230THS G PC=8.26E-5 12$QC=2.67E-6 4                                             
+230TH  G 443.74    2  19.6   10 M1(+E2)   0.6    6      0.23  8                 
+230THS G KC=0.18 6$LC=0.036 9$MC=0.0088 19$NC=0.0024 5$OC=0.00056 12$           
+230THS G PC=0.000107 26$QC=9.4E-6 33                                            
+230TH cG MR$Other: 0.55 {I2} in {+230}Pa |e decay.                              
+230TH  G 898.66    2  19.6   12 E1                     0.004186                 
+230THS G KC=0.00343 5$LC=0.000570 8$MC=0.0001347 19$NC=3.57E-5 5$OC=8.41E-6 12$ 
+230THS G PC=1.617E-6 23$QC=1.471E-7 21                                          
+230TH  G 951.95    6  100    5  E1                     0.003775                 
+230THS G KC=0.00310 4$LC=0.000513 7$MC=0.0001211 17$NC=3.21E-5 4$OC=7.57E-6 11$ 
+230THS G PC=1.455E-6 20$QC=1.332E-7 19                                          
+230TH  L 955.08    22 (5+)                                                  D   
+230THX L XREF=E                                                                 
+230TH cL J$599|g to 6+, 781|g to 4+; band assignment.                           
+230TH  G 598.6     3  48     4                                                  
+230THF G FLAG=C                                                                 
+230TH  G 780.9     3  100    5                                                  
+230THF G FLAG=C                                                                 
+230TH  L 971.732   16 2-                                                    E   
+230THX L XREF=BCFI                                                              
+230TH cL J$463.6|g M1+E2 to 1-, 399.95|g M1+E2 to 3-.                           
+230TH  G 294.23    2  0.67   3  E1                      0.03885                 
+230THS G KC=0.0311 4$LC=0.00585 8$MC=0.001403 20$NC=0.000371 5$OC=8.63E-5 12$   
+230THS G PC=1.609E-5 23$QC=1.231E-6 17                                          
+230TH  G 399.95    2  7.8    5  M1+E2     1.4    6      0.18  8                 
+230THS G KC=0.13 7$LC=0.036 9$MC=0.0089 20$NC=0.0024 5$OC=0.00056 13$           
+230THS G PC=1.03E-4 27$QC=7.E-6 4                                               
+230TH  G 463.59    6  10.3   7  M1+E2     -0.28  3      0.242 5                 
+230THS G KC=0.194 4$LC=0.0368 6$MC=0.00884 15$NC=0.00236 4$OC=0.000557 9$       
+230THS G PC=0.0001079 18$QC=1.008E-5 20                                         
+230TH  G 918.50    2  100    5  E1                     0.004026                 
+230THS G KC=0.00330 5$LC=0.000548 8$MC=0.0001294 18$NC=3.43E-5 5$OC=8.08E-6 11$ 
+230THS G PC=1.553E-6 22$QC=1.417E-7 20                                          
+230TH  L 1009.603  13 2+                0.8 PS    GE                        G   
+230THX L XREF=BCF(*1011.6)I                                                     
+230TH2 L BE2 LE 0.097                                                           
+230TH cL T$Calculated by evaluators from B(E2). See Coulomb excitation.         
+230TH cL J$1009.6|g E2 to 0+.                                                   
+230TH  G 183.90    11 0.20   7  M1+E2                   2.1   12                
+230THF G FLAG=W                                                                 
+230THS G KC=1.4 12$LC=0.513 15$MC=0.132 12$NC=0.0353 33$OC=0.0081 5$            
+230THS G PC=0.001462 23$QC=8.E-5 6                                              
+230TH  G 228.23    5  0.41   7  E0+E2+M1                1.1   7  27       8     
+230THL G FL=781.374                                                             
+230THS G KC=0.8 7$LC=0.241 31$MC=0.061 4$NC=0.0164 11$OC=0.00378 35$            
+230THS G PC=0.00069 11$QC=4.2E-5 34                                             
+230TH  G 332.07    5  2.96   7  [E2]                    0.124717                
+230THS G KC=0.0596 8$LC=0.0479 7$MC=0.01279 18$NC=0.00343 5$OC=0.000776 11$     
+230THS G PC=0.0001345 19$QC=3.61E-6 5                                           
+230TH cG $Although an admixture of M1 multipolarity is possible, the 332.0-keV  
+230TH2cG |g ray is assumed to be E2, since a J|p=2+,K=2 to 2+,0 M1 transition   
+230TH3cG is K forbidden and since the relative photon intensities of 332.0|g    
+230TH4cG and 374.7|g agree with the Alaga rule (see {+230}Ac |b{+-} decay)      
+230TH5cG when 332.0|g is taken as E2.                                           
+230TH  G 374.67    2  3      LT (E2)                    0.088812            *   
+230THS G KC=0.0470 7$LC=0.0309 4$MC=0.00818 11$NC=0.002188 31$OC=0.000497 7$    
+230THS G PC=8.69E-5 12$QC=2.75E-6 4                                             
+230TH  G 835.59    8  3.7    4  E2                     0.0141520                
+230THS G KC=0.01050 15$LC=0.00274 4$MC=0.000683 10$NC=0.0001823 26$             
+230THS G OC=4.24E-5 6$PC=7.86E-6 11$QC=5.35E-7 7                                
+230TH  G 956.38    2  100    8  M1+E2     6.1    4     0.0115719                
+230THS G KC=0.00883 15$LC=0.002063 32$MC=0.000509 8$NC=0.0001357 21$            
+230THS G OC=3.17E-5 5$PC=5.94E-6 9$QC=4.43E-7 7                                 
+230TH cG MR$From {+230}Pa |e Decay                                              
+230TH  G 1009.59   2  68     4  E2                     0.0098014                
+230THS G KC=0.00750 10$LC=0.001734 24$MC=0.000427 6$NC=0.0001139 16$            
+230THS G OC=2.66E-5 4$PC=4.99E-6 7$QC=3.74E-7 5                                 
+230TH  L 1012.53   3  3-                                                    E   
+230THX L XREF=BCDF(*1011.6)I                                                    
+230TH2 L BE3 LE 0.57                                                            
+230TH cL J$959.2|g E1 to 2+; 838.4 E1 to 4+.                                    
+230TH  G 440.78    10 20     4  M1+E2                   0.18  12                
+230THS G KC=0.14 10$LC=0.031 13$MC=0.0076 30$NC=0.0020 8$OC=4.7E-4 19$          
+230THS G PC=9.E-5 4$QC=7.E-6 5                                                  
+230TH  G 503.6     10 3      LE                                             @   
+230THL G FL=508.143                                                             
+230THF G FLAG=A                                                                 
+230TH cG E$503.55 keV {I10} measured in {+230}Pa |e+|b{++} decay is             
+230TH2cG inconsistent with final state energy.  The evaluator has increased     
+230TH3cG the uncertainty to 1 keV.                                              
+230TH  G 838.45    5  7.0    25 E1                     0.004737                 
+230THS G KC=0.00388 5$LC=0.000649 9$MC=0.0001534 21$NC=4.07E-5 6$OC=9.57E-6 13$ 
+230THS G PC=1.837E-6 26$QC=1.659E-7 23                                          
+230TH  G 959.28    4  100    13 E1                     0.003725                 
+230THS G KC=0.00305 4$LC=0.000506 7$MC=0.0001194 17$NC=3.17E-5 4$OC=7.46E-6 10$ 
+230THS G PC=1.435E-6 20$QC=1.315E-7 18                                          
+230TH  L 1022      2                                                            
+230THX L XREF=F                                                                 
+230TH  L 1039.51   21 (6+)                                                  D   
+230THX L XREF=EFI                                                               
+230TH  G 683.0     2  100    6                                                  
+230THF G FLAG=C                                                                 
+230TH  G 865.2     5  34     5                                                  
+230THF G FLAG=C                                                                 
+230TH  L 1052.198  25 (3+)                                                  G   
+230THX L XREF=CEFI                                                              
+230TH  G 374.67    2                                                        *  ?
+230TH  G 878.02    10 57     7                                                  
+230TH cG RI$I|g=129 {I48} from Coulomb Excitation may have a contribution from  
+230TH2cG other |g-ray transition.                                               
+230TH  G 999.4     10 100    7                                                  
+230TH  L 1065.36   21 (9-)                                                  B   
+230THX L XREF=EFHI                                                              
+230TH  G 213.2     2  50     10                                                 
+230TH cG $E|g from {+230}Th(d,pn|g), I|g from Coulomb Excitation.               
+230TH  G 471.4     2  100    10                                                 
+230TH cG $E|g from {+230}Th(d,pn|g), I|g from Coulomb Excitation.               
+230TH  L 1079.214  15 (2)-                                                  H   
+230THX L XREF=BCFI                                                              
+230TH cL J$1026|g E1 to 2+; 253.6|g to 3+ state; no |g ray to 4+; ratio of      
+230TH2cL reduced transition rates is in fair agreement with theory (Alaga       
+230TH3cL rule): B(E2,571|g)/B(E2,508|g)=2.7 {I14} observed, 4.0 theory.         
+230TH  G 253.55    2  1.4    1  E1                      0.05448                 
+230THS G KC=0.0433 6$LC=0.00834 12$MC=0.002002 28$NC=0.000530 7$                
+230THS G OC=0.0001228 17$PC=2.276E-5 32$QC=1.687E-6 24                          
+230TH  G 297.86    2  6.0    4  E1                      0.03785                 
+230THS G KC=0.0303 4$LC=0.00569 8$MC=0.001363 19$NC=0.000361 5$OC=8.39E-5 12$   
+230THS G PC=1.564E-5 22$QC=1.200E-6 17                                          
+230TH  G 401.62    10 1.2    2  E1                     0.0197728                
+230THS G KC=0.01596 22$LC=0.00289 4$MC=0.000689 10$NC=0.0001825 26$             
+230THS G OC=4.26E-5 6$PC=8.03E-6 11$QC=6.52E-7 9                                
+230TH  G 507.48       15     8                                                  
+230THF G FLAG=D                                                                 
+230TH  G 571.08    2  76     4  M1+E2     0.11   2      0.145721                
+230THS G KC=0.1169 17$LC=0.02174 31$MC=0.00521 7$NC=0.001389 20$OC=0.000329 5$  
+230THS G PC=6.38E-5 9$QC=6.05E-6 9                                              
+230TH  G 1025.96   2  100    5  E1                     0.003305                 
+230THS G KC=0.00272 4$LC=0.000448 6$MC=0.0001056 15$NC=2.80E-5 4$OC=6.60E-6 9$  
+230THS G PC=1.272E-6 18$QC=1.173E-7 16                                          
+230TH  L 1089      2                                                            
+230THX L XREF=F                                                                 
+230TH  L 1107.3    4  (4+)                                                  G   
+230THX L XREF=EFI                                                               
+230TH  G 750.3     5  11     3                                                  
+230TH cG RI$From {+230}Th(d,pn|g), scaled by the ratio of the 934 and 1055      
+230TH2cG intensities in Coulomb excitation.                                     
+230TH  G 934.0        59     27                                                 
+230THF G FLAG=B                                                                 
+230TH  G 1055.0       100    25                                                 
+230THF G FLAG=B                                                                 
+230TH  L 1108.9    7  (5-)                                                  E   
+230THX L XREF=D(1110)I                                                          
+230TH cL J$|g-ray transitions to 4+, 3- states of the K=0+ g.s. and K=0-        
+230TH2cL octupole-vibrational bands, but no |g rays to 0+, 2+ and 1- states of  
+230TH3cL these bands.                                                           
+230TH  G 537.0                                                                  
+230TH cG E$From Coulomb Excitation                                              
+230TH  G 935.0                                                                  
+230TH cG E$From Coulomb Excitation                                              
+230TH  L 1117.4    3  (8+)                                                  C   
+230THX L XREF=E                                                                 
+230TH  G 524.1     5  20     5                                                  
+230THF G FLAG=C                                                                 
+230TH cG $|a(K)exp=2.9 {I12}.                                                   
+230TH  G 760.7     3  100    10                                                 
+230THF G FLAG=C                                                                 
+230TH  L 1125.6    5  (1-),(0+)                                                 
+230THX L XREF=F                                                                 
+230TH  L 1127.780  14 3-                                                    H   
+230THX L XREF=CDI                                                               
+230TH cL J$1074.68|g E1 to 2+; 954|g to 4+ state.                               
+230TH  G 175.84    5  0.7    2                                                  
+230THF G FLAG=W                                                                 
+230TH cG RI$From {+230}Pa |e Decay                                              
+230TH  G 302.16    4  1.6    2  E1                      0.03665                 
+230THS G KC=0.0293 4$LC=0.00550 8$MC=0.001318 18$NC=0.000349 5$OC=8.11E-5 11$   
+230THS G PC=1.514E-5 21$QC=1.164E-6 16                                          
+230TH  G 346.39    3  1.69   15 E1                      0.02714                 
+230THS G KC=0.02181 31$LC=0.00402 6$MC=0.000961 13$NC=0.000254 4$OC=5.93E-5 8$  
+230THS G PC=1.111E-5 16$QC=8.78E-7 12                                           
+230TH  G 450.22    2  1.5    AP                                                ?
+230TH cG $The 450-keV |g from J|p=3- of K=2 band to the J|p=2+ state of the     
+230TH2cG K=0 band is a K-forbidden [E1] transition.                             
+230TH  G 556.06    2  26.9   15 M1+E2                   0.10  6                 
+230THS G KC=0.07 5$LC=0.016 8$MC=0.0039 17$NC=0.0010 5$OC=2.4E-4 11$            
+230THS G PC=4.7E-5 23$QC=3.9E-6 27                                              
+230TH cG $M1 part of the 556.0|g from the 3- state of the K=2 band to the 3-    
+230TH2cG state of the K=0 octupole band is K-forbidden.                         
+230TH  G 619.66    2  24     2  E2                      0.02634                 
+230THS G KC=0.01805 25$LC=0.00611 9$MC=0.001559 22$NC=0.000417 6$OC=9.60E-5 13$ 
+230THS G PC=1.744E-5 24$QC=9.59E-7 13                                           
+230TH  G 953.66       23     5                                                  
+230TH  G 1074.52   2  100    5  E1                     0.003054                 
+230THS G KC=0.002506 35$LC=0.000412 6$MC=9.71E-5 14$NC=2.58E-5 4$OC=6.08E-6 9$  
+230THS G PC=1.171E-6 16$QC=1.084E-7 15                                          
+230TH  L 1134.3    3  (7+)                                                  D   
+230THX L XREF=E                                                                 
+230TH  G 540.3     3  34     4                                                  
+230THF G FLAG=C                                                                 
+230TH  G 777.8     3  100    7                                                  
+230THF G FLAG=C                                                                 
+230TH  L 1144      2                                                            
+230THX L XREF=F                                                                 
+230TH  L 1148.0    9                                                            
+230THX L XREF=F                                                                 
+230TH  L 1176.0    3  (5+)                                                  G   
+230THX L XREF=EI                                                                
+230TH  G 819.5     3  65     6                                                  
+230THF G FLAG=C                                                                 
+230TH  G 1001.9    4  100    7                                                  
+230THF G FLAG=C                                                                 
+230TH  L 1184.8    9                                                            
+230THX L XREF=F                                                                 
+230TH  L 1196.8    10 (4-)                                                  H   
+230THX L XREF=I                                                                 
+230TH cL J$1022.7|g to 4+ state, but no |g rays to the 0+, 2+ states of the     
+230TH2cL g.s. band.                                                             
+230TH  G 1022.7       100                                                       
+230TH cG E$From Coulomb Excitation                                              
+230TH  L 1206.7    5  (12+)                                                 A   
+230THX L XREF=EGHI                                                              
+230TH  G 327.9     5  100                                                       
+230TH  L 1241.2    9                                                            
+230THX L XREF=F                                                                 
+230TH  L 1243.1    3  (8+)                                                  D   
+230THX L XREF=E                                                                 
+230TH  G 365.3        20     LE                                                ?
+230THF G FLAG=C                                                                 
+230TH  G 649.4     3  100    10                                                 
+230THF G FLAG=C                                                                 
+230TH  G 886.1     4  35     7                                                  
+230THF G FLAG=C                                                                 
+230TH  L 1251.3    7  (8+)                                                      
+230THX L XREF=I                                                                 
+230TH  G 657.3        100    38                                                 
+230THF G FLAG=B                                                                 
+230TH  G 894.8        62     44                                                 
+230THF G FLAG=B                                                                 
+230TH  L 1255.4    3  (6+)                                                  G   
+230THX L XREF=EF                                                                
+230TH  G 661.4        12     LE                                                ?
+230THF G FLAG=C                                                                 
+230TH  G 898.9     3  100    8                                                  
+230THF G FLAG=C                                                                 
+230TH  G 1081.4       30     LE                                                ?
+230THF G FLAG=C                                                                 
+230TH  L 1259.2    6  (3-)                                                      
+230THX L XREF=F                                                                 
+230TH cL J$L(p,t)=(3).                                                          
+230TH  L 1283.6    6  (5-)                                                      
+230THX L XREF=F                                                                 
+230TH cL J$L(p,t)=(5)                                                           
+230TH  L 1297.14   7  0+                                                        
+230THX L XREF=BF                                                                
+230TH cL J$L(p,t)=0.                                                            
+230TH  G 789.0     1  15.2   8                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1243.9    1  100    3                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1322.1    4  (11-)                                                 B   
+230THX L XREF=EHI                                                               
+230TH  G 256.6     5                                                            
+230THF G FLAG=E                                                                 
+230TH  G 442.2     5                                                            
+230THF G FLAG=E                                                                 
+230TH  L 1322.3    5  (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1337.2    5  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1349.1    4  (7+)                                                  G   
+230THX L XREF=E                                                                 
+230TH  G 755.6     5  86     11                                                 
+230THF G FLAG=C                                                                 
+230TH  G 992.2     5  100    12                                                 
+230THF G FLAG=C                                                                 
+230TH  L 1358.5    3  (9+)                                                  D   
+230THX L XREF=E                                                                 
+230TH  G 479.7     6  39     8                                                  
+230THF G FLAG=C                                                                 
+230TH  G 764.5     3  100    12                                                 
+230THF G FLAG=C                                                                 
+230TH  L 1359.5    7  (2+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1375.28   6  (1,2+)                                                    
+230THX L XREF=BF                                                                
+230TH cL J$|g ray to 0+ level.                                                  
+230TH  G 423.2     1  7.4    14                                                 
+230THF G FLAG=D                                                                 
+230TH  G 867.1     3  38.5   21                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1322.1    1  58     4                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1375.4    1  100    4                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1400.89   4  (2+)                                                      
+230THX L XREF=BF                                                                
+230TH cL J$|g rays to 0+ and 4+ levels.                                         
+230TH  G 448.9     1  7.9    16                                                 
+230THF G FLAG=D                                                                 
+230TH  G 892.7     1  43.9   21                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1226.7    1  61     4                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1347.7    1  100    3                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1401.0    1  20.9   21                                                 
+230THF G FLAG=D                                                                 
+230TH  L 1401.5    5  2+                                                        
+230THX L XREF=F(1401.5)                                                         
+230TH  L 1420.4    5  (3+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1440.4    8  (3+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1447.9    5  0+                                                        
+230THX L XREF=F                                                                 
+230TH cL J$L(p,t)=0                                                             
+230TH  L 1448.5    4  (8+)                                                  G   
+230THX L XREF=E                                                                 
+230TH  G 569.0        25     LE                                                ?
+230THF G FLAG=C                                                                 
+230TH  G 854.6     4  100    14                                                 
+230THF G FLAG=C                                                                 
+230TH  G 1092.1       25     LE                                                ?
+230THF G FLAG=C                                                                 
+230TH  L 1485.63   8  (4+)                                                      
+230THX L XREF=BF                                                                
+230TH  G 913.7     2  50     13                                                 
+230THF G FLAG=D                                                                 
+230TH  G 977.6     2  29     13                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1432.4    1  100    9                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1496.0    10                                                           
+230THX L XREF=F                                                                 
+230TH  L 1507.4    5  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1520.0    6  (10+)                                                 D   
+230THX L XREF=I                                                                 
+230TH  G 313.0        44     15                                                ?
+230THF G FLAG=B                                                                 
+230TH  G 640.7        33     19                                                 
+230THF G FLAG=B                                                                 
+230TH  G 926.3        100    41                                                 
+230THF G FLAG=B                                                                 
+230TH  L 1524.8    5  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1566.2    6  (1-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1571.9    6  (14+)                                                 A   
+230THX L XREF=HI                                                                
+230TH  G 365.3     5  100                                                       
+230THF G FLAG=E                                                                 
+230TH  L 1573.51   20 1(-),2+                                                   
+230THX L XREF=BDF                                                               
+230TH cL J$1573.5|g to 0+; populated in (d,d').  Unnatural parity assigned in   
+230TH2cL (p,t).                                                                 
+230TH  G 1573.5    2  100                                                       
+230THF G FLAG=D                                                                 
+230TH  L 1584.7    6  (4-,5+)                                                   
+230THX L XREF=F                                                                 
+230TH  L 1589.8    3  0+                                                        
+230THX L XREF=BDF                                                               
+230TH cL J$L=0 in {+232}Th(p,t) reaction.                                       
+230TH  G 1536.6    3  100                                                       
+230THF G FLAG=D                                                                 
+230TH  L 1594.7    8  (1-)                                                      
+230THX L XREF=F                                                                 
+230TH cL J$L(p,t)=(1).                                                          
+230TH  L 1601.2    11 (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1612.1    10 (4-,5+)                                                   
+230THX L XREF=F                                                                 
+230TH  L 1616.1    5  (13-)                                                 B   
+230THX L XREF=HI                                                                
+230TH  G 293.4     5                                                            
+230THL G FL=1322.1                                                              
+230THF G FLAG=E                                                                 
+230TH  G 409.8     5                                                            
+230THF G FLAG=E                                                                 
+230TH  L 1618.7    9  (4-,5+)                                                   
+230THX L XREF=F                                                                 
+230TH  L 1628      2                                                            
+230THX L XREF=D                                                                 
+230TH  L 1630.1    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1638.45   9  (0+)                                                      
+230THX L XREF=BF                                                                
+230TH cL J$|g rays to 2+ states; log| {Ift}=7.1 from (1+) {+230}Ac |b{+-}       
+230TH2cL decay; L(p,t)=0.                                                       
+230TH cL $J|p=2+, K=0 was suggested by 1972Ma15 from energy difference of the   
+230TH2cL 1638.5- and 1589.8-keV levels.                                         
+230TH  G 628.8     1  100    11                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1585.4    2  72     7                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1653.2    11 (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1663      3                                                            
+230THX L XREF=D                                                                 
+230TH  L 1668.2    7  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1679.1    7  (2+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1683.3    7  (4-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1694.9    7  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1695.71   9  1(-),2+                                                   
+230THX L XREF=BD                                                                
+230TH cL J$1695.7|g to 0+. Populated in (d,d').                                 
+230TH  G 1187.5    3  45     11                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1642.5    2  38     7                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1695.7    1  100    11                                                 
+230THF G FLAG=D                                                                 
+230TH  L 1708.8    8  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1718      3                                                            
+230THX L XREF=D                                                                 
+230TH  L 1723.5    7  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1744.87   8  (0+)                                                      
+230THX L XREF=BF                                                                
+230TH  G 735.1     2  16     4                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1691.7    1  100    6                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1750.7    8  (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1762.3    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1769.6    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1770.73   10 (1,2+)                                                    
+230THX L XREF=B                                                                 
+230TH cL J$1770.5|g to 0+.                                                      
+230TH  G 1717.5    1  100    6                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1770.5    10 15     4                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1775.22   7  (1,2+)                                                    
+230THX L XREF=BF                                                                
+230TH cL J$1775.3|g to 0+.                                                      
+230TH  G 1267.1    2  37     4                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1721.9    1  59     3                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1775.3    1  100    4                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1789.4    5  1(-),2+                                                   
+230THX L XREF=BD                                                                
+230TH cL J$1789.4|g to 0+ level. Populated in (d,d').                           
+230TH  G 1789.4    5  100                                                       
+230THF G FLAG=D                                                                 
+230TH  L 1793.1    6  (5-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1802.5    6  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1810.73   6  (1,2+)                                                    
+230THX L XREF=B                                                                 
+230TH cL J$1810.7|g to 0+ level.                                                
+230TH  G 1302.6    1  62     3                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1757.5    1  100    3                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1810.7    1  19.8   19                                                 
+230THF G FLAG=D                                                                 
+230TH  L 1812.0    8  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1824.9    7  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1839.61   20 1(-),2+                                                   
+230THX L XREF=BDF                                                               
+230TH cL J$1839.6|g to 0+ level. Populated in (d,d').                           
+230TH  G 1839.6    2  100                                                       
+230THF G FLAG=D                                                                 
+230TH  L 1849.55   8  (2+)                                                      
+230THX L XREF=B                                                                 
+230TH cL J$|g rays to 4+, 2+, and 2- levels; log| {Ift}=6.9 from (1+) {+230}Ac  
+230TH2cL |b- decay.                                                             
+230TH  G 363.9     3  23     9                                                  
+230THF G FLAG=D                                                                 
+230TH  G 839.9     1  100    9                                                  
+230THF G FLAG=D                                                                 
+230TH  G 878.0     2  45     5                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1675.4    3  45     10                                                 
+230THF G FLAG=D                                                                 
+230TH  L 1851.4    7  (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1858.2    5  (3-)                                                      
+230THX L XREF=BDF                                                               
+230TH  G 1805.0    5  100                                                       
+230THF G FLAG=D                                                                 
+230TH  L 1868.9    7                                                            
+230THX L XREF=F                                                                 
+230TH cL $This level is fit as a double in {+232}Th(p,t), with spin components  
+230TH2cL (0{++}) and (6{++}).                                                   
+230TH  L 1887.0    9  (2+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1902.70   9  (1,2+)                                                    
+230THX L XREF=B                                                                 
+230TH cL J$1902.7|g to 0+ level.                                                
+230TH  G 1394.5    2  22     6                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1902.7    1  100    4                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1910.0    9  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1914.7    9  (1-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1926.0    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1931.1    8  (1-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 1939.8    11 (1)                                                       
+230THX L XREF=F                                                                 
+230TH  L 1947.0    6  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1947.2    6  (15-)                                                 B   
+230THX L XREF=HI                                                                
+230TH  G 331.0     5                                                            
+230THF G FLAG=E                                                                 
+230TH  G 375.5     5                                                            
+230THL G FL=1571.9                                                              
+230THF G FLAG=E                                                                 
+230TH  L 1949.87   7  (1,2+)                                                    
+230THX L XREF=B                                                                 
+230TH cL J$1949.8|g to 0+ level.                                                
+230TH  G 1896.7    1  42     2                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1949.8    1  100    2                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1956.4    6  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 1967.01   10 (1,2+)                                                    
+230THX L XREF=BF                                                                
+230TH cL J$1966.7|g to 0+ level, but not 2+ in (p,t).                           
+230TH  G 1913.8    1  100    5                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1966.7    3  15     3                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1969.6    7  (16+)                                                 A   
+230THX L XREF=HI                                                                
+230TH  G 397.7     5                                                            
+230THL G FL=1571.9                                                              
+230THF G FLAG=E                                                                 
+230TH  L 1973.50   7  (1+,2+)                                                   
+230THX L XREF=BF                                                                
+230TH cL J$1973.5|g to 0+ level, and possible 1147.9|g to 3+ state, but 2+ in   
+230TH2cL (p,t).                                                                 
+230TH  G 1147.9    1  92     6                                                 ?
+230THF G FLAG=D                                                                 
+230TH  G 1920.2    1  100    4                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1973.5    5  10     4                                                  
+230THF G FLAG=D                                                                 
+230TH  L 1985.4    8  (5-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2000.86   7  (1,2+)                                                    
+230THX L XREF=B                                                                 
+230TH cL J$2000.9|g to 0+ level.                                                
+230TH  G 991.2     1  27     7                                                 ?
+230THF G FLAG=D                                                                 
+230TH  G 2000.9    1  100    10                                                 
+230THF G FLAG=D                                                                 
+230TH  L 2001.6    8  (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2010.13   9  (1,2+)                                                    
+230THX L XREF=BF                                                                
+230TH cL J$2010.1|g to 0+ level.  Assigned 2+ in (p,t)                          
+230TH  G 1956.9    1  100    6                                                  
+230THF G FLAG=D                                                                 
+230TH  G 2010.1    2  17     4                                                  
+230THF G FLAG=D                                                                 
+230TH  L 2017.3    7  (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2024.67   12 (1+,2+)                                                   
+230THX L XREF=BF                                                                
+230TH cL J$|g rays to 0+ and 3+ levels.  Assigned 2+ in (p,t)                   
+230TH  G 1053.1    2  100    23                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1198.9    2  100    23                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1971.3    5  28     12                                                 
+230THF G FLAG=D                                                                 
+230TH  G 2024.6    3  33     12                                                 
+230THF G FLAG=D                                                                 
+230TH  L 2032.8    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2039.1    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2048.7    7  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2060.9    12 (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2073.2    8  (8+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2074.9    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2078.25   9                                                           ?
+230THX L XREF=B                                                                 
+230TH  G 999.1     1  100    19                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1068.1    3  30     12                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1252.5    3  30     8                                                  
+230TH  L 2085.9    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2093.9    7  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2102.0    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2118.4    6  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2122.77   9  (1,2+)                                                    
+230THX L XREF=B                                                                 
+230TH cL J$2122.8|g to 0+ level.                                                
+230TH  G 1043.2    3  14     5                                                  
+230THF G FLAG=D                                                                 
+230TH  G 2069.5    2  51     5                                                  
+230THF G FLAG=D                                                                 
+230TH  G 2122.8    1  100    5                                                  
+230THF G FLAG=D                                                                 
+230TH  L 2130.7    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2133.16   10                                                          ?
+230THX L XREF=B                                                                 
+230TH  G 388.3     1  67     6                                                  
+230THF G FLAG=D                                                                 
+230TH  G 1455.5    2  100    28                                                 
+230THF G FLAG=D                                                                 
+230TH  G 1625.1    3  78     LE                                                ?
+230THF G FLAG=D                                                                 
+230TH  L 2137.9    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2150.5    6  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2151.82   10 (1,2+)                                                    
+230THX L XREF=B                                                                 
+230TH cL J$2152.0|g to 0+ level.                                                
+230TH  G 750.7     3  28     5                                                  
+230THL G FL=1400.89                                                             
+230THF G FLAG=D                                                                 
+230TH  G 2098.6    1  100    5                                                  
+230THF G FLAG=D                                                                 
+230TH  G 2152.0    10 6.3    16                                                 
+230TH  L 2168.8    7  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2175.1    6  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2181.7    7  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2187.1    6  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2194.8    8  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2205.4    10 2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2207.8    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2216.0    7  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2226.0    6  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2241.0    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2249.9    7  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2255.3    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2268.9    6  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2276.0    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2282.99   16 1,2+                                                      
+230THX L XREF=BF                                                                
+230TH cL J$2282.5|g to 0+ level.                                                
+230TH  G 1311.5    2  100    23                                                 
+230THF G FLAG=D                                                                 
+230TH  G 2229.5    5  61     12                                                 
+230THF G FLAG=D                                                                 
+230TH  G 2282.5    3  78     6                                                  
+230THF G FLAG=D                                                                 
+230TH  L 2295.9    8  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2298.6    3  (1,2+)                                                    
+230THX L XREF=B                                                                 
+230TH cL J$2298.6|g to 0+ level.                                                
+230TH  G 2245.4    10 57     29                                                 
+230THF G FLAG=D                                                                 
+230TH  G 2298.6    3  100    15                                                 
+230THF G FLAG=D                                                                 
+230TH  L 2305.4    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2310.6    7  (17-)                                                 B   
+230THX L XREF=HI                                                                
+230TH  G 341       1                                                            
+230THF G FLAG=E                                                                 
+230TH  G 363.4     5                                                            
+230THL G FL=1947.2                                                              
+230THF G FLAG=E                                                                 
+230TH  L 2311.2    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2314.28   14 (1,2+)                                                   ?
+230THX L XREF=B                                                                 
+230TH cL J$2314.0|g to 0+ level.                                                
+230TH  G 503.5     2                                                            
+230THF G FLAG=D                                                                 
+230TH  G 1636.8    2  100    22                                                 
+230THF G FLAG=D                                                                 
+230TH  G 2314.0    10 26     6                                                  
+230THF G FLAG=D                                                                 
+230TH  L 2317.7    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2329.6    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2337.1    8  (5-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2354.8    10 (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2368.91   17 (0+)                                                      
+230THX L XREF=BF                                                                
+230TH  G 968.0     2  100    42                                                 
+230THL G FL=1400.89                                                             
+230THF G FLAG=D                                                                 
+230TH  G 1797.2    3  83     17                                                 
+230THF G FLAG=D                                                                 
+230TH  L 2383.8    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2388.4    10                                                           
+230THX L XREF=F                                                                 
+230TH  L 2395.2    7  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2396.4    9  (18+)                                                 A   
+230THX L XREF=HI                                                                
+230TH  G 426.8     5                                                            
+230THF G FLAG=E                                                                 
+230TH  L 2402.0    8  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2411.6    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2422.7    7                                                            
+230THX L XREF=F                                                                 
+230TH cL $This level is fit as a doublet in {+232}Th(p,t), with the two spins   
+230TH2cL being (0{++}) and (4{++})                                              
+230TH  L 2426.4    9  (0+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2436.6    9  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2442.5    8  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2449.2    2  (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2461.0    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2467.2    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2474.3    8  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2478.5    8  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2481.3    12 (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2493.8    7  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2501.1    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2508.3    7                                                            
+230THX L XREF=F                                                                 
+230TH  L 2519.3    7  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2528.1    7  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2536.9    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2549.8    11 0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2556.2    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2562.9    9  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2573.2    7  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2589.1    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2596.4    8  (0+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2601.3    7  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2616.0    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2625.9    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2640.0    8  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2660.9    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2666.4    7  (2+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2671.6    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2679.2    8  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2694.9    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2703.8    9  (19-)                                                 B   
+230THX L XREF=HI                                                                
+230TH  G 393.2     5                                                            
+230THL G FL=2310.6                                                              
+230THF G FLAG=E                                                                 
+230TH  L 2706.5    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2712.9    5  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2726.6    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2740.6    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2746.2    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2754.2    10 (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2764.9    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2777.3    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2791.5    7  4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2799.7    8  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2808.1    7  0+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2824.4    10 4+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2834.0    10 2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2841.3    7  (2+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2848.7    10 (20+)                                                 A   
+230THX L XREF=HI                                                                
+230TH  G 452.3     5                                                            
+230THL G FL=2396.4                                                              
+230THF G FLAG=E                                                                 
+230TH  L 2855.9    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2862.9    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2870.6    10 (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2879.7    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2886.1    10 (1-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2896.1    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2906.4    8  (3-)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2913.6    15 (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2923.7    9  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2930.6    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2940.6    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 2950.5    8  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2987.9    10 (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 2999.0    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3009.9    8  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3020.6    8  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3030.3    9  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3043.0    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3052.4    9  (3+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 3064.3    15 (2+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 3072.6    8  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 3083.8    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3100.9    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3113.9    12 (LE 4)                                                    
+230THX L XREF=F                                                                 
+230TH  L 3124.7    8  (4+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 3125.4    10 (21-)                                                 B   
+230THX L XREF=HI                                                                
+230TH  G 421.6     5                                                           ?
+230THF G FLAG=E                                                                 
+230TH  L 3135.9    10 (LE 4)                                                    
+230THX L XREF=F                                                                 
+230TH  L 3147.4    8  (LE 4)                                                    
+230THX L XREF=F                                                                 
+230TH  L 3162.0    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3173.6    8  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3186.1    7  (6+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 3198.4    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3212.2    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3223.1    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3234.0    7                                                            
+230THX L XREF=F                                                                 
+230TH  L 3248.6    7  2+                                                        
+230THX L XREF=F                                                                 
+230TH  L 3258.8    8                                                            
+230THX L XREF=F                                                                 
+230TH  L 3269.9    12 (2+)                                                      
+230THX L XREF=F                                                                 
+230TH  L 3324.1    11 (22+)                                                 A   
+230THX L XREF=HI                                                                
+230TH  G 475.4     5                                                            
+230THF G FLAG=E                                                                 
+230TH  L 3572.3    11 (23-)                                                 B  ?
+230THX L XREF=H                                                                 
+230TH  G 446.9     5                                                           ?
+230THL G FL=3125.4                                                              
+230THF G FLAG=E                                                                 
+230TH  L 3819.1    15 (24+)                                                 A  ?
+230THX L XREF=HI                                                                
+230TH  G 495       1                                                           ?
+230THF G FLAG=E                                                                 

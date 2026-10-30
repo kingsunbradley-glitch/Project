@@ -1,0 +1,246 @@
+250BK    254ES A DECAY (275.7 D)                                 01NDS    200112
+250BK  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94,131 (2001)$CUT=1-Aug-2001$           
+254ES  P 0.0         (7+)              275.7 D   5              6615.7    15    
+250BK  N 1.0         1.0       1.0                                              
+250BK PN                                                                     2  
+250BK tG           Berkelium x-rays:                                            
+250BK2tG                                                                        
+250BK3tG                            E(x-ray)     I(relative)                    
+250BK4tG                           1972Di02       1972Di02                      
+250BK5tG                           ----------    -----------                    
+250BK6tG                           107.165 {I6}       643 {I8}     K|a{-2}| x ra
+250BK+tG y                                                                      
+250BK7tG                           112.112 {I6}      1000       K|a{-1}| x ray  
+250BK8tG                           125.478 {I10}      126 {I4}     K|b{-3} x ray
+250BK9tG                           126.582 {I10}      222 {I10}    K|b{-1} x ray
+250BK2tG                                                                        
+250BK cG           I(K|a| x ray)=0.40%, I(K|b| x ray)=0.13%, I(L| x ray)=230%   
+250BK2cG (1966Mc02). For measured relative sub L x-ray intensities, see         
+250BKxcG 1988Po05, 1990Po14.                                                    
+250BK cG                                                                        
+250BK tG           |a|g(t):                                                     
+250BK2tG T{-1/2}(97.49 level)=38 ns {I5} obtained by 1966Mc02 from (|a)(63|g)(t)
+250BK+tG  data.                                                                 
+250BK3tG              T{-1/2}(60|g in {+241}Am |a decay)=63 ns was used as a sta
+250BK+tG ndard.                                                                 
+250BK4tG T{-1/2}(86.4 level)=213 |ms {I8} obtained by 1966Mc02 from (|a)(L| x ra
+250BK+tG y)(t) data.                                                            
+250BK tG                                                                        
+250BK tG           |g|g(t):                                                     
+250BK2tG T{-1/2}(35.6 level)=29 |ms {I1} obtained by 1966Mc02 from (L| x ray)(35
+250BK+tG .5|g)(t) data,                                                         
+250BK3tG              and also from (L| x ray)(L| x ray)(t) data. The 29-|ms del
+250BK+tG ay was found                                                           
+250BK4tG              to follow the 213-|ms delay.                              
+250BK5tG                                                                        
+250BK cG           |a|g: see 1966Mc02.                                          
+250BK cG                                                                        
+250BK cL           1982KoZZ reported that 35 |a and 45 |g transitions           
+250BK2cL were identified via their |a, |g and ce singles and coincidence        
+250BK3cL spectra. The low-lying rotational bands, which were previously         
+250BK4cL identified by 1966Mc02, were confirmed. Two new K=6 bands,             
+250BK5cL 6+,(p 7/2[633]+n 5/2[622]) at 355.3 keV and                            
+250BK5cL 6+,(p 5/2[642]+n 7/2[613]) at 406.3 keV, and two additional states     
+250BK6cL at 316.1 with K=5+, and at 551.8 with possibly K=8 were                
+250BK7cL proposed.                                                              
+250BK cL           No level at about 355.3 keV was identified in (n,|g)         
+250BK2cL reaction. However, the 6+,(p 7/2[633]+n 5/2[622]) state was            
+250BK3cL assigned by 1985HoZM to a level at 552 keV from their (n,|g) data. An  
+250BK4cL |a transition to such a state would be expected. However, since        
+250BK5cL data on feeding and |DE-exciting these two levels are not available,   
+250BK6cL no recommendation are given here.                                      
+250BK cL           An |a from J|p=7+,K=7,(p 7/2[633],n 7/2[613]) parent         
+250BK2cL to 5+,(p 7/2[633],n 3/2[622]) state at 316 keV, also proposed          
+250BK3cL from (n,|g) work, should have a large |a-hindrance                     
+250BK4cL factor. Its intensity is not available at this time, therefore its     
+250BK5cL hindrance factor could not be calculated to verify the assignment.     
+250BK cL           A level at 406 keV was observed in (n,|g) reaction by        
+250BK2cL 1985HoZM and J|p=6+, K=6 (p 5/2[642],n 7/2[613]) was assigned.         
+250BK3cL |a transition to such a state would be expected. Therefore, the        
+250BK4cL level observed in {+254}Es |a decay at 406.3 keV is probably the 6+    
+250BK5cL state proposed at 406 keV from the (n,|g) data, and presumably         
+250BK6cL different than the one observed by 1966Mc02 and 1972Bb24 at 414 {I2}   
+250BKxcL keV.                                                                   
+250BK cL           Since these interpretations are preliminary, the |a decay    
+250BK2cL work of 1982KoZZ has not been included here.                           
+250BK cL E,J       See adopted levels                                           
+250BK CL BAND(A)   K=2,(p 3/2[521],n 1/2[620]) BAND                             
+250BK CL BAND(B)   K=4,(p 7/2[633],n 1/2[620]) BAND                             
+250BK CL BAND(D)   K=5,(p 3/2[521],n 7/2[613]) BAND                             
+250BK CL BAND(I)   K=7,(p 7/2[633],n 7/2[613]) BAND                             
+250BK cL E(M)      The authors of 1966Mc02 tentatively suggested that the       
+250BK2cL levels populated at 413, 471 and 527 might be members of a rotational  
+250BK3cL band.                                                                  
+250BK cG E         Measurements of 1966Mc02, unless noted otherwise. E|g's are  
+250BK2cG accurate to |+2 keV (1966Mc02). Other measurement: 1988Po05            
+250BK3cG (see also 1991Po17).                                                   
+250BK cG RI        Photon intensity per 100 |a decays, measured by 1966Mc02,    
+250BK2cG except where noted. I|g's measured by 1988Po05 and 1966Mc02 do not     
+250BK3cG agree well. Intensities listed in 1988Po05 are quoted for comparison.  
+250BK4cG The photon intensities are accurate to about 15% (1966Mc02).           
+250BK cG M         Multipolarities were deduced by 1966Mc02 from their ce data  
+250BK2cG (qualitative intensities were listed only).                            
+250BK cG TI        Transition intensity per 100 |a decays, obtained by          
+250BK2cG 1966Mc02 from their ce data, except where noted.                       
+250BK cG E(E)      Transition not observed; energy is from level scheme         
+250BK cG E(S)      Not observed in {+254}Es |a decay; E|g is from (n,|g)        
+250BK cA E         Measurements of 1972Bb24, except where noted; other          
+250BK2cA measurements: 1966Mc02, 1971Bb10, 1972HaWO. Energies measured by       
+250BK3cA 1972Bb24 are decreased here by 0.2 keV, as recommended by 1991Ry01,    
+250BK4cA due to changes in calibration energy. The uncertainties on energies    
+250BK5cA were not worse than 1 - 2 keV (1972Bb24). The original energies of     
+250BK6cA 1966Mc02 are decreased by 8 keV because of the calibration energy used.
+250BK cA IA        |a intensity per 100 |a decays, measured by 1972Bb24 and     
+250BK2cA 1966Mc02. The |a's given by 1972Bb24 with upper limits on              
+250BK3cA intensities, are assumed that they were not observed by them, if these 
+250BK4cA |a were not seen by 1966Mc02.                                          
+250BK cA HF        Calculated by using r{-0}({+250}Bk)=1.502 {I3}.              
+250BK  G 264       2  0.05   1                                                  
+250BK  G 278       2  0.03   1                                                  
+250BK cG           The 278|g might deexcite the level at 527 to the 247.9-keV   
+250BK2cG level. This placement would be consistent with the suggestion that     
+250BK3cG the 413-, 471- and 527-keV levels may be the 6+, 7+, and 8+ members    
+250BK4cG of K=6 band, respectively.                                             
+250BK  G 285       AP 0.01                                                      
+250BK cG           I|g(290|g)=0.3% {I1} is listed in 1988Po05.                  
+250BK cG           Transition is questionable.                                  
+250BK  G 342       2  0.009  2                                                  
+250BK cG           I|g(340|g)=0.04% {I2} is listed in 1988Po05.                 
+250BK  G 348       2  0.007  1                                                  
+250BK  G 377       2  0.015  2                                                  
+250BK cG           I|g(375|g)=0.05% {I3} is listed in 1988Po05.                 
+250BK  G 385       2  0.05   1                                                  
+250BK cG           I|g(390|g)=0.4% {I1} is listed in 1988Po05.                  
+250BK  A 6512      AP 0.005  LE 1.3E+5 GE                                      ?
+250BK cA           I|a|?0.0046 was measured by 1972Bb24 and I|a|<0.005 by       
+250BK2cA 1966Mc02. If there is any |a transition to the {+250}Bk g.s. with main 
+250BK3cA configuration of K=2,(p 3/2[521],n 1/2[620]) from the {+254}Es g.s.    
+250BK4cA with main configuration of K=7,(p 7/2[633],n 7/2[613]), the transition 
+250BK5cA should take place via some configuration admixtures in their           
+250BK6cA respective ground states.                                              
+250BK  A 6478          0.05  LE                                                ?
+250BK cA           This |a was not observed by 1966Mc02; I|a|<0.05 was          
+250BK2cA listed by 1972Bb24. As in the case of an |a decay to the g.s., the     
+250BK3cA probability of an |a transition from                                   
+250BK4cA 7+,7(p 7/2[633],n 7/2[613])  parent state to                           
+250BK5cA J|p=3-, K=2 (p 3/2[521],n 1/2[620]) state which would involve          
+250BK6cA changes in both proton and neutron states, should be small.            
+250BK7cA Some configuration admixtures in parent or/and daughter level(s)       
+250BK8cA would explain the transition, if assignment of this 6478|a to 275.7-d  
+250BK9cA {+254}Es decay is correct.                                             
+250BK  L 0.0          2-               3.212 H   5                          A   
+250BK  L 34.47       (3-)                                                   A   
+250BK  G 34.4                  (M1,E2)                          30        AP    
+250BK  L 35.59       (4+)              29 US     1                          B   
+250BK  A 6476      AP 0.23   4 2190    40                                       
+250BK cA           Listed intensities are: 0.27 (1966Mc02), |>0.18 (1972Bb24).  
+250BK  G 1.12                                                               E  S
+250BK cG           I(|g+ce)|?30 from intensity balance at the 34.47-keV level,  
+250BK2cG if there are no other |g transitions feeding the 35.59-keV level.      
+250BK  G 35.5                   (M2)                   1.287E4  70        AP    
+250BKS G LC=9320 $ MC=2790 $                                                    
+250BK  L 78.33       (5+)                                                   B   
+250BK  A 6435      AP 0.03   AP 10600  AP                                       
+250BK cA           This |a was not observed by 1966Mc02.                        
+250BK  G 42.6                  (M1,E2)                          100             
+250BK  L 80.26        (4-)                                                  A   
+250BK  G 45.79                 (M1+E2)                                      S  S
+250BK  G 80.26                 (E2)                                         S  S
+250BK  L 86        2 (7+)              213 US    8                          I   
+250BK DL E         THE EA(TO THIS LEVEL)-EA(TO THE 97.49-KEV LEVEL) YIELD       
+250BK2DL E(LEVEL)=84.1 22; EG=385 2 FROM 472-KEV LEVEL GIVES E(LEVEL)=87 3.     
+250BK  A 6428.6    15 93.1   1 3.2     1                                        
+250BK  G 8                                                                  E  S
+250BK2 G FL=78.33                                                               
+250BK  L 97.49       (5-)              38 NS     5                          D   
+250BK  A 6415.4    15 1.8    1 144     10                                       
+250BK  G 63        2  2.0    2 (E1)                    0.508                    
+250BK2 G FL=35.59                                                               
+250BK cG RI        I|g=1.6% {I4} was measured by 1988Po05.                      
+250BKS G LC=0.363 $ MC=0.0908 $ NC+=0.0323 $                                    
+250BK cG M         from nonobservation of conversion electrons, 1966Mc02        
+250BK2cG deduced that this |g is an E1 transition.                              
+250BK cG           This |g's placement between the 97.49- and 35.59-keV         
+250BK2cG levels is not consistent with configuration assigned for these         
+250BK3cG levels: the transition from the (p 3/2[521],n 7/2[613]) state          
+250BK4cG to the (p 7/2[633],n 1/2[620])  state would require both proton        
+250BK5cG and neutron states to change. Some configuration mixing                
+250BK6cG in either or both of these levels can explain this transition.         
+250BK  L 130.49       (6+)                                                  B   
+250BK  A 6383      2  0.1    LT 1800   GT                                       
+250BK cA           Listed intensities are 0.13 (1966Mc02), <0.1 (1972Bb24).     
+250BK  G 52.16                                                              S  S
+250BK  G 94.91                                                              S  S
+250BK  L 137.32       (5-)                                                  A   
+250BK  A 6378      AP 0.01   LT 17000  GT                                      ?
+250BK cA           This |a was not seen by 1966Mc02. I|a<0.01 was listed by     
+250BK2cA 1972Bb24.                                                              
+250BK  G 57.06                                                              S  S
+250BK  G 102.84                                                             S  S
+250BK  L 156       2 (8+)                                                   I   
+250BK DL E         EG=70.4 1 TO THE 86-KEV LEVEL GIVES E(LEVEL)=156 2;          
+250BK2DL FROM Q=6615.7 15 AND EA=6358.4 15, E(LEVEL)=155.6 22.                  
+250BK  A 6358.4    15 2.6    3 53      10                                       
+250BK cA           Listed intensities are 2.9 (1966Mc02), 2.4 (1972Bb24).       
+250BK  G 70.4      2           (M1+E2)                          2.5             
+250BK cG TI        deduced from intensity balance at the 155.5-keV level, by    
+250BK2cG assuming that any other |g feeding the level can be neglected.         
+250BK3cG I(|g+ce)|?3 was measured by 1966Mc02.                                  
+250BK  L 167.09      (6-)                                                   D   
+250BK  A 6347      2  0.75   5 160     12                                       
+250BK  G 69.7      1           (M1+E2)                 69     24 1        AP    
+250BK cG           I(|g+ce)=0.9 from intensity balance at the 167.09-keV level. 
+250BK2cG I|g=0.013 {I5}, if I(|g+ce)=0.9, |a=69 {I24}.                          
+250BK  L 190       2  (7+)                                                  B   
+250BK  A 6324      2  0.04   1 2350    60                                       
+250BK cA           Listed intensities are 0.05 (1966Mc02), 0.035 (1972Bb24).    
+250BK  L 241          (9+)                                                  I   
+250BK DL E         LEVEL ENERGY IS FROM EG=85.1 1 TO THE 156-KEV LEVEL.         
+250BK  A 6275      AP 0.14   2 380     60                                       
+250BK cA           Listed intensities are 0.16 (1966Mc02), |?0.11 (1972Bb24).   
+250BK  G 85.1      1           (M1,E2)                          0.14      2     
+250BK cG           I|g=0.16% {I7} is listed in 1988Po05. However, the intensity 
+250BK2cG balance at the 241-keV level, by using I|a(6275|a)=0.14 {I2} feeding   
+250BK3cG the level and |a(M1; 85.1|g)=13.3, |a(E2; 85.1|g)=44.6, suggests       
+250BK4cG I|g<0.01%, I(|g+ce)=0.14 {I2}; any possible |g feeding the 241-keV     
+250BK5cG level is assumed negligible. Very weak L-subshell electrons were       
+250BK6cG observed and I(|g+ce)<<1 is listed in 1966Mc02.                        
+250BK  L 247.9     2  (7-)                                                  D   
+250BK  A 6266      2  0.22   2 224     22                                       
+250BK  G 80.8      1           (M1,E2)                          0.1             
+250BK cG TI        deduced from intensity balance at the 247.9 level.           
+250BK2cG I(|g+ce)<1 was listed by 1966Mc02.                                     
+250BK  G 150       2  0.020  3   [E2]                     3.47                  
+250BKS G KC= 0.1637 $ LC=2.372 $ MC=0.672 $ NC+=0.263 $                         
+250BK  L 258       AP                                                          ?
+250BK  A 6258                                                                  ?
+250BK cA           This |a was not observed by 1966Mc02. I|a<0.02 was           
+250BK2cA listed by 1972Bb24.                                                    
+250BK  L 325       2                                                            
+250BK DL E         323 2 FROM QA AND EA; 327 2 FROM 249G TO 78.33 LEVEL.        
+250BK  A 6194      2  0.04   2 515     AP                                       
+250BK  G 233       2  0.008  1                                                 ?
+250BK cG           Existence of this |g is questionable.                        
+250BK  G 249       2  0.025  4                                                  
+250BK  L 333       2                                                            
+250BK  A 6184      2  0.06   AP 320    AP                                       
+250BK cA           Listed intensities: |?0.05 (1966Mc02), |?0.08 (1972Bb24).    
+250BK  L 341       AP                                                           
+250BK  A 6177         0.02   AP 860    AP                                       
+250BK cA           This |a was not observed by 1966Mc02.                        
+250BK  L 413       3                                                        M   
+250BK  A 6105      2  0.34   2 22      2                                        
+250BK cA           Listed intensities: 0.33 (1966Mc02), 0.36 (1972Bb24).        
+250BK  G 316       2  0.15   2                                                  
+250BK cG           I|g(316|g)=0.08% {I4} is given in 1988Po05.                  
+250BK  L 471       2                                                        M   
+250BK  A 6048      5  0.16     23                                               
+250BK cA           This |a was not listed by 1972Bb24. E|a and I|a are          
+250BK2cA measurements of 1966Mc02. The original E|a is decreased here by 8 keV  
+250BK3cA because of a change in calibration energy.                             
+250BK  G 304       2  0.07   1                                                  
+250BK cG           I|g(304|g)=0.08% {I4} is given in 1988Po05.                  
+250BK  L 527       20                                                       M   
+250BK  A 6000      20 0.03   AP 65     AP                                       
+250BK cA           This |a was not listed by 1972Bb24. E|a and I|a were         
+250BK2cA measured by 1966Mc02 in coincidence with E|g>275 keV.                  

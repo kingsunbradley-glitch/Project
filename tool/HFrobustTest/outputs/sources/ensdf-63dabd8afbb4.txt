@@ -1,0 +1,105 @@
+251FM    ADOPTED LEVELS, GAMMAS                                  23NDS    202305
+251FM  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251FM  H TYP=ERR$AUT=C. Morse$CIT=NDS 189, 111 (2023)$DAT=18-May-2023$          
+251FM2 H COM=Corrected error in half-life of 200-keV level.                     
+251FM  Q -3008     24 6185   16 4555   SY 7424.5  10   2021Wa16                 
+251FM cQ $|DS(p)=101 (2021Wa16)                                                 
+251FM cQ $S(2n)=13703 {I16},  S(2p)=8342 {I14} (2021Wa16)                       
+251FM CL BAND(A)$|n9/2-[734]                                                    
+251FM CL BAND(B)$|n5/2+[622]                                                    
+251FM CL BAND(C)$|n1/2+[631]                                                    
+251FM CL BAND(D)$|n1/2+[620]                                                    
+251FM c  $ Unless otherwise noted, all data are from {+255}No |a decay. Spins,  
+251FM2c  parities, and configurations of levels are those assigned in           
+251FM3c  2011As03, primarily based on |a-decay hindrance factors and |g-ray     
+251FM4c  decay patterns.                                                        
+251FM c  $ Mass measurement: 2018It04.                                          
+251FM cG M,MR$From {+255}No |a decay.                                           
+251FM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+251FM  XA255NO A DECAY                                                          
+251FM  L 0            (9/2-)            5.30 H    8                         A   
+251FMX L XREF=A                                                                 
+251FM2 L %A=1.80 13$CONF=|n9/2-[734] (2011As03)                                 
+251FM cL %A$From 1978Ah02, with the remaining decay mode being electron         
+251FM2cL capture.  Note that 1973Ah02 gives %|a=1.9 {I2}. The evaluator has     
+251FM3cL assumed that the more recent value supersedes the former value from    
+251FM4cL the same authors.                                                      
+251FM cL T$From 1973Ah02.  Others: |?7 h (1957Am47,1967Ch17).                   
+251FM cL J$Favored |a decay to (9/2-) state in {+247}Cf (1973Ah02)              
+251FM  L 63.9      8  (11/2-)                                               A   
+251FMX L XREF=A                                                                 
+251FM cL J$M1 to (9/2-) ground state; band assignment.                          
+251FM  G 63.9      8  100       M1                      38.7  16                
+251FML G FL=0                                                                   
+251FMS G LC=28.9 12$MC=7.2 3$NC=2.00 8$OC=0.528 22$PC=0.103 5$QC=0.00579 24     
+251FM  L 200.07    10 (5/2+)            22.9 US   9                         B   
+251FMX L XREF=A                                                                 
+251FM2 L CONF=|n5/2+[622] (2011As03)                                            
+251FM cL J$M2 |g to ground state allows either 5/2+ or 13/2+, but the latter    
+251FM2cL is excluded due to non-existence of fast E1 decay to 11/2- level.      
+251FM  G 200.07    10 100       M2+E3     0.76   +20-19 20.9  10                
+251FML G FL=0                                                                   
+251FMS G KC=9.3 18$LC=8.3 6$MC=2.41 19$NC=0.69 6$OC=0.179 14$PC=0.0315 19$      
+251FMS G QC=0.00095 13                                                          
+251FMB G BE3W=19 7$BM2W=0.0031 7                                                
+251FM  L 243       3  (7/2+)                                                B   
+251FMX L XREF=A                                                                 
+251FM  L 301       3  (9/2+)                                                B   
+251FMX L XREF=A                                                                 
+251FM  L 353.8     3  (7/2+)                                                    
+251FMX L XREF=A                                                                 
+251FM2 L CONF=7/2{++}[624] (2011As03)                                           
+251FM  G 353.8     3  100       (E1)                    0.0342                  
+251FML G FL=0                                                                   
+251FMS G KC=0.0266 4$LC=0.00567 8$MC=0.001391 20$NC=0.000386 6$OC=0.0001003 15$ 
+251FMS G PC=1.84E-5 3$QC=8.24E-7 12                                             
+251FM  L 391.97    16 (1/2+)            22 NS     3                         C   
+251FMX L XREF=A                                                                 
+251FM2 L CONF=|n1/2+[631] (2011As03)                                            
+251FM cL J$Inferred by presence of E2 |g to (5/2+) state but lack of            
+251FM2cL transitions to (7/2+) and (9/2+) states.                               
+251FM  G 191.95    14 100       E2                      1.567                   
+251FML G FL=200.07                                                              
+251FMS G KC=0.1385 20$LC=1.027 15$MC=0.293 5$NC=0.0833 12$OC=0.0211 3$          
+251FMS G PC=0.00346 5$QC=2.49E-5 4                                              
+251FMB G BE2W=0.41 6                                                            
+251FM  L 395.27    22 (3/2+)            16 NS     LT                        C   
+251FMX L XREF=A                                                                 
+251FM cL J$Band member.                                                         
+251FM  G 3.4                    [M1]                   1.599E4                 S
+251FML G FL=391.97                                                              
+251FMS G NC=1.211E4 17$OC=3.22E3 5$PC=625 9$QC=35.5 5                           
+251FM  G 195.2     3  100       M1                      6.83                    
+251FML G FL=200.07                                                              
+251FMS G KC=5.29 8$LC=1.152 17$MC=0.284 5$NC=0.0794 12$OC=0.0210 3$             
+251FMS G PC=0.00407 6$QC=0.000228 4                                             
+251FMB G BM1W=2.4E-5 GT                                                         
+251FM  L 461       3  (5/2+)                                                C   
+251FMX L XREF=A                                                                 
+251FM cL J$Band member.                                                         
+251FM  L 558.57    17 (1/2+)            8 NS      LT                        D   
+251FMX L XREF=A                                                                 
+251FM2 L CONF=|n1/2+[620] (2011As03)                                            
+251FM cL J$M1 decays to (1/2+) and (3/2+) levels, combined with favored |a      
+251FM2cL decay to this level from the 1/2+[620] configuration in {+255}No.      
+251FM  G 163.3     2  35     9  M1                      11.30                   
+251FML G FL=395.27                                                              
+251FMS G KC=8.74 13$LC=1.91 3$MC=0.473 7$NC=0.1320 19$OC=0.0349 5$              
+251FMS G PC=0.00677 10$QC=0.000379 6                                            
+251FMB G BM1W=3.0E-5 GT                                                         
+251FM  G 166.7     2  16     6  M1                      10.66                   
+251FML G FL=391.97                                                              
+251FMS G KC=8.25 12$LC=1.80 3$MC=0.446 7$NC=0.1245 18$OC=0.0329 5$              
+251FMS G PC=0.00638 10$QC=0.000357 6                                            
+251FMB G BM1W=1.3E-5 GT                                                         
+251FM  G 358.4     2  100       E2                      0.181                   
+251FML G FL=200.07                                                              
+251FMS G KC=0.0651 10$LC=0.0843 12$MC=0.0235 4$NC=0.00664 10$OC=0.001698 24$    
+251FMS G PC=0.000290 4$QC=4.57E-6 7                                             
+251FMB G BE2W=0.017 GT                                                          
+251FM  L 579       5  (3/2+)                                                D   
+251FMX L XREF=A                                                                 
+251FM cL J$Band member.                                                         
+251FM  L 604       4  (5/2+)                                                D   
+251FMX L XREF=A                                                                 
+251FM cL J$Band member.                                                         

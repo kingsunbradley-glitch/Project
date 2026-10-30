@@ -1,0 +1,31 @@
+236PU    240CM A DECAY                                           22NDS    202205
+236PU  H TYP=FUL$AUT=Shaofei Zhu$CIT=NDS 182, 2 (2022).$CUT=1-Apr-2022$         
+236PU c  The measured half-lives are 26.8 d (1949Se01) and 28 d (1967Ba42).     
+236PU2c  T{-1/2}({+240}Cm)=27 d {I1}, adopted by 1990Sh04, is used in           
+236PU3c  calculations.                                                          
+236PU c  %|e({+240}Cm)<0.5 was deduced by 1952Hi11 from nonobservation of |e    
+236PU2c  decay to {+240}Am. %|a=99.7 {I3} is used here in order to calculate    
+236PU3c  |Dr{-0}.                                                               
+236PU cL E,J$From the Adopted Levels.                                           
+236PU CL BAND(A)$K=0+ g.s. rotational band.                                     
+236PU cA E$Energies of |a particles to the g.s. and to the 44.63-keV level are  
+236PU2cA values recommended in 1991Ry01; E|a's to higher levels are from        
+236PU3cA 1976BaZZ, as adopted in 1991Sc08.                                      
+236PU cA IA$|a particle intensity per 100 |a decays. I|a of |a particles to     
+236PU2cA the g.s. and to the 44.63-keV level are values recommended in          
+236PU3cA 1991Ry01. Their uncertainties should be equal. The evaluator           
+236PU4cA recommends |DI|a=0.8. I|a to higher levels are from 1976BaZZ, as       
+236PU5cA adopted in 1991Sc08.                                                   
+236PU cA HF$r{-0}({+236}Pu)=1.4949 {I18}, calculated from HF(6290.5|a)=1.0.     
+240CM  P 0.0          0+                27 D      1              6397.8   6     
+240CM cP T$From the Adopted Levels of {+240}Cm (2008Si25).                      
+240CM cP QP$From 2021Wa16.                                                      
+236PU  N                        0.997  3                                        
+236PU  L 0.0          0+                                                    A   
+236PU  A 6290.5    5 71.1    8 1.0                                              
+236PU  L 44.63     9  2+                                                    A   
+236PU  A 6247.7    5 28.9    8 1.52    5                                        
+236PU  L 147.45    9  4+                                                    A   
+236PU  A 6147        0.052     270                                              
+236PU  L 305.80    10 6+                                                    A   
+236PU  A 5989        0.014     165                                              

@@ -1,0 +1,63 @@
+251NO    ADOPTED LEVELS, GAMMAS                                  23NDS    202305
+251NO  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251NO  Q -4981     SY 6788   SY 2839   SY 8752    4    2021Wa16                 
+251NO cQ $|DQ(|b{+-})=270, |DS(n)=270, |DS(p)=202 (2021Wa16)                    
+251NO cQ $S(2n)=15080 syst {I333},  S(2p)=5248 syst {I181},  Q(|ep)=1488 syst   
+251NO2cQ {I181} (2021Wa16)                                                      
+251NO cG MR$If no value given it was assumed |d=1.00 for E2/M1, |d=1.00 for     
+251NO2cG E3/M2 and |d=0.10 for the other multipolarities                        
+251NO CL BAND(A)$7/2+[624]                                                      
+251NO D  CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+251NO  XA255RF A DECAY                                                          
+251NO  XB206PB(48CA,3N)                                                         
+251NO  L 0            (7/2+)            0.80 S    1                         A   
+251NOX L XREF=AB                                                                
+251NO2 L %A=91 +9-22$%SF=0.0014 +31-12$%EC+%B+>0$CONF=7/2+[624] (2006He27)      
+251NO cL T$From 2006He27.  Others: 0.8 s {I3} (1967Gh01), 1.0 s {I3}            
+251NO2cL (1997He29), 0.76 s {I3} (2001He35), 0.78 s {I2} (2004He28), 0.78 s     
+251NO3cL {I+38-22} (2009Fo02).                                                  
+251NO cL %SF$Estimated by 2006He27 from detection of one fission event          
+251NO2cL following |a decay of {+255}Rf.                                        
+251NO cL %A$From 2001He35.                                                      
+251NO cL %EC+%B+$One electron capture event has been observed (2009Fo02).       
+251NO cL J$Based on favored |a decay to (7/2{+-}) state in {+247}Fm (2006He27). 
+251NO  L 60.3      3  (9/2+)                                                A  S
+251NOX L XREF=AB                                                                
+251NO cL J$Band member.                                                         
+251NO  G 60.3      3  100                                                      S
+251NO cG E$From difference of parallel |g-rays depopulating excited state in    
+251NO2cG {+255}Rf |a decay.                                                     
+251NO  L 106       6  (1/2+)            1.00 S    4                             
+251NOX L XREF=B                                                                 
+251NO2 L %A AP 100$CONF=1/2+[631] (2006He27)                                    
+251NO cL %A$Based on non-observation of |g rays from this state.                
+251NO cL E$From difference of Q(|a) values from decay from this state and the   
+251NO2cL ground state into {+247}Fm.                                            
+251NO cL $J: Based on favored |a decay to (1/2-) state in {+247}Fm              
+251NO cL T$Weighted average 0.93 s {I6} (2004He28) and 1.02 s {I3} (2006He27).  
+251NO  L 203.6     2  (9/2-)                                                    
+251NOX L XREF=AB                                                                
+251NO2 L CONF=9/2-[734] (2006He27)                                              
+251NO cL J$Based on favored |a decay from {+255}Rf (9/2{+-}) ground state.      
+251NO  G 143.3     2  100    12 E1                      0.0669                  
+251NOS G LC=0.0499 8$MC=0.01248 18$NC=0.00348 5$OC=0.000905 13$PC=0.0001546 23$ 
+251NOS G QC=5.14E-6 8                                                           
+251NO  G 203.6     2  96     12 E1                      0.1143                  
+251NOS G KC=0.0857 13$LC=0.0213 3$MC=0.00530 8$NC=0.001482 21$OC=0.000388 6$    
+251NOS G PC=6.84E-5 10$QC=2.52E-6 4                                             
+251NO  L 917.2     5  (7/2+)                                                   ?
+251NOX L XREF=B                                                                 
+251NO2 L CONF=7/2+[613] (2006He27)                                              
+251NO cL J$Suggested in 2006He27 based on systematics in nearby nuclei.         
+251NO cL E$Two |g rays with energy 782.5 and 713.6 keV were observed in         
+251NO2cL 2006He27, but the ordering could not be established. If the ordering   
+251NO3cL is reversed, the excitation energy is 986.1 {I6}.                      
+251NO  G 713.6     5  100                                                      ?
+251NOF G FLAG=X                                                                 
+251NO  L 1699.2    GE                   2 US      AP                           ?
+251NOX L XREF=B                                                                 
+251NO cL E$2006He27 indicate that the 203.6, 713.6, and 782.5-keV transitions   
+251NO2cL are in cascade, but it is not certain that there are no other          
+251NO3cL unobserved transitions in the sequence, hence the lower limit on the   
+251NO4cL level energy.                                                          
+251NO cL T$From 2006He27.                                                       

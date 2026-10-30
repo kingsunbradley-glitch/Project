@@ -1,0 +1,64 @@
+243ES    ADOPTED LEVELS, GAMMAS                                  14NDS    201408
+243ES  H TYP=FUL$AUT=C.D. Nesaraja, E.A. McCutchan$CIT=NDS 121, 695 (2014)$     
+243ES2 H CUT=30-Sep-2013$                                                       
+243ES  Q -4616     SY 8124   SY 1928   SY 8072    10   2012WA38                 
+243ES cQ $|DQ(|b{+-})=299; |DS(n)=329; |DS(p)=207 (2012Wa38)                    
+243ES cQ $S(2n)=15258 syst {i306}; S(2p)=5863 syst {i288} (2012Wa38)            
+243ES c                                                                         
+243ES c  First identification: 1973Es02 using {+233}U({+15}N,5n) with           
+243ES2c  excitation function.                                                   
+243ES c                                                                         
+243ES c  Theoretical calculations:                                              
+243ES c  2013Zd01: T{-1/2} for |a decay calculated with phenomenological model  
+243ES2c  based on Gamow theory with WKB approximation for Coulomb barrier       
+243ES3c  penetration.                                                           
+243ES c  2012Po01: partial |a decay T{-1/2} calculated with a universal decay   
+243ES2c  law using |a-like R matrix theory                                      
+243ES c  2011Sa40: T{-1/2} and Q(|a) calculated in the framework of the         
+243ES2c  Coulomb and proximity potential model for deformed nuclei.             
+243ES c  2010Ad19: low-lying one-quasi particle spectra and rotational bands    
+243ES2c  calculated with a two-center shell model.                              
+243ES c  2008Th05: K x-ray energies calculated using a Dirac-Hartree Fock       
+243ES2c  model.                                                                 
+243ES c  2004Pa40: deformation parameters, pairing gap, single-particle energy  
+243ES2c  levels, configurations calculated with a macroscopic-microscopic       
+243ES3c  approach.                                                              
+243ES D  CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+243ES cG E,RI$From {+247}Md |a decay (1.2 s)                                    
+243ES cG M$From estimated conversion electrons in {+247}Md |a decay (1.2 s).    
+243ES  XA247MD A DECAY (1.2 S)                                                  
+243ES  XB247MD A DECAY (0.25 S)                                                 
+243ES  L 0.0+X        (7/2+)            21 S      2                             
+243ESX L XREF=A                                                                 
+243ES2 L %A=61 6$%EC+%B+=39 6$%SF<1 (2010An08)                                  
+243ES cL %A$from the ratio of correlated {+247}Md-{+243}Es parent-daughter |a   
+243ES2cL decays and uncorrelated {+247}Md |a decays (2010An08). Other:          
+243ES3cL estimation of %|a>30 and %|e<70 by 1973Es02 from intensities of |a's   
+243ES4cL from {+243}Es and {+243}Cf decays (only strongest |a's from each       
+243ES5cL nucleus were observed).                                                
+243ES cL T$weighted average of 21 s {I2} (1973Es02), 21 s {I4} (1976GhZU), 21   
+243ES2cL s {I5} (1989Ha27), 19 s {I4} (1994HoZW), 23 s {I3} (2010An08).         
+243ES cL J$Nilsson orbit systematics (see, for example, 1972El21) suggest       
+243ES2cL either 3/2[521] or 7/2[633] Nilsson state for the {+243}Es ground      
+243ES3cL state.                                                                 
+243ES  L 0.0+Y        (3/2-)                                                    
+243ESX L XREF=B                                                                 
+243ES cL J$see comment on 0.0+x level.                                          
+243ES  L X+52.1       (9/2+)                                                    
+243ESX L XREF=A                                                                 
+243ES cL J$proposed configuration 7/2[633] (2010An08)                           
+243ES  L 0.0+Z          (1/2-)                                                  
+243ESX L XREF=B                                                                 
+243ES cL J$unhindered |a decay from the 0.25 s isomer in {+247}Md with          
+243ES2cL configuration 1/2[521].                                                
+243ES cL E$z-y<150 keV as non-observation of coincidences between K x-rays and  
+243ES2cL the 8783|a suggests that energy difference between (1/2-) and (3/2-)   
+243ES3cL states is lower than K shell binding energy.                           
+243ES  L X+209.6      (7/2-)                                                    
+243ESX L XREF=A                                                                 
+243ES cL J$unhindered |a decay from (7/2-) {+247}Md ground state with           
+243ES2cL configuration 7/2[514] (2010An08).                                     
+243ES  G 157.5     5  11     3                                                  
+243ES  G 209.6     3  100       (E1)                    0.1017                  
+243ESS G KC=0.0776 12$LC=0.0180 3$MC=0.00445 7$NC=0.001229 18$OC=0.000314 5$    
+243ESS G PC=5.57E-5 8$QC=2.26E-6 4                                              

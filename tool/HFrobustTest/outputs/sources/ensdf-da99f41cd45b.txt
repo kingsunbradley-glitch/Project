@@ -1,0 +1,1562 @@
+240PU    ADOPTED LEVELS, GAMMAS                                  25NDS    202511
+240PU  H TYP=FUL$AUT=C. Morse$CIT=NDS 206, 359 (2025)$CUT=27-Sep-2024$          
+240PU  Q -1385     14 6534.2223 6474.7 10 5255.82 14   2021Wa16                 
+240PU cQ $S(2n)=12180.5 {I4},  S(2p)=11760.4 {I12} (2021Wa16)                   
+240PU c  1989Ru07: Measured isotope shifts and hyperfine structure.             
+240PU cG $A |g-ray cascade reported in Coulomb excitation (2007WaZV):           
+240PU2cG 303.5-340.3-370.7-405.8-437.5-466.8 possibly belongs to {+240}Pu       
+240PU cG E,RI$From {+240}Np |b{+-} decay (7.22 min), unless otherwise noted.    
+240PU cG M$For transitions from levels in the second-potential well, E0         
+240PU2cG multipolarities are mixed with M1 and E2 components, except for the    
+240PU3cG 769.9 transition from 0+ to 0+, which has to be E0.                    
+240PU cG E(A),RI(A),M(a)$From {+244}Cm |a decay                                 
+240PU cG E(B),RI(B),M(b)$From {+240}Np |b{+-} decay (61.9 min)                  
+240PU cG E(C),RI(C),M(c)$From {+240}Am |e decay                                 
+240PU cG M(F)$From {+240}Np |b{+-} decay (7.22 min)                             
+240PU cG M(Y)$From |DJ=2, quadrupole (most likely E2) or |DJ=1, dipole (most    
+240PU2cG likely E1) from |g(|q) data in Coulomb excitation (2007WaZV)           
+240PU cG RI(K)$For doublet                                                      
+240PU cG E(L)$Poor fit in the level scheme. Level-energy difference=546.9       
+240PU2cG {I7}. 545.3 is quoted in 2001Th16                                      
+240PU cG E(X)$Placement from 1177 level proposed during evaluation. 1982Pa23,   
+240PU2cG in {+240}Np |b{+-} decay (61.9 min), proposed placement from only the  
+240PU3cG 1309 keV level. The |DK=4 involved for a transition from 1309-keV      
+240PU4cG level to 1161-keV level suggests placement by 1982Pa23 is less likely  
+240PU cG E(Q),RI(Q)$From Coulomb excitation                                     
+240PU cG E(G),RI(G)$From (|g,|g')                                               
+240PU cG E(U),RI(U)$From (|a,2n|g)                                              
+240PU cL $A second fission isomer of half-life 29 ns {I4} was reported by       
+240PU2cL 1970El03 in {+239}Pu(n,|g); but not confirmed in later studies of      
+240PU3cL 1973Na03 and 1970Bu02                                                  
+240PU cL E$From least-squares fit to E|g's                                      
+240PU cL E(Z)$Extrapolated from moment of inertia plot for the band (2001Ga05)  
+240PU cL J$For K|p=0+ ground-state, K|p=0- octupole band and K|p=0+ band based  
+240PU2cL on 860.7 level, band associations are also used as arguments for J|p   
+240PU3cL assignments in addition to other arguments as listed. For SD bands,    
+240PU4cL the assignments are as proposed by 2001Ga05 and 2000Pa40, with         
+240PU5cL parentheses added during evaluation due to lack of firm arguments for  
+240PU6cL these assignments                                                      
+240PU cL J(D,E)$From fit to the bands for lower members of the bands. Above     
+240PU2cL 14+ in the g.s. band and above 5- in K|p=0- band, the assignments are  
+240PU3cL from Coulomb excitation work of 1998Ha08                               
+240PU CL BAND(D)$K{+|p}=0{++} ground-state band.                                
+240PU CL BAND(E)$K{+|p}=0{+-} octupole band. Band from 1998Ha08 AND 2007WaZV.   
+240PU CL BAND(F)$K{+|p}=0{++} band. This band starts out as |b vibrational      
+240PU2cL band, at ~h|w|?0.2 MeV, it is crossed by a 2-quasiparticle (possibly   
+240PU3cL neutrons) excitation (2007WaZV).                                       
+240PU CL BAND(G)$K{+|p}=1{+-} band.                                             
+240PU CL BAND(H)$K{+|p}=3{++},|n1/2[631]+|n5/2[622].                            
+240PU CL BAND(K)$K{+|p}=0{++} band.                                             
+240PU CL BAND(L)$K{+|p}=2{++} band.                                             
+240PU CL BAND(M)$K{+|p}=2{+-} band.                                             
+240PU CL BAND(N)$K{+|p}=5{+-}, |p5/2[642]+|p5/2[523]                            
+240PU CL BAND(P)$K{+|p}=0{+-}, |p5/2[642]-|p5/2[523]                            
+240PU CL BAND(Q)$K{+|p}=0{++} band.                                             
+240PU CL BAND(B)$SD-1 Band, K{+|p}=0{++}. Band from 2000Pa40, 2001Ga05,         
+240PU2cL 2001Th16. Ground-state band in the second minimum. Population          
+240PU3cL intensity 13% (2001Th16)                                               
+240PU CL BAND(A)$SD-2 Band, K{+|p}=2{+-}. Band from 2000Pa40, 2001Ga05,         
+240PU2cL 2001Th16. Population intensity=41%                                     
+240PU CL BAND(I)$SD-3 Band, K{+|p}=1{+-}. Band from 2000Pa40, 2001Ga05,         
+240PU2cL 2001Th16. Population intensity=15%                                     
+240PU CL BAND(C)$SD-4 Band, K{+|p}=1{+-}. Band from 2000Pa40, 2001Ga05,         
+240PU2cL 2001Th16. Population intensity=20%                                     
+240PU CL BAND(J)$SD-5 Band, K{+|p}=0{+-} octupole band. Band from 2000Pa40,     
+240PU2cL 2001Ga05, 2001Th16. Population intensity=3%                            
+240PU CL BAND(R)$SD-6 BAND, K{+|p}=0{++} |b band. Band from 2001Ga05,           
+240PU2cL 2001Th16. Population intensity=1.7%                                    
+240PU CL BAND(S)$K{+|p}=0{++} SD bandheads. Bandheads attributed to 3-phonon    
+240PU2cL |b-vibrations (2001Hu12). X=2250 {I200}                                
+240PU CL BAND(T)$K{+|p}=0{++} SD bandheads. Bandheads attributed to 4-phonon    
+240PU2cL |b-vibrations. This structure may be composed of 13 separate           
+240PU3cL rotational bands (2001Hu12); x=2250 {I200}                             
+240PU CL BAND(U)$SD-7 band, K{+|p}=1{+-}. Tentative band assignment from        
+240PU2cL 2001Th16. Population intensity ~1%                                     
+240PU CL BAND(V)$SD-8 band, K{+|p}=1{+-}. Tentative band assignment from        
+240PU2cL 2001Th16. Population intensity ~6%                                     
+240PU cL J(W)$Deduced from angular distribution measurement in (p,t).           
+240PU dG $Transition strength is calculated by Java-RULER (version 10-Jun-2025) 
+240PU DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+240PU  XA240NP B- DECAY (61.9 M)                                                
+240PU  XB240NP B- DECAY (7.22 M)                                                
+240PU  XC240AM EC DECAY                                                         
+240PU  XD244CM A DECAY                                                          
+240PU  XE238U(A,2NG)                                                            
+240PU  XF239PU(N,G) E=THERMAL                                                   
+240PU  XG239PU(N,G) E=0.3-58 EV                                                 
+240PU  XH239PU(N,G) E=2 KEV                                                     
+240PU  XI239PU(D,P)                                                             
+240PU  XJ239PU(D,PF)                                                            
+240PU  XK240PU(G,G')                                                            
+240PU  XL240PU(N,N')                                                            
+240PU  XM240PU(D,D')                                                            
+240PU  XN241AM(209BI,210POG)                                                    
+240PU  XO242PU(P,T)                                                             
+240PU  XPCOULOMB EXCITATION                                                     
+240PU PN                                                                     6  
+240PU  L 0.0          0+                6561 Y    7                         D   
+240PUX L XREF=ABCDEFGHIKLMNOP                                                   
+240PU2 L %A=100$%SF=5.769E-6 39                                                 
+240PU cL $<r{+2}>{+1/2}=5.84 fm {I4} (2004An14 evaluation)                      
+240PU cL T$weighted average (using LWM method, normalized residuals and         
+240PU2cL Rajeval's technique) of 6545 y {i19} (2007Ah05,|a counting and ratio   
+240PU3cL of activities measured in growth of {+240}Pu in {+244}Cm source over   
+240PU4cL 37.2 y interval, half-life of 18.11 y {i3} was used for {+244}Cm       
+240PU5cL decay); 6574 y {i6} (1984Be19); 6571 y {i9} (1984St06); 6552.2 y       
+240PU6cL {i20} (1984Lu04,uncertainty increased to 0.1%); 6552.4 y {i17}         
+240PU7cL (1984Ru04; uncertainty increased to 0.1%); 6569 y {i6} (1978Ja11);     
+240PU8cL 6524 y {I10} (1968Oe02, re-estimated as 6537 y {I15} in a 1986         
+240PU9cL evaluation report of a Coordinated Research Program (CRP) of the       
+240PUacL International Atomic Energy Agency (IAEA)). Others: 6620 y {I50}       
+240PUbcL (1959Do64, re-estimated as 6610 y {I55} by 1978Ja11); 6600 y {I100}    
+240PUccL (1956Bu92); 6300 y {I600} (1954Fa11); 6760 y {I27} (1951Wa54); 6240 y  
+240PUdcL {I120} (1951We21); 6580 y {I40} (1951In03, re-estimated as 6500 y      
+240PUecL {I45} by 1978Ja11). The uncertainty on the weighted average is 4 y,    
+240PUfcL it has been increased to 0.1% as recommended by the 1986 CRP of IAEA   
+240PUgcL for long half-lives. The DDEP evaluation (2006BeZL) gives the same     
+240PUhcL value. 1989Ho24 evaluation gives 6560 y {i10}                          
+240PU cL %SF$From 2018Be29.  Other: 5.92|*10{+-6} {I54} (1999Ka70).             
+240PU cL $Measurements of T{-1/2}(SF): 1.165|*10{+11} y {I13}                   
+240PU2cL (2013Sa65,2013Sa68), 1.16|*10{+11} y {I2} (1991Iv01), 1.12|*10{+11} y  
+240PU3cL {I2} (1989Dy01), 1.17|*10{+11} y {I3} (1988SeZY), 1.15|*10{+11} y      
+240PU4cL {I3} (1984An25), 1.15|*10{+11} y {I3} (1981Bu16), 1.000|*10{+11} y     
+240PU5cL {I25} (1967Fi13), 1.45|*10{+11} y {I2} (1963Ma50), 1.340|*10{+11} y    
+240PU6cL {I15} (1962Wa13), 1.2|*10{+11} y (1959Mi90).                           
+240PU  L 42.824    8  2+                165 PS    5                         D   
+240PUX L XREF=ABCDEFGHIKLMNOP                                                   
+240PU2 L BE2=13.33 18 (1973Be44)                                                
+240PU cL J$E2 to 0+                                                             
+240PU cL T$Weighted average of 173 ps {I15} (1960Be25), 160 ps {I20}            
+240PU2cL (1964No01), and 164 ps {I5} (1970To08).                                
+240PU cL BE2$Other: 12.57 e{+2}b{+2} {I35} (1971Fo17)                           
+240PU  G 42.824    8  100       E2                      905   13                
+240PUF G FLAG=a                                                                 
+240PUS G LC=658 9$MC=183.4 26$NC=50.4 7$OC=11.83 17$PC=1.850 26$QC=0.00390 5    
+240PUB G BE2W=296 10                                                            
+240PU  L 141.690   15 4+                                                    D   
+240PUX L XREF=ABCDEFILMNOP                                                      
+240PU cL J$E2 to 2+                                                             
+240PU  G 98.860    13 100       E2                      16.65 23                
+240PUF G FLAG=Aa                                                                
+240PUS G LC=12.08 17$MC=3.38 5$NC=0.930 13$OC=0.2191 31$PC=0.0349 5$            
+240PUS G QC=0.0001221 17                                                        
+240PU  L 294.319   24 6+                                                    D   
+240PUX L XREF=ABCDELMNOP                                                        
+240PU cL J$E2 to 4+                                                             
+240PU  G 152.63    2  100       E2                      2.488 35                
+240PUF G FLAG=Ac                                                                
+240PUS G KC=0.1960 27$LC=1.664 23$MC=0.465 7$NC=0.1278 18$OC=0.0302 4$          
+240PUS G PC=0.00487 7$QC=2.76E-5 4                                              
+240PU  L 497.37    20 8+                                                    D   
+240PUX L XREF=DEMNOP                                                            
+240PU cL J$(E2) to 6+                                                           
+240PU  G 203.2     2  100       (E2)                    0.805 12                
+240PUF G FLAG=YU                                                                
+240PUS G KC=0.1470 21$LC=0.479 7$MC=0.1329 19$NC=0.0365 5$OC=0.00865 13$        
+240PUS G PC=0.001415 21$QC=1.198E-5 17                                          
+240PU  L 597.34    4  1-                                                    E   
+240PUX L XREF=BCDFGHLMO                                                         
+240PU cL J$E1 to 0+ and to 2+.                                                  
+240PU  G 554.60    7  100.0  24 E1                     0.0117917                
+240PUF G FLAG=F                                                                 
+240PUS G KC=0.00949 13$LC=0.001734 24$MC=0.000417 6$NC=0.0001126 16$            
+240PUS G OC=2.77E-5 4$PC=5.13E-6 7$QC=2.99E-7 4                                 
+240PU  G 597.40    7  56.0   14 E1                     0.0102414                
+240PUF G FLAG=F                                                                 
+240PUS G KC=0.00826 12$LC=0.001495 21$MC=0.000359 5$NC=9.70E-5 14$              
+240PUS G OC=2.391E-5 33$PC=4.43E-6 6$QC=2.62E-7 4                               
+240PU  L 648.86    4  3-                                                    E   
+240PUX L XREF=ABCDFMOP                                                          
+240PU2 L BE3=0.41 6 (1974Mc15)                                                  
+240PU cL J$|s(|q) in (d,d'); |g's to 2+ and 4+                                  
+240PU  G 507.3     2  100    5                                                  
+240PUF G FLAG=B                                                                 
+240PU  G 606.1     1  97     5                                                  
+240PUF G FLAG=B                                                                 
+240PU  L 742.33    4  5-                2 NS      LT                        E   
+240PUX L XREF=ACMO                                                              
+240PU cL J$|s(|q) in (d,d'); |g's to 4+ and 6+                                  
+240PU cL T$From {+240}Np |b{+-} decay (61.9 min)                                
+240PU  G 448.01    6  67     3  [E1]                   0.0179025                
+240PUF G FLAG=B                                                                 
+240PUS G KC=0.01433 20$LC=0.00269 4$MC=0.000648 9$NC=0.0001753 25$OC=4.31E-5 6$ 
+240PUS G PC=7.90E-6 11$QC=4.45E-7 6                                             
+240PU  G 600.57    6  100    5  [E1]                   0.0101314                
+240PUF G FLAG=B                                                                 
+240PUS G KC=0.00818 11$LC=0.001479 21$MC=0.000355 5$NC=9.60E-5 13$              
+240PUS G OC=2.366E-5 33$PC=4.38E-6 6$QC=2.59E-7 4                               
+240PU  L 747.4     3  10+                                                   D   
+240PUX L XREF=ENP                                                               
+240PU cL J$(E2) to 8+                                                           
+240PU  G 250.3     2  100       (E2)                    0.382 5                 
+240PUF G FLAG=YU                                                                
+240PUS G KC=0.1058 15$LC=0.2011 29$MC=0.0555 8$NC=0.01524 22$OC=0.00362 5$      
+240PUS G PC=0.000599 9$QC=6.91E-6 10                                            
+240PU  L 860.71    7  0+                                                    F   
+240PUX L XREF=BDFGHIO                                                           
+240PU cL J$L(p,t)=0; E2 to 2+                                                   
+240PU  G 263.37    7  89.1   16 [E1]                    0.05508                 
+240PUS G KC=0.0433 6$LC=0.00881 12$MC=0.002141 30$NC=0.000578 8$                
+240PUS G OC=0.0001409 20$PC=2.525E-5 35$QC=1.277E-6 18                          
+240PU  G 817.89    10 100.0  23 E2                     0.0182426                
+240PUF G FLAG=F                                                                 
+240PUS G KC=0.01302 18$LC=0.00389 5$MC=0.000989 14$NC=0.000270 4$OC=6.58E-5 9$  
+240PUS G PC=1.193E-5 17$QC=5.27E-7 7                                            
+240PU  G 860.7                  E0                               15       4     
+240PUF G FLAG=Aa                                                                
+240PU  L 878.1     4  (7-)                                                  E  ?
+240PUX L XREF=OP                                                                
+240PU cL J$|g to 6+                                                             
+240PU  G 583.7     4                                                           ?
+240PUF G FLAG=Q                                                                 
+240PU  L 900.32    4  2+                                                    F   
+240PUX L XREF=BCDFHILO                                                          
+240PU cL J$E2 to 4+; |g to 0+.                                                  
+240PU  G 251.47    7  73     3  [E1]                    0.06109                 
+240PUS G KC=0.0480 7$LC=0.00983 14$MC=0.002389 33$NC=0.000645 9$                
+240PUS G OC=0.0001571 22$PC=2.81E-5 4$QC=1.406E-6 20                            
+240PU  G 302.98    7  85     3  [E1]                    0.04056                 
+240PUS G KC=0.0320 4$LC=0.00637 9$MC=0.001543 22$NC=0.000417 6$OC=0.0001018 14$ 
+240PUS G PC=1.837E-5 26$QC=9.59E-7 13                                           
+240PU  G 758.61    8  100    3  E2                     0.0212130                
+240PUF G FLAG=F                                                                 
+240PUS G KC=0.01484 21$LC=0.00473 7$MC=0.001211 17$NC=0.000331 5$OC=8.05E-5 11$ 
+240PUS G PC=1.452E-5 20$QC=6.09E-7 9                                            
+240PU  G 857.48    10 42     2  [M1,E2]                 0.043 26                
+240PUS G KC=0.034 22$LC=0.007 4$MC=0.0017 9$NC=4.7E-4 23$OC=1.2E-4 6$           
+240PUS G PC=2.2E-5 11$QC=1.3E-6 9                                               
+240PU  G 900.37    10 14     2  [E2]                   0.0151121                
+240PUS G KC=0.01102 15$LC=0.00305 4$MC=0.000771 11$NC=0.0002101 29$             
+240PUS G OC=5.14E-5 7$PC=9.37E-6 13$QC=4.38E-7 6                                
+240PU  L 938.06    6  (1-)                                                  G   
+240PUX L XREF=BDFGH(930.0)MO                                                    
+240PU cL J$|g's to 0{++}, 2{++}, 1{+-}, and 3{+-} levels restrict J{+|p} to     
+240PU2cL 1{+-} or 2{++}.  Identifying this level with the 930-keV level in      
+240PU3cL (n,|g), E=2 keV would favor (1-).                                      
+240PU  G 289.21    10 1.4    3                                                  
+240PU  G 340.7     1  5.0    5                                                  
+240PU  G 895.3     1  5      1                                                  
+240PU  G 938.02    10 100    4                                                  
+240PU  L 958.85    6  (2-)                                                  G   
+240PUX L XREF=ABCFGHO                                                           
+240PU cL J$E1 from 1+ resonance level in (n,|g) E=2 keV; angular distribution   
+240PU2cL in (p,t).                                                              
+240PU  G 309.99    9  4.3    4                                                  
+240PU  G 361.55    10 3.5    6                                                  
+240PU  G 915.98    9  100    3                                                  
+240PU  L 992.4     5  4+                                                    F   
+240PUX L XREF=COP                                                               
+240PU cL J$|g's to 3{+-} and 5{+-}.                                             
+240PU  G 249.7     10 41     6  [E1]                    0.062010                
+240PUF G FLAG=C                                                                 
+240PUS G KC=0.0487 8$LC=0.01000 17$MC=0.00243 4$NC=0.000656 11$OC=0.0001597 27$ 
+240PUS G PC=2.85E-5 5$QC=1.427E-6 23                                            
+240PU  G 343.7     10 100    10 [E1]                    0.03095                 
+240PUF G FLAG=C                                                                 
+240PUS G KC=0.0245 4$LC=0.00479 7$MC=0.001158 18$NC=0.000313 5$OC=7.66E-5 12$   
+240PUS G PC=1.390E-5 21$QC=7.44E-7 11                                           
+240PU  L 1001.94   8  (3-)                                                  G   
+240PUX L XREF=ACIMO                                                             
+240PU cL J$|s(|q) in (d,d')                                                     
+240PU  G 959.1     1  100                                                       
+240PUF G FLAG=B                                                                 
+240PU  L 1030.55   4  (3)+              1.32 NS   15                        H   
+240PUX L XREF=ACFO                                                              
+240PU cL J$E2 to 2+ and 4+                                                      
+240PU cL T$from 1976BuZP ({+240}Am |e decay)                                    
+240PU  G 382.1     10 0.072  7  [E1]                    0.02474                ?
+240PUF G FLAG=C                                                                 
+240PUS G KC=0.01972 30$LC=0.00379 6$MC=0.000915 14$NC=0.000247 4$OC=6.06E-5 9$  
+240PUS G PC=1.105E-5 17$QC=6.04E-7 9                                            
+240PUB G BE1W=1.26E-9 +21-17                                                    
+240PU  G 888.85    5  34.2   14 E2                     0.0154922                
+240PUF G FLAG=Cc                                                                
+240PUS G KC=0.01127 16$LC=0.00315 4$MC=0.000797 11$NC=0.0002172 30$             
+240PUS G OC=5.31E-5 7$PC=9.67E-6 14$QC=4.49E-7 6                                
+240PUB G BE2W=0.00219 +29-24                                                    
+240PU  G 987.79    6  100.0  14 E2(+M1)   10     GT    0.0128225                
+240PUF G FLAG=Cc                                                                
+240PUS G KC=0.00952 19$LC=0.00246 4$MC=0.000617 10$NC=0.0001681 28$             
+240PUS G OC=4.12E-5 7$PC=7.56E-6 13$QC=3.73E-7 8                                
+240PUB G BE2W=0.0037 +6-4                                                       
+240PU  L 1037.55   6  (4-)                                                  G   
+240PUX L XREF=A                                                                 
+240PU cL J$|g's to 3{+-}, 4{++}, and 5{+-}.  Decay to 3{+-} band member         
+240PU2cL suggests 4{+-}.                                                        
+240PU  G 295.2     1  3.2    4                                                  
+240PUF G FLAG=B                                                                 
+240PU  G 388.7     1  6.6    5                                                  
+240PUF G FLAG=B                                                                 
+240PU  G 895.8     1  100    5                                                  
+240PUF G FLAG=B                                                                 
+240PU  L 1041.1    3  12+                                                   D   
+240PUX L XREF=ENP                                                               
+240PU cL J$(E2) to 10+                                                          
+240PU  G 294.0     2  100       (E2)                    0.225332                
+240PUF G FLAG=YU                                                                
+240PUS G KC=0.0800 11$LC=0.1060 15$MC=0.0290 4$NC=0.00797 11$OC=0.001898 27$    
+240PUS G PC=0.000318 5$QC=4.64E-6 7                                             
+240PU  L 1056.8    3  (9-)                                                  E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E1) to 8+ and 10+                                                   
+240PU  G 178.4     4                                                           ?
+240PUF G FLAG=Q                                                                 
+240PU  G 309.4     3  36     36 (E1)                                            
+240PUF G FLAG=YQ                                                                
+240PU  G 559.2     3  100    71 (E1)                                            
+240PUF G FLAG=YQ                                                                
+240PU  L 1076.22   9  (4+)                                                  H   
+240PUX L XREF=ACMO                                                              
+240PU cL J$|g's to 2+ and 4+; band systematics.                                 
+240PU  G 934.6     5  100    12                                                 
+240PUF G FLAG=C                                                                 
+240PU  G 1033.5    3  40     4                                                  
+240PUF G FLAG=C                                                                 
+240PU  L 1089.45   10 0+                                                    K   
+240PUX L XREF=BHIO                                                              
+240PU cL J$L(p,t)=0                                                             
+240PU  G 1046.62   10 100                                                       
+240PU  L 1115.53   6  (5-)                                                  G   
+240PUX L XREF=AMO                                                               
+240PU cL J$|g's to 4+ and 6+.  But see (p,t), where 0+ is indicated; possibly   
+240PU2cL a doublet.                                                             
+240PU  G 466.7     1  4.52   23                                                 
+240PUF G FLAG=B                                                                 
+240PU  G 821.2     1  4.5    3                                                  
+240PUF G FLAG=B                                                                 
+240PU  G 973.9     1  100    5                                                  
+240PUF G FLAG=B                                                                 
+240PU  L 1130.95   9  (2+)                                                  K   
+240PUX L XREF=BHO                                                               
+240PU cL J$|g's to 0+ and 4+.                                                   
+240PU  G 989.2     1  100    6                                                  
+240PUL G FL=141.690                                                             
+240PU cG E$Poor fit. Level-energy difference=990.26                             
+240PU  G 1088.3    2  40     4                                                  
+240PU  G 1131.0    2  77     6                                                  
+240PU  L 1136.97   13 (2+)                                                  L   
+240PUX L XREF=BCHIM(1135)O                                                      
+240PU cL J$|g's to 0{++} and 2{++}.  |s(|q) in (d,d'), (d,p) and (p,t).         
+240PU  G 1094.2    2  100    15                                                 
+240PU  G 1137.0    4  70     10                                                 
+240PU  L 1138.3    4  (6+)                                                  F  ?
+240PUX L XREF=P                                                                 
+240PU cL J$Tentative |g to 4+; possible band member                             
+240PU  G 145.8     4                                                           ?
+240PUF G FLAG=Q                                                                 
+240PU  L 1161.53   7  (6-)                                                  G   
+240PUX L XREF=A                                                                 
+240PU cL J$|g to 6+; band member                                                
+240PU  G 419.2     1  9.8    8                                                  
+240PUF G FLAG=B                                                                 
+240PU  G 867.2     1  100    6                                                  
+240PUF G FLAG=B                                                                 
+240PU  L 1177.63   8  (3+)                                                  L   
+240PUX L XREF=ACO                                                               
+240PU cL E$Two different sets of |g rays are observed from this level in        
+240PU2cL {+240}Np |b{+-} decay and {+240}Am |e decay, which could indicate two  
+240PU3cL nearly degenerate levels.  However, the |g-ray placements do not seem  
+240PU4cL to be firmly established in {+240}Np decay.                            
+240PU cL J$|g's to 2+ and 4+; band member.                                      
+240PU  G 139.9     1                                                            
+240PUF G FLAG=B                                                                 
+240PU  G 147.2     1                                                        *   
+240PUF G FLAG=X                                                                 
+240PU  G 175.4     1                                                           ?
+240PUF G FLAG=B                                                                 
+240PU  G 1036.1    3  33     4                                                  
+240PUF G FLAG=C                                                                 
+240PU  G 1135.1    3  100    6                                                  
+240PUF G FLAG=C                                                                 
+240PU  L 1180.4       (2+)                                                      
+240PUX L XREF=H                                                                 
+240PU cL J$From (n,|g) E=2 keV.  J=2 quoted from a thesis, while parity is      
+240PU2cL from measured photon strength.                                         
+240PU  L 1202.8    2  (6+)                                                  W   
+240PUX L XREF=MO                                                                
+240PU cL E$From (p,t)                                                           
+240PU  L 1222.99   13 (2+)                                                      
+240PUX L XREF=BCHI(*1227)MO                                                     
+240PU cL J$|g's to 0+ and 2+.  Angular distribution measurement in (p,t)        
+240PU2cL indicates 2{++}.                                                       
+240PU  G 1180.3    2  100    8                                                  
+240PUF G FLAG=C                                                                 
+240PU  G 1223.0    3  69     10                                                 
+240PU  L 1232.46   10 (4+)                                                  L   
+240PUX L XREF=ACI(*1227)O                                                       
+240PU cL J$|g's to 4+ and 6+; band member                                       
+240PU  G 938.2     1  100    17                                                 
+240PUF G FLAG=B                                                                 
+240PU  G 1090.5    2  44     17                                                 
+240PUF G FLAG=B                                                                 
+240PU  G 1190      1                                                            
+240PUF G FLAG=C                                                                 
+240PU  L 1240.8    3  (2-)                                                  M   
+240PUX L XREF=BFGH                                                              
+240PU cL J$E1 |g from 1+; band member                                           
+240PU  G 1198.0    3  100                                                       
+240PU  L 1262.08   24 (3+)                                                      
+240PUX L XREF=CO                                                                
+240PU cL J$|g's to 2+ and 4+.                                                   
+240PU  G 1120.3    4  31     3                                                  
+240PUF G FLAG=C                                                                 
+240PU  G 1219.3    3  100    6                                                  
+240PUF G FLAG=C                                                                 
+240PU  L 1277.6    3  (11-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to (9-); (E1) |g to 10+                                         
+240PU  G 220.7     3  22     11 (E2)                    0.594 9                 
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.1299 18$LC=0.338 5$MC=0.0936 14$NC=0.0257 4$OC=0.00610 9$         
+240PUS G PC=0.001002 15$QC=9.58E-6 14                                           
+240PU  G 236.6     3  39     22                                                 
+240PUF G FLAG=YQ                                                                
+240PU  G 530.1     3  100    50 (E1)                   0.0128618                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.01034 15$LC=0.001899 27$MC=0.000457 6$NC=0.0001235 17$            
+240PUS G OC=3.04E-5 4$PC=5.61E-6 8$QC=3.25E-7 5                                 
+240PU  L 1283.6    2  (3-)                                                  M   
+240PUX L XREF=MO                                                                
+240PU cL J$|s(|q) in (d,d'); angular distribution in (p,t).                     
+240PU cL E$From (p,t)                                                           
+240PU  L 1308.74   5  (5-)              165 NS    10                        N   
+240PUX L XREF=A                                                                 
+240PU cL J$(M1+E2) |g to (4-) and (6-)                                          
+240PU cL T$from {+240}Np |b{+-} decay (61.9 min).                               
+240PU  G 147.2     1  4.6    5  (M1,E2)                 5.8   30            *   
+240PUF G FLAG=bBX                                                               
+240PUS G KC=3.6 34$LC=1.68 28$MC=0.44 10$NC=0.121 29$OC=0.029 6$PC=0.0050 7$    
+240PUS G QC=1.6E-4 13                                                           
+240PU cG $B(M1)(W.u.)=6.4|*10{+-7} {I+9-11} if M1, B(E2)(W.u.)=0.0095           
+240PU2cG {I+16-18} if E2.                                                       
+240PU  G 193.3     1  22.1   11 (M1,E2)                 2.5   16                
+240PUF G FLAG=Bb                                                                
+240PUS G KC=1.7 15$LC=0.618 27$MC=0.161 5$NC=0.0439 15$OC=0.01065 16$           
+240PUS G PC=0.00188 14$QC=7.E-5 6                                               
+240PU cG $B(M1)(W.u.)=1.27|*10{+-6} {I+11-13} if M1, B(E2)(W.u.)=0.0126         
+240PU2cG {I+13-15} if E2.                                                       
+240PU  G 271.3     1  22.5   11 (M1,E2)                 0.9   6                 
+240PUF G FLAG=Bb                                                                
+240PUS G KC=0.7 6$LC=0.20 5$MC=0.050 10$NC=0.0137 27$OC=0.0033 7$PC=6.1E-4 17$  
+240PUS G QC=2.8E-5 22                                                           
+240PU cG $B(M1)(W.u.)=5.0|*10{+-7} {I7} if M1, B(E2)(W.u.)=0.00217 {I33} if E2  
+240PU  G 306.8     1  1.56   18 [E2]                    0.197328                
+240PUF G FLAG=B                                                                 
+240PUS G KC=0.0742 10$LC=0.0899 13$MC=0.02458 35$NC=0.00675 9$OC=0.001607 23$   
+240PUS G PC=0.000270 4$QC=4.19E-6 6                                             
+240PUB G BE2W=7.8E-5 +13-15                                                     
+240PU cG M$(M1+E2) from ce data, E2 required by |DJ|p                           
+240PU  G 566.34    6  100    5  (M1,E2)                 0.13  9                 
+240PUF G FLAG=Bb                                                                
+240PUS G KC=0.10 7$LC=0.022 11$MC=0.0054 26$NC=0.0015 7$OC=3.6E-4 18$           
+240PUS G PC=6.8E-5 35$QC=3.9E-6 28                                              
+240PU cG $B(M1)(W.u.)=2.50|*10{+-7} {I+33-37} if M1, B(E2)(W.u.)=2.40|*10{+-4}  
+240PU2cG {I+34-38} if E2.                                                       
+240PU  G 1014.4    1  0.83   22                                                 
+240PUF G FLAG=B                                                                 
+240PU  G 1167.1    1  17.8   11                                                 
+240PUF G FLAG=B                                                                 
+240PU  L 1318.7    1  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1321.13   10 (1,2+)                                                   ?
+240PUX L XREF=B                                                                 
+240PU cL J$|g to 0+                                                             
+240PU  G 1321.1    1  100                                                      ?
+240PU  L 1323.4    4  (8+)                                                  F  ?
+240PUX L XREF=O(1325.6)P                                                        
+240PU cL J$Possible band member                                                 
+240PU  G 185.0     3  100                                                      ?
+240PUL G FL=1138.3                                                              
+240PUF G FLAG=Q                                                                 
+240PU  G 445.2     4                                                           ?
+240PUF G FLAG=Q                                                                 
+240PU  L 1337.02   24 (2+,3,4+)                                                 
+240PUX L XREF=CO(1340.5)                                                        
+240PU cL J$|g's to 2+ and 4+.                                                   
+240PU  G 1195.5    4  29     6                                                  
+240PUF G FLAG=C                                                                 
+240PU  G 1294.1    3  100    11                                                 
+240PUF G FLAG=C                                                                 
+240PU  L 1368.8    11 (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1374.8    4  14+                                                   D   
+240PUX L XREF=ENP                                                               
+240PU cL J$(E2) |g to 12+                                                       
+240PU  G 333.7     3  100       (E2)                    0.153222                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0638 9$LC=0.0654 9$MC=0.01779 26$NC=0.00488 7$OC=0.001165 17$     
+240PUS G PC=0.0001967 28$QC=3.44E-6 5                                           
+240PU  L 1375.0    6  (6+)                                                  W   
+240PUX L XREF=M(1379)O                                                          
+240PU cL E$From (p,t)                                                           
+240PU  L 1407.5    6  (5-)                                                  W   
+240PUX L XREF=MO                                                                
+240PU  L 1410.75   11 0(-)                                                  P   
+240PUX L XREF=BFH                                                               
+240PU cL J$|p=+ assumed by 1970Sc12 from an estimate of an upper limit of       
+240PU2cL |a(K)exp<2.8|*10{+-2} for the 813.4|g. However, from {+239}Pu(n,|g)    
+240PU3cL reaction (1975WeZA,1972OtZZ) J|p=0-. J=0 from |g|g(|q) in {+240}Np     
+240PU4cL |b{+-} decay (7.22 min).                                               
+240PU  G 813.41    10 100                                                       
+240PU  L 1413.0       (+)                                                       
+240PUX L XREF=H                                                                 
+240PU cL J$Based on photon strength in (n,|g) E=2 keV.                          
+240PU  L 1438.45   8  2                                                     P   
+240PUX L XREF=BFGHO                                                             
+240PU cL J$1970Sc12 assumed that this level has J|p=2+ and is member of a       
+240PU2cL two-phonon octupole vibrational band. However, from {+239}Pu(n,|g)     
+240PU3cL reaction (1975WeZA,1972OtZZ) |p=-. J=2 from |g|g(|q) in {+240}Np       
+240PU4cL |b{+-} decay (7.22 min).  But |p=+ in (p,t).                           
+240PU  G 789.59    10 100    17                                                 
+240PU  G 841.11    10 83     9                                                  
+240PU  G 1438.5       0.6    LT                                                 
+240PU  L 1456.5    1  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1464.1    7                                                            
+240PUX L XREF=O                                                                 
+240PU  L 1473.0    5  (6+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1479.2    3  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1488.17   7  (1,2+)                                                    
+240PUX L XREF=BFHO                                                              
+240PU cL J$|g to 0+                                                             
+240PU  G 1445.3    1  100    3                                                  
+240PU  G 1488.2    1  53     3                                                  
+240PU  L 1515.1    4                                                            
+240PUX L XREF=O                                                                 
+240PU  L 1525.86   8  (0+)                                                  Q   
+240PUX L XREF=BH                                                                
+240PU cL J$M1 |g from 1+ resonance in (n,|g); possible band member              
+240PU  G 928.55    10 100    13                                                 
+240PU  G 1483.0    1  18     3                                                  
+240PU  L 1528.6    6  (5+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1539.67   6  (1-)                                                      
+240PUX L XREF=BH(1539.7)M(1538)O                                                
+240PU cL J$|g's to 0+ and 2+.                                                   
+240PU  G 580.7     2  0.53   15                                                 
+240PU  G 890.6     2  1.28   15                                                 
+240PU  G 942.39    10 7.2    7                                                  
+240PU  G 1496.9    1  100    2                                                  
+240PU  G 1539.62   9  63.2   15                                                 
+240PU  L 1539.8    4  (13-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E1) to 12+; (E2) |g to (11-)                                        
+240PU  G 165.0     3  7      7                                                  
+240PUL G FL=1374.8                                                              
+240PUF G FLAG=Q                                                                 
+240PU  G 262.1     3  75     36 (E2)                    0.327 5                 
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0978 14$LC=0.1670 25$MC=0.0460 7$NC=0.01262 19$OC=0.00300 4$      
+240PUS G PC=0.000498 7$QC=6.15E-6 9                                             
+240PU  G 498.7     3  100    64 (E1)                   0.0144820                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.01163 16$LC=0.002152 30$MC=0.000518 7$NC=0.0001400 20$            
+240PUS G OC=3.44E-5 5$PC=6.34E-6 9$QC=3.64E-7 5                                 
+240PU  L 1550.3    6  (3-)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1557.0    3  (10+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$(E1) |g to (9-); possible |g to (11-)                                
+240PU  G 233.5     3  69     46                                                 
+240PUF G FLAG=Q                                                                 
+240PU  G 279.6     4                                                           ?
+240PUF G FLAG=Q                                                                 
+240PU  G 500.3     3  100    65 (E1)                   0.0143920                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.01156 16$LC=0.002138 30$MC=0.000514 7$NC=0.0001391 20$            
+240PUS G OC=3.42E-5 5$PC=6.30E-6 9$QC=3.62E-7 5                                 
+240PU  L 1558.87   5  (2+)                                                  Q   
+240PUX L XREF=BHO                                                               
+240PU cL J$|g's to 0+ and 4+.  But (6+) in (p,t).                               
+240PU  G 910.1     1  100    14                                                 
+240PU  G 961.62    10 93     5                                                  
+240PU  G 1417.2    1  16     4                                                  
+240PU  G 1515.9    1  11     4                                                  
+240PU  G 1558.8    1  4.3    14                                                 
+240PU  L 1575.5    2  (4+)                                                  W   
+240PUX L XREF=MO                                                                
+240PU  L 1588.0    6  (3-)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1607.72   13 (1-)                                                      
+240PUX L XREF=BHM(1609)                                                         
+240PU cL J$E1 from 1+ resonance level; |g to 0+.                                
+240PU  G 518.2     3  11     4                                                  
+240PU  G 959.0     2  13     4                                                  
+240PU  G 1607.6    2  100    9                                                  
+240PU  L 1612.6    2  (6+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1626.77   15 (1,2+)                                                    
+240PUX L XREF=BHO                                                               
+240PU cL J$|g to 0+                                                             
+240PU  G 1584.1    2  100    12                                                 
+240PU  G 1626.6    2  29     6                                                  
+240PU  L 1633.37   7  (2+)                                                      
+240PUX L XREF=BHO                                                               
+240PU cL J$|g to 0+; 2+ in (p,t)                                                
+240PU  G 496.7     3  6.5    13                                                 
+240PU  G 1036.5    3  1.9    13                                                 
+240PU  G 1590.5    1  63     3                                                  
+240PU  G 1633.33   10 100    3                                                  
+240PU  L 1638.6    6  (5+)                                                  W   
+240PUX L XREF=M(1641)O                                                          
+240PU  L 1647.6    4  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1669.5    9  (5-)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1674.1    4  (2+)                                                  W   
+240PUX L XREF=MO                                                                
+240PU  L 1686.2    4  (5-)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1710.43   8  (2+)                                                      
+240PUX L XREF=BHO                                                               
+240PU cL J$|g's to 0+ and 4+; 2+ in (p,t)                                       
+240PU  G 573.4     2  28     7                                                  
+240PUL G FL=1136.97                                                             
+240PU  G 1061.6    2  100    24                                                 
+240PU  G 1113.2    2  62     10                                                 
+240PU  G 1568.6    2  21     3                                                  
+240PU  G 1667.6    1  66     10                                                 
+240PU  G 1711      1  7      4                                                  
+240PU  L 1723.5    1  (6+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1745.7    4  16+                                                   D   
+240PUX L XREF=NP                                                                
+240PU cL J$(E2) to 14+                                                          
+240PU  G 371.0     3  100       (E2)                    0.113216                
+240PUL G FL=1374.8                                                              
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0527 7$LC=0.0443 6$MC=0.01197 17$NC=0.00328 5$OC=0.000785 11$     
+240PUS G PC=0.0001337 19$QC=2.70E-6 4                                           
+240PU  L 1752.7    2  (2+)                                                  W   
+240PUX L XREF=MO                                                                
+240PU  L 1774.8    1  4+                                                        
+240PUX L XREF=O                                                                 
+240PU cL J$From (p,t)                                                           
+240PU  L 1775.27   15 (1-)                                                      
+240PUX L XREF=BFH                                                               
+240PU cL J$From (n,|g), E=2 keV                                                 
+240PU  G 1732.4    2  67     34                                                 
+240PU  G 1775.3    2  100    33                                                 
+240PU  L 1784      3                                                            
+240PUX L XREF=M                                                                 
+240PU  L 1796.34   13 (1,2+)                                                    
+240PUX L XREF=BH                                                                
+240PU cL J$|g to 0+.                                                            
+240PU  G 475.0     3  100    27                                                 
+240PU  G 573.4     2  73     18                                                 
+240PU  G 837.6     2  73     27                                                 
+240PU  G 1752.9    2  49     11                                                 
+240PU  G 1796.2    3  27     9                                                  
+240PU  L 1800.2    2  (2+)                                                      
+240PUX L XREF=O                                                                 
+240PU cL J$From (p,t)                                                           
+240PU  L 1808.02   13 (1-)                                                      
+240PUX L XREF=BO                                                                
+240PU cL J$|g's to 0+ and 3-; angular distribution in (p,t).                    
+240PU  G 1159.2    2  40     13                                                 
+240PU  G 1210.5    5  100    30                                                 
+240PU  G 1765.2    2  47     7                                                  
+240PU  G 1807.9    4  13     7                                                  
+240PU  L 1821.9    1  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1830.3    4  (12+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$(E1) |g to (11-); (E2) |g to (10+)                                   
+240PU  G 273.2     3  100    55 (E2)                    0.285 4                 
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0911 13$LC=0.1415 21$MC=0.0389 6$NC=0.01068 16$OC=0.00254 4$      
+240PUS G PC=0.000423 6$QC=5.55E-6 8                                             
+240PU  G 290.6     4                                                           ?
+240PUL G FL=1539.8                                                              
+240PUF G FLAG=Q                                                                 
+240PU  G 552.7     4  90     48 (E1)                   0.0118717                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.00955 13$LC=0.001746 25$MC=0.000419 6$NC=0.0001134 16$            
+240PUS G OC=2.79E-5 4$PC=5.16E-6 7$QC=3.01E-7 4                                 
+240PU  L 1841.8    4  (15-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) |g to (13-); |g to 14+                                          
+240PU  G 302.1     3  100    44 (E2)                    0.207030                
+240PUL G FL=1539.8                                                              
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0763 11$LC=0.0954 14$MC=0.0261 4$NC=0.00716 10$OC=0.001706 25$    
+240PUS G PC=0.000286 4$QC=4.35E-6 6                                             
+240PU  G 467.1     3  65     37                                                 
+240PUL G FL=1374.8                                                              
+240PUF G FLAG=Q                                                                 
+240PU  L 1860.8    1  (4+)                                                  W   
+240PUX L XREF=MO                                                                
+240PU  L 1881.1       (0,1,2)                                                   
+240PUX L XREF=F                                                                 
+240PU cL J$primary |g from 1+.                                                  
+240PU  L 1887.3    1  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1904.1    1  (2+)                                                  W   
+240PUX L XREF=M(1902)O                                                          
+240PU  L 1917.8    3  (1-,3-)                                                   
+240PUX L XREF=BHO                                                               
+240PU cL J$1- from (n,|g) E=2 keV, but assigned (3-) in (p,t)                   
+240PU  G 1874.9    3  100    8                                                  
+240PU  G 1918      1  7      3                                                  
+240PU  L 1925.4    3  (4+)                                                  W   
+240PUX L XREF=MO                                                                
+240PU  L 1934.2    1  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1946.4    3  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1954.51   8  (2+)                                                      
+240PUX L XREF=BO                                                                
+240PU cL J$|g's to 0+ and 4+.                                                   
+240PU  G 1305.8    2  100    26                                                 
+240PU  G 1357.2    2  57     13                                                 
+240PU  G 1812.8    1  22     9                                                  
+240PU  G 1911.4    3  61     4                                                  
+240PU  L 1967.2    13 (5-)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1973.5    1  (3-,4+)                                               W   
+240PUX L XREF=O                                                                 
+240PU  L 1980.3    1  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1987.1    4  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 1996.41   17 (1,2+)                                                    
+240PUX L XREF=B                                                                 
+240PU cL J$|g's to 0+                                                           
+240PU  G 1398.5    5  100    40                                                 
+240PU  G 1953.6    2  46     10                                                 
+240PU  G 1996.7    4  20     8                                                  
+240PU  L 2016.3    2  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2020.8    3                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2030.4    1  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2040.6    5  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2050.0    2  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2060.4    1  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2076.7    6  (6+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2083.4    1  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2092.7    1  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2105.3    4                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2112.9    2                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2117.5    10 (1,2+)                                                    
+240PUX L XREF=B                                                                 
+240PU cL J$|g to 0+                                                             
+240PU  G 2074.8    2  100    16                                                ?
+240PU  G 2117.5    10 23     13                                                 
+240PU  L 2127.4       (-)                                                       
+240PUX L XREF=H                                                                 
+240PU cL J$from (n,|g) E=2 keV                                                  
+240PU  L 2136.8    4  (14+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$(E1) to (13-); (E2) to (12+)                                         
+240PU  G 295.0     3  32     19                                                ?
+240PUF G FLAG=Q                                                                 
+240PU  G 306.5     3  100    56 (E2)                    0.197928                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0743 10$LC=0.0902 13$MC=0.0247 4$NC=0.00677 10$OC=0.001613 23$    
+240PUS G PC=0.000271 4$QC=4.20E-6 6                                             
+240PU  G 597.1     3  78     46 (E1)                   0.0102514                
+240PUL G FL=1539.8                                                              
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.00826 12$LC=0.001496 21$MC=0.000359 5$NC=9.71E-5 14$              
+240PUS G OC=2.394E-5 34$PC=4.43E-6 6$QC=2.62E-7 4                               
+240PU  L 2143.4    3  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2151.2    5  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2151.6    5  18+                                                   D   
+240PUX L XREF=NP                                                                
+240PU cL J$(E2) to 16+                                                          
+240PU  G 405.9     3  100       (E2)                    0.088713                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0449 6$LC=0.0322 5$MC=0.00865 12$NC=0.002370 34$OC=0.000568 8$    
+240PUS G PC=9.75E-5 14$QC=2.209E-6 31                                           
+240PU  L 2155         (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2113.1    6                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2155.6    4                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2182.6    4  (17-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to (15-); |g to 16+                                             
+240PU  G 340.7     3  100    89 (E2)                    0.144221                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0615 9$LC=0.0605 9$MC=0.01644 24$NC=0.00451 6$OC=0.001077 15$     
+240PUS G PC=0.0001822 26$QC=3.28E-6 5                                           
+240PU  G 436.8     3  34     42                                                 
+240PUF G FLAG=Q                                                                 
+240PU  L 2184.9    4  (5+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2195.4    6  (6+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2209.2    3                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2219.4    3  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2235.2    1  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2263.4       (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2221.3    8                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2263.3    4                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2279.1    6  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2284.2    3  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2289.1    4                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2309.3    2  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2335.7    4  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2357.3    1  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2371.6    3  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2377.5    4  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2381.8    4  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2401.3    6  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2417.5    1  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2433         (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2390.4    3                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2433.2    3                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2450.3    7  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2460.5    5  (6+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2464         (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2421.2    4                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2464.2    3                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2470.4    2                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2474.9    5  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2475.1    4  (16+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$(E1) to (15-); (E2) to (14+)                                         
+240PU  G 292.6     4                                                           ?
+240PUF G FLAG=Q                                                                 
+240PU  G 338.2     3  100    92 (E2)                    0.147321                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0623 9$LC=0.0622 9$MC=0.01691 24$NC=0.00464 7$OC=0.001107 16$     
+240PUS G PC=0.0001872 27$QC=3.34E-6 5                                           
+240PU  G 633.3     4  31     31 (E1)                   0.0091813                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.00741 10$LC=0.001333 19$MC=0.000320 4$NC=8.64E-5 12$              
+240PUS G OC=2.132E-5 30$PC=3.96E-6 6$QC=2.358E-7 33                             
+240PU  L 2490.1    7  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2504.5    8                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2510.9    1  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2524.9    2                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2547.8       (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2505.3    4                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2547.4    6                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2560.5    5  (19-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to (17-); |g to 18+                                             
+240PU  G 377.9     3  100    72 (E2)                    0.107615                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0510 7$LC=0.0414 6$MC=0.01119 16$NC=0.00307 4$OC=0.000734 10$     
+240PUS G PC=0.0001252 18$QC=2.59E-6 4                                           
+240PU  G 408.9     3  20     4                                                  
+240PUL G FL=2151.6                                                              
+240PUF G FLAG=Q                                                                 
+240PU  L 2563.2    4  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2566.2       (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2523.3    4                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2566.4    4                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2577.6       (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2534.9    4                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2577.5    4                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2588.8    2  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2590.2    5  20+                                                   D   
+240PUX L XREF=NP                                                                
+240PU cL J$(E2) to 18+                                                          
+240PU  G 438.6     3  100       (E2)                    0.072610                
+240PUL G FL=2151.6                                                              
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0390 5$LC=0.02465 35$MC=0.00659 9$NC=0.001805 26$OC=0.000433 6$   
+240PUS G PC=7.48E-5 11$QC=1.865E-6 26                                           
+240PU  L 2640.4    1  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2644.4       (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2601.5    5                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2644.5    3                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2644.6    2  (0+)                                                      
+240PUX L XREF=O                                                                 
+240PU cL J$From (p,t)                                                           
+240PU  L 2664.3    5  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2672.6    2  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2683.3    2  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2695.9    1  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2709.4    2  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2721.3    7  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2733.4    3  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2736.4       (1)                                                       
+240PUX L XREF=K                                                                 
+240PU cL J$Excitation in {+240}Pu(|g,|g'); |g to 0{++}, 2{++}.                  
+240PU  G 2693.8    3                                                            
+240PUF G FLAG=G                                                                 
+240PU  G 2736.0    5                                                            
+240PUF G FLAG=G                                                                 
+240PU  L 2746.3    1  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2755.2    2  (6+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2769.0    2  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2793.2    2  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2803.8    1  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2816.5    7  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2823.4    3  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2835.5    4  (3-,4+)                                               W   
+240PUX L XREF=O                                                                 
+240PU  L 2837.1    5  (18+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to (16+); |g to (17-)                                           
+240PU  G 362.0     3  100    71 (E2)                    0.121217                
+240PUL G FL=2475.1                                                              
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0551 8$LC=0.0484 7$MC=0.01311 19$NC=0.00359 5$OC=0.000859 12$     
+240PUS G PC=0.0001461 21$QC=2.85E-6 4                                           
+240PU  G 654.6     3  33     26                                                 
+240PUF G FLAG=Q                                                                 
+240PU  L 2842.5    2  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2847.2    4  (4+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2852.6    4  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2885.2    8                                                            
+240PUX L XREF=O                                                                 
+240PU  L 2888.5    4  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2973.8    5  (21-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to (19-); |g to 20+                                             
+240PU  G 383.6     3  21     5                                                  
+240PUF G FLAG=Q                                                                 
+240PU  G 413.3     3  100    62 (E2)                    0.084612                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0434 6$LC=0.0302 4$MC=0.00811 12$NC=0.002223 32$OC=0.000533 8$    
+240PUS G PC=9.16E-5 13$QC=2.123E-6 30                                           
+240PU  L 2975.7    2  (2+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 2990.8    3  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 3000.9    2  (0+)                                                  W   
+240PUX L XREF=O                                                                 
+240PU  L 3059.8    6  22+                                                   D   
+240PUX L XREF=N(3063.5)P                                                        
+240PU cL J$(E2) to 20+                                                          
+240PU  G 469.6     3  100       (E2)                    0.06129                 
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0345 5$LC=0.01963 28$MC=0.00522 7$NC=0.001429 20$OC=0.000344 5$   
+240PUS G PC=5.97E-5 8$QC=1.611E-6 23                                            
+240PU  L 3218.3    5  (20+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to (18+); |g to (19-)                                           
+240PU  G 381.2     3  100    80 (E2)                    0.105015                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0502 7$LC=0.0402 6$MC=0.01084 15$NC=0.00297 4$OC=0.000711 10$     
+240PUS G PC=0.0001214 17$QC=2.54E-6 4                                           
+240PU  G 657.8     3  18     12                                                 
+240PUF G FLAG=Q                                                                 
+240PU  L 3421.1    6  (23-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$|DJ=(2) |g to (21-); |g to 22+                                       
+240PU  G 361.3     3  21     7                                                  
+240PUF G FLAG=Q                                                                 
+240PU  G 447.3     3  100    38 (E2)                    0.069110                
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0377 5$LC=0.02307 33$MC=0.00616 9$NC=0.001687 24$OC=0.000405 6$   
+240PUS G PC=7.01E-5 10$QC=1.787E-6 25                                           
+240PU  L 3559.0    6  24+                                                   D   
+240PUX L XREF=N(3562.2)P                                                        
+240PU cL J$(E2) to 22+                                                          
+240PU  G 499.2     3  100       (E2)                    0.05287                 
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0310 4$LC=0.01609 23$MC=0.00426 6$NC=0.001166 16$OC=0.000281 4$   
+240PUS G PC=4.90E-5 7$QC=1.415E-6 20                                            
+240PU  L 3626.6    6  (22+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$|g's to (20+) and (21-)                                              
+240PU  G 408.3     4                                                            
+240PUF G FLAG=Q                                                                 
+240PU  G 652.8     4  100                                                       
+240PUF G FLAG=Q                                                                 
+240PU  L 3900.6    6  (25-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to (23-); |g to 24+                                             
+240PU  G 341.6     3  32     14                                                 
+240PUF G FLAG=Q                                                                 
+240PU  G 479.5     3  100    68 (E2)                    0.05828                 
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0333 5$LC=0.01833 26$MC=0.00487 7$NC=0.001333 19$OC=0.000321 5$   
+240PUS G PC=5.58E-5 8$QC=1.541E-6 22                                            
+240PU  L 4063.5    8  (24+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$|g (22+)                                                             
+240PU  G 436.9     5                                                            
+240PUF G FLAG=Q                                                                 
+240PU  L 4086.3    6  26+                                                   D   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to 24+                                                          
+240PU  G 185.7     3  11     6                                                  
+240PUF G FLAG=Q                                                                 
+240PU  G 527.2     3  100    17 (E2)                    0.04657                 
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0281 4$LC=0.01354 19$MC=0.00357 5$NC=0.000976 14$OC=0.0002355 33$ 
+240PUS G PC=4.13E-5 6$QC=1.263E-6 18                                            
+240PU  L 4410.8    6  (27-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$(E2) to (23-); |g to 26+                                             
+240PU  G 324.5     3                                                            
+240PUF G FLAG=Q                                                                 
+240PU  G 510.2     3  100       (E2)                    0.05017                 
+240PUF G FLAG=YQ                                                                
+240PUS G KC=0.0298 4$LC=0.01501 21$MC=0.00397 6$NC=0.001086 15$OC=0.000262 4$   
+240PUS G PC=4.57E-5 6$QC=1.352E-6 19                                            
+240PU  L 4530.9    9  (26+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$|g (24+)                                                             
+240PU  G 467.4     5                                                            
+240PUF G FLAG=Q                                                                 
+240PU  L 4639.4    7  28+                                                   D   
+240PUX L XREF=P                                                                 
+240PU cL J$|g's to 26+ and 27-                                                  
+240PU  G 228.6     4  27     15                                                 
+240PUF G FLAG=Q                                                                 
+240PU  G 553.1     3  100    35                                                 
+240PUF G FLAG=Q                                                                 
+240PU  L 4950.0    7  (29-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$|g to (27-), tentative |g to 28+                                     
+240PU  G 310.6     4                                                           ?
+240PUF G FLAG=Q                                                                 
+240PU  G 539.2     3  100                                                       
+240PUF G FLAG=Q                                                                 
+240PU  L 5030.0    10 (28+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$|g (26+)                                                             
+240PU  G 499.1     5                                                            
+240PUF G FLAG=Q                                                                 
+240PU  L 5220.3    7  30+                                                   D   
+240PUX L XREF=P                                                                 
+240PU cL J$|g's to 28+ and 29-                                                  
+240PU  G 270.3     4                                                            
+240PUF G FLAG=Q                                                                 
+240PU  G 580.9     3  100                                                       
+240PUF G FLAG=Q                                                                 
+240PU  L 5512.2    8  (31-)                                                 E   
+240PUX L XREF=P                                                                 
+240PU cL J$|g to (29-)                                                          
+240PU  G 562.2     3  100                                                       
+240PUF G FLAG=Q                                                                 
+240PU  L 5559.2    12 (30+)                                                 F   
+240PUX L XREF=P                                                                 
+240PU cL J$|g (28+)                                                             
+240PU  G 529.2     5                                                            
+240PUF G FLAG=Q                                                                 
+240PU  L 5819.3    8  32+                                                   D   
+240PUX L XREF=P                                                                 
+240PU cL J$|g to 30+                                                            
+240PU  G 599.0     3  100                                                       
+240PUF G FLAG=Q                                                                 
+240PU  L 6096.3    9  (33-)                                                 E  ?
+240PUX L XREF=P                                                                 
+240PU cL J$Tentative |g to (31-)                                                
+240PU  G 584.1     4                                                           ?
+240PUF G FLAG=Q                                                                 
+240PU  L X            (0+)              3.6 NS    2                         B   
+240PUX L XREF=E                                                                 
+240PU2 L %SF GT 0                                                               
+240PU cL %SF$Only SF decay observed.                                            
+240PU cL E$x=2250 {I200}, deduced from the level density of K|p=0+ bandheads    
+240PU2cL in {+239}Pu(d,pF) (2001Hu12,2001Th16). Other: 2800 {I200} (estimate    
+240PU3cL by 1971Br39,1970Bu02,1973Na03)                                         
+240PU cL $Fission isomer observed in {+238}U(|a,2n); {+239}Pu(n,|g) and         
+240PU2cL {+239}Pu(d,p)                                                          
+240PU cL T$Weighted average of 3.8 ns {I+6-4} (1986De04); 3.5 ns {I2}           
+240PU2cL (1978Go10); 3.0 ns {I5} (1973Li01); 2.4 ns {I5} (1973Na03); 3.8 ns     
+240PU3cL {I3} (1971Br39,1970Bu02); 4.6 ns {I6} (1970El03,1969El06), 4.4 ns      
+240PU4cL {I8} (1969VaZX); 7 ns {I2} (1969Me11); 9 ns {I4} (1969La14). Others:   
+240PU5cL 1972Ga42, 1970Vi05, 1968Pa16                                           
+240PU  L 20.1+X       (2+)                                                  B   
+240PUX L XREF=E                                                                 
+240PU  G 20.1                   [E2]                   2.318E432               S
+240PUL G FL=X                                                                   
+240PUF G FLAG=U                                                                 
+240PUS G LC=1.311E4 18$MC=7.46E3 10$NC=2046 29$OC=480 7$PC=74.4 10$QC=0.1082 15 
+240PU  L 66.8+X       (4+)                                                  B   
+240PUX L XREF=E                                                                 
+240PU  G 46.72     9  100       (E2)                    593   10                
+240PUF G FLAG=U                                                                 
+240PUS G LC=431 7$MC=120.2 20$NC=33.0 6$OC=7.76 13$PC=1.215 20$QC=0.00267 4     
+240PU  L 139.9+X      (6+)                                                  B   
+240PUX L XREF=E                                                                 
+240PU  G 73.12     12 100       (E2)                    68.9  11                
+240PUF G FLAG=U                                                                 
+240PUS G LC=50.0 8$MC=14.00 22$NC=3.85 6$OC=0.905 15$PC=0.1430 23$QC=0.000399 6 
+240PU  L 239.2+X      (8+)                                                  B   
+240PUX L XREF=E                                                                 
+240PU  G 99.35     13 100       (E2)                    16.27 25                
+240PUF G FLAG=U                                                                 
+240PUS G LC=11.81 18$MC=3.31 5$NC=0.909 14$OC=0.2141 33$PC=0.0341 5$            
+240PUS G QC=0.0001198 18                                                        
+240PU  L 364.5+X      (10+)                                                 B  ?
+240PUX L XREF=E                                                                 
+240PUF L FLAG=Z                                                                 
+240PU  G 126                                                                   ?
+240PUF G FLAG=U                                                                 
+240PU  L 516.9+X      (12+)                                                 B  ?
+240PUX L XREF=E                                                                 
+240PU  L 554.7+X      (1-)                                                  J   
+240PUX L XREF=E                                                                 
+240PU  G 534.6        100                                                       
+240PUF G FLAG=U                                                                 
+240PU  G 554.7        750    LT                                                 
+240PUL G FL=X                                                                   
+240PUF G FLAG=U                                                                 
+240PU cG RI$for triplet                                                         
+240PU  L 589.7+X      (3-)                                                  J   
+240PUX L XREF=E                                                                 
+240PU  G 569.6        100                                                       
+240PUF G FLAG=U                                                                 
+240PU  L 769.9+X   10 (0+)                                                  R   
+240PUX L XREF=E                                                                 
+240PU  G 769.9     10           (E0)                                            
+240PUL G FL=X                                                                   
+240PUF G FLAG=U                                                                 
+240PU cG M$(0+) to (0+) transition                                              
+240PU  L 785.1+X   11 (2+)                                                  R   
+240PUX L XREF=E                                                                 
+240PU  G 765.0     11 100       (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  L 806.2+X   1  (2-)                                                  A   
+240PUX L XREF=E                                                                 
+240PU  G 216.5     5  1.9                                                       
+240PUF G FLAG=U                                                                 
+240PU  G 251.5     2  3.6                                                       
+240PUF G FLAG=U                                                                 
+240PU  G 786.1     1  100.0  25 E1                     0.006189                 
+240PUF G FLAG=U                                                                 
+240PUS G KC=0.00502 7$LC=0.000883 12$MC=0.0002110 30$NC=5.71E-5 8$              
+240PUS G OC=1.410E-5 20$PC=2.63E-6 4$QC=1.616E-7 23                             
+240PU  L 825.0+X   11 (4+)                                                  R   
+240PUX L XREF=E                                                                 
+240PU  G 758.2     11           (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  L 825.6+X   2  (3-)                                                  A   
+240PUX L XREF=E                                                                 
+240PU  G 19.4                                                                  S
+240PUF G FLAG=U                                                                 
+240PU  G 758.9     2  70     LT                                             &   
+240PUF G FLAG=U                                                                 
+240PU  G 805.4     2  100    13                                                 
+240PUF G FLAG=U                                                                 
+240PU  L 836.0+X   5  (1-)                                                  I   
+240PUX L XREF=E                                                                 
+240PU  G 816       1  100    18                                                 
+240PUF G FLAG=U                                                                 
+240PU  G 836       1  29     18                                                 
+240PUL G FL=X                                                                   
+240PUF G FLAG=U                                                                 
+240PU  L 846.8+X   3  (2-)                                                  I   
+240PUX L XREF=E                                                                 
+240PU  G 826.7     3  100                                                       
+240PUF G FLAG=U                                                                 
+240PU  L 851.1+X   4  (4-)                                                  A   
+240PUX L XREF=E                                                                 
+240PU  G 25.5                                                                  S
+240PUL G FL=825.6+X                                                             
+240PUF G FLAG=U                                                                 
+240PU  G 44.8                   (E2)                    727   10                
+240PUF G FLAG=U                                                                 
+240PUS G LC=528 7$MC=147.3 21$NC=40.5 6$OC=9.51 13$PC=1.488 21$QC=0.00320 4     
+240PU  L 866.0+X   10 (3-)                                                  I   
+240PUX L XREF=E                                                                 
+240PU  G 799       1  100    22                                                 
+240PUF G FLAG=U                                                                 
+240PU  G 846       1  67     33                                                 
+240PUF G FLAG=U                                                                 
+240PU  L 882.8+X   6  (5-)                                                  A   
+240PUX L XREF=E                                                                 
+240PU  G 31.7                   (E2)                    3.93E35                 
+240PUF G FLAG=U                                                                 
+240PUS G LC=2.86E3 4$MC=795 11$NC=218.2 31$OC=51.2 7$PC=7.98 11$QC=0.01460 20   
+240PU  G 57.2                   (E2)                    223.1 31                
+240PUL G FL=825.6+X                                                             
+240PUF G FLAG=U                                                                 
+240PUS G LC=162.0 23$MC=45.3 6$NC=12.44 17$OC=2.93 4$PC=0.460 6$QC=0.001115 16  
+240PU  L 891.2+X   3  (4-)                                                  I   
+240PUX L XREF=E                                                                 
+240PU  G 824.4     3  100                                                       
+240PUF G FLAG=U                                                                 
+240PU  L 892.4+X   12 (6+)                                                  R   
+240PUX L XREF=E                                                                 
+240PU  G 752.5     12 100       (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  L 918.8+X   3  (5-)                                                  I   
+240PUX L XREF=E                                                                 
+240PU  G 778.9     3  100    25                                                 
+240PUF G FLAG=U                                                                 
+240PU  G 852.0     5  42     17                                                 
+240PUF G FLAG=U                                                                 
+240PU  L 920.7+X   12 (6-)                                                  A   
+240PUX L XREF=E                                                                 
+240PU  G 37.9                                                                  S
+240PUF G FLAG=U                                                                 
+240PU  G 69.6                                                                  S
+240PUF G FLAG=U                                                                 
+240PU  L 936.4+X      (1-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 100.4        100    LT                                                ?
+240PUF G FLAG=U                                                                 
+240PU  G 936.4        10     LT                                                ?
+240PUL G FL=X                                                                   
+240PUF G FLAG=U                                                                 
+240PU  L 952.5+X      (2-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 932.4        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 960.7+X   2  (6-)                                                  I   
+240PUX L XREF=E                                                                 
+240PU  G 820.8     2  100                                                       
+240PUF G FLAG=U                                                                 
+240PU  L 966.5+X   13 (7-)                                                  A   
+240PUX L XREF=E                                                                 
+240PU  G 45.8                                                                  S
+240PUL G FL=920.7+X                                                             
+240PUF G FLAG=U                                                                 
+240PU  G 83.7                                                                  S
+240PUF G FLAG=U                                                                 
+240PU  L 970.6+X      (3-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 904.1        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 986.8+X   13 (8+)                                                  R   
+240PUX L XREF=E                                                                 
+240PU  G 747.6     13 100       (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  L 998.3+X   7  (7-)                                                  I   
+240PUX L XREF=E                                                                 
+240PU  G 758.9     2  320    LT                                             &   
+240PUF G FLAG=U                                                                 
+240PU  G 858.7     3  100    40                                                 
+240PUF G FLAG=U                                                                 
+240PU  L 1012.2+X     (4-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 945.4        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1019+X       (8-)                                                  A  ?
+240PUX L XREF=E                                                                 
+240PU  L 1044.0+X     (5-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 904.1        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1054.9+X  5  (8-)                                                  I   
+240PUX L XREF=E                                                                 
+240PU  G 815.7     3  100                                                       
+240PUF G FLAG=U                                                                 
+240PU  L 1078+X       (9-)                                                  A  ?
+240PUX L XREF=E                                                                 
+240PU  L 1104+X       (9-)                                                  I  ?
+240PUX L XREF=E                                                                 
+240PU  G 739.8     3                                                           ?
+240PUF G FLAG=U                                                                 
+240PU  L 1104.2+X     (10+)                                                 R  ?
+240PUX L XREF=E                                                                 
+240PU  G 739.6     14 100       (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  L 1109.0+X     (6-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 969.1        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1161.5+X     (7-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 922.3        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1172+X       (10-)                                                 I  ?
+240PUX L XREF=E                                                                 
+240PU  L 1230.4+X     (8-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 991.2        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1232+X       (11-)                                                 I  ?
+240PUX L XREF=E                                                                 
+240PU  G 714.7     3  100                                                      ?
+240PU  L 1246.5+X     (1-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 410.5                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 1226.5                                                             *  ?
+240PUF G FLAG=U                                                                 
+240PU  G 1246.5                                                             *  ?
+240PUL G FL=X                                                                   
+240PUF G FLAG=U                                                                 
+240PU  L 1261.0+X     (2-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 414.2                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 425.5                                                                 ?
+240PUF G FLAG=U                                                                 
+240PU  G 1241.0       100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1287.0+X     (3-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 420                    (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 440.3        50                                                       ?
+240PUF G FLAG=U                                                                 
+240PU  G 1220.0       100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1300.9+X     (9-)                                                  U  ?
+240PUX L XREF=E                                                                 
+240PU  G 936.4        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1322.0+X     (4-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 403          17                                                       ?
+240PUL G FL=918.8+X                                                             
+240PUF G FLAG=U                                                                 
+240PU  G 454.8        67                                                       ?
+240PUF G FLAG=U                                                                 
+240PU  G 1255         100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1344.5+X     (1-)                                                  C  ?
+240PUX L XREF=E                                                                 
+240PU  G 98           400    LT                                                ?
+240PUF G FLAG=U                                                                 
+240PU  G 408.1                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 508.4        100       (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 538       1  300    LT                                             &   
+240PUF G FLAG=U                                                                 
+240PU  G 1324.5       48     LT                                             *  ?
+240PUF G FLAG=U                                                                 
+240PU  L 1360.9+X  2  (2-)                                                  C   
+240PUX L XREF=E                                                                 
+240PU  G 408.4                  (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 514.8     15 67        (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 525          42                                                        
+240PUF G FLAG=U                                                                 
+240PU  G 535.2     2  100    25                                                 
+240PUF G FLAG=U                                                                 
+240PU  G 554.8     2  225    LT (E0)                                            
+240PUF G FLAG=KU                                                                
+240PU  G 1341         115    LT                                                 
+240PUF G FLAG=U                                                                 
+240PU  L 1366.5+X     (5-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 406.4        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  G 1226.5       500    LT                                             *  ?
+240PUF G FLAG=U                                                                 
+240PU  L 1382.9+X     (10-)                                                 U  ?
+240PUX L XREF=E                                                                 
+240PU  G 1018.4       100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1386.6+X  3  (3-)                                                  C   
+240PUX L XREF=E                                                                 
+240PU  G 415.7                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 520.4     14 44     LT (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 535.5     3  61     17                                                 
+240PUF G FLAG=U                                                                 
+240PU  G 561.0     2  100    17 (E0)                                            
+240PUL G FL=825.6+X                                                             
+240PUF G FLAG=U                                                                 
+240PU  G 1319.9       26                                                        
+240PUF G FLAG=U                                                                 
+240PU  L 1421.0+X     (6-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 1281         100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1421.4+X  6  (4-)                                                  C   
+240PUX L XREF=E                                                                 
+240PU  G 409.2                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 529.0     1  57        (E0)                                            
+240PUL G FL=891.2+X                                                             
+240PUF G FLAG=U                                                                 
+240PU  G 538.6     2  43     LT                                             &   
+240PUF G FLAG=U                                                                 
+240PU  G 570.3     4  100    14 (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 1355         23                                                        
+240PUF G FLAG=U                                                                 
+240PU  L 1461.8+X     (11-)                                                 U  ?
+240PUX L XREF=E                                                                 
+240PU  G 944.9        100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1465.7+X  6  (5-)                                                  C   
+240PUX L XREF=E                                                                 
+240PU  G 543.6     12           (E0)                                            
+240PUL G FL=918.8+X                                                             
+240PUF G FLAG=LU                                                                
+240PU  G 545       1  64                                                        
+240PUL G FL=920.7+X                                                             
+240PUF G FLAG=U                                                                 
+240PU  G 582.9     2  100    27 (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 1324.5       22     LT                                             *  ?
+240PUF G FLAG=U                                                                 
+240PU  L 1485.5+X     (7-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 1246.5       100                                                   *  ?
+240PUF G FLAG=U                                                                 
+240PU  L 1518.7+X  13 (6-)                                                  C   
+240PUX L XREF=E                                                                 
+240PU  G 409.7                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 554.3     4  135    LT                                                 
+240PUF G FLAG=KU                                                                
+240PU  G 556.5     1  100       (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 598.0     5  40        (E0)                                            
+240PUL G FL=920.7+X                                                             
+240PUF G FLAG=U                                                                 
+240PU  G 1379.5       7                                                         
+240PUF G FLAG=U                                                                 
+240PU  L 1559.0+X     (8-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 1320         100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1580.5+X  14 (7-)                                                  C   
+240PUX L XREF=E                                                                 
+240PU  G 418.6                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 581.8     12           (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 614.0     5  100       (E0)                                            
+240PUF G FLAG=U                                                                 
+240PU  G 1341.3       115    LT                                                ?
+240PUF G FLAG=U                                                                 
+240PU  L 1641.5+X     (9-)                                                  V  ?
+240PUX L XREF=E                                                                 
+240PU  G 1276         100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1654.7+X     (8-)                                                  C  ?
+240PUX L XREF=E                                                                 
+240PU  G 595.1     18           (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 600.0                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 636          100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  G 1414.3       40                                                       ?
+240PUF G FLAG=U                                                                 
+240PU  L 1732+X       (9-)                                                  C  ?
+240PUX L XREF=E                                                                 
+240PU  G 628.3     13           (E0)                                           ?
+240PUL G FL=1104+X                                                              
+240PUF G FLAG=U                                                                 
+240PU  G 655          100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  G 1369         30                                                       ?
+240PUF G FLAG=U                                                                 
+240PU  L 1733.5+X     (10-)                                                 V  ?
+240PUX L XREF=E                                                                 
+240PU  G 1369         100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1816+X       (10-)                                                 C  ?
+240PUX L XREF=E                                                                 
+240PU  G 644.9     14           (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 1454.0                                                                ?
+240PUL G FL=364.5+X                                                             
+240PUF G FLAG=U                                                                 
+240PU  L 1835.0+X     (11-)                                                 V  ?
+240PUX L XREF=E                                                                 
+240PU  G 1318         100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 1910.0+X     (11-)                                                 C  ?
+240PUX L XREF=E                                                                 
+240PU  G 678.0                  (E0)                                           ?
+240PUF G FLAG=U                                                                 
+240PU  G 1393                                                                  ?
+240PUF G FLAG=U                                                                 
+240PU  L 2011.0+X     (12-)                                                 C  ?
+240PUX L XREF=E                                                                 
+240PU  G 1494.0       100                                                      ?
+240PUF G FLAG=U                                                                 
+240PU  L 2184+X       (0+)                                                  S   
+240PUX L XREF=J                                                                 
+240PU  L 2276+X       (0+)                                                  S   
+240PUX L XREF=J                                                                 
+240PU  L 2375+X       (0+)                                                  S   
+240PUX L XREF=J                                                                 
+240PU  L 2435+X       (0+)                                                  S   
+240PUX L XREF=J                                                                 
+240PU  L 2453+X       (0+)                                                  S   
+240PUX L XREF=J                                                                 
+240PU  L 2483+X       (0+)                                                  S   
+240PUX L XREF=J                                                                 
+240PU  L 2800+X       (0+)                                                  T   
+240PUX L XREF=J                                                                 

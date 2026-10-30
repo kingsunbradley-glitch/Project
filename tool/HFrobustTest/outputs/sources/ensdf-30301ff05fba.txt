@@ -1,0 +1,60 @@
+252MD    256LR A DECAY                 1971ES01,1976BEZY         21NDS    202103
+252MD  H TYP=FUL$AUT=A.M. MATTERA, S. ZHU, A.B. HAYES, E.A. MCCUTCHAN$          
+252MD2 H CIT=NDS 172, 543 (2021)$CUT=1-Jan-2021$                                
+252MD c  1971Es01: {+256}Lr produced by {+249}Cf({+11}B,4n) at                  
+252MD2c  59 and 71 MeV. Measured E|a, I|a, |a(t) using five Si-Au surface       
+252MD4c  barrier detectors after implantation in rotating wheel system.         
+252MD c  1976BeZY: {+256}Lr produced by {+249}Cf({+11}B,4n)                     
+252MD2c  reaction. Measured E|a, I|a, |a(t), determined half-life.              
+252MD cA E$From 1976BeZY.                                                       
+252MD2cA E|a values of 1971Es01 are quoted for comparison. Other values are     
+252MD3cA also given in the comments.                                            
+252MD4cA The |a energies measured by 1971Es01 and 1976BeZY are in good          
+252MD5cA agreement. For calibration, E|a({+213}Fr)=6773, E|a({+211}Po)=7443,    
+252MD6cA E|a({+253}Es)=6640 were used by 1971Es01; and E|a({+244}Cm)=5804.9,    
+252MD7cA E|a({+243}Am)=5274.8, E|a({+249}Cf)=5813.5 were used by 1976BeZY (see  
+252MD8cA 1977Be36). The respective |a energies of 6775.0 {I17}, 7450.3 {I5},    
+252MD9cA 6632.51 {I5}, 5804.77 {I5}, 5275.3 {I10} and 5812.8 {I16} are          
+252MDacA recommended by 1991Ry01.                                               
+252MD cA IA$|a intensity per 100 |a decays.                                     
+252MD2cA I|a values of 1976BeZY are given here                                  
+252MD3cA because the measurements are of higher precision than those of         
+252MD4cA 1971Es01 (see comments in table), while the two sets of values agree   
+252MD5cA within quoted errors.                                                  
+252MD cA HF$r{-0}({+252}Md)=1.466 {I15} is used in calculations.                
+252MD cL E$Energies of excited levels are calculated from the |a energies       
+252MD2cL measured in {+256}Lr decay and Q(|a)({+256}Lr)|?8810, obtained by      
+252MD3cL 2017Wa10 from Q(|a) systematics.                                       
+256LR  P 0.0                            27.9 S    10             8810     SY    
+256LR cP T$from 2017Si08, from                                                  
+256LR2cP weighted average of 28 s {I1} (2014Sa21), 25.9 s {I17} (1976BeZY), 31  
+256LR3cP s {I3} (1971Es01), 35 s {I10} (1970Dr08), and 45 s {I10} (1965Do10).   
+252MD  N                        0.90   10                                       
+252MD cN BR$only estimates of the the |a decay/|e decay ratio have been made.   
+252MD2cN The %|e has been estimated as |?30% (1968Fl08) and |<20% (1971Es01),   
+252MD3cN but the similarity of the 8.42-MeV |a group (1968Fl08) to the          
+252MD4cN 8.43-MeV |a of {+256}Lr was not considered, so both should be regarded 
+252MD5cN as upper limits.                                                       
+252MD6cN The authors of 1976BeZY state that {+256}Lr decays by electron capture 
+252MD7cN but did not measure the branching.                                     
+252MD  L 49        AP                                                           
+252MD  A 8624      254.2     11267     AP                                       
+252MD cA $E|a=8.64 MeV {I2} and I|a=3 {I2} were measured by 1971Es01. E|a=8613  
+252MD2cA keV measured by 2004Fo08.                                              
+252MD  L 158       AP                                                           
+252MD  A 8517      1519.1    1527      AP                                       
+252MD cA $E|a=8.52 MeV {I2}, I|a=19 {I3} were measured by 1971Es01.             
+252MD  L 204       AP                                                           
+252MD  A 8472      1513.3    1528      AP                                       
+252MD cA $E|a=8.48 MeV {I2}, I|a=13 {I3} were measured 1971Es01. E|a=8465 keV   
+252MD2cA {I20} measured by 2002Ho11.                                            
+252MD  L 246       AP                                                           
+252MD  A 8430      1538.3    297       AP                                       
+252MD cA $E|a=8.43 MeV {I2} and I|a=34 {I4} were measured in 1971Es01.          
+252MD2cA E|a=8423 keV {I20} measured by 2002Ho11.                               
+252MD  L 287       AP                                                           
+252MD  A 8390      1518.8    2211      AP                                       
+252MD cA $E|a=8.39 MeV {I2} and I|a=23 {I5} were measured by 1971Es01.          
+252MD  L 359       AP                                                           
+252MD  A 8319      156.3     1519      AP                                       
+252MD cA $E|a=8.32 MeV {I2} and I|a=8 {I2} were measured by 1971Es01.           

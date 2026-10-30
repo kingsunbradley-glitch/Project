@@ -1,0 +1,54 @@
+246CM    250CF A DECAY                 2007KO01                  24NDS    202410
+246CM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 198, 449 (2024)$CUT=31-Jul-2022$     
+246CM c  2007Ko01: {+250}Cf was mass separated and prepared as a thin source    
+246CM2c  by electromagnetic isotope separator at Argonne National Laboratory    
+246CM3c  in the early 1970s. Via the ingrowth activity method, in 2006          
+246CM4c  |a spectra from the decay of the source was measured using passivated  
+246CM5c  implanted planar silicon (PIPS) detector (FWHM= 10keV) at small solid  
+246CM6c  angles. Deduced T{-1/2} and |a emission probabilities                  
+246CM c  1972Sc01: Alpha decay of {+250}Cf radioactive source was studied using 
+246CM2c  two low-energy photon Ge(Li) detectors. Measured E|g.                  
+246CM c  Others: 1986Ry04,1971Ch15,1971Bb10,1970Ba18,1955As42                   
+246CM cA IA$From 2007Ko01                                                       
+246CM cG M$From Adopted Gammas. Conversion electron data from 1971Ch15 are given
+246CM2cG in comments. I(ce) were normalized for subshell L3=349 by 1971Ch15.    
+246CM3cG The evaluator deduced the re-normalization value using                 
+246CM4cG BrICC L3=345 {I5}. A correction factor =0.986 was applied to all the   
+246CM5cG conversion electron data                                               
+246CM cL J,T$From Adopted Levels                                                
+246CM cA HF$The nuclear radius parameter r{-0}({+246}Cm)=1.48259 {I30}          
+246CM2cA is deduced by assuming HF=1.0 for the ground-state to                  
+246CM3cA ground-state alpha decay branch.                                       
+250CF  P 0.0         0+                13.08 Y   9              6128.51   19    
+250CF cP QP$From 2021Wa16                                                       
+250CF cP T$From 2001Ak11                                                        
+246CM  N 1                     0.99973                                          
+246CM cN BR$0.9997385 {I7} from %|a/%SF=3823 {I10}, weighted average of         
+246CM3cN 3822 {I10} (1969Me01) and 3833 {I32} (1971Ma32). Note that this        
+246CM4cN branching is slightly different than the value in                      
+246CM5cN 2001Ak11                                                               
+246CM PN                                                                     3  
+246CM  L 0.0          0+               4706 Y    40                             
+246CM  A 6030.22   20 82.6   1  1.000                                           
+246CM cA E$Weighted average of 6030 {I3} (2007Ko01) and 6030.22 {I20} (1991Ry01:
+246CM2cA corrected value of 1971Bb10)                                           
+246CM cA IA$Other 84.7 (1970Ba18)                                               
+246CM  L 42.852    5  2+               123.2 PS  23                             
+246CM  A 5988.9    6  17.11  11  2.90  3                                        
+246CM cA E$Weighted average of 5988 {I3} (2007Ko01) and 5988.9 {I6} (1991Ry01:  
+246CM2cA corrected value of 1971Bb10)                                           
+246CM cA IA$Other: 15 (1970Ba18)                                                
+246CM  G 42.852    5 0.01607 25E2                      1064   15                
+246CM cG E$From 1972Sc01                                                        
+246CM cG RI$From intensity balance and conversion coefficient                   
+246CM cG M$L1:L2:L3:M2:M3:N2:N3:O2:O3:P23=                                      
+246CM2cG 13.3 {I15}:445 {I14}:344:107.5 {I30}:102.5 {I30}:31.6 {I12}:31.6 {I12}:
+246CM2cG 9.1 {I10}:9.1 {I10}:3.8 {I10} (1971Ch15).                              
+246CM  L 142       3   4+                                                       
+246CM  A 5891      3 0.283   15   53   3                                        
+246CM cA E$From 2007Ko01. Other: 5890 {I5} (1970Ba18)                           
+246CM cA IA$Other: 0.3 (1970Ba18)                                               
+246CM  L  293      3  6+                                                        
+246CM  A 5742      3 0.007   2  3.3E2  10                                       
+246CM cA E$From 2007Ko01. Other: 5736 {I7} (1970Ba18).                          
+246CM cA IA$Other: |?0.01 (1970Ba18)                                            

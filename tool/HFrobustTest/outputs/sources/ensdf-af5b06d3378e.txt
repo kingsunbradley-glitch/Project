@@ -1,0 +1,65 @@
+218PA    ADOPTED LEVELS                                          ENSDF    202106
+218PA  H TYP=FUL$AUT=Balraj Singh$CIT=ENSDF$CUT=10-Jun-2021                     
+218PA  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Murray Martin et al.,$         
+218PA2 H CIT=NDS 160, 405 (2019)$CUT=30-Oct-2019$                               
+218PA  Q -3245     23 6476   22 845    21 9791   12    2021WA16                 
+218PA cQ $Q(|e)=6283 {I21}, S(2n)=15320 {I30}, S(2p)=4078 {I20},                
+218PA2cQ Q(|ep)=2658 {I21} (2021Wa16)                                           
+218PA d  Oct 30, 2019 (2019Si39) evaluation of {+218}Th by B. Singh             
+218PA2d  for the IAEA-ICTP workshop in 2018                                     
+218PA c  1979Sc09: {+218}Pa produced and identified in {+181}Ta({+40}Ar,xn)     
+218PA2c  reaction, measured excitation function.                                
+218PA c  2000He17 (also 1996An21): {+170}Er({+50}Ti,X),E=150-211 MeV; measured  
+218PA2c  T{-1/2}                                                                
+218PA c  1999Bo52: measured yield in {+197}Au({+26}Mg,X),E<164 MeV              
+218PA c  2001Ni06: measured yield in Ce({+82}Se,X)                              
+218PA c  2005Li17: measured yield in {+9}Be({+238}U,X)                          
+218PA c  2020Zh01: {+218}Pa produced and identified in {+182}W({+40}Ar,p3n),    
+218PA2c  E({+40}Ar)=190 MeV using the Sector-Focusing cyclotron facility at     
+218PA3c  HIRFL-Lanzhou. The evaporation residues (ERs) were separated from the  
+218PA4c  incident beam particles using gas-filled recoil separator for heavy    
+218PA5c  ions (SHANS). Measured E|a, (residues)|a{-1}|a{-2} correlations, where 
+218PA6c  |a{-1} is from parent nucleus and |a{-2} from daughter nucleus,        
+218PA7c  and half-life. The residues and |a particles were detected using       
+218PA8c  multiwire proportional gas counter (MWPC) and position-sensitive       
+218PA9c  silicon strip detectors (PSSDs). The |a particles escaping the PSSD in 
+218PAAc  the backward direction were collected by a system of eight silicon     
+218PABc  detectors. Energy resolution (FWHM) for |a particles was 35 keV for    
+218PACc  E|a=6-9 MeV. The |g rays were detected in coincidence mode with |a     
+218PADc  particles and recoils using a Ge Clover-detector and two HPGe          
+218PAEc  detectors. According to Fig. 1b showing (recoil)|a-coin spectrum, a    
+218PAFc  large number of recoil-|a correlated chains were observed, which       
+218PADc  were assigned to the decay of {+218}Pa g.s. In addition, an isomeric   
+218PAEc  state in {+218}Pa was also discovered, consistent with systematics     
+218PAFc  of |a decays for odd-proton N=127 isotones, and with shell-model       
+218PAGc  calculations.                                                          
+218PA d  Mass analysis from |a decay: 2002No01                                  
+218PA c  Theory references: consult NSR database (www.nndc.bnl.gov/nsr/)        
+218PA2c  for ten primary references for calculations of half-lives              
+218PA3c  of radioactive decays, and two for nuclear structure                   
+218PA cL J$Assigned by 2020Zh01, based on the systematics of |a decays of       
+218PA2cL odd-proton, N=127 isotones of {+212}At, {+214}Fr and {+216}Ac,         
+218PA3cL with further support from shell-model calculations.                    
+218PA  L 0            (8-)              109 US   5                              
+218PA2 L %A=100                                                                 
+218PA cL $Only the |a decay has been observed, with E|a=9610 {I14} and          
+218PA2cL 9524 {I16} (2020Zh01); 9616 {I15} and 9544 {I15} (2000He17);           
+218PA3cL and 9614 {I20} and 9535 {I15} (1979Sc09). Theoretical partial          
+218PA4cL T{-1/2}=57.4 s for {+218}Pa |e+|b{++} decay (2019Mo01) gives           
+218PA5cL %|e+%|b{++}=2|*10{+-4}                                                 
+218PA cL $The |a decay feeds the (5+) g.s. and a (4+) excited state at          
+218PA2cL 92 keV in {+214}Ac, as proposed in 1979Sc09                            
+218PA cL T$weighted average of 107 |ms {I5} (2020Zh01), 113 |ms {I10}           
+218PA2cL (2000He17) and 0.12 ms {I+4-2} (1979Sc09).                             
+218PA  L 82        21 (1-)              135 US   +62-32                      M  
+218PA2 L %A=100                                                                 
+218PA cL $Only the |a decay has been observed, with E|a=9691 {I15} and          
+218PA2cL tentative 9596 {I21} (2020Zh01)                                        
+218PA cL $The |a decay feeds the (5+) g.s. and a (4+) excited state at          
+218PA2cL 92 keV in {+214}Ac, proposed by 2020Zh01                               
+218PA cL E$deduced by evaluator from differences E|a values                     
+218PA2cL of 9610 {I14} from the g.s. to g.s. of {+214}Ac and 9691 {I15} from    
+218PA3cL the isomer to g.s. of {+214}Ac, as given in 2020Zh01, and each         
+218PA4cL corrected for recoil. 2020Zh01 give E(level)=83 {I6}.                  
+218PA cL T$from 2020Zh01, deduced from nine (implants)-|a1-|a2 correlated       
+218PA2cL decay chains)                                                          

@@ -1,0 +1,97 @@
+203FR    ADOPTED LEVELS, GAMMAS                                  21NDS    202109
+203FR  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 177, 509, 2021$CUT=4-Jul-2021$         
+203FR c  DICT$ {+169}Tm({+40}Ar,6n|g)={+169}Tm({+40}Ar,6n|g)                    
+203FR  Q -7725     12 10296  9 138     19 7275   4     2021WA16                 
+203FR  XA207AC A DECAY                                                          
+203FR  XB169TM(40AR,6NG)                                                        
+203FR cL E$ From a least squares fit to E|g                                     
+203FR cG E,RI,M$From 2013Ja06                                                   
+203FR cL SEQ(A)$ Sequence based on the J|p=9/2- ground state                    
+203FR cL SEQ(B)$ Sequence based on the J|p=13/2+ isomer                         
+203FR DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+203FR PN                                                                     6  
+203FR  L 0.0          9/2-             0.55 S    1                          A   
+203FRX L XREF=AB                                                                
+203FR2 L %A LE 100 $ MOMM1=+3.74 4 $MOME2=-0.47 2                               
+203FR cL J$from hyperfine structure in 2017Wi11; |p from |m;                    
+203FR2cL systematics in neighboring odd-Z nuclei                                
+203FR cL T$Weighted average of 0.55 s {I2} (1980Ew03), 0.560 s {I15}            
+203FR2cL (2005De01) and 0.53 s {I2} (2005Uu02). Others: 0.7 s {I3} (1967Va20),  
+203FR3cL 0.5 s {I+9-2} (1994Le05)                                               
+203FR cL $E|a=7130 keV {I5} (1967Va20), 7135 keV {I10} (1980Ew03), 7120 keV     
+203FR2cL {I25} (1994Le05), 7130 keV {I6} (2005Uu02), 7132 keV {I5} (2005De01)   
+203FR3cL and 7072 keV {I27} (2015We13)                                          
+203FR cL MOMM1,MOME2$Using high-resolution collinear resonance ionization       
+203FR2cL spectroscopy technique (2017Wi11,2019StZV).                            
+203FR3cL Other (the same group): |m=+3.73 {I4} (2014Ly01,2013Fl09)              
+203FR cL CONF$|p(h{-9/2}{++1})                                                  
+203FR cL $|d<r{+2}>({+203}Fr,{+221}Fr)=-1.5302 fm{+2} {I2} (stat) {I168} (syst) 
+203FR2cL (2017Wi11). Other (the same group): -1.530 fm{+2} {I8} (stat) {I16}    
+203FR3cL (syst) (2013Fl09,2014Ly01)                                             
+203FR  L 161.9      4 (7/2-)                                                   ?
+203FRX L XREF=B                                                                 
+203FR cL J$161.9|g to 9/2-; comparison with the neighboring {+205}Fr isotope.   
+203FR cL CONF$Dominant |p(f{-7/2}{++1})                                         
+203FR  G 161.9     4  7      2 [M1]                    3.64   6                 
+203FRS G  KC=2.93 5$LC=0.537 9$MC=0.1280 20                                     
+203FRS G  NC=0.0336 6$OC=0.00750 12$PC=0.001203 19$QC=6.72E-5 11                
+203FR  L 337       AP (5/2-)                                                   ?
+203FRX L XREF=B                                                                 
+203FR cL J$175|g to 9/2-; comparison with the neighboring {+205}Fr isotope.     
+203FR cL CONF$Dominant |p(h{-9/2}{++1})~#2{++}                                  
+203FR  G 175       AP          [M1]                    2.92                    ?
+203FRS G  KC AP 2.35$LC AP 0.431$MC AP 0.1026                                   
+203FRS G  NC AP 0.0269$OC AP 0.00601$PC AP 0.000965$QC AP 5.38E-5               
+203FR  L 361       6   1/2+            43 MS     4                           M  
+203FRX L XREF=B                                                                 
+203FR2 L %A=20 4 (2013Ja06)$%IT=80 4                                            
+203FR cL E$From 2021Ko07, based on E|a and E({+199m}At)=244 keV {I1}            
+203FR cL J$Favored |a decay to {+199m}At (J|p=1/2+,2018Cu02) and subsequent     
+203FR2cL favored |a decay to to {+195m}Bi (J|p=1/2+,2016Ba42);                  
+203FR3cL systematics of odd-A nuclei in this mass region                        
+203FR cL T$ Weighted average of 41 ms {I+5-4}, deduced from 7256|a(t) time      
+203FR2cL spectrum, when gating on E|a=6643 keV ({+199}At), and 45 ms {I5} from  
+203FR3cL recoil({+203}Fr)-ce(|Dt) (2013Ja06). Other: 60 ms {I+30-20} (2005Uu02) 
+203FR cL $E|a=7246 keV {I5} (2013Ja06), supersedes 7227 keV {I8} (2005Uu02)     
+203FR cL CONF$|p(s{-1/2}{++1})                                                  
+203FR  G 20        AP          [M2]                    6.78E4                  ?
+203FRS G  LC AP 4.87E4$MC AP 1.426E4                                            
+203FRS G  NC AP 3.86E3$OC AP 844$PC AP 124.4$QC AP 5.32                         
+203FR  G 195       AP          [E3]                    6.56                    ?
+203FRS G  KC AP 0.400$LC AP 4.48$MC AP 1.269                                    
+203FRS G  NC AP 0.336$OC AP 0.0702$PC AP 0.00921$QC AP 4.65E-5                  
+203FR  L 426.0     10 13/2+            0.37 US   5                          BM1 
+203FRX L XREF=B                                                                 
+203FR cL J$426|g M2 to 9/2-;                                                    
+203FR2cL systematics of odd-A nuclei in this mass region                        
+203FR cL T$From recoil({+203}Fr)-ce(|Dt) (2013Ja06)                             
+203FR cL CONF$|p(i{-13/2}{++1})                                                 
+203FR  G 426       1  100      M2                      0.749  12                
+203FRS G  KC=0.567 9$LC=0.1374 22$MC=0.0341 6                                   
+203FRS G  NC=0.00901 15$OC=0.00201 4$PC=0.000317 6$QC=1.67E-5 3                 
+203FR cG M$from K/(L+M+..)=3.3 {I4} (2013Ja06)                                  
+203FRB G BM2W=0.099 +16-12                                                      
+203FR  L 476.40    10 (13/2-)                                               A   
+203FRX L XREF=B                                                                 
+203FR cL J$476.4|g to 9/2-                                                      
+203FR cL CONF$Dominant |p(h{-9/2}{++1})~#4{++}                                  
+203FR  G 476.4     1  100                                                       
+203FR  L 789.1     11 (15/2+)                                               B  ?
+203FRX L XREF=B                                                                 
+203FR cL J$362.5|g to 13/2+                                                     
+203FR  G 362.5     3  100                                                      ?
+203FR  L 1035.00   23 (17/2-)                                               A   
+203FRX L XREF=B                                                                 
+203FR cL J$558.6|g to (13/2-)                                                   
+203FR  G 558.6     2  100                                                       
+203FR  L 1035.6    11 (17/2+)                                               B  ?
+203FRX L XREF=B                                                                 
+203FR cL J$245.5|g to (15/2+), 611.1|g to (13/2+)                               
+203FR  G 245.5     4  44     13                                                ?
+203FR  G 611.1     5  100    41                                                ?
+203FR  L 1672.7     4 (21/2-)                                               A  ?
+203FRX L XREF=B                                                                 
+203FR cL J$637.7|g to (17/2-)                                                   
+203FR cL CONF$Dominant |p(h{-9/2}{++1})~#6{++}                                  
+203FR  G 637.7     3  100                                                      ?
+203FRF G FL=1035.00                                                             

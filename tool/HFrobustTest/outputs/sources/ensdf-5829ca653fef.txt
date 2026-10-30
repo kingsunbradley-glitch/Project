@@ -1,0 +1,273 @@
+253NO    ADOPTED LEVELS, GAMMAS                                  13NDS    201309
+253NO  H TYP=ERR$AUT=J. K. TULI$DAT=21-Nov-2013$COM=corrected decay modes$      
+253NO  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+253NO2 H CUT=1-Mar-2012$                                                        
+253NO DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+253NO  Q -4217     SY 6584   12 3440   SY 8414   4     2012WA38                 
+253NO cQ           Estimated |DQ(|b{+-})=202, |DS(p)=131 (2012Wa38)             
+253NO c                                                                         
+253NO c  Calculations, compilations:                                            
+253NO c  g.s. properties: 1997Mo25, 1995Mo29, 2005Pa73                          
+253NO c  Favored |a decays: 1992Bu03                                            
+253NO c  Single-particle Nilsson levels: 1994Cw02, 2005Pa73                     
+253NO c                                                                         
+253NO c  1994Cw02 have calculated the following single-particle level sequence: 
+253NO2c  g.s., 9/2[734]; 0.24 MeV, 7/2[624]; 0.41 MeV, 5/2[622]; 0.67 MeV,      
+253NO3c  1/2[620]; 0.80 MeV, 3/2[622]; 0.95 MeV, 7/2[613]; 1.00 MeV, 11/2[725]; 
+253NO4c  1.50 MeV, 9/2[615]                                                     
+253NO c  2005Pa73 have calculated the following single-particle level sequence: 
+253NO2c  g.s., 9/2[734]; 0.20 MeV, 7/2[624]; 0.32 MeV, 5/2[622];                
+253NO3c  0.66 MeV, 1/2[620]; 0.71 MeV, 1/2[501].                                
+253NO  XA257RF A DECAY (4.4 S)                                                  
+253NO  XB257RF A DECAY (4.1 S)                                                  
+253NO  XC207PB(48CA,2NG)                                                        
+253NO  XD253NO IT DECAY (706 US)                                                
+253NO  XE253NO IT DECAY (627 US)                                                
+253NO cL J$For additional possible J|p and band assignments by 1997He29         
+253NO2cL see the {+257}Rf |a decay (4.4 s)                                      
+253NO3cL data set. These assignments have not been adopted here, because        
+253NO4cL the |a decay HF are not in agreement with the proposed orbitals.       
+253NO cL J$ For 7/2+[624] bands J|p deduced from rotational model fit of spins  
+253NO2cL and (kinetic and                                                       
+253NO2cL dynamic) moments of inertia (1999Re02)                                 
+253NO CL BAND(A)$ |n9/2[734], |a=+1/2                                           
+253NO CL BAND(a)$ |n9/2[734], |a=-1/2                                           
+253NO CL BAND(B)$ K|p=15/2- band,|a=-1/2.                                       
+253NO2cL Configuration=|p7/2[514]~#|p1/2[521]~#|n9/2[734];                      
+253NO3cL from the anology to neighboring {+254}No                               
+253NO CL BAND(b)$ K|p=15/2- band,|a=+1/2.                                       
+253NO2cL Configuration=|p7/2[514]~#|p1/2[521]~#|n9/2[734];                      
+253NO3cL from the anology to neighboring {+254}No                               
+253NO cL E$From least-squares fit to E|g assuming |DE|g=1 keV                   
+253NO cG E(X)$ Unresolved multiplet                                             
+253NO  L 0            (9/2-)           1.62 M    15                         A   
+253NOX L XREF=ABCDE                                                             
+253NO2 L %A=55 3$ %EC+%B+=45 3 (2011An13)                                       
+253NO cL %A$other: %|a=47 {I8}, %|e+|b{++}=53 {I8} (2009Qi04)                   
+253NO cL %A$only |a decay observed.                                             
+253NO cL %EC$from log| {Ift}|?6, T{-1/2}(|e)|?10 min                            
+253NO cL J$from analogy with N=151 nuclei ({+245}Pu,{+247}Cm,{+249}Cf,{+251}Fm).
+253NO2cL Tentative configuration=9/2[734]                                       
+253NOxcL (2004He23,2002He24,2002Bu04,2001Du02,2004He28)                         
+253NO cL T$weighted average of 95 s {I10} (1967Mi03) and 105 s {I20}            
+253NO2cL (1967Gh01,1971GhZV).                                                   
+253NO  L 64.0      10 (11/2-)                                               a   
+253NOX L XREF=BCD                                                               
+253NO  G 64                                                                     
+253NO  L 132.8     16 (13/2-)                                               A  ?
+253NOX L XREF=CD                                                                
+253NO  G 70                                                                    ?
+253NO  G 132                                                                   ?
+253NO  L 167.5      55/2+              31.1 US   21                          M1 
+253NOX L XREF=ACDE                                                              
+253NO cL T$from 2007Lo11. Other value: 31.3 |ms {I41} (2010St14).               
+253NO cL J$configuration=(|n 5/2[{-622]}) (2007Lo11)                            
+253NO  G 167.5     5 100.0     M2                      51.1   9                 
+253NOS G KC=28.5 5$LC=16.3 3$MC=4.55 9$NC+=1.74 4                               
+253NOS G NC=1.317 25$OC=0.353 7$PC=0.0660 13$QC=0.00322 6                       
+253NOB G BM2W=0.0036 3                                                          
+253NO  L 220.0     15 (15/2-)                                               a   
+253NOX L XREF=CD                                                                
+253NO  G 86                    M1                      20.1                    ?
+253NOS G LC=15.02 21$MC=3.73 6$NC+=1.391 20                                     
+253NOS G NC=1.051 15$OC=0.282 4$PC=0.0550 8$QC=0.00296 5                        
+253NO  G 156            1.0E2 3E2                      4.33                     
+253NOS G KC=0.1077 15$LC=3.02 5$MC=0.875 13$NC+=0.326 5                         
+253NOS G NC=0.251 4$OC=0.0648 9$PC=0.01048 15$QC=6.02E-5 9                      
+253NO  L 258.2     12                                                           
+253NOX L XREF=A                                                                 
+253NO  G 90.7                                                                   
+253NO  L 317.5     16 (17/2-)                                               A   
+253NOX L XREF=CD                                                                
+253NO  G 98             1.0E2 3M1                      13.78                    
+253NOS G LC=10.28 15$MC=2.55 4$NC+=0.952 14                                     
+253NOS G NC=0.719 10$OC=0.193 3$PC=0.0376 6$QC=0.00202 3                        
+253NO  G 184               7317E2                      2.19                     
+253NOS G KC=0.1304 19$LC=1.473 21$MC=0.425 6$NC+=0.1585 23                      
+253NOS G NC=0.1219 17$OC=0.0315 5$PC=0.00513 8$QC=3.50E-5 5                     
+253NO  L 427.7     16 (19/2-)                                               a   
+253NOX L XREF=CD                                                                
+253NO  G 110            1.0E2 4M1                      9.86                     
+253NOS G LC=7.35 11$MC=1.83 3$NC+=0.681 10                                      
+253NOS G NC=0.514 8$OC=0.1382 20$PC=0.0269 4$QC=0.001446 21                     
+253NO  G 208              10018E2                      1.346                    
+253NOS G KC=0.1272 18$LC=0.874 13$MC=0.251 4$NC+=0.0937 14                      
+253NOS G NC=0.0720 10$OC=0.0186 3$PC=0.00306 5$QC=2.39E-5 4                     
+253NO  L 450.9     12 (1/2+)                                                    
+253NOX L XREF=A                                                                 
+253NO  G 283.4                 E2                      0.438                    
+253NOS G KC=0.0946 14$LC=0.247 4$MC=0.0703 10$NC+=0.0262 4                      
+253NOS G NC=0.0201 3$OC=0.00522 8$PC=0.000874 13$QC=9.88E-6 14                  
+253NO  L 551.2     17 (21/2-)                                               A   
+253NOX L XREF=CD                                                                
+253NO  G 123.5                 M1                      7.06                     
+253NOS G LC=5.27 8$MC=1.308 19$NC+=0.487 7                                      
+253NOS G NC=0.368 6$OC=0.0989 14$PC=0.0193 3$QC=0.001034 15                     
+253NO  G 233.5            10011E2                      0.869                    
+253NOS G KC=0.1169 17$LC=0.540 8$MC=0.1546 22$NC+=0.0577 8                      
+253NOS G NC=0.0443 7$OC=0.01147 16$PC=0.00190 3$QC=1.697E-5 24                  
+253NO  L 670          (1/2+)                                                    
+253NOX L XREF=A                                                                 
+253NO cL $ 1/2[620] state                                                       
+253NO  L 686.7     18 (23/2-)                                               a   
+253NOX L XREF=CD                                                                
+253NO  G 135.5             2011M1                      5.41                     
+253NOS G LC=4.03 6$MC=1.002 14$NC+=0.373 6                                      
+253NOS G NC=0.282 4$OC=0.0757 11$PC=0.01474 21$QC=0.000791 11                   
+253NO  G 259              10020E2                      0.598                    
+253NOS G KC=0.1052 15$LC=0.354 5$MC=0.1010 15$NC+=0.0377 6                      
+253NOS G NC=0.0289 4$OC=0.00750 11$PC=0.001247 18$QC=1.264E-5 18                
+253NO  L 834.2     18 (25/2-)                                               A   
+253NOX L XREF=C                                                                 
+253NO  G 147.5                 M1                      4.24                     
+253NOS G LC=3.16 5$MC=0.785 11$NC+=0.292 4                                      
+253NOS G NC=0.221 3$OC=0.0593 9$PC=0.01155 17$QC=0.000619 9                     
+253NO  G 283              10018E2                      0.440                    
+253NOS G KC=0.0947 14$LC=0.249 4$MC=0.0707 10$NC+=0.0264 4                      
+253NOS G NC=0.0202 3$OC=0.00525 8$PC=0.000878 13$QC=9.92E-6 14                  
+253NO  L 934.5     15 (15/2-)                                               B   
+253NOX L XREF=D                                                                 
+253NO  G 714.3     5 42      8 M1                      0.228                    
+253NOS G KC=0.1762 25$LC=0.0386 6$MC=0.00955 14$NC+=0.00355 5                   
+253NOS G NC=0.00268 4$OC=0.000721 11$PC=0.0001401 20$QC=7.44E-6 11              
+253NO  G 801.8     4 100     18M1                      0.1664                   
+253NOS G KC=0.1287 19$LC=0.0282 4$MC=0.00696 10$NC+=0.00259 4                   
+253NOS G NC=0.00196 3$OC=0.000525 8$PC=0.0001021 15$QC=5.42E-6 8                
+253NO  L 994.2     19 (27/2-)                                               a   
+253NOX L XREF=C                                                                 
+253NO  G 160               20 6M1                      14.42                    
+253NOS G KC=11.06 16$LC=2.51 4$MC=0.622 9$NC+=0.232 4                           
+253NOS G NC=0.1751 25$OC=0.0470 7$PC=0.00915 13$QC=0.000490 7                   
+253NO  G 307.5          1.0E2 3E2                      0.335                    
+253NOS G KC=0.0851 12$LC=0.180 3$MC=0.0509 8$NC+=0.0190 3                       
+253NOS G NC=0.01457 21$OC=0.00379 6$PC=0.000637 9$QC=7.96E-6 12                 
+253NO  L 1022.6    16 (17/2-)                                               b   
+253NOX L XREF=D                                                                 
+253NO  G 87.7      5  100      M1(+E2)                 39     20                
+253NOS G LC=28 14$MC=8 5$NC+=2.9 16                                             
+253NOS G NC=2.2 13$OC=0.6 4$PC=0.10 5$QC=0.0017 12                              
+253NO  L 1122.0    16 (19/2-)                                               B   
+253NOX L XREF=D                                                                 
+253NO  G 98.6      6 100     24M1(+E2)                 24     11                
+253NOS G LC=17 7$MC=4.8 23$NC+=1.8 9                                            
+253NOS G NC=1.4 7$OC=0.35 17$PC=0.060 23$QC=0.0012 9                            
+253NO  G 188.6     8 56      18E2                      1.98   5                 
+253NOS G KC=0.1307 19$LC=1.32 3$MC=0.382 9$NC+=0.142 4                          
+253NOS G NC=0.110 3$OC=0.0283 7$PC=0.00462 11$QC=3.24E-5 7                      
+253NO  L 1165.2    19 (29/2-)                                               A   
+253NOX L XREF=C                                                                 
+253NO  G 171               30 7M1                      11.97                    
+253NOS G KC=9.19 13$LC=2.07 3$MC=0.514 8$NC+=0.192 3                            
+253NOS G NC=0.1448 21$OC=0.0389 6$PC=0.00756 11$QC=0.000405 6                   
+253NO  G 331              10022E2                      0.265                    
+253NOS G KC=0.0769 11$LC=0.1358 19$MC=0.0383 6$NC+=0.01429 20                   
+253NOS G NC=0.01095 16$OC=0.00285 4$PC=0.000482 7$QC=6.59E-6 10                 
+253NO  L 1232.1    16 (21/2-)                                               b   
+253NOX L XREF=D                                                                 
+253NO  G 110.0     5 67      15M1(+E2)                 15     6                 
+253NOS G LC=11 4$MC=3.0 12$NC+=1.1 5                                            
+253NOS G NC=0.9 4$OC=0.23 9$PC=0.038 12$QC=0.0008 7                             
+253NO  G 209.5     3 100     25E2                      1.309                    
+253NOS G KC=0.1267 18$LC=0.848 13$MC=0.244 4$NC+=0.0909 14                      
+253NOS G NC=0.0699 11$OC=0.0181 3$PC=0.00297 5$QC=2.34E-5 4                     
+253NO  L 1346.7    20 (31/2-)                                               a   
+253NOX L XREF=C                                                                 
+253NO  G 181.5             24 7M1                      10.11                    
+253NOS G KC=7.77 11$LC=1.748 25$MC=0.434 6$NC+=0.1617 23                        
+253NOS G NC=0.1221 17$OC=0.0328 5$PC=0.00638 9$QC=0.000341 5                    
+253NO  G 352.5            10014E2                      0.219                    
+253NOS G KC=0.0704 10$LC=0.1073 15$MC=0.0302 5$NC+=0.01125 16                   
+253NOS G NC=0.00862 12$OC=0.00224 4$PC=0.000382 6$QC=5.62E-6 8                  
+253NO  L 1352.0    18 (23/2-)                                               B   
+253NOX L XREF=D                                                                 
+253NO  G 120                                                                    
+253NO  G 230                                                                    
+253NO  L 1541.7    20 (33/2-)                                               A   
+253NOX L XREF=C                                                                 
+253NO  G 195               18 6M1                      8.26                     
+253NOS G KC=6.35 9$LC=1.426 20$MC=0.354 5$NC+=0.1318 19                         
+253NOS G NC=0.0996 14$OC=0.0267 4$PC=0.00520 8$QC=0.000278 4                    
+253NO  G 376.5            10013E2                      0.181                    
+253NOS G KC=0.0639 9$LC=0.0843 12$MC=0.0236 4$NC+=0.00880 13                    
+253NOS G NC=0.00674 10$OC=0.001757 25$PC=0.000300 5$QC=4.78E-6 7                
+253NO  L 1744.7    21 (35/2-)                                               a   
+253NOX L XREF=C                                                                 
+253NO  G 203               39 9M1                      7.38                     
+253NOS G KC=5.67 8$LC=1.272 18$MC=0.316 5$NC+=0.1176 17                         
+253NOS G NC=0.0888 13$OC=0.0239 4$PC=0.00464 7$QC=0.000248 4                    
+253NO  G 398            1.0E2 3E2                      0.1544                   
+253NOS G KC=0.0589 9$LC=0.0691 10$MC=0.0193 3$NC+=0.00719 10                    
+253NOS G NC=0.00550 8$OC=0.001435 20$PC=0.000246 4$QC=4.19E-6 6                 
+253NO  L 1962.7    21 (37/2-)                                               A   
+253NOX L XREF=C                                                                 
+253NO  G 218                   M1                      6.03                     
+253NOS G KC=4.64 7$LC=1.040 15$MC=0.258 4$NC+=0.0961 14                         
+253NOS G NC=0.0726 11$OC=0.0195 3$PC=0.00379 6$QC=0.000202 3                    
+253NO  G 421              10016E2                      0.1324                   
+253NOS G KC=0.0541 8$LC=0.0567 8$MC=0.01575 22$NC+=0.00587 9                    
+253NOS G NC=0.00449 7$OC=0.001173 17$PC=0.000202 3$QC=3.67E-6 6                 
+253NO  L 2184.7    22 (39/2-)                                               a   
+253NOX L XREF=C                                                                 
+253NO  G 222               4217M1                      5.73                     
+253NOS G KC=4.41 7$LC=0.988 14$MC=0.245 4$NC+=0.0912 13                         
+253NOS G NC=0.0689 10$OC=0.0185 3$PC=0.00360 5$QC=0.000192 3                    
+253NO  G 440              10017E2                      0.1177                   
+253NOS G KC=0.0506 7$LC=0.0486 7$MC=0.01348 19$NC+=0.00503 7                    
+253NOS G NC=0.00384 6$OC=0.001004 14$PC=0.0001739 25$QC=3.31E-6 5               
+253NO  L 2423.7    23 (41/2-)                                               A   
+253NOX L XREF=C                                                                 
+253NO  G 239                   M1                      4.66                 X  ?
+253NOS G KC=3.58 5$LC=0.802 12$MC=0.199 3$NC+=0.0741 11                         
+253NOS G NC=0.0560 8$OC=0.01503 21$PC=0.00292 4$QC=0.0001559 22                 
+253NO  G 461              10020E2                      0.1043                   
+253NOS G KC=0.0471 7$LC=0.0415 6$MC=0.01146 16$NC+=0.00427 6                    
+253NOS G NC=0.00327 5$OC=0.000854 12$PC=0.0001485 21$QC=2.98E-6 5               
+253NO  L 2665.7    23 (43/2-)                                               a   
+253NOX L XREF=C                                                                 
+253NO  G 242               4416M1                      4.50                     
+253NOS G KC=3.46 5$LC=0.774 11$MC=0.192 3$NC+=0.0715 10                         
+253NOS G NC=0.0540 8$OC=0.01451 21$PC=0.00282 4$QC=0.0001505 21                 
+253NO  G 481              10020E2                      0.0937                   
+253NOS G KC=0.0441 7$LC=0.0360 5$MC=0.00991 14$NC+=0.00369 6                    
+253NOS G NC=0.00282 4$OC=0.000739 11$PC=0.0001290 18$QC=2.70E-6 4               
+253NO  L 2925.7    25 (45/2-)                                               A   
+253NOX L XREF=C                                                                 
+253NO  G 260                   M1                      3.68                 X  ?
+253NOS G KC=2.83 4$LC=0.633 9$MC=0.1569 22$NC+=0.0584 9                         
+253NOS G NC=0.0441 7$OC=0.01185 17$PC=0.00230 4$QC=0.0001229 18                 
+253NO  G 502              10025E2                      0.0843                   
+253NOS G KC=0.0413 6$LC=0.0313 5$MC=0.00858 12$NC+=0.00320 5                    
+253NOS G NC=0.00244 4$OC=0.000640 9$PC=0.0001121 16$QC=2.46E-6 4                
+253NO  L 3183         (47/2-)                                               a  ?
+253NOX L XREF=C                                                                 
+253NO  G 259                   M1                      3.72                 X  ?
+253NOS G KC=2.86 4$LC=0.640 9$MC=0.1586 23$NC+=0.0591 9                         
+253NOS G NC=0.0446 7$OC=0.01198 17$PC=0.00233 4$QC=0.0001242 18                 
+253NO  G 519              10025E2                      0.0778                  ?
+253NOS G KC=0.0392 6$LC=0.0281 4$MC=0.00768 11$NC+=0.00286 4                    
+253NOS G NC=0.00219 3$OC=0.000573 8$PC=0.0001007 14$QC=2.28E-6 4                
+253NO  L 3465         (49/2-)                                               A  ?
+253NOX L XREF=C                                                                 
+253NO  G 282                   M1                      2.93                 X  ?
+253NOS G KC=2.26 4$LC=0.504 7$MC=0.1249 18$NC+=0.0465 7                         
+253NOS G NC=0.0351 5$OC=0.00943 14$PC=0.00183 3$QC=9.77E-5 14                   
+253NO  G 541            1.0E2 4E2                      0.0705                  ?
+253NOS G KC=0.0367 6$LC=0.0246 4$MC=0.00671 10$NC+=0.00250 4                    
+253NOS G NC=0.00191 3$OC=0.000501 7$PC=8.82E-5 13$QC=2.09E-6 3                  
+253NO  L  0+X                  (19/2+)  706 US   24                          M2 
+253NO DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+253NOX L XREF=CD                                                                
+253NO cL T$ from (Er)(|a) correlated events and mult-component fitting procedure
+253NO2cL of the decay curve (2011Lo06). This half-life either may be from       
+253NO3cL one isomer or a composite of two isomers,                              
+253NO6cL Other: 0.97 ms 21 (2007Lo11)                                           
+253NO cL J$ Possibly a high-K isomer with configuration=                        
+253NO2cL |p9/2[624]~#|p1/2[521]~#|n9/2[734]                                     
+253NO  L 1440+X                         627 US   5                           M3 
+253NOX L XREF=E                                                                 
+253NO cL T$From 2011An13. May be the same as the 0+x isomer.                    
+253NO  L  0+Y           (25/2+)        ?                                     M4?
+253NO DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+253NOX L XREF=D                                                                 
+253NO cL J$ Possibly a high-K isomer with configuration=                        
+253NO2cL |p9/2[624]~#|p7/2[514]~#|n9/2[734]                                     

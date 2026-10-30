@@ -1,0 +1,491 @@
+220FR    224AC A DECAY (2.78 H)        1992LI31,1968LE17         26NDS    202609
+220FR  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220FR2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220FR dA HF$Hindrance Factor is calculated by AlphaHF (version 05-Mar-2026)     
+220FR dL E$Least-squares fitting is done by GLSC (version 21-Apr-2026)          
+220FR c  The previous ENSDF evaluation (2011Br05) served as a basis for this    
+220FR2c  update.                                                                
+220FR dG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+220FR c  1992Li31, 1968Le17, 1969Le07: Ac and other actinides Th, Pa, Ra, and   
+220FR2c  Fr, were produced by bombarding 10 grams of Thorium-Cerium alloy with 1
+220FR3c  |mA of 200 MeV protons produced at the Orsay Synchrocyclotron with     
+220FR4c  bombarding times from 30 to 48 hr. {+224}AcF{++_2} ions were separated 
+220FR5c  using selective fluorination at the mass separator ISOCELER at Orsay.  
+220FR6c  Measured |g, ce, |a, |a|g, |a(ce), |g|g, |g(ce) with alpha detector    
+220FR7c  (energy resolution 17 keV FWHM), gamma detector (resolution of ~600 eV 
+220FR8c  at 100 keV) and a cooled 6 mm thick Si(Li) detector for the electrons. 
+220FR c  1973ChZH: Irradiated natural Thorium targets 2 mm thick with 52 MeV    
+220FR2c  protons produced at the Orsay Synchrocyclotron followed by chemical    
+220FR3c  separation. Measured |g, |a|g, |a(ce) with GeLi detectors (resolution  
+220FR4c  900 eV at 100 keV photons) combined with Si surface barrier detectors. 
+220FR c  Others: 1970Br31, 1969Le07, 1967Br15                                   
+220FR c  The decay scheme is that of 1992Li31, based on |g and ce measurements, 
+220FR2c  and on |a|g, |a(ce) coincidence results of 1992Li31,and on |a-particle 
+220FR3c  measurements of 1968Le17.                                              
+220FR cA HF$The nuclear radius parameter r{-0}({+220}Fr)=1.5418 {I13} is deduced
+220FR2cA from interpolation of radius parameters of the adjacent even-even      
+220FR3cA nuclides in 2020Si16                                                   
+220FR cA E,IA$From 1968Le17, deduced based on measured |a intensities. I|a      
+220FR2cA values are for 100 |a decays. These data are also given in 1969LeZW.   
+220FR3cA Authors' E|a values have been increased by 3.8 keV (see 1991Ry01) to   
+220FR4cA adjust for newer energy calibration values. Where possible, alpha      
+220FR5cA branches derived by evaluators from |g+ce intensity balances are given 
+220FR6cA in comments                                                            
+220FR cG E$From 1992Li31. Others: 1970Br31 (see also 1973ChZH), 1969Le07,       
+220FR2cG 1969LeZW                                                               
+220FR cG RI$From 1992Li31. Quoted values are for per 1000 |a decays and have    
+220FR2cG been converted to values for per 100 |a decays by the evaluators.      
+220FR3cG Others: 1973ChZH, 1969Le07, 1969LeZW.                                  
+220FR cG M$From ce data in 1992Li31 and 1973ChZH. |a(exp) values are from       
+220FR2cG 1973ChZH. |g and the ce spectra were normalized through the 261|g (M1) 
+220FR3cG with |a(K)=0.83 and |a(L)=0.15                                         
+220FR cG E(F),M(F)$From 1992Li31. Not listed in the |g-ray table or shown in the
+220FR2cG |g-ray or ce spectra; however, |g ray is shown in the level scheme. E|g
+220FR3cG and multipolarity probably have been deduced from the level scheme.    
+220FR cG E(K)$|g ray placed from the 55.8-keV level in 1992Li31; however, the   
+220FR2cG transition intensity indicates a slight imbalance at this level. The   
+220FR3cG energy of the |g ray fits also from the 48.4-keV level, and this second
+220FR4cG placement would improve the intensity balance at both levels.          
+220FR cG RI(H)$I|g deduced from |a|g coin. In singles spectrum |g ray mixed or  
+220FR2cG masked by K| x rays or other |g rays of about the same energy from     
+220FR3cG daughter nuclei.                                                       
+220FR cG M(B)$From transition-intensity balance in level scheme. With any other 
+220FR2cG multipolarity, I(|g+ce) would be larger than total feeding from |a     
+220FR3cG decay to levels above this level.                                      
+220FR cG M(G)$Deduced from internal conversion data (not given) (1992Li31). In  
+220FR2cG some cases additional conversion data from other sources are given.    
+220FR cG M(J)$From transition-intensity balance in level scheme. Based on the   
+220FR2cG criterion that |SI(|g+ce) de-exciting the level cannot exceed |SI|a    
+220FR3cG populating levels with higher energy. From the level scheme the 55.3|g 
+220FR4cG ray and 81.5|g ray from the 355.2-keV level must have the same mixing  
+220FR5cG ratio |D|p, therefore, from transition-intensity balance both must have
+220FR6cG E1 multipolarity.                                                      
+220FR cG M(M)$The M1(e-) multipolarity given in table 1 in 1992Li31 for the     
+220FR2cG 271.5|g ray is a misprint, the multipolarity belongs to the next |g    
+220FR3cG ray, the 273.7|g ray. (Priv. comm. from first author in 1992Li31).     
+220FR cG TI(L)$|g ray not seen; transition intensity estimated from             
+220FR2cG transition-intensity balance, assuming no |a-decay feeding to          
+220FR3cG natural-parity levels from 0- parent                                   
+220FR cL E$From a least squares fit to E|g data. Band assignments are from      
+220FR2cL 1992Li31. They suggest that the bands with K|p=1|+ and K|p=2|+ form two
+220FR3cL sets of parity doublets.                                               
+220FR cL J$From Adopted Levels                                                  
+220FR CL BAND(A)$K|p=1+ g.s. rotational band                                    
+220FR CL BAND(B)$K|p=1- band                                                    
+220FR CL BAND(C)$Possible K|p=2+ band                                           
+220FR CL BAND(D)$Possible K|p=2- band                                           
+220FR CL BAND(E)$Possible K|p=0- band                                           
+224AC  P 0.0         0-                2.78 H    20             6326.9     7    
+224AC cP J$From {+224}Ac Adopted Levels (ENSDF May 2022)                        
+224AC cP T$weighted average of 2.55 h {I28} (1987Mi10) and 2.9 h {I2}           
+224AC2cP (1951Me10). Recommended uncertainty should generally be no smaller than
+224AC3cP the smallest measured uncertainty among the experimental half-lives.   
+224AC cP QP$From 2021Wa16                                                       
+220FR  N 0.1         0.1       0.095   17                                       
+220FR cN BR$9.1% {I+20-14} from Adopted Levels (ENSDF May 2022) was symmetrized 
+220FR2cN to 9.5% {I17} using NUBASE2020 method.                                 
+220FR PN                                                                     2  
+220FR  G 44.5      2   0.3   1                                                  
+220FR2 G %IG=0.0029 11                                                          
+220FR  G 46.0      2   0.3   1                                                  
+220FR2 G %IG=0.0029 11                                                          
+220FR  G 70.9      2   0.8   2                                                  
+220FR2 G %IG=0.0076 24                                                          
+220FR  G 116.5     5   0.3   2                                                  
+220FR2 G %IG=0.0029 20                                                          
+220FR  G 122.3     5   0.4   2                                                  
+220FR2 G %IG=0.0038 20                                                          
+220FR  G 123.3     5   0.4   2                                                  
+220FR2 G %IG=0.0038 20                                                          
+220FR  G 126.7     4   0.5   2                                                  
+220FR2 G %IG=0.0048 21                                                          
+220FR  G 170.2     5   0.4   AP                                                 
+220FR2 G %IG AP 0.0038                                                          
+220FR  G 210.0     5   0.2   AP                                                 
+220FR2 G %IG AP 0.0019                                                          
+220FR  G 211.5     5   0.2   AP                                                 
+220FR2 G %IG AP 0.0019                                                          
+220FR  G 291.2     5   0.3   1                                                  
+220FR2 G %IG=0.0029 11                                                          
+220FR  G 376.5         0.3   1                                                  
+220FR2 G %IG=0.0029 11                                                          
+220FR  G 382.3         0.5   2                                                  
+220FR2 G %IG=0.0048 21                                                          
+220FR  G 409.8         0.3   AP                                                 
+220FR2 G %IG AP 0.0029                                                          
+220FR  G 415.8         0.3   AP                                                 
+220FR2 G %IG AP 0.0029                                                          
+220FR  G 424.4         0.3   AP                                                 
+220FR2 G %IG AP 0.0029                                                          
+220FR  L 0.0           1+                                                   A   
+220FR  A 6213.8    7  20.4     171                                              
+220FR cA IA$other: 25 {I4} from 100-|SI|a(decay to excited levels) based on     
+220FR2cA |g+ce intensity balance                                                
+220FR  L 6.92      5   (3)+                                                 C   
+220FR  A 6207.0    7  11.9     273                                              
+220FR  G 6.9                                                     212      30   S
+220FR cG TI$from |g+ce intensity balance and I|a=11.9 {I28} per 100 |a decays   
+220FR2cG from 1968Le17                                                          
+220FR  L 12.37     5   2+                                                   C   
+220FR  A 6202         0.4    LT 6205   GT                                      ?
+220FR cA IA$Not seen. Upper limit given by 1969LeZW.                            
+220FR  G 12.4                                                    162      13L  S
+220FR  L 19.89     10  (4)+                                                 C   
+220FR  G 13.0                                                    33       7 L  S
+220FR  L 48.38     4   2+                                                   A   
+220FR  A 6166         0.1    LT 1.7E4  GT                                      ?
+220FR cA IA$Not seen. Upper limit given by 1969LeZW                             
+220FR  G 35.9      1  0.3    2 [M1]                    56.5    9            @   
+220FR2 G FLAG=K                                                                 
+220FRS G  LC=42.9 7$MC=10.24 17                                                 
+220FRS G  NC=2.69 4$OC=0.601 10$PC=0.0963 16$QC=0.00540 9                       
+220FR2 G %IG=0.0029 20                                                          
+220FR  G 41.5      1   0.4   1 [M1]                    36.9    6                
+220FRS G  LC=28.0 4$MC=6.68 10                                                  
+220FRS G  NC=1.751 28$OC=0.392 6$PC=0.0628 10$QC=0.00352 6                      
+220FR2 G %IG=0.0038 12                                                          
+220FR cG $|g ray unplaced in 1992Li31; placement suggested by evaluators based  
+220FR2cG on |g-ray energy and intensity balance                                 
+220FR  G 48.40     5   6.5   5 M1                      23.45  34            G   
+220FRS G  LC=17.80 25$MC=4.24 6                                                 
+220FRS G  NC=1.113 16$OC=0.249 4$PC=0.0399 6$QC=0.002235 32                     
+220FR2 G %IG=0.062 12                                                           
+220FR  L 55.83     13  (5+)                                                 C   
+220FR  A 6158.9     7 1.03     1915                                             
+220FR cA IA$other: 0.9 {I6}, from |g-ray transition-intensity balance.          
+220FR  G 35.9      1   0.2   1 [M1]                    56.5    9            @   
+220FR2 G FLAG=K                                                                 
+220FRS G  LC=42.9 7$MC=10.24 17                                                 
+220FRS G  NC=2.69 4$OC=0.601 10$PC=0.0963 16$QC=0.00540 9                       
+220FR2 G %IG=0.0019 10                                                          
+220FR  L 72.99     5   (3)+                                                 A   
+220FR  A 6141.7    7  25.6     65                                               
+220FR cA IA$other: 26 {I2}, from |g-ray transition-intensity balance.           
+220FR  G 24.6        1.0     1 [M1]                    172.6  24 181      11    
+220FRS G  L/T=0.754 7$M/T=0.1807 32                                             
+220FRS G  N/T=0.0474 9$O/T=0.01059 21$P/T=0.001699 34$Q/T=9.52E-5 19            
+220FRS G  LC=130.8 18$MC=31.4 4                                                 
+220FRS G  NC=8.23 12$OC=1.839 26$PC=0.295 4$QC=0.01652 23                       
+220FR2 G %IG=0.0095 20                                                          
+220FR cG $ce(M) and ce(N) lines seen in ce spectrum. |g ray marked M1 in level  
+220FR2cG scheme (1992Li31)                                                      
+220FR cG TI$from |g-ray transition-intensity balance at the 73.0 level.         
+220FR cG RI$from I(|g+ce)=181 {I11} and |a[M1]=172.6.                           
+220FR  G 53.1      1  1.0    2 [M1]                    17.86  27                
+220FRS G  LC=13.56 20$MC=3.23 5                                                 
+220FRS G  NC=0.848 13$OC=0.1895 29$PC=0.0304 5$QC=0.001702 26                   
+220FR2 G %IG=0.0095 26                                                          
+220FR  G 60.67     5   4.6   2 M1                      12.08  17            G   
+220FRS G  LC=9.17 13$MC=2.187 31                                                
+220FRS G  NC=0.574 8$OC=0.1282 18$PC=0.02057 29$QC=0.001151 16                  
+220FR2 G %IG=0.044 8                                                            
+220FR  G 66.0      1   2.3   4 [M1]                    9.44   14                
+220FRS G  LC=7.17 11$MC=1.709 25                                                
+220FRS G  NC=0.448 7$OC=0.1002 15$PC=0.01608 24$QC=0.000899 13                  
+220FR2 G %IG=0.022 6                                                            
+220FR  G 72.9      1   0.5   2 (E2)                    39.1    6            @   
+220FRS G  LC=28.8 4$MC=7.79 12                                                  
+220FRS G  NC=2.041 32$OC=0.422 7$PC=0.0541 8$QC=9.97E-5 15                      
+220FR2 G %IG=0.0048 21                                                          
+220FR cG M$Stated as E2 in 1973ChZH, based on |a|g results, but no further      
+220FR2cG details are given (1966BrZX).                                          
+220FR  L 127.31    10  (4+)                                                 A   
+220FR  G 54.3      1   0.7   1 [M1]                    16.72  25                
+220FRS G  LC=12.70 19$MC=3.03 5                                                 
+220FRS G  NC=0.794 12$OC=0.1775 27$PC=0.0285 4$QC=0.001594 24                   
+220FR2 G %IG=0.0067 15                                                          
+220FR  L 140.72    5   1-                                                   B   
+220FR  G 92.34     5   5.2   5 [E1]                    0.1323 19                
+220FRS G  LC=0.1004 14$MC=0.02415 34                                            
+220FRS G  NC=0.00623 9$OC=0.001324 19$PC=0.0001873 26$QC=6.65E-6 9              
+220FR2 G %IG=0.049 10                                                           
+220FR  G 128.4     3   8.1   20E1                      0.258   4                
+220FRS G  KC=0.2027 31$LC=0.0420 6$MC=0.01007 15                                
+220FRS G  NC=0.00260 4$OC=0.000559 9$PC=8.13E-5 12$QC=3.16E-6 5                 
+220FR2 G %IG=0.077 24                                                           
+220FR cG M$|a(L)exp<0.14 (1973ChZH); theory: |a(L)(E1)=0.0425, |a(L)(E2)=2.06,  
+220FR2cG |a(L)(M1)=1.10                                                         
+220FR  G 140.7     1  35.6   30E1                      0.2065 29            G   
+220FRS G  KC=0.1630 23$LC=0.0331 5$MC=0.00792 11                                
+220FRS G  NC=0.002050 29$OC=0.000441 6$PC=6.46E-5 9$QC=2.57E-6 4                
+220FR2 G %IG=0.34 7                                                             
+220FR cG M$|a(L)exp<0.15 (1973ChZH); theory: |a(L)(E1)=0.0334, |a(L)(E2)=1.36,  
+220FR2cG |a(L)(M1)=0.844                                                        
+220FR  L 156.82    4   2-                                                   B   
+220FR  A 6059.8    7  21.9     32                                               
+220FR cA IA$other: 22 {I1}, from |g-ray transition-intensity balance.           
+220FR  G 16          0.31    12[M1]                    159       50       6 F  S
+220FRS G MC=119                                                                 
+220FR2 G %IG=0.0030 13                                                          
+220FR cG TI$Deduced from transition-intensity balance at the 140.7-keV level;   
+220FR2cG I|g from I(|g+ce)=59 {I5} and |a[M1]=159 {I59}                         
+220FR  G 83.9      2  18.0   10E1                      0.1707 26            G   
+220FR2 G FLAG=H                                                                 
+220FRS G  LC=0.1295 20$MC=0.0312 5                                              
+220FRS G  NC=0.00804 12$OC=0.001703 26$PC=0.000239 4$QC=8.23E-6 12              
+220FR2 G %IG=0.171 32                                                           
+220FR  G 108.43    5   10.5  10E1                      0.387   5                
+220FRS G  KC=0.301 4$LC=0.0656 9$MC=0.01574 22                                  
+220FRS G  NC=0.00407 6$OC=0.000869 12$PC=0.0001247 18$QC=4.63E-6 7              
+220FR2 G %IG=0.100 20                                                           
+220FR cG M$|a(L)exp<0.65 (1973ChZH); theory: |a(L)(E1)=0.0663, |a(L)(E2)=4.49,  
+220FR2cG |a(L)(M1)=1.78                                                         
+220FR  G 144.44    5   22.5  20E1                      0.1938 27            G   
+220FRS G  KC=0.1531 21$LC=0.0309 4$MC=0.00739 10                                
+220FRS G  NC=0.001915 27$OC=0.000413 6$PC=6.05E-5 8$QC=2.422E-6 34              
+220FR2 G %IG=0.21 4                                                             
+220FR cG M$|a(L)exp<0.42 (1973ChZH); theory: |a(L)(E1)=0.0312, |a(L)(E2)=1.21,  
+220FR2cG |a(L)(M1)=0.783                                                        
+220FR  G 149.90    5   12.5  20E1                      0.1770 25                
+220FRS G  KC=0.1401 20$LC=0.0281 4$MC=0.00671 9                                 
+220FRS G  NC=0.001739 24$OC=0.000375 5$PC=5.51E-5 8$QC=2.228E-6 31              
+220FR2 G %IG=0.119 29                                                           
+220FR cG M$|a(L)exp<0.061 (1973ChZH); theory: |a(L)(E1)=0.0284, |a(L)(E2)=1.03, 
+220FR2cG |a(L)(M1)=0.704                                                        
+220FR  G 156.82    5   81    5 E1                      0.1586 22            G   
+220FRS G  KC=0.1257 18$LC=0.02497 35$MC=0.00597 8                               
+220FRS G  NC=0.001547 22$OC=0.000334 5$PC=4.93E-5 7$QC=2.012E-6 28              
+220FR2 G %IG=0.77 15                                                            
+220FR cG RI$other: I|g/10|*10{+3} |a's=53 (1969Le07)                            
+220FR cG M$|a(L)exp<0.057 (1973ChZH); theory: |a(L)(E1)=0.0252, |a(L)(E2)=0.841,
+220FR2cG |a(L)(M1)=0.619                                                        
+220FR  L 177.18    8   (3)-                                                 B   
+220FR  G 20.4                  [M1]                    299     4            F  S
+220FRS G  LC=226.0 32$MC=54.7 8                                                 
+220FRS G  NC=14.34 20$OC=3.21 4$PC=0.514 7$QC=0.0288 4                          
+220FR  G 49.8      2   0.4   1 [E1]                    0.689  12                
+220FRS G  LC=0.522 9$MC=0.1272 23                                               
+220FRS G  NC=0.0326 6$OC=0.00674 12$PC=0.000887 15$QC=2.57E-5 4                 
+220FR2 G %IG=0.0038 12                                                          
+220FR  G 104.4     2   1.3   3 [E1]                    0.422   6                
+220FRS G  KC=0.327 5$LC=0.0725 11$MC=0.01741 26                                 
+220FRS G  NC=0.00450 7$OC=0.000959 14$PC=0.0001372 20$QC=5.04E-6 7              
+220FR2 G %IG=0.012 4                                                            
+220FR  G 128.9     3   3.6   10[E1]                    0.256   4                
+220FRS G  KC=0.2009 30$LC=0.0416 6$MC=0.00996 15                                
+220FRS G  NC=0.00258 4$OC=0.000554 8$PC=8.05E-5 12$QC=3.13E-6 5                 
+220FR2 G %IG=0.034 11                                                           
+220FR  G 164.8     1   5.0   10E1                      0.1406 20                
+220FRS G  KC=0.1117 16$LC=0.02197 31$MC=0.00525 7                               
+220FRS G  NC=0.001361 19$OC=0.000294 4$PC=4.35E-5 6$QC=1.799E-6 25              
+220FR2 G %IG=0.048 13                                                           
+220FR cG M$|a(L)exp<0.42 (1973ChZH); theory: |a(L)(E1)=0.0222, |a(L)(E2)=0.675, 
+220FR2cG |a(L)(M1)=0.538                                                        
+220FR  L 200.21    14  (5+)                                                 A   
+220FR  A 6017.6    14 1.4      313                                              
+220FR cA IA$other: 1.1 {I3}, from |g-ray transition-intensity balance.          
+220FR  G 72.9      1   1.4   3 [M1]                    7.06   10            @   
+220FRS G  LC=5.36 8$MC=1.278 19                                                 
+220FRS G  NC=0.335 5$OC=0.0749 11$PC=0.01202 18$QC=0.000673 10                  
+220FR2 G %IG=0.013 4                                                            
+220FR  L 214.43    8   (4)-                                                 B   
+220FR  A 6003.6    14 6.7      56                                               
+220FR cA IA$other: 5.0 {I6}, from |g-ray transition-intensity balance.          
+220FR  G 37.3      1   0.6   1 [M1]                    50.5    8                
+220FRS G  LC=38.3 6$MC=9.15 15                                                  
+220FRS G  NC=2.40 4$OC=0.536 9$PC=0.0860 14$QC=0.00482 8                        
+220FR2 G %IG=0.0057 14                                                          
+220FR cG M$E2 ruled out by intensity balance in the level scheme                
+220FR  G 141.4     1  10.6   20[E1]                    0.2041 29                
+220FRS G  KC=0.1611 23$LC=0.0327 5$MC=0.00782 11                                
+220FRS G  NC=0.002024 29$OC=0.000436 6$PC=6.38E-5 9$QC=2.54E-6 4                
+220FR2 G %IG=0.101 26                                                           
+220FR  G 158.5     2   1.6   4 [E1]                    0.1546 22                
+220FRS G  KC=0.1226 18$LC=0.02429 35$MC=0.00581 8                               
+220FRS G  NC=0.001505 22$OC=0.000325 5$PC=4.80E-5 7$QC=1.964E-6 28              
+220FR2 G %IG=0.015 5                                                            
+220FR  G 194.5     3   0.7   2 E1                      0.0942 14                
+220FRS G  KC=0.0753 11$LC=0.01441 21$MC=0.00344 5                               
+220FRS G  NC=0.000892 13$OC=0.0001936 28$PC=2.89E-5 4$QC=1.240E-6 18            
+220FR2 G %IG=0.0067 23                                                          
+220FR cG M$|a(K)exp<2.9, |a(L)exp<0.15 (1973ChZH); theory: E1: |a(K)=0.0759,    
+220FR2cG |a(L)=0.0145; E2: |a(K)=0.175, |a(L)=0.329; M1: |a(K)=1.84, |a(L)=0.336
+220FR  G 207.6     2   3.6   10E1                      0.0806 11                
+220FRS G  KC=0.0645 9$LC=0.01223 17$MC=0.00291 4                                
+220FRS G  NC=0.000757 11$OC=0.0001645 23$PC=2.466E-5 35$QC=1.072E-6 15          
+220FR2 G %IG=0.034 11                                                           
+220FR cG M$|a(K)exp<0.62, |a(L)exp<0.03 (1973ChZH); theory: E1: |a(K)=0.0650,   
+220FR2cG |a(L)=0.0123; E2: |a(K)=0.154, |a(L)=0.249; M1: |a(K)=1.54, |a(L)=0.280
+220FR  L 246.8     10                                                           
+220FR cL E$1968Le17, 1992Li31 give E(level)=237; this is a misprint, it should  
+220FR2cL read 247 (priv. comm. from first author)                               
+220FR  A 5971.5    14 0.2      1330                                             
+220FR  L 257.0     15                                                           
+220FR  A 5961.5    20 0.04   AP 5960   AP                                       
+220FR  L 273.64    11  1+                                                       
+220FR  A 5945.6    14 4.4      45                                               
+220FR cA IA$other: 3.4 {I4}, from |g-ray transition-intensity balance.          
+220FR  G 225.3     2   3.2   10M1                      1.438  20            G   
+220FRS G  KC=1.160 16$LC=0.2113 30$MC=0.0503 7                                  
+220FRS G  NC=0.01319 19$OC=0.00295 4$PC=0.000473 7$QC=2.64E-5 4                 
+220FR2 G %IG=0.030 11                                                           
+220FR cG M$|a(K)exp=1.4, K/L=10 (1973ChZH); theory: E1: |a(K)=0.0537, K/L=5.34; 
+220FR2cG E2: |a(K)=0.129, K/L=0.73; M1: |a(K)=1.22, K/L=5.48                    
+220FR  G 261.3     2  19.0   15M1                      0.953  13            G   
+220FRS G  KC=0.769 11$LC=0.1397 20$MC=0.0332 5                                  
+220FRS G  NC=0.00872 12$OC=0.001948 28$PC=0.000313 4$QC=1.744E-5 25             
+220FR2 G %IG=0.18 4                                                             
+220FR cG M$|a(K)exp=1.06 {I25} from (K| x ray)(|a)/|a|g (1966BrZX), K/L=4.9     
+220FR2cG (1973ChZH); theory: E1: |a(K)=0.0380, K/L=5.45; E2: |a(K)=0.095,       
+220FR3cG K/L=0.98; M1: |a(K)=0.808, K/L=5.48                                    
+220FR  G 273.7     4   1.1   3 M1                      0.838  12            G   
+220FR2 G FLAG=M                                                                 
+220FRS G  KC=0.676 10$LC=0.1228 18$MC=0.0292 4                                  
+220FRS G  NC=0.00766 11$OC=0.001713 25$PC=0.000275 4$QC=1.533E-5 22             
+220FR2 G %IG=0.0105 34                                                          
+220FR cG M$|a(K)exp|<1.13 (1973ChZH); theory: |a(K)(E2)=0.0859, |a(K)(M1)=0.711 
+220FR  L 276.03    19                                                       D   
+220FR  G 263.1     5   1.3   4                                                 ?
+220FR2 G %IG=0.012 5                                                            
+220FR  L 290.81    26 (5-)                                                  B   
+220FR  G 163.3     5   0.5   AP[E1]                    0.1438 23                
+220FRS G  KC=0.1141 18$LC=0.0225 4$MC=0.00538 9                                 
+220FRS G  NC=0.001394 22$OC=0.000301 5$PC=4.45E-5 7$QC=1.836E-6 29              
+220FR2 G %IG AP 0.0048                                                          
+220FR  G 271.5     4   1.0   3 [E1]                    0.0430  6            M   
+220FRS G  KC=0.0346 5$LC=0.00632 9$MC=0.001503 22                               
+220FRS G  NC=0.000391 6$OC=8.54E-5 12$PC=1.298E-5 19$QC=5.95E-7 9               
+220FR2 G %IG=0.0095 33                                                          
+220FR  L 299.91    15  (1)+                                                     
+220FR  A 5919.6    14 0.94     159                                              
+220FR cA IA$other: 0.7 {I2}, from |g-ray transition-intensity balance.          
+220FR  G 251.6     3   2.6   7 M1                      1.058  15            G   
+220FRS G  KC=0.853 12$LC=0.1552 22$MC=0.0369 5                                  
+220FRS G  NC=0.00969 14$OC=0.002165 31$PC=0.000347 5$QC=1.938E-5 28             
+220FR2 G %IG=0.025 8                                                            
+220FR cG M$|a(K)exp=0.85, |a(L)exp<0.24 (1973ChZH): theory: E2: |a(K)=0.103,    
+220FR2cG |a(L)=0.113; M1: |a(K)=0.90, |a(L)=0.164                               
+220FR  G 287.6     5   0.7   3 [M1,E2]                 0.45   28            H   
+220FRS G  KC=0.33 26$LC=0.086 21$MC=0.021 4                                     
+220FRS G  NC=0.0056 11$OC=0.00122 27$PC=1.8E-4 5$QC=8.E-6 6                     
+220FR2 G %IG=0.0067 31                                                          
+220FR  G 300.0     3   1.7   4 (M1)                    0.651   9                
+220FRS G  KC=0.525 7$LC=0.0952 14$MC=0.02266 32                                 
+220FRS G  NC=0.00594 8$OC=0.001328 19$PC=0.0002131 30$QC=1.189E-5 17            
+220FR2 G %IG=0.016 5                                                            
+220FR cG M$|a(K)exp|<1.65, |a(L)exp=0.09 (1973ChZH); theory: E2: |a(K)=0.0706,  
+220FR2cG |a(L)=0.0565; M1: |a(K)=0.553, |a(L)=0.100                             
+220FR  L 306.9     15                                                           
+220FR  A 5912.5    20 0.15     925                                              
+220FR  L 314.8     4                                                        D   
+220FR  A 5905.4    14 0.15     848                                              
+220FR cA IA$other: 0.07 {I3}, from |g-ray transition-intensity balance          
+220FR  G 114.7     5   0.3   2 [E1]                    0.339   6                
+220FRS G  KC=0.265 5$LC=0.0565 10$MC=0.01356 25                                 
+220FRS G  NC=0.00350 6$OC=0.000750 14$PC=0.0001081 19$QC=4.08E-6 7              
+220FR2 G %IG=0.0029 20                                                          
+220FR cG M$assumed by the evaluators for calculating intensity balance          
+220FR  G 258.8     5   0.3   AP[E1]                    0.0480  7                
+220FRS G  KC=0.0386 6$LC=0.00710 10$MC=0.001688 25                              
+220FRS G  NC=0.000439 6$OC=9.58E-5 14$PC=1.453E-5 21$QC=6.60E-7 10              
+220FR2 G %IG AP 0.0029                                                          
+220FR cG M$assumed by the evaluators for calculating intensity balance          
+220FR cG $|g seen only in |a|g coin                                             
+220FR  L 340.25    11  (0)-                                                 E   
+220FR  A 5880.3    14 1.7      57                                               
+220FR cA IA$other: 1.9 {I3}, from |g-ray transition-intensity balance.          
+220FR  G 40.4      3   0.5   2 (E1)                    1.206  30            J   
+220FR2 G FLAG=H                                                                 
+220FRS G  LC=0.912 22$MC=0.224 6                                                
+220FRS G  NC=0.0571 14$OC=0.01167 28$PC=0.001487 34$QC=3.99E-5 8                
+220FR2 G %IG=0.0048 21                                                          
+220FR  G 66.6      1   6.0   5 E1                      0.316   5            B   
+220FRS G  LC=0.2399 35$MC=0.0581 8                                              
+220FRS G  NC=0.01492 22$OC=0.00313 5$PC=0.000428 6$QC=1.371E-5 20               
+220FR2 G %IG=0.057 11                                                           
+220FR  G 199.5     2   3.0   10M1                      2.021  29            G   
+220FRS G  KC=1.629 23$LC=0.297 4$MC=0.0708 10                                   
+220FRS G  NC=0.01857 27$OC=0.00415 6$PC=0.000666 10$QC=3.72E-5 5                
+220FR2 G %IG=0.029 11                                                           
+220FR cG M$|a(K)exp=2, |a(L)exp<0.4 (1973ChZH); theory: E2: |a(K)=0.167,        
+220FR2cG |a(L)=0.295; M1: |a(K)=1.72, |a(L)=0.313                               
+220FR  G 340.3     3   0.5   2 [E1]                    0.0258  4                
+220FRS G  KC=0.02092 30$LC=0.00371 5$MC=0.000880 12                             
+220FRS G  NC=0.0002289 32$OC=5.02E-5 7$PC=7.72E-6 11$QC=3.68E-7 5               
+220FR2 G %IG=0.0048 21                                                          
+220FR  L 347.89    32                                                           
+220FR  A 5871.0    10 0.1      884                                              
+220FR cA IA$other: 0.05 {I5}, from |g-ray transition-intensity balance.         
+220FR  G 328.0     3   0.7   3                                              &   
+220FR2 G FLAG=H                                                                 
+220FR2 G %IG=0.0067 31                                                          
+220FR  L 355.14    19  (0-,2-)                                                  
+220FR  A 5864.0    14 0.75     109                                              
+220FR cA IA$other: 1.4 {I8}, from |g-ray transition-intensity balance.          
+220FR  G 55.3      2   0.4   1 (E1)                    0.521   9            J   
+220FRS G  LC=0.394 7$MC=0.0959 16                                               
+220FRS G  NC=0.0246 4$OC=0.00511 9$PC=0.000683 11$QC=2.053E-5 33                
+220FR2 G %IG=0.0038 12                                                          
+220FR  G 79.10     5   2.8   3 [M1,E1]                 2.9    27                
+220FR2 G FLAG=H                                                                 
+220FRS G  LC=2.2 20$MC=0.5 5                                                    
+220FRS G  NC=0.14 13$OC=0.031 29$PC=0.005 5$QC=2.7E-4 26                        
+220FR2 G %IG=0.027 6                                                            
+220FR  G 81.5      3   2.1   2 (E1)                    0.1845 32            J   
+220FR2 G FLAG=H                                                                 
+220FRS G  LC=0.1399 24$MC=0.0337 6                                              
+220FRS G  NC=0.00869 15$OC=0.001839 31$PC=0.000257 4$QC=8.78E-6 14              
+220FR2 G %IG=0.020 4                                                            
+220FR  G 228                                                                   ?
+220FR cG $|g ray shown only in level scheme of 1992Li31                         
+220FR  L 361.04    32                                                           
+220FR  A 5857.7    20 0.25     306                                              
+220FR cA IA$other: 0.13 {I5}, |g-ray transition-intensity balance.              
+220FR  G 87.4      3   1.3   5                                                  
+220FR2 G %IG=0.012 5                                                            
+220FR  L 364.15    23  3+,4-                                                    
+220FR  A 5854.6    25 0.07   AP 1060   AP                                       
+220FR cA IA$other: 0.15 {I4}, from |g-ray transition-intensity balance.         
+220FR  G 73.6      3   0.6   3                                                  
+220FR2 G %IG=0.0057 30                                                          
+220FR  G 186.8     3   0.6   2                                                  
+220FR2 G %IG=0.0057 22                                                          
+220FR  G 357.0     5   0.3   AP                                                 
+220FR2 G %IG AP 0.0029                                                          
+220FR  L 376.49    19  (2-)                                                 E   
+220FR  A 5844.5     7 0.55     117                                              
+220FR cA IA$other: 0.32 {I7}, from |g-ray transition-intensity balance.         
+220FR  G 103.1     4   0.4   AP[E1]                    0.433   7            H   
+220FRS G  KC=0.335 5$LC=0.0749 13$MC=0.01800 31                                 
+220FRS G  NC=0.00465 8$OC=0.000991 17$PC=0.0001416 24$QC=5.19E-6 9              
+220FR2 G %IG AP 0.0038                                                          
+220FR  G 328.0     3   0.7   3 [E1]                    0.0280  4            &   
+220FR2 G FLAG=H                                                                 
+220FRS G  KC=0.02268 32$LC=0.00404 6$MC=0.000959 14                             
+220FRS G  NC=0.0002494 35$OC=5.47E-5 8$PC=8.39E-6 12$QC=3.98E-7 6               
+220FR2 G %IG=0.0067 31                                                          
+220FR  G 364.1     3   2.1   3 [E1]                    0.0222431                
+220FRS G  KC=0.01806 25$LC=0.00318 4$MC=0.000753 11                             
+220FRS G  NC=0.0001960 28$OC=4.31E-5 6$PC=6.63E-6 9$QC=3.20E-7 5                
+220FR2 G %IG=0.020 5                                                            
+220FR cG M$|a(K)exp|<0.47 (1973ChZH); theory: |a(K)(E1)=0.0181,                 
+220FR2cG |a(K)(E2)=0.0469, |a(K)(M1)=0.326                                      
+220FR  L 380.1     10                                                           
+220FR  A 5840.6    15 0.26     238                                              
+220FR  L 414.6     20                                                           
+220FR  A 5806.7    25 0.02   AP 2100   AP                                       
+220FR  L 442.2     15                                                           
+220FR  A 5779.8    20 0.06     514                                              
+220FR  L 452.5     4                                                        E   
+220FR cL J$alternate assignment J|p=(5+) (1992Li31)                             
+220FR  A 5771.8    20 0.24     114                                              
+220FR  G 97.3                                                                  ?
+220FR cG $|g shown only in level scheme of 1992Li31                             
+220FR  L 479.6     20                                                           
+220FR  A 5742.8    25 0.05   AP 400    AP                                       
+220FR  L 501.13    31                                                           
+220FR  A 5721.8    20 0.12     131                                              
+220FR cA IA$other: 0.12 {I4}, from |g-ray transition-intensity balance.         
+220FR  G 48.6                                                                  ?
+220FR cG $|g shown only in level scheme of 1992Li31                             
+220FR  G 201.1     4   0.6   3                                                  
+220FR2 G %IG=0.0057 30                                                          
+220FR  G 227.7     5   0.6   2                                                  
+220FR2 G %IG=0.0057 22                                                          
+220FR  L 511.1     5                                                            
+220FR  A 5712.8    20 0.12     117                                              
+220FR cA IA$other: 0.4 {I2}, from |g-ray transition-intensity balance.          
+220FR  G 491.2         0.4   AP                                                 
+220FR2 G %IG AP 0.0038                                                          
+220FR  L 579.9     20                                                           
+220FR  A 5644.3    25 0.06     105                                              

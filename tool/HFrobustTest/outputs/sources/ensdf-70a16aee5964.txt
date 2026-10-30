@@ -1,0 +1,38 @@
+231NP    235AM A DECAY (10.3 M)        2004AS12,2004SA05         22NDS    202210
+231NP  H TYP=FUL$AUT=Balraj Singh, Jagdish K. Tuli, and Edgardo Browne$         
+231NP2 H CIT=NDS 185, 560 (2022)$CUT=31-Aug-2022$                               
+231NP c  2004As12, 2004Sa05 (also 2003Na10): {+235}Am isotope was produced in   
+231NP2c  {+233}U({+6}Li,4n) reaction at E=34-42 MeV. Reaction products were     
+231NP3c  stopped in He gas loaded with PbI{-2} clusters, and transported into   
+231NP4c  an ion source of ISOL by gas-jet stream. Products were mass separated. 
+231NP5c  Measured E|a, I|a, |g|a coin with a Si PIN photodiode detector         
+231NP6c  contained in a thin vacuum chamber with separate Be and Al windows.    
+231NP7c  Positioned behind the Be window was a short coaxial Ge detector (ORTEC 
+231NP8c  LOAX) to detect low-energy |g-rays, while an n-type Ge detector        
+231NP9c  was placed behind the Al window which detected |g-rays from            
+231NPAc  implanted nuclei through the Si wafer of the PIN detector              
+231NP c  Evaluator's note about the decay scheme: except for energy of one |a   
+231NP2c  transition, no other  spectral information is available in literature  
+231NP cA HF$The nuclear radius parameter r{-0}({+231}Np)=1.495 {I30},           
+231NP2cA estimated by evaluators based on systematic trend of r{-0} values      
+231NP3cA for U and Pu in 2020Si16                                               
+235AM  P 0             5/2-             10.3 M   6              6576      13    
+235AM cP QP$From 2021Wa16                                                       
+235AM cP T$From {+235}Am Adopted Levels in the ENSDF database (Feb 2014         
+235AM2cP update); no new reference since then for {+235}Am T{-1/2} or J|p.      
+235AM3cP Configuration=|p5/2[523] (2004As12)                                    
+231NP  N                        0.0040 5                                        
+231NP cN BR$%|a=0.40 {I5} for {+235}Am |a decay from Pu K| x-ray and |a         
+231NP2cN particles measured simultaneously in a known geometry using calibrated 
+231NP3cN detectors (2004Sa05,2000SaZO).                                         
+231NP  L 0           (5/2-)                                                     
+231NP cL E$this level is assigned as the ground state, although, the possibility
+231NP2cL of 6457|a feeding a low-lying level cannot be ruled out. 2004As12 set  
+231NP3cL an upper limit of 15 keV for this level energy based upon detection    
+231NP4cL efficiency for low-energy |g-rays and internal conversion coefficient  
+231NP5cL for a corresponding E1 |g-ray transition.                              
+231NP  A 6457      12           1.2                                             
+231NP cA E$this |a-transition feeds either the ground state or a                
+231NP2cA low-lying state depopulated by |g transitions with E1 multipolarity    
+231NP3cA and large internal conversion coefficients, as no |g-rays              
+231NP4cA were observed in coincidence with the |a particles                     

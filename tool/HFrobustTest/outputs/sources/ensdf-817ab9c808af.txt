@@ -1,0 +1,180 @@
+252NO    ADOPTED LEVELS, GAMMAS                                  21NDS    202103
+252NO  H TYP=FUL$AUT=A.M. MATTERA, S. ZHU, A.B. HAYES, E.A. MCCUTCHAN$          
+252NO2 H CIT=NDS 172, 543 (2021)$CUT=1-Jan-2021$                                
+252NO  Q -5866     SY 8049   SY 3384   21 8549    5    2017WA10                 
+252NO cQ $|DQ(|b{+-})=238, |DS(n)=115 (2017Wa10)                                
+252NO c  2001Ma74: A 26 d {i7}, E{-|a}=5.53 MeV {i4} transition has been        
+252NO2c  observed in Lr-No fraction in 24-GeV p on W at CERN. Assignment to     
+252NO3c  {+252}No or {+254}Lr isomer is suggested. Calculations for various     
+252NO4c  scenarios for such transitions are given.                              
+252NO cL E$From a least-square fit to E|g data, assuming 1 keV uncertainty      
+252NO2cL where none was available.                                              
+252NO cL E$From {+206}Pb({+48}Ca,2n|g).                                         
+252NO cL J$from band assignment.                                                
+252NO CL BAND(A)$GS BAND.                                                       
+252NO CL BAND(B)$Possible octupole band                                         
+252NO cG RI,E$From {+206}Pb({+48}Ca,2n|g).                                      
+252NO cG M(D)$From comparison of expected and observed transition intensities   
+252NO2cG in the band.                                                           
+252NO CL BAND(H)$|n7/2[624]~#|n9/2[734],|a=0 (2012Su22).                        
+252NO2cL Configuration=|p9/2[624]~#|p7/2[514] ruled out from consideration of   
+252NO3cL g{-K} value.                                                           
+252NO CL BAND(h)$|n7/2[624]~#|n9/2[734],|a=1 (2012Su22)                         
+252NO cG E(W)$Weak transitions.                                                 
+252NO  XA206PB(48CA,2NG)                                                        
+252NO  XB256RF A DECAY                                                          
+252NO  XC252NO IT DECAY (109 MS)                                                
+252NO  L 0            0+                2.46 S    2                         A   
+252NOX L XREF=ABC                                                               
+252NO2 L %A=65.3 5$%EC+%B+=1.7 9$%SF=33.0 8                                     
+252NO cL T$weighted average of 2.44 {I4} (2001Og08), 2.46 {I5} (2006Le29),      
+252NO2cL 2.42 {I6} (2007Su19) and 2.47 {I2} (2011Ga19). Other measured values:  
+252NO3cL 2.3 {I1} (2012Sv02), 2.43 {I13} (2012He01), 2.38 s {I+26-22}           
+252NO4cL (2003Be18), 2.4 s {i3} (2002He01), 2.4 s {I3} (2001Ju05), 2.44 s       
+252NO5cL {i12} (1994Wi17), 2.25 s {I+18-16} (1989La07), 2.30 s {i22}            
+252NO6cL (1977Be09), 2.3 s (1976Fl13), 2.4 s {i2} (1970Og05), 4.5 s {i15}       
+252NO7cL (1967Mi03), 2.3 s {i3} (1967Gh01).                                     
+252NO cL %SF$weighted average of 26.9 {I19} (1977Be09), 32.2 {I 5} (2001Og08),  
+252NO2cL 32 {I3} (2003Be18), 29.3 {I9} (2011Ga19), 33.9 {I3} (2012Su22). Other  
+252NO3cL results: 21.6 {I42} (1993An10), %SF/%|a=0.5 (1967Gh01), %|a/%SF=3.3    
+252NO4cL {I8} (2006Le29). The result %SF=29 {I 2} (2007Su19) was not included   
+252NO5cL in the calculation: not clear from the publication whether the value   
+252NO6cL is a new result by the authors.                                        
+252NO cL %EC+%B+$deduced from the measured %|a and %SF. Compatible with the     
+252NO2cL limit (|e+|b{++})/|a<1.6% {I5} set by 2002He01. Other results:         
+252NO3cL %|e+%|b{++}<10 (68% confidence level) estimated by 2001Og08.           
+252NO cL %A$from 2012Su22. Other results: %|a=71 {I3} (2007Su19), not included  
+252NO2cL in the calculation (see %SF).                                          
+252NO cL $|d<r{+2}>{+254,252}=-0.105 fm{+2} {I7} (stat) {I7} (syst) (2018Ra11)  
+252NO  L 46.4      10 (2+)                                                  A   
+252NOX L XREF=AC                                                                
+252NO  G 46.4      10                                                          S
+252NO cG E$estimated from extrapolation of spin vs. |w expansion in 2002He01.   
+252NO  L 153.6     13 (4+)                                                  A   
+252NOX L XREF=AC                                                                
+252NO  G 107                                                                    
+252NO  L 320.6     13 (6+)                                                  A   
+252NOX L XREF=AC                                                                
+252NO  G 166.9     3  100       (E2)                    3.09                    
+252NOF G FLAG=D                                                                 
+252NOS G KC=0.125 4$LC=2.30 7$MC=0.666 20$NC+=0.220 7                           
+252NO  L 544.4     13 (8+)                                                  A   
+252NOX L XREF=AC                                                                
+252NO  G 223.8     2  100       (E2)                    0.97                    
+252NOF G FLAG=D                                                                 
+252NOS G KC=0.124 4$LC=0.660 20$MC=0.190 6$NC+=0.0626 19                        
+252NO  L 821.6     13 (10+)                                                 A   
+252NOX L XREF=AC                                                                
+252NO  G 277.2     2  100                                                       
+252NO  L 929.1     13 (2-)                                                  B   
+252NOX L XREF=AC                                                                
+252NO  G 883                                                                    
+252NO  L 966.4     13 (3-)                                                  B   
+252NOX L XREF=AC                                                                
+252NO  G 920                                                                    
+252NO  L 1014.9    13 (4-)                                                  B   
+252NOX L XREF=AC                                                                
+252NO  G 86                                                                     
+252NO  G 861                                                                    
+252NO  L 1073.4    13 (5-)                                                  B   
+252NOX L XREF=AC                                                                
+252NO  G 107                                                                    
+252NO  G 920                                                                    
+252NO  L 1147.9    13 (6-)                                                  B   
+252NOX L XREF=AC                                                                
+252NO  G 75                                                                     
+252NO  G 133                                                                    
+252NO  G 827                                                                    
+252NO  L 1150.0    13 (12+)                                                 A   
+252NOX L XREF=AC                                                                
+252NO  G 328.4     3  100                                                       
+252NO  L 1229.8    14 (7-)                                                  B   
+252NOX L XREF=AC                                                                
+252NO  G 156                                                                    
+252NO  G 685                                                                    
+252NO  G 910                    (E1)                                            
+252NO cG M$from intensity balance in IT decay (109 ms)                          
+252NO  L 1254.6    15 (8-)              109 MS    3                         HM  
+252NOX L XREF=AC                                                                
+252NO2 L %IT AP 100                                                             
+252NO cL T$from (ce)(Er) correlation (2012Su22).                                
+252NO  G 107                                                                    
+252NOL G FL=1147.9                                                              
+252NOF G FLAG=W                                                                 
+252NO cG E$from {+252}No IT decay                                               
+252NO  G 710                                                                    
+252NO  L 1360.6    17 (9-)                                                  h   
+252NOX L XREF=A                                                                 
+252NO  G 106                                                                    
+252NOF G FLAG=W                                                                 
+252NO  L 1478.6    17 (10-)                                                 H   
+252NOX L XREF=A                                                                 
+252NO  G 118                                                                    
+252NOF G FLAG=W                                                                 
+252NO  G 224                                                                    
+252NO  L 1525.5    14 (14+)                                                 A   
+252NOX L XREF=A                                                                 
+252NO  G 375.5     4  100                                                       
+252NOL G FL=1150.0                                                              
+252NO  L 1607.6    17 (11-)                                                 h   
+252NOX L XREF=A                                                                 
+252NO  G 129                                                                    
+252NOF G FLAG=W                                                                 
+252NO  G 247                                                                    
+252NO  L 1747.6    18 (12-)                                                 H   
+252NOX L XREF=A                                                                 
+252NO  G 140                                                                    
+252NOF G FLAG=W                                                                 
+252NO  G 269                                                                    
+252NO  L 1898.6    18 (13-)                                                 h   
+252NOX L XREF=A                                                                 
+252NO  G 151                                                                    
+252NOF G FLAG=W                                                                 
+252NO  G 291                                                                    
+252NO  L 1942.2    14 (16+)                                                 A   
+252NOX L XREF=A                                                                 
+252NO  G 416.7     4  100                                                       
+252NO  L 2060.6    19 (14-)                                                 H   
+252NOX L XREF=A                                                                 
+252NO  G 162                                                                    
+252NO  G 313                                                                    
+252NO  L 2232.6    19 (15-)                                                 h   
+252NOX L XREF=A                                                                 
+252NO  G 172                                                                    
+252NO  G 334                                                                    
+252NO  L 2395.4    16 (18+)                                                 A   
+252NOX L XREF=A                                                                 
+252NO  G 453.2     7  100                                                       
+252NO  L 2414.6    20 (16-)                                                 H   
+252NOX L XREF=A                                                                 
+252NO  G 182                                                                    
+252NO  G 354                                                                    
+252NO  L 2607.6    20 (17-)                                                 h   
+252NOX L XREF=A                                                                 
+252NO  G 193                                                                    
+252NO  G 375                                                                    
+252NO  L 2816.6    21 (18-)                                                 H   
+252NOX L XREF=A                                                                 
+252NO  G 209                                                                    
+252NO  G 402                                                                    
+252NO  L 2879.1    18 (20+)                                                 A   
+252NOX L XREF=A                                                                 
+252NO  G 483.7     7  100                                                       
+252NO  L 3027.6    21 (19-)                                                 h   
+252NOX L XREF=A                                                                 
+252NO  G 211                                                                    
+252NO  G 420                                                                    
+252NO  L 3252.6    22 (20-)                                                 H   
+252NOX L XREF=A                                                                 
+252NO  G 225                                                                    
+252NO  G 436                                                                    
+252NO  L 3480.6    22 (21-)                                                 h   
+252NOX L XREF=A                                                                 
+252NO  G 228                                                                    
+252NOF G FLAG=W                                                                 
+252NO  G 453                                                                    
+252NO  L 3719.6    23 (22-)                                                 H   
+252NOX L XREF=A                                                                 
+252NO  G 239                                                                    
+252NOF G FLAG=W                                                                 
+252NO  G 467                                                                    

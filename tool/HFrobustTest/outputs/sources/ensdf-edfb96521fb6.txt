@@ -1,0 +1,22 @@
+256MD    260LR A DECAY (180 S)         1971ES01                  17NDS    201704
+256MD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256MD c  1971Es01: measured E|a, I|a, half-life of {+260}Lr decay               
+256MD cA HF$r{-0}({+256}Md)=1.487 {I10}, extrapolated from the r{-0}            
+256MD2cA values given in 1998Ak04, is used in calculation.                      
+260LR  P 0.0                           180 S     30             8400      SY    
+260LR cP T$From {+260}Lr Adopted Levels in the ENSDF database                   
+260LR cP QP$8400 {I140} (syst,2017Wa10)                                         
+256MD  N                       0.80    20                                       
+256MD cN BR$The |a branching of {+260}Lr is adopted as 80% {I20} from the |e    
+256MD2cN decay branching estimated by 1971Es01 as %|e<40.                       
+256MD  L 0.0         (1-)                                                       
+256MD  L 240       AP                                                           
+256MD cL E$deduced from Q(|a)({+260}Lr) and measured E|a in {+260}Lr |a decay.  
+256MD  A 8035      20 100      1.8                                              
+256MD cA E$measured by 1971Es01. The original energy is increased by            
+256MD2cA 5 keV because of changes in calibration energies: {+213}Fr and         
+256MD3cA {+211}Po |a rays, E|a({+213}Fr)=6773, E|a({+211}Po)=7443, were used as 
+256MD4cA internal calibration. E|a({+213}Fr)=6775.0 {I17}, E|a({+211}Po)=7450.3 
+256MD5cA {I5} are recommended by 1991Ry01.                                      
+256MD cA IA$only one |a group was identified by 1971Es01: I|a is per            
+256MD2cA 100 |a decays.                                                         

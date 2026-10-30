@@ -1,0 +1,229 @@
+240PU    244CM A DECAY                 2002DA21,1998YA17,1972SC0125NDS    202511
+240PU  H TYP=FUL$AUT=C. Morse$CIT=NDS 206, 359 (2025)$CUT=27-Sep-2024$          
+240PU c  The data set is adapted from evaluations by 2006BeZL (also 2006Ch34)   
+240PU2c  and 1998Ak04.                                                          
+240PU c  Main references: 2002Da21, 1998Ya17, 1998Ga19, 1997Ka59, 1996Sa24,     
+240PU2c  1996Bu50, 1987Go21, 1972Sc01, 1971Gr17, 1966Ba07, 1963Bj03, 1963Dz07,  
+240PU3c  1960As11.                                                              
+240PU c  Others: 1995Jo23, 1992Fr04, 1991Sh06, 1991Jo07, 1990Pe03, 1987Ko14,    
+240PU2c  1986Ag04, 1984Sh32, 1984Hi09, 1984Gl03, 1984BuZJ, 1979Be58, 1974Ah02,  
+240PU3c  1972Ke29, 1972Ko04, 1971Bb10, 1970To08, 1969ScZZ, 1968Du06, 1968Be26,  
+240PU4c  1964Ma55, 1962Iv01, 1960Be25, 1958Wh09, 1956Hu96, 1956Sm18             
+240PU c  1990Pe03: Measured detailed subshell ce spectrum for 42.8 and 98.8     
+240PU2c  transitions and deduced conversion coefficients. The |g-ray energies   
+240PU3c  and intensities of five transitions were also measured.                
+240PU c  1974Ah02: measured ce data for 42.8 transition                         
+240PU c  1972Sc01 (also 1971BeYT,1969ScZZ): Measured |g rays with emphasis on   
+240PU2c  g.s. band transitions.                                                 
+240PU c  2008Ve05: Measurement of ternary |a and triton emission in {+244}Cm    
+240PU2c  SF decay. Emission probability for long-range |a particles (LRA)/SF    
+240PU3c  event=0.00316 {I9}. Emission probability for triton emission per SF    
+240PU4c  event=0.000198 {I24}                                                   
+240PU cA E$From 1966Ba07, 1963Dz07 and 1960As11, unless otherwise noted. A few  
+240PU2cA values are also given by 1998Ga19, 1992Fr04 and 1971Gr17               
+240PU cA IA$Unless otherwise stated, the values are from the DDEP evaluation    
+240PU2cA (2006BeZL) based on measurements of 2002Da21, 1998Ya17, 1998Ga19,      
+240PU3cA 1997Ka59, 1996Sa24, 1996Bu50, 1984BuZJ, 1966Ba07, 1963Dz07, 1960As11,  
+240PU4cA 1956Hu96.                                                              
+240PU cA E(A)$From 1971Gr17, with values adjusted as recommended by 1991Ry01    
+240PU2cA and 1998Ak04.                                                          
+240PU cG $There seems to be no detailed |g-ray study published in the open      
+240PU2cG literature. Three main |g rays of 42.8, 98.8 and 152.6 keV were        
+240PU3cG measured precisely by 1972Sc01. Higher energy gamma rays were          
+240PU4cG reported in two separate compilations: 1978LeZA reported results from  
+240PU5cG a 1967 priv. comm. from c.m. Lederer and 1970Sc39 reported gamma-ray   
+240PU6cG data from 1969ScZZ conference paper by Schmorak et al. Five gamma      
+240PU7cG rays from 42.8 to 554.5 keV were reported by 1990Pe03 with energies    
+240PU8cG and intensities.                                                       
+240PU cG $916|g was neither seen by 1969ScZZ nor reported by 1978LeZA. Upper    
+240PU2cG limit of intensity: <0.4 (1969ScZZ)                                    
+240PU cG E$From 1978LeZA compilation (who quoted priv comm from c.m. Lederer    
+240PU2cG in 1967), unless otherwise stated. Others: 1990Pe03, 1969ScZZ          
+240PU3cG (conference paper, results quoted in 1970Sc39 evaluation), 1963Bj03,   
+240PU4cG 1956Sm18, 1956Hu96                                                     
+240PU cG E(A)$From 1972Sc01.                                                    
+240PU cG RI$From weighted average of values from 1978LeZA and 1969ScZZ, unless  
+240PU2cG otherwise noted.                                                       
+240PU cG E(X)$|g not seen by 1969ScZZ, upper intensity limit given most of the  
+240PU2cG |g rays.                                                               
+240PU cG M$From Adopted Gammas, unless otherwise noted.                         
+240PU cL J$From Adopted Levels.                                                 
+240PU cL E$From a least-squares fit to E{-|g}                                   
+240PU cA HF$The nuclear radius parameter r{-0}({+240}Pu)=1.498180 {I88} is      
+240PU2cA deduced by assuming HF=1.0 for the ground-state to ground-state alpha  
+240PU3cA decay branch.                                                          
+240PU dG $Transition strength is calculated by Java-RULER (version 10-Jun-2025) 
+240PU DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+244CM  P 0.0          0+                18.11 Y   3              5901.60  3     
+244CM cP T$as recommended in DDEP evaluation (2006BeZL) based on the            
+244CM2cP measurements of 1982Po14, 1972Ke29, 1968Be26, 1961Ca01. Others:        
+244CM3cP 1954St33, 1954Fr19. 1989Ho24 evaluation gives 18.1 y {I1}              
+244CM4cP T{-1/2}(SF)=1.32|*10{+7} y {I2} (as recommended in the evaluation of   
+244CM5cP 2000Ho27). The DDEP evaluation (2006BeZL) recommended 1.34|*10{+7} y   
+244CM6cP {I8} from measurements by 1993Pa29, 1972Ha80, 1970Ba11, 1967Ar09,      
+244CM7cP 1965Me02, 1963Ma56 and 1952Gh27                                        
+244CM cP QP$From 2021Wa16                                                       
+240PU  N 8.5E-7    9  8.5E-7 9  1                                               
+240PU cN NR$from measured I|a for 860 and 900 levels and corresponding          
+240PU2cN relative |g+ce intensities from these levels.                          
+240PU cN BR$%|a=100, %SF=1.37|*10{+-4} {I3} (as recommended by 2003Ak04),       
+240PU2cN %SF=1.36|*10{+-4} {I1} (DDEP evaluation,2006BeZL).                     
+240PU PN                                                                     4  
+240PU  L 0            0+                                                        
+240PU  A 5804.77   5 76.9    1 1.000                                        A   
+240PU cA E$other: 5803.6 {I22} (1992Fr04)                                       
+240PU cA IA$weighted average (using LWM, normalized residuals and Rajeval's     
+240PU2cA technique) of 77.16 {I11} (2002Da21), 76.31 {I5} (1998Ya17), 76.63     
+240PU3cA {I18} (1998Ga19), 76.9 {I5} (1996Sa24), 76.8 {I7} (1996Bu50), 76.98    
+240PU4cA {I5} (1984BuZJ,1986LoZT); 73.3 (1987Go21); 76.4 (1966Ba07); 76.2       
+240PU5cA {I20} (1963Dz07); 76.7 {I6} (1956Hu96), assuming minimum uncertainty   
+240PU6cA of 0.10. The DDEP evaluation (2006BeZL) gives 76.7 {I4}                
+240PU  L 42.824    8  2+                164 PS    5                             
+240PU cL T$from 1970To08. Other: 173 ps {I15} (1960Be25).                       
+240PU  G 42.824    8  3.1E4  3  E2                      905   13                
+240PUF G FLAG=A                                                                 
+240PUX G ECC=1200 200$EL1C=15 2$EL2C=474 51$EL3C=466 50$EOC=10 1$EPC=3.0 4$     
+240PUX G %IG=0.026 4                                                            
+240PUS G LC=658 9$MC=183.4 26$NC=50.4 7$OC=11.83 17$PC=1.850 26$QC=0.00390 5    
+240PUB G BE2W=299 10                                                            
+240PU cG RI$Deduced during evaluation from %I{-|a} and |a(42.8|g); |g feeding   
+240PU2cG to 42.8 level from higher level is only |?0.1% of the total            
+240PU3cG transition intensity of 42.8|g                                         
+240PU cG M$From experimental conversion coefficients quoted above from          
+240PU2cG 1990Pe03. Other: |a(exp)=845 {I93} (1968Du06).                         
+240PU  A 5762.64   3 23.1    1 1.966   10                                   A   
+240PU cA IA$weighted average (using LWM, normalized residuals and Rajeval's     
+240PU2cA technique) of 22.80 {I5} (2002Da21), 23.34 {I18} (1998Ga19), 23.69     
+240PU3cA {I6} (1998Ya17), 23.1 {I5} (1996Sa24), 23.2 {I5} (1996Bu50); 23.00     
+240PU4cA {I5} (1984BuZJ,1986LoZT); 23.6 (1966Ba07); 23.8 {I9} (1963Dz07); 23.3  
+240PU5cA {I6} (1956Hu96), assuming minimum uncertainty of 0.10. The DDEP        
+240PU6cA evaluation (2006BeZL) gives 23.3 {I4}                                  
+240PU  L 141.684   16 4+                                                        
+240PU  G 98.860    13 16.7E2 20 E2                      16.65 23                
+240PUF G FLAG=A                                                                 
+240PUX G ECC=13 2 (1990Pe03) $EL1C < 3.0 (1990Pe03) $EL2C=6.0 8 (1990Pe03) $    
+240PUX G EL3C=3.1 7 (1990Pe03)$%IG=0.00142 23                                   
+240PUS G LC=12.08 17$MC=3.38 5$NC=0.930 13$OC=0.2191 31$PC=0.0349 5$            
+240PUS G QC=0.0001221 17                                                        
+240PU cG RI$Deduced during evaluation from %I{-|a}, |a(98.8|g) and |g feeding   
+240PU2cG to 141.7 level from higher level. Other:                               
+240PU3cG I|g(98.9|g)/I|g(42.8|g)=0.067 {I7} (1972Sc01).                         
+240PU  A 5664      3 0.0204  15644     48                                       
+240PU cA E$5664 {I2} (1998Ga19)                                                 
+240PU cA IA$0.020 {I1} (2002Da21), 0.0205 {I15} (1996Ga19), 0.0135 {I3}         
+240PU2cA (1996Sa24), 0.0163 {I7} (1984BuZJ) see 1986LoZT; 0.02 (1966Ba07),      
+240PU3cA 0.021 {I2} (1963Dz07); 0.023 {I2} (1960As11); 0.017 {I3} (1956Hu96)    
+240PU  L 294.31    3  6+                                                        
+240PU  G 152.63    2  1.24E3 12 E2                      2.488 35                
+240PUF G FLAG=A                                                                 
+240PUX G %IG=0.00105 15                                                         
+240PUS G KC=0.1960 27$LC=1.664 23$MC=0.465 7$NC=0.1278 18$OC=0.0302 4$          
+240PUS G PC=0.00487 7$QC=2.76E-5 4                                              
+240PU cG RI$From average of measured 1240 {I120} (1969ScZZ) and 1237 {I136}     
+240PU2cG deduced from %I{-|a}, |a(152.6|g) and |g feeding from higher levels.   
+240PU3cG Other: measured I|g(152.6|g)/I|g(42.8|g)=0.044 {I1} (1990Pe03) and     
+240PU4cG 0.041 {I1} (1972Sc01) are consistent with 0.040 {I4} from intensities  
+240PU5cG given here.                                                            
+240PU cG M$Measured Ice(K) and Ice(L) (1990Pe03) are consistent with E2         
+240PU  A 5513      3 0.00352 18516     27                                       
+240PU cA E$5515 {I3} (1998Ga19), 5516.2 (2002Da21)                              
+240PU cA IA$0.0036 {I3} (1960As11); 0.003 {I1} (1963Dz07); 0.0034 (1966Ba07);   
+240PU2cA 0.0035 (1986LoZT), 0.00342 {I9} (1997Ka59), 0.0038 {I5} (1998Ga19).    
+240PU3cA Value of 0.012 {I1} (2002Da21) is not used in averaging                
+240PU  L 497.5     10 8+                                                        
+240PU  G 203.2        28     AP [E2]                    0.805 11               S
+240PUX G %IG AP 2.38E-5                                                         
+240PUS G KC=0.1470 21$LC=0.479 7$MC=0.1329 19$NC=0.0365 5$OC=0.00865 12$        
+240PUS G PC=0.001415 20$QC=1.198E-5 17                                          
+240PU cG RI$deduced by evaluators from I|a and |a(203.2|g)                      
+240PU  A 5315        4E-5      2847                                             
+240PU cA E$average of 5316 (1960As11) and 5313 (1966Ba07)                       
+240PU cA IA$from 1966Ba07. Other: |?15|*10{+-5} (1960As11)                      
+240PU  L 597.25    11 1-                                                        
+240PU  G 554.5     2  100       E1                     0.0117917                
+240PUX G %IG=8.5E-5 9                                                           
+240PUS G KC=0.00949 13$LC=0.001734 24$MC=0.000417 6$NC=0.0001127 16$            
+240PUS G OC=2.77E-5 4$PC=5.13E-6 7$QC=3.00E-7 4                                 
+240PU  G 597.2     2  61     2  E1                     0.0102414                
+240PUX G %IG=5.2E-5 6                                                           
+240PUS G KC=0.00826 12$LC=0.001496 21$MC=0.000359 5$NC=9.71E-5 14$              
+240PUS G OC=2.393E-5 34$PC=4.43E-6 6$QC=2.62E-7 4                               
+240PU  A 5215      3 5.6E-5  5 491     44                                       
+240PU cA IA$deduced from transition-intensity balance. Measured I|a:            
+240PU2cA 15|*10{+-5} (1960As11), 10|*10{+-5} (1966Ba07), 4.2|*10{+-5} {i9}      
+240PU3cA (1997Ka59) are not in good agreement                                   
+240PU  L 648.77    14 3-                                                        
+240PU  G 506.9     3  10     3  [E1]                   0.0140220                
+240PUF G FLAG=X                                                                 
+240PUX G %IG=8.5E-6 27                                                          
+240PUS G KC=0.01127 16$LC=0.002081 29$MC=0.000501 7$NC=0.0001353 19$            
+240PUS G OC=3.33E-5 5$PC=6.14E-6 9$QC=3.53E-7 5                                 
+240PU  G 605.8     2  9.3    9  [E1]                   0.0099714                
+240PUX G %IG=7.9E-6 11                                                          
+240PUS G KC=0.00804 11$LC=0.001454 20$MC=0.000349 5$NC=9.44E-5 13$              
+240PUS G OC=2.326E-5 33$PC=4.31E-6 6$QC=2.55E-7 4                               
+240PU  A 5166.72   144E-6    3 3.3E3   25                                       
+240PU cA IA$from |g-intensity balance; no direct I|a measurement available      
+240PU cA E$Calculated based on level energy.                                    
+240PU  L 860.60    14 0+                                                        
+240PU  G 263.34    15 70     4  [E1]                    0.05518                 
+240PUX G %IG=5.9E-5 7                                                           
+240PUS G KC=0.0434 6$LC=0.00882 12$MC=0.002141 30$NC=0.000578 8$                
+240PUS G OC=0.0001409 20$PC=2.53E-5 4$QC=1.278E-6 18                            
+240PU  G 817.8     2  80     7  E2                     0.0182526                
+240PUX G %IG=6.8E-5 9                                                           
+240PUS G KC=0.01302 18$LC=0.00389 5$MC=0.000990 14$NC=0.000270 4$OC=6.59E-5 9$  
+240PUS G PC=1.194E-5 17$QC=5.27E-7 7                                            
+240PU  G 860.7                  E0                               12       3     
+240PUX G %IG=1.02E-5 11                                                         
+240PU cG E,M,TI$from 1963Bj03.                                                  
+240PU  A 4960      3 1.49E-4 163.5     4                                        
+240PU cA IA$1.55|*10{+-4} {I16} (1960As11), 3|*10{+-4} (1966Ba07),              
+240PU2cA 1.42|*10{+-4} {I16} (1997Ka59)                                         
+240PU  L 900.21    11 2+                                                        
+240PU  G 251.20    20 13.1   19 [E1]                    0.06129                 
+240PUX G %IG=1.11E-5 20                                                         
+240PUS G KC=0.0481 7$LC=0.00986 14$MC=0.002396 34$NC=0.000647 9$                
+240PUS G OC=0.0001575 22$PC=2.82E-5 4$QC=1.409E-6 20                            
+240PU  G 302.99    15 21.4   16 [E1]                    0.04056                 
+240PUX G %IG=1.82E-5 24                                                         
+240PUS G KC=0.0320 4$LC=0.00637 9$MC=0.001543 22$NC=0.000417 6$OC=0.0001018 14$ 
+240PUS G PC=1.837E-5 26$QC=9.59E-7 13                                           
+240PU  G 758.6     2  16.1   11 E2                     0.0212130                
+240PUX G %IG=1.37E-5 17                                                         
+240PUS G KC=0.01484 21$LC=0.00473 7$MC=0.001211 17$NC=0.000331 5$OC=8.05E-5 11$ 
+240PUS G PC=1.452E-5 20$QC=6.09E-7 9                                            
+240PU  G 857.5     2  6.6    4  [M1,E2]                 0.043 26                
+240PUF G FLAG=X                                                                 
+240PUX G %IG=5.6E-6 7                                                           
+240PUS G KC=0.034 22$LC=0.007 4$MC=0.0017 9$NC=4.7E-4 23$OC=1.2E-4 6$           
+240PUS G PC=2.2E-5 11$QC=1.3E-6 9                                               
+240PU cG RI$<7.4 (1969ScZZ)                                                     
+240PU  G 900.1     5  1.5    6  [E2]                   0.0151221                
+240PUF G FLAG=X                                                                 
+240PUX G %IG=1.3E-6 5                                                           
+240PUS G KC=0.01102 15$LC=0.00305 4$MC=0.000771 11$NC=0.0002103 30$             
+240PUS G OC=5.14E-5 7$PC=9.38E-6 13$QC=4.38E-7 6                                
+240PU cG RI$<1.7 (1969ScZZ)                                                     
+240PU  A 4920      3 5.0E-5  5 5.7     6                                        
+240PU cA IA$5.0|*10{+-5} {I5} (1960As11), 1.3|*10{+-4} (1966Ba07),              
+240PU2cA 4.9|*10{+-5} {I8} (1997Ka59)                                           
+240PU  L 937.6        (1-)                                                     ?
+240PU cL $Population of this level in {+244}Cm |a decay is uncertain, thus no   
+240PU2cL attempt has been made to deduce intensity of |a feeding and/or |g-ray  
+240PU3cL intensities. It should be mentioned that in earlier evaluations        
+240PU4cL (2006BeZL,2006Ch34,2004Ch64), this level was considered as populated   
+240PU5cL in this decay based primarily on the 894.7|g quoted in 1978LeZA. But   
+240PU6cL the reported intensity of this |g ray relative to that of the 937.6|g  
+240PU7cL disagrees by at least a factor of 20 with branching ratio in 'adopted  
+240PU8cL gammas', thus invalidating the assignment of the main intensity of     
+240PU9cL the 894.7|g to {+244}Cm decay.                                         
+240PU  G 894.7     5                                                           ?
+240PUF G FLAG=X                                                                 
+240PU cG RI$2.1 {I6} (1978LeZA) is too high by at least a factor of 20 with     
+240PU2cG branching ratio in 'adopted gammas'. In 1969ScZZ, this |g was not      
+240PU3cG seen, the authors quoted an upper limit of I|g<1.2.                    
+240PU  G 937.6     10 0.5    5                                                 ?
+240PUF G FLAG=X                                                                 
+240PUX G %IG=4.E-7 4                                                            
+240PU cG RI$<0.75 (1969ScZZ)                                                    

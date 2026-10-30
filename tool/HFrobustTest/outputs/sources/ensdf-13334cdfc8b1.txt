@@ -1,0 +1,58 @@
+222FR    ADOPTED LEVELS                                          23NDS    202310
+222FR  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Jun Chen et al.,$              
+222FR2 H CIT=NDS 192, 315 (2023)$CUT=25-Sep-2023$                               
+222FR  Q 2058      9 4970    9 5382    9 5853    14    2021WA16                 
+222FR cQ $S(2n)=11247 {I8}, S(2p)=12576 {I16} (2021Wa16)                        
+222FR c  1950Hy20: {+222}Fr produced and identified in {+232}Th(p,X) at LBNL,   
+222FR2c  measured T{-1/2} of its decay.                                         
+222FR c  1973AfZV, 1976VaZC: measured T{-1/2} of decay of {+222}Fr.             
+222FR c  1979Ca16: measured yield in U(p,X),E=600 MeV reaction.                 
+222FR c  1986Au02: measured mass excess.                                        
+222FR c  1992Bo28: measured mass excess using tandem Penning trap mass          
+222FR2c  spectrometer at ISOLDE-CERN facility                                   
+222FR c  2009Pa49: measured yield in {+238}U(p,X),E=1 GeV/nucleon               
+222FR c  2014Kr09: measured mass excess measurement from tof-ICR resonances,    
+222FR2c  and frequency ratios using ISOLTRAP Penning-trap at ISOLDE-CERN        
+222FR c  Theoretical calculations:                                              
+222FR c  2023Ja02, 2021Sa52: calculated half-lives for cluster and 2|a decays.  
+222FR c  2015Bh08: theory: Q(|b{+-})values, T{-1/2}, binding energies, rms      
+222FR2c  charge radii, and quadrupole deformation using relativistic mean field 
+222FRxc  theory                                                                 
+222FR c  2019Vi04: calculated mean values of the coefficients as functions of   
+222FR2c  the radius parameter, assuming Fermi distribution of nuclear density;  
+222FR3c  evaluated relevant coefficients for the nuclear factor of the          
+222FR4c  Parity-nonconserving (PNC) amplitude in low energy atomic experiments. 
+222FR c  2005Dz02: calculated isotope shift and charge radius using relativistic
+222FR2c  Hartree-Fock method                                                    
+222FR c  1992Ch20: calculated well depth, quadrupole and hexadecapole           
+222FR2c  deformations, level energies, static moments of inertia, oblate        
+222FR3c  superdeformed minimum, prolate superdeformation features using         
+222FR4c  Fermion dynamic symmetry model.                                        
+222FR d  1990Mo11: calculated proton-neutron interaction energy.                
+222FR c  1985Po11: calculated T{-1/2} for cluster decay.                        
+222FR d  Other theory references for cluster decays: 2020Bu17, 2018Sh01,        
+222FR2d  2017Sa39, 2013Ta07, 2012Sa31, 2011Sh13, 1985Po12.                      
+222FR  XA226AC A DECAY (29.37 H)                                                
+222FR  L 0            2-                 14.2 M  3                              
+222FR2 L %B-=100                                                                
+222FR2 L MOMM1=+0.63 1 (1985Co24,2019StZV)                                      
+222FR2 L MOME2=+0.51 4 (1985Co24,2021StZZ)                                      
+222FRX L XREF=A                                                                 
+222FR cL $Only |b{+-} decay was observed, thus 100% |b{+-} is assigned.         
+222FR2cL %|a<1 was estimated by 1950Hy20 from |a systematics, but not           
+222FR2cL observed.                                                              
+222FR cL $Evaluated rms charge radius <r{+2}>{+1/2}=5.689 fm {I18} (2013An02).  
+222FR cL $Evaluated |d<r{+2}>({+222}Fr-{+212}Fr)=+1.09543 fm{+2} {I12}          
+222FR2cL (2013An02).                                                            
+222FR cL $Measured isotopic shift=-26262 MHz {I3} (1985Co24).                   
+222FR cL J$spin from atomic-beam magnetic resonance (1978Ek02, 1978Ek05). Parity
+222FR2cL from Log| {If{+1u}t}=9.52 {I7} for |b{+-} transition to 4+ state in    
+222FR3cL {+222}Ra                                                               
+222FR cL $See 1987Co19 for deduced change in the mean square charge             
+222FR2cL radius relative to {+212}Fr from their measured isomeric shift, and    
+222FR3cL for calculated deformation parameter from the electric quadrupole      
+222FR4cL moment.                                                                
+222FR cL T$from 1973AfZV (14.2 min {I3}), 1976VaZC (14.2 min). Other            
+222FR2cL measurement: 14.8 min (1950Hy20).                                      
+222FR cL MOMM1,MOME2$atomic-beam laser spectroscopy (1985Co24). See also        
+222FR2cL 1986Ek02                                                               

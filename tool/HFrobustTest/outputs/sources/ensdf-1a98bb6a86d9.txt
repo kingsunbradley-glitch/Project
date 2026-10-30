@@ -1,0 +1,77 @@
+251BK    ADOPTED LEVELS, GAMMAS                                  23NDS    202305
+251BK  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251BK  Q 1093      10 5795   11 5051   15 5650    SY   2021Wa16                 
+251BK cQ $|DQ(|a)=101 (2021Wa16)                                                
+251BK cQ $S(2n)=10761 {I11},  S(2p)=12454 syst {I298} (2021Wa16)                
+251BK cL E$From least-squares fit to E|g, with uncertainties assumed to be 1    
+251BK2cL keV from {+251}Cm |b{+-} decay.  For levels only observed in {+255}Es  
+251BK3cL |a decay, energies are from E|a.                                       
+251BK cL J$From {+251}Cm |b{+-} decay (1978Lo13), unless only observed in       
+251BK2cL {+255}Es |a decay.                                                     
+251BK CL BAND(A)$|p3/2-[521].                                                   
+251BK CL BAND(B)$|p7/2+[633].                                                   
+251BK cL SEQ(C)$|p1/2-[530].                                                    
+251BK cL SEQ(D)$|p1/2-[521].                                                    
+251BK cL J(E)$From {+251}Cm |b decay, log {Ift} values exclude J|>5/2.  Aside   
+251BK2cL from the 978.4 keV state, J{+|p} and configuration assignments are     
+251BK3cL largely based on analogy with the level scheme observed in {+249}Cm    
+251BK4cL |b decay to {+249}Bk as discussed in 1978Lo13.                         
+251BK cG E,RI$From {+251}Cm |b{+-} decay, except where noted.                   
+251BK cG E(F)$From {+255}Es |a decay.                                           
+251BK  XA251CM B- DECAY                                                         
+251BK  XB255ES A DECAY                                                          
+251BK  L 0            (3/2-)            56 M      1                         A   
+251BKX L XREF=AB                                                                
+251BK2 L %B-=100$CONF=|p3/2-[521] (1978Lo13)                                    
+251BK cL T$Weighted average of 55.6 min {I11} (1984Li05) and 57.0 min {I17}     
+251BK2cL (1967Di02).  Other: 55.6 min (1978Lo13, citing unpublished data).      
+251BK cL %B-$No |a decay, SF expected; calculated T{-1/2}(|a)|?2|*10{+9} min    
+251BK2cL (2019Mo01), calculated T{-1/2}(SF)|?5|*10{+7} min (1985Lo17)           
+251BK  L 32.5      6  (5/2-)                                                A   
+251BKX L XREF=AB                                                                
+251BK  G 32.6         100                                                       
+251BK  L 35.5      14 (7/2+)            40 US     3                         B   
+251BKX L XREF=AB                                                                
+251BK2 L CONF=|p7/2+[633] (1978Lo13)                                            
+251BK cL T$From {+255}Es |a decay                                               
+251BK  L 72           (9/2+)                                                B   
+251BKX L XREF=B                                                                 
+251BK cL J$Rotational band member.                                              
+251BK  L 123          (11/2+)                                               B   
+251BKX L XREF=B                                                                 
+251BK cL J$Rotational band member.                                              
+251BK  L 269.1     10 (5/2+)                                                    
+251BKX L XREF=AB                                                                
+251BK2 L CONF=|p5/2+[642] (1978Lo13)                                            
+251BK  G 233.6        100                                                       
+251BK  G 269.1                                                              F   
+251BK  L 311.7     10 (1/2+)                                                    
+251BKX L XREF=A                                                                 
+251BK2 L CONF=|p1/2+[400] (1978Lo13)                                            
+251BK  G 311.7        100                                                       
+251BK  L 422.3     8  (3/2-)                                                C   
+251BKX L XREF=A                                                                 
+251BKF L FLAG=E                                                                 
+251BK2 L CONF=|p1/2-[530] (1978Lo13)                                            
+251BK  G 389.7        100    15                                                 
+251BK  G 422.3        56     7                                                  
+251BK  L 438.2     10 (1/2-)                                                C   
+251BKX L XREF=A                                                                 
+251BKF L FLAG=E                                                                 
+251BK  G 438.2        100                                                       
+251BK  L 542.6     8  (1/2-)                                                D   
+251BKX L XREF=A                                                                 
+251BKF L FLAG=E                                                                 
+251BK2 L CONF=|p1/2-[521] (1978Lo13)                                            
+251BK  G 542.7        100                                                       
+251BK  L 562.5     7  (3/2-)                                                D   
+251BKX L XREF=A                                                                 
+251BKF L FLAG=E                                                                 
+251BK  G 530.0        100    7                                                  
+251BK  G 562.5        63     20                                                 
+251BK  L 978.4     6  (1/2-,3/2-)                                           E   
+251BKX L XREF=A                                                                 
+251BK  G 415.9        16     7                                                  
+251BK  G 435.8        15     5                                                  
+251BK  G 945.9        15     8                                                  
+251BK  G 978.2        100    13                                                 

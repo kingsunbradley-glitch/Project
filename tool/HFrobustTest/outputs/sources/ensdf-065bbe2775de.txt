@@ -1,0 +1,20 @@
+240BK    244ES A DECAY                 1973ES02                  25NDS    202511
+240BK  H TYP=FUL$AUT=C. Morse$CIT=NDS 206, 359 (2025)$CUT=27-Sep-2024$          
+240BK c  1973Es02: Measured E|a, I|a.                                           
+244ES  P 0                              37 S      2              7936     SY    
+244ES cP T$From 1973Es02. Other: 38 s {I11} (2002Sh02)                          
+244ES cP T$Table 1 of 1973Es02 gives 37 ps {I4}, but in the text it is stated   
+244ES2cP that all half-lives are reported with uncertainties corresponding to   
+244ES3cP twice the standard deviation.                                          
+244ES cP QP$From 2021Wa16                                                       
+240BK  N                        0.04   2                                        
+240BK cN BR$From 1973Es02, determined from |a counts from {+244}Es and from     
+240BK2cN {+244}Cf decays, assuming that {+244}Cf decays 100% by |a.             
+240BK  L 0                                                                      
+240BK  L 240       AP                                                           
+240BK cL E$calculated from the observed E|a=7570 {I20} from {+244}Es and        
+240BK2cL Q(|a)({+244}Es)=7936 (syst,2021Wa16).                                  
+240BK  A 7570      20                                                           
+240BK cA E$From 1973Es02.  Other: 7580 (2002Sh02); the half-life associated     
+240BK2cA with this |a decay was 70 s {I1}, which the authors cannot explain.    
+240BK cA IA$HF|?2.2, if I|a|?100 and r{-0}({+240}Bk)|?1.50.                     

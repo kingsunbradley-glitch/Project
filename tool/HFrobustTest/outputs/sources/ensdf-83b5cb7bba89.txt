@@ -1,0 +1,400 @@
+234U     238PU A DECAY                 1984BO41,1970BA72         26NDS    202601
+234U   H TYP=FUL$AUT=S. Ota$CIT=NDS 207, 351 (2026)$CUT=1-Dec-2023$             
+234U  dL E$Least-squares fitting is done by GLSC (version 17-Jul-2025)          
+234U  c  For systematics of |a decay to rotational states see 2006De05.         
+234U  cA E$From 1970Ba72, except where noted. Energies listed by 1970Ba72 have  
+234U 2cA been increased by 0.4 keV, and E|a's of 1971Gr17 are decreased by 0.2  
+234U 3cA keV, as recommended by 1991Ry01, because of changes in calibration     
+234U 4cA energies. Other measurements: 1954As07, 1957Ko33, 1962Le11, 1968Ba25,  
+234U 5cA 1990Ah01, 1991Jo02.                                                    
+234U  cA IA$|a intensity per 100 |a decays. Intensities of |a's to E<300 keV    
+234U 2cA levels are from 1984Bo41; all other I|a's are deduced from |g-ray      
+234U 3cA intensities, except where indicated. Others: 1994Sa63.                 
+234U  cA E(S)$|a particle was not observed. Energy is from Q(|a) and level      
+234U 2cA energy.                                                                
+234U  cA HF$HF(5499|a)=1.0 yields r{-0}({+234}U)=1.50745 {I13}.                 
+234U  cG $Uranium L-subshell Auger, fluorescence, and Coster-Kronig yields      
+234U 2cG were deduced from (|a)(L| x ray) coincidences by 1968By01, 1971Mc24,   
+234U 3cG 1972Gi02, 1972NiZQ. M-subshell fluorescence yields and Coster-Kronig   
+234U 4cG transition probabilities were deduced from (M x ray)(L| x ray)         
+234U 5cG coincidences by 1974Ba53, 1974Ba54.                                    
+234U  cG $(|a)(L| x ray): electron shakeoff abundances deduced (1975Ra10). See  
+234U 2cG also 1982Im01.                                                         
+234U  cG E$From 1969LeZX, unless otherwise noted. See also 1984Ov01. Other      
+234U 2cG measurements: 1954As07, 1955Ch02, 1956Ne17, 1971Cl03, 1971Ma68. See    
+234U 3cG also |g rays from {+234}Pa |b{+-} decay and {+234}Np |e decay.         
+234U  cG RI$Photon intensities (given as per 1|*10{+6} |a decays) are from      
+234U 2cG 1969LeZX, 1976GuZN and 1984Ov01, except where noted. Authors' I|g's    
+234U 3cG have been renormalized by the evaluator at I|g(152|g)=9.35 {I4}.       
+234U 4cG Other measurements: 1979Ce04, 1976Um01, 1971GuZY, 1971Cl03, 1971Ma68,  
+234U 5cG 1956Ne17. The authors of 1979Ce04 list only limited number of I|g's    
+234U 6cG which have not been renormalized by the evaluator here.                
+234U  cG M$Adopted multipolarities. For additional data, see 6.75-h and         
+234U 2cG 1.17-min {+234}Pa |b{+-} decay and {+234}Np |e decay. Multipolarities  
+234U 3cG in square brackets are from the level scheme.                          
+234U  cG $I|g(L| x ray)=10.3% {I4}, deduced by the evaluator from the |g-ray    
+234U 2cG data given here, is in fair agreement with measured values of 13.9%    
+234U 3cG {I1} (1976Va23) and 11.5% {I1} (1984Bo41). An average emitted          
+234U 4cG radiation energy per decay of 5588.7 keV 2, also deduced by the        
+234U 5cG evaluator from all the radiation data given in this evaluation,        
+234U 6cG agrees within 0.1% with 5593.3 keV 2, reported in the latest           
+234U 7cG adjustment of nuclear masses (2021Wa16). These results confirm the     
+234U 8cG consistency and completeness of the decay scheme.                      
+234U  cG E(A)$From 1984He19.                                                    
+234U  cG RI(A)$Recommended in 1986LoZT.                                         
+234U  cG E(S)$From Adopted Gammas; |g ray was not observed in {+238}Pu decay.   
+234U  cL E$Deduced by the evaluator from a least-squares fit to |g-ray          
+234U 2cL energies.                                                              
+234U  cL J$Adopted values.                                                      
+234U  c  2020Yo01: Thirteen Pu samples (certified in 1986 and 1987) were        
+234U 2c  measured with microcalorimeter sensors. Data were acquired with the    
+234U 3c  BAYMAX (Bimodal Alternate Yield Microcalorimeter Array for X-rays)     
+234U 4c  cryostat using the SLEDGEHAMMER array or the SOPHIA instrument with    
+234U 5c  SLEDGEHAMMER. Deduced I|g; took E|g from the ENSDF database.           
+234U  c  2016Di11: Experimental Setup: Conversion electron spectroscopy using   
+234U 2c  a dual-stage peltier-cooled 25 mm{+2} windowless silicon drift         
+234U 3c  detector (SDD) and alpha spectroscopy with a passivated ion implanted  
+234U 4c  planar silicon detector (PIPS) were used to measure {+238}Pu source    
+234U 5c  with platinum backing. FWHM=12 keV at 5486 keV for PIPS. FWHM= 141 eV  
+234U 6c  at 5.9 keV at 234K for the {+55}Fe x-rays. Source to detector          
+234U 7c  distance was |?13 mm for PIPS and 5 mm for SDD. Measured: ce spectra,  
+234U 8c  ce subshell ratio, X-ray energies, E|a.                                
+234U  c  1984Bo41:{+238}Pu sources were prepared by sublimation in vacuum onto  
+234U 2c  electropolished stainless-steel discs. Measured |a with two Si         
+234U 3c  surface barrier detectors.                                             
+234U  c  Other measurements: 2004Le07, 2003Jo04, 1970To08, 1971An01, 1960Be25,  
+234U 2c  and 1954Mi53.                                                          
+234U  D  Transition strength is calculated by Java-RULER (version 28-Apr-2022)  
+234U  D  QA=5593.03 20 from EA(to GS)=5499.03 20. The mass adjustment by        
+234U  D  CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+234U  tG           x-rays:                                                      
+234U 2tG                             I(per 1|*10{+6} |a)                        
+234U 3tG              ===========================================               
+234U 4tG   E         (1976GuZN)  (1976Va23)   (1984Bo41)  (1995Jo23)            
+234U 5tG =========== --------    ---------    ---------   ---------             
+234U 6tG   11.6          -           -         2600 {I70}                   L{-{
+234U +tG l}} x ray                                                              
+234U 7tG   13.635 {I10}  -     505|*10{+2}{I6} 406|*10{+2}{I6}                  
+234U +tG   L{-|a} x ray                                                         
+234U 8tG   17.250 {I10}   -    741|*10{+2}{I9} 585|*10{+2}{I9} 530|*10{+2}{I4}  
+234U +tG  L{-|b} x ray                                                          
+234U 9tG   20.4       -        148|*10{+2}{I2} 138|*10{+2}{I2} 129|*10{+2}{I3}  
+234U +tG  L{-|g} x ray                                                          
+234U 2tG   94.655 {I5} 1.05 {I3}    -            -                       K|a{-2}
+234U 3tG   98.442 {I5} 1.69 {I3}    -            -                       K|a{-1}
+234U 4tG  110.42      0.21          -            -                       K|b{-3}
+234U +tG  x ray                                                                 
+234U 5tG  111.30      0.39          -            -                       K|b{-1}
+234U +tG  x ray                                                                 
+234U 6tG  114.33                    -            -                       K|b{-4}
+234U +tG  x ray                                                                 
+234U 7tG  114.54      0.158         -            -                       K|b{-2}
+234U +tG  x ray                                                                 
+234U 8tG  115.40                    -            -                       K| x ra
+234U +tG y(x)                                                                   
+234U 9tG                                                                        
+234U 2tG E(K| x ray)'s are from 1976GuZN (semi). Other K| x ray measurements: 19
+234U +tG 1969LeZX.                                                              
+234U 3tG E(L| x ray)'s are from 1984Bo41. See 1984DrZX for energies and         
+234U 4tG intensities of finer L| x ray lines. See also 1984BaYT and 2016Di11.   
+234U 5tG Other L| x ray measurements: 1954As07, 1982GeZP, 1990Po14, 1992Ba08.   
+234U 6tG I(M x-rays)/I(L x-rays)=39 {I4}/201 {I13}, measured by 1990Po14.       
+238PU  P 0.0          0+                87.7 Y    1              5593.27  19    
+238PU cP QP$From 2021Wa16                                                       
+234U   N 1.00E-4                1.0                                             
+234U  PN                                                                     3  
+234U   L 0.0          0+                                                        
+234U   A 5499.03   2070.91   10 1.000                                           
+234U  cA E$recommended in 1991Ry01 from measured energies of E|a=5499.2         
+234U 2cA (1970Ba72) and E|a=5599.0 {I2} (1971Gr17).                             
+234U  cA IA$Other: 71.8% {I11}, deduced by the evaluator from |g-ray            
+234U 2cA transition intensity balance.                                          
+234U  cA IA$other measured intensities are: 72 (1954As07); 71.1 {I12}           
+234U 2cA (1957Ko33); 72.2 (1970Ba72); 70.7 {I2} (1971So15); 70.9 {I1}           
+234U 3cA (1984Ah06), 71.3 {I6} (1987Bo25).                                      
+234U   L 43.4980   10 2+                0.252 NS  7                             
+234U  cL T$|a|g(t) (|a)(ce 43|g)(t) from (1970To08). Other measurements: 0.266  
+234U 2cL ns {I20} (1960Be25) and 0.27 ns (1971An01; deduced hyperfine field     
+234U 3cL for U in Fe). See also |a|g(|q): (|a)(43|g)(|q) (1954Mi53).            
+234U   G 43.498    1  392    8  E2                      713   10                
+234U F G FLAG=A                                                                 
+234U S G LC=520 7$MC=143.5 20$NC=38.9 5$OC=8.91 12$PC=1.441 20$QC=0.00339 5     
+234U 2 G %IG=0.0392 8                                                           
+234U  cG E$other measured energies are 43.477 {I5} (1976GuZN), 43.491 {I9}      
+234U 2cG (1972Sc01), 43.492 {I10} (1971GuZY).                                   
+234U  cG RI$from measured values of I|g=396 {I10} (1984Bo41), 382 {I8}          
+234U 2cG (1984He19), 385 {I5} (1976GuZN), 411 {I8} (1976Um01).                  
+234U  cG $L1/L1=0.0739 {I57}; L1/L3=0.0935 {I58}; L2/L3=1.27 {I3}; M2/M3=1.37   
+234U 2cG {I7}, M3/L1L2L3M2M3Ntotal=0.0871 {I35},                                
+234U 3cG Ntotal/L1L2L3M2M3Ntotal=0.0458 {I18} (2016Di11). The measured ratios   
+234U 4cG for L2/L3 are in good agreement with 1969Am02: Nucl.Phys. A126, 201    
+234U 5cG (1969) and BrICC but the L1 emission has been overestimated by |? a    
+234U 6cG factor of 2.                                                           
+234U   A 5456.3    3 28.98   10 1.385  6                                        
+234U  cA E$recommended in 1991Ry01 from measured energies of E|a=5456.1         
+234U 2cA (1970Ba72) and E|a=5456.3 {I4} (1971Gr17).                             
+234U  cA IA$Other: 28.1% {I11}, deduced by the evaluator from |g-ray            
+234U 2cA transition intensity balance.                                          
+234U  cA IA$other measured intensities are: 28 (1954As07), 28.7 {I12}           
+234U 2cA (1957Ko33), 27.8 (1970Ba72), 29.3 {I2} (1971So15), 29.0 {I1}           
+234U 3cA (1984Ah06), 28.6 {I4} (1987Bo25)                                       
+234U   L 143.3510  32 4+                                                        
+234U   G 99.853    3  72.9   8  E2                      13.42 19                
+234U F G FLAG=A                                                                 
+234U S G LC=9.77 14$MC=2.71 4$NC=0.736 10$OC=0.1691 24$PC=0.0277 4$             
+234U S G QC=0.0001099 15                                                        
+234U 2 G %IG=0.00729  8                                                         
+234U  cG E$other measured energies are 99.864 {I5} (1976GuZN), 99.85 {I1}       
+234U 2cG (1972Sc01), 99.84 {I4} (1969LeZX).                                     
+234U  cG RI$from measured intensities of I|g=74.3 {I8} (1984He19), 73.0 {I11}   
+234U 2cG (1984Bo41) and 72.4 {I14} (1976GuZN).                                  
+234U  cG M$L2/L3|?1.0 by (|a)(ce) (1959Tr37); |a=13.3 {I7} from I|a and I|g.    
+234U 2cG See also {+234}Pa |b{+-} decay.                                        
+234U  cG $Others measurement: |g|g: (100|g)(K| x ray, 151|g), (151|g)(203|g)    
+234U 2cG (1955Pe57).                                                            
+234U   A 5357.7      0.105   5   101   5                                        
+234U  cA $E|a=5356.76 {I19} from E(level)=143.351 {I4} and Q(|a)=5593.27 {I19}. 
+234U  cA IA$Other: 0.103% {I4}, deduced by the evaluator from |g-ray            
+234U 2cA transition intensity balance.                                          
+234U  cA IA$other measured intensities are 0.13 {I1} (1957Ko33), 0.068          
+234U 2cA (1970Ba72), 0.1 (1971So15), 0.106 {I3} (1984Ah06).                     
+234U   L 296.071   4  6+                                                        
+234U   G 152.720   2  9.35   4  E2                      2.143 30                
+234U S G KC=0.2171 30$LC=1.404 20$MC=0.388 5$NC=0.1055 15$OC=0.02429 34$        
+234U S G PC=0.00402 6$QC=2.69E-5 4                                              
+234U 2 G %IG=9.35E-4  4                                                         
+234U  cG E$other measured energies are 152.68 {I2} (1976GuZN), 152.719 {I19}    
+234U 2cG (1972Sc01), 152.71 {I5} (1969LeZX).                                    
+234U  cG RI$Weighted average of 9.36 {I10} (1984He19), 9.28 {I14} (1984Bo41),   
+234U 2cG 9.56 {I20} (1976GuZN), 9.230 {I68} (1994Ba91), and 9.46 {I7}           
+234U 3cG (2020Yo01). All other I|gs are renormalized to this value by           
+234U 4cG eavluator.                                                             
+234U  cG M$from experimental |a deduced from Ice/I|g [I(ce 99|g)/I(ce           
+234U 2cG 152|g)=40 (1959Tr37)] and also from intensity balance at the 296-keV   
+234U 3cG level. See also {+234}Pa |b{+-} decay.                                 
+234U   A 5205.6      0.0030  1   427   15                                       
+234U  cA $E|a=5206.65 {I19} from E(level)=296.071 {I4} and Q(|a)=5593.27 {I19}. 
+234U  cA IA$Other: 0.00293% {I1}, deduced by the evaluator from |g-ray          
+234U 2cA transition intensity balance.                                          
+234U  cA IA$Other measured intensities: 0.005 {I1} (1957Ko33), 0.0018           
+234U 2cA (1970Ba72) 0.0036 {I5} (1984Ah06).                                     
+234U   L 497.041   30 8+                                                        
+234U   G 200.97    3  0.039  2  E2                      0.734 10                
+234U S G KC=0.1534 21$LC=0.424 6$MC=0.1166 16$NC=0.0317 4$OC=0.00731 10$        
+234U S G PC=0.001223 17$QC=1.237E-5 17                                          
+234U 2 G %IG=3.90E-6 20                                                         
+234U  cG E$from 6.75-h {+234}Pa |b{+-} decay. Energies measured in {+238}Pu |a  
+234U 2cG decay are 201.017 {I30} (1972Sc01), 200.98 (1976GuZN), 200.9 {I2}      
+234U 3cG (1969LeZX).                                                            
+234U  cG RI$from measured intensities of 0.036 {I8} (1969LeZX), 0.0399 {I9}     
+234U 2cG (1976GuZN). I|g=0.0374 {I10} is listed in 1979Ce04.                    
+234U   A 5015      AP4E-6    AP 17131  AP                                       
+234U  cA $E|a=5009.11 {I19} from E(level)=497.04 {I4} and Q(|a)=5593.27 {I19}.  
+234U  cA IA$From 1970Ba72.                                                      
+234U  cA IA$Other: 6.87*10{+-6}% {I20} deduced by the evaluator from |g-ray     
+234U 2cA transition intensity balance.                                          
+234U   L 786.28    7  1-                                                        
+234U   G 742.81    10 0.052  2  E1                     0.006369                 
+234U S G KC=0.00518 7$LC=0.000895 13$MC=0.0002131 30$NC=5.71E-5 8$              
+234U S G OC=1.378E-5 19$PC=2.61E-6 4$QC=1.951E-7 27                             
+234U 2 G %IG=5.20E-6 20                                                         
+234U  cG RI$from I|g=0.0562 {I10} (1969LeZX), 0.0507 {I8} (1976GuZN), 0.0504    
+234U 2cG {I27}(1984Ov01). I|g=0.0522 {I9} is listed in 1979Ce04.                
+234U   G 786.30    10 0.0322 25 E1                     0.005738                 
+234U S G KC=0.00467 7$LC=0.000804 11$MC=0.0001912 27$NC=5.12E-5 7$              
+234U S G OC=1.237E-5 17$PC=2.349E-6 33$QC=1.766E-7 25                           
+234U 2 G %IG=3.22E-6 25                                                         
+234U  cG RI$from I|g=0.0352 {I8} (1969LeZY), 0.0321 {I5} (1976GuZN), 0.0306     
+234U 2cG {I12} (1984Ov01). I|g=0.0316 {I10} is listed in 1979Ce04.              
+234U   A 4724        2.2E-5       33                                            
+234U  cA $E|a=4724.82 {I19} from E(level)=786.28 {I3} and Q(|a)=5593.27 {I19}.  
+234U  cA IA$From 1970Ba72.                                                      
+234U  cA IA$Other: 8.30|*10{+-6}% {I32}, deduced by the evaluator from |g-ray   
+234U 2cA transition intensity balance.                                          
+234U   L 809.89    10 0+                                                        
+234U   G 766.39    10 0.22   2  E2                     0.0186726                
+234U S G KC=0.01336 19$LC=0.00396 6$MC=0.001003 14$NC=0.000271 4$OC=6.45E-5 9$  
+234U S G PC=1.182E-5 17$QC=6.25E-7 9                                            
+234U 2 G %IG=2.2E-5 2                                                           
+234U  cG RI$from I|g=0.24 {I3} (1969LeZX), 0.215 {I3} (1976GuZN), 0.223 {I16}   
+234U 2cG (1984Ov01).                                                            
+234U   G 810                    E0                                              
+234U  cG $Ice(K)=6|*10{+-5}%; K/LMN=3.5, |a(K)exp>60 (1963Le17, 1964Le22).      
+234U 2cG I(|g+ce)=7.7|*10{+-5}%.                                                
+234U  cG E$809.8 was measured in {+234}Np |e decay.                             
+234U   A 4704        5E-5        9.9                                            
+234U  cA $E|a=4701.61 {I19} from E(level)=809.89 {I3} and Q(|a)=5593.27 {I19}.  
+234U  cA IA$from 1970Ba72. 1963Bj03 obtained I|a=1.2|*10{+-5}% {I4} by |a|g,    
+234U 2cA (|a)(ce) coincidence and attributed it to total alpha-particle         
+234U 3cA population to |b band.                                                 
+234U  cA IA$Other: 2.24|*10{+-5}% {I21}, deduced by the evaluator from |g-ray   
+234U 2cA transition intensity balance.                                          
+234U   L 849.26    18 3-                                                        
+234U   G 705.9     3  0.0005320 [E1]                   0.0069810                
+234U S G KC=0.00568 8$LC=0.000987 14$MC=0.0002350 33$NC=6.30E-5 9$              
+234U S G OC=1.519E-5 21$PC=2.88E-6 4$QC=2.135E-7 30                             
+234U 2 G %IG=5.3E-8 20                                                          
+234U  cG RI$there is a disagreement for the intensity of 705.6|g deexciting     
+234U 2cG the 849.1-keV level: I|g(705.9|g)=0.00102 {I15} (1969LeZX), 0.00049    
+234U 3cG {I20} (1976GuZN), 0.00056 {I23} (1984Ov01). Average of the more        
+234U 4cG recent and consistent values has been adopted.                         
+234U   G 805.6     3  0.0006 3  [E1]                   0.005498                 
+234U S G KC=0.00447 6$LC=0.000768 11$MC=0.0001826 26$NC=4.89E-5 7$              
+234U S G OC=1.182E-5 17$PC=2.246E-6 31$QC=1.693E-7 24                           
+234U 2 G %IG=6.0E-8 30                                                          
+234U  cG RI$measured intensities of I|g=0.00136 {I15} (1969LeZX), 0.00126       
+234U 2cG {I19} (1976GuZN), 0.0016 {I5} (1984Ov01) might possibly include I|g    
+234U 3cG of 804.1|g deexciting the 947-keV level. The ratio of                  
+234U 4cG I|g(705.9|g)/I|g(805.6|g)=0.90 {I7}, adopted from the 6.75-h and       
+234U 5cG 1.159-min {+234}Pa |b{+-} decay, and from the {+234}Np |e decay,       
+234U 6cG yields I|g(805.6|g)=0.00059 {I23}. I|g(804.1|g)+I|g(805.6|g)=0.0012    
+234U 7cG {I5}+0.0006 {I3}=0.0018 {I6}.                                          
+234U   A 4662.6    4 9.1E-8  36 2.8E3  12                                       
+234U   L 851.73    8  2+                                                        
+234U   G 708.42    20 0.0041 7  [E2]                   0.0219231                
+234U S G KC=0.01536 22$LC=0.00489 7$MC=0.001246 17$NC=0.000336 5$OC=7.99E-5 11$ 
+234U S G PC=1.457E-5 20$QC=7.28E-7 10                                           
+234U 2 G %IG=4.1E-7 7                                                           
+234U  cG RI$from I|g(708|g)/I|g(808|g)=0.51 {I8}, as measured in {+234}Np |e    
+234U 2cG decay. The intensities measured in {+238}Pu |a decay are I|g=0.00279   
+234U 3cG {I22} (1969LeZX), 0.0049 {I5} (1976GuZN), 0.0038 {I7} (1984Ov01).      
+234U   G 808.25    15 0.0079 2  E0+E2                   4.3                     
+234U S G KC=3.31                                                                
+234U 2 G %IG=7.90E-7 20                                                         
+234U  cG RI$from 0.00824 {I20} (1969LeZX), 0.00784 {I24} (1976GuZN), 0.0089     
+234U 2cG {I9} (1984Ov01).                                                       
+234U  cG CC$deduced in {+234}Np |e decay.                                       
+234U   G 851.70    10 0.0124 15 [E2]                   0.0151321                
+234U S G KC=0.01109 16$LC=0.00302 4$MC=0.000759 11$NC=0.0002049 29$             
+234U S G OC=4.89E-5 7$PC=9.03E-6 13$QC=5.10E-7 7                                
+234U 2 G %IG=1.24E-6 15                                                         
+234U  cG RI$from 0.0140 {I5} (1969LeZX), 0.0126 {I3} (1976GuZN), 0.0109 {I12}   
+234U 2cG (1984Ov01).                                                            
+234U   A 4661        5.38E-6 17  45.8  15                                       
+234U  cA $E|a=4660.51 {I21} from E(level)=851.70 {I10} and Q(|a)=5593.27 {I19}. 
+234U   L 926.73    8  2+                                                        
+234U   G 783.4     1  0.000244  [E2]                   0.0178725               S
+234U F G FLAG=S                                                                 
+234U S G KC=0.01285 18$LC=0.00374 5$MC=0.000946 13$NC=0.000255 4$OC=6.08E-5 9$  
+234U S G PC=1.116E-5 16$QC=5.99E-7 8                                            
+234U 2 G %IG=2.4E-8 4                                                           
+234U  cG RI$from adopted |g-ray branching from the 926-keV level.               
+234U   G 883.23    10 0.0076 6  E2                     0.0140920                
+234U S G KC=0.01040 15$LC=0.00276 4$MC=0.000692 10$NC=0.0001866 26$             
+234U S G OC=4.46E-5 6$PC=8.25E-6 12$QC=4.76E-7 7                                
+234U 2 G %IG=7.6E-7 6                                                           
+234U  cG RI$from I|g=0.0083 {I4} (1969LeZX), 0.0071 {I14} (1984Ov01).           
+234U 2cG I|g=0.00775 {I55} is listed in 1979Ce04.                               
+234U   G 926.72    15 0.0058 3  (E2)                   0.0128418                
+234U S G KC=0.00956 13$LC=0.002452 34$MC=0.000613 9$NC=0.0001653 23$            
+234U S G OC=3.95E-5 6$PC=7.34E-6 10$QC=4.34E-7 6                                
+234U 2 G %IG=5.80E-7 30                                                         
+234U  cG RI$from I|g=0.0061 {I3} (1969LeZX), 0.0054 {I7} (1984Ov01).            
+234U 2cG I|g=0.00565 {I29} is listed in 1979Ce04.                               
+234U   A 4590      AP1.2E-5      5.7                                            
+234U  cA $E|a=4586.78 {I24} from E(level)=926.72 {I15} and Q(|a)=5593.27 {I19}. 
+234U  cA IA$From 1970Ba72.                                                      
+234U  cA IA$Other: 1.37|*10{+-6}% {I26}, deduced by the evaluator from |g-ray   
+234U 2cA transition intensity balance.                                          
+234U   L 947.80    20 4+                                                        
+234U   G 804.4     3  0.0012 5  E0+E2                   0.57  AP               S
+234U F G FLAG=S                                                                 
+234U 2 G %IG=1.2E-7 5                                                           
+234U  cG RI$from I|g(804|g)/I|g(904|g)=1.8 {I7}, measured in 6.75-h {+234}Pa    
+234U 2cG |b{+-} decay.                                                          
+234U  cG CC$deduced in 6.70-h {+234}Pa |b{+-} decay.                            
+234U   G 904.3     2  0.0006410 [E2]                   0.0134619                
+234U S G KC=0.00998 14$LC=0.00260 4$MC=0.000652 9$NC=0.0001758 25$OC=4.20E-5 6$ 
+234U S G PC=7.78E-6 11$QC=4.55E-7 6                                             
+234U 2 G %IG=6.4E-8 10                                                          
+234U  cG RI$from I|g=0.00073 {I10} (1969LeZX), 0.00056 {I23} (1984Ov01).        
+234U   A 4565.8    3 2.53E-7 51  190   39                                       
+234U   L 989.50    30 2-                                                        
+234U   G 62.70     1  0.0001 LE E1                      0.426 6                S
+234U F G FLAG=S                                                                 
+234U S G LC=0.320 4$MC=0.0791 11$NC=0.02094 29$OC=0.00481 7$PC=0.000795 11$     
+234U S G QC=3.22E-5 5                                                           
+234U 2 G %IG LE 1.00E-8                                                         
+234U  cG RI$from I(62.70|g)/I(946|g)=0.12 {I4}, measured in 6.75-h {+234}Pa     
+234U 2cG |b{+-} decay.                                                          
+234U   G 140.15    2  0.00002LE M1+E2     1.3    5      5.1   13               S
+234U L G FL=849.26                                                              
+234U F G FLAG=S                                                                 
+234U S G KC=2.6 15$LC=1.79 18$MC=0.48 6$NC=0.129 17$OC=0.0302 35$PC=0.0052 4$   
+234U S G QC=1.4E-4 7                                                            
+234U 2 G %IG LE 2.0E-9                                                          
+234U  cG RI$from I(140.91|g)/I(946|g)=0.023 {I3}, measured in 6.75-h {+234}Pa   
+234U 2cG |b{+-} decay.                                                          
+234U   G 203.12    3  0.00008LE M1+E2     1.4    4      1.5   4                S
+234U F G FLAG=S                                                                 
+234U S G KC=0.9 4$LC=0.423 11$MC=0.1113 16$NC=0.0301 4$OC=0.00709 11$           
+234U S G PC=0.00125 4$QC=4.6E-5 16                                              
+234U 2 G %IG LE 8.0E-9                                                          
+234U  cG RI$from I(203|g)/I(946|g)=0.092 {I10}, measured in 6.75-h {+234}Pa     
+234U 2cG |b{+-} decay.                                                          
+234U   G 946.0     3  0.00086LE (E1)                   0.004126                 
+234U S G KC=0.00337 5$LC=0.000571 8$MC=0.0001355 19$NC=3.63E-5 5$OC=8.78E-6 12$ 
+234U S G PC=1.674E-6 23$QC=1.285E-7 18                                          
+234U 2 G %IG LE 8.6E-8                                                          
+234U  cG RI$from 1984Ov01. I|g=0.00097 {I15} is listed by 1969LeZX.             
+234U   A 4524.9    4 1.33E-7 LE  174   GE                                       
+234U   L 1023.85   30 3-                                                        
+234U   G 880.5     3  0.0016 4                                                  
+234U 2 G %IG=1.6E-7 4                                                           
+234U  cG RI$from I|g=0.0017 {I5} (1969LeZX), 0.0015 {I4} (1984Ov01).            
+234U   A 4491.1    3 1.6E-7  4    79   20                                       
+234U   L 1044.55   12 0+                                                        
+234U   G 192.91    7  6.4E-6 AP [E2]                    0.856 12               S
+234U L G FL=851.73                                                              
+234U F G FLAG=S                                                                 
+234U S G KC=0.1635 23$LC=0.505 7$MC=0.1391 20$NC=0.0378 5$OC=0.00872 12$        
+234U S G PC=0.001455 20$QC=1.381E-5 19                                          
+234U 2 G %IG AP 6.40E-10                                                        
+234U  cG RI$from I|g(192.91|g)/I|g(1001|g)|?0.55/837 {I10}, measured in         
+234U 2cG 1.17-min {+234}Pa |b{+-} decay.                                        
+234U   G 234.6     2            E0                                             S
+234U F G FLAG=S                                                                 
+234U  cG $Total Ice=1.0|*10{+-7}% from Ice/I|g(1001|g)=0.10, deduced in         
+234U 2cG 1.17-min {+234}Pa |b{+-} decay.                                        
+234U   G 258.3     2  0.0008413 (E1)                    0.05488                 
+234U S G KC=0.0434 6$LC=0.00858 12$MC=0.002073 29$NC=0.000554 8$                
+234U S G OC=0.0001320 19$PC=2.418E-5 34$QC=1.498E-6 21                          
+234U 2 G %IG=8.4E-8 13                                                          
+234U  cG RI$measured by 1969LeZX.                                               
+234U   G 1001.03   15 0.0098 7  E2                     0.0110716                
+234U S G KC=0.00835 12$LC=0.002039 29$MC=0.000507 7$NC=0.0001367 19$            
+234U S G OC=3.28E-5 5$PC=6.10E-6 9$QC=3.76E-7 5                                 
+234U 2 G %IG=9.8E-7 7                                                           
+234U  cG RI$from I|g=0.0106 {I4} (1969LeZX), 0.0091 {I12} (1984Ov01).           
+234U 2cG I|g=0.0101 {I4} is listed in 1979Ce04.                                 
+234U   A 4470.8    3 1.18E-6 7   7.4   5                                        
+234U   L 1085.3    1  2+                                                        
+234U   G 233.6     2                                                           S
+234U L G FL=851.73                                                              
+234U  cG $Total Ice|?5|*10{+-7}% from Ice(233.6|g)/I|g(1085|g)|?5.3, measured   
+234U 2cG in {+234}Np |e decay.                                                  
+234U   G 235.9     3  0.000105  [E1]                    0.067310                
+234U L G FL=849.26                                                              
+234U S G KC=0.0532 8$LC=0.01067 15$MC=0.00258 4$NC=0.000689 10$OC=0.0001639 23$ 
+234U S G PC=2.99E-5 4$QC=1.815E-6 26                                            
+234U 2 G %IG=1.0E-8 5                                                           
+234U  cG E$235.62 {I10} from {+234}Np |e decay.                                 
+234U  cG RI$measured by 1969LeZX.                                               
+234U   G 299.2     2  0.0004813 [E1]                    0.03956                 
+234U S G KC=0.0314 4$LC=0.00608 9$MC=0.001465 21$NC=0.000392 6$OC=9.35E-5 13$   
+234U S G PC=1.724E-5 24$QC=1.103E-6 16                                          
+234U 2 G %IG=4.8E-8 13                                                          
+234U  cG RI$measured by 1969LeZX.                                               
+234U   G 941.9     2  0.0047 5  [E2]                   0.0124417                
+234U S G KC=0.00929 13$LC=0.002358 33$MC=0.000589 8$NC=0.0001587 22$            
+234U S G OC=3.80E-5 5$PC=7.05E-6 10$QC=4.21E-7 6                                
+234U 2 G %IG=4.7E-7 5                                                           
+234U  cG RI$from I|g=0.0050 {I3} (1969LeZX), 0.0042 {I9} (1984Ov01).            
+234U 2cG I|g=0.0049 {I6} is listed in 1979Ce04.                                 
+234U   G 1041.8    3  0.0022 3                                                  
+234U 2 G %IG=2.20E-7 30                                                         
+234U  cG RI$from I|g=0.00204 {I17} (1969LeZX), 0.0029 {I7} (1984Ov01).          
+234U   G 1085.4    3  0.0009110                                                 
+234U 2 G %IG=9.1E-8 10                                                          
+234U  cG RI$from I|g=0.00082 {I10} (1969LeZX), 0.0011 {I5} (1984Ov01).          
+234U   A 4430.7    4 1.33E-6 6   3.16  15                                       

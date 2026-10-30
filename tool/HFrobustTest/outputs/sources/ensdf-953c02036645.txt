@@ -1,0 +1,37 @@
+229AM    ADOPTED LEVELS                                          26NDS    202601
+229AM  H TYP=FUL$AUT=F.G. KONDEV, J.K. TULI and E. BROWNE$                      
+229AM2 H CIT=NDS 208, 397 (2026)$CUT=23-Oct-2025$                               
+229AM  Q             8740    SY 1.22E3 11 8140   50    2021WA16                 
+229AM cQ $|DS(n)=230 (syst,2021Wa16)                                            
+229AM cQ $S(2n)=16140 {I230} (syst), S(2p)=4980 {I130}, Q(|e)=4790 {I120},      
+229AM2cQ Q(|ep)=1070 {I150} (syst) (2021Wa16)                                   
+229AM c  2015De22: {+229}Am produced in multinucleon transfer reaction          
+229AM2c  {+248}Cm({+48}Ca,X),E({+48}Ca)=270 MeV at the UNILAC facility at GSI.  
+229AM3c  Target=460 |mg/cm{+2} thick {+248}Cm oxide deposited on Ti backing.    
+229AM4c  The velocity filter SHIP was used to separate target-like reaction     
+229AM5c  products which were implanted on a position sensitive silicon strip    
+229AM6c  detector (PSSD). A box of six Si detectors surrounded the PSSD to      
+229AM7c  detect escape |a and SF events. The {+229}Am nuclide was identified    
+229AM8c  by measuring |a energies and half-lives in two decay chains,           
+229AM9c  {Bchain 1}: {+229}Am [E|a=7.99 MeV {I2}, T{-1/2}=0.9 s {I+21-7}]->     
+229AMac  {+225}Np [E|a=pileup, T{-1/2}=3.3 ms {I+76-27}] -> {+221}Pa ->         
+229AMbc  {+217}Ac -> {+213}Fr [E|a=escape, T{-1/2}=16 s {I+37-13}] and          
+229AMcc  {Bchain 2}: {+233}Bk [E|a=7.77 MeV {I2}, T{-1/2}=21 s {I+48-17}] ->    
+229AMdc  {+229}Am [E|a=8.00 MeV {I2}, T{-1/2}=6.4 s {I+149-54}] ->              
+229AMec  {+225}Np [E|a=pileup, T{-1/2}=3.8 ms {I+76-27}] -> {+221}Pa ->         
+229AMfc  {+217}Ac -> {+213}Fr [E|a=6.75 MeV {I2}, T{-1/2}=110 s {I+250-90}]     
+229AM  XA233BK A DECAY                                                          
+229AM  L  0.0          (5/2-)             0.9 S  +21-7                          
+229AM2 L %A=100                                                                 
+229AMX L XREF=A                                                                 
+229AM cL J$From systematics in other even-N Am (Z=95) isotopes.                 
+229AM cL T$From |a(t) using chain 1 in 2015De22. Other: 6.4 s {I+149-54} from   
+229AM2cL |a(t) using chain 2 in 2015De22                                        
+229AM cL $Probable configuration=|p5/2[523] from systematics in even-N Am (Z=95)
+229AM2cL isotopes                                                               
+229AM  L 2.60E2    20  (3/2-)                                                  ?
+229AMX L XREF=A                                                                 
+229AM cL E,J$Tentative from {+233}Bk |a decay. E is based on Q(|a) systematics  
+229AM2cL (2021Ko07). J|p=7/2+ cannot unambiguously be excluded.                 
+229AM cL $Probable configuration=|p3/2[521], if J|p=3/2- or |p7/2[633], if      
+229AM2cL J|p=7/2+                                                               

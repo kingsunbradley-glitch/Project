@@ -1,0 +1,147 @@
+247CF    ADOPTED LEVELS, GAMMAS                                  15NDS    201503
+247CF  H TYP=FUL$AUT=C. D. NESARAJA$CIT=NDS 125, 395 (2015)$CUT=31-Mar-2014$    
+247CF  Q -2475     256059    155150    606495    15    2012Wa38                 
+247CF c                                                                         
+247CF c  Identification:                                                        
+247CF c  1956Ch77: Determined {+244}Cm(|a,n) excitation function                
+247CF2c  1954Gh12: {+247}Cf produced by irradiating {+238}U with {+14}N ions    
+247CF c  at the Berkeley Crocker Laboratory 60 inch cyclotron. It was then      
+247CF2c  followed by chemical separation. Measured half-life|?2.7 h             
+247CF c  1954Hu50: He ion bombardment of {+244}Cm followed by fast chemical     
+247CF2c  Measured x-rays and determined half-life (2.5 h and |?3 h)             
+247CF c                                                                         
+247CF c  Other experimental work:                                               
+247CF c  1987Ch30: Measured {+249}Cf({+16}O,{+16}O 2n)                          
+247CF2c  production cross-sections                                              
+247CF c  1987Gr13: Measured {+249}Cf({+136}Xe,X)                                
+247CF2c  production cross-sections                                              
+247CF c  1987We01: Measured {+248}Cm({+129}Xe,X) and {+248}Cm({+132}Xe,X)       
+247CF2c  production cross-sections                                              
+247CF c                                                                         
+247CF c  Theoretical and systematical studies:                                  
+247CF c  2013Zd01: Calculated half-lives for |a and cluster decay using a       
+247CF2c  phenomenological model based on Gamow theory                           
+247CF c  2012Ni16: Calculated |a decay T{-1/2} for transitions from ground-state
+247CF2c  to favored rotational bands using Multicluster Channel Model.          
+247CF c  2012Zh01: Comparison of the low-lying one-quasineutron band for N=149  
+247CF2c  isotones between the experimental values and calculated values using   
+247CF3c  the cranked shell model (CSM) with pairing correlations                
+247CF c  2011Ad15,2010Ad17: One-quasiparticle levels using the                  
+247CF2c  microscopic-macroscopic modified TCSM, QPM and the self-consistent     
+247CF3c  SHFB approaches                                                        
+247CF c  2011Ha06: Systematic analysis of experimental work in N=149 isotones   
+247CF c  2011Zh36: Systematics and calculated partial half life of |a decay to  
+247CF2c  members of favored band. Accurate expressions are proposed for the     
+247CF3c  evaluation of partial half-lives of these transitions based on         
+247CF4c  microscopic quantum tunneling theory.                                  
+247CF c  2010Ni02: Systematics and calculations of T{-1/2} and relative         
+247CF2c  intensities of |a decay within the generalized density-dependent       
+247CF3c  cluster model.                                                         
+247CF c  2010Ni02: Systematics and calculations of T{-1/2} and relative         
+247CF2c  intensities of |a decay within the generalized density-dependent       
+247CF3c  cluster model.                                                         
+247CF c  2006Sh19: Calculated energy levels of ground-state rotational band     
+247CF2c  in N=149 isotones                                                      
+247CF c  2005Pa73: Calculated neutron one-quasiparticle states of heaviest      
+247CF2c  nuclei within a macroscopic-microscopic approach.                      
+247CF c  2002Du16: Calculated partial half-lives for |a and cluster decays      
+247CF c  1997Mo25: Calculated ground-state binding energy, proton and           
+247CF2c  neutron pairing gaps, neutron and proton separation energies, Q values 
+247CF3c  and partial half-lives for |a and |b decays                            
+247CF c  1995Mo29,1980Ho32: Calculated ground-state masses and nuclear          
+247CF2c  ground-state deformations                                              
+247CF c  1993Bu09: Calculated partial |a decay half-life, |a branching, and     
+247CF2c  nuclear radius using the cluster model predictions                     
+247CF c  1985Lo17: Calculation of spontaneous fission half-life of              
+247CF2c  ground-state.                                                          
+247CF c  1981Mo24: Calculated ground-state electric multipole moments Q{-2},    
+247CF2c  Q{-4} and masses                                                       
+247CF c  1980Ho32: Calculated fission-barrier heights, deformation and energy   
+247CF2c  at saddle-point were.                                                  
+247CF cG RI$Relative photon intensities normalized to 100 for the               
+247CF2cG strongest |g from each level.                                          
+247CF cG RI(A)$Relative photon intensities of transitions de-exciting the       
+247CF2cG 480.4-keV level could be incorrect, if these photons include |g's      
+247CF3cG de-exciting an obscured 9/2+ member of the 5/2[622] band, expected at  
+247CF4cG about 484 keV.                                                         
+247CF CL BAND(A)$7/2[624] BAND. A=6.1.                                          
+247CF CL BAND(B)$5/2[622] BAND. A=5.9.                                          
+247CF2cL Population and depopulation of the 9/2+ (expected at 484 keV) member   
+247CF3cL should be obscured by the strongly populated (9/2-) state at 480.4 MeV 
+247CF CL BAND(D)$9/2[734] BAND. A=4.8                                           
+247CF2cL By considering the relative values of the reduced transition           
+247CF3cL rates for |g's from the 9/2- member of this band to the 7/2, 9/2       
+247CF4cL and 11/2 members of the g.s. band, 1973Ah02 suggested that this band is
+247CF5cL strongly Coriolis mixed.                                               
+247CF CL BAND(E)$7/2[743] BAND. A=6.7                                           
+247CF  XA251FM A DECAY                                                          
+247CF  XB247ES EC DECAY (4.55 M)                                                
+247CF  L 0.0         (7/2+)            3.11 H    3                          A   
+247CF2 L %EC=99.965 5$ %A=0.035 5                                               
+247CFX L XREF=+                                                                 
+247CF cL $Branchings were determined by 1984Ah02 from measured                  
+247CF2cL alpha and Cm K x-ray intensity ratio of 4.7|*10{+-4} {I5};             
+247CF3cL the K x-ray intensity was taken as 72.3 per 100 |e decays.             
+247CF cL T$From 1984Ah02 and 1979Ah03. Other measurements:                      
+247CF2cL 2.45 h {I15} (1956Ch77), 2.5 h (1954Hu50).                             
+247CF cL J$Analogy to {+245}Cm suggests 7/2[624] neutron orbital.               
+247CF  L 55.00     11(9/2+)                                                 A   
+247CFX L XREF=A                                                                 
+247CF cL J$M1+E2 55.0|g to (7/2+) g.s.                                          
+247CF  G 55.0      2 100        M1+E2    0.51    5     122    11                
+247CF  L 122.09    11(11/2+)                                                A   
+247CFX L XREF=A                                                                 
+247CF cL J$E2 122.1|g to (7/2+) g.s.; M1+E2 67.1|g to (9/2+)                    
+247CF  G 67.1      2 100     18 M1+E2    0.45    10    50     8                 
+247CF  G 122.1     2 100     18 E2                     9.12                     
+247CF  L 201.0      4(13/2+)                                                A   
+247CFX L XREF=A                                                                 
+247CF cL J$Energy fit to the 7/2[624] band                                      
+247CF  L 383.2     3 (5/2+)                                                 B   
+247CFX L XREF=A                                                                 
+247CF cL J$M1 383.2|g to (7/2+) g.s.; energy fit to the 5/2[622] band           
+247CF  G 383.2     3 100        M1                     0.943                    
+247CF  L 427.2      4(7/2+)                                                 B   
+247CFX L XREF=A                                                                 
+247CF cL J$|g's to (5/2+) and (9/2+) states; energy fit to the 5/2[622] band    
+247CF  G 44.0      4                                                            
+247CF  G 372.2     4                                                            
+247CF  L 480.40     9(9/2-)                                                 D   
+247CFX L XREF=A                                                                 
+247CF cL J$E1 358.3|g to (11/2+) and E1 480.4|g to (7/2+). Favoured |a          
+247CF2cL transition from {+251}Fm with HF=1.63 {I13}                            
+247CF  G 358.3     1 33.0    21 E1                     0.0319               A   
+247CF  G 425.4     1 100     6  E1                     0.0225               A   
+247CF  G 480.4     1 41.1    21 E1                     0.0178               A   
+247CF  L 531.99    21(11/2-)                                                D   
+247CFX L XREF=A                                                                 
+247CF cL J$|g's to (9/2-), (9/2+), (11/2+) and (13/2+) states; energy           
+247CF2cL fit to the 9/2[734] band                                               
+247CF  G 51.4      4                                                            
+247CF  G 331.0     3 65      13                                                 
+247CF  G 410.0     3 93      13                                                 
+247CF  G 477.0     3 100     15                                                 
+247CF  L 551.0     10(11/2+)                                                B   
+247CFX L XREF=A                                                                 
+247CF cL J$|g to (9/2+) state; energy fit to 5/2[622] band                      
+247CF  G 496       1 100                                                        
+247CF  L 595       4  (13/2-)                                               D   
+247CFX L XREF=A                                                                 
+247CF cL J$Energy fit to the 9/2[734] band                                      
+247CF  L 634       5  (13/2+)                                               B   
+247CFX L XREF=A                                                                 
+247CF cL J$Energy fit to 5/2[622] band                                          
+247CF2cL (11/2+) member.                                                        
+247CF  L 678.0      6 (7/2-)                                                E   
+247CFX L XREF=A                                                                 
+247CF cL J$|g's to the (7/2+) and (9/2+);                                       
+247CF2cL analogy to a similar band at 644 keV in {+245}Cm, 1973Ah02             
+247CF3cL suggested the 7/2-, 7/2[743] assignment.                               
+247CF  G 623.0     8  27     8                                                  
+247CF  G 678.0     8  100    23                                                 
+247CF  L 738.0      8 (9/2-)                                                E   
+247CFX L XREF=A                                                                 
+247CF cL J$|g's to the (9/2+), (11/2+) states of the g.s. band;                 
+247CF2cL energy fit to the 7/2[743] band                                        
+247CF  G 616       1  100    AP                                                 
+247CF  G 683       1  80     AP                                                 

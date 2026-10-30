@@ -1,0 +1,313 @@
+215RA    ADOPTED LEVELS, GAMMAS                                  13NDS    201312
+215RA  H TYP=FUL$AUT=S. Kumar, B. Singh, K. Rojeeta Devi, A. Rohilla$           
+215RA2 H CIT=NDS 114, 2023 (2013)$CUT=23-SEP-2013$                              
+215RA  Q -3497     15 5630   9 3797    11 8864   3     2012WA38                 
+215RA cQ $S(2n)=13967 {I22}, S(2p)=6346 {I9} (2012Wa38)                         
+215RA c                                                                         
+215RA c  {B{+215}Ra evaluated by S. Kumar, B. Singh, K. Rojeeta Devi,}          
+215RA2c  {|b|a. Rohilla}                                                        
+215RA c                                                                         
+215RA c  {+215}Ra identified (1961Gr43,1962Gr20) in excitation function         
+215RA2c  measurements in {+209}Bi({+11}B,5n){+215}Ra reaction. 1968Va18         
+215RA3c  identified {+215}Ra as descendent of {+219}Th                          
+215RA c  2012Co22: {+207}Pb({+64}Ni,X), E=5.92 MeV/nucleon; measured lifetime of
+215RA2c  rotating nuclear molecules or dinuclear system (DNS). Detected reaction
+215RA3c  products and measured their velocity distribution correlated with |a   
+215RA4c  particles from fragments. The {+64}Ni beam from UNILAC accelerator at  
+215RA5c  GSI facility, reaction products separated by SHIP velocity filter.     
+215RA6c  Target=300 |mg/cm{+2} thick {+207}Pb deposited on a 40 |mg/cm{+2}      
+215RA7c  thick carbon foil and covered by a layer of 10 |mg/cm{+2} carbon.      
+215RA8c  Isotopes identified by their |a decay characteristics. For {+215}Ra,   
+215RA9c  measured mean lifetime of DNS |t=2.0|* 10{+-20} s {I3}                 
+215RA cG $ All |g-ray data are from {+206}Pb({+13}C,4n|g)                       
+215RA cL           The level structure of {+215}Ra, described by a multiparticle
+215RA2cL octupole coupling mechanism, leads to configuration mixed isomers      
+215RA3cL with characteristic enhanced E3 transitions. These have been           
+215RA4cL explained by the coupling of octupole vibrations to the shell-model    
+215RA5cL configurations presented here for the six protons                      
+215RA6cL and single neutron outside closed shells (1998St24).                   
+215RA cL           The low-lying yrast levels in {+215}Ra also have been        
+215RA2cL interpreted in terms of the shell model by coupling the odd neutron to 
+215RA3cL experimentally determined energies in {+214}Ra (1983Lo16). The         
+215RA4cL enhancement of the 773-keV E3 transition in {+215}Ra is due mostly to  
+215RA5cL the coupling of the particle orbital to the octupole phonon in the     
+215RA6cL {+208}Pb core. Its B(E3)(W.u.)=37 {I2} agrees with the systematics for 
+215RA7cL E3 transitions in the {+208}Pb region (1983Lo16). See also 1998St24,   
+215RA8cL 1989Dr02, 1985Be05, and 1988Fu10 for further discussions on B(E3)      
+215RAxcL values for this nucleus.                                               
+215RA cL E$ From a least-squares fit to E|g values from 1998St24                
+215RA cL J$ As proposed by 1998St24, based on |g-ray multipolarities,           
+215RA2cL angular distributions, transition strengths, and excitation            
+215RA3cL functions. These assignments are placed in parentheses since J|p       
+215RA4cL assignment for the ground state is still tentative. Shell model        
+215RA5cL configurations from 1998St24 are based on level energies and           
+215RA6cL |g-transition rates                                                    
+215RA cL T$ From pulsed beam method (1998St24), unless otherwise stated.        
+215RA2cL Values from previous measurements are given under comments             
+215RA cL E(A)$ Member of configuration=|ph{-9/2}{+6}~#|ng{-9/2}                 
+215RA cL E(C)$ Member of configuration=|ph{-9/2}{+6}~#|nj{-15/2}                
+215RA cL E(D)$ Member of configuration=|ph{-9/2}{+5}~#|pf{-7/2}~#|ng{-9/2}      
+215RA cL E(E)$ Member of configuration=|ph{-9/2}{+4}~#|pf{-7/2}~#|pi{-13/2}~#   
+215RA2cL |n{-9/2}                                                               
+215RA cL E(F)$ Member of configuration=|ph{-9/2}{+5}~#|pi{-13/2}~#|ng{-9/2}     
+215RA cL E(G)$ Member of configuration=|ph{-9/2}{+4}~#|pi{-13/2}{+2}~#|ng{-9/2} 
+215RA cL E(H)$ Member of configuration=|ph{-9/2}{+5}~#|pf{-7/2}~#|ng{-9/2}      
+215RA cL E(I)$ Member of configuration=|ph{-9/2}{+4}~#|pf{-7/2}{+2}~#|ng{-9/2}  
+215RA cL E(J)$ Member of configuration=|ph{-9/2}{+3}~#|pf{-7/2}{+2}~#           
+215RA2cL |pi{-13/2}~#|ng{-9/2}                                                  
+215RA cL E(K)$ Member of configuration=|ph{-9/2}{+3}~#|pf{-7/2}~#               
+215RA2cL |pi{-13/2}{+2}~#|ng{-9/2}                                              
+215RA  XA215AC EC DECAY (0.17 S)                                                
+215RA  XB219TH A DECAY (1.05 US)                                                
+215RA  XC206PB(13C,4NG)                                                         
+215RA PN                                                                     6  
+215RA  L 0.0         (9/2+)             1.66 MS  2                          A   
+215RA2 L %A=100                                                                 
+215RAX L XREF=ABC                                                               
+215RA cL $ RMS charge radius <r{+2}>{+1/2}=5.619 fm {I20}; deduced from         
+215RA2cL interpolation of evaluated rms charge radii of {+214}Ra to {+232}Ra    
+215RA3cL (2013An02), with slope k{-z}=0.37 in formula 9 of 2004An14. Value has  
+215RA4cL been adjusted upward by 0.004 fm to account for slight difference in   
+215RA5cL the systematics trend of deduced rms radii for A=215, and evaluated    
+215RA6cL values in 2013An02 for A=210 isotopes                                  
+215RA cL $ No |e, |b{++} decay observed. Theoretical estimates:                 
+215RA2cL %|e+%|b{++}<2|*10{+-4} (1973Ta30), <7|*10{+-5} (1997Mo25).             
+215RA cL T$weighted average of 1.64 ms {I4} (2005Li17), 1.62 ms {I+16-13}       
+215RA2cL (2000Ni02), 1.68 ms {I2} (2000He17), 1.56 ms {I10} (1970To08),         
+215RA3cL 1.7 ms {I2} (1968Va18), 1.5 ms {I1} (1991An10; also 1.5 ms {I3}        
+215RA4cL in 1991An13). Other: 1.6 ms (1961Gr43,1962Gr20).                       
+215RA cL J$ analogy to N=127 isotones (for example {+211}Po and                 
+215RA2cL {+213}Rn) suggest J|p=(9/2+). Shell model configuration for the odd    
+215RA3cL neutron is expected to be g{-9/2}.                                     
+215RA  L 773.0     2 (15/2-)            67.2 NS   14                        C   
+215RAX L XREF=C                                                                 
+215RA cL J$773|g E3 to (9/2+). Analogy with 896-keV state (J|p=(15/2-)) in      
+215RA2cL {+213}Rn.                                                              
+215RA cL T$ from |g|g(t) (1998St24; also 68.6 ns {I21} in 1989Dr02). Others:    
+215RA2cL 77 ns {I2} (1988Fu10), 67 ns {I3} (1987AdZU). Value from 1988Fu10 is   
+215RA3cL considered by the evaluators as discrepant. From pulsed-beam           
+215RA4cL method, values are 110 ns {I8} (1989Dr02), 120 ns {I10} (1983Lo16).    
+215RA5cL The higher values in pulsed-beam experiments are likely due to         
+215RA6cL much longer half-life (7.3 |ms) of the 1877 level, which will          
+215RA7cL affect the observed decay rate of 773|g, thus making it more           
+215RA8cL difficult to measure lifetime in the ns range with this method         
+215RA  G 773.0     2  100       E3                      0.0404                  
+215RAS G KC=0.0255 4$LC=0.01105 16$MC=0.00287 4                                 
+215RAS G NC=0.000760 11$OC=0.0001679 24$PC=2.71E-5 4$QC=1.145E-6 16             
+215RAB G BE3W=38.4 8                                                            
+215RA  L 1625.3     3(17/2+)                                                A   
+215RAX L XREF=C                                                                 
+215RA cL J$852|g E1 to (15/2-). Analogy with 1529-keV state (J|p=(17/2+)) in    
+215RA2cL {+213}Rn                                                               
+215RA  G 852.3     2  100      E1                      0.00425                  
+215RAS G KC=0.00350 5$LC=0.000572 8$MC=0.0001346 19                             
+215RAS G NC=3.53E-5 5$OC=8.00E-6 12$PC=1.378E-6 20$QC=1.037E-7 15               
+215RA  L 1821.2     3(21/2+)            25.0 NS   14                        A   
+215RAX L XREF=C                                                                 
+215RA cL J$196|g E2 to (17/2+), 1048|g E3 to (15/2-). Analogy with 1664-keV     
+215RA2cL state (J|p=(21/2+)) in {+213}Rn (1988Fu10).                            
+215RA cL T$ other: 23 ns {I5} (1983Lo16).                                       
+215RA  G 196.0     2  100.0  6 E2                      0.629                    
+215RAS G KC=0.1681 24$LC=0.340 5$MC=0.0917 14                                   
+215RAS G NC=0.0242 4$OC=0.00519 8$PC=0.000768 12$QC=7.84E-6 12                  
+215RAB G BE2W=0.48 3                                                            
+215RA  G 1048.2    2  48.6   4  E3                      0.0195                  
+215RAS G KC=0.01382 20$LC=0.00425 6$MC=0.001074 15                              
+215RAS G NC=0.000284 4$OC=6.33E-5 9$PC=1.047E-5 15$QC=5.59E-7 8                 
+215RAB G BE3W=2.91 17                                                           
+215RA  L 1877.8     3(25/2+)            7.29 US  20                         D   
+215RAX L XREF=C                                                                 
+215RA cL J$ analogous state at >1664 keV with                                   
+215RA2cL T{-1/2}|?1 |ms has been observed in {+213}Rn (1988Fu10).               
+215RA cL T$ weighted average of 7.6 |ms {I2} (2004He25), 6.86 |ms {I28}         
+215RA2cL (1998St24), 7.2 |ms {I2} (1988Fu10). Other: |>2 |ms (1983Lo16)         
+215RA cL $Mixed with 2053.8 level by particle octupole coupling.                
+215RA  G 56.5      2  100      E2                      145    4                 
+215RAS G LC=106.3 24$MC=28.8 7                                                  
+215RAS G NC=7.61 17$OC=1.61 4$PC=0.231 6$QC=0.000514 11                         
+215RAB G BE2W=0.0121 6                                                          
+215RA  L 1994.5     3(23/2+)                                                D   
+215RAX L XREF=C                                                                 
+215RA  G 173.3     2  100       M1                      3.27                    
+215RAS G KC=2.63 4$LC=0.488 7$MC=0.1165 17                                      
+215RAS G NC=0.0307 5$OC=0.00701 10$PC=0.001222 18$QC=9.58E-5 14                 
+215RA  L 2053.8     4(25/2+)                                                A   
+215RAX L XREF=C                                                                 
+215RA cL $Mixed with 1877.8 level by particle octupole coupling.                
+215RA  G 59.3      2  16     2 M1                      14.25  25                
+215RAS G LC=10.80 19$MC=2.58 5                                                  
+215RAS G NC=0.681 12$OC=0.155 3$PC=0.0271 5$QC=0.00213 4                        
+215RA  G 176.0     2  100    2  M1                      3.13                    
+215RAS G KC=2.52 4$LC=0.467 7$MC=0.1115 16                                      
+215RAS G NC=0.0294 5$OC=0.00671 10$PC=0.001169 17$QC=9.17E-5 14                 
+215RA  L 2214.4     4(27/2-)                                                E   
+215RAX L XREF=C                                                                 
+215RA  G 336.6     2  100       (E1)                    0.0272                  
+215RAS G KC=0.0220 3$LC=0.00396 6$MC=0.000942 14                                
+215RAS G NC=0.000247 4$OC=5.53E-5 8$PC=9.26E-6 13$QC=6.12E-7 9                  
+215RA  L 2246.9     4(29/2-)            1.39 US   7                         F   
+215RAX L XREF=C                                                                 
+215RA  G 32.5         0.997  13[M1]                    84     5                S
+215RAB G BM1W=3.4E-7 5                                                          
+215RA  G 193.1     2  100.0  17 M2(+E3)  0.2     LT    10.99                    
+215RA cG MR$ ce data gives |d(E3/M2)<0.45, but RUL(E3)=100 gives |d<0.2         
+215RAS G KC=7.38 11$LC=2.68 4$MC=0.699 11                                       
+215RAS G NC=0.187 3$OC=0.0422 7$PC=0.00709 11$QC=0.000471 7                     
+215RAB G BM2W=0.17 1$BE3W<100                                                   
+215RA  G 369.1     2  32     3 M2+E3     1.07    +25-20 0.81  9                 
+215RAS G KC=0.50 9$LC=0.226 5$MC=0.0593 10                                      
+215RAS G NC=0.01577 25$OC=0.00349 7$PC=0.000566 16$QC=2.6E-5 4                  
+215RAB G BM2W=0.0011 4$BE3W=4.8 13                                              
+215RA  L 2246.9+X    (31/2-)                                                F   
+215RAX L XREF=C                                                                 
+215RA DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+215RA cL E$x |<35 keV.                                                          
+215RA  G X                                                                      
+215RAF G FL=2246.9                                                              
+215RA cG E$ no transition seen, but required for current level scheme.          
+215RA2cG Estimated value of x |< 35 keV                                         
+215RA  L 3088.8+X  2 (33/2+)                                                G   
+215RAX L XREF=C                                                                 
+215RA  G 841.9     2  100       E1                     0.00435                  
+215RAS G KC=0.00358 5$LC=0.000586 9$MC=0.0001377 20                             
+215RAS G NC=3.61E-5 5$OC=8.19E-6 12$PC=1.410E-6 20$QC=1.060E-7 15               
+215RA  L 3143.7+X   3(35/2+)                                                H   
+215RAX L XREF=C                                                                 
+215RA  G 54.9      2  100      M1                      17.9   4                 
+215RAS G LC=13.54 24$MC=3.24 6                                                  
+215RAS G NC=0.854 15$OC=0.195 4$PC=0.0340 6$QC=0.00267 5                        
+215RA  L 3331.1+X   4(37/2+)                                                H   
+215RAX L XREF=C                                                                 
+215RA  G 187.4     2  100       M1                      2.63                    
+215RAS G KC=2.11 3$LC=0.391 6$MC=0.0933 14                                      
+215RAS G NC=0.0246 4$OC=0.00562 8$PC=0.000979 14$QC=7.67E-5 11                  
+215RA  L 3413.4+X   4(37/2-)                                                F   
+215RAX L XREF=C                                                                 
+215RA  G 269.7     2  100       D                                               
+215RA  L 3415.6+X   4(37/2+)                                                H   
+215RAX L XREF=C                                                                 
+215RA  G 271.9     2  100      M1                      0.930                    
+215RAS G KC=0.748 11$LC=0.1376 20$MC=0.0328 5                                   
+215RAS G NC=0.00866 13$OC=0.00198 3$PC=0.000345 5$QC=2.70E-5 4                  
+215RA  L 3586.4+X   4(37/2+)                                                I   
+215RAX L XREF=C                                                                 
+215RA  G 170.8     2  19     4  M1                      3.41                    
+215RAS G KC=2.74 4$LC=0.508 8$MC=0.1214 18                                      
+215RAS G NC=0.0320 5$OC=0.00730 11$PC=0.001273 19$QC=9.98E-5 15                 
+215RA  G 255.4     2  100    12 M1                      1.106                   
+215RAS G KC=0.890 13$LC=0.1638 24$MC=0.0391 6                                   
+215RAS G NC=0.01031 15$OC=0.00235 4$PC=0.000410 6$QC=3.21E-5 5                  
+215RA  G 442.6     2  10     4                                                  
+215RA  L 3738.6+X   4(39/2-)                                                F   
+215RAX L XREF=C                                                                 
+215RA  G 152.2     2  46.5   5 E1                      0.1740                   
+215RAS G KC=0.1372 20$LC=0.0279 4$MC=0.00669 10                                 
+215RAS G NC=0.00174 3$OC=0.000385 6$PC=6.20E-5 9$QC=3.46E-6 5                   
+215RA  G 323.1     2  30.7   10 E1                      0.0298                  
+215RAS G KC=0.0241 4$LC=0.00435 7$MC=0.001036 15                                
+215RAS G NC=0.000271 4$OC=6.07E-5 9$PC=1.016E-5 15$QC=6.67E-7 10                
+215RA  G 325.3     2  4.0    10                                                 
+215RA  G 407.4     2  100.0  10 E1                      0.0180                  
+215RAS G KC=0.01463 21$LC=0.00257 4$MC=0.000611 9                               
+215RAS G NC=0.0001600 23$OC=3.60E-5 5$PC=6.07E-6 9$QC=4.14E-7 6                 
+215RA  L 3756.6+X   4(43/2-)            555 NS    10                        F   
+215RA2 L MOMM1=15.61 6 (1998St24,2011StZZ)                                      
+215RAX L XREF=C                                                                 
+215RA cL T$ other: 0.59 |ms {I18} (1987AdZU)                                    
+215RA cL $Octupole-mixed state                                                  
+215RA cL MOMM1$ from g factor=+0.726 {I3} (TDPAD method, 1998St24). Other       
+215RA2cL measurement: 15.78 {i15} (1987AdZU, from g factor=+0.734 {I7},         
+215RA3cL stroboscopic observation of perturbed angular distribution).           
+215RA4cL Theoretical value=+0.73 (1998St24).                                    
+215RA cL $ Measured isomer yield ratio: R{-exp}=7.9 {I8} (2013Ba29) in          
+215RA2cL {+9}Be({+238}U,X) reaction at 1 GeV/nucleon, where                     
+215RA3cL R{-exp}=Y/(N{-imp}(fragment)|g), N{-imp} is number of implanted ions,  
+215RA4cL Y is the isomeric yield, F and G are correction factors for in-flight  
+215RA5cL isomer decay losses and the finite detection time of the |g radiation, 
+215RA6cL respectively. Comparison of measured yield ratios with theoretical     
+215RA7cL values calculated by using ABRABLA Monte-Carlo code.                   
+215RA  G 18.0         0.029  2 [E2]                    2.54E4                  S
+215RAS G LC=1.498E4 21$MC=7.85E3 11                                             
+215RAS G NC=2.06E3 3$OC=436 7$PC=62.1 9$QC=0.0875 13                            
+215RAB G BE2W=0.24 7                                                            
+215RA  G 425.5     2  100    3  E3                      0.240                   
+215RAS G KC=0.0887 13$LC=0.1113 16$MC=0.0303 5                                  
+215RAS G NC=0.00806 12$OC=0.001748 25$PC=0.000269 4$QC=5.66E-6 8                
+215RAB G BE3W=37 3                                                              
+215RA  L 3765.7+X   4                                                           
+215RAX L XREF=C                                                                 
+215RA cL J$ 434.6|g to (37/2+) suggests 37/2 to 41/2                            
+215RA  G 434.6     2  100                                                       
+215RA  L 3855.0+X   4                                                           
+215RAX L XREF=C                                                                 
+215RA cL J$ 439.4|g to (37/2+) suggests 37/2 to 41/2                            
+215RA  G 439.4     2  100                                                       
+215RA  L 3935.4+X   4(43/2-)                                                E   
+215RAX L XREF=C                                                                 
+215RA cL $Octupole-mixed state                                                  
+215RA  G 178.6     2  100       M1                      3.01                    
+215RAS G KC=2.42 4$LC=0.448 7$MC=0.1070 16                                      
+215RAS G NC=0.0282 4$OC=0.00644 10$PC=0.001122 17$QC=8.79E-5 13                 
+215RA  L 4207.3+X   5                                                           
+215RAX L XREF=C                                                                 
+215RA  G 352.3     2  100                                                       
+215RA  L 4366.8+X   4(45/2+)                                                G   
+215RAX L XREF=C                                                                 
+215RA  G 431.5     2  98.8   25 E1                     0.01597                  
+215RAS G KC=0.01298 19$LC=0.00227 4$MC=0.000538 8                               
+215RAS G NC=0.0001409 20$OC=3.17E-5 5$PC=5.36E-6 8$QC=3.69E-7 6                 
+215RA  G 610.2     2  100    5                                                  
+215RA  L 4553.5+X   4(47/2-)                                                F   
+215RAX L XREF=C                                                                 
+215RA  G 797.3     2  100       (Q)                                             
+215RA  L 4567.0+X   4(49/2+)            10.47 NS 14                         G   
+215RA2 L MOMM1=18.87 25 (1998St24,2011StZZ)                                     
+215RAX L XREF=C                                                                 
+215RA cL T$ other: |?10 ns (1987AdZU).                                          
+215RA cL MOMM1$ from g factor=+0.77 {I1} (TDPAD method, 1998St24).              
+215RA2cL Theoretical value=+0.80 (1998St24).                                    
+215RA  G 13.5         10.5   5 [E1]                    5.74                    S
+215RAS G NC=1.107 16$OC=0.207 3$PC=0.0218 3$QC=0.000516 8                       
+215RAB G BE1W=0.00026 6                                                         
+215RA  G 200.1     2  100.0  19(E2)                    0.584                    
+215RAS G KC=0.1616 23$LC=0.311 5$MC=0.0839 13                                   
+215RAS G NC=0.0222 4$OC=0.00475 7$PC=0.000704 11$QC=7.44E-6 11                  
+215RAB G BE2W=0.758 23                                                          
+215RA  G 810.2     2  59.3   19(E3)                    0.0359                   
+215RAS G KC=0.0232 4$LC=0.00945 14$MC=0.00244 4                                 
+215RAS G NC=0.000647 9$OC=0.0001431 20$PC=2.32E-5 4$QC=1.021E-6 15              
+215RAB G BE3W=37.6 15                                                           
+215RA  L 4686.2+X   5(47/2-)                                                E   
+215RAX L XREF=C                                                                 
+215RA  G 750.7     2  100       (Q)                                             
+215RA  L 4882.7+X   4(51/2-)                                                E   
+215RAX L XREF=C                                                                 
+215RA  G 196.3     2  23     3 [E2]                    0.626                    
+215RAS G KC=0.1676 24$LC=0.337 5$MC=0.0911 14                                   
+215RAS G NC=0.0241 4$OC=0.00515 8$PC=0.000763 12$QC=7.81E-6 12                  
+215RA  G 315.6     2  100    4                                                  
+215RA  G 329.5     2  12     3                                                  
+215RA  L 5372.7+X   5(53/2+)                                                G   
+215RAX L XREF=C                                                                 
+215RA  G 490.1     2  100    3  D                                               
+215RA  G 805.7     2  47.6   16 (Q)                                             
+215RA  L 5608.6+X   5(55/2-)                                                J   
+215RAX L XREF=C                                                                 
+215RA  G 725.9     2  100                                                       
+215RA  L 5608.7+X   5(57/2+)            1.66 NS  14                         G   
+215RAX L XREF=C                                                                 
+215RA  G 236.0     2  100       E2                      0.328                   
+215RAS G KC=0.1164 17$LC=0.1559 23$MC=0.0418 6                                  
+215RAS G NC=0.01105 16$OC=0.00238 4$PC=0.000356 6$QC=4.96E-6 7                  
+215RAB G BE2W=4.6 4                                                             
+215RA  L 6033.5+X   5(57/2+)                                                K   
+215RAX L XREF=C                                                                 
+215RA  G 424.8     2  100                                                       
+215RAF G FL=5608.7+X                                                            
+215RA  L 6076.4+X   5(59/2+)                                                K   
+215RAX L XREF=C                                                                 
+215RA  G 467.7     2  100                                                       
+215RAF G FL=5608.7+X                                                            
+215RA  L 6283.2+X   6(61/2+)                                                K   
+215RAX L XREF=C                                                                 
+215RA  G 249.7     2  100                                                       

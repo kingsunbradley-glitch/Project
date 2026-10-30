@@ -1,0 +1,484 @@
+227TH    ADOPTED LEVELS, GAMMAS                                  16NDS    201602
+227TH  H TYP=FUL$AUT=ICTP-2014 Workshop Group$CIT=NDS 132, 257 (2016)$          
+227TH2 H CUT=15-Jan-2016$                                                       
+227TH  H TYP=FUL$AUT=E.A. McCutchan$CIT=ENSDF$CUT=15-JAN-2016$                  
+227TH2 H AUT=K. Abusaleem, S. Bhattacharya, P.K. Joshi, S.S. Nafee$             
+227TH  Q -1026     7  5462   5  5793   3  6146.60 10   2012WA38                 
+227TH cQ $S(2n)=12647 {I6}, S(2p)=10766 {I3} (2012Wa38)                         
+227TH c                                                                         
+227TH c  {B{+227}Th evaluated by E.A. McCutchan, K. Abusaleem, S. Bhattacharya,}
+227TH2c  {BP.K. Joshi and S.S. Nafee.}                                          
+227TH c                                                                         
+227TH cG E,RI$From {+226}Ra(|a,3n|g), except where noted.                       
+227TH cG M,MR$From {+231}U |a decay, except where noted.                        
+227TH cG E(a),RI(b)$From {+231}U |a decay                                       
+227TH cG E(c),RI(d)$From {+227}Pa |e decay.                                     
+227TH cG M(o)$From conversion electron measurements in {+227}Pa |e decay.       
+227TH cG E(e),RI(f)$From {+227}Ac |b{+-} decay.                                 
+227TH cG M(m),MR(n)$From ce ratios in {+227}Ac |b{+-} decay.                    
+227TH cG M(j)$From conversion electron measurements in {+226}Ra(|a,3n|g)        
+227TH cG CC$From BrIcc v2.3 (29-Mar-2013) 2008Ki07, "Frozen Orbitals" appr.     
+227TH cL E$From a least-squares fit to E|g, by evaluators.                      
+227TH CL BAND(X)$KPI=1/2+ BAND, |a=+1/2                                         
+227TH CL BAND(W)$KPI=1/2+ BAND, |a=-1/2                                         
+227TH CL BAND(Y)$KPI=1/2- BAND, |a=+1/2                                         
+227TH CL BAND(Z)$KPI=1/2- BAND, |a=-1/2                                         
+227TH CL BAND(a)$ROTATIONAL BAND SEQUENCE.                                      
+227TH2cL Proposed as a K|p=3/2- band by 2002Ha30.                               
+227TH CL BAND(b)$ROTATIONAL BAND SEQUENCE                                       
+227TH  XC227AC B- DECAY (21.772 Y)                                              
+227TH  XB227PA EC DECAY (38.3 M)                                                
+227TH  XA231U A DECAY (4.2 D)                                                   
+227TH  XD226RA(A,3NG)                                                           
+227TH PN                                                                     6  
+227TH  L 0.0          (1/2+)            18.697 D  7                         X   
+227THX L XREF=ABC                                                               
+227TH2 L %A=100                                                                 
+227TH cL $Evaluated rms charge radius=5.740 fm {I17} (2013An02)                 
+227TH cL T$recommended by 2015Co11 from their measurements of 18.695 d {I4}     
+227TH2cL (decay-curves of 50.1|g, 236.0|g and 300.0|g emissions) and            
+227TH3cL 18.683 d {I20} (from in-growth of {+223}Ra using an ionization         
+227TH4cL chamber); and 18.7176 d {I180} (1967JoZX, original uncertainty of      
+227TH5cL 0.0052 inflated to 0.0180 by 2015Co11). Power-moderated averaging      
+227TH6cL proposed by S. Pomme and J. Keightley, Metrologia 52, S200 (2015) was  
+227TH7cL used by 2015Co11 to deduce the recommended value. Others:              
+227TH8cL 18.738 d {I54} (1987Mi10), 18.729 d {I48} (1963Ei10), 18.169 d {I84}   
+227TH9cL (1954Ha60), 18.6 d {I1} (1949Pe08). The value from 1987Mi10 is omitted 
+227THAcL in the averaging procedure by 2015Co11, since correction for the       
+227THBcL presence of {+223}Ac was not accounted for in their measurement.       
+227THCcL Values in 1963Ei10 and 1954Ha60 are superseded by that in 1967JoZX.    
+227TH cL J$|a|g(|q) results from various authors are in disagreement:           
+227TH2cL |a-79|g(|q) and |a-350|g(|q) suggest J|p=1/2+ (1991Jo05). This         
+227TH3cL conclusion is consistent with the isotropic correlation results of     
+227TH4cL 1990Br23 and 1960Pe13 for |a-236|g(|q), also suggesting J|p=1/2+.      
+227TH5cL 1972He18 measured an anisotropic correlation, and 1990Br23 measured    
+227TH6cL |g-ray anisotropy in |a 236|g(|q,H) correlation with oriented nuclei.  
+227TH7cL Both of these results suggest J|p=3/2+. In a nuclear orientation       
+227TH8cL experiment with {+227}Th at low temperature, 1997Mu08 found the        
+227TH9cL angular distribution of the three main |a groups from {+227}Th to be   
+227THacL isotropic. This result suggests J=1/2 for {+227}Th g.s. Also, they     
+227THbcL suggested to be in error previous experiments that showed |g-ray       
+227THccL anisotropies. Low |a hindrance factor (HF=5.9) to 286 level            
+227THdcL (J|p=1/2+) in {+223}Ra is consistent with J|p=1/2+,3/2. {+225}Ra       
+227THecL isotone ground state has J|p=1/2+. The same assignment for {+227}Th    
+227THfcL is consistent with band structure in this nucleus and has been         
+227THgcL suggested by 1988Le13.                                                 
+227TH  L 9.30      3  (5/2+)                                                X   
+227THX L XREF=ABCD                                                              
+227TH cL J$(E2) 9.3|g to (1/2+)                                                 
+227TH  G 9.3       1  100       (E2)                    3.26E519                
+227THF G FLAG=efm                                                               
+227THS G MC=2.44E5 14$NC=6.5E4 4$OC=1.44E4 9$PC=2.37E3 14$QC=2.85 15            
+227TH  L 24.38     3  (3/2+)                                                    
+227THX L XREF=ABC                                                               
+227TH cL J$M1+E2 24.3|g to (1/2+)                                               
+227TH  G 15.1      2  2.2       (M1)                    242   11                
+227THF G FLAG=efm                                                               
+227THS G MC=180 8$NC=48.2 21$OC=11.4 5$PC=2.21 10$QC=0.212 9                    
+227TH  G 24.33     5  100    20 M1+E2     0.097  5      334   12                
+227THF G FLAG=afmn                                                              
+227THS G LC=250 9$MC=62.8 23$NC=16.8 6$OC=3.89 14$PC=0.721 23$QC=0.0512 8       
+227TH  L 37.863    25 (3/2-)                                                Z   
+227THX L XREF=ABCD                                                              
+227TH cL J$E1 37.9|g to (1/2+), E1 28.6|g to (5/2+)                             
+227TH  G 28.57     5  96     19 E1                      3.23                    
+227THF G FLAG=abo                                                               
+227THS G LC=2.42 4$MC=0.616 9$NC=0.1595 24$OC=0.0341 5$PC=0.00517 8$            
+227THS G QC=0.000182 3                                                          
+227TH  G 37.90     3  100    19 E1                      1.537                   
+227THF G FLAG=abo                                                               
+227THS G LC=1.155 17$MC=0.288 4$NC=0.0750 11$OC=0.01634 24$PC=0.00260 4$        
+227THS G QC=0.0001035 15                                                        
+227TH  L 73.67     4  (7/2-)                                                Z   
+227THX L XREF=AD                                                                
+227TH cL J$E1 64.4|g to (5/2+); band assignment                                 
+227TH  G 35.7                                                                  ?
+227TH  G 64.38     2            E1                      0.377                   
+227THF G FLAG=ab                                                                
+227THS G LC=0.284 4$MC=0.0696 10$NC=0.0182 3$OC=0.00407 6$PC=0.000692 10$       
+227THS G QC=3.42E-5 5                                                           
+227TH  L 76.23     4  (9/2+)                                                X   
+227THX L XREF=AD                                                                
+227TH cL J$E2 66.9|g to (5/2+)                                                  
+227TH  G 51.85     4  25     5                                                 ?
+227THF G FLAG=ab                                                                
+227TH cG E$questionable placement as transition would require M3 or E4          
+227TH2cG multipolarities based on adopted J|p.                                  
+227TH  G 66.94     3  100    10 E2                      75.4                    
+227THF G FLAG=abj                                                               
+227THS G LC=55.1 8$MC=15.13 22$NC=4.05 6$OC=0.901 13$PC=0.1489 21$QC=0.000466 7 
+227TH  L 77.63     3  (3/2+)                                                W   
+227THX L XREF=ABD                                                               
+227TH cL J$E1 39.9|g to (3/2-), M1(+E2) 68.3|g to (5/2+).                       
+227TH  G 39.88     6  8      2  E1                      1.343                   
+227THF G FLAG=ab                                                                
+227THS G LC=1.010 15$MC=0.251 4$NC=0.0654 10$OC=0.01430 21$PC=0.00229 4$        
+227THS G QC=9.33E-5 14                                                          
+227TH  G 53.23     2  83     8  M1(+E2)   0.33   LE     34    10                
+227THF G FLAG=ab                                                                
+227THS G LC=25 8$MC=6.4 21$NC=1.7 6$OC=0.39 12$PC=0.072 20$QC=0.00488 20        
+227TH  G 68.33     2  100    5  M1(+E2)   0.50   LE     17    6                 
+227THF G FLAG=ab                                                                
+227THS G LC=13 5$MC=3.2 12$NC=0.9 4$OC=0.20 7$PC=0.037 11$QC=0.00224 21         
+227TH  L 86.82     7                                                           ?
+227THX L XREF=A                                                                 
+227TH  G 77.52     6  100                                                      ?
+227TH  L 99.18     3  (3/2+,5/2+)                                               
+227THX L XREF=ABD                                                               
+227TH cL J$E1 61.3|g to 3/2-, 105|g from (7/2+)                                 
+227TH  G 61.33     3  80     8  E1                      0.429                   
+227THF G FLAG=ab                                                                
+227THS G LC=0.323 5$MC=0.0792 12$NC=0.0207 3$OC=0.00463 7$PC=0.000782 11$       
+227THS G QC=3.79E-5 6                                                           
+227TH  G 74.85     5  48     8                                                  
+227THF G FLAG=ab                                                                
+227TH  G 89.88     5  100    24                                                 
+227THF G FLAG=ab                                                                
+227TH  G 99.09     8  26     6                                                  
+227THF G FLAG=ab                                                                
+227TH  L 127.30    4  (3/2+,5/2+)                                               
+227THX L XREF=AB                                                                
+227TH cL J$M1 102.9|g to (3/2+), M1 118|g to (5/2+).                            
+227TH  G 102.93    4  100    10 M1                      3.49                    
+227THF G FLAG=ab                                                                
+227THS G LC=2.63 4$MC=0.634 9$NC=0.1691 24$OC=0.0400 6$PC=0.00777 11$           
+227THS G QC=0.000739 11                                                         
+227TH  G 117.98    7  44     9  M1                      11.58                   
+227THF G FLAG=ab                                                                
+227THS G KC=9.23 13$LC=1.78 3$MC=0.427 6$NC=0.1140 16$OC=0.0270 4$PC=0.00524 8$ 
+227THS G QC=0.000498 7                                                          
+227TH  L 149.99    18 (5/2-)                                                Y   
+227THX L XREF=D                                                                 
+227TH cL J$72.2|g to (3/2+), 76.5|g to (7/2-); band assignment                  
+227TH  G 72.2      3                                                            
+227TH  G 76.5      3            (E2)                    39.8  10                
+227THS G LC=29.1 7$MC=8.00 19$NC=2.14 5$OC=0.477 12$PC=0.0789 19$QC=0.000271 6  
+227TH  L 182.2     3  (13/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$E2 106|g to (9/2+); band assignment                                  
+227TH  G 106.0     3  100       E2                      8.59  17                
+227THF G FLAG=j                                                                 
+227THS G LC=6.28 13$MC=1.73 4$NC=0.463 9$OC=0.1031 20$PC=0.0171 4$QC=8.07E-5 14 
+227TH  L 183.71    4  (1/2-,3/2-,5/2-)                                          
+227THX L XREF=AB                                                                
+227TH cL J$E1 56.4|g to (3/2+,5/2+), 159.4|g to (3/2+)                          
+227TH  G 56.41     2  100    10 E1                      0.535                   
+227THF G FLAG=ab                                                                
+227THS G LC=0.403 6$MC=0.0991 14$NC=0.0259 4$OC=0.00576 8$PC=0.000965 14$       
+227THS G QC=4.53E-5 7                                                           
+227TH  G 84.5      3  5.4    25                                                 
+227THF G FLAG=cd                                                                
+227TH  G 146.0     3  4.6    25                                                 
+227THF G FLAG=cd                                                                
+227TH  G 159.39    8  26     5                                                  
+227THF G FLAG=ab                                                                
+227TH  L 200.02    7  (-)                                                       
+227THX L XREF=A                                                                 
+227TH cL J$E1 72.8|g to (3/2+,5/2+)                                             
+227TH  G 72.78     7  100    20 E1                      0.272                   
+227THF G FLAG=ab                                                                
+227THS G LC=0.205 3$MC=0.0501 8$NC=0.01314 19$OC=0.00295 5$PC=0.000508 8$       
+227THS G QC=2.62E-5 4                                                           
+227TH  G 190.62    10 61     14                                                 
+227THF G FLAG=ab                                                                
+227TH  L 204.27    18 (7/2+)                                                W   
+227THX L XREF=D                                                                 
+227TH cL J$126.5|g to (3/2+); band assignment                                   
+227TH  G 54.3      3                                                            
+227TH  G 105.2     3                                                            
+227TH  G 126.5     3                                                            
+227TH  L 207.13    10 (1/2-,3/2-,5/2-)                                          
+227THX L XREF=B                                                                 
+227TH cL J$(E1) 129.5|g to (3/2+)                                               
+227TH  G 129.5     1  100       (E1)                    0.266               &   
+227THF G FLAG=cdo                                                               
+227THS G KC=0.206 3$LC=0.0451 7$MC=0.01092 16$NC=0.00288 4$OC=0.000658 10$      
+227THS G PC=0.0001180 17$QC=7.37E-6 11                                          
+227TH  L 228.60    7  (3/2-,5/2-)                                               
+227THX L XREF=AB                                                                
+227TH cL J$E1 204.2|g to (3/2+), E1 219.6|g to (5/2+)                           
+227TH  G 129.5     1  24     3                                              &   
+227THF G FLAG=cd                                                                
+227TH  G 150.7     2  98     50 E1                      0.185                   
+227THF G FLAG=ab                                                                
+227THS G KC=0.1446 21$LC=0.0305 5$MC=0.00737 11$NC=0.00194 3$OC=0.000446 7$     
+227THS G PC=8.07E-5 12$QC=5.26E-6 8                                             
+227TH  G 190.8     2  8.0    24                                                 
+227THF G FLAG=cd                                                                
+227TH  G 204.2     2  100    24 E1                      0.0899                  
+227THF G FLAG=ab                                                                
+227THS G KC=0.0711 10$LC=0.01416 21$MC=0.00341 5$NC=0.000901 13$OC=0.000208 3$  
+227THS G PC=3.82E-5 6$QC=2.69E-6 4                                              
+227TH  G 219.6     4  66     24 E1                      0.0758                  
+227THF G FLAG=ab                                                                
+227THS G KC=0.0602 9$LC=0.01183 18$MC=0.00285 5$NC=0.000752 11$OC=0.000174 3$   
+227THS G PC=3.21E-5 5$QC=2.30E-6 4                                              
+227TH  L 231.46    9  (5/2-,7/2-,9/2-)                                          
+227THX L XREF=A                                                                 
+227TH cL J$(M1) 157.8|g to (7/2-).                                              
+227TH  G 157.79    8  100       (M1)                    5.08                    
+227THF G FLAG=ab                                                                
+227THS G KC=4.06 6$LC=0.773 11$MC=0.186 3$NC=0.0496 7$OC=0.01173 17$            
+227THS G PC=0.00228 4$QC=0.000216 3                                             
+227TH  L 269.08    24 (9/2-)                                                Y   
+227THX L XREF=D                                                                 
+227TH cL J$E2 119|g to (5/2-); band assignment                                  
+227TH  G 64.8      3  69     10                                                 
+227TH  G 119.1     3  100    15 E2                      5.27  10                
+227THF G FLAG=j                                                                 
+227THS G KC=0.253 4$LC=3.67 7$MC=1.007 19$NC=0.270 5$OC=0.0602 11$              
+227THS G PC=0.01003 19$QC=5.46E-5 9                                             
+227TH  L 289.04    3  (1/2+,3/2+,5/2+)                                          
+227THX L XREF=A                                                                 
+227TH cL J$M1 264.7|g to (3/2+)                                                 
+227TH  G 60.6      2  3.6    11                                                 
+227THF G FLAG=ab                                                                
+227TH  G 189.9     3  6.0    20                                                 
+227THF G FLAG=ab                                                                
+227TH  G 211.4     2  14     3                                                  
+227THF G FLAG=ab                                                                
+227TH  G 264.66    3  100    8  M1                      1.191                   
+227THF G FLAG=ab                                                                
+227THS G KC=0.953 14$LC=0.180 3$MC=0.0432 6$NC=0.01152 17$OC=0.00273 4$         
+227THS G PC=0.000529 8$QC=5.02E-5 7                                             
+227TH  G 279.76    5  53     6                                                  
+227THF G FLAG=ab                                                                
+227TH  G 289.01    6  44     6                                                  
+227THF G FLAG=ab                                                                
+227TH  L 318.96    7  (5/2+,7/2+)                                               
+227THX L XREF=A                                                                 
+227TH cL J$M1 309.7|g to (5/2+), 242.7|g to (9/2+)                              
+227TH  G 241.2     3  6      3                                                 ?
+227THF G FLAG=ab                                                                
+227TH  G 242.7     2  14     5                                                  
+227THF G FLAG=ab                                                                
+227TH  G 294.5     2  25     8                                                  
+227THF G FLAG=ab                                                                
+227TH  G 309.68    7  100    17 M1                      0.772                   
+227THF G FLAG=ab                                                                
+227THS G KC=0.618 9$LC=0.1162 17$MC=0.0279 4$NC=0.00744 11$OC=0.001762 25$      
+227THS G PC=0.000342 5$QC=3.24E-5 5                                             
+227TH  L 344.2     4  (17/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$E2 162|g to (13/2+); band assignment                                 
+227TH  G 162.0     3  100       E2                      1.472 24                
+227THF G FLAG=j                                                                 
+227THS G KC=0.221 4$LC=0.916 15$MC=0.251 4$NC=0.0672 11$OC=0.01503 25$          
+227THS G PC=0.00252 4$QC=2.16E-5 4                                              
+227TH  L 372.8     6  (15/2-)                                               Z   
+227THX L XREF=D                                                                 
+227TH cL J$E1 191|g to (13/2+); band assignment                                 
+227TH  G 190.6     5  100       E1                      0.105717                
+227THF G FLAG=j                                                                 
+227THS G KC=0.0835 13$LC=0.0168 3$MC=0.00405 7$NC=0.001070 17$OC=0.000247 4$    
+227THS G PC=4.52E-5 7$QC=3.13E-6 5                                              
+227TH  L 383.0     3  (11/2+)                                               W   
+227THX L XREF=D                                                                 
+227TH cL J$E1 113.9|g to (9/2-), 178.7|g to (7/2+); band assignment             
+227TH  G 113.9     3  100    15 E1                      0.358 6                 
+227THF G FLAG=j                                                                 
+227THS G KC=0.275 5$LC=0.0630 10$MC=0.01528 24$NC=0.00402 7$OC=0.000917 15$     
+227THS G PC=0.000163 3$QC=9.81E-6 15                                            
+227TH  G 178.7     3  56     8                                                  
+227TH  L 400.14    20                                                           
+227THX L XREF=A                                                                 
+227TH  G 111.1     2  100                                                       
+227THF G FLAG=ab                                                                
+227TH  L 438.5     3  (13/2-)                                               Y   
+227THX L XREF=D                                                                 
+227TH cL J$E2 169.4|g to (9/2-); band assignment                                
+227TH  G 55.6      5                                                            
+227TH  G 169.4     3            E2                      1.235 20                
+227THS G KC=0.207 3$LC=0.752 12$MC=0.206 4$NC=0.0551 9$OC=0.01234 20$           
+227THS G PC=0.00207 4$QC=1.91E-5 3                                              
+227TH  L 448.14    18                                                           
+227THX L XREF=B                                                                 
+227TH  G 264.6     2  100    25                                                 
+227THF G FLAG=cd                                                                
+227TH  G 370.0     7  10     AP                                                 
+227THF G FLAG=cd                                                                
+227TH  G 409.5     5  13     AP                                                 
+227THF G FLAG=cd                                                                
+227TH  L 503.36    19                                                           
+227THX L XREF=B                                                                 
+227TH  G 319.6     3  100    27                                                 
+227THF G FLAG=cd                                                                
+227TH  G 404.1     5  22     11                                                 
+227THF G FLAG=cd                                                                
+227TH  L 547.02    15                                                           
+227THX L XREF=B                                                                 
+227TH cL $A 294.6-keV |g ray, reported from {+227}Pa |e decay, feeds a          
+227TH2cL 252.4-keV level that was not adopted.                                  
+227TH  G 363.3     4  54     23                                                 
+227THF G FLAG=cd                                                                
+227TH  G 419.6     3  100    23                                                 
+227THF G FLAG=cd                                                                
+227TH  G 522.8     3  92     31                                                 
+227THF G FLAG=cd                                                                
+227TH  G 537.7     7  31     15                                                 
+227THF G FLAG=cd                                                                
+227TH  L 553.6     6  (19/2-)                                               Z   
+227THX L XREF=D                                                                 
+227TH cL J$E1 209|g to (17/2+); band assignment                                 
+227TH  G 209.4     5  100       E1                      0.084713                
+227THF G FLAG=j                                                                 
+227THS G KC=0.0671 11$LC=0.01330 21$MC=0.00320 5$NC=0.000846 13$OC=0.000195 3$  
+227THS G PC=3.59E-5 6$QC=2.55E-6 4                                              
+227TH  L 559.9     5  (21/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$216|g to (17/2+); band assignment                                    
+227TH  G 215.7     3  100                                                       
+227TH  L 607.7     3  (15/2+)                                               W   
+227THX L XREF=D                                                                 
+227TH cL J$E1 169|g to (13/2-), E2 225|g to (11/2+); band assignment            
+227TH  G 169.2     3  100    30 E1                      0.1403                  
+227THS G KC=0.1103 17$LC=0.0227 4$MC=0.00548 8$NC=0.001446 22$OC=0.000333 5$    
+227THS G PC=6.06E-5 9$QC=4.07E-6 6                                              
+227TH  G 224.7     3  59     15 E2                      0.434                   
+227THS G KC=0.1280 19$LC=0.225 4$MC=0.0610 10$NC=0.01634 25$OC=0.00367 6$       
+227THS G PC=0.000623 10$QC=9.11E-6 14                                           
+227TH  L 616.7     4                                                        a   
+227THX L XREF=D                                                                 
+227TH  G 233.7     3  100                                                       
+227TH  L 662.2     4  (17/2-)                                               Y   
+227THX L XREF=D                                                                 
+227TH cL J$223.7|g to (13/2-); band assignment                                  
+227TH  G 54.5      5                                                            
+227TH  G 223.7     3                                                            
+227TH  L 688.70    15                                                           
+227THX L XREF=B                                                                 
+227TH  G 141.7     2  34     8                                                  
+227THF G FLAG=cd                                                                
+227TH  G 185.3     2  63     16                                                 
+227THF G FLAG=cd                                                                
+227TH  G 460.2     4  47     13                                                 
+227THF G FLAG=cd                                                                
+227TH  G 561.4     3  100    16                                                 
+227THF G FLAG=cd                                                                
+227TH  G 589.5     4  37     11                                                 
+227THF G FLAG=cd                                                                
+227TH  L 698.3     4                                                            
+227THX L XREF=B                                                                 
+227TH  G 469.7     4  100                                                       
+227TH  L 778.1     6  (23/2-)                                               Z   
+227THX L XREF=D                                                                 
+227TH cL J$224.5|g to (19/2-); band assignment                                  
+227TH  G 218.2     5                                                            
+227TH  G 224.5     5                                                            
+227TH  L 823.6     6  (25/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$263.7|g to (21/2+); band assignment                                  
+227TH  G 263.7     3  100                                                       
+227TH  L 870.3     4                                                        a   
+227THX L XREF=D                                                                 
+227TH  G 253.6     5  51     10                                                 
+227TH  G 262.6     5  100    20                                                 
+227TH  L 873.4     4  (19/2+)                                               W   
+227THX L XREF=D                                                                 
+227TH cL J$E1 211|g to (17/2-), 265.7|g to (15/2+); band assignment             
+227TH  G 211.2     3  100    15 E1                      0.0830                  
+227THF G FLAG=j                                                                 
+227THS G KC=0.0658 10$LC=0.01302 19$MC=0.00313 5$NC=0.000828 12$OC=0.000191 3$  
+227THS G PC=3.52E-5 5$QC=2.50E-6 4                                              
+227TH  G 265.7     5  55     11                                                 
+227TH  L 937.2     5  (21/2-)                                               Y   
+227THX L XREF=D                                                                 
+227TH cL J$275|g to (17/2-); band assignment                                    
+227TH  G 275.0     3  100                                                       
+227TH  L 1046.6    6  (27/2-)                                               Z   
+227THX L XREF=D                                                                 
+227TH cL J$268.5|g to (23/2-); band assignment                                  
+227TH  G 223.0     5  79     14                                                 
+227TH  G 268.5     5  100    21                                                 
+227TH  L 1123.8    7                                                        b   
+227THX L XREF=D                                                                 
+227TH  G 253.5     5  100                                                       
+227TH  L 1129.6    6  (29/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$306|g to (25/2+); band assignment                                    
+227TH  G 306.0     3  100                                                       
+227TH  L 1167.9    5                                                        a   
+227THX L XREF=D                                                                 
+227TH  G 294.5     5  100    20                                                S
+227TH  G 297.6     5  48     9                                                  
+227TH  L 1177.0    5  (23/2+)                                               W   
+227THX L XREF=D                                                                 
+227TH cL J$E1 240|g to (21/2-), 304|g to (19/2+); band assignment               
+227TH  G 239.8     5  100    20 E1                      0.061810                
+227THS G KC=0.0492 8$LC=0.00954 15$MC=0.00229 4$NC=0.000606 9$OC=0.0001404 21$  
+227THS G PC=2.60E-5 4$QC=1.90E-6 3                                              
+227TH  G 303.7     5  68     14                                                 
+227TH  L 1258.2    5  (25/2-)                                               Y   
+227THX L XREF=D                                                                 
+227TH cL J$321|g to (21/2-); band assignment                                    
+227TH  G 321.0     3  100                                                       
+227TH  L 1357.9    7  (31/2-)                                               Z   
+227THX L XREF=D                                                                 
+227TH cL J$311|g to (27/2-); band assignment                                    
+227TH  G 228.3     5  46     8                                                  
+227TH  G 311.3     5  100    23                                                 
+227TH  L 1437.6    7                                                        b   
+227THX L XREF=D                                                                 
+227TH  G 269.7     5  100                                                       
+227TH  L 1472.3    7  (33/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$343|g to (29/2+); band assignment                                    
+227TH  G 342.7     5  100                                                       
+227TH  L 1502.3    5                                                        a   
+227THX L XREF=D                                                                 
+227TH  G 325.2     5  82     18                                                 
+227TH  G 334.4     5  100    18                                                 
+227TH  L 1515.6    6  (27/2+)                                               W   
+227THX L XREF=D                                                                 
+227TH cL J$339|g to (23/2+); band assignment                                    
+227TH  G 257.4     5  100    20                                                 
+227TH  G 338.6     5  47     10                                                 
+227TH  L 1618.8    7  (29/2-)                                               Y   
+227THX L XREF=D                                                                 
+227TH cL J$360.6|g to (25/2-); band assignment                                  
+227TH  G 360.6     5  100                                                       
+227TH  L 1708.7    8  (35/2-)                                               Z   
+227THX L XREF=D                                                                 
+227TH cL J$351|g to (31/2-); band assignment                                    
+227TH  G 236.4     5                                                           S
+227TH  G 350.8     5                                                            
+227TH  L 1782.2    7                                                        b   
+227THX L XREF=D                                                                 
+227TH  G 279.9     5  100                                                       
+227TH  L 1845.8    8  (37/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$373.5|g to (33/2+); band assignment                                  
+227TH  G 373.5     5  100                                                       
+227TH  L 1867.1    6                                                        a   
+227THX L XREF=D                                                                 
+227TH  G 351.5     5                                                            
+227TH  G 364.9     5                                                            
+227TH  L 1887.2    7  (31/2+)                                               W   
+227THX L XREF=D                                                                 
+227TH cL J$371.6|g to (27/2+); band assignment                                  
+227TH  G 371.6     5  100                                                       
+227TH  L 2013.3    9  (33/2-)                                               Y   
+227THX L XREF=D                                                                 
+227TH cL J$394.5|g to (29/2-); band assignment                                  
+227TH  G 394.5     5  100                                                       
+227TH  L 2094.5    8  (39/2-)                                               Z   
+227THX L XREF=D                                                                 
+227TH cL J$385|g to (35/2-); band assignment                                    
+227TH  G 248.7     5                                                            
+227TH  G 385.8     5                                                            
+227TH  L 2242.5    10 (41/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$398|g to (37/2+); band assignment                                    
+227TH  G 396.7     5  100                                                       
+227TH  L 2288.9    9  (35/2+)                                               W  ?
+227THX L XREF=D                                                                 
+227TH cL J$402|g to (31/2+); band assignment                                    
+227TH  G 401.7     5  100                                                      ?
+227TH  L 2436.8    10 (37/2-)                                               Y   
+227THX L XREF=D                                                                 
+227TH cL J$423.5|g to (33/2-); band assignment                                  
+227TH  G 423.5     5  100                                                       
+227TH  L 2655.1    11 (45/2+)                                               X   
+227THX L XREF=D                                                                 
+227TH cL J$413|g to (41/2+); band assignment                                    
+227TH  G 412.6     5  100                                                       

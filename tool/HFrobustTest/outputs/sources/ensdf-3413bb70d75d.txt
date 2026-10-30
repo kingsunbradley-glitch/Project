@@ -1,0 +1,240 @@
+230PA    ADOPTED LEVELS                                          24NDS    202408
+230PA  H TYP=FUL$AUT=C. Morse$CIT=NDS 197, 259 (2024).$CUT=26-Sep-2023$         
+230PA  Q 559       5  5795   4  4701   4  5439.4  7    2021Wa16                 
+230PA cQ $S(2n)=12893 {I5},  S(2p)=11299 {I3} (2021Wa16)                        
+230PA c  1948St42: {+230}Pa produced and identified in Th(d,F) at E(d)=19 MeV;  
+230PA2c  and Th(|a,F) at E(|a)=38 MeV using cyclotron at Berkeley laboratory;   
+230PA3c  measured half-life from beta-decay curve. Later the isotope was        
+230PA4c  confirmed by 1949Os01.                                                 
+230PA c  All configurations are from 2013Ko11                                   
+230PA cL E(X)$312, 465, 488 and 1026 are interpreted as doublets from analysis  
+230PA2cL of measured cross sections and comparison with theoretical values for  
+230PA3cL assigned configurations                                                
+230PA cL J$From fingerprint method (2013Ko11) in (pol d,t), unless otherwise    
+230PA2cL specified                                                              
+230PA CL BAND(A)$K{+|p}=2{+-}, |p1/2[530]+|n3/2[631]. While                     
+230PA2cL configuration=|p1/2[530]+|n3/2[631], K{+|p}=2{+-} is more probable,    
+230PA3cL |p1/2[530]-|n5/2[633], K|p=2{+-} cannot be ruled out                   
+230PA CL BAND(B)$K{+|p}=2{+-}, |p1/2[530]-|n5/2[633]. While                     
+230PA2cL configuration=|p1/2[530]-|n5/2[633], K{+|p}=2{+-} is more probable,    
+230PA3cL |p1/2[530]+|n3/2[631], K|p=2{+-} cannot be ruled out                   
+230PA CL BAND(C)$K|p=3-, |p1/2[530]+|n5/2[633]                                  
+230PA CL BAND(D)$K|p=0-, |p1/2[530]-|n1/2[631]                                  
+230PA CL BAND(E)$K|p=1-, |p1/2[530]-|n3/2[631]                                  
+230PA CL BAND(F)$K|p=1-, |p1/2[530]+|n1/2[631]                                  
+230PA CL BAND(G)$K|p=0+, |p1/2[530]-|n1/2[501]                                  
+230PA CL BAND(H)$K|p=1+, |p1/2[530]+|n1/2[501]                                  
+230PA CL BAND(I)$K|p=2+, |p1/2[530]+|n3/2[501]                                  
+230PA CL BAND(J)$K|p=1+, |p1/2[530]-|n3/2[501]                                  
+230PA CL BAND(K)$K|p=2+, |p1/2[530]-|n5/2[503]                                  
+230PA CL BAND(L)$K|p=3+, |p1/2[530]+|n5/2[503]                                  
+230PA  XA230TH(3HE,T)                                                           
+230PA  XB231PA(POL D,T)                                                         
+230PA  L 0.0          2-                17.4 D    4                         A   
+230PAX L XREF=B                                                                 
+230PA2 L %B-=7.7 7$%EC+%B+=92.3 7$%A=0.0032 1$MOMM1=2.00 29 (1989He07)          
+230PA cL $%|a=0.0032 {I1} (1966Ba14); 0.0031 {I5} (1965Br32); 0.0043 {I7}       
+230PA2cL (1964Mc21); 0.003 (1950Me08).                                          
+230PA cL $%|b{+-} and %|e branchings have been deduced by evaluator using       
+230PA2cL |g-ray data and decay schemes given in 1994Ac02 and 1972Va24,          
+230PA3cL assuming no direct decay to the ground states of {+230}U and {+230}Th  
+230PA4cL and that |S(I{-|g}+I{-ce})=100 for transitions feeding the ground      
+230PA5cL states. Other decay measurements: 1948St42, 1955On07, 1966Ba14,        
+230PA6cL 1970Lo02, 1971Ku25.                                                    
+230PA cL $T{-1/2}: Weighted average of 17.0 d {I5} (1948St42) and 17.7 d {I5}   
+230PA2cL (1949Os01)                                                             
+230PA cL MOMM1$Static nuclear orientation with |g-ray detection (1989He07)      
+230PA cL J$|b feedings to 1- and 3+ states in {+230}Th; finger-print method in  
+230PA2cL (pol d,t)                                                              
+230PA cL $Analogy to {+231}Pa and to {+229}Th would suggest that the odd        
+230PA2cL proton and odd neutron in {+230}Pa are in the 1/2[530] and 5/2[633]    
+230PA3cL orbits, respectively. From the Gallagher-Moszkowski coupling rule,     
+230PA4cL these states would be expected to couple to J|p=2-. 1989He07 suggests  
+230PA5cL octupole deformation in {+230}Pa ground state with a proton in the     
+230PA6cL 5/2[642] and a neutron in the 1/2[631] orbitals by comparing measured  
+230PA7cL and calculated |m values for various Nilsson states.  Note that        
+230PA8cL 2013Ko11 assigns the ground state configuration as                     
+230PA9cL |p1/2[530]+|n3/2[631] (K{+|p}=2{+-}).                                  
+230PA  L 28        1  (3-)                                                  A   
+230PAX L XREF=B                                                                 
+230PA  L 48        1  (2-)                                                  B   
+230PAX L XREF=B                                                                 
+230PA  L 66        1  (4-)                                                  A   
+230PAX L XREF=B                                                                 
+230PA  L 69        2  (3-)                                                  B   
+230PAX L XREF=B                                                                 
+230PA  L 104       1  (4-)                                                  B   
+230PAX L XREF=B                                                                 
+230PA  L 112       1  (5-)                                                  A   
+230PAX L XREF=B                                                                 
+230PA  L 146       1  (5-)                                                  B   
+230PAX L XREF=B                                                                 
+230PA  L 157       1  (3-)                                                  C   
+230PAX L XREF=B                                                                 
+230PA  L 170       1  (6-)                                                  A   
+230PAX L XREF=B                                                                 
+230PA  L 199       1  (4-)                                                  C   
+230PAX L XREF=B                                                                 
+230PA  L 202       1  (0-)                                                  D   
+230PAX L XREF=B                                                                 
+230PA  L 223       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 237       1  (2-)                                                  D   
+230PAX L XREF=B                                                                 
+230PA  L 247       1  (5-)                                                  C   
+230PAX L XREF=B                                                                 
+230PA  L 259       1  (1-)                                                  E   
+230PAX L XREF=B                                                                 
+230PA  L 284       1  (2-)                                                  E   
+230PAX L XREF=B                                                                 
+230PA  L 297       1  (1-)                                                  D   
+230PAX L XREF=B                                                                 
+230PA  L 312       1  (6-)                                                  C   
+230PAX L XREF=B                                                                 
+230PAF L FLAG=X                                                                 
+230PA  L 312       1  (3-)                                                  E   
+230PAX L XREF=B                                                                 
+230PAF L FLAG=X                                                                 
+230PA  L 322       1  (4-)                                                  D   
+230PAX L XREF=B                                                                 
+230PA  L 341       1  (1-)                                                  F   
+230PAX L XREF=B                                                                 
+230PA  L 350       1  (4-)                                                  E   
+230PAX L XREF=B                                                                 
+230PA  L 357       1  (3-)                                                  D   
+230PAX L XREF=B                                                                 
+230PA  L 373       1  (2-)                                                  F   
+230PAX L XREF=B                                                                 
+230PA  L 401       1  (5-)                                                  E   
+230PAX L XREF=B                                                                 
+230PA  L 409       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 423       1  (3-)                                                  F   
+230PAX L XREF=B                                                                 
+230PA  L 437       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 455       1  (6-)                                                  D   
+230PAX L XREF=B                                                                 
+230PA  L 465       1  (5-)                                                  D   
+230PAX L XREF=B                                                                 
+230PAF L FLAG=X                                                                 
+230PA  L 465       1  (6-)                                                  E   
+230PAX L XREF=B                                                                 
+230PAF L FLAG=X                                                                 
+230PA  L 488       1  (4-)                                                  F   
+230PAX L XREF=B                                                                 
+230PAF L FLAG=X                                                                 
+230PA  L 488       1  (0+)                                                  G   
+230PAX L XREF=B                                                                 
+230PAF L FLAG=X                                                                 
+230PA  L 497       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 506       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 518       1  (2+)                                                  G   
+230PAX L XREF=B                                                                 
+230PA  L 532       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 538       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 559       1  (1+)                                                  G   
+230PAX L XREF=B                                                                 
+230PA  L 580       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 594       1  (4+)                                                  G   
+230PAX L XREF=B                                                                 
+230PA  L 605       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 618       1  (3+)                                                  G   
+230PAX L XREF=B                                                                 
+230PA  L 634       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 641       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 662       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 689       1  (1+)                                                  H   
+230PAX L XREF=B                                                                 
+230PA  L 713       1  (2+)                                                  H   
+230PAX L XREF=B                                                                 
+230PA  L 735       1  (2+)                                                  I   
+230PAX L XREF=B                                                                 
+230PA  L 747       1  (3+)                                                  H   
+230PAX L XREF=B                                                                 
+230PA  L 755       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 772       1  (3+)                                                  I   
+230PAX L XREF=B                                                                 
+230PA  L 795       1  (4+)                                                  H   
+230PAX L XREF=B                                                                 
+230PA  L 807       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 828       1  (4+)                                                  I   
+230PAX L XREF=B                                                                 
+230PA  L 865       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 873       1  (1+)                                                  J   
+230PAX L XREF=B                                                                 
+230PA  L 887       1  (2+)                                                  K   
+230PAX L XREF=B                                                                 
+230PA  L 906       1  (2+)                                                  J   
+230PAX L XREF=B                                                                 
+230PA  L 921       1  (3+)                                                  K   
+230PAX L XREF=B                                                                 
+230PA  L 944       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 958       1  (3+)                                                  J   
+230PAX L XREF=B                                                                 
+230PA  L 969       1  (4+)                                                  K   
+230PAX L XREF=B                                                                 
+230PA  L 992       1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1012      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1026      1  (4+)                                                  J   
+230PAX L XREF=B                                                                 
+230PAF L FLAG=X                                                                 
+230PA  L 1026      1  (5+)                                                  K   
+230PAX L XREF=B                                                                 
+230PAF L FLAG=X                                                                 
+230PA  L 1035      1  (3+)                                                  L   
+230PAX L XREF=B                                                                 
+230PA  L 1057      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1092      1  (4+)                                                  L   
+230PAX L XREF=B                                                                 
+230PA  L 1112      1  (5+)                                                  J   
+230PAX L XREF=B                                                                 
+230PA  L 1129      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1145      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1163      1  (5+)                                                  L   
+230PAX L XREF=B                                                                 
+230PA  L 1173      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1195      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1211      1  (6+)                                                  J   
+230PAX L XREF=B                                                                 
+230PA  L 1218      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1243      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1256      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1318      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1336      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1349      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 1361      1                                                            
+230PAX L XREF=B                                                                 
+230PA  L 17763     18 0+                210 KEV   11                            
+230PAX L XREF=A                                                                 
+230PA2 L %P=56 6 (1991Ja04)$WIDTHP=118 14 (1991Ja04)                            
+230PA cL $Spreading width (neutron and fission decays)=92 keV {I14} (1991Ja04)  
+230PA cL $Deduced Coulomb displacement energy=19856 keV {I17} (1991Ja04)        
+230PA cL J$IAS of {+230}Th g.s.                                                 
+230PA cL $|G from 1991Ja04                                                      

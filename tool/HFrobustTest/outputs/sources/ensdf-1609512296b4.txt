@@ -1,0 +1,55 @@
+251ES    255MD A DECAY                 1970Fi12,2000Ah02,2005He2723NDS    202305
+251ES  H TYP=ERR$AUT=C. Morse$DAT=4-Dec-2023$COM=Fixed malformed comment$       
+251ES  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251ES cL E,J$From Adopted Levels, except for 513-keV level.                     
+251ES c  $ 2000Ah02 only places the 7326-keV |a in the level scheme.  The       
+251ES2c  remaining |a decays have been placed by the evaluator based on the     
+251ES3c  similarity of the level energies deduced from the |a-decay energies    
+251ES4c  to the level energies determined in the |e-decay and (|a,t) datasets.  
+251ES cA E,IA$From 2000Ah02, unless otherwise noted.                            
+251ES cA HF$The nuclear radius parameter r{-0}({+251}Es)=1.4825 {I14} is        
+251ES2cA deduced from interpolation (or unweighted average) of radius           
+251ES3cA parameters of the adjacent even-even nuclides (2020Si16).              
+251ES CL BAND(A)$|p7/2+[633] band.                                              
+251ES CL BAND(B)$|p7/2-[514] band.                                              
+251ES c  $ 2005He27: {+255}Md produced as grand-daughter of {+255}Lr (|e decay) 
+251ES2c  produced in reaction: {+209}Bi({+48}Ca,2n) E=4.55-4.65 MeV/nucleon;    
+251ES3c  and as daughter of {+255}No produced in reaction:                      
+251ES4c  {+208}Pb({+48}Ca,4n) E=4.45 MeV/nucleon. {+255}Lr decays by |e to      
+251ES5c  {+255}No which further decays by |e decay to {+255}Md. Evaporation     
+251ES6c  residues were separated from the primary beam by velocity SHIP at GSI  
+251ES7c  facility. Measured (fragments)|a coin, |a|g coin, prompt and delayed   
+251ES8c  |g rays, K-x rays. A Clover detector was used for |g rays.             
+255MD  P 0            (7/2-)            27 M      2              7905.6   17    
+255MD cP T$From 1970Fi12.                                                       
+255MD cP QP$From 2021Wa16                                                       
+251ES  N 1                      0.07   1                                        
+251ES cN BR$From 1970Fi12.                                                      
+251ES  L 0            3/2-                                                      
+251ES2 L CONF=|p3/2-[521]                                                       
+251ES  L 8.34      23 (7/2)+                                                A   
+251ES2 L CONF=|p7/2+[633]                                                       
+251ES  L 31.70     20 5/2-                                                      
+251ES  A 7752      8 1.0     2 7.7E3   20                                       
+251ES  L 55.85     23 (9/2)+                                                A   
+251ES  L 76.1      3  7/2-                                                      
+251ES  A 7714      8 1.0     2 5.6E3   15                                       
+251ES  L 461.40    22 7/2-                                                  B   
+251ES2 L CONF=|p7/2-[514]                                                       
+251ES  G 405.35    21 75     5                                                  
+251ES cG E$Weighted average of 405.5 {I3} keV (2000Ah02) and 405.2 {I3} keV     
+251ES2cG (2005He27).                                                            
+251ES cG RI$Weighted average of 72.7 {I72} (normalized to the intensity of the  
+251ES2cG 453-keV transition in 2000Ah02) and 76 {I8} (2005He27).                
+251ES  G 452.90    21 100                                                       
+251ES cG E$Weighted average of 453.0 {I3} keV (2000Ah02) and 452.8 {I3} keV     
+251ES2cG (2005He27).                                                            
+251ES  A 7326      4 93      3 2.1     4                                        
+251ES cA E$Weighted average of 7327 {I4} keV (2000Ah02) and 7313 {I15} keV      
+251ES2cA (2005He27).                                                            
+251ES  L 513       6  (9/2-)                                                B  ?
+251ES cL E$From |DE{-|a} assuming that the 7274-keV |a-decay populates the      
+251ES2cL 9/2{+-} member of the 7/2{+-}[514] band. This is rather different      
+251ES3cL than E(level)=523 {I2} keV from 250Cf(|a,t), and should be regarded    
+251ES4cL as tentative.  Not included in Adopted Levels.                         
+251ES  A 7274      5 5.0     5 25      5                                        

@@ -1,0 +1,43 @@
+249MD    ADOPTED LEVELS                                          24NDS    202403
+249MD  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249MD  Q -4610     SY 7840   SY 2.01E3 16 8441   SY    2021WA16                 
+249MD cQ $|DQ(|b{+-})=320, |DS(n)=250, |DQ(|a)=18 (syst,2021Wa16)               
+249MD cQ $S(2n)=14900 {I270} (syst), S(2p)=5980 {I170} (2021Wa16)               
+249MD c                                                                         
+249MD  XA253LR A DECAY (1.61 S)                                                 
+249MD  XB253LR A DECAY (0.63 S)                                                 
+249MD  XC203TL(48CA,2NG)                                                        
+249MD  L 0.0             (7/2-)        24.8 S    10                             
+249MDX L XREF=ABC                                                               
+249MD2 L %A=75 5 $%EC+%B+ LT 25 $%SF=?                                          
+249MD cL %A$From counting of |a decays of {+249}Md and its |e/|b{++}-decay      
+249MD2cL daughter {+249}Fm, with %|a({+249}Fm)=16 {I1}                          
+249MD3cL T{-1/2}({+249}Fm)=2.6 min {I7} (see Adopted levels for {+249}Fm).      
+249MD4cL Others: From |a-|a correlations %|a>60 (1985He22)                      
+249MD cL T$From weighted average of 26 s {I1} (2019Br06), 23 s {I3} (2009He20), 
+249MD2cL 23.8 s {I+38-29} (2008Ga25), 19 s {I+3-2} (2001He35,2005KuZZ),         
+249MD3cL 25 s {I+14-7} (1985He22), and 24 s {I4} (1973Es01).                    
+249MD cL J$From 7/2-[514] configuration assigned in the {+253}Lr |a decay       
+249MD2cL (2022Hu21,2009He20,2005KuZZ), systematics with neighboring Md odd      
+249MD3cL isotopes; {+247}Md, {+251}Md, {+253}Md and quasiparticle-phonon model  
+249MD4cL calculation (2013Sh45)                                                 
+249MD cL $Configuration=7/2-[514] (2022Hu21)                                    
+249MD  L  0.0+X         (1/2-)         1.5 S     +12-5                       M1 
+249MDX L XREF=A                                                                 
+249MD2 L %A=?                                                                   
+249MD cL J$From 1/2-[521] configuration assigned in the {+253}Lr |a decay       
+249MD2cL (2009He20,2005KuZZ), systematics with neighboring Md odd isotopes;     
+249MD3cL {+247}Md, {+251}Md, {+253}Md and quasiparticle-phonon model            
+249MD4cL calculation (2013Sh45)                                                 
+249MD cL $Configuration=1/2-[521] (2022Hu21)                                    
+249MD cL T$From 2001He35                                                        
+249MD  L 127       24(11/2-)                                                    
+249MDX L XREF=B                                                                 
+249MD cL J$From similarity with the 8420-keV line in {+255}Lr depopulating      
+249MD2cL the 7/2- level and feeding the 11/2- rotational state at |? 135 keV    
+249MD2cL in {+251}Md (2006Ch52)                                                 
+249MD  L 910       GE (19/2-)          2.8 MS    5                           M2 
+249MDX L XREF=C                                                                 
+249MD cL T$From time distribution of recoil-electron correlation (2021Go26).    
+249MD cL J$From configuration                                                   
+249MD cL $Configuration=|p7/2-[514]~#5/2+[622]~#7/2+[624] (2021Go26)            

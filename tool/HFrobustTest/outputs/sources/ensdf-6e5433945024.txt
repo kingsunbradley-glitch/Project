@@ -1,0 +1,31 @@
+216AC    ADOPTED LEVELS                                          26NDS    202603
+216AC  H TYP=FUL$AUT=C. Morse$CIT=NDS 209, 409 (2026)$CUT=5-Aug-2025$           
+216AC  Q -2149     14 5952   15 1671   12 9241    3    2021Wa16                 
+216AC cQ $S(2n)=14426 {I16},  S(2p)=5470 {I13},  Q(|ep)=543 {I12} (2021Wa16)    
+216AC c  The previous evaluation of {+216}Ac (2007Wu02) adopted a 48-keV        
+216AC2c  (9{+-}) isomer.  However, as discussed in the most recent evaluation   
+216AC3c  of {+212}Fr (2020Au03), 2004Ku24 found that the decay data can be      
+216AC4c  explained by a single |a-decay from the low-spin ground state.         
+216AC5c  Further, the |a-decay hindrance factors do not support a high-spin     
+216AC6c  isomer, and the ratio of the |a-decay lines does not change with       
+216AC7c  bombarding energy as expected if there are two different states.       
+216AC8c  Therefore, the 48-keV (9{+-}) level has been removed in the present    
+216AC9c  evaluation.                                                            
+216AC  XA220PA A DECAY (0.82 US)                                                
+216AC  XB220PA A DECAY (0.31 US)                                                
+216AC  XC220PA A DECAY (0.23 US)                                                
+216AC  XD220PA A DECAY (0.07 US)                                                
+216AC  L 0            (1-)              0.374 MS  22                            
+216ACX L XREF=ABCD                                                              
+216AC2 L %A=100                                                                 
+216AC cL T$Unweighted average of 0.33 ms {I2} (1970To18), 0.39 ms {I6}          
+216AC2cL (2005Li17), 0.36 ms {I7} (2017Hu08), 0.440 ms {I16} (2000He17), and    
+216AC3cL 0.35 ms {I5} (2021Ma66).                                               
+216AC cL J$Suggested by 1970To01 by analogy with {+212}As and {+214}Fr.         
+216AC  L X                              300 NS    AP                           ?
+216AC cL $A single 322-keV |g ray was reported in 2006PoZX, which apparently    
+216AC2cL depopulated a state with T{-1/2}|?300 ns.  The authors hypothesized    
+216AC3cL that this |g ray populates a (9{+-}) isomeric state, which is no       
+216AC4cL longer adopted here (see comment at the top of this dataset).  As no   
+216AC5cL other evidence for this state has been observed, its existence should  
+216AC6cL be considered very tenuous.                                            

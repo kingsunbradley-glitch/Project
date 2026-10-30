@@ -1,0 +1,244 @@
+210FR    ADOPTED LEVELS, GAMMAS                                  14NDS    201408
+210FR  H TYP=FUL$AUT=M. SHAMSUZZOHA BASUNIA$CIT=NDS 121, 561 (2014)$            
+210FR2 H CUT=31-Mar-2014$                                                       
+210FR  Q -3793     21  7636  21 1693   25 6672   5     2012WA38                 
+210FR c                                                                         
+210FR c  {+210}Fr beam production: 2006St01, 2005Co02                           
+210FR c                                                                         
+210FR cG E,RI,M$From ({+16}O,3n|g):1, except otherwise noted                    
+210FR cG E(C,D),RI(C,D),M(C)$From ({+16}O,3n|g):2                               
+210FR cG E(A),RI(A),M(B)${+214}Ac |a decay                                      
+210FR DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+210FR cG MR$If no value given it was assumed |d=1.00 for E2/M1,                 
+210FR2cG |d=1.00 for E3/M2 and |d=0.10 for the other multipolarities            
+210FR cL E$From a least-squares fit to |g-ray energies.                         
+210FR cL E(X)$Possible (unobserved) transition from this to a low-lying level.  
+210FR cL J$From |g-ray feeding, except otherwise noted.                         
+210FR cL T         From ({+16}O,3n|g):1, except otherwise noted. Systematic     
+210FR2cL uncertainties up to 10% are not included in the quoted uncertainty.    
+210FR cL T(W)      From ({+16}O,3n|g):2, except otherwise noted. Systematic     
+210FR2cL uncertainties up to 10% are not included in the quoted uncertainty.    
+210FR CL BAND(Z)$ |DJ=1 sequence based on (11)                                  
+210FR CL BAND(Y)$ |DJ=1 sequence based on (8+)                                  
+210FR  XA214AC A DECAY                                                          
+210FR  XB176YB(37CL,3NG)                                                        
+210FR  XC197AU(16O,3NG):1                                                       
+210FR  XD197AU(16O,3NG):2                                                       
+210FR PN                                                                     6  
+210FR  L 0.0         6+                3.18 M    6                              
+210FRX L XREF=ACD                                                               
+210FR2 L %A=60 30$ %EC+%B+=40 30                                                
+210FR cL           From |a syst (1980Sc26). Others: 1996Vo14, 1996Si06.         
+210FR cL T$Weighted average of 3.4 min {I2} (2010Ka29), 3.18 min {I6}           
+210FR2cL (1967Va20), and 3.0 min {I2} (1972KeYY). Others: 2.65 min {I8}         
+210FRxcL (1964Gr04), 3.2 min (1978Ek02)                                         
+210FR cL J         from J=6 (1978Ek02) atomic beam.                             
+210FR2cL Configuration=((|p 1h{-9/2})(|n 2f{-5/2})) as for 7+, {+208}Fr g.s.,   
+210FR3cL is consistent with experimental |m (calculated |m=4.33 for this        
+210FRxcL configuration (1986Ek02)).                                             
+210FR3 L MOMM1=+4.40 9$MOME2=+0.19 2                                            
+210FR cL MOMM1,MOME2$LASER induced optical pumping (1985Co24,1989Ra17). Other:  
+210FR2cL |m=4.38 {I5} (Trap LASER spectroscopy - 2008Go11)                      
+210FR cL           Measured isotope shifts (1980Li22,1985Co24,1987Co19).        
+210FR  L 0.0+X                          0.36 US  14                             
+210FR DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+210FRX L XREF=B                                                                 
+210FR cL T         From ({+37}Cl,3n|g)                                          
+210FR  L 62.68      6                                                           
+210FRX L XREF=A                                                                 
+210FR  G 62.6      1  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 138.96     7 (5,6,7)+                                                  
+210FRX L XREF=A                                                                 
+210FR cL J         138.6|g M1 to 6+.                                            
+210FR cL E         From E|g=138.6 keV 2 in {+214}Ac |a decay (2000He17).        
+210FR  G 76.3      1  6      2                                              A   
+210FR  G 138.9     1  100    3 M1                      5.62                 A   
+210FRF G FL=0.0                                                                 
+210FR2 G FLAG=B                                                                 
+210FRS G  KC=4.53 7$LC=0.832 12$MC=0.198 3                                      
+210FRS G  NC=0.0520 8$OC=0.01162 17$PC=0.00186 3$QC=0.0001040 15                
+210FR  L 195.55     8                                                           
+210FRX L XREF=A                                                                 
+210FR  G 133.1     1  37     12                                             A  ?
+210FR  G 195.5     1  100    4                                              A   
+210FRF G FL=0.0                                                                 
+210FR  L 209.06     7                                                           
+210FRX L XREF=AC                                                                
+210FR cL J$7+ in ({+16}O,3n|g). 209|g to 6+ gives 4+,5,6,7,8+.                  
+210FR  G 146.4     1  59     3                                              A   
+210FR  G 209.0     1  100    3                                              A   
+210FRF G FL=0.0                                                                 
+210FR cG M$(M1+E2) in 2004Ku24 ({+214}Ac |a decay), pure E2 not excluded        
+210FR  L 244.20     7 (5,6,7)+                                                  
+210FRX L XREF=A                                                                 
+210FR cL J         244.2|g M1 to 6+                                             
+210FR  G 181.4     1  13     11                                             A   
+210FR  G 244.2     1  100    6 M1                      1.149                A   
+210FRF G FL=0.0                                                                 
+210FR2 G FLAG=B                                                                 
+210FRS G  KC=0.927 13$LC=0.1687 24$MC=0.0402 6                                  
+210FRS G  NC=0.01053 15$OC=0.00235 4$PC=0.000378 6$QC=2.11E-5 3                 
+210FR  L 333.00    10                                                       X   
+210FRX L XREF=A                                                                 
+210FR  G 333.0     1  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 339.50    10                                                       X   
+210FRX L XREF=A                                                                 
+210FR  G 339.5     1  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 346.40    10                                                       X   
+210FRX L XREF=A                                                                 
+210FR  G 346.4     1  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 363.69     9 (4 TO 8)+                                                 
+210FRX L XREF=A                                                                 
+210FR cL J         224.7|g M1 to (5,6,7)+                                       
+210FR  G 154.6     1  78     12                                             A   
+210FR  G 224.7     1  100    9 M1                      1.449                A   
+210FR2 G FLAG=B                                                                 
+210FRS G  KC=1.168 17$LC=0.213 3$MC=0.0507 8                                    
+210FRS G  NC=0.01329 19$OC=0.00297 5$PC=0.000477 7$QC=2.66E-5 4                 
+210FR  G 363.9     2  24     4                                              A   
+210FRF G FL=0.0                                                                 
+210FR  L 444.20    20                                                       X   
+210FRX L XREF=A                                                                 
+210FR  G 444.2     2  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 525.71     7 (4 TO 8)+                                                 
+210FRX L XREF=AC                                                                
+210FR cL J         281.4|g M1 to (5,6,7)+; J|p=9+ in ({+16}O,3n|g)              
+210FR  G 281.4     1  74     7 M1                      0.776                A   
+210FR2 G FLAG=B                                                                 
+210FRS G  KC=0.627 9$LC=0.1137 16$MC=0.0271 4                                   
+210FRS G  NC=0.00709 10$OC=0.001586 23$PC=0.000254 4$QC=1.420E-5 20             
+210FR  G 316.6     2  33     5 (E2)                    0.1233               A   
+210FRS G  KC=0.0623 9$LC=0.0452 7$MC=0.01191 17                                 
+210FRS G  NC=0.00312 5$OC=0.000660 10$PC=9.08E-5 13$QC=1.496E-6 21              
+210FR  G 330.1     1  57     8                                              A   
+210FR  G 386.7     2  31     4                                              A   
+210FR  G 463.0     2  23     4                                              A   
+210FR  G 525.9     1  100    6                                              A   
+210FRF G FL=0.0                                                                 
+210FR  L 601.40    20                                                       X   
+210FRX L XREF=A                                                                 
+210FR  G 601.4     2  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 622.50    20                                                       X   
+210FRX L XREF=A                                                                 
+210FR  G 622.5     2  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 713.4     7                                                        X   
+210FRX L XREF=A                                                                 
+210FR  G 713.4     7  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 729.1     23 (9-)             41 NS     2                              
+210FRX L XREF=C                                                                 
+210FR cL J         2011Ka37 ({+16}O,3n|g) assigned J|p=9- based on 203.4|g (E1) 
+210FR2cL to J|p=9+ (assumed) state at 525 keV. Adopted J|p (4 to 8)+.           
+210FR  G 203.4     23 100                                                       
+210FR cG M$(E1) in ({+16}O,3n|g)                                                
+210FR  L 753.7     7                                                        X   
+210FRX L XREF=A                                                                 
+210FR  G 753.7     7  100                                                   A   
+210FRF G FL=0.0                                                                 
+210FR  L 820.1     14 (8+)             10 PS     +4-6                       Y   
+210FRX L XREF=D                                                                 
+210FR cL J         820.1|g (E2) to 6+                                           
+210FR2 L FLAG=W                                                                 
+210FR  G 820.1     14 100      (E2)                    0.01262              C   
+210FRF G FL=0.0                                                                 
+210FRB G BE2W=2.1 +13-9                                                         
+210FRS G  KC=0.00954 14$LC=0.00232 4$MC=0.000572 9                              
+210FRS G  NC=0.0001498 22$OC=3.27E-5 5$PC=4.97E-6 8$QC=2.06E-7 3                
+210FR  L 986        3 (11)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 256.9     19 100       Q                                               
+210FR  L 1342.7    21 (9+)              0.35 PS  6                          Y   
+210FRX L XREF=D                                                                 
+210FR2 L FLAG=W                                                                 
+210FR  G 522.6     21 100      (M1+E2)                                      C   
+210FR  L 1506       4 (11)                                                      
+210FRX L XREF=C                                                                 
+210FR  G 519.6     20 100        D                                              
+210FR  L 1572.0    22 (10)                                                      
+210FRX L XREF=D                                                                 
+210FR  G 229.4     19 16.7   25  D                                          C   
+210FR  G 751.8     26 100    6   Q                                          C   
+210FR  L 1687       4 (12)                                                      
+210FRX L XREF=C                                                                 
+210FR  G 700.5     24 100        D                                              
+210FR  L 1721.2    22 (10)                                                  Y   
+210FRX L XREF=D                                                                 
+210FR  G 378.4     17 100    10  D                                          C   
+210FR  G 901.2     25 54     8   Q                                          C   
+210FR  L 1731       4 (12)                                                      
+210FRX L XREF=C                                                                 
+210FR  G 225.4     17 100        D                                              
+210FR  L 1803       4 (12)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 816.8     26 100        D                                              
+210FR  L 1973.5    24 (11)                                                  Y   
+210FRX L XREF=D                                                                 
+210FR  G 252.2     19 100    7   D                                          C   
+210FRF G FL=1721.2                                                              
+210FR  G 401.4     22 25     5   D                                          C   
+210FR  L 2058       3 (11)                                                      
+210FRX L XREF=D                                                                 
+210FR  G 486.4     20 100        D                                          C   
+210FR  L 2073       4 (13)                                                      
+210FRX L XREF=C                                                                 
+210FR  G 270.7     15 100        D                                              
+210FR  L 2178.2    25 (12)                                                  Y   
+210FRX L XREF=D                                                                 
+210FR  G 204.7     18 37.8   22  D                                          C   
+210FR  G 606.4     21 100    4   Q                                          C   
+210FR  L 2288       3 (12)                                                      
+210FRX L XREF=D                                                                 
+210FR  G 109.5     20  25    7                                              D   
+210FR  G 715.6     21 100    7   Q                                          C   
+210FR  L 2408       5 (12)                                                      
+210FRX L XREF=C                                                                 
+210FR  G 902.4     25 100        D                                              
+210FR  L 2524       4 (13)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 721.1     22 100.0  21  D                                              
+210FR  G 792.6     22 40     7   D                                              
+210FRF G FL=1731                                                                
+210FR  L 2610       5 (13)                                                      
+210FRX L XREF=C                                                                 
+210FR  G 923.4     25 100        D                                              
+210FR  L 2853       5 (14)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 329.7     19 100        D                                              
+210FR  L 2884       4 (13)                                                      
+210FRX L XREF=D                                                                 
+210FR  G 596.4     24 100        D                                          C   
+210FR  L 2952       5 (13)                                                      
+210FRX L XREF=C                                                                 
+210FR  G 544.2     21 100        D                                              
+210FR  L 3081       4 (14)                                                      
+210FRX L XREF=D                                                                 
+210FR  G 197.4     18 100        D                                          C   
+210FR  L 3359       5 (15)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 505.3     17 21     3   D                                              
+210FR  G 834.7     23 100    8   Q                                              
+210FR  L 3443       5 (15)                                                      
+210FRX L XREF=C                                                                 
+210FR  G 589.2     21 100        D                                              
+210FR  L 3648       5 (16)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 289.3     20 100        D                                              
+210FR  L 3766       5 (17)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 118.6     18 100        D                                              
+210FR  L 4253       6 (18)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 486.2     19 100        D                                              
+210FR  L 4539       6 (19)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 285.9     15 100        D                                              
+210FR  L 5292       6 (20)                                                  Z   
+210FRX L XREF=C                                                                 
+210FR  G 753.9     17 100        D                                              

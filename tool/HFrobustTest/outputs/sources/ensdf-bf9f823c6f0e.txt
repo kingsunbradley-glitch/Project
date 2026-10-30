@@ -1,0 +1,210 @@
+212RA    ADOPTED LEVELS, GAMMAS                                  20NDS    202009
+212RA  H TYP=FUL$AUT=K. Auranen and E.A. McCutchan$CIT=NDS 168, 117 (2020)$     
+212RA2 H CUT=1-Aug-2020$                                                        
+212RA  Q -7480     50 9102   14 3348   16 7031.7  17   2017WA10                 
+212RA cQ $S(2n)=16784{I 14}; S(2p)=5172{I 12}; Q(|ep)=1267{I 13} (2017Wa10).    
+212RA c  2018Ro14: mass measurement, mass excess = -198.1 keV {I248} compared   
+212RA2c  with -199.0 keV {I113} in AME-2016 (2017Wa10).                         
+212RA cL E$From a least square fit to the E|g data.                             
+212RA cL J$From excited levels, based on measured multipolarities of            
+212RA2cL transitions. For states populated in {+204}Pb({+12}C,4n|g) reaction    
+212RA3cL there is the assumption of increasing spin with increasing excitation  
+212RA4cL energy.                                                                
+212RA cG E,RI$From {+204}Pb({+12}C,4n|g), except where noted.                   
+212RA cG M,MR$From |g(|q) and |a(exp) in {+204}Pb({+12}C,4n|g), except where    
+212RA2cG noted.                                                                 
+212RA cG E(C)$From {+216}Th |a decay (133 |ms)                                  
+212RA cL $The adopted level scheme and |g-ray data is largely that proposed     
+212RA2cL and observed in 2018Pa04. It is based on E|g, I|g, |g|g, |g(|q),       
+212RA3cL |g(t), and |a(tot) measurements. The configurations are assigned       
+212RA4cL based on semiempirical shell-model calculations. Some details are      
+212RA5cL supplemented by data from the earlier studies, as indicated.           
+212RA cG E(D)$Transition not observed, but suggested by the |g|g-coincidence    
+212RA2cG analysis of 2018Pa01. E|g deduced by the evaluators from level energy  
+212RA3cG differences.                                                           
+212RA D  CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+212RA  XA216TH A DECAY (26.0 MS)                                                
+212RA  XB216TH A DECAY (133 US)                                                 
+212RA  XC204PB(12C,4NG)                                                         
+212RA PN                                                                     6  
+212RA  L 0.0          0+                13.0 S    2                             
+212RAX L XREF=ABC                                                               
+212RA2 L %EC+%B+ LT 15$%A GT 85                                                 
+212RA cL $Nominal configuration |ph{-9/2}{+6}~#|np{-1/2}{+-2}                   
+212RA cL $Measured |a decay: 2003He06, 2001HeZY, 2014Ya19                       
+212RA cL T$from 1974Ho27. Others: 13 s {I1} (1982Bo04), 15 s {I2} (1968Lo15),   
+212RA2cL 13 s {I2} (1967Va22), 11.8 s {I+13-10} (2000Ni02), 9.9 s {I+46-24}     
+212RA3cL (2014Ya19).                                                            
+212RA cL %A,%EC+%B+$theoretical partial |b decay half-life of >100 s in         
+212RA2cL 2019Mo01 yields %|e+%|b{++}<13. The |e+|b{++} decay mode has not       
+212RA3cL been observed.                                                         
+212RA cL $RMS charge radius <r{+2}>{+1/2}=5.599 fm {I18} (2013An02)             
+212RA  L 629.30    10 2+                                                        
+212RAX L XREF=ABC                                                               
+212RA cL $Possible configuration |ph{-9/2}{+6}~#|np{-1/2}{+-1}f{-5/2}{+-1},     
+212RA2cL but the shell model level energy is 600 keV above the experimental     
+212RA3cL one, possibly indicating configuration mixing.                         
+212RA cL J$E2 629|g to 0+ g.s.                                                  
+212RA  G 629.3     1  100       E2                      0.0230                  
+212RAF G FLAG=C                                                                 
+212RAS G KC=0.01624 23$LC=0.00504 7$MC=0.001273 18$NC=0.000336 5$OC=7.43E-5 11$ 
+212RAS G PC=1.208E-5 17$QC=5.78E-7 8                                            
+212RA  L 1454.30   22 4+                                                        
+212RAX L XREF=BC                                                                
+212RA cL J$E2 825|g to 2+ state.                                                
+212RA  G 825.0     2  100       E2                     0.01311                  
+212RAF G FLAG=C                                                                 
+212RAS G KC=0.00985 14$LC=0.00245 4$MC=0.000607 9$NC=0.0001599 23$OC=3.57E-5 5$ 
+212RAS G PC=5.93E-6 9$QC=3.40E-7 5                                              
+212RA  L 1895.10   24 6+                                                        
+212RAX L XREF=BC                                                                
+212RA cL $Configuration |ph{-9/2}{+6}~#|np{-1/2}{+-2}                           
+212RA cL J$E2 441|g to 4+ state.                                                
+212RA  G 440.8     1  100       E2                      0.0526                  
+212RAF G FLAG=C                                                                 
+212RAS G KC=0.0323 5$LC=0.01508 22$MC=0.00391 6$NC=0.001032 15$OC=0.000226 4$   
+212RAS G PC=3.55E-5 5$QC=1.205E-6 17                                            
+212RA  L 1958.4    20 8+                9.3 US    9                          M1 
+212RAX L XREF=B(1967)C                                                          
+212RA2 L MOMM1=7.104 72 (1986Ko01)                                              
+212RA cL J$from g-factor and supported by configuration assignment              
+212RA cL $configuration=(|ph{-9/2}{+6}~#|np{-1/2}{+-2}){-8+}                    
+212RA cL T$weighted average of 9.6 |ms {I13} from |g(t) in                      
+212RA2cL {+204}Pb({+12}C,4n|g) and 9.1 |ms {I9} from 2006He17 in                
+212RA3cL {+174}Yb({+40}Ar,2n|g).  Other: 7.1 {I2} from 2013Ba29 in              
+212RA4cL {+9}Be({+238}U,X).                                                     
+212RA cL MOMM1$from g-factor=0.888 {I9} (1986Ko01, stroboscopic observation of  
+212RA2cL perturbed angular distributions). Other: 1993Ne04.                     
+212RA  G 63.3      20 100       [E2]                    84    14                
+212RAS G LC=61 11$MC=17 3$NC=4.4 8$OC=0.93 16$PC=0.134 23$QC=0.00032 5          
+212RAB G BE2W=0.0094 +30-20                                                     
+212RA cG E$1986Ko01 observed ce(L) and ce(M), energy uncertainty not given,     
+212RA2cG |+2 keV assumed by the evaluator for further fitting.                  
+212RA  L 2108.4    20 8+                                                        
+212RAX L XREF=C                                                                 
+212RA cL J$E3 505|g from 11- state.                                             
+212RA cL $Configuration |ph{-9/2}{+5}f{-7/2}~#|np{-1/2}{+-2}                    
+212RA  G 150.0     2  100                                                       
+212RA  L 2577.2    20 10+                                                       
+212RAX L XREF=C                                                                 
+212RA cL J$E2 |g to 8+ state.                                                   
+212RA  G 618.8     1  100       E2                      0.0238                  
+212RAS G KC=0.01676 24$LC=0.00529 8$MC=0.001337 19$NC=0.000353 5$OC=7.80E-5 11$ 
+212RAS G PC=1.266E-5 18$QC=5.98E-7 9                                            
+212RA  L 2613.3    20 11-               0.85 US   13                         M2 
+212RAX L XREF=C                                                                 
+212RA2 L MOMM1=12.01 25 (1986Ko01)                                              
+212RA cL J$E3 655|g to 8+ state. Configuration                                  
+212RA2cL |ph{-9/2}{+5}i{-13/2}~#|np{-1/2}{+-2} supported by the measured        
+212RA3cL g-factor.                                                              
+212RA cL T$from {+204}Pb({+12}C,4n|g). Other: 0.48 |ms {I4} from 2013Ba29 in    
+212RA2cL {+9}Be({+238}U,X).                                                     
+212RA cL MOMM1$from the measured g-factor=1.092 {I22} (1986Ko01, stroboscopic   
+212RA2cL observation of perturbed angular distributions).                       
+212RA  G 36.1         57     7  [E1]                    1.67  5                S
+212RAF G FLAG=D                                                                 
+212RAS G LC=1.26 4$MC=0.312 9$NC=0.0800 22$OC=0.0166 5$PC=0.00228 6$            
+212RAS G QC=7.95E-5 18                                                          
+212RAB G BE1W=7.6E-7 +15-12                                                     
+212RA cG RI$Deduced by the evaluator from the intensity balance of the 2577     
+212RA2cG keV level assuming no direct feeding and that                          
+212RA3cG I(|g+ce)(123)=I(|g+ce)(932), i.e. I(|g+ce)(36) =                       
+212RA4cG I(|g+ce)(618)-I(|g+ce)(1025)-I(|g+ce)(932). Similar, but less precise  
+212RA5cG value of I(|g)(36)=56 {I14} was obtained from the intensity balance    
+212RA6cG of the 2613 keV level.                                                 
+212RA  G 504.9     2  100    8  E3                      0.1352                  
+212RAS G KC=0.0617 9$LC=0.0541 8$MC=0.01454 21$NC=0.00386 6$OC=0.000842 12$     
+212RAS G PC=0.0001312 19$QC=3.47E-6 5                                           
+212RAB G BE3W=18 4                                                              
+212RA  G 654.9     2  86     8  E3                      0.0625                  
+212RAS G KC=0.0358 5$LC=0.0198 3$MC=0.00521 8$NC=0.001381 20$OC=0.000304 5$     
+212RAS G PC=4.83E-5 7$QC=1.734E-6 25                                            
+212RAB G BE3W=2.5 5                                                             
+212RA  L 2699.7    20 12+                                                       
+212RAX L XREF=C                                                                 
+212RA cL J$E2 122.5|g to 10+ state.                                             
+212RA  G 122.5     1  100       E2                      4.03                    
+212RAS G KC=0.309 5$LC=2.74 4$MC=0.745 11$NC=0.197 3$OC=0.0419 6$PC=0.00609 9$  
+212RAS G QC=2.87E-5 4                                                           
+212RA  L 3121.6    20 12-                                                       
+212RAX L XREF=C                                                                 
+212RA cL J$M1 283|g from 13- state.                                             
+212RA  G 508.3     1  100       D+Q                                             
+212RA  L 3404.2    20 13-                                                       
+212RAX L XREF=C                                                                 
+212RA cL J$E2 791|g to 11- state.                                               
+212RA  G 282.5     1  58     8  M1                      0.837                   
+212RAS G KC=0.673 10$LC=0.1237 18$MC=0.0295 5$NC=0.00779 11$OC=0.001777 25$     
+212RAS G PC=0.000310 5$QC=2.43E-5 4                                             
+212RA  G 791.0     1  100    15 E2                     0.01426                  
+212RAS G KC=0.01063 15$LC=0.00273 4$MC=0.000677 10$NC=0.0001784 25$             
+212RAS G OC=3.98E-5 6$PC=6.59E-6 10$QC=3.69E-7 6                                
+212RA  L 3602.4    20                                                           
+212RAX L XREF=C                                                                 
+212RA  G 1025.2    2  100                                                       
+212RA  L 3631.8    20 (13-)                                                     
+212RAX L XREF=C                                                                 
+212RA cL J$M1 317|g from (14-) state.                                           
+212RA  G 29.4                                                                  S
+212RAF G FLAG=D                                                                 
+212RA  G 932.0     1                                                            
+212RA  L 3949.0    20 (14-)                                                     
+212RAX L XREF=C                                                                 
+212RA cL J$D 545|g to 13- state, negative parity proposed in 2018Pa04.          
+212RA  G 317.3     1  18     4  M1                      0.608                   
+212RAS G KC=0.490 7$LC=0.0897 13$MC=0.0214 3$NC=0.00565 8$OC=0.001288 18$       
+212RAS G PC=0.000225 4$QC=1.760E-5 25                                           
+212RA  G 544.8     1  100    13 D                                               
+212RA  L 4107.2    20 15-                                                       
+212RAX L XREF=C                                                                 
+212RA cL J$E2 703|g to 13- state.                                               
+212RA  G 475.2     2  63     15                                                 
+212RA  G 703.1     1  100    24 E2                      0.0182                  
+212RAS G KC=0.01321 19$LC=0.00371 6$MC=0.000929 13$NC=0.000245 4$OC=5.45E-5 8$  
+212RAS G PC=8.94E-6 13$QC=4.64E-7 7                                             
+212RA  L 4197.8    20 (16-)                                                     
+212RAX L XREF=C                                                                 
+212RA cL J$E2 249|g to (14-) state.                                             
+212RA  G 90.6                                                                  S
+212RAF G FLAG=D                                                                 
+212RA  G 248.8     1            E2                      0.275                   
+212RAS G KC=0.1045 15$LC=0.1257 18$MC=0.0337 5$NC=0.00889 13$OC=0.00191 3$      
+212RAS G PC=0.000287 4$QC=4.37E-6 7                                             
+212RA  L 4350.9    20 (17-)                                                     
+212RAX L XREF=C                                                                 
+212RA cL J$M1 153|g to (16-) state.                                             
+212RA  G 153.1     2  100       M1                      4.65                    
+212RAS G KC=3.73 6$LC=0.694 10$MC=0.1658 24$NC=0.0437 7$OC=0.00997 15$          
+212RAS G PC=0.00174 3$QC=0.0001363 20                                           
+212RA  L 4552.6    20 (18-)                                                     
+212RAX L XREF=C                                                                 
+212RA cL J$M1+E2 202|g to (17-) state.                                          
+212RA  G 201.7     1  100       M1+E2     0.43   +12-13                         
+212RA  L 5043.5    20 (19+)             21.5 NS   21                            
+212RAX L XREF=C                                                                 
+212RA cL T$from 491|g(t) in {+204}Pb({+12}C,4n|g).                              
+212RA cL $Configuration |ph{-9/2}{+4}i{-13/2}{+2}~#|np{-1/2}{+-2}               
+212RA cL J$D 491|g to (18-) state, |p from configuration assignment.            
+212RA  G 490.9     1  100       (E1)                   0.01224                  
+212RAS G KC=0.00998 14$LC=0.001719 24$MC=0.000407 6$NC=0.0001066 15$            
+212RAS G OC=2.40E-5 4$PC=4.08E-6 6$QC=2.87E-7 4                                 
+212RAB G BE1W=7.4E-8 8                                                          
+212RA cG $D from |g(|q), |D|p from level scheme.                                
+212RA  L 5125.0    20                                                           
+212RAX L XREF=C                                                                 
+212RA  G 774.1     1  100                                                       
+212RA  L 5414.7    20                                                           
+212RAX L XREF=C                                                                 
+212RA  G 289.7     1  100    16                                                 
+212RA  G 371.1     1  94     17                                                 
+212RAL G FL=5043.5                                                              
+212RA  L 5877.1    20                                                           
+212RAX L XREF=C                                                                 
+212RA  G 462.4     1  89     17                                                 
+212RA  G 833.7     1  100    22                                                 
+212RA  L 6137.8    20                                                           
+212RAX L XREF=C                                                                 
+212RA  G 260.6     1  100                                                       
+212RA  L 6370.3    20                                                           
+212RAX L XREF=C                                                                 
+212RA  G 493.1     2  100                                                       

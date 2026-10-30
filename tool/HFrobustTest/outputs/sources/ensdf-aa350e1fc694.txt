@@ -1,0 +1,36 @@
+260SG    ADOPTED LEVELS                                          99NDS    199908
+260SG  H TYP=FUL$AUT=Y. A. AKOVALI$CIT=NDS 87, 301 (1999)$CUT=1-Oct-1998$       
+260SG  Q -6.78E3   SY8.08E3  SY2.73E3  6 9901    11    2012WA38                 
+260SG cQ $Note: Current evaluation has used the following Q record              
+260SG2cQ -6863     syst 8273   syst 2898   syst 9923   30    1995Au04           
+260SG t  Assignment:                                                            
+260SG2t   {+207}Pb({+54}Cr,n), {+208}Pb({+54}Cr,2n); parent of {+256}Rf (1984De0
+260SG+t  7,1984Og03,1985Mu11)                                                   
+260SG  XA264HS A DECAY                                                          
+260SG  L 0.0          0+               3.6 MS     9                             
+260SG cL $T{-1/2}({+260}Sg)=3.6 ms {I+9-6} was obtained by                      
+260SG2cL 1985Mu11 from |a counts; T{-1/2}=2.5 ms {I15} was deduced by 1984De07  
+260SG3cL from fission counts (T{-1/2}(SF)=6 ms {I+2-1} was measured from SF     
+260SG4cL activities, and the time distribution of fission fragments were        
+260SG5cL utilized in calculation of the half-life by subtracting the SF         
+260SG6cL activities of {+256}Rf, the |a daughter; %|a>80 was assumed).          
+260SG7cL T{-1/2}({+260}Sg)=3.6 ms {I9} is adopted.                              
+260SG2 L %A=50 +20-30 $ %SF=50 +30-20                                           
+260SG cL $%|a=50 {I+20-30} was obtained by 1985Mu11. Other measurements:        
+260SG2cL %|a|>80 (1984De07,1984Og03).                                           
+260SG cL $By requiring the |a hindrance factor for the observed                 
+260SG2cL 9770-keV |a transition to the {+256}Rf g.s. to be 1.0,                 
+260SG3cL r{-0}({+256}Rf)=1.486 is calculated, if the |a branching is 50% and    
+260SG4cL I|a(9770|a)=83 per 100 |a decays. This r{-0} is much larger than the   
+260SG3cL expected value of 1.465 {I20} from the trend of r{-0}'s given in       
+260SGxcL 1998Ak04.                                                              
+260SG cL $Calculations using r{-0}({+256}Rf)=1.465 {I20} yield                  
+260SG2cL T{-1/2}(|a)=12 ms {I+6-5} which corresponds to %|a=30 {I+20-10}.       
+260SG cL $The theoretical calculations of 1997Mo25 give                         
+260SG2cL T{-1/2}(|a)=7.08 ms; by semiempirical formula, 1997Po18 calculated     
+260SG3cL T{-1/2}(|a)=9 ms; 1995KoZL calculated T{-1/2}(|a)=6 ms.                
+260SG cL $The partial half-life for spontaneous fission was                     
+260SG2cL calculated by 1993Sm03, 1989St20, 1987Mo16, 1985Lo17 and 1978Po09.     
+260SG cL $The partial |b half-life was calculated by 1997Mo25 as                
+260SG2cL 22.0 s. This calculated |b half-life predicts %|b{++}=0.016.           
+260SG3 L XREF=A                                                                 

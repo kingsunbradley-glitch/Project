@@ -1,0 +1,138 @@
+245AM    249BK A DECAY                 2013AH03                  23NDS    202305
+245AM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 189, 1 (2023)$CUT=14-Feb-2023$       
+245AM c  2013Ah03: 10-|mg of purified {+249}Bk was obtained from ORNL in which, 
+245AM2c  1-|mg {+249}Bk source was used for measuring the |g-ray singles and    
+245AM3c  0.3-|mg of {+249}Bk for the |g|a-coin measurement.                     
+245AM4c  Measured E|g, I|g, |g|g-coin, |g|a-coin. Low energy photon             
+245AM5c  spectrometer (LEPS) was used to measure |g rays and a Passivated       
+245AM6c  Implanted Planar Silicon detector (PIPS) to detect the |a particles.   
+245AM7c  A Ge detector was also used for the |g|g-coin measurement.             
+245AM8c  The E|a and I|a were measured at ANL                                   
+245AM9c  with the Argonne double-focusing magnetic |a spectrometer.             
+245AMac  Deduced levels, J, |p, |a hindrance factors using radius               
+245AMbc  parameter= 9.323 fm                                                    
+245AM c  1994Po30: |a spectra were measured with a Si(Au) detector              
+245AM2c  with 35 keV energy resolution for the 5486 keV |a-line in {+241}Am.    
+245AM3c  Measured M and L x-rays.                                               
+245AM c  1993Po20: {+249}Bk produced at the high flux reactor and subsequently  
+245AM2c  purified and extracted. The |g-rays were measured with a Ge(Li)        
+245AM3c  detector with FWHM= 2.0 keV  and 3.0 keV for the 122 keV {+57}Co and   
+245AM4c  661.6 keV {+137}Cs lines, respectively. Measured E|g and I|g.          
+245AM c  1975Ba27, 1971Bb10, 1969Ba57: |a decay from {+249}Bk was studied using 
+245AM2c  a double focus magnetic |a spectrograph. The energies were determined  
+245AM3c  for the intense |a groups. The energy of the main |a group in both     
+245AM4c  1971Bb10 and 1969Ba57 were different due to the correction made to the 
+245AM5c  energy standard {+242}Cm |a{-0} group. 1975Ba27 determined E|a         
+245AM5c  and I|a for ten |a groups and identified three rotational bands with   
+245AM6c  the configurations: 5/2-[523], 5/2+[624], and 7/2+[633].               
+245AM c  1966Ah02: {+249}Bk produced from neutron irradiation of Cm at LBNL.    
+245AM2c  The |a decay particles from the isolated and purified                  
+245AM3c  {+249}Bk were analyzed with a double-focusing magnetic spectrograph.   
+245AM4c  The |g singles were measured with Ge(Li) detectors.                    
+245AM5c  Weak alpha groups were observed in coincidence with |g-rays.           
+245AM6c  E|a values in 1966Ah02 have been revised by 2013Ah03 by 1.0 keV using  
+245AM7c  new energies of {+238}Pu and {+240}Pu as an internal calibration       
+245AM c  1956Ch77: {+249}Bk produced from neutron irradiation of Pu.            
+245AM2c  Measured |g|a-coin, from decay of {+245}Bk . Deduced                   
+245AM3c  E|g, I|g, E|a and I|a, I(K x-ray) and I(L x-ray)                       
+245AM c                                                                         
+245AM cA E,IA$From 2013Ah03                                                     
+245AM c                                                                         
+245AM tG $ ----------------------------------------------------------           
+245AM tG $        Measured x-ray intensities (2013Ah03)                         
+245AM tG $  Energy        Intensity     x-ray                                   
+245AM tG $                                                                      
+245AM tG $  102.04 {I4}   0.35 {I3}     Am K{-|a2}                              
+245AM tG $  106.48 {I4}   0.53 {I4}     Am K{-|a1}                              
+245AM tG $  119.26 {I4}                 Am K{-|b3}                              
+245AM tG $  119.26+120.31 0.22 {I2}     Am K{-|b3}+Am K{-b1}                    
+245AM tG $  120.31 {I4}                 Am K{-|b1}                              
+245AM tG $  123.8 {I3}    0.08 {I1}     Am K{-|b2}                              
+245AM tG $                                                                      
+245AM tG $ See 1990Po14 for Intensities of M and L x-ray emissions              
+245AM tG $ ----------------------------------------------------------           
+245AM c                                                                         
+245AM cG E,RI$From 2015Ah03                                                     
+245AM cG M,MR$From Adopted Gammas. Multipolarities from 2013Ah03,               
+245AM2cG based on I|g- and I(x-ray) data are given in comments                  
+245AM cL E$Level energies are calculated from Q|a({+249}Bk)=5521.0 {I14},       
+245AM2cL (2021Wa16) and measured E|a's.                                         
+245AM cL J$From Adopted Levels                                                  
+245AM CL BAND(A)$ |p5/2[642] band                                               
+245AM CL BAND(B)$ |p5/2[523] band                                               
+245AM CL BAND(C)$ |p3/2[521] band                                               
+245AM CL BAND(D)$ |p7/2[633] band                                               
+245AM cA HF$The nuclear radius parameter r{-0}({+245}Am)=1.48943 {I52}          
+245AM2cA is deduced from interpolation (or unweighted average) of radius        
+245AM3cA parameters of the adjacent even-even nuclides.                         
+245AM DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+249BK  P 0.0          7/2+             327.2 D   3              5521.0    14    
+249BK cP T$Measured by 2014Ch47 from growth of daughter activity {+249}Cf       
+249BK2cP and |g-ray intensities from subsequent decay of {+249}Cf. The most     
+249BK3cP recent adopted T{-1/2} for {+249}Bk prior to 2014Ch47                  
+249BK4cP is 330 d {I4} (2011Ab07)                                               
+249BK cP J$From {+249}Bk Adopted Levels in the ENSDF database                   
+249BK cP QP$From 2021Wa16                                                       
+245AM  N  1.0                  1.37E-5 10                                       
+245AM PN                                                                     3  
+245AM cN BR$From 1969Mi08. Based on the argument of 2013Ah03 who preferred      
+245AM2cN %|a=0.00137 {I10} over 0.00145 {I8}, both of which are from two        
+245AM3cN separate methods in 1969Mi08. The former value does not depend on      
+245AM4cN detector solid angle and the initial analysis of the number of         
+245AM5cN {+249}Bk atoms. The most                                               
+245AM6cN recent adopted %|a for {+249}Bk for {+249}Bk prior to 2014Ch47         
+245AM7cN is 1.45|*10{+-3} {I8} {I4} (2011Ab07)                                  
+245AM  L 0.0           5/2+            2.05 H    1                          A   
+245AM cL T$From Adopted Level                                                   
+245AM  A 5433      2  6.57   10   98   8                                        
+245AM  L 19.3      25  7/2+                                                 A   
+245AM  A 5414      2  69.7   3   7.1   6                                        
+245AM cA IA$Large intensity to the 7/2 member of the ground-state band is       
+245AM2cA due to the strong Coriolis mixing between the 5/2+[624] and            
+245AM3cA 7/2+[633] orbitals (2015Ah03,1966Ah02)                                 
+245AM  L 28.27     13 (5/2-)                                                B   
+245AM cL E$From Adopted Level                                                   
+245AM  A 5405                                                                  S
+245AM cA E$Not observed as it was masked by the strong E(|a)=5414 keV           
+245AM  G 28.0      1  0.10   AP(E1)                    3.75    6                
+245AMS G  LC=2.78 5$MC=0.729 12                                                 
+245AMS G  NC=0.1950 33$OC=0.0443 7$PC=0.00588 10$QC=0.0001379 21                
+245AM  L 47.8      25 (9/2+)                                                A   
+245AM  A 5386      2  17.9   2   18.7  15                                       
+245AM  L 71.1      25 (7/2-)                                                B   
+245AM  A 5363      2  0.077  8  3.14E3 41                                       
+245AM  L 88.4      25 (11/2+)                                               A   
+245AM  A 5346      2  2.60   5    73   6                                        
+245AM  L 124.0     25 (9/2-)                                                B   
+245AM  A 5311      2  0.03   1  3.8E3  13                                       
+245AM  L 134.2     25 (13/2+)                                               A   
+245AM  A 5301      2  0.046  7  2.15E3 37                                       
+245AM  L 154.5     25 (3/2-)                                                C   
+245AM  A 5281      2  0.09   1  8.2E2  11                                       
+245AM  L 187.0     25 (5/2-)                                                C   
+245AM  A 5249      2  0.09   1   516   70                                       
+245AM  L 231.7     25 (7/2-)                                                C   
+245AM  A 5205      2  0.048  7   504   83                                       
+245AM  L 292.7     25 (9/2-)                                                C   
+245AM  A 5145      2  0.018  5  5.5E2  16                                       
+245AM  L 328.3     25 7/2+                                                  D   
+245AM  A 5110      2  2.70   5   2.13  17                                       
+245AM  G 280.36    4  0.10   1 (M1+E2)   0.7     +7-6  1.1     4                
+245AMS G  KC=0.9 4$LC=0.21 4$MC=0.054 8                                         
+245AMS G  NC=0.0147 20$OC=0.0037 5$PC=0.00068 13$QC=3.6E-5 15                   
+245AM  G 308.26    4  0.24   2 M1(+E2)   0.6     9     0.9     4                
+245AMS G  KC=0.7 4$LC=0.17 4$MC=0.041 9                                         
+245AMS G  NC=0.0113 24$OC=0.0028 6$PC=5.3E-4 14$QC=3.0E-5 15                    
+245AM cG M$M1 in 2013Ah03                                                       
+245AM  G 327.45    4  1.06   6 M1(+E2)   0.5     7     0.85   33                
+245AMS G  KC=0.66 29$LC=0.145 34$MC=0.036 7                                     
+245AMS G  NC=0.0098 20$OC=0.0025 5$PC=0.00046 11$QC=2.7E-5 11                   
+245AM cG RI$Weighted average of 1.05 {I9} and 1.06 {I7} determined by two       
+245AM2cG separate methods (2013Ah03). Former value from measured absolute       
+245AM3cG intensity (per 100 decays of {+249}Bk)=0.00144 {I8} and the latter     
+245AM4cG value deduced from intensity balance at level 327-keV.                 
+245AM cG M$M1 in 2013Ah03                                                       
+245AM  L 397.4     25  9/2+                                                 D   
+245AM  A 5042      2  0.12   1   16.7  19                                       
+245AM  L 475.6     25  11/2+                                                D   
+245AM  A 4965      4  0.01   AP   59   AP                                       

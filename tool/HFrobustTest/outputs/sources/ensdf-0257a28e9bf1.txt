@@ -1,0 +1,1832 @@
+228TH    ADOPTED LEVELS, GAMMAS                                  14NDS    201403
+228TH  H TYP=FUL$AUT=KHALIFEH ABUSALEEM$CIT=NDS 116, 163 (2014)$CUT=31-Dec-2012$
+228TH  Q -2152     4  7105.3 22 6367.7 21 5520.0822    2012WA38                 
+228TH PN                                                                     6  
+228TH c                                                                         
+228TH c  Calculations, compilations, systematics:                               
+228TH c  |a decay width and half-life: 1996De19, 2011Qi06, 2011Sh13, 2011Si14   
+228TH2c  2011Zh36, 2010Wa31, 2009De32, 2009Ni06, 2009Qi07, 2009Wa01, 2008Bh05   
+228TH c  Binding energies, deformation role: 1986Ch23                           
+228TH c  B(E1) from octupole states: 1989De11, 1986Le05, 1981Le15, 2010Ch35     
+228TH c  Cluster model for |a decay; Geiger-Nuttall plot: 1991Bu05,             
+228TH2c  1986Da03                                                               
+228TH c  Equilibrium deformation: 1988So08, 1984Na22, 1981Gy03                  
+228TH c  Heavy cluster spontaneous emission: 1996Bu05, 1994Bu07, 1993Go18,      
+228TH2c  1992Sa30, 1986Po15, 1986Po06                                           
+228TH c  Levels, shapes, B(|l): 1996Li18, 1995De13, 1995La01, 1989Hu05,         
+228TH2c  1989Sh35, 1988Ri07, 1986An10, 1986Go07, 1984Ba59, 1984Ba63, 2011Ra05   
+228TH c  Octupole shapes and shape changes: 1987Na10                            
+228TH c  p-n interaction energy: 1990Mo11                                       
+228TH c  Rotational bands in even-even nuclei: 1992So10, 1988Ab07               
+228TH c  Quasi-bands in even-even nuclei: 1984Sa37                              
+228TH c  Super- and hyper-deformed configurations: 1995We02                     
+228TH c  Octupole and quadrupole deformation: 2008Bi03                          
+228TH c  Yrast band parity splitting: 1994Jo02, 1993Jo12                        
+228TH c  Production cross section: 2012Er03, 2011Ch57                           
+228TH c  |b{+-} decay: 2009So02                                                 
+228TH c            For a discussion of the level scheme and the rotational      
+228TH2c  bands see 1995Ba42, 1987Da28                                           
+228TH  XA228AC B- DECAY                                                         
+228TH  XB228PA EC DECAY                                                         
+228TH  XC232U A DECAY                                                           
+228TH  XD232TH(136XE,XG)                                                        
+228TH  XE232TH(N,5NG)                                                           
+228TH  XF226RA(A,2NG)                                                           
+228TH  XG230TH(P,T)                                                             
+228TH  XH230TH(A,A'2NG)                                                         
+228TH cL                                                                        
+228TH cL E         From least squares fit to E|g                                
+228TH CL BAND(A)   GS ROTATIONAL BAND                                           
+228TH CL BAND(B)   KPI=0- OCTUPOLE-VIBRATIONAL BAND                             
+228TH CL BAND(C)   FIRST KPI=0+ BAND                                            
+228TH CL BAND(D)   SECOND KPI=0+ BAND                                           
+228TH CL BAND(E)   THIRD KPI=0+ BAND                                            
+228TH CL BAND(F)   KPI=1- OCTUPOLE-VIBRATIONAL                                  
+228TH CL BAND(G)   FIRST KPI=2+ BAND                                            
+228TH CL BAND(H)   KPI=2- OCTUPOLE-VIBRATIONAL BAND                             
+228TH CL BAND(I)   SECOND KPI=2+ BAND                                           
+228TH CL BAND(J)   KPI=3- OCTUPOLE-VIBRATIONAL BAND HEAD                        
+228TH CL BAND(R)   KPI=4+ BAND                                                  
+228TH CL BAND(S)   KPI=6+ BAND                                                  
+228TH cG E,RI      Weighted average of measurements in {+228}Ac and {+228}Pa    
+228TH2cG decays, unless otherwise noted.                                        
+228TH cG M,MR      From {+228}Ac |b{+-} decay and/or {+228}Pa |e decay          
+228TH cG E(O)$ |g-ray not reported in {+228}Ac |b{+-} decay                     
+228TH cG E(I),RI(K)$From {+228}Pa |e decay                                      
+228TH cG RI(J)     From {+232}U |a decay                                        
+228TH cG E(L),RI(M)$From {+228}Ac |b{+-} decay                                  
+228TH cG E(G),RI(H)$From (|a,2n|g) data set                                     
+228TH cG E(B)      Energy fit poor. Not included in E(level) calculation.       
+228TH cG E(N)      Doublet, energy not included in E(level) calculation         
+228TH cG E(P)      A |g of this energy was seen in {+228}Pa decay and placed    
+228TH2cG here in level scheme; however, the |g's deexciting the final level of  
+228TH3cG this |g were not seen in {+228}Pa decay                                
+228TH cG E(Q)      |g's of approximately same energy and intensity seen in both 
+228TH2cG {+228}Ac and {+228}Pa decays. On the basis of coin with 911|g, it is   
+228TH3cG suggested in {+228}Ac decay, that the |g feeds the 2+ 968.968 level. In
+228TH4cG {+228}Pa decay, the |g is placed feeding the 3- 968.368 level. The     
+228TH5cG energy fit is much better feeding the 3- level. Possibly the |g seen   
+228TH6cG is a doublet feeding both the 968 and 969 levels. I|g(doublet)=24 {I6},
+228TH7cG E(doublet)=674.65 {I5}.                                                
+228TH cG RI(R)     There is a disagreement in the ratio I|g(583|g)/I|g(651|g)   
+228TH2cG between {+228}Ac decay (1.23 {I15}) and {+228}Pa decay (2.26 {I24}).   
+228TH  L     0.0        0+             1.9116 Y  16                         A   
+228TH2 L %A=100                                                                 
+228THX L XREF=ABCDFGH                                                           
+228TH cL           %{+20}O=1.13|*10{+-11} {I22} (1993Bo20)                      
+228TH cL T         value (698.2 d {I6}) recommended by 1991BaZS; based on       
+228TH2cL measurements from 1971Jo14, 1962Ma57, 1956Ki16 (tropical year          
+228TH3cL (365.24220 days) used in conversion). Others: 1.912 y {I2} (recommended
+228TH4cL value, 1990Ho28), 1.906 y (1918Me01).                                  
+228TH cL           Isotope shift: |D<r{+2}>=-0.413 {I5} relative to {+232}Th    
+228THxcL (1989Ka29)                                                             
+228TH  L 57.773     3   2+              0.406 NS 7                          A   
+228THX L XREF=ABCDEFGH                                                          
+228TH cL J$L(p,t)=2 for even-even nucleus; E2 |g to 0+ g.s.                     
+228TH cL T         from {+232}U |a decay                                        
+228TH  G    57.766 5  100         E2                   153    2             L   
+228TH cG M         also from {+232}U |a decay                                   
+228THB G BE2W=167 6                                                             
+228TH  L 186.838    3   4+              0.164 NS 4                          A   
+228THX L XREF=ABCDEFGH                                                          
+228TH cL J$L(p,t)=4 for even-even nucleus; E2 |g to 2+ level;                   
+228TH2cL member of g.s. rotational band                                         
+228TH cL T         from {+232}U |a decay                                        
+228TH  G   129.065 1  100         E2                   3.74   6             L   
+228TH cG M         also from (|a,|a'2n|g)                                       
+228THB G BE2W=242 9                                                             
+228TH  L 328.019    3  1-                                                   B   
+228THX L XREF=ABCDFGH                                                           
+228TH cL J$L(p,t)=1 for even-even nucleus; E1 |g to 0+ g.s.                     
+228TH  G   270.245 2  100.0  16   E1                   0.0470 7             J   
+228TH3 G FLAG=L                                                                 
+228TH  G   328.022 3  88.3   7    E1                   0.0305 5             J   
+228TH3 G FLAG=L                                                                 
+228TH  L 378.195   12  6+                                                   A   
+228THX L XREF=ABCDEFGH                                                          
+228TH cL J$L(p,t)=6 for even-even nucleus; E2 |g to 4+ level: member of g.s.    
+228TH2cL rotational band                                                        
+228TH  G   191.349 17 100    8    E2                   0.776  11            L   
+228TH cG M         also from (|a,|a'2n|g)                                       
+228TH  L 396.094    4  3-                                                   B   
+228THX L XREF=ABCDFGH                                                           
+228TH cL J$L(p,t)=3 for even-even nucleus; E1 |g's to 4+ and 2+ levels          
+228TH  G 68.08         0.05  LE   [E2]                                          
+228TH  G   209.253 6   34.2  6    E1                   0.0848 12            L   
+228TH  G   338.320 3  100.0  17   E1                   0.0285 4             L   
+228TH  L 519.208    5   5-                                                  B   
+228THX L XREF=ABCDFGH                                                           
+228TH cL J$L(p,t)=(5) for even-even nucleus; E1 |g's to 4+ and 6+ levels        
+228TH  G   141.01  2   9.90  6    E1                   0.217  3                 
+228TH  G   332.370 4  100    5    E1                   0.0297 5             L   
+228TH  L 622.5      3  8+                                                   A   
+228THX L XREF=DEFGH                                                             
+228TH cL J$L(p,t)=(8) for even-even nucleus                                     
+228TH cL J         E2 |g to 6+ level; member of g.s. rotational band            
+228TH  G   244.3   10 100        E2                    0.326  5                 
+228TH cG M         from (|a,|a'2n|g)                                            
+228TH  L 695.45    15  7-                                                   B   
+228THX L XREF=BDFGH                                                             
+228TH cL J$L(p,t)=(7) for even-even nucleus                                     
+228TH cL J         |g to 6+ level; member of K|p=0- octupole band               
+228TH  G   317.2   2            [E1]                                            
+228TH3 G FLAG=IK                                                                
+228TH  L 831.842   10  0+                                                   C   
+228THX L XREF=ABCFG                                                             
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  G   503.823 13 100    5   (E1)                  0.0124 2                 
+228TH  G   774.05  14  32    5                                                  
+228TH  G   831         0.5   LT   E0                             0.04     2     
+228TH cG E,M,TI    from {+232}U |a decay                                        
+228TH  L 874.535   16  2+                                                   C   
+228THX L XREF=ABCFG                                                             
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G   478.40  6  100    5    E1                   0.0138 2                 
+228TH  G   546.45  2   90    4    [E1]                                          
+228TH  G   688.10  5   25    8    [E2]                                      &   
+228TH3 G FL=186.838$  FLAG=N                                                    
+228TH  G   816.62  10  12.3  20   [M1+E2]                                       
+228TH  G   874.45  6   23    3    [E2]                                          
+228TH  L 911.8      3 (10+)                                                 A   
+228THX L XREF=DFGH                                                              
+228TH cL J         |g to 8+ level; member of g.s. band                          
+228TH  G   289.3   2  100                                                   G   
+228TH  L 920.77    22  9-                                                   B   
+228THX L XREF=DFGH                                                              
+228TH cL J         |g to 7- and 8+ levels; member of K|p=0- octupole band       
+228TH  G   225.23  26 24.6   15                                             G   
+228TH3 G FLAG=H                                                                 
+228TH  G   298.3   26 100    7                                              G   
+228TH3 G FLAG=H                                                                 
+228TH  L 938.61     7  0+                                                   D   
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  G   610.65  9  100    22   [E1]                                          
+228TH  G   880.76  10  27    8    [E2]                                          
+228TH3 G FLAG=LM                                                                
+228TH  L 944.205   12  1-                                                   F   
+228THX L XREF=ABEG                                                              
+228TH cL J$L(p,t)=1 for even-even nucleus                                       
+228TH  G 547.8     2   15    4                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G   616.21  2   100   8   (M1+E2)  +1.5   5     0.055  18                
+228TH3 G FLAG=K                                                                 
+228TH  G 886.44        3.7   LE                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G   944.196 14 100    8                                                  
+228TH3 G FLAG=K                                                                 
+228TH  L 968.381   22  2-                                                   F   
+228THX L XREF=AB                                                                
+228TH cL J         |g's to 1-, band member                                      
+228TH  G   572.23  8  100    11                                                 
+228TH  G   640.34  3   39    8    [E2]                                          
+228TH  G 910.6     1  98     9                                                  
+228TH3 G FLAG=IK                                                                
+228TH  L 968.451   24  4+                                                   C   
+228THX L XREF=BF                                                                
+228TH cL J$|g to 3- and 5- levels; K{+|p}=0{++} band member                     
+228TH  G 449.23    3  58     6                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 572.3     1  100    10                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 590.1     3  1.5    5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 781.9     3  13     3                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 910.7     1  46     8                                                  
+228TH3 G FLAG=IK                                                                
+228TH  L 968.984    4  2+                                                   G   
+228THX L XREF=ABFG                                                              
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G   782.140 5    1.84 11   [E2]                                          
+228TH  G   911.204 4  100    2    E2+M1   +24    8     0.0120 2                 
+228TH  G   968.974 17  61.3  10   E2                   0.0106 2                 
+228TH  L 979.522   13  2+                                                   D   
+228THX L XREF=ABG                                                               
+228TH cL J         |g's to 0+ g.s. and 4+ level                                 
+228TH  G   583.41  5  100    8    [E1]                                      R   
+228TH2 G FLAG=M                                                                 
+228TH  G   651.48  5  81     7    [E1]                                      R   
+228TH2 G FLAG=M                                                                 
+228TH  G   792.74     73     AP   [E2]                                          
+228TH3 G FLAG=M                                                                 
+228TH  G   921.94  11  13.2  19   [M1,E2]                                       
+228TH3 G FLAG=BM                                                                
+228TH cG           Doubly placed |g with undivided intensity (I|g=16.3 {I23})   
+228TH2cG in {+228}Ac decay                                                      
+228TH  G   979.46  10  23    3                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1016.386  16  3-                                                   F   
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=3 for even-even nucleus                                       
+228TH  G 497.0         36    8                                              I   
+228TH3 G FLAG=OK                                                                
+228TH  G   620.33  6   28.4  13                                                 
+228TH  G   688.11  4   24.0  15                                             &   
+228TH3 G FL=328.019                                                             
+228TH  G 829.55       28     LE                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G   958.62  4  100    12                                                 
+228TH  G  1016.44  15   6.8  11                                             &   
+228TH3 G FLAG=LM                                                                
+228TH  L 1022.542   6 (3)+                                                  G   
+228THX L XREF=ABFG                                                              
+228TH cL J         E2 |g to 4+ and E2+M1 to 2+ levels; E1 |g from 4- level;     
+228TH2cL member of K|p=2+ band                                                  
+228TH  G   835.701 15  33.1  10   E2                   0.0142 2                 
+228TH cG M         |d|<-9 ({+228}Pa decay)                                      
+228TH  G   964.777 11 100.0  18   E2+M1   -7.2   10    0.0112 2             L   
+228TH  L 1059.928  22  4-                                                   F   
+228THX L XREF=AB                                                                
+228TH cL J         |g's to 3- and 5- levels; J|p=3-,4+,5- ruled out by          
+228TH2cL |g(|q,H,t) ({+228}Pa decay)                                            
+228TH  G   540.68  5   58    10 [M1,E2]                                         
+228TH  G   663.88  6   87    7  (M1+E2)                0.06   4                 
+228TH  G   873.11  12 100    10  [E1]                                           
+228TH  L 1074.80    6  4+                                                   D   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  G 555.5     1  100    11                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 678.6     2  90     11                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 697.1     4  16     4                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 887.9     3  26     5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1017.0    3  37     5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  L 1091.048  11  4+                                                   G   
+228THX L XREF=ABFG                                                              
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  G 571.8     2    2.3  8                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   694.8   2    2.9  4                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   713.1   3    1.8  4                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   904.19  3  100    4   E2                    0.0121 2                 
+228TH cG MR        |>+3.7 ({+228}Pa decay)                                      
+228TH  G  1033.25  9   26.9  7   E2                    0.0094 1                 
+228TH3 G FLAG=GH                                                                
+228TH  L 1105.38   15   6+                                                  C   
+228THX L XREF=FG                                                                
+228TH cL J$L(p,t)=6 for even-even nucleus                                       
+228TH  G 409.9     2  89     11                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 586.4     2  100    44                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 918.1     3  83     11                                                 
+228TH3 G FLAG=GH                                                                
+228TH  L 1119.7    10   0+                                                  E   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=0. Probably bandhead of third K{+|p}=0{++}                    
+228TH  G 1062.4    1    100                                                    ?
+228TH3 G FLAG=IK                                                                
+228TH  L 1122.959   5   2-                                                  H   
+228THX L XREF=AB                                                                
+228TH cL J         E1 |g to 2+ level, E2+M1 |g to 1- level, (E1+M2) |g to (3)+  
+228TH2cL level; member of K|p=2- band                                           
+228TH  G   100.41  3    2.2  3  (E1+M2)   0.23   AP    3.10   AP            L   
+228TH3 G FLAG=M                                                                 
+228TH  G   153.962 9   16.8  4   E1                    0.1757 25            L   
+228TH3 G FL=968.984                                                             
+228TH  G 178.7     2   2.0   9                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G   726.864 5   13.6  17 (E2)                   0.0187 3             L   
+228TH  G   794.948 5  100.0  17  E2+M1   -4.4    10    0.0179 14            L   
+228TH  G  1065.19  4    3.04 15                                                 
+228TH  L 1143.16   10  5-                                                   F   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=5 for even-even nucleus                                       
+228TH  G 624.0     2   47    13                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 747.0     4   30    10                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 764.5     3   17    7                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 956.6     2   100   33                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1153.487   9  2+               0.29 NS  2                          I   
+228THX L XREF=ABG                                                               
+228TH cL J         |g to 2+ has E0 component                                    
+228TH cL T         from {+228}Ac |b{+-} decay                                   
+228TH  G   173.964 13  15.5  22  M1+E2    1.2    +11-6 2.2    9                 
+228THB G BM1W=4.E-5 +6-4$BE2W=0.6 +7-6                                          
+228TH  G   184.54  2   31    4   E0+M1                 63     8             M   
+228TH3 G FL=968.984$ FLAG=L                                                     
+228THB G BM1W=1.2E-4 3                                                          
+228TH cG           |a(K)exp, L1/L2, L1/L3 indicate E0+5.4%M1 transition         
+228TH2cG ({+228}Ac |b{+-} decay)                                                
+228TH  G 214.9     2                                                            
+228TH cG RI$ Unresolved doublet in {+228}Ac |b{+-} decay.                       
+228TH  G   278.70  10  71    9  (M1+E2)                0.6    5             @   
+228TH3 G FL=874.535                                                             
+228TH  G   321.646 8  100    5  [E2]                   0.137  2             L   
+228THB G BE2W=0.29 5                                                            
+228TH  G  1095.679 20  55    4  [M1,E2]                0.017  9             L   
+228TH  G  1153.52  4   61    4  [E2]                                            
+228THB G BE2W=0.00030 6                                                         
+228TH  L  1160     5                                                            
+228THX L XREF=G                                                                 
+228TH  L 1168.389   6   3-                                                  H   
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=3 for even-even nucleus                                       
+228TH  G    77.34  3    1.70 24                                             L   
+228TH  G   145.84  1   10.4  4   E1                    0.200  3             L   
+228TH  G   199.41  1   20.83 28  E1                    0.0950 14            L   
+228TH3 G FLAG=M                                                                 
+228TH  G 199.8     2   0.7   2                                                  
+228TH3 G FLAG=OIK                                                               
+228THF G FL=968.451                                                             
+228TH  G 224.0     2   6.8   24                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G   649.03  13  2.35  23                                             &   
+228TH  G   772.29  1  100.0  19  E2+M1    -3.4   +8-27 0.021  3             L   
+228TH  G   840.38  1  62.0   20  E2                    0.0140 2             L   
+228TH  G   981.5   2    3.0  4                                              I   
+228TH3 G FLAG=OK                                                                
+228TH  G  1110.61  1   18.9  12  E1                    0.002884             @   
+228TH2 G FLAG=L                                                                 
+228TH  L 1174.515  18 (5+)                                                  G   
+228THX L XREF=ABF                                                               
+228TH cL J         |g to 4+ level; member of K|p=2+ band                        
+228TH  G 796.2     1   48    9                                                  
+228TH  G   987.70  7   100   12                                                 
+228TH  L 1175.41    4  2+                                                   E   
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G   231.42  10  2     LE                                             L   
+228TH3 G FLAG=K                                                                 
+228TH  G 779.5     6   6     3                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G 847.1     4   5     2                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   988.45  9  100    10                                                 
+228TH  G  1117.56  13  44    5                                                  
+228TH3 G FLAG=K                                                                 
+228TH  G  1175.33  9   23    5                                                  
+228TH3 G FLAG=K                                                                 
+228TH  L 1189.8     3  11-                                                  B   
+228THX L XREF=DFH                                                               
+228TH cL J         |g's to 9- and (10+) levels; band structure                  
+228TH  G   268.9   3   67    5                                              G   
+228TH3 G FLAG=H                                                                 
+228TH  G   278.2   3  100                                                   G   
+228TH3 G FLAG=H                                                                 
+228TH  L 1200.60    3 3(+)                                                  I   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=3 for even-even nucleus                                       
+228TH  G   178.14  7   8     LE (E0)                                        I   
+228TH3 G FLAG=K                                                                 
+228TH  G   231.50  5  36     2   [M1+E2]                                    I   
+228TH3 G FL=968.984$  FLAG=K                                                    
+228TH  G 326.1     3   100   24                                                 
+228TH  G  1013.54  13  11    2   [M1+E2]                                    &   
+228TH3 G FLAG=IK                                                                
+228TH  G  1142.78      4.0   12  [M1+E2]                                    I   
+228TH3 G FLAG=K                                                                 
+228TH  L 1226.580   7  4-                                                   H   
+228THX L XREF=ABG                                                               
+228TH cL E$L(p,t)=4, may not be the same level                                  
+228TH  G   135.51  2    3.4  5   E1                    0.238  4                 
+228TH  G   204.031 10  21    3   E1                    0.0900 13            L   
+228TH  G 258.1     2   4.1   2                                              @   
+228TH3 G FLAG=OIK                                                               
+228THF G FL=968.451                                                             
+228TH  G 258.1     2   4.1   2                                              @   
+228TH3 G FLAG=OIK                                                               
+228THF G FL=968.381                                                             
+228TH  G 282.37                                                                ?
+228TH3 G FLAG=OI                                                                
+228TH  G   707.40  3   27.5  13 (E2)                   0.0198 3                 
+228TH  G   830.486 8  100    4   E2(+M1)  -7.7   9     0.0150 3             L   
+228TH  G  1039.84  8    10.0 5                                                  
+228TH  L 1239.3     4 (12+)                                                 A   
+228THX L XREF=DFH                                                               
+228TH cL J         |g to 10+ level; member of g.s. band                         
+228TH  G   327.3   4  100                                                   G   
+228TH  L 1261.57    8 4+                                                    I   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  G 170.6     2  36     7                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 239.1     3  54     14                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 292.5        36     LE                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 293.1     2  46     11                                                 
+228THF G FL=968.451                                                             
+228TH3 G FLAG=IK                                                                
+228TH  G 387.0     3  32     11                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 883.4     3  39     11                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1074.7    3  100    18                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1204.1    3  82     11                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1270.08   18 6+                                                    G   
+228THX L XREF=BFG                                                               
+228TH cL J$L(p,t)=6 for even-even nucleus                                       
+228TH  G 891.8     2  100    8                                                  
+228TH  G 1083.2                                                                 
+228TH cG RI$Weak |g-ray                                                         
+228TH  L 1280.41   22 8+                                                    C   
+228THX L XREF=F                                                                 
+228TH cL J$|g's to 6+, 7-, and 9-; member of a rotational band                  
+228TH  G 359.6     2  30     10                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 585.0     2  100    30                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 902.3                                                                  
+228TH3 G FLAG=GH                                                                
+228TH cG RI$|g-ray peak is masked                                               
+228TH  L 1290.07    8 4+                                                    E   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  G 911.7     1  100    50                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1103.4    1  55     5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  L 1297.435  10 (5-)                                                  H   
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=(5) for even-even nucleus                                     
+228TH  G 206.3     1   100   14                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G   602.0       40    LE                                             &  ?
+228TH3 G FLAG=OIK                                                               
+228TH  G   778.1   2  54     6                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G   901.26  13  45    12                                             K   
+228TH  G  1110.61  1   48    4  E1                     0.002884             @   
+228TH3 G FLAG=K                                                                 
+228TH  L 1319.2    4    (2+)                                                    
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  L 1344.142  20   3-                                                  J   
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=3 for even-even nucleus                                       
+228TH  G   168.62  9    10   3                                                  
+228TH  G   824.94  2   48    5                                                  
+228TH  G   947.98  11 100    8                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1016.44  15  18    3                                              &   
+228TH3 G FLAG=LM                                                                
+228TH  G  1157.14  15   6.6  12                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1286.27  20  47    9                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1379.5     3  7+                                                   G   
+228THX L XREF=F                                                                 
+228TH cL J$|g's to 8+ and 6+; member of a rotational band.                      
+228TH  G 756.9     3  50     19                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 1001.3    3  100    13                                                 
+228TH3 G FLAG=GH                                                                
+228TH  L 1393.31    7 (1+,2,3-)                                                 
+228THX L XREF=B                                                                 
+228TH cL J$|g's 1+, 2+ and 3-; probable 1+ (band head of K{+|p}=1{++})          
+228TH2cL from DCO ratio.                                                        
+228TH  G 425.0     2   64    12                                                 
+228THF G FL=968.451                                                             
+228TH3 G FLAG=IK                                                                
+228TH  G 449.2     1   100   31                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1065.4    4   44    16                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1416.10    6  (3-)                                                     
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=3 for even-even nucleus                                       
+228TH  G 399.8     2   90    10                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G 447.8     2   33    3                                                  
+228TH3 G FLAG=OIK                                                               
+228THF G FL=968.451                                                             
+228TH  G 471.77    12  100   9                                                  
+228TH3 G FLAG=LM                                                                
+228TH  G  1019.86  10  64    12                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1088.18  15  18    4                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1229.40  15  90    10                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G 1358.3        87    13                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  L 1420      2                                                           ?
+228THX L XREF=G                                                                 
+228TH  L 1423.8    5  (2+)                             (2)      0.03            
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  L 1431.994   5  4+                                                       
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  G 134.9     2    0.89 4                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G 161.6     4    0.36 13                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G 231.4     1  3.7    2                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   257.49  2    0.64 3  (M1)                   1.285  18                
+228TH3 G FLAG=I                                                                 
+228TH  G   263.62  2    0.96 4   E1                    0.0497 7                 
+228TH3 G FLAG=I                                                                 
+228TH  G   278.70  10   0.71 7                                              @   
+228TH3 G FL=1153.487                                                            
+228TH  G   340.98  2    8.8  4   E2+M1    -5.2   18    0.133  21                
+228TH3 G FLAG=I                                                                 
+228TH  G 357.1     2  1.65   18                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G 372.2     2  0.4    1                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   409.461 6   43.7  8   E2+M1    -5.4   8     0.080  4                 
+228TH  G 415.6     1    2.1  2                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   452.51  5    0.45 4                                                  
+228TH  G   463.005 6  100.0  16  E2                    0.0514 8             M   
+228TH  G 463.3     1  7.1    18                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G 557.4     1  2.5    3                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G 1053.8    1  0.002  AP                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G 1103.41   10 0.34   11                                                 
+228THF G FL=328.019$ FLAG=BLM                                                   
+228TH  G  1245.16  6    2.21 12                                                 
+228TH  G  1374.24  6    0.32 9                                              M   
+228TH  L 1448.92    7  3,4-                                                     
+228THX L XREF=B                                                                 
+228TH cL J$Multiple |g to (2+), 3-, and 4                                       
+228TH  G 389.1     1   100                                                      
+228TH3 G FLAG=IK                                                                
+228TH  G 432.5     3   75    LE                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 480.6     2   75    LE                                                 
+228THF G FL=968.451                                                             
+228TH3 G FLAG=IK                                                                
+228TH  G 1052.7    2   75    LE                                                 
+228TH3 G FLAG=IK                                                                
+228TH3 G FLAG=IK                                                                
+228TH  G 1261.7    4   38    LE                                                 
+228TH  L 1450.402  10  4-                                                       
+228THX L XREF=AB                                                                
+228TH cL J         M1+E2 |g's to 3- (5)- levels                                 
+228TH  G    18.4      11.9   16 [E1]                   6.47   9             K   
+228TH cG E         deduced from E(level)                                        
+228TH  G   153.02  2    3.58 19  M1+E2   +0.60   8     4.56   21            I   
+228TH3 G FLAG=OK                                                                
+228TH  G   223.80  2   43.4  20  M1+E2    -0.18  5     1.85   4             I   
+228TH  G   275.85  4    2.6  13                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G   282.01  2   60.0  16  M1+E2    -0.51  12    0.83   7             M   
+228TH  G   327.45  4  100    10                                                 
+228TH3 G FLAG=I                                                                 
+228TH  G   359.36  3    4.19 23                                             I   
+228TH3 G FLAG=OK                                                                
+228TH  G   390.45  5    3.58 19                                             I   
+228TH3 G FLAG=OK                                                                
+228TH  G   427.90  3    4.0  3                                              I   
+228TH3 G FLAG=OK                                                                
+228TH  G   434.01  3    5.6  3                                              I   
+228TH3 G FLAG=OIK                                                               
+228TH  G   481.5   6    6.0  13                                                 
+228TH3 G FL=968.381                                                             
+228TH cG E$Unweighted avg. Weighted avg.= 481.97 {I26} with chi-squared=28      
+228TH  G 931.0     1   11.0  13                                                 
+228TH  G  1054.22  5   10.9  10                                                 
+228TH  L 1453.5    3  (3-)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(3) for even-even nucleus                                     
+228TH  L 1467      2                                                           ?
+228THX L XREF=G                                                                 
+228TH  L 1470.0    5  (6+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(6) for even-even nucleus                                     
+228TH  L 1490.2     3  10+                                                  C   
+228THX L XREF=F                                                                 
+228TH cL J$|g's to 11-, 9-, and 8+; member of a rotational band                 
+228TH  G 300.6     3   33    13                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 569.5     2   100   13                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 867.1     5   14    4                                                  
+228TH3 G FLAG=GH                                                                
+228TH  L 1497.0     4  (13-)                                                B   
+228THX L XREF=DFH                                                               
+228TH cL E$ Tentative in (|a,2n|g), but |s's to 11- and 12+ are                 
+228TH2cL consistent with data                                                   
+228TH cL J         |g's to 11- and 12+ levels; band structure                   
+228TH  G   257.6   3   52    4                                              G   
+228TH3 G FLAG=H                                                                 
+228TH  G   307.2   3  100                                                   G   
+228TH3 G FLAG=H                                                                 
+228TH  L 1497.2     4   8+                                                  G   
+228THX L XREF=F                                                                 
+228TH cL J$|g's to 6+ and 8+; member of a rotational band                       
+228TH  G 874.7     3  100    15                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 1119.1                                                                 
+228TH3 G FLAG=GH                                                                
+228TH cG RI$Weak |g-ray                                                         
+228TH  L 1497.70    8   (5-)                                                    
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=(5) for even-even nucleus                                     
+228TH  G 354.5     2    21   AP                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 481.4     2    69   19                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 529.0     2    10   4                                                  
+228TH3 G FLAG=IK                                                                
+228THF G FL=968.984                                                             
+228TH  G 978.3     3    33   12                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1119.5    3    21   8                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1310.8    1    100  10                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1511.1    3    0+                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 1531.490   5   0+&3+                                                   
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=0,3 for even-even nucleus; E2+M1 |g to 2+, M1 |g to 4+        
+228TH  G    99.509 6  100    6   M1                    4.09                 L   
+228TH  G   356.94  10   1.35 14                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G   377.99  10   2.00 18                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G   440.44  5    9.6  6   M1                    0.295  5                 
+228TH3 G FLAG=LM                                                                
+228TH  G   508.97  4   40    10  E2(+M1)  1.1    GT    0.08   4                 
+228TH  G   562.500 4   71    4   E2+M1    +1.6   6     0.07   3             L   
+228TH  G  1135.24  15   0.8  1                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1344.59  15   0.7  1                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1539.21    8   2+                                                      
+228THX L XREF=ABG(1544)                                                         
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G   416.30  20  100   16                                             L   
+228TH2 G FLAG=M                                                                 
+228TH  G  1142.85  15   7.8  16                                             L   
+228TH2 G FLAG=M                                                                 
+228TH  L 1580.92    6 (2-)                                                      
+228THX L XREF=B                                                                 
+228TH cL J         (M1+E2) |g's to 3- and 1- levels                             
+228TH  G   354.2   2   43    7                                              &   
+228TH3 G FLAG=IK                                                                
+228TH  G   601.7   3   44    7                                              &   
+228TH3 G FLAG=IK                                                                
+228TH  G  1184.71  9   69    6  (M1+E2)  1.29          0.014  7             I   
+228TH3 G FLAG=K                                                                 
+228TH  G  1252.98  10 100    9  (M1+E2)  1.115         0.012  6             I   
+228TH3 G FLAG=K                                                                 
+228TH  G  1523.4   2   88    9                                              &   
+228TH3 G FLAG=IK                                                                
+228TH  L 1586.9     4  2+                                                       
+228THX L XREF=G                                                                 
+228TH  L 1588.347  14  (4-)                                                     
+228THX L XREF=B                                                                 
+228TH  G    56.86  3  8.8    4   E1                    0.524  8             I   
+228TH3 G FLAG=K                                                                 
+228TH  G   137.95  2  55     2   M1                    7.44   11            I   
+228TH3 G FLAG=K                                                                 
+228TH  G   156.34  2  11.3   22  E1                    0.169  2             I   
+228TH3 G FLAG=K                                                                 
+228TH  G   420.03  8  5.7    4                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 465.4      1 100    17                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 528.5      2 7.5    17                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  L 1599.4     5  (14+)                                                A   
+228THX L XREF=DFH(1595.9)                                                       
+228TH cL E$Shown tentative in (|a,2n|g), which deexcites by E|g=357.2 keV       
+228TH2cL to 12+ state.                                                          
+228TH cL J         |g to (12+); member of g.s. band                             
+228TH  G   360.1   3                                                        G   
+228TH  L 1617.80    7  4+                                                       
+228THX L XREF=AB                                                                
+228TH cL J         |g's to 4+ and 2+ levels                                     
+228TH  G   649.03  13 100    9                                              &   
+228TH2 G FL=968.984                                                             
+228TH  G  1430.95  10 72     13                                             L   
+228TH  G  1559.78  14  38    6                                              M   
+228TH  L 1618.3    5   4+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  L 1627.8     4  (9+)                                                 G   
+228THX L XREF=F                                                                 
+228TH cL J$ |g to (10+) and 8+; member of rotational band                       
+228TH  G 715.9     3  38     8                                                  
+228TH3 G FLAG=GH                                                                
+228TH  G 1005.4    3  100    15                                                 
+228TH3 G FLAG=GH                                                                
+228TH  L 1627.9    3   0+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 1638.284   9  2+                                                       
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G   470.20  19   2.3  5                                                  
+228TH  G   515.12  7    10   4                                                  
+228TH  G  1309.71  20   3.2  9                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1451.40  15   1.80 28                                             L   
+228TH  G  1580.53  3  100    6  (M1,E2)                                         
+228TH  G  1638.28  1   85    7  (E2)                                        L   
+228TH  L 1643.131  14 (2-,3-)                                                   
+228THX L XREF=ABG                                                               
+228TH cL J         (M1) |g's to 2- and 3- levels                                
+228TH  G 299.0     2    16   8                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G 416.5     1    33   LE                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G   474.75  10   4.6  10                                                 
+228TH3 G FLAG=LM                                                                
+228TH  G   520.152 16  12.5  10 (M1)                   0.189  3             L   
+228TH  G 583.2         15    4                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   626.81  21   2.8  4                                                  
+228TH  G   674.16      21    LE                                             Q   
+228TH3 G FLAG=LM                                                                
+228TH3 G FL=968.984                                                             
+228TH2 G FLAG=K                                                                 
+228TH cG E         from level energies                                          
+228TH  G   674.7   2   7.7   11                                             Q   
+228TH3 G FLAG=K                                                                 
+228TH3 G FL=968.381                                                             
+228TH cG E         from level energies                                          
+228TH  G   698.96  8    7.5  7                                                  
+228TH  G  1247.08  3  100    5  (M1)                   0.0187 3                 
+228TH  G  1315.31  9    2.46 19                                                 
+228TH  L 1643.82    7   4+                                                  R   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  G 442.9     3   4     2                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 490.4     2   32.8  16                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 552.9     2   7.2   16                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 621.4     1   37    4                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 674.7     1   100   12                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1646.003  11  3+                                                       
+228THX L XREF=AB                                                                
+228TH cL J         E2 |g's to 2+ and 4+ levels, |g's to 2- and 4- levels        
+228TH  G   114.54  6    0.28 4                                                  
+228TH  G 229.9     4    4.3  18                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G   419.40  9    0.65 10                                                 
+228TH  G 444.9     3    2.7  13                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G 470.6     2    3.2  13                                                ?
+228TH3 G FLAG=OIK                                                               
+228TH  G 477.5     1    9.1  13                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G   492.30  7    0.74 5                                                  
+228TH  G   523.132 16   3.5  3                                              B   
+228TH3 G FL=1122.959$  FLAG=L                                                   
+228TH  G   555.10  16   1.40 14                                                 
+228TH  G 571.1     1    15                                                      
+228TH3 G FLAG=OIK                                                               
+228TH  G 586.2     2    3.2  8                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   623.48  22   0.45 25                                                 
+228TH  G   629.40  5    1.24 20                                             B   
+228TH3 G FL=1016.386                                                            
+228TH  G   666.47  4    1.77 16                                             @   
+228TH  G   677.07  9    1.99 16                                                 
+228TH3 G FL=968.984                                                             
+228TH  G  1249.97  14   1.93 17                                                 
+228TH  G  1459.14  2  23.7   12  E2                                             
+228TH  G  1588.19  3  100.0  25  E2                                             
+228TH  L 1651.4    3  (3-)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(3) for even-even nucleus                                     
+228TH  L 1667.38   15  2+                                                       
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G 1148.2    2  42     24                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1480.5    2  100    28                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1672.3    5  2+                                                        
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  L 1678.42    7   2+                                                      
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G 503.0     2   1.3   4                                                 ?
+228TH3 G FLAG=IK                                                                
+228TH  G 803.8     2   1.7   9                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1282.6    4   2.0   6                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1620.67   10  100   4                                                  
+228TH3 G FLAG=IK                                                                
+228TH  L 1682.81    3 (2+,3+,4+)                                                
+228THX L XREF=AB                                                                
+228TH cL J         (E2) |g to 4+ level, |g to 2+ level                          
+228TH  G   660.1   3    0.58 AP                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G 1286.3       91     29                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G  1496.03  12  100    5  (E2)                                       B   
+228TH cG E$ Unweighted avg. Weighted avg.=1495.93 {I7} with chi-squared=14.4.   
+228TH  G  1625.06  5   29.1  19                                             B   
+228TH3 G FL=57.773                                                              
+228TH  L 1683.80    4 (4-)                                                      
+228THX L XREF=AB                                                                
+228TH cL J         (M1+E2) |g's to 3- and 5- levels                             
+228TH  G   457.35  7   19.1  19                                                 
+228TH  G 515.1     2   23    4                                                  
+228TH3 G FLAG=OIK                                                               
+228TH  G   623.7   2   23    4                                              I   
+228TH3 G FLAG=OK                                                                
+228TH cG           |g not resolved from the 623.27|g from 1645 level in {+228}Pa
+228TH2cG decay, I(doublet)=23 {I3}. Not reported in {+228}Ac decay.             
+228TH  G 667.5     3   103   32                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G  1164.55  4   83    5  (M1+E2)  1.09          0.015  8                 
+228TH  G  1287.77  8  100    7  (M1+E2)  0.91          0.012  6                 
+228TH  L 1688.408  10   2+,3+                                                   
+228THX L XREF=AB                                                                
+228TH cL J         |g's to 2+ and 4+ levels; J|p|=3-,4+ excluded in             
+228TH2cL |g(|q,H,t) ({+228}Pa decay)                                            
+228TH  G    42.46  5    0.61 15                                             L   
+228TH  G   672.00  15   1.7  5                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G   813.77  15   0.46 11                                             L   
+228TH  G  1501.57  5   29.4  15                                             L   
+228TH  G  1630.627 10 100.0  26  (M1,E2)                0.007 3             L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1691.4    4   0+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$ L(p,t)=0 in 230Th(p,t); even-even nucleus                           
+228TH  L 1707.29   16  (2,3-)                                                   
+228THX L XREF=B                                                                 
+228TH cL J$|g to 1- and 3-                                                      
+228TH  G 1311.6    4   26    10                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1379.2    2   100   48                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1710.7     6  0+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 1724.299   5  2+                                                       
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G 308.2     2    23                                                  I   
+228TH2 G FLAG=OK                                                                
+228TH  G 497.49    15                                                           
+228TH2 G FLAG=LM                                                                
+228TH  G 523.5     1    26   5                                                  
+228TH2 G FLAG=OIK                                                               
+228TH  G   548.74  9    2.20 21                                                 
+228TH  G   570.88  4   17.2  8  (M1)                   0.147  2                 
+228TH  G   701.744 14  18.1  9  (M1)                   0.0850 1                 
+228TH  G   755.315 4  100    3   M1                    0.070  1             L   
+228TH  G 780.2     3    5.1  13                                             L   
+228TH2 G FLAG=OIK                                                               
+228TH  G 849.5     2    5.1  20                                                 
+228TH2 G FLAG=OIK                                                               
+228TH  G  1537.87  10   4.2  5                                              B   
+228TH3 G FL=186.838                                                             
+228TH  G  1666.522 6   17.3  7   M1                    0.0090 1                 
+228TH  G  1724.20  4    2.75 3                                                  
+228TH  L 1733.1     3 12+                                                       
+228THX L XREF=F                                                                 
+228TH cL J$ |g's to 13-, 11-, and (10+)                                         
+228TH  G 236.0     3  25     8                                                  
+228TH3 G FLAG=GH                                                                
+228THF G FL=1497.0                                                              
+228TH  G 543.3     2  100    17                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 821.6     4  15     11                                                 
+228TH3 G FLAG=GH                                                                
+228TH  L 1735.49   4 4+                                                         
+228THX L XREF=ABG(1733.8)                                                       
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  G  1217.03  10  39    6                                              B  ?
+228TH3 G FL=519.208$ FLAG=LM                                                    
+228TH  G  1357.78  15  37    7                                              B  ?
+228TH3 G FL=378.195$  FLAG=LM                                                   
+228TH  G  1548.65  4   68    7                                                  
+228TH  G  1677.7   6  100    8                                                  
+228TH  L 1743.902  18  4+                                                       
+228THX L XREF=ABG(1742.8)                                                       
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH cL J$ (E2) |g to 2+; (E2+M1) |g to 4+; |g's to 1-, 3-, 4-, and 6+         
+228TH  G   399.84  15  16.3  17                                                 
+228TH3 G FLAG=P                                                                 
+228TH  G   590.40  11   9.40 11                                             I   
+228TH  G   683.97  3   10.6  3                                              I   
+228TH  G 727.2     3    16   5                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G 764.3     3    27   11                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 1347.52   16   8.4  17                                             L   
+228TH  G  1365.71  2    9.0  4                                                  
+228TH  G 1415.69   10   19   5                                                  
+228TH  G  1557.09  4  100.0  17  (E2+M1)   +1.2  2      0.007 1                 
+228TH  G  1686.12  7   54    3   (E2)                   0.00391                 
+228TH  L 1750.7    3   0+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 1758.06   20  2+                                                       
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH cL J$ |g's to 1-, (2+), and 3-                                            
+228TH  G 741.9     3   74    26                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1361.4    5   63    26                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1430.0    3   100   37                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1758.26   12   2+,3,4+                                                 
+228THX L XREF=A                                                                 
+228TH cL J         |g's to 2+ and 4+ levels                                     
+228TH  G   326.04  20 100    15                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1571.52  20  17    5                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1700.59  20  31    7                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1760.209  21 2(+),3(+)                                                 
+228THX L XREF=AB                                                                
+228TH cL J         (E2) |g to 4+ level, |g to 2+ level; |g(|q,H,t)              
+228TH2cL excludes J|p=4+ {+228}Pa decay; log {Ift}=8.13                         
+228TH  G 416.15        22.3  23                                             I   
+228TH3 G FLAG=OK                                                                
+228TH  G   585.03     10     3                                              &   
+228TH3 G FLAG=OIK                                                               
+228TH  G 668.9     2   100   12                                                 
+228TH3 G FLAG=OIK                                                               
+228TH  G   737.72  5   49    21                                                 
+228TH  G   791.44  9   11    4                                              @   
+228TH3 G FL=968.984                                                             
+228TH  G  1573.26  5   39    15 (E2)                   0.0044 1                 
+228TH  G  1702.43  3  62     19                                                 
+228TH  L 1762.6     4  10+                                                  G   
+228THX L XREF=F                                                                 
+228TH cL J$ |g to 8+ and 10+; member of a rotational band                       
+228TH  G 850.8     3  100    50                                                 
+228TH3 G FLAG=GH                                                                
+228TH  G 1140.2                                                                 
+228TH3 G FLAG=GH                                                                
+228TH cG RI$Weak |g-ray                                                         
+228TH  L 1795.92   10  4+                                                       
+228THX L XREF=AG                                                                
+228TH cL J$L(p,t)=4 for even-even nucleus                                       
+228TH  G  1276.69  10  78    17                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1738.22  25 100    22                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1796.44    8  4+                                                       
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)= for even-even nucleus                                        
+228TH  G 621.9     2  17     5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 705.3     2  65     22                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1609.6    1  100    8                                                  
+228TH3 G FLAG=IK                                                                
+228TH  L 1797.67    8  2+                                                       
+228THX L XREF=A                                                                 
+228TH cL J         |g's to 0+ g.s. and 3- level; log| {If{+1u}t}=8.4 for        
+228TH2cL |b{+-} decay from 3+ {+228}Ac                                          
+228TH  G  1401.49  10  60    15                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1469.71  15 100    20                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1740.4   3   55    15                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1797.5   5   10    4                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1802.86   15  2+                              2                        
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G 1406.8    2   100   25                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1474.8    2   28    16                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1804.672  18  4+                                                       
+228THX L XREF=BG                                                                
+228TH cL J$ M1+E2 |g to 3+ level, M1+E2 |g to 4+ level, |g to 6+ level          
+228TH  G   116.26  5  1.45   18                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G   121.18  7  1.7    3                                              I  ?
+228TH3 G FL=1683.80$  FLAG=KB                                                   
+228TH  G   121.87  3  3.0    3                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G   158.74  3  11.4   6   M1+E2     0.55  15       4.2 2             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 216.3     1  100    27                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G   354.21     2.6    5                                              &   
+228TH3 G FLAG=IK                                                                
+228TH  G   372.60  3  14.3   7                                              I   
+228TH3 G FL=1431.994$   FLAG=KB                                                 
+228TH  G   651.5   2   3.1   5                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 713.6     2   9.1   5                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 781.8     1   62    8                                              I   
+228TH3 G FLAG=BK                                                                
+228THF G FL=1022.542                                                            
+228TH  G 835.63                                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1286.0    3   13    4                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G  1426.43      4.4   5                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G  1618.0   1   8.2   5  (M1,E2)                 0.007 3             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1746.84       27    LE                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  L 1811.56   15  (1-,2,3-)                                                
+228THX L XREF=B                                                                 
+228TH cL J$|g's to 1- and 3- levels                                             
+228TH  G 1415.5    2   100   7                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1483.5    2   58    18                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1812.7    4  (6+)                                                  R   
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(6+) for even-even nucleus                                    
+228TH  L 1817.435  20  4-                                                       
+228THX L XREF=B                                                                 
+228TH cL J$multiple |g's to 4-, 2-, and 5; (E2)+M1 |g to 3- level; |g(|q,H,t)   
+228TH2cL excludes J|p=3-,5- (log {Ift}=7.57 {I6} 1998Wi13)                      
+228TH  G 229.3     2  49     29                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G   367.04  2  41.5   20   M1(+E2)               0.484 7                 
+228TH3 G FLAG=IK                                                                
+228TH  G 590.7     1  56     12                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 642.7     2  48     14                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 649.0     1  100    14                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 674.6     3  34     LE                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 694.5     1  85     17                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 726.3     2  31     10                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 757.4     2  32     8                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 801.1     1  78     8                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1298.3   2  7.6    8  (M1+E2)  0.77                                   
+228TH3 G FLAG=IK                                                                
+228TH cG MR        +0.27|<|d|<+5 from |g(|q,H,t) in {+228}Pa decay              
+228TH  G  1421.1   2  23.7   12   E2+M1    +2.0   5     0.007 1                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1823.47   16  (4+)                                                     
+228THX L XREF=BG(1826)                                                          
+228TH cL J$L(p,t)=(4) for even-even nucleus                                     
+228TH  G 596.8     2  100    27                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 732.9     4  47     20                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1304.2    3  47     20                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  L 1838.1     5  (15-)                                                B   
+228THX L XREF=DF                                                                
+228TH cL J         |g to (13-) level; band structure                            
+228TH  G 238.6     5                                                            
+228TH  G   341.2   3                                                        G   
+228THF G FL=1497.0                                                              
+228TH  L 1842.23   11  (2,3)                                                    
+228THX L XREF=BG                                                                
+228TH cL J$|g's to 4+, (3)+, 2+, 1- levels; log {Ift}=8.38 for                  
+228TH2cL |e decay from 3+ {+228}Pa                                              
+228TH  G 751.1     2   29    1                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 819.9     2   27    8                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 862.8     3   18    6                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1513.4    5   10    3                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1784.4    2   100   8                                                  
+228TH3 G FLAG=IK                                                                
+228TH  L 1858.6    5  (6+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(6+) for even-even nucleus                                    
+228TH  L 1864.95    5  (2+)                                                     
+228THX L XREF=BG(1863.9)                                                        
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  G 696.5     2   17    4                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 741.8     2   28    4                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 895.9     1   100   5                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 990.3     2   16    4                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1468.8    3   20    5                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1536.8    3   10    4                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1807.2    1   43    3                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1865.1    1   57    3                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  L 1876.46   22  (3-,4,5-)                                                
+228THX L XREF=B                                                                 
+228TH cL J$|g's to 5- and 3- levels                                             
+228TH  G 1357.2    3   100   33                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1480.4    3   87    48                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1879.1     3  (3-)                                                     
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=(3) for even-even nucleus                                     
+228TH  G 1359.9    3   65    25                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1482.9    23  100   30                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  L 1893.003  15  3+                                                       
+228THX L XREF=AB                                                                
+228TH cL J         E2+M1 |g to 2+ level, M1+E2 |g to 4+ level, log {Ift}=7.52   
+228TH  G 157.5     2    11   3                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G 214.6      1   6    LE                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 255.2     3    3.8  13                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 444.0     2    31   11                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G   477.1   3    4.4  13                                             I   
+228TH3 G FLAG=KOP                                                               
+228TH  G   666.47  4   1.31  9                                              @   
+228TH3 G FLAG=K                                                                 
+228TH  G   692.47  7   12.6  9 (M1+E2+E0)              0.24   3             I   
+228TH3 G FLAG=K                                                                 
+228TH cG CC        from |a(K)exp in {+228}Pa decay                              
+228TH  G 718.0     2    10   4                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G   724.5   1   4.8   6                                              &   
+228TH3 G FLAG=IKO                                                               
+228TH  G   739.2   2    3.6  6                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G   770.2   2   14.2  9                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 801.7     3  7      3                                              I   
+228TH3 G FLAG=OK                                                                
+228TH  G   870.45  2  99     5   M1                                             
+228TH cG MR        -0.1 {I1} ({+228}Pa decay)                                   
+228TH  G 876.7     2   13    5                                              I   
+228TH3 G FLAG=OK                                                                
+228TH  G 913.0     1   24    8                                              I   
+228TH3 G FLAG=BKO                                                               
+228THF G FL=979.522                                                             
+228TH  G   924.0   1   100   13                                             I   
+228TH3 G FLAG=KO                                                                
+228TH cG E$ {+228}Ac decay reports unresolved doublets around 924.03 keV        
+228TH2cG without uncertainty. {+228}Pa decay resolves the doublets to 924.0     
+228TH3cG {I1}, 924.5 {I1}, and 924.6 {I1}. There is also disagreement in        
+228TH4cG the reported relative intensities. Since level decay in {+228}Pa       
+228TH5cG is more complete than {+228}Ac decay, the evaluator adopts the |g-rays 
+228TH6cG reported in {+228}Pa decay with their relative intensities.            
+228TH  G 924.5     1   62    19                                             I   
+228TH3 G FLAG=KO                                                                
+228THF G FL=968.451                                                             
+228TH cG E,RI$See note on 924.0 {i1}                                            
+228TH  G 924.6     1   31    6                                              I   
+228TH3 G FLAG=KO                                                                
+228THF G FL=968.381                                                             
+228TH cG E,RI$See note on 924.0 {i1}                                            
+228TH  G 1018.5    1   81    19                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G  1706.17  7   18.0  8   M1+E2    +0.42  4     0.0078 2                 
+228TH  G  1835.29  5   64    8   E2+M1    +2.9   3     0.0038 1                 
+228TH  L 1899.955  20  (2+)                            (2)                      
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=(2+) for even-even nucleus                                    
+228TH  G 253.9     5   22    9                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G 261.6     2   48    18                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 506.5     2   87    LE                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 724.7     3   44    22                                             I  ?
+228TH3 G FLAG=BKO                                                               
+228TH  G 780.3         83    9                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G   877.39  7   40.6  33                                                 
+228TH  G   883.53  3    6.6  18                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G   920.46  3   17    4                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G   930.99  7   35    11                                                 
+228TH  G  1503.7   2   31.4  26                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 1572.0    1   176   44                                             I   
+228TH3 G FLAG=KO                                                                
+228TH cG RI$ Seems larger than expected because it is considered as unresolved  
+228TH2cG doublet                                                                
+228TH  G 1713.47   20 12.9   24                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1842.14  8  100    5   M1+E2    -0.86  14    0.0055 4                 
+228TH  G  1900.14  17   9    3                                                  
+228TH  L 1901.92    7  (6+)                            (6)                  S   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=(6) for even-even nucleus                                     
+228TH  G 255.9     2  56     24                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 640.3     2  48     20                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 810.7     2  48     16                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 826.6     3  80     40                                                ?
+228TH3 G FLAG=IK                                                                
+228TH  G 933.1     3  100    40                                                 
+228TH3 G FLAG=IK                                                                
+228THF G FL=968.984                                                             
+228TH  G  1383.2   2  22     2                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1505.9   2  22     2                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1523.4   2  24.0   24                                             &   
+228TH3 G FLAG=IK                                                                
+228TH  G  1715.06  10 20.0   12                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1906.65   10 (2+)                                                      
+228THX L XREF=A                                                                 
+228TH cL J         |g to 0+ g.s., |g to 2+,3- level; log| {Ift}=7.98 from       
+228THxcL 3+ {+228}Ac                                                            
+228TH  G   490.33  15  93    19                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1074.71  15  84    25                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1907.18  20 100    8                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1908.39    8  0+                                                       
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  G 785.2     2  67     28                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 817.4     3  33     10                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 848.6     2  27     10                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 885.7     2  63     13                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 891.9     2  63     13                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 939.9     2  77     17                                             I   
+228TH3 G FLAG=K                                                                 
+228THF G FL=968.451                                                             
+228TH  G 964.3     3  100    43                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1512.9    3  47     17                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  L 1924.16    6  (2-,3,4)                                                 
+228THX L XREF=B                                                                 
+228TH cL J$|g to 3- level; log {Ift}=7.90 from 3+ {+228}Pa                      
+228TH  G 697.6     1  80     13                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 723.6     1  100    17                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 755.7     1  70     17                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1924.64    9  4+,5-                                                    
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=4,5 for even-even nucleus                                     
+228TH  G 750.10    10  100   12                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 902.1     5   45    15                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1405.5    2   48    12                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1925.21    4  3+,4+                                                    
+228THX L XREF=B                                                                 
+228TH cL J$M1+E2 |g to 4+ level, |g to 3- level; |g(|q,H,t) excludes J|p=2+,3-  
+228TH  G 476.7     2    4    2                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 663.5     2    11   2                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G   724.42  11   3.0  4                                              &   
+228TH3 G FLAG=IK                                                                
+228TH  G 771.72         4    LE                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 834.1     1    100  16                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 850.5     2   13    6                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G   865.2   2   2.0   3                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 908.7     3   12    4                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G   956.8   2   88    20                                                 
+228TH3 G FLAG=IK                                                                
+228TH3 G FL=968.381                                                             
+228TH  G  1529.02  6   10.4  5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1547.0    2   18    5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1738.48  5   38    2    M1+E2                 0.006 2                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1928.49    5  3+                                                       
+228THX L XREF=AB                                                                
+228TH cL J         |g's to 2+ and 4+ levels; |g(|q,H,t) excludes J|p=2+,3-,4+   
+228TH  G   168.65  10  2.0   4                                              I   
+228TH3 G FLAG=BK                                                                
+228THF G FL=1760.209                                                            
+228TH  G   389.12  15  6.9   11                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G   584.4   3   4.9   16                                             &   
+228TH3 G FLAG=OIKP                                                              
+228TH  G 774.86        22    LE                                                 
+228TH3 G FLAG=IKO                                                               
+228TH  G 837.0     1   100   22                                             I   
+228TH3 G FLAG=BKO                                                               
+228THF G FL=1091.048                                                            
+228TH  G 906.0     6   38    13                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G  1741.72  18  9.3   18                                             K   
+228TH  G  1870.81  9  16.2   9  (M1+E2)                0.0051 18            K   
+228TH cG RI$Largest in {+228}Ac decay, since the |g-ray set seems more          
+228TH2cG in {+228}Pa, the evaluator adopts I|g reported in {+228}Pa decay.      
+228TH  L 1937.18    9  2+,3,4+                                                  
+228THX L XREF=A                                                                 
+228TH cL J         |g's to 2+ and 4+ levels                                     
+228TH  G   397.94  10 100    11                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1062.55  15  37    11                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1750.54  20  30    3                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1879.6   3    4.8  18                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1939.07    9    (4+)                                                   
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=(4) for even-even nucleus                                     
+228TH  G 677.8     2    30   11                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 764.0     3    49   27                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 847.8     3    14   5                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 879.1     3    16   5                                              I   
+228TH3 G FLAG=K                                                                 
+228TH  G 916.6     3    46   14                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1419.8    2    54   24                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1542.8    2    76   14                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  G 1752.1    2    100  11                                             I   
+228TH3 G FLAG=K                                                                 
+228TH  L 1944.904  11  3+                                                       
+228THX L XREF=AB                                                                
+228TH cL J         E2+M1 |g's to 2+ and 4+ levels; M1 to 2+ level               
+228TH  G 148.4     2    12   4                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G   184.61  5    1.7  2  (M1)                    3.26  5             I   
+228TH3 G FLAG=KO                                                                
+228TH  G   220.61  2    5.2  3  (M1)                    1.98  3             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 237.7     3    8    3                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G   299.10  10   1.79 21  M1                     0.849 12            I   
+228TH3 G FLAG=KO                                                                
+228TH  G   306.61  2    8.3  4   M1                     0.793 12            I   
+228TH3 G FLAG=KO                                                                
+228TH  G   512.79  11   5.5  6                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G 551.79    11  8     LE                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 683.4     2   4.2   17                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G   718.31  2   26.2  17 (E1)                                            
+228TH  G 744.2     1   15    4                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G 769.6     1   17    8                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G   776.52  4   32    3                                                  
+228TH  G   791.44  9   14.4  3  (M1)                   0.0618 9             @   
+228TH3 G FLAG=M                                                                 
+228TH  G   853.7   4    3.4  3                                                  
+228TH  G   922.08  21   9.7  14                                                 
+228TH  G   928.4   2    3.7  3                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G 965.3     2   50    8                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G   975.98  5   56    3   M1                    0.0356 5                 
+228TH3 G FL=968.984                                                             
+228TH  G 976.5     1   25    8                                              I   
+228TH3 G FLAG=KO                                                                
+228THF G FL=968.381                                                             
+228TH  G 976.5     1   29    12                                             I   
+228TH3 G FLAG=KO                                                                
+228THF G FL=968.451                                                             
+228TH  G 1000.69   15   5.6                                                 L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1070.40  7    5.0  3                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G  1548.8   2    5.0  8                                              I   
+228TH3 G FLAG=KO                                                                
+228TH  G  1758.11  5   37.7  20  E2+M1    -9     1                              
+228TH  G  1887.12  5  100    5   E2+M1    -9.1   9                              
+228TH  L 1945.74    9  4+,5-                                                    
+228THX L XREF=B                                                                 
+228TH cL J$|g's to 5-, 3-, and 6+ levels                                        
+228TH  G 1426.6    1   40    5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1549.3    2   100   17                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1567.6    3   19    9                                                  
+228TH3 G FLAG=IK                                                                
+228TH  L 1949.73   10  (2+)                                                     
+228THX L XREF=BG(1947.8)                                                        
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  G 827.1     3   89    29                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 927.2     2   100   18                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 980.7     2   54    18                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1005.5    2   43    14                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G 1075.1    2   50    14                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1958.35   16  (2+)                                                     
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  G 935.2        90     17                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G 1561.7    4  34     14                                             I   
+228TH3 G FLAG=KO                                                                
+228TH  G  1772.2   3  83     28                                             L   
+228TH cG           |g not reported in {+228}Pa decay                            
+228TH cG RI$Adopted as a ratio between I{-|g}(1958.2) ({+228Pa}/{+228Ac})       
+228TH2cG since I{-|g}(1772.2) is largest                                        
+228TH3cG in {+228}Ac and it is not reported in {+228}Pa decay                   
+228TH  G  1958.2   2  100    10                                                 
+228TH  L 1965.05    8  (2+)                                                     
+228THX L XREF=B                                                                 
+228TH cL J         |g to 2+ and 4+ levels; multiple placed |g to 0+ g.s., would 
+228TH2cL limit J|p to 2+                                                        
+228TH  G 321.75                                                                ?
+228TH3 G FLAG=IK                                                                
+228TH  G   548.9   11  41    5                                              &  ?
+228TH3 G FLAG=IK                                                                
+228TH cG           Multiply placed |g in {+228}Pa decay with I|g(doublet)=41    
+228THxcG {I5}                                                                   
+228TH  G  1778.0   6    6.1  20                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G  1907.13  11 100    5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1965.22  12  43    4                                              &   
+228TH3 G FLAG=IK                                                                
+228TH  L 1974.19   11  (2+,3-)                                                  
+228THX L XREF=BG(1971.7)                                                        
+228TH cL J$L(p,t)=(2,3) for even-even nucleus                                   
+228TH  G  1455.0   2   61    4                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1578.2   2  70     7                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 1595.8    3  100    42                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G  1787.2   2  19.5   21                                                 
+228TH3 G FLAG=IK                                                                
+228TH  G  1916.6   3  7.9    16                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1981.90    5  (3-)                                                     
+228THX L XREF=BG                                                                
+228TH cL J$L(p,t)=(3) for even-even nucleus                                     
+228TH  G 684.6     3    12   5                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 890.6     3    8    2                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G 959.1     1    50   7                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1013.44       1.6  LE                                                 
+228TH3 G FLAG=IK                                                                
+228THF G FL=968.381                                                             
+228TH  G 1013.54   13   25   8                                                  
+228TH3 G FLAG=IK                                                                
+228THF G FL=968.451                                                             
+228TH  G 1585.5    2    27   8                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1795.15  6   100   6                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1924.2   2    15.1 17                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 1987.47   10  4+                                                       
+228THX L XREF=A                                                                 
+228TH cL J         |g's to 2+ and 6+ levels                                     
+228TH  G  1017.92  20  29    7                                              L   
+228TH3 G FL=968.984$  FLAG=M                                                    
+228TH  G  1609.41  15  39    8                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1800.86  20  22    4                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1929.78  20 100    11                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  L 1987.9     6  (16+)                                                A   
+228THX L XREF=DF                                                                
+228TH cL J         |g to (14+) level; member of g.s. band                       
+228TH  G   388.5   3  100                                                   G   
+228TH  L 1993.9    5  (3-)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(3) for even-even nucleus                                     
+228TH  L 2010.15    5  (2+)                                                     
+228THX L XREF=ABG                                                               
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  G   214.85  10  49    7                                              L  ?
+228TH3 G FL=1795.92$  FLAG=M                                                    
+228TH cG           |g not reported in {+228}Pa decay                            
+228TH  G   372.57  20  11    3                                              L   
+228TH3 G FL=1638.284$  FLAG=MB                                                  
+228TH  G   887.33  10  43    5                                                  
+228TH  G   919.0   1   46    5                                                  
+228TH cG M         possible E0 component ({+228}Ac |b{+-} decay)                
+228TH3 G FLAG=LM                                                                
+228TH  G  1040.91  15  76    14                                                 
+228TH  G  1823.21  10  65    4                                                  
+228TH  G  1952.37  10 100    7                                                  
+228TH  L  2013.6   3   2+,3,4+                                                  
+228THX L XREF=A                                                                 
+228TH cL J         |g's to 2+ and 4+ levels                                     
+228TH  G  1826.7   3  100    38                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1955.9   5   38    14                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  L 2016.75    9  (4+,5-)                                                  
+228THX L XREF=B                                                                 
+228TH cL J$ (M1+E2) |g to 3-                                                    
+228TH  G 1048.2    3   43    17                                                 
+228THF G FL=968.451                                                             
+228TH3 G FLAG=IK                                                                
+228TH  G 1497.5    2  100    7                                                  
+228TH3 G FLAG=IK                                                                
+228TH  G  1620.67  10 97     27 (M1+E2)                                         
+228TH3 G FLAG=IK                                                                
+228TH  G 1638.5    3  30     13                                                 
+228TH3 G FLAG=IK                                                                
+228TH  L 2022.82    8 (2+)                                                      
+228THX L XREF=AB                                                                
+228TH cL J$ Multiple |g to 2+ level, and |g's to 0+, (3)+ levels                
+228TH  G 384.63    20 33     7                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G 1000.4    3  16     7                                              I   
+228TH3 G FLAG=OK                                                                
+228TH  G  1053.23  28 36     17                                             B   
+228TH3 G FL=968.984                                                             
+228TH cG           Possibly part of a doublet in {+228}Pa decay                 
+228TH  G  1148.16  14 22     8                                                  
+228TH  G 1190.81   21 30     8                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1965.23  12 100    9                                              &   
+228TH3 G FLAG=M                                                                 
+228TH  L 2030.40   11  2+                                                       
+228THX L XREF=AG                                                                
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  G   939.87  15 100    33                                             L   
+228TH3 G FL=1091.048$  FLAG=MB                                                  
+228TH  G  1013.58  20 55     14                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1971.9   3  40     9                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  G  2029.4   5  20     6                                              L   
+228TH3 G FLAG=M                                                                 
+228TH  L 2037.01   17 2+,3,4+                                                   
+228THX L XREF=A                                                                 
+228TH cL J         |g's to 2+ and 4+ levels                                     
+228TH  G  1850.13  20 100    18                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1979.3   3   41    11                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  L 2044.7    5   0+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 2052.1    4   (6+)                                                     
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(6) for even-even nucleus                                     
+228TH  L 2069.6    5  2+                                                        
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228THX L XREF=G                                                                 
+228TH  L 2079.9    5   0+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 2091.2    7  (6+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(6) for even-even nucleus                                     
+228TH  L 2111.6    5  (2+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  L  2123.1   3  (2+)                                                      
+228THX L XREF=A                                                                 
+228TH cL E         the level may be questionable, Q(|b{+-})({+228}Ac)=2127 {I3}.
+228TH cL J         |g's to 4+ and 1- levels; log {Ift}=4.9 {I5} indicates an    
+228TH2cL allowed transition                                                     
+228TH  G  1795.1   5  100    38                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  G  1936.3   3  100    24                                             L   
+228TH3 G FLAG=M                                                                 
+228TH  L 2131.3    6   0+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 2152.8    4   (4+)                                                     
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(4) for even-even nucleus                                     
+228TH  L 2159.4    5   0+                                                       
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 2170.3    4   (2+)                                                     
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  L 2198.2    4    2+                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  L 2209.5     6 (17-)                                                 B   
+228THX L XREF=DF                                                                
+228TH cL J         |g to (15-) level; band structure                            
+228TH  G   371.4   3            [E2]                                        G   
+228TH3 G FLAG=H                                                                 
+228TH  L 2215.9    4  (4+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(4) for even-even nucleus                                     
+228TH  L 2235.2    7  (4+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(4) for even-even nucleus                                     
+228TH  L 2290.0    7  0+                                                        
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 2302.9    5  (4+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(4) for even-even nucleus                                     
+228TH  L 2323.2    5  2+                                                        
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=2 for even-even nucleus                                       
+228TH  L 2335.9       (4+,0+)                                                   
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(4,0) for even-even nucleus                                   
+228TH  L 2344.2    5  (3-)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(3) for even-even nucleus                                     
+228TH  L 2356.2    5  (2+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  L 2375.5    8  (2+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  L 2398.3    9  (3-)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(3) for even-even nucleus                                     
+228TH  L 2400.5     8 (18+)                                                 A   
+228THX L XREF=D                                                                 
+228TH cL J$ |g to (16+); member of g.s. band                                    
+228TH cL E$2407.9 in (|a,2n|g) with E|g=419.9 to (16+)                          
+228TH  G 412.6     5  100                                                       
+228THF G FL=1987.9                                                              
+228TH  L 2408.8    9  (4+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(4) for even-even nucleus                                     
+228TH  L 2441.7    5  (2+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  L 2456.8    5  0+                                                        
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=0 for even-even nucleus                                       
+228TH  L 2476.8    5  (2+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  L 2494.1    5  (2+)                                                      
+228THX L XREF=G                                                                 
+228TH cL J$L(p,t)=(2) for even-even nucleus                                     
+228TH  L 2513.5    7                                                            
+228THX L XREF=G                                                                 
+228TH  L 2531.5    7                                                            
+228THX L XREF=G                                                                 
+228TH  L 2536.8    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 2542.4    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 2554.5    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2566.3    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 2595.4    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2606.1    5                                                            
+228THX L XREF=G                                                                 
+228TH  L  2608.4       (19-)                                                B  ?
+228THX L XREF=D                                                                 
+228TH cL J$|g to (17-); member of a rotational band                             
+228TH  G  399      1                                                           ?
+228TH  L 2615.1    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 2634.8    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2644.0    3                                                            
+228THX L XREF=G                                                                 
+228TH  L 2657.1    4                                                            
+228THX L XREF=G                                                                 
+228TH  L 2660.1    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2667.1    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2676.0    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 2688.4    4                                                            
+228THX L XREF=G                                                                 
+228TH  L 2695.6    7                                                            
+228THX L XREF=G                                                                 
+228TH  L 2705.5    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2718.4    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2742.3    4                                                            
+228THX L XREF=G                                                                 
+228TH  L 2763.7    4                                                            
+228THX L XREF=G                                                                 
+228TH  L 2781.4    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2798.6    8                                                            
+228THX L XREF=G                                                                 
+228TH  L 2805.6    7                                                            
+228THX L XREF=G                                                                 
+228TH  L 2821.0    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2834.4       (20+)                                                 A  ?
+228THX L XREF=D                                                                 
+228TH cL J$ |g to (18+); member of a rotational band                            
+228TH  G 434       1                                                           ?
+228THF G FL=2400.5                                                              
+228TH  L 2839.3    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 2853.7    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2868.1    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2877.5    8                                                            
+228THX L XREF=G                                                                 
+228TH  L 2883.7    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 2918.8    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 2927.4    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 2936.8    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 2945.3    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 2955.1    8                                                            
+228THX L XREF=G                                                                 
+228TH  L 2993.1    12                                                           
+228THX L XREF=G                                                                 
+228TH  L 2999.5    10                                                           
+228THX L XREF=G                                                                 
+228TH  L 3014.3    11                                                           
+228THX L XREF=G                                                                 
+228TH  L 3035.6    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 3046.4    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 3059.2    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 3075.2    5                                                            
+228THX L XREF=G                                                                 
+228TH  L 3085.2    8                                                            
+228THX L XREF=G                                                                 
+228TH  L 3097.0    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 3104.7    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 3112.7    11                                                           
+228THX L XREF=G                                                                 
+228TH  L 3119.9    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 3128.2    10                                                           
+228THX L XREF=G                                                                 
+228TH  L 3158.8    8                                                            
+228THX L XREF=G                                                                 
+228TH  L 3165.7    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 3186.0    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 3195.2    6                                                            
+228THX L XREF=G                                                                 
+228TH  L 3209.6    12                                                           
+228THX L XREF=G                                                                 
+228TH  L 3214.8    9                                                            
+228THX L XREF=G                                                                 
+228TH  L 3225.0    20                                                           
+228THX L XREF=G                                                                 
+228TH  L 3232.9    13                                                           
+228THX L XREF=G                                                                 
+228TH  L 3239.9    8                                                            
+228THX L XREF=G                                                                 
+228TH  L 3283.4       (22+)                                                 A  ?
+228THX L XREF=D                                                                 
+228TH cL J$|g to (20+); member of a rotational band                             
+228TH  G 449       1                                                           ?

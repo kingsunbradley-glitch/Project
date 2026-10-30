@@ -1,0 +1,25 @@
+242ES    246MD A DECAY (0.9 S)         2010AN08,1996NI09         22NDS    202211
+242ES  H TYP=FUL$AUT=M.J. Martin, C.D. Nesaraja$CIT=NDS 186, 261 (2022)$        
+242ES2 H CUT=31-Dec-2021$                                                       
+246MD  P 0+X                           0.9 S     2              8890      40    
+246MD cP T$from 2010An08 as adopted in 2011Br11.                                
+246MD cP QP$From 2021Wa16                                                       
+242ES  N                       1.0                                              
+242ES c  %|a=100 for {+246}Md 0.9 s was determined by 2010An08.                 
+242ES cG E(A)$Seen in coincidence with the 8530|a                               
+242ES cA IA$From 2010An08                                                       
+242ES  G 169.0                                                                  
+242ES2 G FLAG=A$                                                                
+242ES  G 232.5                                                                 ?
+242ES2 G FLAG=A$                                                                
+242ES  G 396.4                                                                 ?
+242ES2 G FLAG=A$                                                                
+242ES  L 0.0                           17.8 S    16                             
+242ES  A 8741      20 25     AP                                                 
+242ES cA E$A weighted average of 8740 {I20} (1996Ni09) and 8744 {I40}           
+242ES2cA (2010An08) gives 8741 {I18}. The evaluators increase the uncertainty   
+242ES3cA to the smaller of the two input values.                                
+242ES  L 218       50                                                           
+242ES cL E$From E|a and Q|a.                                                    
+242ES  A 8530      30 75     AP                                                 
+242ES cA E$From 1996Ni09. Other: 8380-8640 (2010An08).                          

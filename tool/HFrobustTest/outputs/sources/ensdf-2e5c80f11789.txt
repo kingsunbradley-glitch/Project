@@ -1,0 +1,37 @@
+208FR    ADOPTED LEVELS, GAMMAS                                  07NDS    200707
+208FR  H TYP=ERR$AUT=J. Tuli$DAT=15-Nov-2007$COM=fixed typos based on PNPI rpt  
+208FR  H TYP=FUL$AUT=M. J. MARTIN$CIT=NDS 108,1583 (2007)$CUT=1-Jun-2007$       
+208FR  Q -4381     207893    211320    156785    24    2012WA38                 
+208FR cQ $Note: Current evaluation has used the following Q record              
+208FR2cQ -4379     49 {I7895}   67 {I1323}   53 {I6772}    3    2003Au03        
+208FR cQ QA$from adopted E|a=6641 {I3} (see 1994Sc24) and the assumption that   
+208FR2cQ this |a group feeds the 7+ ground state in {+204}At. 2003Au03 give     
+208FR3cQ 6785 {I44}                                                             
+208FR c  No SF isomers with 2 ns|<T{-1/2}|<2000 s (|s>0.07 |mb)                 
+208FR2c  observed from search for fission fragments following bombardment       
+208FR3c  of {+197}Au with 85- to 165-MeV {+16}O (1970Bj02).                     
+208FR  XA212AC A DECAY                                                          
+208FR  XB9BE(238U,X)                                                            
+208FR  L 0.0           7+              59.1 S    3                              
+208FR2 L %A=89 3$ %EC+%B+=11 3$ MOMM1=4.75 10 (1985Co24,1986Ek02,2005St24)      
+208FR3 L MOME2=0.00 4 (1985Co24,2005St24)$XREF=AB$                              
+208FR cL J         atomic beam (1978Ek02,1978Ek05). |p from favored |a          
+208FR2cL decay to {+204}At g.s.                                                 
+208FR cL T$from 1981Ri04. Others: 1974Ho27 (58.0 s {I3}), 1967Va20 (59.0 s      
+208FRxcL {I20}).                                                                
+208FR cL           %|a: weighted average of 0.90 {I4} from 1981Ri02 based on    
+208FR2cL absolute I|a and I|g(635|g) and the assumption that the 635|g is the   
+208FR3cL only transition feeding the {+208}Rn ground state, and 0.88 {I4} from  
+208FR4cL 1974Ho27 based on I|a/I|a({+208}Rn) with I|a({+208}Rn)=62% {I7}. Note  
+208FR5cL that 1974Ho27 quote %|a=74 {I3} based on I|a({+208}Rn)=52% {I5}        
+208FR cL $Isotope shift: |D<r{+2}>=-0.20804 {I12} relative to {+212}Fr          
+208FR2cL (1987Co19). This replaces the earlier result by the same authors       
+208FRxcL (1985Co24)                                                             
+208FR  L 633          (9+)                                                      
+208FR2 L XREF=B$                                                                
+208FR cL J$proposed by 2006PoZX in analogy with {+206}At                        
+208FR  G 633                                                                    
+208FR  L 827          (10-)            200 NS    AP                             
+208FR2 L XREF=B$                                                                
+208FR cL J$proposed by 2006PoZX in analogy with {+206}At                        
+208FR  G 194                    [E1]                                            

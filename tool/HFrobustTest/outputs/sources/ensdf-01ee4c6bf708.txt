@@ -1,0 +1,212 @@
+241PU    245CM A DECAY                 1975BA65,1994SH31,1980DI1315NDS    201512
+241PU  H TYP=FUL$AUT=C.D. NESARAJA$CIT=NDS 130, 183 (2015)$CUT=30-Sep-2015$     
+241PU c  2012Ch30: Energy and intensity  from {+245}Cm |a decay were evaluated  
+241PU2c  by the Decay Data Evaluation Project (DDEP )which are based generally  
+241PU3c  on 2005Ma88                                                            
+241PU c  1998Wh01: |a decay from a 0.3 mg {+245}Cm source was measured with a   
+241PU2c  Ge(Li) detector and pulse height analyzer                              
+241PU c  1994Sh31: Alpha decay of a {+245}Cm source prepared at Argonne         
+241PU2c  National Laboratory by chemical separation. Measured |g|g coincidence  
+241PU3c  using two HpGe detectors with one surrounded by a BGO compton          
+241PU4c  suppression shield and a Low Energy Photon Spectrometer (LEPS).        
+241PU5c  |a|g coincidence  was measured with a Si(Au) surface barrier detector  
+241PU6c  and a HpGe detector                                                    
+241PU c  1991Po17: Measured |g emission from decay of the radio-chemically      
+241PU2c  separated {+245}Cm using Ge(Li) detectors.                             
+241PU c  1980Di13: |a decay from {+245}Cm. Gammas measured by 90 cm{+2} Ge(Li)  
+241PU2c  detector  and an X-ray detector                                        
+241PU c  1976BaZZ: Review of status of alpha decay data for transactinium       
+241PU2c  isotopes                                                               
+241PU c  1975Ba65: |a decay from {+245}Cm studied using a magnetic              
+241PU2c  spectrograph. Measured E|a and I|a                                     
+241PU c  1966Ba07: |a decay from {+245}Cm studied using a magnetic              
+241PU2c  spectrograph; measured E|a and I|a. |g spectra were measured for       
+241PU3c  energy region up to 100 keV with a proportional counter and for medium 
+241PU4c  energy gammas (60-500 keV) with a Ge detector. |a|g coincidence        
+241PU5c  measured with a semiconductor detector and a NaI(Tl) scintillation     
+241PU6c  spectrometer                                                           
+241PU c  1966Fr03: |a decay from {+245}Cm studied using a Si surface barrier    
+241PU2c  detector; measured E|a and I|a.                                        
+241PU3c  |g spectrum measured with NaI and GeLi detectors.                      
+241PU cA E$From 1975Ba65, except where noted otherwise. The authors'            
+241PU2cA values have been lowered by 0.2 keV as recommended by 1991Ry01         
+241PU3cA to account for changes in calibrations energies.                       
+241PU4cA Others: 1954Hu50, 1963Dz07, 1966Fr03, 1966Ba07                         
+241PU cA E(A)$From E(level) and Q(|a). E|a|? 5370 was measured for the doublet  
+241PU cA E(B)$Weighted average of values of 1975Ba65 and 1966Fr03 as            
+241PU2cA recommended by 1991Ry01, and including the corrections recommended     
+241PU3cA by 1991Ry01 to account for changes in the calibration energies,        
+241PU4cA -0.2 keV for 1975Ba65 and +3.3 for 1966Fr03                            
+241PU cA IA$From 1975Ba65, except where noted otherwise.                        
+241PU2cA Others: 1966Ba07                                                       
+241PU cA HF$r{-0}=1.4966 {I8}, average of r{-0}({+240}Pu)=1.4979 {I7} and       
+241PU2cA r{-0}({+242}Pu)=1.4954 {I10}, is used in the calculations.             
+241PU cG $|a|g coin: (133|g)(5360|a), (174|g)(5360|a) (1966Ba07) and            
+241PU2cG (205|g)(|?5230|a), (232|g)(|?5300|a) (1994Sh31)                        
+241PU cG E$Weighted average values from 1994Sh31 unless stated otherwise.       
+241PU2cG Transitions with energy 89.58, 93.82, and 165.3 reported by 1980Di13   
+241PU3cG have been shown by 1994Sh31 to be Ge escape peaks. While the reported  
+241PU4cG 185.8 and 210.6 transitions are background and {+243} |a decay         
+241PU5cG contaminant, respectively.                                             
+241PU5cG Others: 1998Wh01, 1991Po17, 1966Ba07                                   
+241PU cG RI$Weighted average of values in 1994Sh31, except                      
+241PU2cG where noted otherwise. Note: for I|g from 1998Wh01, the transitions    
+241PU3cG listed in the authors' Table I (1998Wh01) with footnote {Ii} should be 
+241PU4cG divided by 10 and for I|g from values in Table 1 of 1994Sh31 should be 
+241PU4cG multiplied by 100.                                                     
+241PU cG M,MR$From adopted levels, except where noted otherwise                 
+241PU tG           K x-rays (Pu):                       1980Di13                
+241PU2tG                      I(x-rays)                                         
+241PU3tG                     relative to                                        
+241PU4tG           E(x ray)  I|g(175|g)=100                                     
+241PU5tG           --------- ------------                                       
+241PU6tG            99.55 {I3}    198 {I7}        K|a{-2}| x ray                
+241PU7tG           103.76 {I3}    306 {I10}       K|a{-1}| x ray                
+241PU8tG           116.27 {I6}    39.4 {I22}      K|b{-3} x ray                 
+241PU9tG           117.26 {I6}    70.7 {I32}      K|b{-1} x ray                 
+241PU2tG           120.60 {I15}   27.2 {I16}      K|b{-2} x ray                 
+241PU3tG           121.55 {I6}    9.6 {I13}       K-O{-2} x ray + K-O{-3} x ray 
+241PU4tG                                                                        
+241PU tG           M and L x-rays(Pu):                                          
+241PU2tG           see 1990Po14 for intensities measured                        
+241PU3tG           relative to I(L{-|g} x ray+L{-|b} x ray).                    
+241PU DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+241PU cG MR$If no value given it was assumed |d=1.00 for E2/M1,                 
+241PU2cG |d=1.00 for E3/M2 and |d=0.10 for the other multipolarities            
+241PU cL E$From least-squares fit to E|g data                                   
+241PU cL J$From Adopted Levels                                                  
+245CM  P 0.0          7/2+             8423 Y    74             5622.0     5    
+245CM cP J,T$From Adopted Levels in {+245}Cm (2011Br03)                         
+245CM cP QP$the evaluator adopts Q(|a)=5622.0 {I5}, a weighted average of       
+245CM2cP values deduced from |a branches to the g.s., 42, 96, 175, 232,         
+245CM3cP and 301 levels.                                                        
+245CM4cP The authors of 2012Wa38 gave an adjusted value of Q(|a)=5623.0 {I10}   
+245CM5cP from 1975Ba65                                                          
+241PU  N 0.975       0.975     1.0                                              
+241PU PN                                                                     2  
+241PU cN NR$From two sources referenced by 1994Sh31. 1980Di13                   
+241PU2cN report relative I|g values along with I|g(175|g)=9.5 {I7} per 100      
+241PU3cN {+245}Cm |a decays. The values from the thesis referenced              
+241PU4cN by 1994Sh31 report I|g(175|g)=10.1 {I1} per 100 {+245}Cm |a            
+241PU5cN decays. With I|g values chosen as a weighted average from these two    
+241PU6cN sources, the total I|g(1+|a) feeding the g.s. is 102 {I4}. With        
+241PU7cN I|a(g.s.)=0.58, given with no uncertainty, but assumed by the          
+241PU8cN evaluator to be accurate to 0.6 {I1}, one gets I|g                     
+241PU9cN normalization=I(|g+ce) normalization=0.97 {I17}. This normalization is 
+241PUxcN adopted by the evaluator. It gives I|g(175|g)=9.8 {I3}                 
+241PU  G 388.16     5 0.019   1                                                 
+241PU cG E,RI$Reported only by 1998Wh01                                         
+241PU  L 0.0          5/2+             14.290 Y  6                              
+241PU cL T$From Adopted Level                                                   
+241PU  A 5529.0     5 0.58       1786                                           
+241PUF A FLAG=B                                                                 
+241PU cA E$The uncorrected measurements are 5529.2 {I5} (1975Ba65) and          
+241PU2cA 5527 {I3} (1966Fr03)                                                   
+241PU  L 41.969    14 7/2+                                                      
+241PU  A 5488.5     5 0.83       715                                            
+241PU  G 41.93     3  0.374  31M1+E2     0.186   4     102.8  20                
+241PUS G  LC=76.5 15$MC=19.5 4                                                  
+241PUS G  NC=5.32 11$OC=1.30 3$PC=0.232 5$QC=0.01092 16                         
+241PU  L 95.786     3 9/2+                                                      
+241PU  A 5436.1     5 0.04       7197                                           
+241PU  G 53.73     4  0.075   5M1+E2     0.201   8     44.9   11                
+241PUS G  LC=33.5 8$MC=8.46 21                                                  
+241PUS G  NC=2.31 6$OC=0.566 14$PC=0.1026 22$QC=0.00522 8                       
+241PU  G 95.786    3  0.0112 23E2                      19.3                    S
+241PUS G  LC=14.00 20$MC=3.92 6                                                 
+241PUS G  NC=1.078 15$OC=0.254 4$PC=0.0404 6$QC=0.0001375 20                    
+241PU cG E,RI$Obscured by the K|a{-2}| x ray (1980Di13). The energy is from the 
+241PU2cG the adopted level scheme and the intensity is from                     
+241PU3cG I|g(96|g)/I|g(54|g)=0.15 {I3} in adopted gammas                        
+241PU  L 161.26     3 11/2+                                                     
+241PU  A 5371.6     5 0.43   18 2.7E2  12                                       
+241PUF A FLAG=A                                                                 
+241PU cA IA$From an intensity balance at the 161.26 level                       
+241PU  G 65.44     4  0.018   4M1(+E2)   0.44    LE    27     8                 
+241PUS G  LC=20 6$MC=5.2 17                                                     
+241PUS G  NC=1.4 5$OC=0.35 11$PC=0.062 16$QC=0.00282 20                         
+241PU  L 161.73     5 1/2+                                                      
+241PU  A 5371.1     5 0.020   1 5.84E3 30                                       
+241PUF A FLAG=A                                                                 
+241PU cA IA$From an intensity balance at the 161.72 level                       
+241PU  G 161.73    5  0.0068  2E2                      1.96                     
+241PUS G  KC=0.190 3$LC=1.287 19$MC=0.359 5                                     
+241PUS G  NC=0.0987 14$OC=0.0233 4$PC=0.00378 6$QC=2.31E-5 4                    
+241PU  L 175.043   17 7/2+                                                      
+241PU  A 5361.1    11 93.2   5  1.043  12                                   C   
+241PUF A FLAG=B                                                                 
+241PU cA E$The uncorrected measurements are 5362.0 {I12} (1975Ba65) and         
+241PU2cA 5356 {I2} (1966Fr03)                                                   
+241PU cA IA$From 1976BaZZ. An intensity balance at the 175 level gives          
+241PU2cA I|a=94.6 {I21}                                                         
+241PU  G 79.27     4  0.132  13M1+E2     0.65    +25-2222     6                 
+241PUS G  LC=16 4$MC=4.3 12                                                     
+241PUS G  NC=1.2 4$OC=0.28 8$PC=0.047 11$QC=0.00129 22                          
+241PU  G 133.08    3  2.89    3M1+E2     0.222   9     11.36  17             C  
+241PUS G  KC=8.80 13$LC=1.92 3$MC=0.473 7                                       
+241PUS G  NC=0.1288 19$OC=0.0319 5$PC=0.00599 9$QC=0.000367 6                   
+241PU  G 175.01    3  10.1    1M1+E2     0.217   19    5.21                  C  
+241PUS G  KC=4.07 7$LC=0.855 12$MC=0.209 3                                      
+241PUS G  NC=0.0570 8$OC=0.01415 20$PC=0.00267 4$QC=0.000168 3                  
+241PU  L 231.933   13 9/2+                                                      
+241PU  A 5304.3    10 5.0    1   8.78  20                                       
+241PUF A FLAG=B                                                                 
+241PU cA E$The uncorrected measurements are 5303.8 {I12} (1975Ba65) and         
+241PU2cA 5303 {I2} (1966Fr03)                                                   
+241PU cA IA$From 1976BaZZ. An intensity balance at the 231 level gives          
+241PU2cA I|a=5.0 {I2}                                                           
+241PU  G 56.89     3  0.0345 22M1+E2     0.68          92.4   143.1       2     
+241PUS G  L/T=0.724 8$M/T=0.197 4                                               
+241PUS G  N/T=0.0539 11$O/T=0.0128 3$P/T=0.00210 5$Q/T=3.71E-5 8                
+241PUS G  LC=67.6 10$MC=18.4 3                                                  
+241PUS G  NC=5.03 8$OC=1.198 17$PC=0.196 3$QC=0.00346 5                         
+241PU cG E$From 1998Wh01. 1994Sh31 report E|g=56.79 {I4}                        
+241PU cG TI$From an intensity balance at the 232 level                          
+241PU cG M,MR$From I(|g+ce) and I|g one deduces |a=92 {I8} which corresponds    
+241PU2cG to mult=M1+E2 with |d=0.68                                             
+241PU  G 136.127   20 0.116   3M1+E2     0.63    21    9.0    10                
+241PUS G  KC=6.3 12$LC=2.04 15$MC=0.53 5                                        
+241PUS G  NC=0.144 14$OC=0.035 3$PC=0.0062 4$QC=0.00027 5                       
+241PU cG E$From 1998Wh01. 1994Sh31 report E|g=136.15 {I4}                       
+241PU  G 189.965   10 0.209   3M1+E2     0.63    +6-7  3.36   16                
+241PUS G  KC=2.46 15$LC=0.665 10$MC=0.1680 25                                   
+241PUS G  NC=0.0459 7$OC=0.01125 16$PC=0.00205 3$QC=0.000103 6                  
+241PU cG E$From 1998Wh01. 1994Sh31 report E|g=189.94 {I4}                       
+241PU  G 231.96    3  0.0123 16[E2]                    0.497                    
+241PUS G  KC=0.1200 17$LC=0.275 4$MC=0.0760 11                                  
+241PUS G  NC=0.0209 3$OC=0.00495 7$PC=0.000816 12$QC=8.41E-6 12                 
+241PU cG E$From 1998Wh01. 1994Sh31 report E|g=232.17 {I7}                       
+241PU  L 260.5     13                                                          ?
+241PU  A 5272.8    12 0.07       419                                           ?
+241PU cA E$May possibly belong to {+243}Am |a decay (1975Ba65).                 
+241PU  L 301.166   17  11/2+                                                    
+241PU  A 5234.4    12 0.32        51                                            
+241PU  G 69.17     6  0.007   3M1(+E2)   1.2     LE    38     22 0.18      5    
+241PUS G  L/T=0.7 3$M/T=0.19 14                                                 
+241PUS G  N/T=0.05 5$O/T=0.013 10$P/T=0.0021 16$Q/T=5.E-5 4                     
+241PUS G  LC=28 16$MC=8 5                                                       
+241PUS G  NC=2.1 13$OC=0.5 3$PC=0.08 5$QC=0.0020 6                              
+241PU cG E$Reported only by 1980Di13, but adopted in the level scheme           
+241PU2cG of 1994Sh31                                                            
+241PU cG TI$From an intensity balance at the 301 level, with a 10%              
+241PU2cG uncertainty assigned to the |a branch feeding this level               
+241PU cG M,MR$From I(|g+ce) and I|g one deduces |a=26 {I+33-11}                 
+241PU2cG which corresponds to mult=M1(+E2) with |d||<1.2                        
+241PU  G 126.09    4  0.007   2[E2]                    5.59                     
+241PUS G  KC=0.1705 24$LC=3.94 6$MC=1.101 16                                    
+241PUS G  NC=0.303 5$OC=0.0714 10$PC=0.01145 17$QC=5.13E-5 8                    
+241PU cG E,RI$Reported only by 1998Wh01                                         
+241PU  G 139.87    4  0.008   1[M1,E2]                 7      4                 
+241PUS G  KC=4 4$LC=2.0 5$MC=0.54 15                                            
+241PUS G  NC=0.15 5$OC=0.036 9$PC=0.0061 11$QC=0.00018 15                       
+241PU cG E$From 1998Wh01. 1994Sh31 report E|g=139.80 {I4}                       
+241PU cG RI$Weighted average of values of 1994Sh31 and 1998Wh01                 
+241PU  G 205.404   20 0.009   1[M1,E2]                 2.1    14                
+241PUS G  KC=1.4 13$LC=0.50 5$MC=0.129 3                                        
+241PUS G  NC=0.0354 7$OC=0.0086 4$PC=0.00152 18$QC=6.E-5 5                      
+241PU cG E$From 1998Wh01. 1994Sh31 report E|g=205.58 {I7}                       
+241PU cG RI$Weighted average of values of 1994Sh31 and 1998Wh01                 
+241PU  L 376       AP 1/2,3/2                                                   
+241PU  A 5119      AP 0.004  LE  1370  GE                                       
+241PU  L 384       AP                                                           
+241PU  A 5151      AP 0.005  LE  974   GE                                       

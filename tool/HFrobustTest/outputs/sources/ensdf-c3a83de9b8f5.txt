@@ -1,0 +1,80 @@
+249ES    253MD A DECAY (6 M)           2012HE09,2005HE27         24NDS    202403
+249ES  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249ES c  2012He09: {+253}Md produced as daughter of |e decay of {+253}No        
+249ES2c  produced in reaction: {+207}Pb({+48}Ca,2n) with beam energy            
+249ES3c  218.4 MeV. Evaporation residues were separated from the                
+249ES4c  primary beam by velocity filter SHIP at GSI facility and implanted at  
+249ES5c  focal plane into a position-sensitive 16-strip PIPS detector.          
+249ES6c  The PIPS detector was used to measure |a                               
+249ES7c  decay energy of the implanted nuclei and their daughter products.      
+249ES8c  It was surrounded in backward hemisphere by a box of silicon           
+249ES9c  detectors to stop |a particles. Gamma rays were detected               
+249ESac  using a four crystal Ge-clover detector shielded with Cu, Cd, Pb       
+249ESdc  with FWHM=1.7 keV (Expt.1), and VEGA-type detector without shielding   
+249ESec  with FWHM=2.5 keV (Expt.2). Both FWHM values are for the 279.5-keV     
+249ESec  |g ray. Measured E|g, I|g, E{-|a}, I{-|a}, |a|g coin (|Dt|<|+0.4 |ms). 
+249ESfc  Deduced level scheme                                                   
+249ES c  2011Lo06: {+253}Md produced as daughter of |e decay of {+253}No that   
+249ES2c  was produced in {+207}Pb({+48}Ca,2n) reaction. The residues were       
+249ES3c  separated by VASSILISSA recoil separator and implanted into the        
+249ES4c  GABRIELA detection system at focal plane. The detectors consisted      
+249ES5c  of 48x48 strip Double-Sided-Silicon strip Detector (DSSD), 32-strip    
+249ES6c  silicon detector upstream and a Ge detector. The efficiency for        
+249ES7c  |g ray detection was 16.4% for 100-keV photon and 3.4% at 1332 keV.    
+249ES8c  Measured |a, |g, |g|g coin, |a|g coin, and conversion                  
+249ES9c  electrons                                                              
+249ES c  2005He27: {+253}Md produced as daughter of |e decay of {+253}No        
+249ES2c  produced in reaction: {+207}Pb({+48}Ca,2n) with beam energy E=4.58,    
+249ES3c  4.60 MeV/nucleon. Evaporation residues were separated from the         
+249ES4c  primary beam by velocity filter SHIP at GSI facility and implanted at  
+249ES5c  focal plane into a position-sensitive 16-strip PIPS detector.          
+249ES6c  The PIPS detector was used to measure the alphas and a clover          
+249ES7c  detector was used for |g rays. Measured (fragments)|a coin,            
+249ES5c  |a|g coin, prompt and delayed |g rays.                                 
+249ES c  All data from 2012He09, except as noted                                
+249ES cA HF$The nuclear radius parameter r{-0}({+249}Es)=1.4671 {I21} is deduced
+249ES2cA from interpolation of radius parameters of the adjacent even-even      
+249ES3cA nuclides in 2020Si16                                                   
+249ES cL J,T$From Adopted Levels                                                
+249ES DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+253MD  P 0.0         (7/2-)            6 M       +12-3          7573      8     
+253MD cP T,J$From Adopted Levels in ENSDF database (2013Br09)                   
+253MD cP QP$From 2021Wa16                                                       
+249ES  N 0.97                  0.007   AP                                       
+249ES cN NR$From I(|g+ce) of 353.3|g and 304.2|g=100                            
+249ES cN BR$%|a|?0.7 (2005He27)                                                 
+249ES PN                                                                     3  
+249ES  A 7123      15                                                          ?
+249ES cA E$See comment for 390.8|g                                              
+249ES  G 390.8     4                                                            
+249ES cG E$Observed 3 events. 2012He09 describe a possible scenario of          
+249ES2cG assignment of the (7123|a, 390.8|g) pair to the g.s. decay of {+253}Md 
+249ES4cG that would suggest {+249}Es g.s. to be 3/2[521], such as for {+251}Es, 
+249ES3cG then placement of 390.8|g from 353, 7/2- state (see Fig. 5 in 2012He09)
+249ES5cG could feed a 5/2- state at |?30 keV built on the 3/2[521] orbital,     
+249ES6cG comparable to states in {+247,249}Bk. In this scenario 7/2+ state with 
+249ES7cG 7/2[633] configuration will lie at |?68 keV. Better quality data are   
+249ES8cG required to support this tentative scenario, thus 2012He09 omit        
+249ES9cG placement of 390.8|g in the decay scheme.                              
+249ES  L 0.0           7/2+            102.2 M   6                              
+249ES cL $Configuration=|p7/2[633]                                              
+249ES  L 49.0       6  (9/2+)                                                   
+249ES cL J$Proposed in 2012He09 based on 304.2|g from 353, 7/2- level feeding   
+249ES2cL this level.                                                            
+249ES  L 353.2     4   (7/2-)                                                   
+249ES cL E$from E|g=353.2 {I4}                                                  
+249ES cL $Configuration=|p7/2[514]                                              
+249ES  A 7103      15                                                           
+249ES cA E$Alpha hindrance factor|?1 was deduced by 2012He09,                   
+249ES2cA based on a single 7103|a branch with theoretical half-life from        
+249ES3cA 1980Po10 and 1983Ru11.                                                 
+249ES4cA Other: 7065 (2011Lo06 who reported that the E|a is rather low)         
+249ES  G 304.2     4   17       [E1]                   0.0455  6                
+249ESS G  KC=0.0354 5$LC=0.00760 11$MC=0.001867 27                              
+249ESS G  NC=0.000516 7$OC=0.0001326 19$PC=2.411E-5 34$QC=1.075E-6 15           
+249ES cG E$19 events observed by 2012He09, 1 event observed by 2011Lo06         
+249ES  G 353.2     4   83       (E1)                   0.0334  5                
+249ESS G  KC=0.0261 4$LC=0.00547 8$MC=0.001340 19                               
+249ESS G  NC=0.000370 5$OC=9.54E-5 14$PC=1.748E-5 25$QC=8.06E-7 11              
+249ES cG E$68 events observed by 2012He09, 15 event observed by 2011Lo06        
+249ES cG M$from |a(K)exp|<0.06 (2005He27)                                       

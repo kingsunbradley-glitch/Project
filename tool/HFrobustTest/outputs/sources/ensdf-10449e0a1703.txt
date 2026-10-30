@@ -1,0 +1,485 @@
+225RA    229TH A DECAY                                           09NDS    200905
+225RA  H TYP=FUL$AUT=A. K. Jain (a), R. Raut (b), J. K. Tuli$                   
+225RA2 H CIT=NDS 110, 1409 (2009)$CUT=1-Dec-2008$                               
+225RA c  2000Ga52: Studied |a decay of {+229}Th populating the levels of        
+225RA2c  {+225}Ra. It improves upon the results of same experiment reported     
+225RA3c  earlier in 1998Ga48. Two HPGe detectors were used. Normalization of    
+225RA4c  intensities is again relative to I(193|g). The earlier work of 1987He28
+225RA5c  has been supplemented and improved.                                    
+225RA cG E$From 1970Tr04, 1987He28 and 2000Ga52. Other                          
+225RA2cG measurements: 1955St04, 1959Go87, 1960En09, 1981Di14, 1983Ra01.        
+225RA cG RI$Relative photon intensity, measured by 2000Ga52 and 1987He28. Other 
+225RA2cG measurements: 1970Tr04, 1981Di14, 1983Ra01.                            
+225RA cG M$From ce data of 1970Tr04 and from I|g, (|a)(ce) data of              
+225RA2cG 1987He28 and 2000Ga52. Multipolarities in brackets are from level      
+225RA3cG scheme; they were not determined experimentally.                       
+225RA cG $ce intensities quoted here are from 1970Tr04; they have been          
+225RA2cG renormalized such that |a(K)exp(193|g)=2.033 (a multiplication factor  
+225RA3cG of 1.028 is used for Ice's listed by 1970Tr04).                        
+225RA cG E(S),RI(T)$Multiply placed, intensities not divided                    
+225RA tG           |a|g: 1970Tr04, 1987He28.                                    
+225RA tG           |g|g, |gce, (ce)(ce): 1970Tr04, 1987He28.                    
+225RA tG           |a|g(t):                                                     
+225RA tG           (5054|a)(35-keV ce)(t): T{-1/2}(31.6 level)=2.1 ns {I5} (1985
+225RA+tG Is03),                                                                 
+225RA tG           (4845|a)(15-25 keV ce)(t): T{-1/2}(25.4 level)=0.88 ns {I4} (
+225RA+tG 1985Is03).                                                             
+225RA2tG                                                                        
+225RA tG           X rays (intensities relative to I|g(193|g)=4.3):             
+225RA tG           I(K x rays)=49.3 {I20} (1987He28)                            
+225RA tG           I(K x rays)=38.9 {I32} (1983Ra01)                            
+225RA tG           I(L x rays)=90.0 {I24} (1983Ra01).                           
+225RA cA E$From 1970Ba20, 1976BaZZ and 1987He28 except where otherwise noted.   
+225RA2cA Energies measured by 1970Ba20 have been increased by 0.5 keV, as       
+225RA3cA recommended by 1979Ry03, because of change in calibration energy.      
+225RA4cA Energies given by 1987He28 were calibrated with the strongest {+229}Th 
+225RA5cA |a group: E|a=4845 {I2}, given by 1970Ba20 as E|a=4844.7 {I12}. Other  
+225RA6cA measurements: 1959Go87, 1960En09, 1961Ko11.                            
+225RA cA IA$From 1970Ba20, 1976BaZZ and 1987He28, unless otherwise noted. Other 
+225RA2cA measurements: 1959Go87, 1960En09, 1961Ko11.                            
+225RA cA HF        r{-0}({+225}Ra)=1.5326 is used in calculations.              
+225RA cA E(H)      |a was not observed by 1987He28.                             
+225RA cL J         Based on transition multipolarities and 5/2+ assignment      
+225RA2cL for the 236.25-keV level (unhindered |a transition from {+229}Th).     
+229TH  P  0.0         5/2+                7340 Y 160             5168.1   12    
+225RA  N 1.026     14           1.0                                             
+225RA cN           Absolute |g intensities were measured by 1986He06 with       
+225RA2cN absolutely calibrated Ge(Li) detector. Normalization of relative       
+225RA3cN photon intensities to I(193|g)=4.41% {I6}, as measured by 1986He06,    
+225RA4cN yields I|g normalization=1.026 {I14}. Other absolute |g intensity      
+225RA5cN determinations: I(193|g)=4.5% (1970Tr04), 5.89% {I18} (1981Di14),      
+225RA6cN 3.77% {I8} (1983Ra01). Absolute ce intensities were determined by      
+225RA7cN 1970Tr04 from Ice's relative to ce of 84.47|g in {+224}Ra from |a      
+225RA8cN decay of {+228}Th present in the sample. Relative uncertainties for    
+225RA9cN Ice's were estimated by 1970Tr04 to be between 10% and 50%.            
+225RA  G 19.08     20 0.22   3                                                  
+225RA  G 21.58     2  0.007  10                                                 
+225RA  G 27.50     2  0.034  17                                                 
+225RA  G 34.02     20 0.01   AP                                                 
+225RA  G 46.52     4  0.020  2                                                  
+225RA  G 53.2      1                                                            
+225RA  G 75.3      1                                                            
+225RA  G 76.67     20 0.035  8                                                  
+225RA  G 88.43     8  0.026  6                                                  
+225RA  G 129.04    3  0.016  10                                                 
+225RA  G 132.6     1                                                            
+225RA  G 135.71    7                                                            
+225RA  G 146.8       0.016   8                                                  
+225RA  G 161.6     3                                                            
+225RA  G 165.7     3                                                            
+225RA  G 171.5     2  0.18   5                                                  
+225RA  G 211.47    10 0.044  12                                                 
+225RA  G 215.4                                                                  
+225RA  G 243.5     3                                                            
+225RA  G 261.0     5                                                            
+225RA  G 277.48    5                                                            
+225RA  G 292.27    5                                                            
+225RA  G 292.91    12                                                           
+225RA  G 422.8     1  0.0005 1                                                  
+225RA  G 455.85    10 0.0114 14                                                 
+225RA  G 603.6     2  0.0009 2                                                  
+225RA  L   0.0         1/2+              14.8 D  2                              
+225RA  A  5078     2  0.05      5.3E+4                                          
+225RA cA IA        measured intensities do not agree well:                      
+225RA2cA 0.05 {I1} (1987He28), 0.01 (1970Ba20).                                 
+225RA  L  25.41    2   5/2+              0.88 NS 4                              
+225RA  A  5053     2  6.6    1  280                                         C   
+225RA cA IA        measured intensities disagree:                               
+225RA2cA 6.6 {I1} (1987He28), 1.6 (1970Ba20).                                   
+225RA  G  25.39    2  0.008   4 (E2)                   7377                  C  
+225RAS G LC=5442 $ MC=1455                                                      
+225RA cG RI        calculated from Ice(L3)=22.6 and |a(L3)=2727 for E2.         
+225RA  L 31.56     3  3/2-             2.1 NS    5                              
+225RA  A 5047      2  0.2    LT 3.4E+3 GT                                      ?
+225RA cA E         from E|a(g.s.)=5078 {I2} and E(level)=32.5. An |a group at   
+225RA2cA E|a|?5050 was inferred by 1970Ba20; the 5053 and 5050 |a's were not    
+225RA3cA resolved, but the lineshape is distorted indicating that it may        
+225RA4cA include more than one |a group. No |a with E|a|?5050 was               
+225RA5cA observed by 1987He28. However, as noted by 1987He28, their resolution  
+225RA6cA was 5.0 keV, and it was 2.2 keV in 1970Ba20's spectrum.                
+225RA cA IA        from 1985Is03. I|a(5050|a)=5.2 was given by 1970Ba20.        
+225RA  G 31.50     5  1.16   4  E1                      2.44                 C  
+225RAS G LC=1.83 $ MC=0.456                                                     
+225RA  L 42.77     3   3/2+               3 NS   LT                             
+225RA  A  5036     2  0.24   2 6024                                             
+225RA  G  17.36    3  0.18   9  (M1)                    140.6                C  
+225RAS G LC=2.99 $ MC=103.5                                                     
+225RA cG RI        calculated from Ice(M1)=16.5 and |a(M1)=91.7.                
+225RA  G 42.82     5  0.16   1 (M1+E2)   0.28    7      77    20             C  
+225RAS G LC=58 14 $MC=15 4                                                      
+225RA  L 55.16     6  (1/2-)                                                    
+225RA  A 5023      2  0.009  3 1.3E+5                                           
+225RA cA           This |a was not reported by 1970Ba20.                        
+225RA  G 23.6         0.0012 1 (M1+E2)                 241    33               ?
+225RAS G LC=182 9 $ MC=43.9 24                                                  
+225RA cG CC        from intensity balance at the 55.11-keV level. This value    
+225RA2cG corresponds to |d=0.034 {I34}.                                         
+225RA  G 55.11     3  0.0026 4 [E1]                    0.549                 C  
+225RAS G LC=0.414 $ MC=0.1008 $ NC+=0.0339                                      
+225RA  L 69.36     6  (7/2-)                                                    
+225RA  A 5009      2  0.09   1  1.10E+4                                     C   
+225RA cA           This |a was not reported by 1970Ba20.                        
+225RA  G 37.8      1 0.0032  16(E2)                    1040                     
+225RAS G LC=766 $ MC=206                                                        
+225RA cG RI        calculated from Ice(L3)=1.2, |a(L3)=370.                     
+225RA  G 43.990    10 0.64   3  E1                     1.002                 C  
+225RAS G LC=0.756 $ MC=0.185                                                    
+225RA cG M         determined by 1983Ny01 in {+225}Fr |b{+-} decay by |g|g      
+225RAxcG coincidences.                                                          
+225RA  L 100.50    6   9/2+                                                     
+225RA  A  4978.5   12 3.17   4  200                                         C   
+225RA  G 31.10     5  0.82   8  [E1]                   2.52                  C  
+225RAS G LC=1.90 $ MC=0.472                                                     
+225RA  G 75.10     10 0.59   13  E2                    37.6                  C  
+225RAS G LC=27.5 $ MC=7.46 $ NC+=2.68                                           
+225RA  L 101.72        (3/2+)                                                   
+225RA  G 101.58    10 0.048  7                                              &   
+225RA  L 111.60    5   7/2+                                                     
+225RA  A  4967.5   12 5.97   6  90                                          C   
+225RA  G 11.1      1  12     2                                   8        3     
+225RA cG TI$deduced by 1987He28 from |g|g coincidence data where 11.1|g         
+225RA2cG is an unobserved intermediate transition.                              
+225RA cG $ce line assigned as ce(L1 25|g) by 1970Tr04 could be                  
+225RA2cG ce(M1 11.1|g) (1987He28).                                              
+225RA  G 42.3      1  0.080  8  [E1]                   1.113                 C  
+225RAS G LC=0.839 $ MC=0.206                                                    
+225RA  G 68.83     3  0.133  13  E2                    57.0                  C  
+225RAS G LC=41.7 $ MC=11.3 $ NC+=4.05                                           
+225RA  G 86.25     4  1.3    1  M1+E2    0.27    9     6.0    7              C  
+225RAS G LC=4.5 5 $ MC=1.1114 $ NC+=0.40 5                                      
+225RA  L 120.36    6  5/2-                                                      
+225RA  G 50.99     4  0.017  4  [M1]                   23.5                  C  
+225RAS G LC=17.7 $ MC=4.25 $ NC+=1.52                                           
+225RA cG           Intensity balance at the 120-keV level yields |a|?21.5.      
+225RA2cG |a(M1)=23.5, |a(E2)=242.                                               
+225RA  G 64.96     10 0.085  11                                                 
+225RA  G 77.63     5  0.044  6  [E1]                   0.220                 C  
+225RAS G LC=0.1659 $ MC=0.0401 $ NC+=0.01362                                    
+225RA  G 89.09     20 0.14   AP                                             &   
+225RA  G 94.92     8  0.013  3  [E1]                   0.1286                C  
+225RAS G LC=0.0971 $ MC=0.0234 $ NC+=0.00803                                    
+225RA  L 149.96    6  3/2+                                                      
+225RA  A 4930      2 0.16    5 1925                                         C   
+225RA  G 29.9      1 0.002   AP                                             @   
+225RA  G 94.73     2 0.26    2  [E1]                   0.1292               @C  
+225RAS G LC=0.0977 $ MC=0.0235 $ NC+=0.00807                                    
+225RA  G 107.108   8  0.79   4 M1(+E2)   0.3     3     13.1   6              C  
+225RAS G KC=10.1 9 $ LC=2.3 3 $ MC=0.56 7 $ NC+=0.20 3                          
+225RA  G 118.10    10 0.007  3                                              @   
+225RA  G 124.55    5  0.67   6  (M1)                   8.84                  C  
+225RAS G KC=7.09 $ LC=1.322 $ MC=0.316 $ NC+=0.1131                             
+225RA  G 150.04    3  0.06   LT (M1+E2)  0.4     4     4.7    5                 
+225RAS G KC=3.6 6 $ LC=0.82 5 $ MC=0.201 16 $ NC+=0.072 6                       
+225RA  L 151.59                                                                 
+225RA  G 151.6     3  0.025  AP                                             &   
+225RA  L 179.75    2  5/2+                                                      
+225RA  A  4901.0   1210.20   8  19.4                                        C   
+225RA  G 29.9      1  0.11   2  (M1+E2)                223    AP            @C  
+225RAS G LC AP 167 $ MC AP 42                                                   
+225RA cG           I|g=0.038 {I13} was measured for the doublet.                
+225RA cG CC        for |d|?0.2 in analogy to 28.37|g in {+233}U.                
+225RA  G 59.33     10 0.012  2                                                  
+225RA  G 68.09     4  0.067  10 M1+E2    0.32    16     15    5              C  
+225RAS G LC=11 4 $ MC=2.8 10 $ NC+=1.0 4                                        
+225RA  G 110.332   8  0.121  12 [E1]                   0.385                @C  
+225RAS G KC=0.299 $ LC=0.0653 $ MC=0.01567 $ NC+=0.00541                        
+225RA  G 136.990   4  1.15   3  M1                      6.91                 C  
+225RAS G KC=5.40 $ LC=1.01 $ MC=0.241 $ NC+=0.086                               
+225RA cG           |d<0.24, if there is any E2 admixture.                       
+225RA  G 148.15    4  0.86   6  E1                     0.1877                C  
+225RAS G KC=0.1478 $ LC=0.0302 $ MC=0.00722 $ NC+=0.00250                       
+225RA  G 154.336   10 0.75   2  M1+E2    0.4     4      4.4   4              C  
+225RAS G KC=3.4 5 $ LC=0.75 4 $ MC=0.184 13 $ NC+=0.066 5                       
+225RA  G 179.757   7  0.192  15 E2                     0.884                 C  
+225RAS G KC=0.2000 $ LC=0.500 $ MC=0.1353 $ NC+=0.0487                          
+225RA  L 203.47       (9/2-)                                                    
+225RA  A  4878     AP 0.03   AP 4.6E+3 AP                                   H  ?
+225RA  G 134.19    10 0.0092 15(M1)                    7.14                 @   
+225RA cG           I|g=0.012 {I3} was measured. I|g of 134.2|g                  
+225RA2cG level is deduced by the evaluator from measured I(cek)=0.10 {I3} for   
+225RA3cG deexciting the 284.49-keV                                              
+225RA  L 216.28                                                                ?
+225RA  A  4865     AP 0.03   AP 3.9E+3 AP                                   H  ?
+225RA  G 115.85    10 0.010  AP                                             @   
+225RA  L 220.55    7 (7/2+,9/2+)                                                
+225RA  A  4861     2  0.28   10 386                                         C   
+225RA  G 68.80     10 0.04   AP                                                 
+225RA  G 109.2        0.043  8 [M1]                    12.9                  C  
+225RAS G KC=10.3 $ LC=1.93 $ MC=0.462 $ NC+=0.165                               
+225RA  G 119.98    2  0.05   2 [M1]                    9.84                  C  
+225RAS G KC=7.89 $ LC=1.47 $ MC=0.352 $ NC+=0.126                               
+225RA  G 194.3     3  0.03   2 [M1,E2]                 1.6    10                
+225RAS G KC=1.1 9 $ LC=0.365 8 $ MC=0.093 4 $ NC+=0.033 2                       
+225RA  L 225.08                                                                 
+225RA  G 75.19     10 0.002  1                                              @   
+225RA  G 169.2     3  0.0010 5                                              @   
+225RA  G 182.12    10 0.0054 11                                                 
+225RA  G 193.52    5  0.0007 3                                              @   
+225RA  G 225.26    10 0.003  1                                              @   
+225RA  L 226.9     3  (11/2+)                                                   
+225RA  A  4852     AP 0.03   AP 3.3E+3 AP                                   H  ?
+225RA  G 126.48    10 0.014  4 [M1,E2]                 6.0    25            @C  
+225RAS G KC=3.6 33 $ LC=1.8 6 $ MC=0.48 18 $ NC+=0.17 7                         
+225RA cG           Intensity balance at the 226.9-keV level yields              
+225RA2cG |a(126.4|g)=5.5 {I41}, suggesting M1,E2 multipolarity:                 
+225RA3cG |a(M1)=8.47, |a(E2)=3.61                                               
+225RA  L 236.25    2   5/2+                                                     
+225RA  A  4845.3   1256.2    2  1.5                                         C   
+225RA  G 56.518    5  0.28   2  M1(+E2)  0.11    11     18.9  16             C  
+225RAS G LC=14.3 12 $ MC=3.5 4 $ NC+=1.23 12                                    
+225RA  G 86.40     5  2.5    1  M1                      5.03                 C  
+225RAS G LC=3.80 $ MC=0.908 $ NC+=0.324                                         
+225RA  G 115.85    10 0.010  AP [E1]                   0.341                @C  
+225RAS G KC=0.265 $ LC=0.0572 $ MC=0.01373 $ NC+=0.00474                        
+225RA  G 124.65    5  0.72   6  (M1)                    8.82                 C  
+225RAS G KC=7.07 $ LC=1.32 $ MC=0.315 $ NC+=0.113                               
+225RA  G 166.976   7  0.200  10 [E1]                   0.141                 C  
+225RAS G KC=0.1115 $ LC=0.222 $ MC=0.00530 $ NC+=0.00183                        
+225RA  G 193.52    5  4.3       M1                      2.53                @C  
+225RAS G KC=2.03 $ LC=0.377 $ MC=0.0900 $ NC+=0.0319                            
+225RA  G 204.690   5  0.58   3  (E1)                   0.0861                C  
+225RAS G KC=0.0687 $ LC=0.0132 $ MC=0.00316 $ NC+=0.00109                       
+225RA  G 210.853   3  2.7    3  M1                      1.98                 C  
+225RAS G KC=1.60 $ LC=0.296 $ MC=0.0706 $ NC+=0.0250                            
+225RA  G 236.249   8  0.170  9  E2                      0.333                C  
+225RAS G KC=0.118 $ LC=0.158 $ MC=0.0423 $ NC+=0.0151                           
+225RA  L 243.56    4  7/2+                                                      
+225RA  A  4838     2  5.0    2  15.3                                        C   
+225RA  G 123.193   13 0.147  7  [E1]                   0.294                 C  
+225RAS G KC=0.2295 $ LC=0.0489 $ MC=0.01171 $ NC+=0.00405                       
+225RA  G 131.926   5  0.327  12 M1                      7.49                 C  
+225RAS G KC=6.01 $ LC=1.12 $ MC=0.268 $ NC+=0.0957                              
+225RA  G 142.962   5  0.394  12 M1                      5.97                 C  
+225RAS G KC=4.79 $ LC=0.890 $ MC=0.213 $ NC+=0.0759                             
+225RA  G 174.05    11 0.002  LT [E1]                   0.126                @C  
+225RAS G KC=0.100 $ LC=0.0197 $ MC=0.00471 $ NC+=0.00163                        
+225RA  G 200.807   16 0.067  3  [E2]                   0.588                 C  
+225RAS G KC=0.163 $ LC=0.311 $ MC=0.0830 $ NC+=0.0301                           
+225RA  G 218.154   17 0.18   2  M1                      1.81                 C  
+225RAS G KC=1.45 $ LC=0.269 $ MC=0.0642 $ NC+=0.0227                            
+225RA  L 248.63                                                                 
+225RA  A  4833     AP 0.29   AP 244    AP                                   H  ?
+225RA  G 68.8      10 0.09   AP                                             @  ?
+225RA  G 98.86     10 0.117  15                                                 
+225RA  G 137.0     1  0.04   1                                                  
+225RA  L 260.18    AP  (5/2)-                                                   
+225RA  G 110.3     5  0.009  2                                              @   
+225RA  G 139.8     1  0.0045 10                                                 
+225RA  G 190.63    20 0.0098 20                                                 
+225RA  G 217.41    10 0.0063 11                                                 
+225RA  G 228.6     1  0.0006 2                                                  
+225RA  G 234.8     1  0.0008 2                                              @   
+225RA  L 267.92    5   7/2+                                                     
+225RA  A  4814.6   12 9.30   8  5.7                                         C   
+225RA  G 31.57     9  0.066  10 [M1]                   96.5                  C  
+225RAS G LC=0.480 $ MC=17.5                                                     
+225RA cG           Intensity balance at the 267.92-keV level suggests that      
+225RA2cG any E2 admixture is negligible.                                        
+225RA  G 46.52     4  0.020  2                                                  
+225RA  G 118.10    10 0.013  4  [E2]                   4.83                 @C  
+225RAS G KC=0.313 $ LC=3.30 $ MC=0.896 $ NC+=0.325                              
+225RA  G 147.64    5  0.20   2  E1                     0.1893                C  
+225RAS G KC=0.1490 $ LC=0.0305 $ MC=0.00729 $ NC+=0.00252                       
+225RA  G 156.409   9  1.16   3  M1                     4.62                  C  
+225RAS G KC=3.71 $ LC=0.688 $ MC=0.165 $ NC+=0.0586                             
+225RA  G 167.45    5  0.05   1  [M1]                   3.80                  C  
+225RAS G KC=3.05 $ LC=0.567 $ MC=0.136 $ NC+=0.0482                             
+225RA  G 225.26    10 0.061  6  [E2]                   0.393                @C  
+225RAS G KC=0.130 $ LC=0.192 $ MC=0.0517 $ NC+=0.0185                           
+225RA  G 242.6     2  0.081  8  M1                     1.35                  C  
+225RAS G KC=1.08 $ LC=0.201 $ MC=0.0478 $ NC+=0.0169                            
+225RA  L 272.15    15                                                           
+225RA  A  4809     AP 0.22   AP 225    AP                                   H   
+225RA  G 28.68     10 0.10   3                                              SC  
+225RA  G 68.8                                                               S  ?
+225RA  G 160.6                                                                  
+225RA  G 171.76    5  0.039  4                                               C  
+225RA  L 284.49    5   7/2+                                                     
+225RA  A  4797.8   12 1.5    2  27                                          C   
+225RA  G 63.7      2  0.005  2                                  0.11      22    
+225RA cG TI        from intensity balance at the 284.49-keV level. This         
+225RA2cG value corresponds to |a(63.7|g)=21 {I+44-21}.                          
+225RA cG           The 63.7|g might be M1+E2, if |a|?21: |a(M1)=12.2,           
+225RA2cG |a(E2)=82.7, |a(E1)=0.372.                                             
+225RA  G 104.6     2  0.009  3  [M1+E2]                 5.4   25               ?
+225RA  G 134.19    10 0.006  3  [E2]                                        @   
+225RAS G KC=0.301 $ LC=1.83 $ MC=0.497 $ NC+=0.180                              
+225RA  G 172.926   18 0.11   1  M1                      3.47                 C  
+225RAS G KC=2.79 $ LC=0.518 $ MC=0.124 $ NC+=0.0439                             
+225RA  G 183.928   8  0.138  7  M1(+E2)                 2.92                 C  
+225RAS G KC=2.35 $ LC=0.435 $ MC=0.104 $ NC+=0.0368                             
+225RA  G 215.100   10 0.134  10 [E1]                    0.0766               C  
+225RAS G KC=0.0611 $ LC=0.0117 $ MC=0.00279 $ NC+=0.00097                       
+225RA  G 259.08    4  0.033  5  [M1]                   1.12                  C  
+225RAS G KC=0.901 $ LC=0.166 $ MC=0.0397 $ NC+=0.0140                           
+225RA  L 292.72                                                                 
+225RA  G 33.04     200.01    AP                                                 
+225RA  G 65.91     10 0.157  17                                                 
+225RA  G 250.1     1  0.0003316                                                 
+225RA  G 267.4     1  0.0008 3                                                  
+225RA  L 321.76    8  (9/2+)                                                    
+225RA  A  4761     2  1.0    4  23                                          C   
+225RA  G 49.75     8  0.021  2 [M1]                    25.2                  C  
+225RAS G LC=19.1 $ MC=4.57                                                      
+225RA  G 53.75     20 0.011  3 [M1]                    20.1                  C  
+225RAS G LC=15.2 $ MC=3.64 $ NC+=1.30                                           
+225RA cG           Intensity balance at the 321.76-keV level suggests that      
+225RA2cG E2 admixture should be negligible.                                     
+225RA  G 78.3      2  0.008  2 [M1]                    6.70                  C ?
+225RAS G LC=5.06 $ MC=1.21  $ NC+=0.430                                         
+225RA  G 94.70     10 0.027  10                                             @   
+225RA  G 101.1     2  0.018  3                         3.2    AP             C ?
+225RA cG $|a(E1)=0.109, |a(M1)=3.19, |a(E2)=9.25.                               
+225RA  G 142.0     1  0.011  3 [E2]                    2.23                  C  
+225RAS G KC=0.285 $ LC=1.421 $ MC=0.385 $ NC+=0.1396                            
+225RA  G 210.15    8  0.19   4 [M1]                    2.01                  C  
+225RAS G KC=1.61 $ LC=0.299 $ MC=0.0713 $ NC+=0.0252                            
+225RA  G 221.22    5  0.022  6 [M1]                    1.739                 C  
+225RAS G KC=1.396 $ LC=0.259 $ MC=0.0617 $ NC+=0.0218                           
+225RA  G 252.43    3  0.093  12 [E1]                   0.0526                C  
+225RAS G KC=0.0422 $ LC=0.00788 $ MC=0.00188 $ NC+=0.00065                      
+225RA  G 296.21    10 0.0161 17 [E2]                   0.1606                C  
+225RAS G KC=0.0734 $ LC=0.0640 $ MC=0.01705 $ NC+=0.00610                       
+225RA  L 327.71                                                                 
+225RA  A  4754     AP 0.05   AP 420    AP                                   H   
+225RA  G 102.54    2  0.156  19                                                 
+225RA  G 216.0     1  0.052  6                                                  
+225RA  G 327.9     1  0.016  3                                              @   
+225RA  L 335.40                                                                 
+225RA  A  4748     AP 0.005  AP 3760   AP                                   H  ?
+225RA  G 185.6        0.002  LT                                             @   
+225RA  G 303.75    10 0.0017 3                                                  
+225RA  G 310.1     1  0.0020 3                                                  
+225RA  L 349.43                                                                 
+225RA  A  4737     AP 0.01   AP 1560   AP                                   H  ?
+225RA  G 89.09     20 0.01   AP                                             @   
+225RA  G 317.8     1  0.0005314                                                 
+225RA  G 349.4     1  0.0004 1                                              @   
+225RA  L 390.21      (11/2+)                                                    
+225RA  A 4694      2 0.12    2  65                                          C   
+225RA  G 163.34    17 0.020  7 [M1]                    4.08                  C  
+225RAS G KC=3.28 $ LC=0.608 $ MC=0.146 $NC+=0.0517                              
+225RA  G 169.2     3  0.0039 14                                             @C  
+225RA  G 174.05    11 0.0069 18                                             @   
+225RA  G 278.65    5  0.0066 8                                                  
+225RA  G 289.62    5  0.0146 17                                                 
+225RA  L 394.24                                                                 
+225RA  G 169.2     3  0.0029 14                                             @   
+225RA  G 244.4     1  0.0013 3                                                  
+225RA  G 324.6     1  0.0004213                                                 
+225RA  G 368.9     1  0.0019 3                                                  
+225RA  L 394.45       (5/2)+                                                    
+225RA  G 351.7     1  0.0005 1                                                  
+225RA  G 395.3     2  0.0008 1                                                  
+225RA  L 394.72    13 (3/2,5/2,7/2)+                                            
+225RA  A  4690     2  0.23   8  32                                          C   
+225RA  G 72.739    10 0.14   2                                                  
+225RA  G 101.58    10 0.048  7                                              &   
+225RA  G 126.48    10 0.009  4  [M1,E2]                6.0    24            @C  
+225RAS G KC=3.5 32 $ LC=1.8 6 $ MC=0.48 18 $NC+=0.17 6                          
+225RA  G 134.19    10 0.0014 7                                              @   
+225RA  G 151.6     3  0.025  AP [M1]                   5.05                    ?
+225RAS G KC=4.05 $ LC=0.753 $ MC=0.180 $ NC+=0.0641                             
+225RA cG RI        calculated from measured Ice(K)=0.1 and |a(K)=4.05, assuming 
+225RA2cG M1 multipolarity. An E2 multipolarity would yield I|g=0.39 in which    
+225RA3cG case, its photon would have been observed.                             
+225RA  G 158.42    12 0.047  5  M1(+E2)  0.9     LT    4.5    14             C  
+225RAS G KC=3.6 15 $ LC=0.66 10 $ MC=0.16 4 $ NC+=0.056 13                      
+225RA  G 174.05    11 0.0065 18                                             @   
+225RA3 G FLAG=T$                                                                
+225RA  G 274.1     1  0.0007 2                                                  
+225RA  G 282.6     1  0.0037 7                                                  
+225RA  G 293.78    10 0.0064 8                                                  
+225RA  L 399.54                                                                ?
+225RA  G 219.8     1  0.0033 8                                              @   
+225RA  G 329.9     2  0.0006 2                                                  
+225RA  G 344.3     1  0.0001 LT                                             &   
+225RA  G 399.9     2  0.000146                                                  
+225RA  L 403.50                                                                ?
+225RA  G 183.0     1  0.0069 12                                                 
+225RA  G 403.3     1  0.0018 2                                                  
+225RA  L 416.77                                                                 
+225RA  A  4667     AP 0.001  AP 5170   AP                                   H  ?
+225RA  G 89.09     20 0.005  AP                                             @   
+225RA  G 347.4     1  0.0006 1                                                  
+225RA  L 446.45                                                                 
+225RA  G 174.7     2  0.030  3                                                  
+225RA  G 186.1     1  0.013  5                                                  
+225RA  G 219.8     1  0.0008 LT                                             @   
+225RA  G 334.74    10 0.0004211                                                 
+225RA  L 478.10                                                                 
+225RA  A 4608      2  0.050  8  39                                             ?
+225RA cA           This |a was not reported by 1970Ba20.                        
+225RA  G 185.6     1  0.002  LT                                             @   
+225RA  G 234.8     1  0.00082                                               @   
+225RA  G 298.72    12 0.0068 8                                                  
+225RA  G 328.2     1  0.0020 8                                                  
+225RA  G 358.0     1  0.006  1                                                  
+225RA  G 366.5     1  0.0004 1                                              @   
+225RA  G 377.4     1  0.0028 3                                                  
+225RA  G 408.5     1  0.0010 1                                                  
+225RA  G 435.3     1  0.0031 4                                                  
+225RA  G 452.6     1  0.0017 2                                                  
+225RA  G 478.0     1  0.0036 4                                                  
+225RA  L 486.82      (5/2+)                                                     
+225RA  G 307.3     1  0.006  3                                                  
+225RA  G 336.7     1  0.0001 LT                                             @   
+225RA  G 366.5     1  0.0001 LT                                             @   
+225RA  G 375.1     1  0.0003 1                                                  
+225RA  G 386.4     1  0.0008 2                                                  
+225RA  G 417.4     1  0.0014 2                                                  
+225RA  G 444.1     1  0.0005 1                                                  
+225RA  G 478.0     1  0.0036 4                                                  
+225RA  G 487.3     2  0.0004 1                                                  
+225RA  L 487.22    3 (13/2+)                                                    
+225RA  A  4599     3  0.02   1  83                                              
+225RA cA IA        measured intensities do not agree well:                      
+225RA2cA 0.029 {I5} (1987He28), |?0.007 (1970Ba20).                             
+225RA  G 97.01     12  0.011 3                                                  
+225RA  L 535.25       (5/2+)                                                    
+225RA  G 213.48    5   0.008516                                                 
+225RA  G 414.61    10 0.0003 1                                                  
+225RA  G 465       1  0.0001 AP                                                 
+225RA  G 503.6     1  0.000125                                              @   
+225RA  G 535.1     1  0.0013 2                                              @   
+225RA  L 592.79                                                                 
+225RA  G 114.75    10  0.014722                                                 
+225RA  G 189.25    6  0.0101 21                                                 
+225RA  G 320.8     1  0.000167                                                  
+225RA  G 349.4     1  0.0001 LT                                             @   
+225RA  G 523.5     1  0.0005 1                                                  
+225RA  G 549.8     5  0.0001 AP                                                 
+225RA  G 592.5     1  0.0003 1                                                  
+225RA  L 604.51                                                                 
+225RA  G 11.79     20  0.0005AP                                                 
+225RA  A  4484     2  0.03   2  8.1                                             
+225RA cA IA        measured intensities do not agree well:                      
+225RA2cA 0.050 {I7} (1987He28), |?0.009 (1970Ba20).                             
+225RA  G 276.85    10 0.0041 10                                                 
+225RA  G 336.7     1  0.0080 1                                              @   
+225RA  G 361.0     1  0.0006 1                                                  
+225RA  G 368.1     1  0.0019 3                                                  
+225RA  G 379.4     1  0.0013 2                                                  
+225RA  G 424.8     1  0.0032 3                                                  
+225RA  G 454.76    10 0.0102 11                                                 
+225RA  G 492.9     1  0.0014816                                                 
+225RA  G 503.6     1  0.00005LT                                             @   
+225RA  G 535.1     1  0.0002 LT                                             @   
+225RA  G 561.8     1  0.0019 2                                                  
+225RA  G 573.0     1  0.0027 3                                                  
+225RA  G 579.2     2  0.0006 1                                                  
+225RA  L 608.93                                                                 
+225RA  A  4478     3  0.005  AP 44     AP                                   H   
+225RA  G 281.27    10 0.007  1                                                  
+225RA  G 459.1     3  0.001  AP                                                 
+225RA  G 565.7     3  0.0009 1                                                  
+225RA  L 663.23       (5/2+,7/2+)                                               
+225RA  G 313.3     1  0.0003611                                                 
+225RA  G 327.9     1  0.003  LT                                             @   
+225RA  G 341.1     1  0.0008 2                                                  
+225RA  G 419.9     2  0.0006 1                                                  
+225RA  G 483.7     1  0.0018 2                                                  
+225RA  G 513.5     2  0.0007 2                                                  
+225RA  G 543.0     3  0.0001 AP                                                 
+225RA  G 551.7     2  0.000114                                                  
+225RA  G 594.4     3  0.0001 AP                                                 

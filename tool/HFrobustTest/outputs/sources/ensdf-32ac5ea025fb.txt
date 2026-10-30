@@ -1,0 +1,441 @@
+219FR    223AC A DECAY (2.10 M)        1991LI19,1969LEZW         21NDS    202106
+219FR  H TYP=FUL$AUT=Balraj Singh et al.,$CIT=NDS 175, 1 (2021)$CUT=19-May-2021$
+219FR c  1991Li19, 1990Li33: mass-separated {+223}Ac source. Measured E|g,      
+219FR2c  I|g, conversion electrons, E|a, I|a, |a|g-coin, (|a)(ce)-coin using    
+219FR3c  HPGe and Si(Li) detectors                                              
+219FR c  1969LeZW, 1968Ba73: measured E|g, I|g, E|a, I|a, |a|g-coin, magnetic   
+219FR2c  spectrometer used                                                      
+219FR c  1964Su04, 1963Su10: measured E|g, I|g, E|a, I|a, |a|g-coin             
+219FR c  1958Hi78: measured E|a, I|a                                            
+219FR c  1951Me10: measured E|a, I|a                                            
+219FR c  The {+223}Ac decay scheme presented here is based on measurements by   
+219FR2c  1991Li19, and on the |a-particle data of 1969LeZW, 1963Su10, and       
+219FR3c  1968Ba73. Some aspects of the level scheme, as proposed by 1991Li19    
+219FR4c  (and further discussed in 2002Sh19) should be considered               
+219FR5c  as tentative, as the J|p values are mostly based on band assignments,  
+219FR6c  and theoretical calculations, without a clear evidence of association  
+219FR7c  of a level in a particular band, especially for closely spaced levels. 
+219FR8c  1991Li19 emphasized that the higher in energy in the level scheme and  
+219FR9c  smaller the alpha population, the more tentative the level scheme.     
+219FRAc  Evaluators also note a intensity imbalance of 1.9% at 191 and          
+219FRBc  non-physical negative intensity imbalance of 0.5% at 305 levels.       
+219FR c  The |a feedings to levels deduced from |g-ray transition intensity     
+219FR2c  balance at each level using the experimental absolute |g-ray           
+219FR3c  intensities of 1991Li19 agree reasonably well with the measured        
+219FR4c  |a-particle abundances. The total Fr K-x ray intensity of 2.7% {i2},   
+219FR5c  deduced by evaluators using the |g-ray data presented here, also       
+219FR6c  agrees with the measured value of 2.90 {I5}% (1991Li19). Both          
+219FR7c  agreements confirm the correctness of the decay scheme.                
+219FR cA $The coincidence evidence indicated here is taken from |a|g-coin       
+219FR2cA spectra Fig. 1 in 1991Li19                                             
+219FR cA E,IA$From 1969LeZW and 1968Ba73 obtained with magnetic spectrometer,   
+219FR2cA unless otherwise specified.                                            
+219FR cA HF$The nuclear radius parameter r{-0}({+219}Fr)=1.5439 {I23}           
+219FR2cA is deduced from interpolation (or unweighted average) of radius        
+219FR3cA parameters of the adjacent even-even nuclides from 2020Si16            
+219FR cA E(X),IA(X)$From 1969LeZW, recommended by 1991Ry01. 1991Ry01 increased  
+219FR2cA original E|a values by 0.7 keV to adjust for an energy change in the   
+219FR3cA {+211}Bi standard.                                                     
+219FR cG $Measured I(K-x ray intensity)=2.90 {I5} per 100 |a decays             
+219FR cG $The |g rays listed here were observed in coincidence with |a particles
+219FR2cG with energies in the range 5892-6646 keV. Specific |g-ray coincidence  
+219FR3cG evidence indicated here is gathered from |a|g-coin spectral Figs. 2 and
+219FR4cG 4, and comment column in Table I in 1991Li19                           
+219FR cG E,RI$From 1991Li19. Others: 1969LeZW, 1963Su10.                        
+219FR cG M$From |g-transition intensity balance or ce data, the latter from     
+219FR2cG 1991Li19. Assignments listed in square brackets are implied from J|p   
+219FR3cG values.                                                                
+219FR cG M(Y)$From |g-transition intensity balance at the relevant level,       
+219FR2cG with respect to the |a feeding and intensity of any incoming |g rays.  
+219FR cG E(W)$Uncertain |g ray                                                  
+219FR dG CC$Theoretical values from BrIcc code (2008Ki03).                      
+219FR cL E$Deduced by evaluators from a least-squares fit to |g-ray energies.   
+219FR cL E(w)$Weakly populated level by |a branch, the gamma transition         
+219FR2cL is either not confirmed or not observed                                
+219FR cL J$From Adopted Levels. {+219}Fr lies in the transitional region between
+219FR2cL quadrupole deformation and spherical shape (|j{-2}=|j{-3}=0.08).       
+219FR3cL For some reason, however, this nucleus                                 
+219FR4cL presents a typical structure of parity doublet bands                   
+219FR5cL (1990Li33,1991Li19). Most of the assigned spins and parities           
+219FR6cL are based mainly on rotational band structure, |g-ray                  
+219FR7cL multipolarities and decay patterns, favored |a decay from {+223}Ac     
+219FR8cL and to {+215}At, and on a comparison with similar band structures      
+219FR9cL observed in {+221}Fr. Assignments for the excited states should be     
+219FRAcL considered as tentative.                                               
+219FR cL $Configuration and band assignments are from 1991Li19. See also        
+219FR2cL 2002Sh19                                                               
+219FR cL E(F)$Possible configuration=|p5/2[523]+|p5/2[512]+(|p1/2[541]+Q{-30})  
+219FR CL BAND(A)$K|p=1/2-,|p1/2[541], parity doublet band                       
+219FR CL BAND(a)$K|p=1/2+, parity doublet band.                                 
+219FR2cL Configuration=|p1/2[411]+(|p1/2[541]+Q{-30})                           
+219FR CL BAND(B)$K|p=3/2-, parity doublet band.                                 
+219FR2cL Configuration=|p3/2[532]+(|p3/2[402]+Q{-30})                           
+219FR CL BAND(b)$K|p=3/2+, parity doublet band.                                 
+219FR2cL Configuration=|p3/2[402]+(|p3/2[532]+Q{-30})                           
+219FR CL BAND(D)$K|p=5/2-, parity doublet band.                                 
+219FR2cL Configuration=|p5/2[512]+|p5/2[523]+(|p1/2[660]+Q{-30})                
+219FR CL BAND(d)$K|p=5/2+, parity doublet band.                                 
+219FR2cL Configuration=|p5/2[402]+(|p5/2[523]+Q{-30})                           
+223AC  P 0.0               (5/2-)      2.10 M    5               6783.2   10    
+223AC cP J,T$From {+223}Ac Adopted Levels in the ENSDF database                 
+223AC2cP (May 2001 update)                                                      
+223AC cP QP$From 2021Wa16                                                       
+219FR  N   1.0         1.0      0.99                                            
+219FR cN NR$Experimental |g-ray intensities per 100 |a decays (1991Li19).       
+219FR cN BR$%|a=99 for {+223}Ac |a decay (1951Me10)                             
+219FR PN                                                                     3  
+219FR  G 101.1     2  0.04   1                                                  
+219FR  G 130.5        0.02   1                                              W   
+219FR cG $|g observed in coin with |a particles (Fig. 2 in 1991Li19)            
+219FR  G 341.0        0.05   3                                              W   
+219FR  L        0.0    9/2-             24 MS    4                          A   
+219FR cL T$from Adopted Levels.                                                 
+219FR  A 6661.6    10  31.8  30  10    1                                    C   
+219FRF A FLAG=X                                                                 
+219FR cA IA$I|a=35 {I5} deduced by evaluators from |g-ray transition intensity  
+219FR2cA balance.                                                               
+219FR cA $Other values: E|a=6660, I|a=40 {I2}, E|a has been increased           
+219FR2cA by 3 keV because of a change in the calibration energy of the {+211}Bi 
+219FR3cA standard (1958Hi78,1977Ma31); E|a=6663 {I5}, I|a=37.6, E|a has been    
+219FR4cA increased by 6 keV because of a change in the calibration energy of    
+219FR5cA the {+211}Bi standard (1964Su04,1977Ma31).                             
+219FR  L       15.0 1 (5/2-)                                                A   
+219FR  A 6646.7    10  44.6  40  6.4   6                                    C   
+219FRF A FLAG=X                                                                 
+219FR cA $Other values: E|a=6646, I|a=46.0 {I23}, E|a has been                  
+219FR2cA increased by 3 keV because of a change in the calibration energy of    
+219FR3cA the {+211}Bi standard (1958Hi78,1977Ma31); E|a=6649 {I5}, I|a=42.1,    
+219FR4cA E|a has been increased by 6 keV because of a change in the calibration 
+219FR5cA energy of the {+211}Bi standard (1963Su10,1977Ma31).                   
+219FR  G 15.0          0.0025 2 [E2]                   2.36E4    59.1     47   S
+219FRS G  MC=1.786E4 25$ NC=4.66E3 7$OC=959 14$PC=120.9 17$QC=0.1125 16         
+219FR cG TI$from I|a=44.6% {I40} and |g-ray transition intensity balance        
+219FR2cG of 14.5 {I25} at 15.0 level.                                           
+219FR cG RI$deduced from I(|g+ce) and |a(theory) for mult=E2 for 15.0-keV       
+219FR2cG transition                                                             
+219FR  L       56.1 1 (3/2-)                                                B   
+219FR  A 6606          1     LT  190   GT                                      ?
+219FR cA E,IA$from 1991Li19. Transition intensity balance giving 0 {I3} is      
+219FR2cA consistent with the upper limit of the measured I|a                    
+219FR  G 41.15     10   0.024 4 (M1+E2)  1.0     2     330    70             C  
+219FRS G LC=240 50$MC=65 13                                                     
+219FRS G  NC=17 4$OC=3.5 7$PC=0.46 9$QC=0.0024 3                                
+219FR cG $L1+L2, L3, M and N conversion lines seen in coincidence with 6563|a   
+219FR cG M,MR$from |g-ray transition intensity balance at 56 level.             
+219FR2cG 1991Li19 list M1+E2                                                    
+219FR  L         73 1 (13/2-)                                               A  ?
+219FR  A 6590          0.01  LT 164E2  GT                                      S
+219FR cA E,IA$from decay scheme. Existence of this |a branch is uncertain       
+219FR  G 72.8                   [E2]                   39.4      0.01     LT&  ?
+219FRS G  LC=29.0 4$MC=7.84 11                                                  
+219FRS G  NC=2.05 3$OC=0.425 6$PC=0.0544 8$QC=0.0001003 14                      
+219FR cG $E|g=73 {I1}, %I|g=0.20 {I10}, |a|g coin, semi (1969LeZW).             
+219FR  L       81.0 5  (1/2-)                                               A   
+219FR  A 6581.8    30  0.3   2  5.2E2  35                                       
+219FR cA IA$I(|g+ce) for 66.0-keV transition gives 0.7 {I5}, but note that the  
+219FR2cA placement of this |g ray is uncertain                                  
+219FR  G 66.0      5    0.011 7 [E2]                   63     3                ?
+219FRS G  LC=46.4 19$MC=12.5 5                                                  
+219FRS G  NC=3.28 13$OC=0.68 3$PC=0.087 4$QC=0.000149 6                         
+219FR  L      98.58 5 (7/2-)                                                B   
+219FR  A 6563.7    10  13.7  10  9.7   8                                    C   
+219FRF A FLAG=X                                                                 
+219FR cA IA$I|a=10.9 {I17} deduced by evaluators from |g-ray transition         
+219FR2cA intensity balance. Other values: E|a=6564, I|a=14.0 {I7}, E|a has been 
+219FR3cA increased by 3 keV because of a change in the calibration energy of the
+219FR4cA {+211}Bi standard (1958Hi78,1977Ma31); E|a=6566 {I5}, I|a=13.3, E|a has
+219FR5cA been increased by 6 keV because of a change in the calibration energy  
+219FR6cA of the {+211}Bi standard (1963Su10,1977Ma31).                          
+219FR  G 42.4      1    0.013 3 (E2)                   538    10            YC  
+219FR cG M$1991Li19 list E2                                                     
+219FRS G  LC=397 8$MC=106.8 20                                                  
+219FRS G  NC=27.9 5$OC=5.76 11$PC=0.733 14$QC=0.001019 18                       
+219FR cG $L2, L3, M and N conversion lines seen in coincidence with 6563|a      
+219FR  G 83.55     10    0.58 4 (M1)                   4.75                  C  
+219FRS G  LC=3.60 6$MC=0.859 13                                                 
+219FRS G  NC=0.225 4$OC=0.0504 8$PC=0.00808 12$QC=0.000452 7                    
+219FR cG M$from (L1+L2)/L3 ratio.                                               
+219FR2cG L1+L2, L3, M and N conversion lines seen in coincidence with 6563|a    
+219FR cG $E|g=84 {I1}, %I|g=0.17 {I10}, |a|g coin, semi (1969LeZW);             
+219FR2cG E|g=82, %I|g=0.23, |a|g coin, scin (1963Su10).                         
+219FR  G 98.58     5     0.90 2  (M1)                  2.94                  C  
+219FRS G  LC=2.23 4$MC=0.532 8                                                  
+219FRS G  NC=0.1395 20$OC=0.0312 5$PC=0.00500 7$QC=0.000279 4                   
+219FR cG M$from (L1+L2)/L3 ratio. 1991Li19 list M1                              
+219FR2cG L1+L2, L3, M and N conversion lines seen in coincidence with 6563|a    
+219FR cG $E|g=99 {I1}, %I|g=0.20 {I10}, |a|g coin, semi (1969LeZW);             
+219FR2cG E|g=96, %I|g=0.2, |a|g coin, scin (1963Su10).                          
+219FR  L      134.4 1 (5/2-)                                                B   
+219FR  A 6528.4    15  3.1   3    31   3                                    C   
+219FR cA IA$I|a=2.8 {I3} deduced by evaluators from |g-ray transition intensity 
+219FR2cA balance.                                                               
+219FR cA $Other values: E|a=6526 {I5}, I|a=3.8, E|a has been increased          
+219FR2cA by 6 keV because of a change in the calibration energy of the {+211}Bi 
+219FR3cA standard (1963Su10,1977Ma31).                                          
+219FR  G 35.7      1    0.028 4 (M1)                   57.5   10            YC  
+219FR cG M$1991Li19 list M1                                                     
+219FRS G  LC=43.6 8$MC=10.41 17                                                 
+219FRS G  NC=2.73 5$OC=0.611 10$PC=0.0979 16$QC=0.00549 9                       
+219FR  G 78.25     10   0.055 7 [M1]                   5.75                  C  
+219FR cG M$1991Li19 list (M1) from decay scheme                                 
+219FRS G  LC=4.36 7$MC=1.040 15                                                 
+219FRS G  NC=0.273 4$OC=0.0610 9$PC=0.00978 15$QC=0.000547 8                    
+219FR  G 119.4     1     0.11 1 (M1)                   8.65                 YC  
+219FR cG M$1991Li19 list M1                                                     
+219FRS G  KC=6.96 10$LC=1.283 19$MC=0.306 5                                     
+219FRS G  NC=0.0802 12$OC=0.0179 3$PC=0.00288 4$QC=0.0001607 23                 
+219FR cG $E|g=120 {I2}, %I|g|?0.03, |a|g coin, semi (1969LeZW);                 
+219FR2cG E|g=123, %I|g<0.05, |a|g coin, scin (1963Su10).                        
+219FR  L      139.8 1 (3/2-)                                                A   
+219FR  A 6523.2    20  0.6   3   150   75                                       
+219FR cA IA$I|a=0.70 {I9} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 124.8     1     0.09 1 (M1)                   7.63                 YC  
+219FR cG M$1991Li19 list M1                                                     
+219FRS G  KC=6.14 9$LC=1.130 16$MC=0.269 4                                      
+219FRS G  NC=0.0706 10$OC=0.01579 23$PC=0.00253 4$QC=0.0001414 20               
+219FR cG $E|g=126 {I2}, %I|g|?0.04, |a|g coin, semi (1969LeZW).                 
+219FR  L     191.29 6 (7/2+)                                                a   
+219FR  A 6473.0    15  3.1   3   18    2                                    C   
+219FR cA IA$I|a=1.21 {I6} deduced by evaluators from |g-ray transition          
+219FR2cA intensity balance, with the assumed multipolarities.                   
+219FR cA $Note a large imbalance of 1.9% at this level                          
+219FR cA $Other values: E|a=6476 {I5}, I|a=3.2, E|a has been increased          
+219FR2cA by 6 keV because of a change in the calibration energy of the {+211}Bi 
+219FR3cA standard (1963Su10,1977Ma31).                                          
+219FR  G 56.95     20   0.038 6 [E1]                   0.481  9              C  
+219FR cG M$1991Li19 list (E1) from decay scheme                                 
+219FRS G  LC=0.365 7$MC=0.0886 15                                               
+219FRS G  NC=0.0227 4$OC=0.00473 8$PC=0.000634 11$QC=1.93E-5 3                  
+219FR  G 92.71     5     0.39 2 [E1]                   0.1309                C  
+219FR cG M$1991Li19 list E1 from intensity balance                              
+219FRS G  LC=0.0993 14$MC=0.0239 4                                              
+219FRS G  NC=0.00616 9$OC=0.001310 19$PC=0.000185 3$QC=6.59E-6 10               
+219FR cG $E|g=93 {I1}, %I|g=0.17 {I10}, |a|g coin, semi (1969LeZW).             
+219FR  G 176.3     2     0.11 2 [E1]                   0.1194                C  
+219FR cG M$1991Li19 list E1(+M2), with <5% M2 admixture from intensity balance  
+219FRS G KC=0.0951 14$LC=0.0185 3$MC=0.00441 7                                  
+219FRS G NC=0.001145 17$ OC=0.000248 4$PC=3.68E-5 6$QC=1.545E-6 22              
+219FR cG           E|g=176 {I2}, %I|g|?0.05, |a|g coin, semi (1969LeZW).        
+219FR2cG E|g|?170, %I|g<0.8, |a|g coin, scin (1963Su10).                        
+219FR  G 191.3     1     0.59 4 [E1]                   0.098                 C  
+219FR cG M$1991Li19 list E1(+M2), with <5% M2 admixture from intensity balance  
+219FRS G KC=0.0783 11$LC=0.0150 2$MC=0.00358 5                                  
+219FRS G NC=0.000930 13$OC=0.000202 3$PC=3.01E-5 5$QC=1.287E-6 18               
+219FR cG $E|g=192 {I1}, %I|g=0.25 {I15}, |a|g coin, semi (1969LeZW).            
+219FR  L      210.4 2 (3/2+)                                                a   
+219FR  A 6454.7    30  0.06  3  7.8E2  39                                       
+219FR cA IA$I|a=0.10 {I3} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 195.4     2     0.12 2 (E1)                   0.0932               YC  
+219FR cG M$1991Li19 list E1 from intensity balance                              
+219FRS G  KC=0.0745 11$LC=0.01424 21$MC=0.00340 5                               
+219FRS G  NC=0.000881 13$OC=0.000191 3$PC=2.86E-5 4$QC=1.227E-6 18              
+219FR  L      216.0 1 (11/2+)                                               a   
+219FR  A 6448.6    15  0.20  3   220   35                                       
+219FR cA IA$I|a=0.26 {I7} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 216.0     1     0.37 4 [E1]                   0.0734                C  
+219FR cG M$1991Li19 list E1, possibly from decay scheme                         
+219FRS G  KC=0.0588 9$LC=0.01107 16$MC=0.00264 4                                
+219FRS G  NC=0.000685 10$OC=0.0001491 21$PC=2.24E-5 4$QC=9.82E-7 14             
+219FR cG $E|g=216 {I1}, %I|g=0.15 {I10}, |a|g coin, semi (1969LeZW).            
+219FR  L      269.2 1 (7/2-)                                                A   
+219FR  A 6396.8    15  0.13  2   205   30                                   C   
+219FR cA IA$|g-transition intensity balance gives 0.30 {I7} if the intensity    
+219FR2cA of the 64.4-keV transition listed in Table I of 1991Li19 is interpreted
+219FR3cA as I(|g+ce)                                                            
+219FR  G 134.6     3   0.01  AP [M1+E2]                4.3    18             C  
+219FRS G  KC=2.6 24$LC=1.28 37$MC=0.33 12                                       
+219FRS G  NC=0.087 30$OC=0.0185 58$PC=0.0026 6$QC=6.3E-5 51                     
+219FR  G 254.4     3     0.07 2 [M1+E2]                0.63   40             C  
+219FRS G  KC=0.46 37$LC=0.128 23$MC=0.032 4                                     
+219FRS G  NC=0.0084 10$OC=0.0018 3$PC=0.00027 7$QC=1.06E-5 82                   
+219FR  G 269.2     1     0.10 2 [M1+E2]                0.54   34             C  
+219FRS G  KC=0.40 31$LC=0.107 22$MC=0.027 4                                     
+219FRS G  NC=0.0070 11$OC=0.0015 3$PC=2.28E-4 60$QC=9.1E-6 70                   
+219FR cG $E|g=268 {I2}, %I|g|?0.05, |a|g coin, semi (1969LeZW).                 
+219FR  L      305.5 1 (9/2-)                                                B   
+219FR  A 6360.5    15  0.22  3    85   12                                   C   
+219FR cA IA$I|a=0.67 {I17} deduced by evaluators from |g-ray transition         
+219FR2cA intensity balance.                                                     
+219FR cA $Note non-physical negative intensity imbalance of 0.5%                
+219FR  G 89.6      2     0.05 1 [E1]                   0.1433 22                
+219FRS G  LC=0.1087 17$MC=0.0262 4                                              
+219FRS G  NC=0.00675 11$OC=0.001433 22$PC=0.000202 3$QC=7.11E-6 11              
+219FR  G 207.0     2     0.19 4 [M1+E2]                1.2    7              C  
+219FR cG M$(M1) in 1991Li19 from decay scheme and |g-transition                 
+219FR2cG intensity balance                                                      
+219FRS G  KC=0.8 7$LC=0.258 11$MC=0.0652 17                                     
+219FRS G  NC=0.0171 5$OC=0.00370 7$PC=0.00054 6$QC=1.9E-5 15                    
+219FR cG $E|g=207 {I2}, %I|g|?0.06, |a|g coin, semi (1969LeZW).                 
+219FR  G 305.5     1     0.18 2 [M1+E2]                0.38   25             C  
+219FRS G  KC=0.28 22$LC=0.071 20$MC=0.018 4                                     
+219FRS G  NC=0.0046 11$OC=1.01E-3 26$PC=1.53E-4 50$QC=6.5E-6 49                 
+219FR cG $E|g=306 {I2}, %I|g|?0.08, |a|g coin, semi (1969LeZW).                 
+219FR  L        325 2                                                       F  ?
+219FRF L FLAG=w                                                                 
+219FR cL J$possible 5/2-                                                        
+219FR  A 6341.8    20  0.05  1   310   65                                       
+219FR  L      333.5 1 (11/2-)                                               A   
+219FR  A 6332.5    20  0.14  6   100   45                                       
+219FR cA IA$I|a=0.16 {I6} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 64.4      3            [E2]                   70.8   19  0.02    AP C  
+219FR cG TI$intensity listed in Table I of 1991Li19 is assumed by evaluators    
+219FR2cG as transition intensity. If it were just the photon intensity, then    
+219FR3cG it produces a large non-physical negative intensity balance at 269-keV 
+219FR4cG level, as well as gives too large an I|a to the 333 level from         
+219FR5cG |g-transition intensity balance                                        
+219FRS G  LC=52.2 14$MC=14.1 4                                                  
+219FRS G  NC=3.69 10$OC=0.764 21$PC=0.098 3$QC=0.000164 4                       
+219FR  G 333.5     1     0.11 4 [M1+E2]                0.30   19             C  
+219FRS G  KC=0.22 17$LC=0.054 17$MC=0.0133 36                                   
+219FRS G  NC=0.00350 94$OC=7.7E-4 23$PC=1.17E-4 42$QC=5.1E-6 38                 
+219FR  L      340.3 1  (5/2+)                                               b   
+219FR  A 6325.7    15  0.30  5    44   8                                    C   
+219FR cA IA$I|a=0.49 {I5} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 205.7     3     0.04 2 [E1]                   0.0824                   
+219FRS G  KC=0.0659 10$LC=0.01251 19$MC=0.00298 5                               
+219FRS G  NC=0.000774 12$OC=0.0001683 25$PC=2.52E-5 4$QC=1.095E-6 16            
+219FR  G 241.7     2     0.18 2 [E1]                   0.0563                C  
+219FR cG M$1991Li19 list (E1), possibly from decay scheme                       
+219FRS G  KC=0.0452 7$LC=0.00839 12$MC=0.00200 3                                
+219FRS G  NC=0.000519 8$OC=0.0001131 16$PC=1.709E-5 25$QC=7.67E-7 11            
+219FR  G 284.2     1     0.20 2 [E1]                   0.0387                C  
+219FR cG M$1991Li19 list (E1) from decay scheme                                 
+219FRS G  KC=0.0312 5$LC=0.00567 8$MC=0.001346 19                               
+219FRS G  NC=0.000350 5$OC=7.66E-5 11$PC=1.167E-5 17$QC=5.39E-7 8               
+219FR  G 325.3     1     0.05 2 [E1]                   0.0285                C  
+219FRS G  KC=0.0231 4$LC=0.00412 6$MC=0.000977 14                               
+219FRS G  NC=0.000254 4$OC=5.58E-5 8$PC=8.55E-6 12$QC=4.05E-7 6                 
+219FR  L      369.5 2  (3/2+)                                               b   
+219FR cL J$1991Li19 assign |p=+ or -, band association favors positive parity   
+219FR  A 6299          0.074 11  135   20                                      S
+219FR cA E,IA$from decay scheme. Existence of this |a branch is uncertain       
+219FR  G 229.7     2     0.07 1 [E1]                   0.0634                C  
+219FRS G  KC=0.0509 8$LC=0.00951 14$MC=0.00226 4                                
+219FRS G  NC=0.000588 9$OC=0.0001281 19$PC=1.93E-5 3$QC=8.57E-7 13              
+219FR  L      372.4 1  (7/2+)                                               b   
+219FR  A 6292.8    15  0.47  6    21   3                                    C   
+219FR cA E$possible doublet to 372 and 375 levels.                              
+219FR cA IA$I|a=0.47 {I5} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 238.1     2     0.07 1 [E1]                   0.0583                C  
+219FRS G  KC=0.0468 7$LC=0.00870 13$MC=0.00207 3                                
+219FRS G  NC=0.000538 8$OC=0.0001173 17$PC=1.77E-5 3$QC=7.92E-7 12              
+219FR  G 274.0     2     0.05 1 [E1]                   0.0421                C  
+219FRS G  KC=0.0339 5$LC=0.00618 9$MC=0.001470 21                               
+219FRS G  NC=0.000382 6$OC=8.35E-5 12$PC=1.271E-5 18$QC=5.84E-7 9               
+219FR  G 357.4     1     0.18 3 [E1]                   0.0232                C  
+219FRS G  KC=0.0188 3$LC=0.00332 5$MC=0.000786 11                               
+219FRS G  NC=0.000204 3$OC=4.49E-5 7$PC=6.91E-6 10$QC=3.33E-7 5                 
+219FR cG $E|g=359 {I2}, %I|g|?0.10, |a|g coin, semi (1969LeZW).                 
+219FR  G 372.4     1     0.16 3 [E1]                   0.0212                C  
+219FRS G  KC=0.01720 25$LC=0.00302 5$MC=0.000715 10                             
+219FRS G  NC=0.000186 3$OC=4.09E-5 6$PC=6.31E-6 9$QC=3.05E-7 5                  
+219FR cG $E|g=373 {I2}, %I|g|?0.05, |a|g coin, semi (1969LeZW).                 
+219FR  L      374.8 2  (7/2)                                                F   
+219FR cL J$possible negative parity                                             
+219FR  A 6294          0.071 16  130   30                                      S
+219FR cA E,IA$from decay scheme. Existence of this |a branch is uncertain       
+219FR  G 374.8     2     0.06 1 [D,E2]                 0.19   17             C  
+219FR  L      384.3 1  (5/2+)                                               a   
+219FR  A 6281.3        0.05  AP  170   AP                                      ?
+219FR cA IA$I|a=0.13 {I2} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR cA E$6284.1 from Q|a and E(level)                                         
+219FR  G 285.7     1     0.13 2 [E1]                   0.0382                C  
+219FRS G  KC=0.0309 5$LC=0.00560 8$MC=0.001329 19                               
+219FRS G  NC=0.000346 5$OC=7.56E-5 11$PC=1.152E-5 17$QC=5.33E-7 8               
+219FR  L      432.0 2  (9/2)                                                F   
+219FR cL J$possible negative parity                                             
+219FR  A 6235.8    20  0.09       59                                            
+219FR cA IA$I|a=0.12 {I6} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 126.4     2    0.01 AP [D,E2]                 3.8    35             C  
+219FR  G 216.1     2     0.04 2 [D,E2]                 0.84   77             C  
+219FR  L        445 4                                                       w  ?
+219FR  A 6223.4    40  0.006 AP  781   AP                                       
+219FR  L      462.2 5 (9/2+)                                                b   
+219FR cL J$1991Li19 assign |p=+ or -, band association favors positive parity   
+219FR  A 6205.9    25  0.03  AP  131   AP                                       
+219FR cA IA$I|a=0.04 {I2} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 462.2     5     0.04 2 [E1]                   0.01339               C  
+219FRS G  KC=0.01093 16$LC=0.00187 3$MC=0.000442 7                              
+219FRS G  NC=0.0001152 17$OC=2.54E-5 4$PC=3.95E-6 6$QC=1.98E-7 3                
+219FR  L      490.3 1 (5/2-)                                                D   
+219FR  A 6177.7    20  0.95  15  3.1   5                                    C   
+219FR cA IA$I|a=0.96 {I9} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 279.8     3     0.03 1 [E1]                   0.0401                ?  
+219FRS G  KC=0.0323 5$LC=0.00588 9$MC=0.001398 20                               
+219FRS G  NC=0.000363 6$OC=7.95E-5 12$PC=1.210E-5 18$QC=5.58E-7 8               
+219FR  G 299.1     2     0.03 1 [E1]                   0.0344                C  
+219FRS G  KC=0.0278 4$LC=0.00502 7$MC=0.001191 17                               
+219FRS G  NC=0.000310 5$OC=6.78E-5 10$PC=1.036E-5 15$QC=4.84E-7 7               
+219FR  G 434.2     1     0.53 5 [M1+E2]                0.145  93             C  
+219FRS G  KC=0.112 81$LC=0.025 10$MC=0.0060 23                                  
+219FRS G  NC=0.00158 59$OC=3.5E-4 14$PC=5.4E-5 24$QC=2.5E-6 18                  
+219FR cG $E|g=433 {I2}, %I|g|?0.07, E|g=435?, %I|g|?0.07, |a|g coin (1969LeZW)  
+219FR  G 475.2     1     0.27 4 [M1+E2]                0.114  73             C  
+219FRS G  KC=0.089 63$LC=0.0190 81$MC=0.0046 19                                 
+219FRS G  NC=0.00121 48$OC=2.7E-4 11$PC=4.2E-5 19$QC=2.0E-6 14                  
+219FR cG $E|g=477 {I2}, %I|g|?0.14, |a|g coin, semi (1969LeZW).                 
+219FR  L      506.5 3  (9/2+)                                               a   
+219FR  A 6163.0    25  0.05       50                                            
+219FR cA IA$I|a=0.03 {I2} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 315.2     3     0.01  [M1+E2]                 0.35   23             C  
+219FRS G  KC=0.26 20$LC=0.065 19$MC=0.016 4                                     
+219FRS G  NC=0.0042 10$OC=9.1E-4 25$PC=1.39E-4 47$QC=5.9E-6 45                  
+219FR  G 506.6     5     0.03 2 [E1]                   0.0111                C  
+219FRS G  KC=0.00907 13$LC=0.001540 22$MC=0.000363 6                            
+219FRS G  NC=9.46E-5 14$OC=2.09E-5 3$PC=3.26E-6 5$QC=1.651E-7 24                
+219FR  L      530.0 5(11/2+)                                                b   
+219FR  A 6140.2    30  0.03  AP   66   AP                                       
+219FR cA IA$I|a=0.03 {I2} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 530.0     5     0.03 2 [E1]                   0.01013               C  
+219FRS G  KC=0.00829 12$LC=0.001401 20$MC=0.000330 5                            
+219FRS G  NC=8.60E-5 13$OC=1.90E-5 3$PC=2.97E-6 5$QC=1.513E-7 22                
+219FR  L      533.8 4 (7/2-)                                                D   
+219FR  A 6134.9    20  0.12  3    16   4                                    C   
+219FR cA IA$I|a=0.07 {I4} deduced by evaluators from |g-ray transition intensity
+219FR2cA balance.                                                               
+219FR  G 518.8     4     0.09 3 [M1+E2]                0.091  57             C  
+219FRS G  KC=0.071 49$LC=0.0148 66$MC=0.0036 15                                 
+219FRS G  NC=9.4E-4 39$OC=2.09E-4 90$PC=3.3E-5 16$QC=1.6E-6 11                  
+219FR  L        589 1 (9/2-)                                                D   
+219FR  A 6082.7    20  0.03       36                                        C   
+219FR  G 82.4           0.01 LT [E1]                   0.179                   ?
+219FR cG $The |g ray mixed with Tl, K-x rays                                    
+219FRS G  LC=0.1359 19$MC=0.0328 5                                              
+219FRS G  NC=0.00844 12$OC=0.00179 3$PC=0.000250 4$QC=8.57E-6 12                
+219FR  L        650 3      (11/2-)                                          D   
+219FRF L FLAG=w                                                                 
+219FR  A 6023.0    30  0.01       56                                        C   
+219FR cA $The 6023|a seen in |a|g-coin spectrum (1991Li19), but no |g transition
+219FR2cA is associated with this level at present                               
+219FR  L      705.5 5  (5/2+)                                               d   
+219FR  A 5966.8    30  0.03       10                                        C   
+219FR cA IA$I|a<0.06 deduced by evaluators from |g-ray transition intensity     
+219FR2cA balance.                                                               
+219FR  G 171.7     3     0.02 1 [E1]                   0.1273                   
+219FRS G  KC=0.1013 15$LC=0.0198 3$MC=0.00472 7                                 
+219FRS G  NC=0.001225 18$OC=0.000265 4$PC=3.93E-5 6$QC=1.640E-6 24              
+219FR  G 199.3     4     0.03 2  [E2]                  0.560  9                ?
+219FR cG $Tentative placement proposed by evaluators based on                   
+219FR2cG level-energy difference. This |g was unplaced in 1991Li19              
+219FR  L        778 1  (7/2+)                                               d   
+219FRF L FLAG=w                                                                 
+219FR  A 5892         0.01        14                                        C   
+219FR cA E,IA$from 1991Li19.                                                    
+219FR cA E$5897 from Q|a and E(level)                                           
+219FR  G 72.8                   [M1+E2]                23     17  0.01    LT&C ?
+219FRS G  LC=17 12$MC=4.6 33                                                    
+219FRS G  NC=1.20 86$OC=0.25 18$PC=0.033 22$QC=3.9E-4 29                        
+219FR cG $E|g=73 {I1}, %I|g=0.20 {I10}, |a|g coin, semi (1969LeZW).             
+219FR2cG I(|g+ce)=0.01 from intensity balance at 778 level.                     

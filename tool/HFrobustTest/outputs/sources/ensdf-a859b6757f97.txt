@@ -1,0 +1,26 @@
+224PA    228NP A DECAY (61.4 S)        2003NI10,1994KR13         ENSDF    202205
+224PA  H TYP=FUL$AUT=Balraj Singh, Sukhjeet Singh$CIT=ENSDF$CUT=08-Mar-2022$    
+224PA  H TYP=FUL$AUT=SUKHJEET SINGH, BALRAJ SINGH$CIT=NDS 130, 127 (2015)$      
+224PA2 H CUT=15-Oct-2015$                                                       
+224PA c  2003Ni10: {+228}Np produced in {+198}Pt({+34}S,p3n),E=170,172 MeV;     
+224PA2c  measured E|a, T{-1/2}. Five |a decay chains reported in this study     
+224PA c  1994Kr13: {+228}Np from {+233}U(p,6n),E(p)=50 MeV; ion chem; measured  
+224PA2c  half-life                                                              
+224PA c  Others: 1978SoZZ, 1966Ku13 (SF decay of {+228}Np decay, half-life)     
+224PA cA E$From 2003Ni10                                                        
+228NP  P 0                              61.4 S   14             7540      SY    
+228NP cP T$From {+228}Np Adopted Levels in ENSDF database (Dec 2012 update,     
+228NP2cP value taken from 1994Kr13, no new references after this evaluation)    
+228NP cP QP$7540 {I100} (syst, 2021Wa16)                                        
+224PA  N                        0.40   7                                        
+224PA cN BR$%|a=40 {I7} from |e/|a=1.5 {I4} (1994Kr13), based on the measured   
+224PA2cN ratio of {+212}Po/{+216}Fr activities. Note that 2003Ni10 measure      
+224PA3cN %|a=83 {I+17-36}. Weighted average of %|a values from 1994Kr13 and     
+224PA4cN and 2003Ni10 is 43% {I10}                                              
+224PA  A  7063                                                                  
+224PA cA E$average of 7062 and 7065                                             
+224PA  A  7126                                                                  
+224PA  L 0            (5-)               0.846 S 20                             
+224PA cL J,T$from the Adopted Levels                                            
+224PA  A 7180                                                                  ?
+224PA cA E$average of 7177 and 7183                                             

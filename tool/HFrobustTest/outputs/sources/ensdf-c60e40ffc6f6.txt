@@ -1,0 +1,72 @@
+247ES    ADOPTED LEVELS, GAMMAS                                  15NDS    201503
+247ES  H TYP=FUL$AUT=C. D. NESARAJA$CIT=NDS 125, 395 (2015)$CUT=31-Mar-2014$    
+247ES  Q -3100     SY7400    SY2802    207462    20    2012WA38                 
+247ES cQ $|DQ(|b{+-}=120, |DS(n)=220                                            
+247ES2cQ (syst, 2012Wa38)                                                       
+247ES c                                                                         
+247ES c  Identification:                                                        
+247ES c  1989Ha27: Observed in {+249}Cf(p,3n) and {+238}U({+14}N,5n)            
+247ES c  1973Es01: Produced from {+243}Am({+12}C,|a4n). Identified by           
+247ES2c  emitted |a energies, T{-1/2} and excitation functions                  
+247ES c  1967Mi06: Synthesized from {+238}U({+14}N,{+5}n). Identified by        
+247ES2c  emitted |a energies, T{-1/2} and excitation functions.                 
+247ES c                                                                         
+247ES c  Theoretical studies:                                                   
+247ES c  2012Ni16: |a decay T{-1/2} for transitions from ground-state to        
+247ES2c  favored rotational bands using Multicluster Channel Model.             
+247ES c  2012Zh01: Comparison of the low-lying one-quasineutron band for Z=99   
+247ES2c  isotopes between the experimental values and calculated values using   
+247ES3c  the cranked shell model (CSM) with pairing correlations                
+247ES c  2003Re14: Calculated binding energy, Q(|a) and deformations using the  
+247ES2c  deformed RMF theory                                                    
+247ES c  2002Lo05: Calculated binding energies, pairing gaps and deformations   
+247ES2c  using RMF+BCS theory                                                   
+247ES c  2002Du16: Calculated partial half-lives for |a and cluster decays      
+247ES c  1997Mo25: Calculated ground-state binding energy, proton and           
+247ES2c  neutron pairing gaps, neutron and proton separation energies, Q values 
+247ES3c  and partial half-lives for |a and |b decays                            
+247ES c  1996St28: |a decay through deformed barrier and anisotropies           
+247ES2c  for alphas were calculated                                             
+247ES c  1993Bu09: Calculated partial |a decay half-life, |a branching, and     
+247ES2c  nuclear radius using the cluster model predictions                     
+247ES c  1981Mo24: Calculated ground-state electric multipole moments Q{-2},    
+247ES2c  Q{-4} and masses                                                       
+247ES c  1980Ho32: Calculated mass excess, S(n), S(p), Q(|b), Q(|a),            
+247ES2c  fission-barrier heights, deformation and energy at saddle-point        
+247ES c                                                                         
+247ES c  Systematic Studies:                                                    
+247ES c  2006Ch52: Systematics studies of one-quasiparticle states in Es        
+247ES2c  isotopes  using Skyrme-HFB calculations                                
+247ES c                                                                         
+247ES  XA251MD A DECAY                                                          
+247ES  XB247FM EC DECAY (31 S)                                                  
+247ES  L 0           (3/2-)                                                     
+247ES cL J$3/2-[521]                                                            
+247ESX L XREF=A                                                                 
+247ES  L 0+X         (7/2+)            4.55 M    26                             
+247ES cL E$X|?30 keV                                                            
+247ES DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+247ES2 L %A AP 7$%EC+%B+ AP 93                                                  
+247ESX L XREF=AB(?)                                                             
+247ES cL $Proposed configuration=7/2[633](1989Ha27)                             
+247ES cL $Observation of the ground-state in {+247}Fm |e decay is               
+247ES2cL indirect.                                                              
+247ES cL $|a branching was estimated by 1967Mi06 from observed |a               
+247ES2cL yield and calculated total cross section for {+238}U({+14}N,{+5}N)     
+247ES3cL reaction.                                                              
+247ES cL J$Analogy to {+249}Es suggests 7/2[633] state.                         
+247ES cL T$From 1989Ha27. Others: 5.0 min {I3} (1967Mi06),                      
+247ES2cL 4.7 min {I3} (1973Es01).                                               
+247ES  L 50.9+X     3(9/2+)                                                     
+247ESX L XREF=A                                                                 
+247ES cL J$Suggested by theoretical calculations in 2006Ch52.                   
+247ES  G 50                    (M1)                                            S
+247ES cG E$|g transition has not been observed. E|g is from level energies.     
+247ES2cG Transition considered to be highly converted (2006Ch52)                
+247ES  L 293.69+X  10(7/2-)                                                     
+247ESX L XREF=A                                                                 
+247ES cL $Proposed configuration=7/2[514] (based upon multipolarities proposed  
+247ES2cL for depopulating |g transitions).                                      
+247ES  G 242.7     3 16       2(E1)                                             
+247ES cG M$E2 is also possible but less likely                                  
+247ES  G 293.7     1 100       (E1)                                             

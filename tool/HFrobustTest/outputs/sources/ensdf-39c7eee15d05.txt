@@ -1,0 +1,83 @@
+231U     ADOPTED LEVELS, GAMMAS                                  22NDS    202210
+231U   H TYP=FUL$AUT=Balraj Singh, Jagdish K. Tuli, and Edgardo Browne$         
+231U 2 H CIT=NDS 185, 560 (2022)$CUT=31-Aug-2022$                               
+231U   Q -1820     50 5880    5 5657    4 5576.3 17    2021WA16                 
+231U  cQ $S(2n)=13547 {I6}, S(2p)=10358 {I3}, Q(|e)=381.6 {I20} (2021Wa16)      
+231U  c  1949Os01: {+231}U formed and identified in {+231}Pa(d,2n),             
+231U 2c  {+231}Pa(|a,p3n), followed by chemical separation                      
+231U  c  1950Cr28: {+231}U identified as parent of {+231}Pa                     
+231U  c  1994Br36: detailed study of |e decay of {+231}U to {+231}Pa            
+231U  c  Theoretical studies: consult the NSR database (www.nndc.bnl.gov/nsr/)  
+231U 2c  for 40 primary references, 10 for nuclear structure calculations and   
+231U 3c  30 for calculation of |a-decay and cluster-decay half-lives. These     
+231U 4c  references are listed in 'document' records in this dataset, which can 
+231U 5c  be accessed through on-line ENSDF database at www.nndc.bnl.gov/ensdf/  
+231U  d  Theory (decay): 2022Pr04, 2022Sr01, 2022Ca06, 2022Ou01, 2021Bu02,      
+231U 2d  2021Gu26, 2021He09, 2021Ma20, 2021Sa52, 2021Se10, 2021Sr02, 2020Bu17,  
+231U 3d  2020De37, 2020Ja01, 2019Sr04, 2018Se01, 2018Zh35, 2017Ad03, 2017Sa39,  
+231U 4d  2017Su06, 2016Na19, 2016Qi10, 2015Gu14, 2015Se14, 2013Is13, 2013To12,  
+231U 5d  2012Sa31, 2011Sh13, 2007Da33: calculated |a-, and/o cluster-decay      
+231U 6d  half-lives.                                                            
+231U  d  Theory (structure): 2020Pa42, 2019Wa20, 2013To12, 2010To07, 2002Ts01,  
+231U 2d  1992Gr16, 1984Ku05, 1983Ga20, 1981Re06, 1980Ku14.                      
+231U  cG E,RI$From {+231}Np |e decay                                            
+231U  cL $9/2- member of configuration=|n5/2[752] (1973We08) is expected        
+231U 2cL at 102 keV from rotational energy formula                              
+231U  cL E$From {+231}Np |e decay, except for the tentative 40-keV level,       
+231U 2cL which is from {+235}Pu |a decay                                        
+231U   XA231NP EC DECAY (48.8 M)                                                
+231U   XB235PU A DECAY (25.3 M)                                                 
+231U  PN                                                                     6  
+231U   L 0.0         (5/2-)            4.2 D     1                              
+231U 2 L %EC AP 100$ %A GT 0.004 1 (1994Li12)                                   
+231U X L XREF=AB                                                                
+231U  cL $%|a: from 1994Li12. Other value: %|a=0.0055 (1950Cr28,                
+231U 2cL unpublished data) using ion-chamber method.                            
+231U  cL J$from systematics (1972El21) with possible configuration=|n5/2[633],  
+231U 2cL |n3/2[631] or |n5/2[752] for the g.s. Inertial parameter fits 5/2.     
+231U 3cL Log| {Ift} values to 183, 320 levels in {+231}Pa differ substantially  
+231U 4cL from corresponding log| {Ift} values in {+231}Th |b{+-} decay and      
+231U 5cL {+235}Pu |e decay, thus favoring |n5/2[752] (1994Br36,1973We08).       
+231U 6cL Other: 5/2+ from systematics (2021Ko07)                                
+231U  cL T$from 1949Os01. Other: 4.3 d (1950Cr28)                               
+231U   L 0+X           (5/2+)                                                  ?
+231U X L XREF=B                                                                 
+231U  cL E$x=40 {I40} from systematics, could be close to the g.s. (analogy to  
+231U 2cL {+229}Th)                                                              
+231U  cL J$populated by favored |a transition from {+235}Pu |a decay            
+231U   L 45.1      3  (7/2-)                                                    
+231U X L XREF=A                                                                 
+231U  cL $7/2 member of configuration=|n5/2[752] (1973We08)                     
+231U   G  45.1     3            [M1+E2]                 33E1  28  100          S
+231U F G FL=0.0                                                                 
+231U   L 416.1     3                                                            
+231U X L XREF=A                                                                 
+231U  cL J$(3/2-,5/2,7/2,9/2-) from 416.3|g to (5/2-); 370.9|g to (7/2-)        
+231U   G 370.9     3  100                                                       
+231U F G FL=45.1                                                                
+231U   G 416.3     3  2.9    6                                                  
+231U F G FL=0.0                                                                 
+231U   L 421.1     4                                                            
+231U X L XREF=A                                                                 
+231U  cL J$(3/2-,5/2,7/2,9/2-) from 420.7|g to (5/2-); 376.3|g to (7/2-)        
+231U   G 376.3     4  61     3                                                  
+231U F G FL=45.1                                                                
+231U   G 420.7     4  100    10                                                 
+231U F G FL=0.0                                                                 
+231U   L 481.7     4                                                            
+231U X L XREF=A                                                                 
+231U  cL J$(3/2-,5/2,7/2,9/2-) from 481.6|g to (5/2-); 436.9|g to (7/2-)        
+231U   G 436.9     4  47     10                                                 
+231U F G FL=45.1                                                                
+231U   G 481.6     5  100    19                                                 
+231U F G FL=0.0                                                                 
+231U   L 1153.5    4                                                            
+231U X L XREF=A                                                                 
+231U  cL J$(3/2-,5/2,7/2,9/2-,11/2-) from 1108.1|g to (7/2-)                    
+231U   G 737.8     3  100    6                                                  
+231U   G 1108.1    3  44     4                                                  
+231U F G FL=45.1                                                                
+231U   L 1268.1    4                                                            
+231U X L XREF=A                                                                 
+231U   G 786.6     3  26.8   14                                                 
+231U   G 851.6     5  100    4                                                  

@@ -1,0 +1,133 @@
+230U     ADOPTED LEVELS, GAMMAS                                  24NDS    202408
+230U   H TYP=FUL$AUT=C. Morse$CIT=NDS 197, 259 (2024).$CUT=26-Sep-2023$         
+230U   Q -3.62E+3  6  7667   7  5571   5  5992.5  5    2021Wa16                 
+230U  cQ $S(2n)=13748 {I14},  S(2p)=9734 {I5} (2021Wa16)                        
+230U  cG E,RI$From {+231}Pa(p,2n|g), {+230}Th(|a,4n|g), unless otherwise        
+230U 2cG specified.                                                             
+230U  cG M$From ce measurements in {+230}Pa |b{+-} decay and in (|a,4n|g)       
+230U 2cG reaction.                                                              
+230U  cG E(B),RI(B),M(B)$From {+230}Pa |b{+-} Decay.                            
+230U  cG E(D)$From {+232}Th(|a,6n|g)                                            
+230U  cL E$Deduced by evaluator from a least-squares fit to adopted |g-ray      
+230U 2cL energies.                                                              
+230U  cL J$Spin/parity assignments for higher-lying states are based on         
+230U 2cL assignment to g.s. rotational band or octupole-vibrational band.       
+230U 3cL Specific arguments based on |g-ray multipolarities are given for       
+230U 4cL individual levels.                                                     
+230U  CL BAND(A)$KPI=0+ GS ROTATIONAL BAND.                                     
+230U  CL BAND(B)$KPI=0- OCTUPOLE-VIBRATIONAL BAND.                              
+230U  DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+230U   XA234PU A DECAY                                                          
+230U   XB230PA B- DECAY                                                         
+230U   XC232TH(A,6NG)                                                           
+230U   XD231PA(P,2NG), 230TH(A,4NG)                                             
+230U  PN                                                                     6  
+230U   L 0.0          0+                20.23 D   2                         A   
+230U X L XREF=ABCD                                                              
+230U 2 L %A=100                                                                 
+230U  cL $%{+22}Ne=4.8|*-12 {I20} from 2001Bo11, measured using glass track     
+230U 2cL detectors. Other: 1.3|*10{+-12} {I8} (2000Pa54) measured using         
+230U 3cL polyester detectors. Both used source from {+230}Pa decay. 2001Bo11    
+230U 4cL claim much lower |a background.                                        
+230U  cL T$from 2012Po12. Other: 20.8 d (1948St42).                             
+230U   L 51.737    23 2+                0.26 NS   3                         A   
+230U X L XREF=ABCD                                                              
+230U  cL T$From (|b)(51.7|g)(t) in {+230}Pa |b{+-} decay (1960Be25).            
+230U  cL J$51.72|g E2 to 0+.                                                    
+230U   G 51.75     4  100       E2                      307   4                 
+230U S G LC=223.7 32$MC=61.9 9$NC=16.77 24$OC=3.84 6$PC=0.623 9$QC=0.001583 23  
+230U B G BE2W=222 27                                                            
+230U  cG E$Weighted average of 51.77 keV {i5} (1970Lo02) and 51.72 keV {i5}     
+230U 2cG (1971Ku25).                                                            
+230U   L 169.35    4  4+                                                    A   
+230U X L XREF=ABCD                                                              
+230U  cL J$117.8|g E2 to 2+.                                                    
+230U   G 117.8     2  100       E2                      6.43  10                
+230U S G KC=0.1894 29$LC=4.55 7$MC=1.261 20$NC=0.342 5$OC=0.0787 13$            
+230U S G PC=0.01293 21$QC=6.15E-5 9                                             
+230U   L 346.96    20 6+                                                    A   
+230U X L XREF=CD                                                                
+230U  cL J$177.6|g E2 to 4+.                                                    
+230U   G 177.6     2  100       E2                      1.174 17                
+230U S G KC=0.1842 26$LC=0.722 11$MC=0.1992 30$NC=0.0541 8$OC=0.01248 19$       
+230U S G PC=0.002076 31$QC=1.735E-5 25                                          
+230U   L 366.654   18 (1-)                                                  B   
+230U X L XREF=BD                                                                
+230U  cL J$366.6|g E1 to 0+; systematics of octupole bands and decay pattern.   
+230U   G 314.92    2  100    5  E1                      0.03535                 
+230U F G FLAG=B                                                                 
+230U S G KC=0.0281 4$LC=0.00540 8$MC=0.001301 18$NC=0.000348 5$OC=8.31E-5 12$   
+230U S G PC=1.535E-5 21$QC=9.93E-7 14                                           
+230U   G 366.65    2  81     5  E1                      0.02544                 
+230U F G FLAG=B                                                                 
+230U S G KC=0.02038 29$LC=0.00383 5$MC=0.000920 13$NC=0.0002463 34$             
+230U S G OC=5.90E-5 8$PC=1.096E-5 15$QC=7.31E-7 10                              
+230U   L 435.20    3  (3-)                                                  B   
+230U X L XREF=BD                                                                
+230U  cL J$265.8|g E1 to 4+, 383.5|g E1 to 2+; systematics of octupole bands    
+230U 2cL and decay pattern.                                                     
+230U   G 265.85    3  38     4  E1                      0.05137                 
+230U F G FLAG=B                                                                 
+230U S G KC=0.0407 6$LC=0.00801 11$MC=0.001935 27$NC=0.000517 7$                
+230U S G OC=0.0001233 17$PC=2.261E-5 32$QC=1.410E-6 20                          
+230U   G 383.46    2  100    5  E1                     0.0231532                
+230U F G FLAG=B                                                                 
+230U S G KC=0.01857 26$LC=0.00347 5$MC=0.000833 12$NC=0.0002229 31$             
+230U S G OC=5.34E-5 7$PC=9.94E-6 14$QC=6.68E-7 9                                
+230U   L 558.2     7  (5-)                                                  B   
+230U X L XREF=D                                                                 
+230U   G 211.1                                                                  
+230U   G 388.9                                                                  
+230U   L 578.1     3  8+                                                    A   
+230U X L XREF=CD                                                                
+230U  cL J$231|g E2 to 6+                                                       
+230U   G 231.1     2  100       E2                      0.444 6                 
+230U S G KC=0.1212 17$LC=0.2358 34$MC=0.0646 9$NC=0.01754 25$OC=0.00406 6$      
+230U S G PC=0.000683 10$QC=8.60E-6 12                                           
+230U   L 734.0     10 (7-)                                                  B   
+230U X L XREF=CD                                                                
+230U   G 387.0        100                                                       
+230U   L 856.3     3  10+                                                   A   
+230U X L XREF=CD                                                                
+230U   G 278.2     2  100                                                       
+230U   L 958.6     6  (9-)                                                  B   
+230U X L XREF=CD                                                                
+230U   G 380.8        100                                                       
+230U   L 1175.6    4  12+                                                   A   
+230U X L XREF=CD                                                                
+230U   G 319.3     2  100                                                       
+230U   L 1229.0    6  (11-)                                                 B   
+230U X L XREF=CD                                                                
+230U   G 270.4     2  35.7                                                      
+230U   G 372.6        100    AP                                                 
+230U   L 1531.5    4  14+                                                   A   
+230U X L XREF=CD                                                                
+230U   G 355.9     2                                                            
+230U   L 1539.7    6  (13-)                                                 B   
+230U X L XREF=CD                                                                
+230U   G 310.7     2  28.6                                                      
+230U   G 364.0        100    AP                                                 
+230U   L 1885.9    5  (15-)                                                 B   
+230U X L XREF=CD                                                                
+230U   G 346                                                                    
+230U F G FLAG=D                                                                 
+230U   G 354.4     2                                                            
+230U   L 1921.0    5  16+                                                   A   
+230U X L XREF=CD                                                                
+230U   G 389.6     3  100                                                       
+230U   L 2266.5    6  (17-)                                                 B  ?
+230U X L XREF=CD                                                                
+230U   G 345.5     2                                                            
+230U   G 380                                                                    
+230U F G FLAG=D                                                                 
+230U   L 2337.6    6  (18+)                                                 A  ?
+230U X L XREF=CD                                                                
+230U   G 416.6     2  100                                                      ?
+230U   L 2779.6    11 (20+)                                                 A   
+230U X L XREF=C                                                                 
+230U   G 442          100                                                       
+230U F G FLAG=D                                                                 
+230U   L 3243.6    15 (22+)                                                 A   
+230U X L XREF=C                                                                 
+230U   G 464          100                                                       
+230U F G FLAG=D                                                                 

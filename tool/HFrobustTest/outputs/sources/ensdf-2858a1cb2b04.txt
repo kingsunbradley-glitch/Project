@@ -1,0 +1,79 @@
+252ES    256MD A DECAY                 2000Ah02                  21NDS    202103
+252ES  H TYP=FUL$AUT=A.M. MATTERA, S. ZHU, A.B. HAYES, E.A. MCCUTCHAN$          
+252ES2 H CIT=NDS 172, 543 (2021)$CUT=1-Jan-2021$                                
+252ES c  2000Ah02: {+256}Md was produced in reactions of {+253}Es(|a,2n) at     
+252ES2c  the Argonne 152-cm cyclotron, and was removed from the target by a     
+252ES3c  helium jet system and chemically isolated. |a, |g and |a-|g were       
+252ES4c  measured with Si and Ge(Li) detectors. Five |a decays were observed    
+252ES5c  and their energies were measured with samples covering small solid     
+252ES6c  angle to the Si detector for minimizing |a-electron summing, and with  
+252ES7c  calibration standards from 1991Ry01. Total 4 |g rays with E|g=99.4     
+252ES8c  keV, 122.8 keV, 378.5 keV and 408.5 keV were observed in coincidence   
+252ES9c  with the 7206-keV |a. One |g ray with E|g=445 keV {I1} was in          
+252ESac  coincidence with the 7142-keV |a. These |g rays were not placed in     
+252ESbc  the level scheme of {+252}Es because of the complexity of levels in    
+252EScc  an odd-odd nucleus.                                                    
+252ES c  Other: 2019Ah04, 1993Mo18, 1971Ho16, 1970Ri12.                         
+252ES c  The 5 |a branches are adopted from 2000Ah02 based on the following     
+252ES2c  considerations. The peak shape of high energy and weak |a rays in the  
+252ES3c  spectrum is clearly visible. No peaks with intensity larger than 1%    
+252ES4c  are visible. In 1993Mo18, the determination of the high energy |a      
+252ES5c  rays was not a unique solution because of poor detector resolution     
+252ES6c  and conversion-electron summing incurred by the large detector solid   
+252ES7c  angle (|?30% of 4|p). In 1971Ho16, the peaks in the region beyond 7.3  
+252ES8c  MeV are statistically less certain. In 1970Fi12, the statistics in     
+252ES9c  the high energy region are also poor to make a definite assignment of  
+252ESac  every peak.                                                            
+252ES cG $Es K x-rays measured by 2000Ah02: K|a{-1}| = 118.0 keV, K|a{-2}| =    
+252ES2cG 112.5 keV, K|b{-1}'| = 132.5 keV, K|b{-2}'| = 137.0 keV                
+252ES cA E,IA$From 2000Ah02 unless otherwise noted. Other measurements:         
+252ES2cA 1993Mo18, 1971Ho16 and 1970Fi12. 1993Mo18 with E|a calibration         
+252ES3cA standards of 1973Ry07: 7155 {I5} (21% {I2}); 7221 {I3} (47% {I3});     
+252ES4cA 7455 {I6} (4.5% {I5}); 7532 {I10} (2.5% {I5}); 7611 {I10} (1.5%        
+252ES5cA {I5}); 7678 {I6} (4.0% {I4}); 7773 {I16} (0.5% {I3}), and an           
+252ES6cA unresolved group of |a between 7221 and 7455 (19% {I2}). 1971Ho16      
+252ES7cA with E|a({+253}Es)=6.640 MeV and E|a({+256}Fm)=6.925 MeV as            
+252ES8cA calibration energies: 7.160 MeV {I15} (16% {I2}); 7.23 MeV {I1} (63%   
+252ES9cA {I4}); 7.33 MeV {I3} (4% {I1}); 7.46 MeV {I3} (5% {I1}); 7.49 MeV      
+252ESacA {I2} (6% {I1}); 7.67 MeV {I3} (2% {I1}) and 7.72 MeV {I2} (4% {I1}).   
+252ESbcA 1970Fi12 with E|a({+253}Es)=6.632 MeV and E|a({+256}Fm)=6.911 MeV as   
+252ESccA calibration energies: 7.136 MeV {I5} (21% {3}); 7.202 MeV {I5} (69%    
+252ESdcA {I5}); 7.44 MeV {I1} (|?2%); 7.58 MeV {I1} (|?2%); 7.64 MeV {I1}       
+252ESecA (|?4%) and 7.67 MeV {I1} (|?2%).                                       
+252ES cA HF$r{-0}({+252}Es)=1.488 {I7}, unweighted average of                   
+252ES2cA r{-0}({+250}Cf)=1.4887 {I8},  r{-0}({+252}Cf)=1.499 {I4} and           
+252ES3cA r{-0}({+252}Fm)=1.4762 {I19}.                                          
+252ES cL E$Calculated from E|a's by assuming that the 7676-keV |a feeds the     
+252ES2cL {+252}Es g.s based on the fact that it is not in coincidence with any  
+252ES3cL of the observed |g rays and having the highest energy of all of the    
+252ES4cL observed |a transitions.                                               
+252ES cL J$From the Adopted Levels. Support derived from this dataset is given  
+252ES2cL in the comments.                                                       
+252ES cG E$Assigned to {+252}Es based on them in coincidence with 7207|a,       
+252ES2cG except 445|g which is in coincidence with 7142|a (2000Ah02).           
+256MD  P 0.0          (1-)              77.5 M    16             7737     SY    
+256MD cP T$weighted average of 78.1 min {I18} (1993Mo18), 77 min {I5}           
+256MD2cP (1971Ho16), and 75 min {I4} (1970Fi12).                                
+256MD cP QP$From 2017Wa10. Deduced Q(|a)=7798 {I8} assuming the 7676-keV        
+256MD2cP |a decays to the {+252}Es g.s.                                         
+252ES  N                        0.095  5                                        
+252ES cN BR$weighted average of 8.5% {I8} (1970Fi12), 9.9% {I5} (1971Ho16) and  
+252ES2cN 11% {I3} (1993Mo18).                                                   
+252ES  G 99.4                                                                   
+252ES  G 122.8                                                                  
+252ES  G 378.5                                                                  
+252ES  G 408.5                                                                  
+252ES  G 445       1                                                            
+252ES  L 0.0          (5-)                                                      
+252ES  A 7676      8 2.5     5 4.31E3  91                                       
+252ES  L 35        11                                                           
+252ES  A 7642      8 2.1     5 3.8E3   10                                       
+252ES  L 436       9                                                            
+252ES  A 7247      5 2.5     5 96      21                                       
+252ES  L 476       8  (1-)                                                      
+252ES cL J$Favored |a from {+256}Md g.s, which was suggested to be J=1-, K=0    
+252ES2cL with configuration |p7/2{+-}[514]~#|n7/2{++}[613] (1993Mo18).          
+252ES  A 7207      2 71      2 2.33    16                                       
+252ES cA E$From 2019Ah04.                                                       
+252ES  L 542       9                                                            
+252ES  A 7142      5 22      1 4.1     4                                        

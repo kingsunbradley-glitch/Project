@@ -1,0 +1,88 @@
+221RA    225TH A DECAY                                           07NDS    200705
+221RA  H TYP=FUL$AUT=Ashok Jain, Sukhjeet Singh, Suresh Kumar, Jagdish Tuli$    
+221RA2 H CIT=NDS 108, 883 (2007)$CUT=15-Jan-2007$                               
+221RA cA HF        r{-0}({+221}Ra)=1.5503 is used in calculations.              
+221RA cA E         Measurements of 1961Ru06. Original energies have been        
+221RA2cA increased by 4 keV, as recommended by 1979Ry03, because of changes     
+221RA3cA in calibration energies. Other measurement: 1987LiZP.                  
+221RA cA IA        From 1961Ru06.                                               
+221RA cG $Measured: I(K| x ray) per 100 |a's=27.0 {I10} (1987LiZP),             
+221RA2cG 33 {I3} (1961Ru06).                                                    
+221RA cG E         From 1987LiZP (|a|g, |g) and 1989Ac01 (|a|g, (|a)(ce)).      
+221RA2cG Other measurement: 1961Ru06.                                           
+221RA cG RI        Relative photon intensities are average values of I|g's      
+221RA2cG measured by 1987LiZP and 1989Ac01. Other measurement: 1961Ru06.        
+221RA cG M         From (|a)(ce) measurements of 1989Ac01 and 1987LiZP.         
+221RA2cG Multipolarities with square brackets are from decay scheme; they       
+221RA3cG were not determined experimentally.                                    
+221RA cG E(A)      Observed by 1989Ac01 only.                                   
+221RA cG E(L)      Observed by 1987LiZP only.                                   
+225TH  P  0.0          3/2+               8.72 M  4              6920     5     
+221RA  N 0.250     5            0.90   AP                                       
+221RA cN NR        Absolute photon intensities were measured by (|a)(|g)        
+221RA2cN coin: I(321|g)=25.0 {I5} per 100 |a decays (1987LiZP). Other           
+221RA3cN absolute measurement: I(321|g)=30 {I3} per 100 |a decays (1961Ru06).   
+221RA  G 148.5        0.8    4                                              L   
+221RA cG           This |g was placed by 1987LiZP between a proposed level      
+221RA2cG at 201.6 keV with J|p=9/2- and the 7/2+ state at 53.2 keV.             
+221RA  L 0.0          5/2+                28 S    2                             
+221RA  A  6797     5  9      1   267   AP                                       
+221RA  L 53.14      8 7/2+                                                      
+221RA  A  6743     5  7      1   213   AP                                       
+221RA  G 53.2      2  4.4    4  M1+E2    0.22    +10-22 29    8                 
+221RAS G LC=22 7 $ MC=5.4 17 $ NC+=1.9 6                                        
+221RA  L 103.60    12 (5/2)-                                                    
+221RA  A  6699     5  2      1   474   AP                                       
+221RA  G 50.5      2  0.54   16 [E1]                   0.693                    
+221RAS G LC=0.523 $ MC=0.1276 $ NC+=0.0429                                      
+221RA  G 103.5     2  4.0    8  E1                     0.1022               A   
+221RAS G LC=0.0772 $ MC=0.01857 $ NC+=0.00639                                   
+221RA  L 121.95    10 (9/2+)                                                    
+221RA  G 68.8      2  2.19   20 (M1)                   9.77                     
+221RAS G LC=7.38 $ MC=1.764 $ NC+=0.626                                         
+221RA  G 121.9     2  0.53   12 [E2]                   4.20                     
+221RAS G KC=0.315 $ LC=2.84 $ MC=0.771 $ NC+=0.280                              
+221RA  L 146.81    20 (7/2)-                                                    
+221RA  A  6649     5  3      1   213   AP                                       
+221RA  G 146.8     2  4.2    10 E1                     0.1919                   
+221RAS G KC=0.1510 $ LC=0.0309 $ MC=0.00740 $ NC+=0.00256                       
+221RA  L  174      5                                                            
+221RA  A  6627     5  3      1   166   AP                                       
+221RA  L 299.16     8 (7/2)+                                                    
+221RA  A  6501     3  14     1    11   AP                                       
+221RA  G 177.2     1  4.3    2  [M1]                   3.24                     
+221RAS G KC=2.60 $ LC=0.483 $ MC=0.115 $ NC+=0.0410                             
+221RA  G 246.0     1  22.5   5  M1                     1.294                    
+221RAS G KC=1.040 $ LC=0.1922 $ MC=0.0458 $ NC+=0.01616                         
+221RA  G 299.2     1  3.7    7   M1                    0.753                    
+221RAS G KC=0.606 $ LC=0.1115 $ MC=0.0266 $ NC+=0.00936                         
+221RA  L 321.37    16(3/2)+                                                     
+221RA  A  6478     3  43     2   2.9   AP                                       
+221RA  G 217.7     2  1.7    3  (E1)                   0.0744                   
+221RAS G KC=0.0594 $ LC=0.01135 $ MC=0.00271 $ NC+=0.00094                      
+221RA  G 321.4     1  100       M1                     0.619                   ?
+221RAS G KC=0.498 $ LC=0.0915 $ MC=0.0218 $ NC+=0.00768                         
+221RA  L 359.02     8(5/2)+                                                     
+221RA  A  6441     3  15     1   5.8   AP                                       
+221RA  G 212.0        0.8    4  [E1]                   0.792                L   
+221RAS G KC=0.0632 $ LC=0.01212 $ MC=0.00289 $ NC+=0.00100                      
+221RA  G 305.9     1  18.0   18  M1                    0.709                    
+221RAS G KC=0.570 $ LC=0.1049 $ MC=0.0250 $ NC+=0.00880                         
+221RA  G 359.0     1  18     2   M1                    0.458                    
+221RAS G KC=0.368 $ LC=0.0675 $ MC=0.01610 $ NC+=0.00567                        
+221RA  L 450.32    17 (5/2-)                                                    
+221RA  A  6345     5  2      1    18   AP                                       
+221RA  G 128.9     2  0.60   12 [E1]                   0.264                    
+221RAS G KC=0.2064$ LC=0.0434 $ MC=0.01040 $ NC+=0.00359                        
+221RA  G 151.2     2  2.7    2 (E1)                    0.179                    
+221RAS G KC=0.1409 $ LC=0.0287 $ MC=0.00685 $ NC+=0.00237                       
+221RA  L 485.40    12 (3/2-,5/2-)                                               
+221RA  A  6312     5  2      1    13   AP                                       
+221RA  G 126.4     2 0.76    16 (E1)                   0.277                    
+221RAS G KC=0.216 $ LC=0.0457 $ MC=0.0109 $ NC+=0.00378                         
+221RA  G 164.0     2  1.7    6  (E1)                   0.1471                   
+221RAS G KC=0.1163 $ LC=0.0233 $ MC=0.00555 $ NC+=0.00192                       
+221RA  G 381.8     2  1.5    3  [M1]                   0.387                A   
+221RAS G KC=0.312 $ LC=0.0571 $ MC=0.0136 $ NC+=0.00479                         
+221RA  G 485.4     2  0.3    1  [E1]                   0.0126               A   
+221RAS G KC=0.0103 $ LC=0.00178$ MC=0.0000419$NC+=0.0000146                     

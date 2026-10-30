@@ -1,0 +1,35 @@
+234NP    238AM A DECAY                                           26NDS    202601
+234NP  H TYP=FUL$AUT=S. Ota$CIT=NDS 207, 351 (2026)$CUT=1-Dec-2023$             
+234NP cL $If the {+238}Am g.s. configuration, in analogy to {+241}Am (or        
+234NP2cL {+239}Am; note its J|p is not clearly known) proton and {+235}U (or    
+234NP3cL {+237}Pu) neutron states, were: J|p=1+: |p5/2[523],|n7/2[743], and if  
+234NP4cL the {+234}Np g.s. configuration were: J|p=0+; |p5/2[642],|n5/2[633],   
+234NP5cL |a decay from {+238}Am to {+234}Np g.s. would involve spin flips for   
+234NP6cL both proton and neutron states. A hindrance factor of |?60 (using      
+234NP7cL I|a=100%) for 5940|a is not consistent with such a transition (see     
+234NP8cL 1972El21). Therefore, 5940|a from {+238}Am g.s. should feed an         
+234NP9cL excited state (see also discussion in 1972Ah04).                       
+234NP c  $ J{+|p},T{-1/2},%|a from the A=238 ENSDF evaluation (2015Br06). For   
+234NP2c  %|a, see also 1972Ah04.                                                
+234NP c  1972Ah04: Measured E|a from {+238}Am decay with a Si surface barrier   
+234NP2c  detector. Determined %|a from |g measurements following the {+238}Am   
+234NP3c  |a decays with a Ge(Li). The {+238}Am sample was prepared by           
+234NP4c  bombarding {+237}Np with 40 MeV |a beam and chemical purification.     
+238AM  P 0.0          1+                98 M      2              6.04E+3  6     
+238AM cP QP$From 2021Wa16                                                       
+234NP  N                        1.0E-6 4                                        
+234NP  L 0.0                                                                    
+234NP  L 0.0+x                                                                  
+234NP cL $The level fed by the 5940-keV |a-particle group from {+238}Am may be  
+234NP2cL the J|p=1-: |p5/2[523], |n3/2[631] state. A |g ray between this state  
+234NP3cL and the g.s. (probable J|p=0+: |p5/2[642], |n5/2[633]) is forbidden.   
+234NP4cL If a J|p=1+: |p5/2[642], |n3/2[631] state lay below the 1- level,      
+234NP5cL then this 1- state would preferably deexcite by cascade |g rays.       
+234NP cL $E: This level is very close to the ground state (but not ground       
+234NP2cL state, see above) because the deduced E from Q(|a) and E{-|a} is       
+234NP3cL nearly 0.                                                              
+234NP  A 5940      10100     LE46      GE                                       
+234NP cA E$From 1972Ah04.                                                       
+234NP cA HF$The nuclear radius parameter r{-0}({+234}Np)=1.4982 {I28} is        
+234NP2cA deduced from those of neighboring even-even nuclei ({+232}U, {+234}U,  
+234NP3cA {+234}Pu, and {+236}Pu).                                               

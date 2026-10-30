@@ -1,0 +1,38 @@
+217TH    221U A DECAY (0.66 US)        2015KH09                  18NDS    201802
+217TH  H TYP=FUL$AUT=B. SINGH, R. SHEARMAN$                                     
+217TH2 H CIT=NDS 147, 382 (2018)$CUT=1-DEC-2017$                                
+217TH c  DICT$ {+221}U={+221}U                                                  
+217TH c  2015Kh09: {+221}U produced as fusion residue in the fusion reaction    
+217TH2c  {+176}Yb({+50}Ti,|a5n), E({+50}Ti)= 231-255 MeV reaction on a          
+217TH3c  0.45 mg/cm{+2} thick {+176}YbF{-3} target mounted on a rotating wheel  
+217TH4c  synchronized with the pulsed beam, 5 ms on, 15 ms off. Evaporation     
+217TH5c  residues (Er), separated by using gas-filled TransActinide Separator   
+217TH6c  and Chemistry Apparatus (TASCA), with flight time of 0.53 |ms {I6}     
+217TH7c  through the separator, were implanted in a double-sided silicon strip  
+217TH8c  detector. The events due to radioactive decays of implanted residues   
+217TH9c  were selected from the events related to beam using a multiwire        
+217THAc  proportional counter (MWPC). Measured E|a, I|a, (Er)|a correlated      
+217THBc  events from subsequent |a-decay chains, half-lives of parent nuclei    
+217THCc  corresponding to the evaporation residues, and successive |a-decay     
+217THDc  daughters, the latter identified by their known characteristics in     
+217THEc  literature. The identification of {+221}U was made based on observed   
+217THFc  (Er)|a|a correlated events in {+221}U -> {+217}Th -> {+213}Ra decay    
+217THGc  chain using a fast data acquisition, combined with analog and digital  
+217THHc  (CANDI) readout system. Deduced |a-reduced width.                      
+217TH cA HF$r{-0}({+217}Th)=1.52 {I2}; interpolated value deduced from          
+217TH2cA r{-0}({+214}Th)=1.512 {I17} (deduced in {+218}U |a decay, see ENSDF    
+217TH3cA database, May 2009 update), and r{-0}({+218}Th)=1.529 {I15} (deduced in
+217TH4cA {+222}U |a decay, see {+222}U Adopted dataset in ENSDF database,       
+217TH5cA Dec 2015 update).                                                      
+221U   P 0            (9/2+)           0.66 US   14             9890      50    
+221U  cP J,T$From 2015Kh09                                                      
+221U  cP QP$From 2017Wa10 based on measured E|a=9710 {I50} (2015Kh09) and       
+221U 2cP assuming this |a transition as ground-state to ground-state transition 
+217TH  N                        1      AP                                       
+217TH cN BR$%|a|?100 for {+221}U |a decay                                       
+217TH  L 0           (9/2+)            0.252 MS  4                              
+217TH cL J,T$from Adopted levels.                                               
+217TH  A 9710      50 100       0.95   23                                       
+217TH cA $Reduced alpha width |?0.1 from Rasmussen formalism (2015Kh09)         
+217TH cA HF$deduced by evaluators. This value is typical of favored |a decay    
+217TH2cA supporting the same J|p for parent and daughter ground states          

@@ -1,0 +1,77 @@
+262BH    ADOPTED LEVELS                                          01NDS    200112
+262BH  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94, 131 (2001)$CUT=1-Aug-2001$          
+262BH  Q             6.7E3   SY8.E2    SY10320   15    2012WA38                 
+262BH cQ $Note: Current evaluation has used the following Q record              
+262BH2cQ              6945   syst 945    syst 10220  syst    1995Au04           
+262BH c                                                                         
+262BH t  Assignments and production methods:                                    
+262BH2t                                                                         
+262BH3t    {+209}Bi({+54}Cr,n) parent of {+258}Db (1981Mu06,1984Og03,1989Mu09). 
+262BH4t       |a correlation chain through {+258}Db, {+254}Lr, {+250}Md, and {+2
+262BH+t  50}Fm                                                                  
+262BH5t       was established.                                                  
+262BH6t                                                                         
+262BH7t    {+208}Pb({+55}Mn,n), grand parent of {+258}Rf (1984Og03).            
+262BH8t       3.9-s SF activities observed by 1984Og03 was interpreted as due   
+262BH9t       to SF decay of {+258}Rf which was produced by |e decay of 4.2-s   
+262BH2t       {+258}Db, |a-decay daughter of {+262}Bh. The {+246}Cf |a's were   
+262BH3t       also observed by 1984Og03 in the |a-decay chain of {+262}Bh.      
+262BH4t                                                                         
+262BH5t    {+205}Tl({+58}Fe,n), grand parent of {+258}Rf (1989Il02).            
+262BH6t       Five fission tracks were detected from reaction products,         
+262BH7t       and T{-1/2}(SF)=2.7 s {I+48-12} was determined by 1989Il02.       
+262BH8t                                                                         
+262BH9t    {+209}Bi({+58}Fe,n)266Mt(|a), grand parent of {+254}Lr and {+250}Fm (
+262BH+t  1997Ho14).                                                             
+262BH2t                                                                         
+262BH c                                                                         
+262BH c  Theoretical studies:                                                   
+262BH c  For calculation of fission barrier, see 1985Cw01, 2000Ad15, 2001Mo07.  
+262BH c  Partial half-life for SF decay was calculated by 1985Lo17, 2000Ho27.   
+262BH cL           Excited levels populated by 266Mt |a decay are not adopted   
+262BH2cL here because of possible multiple parent states with unknown level     
+262BH3cL energies. See 266Mt |a decay data set.                                 
+262BH  L 0.0+X                         102 MS    26                             
+262BH cL T         measured by 1989Mu09. Authors' earlier measurements:         
+262BH2cL 115 ms {I+231-75} (1981Mu06), 56 ms {I+53-18} (1986MuZX),              
+262BH3cL 106 ms {I30} (1988Mu15).                                               
+262BH cL           Level is populated in 266Mt |a decay: the authors of         
+262BH2cL 1997Ho14 observed that the 10682-, 10809- and 10848- keV |a's from     
+262BH3cL 266Mt were correlated with the 9731-, 9831- and 10143- keV |a's from   
+262BH4cL {+262}Bh, and pointed out that the three correlated |a's of            
+262BH5cL 266Mt possibly decay from different 266Mt isomers.                     
+262BH cL           1989Mu09 stated that there is no convincing evidence, but    
+262BH2cL |a correlations might suggest that the 102-ms state is the g.s.        
+262BH3cL The |a energy of E|a=10060, measured by 1989Mu09, yields               
+262BH4cL Q(|a)({+262}Bh)=10216 {I40}+E({+258}Db level fed by 10060a)-E(102-ms   
+262BH5cL {+262}Bh level); the Q(|a) calculated from E|a=10143 of 1997Ho14 is    
+262BH6cL Q(|a)({+262}Bh)=10300+E({+258}Db level fed by 10143a)-E(102-ms         
+262BH7cL {+262}Bh level). Q(|a)({+262}Bh)=10216 {I152} was recommended by       
+262BH8cL 1995Au04 from E|a given by 1989Mu09 which is consistent with the Q(|a) 
+262BH9cL systematics shown by 1993Au05. The Q(|a) deduced from measured E|a and 
+262BH2cL the Q(|a) systematics suggest therefore, that energies of the parent   
+262BH3cL and the daughter levels are close in values, and either of these       
+262BH4cL levels may possibly Be the ground state:                               
+262BH5cL E(102-ms {+262}Bh parent)-E({+258}Db level fed by 10143a)=80 {I160}.   
+262BH6cL As pointed out by 1989Mu09,there is no determining evidence.           
+262BH2 L %A LE 100                                                              
+262BH cL           Only |a decay from this state in {+262}Bh was observed;      
+262BH2cL no SF decay was detected by 1984Og03 and 1989Mu09. An upper limit      
+262BH3cL of 20% was set by 1986MuZX. See also 1984Og03.                         
+262BH  L 0.0+Y                         8.0 MS    21                          M1 
+262BH cL T         measured by 1989Mu09. Earlier measurements: 1981Mu06,        
+262BH2cL 1986MuZX, 1988Mu15.                                                    
+262BH cL           One photon at 382.9 in coincidence with an escape-|a from    
+262BH2cL this state was observed by 1984Mu07, and because of the short          
+262BH3cL correlation time between the 266Mt |a decay and the |a escape,         
+262BH4cL 1989Mu09 suggested that the 8.0-ms state is probably the isomer.       
+262BH5cL However, the 382.9|g has been tentatively reassigned to {+258}Db decay 
+262BH6cL (private communication from S. Hofmann; March 2000).                   
+262BH cL E         the measured E|a=10443 decaying from this level              
+262BH2cL yields Q(|a)({+262}Bh)=10605+E(level fed by 10443a)-E(8.0-ms level).   
+262BH3cL If Q(|a)({+262}Bh)=10216 {I152} (1995Au04), then                       
+262BH4cL E(8.0-ms level)-E(level fed by 10443a)=390 {I160}.                     
+262BH2 L %A LE 100                                                              
+262BH cL           No SF decay was detected by 1989Mu09. An upper limit of 10%  
+262BH2cL was given by 1989Mu09 for SF activities with T{-1/2}<100 ms. Other     
+262BH3cL measurements: 1984Og03, 1986MuZX.                                      

@@ -1,0 +1,709 @@
+242PU    ADOPTED LEVELS, GAMMAS                                  22NDS    202211
+242PU  H TYP=FUL$AUT=M.J. Martin, C.D. Nesaraja$CIT=NDS 186, 261 (2022)$        
+242PU2 H CUT=31-Dec-2021$                                                       
+242PU  Q -751.1    7 6309.6  7 6.89E3  10 4984.2 10    2021WA16                 
+242PU cQ $S(2n)=11551.1 {I7}, S(2p)=12576.6 {I27} (2021Wa16)                    
+242PU DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+242PU PN                                                                     6  
+242PU c                                                                         
+242PU c  For references on theoretical studies refer to the NSR file at the     
+242PU2c  Web site given in the abstract                                         
+242PU c                                                                         
+242PU CL BAND(A)   K|p=0+ GS band                                               
+242PU CL BAND(B)   K|p=0- Octupole-vibrational band.                            
+242PU CL BAND(C)   K|p=3- band                                                  
+242PU cL SEQ(D)    K|p=0+ band                                                  
+242PU CL BAND(E)   K|p=? band                                                   
+242PU CL BAND(F)   K|p=? band                                                   
+242PU  XA246CM A DECAY                                                          
+242PU  XB242NP B- DECAY (2.2 M)                                                 
+242PU  XP242NP B- DECAY (5.5 M)                                                 
+242PU  XE242AM EC DECAY (16.01 H)                                               
+242PU  XCCOULOMB EXCITATION                                                     
+242PU  XD242PU(D,D')                                                            
+242PU  XT244PU(P,T)                                                             
+242PU  XG244PU(208PB,210PBG)                                                    
+242PU  XN241PU(N,G) E=TH:PRIMARY G'S                                            
+242PU  XS241PU(N,G) E=TH:SECONDARY G'S                                          
+242PU cG E,RI$E|g and branching ratios are mainly from Coulomb excitation       
+242PU2cG and {+242}Np |b{+-} decay. E|g=44.545 {I9} is from {+246}Cm |a decay   
+242PU3cG and E|g's without uncertainties are from {+241}Pu(n,|g).               
+242PU cG RI$Relative branching ratios normalized to 100 for the strongest       
+242PU2cG transition from each level.                                            
+242PU cG M(A)$From mult=Q in Coulomb excitation from angular distribution       
+242PU2cG measurements and placement in the level scheme.                        
+242PU cG M(B)$From mult=D in Coulomb excitation from angular distribution       
+242PU2cG measurements and placement in the level scheme.                        
+242PU cG M(C)$From mult=D+Q in Coulomb excitation from angular distribution     
+242PU2cG measurements and placement in the level scheme.                        
+242PU cG M(Z)$The assignment as Q in Coulomb excitation is tentative.           
+242PU cG M(Y)$The assignment as D+Q in Coulomb excitation is tentative.         
+242PU cG M(X)$The assignment as D in Coulomb excitation is tentative.           
+242PU cL E$From a least-squares fit to the adopted gamma energies except        
+242PU2cL where noted otherwise as indicated by the XREF column                  
+242PU cL J$Except where noted otherwise, the assignments come from Coulomb      
+242PU2cL excitation based on assigned band structure. The gs, K|p=0-,           
+242PU3cL K|p=3-, and K|p=0+ bands have well-established intra-band Q            
+242PU4cL transitions and several inter-band D transitions. The two K|p=? side   
+242PU5cL bands are tentative since transitions connecting them to possible      
+242PU6cL bandheads are not seen. Assignments for the gs band up to J|p=26+      
+242PU7cL are confirmed by 1983Sp03 from the systematic impact-parameter         
+242PU8cL dependence of the I|g yields, particle-|g directional correlation,     
+242PUAcL and from |g multiplicity measurements,                                 
+242PU cL J(Z)$From (d,d') based on intensity patterns and ratios of cross       
+242PU2cL sections at |q=90|' and |q=125|'.                                      
+242PU  L 0.0          0+               3.73E+5 Y 2                          A   
+242PU2 L %A=100 $ %SF=5.53E-4 5                                                 
+242PUX L XREF=ABPECDTGNS$                                                       
+242PU cL %SF$From the adopted values for T{-1/2}(|a) and T{-1/2}(SF).           
+242PU cL T$Based on the following set of measurements. Standards                
+242PU2cL used by the authors are given in parens and their half-lives have      
+242PU3cL been corrected by the evaluators for newer values of                   
+242PU4cL the standards as follows:  T{-1/2}=87.7 y {I1} for {+238}Pu,           
+242PU5cL 6561 y {I7} for {+240}Pu, and 24110 y {I30} for {+239}Pu. The          
+242PU6cL following values are in units of 10{+5} y.                             
+242PU7cL T{-1/2}=3.65 {I5} ({+238}Pu) (1956Bu64), 3.79 {I5} (specific           
+242PU8cL activity) (1956Bu92), 3.87 {I10} ({+240}Pu) (1956Me37),                
+242PU9cL 3.82 {I3} ({+239}Pu) (1969Be06), 3.67 {I7} ({+238}Pu) (1970Du02),      
+242PUAcL 3.702 {I7} (absolute 4|p |a|g coin and radiometry) (1976Bu23),         
+242PUBcL 3.764 {I9} (low-temperature heat capacity) (1976Os05),                 
+242PUCcL 3.708 {I25} ({+239}Pu) (1978MeZL),                                     
+242PUDcL 3.742 {I24} ({+239}Pu) (1979Ag03), 3.766 {I25} ({+238}Pu) (1979Ag03).  
+242PUEcL The value of 1976Os05 was recalculated by the evaluators               
+242PUFcL using E(|a)=4984.2 {I10}. The authors used 4982.3 {I12}. The value     
+242PUGcL given by 1969Be06, 3.823 {I16}, has been revised by 1976Bu23. These    
+242PUHcL data give a weighted average of 3.730|*10{+5} y {I12}. The evaluators  
+242PUIcL adopt 3.73|*10{+5} y {I2} with the uncertainty increased               
+242PUJcL to overlap the two values quoted to the highest precision.             
+242PUKcL Others:1950Th54, 1956Hu96.                                             
+242PU cL $T{-1/2}(SF) is based on the following set of measurements, given      
+242PU2cL in units of 10{+10} y. The evaluators have applied the same            
+242PU3cL corrections for the T{-1/2} standards as given in the comment on       
+242PU4cL T{-1/2}(|a): 6.65 {I10} (1956Bu64), 6.79 {I9} (1956Me37 as             
+242PU5cL revised by 2000Ho27),                                                  
+242PU6cL 6.74 {I5} (1978MeZL), 6.86 {I26} (1988SeZY), 6.79 {I9} (2005ChZU)      
+242PU7cL 6.74 {I9} (2013Sa65), 6.72 {I8} (2017Ma07), and 6.77 {I5} (2018Be29).  
+242PU8cL The values given                                                       
+242PU9cL for 1956Me37 and 2017Ma07 are based on the adopted value for           
+242PUAcL T{-1/2}(|a) and the authors' values of T{-1/2}(|a)/T{-1/2}(SF)=        
+242PUBcL 1.819|*10{+5} {I18} and 1.802|*10{+5} {I18} respectively,              
+242PUCcL These data give a weighted average of 6.748 {I28}. The evaluators      
+242PUDcL adopt T{-1/2}(SF)=6.75|*10{+10} {I5} with the uncertainty              
+242PUEcL increased to the smallest of the input values.                         
+242PUDcL Others: 6.7 {I7} (quoted in 1956Me37), 6.5 {I7} (1961Dr04), and        
+242PUFcL 7.45 {I17} (1963Ma50).                                                 
+242PUGcL See also recommended value: 6.766 |*10{+10} y {I37} (2021Cr02)         
+242PU cL           The intrinsic quadrupole and hexadecapole moments were       
+242PU2cL deduced by 1986Zu01 as Q(0)=11.901 {I63} and H(0)=2.08 (12) from       
+242PU3cL measured muonic X-ray data (muons were stopped on a {+242}Pu target.)  
+242PU4cL From Coulomb excitation, 1973Be44 deduced  Q(0)=11.64 {I9} and         
+242PU5cL H(0)=1.75 {I+71-87}. From the intrinsic quadrupole and hexadecapole    
+242PU6cL moments, the quadrupole and hexadecapole deformation parameters were   
+242PU7cL obtained by 1986Zu01 as |b(2)=0.2766 {I15} and |b(4)=0.0498 {I52}.     
+242PU cL           The relative isotope shifts between {+242}Pu and {+240}Pu,   
+242PU2cL and between {+242}Pu and {+244}Pu were measured by 1985Ge08 to be 1.0  
+242PU3cL and 1.03 {I2}, respectively. See also 1989Ru07                         
+242PU cL           Energy distribution and yields of long range alpha particles 
+242PU2cL emitted during spontaneous fission were measured by 1998Se17.          
+242PU cL           Cold fission (without neutron emission) in {+242}Pu          
+242PU2cL spontaneous fission was observed by 1996Da16.                          
+242PU cL           Energy and mass distributions of fission fragments were      
+242PU2cL measured by 1982Al13, 1984Th01, 1989Wa29 and 1997De11.                 
+242PU cL           Energy and mass distribution of muon-induced fission         
+242PU2cL fragments were measured by 1987Da22; time distribution of fission      
+242PU3cL fragments from muonic {+242}Pu was measured by 1980Wi06; energy        
+242PU4cL distribution of fission fragments induced by (t,p) reaction was        
+242PU5cL measured by 1974Ba28, and fission probability was deduced.             
+242PU cL           The prompt gamma-ray spectrum for spontaneous fission        
+242PU2cL was measured by 2018Ch34 and 2016Ob01. The prompt gamma-ray spectrum   
+242PU3cL for neutron-induced fission was measured by 2018Ch34.                  
+242PU cL           Fission fragments mass distribution was measured by          
+242PU2cL 2017Hi10 populated in the excitation-energy range from 10 to 60        
+242PU3cL MeV by multinucleon transfer channels in the reaction {+18}O +         
+242PU4cL {+238}U.                                                               
+242PU cL           |s and |s(E) for photo fission were measured by 2000So02.    
+242PU cL           The absolute cross section for neutron-induced fission       
+242PU2cL from 1 to 2.5 MeV was measured by 2017Ma07.                            
+242PU  L 44.545     9 2+               160 PS    3                          A   
+242PUX L XREF=ABPECDTGNS                                                        
+242PU cL J$E2 |g to 0+                                                          
+242PU cL T$From B(E2) in Coulomb excitation                                     
+242PU  G 44.545     9 100      E2                      748    10                
+242PU cG M$From ce data in 16.01-h {+242}Am |e decay.                           
+242PUB G BE2W=301 14                                                            
+242PUS G  LC=543 8$MC=151.5 21                                                  
+242PUS G  NC=41.6 6$OC=9.78 14$PC=1.529 21$QC=0.00328 5                         
+242PU  L 147.4      1 4+                                                    A   
+242PU2 L BE4=0.55 +53-41                                                        
+242PUX L XREF=ABPCDTGNS$                                                        
+242PU  G 102.8      1 100      (E2)                    13.88  20                
+242PU2 G FLAG=A$                                                                
+242PUS G  LC=10.07 15$MC=2.82 4                                                 
+242PUS G  NC=0.775 11$OC=0.1827 27$PC=0.0291 4$QC=0.0001056 15                  
+242PU  L 306.4      2 6+                                                    A   
+242PUX L XREF=PCDGS                                                             
+242PU  G 159.1      1 100      (E2)                    2.098  30                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.1921 27$LC=1.384 20$MC=0.386 6                                   
+242PUS G  NC=0.1062 15$OC=0.0251 4$PC=0.00406 6$QC=2.430E-5 34                  
+242PU  L 518.1      5 8+                                                    A   
+242PUX L XREF=CDG                                                               
+242PU  G 211.3      2 100      (E2)                    0.696  10                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.1388 20$LC=0.406 6$MC=0.1125 16                                  
+242PUS G  NC=0.0309 5$OC=0.00732 11$PC=0.001201 17$QC=1.077E-5 15               
+242PU  L 778.6      8 10+                                                   A   
+242PUX L XREF=CG                                                                
+242PU  G 260.7      2 100      (E2)                    0.333   5                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0987 14$LC=0.1706 24$MC=0.0470 7                                 
+242PUS G  NC=0.01290 19$OC=0.00307 4$PC=0.000509 7$QC=6.24E-6 9                 
+242PU  L 780.45     5 1-                                                    B   
+242PUX L XREF=BCDS                                                              
+242PU cL J$From systematics of octupole-vibrational state energies. A           
+242PU2cL ratio of reduced-transition rates of gammas to the g.s. band:          
+242PU3cL B(E1,735.93|g)/B(E1,780.44|g)=2.25 observed in |b{+-} decay agrees     
+242PU4cL with 2.0 from the Alaga rule                                           
+242PU  G 735.93     7 100                                                       
+242PU  G 780.44     5 53     1                                                  
+242PU  L 832.3      3 3-                                                    B   
+242PU2 L BE3=0.42 7                                                             
+242PUX L XREF=BCDNS                                                             
+242PU cL J$From excit in Coulomb excitation; gammas to 2+ and 4+ levels.        
+242PU  G 685.0      1 100    14                                                 
+242PU  G 787.8        113    CA                                                 
+242PU cG E$From (n,|g). Transition is obscured in 2.2-min {+242}Np |b- decay    
+242PU  L 865                                                                    
+242PUX L XREF=D                                                                 
+242PU  L 927          5-                                                    B   
+242PUX L XREF=CD                                                                
+242PU2 L FLAG=Z$                                                                
+242PU  L 956          0+                                                    D   
+242PUX L XREF=CT                                                                
+242PU cL J$L(p,t)=0                                                             
+242PU  L 992.5     3 (2+)                                                   D   
+242PUX L XREF=BCDT                                                              
+242PU cL J$Spacing of 36 keV above the 956 {I0}+ state in (p,t) is suggestive   
+242PU2cL of a rotational band. See 1970Ma29.                                    
+242PU  G 948.0      2 100                                                       
+242PU  L 1019.5    8  3-                                                    C   
+242PUX L XREF=CDNS                                                              
+242PU cL J$From excit in Coulomb excitation.                                    
+242PU2 L BE3=0.45 7                                                             
+242PU  G 974.9        100                                                       
+242PU  L 1039.2    3 (1,2+)                                                     
+242PUX L XREF=BN                                                                
+242PU cL J$Fed from 2+,3+ by primary in (n,|g). Possible |g to 0+.              
+242PU  G 1039.2    3  100                                                   &  ?
+242PU cG E$E|g=1039.9 {I14} from (n,|g): E=primary.                             
+242PU cG RI$The 1871.4 level, the parent of the alternate placement, is not     
+242PU2cG populated in (n,|g).                                                   
+242PU  L 1064.0    9 (4-)                                                       
+242PUX L XREF=NS                                                                
+242PU cL J$Fed from 2+,3+ by primary in (n,|g). |g to 4+. No |g's to 0+ or 2+   
+242PU  G 915.7        100                                                       
+242PU  L 1070.8       7-                                                    B  ?
+242PUX L XREF=C$                                                                
+242PU  G 143.8     10 100                                                       
+242PU  G 553.7      2 100                                                       
+242PU  G 765.0      2 100    14                                                 
+242PU  L 1084.0     4 12+                                                   A   
+242PUX L XREF=CG$                                                               
+242PU  G 306.2      2 100       (E2)                   0.1985 28                
+242PU2 G FLAG=A$                                                                
+242PU3 G FL=778.6                                                               
+242PUS G  KC=0.0745 10$LC=0.0906 13$MC=0.02476 35                               
+242PUS G  NC=0.00680 10$OC=0.001619 23$PC=0.000272 4$QC=4.21E-6 6               
+242PU  L 1092.1    2 (6+)                                                       
+242PUX L XREF=P                                                                 
+242PU cL J         gammas to 4+,6+. 1981Fr07 proposed J|p=6+ and                
+242PU2cL configuration=(|n5/2[622],|n7/2[624]) similar to the 1040.3-keV        
+242PU3cL level in {+244}Cm.                                                     
+242PU  G 785.7      1 100                                                       
+242PU  G 944.8      1 63     3                                                  
+242PU  L 1102       4 2+                                                        
+242PUX L XREF=CDT                                                               
+242PU2 L BE2=0.157 18                                                           
+242PU2 L FLAG=Z$                                                                
+242PU  L 1122         5-                                                    C   
+242PUX L XREF=CD                                                                
+242PU2 L FLAG=Z$                                                                
+242PU  L 1152.5    13(2-)                                                       
+242PUX L XREF=NS                                                                
+242PU cL J$Fed from 2+,3+ by primary |g in (n,|g). |g to 2+; no |g's to 0+ or 4+
+242PU  G 1105.6       100                                                       
+242PU  L 1154.5     2(2+,3-)                                                    
+242PUX L XREF=B                                                                 
+242PU cL J$|g's to 2+ and 4+. log{Ift}=7.5, log{If{+1u}t}=8.3 from (1+)         
+242PU  G 1007.3     2 43     8                                                  
+242PU  G 1110.0     2 100    15                                                 
+242PU  L 1181.6     2 (2+)                                                      
+242PUX L XREF=B                                                                 
+242PU cL J$|g's to 0+ and 4+                                                    
+242PU  G 1034.2     2 22     4                                                  
+242PU  G 1137.1     1 100    4                                                  
+242PU cG RI$1979Ha26 in 2.2-min |b decay point out that I|g relative to the     
+242PU2cG other intensities deexciting the 1181.6 level is much higher than      
+242PU3cG expected based on the Alaga rule. They suggest that the 1137.1|g       
+242PU4cG might be a doublet with a second and stronger component                
+242PU5cG as yet unplaced.                                                       
+242PU  G 1181.6     2 12     2                                                  
+242PU  L 1186.3     6(7-)                                                   E  ?
+242PUX L XREF=C$                                                                
+242PU  G 880.5      5 100                                                      ?
+242PU  L 1204                                                                   
+242PUX L XREF=D                                                                 
+242PU  L 1242.8     4 9-                                                    B   
+242PUX L XREF=C$                                                                
+242PU  G 172.0      5 38     32                                                ?
+242PU  G 465.0      5 77     42                                                 
+242PU  G 725.7      2 100    24 (E1)                   0.0071410                
+242PU2 G FLAG=B                                                                 
+242PUS G  KC=0.00578 8$LC=0.001026 14$MC=0.0002455 34                           
+242PUS G  NC=6.64E-5 9$OC=1.640E-5 23$PC=3.05E-6 4$QC=1.856E-7 26               
+242PU  L 1259                                                                   
+242PUX L XREF=D                                                                 
+242PU  L 1277.1     4 7-                                                    C   
+242PUX L XREF=C$                                                                
+242PU  G 760.0      5 510    LT                                                 
+242PU  G 971.3      5 100    34 (E1)                   0.00426 6                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00347 5$LC=0.000599 8$MC=0.0001429 20                            
+242PUS G  NC=3.86E-5 5$OC=9.57E-6 13$PC=1.794E-6 25$QC=1.129E-7 16              
+242PU  L 1357.2     3                                                          ?
+242PUX L XREF=P                                                                 
+242PU cL J         by analogy to the 1308.7-keV level in {+240}Pu, 1981Fr07     
+242PU2cL proposed a two-proton configuration of 5-(|p5/2[642],|p5/2[523]).      
+242PU3cL Although this configuration is consistent with a beta branch from a    
+242PU4cL 6+(|p5/2[642],|n7/2[624]) parent state, the gamma transition to a      
+242PU5cL 6+(|n5/2[622],|n7/2[624]) state is not. Admixture                      
+242PU6cL with two-proton states with large amplitudes would be expected.        
+242PU  G 265.1      1 100                                                       
+242PU  L 1358.7     5  (9-)                                                 E   
+242PUX L XREF=C$                                                                
+242PU  G 172.4      4 92     62                                                 
+242PU  G 841.6      5 100    46 (D)                                             
+242PU2 G FLAG=B$                                                                
+242PU  L 1401.0    2   (0,1+)                                                  ?
+242PUX L XREF=B                                                                 
+242PU cL J$Log{Ift}=7.0 from (1+) suggests J|p=0, 1, 2. No |g to 3-             
+242PU2cL implies J|p=0, 1+.                                                     
+242PU  G 620.6     1 100                                                        
+242PU  L 1428.0    4   (2-)                                                     
+242PUX L XREF=B                                                                 
+242PU cL J$log {Ift}=7.3 from (1+). |g to 2+. No |g's to 0+.                    
+242PU2cL Analogy with 1438.5 level in {+240}Pu (1979Ha26).                      
+242PU  G 647.4     3 100     10                                                 
+242PU  G 1383.6    4 45      19                                                 
+242PU  L 1431.7    16 14+                                                   A   
+242PUX L XREF=CG$                                                               
+242PU  G 347.7      2 100       (E2)                   0.1360 19                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0593 8$LC=0.0561 8$MC=0.01523 22                                 
+242PUS G  NC=0.00418 6$OC=0.000998 14$PC=0.0001691 24$QC=3.13E-6 4              
+242PU  L 1466.8     4 11-                                                   B   
+242PUX L XREF=C                                                                 
+242PU  G 224.0      3 39     26 (E2)                   0.563   8                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.1269 18$LC=0.318 5$MC=0.0879 13                                  
+242PUS G  NC=0.0242 4$OC=0.00573 9$PC=0.000942 14$QC=9.21E-6 13                 
+242PU  G 382.8      2 26     21                                                 
+242PU  G 689.0      2 100    19 (E1)                   0.0078511                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00635 9$LC=0.001133 16$MC=0.000271 4                             
+242PUS G  NC=7.34E-5 10$OC=1.811E-5 25$PC=3.37E-6 5$QC=2.032E-7 28              
+242PU  L 1478.5     4 9-                                                    C   
+242PUX L XREF=C$                                                                
+242PU  G 201.4      3 30     11 (E2)                   0.832  13                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.1489 21$LC=0.497 8$MC=0.1380 21                                  
+242PUS G  NC=0.0379 6$OC=0.00898 14$PC=0.001470 23$QC=1.228E-5 18               
+242PU  G 700.7      4 100    91                                                 
+242PU  G 961.4      4 44     13 (E1)                   0.00434 6                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00353 5$LC=0.000610 9$MC=0.0001456 20                            
+242PUS G  NC=3.94E-5 6$OC=9.75E-6 14$PC=1.827E-6 26$QC=1.148E-7 16              
+242PU  L 1501                                                                   
+242PUX L XREF=D                                                                 
+242PU  L 1517.6    1 (1-)                                                       
+242PUX L XREF=B                                                                 
+242PU cL J$|g's to 0+,2+. The ratio of reduced transition intensities           
+242PU2cL of 1517.6 and 1473.1 gammas is in agreement with the Alaga rule        
+242PU3cL for K=0, J|p=1-.                                                       
+242PU  G 1473.1    1 100     3                                                  
+242PU  G 1517.6    1 53      3                                                  
+242PU  L 1577.9     4(11-)                                                  E   
+242PUX L XREF=C$                                                                
+242PU  G 219.2      3 100    37 (E2)                   0.609   9                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.1313 19$LC=0.348 5$MC=0.0963 15                                  
+242PUS G  NC=0.0265 4$OC=0.00627 10$PC=0.001031 16$QC=9.76E-6 14                
+242PU  G 800.1      2 84     16                                                 
+242PU  L 1613                                                                   
+242PUX L XREF=D                                                                 
+242PU  L 1638                                                                   
+242PUX L XREF=D                                                                 
+242PU  L 1650        (3-)                                                       
+242PUX L XREF=D                                                                 
+242PU cL J$Proposed by 1972El08 from (d,d') data. Assignment is uncertain       
+242PU cL $B(E3)=0.36 {I6} was extracted by 1972El08 from the (d,d')             
+242PU2cL cross section.                                                         
+242PU  L 1683                                                                   
+242PUX L XREF=D                                                                 
+242PU  L 1701                                                                   
+242PUX L XREF=D                                                                 
+242PU  L 1724.9     4 11-                                                   C   
+242PUX L XREF=C$                                                                
+242PU  G 246.4      2 20      8 (E2)                   0.403   6                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.1086 15$LC=0.2144 31$MC=0.0592 9                                 
+242PUS G  NC=0.01625 23$OC=0.00386 6$PC=0.000638 9$QC=7.19E-6 10                
+242PU  G 640.9      3 100    70 (E1)                   0.0089713                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00725 10$LC=0.001303 18$MC=0.000312 4                            
+242PUS G  NC=8.44E-5 12$OC=2.083E-5 29$PC=3.87E-6 5$QC=2.309E-7 32              
+242PU  G 947.1      2 49     12 (E1)                   0.00445 6                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00362 5$LC=0.000627 9$MC=0.0001496 21                            
+242PUS G  NC=4.05E-5 6$OC=1.001E-5 14$PC=1.877E-6 26$QC=1.177E-7 16             
+242PU  L 1733.4     4 13-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 266.6      2 100    46 (E2)                   0.309   4                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0950 13$LC=0.1560 22$MC=0.0429 6                                 
+242PUS G  NC=0.01178 17$OC=0.00280 4$PC=0.000466 7$QC=5.90E-6 8                 
+242PU  G 301.7      2 30     20                                                 
+242PU  G 649.4      2 93     16 (E1)                   0.0087612                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00708 10$LC=0.001270 18$MC=0.000304 4                            
+242PUS G  NC=8.23E-5 12$OC=2.030E-5 28$PC=3.77E-6 5$QC=2.255E-7 32              
+242PU  L 1745.3    18                                                           
+242PUX L XREF=N$                                                                
+242PU  L 1776                                                                   
+242PUX L XREF=D                                                                 
+242PU  L 1817.4     4 16+                                                   A   
+242PUX L XREF=CG$                                                               
+242PU  G 385.7      2 100       (E2)                   0.1017 14                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0492 7$LC=0.0385 5$MC=0.01039 15                                 
+242PUS G  NC=0.00285 4$OC=0.000682 10$PC=0.0001165 16$QC=2.474E-6 35            
+242PU  L 1825.8    10(4+)                                                       
+242PUX L XREF=DNS                                                               
+242PU cL J$Fed from 2+,3+ by primary in (n,|g). |g to 6+                        
+242PU  G 1518.6       100                                                       
+242PU  L 1842.2     4(13-)                                                  E   
+242PUX L XREF=C$                                                                
+242PU  G 264.3      3 100    62 (E2)                   0.318   5                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0964 14$LC=0.1615 24$MC=0.0444 7                                 
+242PUS G  NC=0.01220 18$OC=0.00290 4$PC=0.000482 7$QC=6.03E-6 9                 
+242PU  G 758.2      3 65     16                                                 
+242PU  L 1871.4    3                                                            
+242PUX L XREF=B                                                                 
+242PU  G 1039.2    3 96      LE                                             &   
+242PU  G 1826.9    3 100     22                                                 
+242PU  L 1874.1    2                                                            
+242PUX L XREF=B                                                                 
+242PU  G 1093.5    1 100     9                                                  
+242PU  G 1874.5    3 22      5                                                  
+242PU  L 1885.9     4 (12+)                                                 D   
+242PUX L XREF=C$                                                                
+242PU  G 801.9      2 100    34                                                 
+242PU  G 1108.1     4 67     25                                                 
+242PU  L 1903.6     3                                                           
+242PUX L XREF=B                                                                 
+242PU  G 1123.1     2 45      9                                                 
+242PU  G 1859.2     3 100     5                                                 
+242PU  L 1949.8     2  (1,2+)                                                   
+242PUX L XREF=B                                                                 
+242PU cL J$|g's to 0+ and 2+.                                                   
+242PU  G 1905.1     2 37      4                                                 
+242PU  G 1949.9     2 100     4                                                 
+242PU  L 1969.9     2  (1,2+)                                                   
+242PUX L XREF=B                                                                 
+242PU cL J$|g's to 0+ and 2+.                                                   
+242PU  G 1925.4     2 43      5                                                 
+242PU  G 1969.9     2 100     5                                                 
+242PU  L 1995.7     4                                                       F   
+242PUX L XREF=C$                                                                
+242PU  G 911.7      3                                                           
+242PU  G 1217.9     3                                                           
+242PU  L 2000      CA                  3.5 NS    6                           M1 
+242PU2 L %SF=?                                                                  
+242PU cL %SF$Only SF decay observed.                                            
+242PU cL $Assignment: {+242}Pu(d,pn) excit 1974MeYP                             
+242PU cL T$From 1974MeYP. See 1975Me28 for a                                    
+242PU2cL review and systematics of fission isomer half-lives.                   
+242PU cL $T{-1/2} for SF isomer was calculated by 1972We09 (3.7 ns),            
+242PU2cL 1971Ba30 (30 ns). 1992Bh03 (3.5 ns).                                   
+242PU cL $T{-1/2} for |g emission was calculated by 1972We09 (3.4 |ms).         
+242PU2cL See also 1974Ba28.                                                     
+242PU cL E$Level energy has not been experimentally determined. The             
+242PU2cL calculated energy of E|?2000 is given here as the level's expected     
+242PU3cL approximate location. Energy of the lowest level in the                
+242PU4cL second minimum of the double-humped nuclear potential                  
+242PU5cL was calculated by several authors using various methods:               
+242PU6cL E=2.2 MeV (1970AlZT), 2.2 MeV (1971Ba30), 2.6 MeV (1971Pa33),          
+242PU7cL 2.0 MeV (1972Ma11), 2.0 MeV (1972We09), 2.1 MeV (1992Bh03).            
+242PU  L 2000+X    AP                  28 NS                                 M2 
+242PU2 L %SF=?                                                                  
+242PU cL %SF$Only SF decay observed.                                            
+242PU cL T$T{-1/2}=50 ns {I30} was measured by 1969La14 in                      
+242PU2cL {+241}Pu(13-MeV d,p) reaction. This value was reevaluated by 1970Po01  
+242PUxcL as T{-1/2}=28 ns.                                                      
+242PU cL E$From T{-1/2}-systematics of SF isomers in even Pu isotopes,          
+242PU2cL 1975Me28 suggested that this isomer is a level lying higher than       
+242PU3cL the 3.5-ns isomer in the second minimum of the double-humped nuclear   
+242PU4cL potential.                                                             
+242PU  L 2013.4     4 13-                                                   C   
+242PUX L XREF=C$                                                                
+242PU  G 288.5      2 32     30 (E2)                   0.2392 34                
+242PU2 G FLAG=A$                                                                
+242PU2 G FLAG=Z                                                                 
+242PUS G  KC=0.0828 12$LC=0.1141 16$MC=0.0313 4                                 
+242PUS G  NC=0.00859 12$OC=0.002044 29$PC=0.000342 5$QC=4.86E-6 7               
+242PU  G 929.4      2 100    18 (E1)                   0.00460 6                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00374 5$LC=0.000649 9$MC=0.0001548 22                            
+242PUS G  NC=4.19E-5 6$OC=1.036E-5 15$PC=1.942E-6 27$QC=1.215E-7 17             
+242PU  L 2040.6     4 15-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 223.2      4 8.3    47                                                 
+242PU  G 307.2      2 100    34 (E2)                   0.1965 28                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0740 10$LC=0.0895 13$MC=0.02445 35                               
+242PUS G  NC=0.00671 10$OC=0.001599 23$PC=0.000268 4$QC=4.18E-6 6               
+242PU  G 608.9      2 36      6 (E1)                   0.0098714                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00797 11$LC=0.001440 20$MC=0.000345 5                            
+242PUS G  NC=9.34E-5 13$OC=2.303E-5 32$PC=4.27E-6 6$QC=2.530E-7 35              
+242PU  L 2091.8    20                                                           
+242PUX L XREF=NS                                                                
+242PU  G 941.1        100                                                      ?
+242PU  L 2147.7     5(15-)                                                  E   
+242PUX L XREF=C$                                                                
+242PU  G 305.35     3 580    LT                                                 
+242PU  G 716.0      4 100    29                                                 
+242PU  L 2170.8     4 (14+)                                                 D   
+242PUX L XREF=C$                                                                
+242PU  G 284.9      3 100    54 (E2)                   0.249   4                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0846 12$LC=0.1199 18$MC=0.0329 5                                 
+242PUS G  NC=0.00903 13$OC=0.002148 31$PC=0.000359 5$QC=5.01E-6 7               
+242PU  G 739.1      2 67     20 (M1+E2)                0.06    4                
+242PU2 G FLAG=C$                                                                
+242PU2 G FLAG=Y$                                                                
+242PUS G  KC=0.049 33$LC=0.011 5$MC=0.0026 13                                   
+242PUS G  NC=7.0E-4 35$OC=1.7E-4 9$PC=3.3E-5 17$QC=1.9E-6 13                    
+242PU  G 1086.8     2 80     27 (E2)                   0.0105615                
+242PU2 G FLAG=A$                                                                
+242PU2 G FLAG=Z$                                                                
+242PUS G  KC=0.00795 11$LC=0.001947 27$MC=0.000486 7                            
+242PUS G  NC=0.0001322 19$OC=3.25E-5 5$PC=5.98E-6 8$QC=3.08E-7 4                
+242PU  L 2237.5     4 18+                                                   A   
+242PUX L XREF=CG$                                                               
+242PU  G 420.1      2 100       (E2)                   0.0811 11                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0422 6$LC=0.0286 4$MC=0.00766 11                                 
+242PUS G  NC=0.002098 30$OC=0.000503 7$PC=8.66E-5 12$QC=2.048E-6 29             
+242PU  L 2246.0     4   (1,2+)                                                  
+242PUX L XREF=B                                                                 
+242PU cL J$|g's to 0+,2+.                                                       
+242PU  G 2201.6     5 100    25                                                 
+242PU  G 2246.0     5 75     25                                                 
+242PU  L 2289.5     4                                                       F   
+242PUX L XREF=C$                                                                
+242PU  G 293.8      3                                                           
+242PU  G 1205.5     3                                                           
+242PU  L 2331.3     2 (2+)                                                      
+242PUX L XREF=B                                                                 
+242PU cL J$Log{Ift}=4.9 for |b{+-} feeding from (1+) gives J|p=(0+,1+,2+).      
+242PU2cL 1979Ha26 proposed a 2+ two-proton state with configuration             
+242PU3cL (|p 5/2[642],|p 9/2[624])                                              
+242PU  G 813.6      1 100     9                                                 
+242PU  G 1550.9     1 29      5                                                 
+242PU  L 2339.5     4 15-                                                   C   
+242PUX L XREF=C$                                                                
+242PU  G 326.1      2 71     43 (E2)                   0.1640 23                
+242PU2 G FLAG=A$                                                                
+242PU2 G FLAG=Z$                                                                
+242PUS G  KC=0.0665 9$LC=0.0713 10$MC=0.01942 28                                
+242PUS G  NC=0.00533 8$OC=0.001271 18$PC=0.0002143 30$QC=3.63E-6 5              
+242PU  G 907.8      3 100    24 (E1)                   0.00479 7                
+242PU2 G FLAG=B$                                                                
+242PU2 G FLAG=X$                                                                
+242PUS G  KC=0.00390 5$LC=0.000677 9$MC=0.0001616 23                            
+242PUS G  NC=4.37E-5 6$OC=1.082E-5 15$PC=2.025E-6 28$QC=1.265E-7 18             
+242PU  L 2386.9     4 17-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 149.4      4 3.0    LT                                                 
+242PU  G 346.3      2 100    50 (E2)                   0.1376 19                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0597 8$LC=0.0569 8$MC=0.01546 22                                 
+242PUS G  NC=0.00424 6$OC=0.001013 14$PC=0.0001716 24$QC=3.16E-6 4              
+242PU  G 569.5      2 28     10 (E1)                   0.0112116                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.00903 13$LC=0.001644 23$MC=0.000395 6                            
+242PUS G  NC=0.0001068 15$OC=2.63E-5 4$PC=4.86E-6 7$QC=2.85E-7 4                
+242PU  L 2437.5    21                                                           
+242PUX L XREF=N                                                                 
+242PU  L 2483.6     4 (16+)                                                 D   
+242PUX L XREF=C$                                                                
+242PU  G 312.8      3 84     37 (E2)                   0.1860 27                
+242PU2 G FLAG=A$                                                                
+242PU2 G FLAG=Z$                                                                
+242PUS G  KC=0.0717 10$LC=0.0835 12$MC=0.02280 33                               
+242PUS G  NC=0.00626 9$OC=0.001491 22$PC=0.000251 4$QC=4.00E-6 6                
+242PU  G 666.2      4 47     16                                                 
+242PU  G 1051.9     2 100    21 (E2)                   0.0112216                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.00841 12$LC=0.002101 29$MC=0.000525 7                            
+242PUS G  NC=0.0001430 20$OC=3.51E-5 5$PC=6.45E-6 9$QC=3.27E-7 5                
+242PU  L 2494.7     5(17-)                                                  E   
+242PUX L XREF=C$                                                                
+242PU  G 347.0      3 1143   LT                                                 
+242PU  G 677.3      5 100    43                                                 
+242PU  L 2616.8     5                                                       F   
+242PUX L XREF=C$                                                                
+242PU  G 327.3      3                                                           
+242PU  G 1185.1     4                                                           
+242PU  L 2688.6     5 20+                                                   A   
+242PUX L XREF=CG$                                                               
+242PU  G 451.1      2 100       (E2)                   0.0676  9                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0371 5$LC=0.02243 32$MC=0.00598 8                                
+242PUS G  NC=0.001639 23$OC=0.000394 6$PC=6.81E-5 10$QC=1.755E-6 25             
+242PU  L 2707.1     5 17-                                                   C   
+242PUX L XREF=C$                                                                
+242PU  G 367.6      2 100    44                                                 
+242PU  G 889.7      4 37     10                                                 
+242PU  L 2769.3     5 19-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 382.4      3 100    29 (E2)                   0.1041 15                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0499 7$LC=0.0397 6$MC=0.01072 15                                 
+242PUS G  NC=0.00294 4$OC=0.000703 10$PC=0.0001201 17$QC=2.52E-6 4              
+242PU  G 531.8      2 55      9 (E1)                   0.0127818                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.01028 14$LC=0.001887 26$MC=0.000454 6                            
+242PUS G  NC=0.0001226 17$OC=3.02E-5 4$PC=5.57E-6 8$QC=3.23E-7 5                
+242PU  L 2806.8     4 (18+)                                                 D   
+242PUX L XREF=C$                                                                
+242PU  G 323.2      2 83     29 (E2)                   0.1685 24                
+242PU2 G FLAG=A$                                                                
+242PU2 G FLAG=Z$                                                                
+242PUS G  KC=0.0676 9$LC=0.0737 10$MC=0.02010 29                                
+242PUS G  NC=0.00551 8$OC=0.001315 19$PC=0.0002216 31$QC=3.71E-6 5              
+242PU  G 569.3      3                                                           
+242PU  G 989.4      2 100    21                                                 
+242PU  L 2879.2     5(19-)                                                  E   
+242PUX L XREF=C$                                                                
+242PU  G 384.5      3                                                           
+242PU  G 641.7      5                                                           
+242PU  L 2979.4     5                                                       F   
+242PUX L XREF=C$                                                                
+242PU  G 362.6      3                                                           
+242PU  G 1162.0     4                                                           
+242PU  L 3106.5     5 19-                                                   C   
+242PUX L XREF=C$                                                                
+242PU  G 399.4      3                                                           
+242PU  G 869.0      4                                                           
+242PU  L 3142.1     4 (20+)                                                 D   
+242PUX L XREF=C$                                                                
+242PU  G 335.3      2 46     26 (E2)                   0.1511 21                
+242PU2 G FLAG=A$                                                                
+242PU2 G FLAG=Z$                                                                
+242PUS G  KC=0.0633 9$LC=0.0642 9$MC=0.01747 25                                 
+242PUS G  NC=0.00479 7$OC=0.001144 16$PC=0.0001933 27$QC=3.40E-6 5              
+242PU  G 453.5      3                                                           
+242PU  G 904.6      2 100    23                                                 
+242PU  L 3167.2     5 22+                                                   A   
+242PUX L XREF=CG$                                                               
+242PU  G 478.6      2 100       (E2)                   0.0584  8                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0334 5$LC=0.01844 26$MC=0.00490 7                                
+242PUS G  NC=0.001341 19$OC=0.000323 5$PC=5.61E-5 8$QC=1.547E-6 22              
+242PU  L 3185.1     5 21-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 415.8      2 100    42 (E2)                   0.0833 12                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0429 6$LC=0.0296 4$MC=0.00794 11                                 
+242PUS G  NC=0.002176 31$OC=0.000522 7$PC=8.97E-5 13$QC=2.095E-6 29             
+242PU  G 496.5      2 28      5 (E1)                   0.0146020                
+242PU2 G FLAG=B$                                                                
+242PUS G  KC=0.01173 16$LC=0.002172 30$MC=0.000523 7                            
+242PUS G  NC=0.0001413 20$OC=3.47E-5 5$PC=6.40E-6 9$QC=3.67E-7 5                
+242PU  L 3297.5     6(21-)                                                  E   
+242PUX L XREF=C$                                                                
+242PU  G 418.3      3 100                                                       
+242PU  L 3374.3     6                                                       F   
+242PUX L XREF=C$                                                                
+242PU  G 394.9      4 100                                                       
+242PU  L 3509.5     5 (22+)                                                 D   
+242PUX L XREF=C$                                                                
+242PU  G 367.4      2                                                           
+242PU  G 820.9      3                                                           
+242PU  L 3538.5     5 21-                                                   C   
+242PUX L XREF=C$                                                                
+242PU  G 432.0      3                                                           
+242PU  G 849.9      4                                                           
+242PU  L 3631.0     5 23-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 445.9      2 100    50 (E2)                   0.0696 10                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0379 5$LC=0.02332 33$MC=0.00623 9                                
+242PUS G  NC=0.001705 24$OC=0.000410 6$PC=7.08E-5 10$QC=1.800E-6 25             
+242PU  G 463.8      3 14      5                                                 
+242PU  L 3667.7     5 24+                                                   A   
+242PUX L XREF=CG$                                                               
+242PU  G 500.5      2  100      (E2)                   0.0525  7                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0308 4$LC=0.01596 22$MC=0.00422 6                                
+242PUS G  NC=0.001156 16$OC=0.000279 4$PC=4.86E-5 7$QC=1.408E-6 20              
+242PU  L 3747.2     7(23-)                                                  E   
+242PUX L XREF=C$                                                                
+242PU  G 449.7      4  100                                                      
+242PU  L 3799.6     8                                                       F  ?
+242PUX L XREF=C$                                                                
+242PU  G 425.3      4  100                                                     ?
+242PU  L 3915.0     5 (24+)                                                 D   
+242PUX L XREF=C$                                                                
+242PU  G 405.5      3                                                           
+242PU  G 747.8      3                                                           
+242PU  L 4000.5     7 23-                                                   C   
+242PUX L XREF=C$                                                                
+242PU  G 462.0      4  100                                                      
+242PU  L 4103.6     5 25-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 435.9      3 5.0    25                                                 
+242PU  G 472.6      3 100    63 (E2)                   0.0603  8                
+242PU2 G FLAG=A$                                                                
+242PUS G  KC=0.0341 5$LC=0.01922 27$MC=0.00511 7                                
+242PUS G  NC=0.001399 20$OC=0.000337 5$PC=5.85E-5 8$QC=1.589E-6 22              
+242PU  L 4180.2     6 26+                                                   A   
+242PUX L XREF=CG$                                                               
+242PU  G 512.5      3 100                                                       
+242PU  L 4221.5     8(25-)                                                  E   
+242PUX L XREF=C$                                                                
+242PU  G 474.3      4 100                                                       
+242PU  L 4368.0     6 (26+)                                                 D   
+242PUX L XREF=C$                                                                
+242PU  G 453.0      3 100                                                       
+242PU  L 4599.4     7 27-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 495.8      4 100                                                       
+242PU  L 4691.2     8 28+                                                   A   
+242PUX L XREF=C$                                                                
+242PU  G 511.0      5 100                                                       
+242PU  L 5117.0     8 29-                                                   B   
+242PUX L XREF=C$                                                                
+242PU  G 517.6      4 100                                                       
+242PU  L 5201.2    11 30+                                                   A   
+242PUX L XREF=C$                                                                
+242PU  G 510.0      7 100                                                       
+242PU  L 5648.4     9 31-                                                   B   
+242PUZ L XREF=C$                                                                
+242PU  G 531.4      4 100                                                       
+242PU  L 5723.9    11 32+                                                   A   
+242PUX L XREF=C$                                                                
+242PU  G 522.7      4 100                                                       

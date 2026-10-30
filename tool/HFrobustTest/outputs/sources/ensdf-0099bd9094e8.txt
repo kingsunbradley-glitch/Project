@@ -1,0 +1,45 @@
+257DB    261BH A DECAY                 2010HE11                  13NDS    201309
+257DB  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+257DB2 H CUT=1-Mar-2012$                                                        
+257DB D  Modified by E. Browne (April, 2012)                                    
+257DB c  {+261}Bh produced by the {+209}Bi({+54}Cr,2n), E=271 MeV, nuclear      
+257DB2c  reaction bombarding targets on a rotating wheel. Evaporation residues  
+257DB3c  were detected with position-sensitive silicon detectors, alpha         
+257DB4c  particles with silicon detectors, and |g rays with a germanium clover  
+257DB5c  detector of four crystals. Measured E|g, x rays, |a|g coin, half-lives,
+257DB6c  alpha-decay branching ratios. Detected Db K| x ray at 136.5-, 138.5-,  
+257DB7c  and a |g ray at 225.3 keV in |a|g coin measurements. No evidence for an
+257DB8c  isomer in {+261}Bh was found.                                          
+261BH  P 0.0          (5/2-)           11.8 MS   +39-24         10502     50    
+261BH cP QP        From 2011AuZZ.                                               
+261BH cP J         Predicted configuration=5/2-[512]                            
+261BH cP T         From 2010He11                                                
+257DB  L 0.0          (9/2+)           2.3 S     2                              
+257DB cL J         Predicted configuration=9/2+[624]                            
+257DB cL T         From 2009He20. Other values: 1.5 s {I+9-4} (2010He11);       
+257DB2cL 1.82 s {I+27-21} (2008Ga25); 1.50 s {I+19-15} (2001He35);              
+257DB3cL Others: 1999He11, 1989Mu09                                             
+257DB  L 250       AP (7/2-)                                                    
+257DB cL J         Predicted configuration=7/2-[514]                            
+257DB  G 250       AP          (E1)                                            S
+257DB cG E         E|g=225.3 keV observed in |a|g coin measurement may be       
+257DB2cG transition from 7/2- to 9/2+. E|g|?250 keV used here.                  
+257DB  L 370       AP (1/2-)           0.67 S    6                           M  
+257DB cL J         Predicted configuration=1/2-[521]                            
+257DB cL T         From 2009He20. Other values: 0.36 s {I+22-9} (2010He11);     
+257DB2cL 0.58 s {I+13-9} (2008Ga25); 0.76 s {I+15-11} (2001He35).               
+257DB cL E         Based on EL(5/2-)|?600 keV and EL(5/2-) - EL(1/2-)|?230      
+257DB2cL keV, using an estimated 70 keV for E(ce) of the 470-keV (3/2-) to      
+257DB3cL 370- keV (1/2-) expected |g-ray transition.                            
+257DB  L 470       AP (3/2-)                                                    
+257DB cL E$Predicted from theory: 3/2 member of 1/2-[521] rotational band.      
+257DB  G 100       AP          [M1]                                            S
+257DB  L 600       AP (5/2-)                                                    
+257DB cL J         Predicted configuration=5/2-[512]                            
+257DB cL E         Estimated from Q(|a)=10502 keV (2011AuZZ) and E|a=9900-10400 
+257DB2cL keV to this level.                                                     
+257DB  A 10.0E3    AP 100                                                       
+257DB  G 160       AP          [M1]                                            S
+257DB2 G FL=470                                                                 
+257DB  G 230       AP          [E2]                                            S
+257DB  G 350       AP          [M1]                                            S

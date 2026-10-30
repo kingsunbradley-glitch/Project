@@ -1,0 +1,44 @@
+201FR    ADOPTED LEVELS, GAMMAS                                  23NDS    202212
+201FR  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 187, 355 (2023)$CUT=20-Sep-2022$       
+201FR  Q -8348     22 10620  30 -300   11 7519   4     2021WA16                 
+201FR  XA205AC A DECAY                                                          
+201FR  XB(HI,XNG)                                                               
+201FR DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+201FR PN                                                                     6  
+201FR  L 0             9/2-            63 MS     4                              
+201FR2 L XREF=AB                                                                
+201FR2 L %A AP 100                                                              
+201FR cL J$Favored |a decay to {+197}At (J|p=(9/2-),2018Cu02) and subsequent    
+201FR2cL favored |a decay to {+193}Bi (J|p=9/2-,2016Ba42)                       
+201FR cL T$Weighted average of 64 ms {I3} (2014Ka23), 53 ms {I4} (2005Uu02), and
+201FR2cL 67 ms {I3} (2005De01). Others: 48 ms {I15} (1980Ew03) and              
+201FR3cL 69 ms {I+16-11} (1996En01).                                            
+201FR cL $E|a1=7369 keV {I5} (2014Ka23); E|a1=7369 keV {I8}, correlated with    
+201FR2cL E|a2({+197}At)=6959 keV {I6} (2005Uu02); E|a1=7379 keV {I7}            
+201FR3cL (2005De01); E|a1=7361 keV {I7}, correlated with                        
+201FR4cL E|a2({+197}At)=6956 keV {I5} (1996En01); E|a1=7388 keV {I15} (1980Ew03)
+201FR cL CONF$|p h{-9/2}{++1}                                                   
+201FR  L 129       10   1/2+             37 MS   +14-8                       M1 
+201FR2 L XREF=B                                                                 
+201FR2 L %A=100                                                                 
+201FR cL E$From 2021Ko07                                                        
+201FR cL J$Favored |a decay to {+197m}At (J|p=1/2+,2018Cu02) and subsequent     
+201FR2cL favored |a decay to {+193m}Bi (J|p=1/2+,2016Ba42)                      
+201FR cL T$From |a(t) in  2020Au01 (14 |a1-|a2-|a3 correlated events).          
+201FR2cL Others: 8 ms {I+12-3} (2014Ka23) and 19 ms {I+19-6} (2005Uu02)         
+201FR cL $E|a1=7457 keV {I9} (2020Au01); E|a1=7445 keV {I8} correlated with     
+201FR2cL E|a2({+197}At)=6698 keV {I16} (2014Ka23); E|a1=7454 keV {I8} (2005Uu02)
+201FR cL CONF$|p s{-1/2}{+-1}                                                   
+201FR  L 289.5     4   13/2+            720 NS    40                         M2 
+201FR2 L XREF=B                                                                 
+201FR2 L %IT=100                                                                
+201FR cL E$From E|g in 2020Au01                                                 
+201FR cL J$289.5|g M2 to 9/2-; systematics in the region                        
+201FR cL T$From ce(t) in 2020Au01. Others: 0.7 |ms {I+5-2} (2014Ka23)           
+201FR cL CONF$|p i{-13/2}{++1}                                                  
+201FR  G 289.5     4  100       M2                     2.60    4                
+201FRB G BM2W=0.172 +11-9                                                       
+201FRS G  KC=1.899 28$LC=0.524 8$MC=0.1321 20                                   
+201FRS G  NC=0.0350 5$OC=0.00779 12$PC=0.001223 18$QC=6.33E-5 9                 
+201FR cG E,RI$From  2020Au01                                                    
+201FR cG M$From K/LMN+=3.0 {I9} in 2020Au01                                     

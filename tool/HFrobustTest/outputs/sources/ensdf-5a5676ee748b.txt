@@ -1,0 +1,46 @@
+229PU    ADOPTED LEVELS                                          26NDS    202601
+229PU  H TYP=FUL$AUT=F.G. KONDEV, J.K. TULI and E. BROWNE$                      
+229PU2 H CIT=NDS 208, 397 (2026)$CUT=23-Oct-2025$                               
+229PU  Q -4.79E3   12 6780   60 3720   SY 7600   60    2021WA16                 
+229PU cQ $|DS(p)=120 (syst,2021Wa16)                                            
+229PU cQ $S(2n)=15520 {I120} (syst), S(2p)=6230 {I60}, Q(|e)=3590 {I120},       
+229PU2cQ Q(|ep)=890 {I60} (2021Wa16)                                            
+229PU c  2010Kh06: {+229}Pu was produced in |a decay of {+233}Cm following      
+229PU2c  {+237}Cf |a decay. The latter was produced in {+204}Pb({+36}S,3n)      
+229PU3c  reaction with E({+36}S)=163.6, 170.0, 172.6, 173.0 and 174.3 MeV       
+229PU4c  provided by the UNILAC accelerator at GSI. An isotopically enriched    
+229PU5c  (>99%) {+204}Pb target was used. Evaporation residues (ERs) were       
+229PU6c  separated from the primary beam and target-like ions by the velocity   
+229PU7c  filter SHIP and were implanted into a position-sensitive 16-strip Si   
+229PU8c  detector (PSSD). A box of six Si detectors surrounded the PSSD to      
+229PU9c  detect escape |a and SF events. A Ge clover detector was mounted behind
+229PUac  the PSSD for detecting X and |g rays. Measured Er-|a|a(t) correlations 
+229PU c  2002CaZU, 2002CaZZ: {+229}Pu was produced in {+198}Pt({+40}Ar,5n)      
+229PU2c  reaction with E({+40}Ar)=208 MeV provided by the UNILAC accelerator    
+229PU3c  at GSI. An isotopically enriched (95.7%) {+198}Pt target was used.     
+229PU4c  Er were separated from the primary beam and target-like ions by        
+229PU5c  the velocity filter SHIP and were implanted into a position-sensitive  
+229PU6c  Si detector (PSSD). Measured Er-|a|a(t) correlations.                  
+229PU c  1994An02: {+229}Pu was produced in {+208}Pb({+26}Mg,5n) reaction with  
+229PU2c  E({+26}Mg)=145 MeV provided by the U400 Cyclotron of the FLNR, JINR,   
+229PU3c  Dubna. An isotopically enriched (98.7%) {+208}Pb target was used.      
+229PU4c  Er were separated from the primary beam and target-like ions by the    
+229PU5c  VASSILISSA mass separator and were implanted into a position-sensitive 
+229PU6c  Si detector (PSSD). Measured Er-|a|a(t) within 200 ms correlation-time 
+229PU7c  window                                                                 
+229PU  XA233CM A DECAY                                                          
+229PU  L 0.0           (3/2+)          88 S      +12-6                          
+229PUX L XREF=A                                                                 
+229PU2 L %A=50 20 (2010Kh06) $ %EC+%B+=50 20 (2010Kh06) $ %SF<7 (2010Kh06)      
+229PU cL J$From 2021Ko07 based on systematics (J|p=3/2+ for the N=135 isotones  
+229PU2cL {+227}U, {+225}Th and {+223}Ra)                                        
+229PU cL T$Weighted average of 90 s {I10} using Er-|a(t) in 2002CaZU and        
+229PU2cL 67 s {I+41-19} using Er-|a|a(t) in 2010Kh06. Others: >200 ms           
+229PU3cL (1994An02), 90 s {I+71-27} using Er-|a(t) in 2002CaZZ, and             
+229PU4cL 150 s {I+240-70} using Er-|a(t) in 2018Mi11                            
+229PU cL $Probable configuration=|n3/2[631]                                     
+229PU cL $E|a=7465 keV {I10} (2002CaZU, 2002CaZZ), 7457 keV {I20} (2010Kh06),   
+229PU2cL 7460 keV {I30} (1994An02) and 7480 keV {I30} (2018Mi11)                
+229PU  L 93        28                                                           
+229PUX L XREF=A                                                                 
+229PU cL E$From E(|a)=7345 keV {I20} and 7254 keV {I20} difference in 2010Kh06  

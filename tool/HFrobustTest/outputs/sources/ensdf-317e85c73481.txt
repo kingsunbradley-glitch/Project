@@ -1,0 +1,30 @@
+270MT    ADOPTED LEVELS                                          19NDS    201902
+270MT  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 70 (2019)$CUT=31-Jan-2019$       
+270MT  Q -3970     SY 6730   SY 1140   SY 10180  50    2017WA10                 
+270MT cQ $Estimated uncertainties (2017Wa10): |DQ(|b{+-})=180, |DS(n)=490,      
+270MT2cQ |DS(p)=210.                                                            
+270MT cQ $S(2n)=14580 {I290}, S(2p)=4670 {I420}, Q(|ep)=1940 {I410}             
+270MT2cQ (syst, 2017Wa10)                                                       
+270MT cQ $Other Q(|a)=10.30 MeV {I11} from E|a=10.15 MeV {I11} (from            
+270MT2cQ unweighted average of E|a=10.03 MeV {I7} (2004Mo42) and 10.26 MeV {I7} 
+270MT3cQ (2012Mo25)).                                                           
+270MT c  2004Mo42, 2007Mo43, 2012Mo25: {+270}Mt produced as granddaughter of    
+270MT2c  {+278}Nh, which was formed in {+209}Bi({+70}Zn,n) E=349 MeV reaction   
+270MT3c  at RIKEN. See {+278}Nh Adopted Levels for details of three correlated  
+270MT4c  decay chains observed.                                                 
+270MT c                                                                         
+270MT c  For theoretical studies, consult Nuclear Science References (NSR)      
+270MT2c  database at NNDC, BNL for 29 primary references dealing with the       
+270MT3c  half-lives and other aspects of nuclear structure in this mass region  
+270MT  XA274RG A DECAY (12 MS)                                                  
+270MT  L 0                             0.48 S    +66-18                         
+270MT2 L %A AP 100                                                              
+270MTX L XREF=A                                                                 
+270MT cL E$the observed |a activity is assumed to correspond to the ground      
+270MT2cL state of {+270}Mt                                                      
+270MT cL J$4+,7+ from |W(proton)=11/2+, |W(neutron)=3/2+ (1997Mo25, theory)     
+270MT cL T$from mean lifetime=0.69 s {I+95-26} (2015Mo25 review article, based  
+270MT2cL on observation of three correlated decay chains in experiments at      
+270MT3cL RIKEN: 2004Mo42, 2007Mo43 and 2012Mo25).                               
+270MT cL $E|a=10.03 MeV {I7} (2004Mo42), 10.26 MeV {I7} (2012Mo25) from |a      
+270MT2cL decay of {+270}Mt. Unweighted average=10.15 MeV {I11} (evaluator)      

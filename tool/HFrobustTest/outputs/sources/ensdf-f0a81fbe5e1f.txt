@@ -1,0 +1,32 @@
+260DB    ADOPTED LEVELS                                          99NDS    199908
+260DB  H TYP=FUL$AUT=Y. A. AKOVALI$CIT=NDS 87, 301 (1999)$CUT=1-Oct-1998$       
+260DB  Q -2.88E3   SY6.39E3  SY1.98E3  SY9.50E3  SY    2012WA38                 
+260DB cQ $Note: Current evaluation has used the following Q record              
+260DB2cQ -2802     syst 6483   syst 1887   syst 9371   72    1995Au04           
+260DB t  Assignment: {+243}Am({+22}Ne,5n) excit   (1968Fl09,1970FlZY,1971Dr01)  
+260DB2t            {+249}Cf({+15}N,4n), p {+256}Lr  (1970Gh02,1977Be36)         
+260DB3t                                                                         
+260DB  XA264BH A DECAY                                                          
+260DB  L 0.0                           1.52 S    13                             
+260DB cL T         the measured half-lives are 1.52 s {I13} (1977Be36),         
+260DB2cL 1.4 s {I+6-3} (1971Dr01), 1.6 s {I3} (1970Gh02).                       
+260DB2 L %A GE 90.4 6 $ %SF LE 9.6 6 $ %EC<2.5                                  
+260DB cL $From |a counts and spontaneous-fission events, 1977Be36               
+260DB2cL obtained %|a=90.4 {I6}, %SF=9.6 {I6}. Most of the interfering          
+260DB3cL longer-lived SF events were subtracted. Because of some uncertainty in 
+260DB4cL SF events' origin, as pointed out by 1977Be36, this SF branching       
+260DB5cL should be considered an upper limit (following |a and |e decays, the   
+260DB6cL granddaughter {+256}No also decays by spontaneous fission; if          
+260DB7cL {+260}Db |e decays, then the observed SF events are expected to        
+260DB8cL include contributions from the SF decay of {+260}Rf, too).             
+260DB9cL The upper limit for |e decay was determined by                         
+260DB2cL 1977Be36 from absence of Lawrencium x-rays in their spectrum. Other    
+260DB3cL measurements: %SF<20, %|e<20 (1970Gh02).                               
+260DB cL $Theoretical calculations of 1997Mo25 yield T{-1/2}(|a)=4.07 s,        
+260DB2cL T{-1/2}(|b)>100 s.                                                     
+260DB cL $See 1985Lo17 for calculated SF half-life.                             
+260DB cL $For calculated fission barriers, see, for example, 1985Cw01.          
+260DB  L 200       AP                                                           
+260DB2 L XREF=A                                                                 
+260DB  L 346       AP                                                           
+260DB2 L XREF=A                                                                 

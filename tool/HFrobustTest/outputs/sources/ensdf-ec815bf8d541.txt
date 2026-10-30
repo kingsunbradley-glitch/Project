@@ -1,0 +1,124 @@
+230TH    234U A DECAY                                            24NDS    202408
+230TH  H TYP=FUL$AUT=C. Morse$CIT=NDS 197, 259 (2024).$CUT=26-Sep-2023$         
+230TH cA E$Reported measured energies of 1955Go57 and 1967Ba43 have been        
+230TH2cA increased by 5.9 and 0.4 keV, respectively, as recommended by          
+230TH3cA 1991Ry01, because of changes in calibration energies. Other            
+230TH4cA measurements: 1953As40, 1953Va03, 1957Ha08, 1984Ac01, 1996Sa42.        
+230TH cA $Number in parentheses following I|a, E|a gives energy of daughter     
+230TH2cA level.                                                                 
+230TH cG E$Except where noted, energies given as recommended by 1986LoZT.       
+230TH2cG These E|g's were obtained from weighted average of the values          
+230TH3cG measured by 1966Ah02, 1972Sc01, 1973Ta25, 1974HeYW, and 1984Va41.      
+230TH4cG Other measurements: 1951Be97, 1953As40, 1971Cl03, 1963Bj03.            
+230TH cG M$From Adopted levels. Multipolarities in square brackets are from     
+230TH2cG the level scheme.                                                      
+230TH cG RI(A)$Recommended by 1986LoZT from measurements of 1966Ah02,           
+230TH2cG 1974HeYW, and 1984Va41.                                                
+230TH cG RI(B,D)$Photon intensity per 100 |a decays, measured by 1963Bj03.      
+230TH cG RI(B)$I|g(455|g+508|g)=4|*10{+-5} {I1} was measured;                   
+230TH2cG I|g(455|g)=2.5|*10{+-5} {I7}, I|g(508|g)=1.5|*10{+-5} {I4} are         
+230TH3cG calculated from intensity ratio of I|g(508|g)/I|g(455|g)=0.60 {I4},    
+230TH4cG an average value of measured ratios in {+230}Pa and {+230}Ac decays.   
+230TH cG E(S,E)$Transition was not observed in {+234}U |a decay; E|g is from    
+230TH2cG {+230}Ac |b{+-} decay.                                                 
+230TH cG RI(S)$Calculated from I|g(503|g):I|g(624|g):I|g(678|g)= 77 {I18}:82    
+230TH2cG {I9}:100 {I10}, as observed in {+230}Ac |b{+-} decay, and the |a       
+230TH3cG population of 7|*10{+-6}%                                              
+230TH cL E,J$Adopted values.                                                    
+230TH cA HF$The nuclear radius parameter r{-0}({+230}Th)=1.52224 {I49} is       
+230TH2cA deduced by assuming HF=1.0 for the ground-state to ground-state alpha  
+230TH3cA decay branch.                                                          
+230TH cL T$From 1965Ne03.                                                       
+230TH DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+234U   P 0.0          0+               2.455E+5 Y 6              4857.5   7     
+234U  cP T$Recommended in 1989Ho24.  Note that 2016Vi01 questions the           
+234U 2cP assumption of secular equilibrium in 1989Ho24 and instead proposes     
+234U 3cP 244,550<T{-1/2} (y)<247,770 (2|s confidence level).                    
+234U  cP QP$From 2021Wa16                                                       
+230TH  N 1.0          1.0       1.0                                             
+230TH PN                                                                     3  
+230TH  L 0.0          0+                                                        
+230TH  A 4774.6    1471.38   161.000                                            
+230TH cA E$recommended by 1991Ry01 from measured energies of 4774.2 {I10}       
+230TH2cA (1955Go57) and 4777.2 {I20} (1967Ba43).                                
+230TH cA IA$from 1987Bo25 and 1984Va41. Other measured I|a's: 72% (1955Go57),   
+230TH2cA 72.5% {I30} (1960Ba44), 73% (1961Ko11).                                
+230TH  L 53.20     2  2+                0.354 NS  9                             
+230TH  G 53.20     2  0.123  2  E2                      227.9 32                
+230THF G FLAG=A                                                                 
+230THS G LC=166.8 24$MC=45.7 6$NC=12.22 17$OC=2.72 4$PC=0.448 6$QC=0.001240 17  
+230TH cG $I|g(53.2|g)=0.156% {I6} was measured by 1990Ko40. Intensities of      
+230TH2cG transitions feeding the ground-state sum to                            
+230TH3cG I(|g+ce)(53.20|g)+I(4722.7|a)=100.1% {I5} with I|g=0.123 {I2};         
+230TH4cG whereas I|g=0.156 {I6} yields 107.9% {I15}.                            
+230TH cG M$|a(L)exp=130 {I65} by (|a)(L| x ray)/(|a)(|g) (1957Vo26). See also   
+230TH2cG {+230}Pa |e decay.                                                     
+230TH  A 4722.4    1428.42   9 1.076   8                                        
+230TH cA E$recommended by 1991Ry01 from measured energies: 4722.7 {I10}         
+230TH2cA (1955Go57), 4724.5 {I20} (1967Ba43).                                   
+230TH cA IA$from 1987Bo25 and 1984Va41. Other measured I|a's: 28% (1955Go57),   
+230TH2cA 27.5% {I15} (1960Ba44), 27% (1961Ko11).                                
+230TH  L 174.10    3  4+                0.166 NS  5                             
+230TH  G 120.90    2  0.0342 5  E2                      4.94  7  0.21     3     
+230THF G FLAG=A                                                                 
+230THS G KC=0.257 4$LC=3.42 5$MC=0.940 13$NC=0.2520 35$OC=0.0562 8$             
+230THS G PC=0.00936 13$QC=5.21E-5 7                                             
+230TH  A 4603.5    150.20    1 21.1    11                                       
+230TH cA E$from E|a(0)=4774.6 and level energy. The measured relative energies  
+230TH2cA are: E|a(0)-E|a(174)=170 (1960Ba44), 170 {I8} (1961Ko11).              
+230TH cA IA$from 1987Bo25 and 1984Va41. Other measured intensities: I|a|<0.37%  
+230TH2cA {I11} (1960Ba44), I|a=0.3% (1961Ko11).                                 
+230TH  L 508.16    5  1-                                                        
+230TH  G 454.95    5  2.5E-5 7  E1                     0.0152721 2.5E-5   7     
+230THF G FLAG=B                                                                 
+230THS G KC=0.01237 17$LC=0.002202 31$MC=0.000525 7$NC=0.0001390 19$            
+230THS G OC=3.25E-5 5$PC=6.15E-6 9$QC=5.10E-7 7                                 
+230TH cG E$from {+230}Pa |e decay. E|g=460 was measured by 1963Bj03 in {+234}U  
+230TH2cG |a decay by |a|g coincidences.                                         
+230TH  G 508.20    5  1.5E-5 4  E1                     0.0122217 1.5E-5   4     
+230THF G FLAG=B                                                                 
+230THS G KC=0.00992 14$LC=0.001743 24$MC=0.000415 6$NC=0.0001099 15$            
+230THS G OC=2.57E-5 4$PC=4.88E-6 7$QC=4.13E-7 6                                 
+230TH cG E$from {+230}Pa |e decay. E|g=510 was measured by 1963Bj03 in {+234}U  
+230TH2cG |a decay by |a|g coincidences.                                         
+230TH  A 4277.3    9 4E-5    1 287     72                                      S
+230TH cA E$from level adopted energy of 508.15 {I1} and E|a(0). This |a was     
+230TH2cA not observed.                                                          
+230TH cA IA$from level scheme.                                                  
+230TH  L 634.9     1  0+                                                        
+230TH  G 581.7     2  1.2E-5 5  E2                      0.03024  1.2E-5   5     
+230THF G FLAG=D                                                                 
+230THS G KC=0.02029 28$LC=0.00734 10$MC=0.001884 26$NC=0.000503 7$              
+230THS G OC=0.0001158 16$PC=2.093E-5 29$QC=1.089E-6 15                          
+230TH cG E$from {+230}Ac |b{+-} decay and {+230}Pa |e decay. E|g=585 was        
+230TH2cG measured by 1963Bj03 in {+234}U |a decay by |a|g coincidences.         
+230TH  G 634.9     2            E0                               1.4E-5   7    S
+230THF G FLAG=E                                                                 
+230TH cG E$measured in {+230}Pa |e decay. This transition was not observed in   
+230TH2cG {+234}U |a decay.                                                      
+230TH cG $Total ce intensity is expected to be about 1.4|*10{+-5}% from         
+230TH2cG I|g(581.8|g)/Ice(634|g) observed in {+230}Pa |e decay.                 
+230TH  A 4150.6    152.6E-5  9 39      14                                       
+230TH cA E$from level energy of 634.9 {I1} and E|a(0)=4774.6.                   
+230TH cA IA$from level scheme. I|a(635+678)=3.3|*10{+-5}% was obtained by       
+230TH2cA 1963Bj03 from (|a)(|g) and (|a)(ce) coincidences.                      
+230TH  L 677.6     1  2+                                                        
+230TH  G 503.5     2  0.79E-6AP [E2]                    0.04206  1.0E-6   AP   S
+230THF G FLAG=S                                                                 
+230THS G KC=0.0266 4$LC=0.01142 16$MC=0.00296 4$NC=0.000792 11$OC=0.0001813 25$ 
+230THS G PC=3.24E-5 5$QC=1.463E-6 21                                            
+230TH  G 624.4     1  0.84E-6AP E0+E2+M1                0.07  5  5.0E-6   AP   S
+230THF G FLAG=S                                                                 
+230THS G KC=0.06 4$LC=0.012 6$MC=0.0028 13$NC=7.5E-4 35$OC=1.8E-4 8$            
+230THS G PC=3.4E-5 17$QC=2.9E-6 19                                              
+230TH cG CC$deduced in {+230}Pa |e decay.                                       
+230TH  G 677.6     1  1.0E-6 AP [E2]                   0.0216930 1.0E-6   AP   S
+230THF G FLAG=S                                                                 
+230THS G KC=0.01533 21$LC=0.00475 7$MC=0.001204 17$NC=0.000322 5$OC=7.43E-5 10$ 
+230THS G PC=1.359E-5 19$QC=8.03E-7 11                                           
+230TH  A 4108.6    150.7E-5  AP63      AP                                       
+230TH cA E$from level energy of 677.6 {I1} and E|a(0)=4774.6 {I14}.             
+230TH2cA E|a(635+678)=4120 was measured by 1963Bj03.                            
+230TH cA IA$from I(4120|a)=3.3|*10{+-5}%, measured by 1963Bj03, for the |a's    
+230TH2cA populating the 635 and 678 levels, and deduced intensity of            
+230TH3cA I|a(635)=2.6|*10{+-5}%.                                                

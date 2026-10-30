@@ -1,0 +1,366 @@
+216FR    ADOPTED LEVELS, GAMMAS                                  26NDS    202603
+216FR  H TYP=FUL$AUT=C. Morse$CIT=NDS 209, 409 (2026)$CUT=5-Aug-2025$           
+216FR  Q -320      9  5418   8  3149   7  9174    3    2021Wa16                 
+216FR cQ $S(2n)=12213 {I9},  S(2p)=8228 {I5} (2021Wa16)                         
+216FR cL E$From least squares fit to E|g                                        
+216FR CL BAND(A)$s=+1, |p=-                                                     
+216FR CL BAND(a)$s=+1, |p=+                                                     
+216FR CL BAND(B)$s=-1, |p=+                                                     
+216FR CL BAND(b)$s=-1, |p=-                                                     
+216FR cL SEQ(C)$|ph{-9/2}{+5}|ng{-9/2}{+3} (1997Sh09)                           
+216FR cL SEQ(D)$|ph{-9/2}{+4}|pf{-7/2}|ng{-9/2}{+3} (1997Sh09)                  
+216FR cL SEQ(E)$|ph{-9/2}{+5}|ng{-9/2}{+2}|ni{-11/2} (1997Sh09)                 
+216FR cL T(M)$From 2022Ma16                                                     
+216FR cG E(G)$Uncertainty of 1 keV assigned during evaluation                   
+216FR cG M$Unless noted otherwise, references to DCO and IPCDO values are read  
+216FR2cG from graphical representations in 2018Pr03.                            
+216FR dG $Transition strength is calculated by Java-RULER (version 10-Jun-2025) 
+216FR DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+216FR  XA220AC A DECAY                                                          
+216FR  XB208PB(11B,3NG)                                                         
+216FR  L 0.0          (1-)              0.70 US   2                         C   
+216FRX L XREF=A                                                                 
+216FR2 L %A=100                                                                 
+216FR cL %A$Only |a decay has been observed (1996Li37)                          
+216FR cL J$HF=1.65 to (1-) (2020Au03)                                           
+216FR cL T$From 0.70 |ms {I2} (1970Bo13). Other: 2.0 |ms {I6} (2025Gu12).       
+216FR  L 133.30    10 (3-)              71 NS     5                         C   
+216FRX L XREF=A                                                                 
+216FR2 L %A<10 (2020Au03)                                                       
+216FR cL J$E2 |g to (1-)                                                        
+216FR cL T$from 1971EpZY                                                        
+216FR cL %A$Adopted following discussion in 2020Au03; see comments on |a-decay  
+216FR2cL branch in {+216}Fr |a decay (71 ns) dataset.                           
+216FR  G 133.3     1  100       E2                      2.65  4                 
+216FRS G KC=0.314 4$LC=1.717 25$MC=0.464 7$NC=0.1218 18$OC=0.0253 4$            
+216FRS G PC=0.00329 5$QC=1.302E-5 18                                            
+216FRB G BE2W=0.67 5                                                            
+216FR  L 141.60    20 (0-,1-,2-)                                            C   
+216FRX L XREF=A                                                                 
+216FR cL J$M1 |g to (1-) g.s.                                                   
+216FR  G 141.6     2  100       M1                      5.32  8                 
+216FRS G KC=4.29 6$LC=0.787 11$MC=0.1876 27$NC=0.0492 7$OC=0.01099 16$          
+216FRS G PC=0.001763 26$QC=9.85E-5 14                                           
+216FR  L 191.18    13 (5-)                                                  C   
+216FRX L XREF=A                                                                 
+216FR cL J$E2 |g to (3-); no |g to (1-) g.s.                                    
+216FR  G 57.9      1  100       E2                      118.3 19                
+216FRS G LC=87.2 14$MC=23.5 4$NC=6.16 10$OC=1.274 21$PC=0.1625 26$QC=0.000257 4 
+216FR  L 211.92    17                                                       D   
+216FRX L XREF=A                                                                 
+216FR  G 78.6      2  100                                                       
+216FR  L 219       8  (9-)              850 NS    30                        A   
+216FRX L XREF=B                                                                 
+216FR2 L %A=100 AP                                                              
+216FR cL E,J,T$From favored |a decay to (9-) state in {+212}At (2007Ku30).      
+216FR cL %A$Only |a decay has been observed.  While 2007Ku30 report only        
+216FR2cL %|a>0, %|a|?100 is adopted here to be consistent with 2020Au03.        
+216FR  L 226.09    13 (4-)                                                  C   
+216FRX L XREF=A                                                                 
+216FR cL J$M1 to (3-) and (5-) levels                                           
+216FR  G 34.9      3  5.4    AP (M1)                    61.5  18                
+216FRS G LC=46.6 14$MC=11.13 33$NC=2.92 9$OC=0.653 19$PC=0.1047 31$             
+216FRS G QC=0.00587 17                                                          
+216FR  G 92.8      1  100    14 M1                      3.50  5                 
+216FRS G LC=2.66 4$MC=0.634 9$NC=0.1661 24$OC=0.0371 5$PC=0.00596 9$            
+216FRS G QC=0.000333 5                                                          
+216FR  L 247.8     4                                                        D  ?
+216FRX L XREF=A                                                                 
+216FR  G 247.8     4                                                           ?
+216FR  L 249.40    16                                                       D   
+216FRX L XREF=A                                                                 
+216FR  G 37.4      3                                                            
+216FR  L 254.38    17 (1-,2,3-)                                             C   
+216FRX L XREF=A                                                                 
+216FR cL J$|g's to (1-) and (3-) levels                                         
+216FR  G 42.5      2  38     AP                                                ?
+216FR  G 121.0     2  100    18                                                 
+216FR  G 254.4     5  68     21                                                 
+216FR  L 290.42    16                                                       D   
+216FRX L XREF=A                                                                 
+216FR  G 64.3      1                                                            
+216FR  L 344.21    15                                                       E   
+216FRX L XREF=A                                                                 
+216FR  G 53.6      2  12.0   AP                                                 
+216FR  G 94.8      1  100    16                                                 
+216FR  G 118.2     2  54     14 (M1)                    8.90  13                
+216FRS G KC=7.16 11$LC=1.321 20$MC=0.315 5$NC=0.0826 12$OC=0.01846 27$          
+216FRS G PC=0.00296 4$QC=0.0001654 25                                           
+216FR  G 153.1     2  73     14                                                 
+216FR  L 349.25    23                                                       E   
+216FRX L XREF=A                                                                 
+216FR  G 137.3     2                                                            
+216FR  L 409.31    18                                                       E   
+216FRX L XREF=A                                                                 
+216FR  G 160.0     1  100       M1                      3.76  5                 
+216FRS G KC=3.03 4$LC=0.555 8$MC=0.1324 19$NC=0.0347 5$OC=0.00776 11$           
+216FRS G PC=0.001244 18$QC=6.95E-5 10                                           
+216FR  L 431       8  (10-)                                                 B   
+216FRX L XREF=B                                                                 
+216FR cL J$(M1+E2) to (9-)                                                      
+216FR cL $As noted in the {+208}Pb({+11}B,3n|g) dataset, there is an intensity  
+216FR2cL imbalance at this level.  Whether this indicates a mis-assignment or   
+216FR3cL additional unobserved transitions out of this level is unclear.        
+216FR  G 212.0     5            (M1+E2)                 1.1   6                 
+216FRL G FL=219                                                                 
+216FRS G KC=0.8 6$LC=0.238 14$MC=0.0599 10$NC=0.01572 27$OC=0.00340 11$         
+216FRS G PC=0.00050 6$QC=1.8E-5 14                                              
+216FR cG M$DCO suggests dipole, possibly with quadrupole mixture. Since a       
+216FR2cG significant M2 component is unlikely, and E1+M2 assignment would       
+216FR3cG be difficult to resolve with the rest of the level scheme, this        
+216FR4cG suggests (M1+E2).                                                      
+216FR  L 493.37    20                                                       E   
+216FRX L XREF=A                                                                 
+216FR  G 149.0     3  53     16                                                 
+216FR  G 203.6     5  16.7   AP                                                 
+216FR  G 243.7     2  100    22 M1                      1.156 16                
+216FRS G KC=0.932 13$LC=0.1696 24$MC=0.0404 6$NC=0.01059 15$OC=0.002367 34$     
+216FRS G PC=0.000380 5$QC=2.119E-5 30                                           
+216FR  G 267.8     3  100    22 M1                      0.890 13                
+216FRS G KC=0.718 10$LC=0.1304 19$MC=0.0311 4$NC=0.00814 12$OC=0.001820 26$     
+216FRS G PC=0.000292 4$QC=1.629E-5 23                                           
+216FR  L 532.11    20                                                       E   
+216FRX L XREF=A                                                                 
+216FR  G 123.3     3  38     10                                                 
+216FR  G 182.8     3  38     11                                                 
+216FR  G 187.8     2  100    21                                                 
+216FR  G 305.6     4  69     28                                                 
+216FRL G FL=226.09                                                              
+216FR  L 539.4     3                                                        E   
+216FRX L XREF=A                                                                 
+216FR  G 130.4     4  28     AP                                                 
+216FR  G 312.9     4  100    28 (M1)                    0.580 8                 
+216FRL G FL=226.09                                                              
+216FRS G KC=0.468 7$LC=0.0848 12$MC=0.02017 29$NC=0.00529 8$OC=0.001182 17$     
+216FRS G PC=0.0001897 27$QC=1.059E-5 15                                         
+216FR  L 550.85    20                                                       E   
+216FRX L XREF=A                                                                 
+216FR  G 206.7     2  59     15                                                 
+216FR  G 296.4     3  100    25 M1                      0.673 10                
+216FRS G KC=0.543 8$LC=0.0985 14$MC=0.02343 33$NC=0.00614 9$OC=0.001373 20$     
+216FRS G PC=0.0002203 31$QC=1.229E-5 18                                         
+216FR  G 301.4     3  64     21                                                 
+216FR  L 568.8     3                                                        E   
+216FRX L XREF=A                                                                 
+216FR  G 342.7     3  100    14 M1                      0.452 6                 
+216FRS G KC=0.365 5$LC=0.0660 9$MC=0.01570 22$NC=0.00412 6$OC=0.000920 13$      
+216FRS G PC=0.0001476 21$QC=8.24E-6 12                                          
+216FR  G 378       1  6      AP                                                 
+216FR  L 581.5     3                                                        E   
+216FRX L XREF=A                                                                 
+216FR  G 172.2     3  76     20                                                 
+216FR  G 327.0     6  61     AP                                                 
+216FR  G 390.2     5  100    38                                                 
+216FR  G 448.4     10 30     AP                                                 
+216FR  L 682       8  (11+)             9.6 NS    14                        b   
+216FRX L XREF=B                                                                 
+216FRF L FLAG=M                                                                 
+216FR cL J$E1 to (10-)                                                          
+216FR  G 250.7     5  100.00 17 E1                      0.05178                 
+216FRS G KC=0.0416 6$LC=0.00767 11$MC=0.001824 27$NC=0.000474 7$                
+216FRS G OC=0.0001035 15$PC=1.567E-5 23$QC=7.08E-7 10                           
+216FRB G BE1W=1.15E-6 +20-15                                                    
+216FR cG M$DCO ratio indicates dipole transition, while IPDCO indicates         
+216FR2cG electric character.                                                    
+216FR  G 463       1  1.63   10 (M2)                    0.579 9                 
+216FRL G FL=219                                                                 
+216FRF G FLAG=G                                                                 
+216FRS G KC=0.440 7$LC=0.1042 16$MC=0.0258 4$NC=0.00681 11$OC=0.001517 24$      
+216FRS G PC=0.000240 4$QC=1.272E-5 20                                           
+216FRB G BM2W=0.064 +12-9                                                       
+216FR cG M$DCO=1.10 {I9} from 2022Ma16 indicates quadrupole transition, while   
+216FR2cG consistency of the level scheme requires negative parity.              
+216FR  L 747       8  (11-)                                                 A   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (9-)                                                           
+216FR  G 527.7     19           E2                      0.03255                 
+216FRL G FL=219                                                                 
+216FRS G KC=0.02195 34$LC=0.00787 14$MC=0.00200 4$NC=0.000525 9$                
+216FRS G OC=0.0001130 20$PC=1.642E-5 29$QC=4.96E-7 8                            
+216FR cG M$|a{-K}(exp) indicates E2                                             
+216FR  L 982       8  (12+)                                                 a   
+216FRX L XREF=B                                                                 
+216FR cL J$E1 to (11-)                                                          
+216FR  G 235.0     19 100.0  5  E1                      0.060114                
+216FRS G KC=0.0483 11$LC=0.00899 22$MC=0.00214 5$NC=0.000556 14$                
+216FRS G OC=0.0001211 30$PC=1.83E-5 4$QC=8.15E-7 19                             
+216FR cG M$|a{-L}(exp) indicates E1                                             
+216FR  G 300.0     5  13.96  12 (M1+E2)                 0.40  25                
+216FRS G KC=0.30 23$LC=0.075 20$MC=0.019 4$NC=0.0049 11$OC=0.00107 26$          
+216FRS G PC=1.6E-4 5$QC=7.E-6 5                                                 
+216FR cG M$DCO indicates mixed dipole/quadrupole transition.  The IPDCO is      
+216FR2cG consistent with zero, and since a strong M2 component is unlikely,     
+216FR3cG M1+E2 is the most likely multipolarity.                                
+216FR  L 1043      8  (12-)                                                 B   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (10-)                                                          
+216FR  G 611.5     5            E2                     0.0233033                
+216FRS G KC=0.01651 23$LC=0.00509 7$MC=0.001280 18$NC=0.000336 5$OC=7.26E-5 10$ 
+216FRS G PC=1.072E-5 15$QC=3.67E-7 5                                            
+216FR cG M$DCO ratio indicates a quadrupole transition, while IPDCO indicates   
+216FR2cG electric character.                                                    
+216FR  L 1188      8  (13-)                                                 A   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (11-)                                                          
+216FR  G 206.66    19 16.56  13 E1                      0.081512                
+216FRS G KC=0.0652 9$LC=0.01237 18$MC=0.00295 4$NC=0.000765 11$OC=0.0001663 24$ 
+216FRS G PC=2.494E-5 35$QC=1.083E-6 15                                          
+216FR cG M$DCO indicates dipole transition. E2 character of the 442             
+216FR2cG (13{+-})|)(11{+-}) transition and E1 nature of 235-keV                 
+216FR3cG (12{++})|)(11{+-}) transition require electric character.              
+216FR  G 441.59    19 100.0  4  E2                      0.04997                 
+216FRS G KC=0.0313 4$LC=0.01389 20$MC=0.00358 5$NC=0.000939 13$OC=0.0002008 28$ 
+216FRS G PC=2.86E-5 4$QC=7.20E-7 10                                             
+216FR cG M$|a{-K}(exp) from 1990De12 indicates E2 transition.                   
+216FR  L 1231      8  (13+)                                                 b   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (11{++})                                                       
+216FR  G 549.1     5            E2                      0.02964                 
+216FRS G KC=0.02032 29$LC=0.00698 10$MC=0.001770 25$NC=0.000464 7$              
+216FRS G OC=0.0001000 14$PC=1.459E-5 21$QC=4.57E-7 6                            
+216FR cG M$DCO ratio indicates quadrupole transition, IPDCO indicates electric  
+216FR2cG character.                                                             
+216FR  L 1448      8  (14-)                                                 B   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (12{+-})                                                       
+216FR  G 216.8     5  2.79   7  (E1)                    0.072711                
+216FRS G KC=0.0583 9$LC=0.01097 17$MC=0.00261 4$NC=0.000679 10$OC=0.0001477 22$ 
+216FRS G PC=2.220E-5 33$QC=9.74E-7 15                                           
+216FR cG M$Based on observed band structure                                     
+216FR  G 259.4     5  4.12   21 (M1)                    0.972 15                
+216FRS G KC=0.784 12$LC=0.1425 21$MC=0.0339 5$NC=0.00890 13$OC=0.001988 30$     
+216FRS G PC=0.000319 5$QC=1.780E-5 27                                           
+216FR cG M$DCO indicates dipole transition, observed band structure suggests    
+216FR2cG magnetic character.                                                    
+216FR  G 405.1     5  100.0  5  E2                      0.06239                 
+216FRS G KC=0.0373 5$LC=0.01859 27$MC=0.00482 7$NC=0.001264 19$OC=0.000269 4$   
+216FRS G PC=3.80E-5 6$QC=8.67E-7 12                                             
+216FR cG M$DCO indicates quadrupole transition, IPDCO indicates electric        
+216FR2cG character.                                                             
+216FR  L 1480      8  (14+)                                                 a   
+216FRX L XREF=B                                                                 
+216FR cL J$E1 to (13{+-}), E2 to (12{++})                                       
+216FR  G 291.56    19 91.8   7  E1                      0.03655                 
+216FRS G KC=0.0295 4$LC=0.00533 8$MC=0.001267 18$NC=0.000329 5$OC=7.21E-5 10$   
+216FRS G PC=1.100E-5 15$QC=5.11E-7 7                                            
+216FR cG M$From |a{-K}(exp) and |a{-L}(exp) in 1990De12.                        
+216FR  G 498.57    19 100.0  7  E2                      0.03715                 
+216FRS G KC=0.02454 34$LC=0.00939 13$MC=0.002398 34$NC=0.000629 9$              
+216FRS G OC=0.0001351 19$PC=1.950E-5 27$QC=5.58E-7 8                            
+216FR cG M$From |a{-K}(exp) and |a{-L}(exp) in 1990De12.                        
+216FR  L 1602      8  (15-)                                                 A   
+216FRX L XREF=B                                                                 
+216FR cL J$E1 to (14{++}), E2 to (13{+-})                                       
+216FR  G 121.96    19 13.33  22 E1                      0.292 4                 
+216FRS G KC=0.2291 33$LC=0.0481 7$MC=0.01153 17$NC=0.00298 4$OC=0.000639 9$     
+216FRS G PC=9.26E-5 13$QC=3.55E-6 5                                             
+216FR cG M$DCO only indicates dipole transition, but E1 is required by E1       
+216FR2cG nature of 292-keV (14{++})|)(13{+-}) transition and E2 nature of       
+216FR3cG 414-keV (15{+-})|)(13{+-}) transition.                                 
+216FR  G 414.06    19 100.0  5  E2                      0.05888                 
+216FRS G KC=0.0357 5$LC=0.01725 24$MC=0.00447 6$NC=0.001171 17$OC=0.0002499 35$ 
+216FRS G PC=3.53E-5 5$QC=8.27E-7 12                                             
+216FR cG M$DCO indicates quadrupole, IPDCO indicates electric transition.       
+216FR  L 1656      8  (15+)                                                 b   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (13{++})                                                       
+216FR  G 208.5     5  3.11   11 (E1)                    0.079812                
+216FRS G KC=0.0639 10$LC=0.01210 18$MC=0.00288 4$NC=0.000748 11$                
+216FRS G OC=0.0001627 25$PC=2.44E-5 4$QC=1.062E-6 16                            
+216FR cG M$Based on observed band structure                                     
+216FR  G 425.3     5  100.0  6  E2                      0.05498                 
+216FRS G KC=0.0338 5$LC=0.01575 23$MC=0.00407 6$NC=0.001068 16$OC=0.0002280 33$ 
+216FRS G PC=3.23E-5 5$QC=7.81E-7 11                                             
+216FR cG M$DCO indicates quadrupole transition, IPDCO indicates electric        
+216FR2cG character.                                                             
+216FR  L 1764      8  (16-)                                                 B   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (14{+-})                                                       
+216FR  G 161.0     5  9.0    5  (M1)                    3.70  6                 
+216FRS G KC=2.98 5$LC=0.546 9$MC=0.1300 22$NC=0.0341 6$OC=0.00762 13$           
+216FRS G PC=0.001222 20$QC=6.82E-5 11                                           
+216FR cG M$DCO indicates dipole transition, magnetic character based on         
+216FR2cG observed band structure.                                               
+216FR  G 316.0     5  100.0  7  E2                      0.124018                
+216FRS G KC=0.0626 9$LC=0.0455 7$MC=0.01199 18$NC=0.00315 5$OC=0.000665 10$     
+216FRS G PC=9.15E-5 14$QC=1.503E-6 22                                           
+216FR cG M$DCO indicates quadrupole transition, IPDCO indicates electric        
+216FR2cG character.                                                             
+216FR  L 1879      8  (16+)                                                 a   
+216FRX L XREF=B                                                                 
+216FR cL J$E1 to (15{+-}), E2 to (14{++})                                       
+216FR  G 276.74    19 100.0  6  E1                      0.04116                 
+216FRS G KC=0.0332 5$LC=0.00604 9$MC=0.001435 20$NC=0.000373 5$OC=8.16E-5 11$   
+216FRS G PC=1.241E-5 17$QC=5.71E-7 8                                            
+216FR cG M$From |a{-K}(exp) in 1990De12.                                        
+216FR  G 398.91    19 28.9   3  E2                      0.06489                 
+216FRS G KC=0.0385 5$LC=0.01960 28$MC=0.00509 7$NC=0.001335 19$OC=0.000284 4$   
+216FRS G PC=4.01E-5 6$QC=8.96E-7 13                                             
+216FR cG M$DCO indicates quadrupole transition, while IPDCO indicates electric  
+216FR2cG character.                                                             
+216FR  L 2016      8  (17+)                                                 b   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (15{++})                                                       
+216FR  G 252.1     5  9.4    3  (E1)                    0.05108                 
+216FRS G KC=0.0410 6$LC=0.00757 11$MC=0.001800 27$NC=0.000468 7$                
+216FRS G OC=0.0001021 15$PC=1.546E-5 23$QC=6.99E-7 10                           
+216FR cG M$Based on observed band structure                                     
+216FR  G 359.6     5  100.0  7  E2                      0.085812                
+216FRS G KC=0.0477 7$LC=0.0283 4$MC=0.00739 11$NC=0.001939 29$OC=0.000411 6$    
+216FRS G PC=5.73E-5 9$QC=1.125E-6 16                                            
+216FR cG M$DCO indicates quadrupole transition, IPDCO indicates electric        
+216FR2cG character.                                                             
+216FR  L 2054      8  (17-)                                                 A   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (15{+-})                                                       
+216FR  G 175.14    19 17.76  8  E1                      0.121317                
+216FRS G KC=0.0966 14$LC=0.01880 27$MC=0.00449 6$NC=0.001164 17$OC=0.000252 4$  
+216FRS G PC=3.74E-5 5$QC=1.568E-6 22                                            
+216FR cG M$DCO indicates quadrupole transition.  Electric character is          
+216FR2cG required by E1 multipolarity of 276-keV (16{++})|)(15{+-}) transition  
+216FR3cG and E2 multipolarity of 451-keV (17{+-})|)(15{+-}) transition          
+216FR  G 451.30    19 100.0  12 E2                      0.04737                 
+216FRS G KC=0.0299 4$LC=0.01293 18$MC=0.00333 5$NC=0.000873 12$OC=0.0001867 26$ 
+216FRS G PC=2.67E-5 4$QC=6.88E-7 10                                             
+216FR cG M$DCO ratio indicates quadrupole transition, IPDCO indicates electric  
+216FR2cG character.                                                             
+216FR  L 2192      8  (18+)                                                 a   
+216FRX L XREF=B                                                                 
+216FR cL J$E2 to (16{++})                                                       
+216FR  G 138.20    19 65.3   6  E1                      0.215831                
+216FRS G KC=0.1701 24$LC=0.0347 5$MC=0.00830 12$NC=0.002148 31$OC=0.000462 7$   
+216FRS G PC=6.76E-5 10$QC=2.68E-6 4                                             
+216FR cG M$DCO ratio indicates dipole transition.  Electric character is        
+216FR2cG required by E1 multipolarity of 175-keV (17{+-})|)(16{++}) transition  
+216FR3cG and E2 multipolarity of 313-keV (18{++})|)(16{++}) transition          
+216FR  G 313.00    19 100.0  7  E2                      0.127618                
+216FRS G KC=0.0639 9$LC=0.0472 7$MC=0.01244 18$NC=0.00326 5$OC=0.000690 10$     
+216FRS G PC=9.48E-5 13$QC=1.535E-6 22                                           
+216FR cG M$DCO indicates quadrupole transition, IPDCO indicates electric        
+216FR2cG character.                                                             
+216FR  L 2221      8  (18-)                                                 B   
+216FRX L XREF=B                                                                 
+216FR cL J$Quadrupole transition to (16{+-}); parity from band assignment       
+216FR  G 457.0     5            Q                       0.04587                 
+216FRS G KC=0.0292 4$LC=0.01241 18$MC=0.00319 5$NC=0.000837 12$OC=0.0001791 26$ 
+216FRS G PC=2.56E-5 4$QC=6.70E-7 10                                             
+216FR cG M$DCO ratio indicates quadrupole transition                            
+216FR  L 2356      8  (19+)                                                 b   
+216FRX L XREF=B                                                                 
+216FR cL J$Quadrupole transition to (17{++}); parity from band assignment       
+216FR  G 340.0     5            Q                       0.100415                
+216FRS G KC=0.0536 8$LC=0.0347 5$MC=0.00909 14$NC=0.00239 4$OC=0.000505 8$      
+216FRS G PC=7.00E-5 10$QC=1.274E-6 18                                           
+216FR cG M$DCO ratio indicates quadrupole transition                            
+216FR  L X                              7.8 NS    14                        M   
+216FRX L XREF=B                                                                 
+216FR  L X+657.0   10                                                           
+216FRX L XREF=B                                                                 
+216FR  G 658       1                                                            
+216FRF G FLAG=G                                                                 
+216FR  L Y                              89 NS     9                         M   
+216FRX L XREF=B                                                                 
+216FR  L Y+478.0   10                                                           
+216FRX L XREF=B                                                                 
+216FR  G 479       1                                                            
+216FRF G FLAG=G                                                                 

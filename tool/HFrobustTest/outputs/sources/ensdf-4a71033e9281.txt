@@ -1,0 +1,71 @@
+245CF    249FM A DECAY                 2011LO06                  23NDS    202305
+245CF  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 189, 1 (2023)$CUT=14-Feb-2023$       
+245CF c  2012He09: {+249}Fm was produced from the alpha decay of {+253}No.      
+245CF2c  Grand parent {+253}No was populated in {+207}Pb({+48}Ca,2n).           
+245CF3c  The experiment was performed at GSI, Darmstadt. Gammas were measured   
+245CF4c  with Ge clover detectors. The position-sensitive (PIPS) detector       
+245CF5c  surrounded in combination with silicon detectors were used             
+245CF6c  to register the full energy |a particles. About 85% of the |a          
+245CFac  particles with full energy were registered using the setup.            
+245CF7c  Measured E|a and compared the experimental results to GEANT simulations
+245CF8c  for energy distributions of the |a particles                           
+245CF c  2011Lo06: {+249}Fm was produced from the alpha decay of {+253}No.      
+245CF2c  Grand parent {+253}No was populated in {+207}Pb({+48}Ca,2n).           
+245CF3c  The experiment was performed at the VASSILISSA recoil separator at     
+245CF4c  Flerov Laboratory of Nuclear Reactions in Dubna using the GABRIELA     
+245CF5c  detector setup. GABRIELA consisted of four micro-channel plates to     
+245CF6c  detect secondary electrons, 48|*48 strip double-sided silicon-strip    
+245CF7c  detector to provide energy and time information of the                 
+245CF8c  implanted evaporation residues, 32-strip silicon detectors for the     
+245CF9c  detection of internal conversion electrons and escape                  
+245CFac  |a particles and a ring of six Compton suppressed EUROGAM Phase-I Ge   
+245CFbc  detectors placed around the focal plane and one unsuppressed Ge        
+245CFcc  detector, placed in a collinear geometry with respect to the beam line 
+245CFdc  to detect the |g-rays. Measured: E|a, E|g, |a-ce coin.                 
+245CFec  Results were compared to GEANT4 simulation.                            
+245CF c  2004He28: {+249}Fm was produced from the alpha decay of {+253}No.      
+245CF2c  Grand parent {+253}No was populated in {+207}Pb({+48}Ca,2n).           
+245CF3c  The experiment was performed at the UNILAC accelerator, GSI.           
+245CF4c  Gammas were measured with Ge clover detectors and the alphas with the  
+245CF5c  position-sensitive (PIPS) detector. Measured E|a.                      
+245CF6c  No |g-events in coincidence with |a-particles were observed.           
+245CF c  1985He06: {+249}Fm was produced from the alpha decay of {+253}No.      
+245CF2c  Grand parent {+253}No was populated in {+208}Pb({+50}Ti,X).            
+245CF3c  The experiment was performed at the UNILAC accelerator, GSI.           
+245CF4c  Alphas were measured with surface-barrier detectors                    
+245CF c  Others: 2006Ni09, 1967Mi03, 1966Ak01                                   
+245CF c                                                                         
+245CF CL BAND(A)$1/2[631] ROTATIONAL BAND                                       
+245CF DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+249FM  P 0.0         (7/2+)            2.6 M     7              7709      6     
+249FM cP J,T$From the Adopted Levels in the ENDSF database for {+249}Fm         
+249FM2cP (2011Ab07)                                                             
+249FM cP QP$From 2021Wa16                                                       
+245CF  N                       0.156   10                                       
+245CF cN BR$%From the number of recorded |a decays of {+253}No (2012He09)       
+245CF2cN Note the value |a=33 {I9} is given in the Adopted Levels for           
+245CF2cN {+249}Fm in 2011Ab07.                                                  
+245CF  L 0.0          (1/2+)           45.0 M    14                         A   
+245CF  A 7581      10                                                           
+245CF cA E$From 2004He28.                                                       
+245CF  L 10        AP  (3/2+)                                               A   
+245CF cL E$From 2011Lo06. Other: |?8 (2012He09)                                 
+245CF  L 57        4   (7/2+)                                                   
+245CF cL $Configuration=|n7/2[624] (2012He09)                                   
+245CF cL E$From 2011Lo06.                                                       
+245CF2cL Others: |? 55 keV (2012He09), 55 keV {I10} (2004He28),                 
+245CF  A 7540      5                                                            
+245CF cA E$Effective |a particle energy based on the GEANT4 simulations for     
+245CF2cA the best fit with the measured alpha spectrum (2011Lo06).              
+245CF3cA Others: |? 7529 keV (2012He09), |? 7520 keV                            
+245CF4cA (2004He28), 7527 keV {I23} (1985He06), 7.54 MeV (1973Es01),            
+245CF5cA 7.52 MeV {I3} (1967Mi03), 7.53 MeV {I2} (1966Ak01),                    
+245CF6cA 7.9 MeV {I3} (1959Pe27).                                               
+245CF cA $This alpha-particle group is expected to be a favored transition      
+245CF2cA (2004He28). HF=1.7 was deduced by 2012He09 based on a single           
+245CF2cA 7529|a branch with theoretical half-life.                              
+245CF4cA 14, 917 (1983)                                                         
+245CF  G 47        3           [E2]                    8.0E+2 30                
+245CFS G  LC=5.8E+2 22$MC=1.6E+2 6                                              
+245CFS G  NC=46 17$OC=11 4$PC=1.8 7$QC=0.0042 14                                
+245CF cG E$From 2011Lo06. Transition is highly converted.                       

@@ -1,0 +1,111 @@
+272BH    276MT A DECAY (0.69 S)        2015GA24,2013RU11,2013OG0119NDS    201902
+272BH  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 148 (2019)$CUT=31-Jan-2019$      
+272BH c  See {+276}Mt Adopted Levels for production and half-life. In all the   
+272BH2c  {+272}Bh produced from |a decay chain {+288}Mc -> {+284}Nh ->          
+272BH3c  {+280}Rg -> {+276}Mt -> {+272}Bh; {+288}Mc was produced in the         
+272BH4c  bombardment of {+243}Am target with {+48}Ca beam                       
+272BH c  2015Ga24: measured E|a and |a|g-coin at Berkeley using the corner cube 
+272BH2c  clover (C3) focal plane detector consisting of silicon-strip detectors 
+272BH3c  surrounded by HPGe clover-type detectors. GEANT4 simulations. No K     
+272BH4c  x-rays were definitively identified in this work, and Z identification 
+272BH5c  was not possible                                                       
+272BH c  2013Ru11: charged particles were detected with the TASISpec comprising 
+272BH2c  a 32|*32-strip DSSSD and four additional 16|*16-strip DSSSD forming a  
+272BH3c  cube-like detector, and the |g rays were detected with Ge detectors at 
+272BH4c  GSI facility. Measured E|a, recoil-|a-|a, recoil-|a-fission, E|g,      
+272BH5c  |a|g-coin, |a-decay curves.                                            
+272BH c  2013Og01, 2012Og02: measured |a spectrum in the range of 9.6 to 11.0   
+272BH2c  MeV. Two activities assigned to the |a decay of {+276}Mt:              
+272BH3c  0.54 s {I+14-9} and 6 s {I+8-2}, but according to 2013Ru11, the 6-s    
+272BH4c  activity is not certain, and if present, it could be assigned also to  
+272BH5c  {+280}Rg or {+272}Bh                                                   
+272BH c  The decay scheme here is from 2015Ga24, as the authors provide more    
+272BH2c  in-depth analysis of |a|g-coin data, while combining the data from     
+272BH3c  their experiment and the 2013Ru11 GSI experiment. Note that            
+272BH4c  many authors are the same in the two papers. In this respect, a        
+272BH5c  232-keV level proposed in 2013Ru11 is not included here, neither       
+272BH6c  a 130-keV |g from 362 level, and a 202-keV |g from 434 level.          
+272BH cA $HF=T{-1/2}{+exp}/T{-1/2}{+sys}, using T{-1/2}=0.63 s {I+9-7} (based   
+272BH2cA on data from 2013Ru11 and 2013Og01) for {+276}Mt, and the systematic   
+272BH3cA half-lives calculated according to 2009Qi07                            
+272BH cG $Coincidences between 135.7 {I26}- and 147.0 {I20}-keV photons seen    
+272BH2cG by 2015Ga24 was explained by the authors that 147-keV photon is        
+272BH3cG consistent with energy expected from Compton scattering of a 166-keV   
+272BH4cG photon in the material between the DSSD and the Ge detectors.          
+272BH cG E,RI$From 2015Ga24, where the analysis combined their experimental data
+272BH2cG and those from 2013Ru11 experiment at GSI. Number of observed photons  
+272BH3cG for a certain |g-ray is from text on p5 in 2015Ga24.                   
+272BH cG E(B)$Reversed ordering of the 166-136 |g cascade is also possible      
+272BH cG M$Multipolarity in square bracket assumed by 2015Ga24 for GEANT        
+272BH2cG simulations.                                                           
+272BH cG M(A)$Determined by 2015Ga24 from their experimental data and GEANT     
+272BH2cG simulations, based on the expected counts of 166|g and 136|g as well   
+272BH3cG as the observation of |g|g-coincidences. The assignment is treated as  
+272BH4cG tentative by the evaluator                                             
+272BH cL E$From E|g data                                                        
+276MT  P 0                             0.69 S    +9-7           10100     9     
+276MT cP T$From {+276}Mt Adopted Levels                                         
+276MT cP QP$From 2017Wa10                                                       
+272BH  N                       1.0     AP                                       
+272BH PN                                                                     6  
+272BH  G 522.3     14                                                           
+272BH cG $In coin with an escaped |a (2015Ga24)                                 
+272BH  L 0.0                           10.5 S    +15-11                         
+272BH cL T$from Adopted Levels                                                  
+272BH  A 9.95E+3   1                                                            
+272BH cA E$8.52 to 10.01 MeV; Q(|a)=10.10 MeV {I1} (2017Og01 review);           
+272BH2cA 9.17-10.01 MeV (2015Og05 review); 9.17 to 9.95 MeV (2013Ru11);         
+272BH3cA 9.53 MeV and 9.60 MeV (2015Ru11), 9.71 MeV {I6} (2004Og03,2011Og07).   
+272BH4cA Assumed as g.s. to g.s. |a transition.                                 
+272BH  L 60.2      10                                                          ?
+272BH  A 9.90E3      10                                                         
+272BH cA $HF=490 {I+70-60} (2015Ga24)                                           
+272BH  L 196.2     10                                                          ?
+272BH cL E$226.2 keV if the ordering of 136|g-166|g cascade is reversed.        
+272BH2cL Ordering of the two |g rays is not established.                        
+272BH  G 136       1           (E1)                    0.0878               AC  
+272BHF G FLAG=B                                                                 
+272BH cG $136|g and 166|g seen in |g|g coincidence (2015Ga24)                   
+272BH cG RI$number of counts: 2 (2015Ga24)                                      
+272BH  L 362.2      5                                                           
+272BH cL $A tentative 130-keV |g was shown to a 232-keV level in 2013Ru11       
+272BH  A 9600      10 80                                                        
+272BH cA $HF=8.9 {I+13-11} (2015Ga24); 12 {I+3-2} (2013Ru11)                    
+272BH cA E$average energy. Also noted as 9.60 MeV {I2} in text of 2015Ga24      
+272BH  G 166       1 10        (E1)                    0.0543               AC  
+272BHF G FLAG=B                                                                 
+272BH cG RI$number of counts=3 (2015Ga24)                                       
+272BH cG $Two more photons of 164.4 {I26} and 165.7 {I22} keV were observed     
+272BH2cG by 2015Ga24, in coincidence with 9.58 MeV {I2} and 9.55 MeV {I5}       
+272BH3cG particles. The photon energies are close to K{-|b2} x-rays of          
+272BH4cG 167.12 keV, but from intensity arguments, the 166-keV photons could    
+272BH5cG only be assigned as discrete |g ray.                                   
+272BH  G 302       1 5         [E1]                    0.0554                  ?
+272BH cG E$from 2013Ru11                                                        
+272BH cG RI$number of counts=1 (2015Ga24)                                       
+272BH  G 362.2     5 100       [E1]                    0.0390                C  
+272BH cG RI$number of counts=7 (2015Ga24)                                       
+272BH cG $E|g=362 {I1}, mult=E2 in 2013Ru11                                     
+272BH cG $A pair of photons with energies of 126.6 {I12} and 227.0 {I25} keV    
+272BH2cG seen in |g|g-coin (2015Ga24), which the authors interpret as the two   
+272BH3cG summing to about 362 keV, and arising from the detection of two        
+272BH4cG Compton scattered photons between two of the unshielded Ge detectors.  
+272BH  L 434       1                                                           ?
+272BH cL $A tentative 202-keV, M1 |g was shown to a 232-keV level in 2013Ru11   
+272BH  A 9.53E3      5                                                      C   
+272BH cA $HF=87 {I+13-11} (2015Ga24)                                            
+272BH  G 434       1           [E1]                    0.0278                C ?
+272BH cG RI$number of counts=1 (2015Ga24)                                       
+272BH cG $In coincidence with 9530|a. However, no |a peak was observed in the   
+272BH2cG |a spectrum in coin with 434|g (2015Ga24), thus the placement of 434|g 
+272BH3cG is tentative                                                           
+272BH cG $E|g=434 {I1}, mult=E2 in 2013Ru11                                     
+272BH  L 479.6     23                                                          ?
+272BH  A 9.48E3      5                                                      C   
+272BH cA $HF=62 {I+9-8} (2015Ga24)                                              
+272BH cA E$also 9.50 MeV {I2} in the text in 2015Ga24                           
+272BH  G 479.6     23          [E1]                    0.0232                C ?
+272BH cG RI$number of counts=1 (2015Ga24)                                       
+272BH cG $In coincidence with 9480|a. However, no |a peak was observed in the   
+272BH2cG |a spectrum in coin with 479.6|g (2015Ga24), thus the placement of     
+272BH3cG 479.6|g is tentative                                                   

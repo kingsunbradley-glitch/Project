@@ -1,0 +1,31 @@
+242CF    ADOPTED LEVELS                                          22NDS    202211
+242CF  H TYP=FUL$AUT=M.J. Martin, C.D. Nesaraja$CIT=NDS 186, 261 (2022)$        
+242CF2 H CUT=31-Dec-2021$                                                       
+242CF  Q -5410     SY 8010   SY 3880   SY 7517   4     2021WA16                 
+242CF cQ $|DQ(|b{+-})=260, |DS(n)=170, |DS(p)=170 (syst,2021Wa16)               
+242CF cQ $S(2n)=14744 {I22}, S(2p)=6915 {I13} (2021Wa16)                        
+242CF c  For references on theoretical studies refer to the NSR file at the     
+242CF2c  Web site given in the abstract                                         
+242CF  XA246FM A DECAY                                                          
+242CF  XB242ES EC DECAY                                                         
+242CF  L 0.0          0+               3.5 M     2                              
+242CFX L XREF=AB                                                                
+242CF2 L %A=61 3$ %EC+%B+=39 3$ %SF LE 0.014                                    
+242CFX L XREF=AB                                                                
+242CF cL %A$From |a decay of {+246}Fm (2011Ve03). Others: 80 % {I20} deduced    
+242CF2cL by 1981Mu12 from relative alpha intensities of mother                  
+242CF3cL and daughter decay following {+246}Fm decay.                           
+242CF cL %EC+%B+$Deduced from |b{+}/|e obtained from intensity ratio            
+242CF2cL of |a lines of {+242}Cf and {+246}Fm by 2011Ve03.                      
+242CF cL %SF$The upper limit for SF decay was obtained by 1995La09.             
+242CF cL T$The measured half-lives are T{-1/2}({+242}Cf)=3.7 min {I3}           
+242CF2cL (1967Il01), 3.2 min {I5} (1967Fi04), 3.4 min {I2} (1967Si07), and 3.68 
+242CF3cL min {I44} (1970Si19). A weighted average of these values gives         
+242CF4cL 3.49 {I15}. The evaluators assign as uncertainty the smallest of       
+242CF2cL the input values, giving 3.49 {I20} and then rounds off the value.     
+242CF  L 0+X                                                                    
+242CFX L XREF=B                                                                 
+242CF2 L %SF=1.3 +12-7 (2010An08)                                               
+242CF  L 45        SY (2+)                                                     S
+242CFX L XREF=B                                                                 
+242CF cL J$from systematic of neighboring even even nuclei                      

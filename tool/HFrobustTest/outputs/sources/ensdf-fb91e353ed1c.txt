@@ -1,0 +1,44 @@
+237AM    ADOPTED LEVELS                                          06NDS    200608
+237AM  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 107, 2323 (2006)$CUT=15-Mar-2006$    
+237AM  Q -2.68E3   SY7.54E3  SY3.62E3  SY6.20E3  SY    2012WA38                 
+237AM cQ $Note: Current evaluation has used the following Q record              
+237AM2cQ -2710     syst   7680 syst   3620 syst   6200 syst    2003Au03         
+237AM cQ           |DQ(|b{+-})=220(syst), |DS(n)=120(syst), |DS(p)=60(syst),    
+237AM2cQ |DQ(|a)=30(syst) 2003Au03                                              
+237AM t  Assignment:  {+237}Np(32-MeV {+3}He,3n)  chem, ms  (1975Ah05)          
+237AM t               {+237}Np(42-MeV a,4n)    chem, ms  (1975Ah05)             
+237AM t               {+239}Pu(d,xn)  chem               (1952Hi63)             
+237AM2t                                                                         
+237AM c  For calculation of mass excess by a semiempirical method, see          
+237AM2c  1988Po04.                                                              
+237AM  L 0.0          5/2(-)           73.6 M    8                              
+237AM2 L %A=0.025 3$ %EC+%B+=99.975 3                                           
+237AM cL           (|a)/(|a+|e)=0.00025 {I3} was deduced by measuring           
+237AM2cL the |a and |g spectra of the same sample (1975Ah05).                   
+237AM3cL I|g(280.2|g)=0.473 {I20} per |e decay was used.                        
+237AM4cL In 1952Hi63 an |a/|e=9.1|*10{+-6} {I33} value was determined from ce-  
+237AM5cL and |a-counting rates, assuming that {+239}Pu(d,3n) and {+239}Pu(d,4n) 
+237AM6cL reactions had equal yields at E(d)=30-50 MeV.                          
+237AM cL J         log| {Ift} values of 6.8 and 6.9 for the |e decay to the 3/2+
+237AM2cL state at 155.45 keV and to the 7/2+ state at 320.97 keV in {+237}Pu,   
+237AM3cL respectively, limit spin to 5/2. The possible |e decay to              
+237AM4cL the 1/2+ state at 145.544 keV implies J|p=5/2-.                        
+237AM5cL Analogy with {+241}Am suggests 5/2[523] orbital.                       
+237AM cL T         Weighted average of 73.0 min {I10} (1975Ah05) and 74.4 min   
+237AM2cL {I12} (1972PoZS). Other measurement: |?80 min (1952Hi63)               
+237AM  L 24.0E+2   20                  5 NS      2                              
+237AM2 L %SF GT 0                                                               
+237AM cL           Only SF decay reported.                                      
+237AM cL T         From 1970Po01.                                               
+237AM cL E         From 1971Br39, a value of E=2400 {I|+200} was deduced from   
+237AM5cL the fit to {+238}Pu(p,2n) reaction excitation function reported in     
+237AM6cL 1970Po01. In 1970Po01 a value of E=3000 {I|+300} was deduced from the  
+237AM2cL difference between the Q values for {+238}Pu(p,2n) reaction for        
+237AM3cL production of the isomeric and the ground states; E=2100 {I200} was    
+237AM7cL suggested in 1973Br38. E=2400 {I200} keV was recommend in 1980Bj02.    
+237AM cL           Assignment: {+238}Pu(p,2n) excit (1970Po01);                 
+237AM2cL {+237}Np(|a,4n) excit (1973Fl03); systematics of fissioning isomers.   
+237AM3cL See 1984Bl06 for calculated excitation function for (|a,4n) reaction.  
+237AM cL           For theoretical calculations of E(level),                    
+237AM2cL T{-1/2}(SF) and T{-1/2}(|g), see 1972We09.                             
+237AM cL           For calculations of fission barrier see 1984Ku05.            

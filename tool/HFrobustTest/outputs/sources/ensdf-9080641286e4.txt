@@ -1,0 +1,36 @@
+245CF    ADOPTED LEVELS, GAMMAS                                  23NDS    202305
+245CF  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 189, 1 (2023)$CUT=14-Feb-2023$       
+245CF  Q -2930     SY 6164   3 4618    15 7258.5 18    2021WA16                 
+245CF cQ $|DQ(|b{+-})=170 (syst,2021Wa16)                                       
+245CF cQ $S(2n)=13750 {I180} (syst), S(2p)=8374.7 {I24} (2021Wa16)              
+245CF cL E$From {+249}Fm |a decay                                               
+245CF CL BAND(A)$1/2[631] ROTATIONAL BAND                                       
+245CF  XA249FM A DECAY                                                          
+245CF  XB245ES EC DECAY                                                         
+245CF DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+245CF  L 0.0         1/2+              45.0 M    14                         A   
+245CF2 L XREF=A                                                                 
+245CF cL T$Unweighted average of 43.6 min {I8} (1967Fi04) and                   
+245CF2cL 46.4 min {I3} (1996Ma72). Other: 44 min (1956Ch43).                    
+245CF2 L %A=35.1 40$ %EC=64.9 40                                                
+245CF cL %A,%EC$From the intensity of the 252-keV |g ray from {+245}Bk |e decay 
+245CF2cL (I(252|g)=31.2%) relative to the alpha-particle intensity from         
+245CF3cL {+245}Cf |a decay (1996Ma72). The evaluator has adjusted the           
+245CF4cL branching ratio using the current absolute intensity for               
+245CF5cL (I(252|g)=30.4 % {I27}) in {+245}Bk |e decay                           
+245CF6cL Others: %|a=36 {I4} (1992ShZZ), %|a= 36.0 {I26} (1996Ma72),            
+245CF7cL |a|?30 (1956Ch43)                                                      
+245CF cL J$Favored alpha decay to {+241}Cm (J|p=1/2+) from                      
+245CF2cL {+245}Cf g.s.                                                          
+245CF  L 10        AP (3/2+)                                                A   
+245CF2 L XREF=A                                                                 
+245CF cL J$Band member                                                          
+245CF  L 57        4  (7/2+)                                                    
+245CF2 L XREF=A                                                                 
+245CF cL $Configuration=|n7/2[624] (2012He09)                                   
+245CF cL J$The 7540-keV |a from {+249}Fm g.s. with J|p=(7/2)+ is                
+245CF2cL expected to be a favored transition.                                   
+245CF  G 47        3           [E2]                    8.0E+2 30                
+245CFS G  LC=5.8E+2 22$MC=1.6E+2 6                                              
+245CFS G  NC=46 17$OC=11 4$PC=1.8 7$QC=0.0042 14                                
+245CF cG E$From {+249}Fm |a decay                                               

@@ -1,0 +1,195 @@
+216FR    220AC A DECAY                 1997SH09                  26NDS    202603
+216FR  H TYP=FUL$AUT=C. Morse$CIT=NDS 209, 409 (2026)$CUT=5-Aug-2025$           
+216FR cA HF$The nuclear radius parameter r{-0}({+216}Fr)=1.5704 {I33} is        
+216FR2cA deduced from interpolation of radius parameters of the adjacent        
+216FR3cA even-even nuclides in 2020Si16                                         
+216FR cA E,IA$Data are from 1997Sh09 and are taken at face value, despite       
+216FR2cA giving no uncertainties.  It is unclear whether these values are       
+216FR3cA measured in |a spectroscopy or deduced from |g spectroscopy.  Data     
+216FR4cA from 1970Bo13 and 2007Ku30 are given with associated uncertainties in  
+216FR5cA comments; they are less complete, but generally consistent with        
+216FR6cA 1997Sh09.  The I{-|a} values are discrepant with those deduced from    
+216FR7cA |g-ray intensity balance at each level.                                
+216FR c  2007Ku30: {+220}Ac produced via {+209}Bi({+14}N,p2n) reaction at 5.6   
+216FR2c  MeV/u at the Heavy Ion Laboratory at Warsaw University.  The reaction  
+216FR3c  products were caught in a helium gas cell and transported through a    
+216FR4c  magnetic separator, then implanted into a 30-|mg/cm{+2} carbon foil    
+216FR5c  viewed by several silicon detectors.  Measured E{-|a}, T{-1/2}.        
+216FR c  1997Sh09: measured: E|a, I|a, E|g, I|g, ce, |a|g, |a(ce), |g(ce).      
+216FR2c  Source: {+224}Pa + {+220}Ac in secular equilibrium produced by         
+216FR3c  {+209}Bi({+18}O,2n). Ge, Ge(Li), Si(Li) detectors.                     
+216FR c  1971EpZY: measured: |a, |a|g, |g|g, |a|g(t)                            
+216FR c  1970Bo13: measured: |a                                                 
+216FR cL E$From a least-squares fit to E{-|g}                                   
+216FR cL J$From Adopted Levels                                                  
+216FR cL SEQ(A)$|ph{-9/2}{+5}|ng{-9/2}{+3}                                      
+216FR cL SEQ(B)$|ph{-9/2}{+4}|pf{-7/2}|ng{-9/2}{+3}                             
+216FR cL SEQ(C)$|ph{-9/2}{+5}|ng{-9/2}{+2}|ni{-11/2}                            
+216FR cG M$Deduced from measured internal conversion coefficients.              
+216FR dA HF$Hindrance Factor is calculated by AlphaHF (version 16-Dec-2025)     
+216FR DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+220AC  P 0            (3-)              26.1 MS   5              8348     4     
+220AC cP J$Suggested in 1996Li05 based on the observed large hindrance factors  
+220AC2cP in {+224}Pa |a decay.                                                  
+220AC cP T$From 1970Bo13.  Other: 26.4 ms {I20} (1990An19)                      
+220AC cP QP$From 2021Wa16                                                       
+216FR  N 0.1                    1.0                                             
+216FR cN NR$Intensities given per 1000 |a decays in 1997Sh09                    
+216FR cN BR$Only |a decay has been observed (1997Sh09)                          
+216FR  G 112.7     3  5.7    20                                                 
+216FRX G %IG=0.57 20                                                            
+216FR  G 127.1     4  3      AP                                                 
+216FR  G 151.5     4  7.0    25                                                 
+216FRX G %IG=0.70 25                                                            
+216FR  G 169.2     3  4.3    11                                                 
+216FRX G %IG=0.43 11                                                            
+216FR  G 179.3     4  3.8    13                                                 
+216FRX G %IG=0.38 13                                                            
+216FR  G 197.3     5  3      AP                                                 
+216FR  G 214.8     3  5.1    16                                                 
+216FRX G %IG=0.51 16                                                            
+216FR  G 221.3     3  6.2    18                                                 
+216FRX G %IG=0.62 18                                                            
+216FR  G 238.8     3  10.5   28                                                 
+216FRX G %IG=1.05 28                                                            
+216FR  G 260.8     5  5.0    17                                                 
+216FRX G %IG=0.50 17                                                            
+216FR  G 263.6     4  6.2    20                                                 
+216FRX G %IG=0.62 20                                                            
+216FR  G 265.4     4  9      3                                                  
+216FRX G %IG=0.90 30                                                            
+216FR  L 0            (1-)              0.70 US   2                         A   
+216FR cL T$From Adopted Levels                                                  
+216FR  A 8194        4         4012                                             
+216FR cA E$8195 {I10} (1970Bo13), 8196 {I4} (2007Ku30)                          
+216FR cA IA$3 {I1} (1970Bo13).                                                  
+216FR  L 133.30    10 (3-)              71 NS     5                         AM  
+216FR2 L %A GT 0 (1997Sh09)                                                     
+216FR cL T$From 1971EpZY                                                        
+216FR  G 133.3     1  82     7  E2                      2.65  4                 
+216FRX G EKC/ELC=0.2 LT (1997Sh09) $EL2C/EL3C=2.0 5 (1997Sh09)$%IG=8.2 7        
+216FRS G KC=0.314 4$LC=1.717 25$MC=0.464 7$NC=0.1218 18$OC=0.0253 4$            
+216FRS G PC=0.00329 5$QC=1.302E-5 18                                            
+216FR  A 8063        2         3351                                             
+216FR  L 141.60    20 (0-,1-,2-)                                            A   
+216FR  G 141.6     2  13.2   30 M1                      5.32  8                 
+216FRX G %IG=1.32 30                                                            
+216FRS G KC=4.29 6$LC=0.787 11$MC=0.1876 27$NC=0.0492 7$OC=0.01099 16$          
+216FRS G PC=0.001763 26$QC=9.85E-5 14                                           
+216FR  A 8055        4         1586                                             
+216FR cA $E|a=8060 {I10}, I|a=6 {I1} (1970Bo13)                                 
+216FR  L 191.18    13 (5-)                                                  A   
+216FR  G 57.9      1  6.6    20 E2                      118.3 19                
+216FRX G ELC=50 20 (1997Sh09)$%IG=0.66 20                                       
+216FRS G LC=87.2 14$MC=23.5 4$NC=6.16 10$OC=1.274 21$PC=0.1625 26$QC=0.000257 4 
+216FR  A 8006        3         1518                                             
+216FR cA $E|a=8005 {I10}, I|a=5 {I3} (1970Bo13)                                 
+216FR  L 211.92    17                                                       B   
+216FR  G 78.6      2  5      2                                                  
+216FRX G %IG=0.50 20                                                            
+216FR  L 226.09    13 (4-)                                                  A   
+216FR  G 34.9      3  2      AP (M1)                                            
+216FR  G 92.8      1  37     5  M1                      3.50  5                 
+216FRX G ELC=2.3 5 (1997Sh09)$%IG=3.7 5                                         
+216FRS G LC=2.66 4$MC=0.634 9$NC=0.1661 24$OC=0.0371 5$PC=0.00596 9$            
+216FRS G QC=0.000333 5                                                          
+216FR  A 7971        4         900                                              
+216FR cA $E|a=7985 {I10}, I|a=4 {I2} (1970Bo13)                                 
+216FR  L 247.8     4                                                        B  ?
+216FR  G 247.8     4  4.7    14                                                ?
+216FRX G %IG=0.47 14                                                            
+216FR  L 249.40    16                                                       B   
+216FR  G 37.4      3  2      AP                                                 
+216FR  L 254.38    17 (1-,2,3-)                                             A   
+216FR  G 42.5      2  3      AP                                                 
+216FR  G 121.0     2  8.0    14                                                 
+216FRX G %IG=0.80 14                                                            
+216FR  G 254.4     5  5.4    17                                                 
+216FRX G %IG=0.54 17                                                            
+216FR  A 7944        2       AP1485    AP                                       
+216FR  L 290.42    16                                                       B   
+216FR  G 64.3      1  18     3                                                  
+216FRX G %IG=1.80 30                                                            
+216FR cG M$from intensity balance, not E2 (I(|g+ce)=1307); M1 gives             
+216FR2cG I(|g+ce)=212                                                           
+216FR  L 344.21    15                                                       C   
+216FR  G 53.6      2  3      AP                                                 
+216FR  G 94.8      1  25     4                                                  
+216FRX G %IG=2.5 4                                                              
+216FR  G 118.2     2  13.5   35 (M1)                    8.90  13                
+216FRX G EKC=3 GT (1997Sh09)$%IG=1.35 35                                        
+216FRS G KC=7.16 11$LC=1.321 20$MC=0.315 5$NC=0.0826 12$OC=0.01846 27$          
+216FRS G PC=0.00296 4$QC=0.0001654 25                                           
+216FR  G 153.1     2  18.2   35                                                 
+216FRX G %IG=1.82 35                                                            
+216FR  A 7855        26        62                                               
+216FR cA $E|a=7850 {I10}, I|a=24 {I2} (1970Bo13)                                
+216FR  L 349.25    23                                                       C   
+216FR  G 137.3     2  15     3                                                  
+216FRX G %IG=1.50 30                                                            
+216FR  A 7850        5         310                                              
+216FR  L 409.31    18                                                       C   
+216FR  G 160.0     1  32.7   50 M1                      3.76  5                 
+216FRX G EKC/ELC=5 1 (1997Sh09)$%IG=3.3 5                                       
+216FRS G KC=3.03 4$LC=0.555 8$MC=0.1324 19$NC=0.0347 5$OC=0.00776 11$           
+216FRS G PC=0.001244 18$QC=6.95E-5 10                                           
+216FR cG M$K/L=5 {I1}                                                           
+216FR  A 7792        10        102                                              
+216FR cA $E|a=7790 {I10}, I|a=13 {I2} (1970Bo13)                                
+216FR  L 493.37    20                                                       C   
+216FR  G 149.0     3  9.5    28                                                 
+216FRX G %IG=0.95 28                                                            
+216FR  G 203.6     5  3      AP                                                 
+216FR  G 243.7     2  18     4  M1                      1.156 16                
+216FRX G EKC=1.1 5 (1997Sh09)$%IG=1.8 4                                         
+216FRS G KC=0.932 13$LC=0.1696 24$MC=0.0404 6$NC=0.01059 15$OC=0.002367 34$     
+216FRS G PC=0.000380 5$QC=2.119E-5 30                                           
+216FR  G 267.8     3  18     4  M1                      0.890 13                
+216FRX G EKC=1.2 5 (1997Sh09)$%IG=1.8 4                                         
+216FRS G KC=0.718 10$LC=0.1304 19$MC=0.0311 4$NC=0.00814 12$OC=0.001820 26$     
+216FRS G PC=0.000292 4$QC=1.629E-5 23                                           
+216FR  A 7709        11        51                                               
+216FR  L 532.11    20                                                       C   
+216FR  G 123.3     3  5.5    14                                                 
+216FRX G %IG=0.55 14                                                            
+216FR  G 182.8     3  5.4    16                                                 
+216FRX G %IG=0.54 16                                                            
+216FR  G 187.8     2  14.4   30                                                 
+216FRX G %IG=1.44 30                                                            
+216FR  G 305.6     4  10.2   38                                                 
+216FRX G %IG=1.0 4                                                              
+216FR  A 7670        8         53                                               
+216FR cA $E|a=7680 {I20}, I|a=21 {I5} (1970Bo13)                                
+216FR  L 539.4     3                                                        C   
+216FR  G 130.4     4  4      AP                                                 
+216FR  G 312.9     4  14.2   40 (M1)                    0.580 8                 
+216FRX G EKC=0.7 AP (1997Sh09)$%IG=1.4 4                                        
+216FRS G KC=0.468 7$LC=0.0848 12$MC=0.02017 29$NC=0.00529 8$OC=0.001182 17$     
+216FRS G PC=0.0001897 27$QC=1.059E-5 15                                         
+216FR  A 7664        4         101                                              
+216FR  L 550.85    20                                                       C   
+216FR  G 206.7     2  12     3                                                  
+216FRX G %IG=1.20 30                                                            
+216FR  G 296.4     3  20.3   50 M1                      0.673 10                
+216FRX G EKC=0.8 4 (1997Sh09)$%IG=2.0 5                                         
+216FRS G KC=0.543 8$LC=0.0985 14$MC=0.02343 33$NC=0.00614 9$OC=0.001373 20$     
+216FRS G PC=0.0002203 31$QC=1.229E-5 18                                         
+216FR  G 301.4     3  13.0   42                                                 
+216FRX G %IG=1.3 4                                                              
+216FR  A 7652        9         41                                               
+216FR  L 568.8     3                                                        C   
+216FR  G 342.7     3  34.5   50 M1                      0.452 6                 
+216FRX G EKC=0.5 2 (1997Sh09)$%IG=3.5 5                                         
+216FRS G KC=0.365 5$LC=0.0660 9$MC=0.01570 22$NC=0.00412 6$OC=0.000920 13$      
+216FRS G PC=0.0001476 21$QC=8.24E-6 12                                          
+216FR  G 378       1  2      AP                                                 
+216FR  A 7635        4         82                                               
+216FR  L 581.5     3                                                        C   
+216FR  G 172.2     3  5.0    13                                                 
+216FRX G %IG=0.50 13                                                            
+216FR  G 327.0     6  4      AP                                                 
+216FR  G 390.2     5  6.6    25                                                 
+216FRX G %IG=0.66 25                                                            
+216FR  G 448.4     10 2      AP                                                 
+216FR  A 7622        4         74                                               
+216FR cA $E|a=7610 {I20}, I|a=9 {I4} (1970Bo13)                                 

@@ -1,0 +1,48 @@
+222PA    226NP A DECAY (44 MS)         2019MI08,1993ANZS         23NDS    202310
+222PA  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Jun Chen et al.,$              
+222PA2 H CIT=NDS 192, 315 (2023)$CUT=25-Sep-2023$                               
+222PA c  2019Mi08: {+222}Pa produced in {+181}Ta({+48}Ca,X),E=212,217,226 MeV   
+222PA2c  fusion-evaporation reactions at the UNILAC accelerator of GSI, followed
+222PA4c  by separation of evaporation residues (ERs) using the SHIP velocity    
+222PA4c  filter and implanted into the COMPAct Spectroscopy Set-up (COMPASS).   
+222PA5c  Measured E|a and half-life of {+222}Pa decay from time correlations    
+222PA6c  between ERs and |a particles.                                          
+222PA c  1993AnZS: measured E|a, I|a at the U-400 cyclotron of the FLNR, JINR.  
+222PA cA IA$|a intensity per 100 |a decay, measured by 1993AnZS. 2019Mi08 stated
+222PA2cA that a broad energy distribution between 7.9 and 8.4 MeV was observed  
+222PA3cA in the correlated |a{-1} peak, with three different |a- of comparable  
+222PA4cA intensities at 7.98 MeV {I2}, 8.09 MeV {I2} and 8.18 MeV {I2}, which   
+222PA5cA could correspond to either single |a decay activities or to |a-decay   
+222PA6cA and conversion electron summing. No numerical values of intensities    
+222PA7cA were listed for the three peaks. It should be noted that these three   
+222PA8cA in Fig. 4 of 2019Mi08 are very weak, each about four counts high.      
+222PA9cA Based on the weak |a peaks in 2019Mi08, the |a intensities could       
+222PAAcA be 33% for each of the three peaks.                                    
+222PA cA HF$r{-0}({+222}Pa)=1.53 {I2} from r{-0} parameters for neighboring     
+222PA2cA even-even nuclei                                                       
+222PA cL E$From E|a and Q(|a)                                                   
+226NP  P 0                             44 MS     6              8327      20    
+226NP cP T$weighted average of 48 ms {I5} (2019Mi08, Er-|a correlated decay at  
+226NP2cP GSI); 58 ms {I+70-20} (1995Le15, Er-|a correlated decay at Jyvaskyla), 
+226NP3cP and 31 ms {I8} (1990Ni05, Er-|a correlated decay at GSI)               
+226NP cP QP$Deduced by evaluator from E|a=8180 {I20}, assuming this |a feeds    
+226NP2cP the g.s. of {+222}Pa. Other: 8330 {I50} (2021Wa16)                     
+222PA  N                       1.0                                              
+222PA cN BR$Only the |a decay of {+226}Np has been observed, thus %|a=100       
+222PA2cN is assigned.                                                           
+222PA  L 0                             3.8 MS    6                              
+222PA cL T$from the Adopted Levels                                              
+222PA  A 8180      20                                                           
+222PA cA E$from 2019Mi08                                                        
+222PA cA $2019Mi08 mention that the intensity of this |a peak is comparable to  
+222PA2cA that for the 8090 {I20} and the 7990 {I20} peaks, however, authors also
+222PA3cA point out possible summing with conversion electrons. 2019Mi08 did     
+222PA4cA not provide any numerical values for the intensities of the three      
+222PA5cA peaks.                                                                 
+222PA  L 107       30                                                           
+222PA  A 8075      20  50    15  4.2   15                                       
+222PA cA E$weighted average of 8090 {I20} (2019Mi08) and 8060 {I20} (1993AnZS). 
+222PA2cA Other: 8044 {I20} (1990Ni05)                                           
+222PA  L 188       30                                                           
+222PA  A 7995      20  50    15  2.4   9                                        
+222PA cA E$weighted average of 7990 {I20} (2019Mi08) and 8000 {I20} (1993AnZS)  

@@ -1,0 +1,595 @@
+249CF    ADOPTED LEVELS, GAMMAS                                  24NDS    202403
+249CF  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249CF  Q -1450     SY 5587   5 5700    50 6293.3 5     2021WA16                 
+249CF cQ $|DQ(|b{+-})=30 (syst,2021Wa16)                                        
+249CF cQ $S(2n)=12529 {I14}, S(2p)=10388 {I4} (2021Wa16)                        
+249CF c                                                                         
+249CF cG E(B),RI(b)$From {+249}Es |e decay                                      
+249CF cG E(E)$From ({+208}Pb,{+208}Pb'|g)                                       
+249CF cG M,MR$From conversion coefficient data in {+249}Es |e decay             
+249CF2cG (1976Ah07), except as noted                                            
+249CF cL E$From least-squares fit to E|g by the evaluator. Gammas without       
+249CF2cL uncertainty have been assigned a 1 keV uncertainty during              
+249CF3cL the fit                                                                
+249CF CL BAND(A)$|n9/2[734],|a=+1/2                                             
+249CF CL BAND(a)$|n9/2[734],|a=-1/2                                             
+249CF CL BAND(B)$|n5/2[622],|a=+1/2                                             
+249CF CL BAND(b)$|n5/2[622],|a=-1/2                                             
+249CF CL BAND(M)$1/2+[620]                                                      
+249CF CL BAND(N)$7/2+[624]                                                      
+249CF CL BAND(O)$7/2[613]                                                       
+249CF CL BAND(I)$9/2[734]-2+                                                    
+249CF CL BAND(J)$9/2[734]+2+                                                    
+249CF CL BAND(K)$9/2[734]+2-                                                    
+249CF CL BAND(L)$9/2[734]-1-                                                    
+249CF CL BAND(P)$9/3[734]+1-                                                    
+249CF CL BAND(G)$9/2[734]+3-                                                    
+249CF  XA249BK B- DECAY                                                         
+249CF  XB249ES EC DECAY                                                         
+249CF  XC253FM A DECAY                                                          
+249CF  XD249CF(D,D')                                                            
+249CF  XE249CF(208PB,208PB'G)                                                   
+249CF DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+249CF PN                                                                     6  
+249CF  L 0.0          9/2-             351 Y     2                          A   
+249CFX L XREF=ABCDE                                                             
+249CF2 L %A=100$  %SF=5.0E-7 5                                                  
+249CF2 L MOMM1=-0.395 17$MOME2=6.27 33                                          
+249CF cL MOMM1,MOME2$Deduced from the weighted mean values for the ground       
+249CF2cL state HFS parameters (2023We04)                                        
+249CF cL J$From favored |a to 9/2-, 9/2[734] level in {+245}Cm.                 
+249CF cL T$From weighted average of 350.6 y {I21} (1973St15), 352 y {I6}        
+249CF2cL (1969Me01), 345 y {I15} (1969Mi08) and 360 y {I40} (1957Ea01)          
+249CF cL %SF$fom T{-1/2}(SF)=7.2|*10{+10} {I7}; unweighted average of           
+249CF2cL 8.5|*10{+10} y {I5} (1987Ta26), 6.87|*10{+10} y {I33} (1969Mi08),      
+249CFxcL 6.14|*10{+10} y {I37} (1966Rg04)                                       
+249CF  L 62.48     5  11/2-                                                 a   
+249CFX L XREF=BCDE                                                              
+249CF cL J$M1+E2 62.47|g to 9/2{+-}g.s.; band member                            
+249CF  G 62.47     5  100      M1+E2     0.29    3     46.8   27                
+249CFS G  LC=34.6 19$MC=9.0 6                                                   
+249CFS G  NC=2.50 16$OC=0.64 4$PC=0.115 6$QC=0.00479 9                          
+249CF cG E$from {+249}Es |e decay                                               
+249CF  L 136.2      3 13/2-                                                 A   
+249CFX L XREF=BDE                                                               
+249CF cL J$From (d,d'); band member                                             
+249CF  G 73.7                  [M1,E2]                 6.E1    4               S
+249CFS G  LC=41 26$MC=11 8                                                      
+249CFS G  NC=3.2 22$OC=0.8 5$PC=0.13 8$QC=0.0019 13                             
+249CF cG E$From level energy difference                                         
+249CF  G 136.2                 [E2]                    5.53    8               S
+249CFS G  KC=0.1179 17$LC=3.90 5$MC=1.110 16                                    
+249CFS G  NC=0.312 4$OC=0.0774 11$PC=0.01250 17$QC=6.14E-5 9                    
+249CF cG E$From level energy difference                                         
+249CF  L 144.98    5  5/2+             45 US     5                          BM  
+249CFX L XREF=BCE                                                               
+249CF cL J$M2+E3 234.6|g to 9/2{+-}g.s., E2 271.8|g from 1/2+ 416.8-keV level.  
+249CF cL T$From |a|g(t) in {+253}Fm |a decay (1967Ah02)                         
+249CF  G 144.99    6  100      M2+E3     0.42    +11-1264.9   11                
+249CFS G  KC=30.7 25$LC=24.5 21$MC=7.1 7                                        
+249CFS G  NC=2.01 21$OC=0.51 5$PC=0.091 7$QC=0.00350 22                         
+249CF cG M$From analysis of anomalous M2 conversion coefficients (1993Li52)     
+249CF cG E$Other: 144.8 {I4} from {+253}Fm |a decay                             
+249CFB G BM2W=0.0035 +5-4 $BE3W=12 6                                            
+249CF  L 187.97    6  7/2+                                                  b   
+249CFX L XREF=BCDE                                                              
+249CF cL J$M1+E2 43.00|g to 5/2+ 144.98-kev level; band member                  
+249CF  G 43.00     5  100      M1+E2     0.27          177.5  26            B   
+249CFF G FLAG=b                                                                 
+249CFS G  LC=130.5 19$MC=34.5 5                                                 
+249CFS G  NC=9.63 14$OC=2.44 4$PC=0.427 6$QC=0.01466 21                         
+249CF  L 221.7     10  15/2-                                                a   
+249CFX L XREF=CDE                                                               
+249CF cL J$From (d,d'); 159.3|g to 11/2{+-} 62.47-keV level; band member        
+249CF  G 159.3                                                              E   
+249CF  L 243.13    7  9/2+                                                  B   
+249CFX L XREF=BCDE                                                              
+249CF cL J$M1+E2 55.14|g to 7/2+ level; band member                             
+249CF  G 55.14     5  100      M1+E2     0.14          54.6    8            B   
+249CFF G FLAG=b                                                                 
+249CFS G  LC=40.6 6$MC=10.21 15                                                 
+249CFS G  NC=2.84 4$OC=0.731 10$PC=0.1377 20$QC=0.00724 10                      
+249CF  G 98.2                                                                  S
+249CF cG E$From level energy difference                                         
+249CF  L 310.1     10 11/2+                                                 b   
+249CF cL J$122.0|g to 7/2+ 187.97-keV level; band member                        
+249CFX L XREF=E                                                                 
+249CF  G 122.0                                                                 S
+249CF cG E$From level energy difference                                         
+249CF  L 318.4      6 17/2-                                                 A   
+249CFX L XREF=DE                                                                
+249CF cL J$From (d,d'); 182.2|g to 13/2{+-} 136-keV level; band member          
+249CF  G 182.2     5                                                        E   
+249CF  L 379.54    5  7/2+                                                  N   
+249CFX L XREF=B                                                                 
+249CF cL J$E1 379.5|g to 9/2- g.s., E2+M1 |g to 5/2+ 144.98-keV level           
+249CF  G 136.37    8  0.16   4 [M1]                    15.50  22            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=12.01 17$LC=2.61 4$MC=0.641 9                                      
+249CFS G  NC=0.1777 25$OC=0.0461 7$PC=0.00891 13$QC=0.000525 7                  
+249CF  G 191.6     1  0.99   7 M1+E2     0.53    +18-195.0     5            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=3.7 5$LC=0.962 19$MC=0.2436 34                                     
+249CFS G  NC=0.0677 10$OC=0.01740 25$PC=0.00325 8$QC=0.000159 21                
+249CF  G 234.6     1  0.64   7 M1+E2     4.7     15    0.75   13            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.23 12$LC=0.378 10$MC=0.1057 21                                   
+249CFS G  NC=0.0297 6$OC=0.00740 16$PC=0.00124 4$QC=1.6E-5 5                    
+249CF  G 379.5     1  100    6 E1                      0.0281  4            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.02213 31$LC=0.00451 6$MC=0.001100 15                             
+249CFS G  NC=0.000303 4$OC=7.73E-5 11$PC=1.422E-5 20$QC=6.86E-7 10              
+249CF  L 390.0     10 13/2+                                                 B   
+249CFX L XREF=DE                                                                
+249CF cL J$From (d,d'); 416.8|g to 9/2+ 243.13-keV level; band member           
+249CF  G 147                                                                *   
+249CFF G FLAG=E                                                                 
+249CF  L 416.8      4  1/2+                                                 M   
+249CFX L XREF=C                                                                 
+249CF cL J$From favored |a-decay with HF=3.0 from 1/2+ {+253}Fm parent          
+249CF  G 271.8     4  100      E2                      0.377   6            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.0954 14$LC=0.2039 31$MC=0.0571 9                                 
+249CFS G  NC=0.01603 24$OC=0.00400 6$PC=0.000669 10$QC=7.75E-6 11               
+249CF cG M$From conversion electron data in {+253}Fm |a decay                   
+249CF  L 426.9     12 19/2-                                                 a   
+249CFX L XREF=DE                                                                
+249CF cL J$From (d,d'); 205.2|g to 15/2{+-} 221.7-keV level; band member        
+249CF  G 205.2                                                              E   
+249CF  L 437.56    6  9/2+                                                  N   
+249CFX L XREF=B                                                                 
+249CF cL J$E1 375.1|g to 11/2{+-} 62.48-keV level; E1 437.6|g to 9/2- g.s.;     
+249CF2cL M1+E2 58.01|g to 7/2+ 379.54-keV level                                 
+249CF  G 58.01     5  1.33   21M1+E2     0.52    9     95     15            B   
+249CFF G FLAG=b                                                                 
+249CFS G  LC=69 10$MC=18.8 31                                                   
+249CFS G  NC=5.3 9$OC=1.32 21$PC=0.224 32$QC=0.00534 28                         
+249CF  G 375.1     1  100    9 E1                      0.0288  4            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.02265 32$LC=0.00462 6$MC=0.001128 16                             
+249CFS G  NC=0.000310 4$OC=7.93E-5 11$PC=1.457E-5 20$QC=7.01E-7 10              
+249CF  G 437.6     1  22.7   15E1                      0.0211930            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.01675 23$LC=0.00333 5$MC=0.000812 11                             
+249CFS G  NC=0.0002235 31$OC=5.72E-5 8$PC=1.059E-5 15$QC=5.25E-7 7              
+249CF  L 440          (3/2+)                                                M   
+249CFX L XREF=C                                                                 
+249CF cL J$band member                                                          
+249CF  L 442.99    6   7/2+                                                 O   
+249CFX L XREF=B                                                                 
+249CF cL J$M1 255.0|g to 7/2+ 187.97-keV level ; M1 298.0|g to 5/2+ 144.98-keV  
+249CF2cL level; 443.1|g to 9/2- g.s                                             
+249CF  G 63.45     5  10.4   13M1                      32.0    5            B   
+249CFF G FLAG=b                                                                 
+249CFS G  LC=23.99 34$MC=5.91 8                                                 
+249CFS G  NC=1.637 23$OC=0.425 6$PC=0.0822 12$QC=0.00486 7                      
+249CF  G 255.0     2  20     5 M1                      2.69    4            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=2.097 30$LC=0.441 6$MC=0.1084 15                                   
+249CFS G  NC=0.0300 4$OC=0.00779 11$PC=0.001505 21$QC=8.82E-5 12                
+249CF  G 298.0     1  100    7 M1                      1.741  24            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=1.360 19$LC=0.286 4$MC=0.0701 10                                   
+249CFS G  NC=0.01941 27$OC=0.00504 7$PC=0.000973 14$QC=5.69E-5 8                
+249CF  G 443.1     3  5.5    16[E1]                    0.0206829            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.01635 23$LC=0.00325 5$MC=0.000791 11                             
+249CFS G  NC=0.0002177 31$OC=5.57E-5 8$PC=1.032E-5 15$QC=5.13E-7 7              
+249CF  L 460          (5/2+)                                                M   
+249CF cL J$band member                                                          
+249CFX L XREF=C                                                                 
+249CF  L 480.2     12 15/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$170|g to 11/2+ 310.1-keV level; band member                          
+249CF  G 170                                                                E   
+249CF  L 500.6     3  (9/2+)                                                O  ?
+249CFX L XREF=B                                                                 
+249CF cL J$63|g to 9/2+ 437.56-keV level; band member                           
+249CF  G 63.0                  [M1,E2]                 1.1E+2  8               S
+249CFS G  LC=8.E1 6$MC=23 17                                                    
+249CFS G  NC=7 5$OC=1.6 12$PC=0.26 18$QC=0.0031 19                              
+249CF cG E$From level energy difference                                         
+249CF  L 546.3     11 21/2-                                                 A   
+249CFX L XREF=E                                                                 
+249CF cL J$227.8|g to 17/2{+-} 318.4-keV level; band member                     
+249CF  G 227.8                                                              E   
+249CF  L 550.6     10 (1/2+,3/2,5/2+)                                           
+249CFX L XREF=C                                                                 
+249CF cL J$405|g to 5/2+ 144.98-keV level; 134|g to 1/2+ 416.8-keV level        
+249CF  G 134                                                                B   
+249CF  G 405       2  100    AP                                             B   
+249CFF G FLAG=b                                                                 
+249CF  L 583.6     12   17/2+                                               B   
+249CFX L XREF=E                                                                 
+249CF cL J$193.7|g to 13/2+ 390.0-keV level; band member                        
+249CF  G 193.7                                                              E   
+249CF  L 606       AP                                                           
+249CFX L XREF=C                                                                 
+249CF  L 668       2  (13/2-)                                               J   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d')                                                          
+249CF  L 677.2     13 23/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$250.4|g to 19/2{+-} 426.9-keV level; band member                     
+249CF  G 250.4                                                              E   
+249CF  L 697.4     13 19/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$217.2|g to 15/2+ 480.2-keV level; band member                        
+249CF  G 217.2                                                              E   
+249CF  L 751       3  (15/2-)                                               J   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 813.21    8  (5/2)-                                                I   
+249CFX L XREF=BD                                                                
+249CF cL J$E2 813.2|g to 9/2- g.s.; log{Ift}=6.3 for |e branch from 7/2+;       
+249CF2cL from (d,d')                                                            
+249CF  G 370.1     2  1.5    4 [E1]                    0.0296  4            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.02326 33$LC=0.00476 7$MC=0.001161 16                             
+249CFS G  NC=0.000320 4$OC=8.16E-5 11$PC=1.499E-5 21$QC=7.19E-7 10              
+249CF  G 433.7     3  0.67   11[E1]                    0.0215630            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.01704 24$LC=0.00340 5$MC=0.000827 12                             
+249CFS G  NC=0.0002277 32$OC=5.83E-5 8$PC=1.078E-5 15$QC=5.34E-7 8              
+249CF  G 625.3     2  1.41   14[E1]                    0.0108015            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.00862 12$LC=0.001634 23$MC=0.000396 6                            
+249CFS G  NC=0.0001089 15$OC=2.80E-5 4$PC=5.25E-6 7$QC=2.78E-7 4                
+249CF  G 668.3     2  2.61   21 E1                     0.0095713            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.00766 11$LC=0.001440 20$MC=0.000348 5                            
+249CFS G  NC=9.59E-5 13$OC=2.466E-5 35$PC=4.64E-6 6$QC=2.476E-7 35              
+249CF  G 813.2     1  100    7 E2                      0.0230932            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.01578 22$LC=0.00540 8$MC=0.001398 20                             
+249CFS G  NC=0.000389 5$OC=9.92E-5 14$PC=1.810E-5 25$QC=6.87E-7 10              
+249CF  L 819.2     12 25/2-                                                 A   
+249CFX L XREF=E                                                                 
+249CF cL J$272.9|g to 21/2{+-} 546.3-keV level; 142|g to 23/2{+-} 677.2-keV     
+249CF2cL level; band member                                                     
+249CF  G 142                                                                E   
+249CF  G 272.9                                                                  
+249CF  L 823.3     13 21/2+                                                 B   
+249CFX L XREF=E                                                                 
+249CF cL J$126|g to 19/2+ 697.4-keV level; 239.7|g to 17+ 583.6 keV level;      
+249CF2cL band member                                                            
+249CF  G 126                                                                E   
+249CF  G 239.7                                                              E   
+249CF  L 852.19    8  (7/2)-                                                I   
+249CFX L XREF=BD                                                                
+249CF cL J$E2 789.7|g to 11/2{+-} 62.48-keV level; log{Ift}=6.9 for |e branch   
+249CF2cL from 7/2+; band member                                                 
+249CF  G 609.2     4  2.6    AP[E1]                    0.0113216            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.00904 13$LC=0.001719 24$MC=0.000416 6                            
+249CFS G  NC=0.0001146 16$OC=2.94E-5 4$PC=5.52E-6 8$QC=2.91E-7 4                
+249CF  G 664.0     5  0.87   AP[E1]                    0.0096814            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.00775 11$LC=0.001457 21$MC=0.000353 5                            
+249CFS G  NC=9.70E-5 14$OC=2.496E-5 35$PC=4.69E-6 7$QC=2.504E-7 35              
+249CF  G 707.0     5  2.6    AP[E1]                    0.0086512            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.00693 10$LC=0.001295 18$MC=0.000313 4                            
+249CFS G  NC=8.61E-5 12$OC=2.217E-5 31$PC=4.18E-6 6$QC=2.249E-7 32              
+249CF  G 789.7     1  100    8 E2                      0.0244834            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.01658 23$LC=0.00583 8$MC=0.001515 21                             
+249CFS G  NC=0.000422 6$OC=0.0001074 15$PC=1.956E-5 27$QC=7.27E-7 10            
+249CF  G 852.2     1  77     6 E2                      0.0210529            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.01459 20$LC=0.00478 7$MC=0.001234 17                             
+249CFS G  NC=0.000343 5$OC=8.75E-5 12$PC=1.603E-5 22$QC=6.27E-7 9               
+249CF  L 902.52    17 (9/2-)                                                I   
+249CFX L XREF=BD                                                                
+249CF cL J$902.6|g to 9/2- g.s., 766.3|g to 13/2{+-} 136.2-keV level;           
+249CF2cL log{Ift}=7.8 from 7/2+ {+249}Es |e decay; band member                  
+249CF  G 766.3     3  113    LT[E2]                    0.0260  4            &   
+249CFF G FLAG=B                                                                 
+249CFS G  KC=0.01744 24$LC=0.00632 9$MC=0.001645 23                             
+249CFS G  NC=0.000458 6$OC=0.0001166 16$PC=2.119E-5 30$QC=7.71E-7 11            
+249CF  G 840.0     2  100    9 [M1,E2]                 0.06    4            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.048 33$LC=0.011 6$MC=0.0027 14                                   
+249CFS G  NC=7.E-4 4$OC=1.9E-4 10$PC=3.7E-5 20$QC=2.0E-6 13                     
+249CF  G 902.6     3  19     6 [M1,E2]                 0.052  33            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.040 27$LC=0.009 5$MC=0.0022 11                                   
+249CFS G  NC=6.1E-4 32$OC=1.6E-4 8$PC=3.0E-5 16$QC=1.6E-6 11                    
+249CF  L 920       2  (11/2+)                                               P   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d')                                                          
+249CF  L 960.2     14 23/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$137|g to 21/2+ 823.3-keV level; 262.5|g to 19/2+ 697.4-keV level;    
+249CF2cL band member                                                            
+249CF  G 137                                                                E   
+249CF  G 262.5                                                              E   
+249CF  L 962       3  (11/2-)                                               I   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 972.3     13 27/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$153|g to 25/2{+-} 819-keV level; 295.2|g to 23/2{+-}                 
+249CF2cL 677.2-keV level; band member                                           
+249CF  G 153                                                                E   
+249CF  G 295.2                                                              E   
+249CF  L 992       2  13/2+                                                 P   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 1007.92   7  (9/2+)                                                    
+249CFX L XREF=BD                                                                
+249CF cL $Configuration=9/2[615] (1976Ah07)                                     
+249CF cL J$M1 570.3|g 9/2+ 437.56-keV level; (E1) 1007.9|g to 9/2- g.s.         
+249CF  G 507.3     3  5.5    14[M1,E2]                 0.23   17            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.18 14$LC=0.044 22$MC=0.011 5                                     
+249CFS G  NC=0.0030 14$OC=8.E-4 4$PC=1.5E-4 8$QC=7.E-6 6                        
+249CF  G 565.0     2  28.8   23M1                      0.302   4            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.2362 33$LC=0.0490 7$MC=0.01200 17                                
+249CFS G  NC=0.00332 5$OC=0.000862 12$PC=0.0001664 23$QC=9.73E-6 14             
+249CF  G 570.3     3  7.4    19M1                      0.294   4            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.2303 32$LC=0.0477 7$MC=0.01170 16                                
+249CFS G  NC=0.00324 5$OC=0.000840 12$PC=0.0001622 23$QC=9.48E-6 13             
+249CF  G 628.5     2  28.8   23M1(+E2)   0.71    +31-280.163  34            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.126 27$LC=0.028 5$MC=0.0069 11                                   
+249CFS G  NC=0.00192 30$OC=0.00050 8$PC=9.5E-5 16$QC=5.2E-6 11                  
+249CF  G 766.3     3  15.1   LT                                             &  ?
+249CFF G FL=243.13                                                              
+249CF cG E$Poor fit. Level energy difference=764.79 {I13}                       
+249CFF G FLAG=B                                                                 
+249CF  G 820.5     5  1.37   AP[M1,E2]                 0.07    4            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.051 35$LC=0.012 6$MC=0.0029 15                                   
+249CFS G  NC=8.E-4 4$OC=2.0E-4 11$PC=3.9E-5 21$QC=2.1E-6 14                     
+249CF  G 862.8     3  2.5    8 [E2]                    0.0205429            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.01428 20$LC=0.00463 6$MC=0.001194 17                             
+249CFS G  NC=0.000332 5$OC=8.47E-5 12$PC=1.553E-5 22$QC=6.12E-7 9               
+249CF  G 945.4     1  32.9   28(E1)                    0.00521 7            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.00420 6$LC=0.000762 11$MC=0.0001835 26                           
+249CFS G  NC=5.05E-5 7$OC=1.303E-5 18$PC=2.475E-6 35$QC=1.385E-7 19             
+249CF  G 1007.9    1  100    8 (E1)                    0.00467 7            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.00377 5$LC=0.000681 10$MC=0.0001637 23                           
+249CFS G  NC=4.51E-5 6$OC=1.163E-5 16$PC=2.213E-6 31$QC=1.247E-7 17             
+249CF  L 1031      5                                                            
+249CFX L XREF=D                                                                 
+249CF  L 1063      2  (13/2+)                                               K   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d')                                                          
+249CF  L 1078      3  15/2+                                                 G   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d')                                                          
+249CF  L 1107.4    15 25/2+                                                 B   
+249CFX L XREF=DE                                                                
+249CF cL J$147|g to 23/2+ 960.2-keV; 284.4|g to 21/2+ 823.3-keV;                
+249CF2cL band member                                                            
+249CF  G 147                                                                *   
+249CFF G FLAG=E                                                                 
+249CFF G FL=960.2                                                               
+249CF  G 284.4                                                              E   
+249CF  L 1136.1    14 29/2-                                                 A   
+249CFX L XREF=E                                                                 
+249CF cL J$164|g to 27/2{+-} 972.3-keV level; 316.8|g to 25/2{+-}               
+249CF2cL 819.2-keV level; band member                                           
+249CF  G 164                                                                E   
+249CF  G 316.8                                                              E   
+249CF  L 1145      3  (15/2+)                                               K   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 1164      4                                                            
+249CFX L XREF=D                                                                 
+249CF  L 1178      3  (17/2+)                                               G   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 1199.8    4  (7/2-,9/2)                                                
+249CFX L XREF=BD                                                                
+249CF cL J$1137.3|g to 11/2{+-} 62.48-keV level; 1199.8|g to 9/2- g.s.;         
+249CF2cL log{Ift}=7.8 from 7/2+ {+249}Es |e decay.                              
+249CF  G 1137.3    5  63     AP                                             B   
+249CFF G FLAG=b                                                                 
+249CF  G 1199.8    5  100    38                                             B   
+249CFF G FLAG=b                                                                 
+249CF  L 1218.50   10 (7/2)-                                                    
+249CFX L XREF=BD                                                                
+249CF cL J$M1+E2 1218.5|g to 9/2- g.s.; log{Ift}=5.9                            
+249CF2cL from 7/2+ {+249}Es |e decay. The low log{Ift}                          
+249CF3cL indicates that this is not the 7/2[743] hole state. 1976Ah07 has       
+249CF4cL suggested that this is a 3-quasiparticle state with                    
+249CF5cL configuration=((|p 7/2[633])(|p 3/2[521])(|n 3/2[622]))                
+249CF  G 1218.5    1  100      M1+E2     0.62    +29-280.030   5            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.024 4$LC=0.0050 7$MC=0.00122 17                                  
+249CFS G  NC=0.00034 5$OC=8.7E-5 12$PC=1.68E-5 24$QC=9.6E-7 16$IPC=1.10E-5 17   
+249CF  L 1236      3  (17/2+)                                               K   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 1238.06   17 (5/2-,7/2,9/2+)                                           
+249CFX L XREF=B                                                                 
+249CF cL J$1093.2|g to 5/2+ 144.98-keV level;                                   
+249CF2cL 1238.0|g to 9/2- g.s.; band member                                     
+249CF  G 1093.2    3  100    19                                             B   
+249CFF G FLAG=b                                                                 
+249CF  G 1238.0    2  74     10                                             B   
+249CFF G FLAG=b                                                                 
+249CF  L 1251      5                                                            
+249CFX L XREF=D                                                                 
+249CF  L 1266.1    15 27/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$159|g to 25/2+ 1107.4-keV; 305.8|g to 23/2+ 960.2-keV level;         
+249CF2cL log{Ift}=7.2 from 7/2+ {+249}Es |e decay; band member                  
+249CF  G 159                                                                E   
+249CF  G 305.8                                                              E   
+249CFF G FL=960.2                                                               
+249CF  L 1267.7    4  (9/2-)                                                    
+249CFX L XREF=B                                                                 
+249CF cL J$1205.1|g to 11/2{+-} 62.48-keV level; 1267.8|g to 9/2- g.s.;         
+249CF2cL log{Ift}= 7.2 from 7/2+ {+249}Es |e decay                              
+249CF  G 1205.1    5  100    20[M1,E2]                 0.025  14            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.019 11$LC=0.0042 21$MC=1.0E-3 5                                  
+249CFS G  NC=2.8E-4 14$OC=7.E-5 4$PC=1.4E-5 7$QC=8.E-7 5$IPC=7.E-6 4            
+249CF  G 1267.8    5  20     7 [M1,E2]                 0.022  12            B   
+249CFF G FLAG=b                                                                 
+249CFS G  KC=0.017 10$LC=0.0037 18$MC=9.E-4 4                                   
+249CFS G  NC=2.5E-4 12$OC=6.4E-5 31$PC=1.2E-5 6$QC=7.E-7 4$IPC=1.8E-5 10        
+249CF  L 1304.3    3                                                            
+249CFX L XREF=BD                                                                
+249CF  G 1304.3    3  100                                                   B   
+249CFF G FLAG=b                                                                 
+249CF  L 1310.8    15 31/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$175|g to 29/2{+-} 1136.1-keV level; 338.3|g to 27/2{+-}              
+249CF2cL 972.3-keV level;                                                       
+249CF2cL band member                                                            
+249CF  G 175                                                                E   
+249CF  G 338.3                                                              E   
+249CF  L 1340      4  (19/2+)                                               K   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 1415      3  (7/2+)                                                L   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d')                                                          
+249CF  L 1434.1    16 29/2+                                                 B   
+249CFX L XREF=E                                                                 
+249CF cL J$168|g to 27/2+ 1266.1-keV level; 326.5|g to 25/2+ 1107.4-keV level;  
+249CF2cL band member                                                            
+249CF  G 168                                                                E   
+249CFF G FL=1266.1                                                              
+249CF  G 326.5                                                              E   
+249CF  L 1463      3  (9/2+)                                                L   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 1482      4                                                            
+249CFX L XREF=D                                                                 
+249CF  L 1495.7    15 33/2-                                                 A   
+249CFX L XREF=DE                                                                
+249CF cL J$185|g to 31/2{+-} 1310.8-keV level; 359.6|g to 29/2{+-}              
+249CF2cL 1136.1-keV level; band member                                          
+249CF  G 185                                                                E   
+249CF  G 359.6                                                              E   
+249CF  L 1530      3  (11/2+)                                               L   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 1541      4                                                            
+249CFX L XREF=D                                                                 
+249CF  L 1603      3  (13/2+)                                               L   
+249CFX L XREF=D                                                                 
+249CF cL J$From (d,d'); band member                                             
+249CF  L 1613.2    17 31/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$179|g to 29/2+ 1434-keV level, 347.4|g to 27/2+ 1266.1-keV level;    
+249CF2cL band member                                                            
+249CF  G 179                                                                E   
+249CF  G 347.4                                                              E   
+249CFF G FL=1266.1                                                              
+249CF  L 1648      4                                                            
+249CFX L XREF=D                                                                 
+249CF  L 1674      4                                                            
+249CFX L XREF=D                                                                 
+249CF  L 1690.8    16 35/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$195|g to 33/2{+-} 1495.7-keV level;                                  
+249CF2cL 379.9|g to 31/2{+-} 1310.9-keV level; band member                      
+249CF  G 195                                                                E   
+249CF  G 379.9                                                              E   
+249CF  L 1709      4                                                            
+249CFX L XREF=D                                                                 
+249CF  L 1801.0    17 33/2+                                                 B   
+249CFX L XREF=E                                                                 
+249CF cL J$188|g to 31/2+ 1613.2-keV level; 366.7|g to 29/2+ 1434-keV level;    
+249CF2cL band member                                                            
+249CF  G 188                                                                E   
+249CF  G 366.7                                                              E   
+249CF  L 1896.1    17 37/2-                                                 A   
+249CFX L XREF=E                                                                 
+249CF cL J$205|g to 35/2{+-} 1690.8-keV level; 400.5|g to 33/2{+-}              
+249CF2cL 1495.8-keV level; band member                                          
+249CF  G 205                                                                E   
+249CF  G 400.5                                                              E   
+249CF  L 1914      3                                                            
+249CFX L XREF=D                                                                 
+249CF  L 2000.0    18 35/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$199|g to 33/2+ 1801.0-keV level; 386.7|g to 31/2+ 1613.2-keV level;  
+249CF2cL band member                                                            
+249CF  G 199                                                                E   
+249CF  G 386.7                                                              E   
+249CF  L 2110.3    17 39/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$214|g to 37/2{+-} 1896.1-keV level; 419.6|g to 35/2{+-}              
+249CF2cL 1690.8-keV level; band member                                          
+249CF  G 214                                                                E   
+249CF  G 419.6                                                              E   
+249CF  L 2205.6    20 37/2+                                                 B   
+249CFX L XREF=E                                                                 
+249CF cL J$404.6|g to 33/2+ 1801.0-keV level; band member                       
+249CF  G 404.6                                                              E   
+249CF  L 2335.2    18 41/2-                                                 A   
+249CFX L XREF=E                                                                 
+249CF cL J$225|g to 33/2+ 1801.0-keV level; 439|g to 39/2{+-} 2110.3-keV level; 
+249CF2cL band member                                                            
+249CF  G 225                                                                E   
+249CF  G 439.2                                                              E   
+249CF  L 2422.7    21 39/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$422.7|g to 35/2+ 2000.0-keV level; band member                       
+249CF  G 422.7                                                              E   
+249CF  L 2567.0    19 43/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$232|g to 41/2{+-} 2335.2-keV level; 456.6|g to 39/2{+-}              
+249CF2cL 2110.3-keV level; band member                                          
+249CF  G 232                                                                E   
+249CF  G 456.6                                                              E   
+249CF  L 2645.1    23 41/2+                                                 B   
+249CFX L XREF=E                                                                 
+249CF cL J$439.5|g to 37/2+ 2205.6-keV; band member                             
+249CF  G 439.5                                                              E   
+249CF  L 2810.3    21 45/2-                                                 A   
+249CFX L XREF=E                                                                 
+249CF cL J$475.1|g to 41/2{+-} 2335.2-keV level; band member                    
+249CF  G 475.1                                                              E   
+249CF  L 2879.1    23 43/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$456.4|g to 39/2+ 2442.7-keV level; band member                       
+249CF  G 456.4                                                              E   
+249CF  L 3057.5    21 47/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$490.5|g to 43/2{+-} 2567.0-keV; band member                          
+249CF  G 490.5                                                              E   
+249CF  L 3116.5    25 45/2+                                                 B   
+249CFX L XREF=E                                                                 
+249CF cL J$4471.4|g to 41/2+ 2645.1-keV level; band member                      
+249CF  G 471.4                                                              E   
+249CF  L 3317.8    23 49/2-                                                 A   
+249CFX L XREF=E                                                                 
+249CF cL J$507.5|g to 45/2{+-} 2810.3-keV level; band member                    
+249CF  G 507.5                                                              E   
+249CF  L 3365.2    25 47/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$486.1|g to 43/2+ 2879.1-keV level; band member                       
+249CF  G 486.1                                                              E   
+249CF  L 3577.7    24 51/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$520.2|g to 47/2{+-} 3057.5-keV level; band member                    
+249CF  G 520.2                                                              E   
+249CF  L 3615       3 49/2+                                                 B   
+249CFX L XREF=E                                                                 
+249CF cL J$498|g to 45/2+ 3116.5-keV level; band member                         
+249CF  G 498                                                                E   
+249CF  L 3852.8    25 53/2-                                                 A   
+249CFX L XREF=E                                                                 
+249CF cL J$535|g to 49/2{+-} 3317.8-keV level; band member                      
+249CF  G 535                                                                E   
+249CF  L 3875       3 51/2+                                                 b   
+249CFX L XREF=E                                                                 
+249CF cL J$510|g to 47/2+ 3385.2-keV level; band member                         
+249CF  G 510                                                                E  ?
+249CF  L 4125       3 55/2-                                                 a   
+249CFX L XREF=E                                                                 
+249CF cL J$547|g to 51/2{+-} 3577.7-keV level; band member                      
+249CF  G 547                                                                E  ?

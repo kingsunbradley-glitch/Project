@@ -1,0 +1,307 @@
+220RA    ADOPTED LEVELS, GAMMAS                                  26NDS    202609
+220RA  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220RA2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220RA dG CC$From BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+220RA dL E$Least-squares fitting is done by GLSC (version 23-Apr-2025)          
+220RA  Q -3472     10 7193   10 5634   10 7594   5     2021WA16                 
+220RA cQ $S(2n)=12516 {I12}, S(2p)=9523 {I8} (2021Wa16)                         
+220RA c                                                                         
+220RA c  Calculations, compilations, systematics:                               
+220RA c  {+14}C decay rate: 1986De32                                            
+220RA c  Spontaneous emission of heavy ions: 1986Po06                           
+220RA c  |a decay |G: 1995De59, 1992De44                                        
+220RA c  Binding energy, deformation role: 1986Ch23                             
+220RA c  Cluster model for |a decay, Geiger-Nuttall plot: 1991Bu05, 1986Ir01    
+220RA c  Equilibrium deformation: 1995Ru10, 1994Cw01, 1991Sk01, 1989Eg02,       
+220RA2c  1988So08, 1984Na22                                                     
+220RA c  K|p=0+ and K|p=0- bands: 1980Sh07                                      
+220RA c  Levels, |b(|l) ratios: 1995De13, 1995Mi22, 1993Am07, 1993Dz01,         
+220RA2c  1991Eg01, 1987En05, 1986Da03, 1986Le05                                 
+220RA c  Octupole shapes and shape changes: 1987Na10                            
+220RA c  p-n interaction energy: 1990Mo11                                       
+220RA c  Super- and hyperdeformed configurations: 1995We02                      
+220RA c  Quasi-bands in even-even nuclei: 1984Sa37                              
+220RA c  Yrast band parity splitting: 1995Jo11, 1993Sc11                        
+220RA c  Fission: 1999Po19, 1997An08.                                           
+220RA c                                                                         
+220RA cG E,RI$From ({+18}O,|a2n|g), unless otherwise noted                      
+220RA cG E(D),RI(E)$From {+220}Fr |b{+-} decay                                  
+220RA cG E(F),RI(H)$From ({+14}C,2n|g)                                          
+220RA cG M$From ({+14}C,2n|g), except where otherwise noted, based on |a(K)exp, 
+220RA2cG |a(L)exp, and |g(|q). A few (E1) and (E2) transitions, appear to be    
+220RA3cG assumed in ({+18}O,|a2n|g), for the conversion coefficient data are    
+220RA4cG listed as dipole D and quadrupole Q here in this adopted dataset.      
+220RA cG M(G)$From |g(|q) ({+18}O,|a2n|g). |g(|q) data were not listed in the   
+220RA2cG article by the authors.                                                
+220RA cL E$From a least-squares fit to |g-ray energies.                         
+220RA cL J$From bands structure in ({+14}C,2n|g) and ({+18}O,|a2n|g). The       
+220RA2cL assignments up to J|p=18+, for the g.s. rotational band, have been     
+220RA3cL confirmed by stretched Q and stretched D |g-ray transitions from |g(|q)
+220RA4cL measurements in ({+18}O,|a2n|g), however, the |g(|q) data were not     
+220RA5cL listed in the article.                                                 
+220RA CL BAND(A)$K{+|p}=0{++} g.s. rotational band                              
+220RA CL BAND(B)$K{+|p}=0{+-} band                                              
+220RA  XA220FR B- DECAY                                                         
+220RA  XB224TH A DECAY                                                          
+220RA  XC208PB(14C,2NG)                                                         
+220RA  XD208PB(18O,A2NG)                                                        
+220RA PN                                                                     6  
+220RA  L 0.0           0+              18 MS     2                          A   
+220RA2 L %A=100                                                                 
+220RAX L XREF=ABCD                                                              
+220RA cL T$weighted average of 17 ms {I2} (1990An19), 23 ms {I5} (1961Ru06 -    
+220RA2cL time-delayed |a counting), 19 ms {I3} (2018Sa45 - (implant)-|a         
+220RA3cL correlations), 18.2 ms {I39} (2025Gu12 - method not mentioned). Other: 
+220RA4cL 31 ms {I8} (1978IbZZ).                                                 
+220RA cL $Isotope shift: |D<r{+2}>=+0.68 fm{+2} {I7} relative to {+214}Ra       
+220RA2cL (1988Ah02)                                                             
+220RA  L 178.37    8   2+                                                   A   
+220RAX L XREF=ABCD                                                              
+220RA cL J$E2 |g ray to 0+, band assignment                                     
+220RA cL $In 1992Ro02, T{-1/2}=670 ps was predicted based on the 2Z-N=44        
+220RA2cL systematics.                                                           
+220RA  G 178.3     1  100      E2                      0.894  13            D   
+220RAS G  KC=0.1999 28$LC=0.511 7$MC=0.1382 20                                  
+220RAS G  NC=0.0365 5$OC=0.00781 11$PC=0.001151 16$QC=1.000E-5 14               
+220RA  L 409.77    22  4+                                                   A   
+220RAX L XREF=CD                                                                
+220RA cL J$stretched E2 |g ray to 2+                                            
+220RA  G 231.4     2  100      E2                      0.351   5                
+220RAS G  KC=0.1212 17$LC=0.1690 24$MC=0.0454 7                                 
+220RAS G  NC=0.01200 17$OC=0.00258 4$PC=0.000385 6$QC=5.20E-6 7                 
+220RA cG E$weighted average of 231.2 {I2} from ({+14}C,2n|g) and 231.6 {I2} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 412.93    8  (1-)                                                  B   
+220RAX L XREF=ABC                                                               
+220RA cL J$|g rays to 0+, 2+. Probable bandhead of K|p=0- band. 1- is expected  
+220RA2cL from the excited level energy ratio of E(1{+-})/E(2{++}) for the       
+220RA3cL even-even {+220-224}Ra isotopes (see {+224}Th |a Decay dataset).       
+220RA  G 234.5     1   72    20  [E1]                  0.0620  9            D   
+220RA3 G FLAG=E                                                                 
+220RAS G  KC=0.0496 7$LC=0.00937 13$MC=0.002238 31                              
+220RAS G  NC=0.000585 8$OC=0.0001302 18$PC=2.149E-5 30$QC=1.325E-6 19           
+220RA  G 413.0     1  100    13  [E1]                  0.0175125            D   
+220RA3 G FLAG=E                                                                 
+220RAS G  KC=0.01422 20$LC=0.002498 35$MC=0.000593 8                            
+220RAS G  NC=0.0001552 22$OC=3.49E-5 5$PC=5.89E-6 8$QC=4.03E-7 6                
+220RA  L 474.07    22 (3-)                                                  B   
+220RAX L XREF=BC                                                                
+220RA cL J$|g ray to 2+. Probable member of K|p=0- band                         
+220RA  G 295.7     2   100       [E1]                  0.0363  5            F   
+220RAS G  KC=0.0293 4$LC=0.00536 8$MC=0.001277 18                               
+220RAS G  NC=0.000334 5$OC=7.47E-5 11$PC=1.245E-5 18$QC=8.04E-7 11              
+220RA  L 634.17    28  (5)-                                                 B   
+220RAX L XREF=CD                                                                
+220RA cL J$E1, |DJ=1, |g ray to 4+                                              
+220RA  G 224.3     2   100     E1                      0.0688 10                
+220RAS G  KC=0.0550 8$LC=0.01045 15$MC=0.002498 35                              
+220RAS G  NC=0.000653 9$OC=0.0001452 21$PC=2.391E-5 34$QC=1.461E-6 21           
+220RA cG E$weighted average of 224.2 {I2} from ({+14}C,2n|g) and 224.6 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 687.67    28  6+                                                   A   
+220RAX L XREF=CD                                                                
+220RA cL J$E2 |g ray to 4+, band assignment.                                    
+220RA  G 278.0     2   100     E2                      0.1923 27                
+220RAS G  KC=0.0830 12$LC=0.0807 12$MC=0.02151 31                               
+220RAS G  NC=0.00568 8$OC=0.001226 18$PC=0.0001855 26$QC=3.36E-6 5              
+220RA cG E$weighted average of 277.8 {I2} from ({+14}C,2n|g) and 278.1 {I2} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 872.36    29 (7)-                                                  B   
+220RAX L XREF=CD                                                                
+220RA cL J$E1 |g ray to 6+, probable member of K|p=0- band                      
+220RA  G 184.7     2  100.0  18E1                      0.1091 16            H   
+220RAS G  KC=0.0867 12$LC=0.01700 24$MC=0.00407 6                               
+220RAS G  NC=0.001062 15$OC=0.0002353 34$PC=3.84E-5 5$QC=2.244E-6 32            
+220RA cG E$weighted average of 184.5 {I2} from ({+14}C,2n|g) and 184.9 {I2} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 238.1     2    6.5  18(E2)                    0.318   5            G   
+220RAS G  KC=0.1143 16$LC=0.1503 22$MC=0.0403 6                                 
+220RAS G  NC=0.01066 15$OC=0.002291 33$PC=0.000343 5$QC=4.85E-6 7               
+220RA cG RI$weighted average of 5.5 {I18} from ({+14}C,2n|g) and 8.3 {I24} from 
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 1000.58   30  8+                                                   A   
+220RAX L XREF=CD                                                                
+220RA cL J$(E1), |DJ=1, |g ray to (7)-; E2 |g ray to 6+; band assignment.       
+220RA  G 128.2     2  100    21(E1)                    0.263   4            F   
+220RAS G  KC=0.2061 30$LC=0.0435 6$MC=0.01047 15                                
+220RAS G  NC=0.00272 4$OC=0.000598 9$PC=9.53E-5 14$QC=5.09E-6 7                 
+220RA cG RI$other: 58 {I2} ({+14}C,2n|g) - see notes in the dataset.            
+220RA  G 313.0     2   57    11E2                      0.1340 19                
+220RAS G  KC=0.0649 9$LC=0.0511 7$MC=0.01353 19                                 
+220RAS G  NC=0.00357 5$OC=0.000773 11$PC=0.0001181 17$QC=2.56E-6 4              
+220RA cG E$weighted average of 312.9 {I2} from ({+14}C,2n|g) and 313.3 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 1162.84   32 (9)-                                                  B   
+220RAX L XREF=CD                                                                
+220RA cL J$E1, |DJ=1, |g ray to 8+, probable member of K|p=0- band              
+220RA  G 162.3     2  100.0  23E1                      0.1489 21            F   
+220RAS G  KC=0.1178 17$LC=0.02363 34$MC=0.00567 8                               
+220RAS G  NC=0.001478 21$OC=0.000326 5$PC=5.28E-5 8$QC=3.00E-6 4                
+220RA cG E$weighted average of 162.1 {I2} from ({+14}C,2n|g) and 162.5 {I2} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 290.4     2   13    4 (E2)                    0.1680 24            G   
+220RAS G  KC=0.0758 11$LC=0.0681 10$MC=0.01810 26                               
+220RAS G  NC=0.00478 7$OC=0.001033 15$PC=0.0001568 22$QC=3.04E-6 4              
+220RA cG E$weighted average of 290.3 {I2} from ({+14}C,2n|g) and 290.8 {I4} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA cG RI$other: 40 {I7} ({+14}C,2n|g)                                        
+220RA  L 1341.85   33  10+                                                  A   
+220RAX L XREF=CD                                                                
+220RA cL J$stretched Q |g ray to 8+; member of |DJ=2 rotational band            
+220RA  G 178.9     2  100    12(E1)                    0.1178 17            G   
+220RA2 G FLAG=H                                                                 
+220RAS G  KC=0.0935 13$LC=0.01843 26$MC=0.00442 6                               
+220RAS G  NC=0.001152 16$OC=0.000255 4$PC=4.15E-5 6$QC=2.410E-6 34              
+220RA cG E$weighted average of 179.0 {I2} from ({+14}C,2n|g) and 178.6 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 341.3     2   35    3 (E2)                    0.1042 15            G   
+220RA2 G FLAG=H                                                                 
+220RAS G  KC=0.0543 8$LC=0.0370 5$MC=0.00974 14                                 
+220RAS G  NC=0.00257 4$OC=0.000558 8$PC=8.59E-5 12$QC=2.105E-6 30               
+220RA cG E$weighted average of 341.2 {I2} from ({+14}C,2n|g) and 341.5 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 1495.26   34 (11)-                                                 B   
+220RAX L XREF=CD                                                                
+220RA cL J$E1, |DJ=1, |g ray to 10+; probable member of K|p=0- band             
+220RA  G 153.3     3  100    3 E1                      0.1710 25            H   
+220RAS G  KC=0.1349 20$LC=0.0274 4$MC=0.00657 10                                
+220RAS G  NC=0.001712 25$OC=0.000378 6$PC=6.09E-5 9$QC=3.41E-6 5                
+220RA cG E$weighted average of 153.2 {I2} from ({+14}C,2n|g) and 153.6 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 332.5     2   40    8 (E2)                    0.1123 16            G   
+220RAS G  KC=0.0573 8$LC=0.0407 6$MC=0.01075 15                                 
+220RAS G  NC=0.00284 4$OC=0.000615 9$PC=9.44E-5 13$QC=2.232E-6 31               
+220RA cG E$weighted average of 332.4 {I2} from ({+14}C,2n|g) and 332.7 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA cG RI$other: 83 {I7} ({+14}C,2n|g)                                        
+220RA  L 1710.5    4   12+                                                  A   
+220RAX L XREF=CD                                                                
+220RA cL J$E1, |DJ=1, |g ray to (11)-; Q, |DJ=2, to 10+; member of |DJ=2        
+220RA2cL rotational band                                                        
+220RA  G 215.3     2  100    5 E1                      0.0757 11            H   
+220RAS G  KC=0.0605 9$LC=0.01157 16$MC=0.00277 4                                
+220RAS G  NC=0.000723 10$OC=0.0001606 23$PC=2.64E-5 4$QC=1.598E-6 23            
+220RA cG E$weighted average of 215.4 {I2} from ({+14}C,2n|g) and 215.1 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 368.6     2   47    5 (E2)                    0.0841 12            G   
+220RAS G  KC=0.0464 7$LC=0.0280 4$MC=0.00734 10                                 
+220RAS G  NC=0.001938 27$OC=0.000421 6$PC=6.52E-5 9$QC=1.775E-6 25              
+220RA cG E$weighted average of 368.7 {I2} from ({+14}C,2n|g) and 368.2 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA cG RI$unweighted average of 48 {I5} from ({+14}C,2n|g) and 44 {I8} from   
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 1862.6    4  (13)-                                                 B   
+220RAX L XREF=CD                                                                
+220RA cL J$E1, |DJ=1, |g ray to 12+; Q, |DJ=2, |g to (11)-                      
+220RA  G 152.0     3  100    5 E1                      0.1745 26            H   
+220RAS G  KC=0.1376 20$LC=0.0280 4$MC=0.00671 10                                
+220RAS G  NC=0.001750 26$OC=0.000386 6$PC=6.22E-5 9$QC=3.47E-6 5                
+220RA cG E$weighted average of 151.8 {I2} from ({+14}C,2n|g) and 152.4 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 367.3     2   69    5 (E2)                    0.0849 12            G   
+220RAS G  KC=0.0467 7$LC=0.0283 4$MC=0.00743 11                                 
+220RAS G  NC=0.001963 28$OC=0.000427 6$PC=6.60E-5 9$QC=1.789E-6 25              
+220RA cG E$weighted average of 367.2 {I2} from ({+14}C,2n|g) and 367.6 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA cG RI$weighted average of 68 {I5} from ({+14}C,2n|g) and 78 {I16} from    
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 2104.6    4   14+                                                  A   
+220RAX L XREF=CD                                                                
+220RA cL J$D |g to (13)-, Q |g to 12+; member of |DJ=2 rotational band          
+220RA  G 241.7     2  100    5  D                                           G   
+220RA2 G FLAG=H                                                                 
+220RA cG E$weighted average of 241.6 {I2} from ({+14}C,2n|g) and 241.9 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 394.4     3   45    8  Q                                           G   
+220RA cG RI$weighted average of 52 {I9} from ({+14}C,2n|g) and 40 {I8} from     
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 2261.3    4  (15)-                                                 B   
+220RAX L XREF=CD                                                                
+220RA cL J$E1 |g ray to 14+; Q, |DJ=2, to (13)-                                 
+220RA  G 156.6     2    58   6 E1                      0.1624 23                
+220RAS G  KC=0.1282 18$LC=0.0259 4$MC=0.00622 9                                 
+220RAS G  NC=0.001620 23$OC=0.000358 5$PC=5.77E-5 8$QC=3.25E-6 5                
+220RA cG E$weighted average of 156.5 {I2} from ({+14}C,2n|g) and 156.7 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA cG RI$weighted average of 56 {I6} from ({+14}C,2n|g) and 72 {I15} from    
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 399.1     3   100   6 Q                                            G   
+220RA2 G FLAG=H                                                                 
+220RA cG E$other: 398.2 {I2} ({+14}C,2n|g)                                      
+220RA  L 2522.6    4   16+                                                  A   
+220RAX L XREF=CD                                                                
+220RA cL J$D |g to (15)-, Q |g to 14+; member of |DJ=2 rotational band          
+220RA  G 261.2     2   100   19 D                                           G   
+220RA  G 417.9     2    37   7 Q                                            G   
+220RA cG E$weighted average of 418.0 {I2} from ({+14}C,2n|g) and 417.6 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA cG RI$other: 80 {I20} ({+14}C,2n|g)                                       
+220RA  L 2689.2    4  (17-)                                                 B   
+220RAX L XREF=CD                                                                
+220RA cL J$|g to 16+ and (15)-; probable member of K|p=0- band                  
+220RA  G 166.6     3  100    20 D                                           G   
+220RA  G 428.0     2   78    16 Q                                           G   
+220RA cG E$weighted average of 428.1 {I2} from ({+14}C,2n|g) and 427.6 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 2961.1    5   18+                                                  A   
+220RAX L XREF=CD                                                                
+220RA cL J$D |g to (17)-, Q |g to 16+; member of |DJ=2 rotational band          
+220RA  G 271.8     2   100   19 D                                           G   
+220RA2 G FLAG=H                                                                 
+220RA cG E$weighted average of 271.9 {I2} from ({+14}C,2n|g) and 271.6 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  G 438.4     3    92   21 Q                                           G   
+220RA  L 3143.7    5  (19-)                                                 B   
+220RAX L XREF=CD                                                                
+220RA  G 182.4     3    88   17                                                 
+220RA  G 454.6     3   100   21                                                 
+220RA  L 3416.9    5  (20+)                                                 A   
+220RAX L XREF=D                                                                 
+220RA  G 273.2     3   100   21                                                 
+220RA  G 455.8     3    46   8                                                  
+220RA  L 3623.3    5  (21-)                                                 B   
+220RAX L XREF=CD                                                                
+220RA  G 206.4     3   100   19                                                 
+220RA  G 479.6     2    91   19                                                 
+220RA cG E$weighted average of 479.7 {I2} from ({+14}C,2n|g) and 479.4 {I3} from
+220RA2cG ({+18}O,|a2n|g)                                                        
+220RA  L 3887.8    5  (22+)                                                 A   
+220RAX L XREF=D                                                                 
+220RA  G 264.4     3   100   19                                                 
+220RA  G 471.0     3    67   14                                                 
+220RA  L 4121.9    6  (23-)                                                 B   
+220RAX L XREF=D                                                                 
+220RA  G 233.8     3   100   19                                                 
+220RA  G 498.9     4    63   10                                                 
+220RA  L 4374.0    6  (24+)                                                 A   
+220RAX L XREF=D                                                                 
+220RA  G 252.0     3   100   19                                                 
+220RA  G 486.3     3    57   10                                                 
+220RA  L 4635.6    6  (25-)                                                 B   
+220RAX L XREF=D                                                                 
+220RA  G 261.9     4    57   14                                                 
+220RA  G 513.6     4   100   29                                                 
+220RA  L 4872.9    6   (26+)                                                A   
+220RAX L XREF=D                                                                 
+220RA  G 237.6     4   100   33                                                 
+220RA  G 498.7     4    67   22                                                 
+220RA  L 5163.4    7   (27-)                                                B   
+220RAX L XREF=D                                                                 
+220RA  G 290.7     4                                                            
+220RA  G 527.7     4                                                            
+220RA  L 5383.9    7   (28+)                                                A   
+220RAX L XREF=D                                                                 
+220RA  G 220.5     4    71   29                                                 
+220RA  G 510.8     4   100   29                                                 
+220RA  L 5702.0    7   (29-)                                                B   
+220RAX L XREF=D                                                                 
+220RA  G 318.2     4    25                                                     ?
+220RA  G 538.9     4   100   25                                                 
+220RA  L 5911.3    7   (30+)                                                A  ?
+220RAX L XREF=D                                                                 
+220RA  G 209.7     4                                                           ?
+220RA  G 527.0     4                                                           ?
+220RA  L 6254.5    8   (31-)                                                   ?
+220RA cL J$|g to (29-); excitation energy increment.                            
+220RAX L XREF=D                                                                 
+220RA  G 552.5     4                                                           ?

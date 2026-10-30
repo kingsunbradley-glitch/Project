@@ -1,0 +1,48 @@
+216U     ADOPTED LEVELS                                          26NDS    202603
+216U   H TYP=FUL$AUT=C. Morse$CIT=NDS 209, 409 (2026)$CUT=5-Aug-2025$           
+216U   Q              9.89E+311 2.03E+39  8.53E+3 3    2021Wa16                 
+216U  cQ $S(2p)=2210 {I3},  Q(|ep)=4860 {I3} (2021Wa16)                         
+216U  c  2015WaZT: {+216}U produced via {+136}Ba({+82}Kr,2n) and                
+216U 2c  {+137}Ba({+82}Kr,3n) reactions at RIKEN.  Observed six decay chains    
+216U 3c  assigned to {+216}U: two appear to belong to                           
+216U 4c  ground-state-to-ground-state decay, two to decay of an isomeric        
+216U 5c  state, and two appear to have an |a-decay energy which is too low      
+216U 6c  compared to other studies.                                             
+216U  c  2015De22: {+216}U produced via deep-inelastic transfer reactions       
+216U 2c  with a {+48}Ca beam and a {+248}Cm oxide target at GSI.  Observed one  
+216U 3c  decay chain.                                                           
+216U  c  2015Ma37, 2016Zh33: {+216}U produced via {+180}W({+40}Ar,4n)           
+216U 2c  reaction at HIRFL.   Observed six decay chains, two of which could be  
+216U 3c  assigned to decay of an isomeric state.                                
+216U  c  2021Zh22: {+216}U produced via {+180}W({+40}Ar,4n) reaction at         
+216U 2c  HIRFL.  Thirteen decay chains were observed and assigned to decay of   
+216U 3c  the ground state.                                                      
+216U  c  2022Zh45: Same experiment as 2021Zh22, but reports on decay of the     
+216U 2c  known isomeric state.  Nineteen decay chains were assigned to          
+216U 3c  originate from the isomeric state.                                     
+216U  c  Other: 2014WaZU reports one decay chain assigned to {+216}U.  The      
+216U 2c  |a-decay energy seems slightly too high, but the decay time is in      
+216U 3c  reasonable agreement with later studies.                               
+216U   L 0            0+                1.37 MS  +48-26                         
+216U 2 L %A=100                                                                 
+216U  cL T$Weighted average of 1.28 ms {I+49-28} (2021Zh22), 4.72 ms            
+216U 2cL {I+472-157} (2015Ma37, 2016Zh33), 3.8 ms {I+88-32} (2015De22), and     
+216U 3cL 2.6 ms {I+36-10} (2015WaZT)                                            
+216U   L 2213      19 (8+)              0.89 MS  +27-17                         
+216U 2 L %A>0                                                                   
+216U  cL T$Weighted average of 0.89 ms {I+27-17} (2022Zh45), 0.74 ms            
+216U 2cL {I+134-29} (2015Ma37,2016Zh33), and 1.02 ms {I+185-40} (2015WaZT,      
+216U 3cL computed from 6.98 ms, 3.95 ms, and 0.43 ms during evaluation using    
+216U 4cL the method laid out in 1984Sc13).                                      
+216U  cL J$Suggested by 2015Ma37 based on systematics of nearby isotopes, with  
+216U 2cL the configuration |p(h{-9/2}~#f{-7/2}).                                
+216U  cL E$Computed from the difference of the Q{-|a} values to {+212}Th for    
+216U 2cL the ground and excited states, with E{-|a}{+gs}=8376 keV {I13} being   
+216U 3cL the weighted average of 8390 keV {I33} (2015WaZT), 8340 keV {I50}      
+216U 4cL (2015De22), 8384 keV {I30} (2015Ma37) and 8374 keV {I17} (2021Zh22);   
+216U 5cL and E{-|a}{+iso}=10549 keV {I14} the weighted average of 10582 keV     
+216U 6cL {I30} (2015Ma37) and 10539 keV {I16} (2022Zh45).  See also 2015WaZT    
+216U 7cL for two more events which may also be from the isomeric state, but     
+216U 8cL with no associated uncertainties.                                      
+216U  cL %A$Only |a decay has been observed, but |g decay has been observed     
+216U 2cL from nearby isomers (2007Kh22) thought to have a similar configuration 

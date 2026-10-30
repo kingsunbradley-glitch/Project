@@ -1,0 +1,61 @@
+223TH    227U A DECAY                  1991HO05                  01NDS    200110
+223TH  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 846 (2001)$CUT=1-May-2001$           
+223TH D  CALCULATED NEW ALPHA HINDRANCE FACTORS.  VALUES DIFFER FROM            
+223TH2D  THOSE GIVEN BY 1991Ho05.  E. BROWNE. FEBRUARY 2000.                    
+223TH c  {+227}U activity was produced by {+208}Pb({+22}Ne,3n), E=110 Mev, and  
+223TH2c  identified by Th K| x ray and by the expected reaction cross section.  
+223TH4c  Others: {+231}Pa(p,5n), E=34-54 MeV, activity identified by excitation 
+223TH5c  functions (1969Ha32); {+232}Th(|a,9n), E=150 MeV, activity identified  
+223TH6c  by chemical separation of U, reaction yields, and systematics of       
+223TH7c  |a-particle energies (1952Me13).                                       
+223TH8c  Measured E|g, I|g, |a|g coin, (|a)(ce) coin, E|a, I|a. Deduced |g-ray  
+223TH9c  multipolarities. Detectors: high-purity germanium, Si(Li),             
+223THAc  surface barrier Si.                                                    
+223TH cL E         Deduced by evaluator from |g-ray energies using 1-keV        
+223TH2cL uncertainties for values reported by 1991Ho05.                         
+223TH cL J$Spin and parity assignments are based on |g-ray multipolarities,     
+223TH2cL and on the similarity of the level structure, |g-ray decay pattern, and
+223TH3cL relative |a-decay hindrance factors in the isotone {+221}Ra.           
+223TH cA HF$Using r{-0}({+223}Th)=1.523, average of r{-0}({+222}Th)=1.522 {I22} 
+223TH2cA and r{-0}({+224}Th)=1.524 {I9} (1998Ak04). 1991Ho05 used r{-0}=1.552,  
+223TH3cA therefore their hindrance factors differ from those presented here.    
+227U   P 0.0                (3/2+)      1.1 M    1               7211     14    
+223TH  N 0.20      3           1.0                                              
+223TH PN                                                                     3  
+223TH cN NR$from |SI(|g+ce) (g.s. + 51 level)=80% {I10},                        
+223TH2cN with I|a(g.s. + 51 level)|?20%.                                        
+223TH  L        0.0    (5/2)+          0.60 S    2                              
+223TH  L       51.3 5  (7/2)+                                                   
+223TH  A 7060      60 20     AP                                                 
+223TH cA E         deduced by evaluator from E|a=6905 keV {I60} to 209 level.   
+223TH cA IA        includes intensity to g.s.                                   
+223TH  G       51.3 5          M1+E2     0.214   10      39.2 10                
+223THS G                LC=      29.2 7$MC=     7.32 18$NC+=         2.69 7     
+223TH cG E,M,MR    from adopted gammas.                                         
+223TH  L      209   1  (7/2)+                                                   
+223TH  A 6905      60 14     3 3.2                                              
+223TH cA IA        I|a=18 {I5}, from |g-ray transition intensity balance.       
+223TH  G        158        14 5M1+E2     1.3     +7-4      3.0 4                
+223THS G KC=      1.7 5$LC=     0.96 11$MC=      0.25 3$NC+=        0.093 4     
+223TH cG M,MR      from |a(K)exp=1.72 {I66}.                                    
+223TH  G        209        14 5M1+E2     1.3     +14-5   1.27 25                
+223THS G KC=    0.82 24$LC=      0.33 5$MC=    0.086 11$NC+=       0.0316 8     
+223TH cG M,MR      from |a(K)exp=0.80 {I44}. |a(L)exp=0.69 {I28}.               
+223TH  L        247 1  (3/2)+                                                   
+223TH  A 6860      30 50     6 0.64                                             
+223TH cA E         other values: 6870 keV {I20}, semi (1969Ha32); 6800 keV      
+223TH2cA {I100}, ion chamber (1952Me13).                                        
+223TH cA IA        I|a=51 {I7}, from |g-ray transition intensity balance.       
+223TH  G        247       10013M1                         1.53                  
+223THS G KC=     1.22  $LC=     0.231  $MC=   0.0555   $NC+=       0.0202       
+223TH cG M         from |a(K)exp=1.24 {I28}, |a(L)exp=0.297 {I74},              
+223THxcG |a(M)exp=0.074 {I28}.                                                  
+223TH  L      310   1  (5/2)+                                                   
+223TH  A 6740      50 16     4 1.1                                              
+223TH cA IA        I|a=14 {I4}, from |g-ray transition intensity balance.       
+223TH  G        259        15 6(M1)                       1.34                  
+223THS G KC=     1.07  $LC=     0.202  $MC=   0.0487   $NC+=       0.0177       
+223TH cG M         from |a(K)exp=1.58 {I75}. |a(L)exp=0.46 {I28}.               
+223TH  G        310        18 6M1                       0.815                   
+223THS G KC=   0.652   $LC=     0.123  $MC=    0.0295  $NC+=       0.0107       
+223TH cG M         from |a(K)exp=0.65 {I24}, |a(L)exp=0.092 {I46}.              

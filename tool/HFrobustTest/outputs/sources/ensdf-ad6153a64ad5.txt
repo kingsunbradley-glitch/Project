@@ -1,0 +1,35 @@
+214AC    ADOPTED LEVELS, GAMMAS                                  21NDS    202106
+214AC  H TYP=FUL$AUT=Shaofei Zhu and E. A. McCutchan$CIT=NDS 175, 1 (2021)$     
+214AC2 H CUT=1-May-2021$                                                        
+214AC  Q -4262     17 7779   18 1201   17 7351.9  25   2021WA16                 
+214AC cQ $S(2n)=17010 {I3}; S(2p)=4629 {I16}; Q(|ep)=2699 {I14} (2021Wa16)      
+214AC  XA218PA A DECAY (107 US)                                                 
+214AC  XB218PA A DECAY (0.13 MS)                                                
+214AC  L 0.0          5(+)              8.2 S     2                             
+214ACX L XREF=AB                                                                
+214AC2 L %A GE 89 3$%EC LE 11 3$MOME2=+0.14 8$MOMM1=+4.84 10                    
+214AC cL MOMM1$deduced from {Ig}=0.967 {I20} and J=5 measured in 2017Gr18 with  
+214AC2cL uncertainty deduced by quadratic addition of statistical uncertainty   
+214AC3cL of 0.014 and systematic uncertainty of 0.014 (1|s); other: |m=4.234    
+214AC4cL {I8} referenced to a calculated value of |m=1.07 of {+227}Ac           
+214AC5cL (2017Gr18). Both values were from in-beam Laser measurements.          
+214AC cL MOME2$from 2016Fe11 and 2017Gr18 with uncertainty deduced by           
+214AC2cL quadratic addition of statistical uncertainty of 0.06 and systematic   
+214AC3cL uncertainty of 0.06.                                                   
+214AC cL $|D<r{+2}>{}=-0.0770 fm{+2} {I10} relative to {+215}Ac (2016Fe11)      
+214AC2cL from isotope shift measurement  with uncertainty deduced by quadratic  
+214AC3cL addition of statistical uncertainty of 0.0004 (2|s) and systematic     
+214AC4cL uncertainty of 0.0010 (1|s).                                           
+214AC cL T$from 1968Va04. Others: 12 s (1961Gr42), 8.6 s {I+50-15} (1979Sc09),  
+214AC2cL and 8.6 s {I+70-27} (2020Zh01).                                        
+214AC cL J$J from fit of the observed hyperfine spectrum (2017Gr18), |p based   
+214AC2cL on systematics (2017Gr18, 2020Zh01). Proposed                          
+214AC3cL configuration=|ph{-9/2}~#|np{-1/2}{+-1} (2017Gr18, 2020Zh01)           
+214AC cL %EC$deduced from the ratio of I|a({+214}Ac) and I|a({+214}Ra) at       
+214AC2cL equilibrium (1968Va04).                                                
+214AC  L 91.8      4  (4+)                                                      
+214ACX L XREF=AB                                                                
+214AC cL E$from E|g (2000He17, 2020Zh01).                                       
+214AC cL J$based on systematics (2020Zh01).                                     
+214AC  G 91.8      4                                                            
+214AC cG E$weighted average of 91.8 {I4} (2000He17) and 91.8 {I8} (2020Zh01).   

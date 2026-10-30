@@ -1,0 +1,449 @@
+244PU    ADOPTED LEVELS, GAMMAS                                  17NDS    201711
+244PU  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 146, 387 (2017)$CUT=31-Aug-2017$     
+244PU  Q -73.2     276019.9  297.36E3  SY4665.5  10    2017WA10                 
+244PU cQ $|DSP=30 (syst, 2017Wa10)                                              
+244PU c                                                                         
+244PU c  Identification:                                                        
+244PU c  1954St98: {+244}Pu produced from {+243}Pu(n,|g) reaction and possibly  
+244PU2c  by electron capture of {+244}Am. The reaction were studied via a       
+244PU3c  multiple order neutron capture of {+239}Pu in the pile irradiated      
+244PU4c  plutonium experiment at the Material Testing Reactor at Argonne        
+244PU5c  National Laboratory with integrated flux of |*10{+4} neutrons.         
+244PU6c  Plutonium was chemically separated and analyzed in a 12 inch,          
+244PU7c  60 |' mass spectrometer.                                               
+244PU c                                                                         
+244PU c  Systematic studies/Compilation/Evaluation:                             
+244PU c  2017He08: Review of properties of spontaneous fission                  
+244PU c  2017Pr04: Systematics of B(E2) revisited using elemental data          
+244PU2c  fit parameters                                                         
+244PU c  2016Pr01: Compilation, evaluation for B(E2), T{-1/2} and deformation   
+244PU2c  parameter                                                              
+244PU c  2011Ch65: Recommended T{-1/2} of {+244}Pu based on measurements        
+244PU2c  published till 2010                                                    
+244PU c  2000Ho27: Recommended T{-1/2} SF based on measurement till April 1998  
+244PU c  1989Ho24: Recommended total T{-1/2} and  T{-1/2}(SF)                   
+244PU c  1975Me28, 1974VaYN: Properties of fission isomer                       
+244PU c                                                                         
+244PU c  Theoretical calculations:                                              
+244PU c  2017Ph01, 2017Zh03, 2016Sa16, 2016Su09, 2014De43, 2014Is03, 2013Ra05,  
+244PU2c  2013Se17, 2013Is13, 2012Is08, 2011Qi06, 2011Qi12, 2011Zh36, 2009De32,  
+244PU3c  2009Ni06, 2008Xu06, 2007Pe30, 2006De05, 2005Sh42, 1996De19, 1979Po23:  
+244PU4c  Calculated |a decay half-life                                          
+244PU c  2015Ba24, 2015Sa15, 2010Sa09, 2008Xu06, 2005Re16, 2005Sh42,            
+244PU2c  2005Xu01, 2004Ro01, 1992Bh03, 1992Gr16, 1990Bh02, 1976Ra02, 1972Mo27,  
+244PU3c  1972We09: Calculated spontaneous fission half-lives                    
+244PU c  1978Po01: Calculated properties of the SF isomer, its moment of        
+244PU2c  inertia, pairing energy gap, and  magnetic moment                      
+244PU c  2000Se09: Description of long-range |a emission during spontaneous     
+244PU2c  fission                                                                
+244PU c  2014Re05, 2002Hi06: Calculated T{-1/2}(|b|b)                           
+244PU c  2014De43, 1998Bu18: Calculated energy levels and transition strengths  
+244PU c  2013De12, 1995Mo29, 1984Eg01, 1983Bo15, 1982Du16: Calculated           
+244PU2c  deformation parameters                                                 
+244PU c  2014Ji14, 2014Lu01, 2014Ro09, 2014Sh13, 2013Bo29, 2012Ja08, 2001YaZU,  
+244PU2c  1992Bh03, 1992Gr16, 1990Bh02, 1984Ro23, 1980Bj02, 1972Ma11, 1976Iw02,  
+244PU3c  2017Ba02, 1974MoYC, 1972We09, 1971Pa33:                                
+244PU4c  Calculated fission barriers heights                                    
+244PU c  2013Li30, 2010Wa34: Calculated two-quasiparticle high K-state with     
+244PU2c  |n7/2{++}[624]~#|n9/2{+-}[734] configuration. Predicted the            
+244PU3c  octupole deformed high K-isomeric state at 1.022 MeV in 2013Li30       
+244PU c  2010Wa23, 2010Wa31: Calculated relative intensities of |a decay to     
+244PU2c  rotational states                                                      
+244PU c  2002Re31: Calculated g.s properties                                    
+244PU c  2012Zh14, 2005Al40, 2001Fa07, 1988ShZR, 1985Bo20, 1984Eg01,            
+244PU2c  1982Du16: Analysis of yrast states, backbending and alignment          
+244PU c  1983Bo15: Calculated equilibrium deformations and static               
+244PU2c  electric moment                                                        
+244PU c  2014Af04, 2013Af01, 1980Du07: Calculated moment of inertia             
+244PU c  2011Ne09, 2006Sh19, 2002Pr01, 1982L01, 1982Du16, 1971Ko31, 1970Ne08:   
+244PU2c  Calculated octupole-vibrational states                                 
+244PU c  1969Wy02: Calculated nuclear mass parameter, an important              
+244PU2c  characteristic of the collective motion of the nucleus                 
+244PU c  1992Bh03, 1974MoYC, 1972Mo27, 1971Pa33: Calculated isomeric state      
+244PU2c  energy                                                                 
+244PU c  1977VaYN: Review of properties of spontaneously fissioning isomers     
+244PU c  2014Mi26: Analyzed the influence of octupole mode on nuclear high      
+244PU2c  K-isomer properties                                                    
+244PU cG E$From Coulomb Excitation (2016JaZZ, 1999Wi11), except as              
+244PU2cG noted                                                                  
+244PU cG E(L)$From Coulomb Excitation that have also been measured by           
+244PU2cG 1983Sp03                                                               
+244PU cG E(H)$From {+244}Pu({+208}Pb,{+208}Pb'|g) deep inelastic data           
+244PU cG E(M)$From {+244}Np |b- decay                                           
+244PU cG E(G)$Gamma has not been observed. Its energy is from level energy      
+244PU2cG difference                                                             
+244PU cL E$From least-squares fit to E|g data by the evaluator,                 
+244PU2cL except as noted. E=44.2 keV, and 149.9 keV have been held fixed        
+244PU4cL during the the least-squares fit.                                      
+244PU5cL |DE=1 keV for gammas without uncertainty is assumed                    
+244PU CL BAND(A)$K=0+ Ground-state band.                                        
+244PU CL BAND(O)$Octupole-vibrational band                                      
+244PU CL BAND(C)$K=8-,(|n9/2[734]~#|n7/2[624]), |a=0                            
+244PU CL BAND(D)$K=8-,(|n9/2[734]~#|n7/2[624]), |a=1                            
+244PU cL J$Except as noted, assignments are based on band structure             
+244PU cL J(I)$In addition to the band structure arguments, J|p for levels       
+244PU2cL observed in Coulomb Excitation by 1983Sp03 are from systematic         
+244PU3cL impact-parameter dependence of the |g-ray yields, the particle-|g      
+244PU4cL directional correlation, and the |g-multiplicity measurements          
+244PU cL J(J)$In the (d,d') measurement, 1975Th11 noted that J|p                
+244PU2cL could also be a 3-. However a comparison of the                        
+244PU3cL reduced transition probability B(E2)|^=0.30 {I10} (1970Th11) that was  
+244PU4cL extracted by normalizing the (d,d') cross section with values from     
+244PU5cL Coulomb Excitation measurement (1974Mc15): B(E3)=1.16 {12} if J|p=3-;  
+244PU6cL B(E2)=0.195 {I18}, if J|p=2+  makes it a possible 2+ rather            
+244PU7cL than a 3-                                                              
+244PU cL J(K)$Assignments for the ({+244}Pu,{+244}Pu'|g)                        
+244PU2cL deep inelastic reaction are based on the band                          
+244PU3cL members built on the K isomer at 1211 keV except as noted.             
+244PU cL J(E)$K=0- or 1- ? This assignment was suggested in                     
+244PU2cL 1975Th11 from (d,d') data. The authors of 1975Th11 suggested           
+244PU3cL also that the doublet at 1068 may contain the expected 1-              
+244PU4cL member of the band.                                                    
+244PU cL J(F)$K=2- ? This assignment was suggested in 1975Th11 from (d,d')      
+244PU2cL data with J|p=3- at 957 level and that the doublet at 1068             
+244PU3cL may contain the expected 5- member of the band.                        
+244PU cL J(G)$Based on the cross section pattern from the (d,d') measurements   
+244PU2cL                                                                        
+244PU  XA248CM A DECAY                                                          
+244PU  XB244NP B- DECAY                                                         
+244PU  XCCOULOMB EXCITATION                                                     
+244PU  XD244PU(D,D')                                                            
+244PU  XE244PU(47TI,47TI'G)                                                     
+244PU  XF244PU(208PB,208PB'G)                                                   
+244PU DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+244PU PN                                                                     6  
+244PU  L 0.0         0+                8.13E+7 Y 3                          A   
+244PU2 L %SF=0.123 6$ %A=99.877 6                                               
+244PUX L XREF=ABCDF                                                             
+244PU cL $%SF is deduced from the adopted T{-1/2}=8.13 |*10{+7} y {I3} and      
+244PU2cL T{-1/2}(SF)=6.6 |*10{+10} y {I3}.                                      
+244PU cL T$From revised value of 8.12 |*10{+7} y {I3} (2006Ag15). Relative      
+244PU2cL activity using thermal ionization mass spectrometry and |a spectrometry
+244PU3cL was used in the 2006Ag15 measurement. The method was an improvement    
+244PU4cL from previous measurements due to better isotope fraction as well as   
+244PU5cL more accurate determination of alpha activity ratios using {+240}Pu    
+244PU6cL and {+242}Pu as reference nuclides. The evaluator has however,         
+244PU7cL revised the value given originally by 2006Ag15 using values            
+244PU8cL of T{-1/2}({+242}Pu)= 3.73 |*10{+7} y {I3} (from email reply of        
+244PU9cL M. Martin on 14 May 2017), T{-1/2}({+240}Pu)= 6561 y {I7} (2008Si25),  
+244PUacL T{-1/2}({+239}Pu)= 24110 y {I29} (2014Br18), and T{-1/2}({+241}Pu)     
+244PUbcL |a decay = 5.87 |*10{+5} y {I5} (deduced from T{-1/2}({+241}Pu)=       
+244PUccL 14.329 y {I29} (2015Ne16), and %|a=2.44 |*10{+-3} {I2} (2008BeZV)      
+244PU cL $Other T{-1/2}:                                                        
+244PU cL $2011Ch65: 8.00 |*10{+7} y {I12} (recommended half-life based on       
+244PU2cL measurements published from 1956-2006)                                 
+244PU cL $1989Ho24: 8.00 |*10{+7} y {I9} (weighted average of several           
+244PU2cL compiled and revised values till 1969)                                 
+244PU cL $1969Be06: 8.28 |*10{+7} y {I10} (specific activity                    
+244PU2cL relative to {+239}Pu, measured with Si-Au surface barrier detector),   
+244PU cL $1966Fi07: 8.18 |*10{+7} y {I26} (specific activity relative to        
+244PU2cL {+240}Pu and {+242}Pu, measured with Si surface barrier detector),     
+244PU cL $1956Bu92: 7.6 |*10{+7} y {I20} (specific activity of decay to         
+244PU2cL {+240}U and {+240}Np, measured using end window Geiger Muller          
+244PU3cL counter and proportional counter),                                     
+244PU cL $1956Di09: 7.6 |*10{+7} y {I20} (activity of {+240} Np decay, measured 
+244PU2cL using Geiger-Mueller counters in anticoincidence with proportional     
+244PU3cL counter).                                                              
+244PU cL $T{-1/2}(SF)=6.6 |*10{+10} y {I3} from the                             
+244PU2cL weighted average of: 6.56 |*{+10} y {I30} (1983Mo02),                  
+244PU3cL 6.8 |*10{+10}y {I8} (1977Go03), and                                    
+244PU4cL 6.67 |*10{+10} y {I32} (revised value of 1966Fi07 by 1989Ho24)         
+244PU cL $Other T{-1/2}(SF):                                                    
+244PU cL $2000Ho27: Recommended half-life 6.6 |*10{+10} y {I2}                  
+244PU cL $1980Kh05: 7.32 |*10{+10} y                                            
+244PU cL $1955Fi36: 2.5 |*10{+10} y {I8}                                        
+244PU cL $T{-1/2}(2 |b- decay) |> 1.1 |*10{+18} y (1992Mo25:                    
+244PU2cL detection of {+244}Cm alpha activity with |< 0.24 counts per day.      
+244PU3cL %(2 |b-decay) |< 7 |*10{+-9} deduced from T{-1/2}(2 |b- decay)         
+244PU4cL |> 1.1 |*10{+18} y and total half-life of T{-1/2}=8.13 |*10{+7} y {I3} 
+244PU cL $1998Se17, 1994Ve03: Observed emission of long-range alpha particles   
+244PU2cL during spontaneous fission.  The ratio of long-range alpha to fission  
+244PU3cL rate was measured to be 2.62 |*10{+-3} {I25}, from which the light     
+244PU4cL particle emission to binary fission probability ratio                  
+244PU5cL was deduced as 2.96 |*10{+-3} {I31} by 1994Ve03. Energy distribution   
+244PU6cL and yields were measured by 1998Se17.                                  
+244PU cL $1985Ge08: Measured isotope shift relative to {+242}Pu as 1.03 {I2}    
+244PU  L 44.2       42+                158 PS    11                         A   
+244PU DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+244PUX L XREF=ABCDF                                                             
+244PU cL E$Level energy is calculated from E|a=5034.89 keV to 2+ state,         
+244PU2cL observed in {+248}Cm alpha decay.                                      
+244PU cL T$Calculated from B(E2)=13.61 {I18}, measured in Coulomb               
+244PU2cL excitation with |a=7.8|*10{+2} {I4} (|a calculated from BrICC)         
+244PU  G 44.2      4           [E2]                    7.8E2  4             G  S
+244PUS G  LC=5.6E2 3$MC=157 8                                                   
+244PUS G  NC=43.2 21$OC=10.2 5$PC=1.59 8$QC=0.00340 15                          
+244PUB G BE2W=3.0E+2 3                                                          
+244PU  L 149.9      64+                                                     A   
+244PU DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+244PU cL E$Level energy is calculated from E|a=4930.37 keV to 4+ state,         
+244PU2cL observed in {+248}Cm alpha decay.                                      
+244PUX L XREF=ABCDEF                                                            
+244PU2 L BE4=0.09 +55-9                                                         
+244PU cL $B(E4) was deduced in Coulomb excitation.                              
+244PU cL J$From Coulomb excitation and (d,d') data.                             
+244PU  G 105.7     7           [E2]                    12.2   5             G  S
+244PUS G  LC=8.9 3$MC=2.48 9                                                    
+244PUS G  NC=0.681 24$OC=0.161 6$PC=0.0256 9$QC=9.5E-5 3                        
+244PU cG E$110.8|g was observed by 1987Mo29 but was considered questionable     
+244PU2cG by the evalutor due to its indistinct peak and its close               
+244PU3cG proximity to the Pu K-Xray line as shown in Fig.1 in 1987Mo29.         
+244PU  L 313.0      5 6+                                                    A   
+244PUX L XREF=ABCDEF                                                            
+244PUF L FLAG=I                                                                 
+244PU  G 163.1     5 100       [E2]                    1.90   4             L   
+244PUS G  KC=0.189 3$LC=1.240 25$MC=0.346 7                                     
+244PUS G  NC=0.0951 19$OC=0.0225 5$PC=0.00364 7$QC=2.25E-5 4                    
+244PU  L 530.2      78+                                                     A   
+244PUF L FLAG=I                                                                 
+244PUX L XREF=BCDEF                                                             
+244PU  G 217.2     5 100       [E2]                    0.630  11            L   
+244PUF G FLAG=L                                                                 
+244PUS G  KC=0.1332 20$LC=0.361 7$MC=0.1001 17                                  
+244PUS G  NC=0.0275 5$OC=0.00652 12$PC=0.001071 19$QC=1.000E-5 16               
+244PU  L 708       4 (2+,3-)                                                    
+244PUX L XREF=C                                                                 
+244PU cL J$from Coulomb excitation.                                             
+244PU cL $B(E2)=0.045 {I13} if J|p=2+; B(E3)=0.30 {I10} if J|p=3-               
+244PU2cL (1974Mc15)                                                             
+244PU  L 797.8      8 10+                                                   A   
+244PUF L FLAG=I                                                                 
+244PUX L XREF=CF                                                                
+244PU  G 267.4     5 100                                                    L   
+244PU  L 957       2  3-                                                    O   
+244PUF L FLAG=F                                                                 
+244PUX L XREF=CD                                                                
+244PU  L 1015      2 (2+)                                                   J   
+244PUX L XREF=CD                                                                
+244PU  L 1068      4 (5-)                                                   O   
+244PUF L FLAG=F                                                                 
+244PUX L XREF=D                                                                 
+244PU cL E$1068-keV level was doublet in (d,d') spectrum; 1975Th11              
+244PU2cL suggested that one level of the doublet may be the 5- member of a      
+244PU3cL K=2- octupole-vibrational band.                                        
+244PU  L 1068                                                                   
+244PUX L XREF=D                                                                 
+244PU  L 1108      2 (3-)                                                   E   
+244PUX L XREF=CD                                                                
+244PU  L 1111.4     912+                                                    A   
+244PUX L XREF=CF                                                                
+244PUF L FLAG=I                                                                 
+244PU  G 313.5     5 100                                                    L   
+244PU  L 1194      3 (5-)                                                   E   
+244PUX L XREF=D                                                                 
+244PU  L 1201.5     8 7-                                                    O   
+244PUX L XREF=CEF                                                               
+244PU  G 671.3     5                                                            
+244PU  L 1210      3                                                            
+244PUX L XREF=D                                                                 
+244PU  L 1211.2     8 8-               1.75 S    12                         CM  
+244PUX L XREF=BEF                                                               
+244PU cL J$From measurements of in-band M1/E2 branching ratios                  
+244PU2cL in {+244}Pu({+208}Pb,{+208}Pb'|g) deep inelastic reaction that was     
+244PU3cL used to extract g{-k}-g{-R}/Q{-0}| values that verifies the            
+244PU4cL assignment. In addition, systematics show a similar excitation energy  
+244PU5cL and decay pattern of N=150 isotones with even Z for {+246}Cm           
+244PU6cL (2008Ro21), {+248}Cf (2014Ma86),{+250}Fm (2008Gr17) and                
+244PU7cL {+252}No (2008Ro21)                                                    
+244PU cL T$From decay curve measurements in {+244}Pu({+47}Ti,{+47}Ti'|g)        
+244PU2cL (2016Ho13)                                                             
+244PU  G 10        1                                                        G  S
+244PU  G 681.0     1           [E1]                    0.00802              M   
+244PUS G  KC=0.00649 9$LC=0.001158 17$MC=0.000277 4                             
+244PUS G  NC=7.50E-5 11$OC=1.85E-5 3$PC=3.44E-6 5$QC=2.07E-7 3                  
+244PU  L 1321.1    189-                                                     D   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 110       2                                                        G  S
+244PUF G FL=1211.2                                                              
+244PU  L 1353      4                                                            
+244PUX L XREF=D                                                                 
+244PU  L 1378      3                                                            
+244PUX L XREF=D                                                                 
+244PU  L 1390.5     89-                                                     O   
+244PUX L XREF=CF                                                                
+244PU  G 189.0     5                                                            
+244PUF G FL=1201.5                                                              
+244PU  G 592.9     5                                                            
+244PU  G 860.5     5                                                            
+244PU  L 1434      3                                                            
+244PUX L XREF=D                                                                 
+244PU  L 1442.2    1310-                                                    C   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 121       2                                                        G  S
+244PU  G 231                                                                H   
+244PUF G FL=1211.2                                                              
+244PU  L 1466.7    10 14+                                                   A   
+244PUX L XREF=CF                                                                
+244PUF L FLAG=I                                                                 
+244PU  G 355.1     5                                                        L   
+244PUF G FL=1111.4                                                              
+244PU  L 1575.1    1511-                                                    D   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 133                                                                H   
+244PU  G 254                                                                H   
+244PU  L 1613      3 (3-)                                                   G   
+244PUX L XREF=D                                                                 
+244PU  L 1623.3     9 11-                                                   O   
+244PUX L XREF=CF                                                                
+244PU  G 233.1     5                                                            
+244PU  G 511.8     5                                                            
+244PUF G FL=1111.4                                                              
+244PU  G 825.4     5                                                            
+244PU  L 1718.3    1512-                                                    C   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 143                                                                H   
+244PU  G 276                                                                H   
+244PUF G FL=1442.2                                                              
+244PU  L 1783      3                                                            
+244PUX L XREF=D                                                                 
+244PU  L 1805      3                                                            
+244PUX L XREF=D                                                                 
+244PU  L 1847      3                                                            
+244PUX L XREF=D                                                                 
+244PU  L 1859.2    10 16+                                                   A   
+244PUX L XREF=CF                                                                
+244PUF L FLAG=I                                                                 
+244PU  G 392.5     5                                                        L   
+244PU  L 1873.0    1613-                                                    D   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 155         68      7                                              H   
+244PU  G 298         100     9                                              H   
+244PU  L 1896      3                                                            
+244PUX L XREF=D                                                                 
+244PU  L 1898.9     9 13-                                                   O   
+244PUX L XREF=CF                                                                
+244PU  G 275.6     5                                                            
+244PU  G 432.1     5                                                            
+244PU  G 787.7     5                                                            
+244PUF G FL=1111.4                                                              
+244PU  L 2037.7    1614-                                                    C   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 165         65      8                                              H   
+244PU  G 319         100     9                                              H   
+244PU  L 2213.8    1715-                                                    D   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 176         45      4                                              H   
+244PU  G 341         100     8                                              H   
+244PU  L 2214.9    10 15-                                                   O   
+244PUX L XREF=CF                                                                
+244PU  G 316.1     5                                                            
+244PUF G FL=1898.9                                                              
+244PU  G 355.9     5                                                            
+244PU  G 747.9     5                                                            
+244PU  L 2284.5    11 18+                                                   A   
+244PUX L XREF=CF                                                                
+244PUF L FLAG=I                                                                 
+244PU  G 425.3     5                                                        L   
+244PU  L 2398.8    1816-                                                    C   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 185         49      5                                              H   
+244PUF G FL=2213.8                                                              
+244PU  G 361         100     7                                              H   
+244PU  L 2400      AP                  380 PS    80                          M1 
+244PU2 L %SF LE 100                                                             
+244PU cL E$The shape isomer's energy was deduced as 2.43 MeV {I+30-26}          
+244PU2cL by 1971Au06 from intermediate structure observed in neutron-induced    
+244PU3cL fission cross sections. Calculations of 1971Pa33, 1972Mo27, and        
+244PU4cL 1992Bh03, 2013Gi06, yield E(level)= 3.2, 3.5, |? 2.4 MeV, and 2.47     
+244PU5cL respectively.                                                          
+244PU cL T$Measured from decay of fission isomer observed in {+244}Pu(d,pn).    
+244PU2cL Theoretical calculations: T{-1/2}(SF)=137 ps (2005Re16)                
+244PU cL $1974MeYP. See 1975Me28 for systematics of SF isomer half-lives        
+244PU cL $1974Ba28: Fission probability distributions were measured following   
+244PU2cL {+242}Pu(15-MeV t,pF) reaction, and the heights and curvatures         
+244PU3cL of the two peaks in the fission barrier were deduced                   
+244PU  L 2567.8    10 17-                                                   O   
+244PUX L XREF=CF                                                                
+244PU  G 283.3     5                                                            
+244PU  G 353.1     5                                                            
+244PUF G FL=2214.9                                                              
+244PU  G 708.6     5                                                            
+244PU  L 2594.8    1817-                                                    D   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 196         41      5                                              H   
+244PUF G FL=2398.8                                                              
+244PU  G 381         100     11                                             H   
+244PUF G FL=2213.8                                                              
+244PU  L 2737.9    12 20+                                                   A   
+244PUX L XREF=CF                                                                
+244PUF L FLAG=I                                                                 
+244PU  G 453.4      5                                                       L   
+244PU  L 2799.8    1918-                                                    C   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 205                                                                H   
+244PU  G 401                                                                H   
+244PUF G FL=2398.8                                                              
+244PU  L 2952.2    12 19-                                                   O   
+244PUX L XREF=CF                                                                
+244PU  G 384.4      5                                                           
+244PU  L 3013.8    1919-                                                    D   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 214                                                                H   
+244PU  G 419                                                                H   
+244PU  L 3211.0    1322+                                                    A   
+244PUX L XREF=CF                                                                
+244PU  G 473.1      5                                                           
+244PU  L 3236.8    2020-                                                    C   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 223                                                                H   
+244PU  G 437                                                                H   
+244PU  L 3360.0    13 21-                                                   O   
+244PUX L XREF=CF                                                                
+244PU  G 407.8      5                                                           
+244PU  L 3467.8    2121-                                                    D   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 231                                                                H   
+244PU  G 454                                                                H   
+244PU  L 3686.3    1424+                                                    A   
+244PUX L XREF=CF                                                                
+244PU  G 475.3      5                                                           
+244PU  L 3705.8    2222-                                                    C   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 469                                                                    
+244PU  L 3784.0    15 23-                                                   O   
+244PUX L XREF=CF                                                                
+244PU  G 424.0      8                                                           
+244PU  L 3948.8    2323-                                                    D   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 481                                                                H   
+244PU  L 4145.2    1526+                                                    A   
+244PUX L XREF=CF                                                                
+244PUF L FLAG=I                                                                 
+244PU  G 458.9      5                                                       L   
+244PU  L 4191.8    2424-                                                    C   
+244PUX L XREF=F                                                                 
+244PUF L FLAG=K                                                                 
+244PU  G 486                                                                H   
+244PU  L 4227.2    1725-                                                    O   
+244PUX L XREF=CF                                                                
+244PU  G 443.2      8                                                           
+244PU  L 4606.1    1728+                                                    A   
+244PUX L XREF=C                                                                 
+244PU  G 460.9      8                                                           
+244PU  L 4690.2    20 27-                                                   O   
+244PUX L XREF=C                                                                 
+244PU  G 463.0     10                                                           
+244PU  L 5085.7    2030+                                                    A   
+244PUX L XREF=C                                                                 
+244PU  G 479.6     10                                                           
+244PU  L 5589.6    2232+                                                    A   
+244PUX L XREF=C                                                                 
+244PU  G 503.9     10                                                           
+244PU  L 6119.7    2434+                                                    A   
+244PUX L XREF=C                                                                 
+244PU  G 530.1                                                                  

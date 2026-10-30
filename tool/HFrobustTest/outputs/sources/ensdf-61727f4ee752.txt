@@ -1,0 +1,47 @@
+256MD    ADOPTED LEVELS                                          17NDS    201704
+256MD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256MD  Q -370      SY 5460   SY 3630   SY 7740   SY    2017WA10                 
+256MD cQ $Estimated uncertainties (2017Wa10): 120 for Q(|b{+-}), S(n) and S(p); 
+256MD2cQ 110 for Q(|a)                                                          
+256MD cQ $S(2n)=12140 {I160}, S(2p)=9110 {I120} (syst,2017Wa10)                 
+256MD c  {+256}Md produced and identified by Ghiorso et al., Phys. Rev. 98, 1518
+256MD2c  (1955) in {+253}Es(|a,n),E=48 MeV reaction, followed by chemical       
+256MD3c  separation. The half-life was reported to be about 0.5 hour. Later     
+256MD4c  studies: 1958Ph40, 1965Si14, 1970Fi12, 1971Ho16, 1993Mo18              
+256MD c  Theoretical calculations: consult the Nuclear Science References (NSR) 
+256MD2c  database for about 27 theory references.                               
+256MD c  1986So12: nuclear structure theory reference                           
+256MD  XA260LR A DECAY (180 S)                                                  
+256MD  L 0.0          (1-)             77.7 M    18                             
+256MD2 L %A=9.2 7 $ %EC=90.8 7 $ %SF LT 3                                       
+256MDX L XREF=A                                                                 
+256MD cL $(|a)/(|a+|e)=9.2% {I7} is adopted from 8.5% {I8}, determined by       
+256MD2cL 1970Fi12 from K| x ray/|a intensities, and 9.9% {I5}, determined by    
+256MD3cL 1971Ho16 from {+256}Fm growth. The latest value of 11%                 
+256MD4cL {I3}, obtained by 1993Mo18, is in agreement with the earlier values.   
+256MD5cL %|a=9.2 {I7} is an unweighted average of earlier measurements.         
+256MD6cL 2000Ah02 quote %|e=92, but the source reference is not given.          
+256MD cL $%SF<3 (1971Ho16).                                                     
+256MD cL T$weighted average of 78.1 min {I18} (1993Mo18), 77 min {I5} (1971Ho16)
+256MD2cL 75 min {I4} (1970Fi12), 90 min {I12} (1965Si14). Other measurement:    
+256MD3cL 90 min (1958Ph40)                                                      
+256MD cL J$the |e decay to the 0+ {+256}Fm g.s. suggests low-spin,              
+256MD2cL J=0,1 for the {+256}Md g.s. From the available states in the           
+256MD3cL region, analogy to {+255}Fm suggests |n7/2[613] orbital for the        
+256MD4cL odd-neutron state, and analogy to {+255}Md suggests |p7/2[514] orbital 
+256MD5cL for the odd-proton state. From the Gallagher-Moszkowski rule, the      
+256MD6cL J|p=0-, |p7/2[514], |n7/2[613] state is expected to be lower than      
+256MD7cL the J|p=7-, |p7/2[514], |n7/2[613] state.                              
+256MD8cL The 7773-keV |a from {+256}Md g.s., on the other hand, is assumed to   
+256MD9cL decay to the {+252}Es g.s. which probably has the J|p of 5- with       
+256MD2cL |p3/2[521], |n7/2[613] configuration. Since an |a transition           
+256MD3cL from J|p=0- to J|p=5- is forbidden, J|p({+256}Md g.s.)=1- of K=0 has   
+256MD4cL been suggested. Inversion of 1- and 0- states has also been assigned   
+256MD5cL for other K=0 bands (for example in {+242}Am g.s.).                    
+256MD cL $J|p=1-, K=0 |p7/2[514], |n7/2[613] assignment for {+256}Md            
+256MD2cL is consistent with an |a transition (HF=5.0|*10{+4})                   
+256MD3cL to the J|p=5-, |p3/2[521], |n7/2[613] state, and with its |e decay     
+256MD4cL to {+256}Fm. See 1993Mo18 for discussions on other possible orbitals.  
+256MD  L 240       AP                                                           
+256MDX L XREF=A                                                                 
+256MD cL E$deduced from Q(|a)({+260}Lr) and measured E|a in {+260}Lr |a decay.  

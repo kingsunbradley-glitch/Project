@@ -1,0 +1,150 @@
+241AM    245BK A DECAY                 1975BA25,1974PO08         15NDS    201512
+241AM  H TYP=FUL$AUT=C.D. NESARAJA$CIT=NDS 130, 183 (2015)$CUT=30-Sep-2015$     
+241AM c  1975Ba25:{+245}Bk produced from {+243}Am(|a,2n) reaction was           
+241AM2c  radio-chemically separated and chemically prepared for |a measurements 
+241AM3c  using a magnetic |a spectrograph                                       
+241AM c  1974Po08:|a particles  measured with Au-Si surface barrier detector    
+241AM c  1966Ah02: |g rays following the |a decay was investigated by           
+241AM2c  |g singles and |g|a-coin using Ge(Li) detectors                        
+241AM c  1956Ch77: Measured |g|a-coin, from decay of {+245}Bk . Measured        
+241AM2c  E|g, I|g, E|a and I|a.                                                 
+241AM c  1951Hu39: measured properties of {+245}Bk and reported half-life,      
+241AM2c  |a-decay energies and its intensities and branching ratio              
+241AM cA E$From 1975Ba25. The resolution of this work is about 4 keV.           
+241AM2cA The authors do not quote uncertainties; however, based on other        
+241AM3cA work of the first author, and given an uncertainty of 0.5 keV in       
+241AM4cA the calibration peak, the evaluator has assigned an uncertainty        
+241AM5cA of 2 keV. 1974Po08 have also reported E|a values. The resolution       
+241AM6cA of their detector system is about 20-25 keV. Energies of               
+241AM7cA 1974Po08 are given in comments. Their values                           
+241AM8cA have been increased by the evaluator using the recommendations         
+241AM9cA by 1991Ry01 to correct for changes in the calibration energies used    
+241AMAcA by the authors (1974Po08). The  correction increased from +3 keV to    
+241AMBcA +6 keV for 5.808|a up to the 6.348 |a                                  
+241AMCcA Others: 1951Hu39, 1956Ch77, 1956Ma32                                   
+241AM cA IA$The intensities per 100 |a decays are from 1974Po08. 1975Ba25       
+241AM2cA report intensities without uncertainties. Values of these authors      
+241AM3cA are given in comments                                                  
+241AM cA HF$r{-0}({+241}Am)=1.4966 {I8} average of r{-0}({+240}Pu)=1.4979 {I7}  
+241AM2cA and r{-0}({+242}Cm)=1.4953 {I9}, is used in the calculations as given  
+241AM3cA in 1998Ak04                                                            
+241AM cL E$From Adopted Levels except as noted                                  
+241AM cL J$From Adopted Levels                                                  
+245BK  P 0.0          3/2-             4.95 D    3              6454.5    14    
+245BK cP J,T$From Adopted Levels in {+245}Bk                                    
+245BK cP QP$From 2012Wa38                                                       
+241AM  N 1.0          1.0      0.0012  1                                        
+241AM PN                                                                     2  
+241AM cG $For |a|g coin data see 1966Ah02, 1956Ch77.                            
+241AM cG E$From 1966Ah02, except where noted otherwise                          
+241AM cG RI$From 1966Ah02, except where noted otherwise. Intensities are        
+241AM2cG per 100 |a decays. Other: 1956Ch77.                                    
+241AM cG M$From adopted gammas. Values in square brackets are based on the      
+241AM2cG level scheme                                                           
+241AM cG E(S)$From {+241}Cm |e decay. Not observed in {+245}Bk |a decay         
+241AM cG E(A),RI(A)$From 1976Ah03                                               
+241AM cG M(B)$Anomalous E1 transition. See {+241}Cm |e decay                    
+241AM DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+241AM cG MR$If no value given it was assumed |d=1.00 for E2/M1,                 
+241AM2cG |d=1.00 for E3/M2 and |d=0.10 for the other multipolarities            
+241AM  L 0.0         5/2-                                                       
+241AM  A 6348       2 15.5   5   593   54                                       
+241AM cA E$E|a=6354 {I5} (1974Po08). I|a=15.1 (1975Ba25)                        
+241AM  L 41.176     37/2-                                                       
+241AM  A 6308       2 15.0    5  393   36                                       
+241AM cA E$E|a=6315 {I5} (1974Po08). I|a=12.2 (1975Ba25)                        
+241AM  G 41.176    3           M1+E2     0.486   23    295    17                
+241AMS G  LC=216 13$MC=59 4                                                     
+241AMS G  NC=16.2 10$OC=3.90 23$PC=0.64 4$QC=0.01151 20                         
+241AM cG E$From Adopted Gammas.                                                 
+241AM  L 93.70     109/2-                                                       
+241AM  A 6258      2   1.5   1  2.21E3 24                                       
+241AM cA E$E|a=6263 {I5} (1974Po08). I|a<2.7 (1975Ba25)                         
+241AM  L 157.50    18  11/2-                                                    
+241AM  A 6193      2   1.2   1  1.36E3 17                                       
+241AM cA E$E|a=6198 {I5} (1974Po08). I|a not given by 1975Ba25. Peak obscured   
+241AM2cA by an impurity line                                                    
+241AM  L 205.883   10 5/2+                                                      
+241AM  A 6147      2  18.3    5   52   5                                        
+241AM cA E$E|a=6150 {I4} (1974Po08). I|a=20.7 (1975Ba25)                        
+241AM  G 165.5     5  7.0    15[E1]                    0.162  3                 
+241AMS G  KC=0.1243 20$LC=0.0282 5$MC=0.00692 11                                
+241AMS G  NC=0.00187 3$OC=0.000458 8$PC=8.00E-5 13$QC=3.48E-6 6                 
+241AM  G 207.4     5 33      5 E1                      0.0964 15                
+241AMS G  KC=0.0749 12$LC=0.01617 25$MC=0.00395 6                               
+241AMS G  NC=0.001071 17$OC=0.000263 4$PC=4.66E-5 7$QC=2.16E-6 4                
+241AM cG E$The adopted E|g is 205.879 {I13} from |e decay                       
+241AM  L 235.2     5 7/2+                                                       
+241AM  A 6118      2  10.0    5   68   7                                        
+241AM cA E$E|a=6122 {I4} (1974Po08). No I|a is reported by 1975Ba25 since the   
+241AM2cA peak is obscured by the calibration line. The value of 15.2 {I5}       
+241AM3cA reported by 1974Po08 is assumed by the evaluator to include            
+241AM4cA I|a(6113|a), a peak reported only by 1975Ba25, and has been lowered to 
+241AM5cA 10.0 to correct for the presence of this close-lying 6113|a            
+241AM  G 195       1  1      AP[E1]                    0.1110 21                
+241AMS G  KC=0.0860 16$LC=0.0188 4$MC=0.00460 9                                 
+241AMS G  NC=0.001246 24$OC=0.000306 6$PC=5.40E-5 10$QC=2.46E-6 5               
+241AM  L 239                                                                    
+241AM cL E$From 1975Ba25                                                        
+241AM  A 6113         5.2        125                                            
+241AM cA E,IA$From 1975Ba25. Not observed by 1974Po08                           
+241AM  L 270                                                                    
+241AM cL E$From 1975Ba25                                                        
+241AM  A 6085      2  6.2    3    74   8                                        
+241AM cA E$E|a=6085 {I3} (1974Po08). I|a=6.7 (1975Ba25)                         
+241AM  L 273.2     5 9/2+                                                       
+241AM  A 6079                                                                   
+241AM cA E$From 1975Ba25. Not reported by 1974Po08. No I|a is given since       
+241AM2cA the peak is obscured by an impurity                                    
+241AM  L 319.8     10 11/2+                                                     
+241AM  A 6035      2  0.55   8   466   79                                       
+241AM cA E$E|a=6035 {I4} (1974Po08). I|a<4.6 (1975Ba25)                         
+241AM  L 381.1     1   13/2+                                                   ?
+241AM  A 5983      3  0.08   2  1.56E3 42                                      ?
+241AM cA E,IA$From 1974Po08. Not reported by 1975Ba25                           
+241AM  L 459                                                                   ?
+241AM cL E$From 1975Ba25                                                        
+241AM  A 5897                                                                  ?
+241AM cA E$From 1975Ba25. Not reported by 1974Po08. No I|a is given since       
+241AM2cA the peak is obscured by an impurity                                    
+241AM  L 471.810   9 3/2-                                                       
+241AM  A 5886      2  21.5    5  1.96  17                                       
+241AM cA E$E|a=5888 {I3} (1974Po08). I|a=25 (1975Ba25)                          
+241AM  G 265.922   12 0.12   3 [E1]                    0.0552                  S
+241AM2 G FLAG=BS$                                                               
+241AMS G  KC=0.0433 6$LC=0.00894 13$MC=0.00218 3                                
+241AMS G  NC=0.000590 9$OC=0.0001456 21$PC=2.62E-5 4$QC=1.284E-6 18             
+241AM cG RI$From I|g/I|g(472|g)=0.0056 {I6} in |e decay                         
+241AM cG TI$From I(|g+ce)/I|g=6.6 {I6} in |e decay                              
+241AM  G 430.634   20 1.25   25E2                      0.0805                  S
+241AM2 G FLAG=S$                                                                
+241AMS G  KC=0.0416 6$LC=0.0285 4$MC=0.00767 11                                 
+241AMS G  NC=0.00211 3$OC=0.000514 8$PC=8.88E-5 13$QC=2.08E-6 3                 
+241AM cG RI$From I|g/I|g(472|g)=0.057 {I4} in |e decay                          
+241AM  G 471.8     3  22     4 [M1+E2]                 0.22   1631         5    
+241AM2 G FLAG=AB$                                                               
+241AMS G  K/T=0.14 10$L/T=0.033 16$M/T=0.008 4                                  
+241AMS G  N/T=0.0023 11$O/T=0.0006 3$P/T=0.00010 6$Q/T=6.E-6 5                  
+241AMS G  KC=0.17 14$LC=0.040 20$MC=0.010 5                                     
+241AMS G  NC=0.0028 12$OC=0.0007 4$PC=0.00013 7$QC=7.E-6 6                      
+241AM cG TI$From I|g and I(|g+ce)/I|g=1.208 {I86} in |e decay                   
+241AM  L 495                                                                    
+241AM cL E$From 1975Ba25                                                        
+241AM  A 5861      2   2.7        12                                            
+241AM cA E,IA$From 1975Ba25. See comment on 5852|a                              
+241AM  L 504.449   9  5/2-                                                      
+241AM  A 5852      2   1.4        20                                            
+241AM cA E,IA$From 1975Ba25. I|a|<3.7 (1975Ba25). 1974Po08 report I|a=4.1 {I2}  
+241AM2cA for E|a=5856 {I3}. The evaluator assumes that this peak is the         
+241AM3cA unresolved sum of the 5861 and 5852 peaks reported by 1975Ba25. This   
+241AM4cA assumption leads to I|a(5852|a)=1.4                                    
+241AM  L 543                                                                   ?
+241AM cL E$From 1975Ba25                                                        
+241AM  A 5814                                                                  ?
+241AM cA E$From 1975Ba25. Not reported by 1974Po08. No I|a is given since       
+241AM2cA the peak is obscured by an impurity                                    
+241AM  L 550.4     4  7/2-                                                      
+241AM  A 5796         0.9    1   17.9  25                                       
+241AM cA E,IA$E is from 1975Ba25. They report I|a<1.3. 1974Po08 report          
+241AM2cA I|a=0.9 {I1} for E|a=5811 {I3}. The evaluator assumes that the two     
+241AM3cA references are seeing the same |a transition                           

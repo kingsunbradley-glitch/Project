@@ -1,0 +1,886 @@
+231PA    ADOPTED LEVELS, GAMMAS                                  22NDS    202210
+231PA  H TYP=FUL$AUT=Balraj Singh, Jagdish K. Tuli, and Edgardo Browne$         
+231PA2 H CIT=NDS 185, 560 (2022)$CUT=31-Aug-2022$                               
+231PA  Q -381.6    20 6821    3 4727.1 15 5149.9 8     2021WA16                 
+231PA cQ $S(2n)=12615.1 {I28}, S(2p)=11844 {I12} (2021Wa16)                     
+231PA c  First identification of {+231}Pa nuclide is generally accredited to    
+231PA2c  L. Meitner, Zeitschrift fur Elektrochemie und angewandte physikalische 
+231PA3c  Chemie 24, 11-12, 169 (1918), starting with pitchblende without uranium
+231PA4c  or radium, and isolating both the mother isotope {+231}Pa and its      
+231PA5c  |a-daughter {+227}Ac. 2013Fr03 mention the identification of {+231}Pa, 
+231PA6c  as a parent of {+227}Ac, to O. Hahn and L. Meitner, Z. Physik 19, 208  
+231PA7c  (1918), where half-life was estimated to be between 1200 y and 180,000 
+231PA8c  y; and also to an earlier indirect evidence of {+231}Pa in a paper     
+231PA9c  by F. Soddy and J.A. Cranston, Proc. Roy. Soc. (London), A94, 384      
+231PAAc  (1918), where half-life was estimated to be >10,000 y. 1931Cu01        
+231PABc  evaluation adopted half-life of 32,000 y from 1930Gr01, with the       
+231PACc  citation of the following earlier references: A.v. Grosse, Ber. Chem.  
+231PADc  Ges. 61, 233 (1928); Naturwiss. 15, 766 (1927); Nature 120, 621 (1927);
+231PAEc  O. Hahn and A.v. Grosse, Z. Physik 48, 600 (1928), T{-1/2}=20,200 y;   
+231PAFc  O. Hahn and E. Walling, Naturwiss. 15, 803 (1928); E. Walling,         
+231PAGc  Dissertation (Berlin, 1928), T{-1/2}=20.760 y. Most current half-life  
+231PAHc  measurement of 32,570 y {I130} is reported by 2020Je01, a result from  
+231PAIc  collaboration of independent measurements at six different laboratories
+231PA c  Application of {+231}Pa as described in N.E. Holden et al.,            
+231PA2c  Pure Appl. Chem. 90, 1833 (2018),"{+231}Pa is a natural radiogenic     
+231PA3c  isotope produced by alpha decay of {+235}U to {+231}Th, followed by    
+231PA4c  beta emission to form {+231}Pa. Although its behavior in the           
+231PA5c  environment as a transient member of the U-series decay chain may be   
+231PA6c  complex, measurements and modeling of {+231}Pa in relation to the      
+231PA7c  isotopes of uranium and thorium have been used in a variety of         
+231PA8c  geochronologic applications on time scales of 103 to 105 years.        
+231PA9c  Studies include movement of water masses and particles in the oceans,  
+231PAAc  rates of magma melting and movement beneath volcanoes, and ages of     
+231PABc  carbonate mineral deposits, including corals, in relation to climate   
+231PACc  change".                                                               
+231PA c  1966Cr15:                                                              
+231PA c  Theoretical calculations: consult the NSR database                     
+231PA2c  (www.nndc.bnl.gov/nsr) for 115 primary references, 97 dealing with     
+231PA3c  half-lives of |a and cluster decays and other aspects of radioactive   
+231PA4c  decays, and 19 with nuclear structure calculations. Some of these      
+231PA5c  references are listed in 'document' records in this dataset, which can 
+231PA6c  be accessed through on-line ENSDF database at www.nndc.bnl.gov/ensdf/  
+231PA d  Theoretical studies: 2022De14, 2022Is03, 2022Pr04,                     
+231PA2d  2022Sr01, 2019Ma13, 2019Sa33, 2017Ad03, 2017Is15, 2017Sa39, 2016Du03,  
+231PA3d  2016Is08, 2016Na19, 2016Qi07, 2015Se01, 2013Na25, 2013Qi04, 2012Qi01,  
+231PA4d  2012Si01, 2011Sh13, 2011Si13, 2010Ni13, 2010Si12, 2009Zh28, 2009Ro16,  
+231PA5d  2009Ar05, 2009Ar11, 2008Ni12, 2008Bh05, 2005Ku04, 2005Ku32, 2005Bh02,  
+231PA6d  2004Ba64, 2004Re22, 2002Ba80, 2002Do16, 2002Sa55: calculated |a-,      
+231PA7d  and/or cluster-decay half-lives.                                       
+231PA d  2012Sa05, 2011Si14, 2010Ni02, 2006Mi15, 2002Sh19: |a-decay: theory and 
+231PA2d  systematics:                                                           
+231PA d  2009So02, 2006Sa35: {+231}U |e decay systematics                       
+231PA d  2004Ro01: spontaneous fission.                                         
+231PA d  2003De44: Pa x-ray energies.                                           
+231PA cG $Gamma-ray transition probabilities are from Coulomb excitation,       
+231PA2cG unless otherwise indicated                                             
+231PA cG E,RI,M,MR$From {+231}Th |b{+-} decay, unless otherwise specified.      
+231PA cG E(Z)$From Coulomb excitation and/or (p,2n|g)                           
+231PA cG M$From conversion electron data in {+231}Th |b{+-} decay, unless       
+231PA2cG otherwise specified.                                                   
+231PA cG M(y)$From ce and |g(|q) in (p,2n|g), assignment treated as tentative   
+231PA2cG by the evaluators, as no details of ce data are available              
+231PA cG E(X),RI(X)$From {+231}U |e decay                                       
+231PA cG E(A),RI(A,B)$From Coul. Ex. only                                       
+231PA cG RI(a)$From (p,2n|g)                                                    
+231PA cL ${+231}Pa presents K=1/2 rotational bands with opposite parity and     
+231PA2cL decoupling parameters with very close absolute values, as well as      
+231PA3cL enhanced E1 |g-ray transitions between parity-doublet band levels.     
+231PA4cL These are typical features of nuclei with large stable octupole        
+231PA5cL deformations. However, {+231}Pa has a small |b{-3} deformation         
+231PA6cL parameter of 0.02. Consequently, the characteristic features mentioned 
+231PA7cL before have been explained by using large octupole-phonon components in
+231PA8cL the low-lying states. Extensive calculations of level energies and     
+231PA9cL B(E1) reduced transition probabilities using the                       
+231PAacL quasiparticle-plus-phonon model (QPM) have produced acceptable         
+231PAbcL agreement between theory and experiment (1996Le01).                    
+231PA cL $The even-parity states in {+231}Pa are members of rotational bands    
+231PA2cL that are strongly mixed by the Coriolis interaction. This mixing       
+231PA3cL affects level energies as well as |a, |b, and |g-ray transition        
+231PA4cL probabilities. Comprehensive Coriolis calculations have explained      
+231PA5cL distortions in rotational band level spacings (which includes the      
+231PA6cL unusual inversion of the 84- (5/2+), 102- (3/2+), and 101-keV (7/2+)   
+231PA7cL states in the 3/2[651] rotational band). These calculations also       
+231PA8cL produced values for |g-ray, |b{+-} ({+231}Th |b{+-} decay), and        
+231PA9cL |a-particle ({+235}Np |a decay) transition probabilities between these 
+231PAAcL states (1975Ho14, 1973Br12). The agreement between experimental results
+231PABcL and calculated values have confirmed the rotational band assignments   
+231PACcL presented here. Band assignments are from Coulomb excitation, (p,2n|g),
+231PADcL (|a,t), and {+231}U |e decay (2003Wu03,1996Le01,1975Er01,1973Br12)     
+231PA cL E$From least-squares fit to E|g data. Reduced |h{+2}=0.79, with        
+231PA2cL only two E|g values deviating slightly, between 2 and 3 |s.            
+231PA cL T$From {+231}Th |b{+-} decay, unless otherwise specified.              
+231PA cL J$From |g-ray multipolarities and rotational band structures.          
+231PA2cL Individual arguments for spin and parity assignments are given for     
+231PA3cL rotational bandheads.                                                  
+231PA CL BAND(A)$|p1/2[530]                                                     
+231PA CL BAND(B)$|p1/2[400]+|p1/2[660]                                          
+231PA CL BAND(D)$|p3/2[651]                                                     
+231PA CL BAND(E)$|p5/2[512]                                                     
+231PA CL BAND(F)$|p5/2[642]                                                     
+231PA CL BAND(G)$|p3/2[532]                                                     
+231PA CL BAND(H)$|p3/2[521]                                                     
+231PA  XA231TH B- DECAY (25.57 H)                                               
+231PA  XB231U EC DECAY (4.2 D)                                                  
+231PA  XC235NP A DECAY (396.1 D)                                                
+231PA  XG230TH(A,T)                                                             
+231PA  XI231PA(G,G):MOSSBAUER                                                   
+231PA  XF231PA(P,P')                                                            
+231PA  XH231PA(D,D')                                                            
+231PA  XDCOULOMB EXCITATION                                                     
+231PA  XE232TH(P,2NG)                                                           
+231PA PN                                                                     6  
+231PA  L 0.0          3/2-             32570 Y   130                        A   
+231PA2 L %A=100$ %SF LE 3E-10 (1952Se67)                                        
+231PA2 L MOMM1=1.99 2 (1961Ax01,2019StZV)                                       
+231PA2 L MOME2=-1.72 5 (1978Fr28,2021StZZ)                                      
+231PAX L XREF=ABCDEFGHI                                                         
+231PA cL $%{+24}Ne/%|a=13.4|*10{+-12} {I17} track-recording glass detector used 
+231PA2cL by 1992Pr05. Others: 1985Sa40, 1986Tr10. %{+24}Ne/%{+23}F|?1347.  One  
+231PA3cL track identified by 1992Pr05 as probably {+23}F was observed,          
+231PA4cL %{+23}F/%|a=9.9|*10{+-15} (1995Ar33).                                  
+231PA cL J$spin from electron paramagnetic resonance (1961Ax01,1960Ky01); and   
+231PA2cL optical spectroscopy (1961Ri06,1934Sc04). Parity from                  
+231PA3cL 183.5|g E1 from J{+|p}=5/2+. The following suggests a 1/2[530] Nilsson 
+231PA4cL orbital configuration: 1) experimental decoupling parameter            
+231PA5cL a(exp.)=-1.5 compares with theoretical value a(theory)=-1.8 (1977Ch27).
+231PA6cL 2) Same ground state Nilsson configuration in {+233}Pa. 3)             
+231PA7cL {+230}Th(|a,t) experimental spectroscopic factors are consistent with a
+231PA8cL 1/2[530] configuration assignment. 4) |m=1.99 {I2} (2019StZV) agrees   
+231PA9cL with theoretical value of 2.25 for 1/2-1/2[530] Nilsson orbital        
+231PAAcL (1982Li02].                                                            
+231PA cL MOMM1$electromagnetic double resonance (ENDOR) (1961Ax01); value of    
+231PA2cL 2.01 {I2} in 1961Ax01 is given as 1.99 {I2} in 2019StZV evaluation     
+231PA cL MOME2$estimated by 1978Fr28 from B(E2) for 58.6 level, not a measured  
+231PA2cL quadrupole moment.                                                     
+231PA cL T$from 2020Je01, determination of average (by power-moderated mean     
+231PA2cL (PMM) method of S. Pomme and J.D. Keightley, Metrologia, 52, S17-26    
+231PA3cL (2015)) {+231}Pa activity concentration measured independently at six  
+231PA4cL metrology laboratories using a variety of methods: 4|p |a liquid       
+231PA5cL scintillation counting, triple to double coincidence ratio (TDCR),     
+231PA6cL CIEMAT/NIST, 4|p |a liquid scintillation-|g(NaI) coincidence counting, 
+231PA7cL 4|p(|a(P)) |a|g-coin counting, |a counting at a defined solid angle at 
+231PA8cL the following labs: NPL-Teddington, JRC-Geel, LNE-LNHB-Gif-sur-Yvette, 
+231PA9cL NIM-Beijing, NRC-Ottawa, and PTB-Braunschweig; while atom concentration
+231PAAcL of the material was measured at LLNL-Livermore by isotope dilution mass
+231PABcL spectrometry (IDMS), using {+233}Pa as a tracer. Others: 32765 y {I110}
+231PACcL (1969Ro33, calorimetry method, value of 32713 y {I110} increased by    
+231PADcL 52 y due to change in Q(|a) from 5140 to 5149.9 {I8}); 32340 y {I115}  
+231PAEcL (1968Br04, radiometric method, with quoted uncertainty of 230 y at 95% 
+231PAFcL confidence level); 32647 y {I260} (1961Ki05, calorimetry method, value 
+231PAGcL of 32480 y {I260} increased by 167 y, due to change in the Adopted     
+231PAHcL decay scheme); 34300 y {I300} (1949Va02, radiometric method);          
+231PAIcL 32800 y (cited by 1968Br04 from unpublished work of J. Fleggenheimer   
+231PAJcL and A.G. Maddock); 32000 y {I3200} (cited by 2020Je01                  
+231PAKcL from measurement by A.v. Grosse, Naturwiss. 20, 505 (1932)). Weighted  
+231PALcL average of values from 2020Je01, 1969Ro33, 1968Br04 and 1961Ki05 is    
+231PAMcL 32570 y {I100}, while PMM method (used in 2020Je01) gives 32570 y {I98}
+231PA cL $T{-1/2}(SF)|>1.1|*10{+16} y (1952Se67) (11 fission events observed)   
+231PA  L 9.183     18 1/2-                                                  A   
+231PAX L XREF=ABCDEFG(12)H                                                      
+231PA  G 9.183                                                      100        S
+231PA cG E$from level-energy difference                                         
+231PAB G BE2W=333 +38-36                                                        
+231PA  L 58.5696   24 7/2-             274 PS    10                         A   
+231PAX L XREF=ABCDEFGH                                                          
+231PA cL T$from |b{+-} decay, (25.6|g)(ce(L) for 58.6|g)(t) (1975Ho14). Other:  
+231PA2cL 281 ps {I17}, deduced from B(E2) in Coulomb excitation.                
+231PA  G 58.5700   24   100    E2                      155.5  22                
+231PAB G BE2W=227 9                                                             
+231PA cG $B(E2)(W.u.) from T{-1/2}=274 ps {I10}. Other: 222 {I+13-11} from      
+231PA2cG Coulomb excitation                                                     
+231PAS G LC=113.6 16$MC=31.3 5$                                                 
+231PAS G NC=8.43 12$OC=1.90 3$PC=0.306 5$QC=0.000818 12                         
+231PA  L 77.692    17 5/2-                                                  A   
+231PAX L XREF=ABDEFGH                                                           
+231PA  G 19.1                                                                  S
+231PA  G 68.5      1    100   5 E2                      73.3  10                
+231PAB G BE2W=127 +52-28                                                        
+231PAS G LC=53.5 9$MC=14.76 24$                                                 
+231PAS G NC=3.98 7$OC=0.898 14$PC=0.1448 23$QC=0.000423 7                       
+231PA  G 77.6      2    72   12 [M1+E2]                   25  16            Z   
+231PAB G BE2W=71 6                                                              
+231PA  L 84.2152   20 5/2+             45.1 NS   13                         D   
+231PAX L XREF=ABCDEI                                                            
+231PA2 L MOME2=+0.7 2 (1978Fr28,2021StZZ)                                       
+231PA cL T$from |b{+-} decay, (|b(84|g ce)(t)) (1975Ho14). Others: 43.7 ns {I5} 
+231PA2cL (1972Mc29, a time interval distribution method); 41 ns {I4} (1955St88, 
+231PA3cL (25.6|g)|b(t) and (84.2|g)|b(t)).                                      
+231PA cL MOME2$Mossbauer effect (1978Fr28), deduced from measured               
+231PA2cL Q(84.2 level)/Q(g.s.)=-0.4 {I1}, and estimated Q(g.s.)=-1.72 {I5}      
+231PA cL J$25.6|g E1 to 7/2-, 84.2|g E1 to 3/2-. HF=3.1 from {+235}Np |a decay  
+231PA2cL suggests strong mixing with 5/2+, 5/2[642] level at 183.5 keV.         
+231PA  G 25.65     2  202    3  E1                     4.37   6                 
+231PAB G BE1W=3.37E-5 13                                                        
+231PA cG $B(E1)(W.u.) from T{-1/2}=45.1 ns {I13} and |g-branching ratio.        
+231PA2cG Other: 3.1|*10{+-5} {I+5-2} from Coulomb excitation                    
+231PAS G LC=3.26 5$MC=0.843 12$                                                 
+231PAS G NC=0.219 4$OC=0.0471 7$PC=0.00673 10$QC=0.000196 3                     
+231PA  G 84.2140   22  100      E1                     2.17   21                
+231PA cG CC$experimental value of anomalous conversion coefficient (1975Ho14).  
+231PAB G BE1W=4.45E-7 +28-25                                                    
+231PA cG $B(E1)(W.u.) from T{-1/2}=45.1 ns {I13} and |g-branching ratio.        
+231PA2cG Other: 9.1|*10{+-7} {I+39-66} from Coulomb excitation                  
+231PAS G LC=0.1434 20$MC=0.0350 5$                                              
+231PAS G NC=0.00925 13$OC=0.00212 3$PC=0.000359 5$QC=1.694E-5 24                
+231PA  L 101.408    4 7/2+             0.7 NS    2                          D   
+231PAX L XREF=ABCDEG(*105)                                                      
+231PA cL T$combined for 101.4+102.3 levels (1975Ho14, |b{+-} decay)             
+231PA  G 17.195    21  46E1  16   (M1)                   166  3                 
+231PAS G LC=1.4$ MC=122.6 18$ NC=32.7 5$OC=7.75 12$PC=1.505 22$QC=0.144 2       
+231PA  G 42.81     5   100.0 23[E1]                    1.136  16                
+231PAS G LC=0.854 13$MC=0.213 4$                                                
+231PAS G NC=0.0558 9$OC=0.01240 19$PC=0.00194 3$QC=7.08E-5 11                   
+231PA  L 102.2685  21 3/2+             0.7 NS    2                          D   
+231PAX L XREF=ABCDEG(*105)                                                      
+231PA cL J$102.3|g (E1) to 3/2-, 18.1|g M1+E2 to 5/2+, 93.0|g to 1/2-.          
+231PA cL T$combined for 101.4+102.3 levels (1975Ho14, |b{+-} decay)             
+231PA  G  18.055   18   21   8  M1+E2    0.040   +18-0  218   28                
+231PAS G  LC=45 15$MC=128 8                                                     
+231PAS G  NC=34 2$OC=8.1 4 $PC=1.55 5 $QC=0.124 1                               
+231PA  G 93.02     4     10.612 (E1)                   0.1463 21                
+231PAS G LC=0.1103 16$MC=0.0269 4$                                              
+231PAS G NC=0.00711 10$OC=0.001633 23$PC=0.000279 4$QC=1.363E-5 20              
+231PA  G 102.2700  24     100 3 (E1)                   0.1141 16                
+231PAS G LC=0.0860 12$MC=0.0210 3$                                              
+231PAS G NC=0.00554 8$OC=0.001276 18$PC=0.000220 3$QC=1.107E-5 16               
+231PA  L 111.648   12(9/2+)                                                 D   
+231PAX L XREF=ACDEFG(117)H(109.2)                                               
+231PA  G 53.2      8   100      [E1]                   0.64   3             A   
+231PAS G  LC=0.483 21$MC=0.119 6                                                
+231PAS G  NC=0.0313 14$OC=0.0070 3$PC=0.00114 5$QC=4.53E-5 16                   
+231PA  L     134   5    (11/2+)                                                 
+231PAX L XREF=G                                                                 
+231PA  L 168.77     5   11/2-           154 PS   12                         A   
+231PAX L XREF=CDEFG(172)H                                                       
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 110.2|g                                            
+231PA  G 57.2      2  7.8    7 [E1]                    0.529  8             A   
+231PAB G BE1W=5.5E-5 +14-9                                                      
+231PAS G LC=0.398 6$MC=0.0982 14$                                               
+231PAS G NC=0.0258 4$OC=0.00583 9$PC=0.000950 14$QC=3.89E-5 6                   
+231PA  G 110.20    5    100  5 (E2)                    7.80   11            Z   
+231PAB G BE2W=301 24                                                            
+231PAF G FLAG=yB                                                                
+231PAS G LC=5.70 9$MC=1.573 23$                                                 
+231PAS G NC=0.424 7$OC=0.0960 14$PC=0.01559 23$QC=6.92E-5 10                    
+231PA  L 171.74    11   (11/2+)                                             D   
+231PAX L XREF=DE                                                                
+231PA  G 60.3      3    100  22 [M1]                    18.3  4             A   
+231PAB G BM1W=0.0047 +19-16                                                     
+231PA  G 70.4      3     25   7 [E2]                    64.3  16            A   
+231PAF G FL=101.408                                                             
+231PA  L 174.160    5(5/2-)                                                 E   
+231PAX L XREF=ABC(?)DE                                                          
+231PA cL J$89.9|g (E1) to 5/2+, 165.0|g to 1/2-, 115.6|g to 7/2-, 72.8|g to 7/2+
+231PA  G 72.7510   29    25.5 7[E1]                    0.280  4                 
+231PAF G FL=101.408                                                             
+231PAS G LC=0.211 3$MC=0.0517 8$                                                
+231PAS G NC=0.01363 19$OC=0.00310 5$PC=0.000519 8$QC=2.33E-5 4                  
+231PA  G 89.95     2      100 3 (E1)                   0.1598 23                
+231PAS G LC=0.1205 17$MC=0.0294 5$                                              
+231PAS G NC=0.00777 11$OC=0.001782 25$PC=0.000304 5$QC=1.467E-5 21              
+231PA  G 115.63    3    0.10 3    [M1+E2]                 10   4                
+231PAS G KC=5 6$LC=3.3 13$MC=0.9 4$                                             
+231PAS G NC=0.24 11$OC=0.055 23$PC=0.009 4$QC=0.00028 23                        
+231PA  G 165.00    5    0.35 1 [E2]                    1.464  21                
+231PAS G KC=0.209 3$LC=0.917 13$MC=0.252 4$                                     
+231PAS G NC=0.0681 10$OC=0.01545 22$PC=0.00254 4$QC=1.96E-5 3                   
+231PA  G 174.15    2     1.79 7[M1+E2]                 2.7    15                
+231PAS G KC=1.8 16$LC=0.68 4$MC=0.177 22$                                       
+231PAS G NC=0.048 6$OC=0.0111 11$PC=0.00196 6$QC=9.E-5 7                        
+231PA  L 183.4954  25 5/2+             0.19 NS   LE                         F   
+231PAX L XREF=ABCDE                                                             
+231PA cL J$Favored |a decay (HF=2.9) from 5/2+, |p5/2[642] parent {+235}Np      
+231PA2cL strongly suggests 5/2+, |p5/2[642] for 183.5 level in {+231}Pa         
+231PA cL T$from |b{+-} decay, |b(ce(M) for 81.2|g+82.1|g)(t) (1975Ho14)         
+231PA  G 81.2280   21     100 4M1(+E2)   0.00    8     7.66   20                
+231PAF G FL=102.2685                                                            
+231PAS G  LC=5.78 14$MC=1.40 4                                                  
+231PAS G  NC=0.374 11$OC=0.0898 24$PC=0.0172 4$QC=0.001422 22                   
+231PA  G 82.0870   22    46.623M1(+E2)   0.04    6     7.47   23                
+231PAF G FL=101.408                                                             
+231PAS G  LC=5.63 17$MC=1.36 5                                                  
+231PAS G  NC=0.365 12$OC=0.088 3$PC=0.0167 5$QC=0.001377 22                     
+231PA  G 99.2780   36    14.9 8M1+E2     0.35    7     5.2    4                 
+231PAS G  LC=3.9 3$MC=0.97 8                                                    
+231PAS G  NC=0.261 20$OC=0.062 5$PC=0.0113 7$QC=0.00072 3                       
+231PA  G 105.79    3     0.89 8[E1]                    0.1043 15                
+231PAS G LC=0.0787 11$MC=0.0192 3$                                              
+231PAS G NC=0.00507 8$OC=0.001168 17$PC=0.000202 3$QC=1.027E-5 15               
+231PA  G 124.927   18    6.6215 (E1)                   0.294  4                 
+231PAS G KC=0.226 4$LC=0.0511 8$MC=0.01241 18$                                  
+231PAS G NC=0.00329 5$OC=0.000761 11$PC=0.0001331 19$QC=7.12E-6 10              
+231PA  G 183.489   20    3.7715 (E1)                   0.1181 17                
+231PAS G KC=0.0928 13$LC=0.0191 3$MC=0.00463 7$                                 
+231PAS G NC=0.001228 18$OC=0.000287 4$PC=5.13E-5 8$QC=3.05E-6 5                 
+231PA  L 189.14     8   (13/2+)                                             D   
+231PAX L XREF=DEG                                                               
+231PA  G 77.6      2    100     [E2]                   40.5   8             A   
+231PA  L 193.21    11   (9/2-)           13.6 PS 19                         A   
+231PAX L XREF=DEFH                                                              
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 115.5|g                                            
+231PA  G 24.3          44    9  [M1]                   270    40               S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BM1W=0.35 +9-5                                                         
+231PA  G 81.6      4   88    31 [E1]                   0.207  4             A   
+231PAB G BE1W=2.2E-5 +8-7                                                       
+231PA  G 91.4      6   25E1  19 [E1]                   0.153  4             A   
+231PAF G FL=101.408                                                             
+231PAS G LC=0.1142 16$MC=0.0279 4$                                              
+231PAS G NC=0.00737 11$OC=0.001690 24$PC=0.000289 4$QC=1.403E-5 20              
+231PA  G 115.5     2    100  13 [E2]                   6.49   12            Z   
+231PAF G FLAG=B                                                                 
+231PAB G BE2W=180 +8-9                                                          
+231PA  G 134.4     2    75   19 (E2+M1)   4.0    9     3.7    2             Z   
+231PAF G FLAG=B                                                                 
+231PAB G BE2W=25 5 $BM1W=0.0009 +4-3                                            
+231PA  L 218.244   13(7/2-)                                                 E   
+231PAX L XREF=ADEG(214)                                                         
+231PA  G  44.08    17    2.9 11   [M1+E2]               3.3E2 29                
+231PAS G  LC=2.4E+2 21$MC=66 58                                                 
+231PAS G  NC=18 16$OC=4.0 35$PC=0.65 55$QC=0.0057 29                            
+231PA  G 106.61    3       70 3[E1]                    0.1023 14                
+231PAS G LC=0.0772 11$MC=0.0188 3$                                              
+231PAS G NC=0.00497 7$OC=0.001145 16$PC=0.000198 3$QC=1.010E-5 15               
+231PA  G 116.83    2       89 5 (E1)                   0.342  5                 
+231PAF G FL=101.408                                                             
+231PAS G KC=0.262 4$LC=0.0608 9$MC=0.01478 21$                                  
+231PAS G NC=0.00391 6$OC=0.000904 13$PC=0.0001574 22$QC=8.26E-6 12              
+231PA  G 134.03    2  100.0  27 (E1)                   0.249  4                 
+231PAS G KC=0.192 3$LC=0.0426 6$MC=0.01033 15$                                  
+231PAS G NC=0.00274 4$OC=0.000635 9$PC=0.0001116 16$QC=6.10E-6 9                
+231PA  G 140.54    4   2.90  26[M1+E2]                 5.3    25                
+231PAS G KC=3 3$LC=1.5 4$MC=0.40 12$                                            
+231PAS G NC=0.11 4$OC=0.025 7$PC=0.0043 9$QC=0.00016 13                         
+231PA  L 247.320    6 7/2+                                                  F   
+231PAX L XREF=ACDE                                                              
+231PA  G 63.86     3   14.6  26M1+E2     0.6     3     39     16                
+231PAS G  LC=28 12$MC=7.5 33                                                    
+231PAS G  NC=2.03 88$OC=0.47 20$PC=0.079 31$QC=0.0023 5                         
+231PA  G 73.0      1    4.3  17 [E1]                    0.277                   
+231PA  G 135.670   11    51.117M1(+E2)   0.1     +4-1  8.5    10                
+231PAS G  KC=6.7 13$LC=1.32 17$MC=0.32 6                                        
+231PAS G  NC=0.086 15$OC=0.021 4$PC=0.0039 5$QC=0.00032 6                       
+231PA  G 145.06    4    3.73 26 (E2)                   2.46   4                 
+231PAF G FL=102.2685                                                            
+231PAS G KC=0.237 4$LC=1.627 23$MC=0.448 7$                                     
+231PAS G NC=0.1209 17$OC=0.0274 4$PC=0.00448 7$QC=2.86E-5 4                     
+231PA  G 145.94    2     20.6 9M1+E2     0.78    24    5.2    7                 
+231PAF G FL=101.408                                                             
+231PAS G  KC=3.5 8$LC=1.26 8$MC=0.32 3                                          
+231PAS G  NC=0.087 8$OC=0.0204 16$PC=0.00362 19$QC=0.00017 4                    
+231PA  G 163.1010  54     100 4M1(+E2)   0.0     3     5.1    3                 
+231PAS G  KC=4.0 4$LC=0.776 19$MC=0.187 7                                       
+231PAS G  NC=0.0502 19$OC=0.0120 4$PC=0.00230 5$QC=0.000190 15                  
+231PA  G 169.65    3     0.86 4[E1]                    0.1421 20                
+231PAS G KC=0.1113 16$LC=0.0233 4$MC=0.00564 8$                                 
+231PAS G NC=0.001497 21$OC=0.000349 5$PC=6.22E-5 9$QC=3.63E-6 5                 
+231PA  G 188.76    2     2.10 9[E1]                    0.1105 16                
+231PAS G KC=0.0869 13$LC=0.01782 25$MC=0.00431 6$                               
+231PAS G NC=0.001144 16$OC=0.000267 4$PC=4.79E-5 7$QC=2.87E-6 4                 
+231PA  L 273.717   15   (1/2+)                                              B   
+231PAX L XREF=BDFH                                                              
+231PA cL J$|g rays to 1/2-, 3/2- and 3/2+. Upper limits of |g-intensities and   
+231PA2cL ratio of intensities of [E1] transitions to the ground-state band      
+231PA3cL support spin of 1/2+. With this level assigned as the bandhead,        
+231PA4cL energies of the higher members of the rotational band are in agreement 
+231PA  G 171.43    3    32   3  [M1+E2]                2.8    16            X   
+231PAF G FL=102.2685                                                            
+231PA  G 189.5          0.8  LE                                             X   
+231PA  G 196.0          0.8  LE                                             X  ?
+231PA cG $|g to 5/2- is not likely                                              
+231PA  G 264.55    2    45   4  [E1]                   0.0506 7             X   
+231PA  G 273.71    2    100  5  [E1]                   0.0469 7             X   
+231PA  L 274.96    17   (9/2-)                                              E   
+231PAX L XREF=DEG(272)                                                          
+231PA  G 100.4     8 20      6  [E2]                   12.0   5                 
+231PAF G FLAG=Z                                                                 
+231PA cG RI$weighted average of 25 {I6} in (p,2n|g) and 14 {I7} in Coul. ex.    
+231PA  G 163.5     3 44.2    28  [E1]                  0.155  2             a   
+231PAF G FLAG=Z                                                                 
+231PA cG RI$86 {I21} in Coul. ex.                                               
+231PA  G 173.5     2 100.0   16 [E1]                   0.135  2             a   
+231PAF G FLAG=Z                                                                 
+231PA  L 287       3                                                            
+231PAX L XREF=G                                                                 
+231PA cL $In (|a,t), this level was assigned as bandhead of |p1/2[400] band,    
+231PA2cL but in later studies using |g-ray data from reactions, a 273.7 level   
+231PA3cL was assigned as bandhead of |p1/2[400]+|p1/2[660] mixed configuration. 
+231PA4cL It should be noted that |p1/2[400] band assignment to two levels in    
+231PA5cL (|a,t) seemed tentative, based only on level energies.                 
+231PA  L 296.6     4                                                            
+231PAX L XREF=FH                                                                
+231PA  L 300.98    11   (15/2+)         82 PS    20                         D   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 129.2                                              
+231PA  G 111.8      2 81     8  [M1]                    3.04  4             A   
+231PAB G BM1W=0.0063 +15-24                                                     
+231PA  G 129.2      1 100    9  [E2]                    4.00  6             A   
+231PAB G BE2W=276 +98-36                                                        
+231PA  L 304.7      3   (9/2+)                                              F   
+231PAX L XREF=CDE                                                               
+231PA  G 121.1     8   50    25                                             Z   
+231PAF G FLAG=a                                                                 
+231PA  G 203.3     3  100    25                                             Z   
+231PAF G FLAG=a                                                                 
+231PA  L 311.78    17   (5/2+)          0.12 NS  +17-6                      B   
+231PAX L XREF=DH                                                                
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 253.3|g                                            
+231PA  G 253.3     2    100  13 [E1]                   0.0559 8             A   
+231PAB G BE1W=6.0E-5 +44-33                                                     
+231PA  G 311.6     3    47    6 (E1)                   0.0351 5             y   
+231PAF G FLAG=A                                                                 
+231PAB G BE1W=1.2E-5 +12-6                                                      
+231PA  L 316.83     9   (17/2+)         77 PS    +27-18                     D   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 127.7|g                                            
+231PA  G 15.9           1.7  3   [M1]                  230    50            B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BM1W=0.129 +20-10                                                      
+231PA  G 127.7     1    100  8  [E2]                   4.21   6             A   
+231PAB G BE2W=286 +37-46                                                        
+231PA  L 317.94     4(3/2+)             0.07 NS  +11-3                      B   
+231PAX L XREF=ABDEFGH                                                           
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 308.8|g                                            
+231PA  G 240.27    5     70  8 [E1]                    0.0630 9                 
+231PA  G 308.78    7    100  13[E1]                    0.0358 5                 
+231PAB G BE1W=1.9E-5 +17-11                                                     
+231PA  G 317.87    8     23  5 [E1]                    0.0336 5                 
+231PAB G BE1W=2.1E-5 13                                                         
+231PA  L 320.208   20 3/2-                                                  G   
+231PAX L XREF=ABDE                                                              
+231PA cL J$311.0|g M1+E2 to 1/2-; |g|g(|q) in {+231}Th |b{+-} decay (1975Ho14)  
+231PA  G 136.75    7     11.0 5[E1]                    0.237  3                 
+231PAS G KC=0.184 3$LC=0.0404 6$MC=0.00981 14$                                  
+231PAS G NC=0.00260 4$OC=0.000603 9$PC=0.0001061 15$QC=5.83E-6 9                
+231PA cG RI$20.7 {I20} in (p,2n|g)                                              
+231PA  G 217.94    3    100.017 E1                     0.0789 11                
+231PA  G 236.04    6     23.310 [E1]                   0.0657 9                 
+231PA cG RI$31.7 {I24} in (p,2n|g)                                              
+231PA  G 242.51    4     2.1010[M1+E2]                 1.0    7                 
+231PAS G KC=0.7 6$LC=0.22 4$MC=0.055 7$                                         
+231PAS G NC=0.0147 17$OC=0.0035 5$PC=0.00062 13$QC=3.E-5 3                      
+231PA  G 311.00    5      7.8 3 M1(+E2)  0.7     9       0.61 27                
+231PAS G KC=0.43 25$LC=0.103 25$MC=0.026 6$                                     
+231PAS G NC=0.0069 14$OC=0.0016 4$PC=0.00030 8$QC=2.0E-5 11                     
+231PA  G 320.15    8   0.40  10   [M1+E2]                0.5   3                
+231PAS G KC=0.3 3$LC=0.09 3$MC=0.022 6$                                         
+231PAS G NC=0.0059 17$OC=0.0014 5$PC=0.00026 9$QC=1.6E-5 13                     
+231PA  L 328.88     7   (15/2-)         74 PS    7                          A   
+231PAX L XREF=DEFH                                                              
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 160.1|g                                            
+231PA  G 139.75    5    18.0 4  [E1]                   0.225  3             Z   
+231PAF G FLAG=B                                                                 
+231PAB G BE1W=6.3E-5 +3-1                                                       
+231PA cG $Other B(E1)(W.u.)=10.2|*10{+-5} {I+14-3}, deduced from branching      
+231PA2cG ratios.                                                                
+231PAS G KC=0.1744 25$LC=0.0382 6$MC=0.00927 13$                                
+231PAS G NC=0.00246 4$OC=0.000570 8$PC=0.0001004 15$QC=5.55E-6 8                
+231PA  G 160.13    5   100   6 (E2)                    1.651  23            Z   
+231PAF G FLAG=yB                                                                
+231PAB G BE2W=299 +21-22                                                        
+231PAS G KC=0.216 3$LC=1.048 15$MC=0.288 5$                                     
+231PAS G NC=0.0778 12$OC=0.0176 3$PC=0.00290 5$QC=2.14E-5 3                     
+231PA  L 344.55    19   (11/2-)                                             E   
+231PAX L XREF=DEG(340)                                                          
+231PA  G 126.3     5  21     7                                              Z   
+231PAF G FLAG=a                                                                 
+231PA  G 232.9     2  100    4                                              Z   
+231PAF G FLAG=a                                                                 
+231PA  L 351.69    11(13/2-)            10 PS    +11-7                      A   
+231PAX L XREF=DEFH                                                              
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 158.5|g                                            
+231PA  G 22.8            7   5   [M1]                  320    22            B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BM1W=0.35 +21-5                                                        
+231PA  G 158.5     3  100    14 [E2]                   1.72   3             A   
+231PAB G BE2W=272 +111-60                                                       
+231PA  G 162.4     5  9.5    48 [E1]                   0.1577 25            A   
+231PAB G BE1W=3.3E-5 17                                                         
+231PA  G 180.0     2  22     3  [E1]                   0.1236 17            A   
+231PAB G BE1W=7.8E-5 +16-12                                                     
+231PAS G KC=0.0970 14$LC=0.0201 3$MC=0.00486 7$                                 
+231PAS G NC=0.001289 18$OC=0.000301 5$PC=5.38E-5 8$QC=3.18E-6 5                 
+231PA  G 183.3     2  11.4   19 [M1+E2]   1.1    +12-7  2.2   11            Z   
+231PAF G FLAG=B                                                                 
+231PAB G BE2W=6.1 +29-41$ BM1W=0.00056 +62-34                                   
+231PA  L 351.85     4(5/2-)                                                 G   
+231PAX L XREF=ADE                                                               
+231PA  G 249.60    7     55  5 [E1]                    0.0578 8                 
+231PAF G FL=102.2685                                                            
+231PA  G 250.45    7     46  5 [E1]                    0.0573 8                 
+231PAF G FL=101.408                                                             
+231PA  G 267.72    9     100 7 [E1]                    0.0493 7                 
+231PA  G 274.10    10    2.3 9    [M1+E2]                0.71 48                
+231PAS G KC=0.5 5$LC=0.14 4$MC=0.036 7$                                         
+231PAS G NC=0.0098 19$OC=0.0023 5$PC=0.00042 12$QC=2.5E-5 20                    
+231PA  G 351.80    10    4.6 9 [M1+E2]                 0.35   25                
+231PAS G KC=0.26 21$LC=0.066 25$MC=0.016 6$                                     
+231PAS G NC=0.0044 14$OC=0.0010 4$PC=0.00019 8$QC=1.2E-5 10                     
+231PA  L 391.92    17   (9/2+)           94 PS   +58-39                     B   
+231PAX L XREF=DEF(395.7)G(385)H                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 333.5|g                                            
+231PA  G 80.2           4.4  22 [E2]                   34.6   12               S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BE2W=264 +150-29                                                       
+231PA  G 222.5     3    4.0  12 [E1]                   0.0752 11            Z   
+231PAB G BE1W=4.7E-5 +11-12                                                     
+231PA  G 333.6     2    100  10 [E1]                   0.0303 4             Z   
+231PAB G BE1W=1.9E-5 +3-4                                                       
+231PA  L 395.92    12   (7/2-)                                              G   
+231PAX L XREF=DEG(393)                                                          
+231PA  G 284.1     2                                                        *   
+231PAF G FLAG=Z                                                                 
+231PA cG $I|g=43 {I5} in (p,2n|g) for a double placement.                       
+231PA2cG I|g(284|g)/I|g(294|g)=0.5 {I2} in Coul. ex. where each |g is doubly    
+231PA3cG placed                                                                 
+231PA  G 294.5     2                                                        *   
+231PAF G FLAG=Z                                                                 
+231PA cG $I|g=43 {I5} in (p,2n|g) for a double placement                        
+231PA  G 311.9     2                                                        *   
+231PAF G FLAG=Z                                                                 
+231PA cG $I|g=100 {I5} in (p,2n|g) for a double placement, I|g not              
+231PA2cG available in Coul. ex.                                                 
+231PA  L 406.14    19   (11/2+)                                             F   
+231PAX L XREF=DE                                                                
+231PA  G 158.8     5  100    50                                             Z   
+231PA  G 294.5     2                                                        *   
+231PA cG $I|g=225 {I25} in (p,2n|g) and 200 {I67} in Coul. ex. for double       
+231PA2cG placement                                                              
+231PAF G FLAG=Z                                                                 
+231PA  L 408.68    19   (7/2+)          0.05 NS  +10-3                      B   
+231PAX L XREF=DEF(411.4)H(411.1)                                                
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 330.9|g                                            
+231PA  G 90.7           7    6   [E2]                  19.4   6             B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BE2W=238 +125-179                                                      
+231PA  G 215.5     2     59  18 [E1]                   0.0809 11            A   
+231PA  G 330.9     3    100  13 [E1]                   0.0308 4             Z   
+231PAF G FLAG=B                                                                 
+231PAB G BE1W=3.4E-5 +12-19                                                     
+231PA  L 424.94    20   (13/2-)                                             E   
+231PAX L XREF=DEF(422.7)H                                                       
+231PA  G 235.8     2  15     5                                              Z   
+231PAF G FLAG=a                                                                 
+231PA  G 253.2     4 100.0   22                                             Z   
+231PAF G FLAG=a                                                                 
+231PA  L 443.0     5                                                            
+231PAX L XREF=FGH                                                               
+231PA  L 450.62    14   (9/2-)                                              G   
+231PAX L XREF=DEG(455)                                                          
+231PA  G 279.1     2  63     3                                              Z   
+231PAF G FLAG=a                                                                 
+231PA  G 338.3     3                                                        *   
+231PAF G FLAG=aZ                                                                
+231PA cG RI$<30 for double placement in (p,2n|g)                                
+231PA  G 349.3     2  100    4                                              Z   
+231PAF G FLAG=a                                                                 
+231PA  L 487.62    13   (19/2+)         21 PS    4                          D   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 186.6|g                                            
+231PA  G 171.0     2   55    4  [M1]                    4.42  6             A   
+231PAF G FL=316.83                                                              
+231PAB G BM1W=0.016 +3-6                                                        
+231PA cG $Other B(M1)(W.u.)=0.043 {I6} from branching ratios                    
+231PA  G 186.6     1  100    4  [E2]                    0.910 13            A   
+231PAB G BE2W=295 38                                                            
+231PA  L 494.80    10   (21/2+)         31 PS    11                         D   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 177.96|g                                           
+231PA  G 7.2          0.085  25  [M1]                  2.4E3  6             B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BM1W=0.406 +36-31                                                      
+231PA  G 177.96    6    100  4  [E2]                    1.090 15            A   
+231PAF G FL=316.83                                                              
+231PAB G BE2W=301 +58-39                                                        
+231PA  L 507       3                                                            
+231PAX L XREF=G                                                                 
+231PA  L 513.5     12                                                           
+231PAX L XREF=G(518)H                                                           
+231PA  L 520.54    22   (15/2-)                                             E   
+231PAX L XREF=DE                                                                
+231PA  G 331.4     2    100                                                 Z   
+231PA  L 525.35    14   (13/2+)         54 PS    +33-25                     B   
+231PAX L XREF=DE                                                                
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 356.3|g                                            
+231PA  G 132.7     9     50  25  [E2]                  3.52   5             Z   
+231PAF G FLAG=B                                                                 
+231PAB G BE2W=297 +144-60                                                       
+231PA cG RI$from Coulomb excitation                                             
+231PA  G 196.8     2      54 11 (E1)                   0.1002 14            Z   
+231PAF G FLAG=yB                                                                
+231PAS G KC=0.0789 12$LC=0.01606 23$MC=0.00388 6$                               
+231PAS G NC=0.001031 15$OC=0.000241 4$PC=4.33E-5 7$QC=2.62E-6 4                 
+231PA  G 356.3     2      100 9(E1)                    0.0263 4             Z   
+231PAF G FLAG=yB                                                                
+231PA cG E$weighted average of values from Coul. ex. and (p,2n|g)               
+231PAB G BE1W=1.9E-5 +6-4                                                       
+231PA  L 535.77     8   (19/2-)         30.4 PS  21                         A   
+231PAX L XREF=DEH                                                               
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 206.88|g                                           
+231PA  G 48.2           1.6  8  [E1]                   0.83   5             B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BE1W=3.3E-4 +33-12                                                     
+231PA  G 206.88    5   100   5 (E2)                    0.619  9             Z   
+231PAF G FLAG=yB                                                                
+231PAB G BE2W=308 +18-16                                                        
+231PAS G KC=0.1475 21$LC=0.343 5$MC=0.0940 14$                                  
+231PAS G NC=0.0254 4$OC=0.00577 9$PC=0.000956 14$QC=1.058E-5 15                 
+231PA  G 218.93    6   22.9  5 [E1]                    0.0780 11            A   
+231PAB G BE1W=7.5E-5 4                                                          
+231PA  L 543.07    19   (11/2+)         43 PS    +78-24                     B   
+231PAX L XREF=DE                                                                
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 349.5|g                                            
+231PA  G 134.2          30   22  [E2]                  3.41   8             B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BE2W=277 +143-127                                                      
+231PA  G 349.5     2    100  13 [E1]                   0.0270 4             Z   
+231PAF G FLAG=B                                                                 
+231PAB G BE1W=4.1E-5 +14-20                                                     
+231PA  L 551.50    11   (17/2-)          23.4 PS 15                         A   
+231PAX L XREF=DEH                                                               
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 199.8|g                                            
+231PA  G 15.8           0.39 3  [M1]                   235    24            B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BM1W=0.347 +12-31                                                      
+231PA  G 199.82    6  100    4 (E2)                    0.704  10            Z   
+231PAF G FLAG=yB                                                                
+231PAB G BE2W=328 +14-13                                                        
+231PAS G KC=0.1568 22$LC=0.400 6$MC=0.1096 16$                                  
+231PAS G NC=0.0296 5$OC=0.00672 10$PC=0.001113 16$QC=1.162E-5 17                
+231PAF G FL=351.69                                                              
+231PA  G 223.0     3  2.5    7  [M1+E2]   1.3    +21-7 1.1    6             A   
+231PAB G BE2W=4.6 +22-24 $ BM1W=0.00045 +56-34                                  
+231PA  G 234.5     5  1.1    4  [E1]                   0.0670 10            A   
+231PAB G BE1W=8.2E-5 21                                                         
+231PA cG $Other B(E1)(W.u.)=4.5|*10{+-5} {I+29-21} from branching ratios        
+231PA  G 250.5     2  4.1    4 [E1]                    0.0573 8             A   
+231PAB G BE1W=1.3E-5 +9-7                                                       
+231PA  L 567.5     5                                                            
+231PAX L XREF=G(575)H                                                           
+231PA  L 583.5     8                                                            
+231PAX L XREF=G(590)H                                                           
+231PA  L 604.25    15   (3/2-)                                              H   
+231PAX L XREF=DEG                                                               
+231PA cL J$|g to 5/2+; possible |g to 3/2-. This level as bandhead of |p3/2[521]
+231PA2cL was proposed in (|a,t) based on a comparison of experimental           
+231PA3cL spectroscopic factor with DWBA calculation for 7/2- member at 676 keV  
+231PA  G 284.1     2                                                        *   
+231PAF G FLAG=Z                                                                 
+231PA cG $I|g=69 {I11} in (p,2n|g) and 12 {I4} in Coul. ex. for a doubly        
+231PA2cG placed |g. Crude estimate is <40 from the two values                   
+231PA  G 420.7     2  100    8                                              Z   
+231PAF G FLAG=a                                                                 
+231PA  L 632.21    17   (5/2-)                                              H   
+231PAX L XREF=DEGH                                                              
+231PA cL J$|g rays to (5/2-) and 3/2-; band member                              
+231PA  G 280.6     3  100    40                                             Z   
+231PAF G FL=351.85                                                              
+231PAF G FLAG=a                                                                 
+231PA  G 311.9     2                                                        *   
+231PAF G FLAG=Za                                                                
+231PA cG $I|g=420 {I20} in (p,2n|g) for a double placement, I|g not available   
+231PA2cG in Coul. ex.                                                           
+231PA  L 678.1      3   (7/2-)                                              H   
+231PAX L XREF=DEG                                                               
+231PA cL J$|g to (5/2-); comparison of experimental spectroscopic factor with   
+231PA2cL DWBA analysis in (|a,t)                                                
+231PA  G 326.2     3  100                                                   Z   
+231PAF G FL=351.85                                                              
+231PA  L 700       3                                                            
+231PAX L XREF=G                                                                 
+231PA  L 705.34    16   (17/2+)         34 PS    14                         B   
+231PAX L XREF=DE                                                                
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 376.4|g                                            
+231PA  G 180.0     2  90     41[E2]                                         Z   
+231PAB G BE2W=305 +176-130                                                      
+231PAF G FLAG=B                                                                 
+231PA  G 376.4     2  100    10(E1)                    0.0234 3             y   
+231PAF G FLAG=ZB                                                                
+231PAB G BE1W=3.5E-5 +11-6                                                      
+231PA  L 716.74    19   (15/2+)         37 PS    13                         B   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 365.4|g                                            
+231PA  G 173.3     2   120   55  [E2]                                       A   
+231PAB G BE2W=303 +205-54                                                       
+231PA  G 365.4     2   100   15  [E1]                                       A   
+231PAF G FL=351.69                                                              
+231PAB G BE1W=2.7E-5 6                                                          
+231PA  L 721.41    13   (25/2+)         30 PS    +30-6                      D   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) for 226.6|g
+231PA  G 226.6      1   100      [E2]                                       A   
+231PAB G BE2W=261 +60-130                                                       
+231PA  L 728.38    24   (23/2+)         6.9 PS   15                         D   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 240.9|g                                            
+231PA  G 233.2     5    88   10 [M1]                                        A   
+231PAB G BM1W=0.112 +22-17                                                      
+231PA  G 240.9     5   100   10 [E2]                                        A   
+231PAB G BE2W=307 +60-69                                                        
+231PA  L 734.2      4 (9/2-)                                                H   
+231PAX L XREF=DE                                                                
+231PA cL J$|g to (7/2-); band member                                            
+231PA  G 338.3     3  100                                                   *   
+231PAF G FLAG=Z                                                                 
+231PA  L     750   2                                                            
+231PAX L XREF=G                                                                 
+231PA  L 785.59    11   (23/2-)         13.5 PS  8                          A   
+231PAX L XREF=DEH(*788.1)                                                       
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 249.8|g                                            
+231PA  G 57.2         0.090  23 [E1]                   0.53   3             B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BE1W=4.1E-5 +8-12                                                      
+231PA  G 249.8     1   100.0 25  [E2]                                       Z   
+231PAF G FLAG=B                                                                 
+231PAB G BE2W=327 +19-20                                                        
+231PA  G 290.8     2   23.7  7 [E1]                    0.0409 6             A   
+231PAB G BE1W=8.4E-5 +4-3                                                       
+231PA  L 788.05    12   (21/2-)         19.3 PS  16                         A   
+231PAX L XREF=DEH(*788.1)                                                       
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 236.58|g                                           
+231PA  G 236.58    8  100.0  28 [E2]                                        Z   
+231PAB G BE2W=310 23                                                            
+231PAF G FLAG=B                                                                 
+231PA  G 252.1     5   3.3   11 [M1]                                        A   
+231PAB G BM1W=0.0020 +10-8                                                      
+231PA  G 293.1     5   1.5   7  [E1]                                        A   
+231PAB G BE1W=6.6E-5 +41-29                                                     
+231PA  G 300.5     3   3.3   4  [E1]                   0.0381 5             A   
+231PAB G BE1W=1.5E-5 +10-8                                                      
+231PA  L 801       3    (11/2-)                                             H   
+231PAX L XREF=G                                                                 
+231PA  L 815       3                                                            
+231PAX L XREF=G                                                                 
+231PA  L 857.3     10                                                           
+231PAX L XREF=H                                                                 
+231PA  L 874.0     6                                                            
+231PAX L XREF=H                                                                 
+231PA  L 901.6     8                                                            
+231PAX L XREF=H                                                                 
+231PA  L 917.6     12                                                           
+231PAX L XREF=H                                                                 
+231PA  L 929.55    23   (21/2+)                                             B   
+231PAX L XREF=DE                                                                
+231PA  G 224.2     2    33   12                                             Z   
+231PAF G FLAG=a                                                                 
+231PA cG $Branching ratios for 224|g and 394|g from |g(ce)-coin data in         
+231PA2cG (p,2n|g) listed in comments in that dataset.                           
+231PA  G 393.8     5    100  30                                             Z   
+231PAF G FLAG=a                                                                 
+231PA  L 946.0     5    (19/2+)                                             B   
+231PAX L XREF=DH                                                                
+231PA  G 228.9         100   52 [E2]                   0.432  6             B  S
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BE2W=314 +162-57                                                       
+231PA  G 394.5     4    37   7  [E1]                                            
+231PAF G FLAG=A                                                                 
+231PAB G BE1W=4.4E-5 +9-12                                                      
+231PA  L 967.9     6                                                            
+231PAX L XREF=H                                                                 
+231PA  L 993.88    21   (29/2+)                                             D   
+231PAX L XREF=D                                                                 
+231PA  G 272.5      2  100       [E2]                   0.241 4             A   
+231PA  L 1019.2     4   (27/2+)         6 PS     +11-4                      D   
+231PAX L XREF=DH                                                                
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(M1) and |g     
+231PA2cL branching ratio for 298.0|g                                            
+231PA  G 290.8      3  100   17 [E2]                    0.196 3             A   
+231PA  G 298.0      5   33   17 [M1]                                        A   
+231PAB G BM1W=0.045 +28-23                                                      
+231PA  L 1048.4     6                                                           
+231PAX L XREF=H                                                                 
+231PA  L 1057.11   14   (25/2-)         10.2 PS  18                         A   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 269.1|g                                            
+231PA  G 269.1     1   100   3  [E2]                                        A   
+231PAB G BE2W=322 +50-30                                                        
+231PA  G 271.4     3    6.7  21 [M1]                                        A   
+231PAB G BM1W=0.0084 +28-23                                                     
+231PA  G 328.7     3    6.2  26 [E1]                   0.0313 5             A   
+231PAB G BE1W=3.7E-5 16                                                         
+231PA  L 1074.31   17   (27/2-)         6.2 PS   +13-9                      A   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 288.7|g                                            
+231PA  G 17.2         0.11   6  [M1]                   183    17            B  S
+231PAF G FL=1057.11                                                             
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BM1W=0.28 +34-4                                                        
+231PA  G 288.7     2  100    3  [E2]                   0.201  3             A   
+231PAF G FL=785.59                                                              
+231PAB G BE2W=324 +27-37                                                        
+231PA  G 352.8     2  25.7   14 [E1]                   0.0268 4             A   
+231PAB G BE1W=1.1E-4 +0-4                                                       
+231PA cG $Other B(E1)(W.u.)=1.9|*10{+-4} {I+3-2} from branching ratios          
+231PA  L 1086.4    6                                                            
+231PAX L XREF=H                                                                 
+231PA  L 1136.8    5                                                            
+231PAX L XREF=H                                                                 
+231PA  L 1158.5    10                                                           
+231PAX L XREF=H                                                                 
+231PA  L 1190.0    15                                                           
+231PAX L XREF=H                                                                 
+231PA  L 1196.2     4   (23/2+)                                             B   
+231PAX L XREF=D                                                                 
+231PA  G 408.1     3    100                                                 A   
+231PA  L 1221.3    8                                                            
+231PAX L XREF=H                                                                 
+231PA  L 1307.8     4   (33/2+)                                             D   
+231PAX L XREF=D                                                                 
+231PA  G 314.2     3    100      [E2]                   0.155 2             A   
+231PA  L 1355.5     3   (29/2-)         6.8 PS   +7-17                      A   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 298.6|g                                            
+231PA  G 280.6     5   4     2  [M1]                                        A   
+231PAB G BM1W=0.0052 +57-16                                                     
+231PA cG $Other B(M1)(W.u.)=0.009 {I+6-5} from branching ratios                 
+231PA  G 298.6     3  100    4  [E2]                                        A   
+231PAB G BE2W=330 +31-114                                                       
+231PA  L 1357.5     5   (31/2+)                                             D   
+231PAX L XREF=D                                                                 
+231PA  G 338.3     3    100                                                 *   
+231PAF G FLAG=A                                                                 
+231PA  L 1398.15   22   (31/2-)         3.1 PS   +11-6                      A   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E2) and |g     
+231PA2cL branching ratio for 323.8|g                                            
+231PA  G 42.6         0.54   30 [M1]                   50.7   20            B  S
+231PAF G FL=1355.5                                                              
+231PA cG $|g implied from Coulomb excitation                                    
+231PAB G BM1W=0.28 +6-15                                                        
+231PA  G 323.8     2  100    9  [E2]                                        A   
+231PAB G BE2W=322 +31-52                                                        
+231PA  G 404.2     2  46     6 [E1]                    0.0201 3             A   
+231PAB G BE1W=4.1E-4 6                                                          
+231PA  L 1660.4     5   (37/2+)                                             D   
+231PAX L XREF=D                                                                 
+231PA  G 352.6     5    100     [E2]                   0.1110 16            A   
+231PA  L 1683.2    5    (33/2-)                                             A   
+231PAX L XREF=D                                                                 
+231PA  G 327.7     3    100     [E2]                   0.137  2             A   
+231PAF G FL=1355.5                                                              
+231PA  L 1754.2     4   (35/2-)         1.2 PS   +19-7                      A   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 446.9|g                                            
+231PA  G 355.8     3  100    33 [E2]                   0.1080 15            A   
+231PAB G BE2W=0.03 +76-0                                                        
+231PA  G 446.9     5  33     11 [E1]                   0.0164 2             A   
+231PAB G BE1W=3.7E-4 16                                                         
+231PA  L 2040.4     9   (37/2-)                                             A   
+231PAX L XREF=D                                                                 
+231PA  G 357.2     8   100      [E2]                   0.1070 15            A   
+231PA  L 2139.3     5   (39/2-)         1.2 PS   +32-8                      A   
+231PAX L XREF=D                                                                 
+231PA cL T$from Coulomb excitation, deduced by evaluators from B(E1) and |g     
+231PA2cL branching ratio for 479.0|g                                            
+231PA  G 385.1     3  100    40  [E2]                  0.0870 12            A   
+231PAB G BE2W=32E1 +128-30                                                      
+231PA cG $B(E2)(W.u.) from level T{-1/2} and |g-branching ratio. Note: upper    
+231PA2cG limit exceeds RUL=1000 for E2                                          
+231PA  G 479.0     6  100    60 [E1]                   0.0142 2             A   
+231PAB G BE1W=6.6E-4 +54-41                                                     

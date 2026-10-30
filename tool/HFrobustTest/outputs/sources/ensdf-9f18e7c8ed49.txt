@@ -1,0 +1,84 @@
+254LR    258DB A DECAY (4.3 S)         1985HE22,2008GA25,2009HE2019NDS    201902
+254LR  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 1 (2019)$CUT=31-Jan-2019$        
+254LR c  1985He22, 1999He11: four events at E|g=22.5 {I6} were observed by      
+254LR2c  1985He22 in coincidence with 9056 - 9129 |a, attributed to 9078|a      
+254LR3c  (corresponding to 9089|a adopted here). The 22.5-keV peak was assigned 
+254LR4c  on the basis of its energy to L|b{-4}| x ray, due to L1 conversion of  
+254LR5c  a |g deexciting the level populated by 9078|a. This |g transition was  
+254LR6c  assumed to be M1, since for an E1 or E2 transition, the L2 conversion  
+254LR7c  line would be stronger than the L1 conversion line. If this |g is a    
+254LR8c  transition between the 344- and 248-keV levels, E|g|?96 keV. No other  
+254LR9c  x-rays or |g transitions were assigned to {+258}Db |a decay.           
+254LR c  2001Ga20: measured |a, T{-1/2}. Results are in general agreement with  
+254LR2c  previous measurements.                                                 
+254LR c  2008Ga25: {+258}Db isotope produced in {+209}Bi({+50}Ti,n) and         
+254LR2c  {+208}Pb({+51}V,n) reactions using 4.7-5.1 MeV/nucleon beams of        
+254LR3c  {+51}V and {+50}Ti provided by 88-Inch Cyclotron at                    
+254LR4c  LBNL. Detected |a particles using silicon implantation detectors.      
+254LR c  2009He20, 2016He15: {+258}Db produced in {+209}Bi({+50}Ti,n),E=236 MeV,
+254LR2c  {+50}Ti beam from the ECR source of the UNILAC at GSI. The Evaporation 
+254LR3c  residues (ERs) were separated by the velocity filter SHIP and implanted
+254LR4c  into a position-sensitive 16-strip Si PIPS detector for detecting      
+254LR5c  ERs, conversion electrons, and subsequent |a-decays or spontaneous     
+254LR6c  fission (SF) events. Escaped products into the backward hemisphere were
+254LR7c  detected by a box of six Si wafers. The x rays were detected by a Ge   
+254LR8c  clover detector consisting of four crystals. Measured correlations     
+254LR9c  between ERs, x rays, ce, |a-decay, |a|g-coin and SF events. Deduced    
+254LRAc  isomeric states and half-lives.                                        
+254LR cA E$From 2009He20 unless otherwise stated. Values are also available from
+254LR2cA 1985He22 and 1999He11. Also in 33 |a decay chains starting from        
+254LR3cA {+262}Bh decay, following |a lines are reported from {+258}Db decay    
+254LR4cA by 2006Fo02: 9211; 9178 (also 9170,9183,9183,9186,9186 in the same     
+254LR5cA group); 9137 (also 9130,9124,9132 in the same group); 9101 (also       
+254LR6cA 9107); 9084; 9058 (also 9056); and 9027. Most of these lines can       
+254LR7cA correspond to those from 2009He20 and 1985He22                         
+254LR cA IA$|a intensity per 100 |a decays, measured by 1985He22.               
+254LR2cA Uncertainties were not given. Any effect due to energy summing with    
+254LR3cA conversion electrons has not been included.                            
+254LR cA HF$r{-0}({+254}Lr)|?1.46, deduced from r{-0} values given in           
+254LR2cA 1998Ak04, is used in calculations.                                     
+254LR cA E(A)$These two |a groups were not resolved and one peak at 9078 {I15}  
+254LR2cA was measured in the earlier work by 1985He22.                          
+254LR cL E$Deduced from Q(|a)({+258}Db)=9500 {I50} (2017Wa10) and the           
+254LR2cL measured E|a values                                                    
+258DB  P 0.0          (5+,6+)          4.3 S     5              9500      50    
+258DB cP J,T$From {+258}Db Adopted Levels in the ENSDF database                 
+258DB2cP (August 2017 update)                                                   
+258DB cP QP$From 2017Wa10                                                       
+254LR  N                       0.77    8                                        
+254LR cN BR$%|a=77 {I8} (from {+258}Db Adopted Levels in the ENSDF database     
+254LR2cN (August 2017 update))                                                  
+254LR  G 156.8     6                                                            
+254LR cG $|g from |a|g-coin data (2009He20). This |g seen in coin with 9014|a   
+254LR2cG (two events), with 9050|a (one event), with 9134|a (three events) and  
+254LR3cG with 9093|a (one event). Energy uncertainty is from Table 3 in         
+254LR4cG 2009He20, also listed by authors as 0.4 keV in section 3.5 of the paper
+254LR  G 221.5     4                                                            
+254LR cG E$from |a|g-coin (2009He20). This |g seen in coin with 9009|a          
+254LR2cG (one event) and with 9109|a (five events). Energy uncertainty is from  
+254LR3cG Table 3 in 2009He20, also listed by authors as 0.1 keV in section 3.5  
+254LR4cG of the paper.                                                          
+254LR  L 0                               18.1 S  18                             
+254LR cL T$from Adopted Levels                                                  
+254LR  A 9353      15                                                           
+254LR  L  74       50                                                           
+254LR  A 9280      20 8        513     AP                                       
+254LR cA E$other: 9299 {I15} (1985He22)                                         
+254LR  L 190       50                                                           
+254LR  A 9166      10  59    LT 25     GE                                       
+254LR cA E$other: 9172 {I15} (1985He22). The 9172|a was resolved in two         
+254LR2cA components, first in 1999He11, then in more detail in 2009He20,        
+254LR3cA where 9166|a was assigned to the decay of 4.3-s activity, and          
+254LR4cA 9196|a to the decay of 1.9-s activity of {+258}Db                      
+254LR cA IA$for 9166|a+9196|a                                                   
+254LR  L 222       50                                                           
+254LR  A 9134      2                                                            
+254LR cA $In coin with 156.8|g (three events)                                   
+254LR  L 248       50                                                           
+254LR  A 9109      5                                                        A   
+254LR  L 268       50                                                           
+254LR  A 9089      10 28        34     AP                                   A   
+254LR cA E$other: 9078 {I15} (1985He22)                                         
+254LR  L 344       50                                                           
+254LR  A 9014      7  5        117     AP                                       
+254LR cA E$other E|a=9009 {I15} (1985He22)                                      

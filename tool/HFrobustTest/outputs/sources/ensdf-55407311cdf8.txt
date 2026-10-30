@@ -1,0 +1,651 @@
+249CM    ADOPTED LEVELS, GAMMAS                                  24NDS    202403
+249CM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249CM dG $Transition strength is calculated by Java-RULER (version 19-Aug-2022) 
+249CM  Q 904.4     26 4713.3725 7100   SY 5148   13    2021WA16                 
+249CM cQ $|DS(p)=200 (syst,2021Wa16)                                            
+249CM cQ $S(2n)=10925 {I4}, S(2p)=13040 {I200} (syst) (2021Wa16)                
+249CM cG E(E)$Poor fit; uncertainty multiplied by a factor in the fitting       
+249CM cG E(I),RI(I)$From (n,|g) E=th:secondary |g's                             
+249CM cG RI(J)$Normalized to strongest branch. Note that the gamma with the     
+249CM2cG strongest branch is considered tentative.                              
+249CM cG M$From the ratio I|g(in-plane)/I|g(out-plane) in the one-neutron       
+249CM2cG stripping reaction {+248}Cm({+16}O,{+15}O|g) (2008Is05) and from       
+249CM3cG assignment to rotational band except, as noted                         
+249CM cL J(K)$From band member                                                  
+249CM  XA253CF A DECAY                                                          
+249CM  XB248CM(N,G)E=TH:PRIMARY G'S                                             
+249CM  XC248CM(N,G)E=TH:SECONDARY G'S                                           
+249CM  XD248CM(D,P)                                                             
+249CM  XE248CM(4HE,3HE)                                                         
+249CM  XF248CM(13C,12CG)                                                        
+249CM  XG248CM(16O,15OG)                                                        
+249CM  XH248CM(18O,17OG)                                                        
+249CM  XI248CM(18O,16ONG)                                                       
+249CM  XJ248CM(209BI,208BIG)                                                    
+249CM CL BAND(A)$1/2[620],|a=-1/2                                               
+249CM2cL A=6.5                                                                  
+249CM CL BAND(a)$1/2[620],|a=+1/2                                               
+249CM2cL A=6.2                                                                  
+249CM CL BAND(B)$7/2[613]                                                       
+249CM2cL A=6.7                                                                  
+249CM CL BAND(C)$3/2[622]                                                       
+249CM2cL A=6.8                                                                  
+249CM CL BAND(D)$1/2[761]                                                       
+249CM2cL A=4.9. This band was labeled as 1/2-[750] by 1971Br27.                 
+249CM2cL A=8.0. Decrease of value A from the average 6.4 for unperturbed        
+249CM3cL is presumed due to Coriolis interaction (1982Ho07)                     
+249CM CL BAND(E)$5/2[622]                                                       
+249CM2cL A=7.0                                                                  
+249CM CL BAND(F)$3/2[752]                                                       
+249CM2cL A=8.0. Increase of value A from the average 6.4 for unperturbed        
+249CM3cL is presumed due to Coriolis interaction (1982Ho07)                     
+249CM CL BAND(G)$1/2[501]                                                       
+249CM2cL A=6.2                                                                  
+249CM CL BAND(L)$11/2[725]                                                      
+249CM2cL A=5.6                                                                  
+249CM CL BAND(M)$9/2[615]                                                       
+249CM2cL A=5.6                                                                  
+249CM c                                                                         
+249CM DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+249CM PN                                                                     6  
+249CM  L 0.0           1/2+            64.15 M   3                          a   
+249CMX L XREF=ABCDFGHIJ                                                         
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, Nilsson level systematics for N=153 isotones ({+251}Cf,      
+249CM3cL {+253}Fm, {+255}No) and calculated bandhead energies                   
+249CM3cL using the cranked shell model with the pairing correlations (2012Zh01) 
+249CM2 L %B-=100                                                                
+249CM cL %B-$No |a decay observed. Calculated T{-1/2}(|a)|?1|*10{+8} d          
+249CM2cL (2019Mo01)                                                             
+249CM cL T$from 1973DrZM. No details have been provided by 1973DrZM. Prior      
+249CM2cL evaluations in Nuclear Data Sheets (2011Ab07, 1999Ar21, 1990Sc03,      
+249CM3cL 1981Sc22, 1976Sc09) have cited an incorrect reference.                 
+249CM4cL Other: 64 min {I3} (1958Ea06), 64.3 min {I6} (1975HoZA). It is noted   
+249CM5cL that the evaluator is unable to verify this value.                     
+249CM  L 26.2      10  3/2+                                                 A   
+249CMX L XREF=CDFGHIJ                                                           
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, and band member                                              
+249CM  L 48.2      10 5/2+                                                  a   
+249CMX L XREF=CDFGHIJ                                                           
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, and band member                                              
+249CM  L 48.8      10 (7/2+)           23 US                                BM  
+249CMX L XREF=ACFGHI                                                            
+249CM cL J$from favored |a decay from (7/2+) {+253}Cf                           
+249CM cL T$from delayed coin (1966As12). It is noted that the evaluator is      
+249CM2cL unable to verify this value as this private communication is not       
+249CM3cL available.                                                             
+249CM  L 109.6     10 (9/2+)                                                B   
+249CMX L XREF=AD(*)EF(108.81)GHI                                                
+249CM cL J$(M1) 60.80|g to (7/2+) 48.774-keV level, band member                 
+249CM  G 60.80     1  100      (M1)                    29.5    4                
+249CMF G FL=48.8                                                                
+249CMS G  NC=1.491 21$OC=0.380 5$PC=0.0748 10$QC=0.00539 8                      
+249CMS G  LC=22.15 31$MC=5.43 8                                                 
+249CM cG E$from ({+13}C,{+12}C|g). Others: 60.8 {I1} from ({+16}O,{+15}O|g),    
+249CM2cG 60.8 {I1} from ({+18}O,{+17}O|g), and 60.8 {I1} from ({+18}O,{+16}On|g)
+249CM  L 110.2     10  7/2+                                                 A   
+249CM cL J$83.922|g to 3/2+ 26.230-keV level, band member                       
+249CMX L XREF=CD(*)FGHIJ                                                        
+249CM  G 83.922    7  100                                                       
+249CM cG E$from (n,|g)E=th:secondary |g's                                       
+249CM  L 148.4     10  9/2+                                                 a   
+249CMX L XREF=DFGHIJ                                                            
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections and band member                                               
+249CM  L 182.8     10 (11/2+)                                               B   
+249CMX L XREF=FGHI                                                              
+249CM cL J$(M1) 73.60|g to (9/2+) 109.55-keV level, band member                 
+249CM  G 73.6      3   100     (M1)                    16.89  31                
+249CMF G FL=109.6                                                               
+249CMS G  LC=12.68 23$MC=3.10 6                                                 
+249CMS G  NC=0.853 16$OC=0.217 4$PC=0.0428 8$QC=0.00308 6                       
+249CM cG E$from ({+13}C,{+12}C|g). Others: 73.6 {I3} from ({+16}O,{+15}O|g),    
+249CM2cG 73.6 {I3} from ({+18}O,{+17}O|g), and 73.6 {I3} from ({+18}O,{+16}On|g)
+249CM  L 208.0     10  3/2+                                                 C   
+249CMX L XREF=BCDFGH                                                            
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (4505.0|g).       
+249CM2cL 159.215|g to (7/2+) 48.774-keV level and from (d,p) measurements by    
+249CM3cL 1971Br27 based on DWBA analysis of cross sections and band member      
+249CM  G 97.799    10 28     5                                                 ?
+249CMF G FL=110.2                                                               
+249CMF G FLAG=I                                                                 
+249CM  G 159.215   21 63     15                                                 
+249CMF G FL=48.8                                                                
+249CMF G FLAG=I                                                                 
+249CM  G 159.765   16 57     12[M1]                    8.35   12                
+249CMF G FL=48.2                                                                
+249CMS G  KC=6.55 9$LC=1.352 19$MC=0.331 5                                      
+249CMS G  NC=0.0908 13$OC=0.02314 32$PC=0.00455 6$QC=0.000326 5                 
+249CMF G FLAG=I                                                                 
+249CM  G 181.778   11 65     14                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 208.011   7  100    14[M1]                    3.97    6                
+249CMS G  KC=3.11 4$LC=0.639 9$MC=0.1562 22                                     
+249CMS G  NC=0.0429 6$OC=0.01093 15$PC=0.002150 30$QC=0.0001537 22              
+249CM  L 220       5  (9/2+)                                                    
+249CMX L XREF=D                                                                 
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections                                                               
+249CM  L 242.0     10  5/2+                                                 C   
+249CMX L XREF=CDFGH                                                             
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, and band member                                              
+249CM  G 193.24    6  69     16                                                ?
+249CMF G FL=48.8                                                                
+249CMF G FLAG=I                                                                 
+249CM  G 193.805   20 100    15                                                 
+249CMF G FL=48.2                                                                
+249CMF G FLAG=I                                                                 
+249CM  G 242.01    8  35     5                                                  
+249CMF G FLAG=I                                                                 
+249CM  L 244.8     10  11/2+                                                A   
+249CMX L XREF=FGHIJ                                                             
+249CM cL J$(E2) 134.60|g to 7/2+ 110.160-keV level, band member                 
+249CM  G 134.6     1   100     (E2)                    4.94    7                
+249CMF G FL=110.2                                                               
+249CMS G  KC=0.1530 22$LC=3.46 5$MC=0.978 14                                    
+249CMS G  NC=0.272 4$OC=0.0660 10$PC=0.01106 16$QC=6.08E-5 9                    
+249CM cG E$from ({+13}C,{+12}C|g). Others: 134.6 {I1} from ({+16}O,{+15}O|g),   
+249CM2cG 134.6 {I1} from ({+18}O,{+17}O|g), and 134.6 {I1} from                 
+249CM3cG ({+18}O,{+16}On|g)                                                     
+249CM  L 268.8     10 (13/2+)                                               B   
+249CMX L XREF=FGHI                                                              
+249CM cL J$(M1) 86.00|g to (11/2+) 182.89-keV level, band member                
+249CM  G 86.0      2  100      (M1)                    10.74  17                
+249CMS G  LC=8.06 13$MC=1.971 31                                                
+249CMS G  NC=0.542 8$OC=0.1380 21$PC=0.0272 4$QC=0.001953 30                    
+249CM cG E$from ({+13}C,{+12}C|g). Others: 86.0 {I2} from ({+16}O,{+15}O|g),    
+249CM2cG 86.0 {I2} from ({+18}O,{+17}O|g), and 86.0 {I2} from ({+18}O,{+16}On|g)
+249CM  L 289.1     10  7/2+                                                 C   
+249CMX L XREF=CDFGH                                                             
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, and band member                                              
+249CM  G 240.51    9  63     10[M1]                    2.64    4                
+249CMF G FL=48.8                                                                
+249CMS G  KC=2.074 29$LC=0.425 6$MC=0.1038 15                                   
+249CMS G  NC=0.0285 4$OC=0.00726 10$PC=0.001428 20$QC=0.0001019 14              
+249CM cG E$unweighted average of 240.253 {I9} from (n,|g)E=th:secondary |g's,   
+249CM2cG 240.6 {I1} from ({+13}C,{+12}C|g), 240.6 {I1} from ({+16}O,{+15}O|g),  
+249CM3cG and 240.6 {I1} from ({+18}O,{+17}O|g)                                  
+249CM cG RI$from (n,|g)E=th:secondary |g's                                      
+249CM  G 240.65    5  100    18[M1]                    2.64    4            E   
+249CMF G FL=48.2                                                                
+249CMS G  KC=2.070 29$LC=0.424 6$MC=0.1036 15                                   
+249CMS G  NC=0.0284 4$OC=0.00725 10$PC=0.001426 20$QC=0.0001018 14              
+249CM cG E$uncertainty multiplied by a factor of 2 in the fitting; level-energy 
+249CM2cG difference=240.90                                                      
+249CM cG E$unweighted average of 240.780 {I20} from (n,|g)E=th:secondary |g's,  
+249CM2cG 240.6 {I1} from ({+13}C,{+12}C|g), 240.6 {I1} from ({+16}O,{+15}O|g),  
+249CM3cG and 240.6 {I1} from ({+18}O,{+17}O|g)                                  
+249CM cG RI$from (n,|g)E=th:secondary |g's                                      
+249CM  L 299.0     10 (13/2+)                                               a   
+249CMX L XREF=FGHIJ                                                             
+249CM cL J$(E2) 150.6|g to 9/2+ 148.40-keV level, band member                   
+249CM  G 150.6     1  100      (E2)                    3.07    4                
+249CMS G  KC=0.1733 24$LC=2.094 30$MC=0.590 8                                   
+249CMS G  NC=0.1642 23$OC=0.0399 6$PC=0.00670 10$QC=4.20E-5 6                   
+249CM cG E$from ({+13}C,{+12}C|g). Others: 150.6 {I1} from ({+16}O,{+15}O|g),   
+249CM2cG 150.6 {I1} from ({+18}O,{+17}O|g), and 150.6 {I1} from                 
+249CM3cG ({+18}O,{+16}On|g)                                                     
+249CM  L 300       5  (11/2+)                                                   
+249CMX L XREF=D                                                                 
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, and band member                                              
+249CM  L 307.1     11                                                           
+249CMX L XREF=B                                                                 
+249CM  L 350       1  9/2+                                                  C   
+249CMX L XREF=DE                                                                
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, and band member                                              
+249CM cL E$from (d,p). Other: 350 {I5} from (|a,{+3}He)                         
+249CM  L 375.3     10 (11/2-)          19.4 NS   16                         L   
+249CMX L XREF=FGHI                                                              
+249CM cL J$E1 265.7|g to (9/2+) 109.55-keV level,                               
+249CM2cL 182.89-keV level, and configuration 11/2[725]                          
+249CM cL $Configuration=11/2[725]                                               
+249CM cL T$Weighted average of 18.7 ns {I9} from (particle)(266|g)(t) and       
+249CM2cL 23 ns {I2} from (particle)(193|g)(t) in the one-neutron stripping      
+249CM3cL reaction {+248}Cm({+16}O,{+15}O|g) (2008Is05)                          
+249CM  G 192.5     1  40.9   32                                                 
+249CM cG E$from ({+13}C,{+12}C|g). Others: 192.5 {I1} from ({+16}O,{+15}O|g),   
+249CM2cG 192.5 {I1} from ({+18}O,{+17}O|g), and 192.5 {I1} from                 
+249CM3cG ({+18}O,{+16}On|g)                                                     
+249CM cG RI$unweighted average of 47.0 {I28} from ({+13}C,{+12}C|g), 32.3 {I20} 
+249CM2cG from ({+16}O,{+15}O|g), 40.2 {I20} from ({+18}O,{+17}O|g), and 44 {I5} 
+249CM3cG from ({+18}O,{+16}On|g)                                                
+249CMB G BE1W=3.34E-7 +38-34                                                    
+249CMS G  NC=0.001340 19$OC=0.000333 5$PC=6.06E-5 9$QC=3.05E-6 4                
+249CM  G 265.7     1  100    6  E1                     0.0566                   
+249CMF G FL=109.6                                                               
+249CMS G  KC=0.0443 6$LC=0.00928 13$MC=0.002267 32                              
+249CMS G  NC=0.000618 9$OC=0.0001543 22$PC=2.86E-5 4$QC=1.561E-6 22             
+249CM cG M$D from the ratio I|g(in-plane)/I|g(out-plane) in the one-neutron     
+249CM2cG stripping reaction {+248}Cm({+16}O,{+15}O|g) (2008Is05).               
+249CM3cG M1 can be ruled out from RUL.                                          
+249CM cG E$from ({+16}O,{+15}O|g) . Others: 100 {I5} from ({+13}C,{+12}C|g), 100
+249CM2cG {I5} from ({+18}O,{+17}O|g), and 100 {I6} from ({+18}O,{+16}On|g)      
+249CMB G BE1W=3.10E-7 +29-25                                                    
+249CM  L 429.8     10 15/2+                                                 A   
+249CMX L XREF=FGHIJ                                                             
+249CM cL J$(E2) 185.00|g to 11/2+ 244.76-keV level, band member                 
+249CM  G 185.0     1  100      (E2)                    1.331  19                
+249CMS G  KC=0.1585 22$LC=0.849 12$MC=0.2384 34                                 
+249CMS G  NC=0.0663 9$OC=0.01612 23$PC=0.00273 4$QC=2.228E-5 31                 
+249CM cG E$from ({+13}C,{+12}C|g). Others: 185.0 {I1} from ({+16}O,{+15}O|g),   
+249CM2cG 185.0 {I1} from ({+18}O,{+17}O|g), 185.0 {I1} from ({+18}O,{+16}On|g), 
+249CM3cG and 185.2 {I5} from ({+209}Bi,{+208}Bi|g)                              
+249CM  L 452       5                                                            
+249CMX L XREF=E                                                                 
+249CM  L 470.2     10  3/2-                                                 D   
+249CMX L XREF=BCDFGH                                                            
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, 470.197|g to 1/2+ g.s.                                       
+249CM  G 422.015   6  100    17                                                 
+249CMF G FL=48.2                                                                
+249CM cG E$from (n,|g)E=th:secondary |g's. Others: 422.0 {I1} from              
+249CM2cG ({+13}C,{+12}C|g), 422.0 {I1} from ({+16}O,{+15}O|g), and 422.0 {I1}   
+249CM3cG from ({+18}O,{+17}O|g)                                                 
+249CM  G 444.10    8  6.9    22                                                ?
+249CM cG E$from (n,|g)E=th:secondary |g's.                                      
+249CM  G 470.197   9  83     20[E1]                    0.0173224                
+249CMS G  KC=0.01380 19$LC=0.00264 4$MC=0.000640 9                              
+249CMS G  NC=0.0001746 24$OC=4.39E-5 6$PC=8.36E-6 12$QC=5.14E-7 7               
+249CM cG E$weighted average of 470.198 {I9} from (n,|g)E=th:secondary |g's,     
+249CM2cG 470.1 {I2} from ({+13}C,{+12}C|g), 470.1 {I2} from ({+16}O,{+15}O|g),  
+249CM3cG and 470.1 {I2} from ({+18}O,{+17}O|g)                                  
+249CM cG RI$from (n,|g)E=th:secondary |g's                                      
+249CM  L 494.5     10 (1/2-,3/2-)                                               
+249CMX L XREF=BCFGH                                                             
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (4219.0|g).       
+249CM2cL Intense primary gammas are often E1 transitions (1982Ho07)             
+249CM  G 468.259   8  78     15                                                 
+249CM cG E$from (n,|g)E=th:secondary |g's. Others: 468.1 {I3} from              
+249CM2cG ({+13}C,{+12}C|g), 468.1 {I3} from ({+16}O,{+15}O|g), and 468.1 {I3}   
+249CM3cG from ({+18}O,{+17}O|g)                                                 
+249CM cG RI$from (n,|g)E=th:secondary |g's                                      
+249CM  G 494.484   3  100    22                                                 
+249CM cG E$from (n,|g)E=th:secondary |g's. Others: 494.3 {I2} from              
+249CM2cG ({+13}C,{+12}C|g), 494.3 {I2} from ({+16}O,{+15}O|g), and 494.3 {I2}   
+249CM3cG from ({+18}O,{+17}O|g)                                                 
+249CM cG RI$from (n,|g)E=th:secondary |g's                                      
+249CM  L 498.6     10 (17/2+)                                               a   
+249CMX L XREF=FGHIJ                                                             
+249CM cL J$(E2) 199.59|g to (13/2+) 299.00-keV level, band member               
+249CM  G 199.6     2  100      (E2)                    0.992  14                
+249CMS G  KC=0.1461 21$LC=0.613 9$MC=0.1718 25                                  
+249CMS G  NC=0.0478 7$OC=0.01162 17$PC=0.001978 29$QC=1.788E-5 26               
+249CM cG E$from ({+13}C,{+12}C|g). Others: 199.6 {I2} from ({+16}O,{+15}O|g),   
+249CM2cG 199.6 {I2} from ({+18}O,{+17}O|g), 199.6 {I2} from ({+18}O,{+16}On|g), 
+249CM3cG and 199.3 {I5} from ({+209}Bi,{+208}Bi|g)                              
+249CM  L 502.0     10 7/2-                                                  D   
+249CMX L XREF=DFGH                                                              
+249CM cL J$from (d,p) measurements by 1971Br27 based on DWBA analysis of cross  
+249CM2cL sections, and band member                                              
+249CM  G 353.6     1  93     13[E1]                    0.0308  4                
+249CMS G  KC=0.02430 34$LC=0.00486 7$MC=0.001181 17                             
+249CMS G  NC=0.000322 5$OC=8.08E-5 11$PC=1.519E-5 21$QC=8.83E-7 12              
+249CM cG E$from ({+16}O,{+15}O|g)                                               
+249CM cG RI$from ({+16}O,{+15}O|g). Others 85 {I5} from ({+13}C,{+12}C|g),      
+249CM2cG and 82 {I5} from ({+18}O,{+17}O|g)                                     
+249CM  G 453.8     1  100    5 [E1]                    0.0185626                
+249CMF G FL=48.2                                                                
+249CMS G  KC=0.01478 21$LC=0.00285 4$MC=0.000689 10                             
+249CMS G  NC=0.0001881 26$OC=4.73E-5 7$PC=8.98E-6 13$QC=5.49E-7 8               
+249CM cG E$from ({+16}O,{+15}O|g)                                               
+249CM cG RI$from ({+18}O,{+17}O|g)                                              
+249CM  L 518       4                                                           ?
+249CMX L XREF=D                                                                 
+249CM  L 526.5     10 (9/2+)                                                M   
+249CMX L XREF=D(528)FGH                                                         
+249CM cL J$from anisotropy data in 2008Is05                                     
+249CM  G 417.0     1  79     9                                                  
+249CMF G FL=109.6                                                               
+249CM cG E$from ({+16}O,{+15}O|g)                                               
+249CM cG RI$from ({+16}O,{+15}O|g). Others 54 {I4} from ({+13}C,{+12}C|g),      
+249CM2cG and 54 {I4} from ({+18}O,{+17}O|g)                                     
+249CM  G 477.6     1  100    7                                                  
+249CMF G FL=48.8                                                                
+249CM cG E,RI$from ({+16}O,{+15}O|g)                                            
+249CM  L 529.7     10 (5/2+)                                                E   
+249CMX L XREF=C                                                                 
+249CM cL J$240.618|g to 7/2+ 289.09-keV level, band member                      
+249CM  G 240.618   15 100    17                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 321.9     4  31     21                                                ?
+249CMF G FLAG=I                                                                 
+249CM  L 533       5  (15/2-)                                               L   
+249CMX L XREF=E                                                                 
+249CMF L FLAG=K                                                                 
+249CM  L 546.9     10 (5/2-)                                                    
+249CMX L XREF=CD                                                                
+249CM cL J$257.74|g to 7/2+ 289.09-keV level, 76.64|g to 3/2- 470.207-keV level,
+249CM2cL 339.23|g to 3/2+ 208.001-keV level, band member                        
+249CM  G 76.647    4  39     8                                              &   
+249CMF G FLAG=I                                                                 
+249CM  G 257.74    5  100    31                                                ?
+249CMF G FLAG=I                                                                 
+249CM  G 339.23    12 26     7                                              E   
+249CMF G FL=208.0                                                               
+249CMF G FLAG=I                                                                 
+249CM cG E$uncertainty multiplied by a factor of 2 in the fitting; level-energy 
+249CM2cG difference=338.857                                                     
+249CM  L 577.5     10 (11/2-)                                               D   
+249CMX L XREF=DFGH                                                              
+249CM cL J$(E1) 429.1|g to 9/2+ 148.40-keV level, (E1) 278.5|g to (13/2+)       
+249CM2cL 299.00-keV level                                                       
+249CM  G 278.5     1  36     4 (E1)                    0.0511  7                
+249CMF G FL=299.0                                                               
+249CMS G  KC=0.0400 6$LC=0.00832 12$MC=0.002031 28                              
+249CMS G  NC=0.000554 8$OC=0.0001383 19$PC=2.57E-5 4$QC=1.419E-6 20             
+249CM cG E,RI$from ({+16}O,{+15}O|g)                                            
+249CM  G 429.1     1  100    6 (E1)                    0.0207429                
+249CMS G  KC=0.01649 23$LC=0.00320 4$MC=0.000776 11                             
+249CMS G  NC=0.0002117 30$OC=5.32E-5 7$PC=1.008E-5 14$QC=6.10E-7 9              
+249CM cG E,RI$from ({+16}O,{+15}O|g)                                            
+249CM  L 578.4     10 (7/2+)                                                E   
+249CMX L XREF=C                                                                 
+249CM cL J$468.259|g to 7/2+ 110.160-keV level, band member                     
+249CM  G 468.259   8  100                                                   &   
+249CM cG E,RI$from ({+16}O,{+15}O|g)                                            
+249CM  L 604       6  (11/2+)                                               M   
+249CMX L XREF=E                                                                 
+249CMF L FLAG=K                                                                 
+249CM  L 634       2                                                            
+249CMX L XREF=D                                                                 
+249CM  L 663.5     10 19/2+                                                 A   
+249CMX L XREF=FGHIJ                                                             
+249CM cL J$(E2) 233.71|g to 15/2+ 429.76-keV level, band member                 
+249CM  G 233.7     1  100      (E2)                    0.554   8                
+249CMS G  NC=0.02452 35$OC=0.00598 8$PC=0.001025 14$QC=1.156E-5 16              
+249CMS G  KC=0.1183 17$LC=0.316 4$MC=0.0882 12                                  
+249CM cG E$from ({+13}C,{+12}C|g). Others: 233.7 {I1} from ({+16}O,{+15}O|g),   
+249CM2cG 233.7 {I1} from ({+18}O,{+17}O|g), 233.7 {I1} from ({+18}O,{+16}On|g), 
+249CM3cG and 234.4 {I5} from ({+209}Bi,{+208}Bi|g)                              
+249CM  L 690.7     11                                                           
+249CMX L XREF=BD                                                                
+249CM  L 699.1     10 (15/2-)                                               D   
+249CMX L XREF=FGHI                                                              
+249CM cL J$(E1) 400.1|g to (13/2+) 299.00-keV level, band member                
+249CM  G 400.1     1  100      (E1)                    0.0238733                
+249CMS G  KC=0.01894 27$LC=0.00371 5$MC=0.000901 13                             
+249CMS G  NC=0.0002459 34$OC=6.17E-5 9$PC=1.167E-5 16$QC=6.96E-7 10             
+249CM cG E,RI$from ({+16}O,{+15}O|g)                                            
+249CM  L 718       5                                                            
+249CMX L XREF=E                                                                 
+249CM  L 744.8     12 (21/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CM cL J$246.2|g to (17/2+) 498.59-keV, band member                           
+249CM  G 246.2     5  100                                                       
+249CM cG E$from ({+209}Bi,{+208}Bi|g)                                           
+249CM  L 772.8     10 (3/2-)                                                F   
+249CMX L XREF=C                                                                 
+249CM cL J$772.80|g to 1/2+ g.s., configuration from calculation with Coriolis  
+249CM2cL interaction by 1982Ho07, consistent with rotational parameter A=8.0    
+249CM  G 225.94    7  47     16                                                 
+249CMF G FLAG=IJ                                                                
+249CM  G 278.23    7  36     11                                                 
+249CMF G FLAG=IJ                                                                
+249CM  G 302.59    7  100    33                                                 
+249CM  G 531.7     5  244    78                                                ?
+249CMF G FLAG=IJ                                                                
+249CM  G 724.44    7  100    32                                                ?
+249CMF G FL=48.2                                                                
+249CMF G FLAG=IJ                                                                
+249CM  G 772.80    10 55     14                                                ?
+249CMF G FLAG=IJ                                                                
+249CM  L 818.9     10 (5/2-)                                                F   
+249CMX L XREF=C                                                                 
+249CM cL J$240.451|g to (7/2+) to 578.421-keV level, band member                
+249CM  G 240.451   10 42     8                                                  
+249CMF G FLAG=I                                                                 
+249CM  G 272.04    5  31     18                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 348.75    4  100    26                                                 
+249CMF G FLAG=I                                                                 
+249CM  L 859.0     10 (1/2,3/2)                                                 
+249CMX L XREF=BC                                                                
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3854.5|g).       
+249CM  G 312.120   16 22     6                                                  
+249CMF G FLAG=I                                                                 
+249CM  G 832.70    10 100    17                                                 
+249CMF G FLAG=I                                                                 
+249CM  L 868.3     11 (19/2-)                                               D   
+249CMX L XREF=FGHI                                                              
+249CM cL J$(E1) 369.7|g to (17/2+) 498.59-keV level, band member                
+249CM  G 369.7     1  100      (E1)                    0.0281  4                
+249CMS G  KC=0.02220 31$LC=0.00441 6$MC=0.001071 15                             
+249CMS G  NC=0.000292 4$OC=7.33E-5 10$PC=1.380E-5 19$QC=8.10E-7 11              
+249CM cG E$from ({+16}O,{+15}O|g)                                               
+249CM  L 870       4   (7/2-)                                               F   
+249CMX L XREF=D                                                                 
+249CM cL J$band member.                                                         
+249CM2cL This state is expected to be populated strongly by the                 
+249CM3cL (d,p) reaction as suggested by the authors in 1982Ho07                 
+249CM  L 917.6     10 (1/2-)                                                G   
+249CMX L XREF=BCD                                                               
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3796.1|g).       
+249CM2cL Band head energy assigned by 1982Ho07 based on calculated excitation   
+249CM3cL energy of the odd-neutron configuration 1/2-[501] for                  
+249CM4cL {+243}Cm, {+245}Cm, {+247}Cm and {+249}Cm by 1971Ga20                  
+249CM cL $Configuration=1/2-[501]                                               
+249CM  G 422.94    10 57     15                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 447.31    7  34     11                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 891.25    21 100    31                                                 
+249CMF G FLAG=I                                                                 
+249CM  L 943.3     11 (23/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CM cL J$279.8|g to 19/2+ 663.47-keV level, band member                       
+249CM  G 279.8     5  100                                                       
+249CM  L 963.1     10  (3/2-)                                               G   
+249CMX L XREF=BC                                                                
+249CM cL J$963.06|g to 1/2+ g.s., band member                                   
+249CM  G 914.74    11 100    22                                                 
+249CMF G FLAG=I                                                                 
+249CMF G FL=48.2                                                                
+249CM  G 963.06    9  57     14                                                 
+249CMF G FLAG=I                                                                 
+249CM  L 971.2     10 (5/2-)                                                G   
+249CMX L XREF=C                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 441.55    11 23     7                                                  
+249CMF G FLAG=I                                                                 
+249CM  G 860.80    13 100    25                                                 
+249CMF G FLAG=I                                                                 
+249CM  L 1011.6    11 (1/2,3/2)                                                 
+249CMX L XREF=B                                                                 
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3702.1|g).       
+249CM  L 1029.9    11 (5/2+,7/2+,9/2+) 1.4 PS    LT                             
+249CMX L XREF=EFGH                                                              
+249CM cL J$(M1) 981.1|g to (7/2+) 48.199-keV level                              
+249CM cL T$From estimated lifetime by 2008Is05 to be much shorter than 2 ps     
+249CM2cL stopping time of the Doppler-shifted 981|g in the thick target backing 
+249CM3cL in the {+248}Cm({+18}O,{+17}O|g)                                       
+249CM  G 981.1     5  100      (M1)                    0.0575  8                
+249CMF G FL=48.8                                                                
+249CMS G  KC=0.0454 6$LC=0.00904 13$MC=0.002200 31                              
+249CMS G  NC=0.000603 8$OC=0.0001537 22$PC=3.02E-5 4$QC=2.163E-6 30             
+249CM cG E$from ({+16}O,{+15}O|g)                                               
+249CMB G BM1W GT 0.016                                                          
+249CM  L 1030      7  (11/2-)                                               F   
+249CMX L XREF=D                                                                 
+249CM cL J$band member.                                                         
+249CM2cL This state is expected to be populated strongly by the                 
+249CM3cL (d,p) reaction as suggested by the authors in 1982Ho07                 
+249CM  L 1034.0    13 (25/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 289.2     5                                                            
+249CM  L 1047.8    10 (1/2,3/2)                                                 
+249CMX L XREF=BC                                                                
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3663.5|g).       
+249CM  G 76.647    4  42     9                                              &   
+249CMF G FLAG=I                                                                 
+249CM  G 84.700    6  43     9                                                  
+249CMF G FLAG=I                                                                 
+249CM  G 130.260   12 100    27                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 228.95    3  20.7   33                                                ?
+249CMF G FLAG=I                                                                 
+249CM  L 1090      5                                                            
+249CMX L XREF=E                                                                 
+249CM  L 1153.4    10 (1/2,3/2)                                                 
+249CMX L XREF=BC                                                                
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3560.6|g).       
+249CM  G 182.15    4  75     8                                                 ?
+249CMF G FLAG=I                                                                 
+249CM  G 606.73    14 75     20                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 683.35    16 75     28                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 1127.37   22 100                                                       
+249CMF G FLAG=I                                                                 
+249CM  L 1175.9    10 (1/2,3/2)                                                 
+249CMX L XREF=BC                                                                
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3538.3|g).       
+249CM  G 705.65    5  48     14                                                 
+249CMF G FLAG=I                                                                 
+249CM  G 968.23    12 71     19                                             E   
+249CMF G FLAG=I                                                                 
+249CM cG E$uncertainty multiplied by a factor of 2 in the fitting; level-energy 
+249CM2cG difference=967.86                                                      
+249CM  G 1175.8    3  100    19                                                 
+249CMF G FLAG=I                                                                 
+249CM  L 1204.0    11 (1/2,3/2)                                                 
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3509.7|g).       
+249CMX L XREF=BD                                                                
+249CM  L 1263.6    11 (1/2,3/2)                                                 
+249CMX L XREF=B                                                                 
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3450.1|g).       
+249CM  L 1266.0    13 (27/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 322.7     5                                                            
+249CM  L 1269.5    10 (1/2,3/2)                                                 
+249CMX L XREF=BCE                                                               
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3444.9|g).       
+249CM  G 1269.50   15 100                                                       
+249CMF G FLAG=I                                                                 
+249CM  L 1314.7    11 (1/2,3/2)                                                 
+249CMX L XREF=B                                                                 
+249CM cL J$J=1/2 or 3/2 from being populated by primary gamma (3399.0|g).       
+249CM  L 1358      5  (13/2+)                                                   
+249CMX L XREF=DE                                                                
+249CM cL J$from {+248}Cm({+4}He,{+3}He) (2009Ah03)                              
+249CM cL $Configuration=1/2[880] (2009Ah03)                                     
+249CM cL E$weighted average of 1353 {I7} from (d,p) and 1360 {I5} from          
+249CM2cL (|a,{+3}He)                                                            
+249CM  L 1363.9    14 (29/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 329.9     5                                                            
+249CMF G FL=1034.0                                                              
+249CM  L 1382      7                                                            
+249CMX L XREF=D                                                                 
+249CM  L 1504.8    12 (17/2+)                                                   
+249CMX L XREF=EFGH                                                              
+249CM cL J$from {+248}Cm({+4}He,{+3}He) (2009Ah03)                              
+249CM cL $Configuration=1/2[880] (2009Ah03)                                     
+249CM  G 636.5     5  100      [E1]                    0.0097514                
+249CMS G  KC=0.00784 11$LC=0.001444 20$MC=0.000348 5                            
+249CMS G  NC=9.50E-5 13$OC=2.397E-5 34$PC=4.60E-6 6$QC=2.98E-7 4                
+249CM cG E$from ({+16}O,{+15}O|g)                                               
+249CM  L 1528      7                                                            
+249CMX L XREF=D                                                                 
+249CM  L 1550      7                                                            
+249CMX L XREF=D                                                                 
+249CM  L 1570      7                                                            
+249CMX L XREF=D                                                                 
+249CM  L 1627.9    13 (31/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 361.9     5                                                            
+249CMF G FL=1266.0                                                              
+249CM  L 1650      7                                                            
+249CMX L XREF=D                                                                 
+249CM  L 1730.2    15 (33/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 366.3     5                                                            
+249CMF G FL=1363.9                                                              
+249CM  L 1838      5  (15/2-)                                                   
+249CMX L XREF=E                                                                 
+249CM cL J$from {+248}Cm({+4}He,{+3}He) (2009Ah03)                              
+249CM cL $Configuration=13/2[716] (2009Ah03)                                    
+249CM  L 2024.6    14 (35/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 396.7     5                                                            
+249CM  L 2128.4    15 (37/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 398.2     5                                                            
+249CM  L 2450.2    15 (39/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 425.6     5                                                            
+249CM  L 2553.1    16 (41/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 424.7     5                                                            
+249CM  L 2899.1    16 (43/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 448.9     5                                                            
+249CM  L 2998.6    17 (45/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 445.5     5                                                            
+249CM  L 3365.1    17 (47/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 466.0     5                                                            
+249CM  L 3461.6    18 (49/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 463.0     5                                                            
+249CM  L 3843.0    18 (51/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CM  G 477.9                                                                  
+249CM  L 3937.7    18 (53/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 476.1     5                                                            
+249CM  L 4336.8    18 (55/2+)                                               A   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 493.8     5                                                            
+249CM  L 4429.7    19 (57/2+)                                               a   
+249CMX L XREF=J                                                                 
+249CMF L FLAG=K                                                                 
+249CM  G 492.0                                                                  
+249CM  L 4713.7    10   1/2+                                                   S
+249CMX L XREF=B                                                                 
+249CM cL E$Neutron capture state. E=S(n)= 4713.37 keV {I25} (2021Wa16)          
+249CM2cL is in agreement with the deduced value of 4713.7 keV {I4} by           
+249CM3cL 19802Ho07                                                              
+249CM cL J$from s-wave capture on the 0+ target, J{+|p}=1/2+ or 3/2+;           
+249CM2cL no gammas to levels with J>5/2                                         
+249CM  G 3399.0    4  10.5   11                                                 
+249CM  G 3444.9    6  73.0   30                                                 
+249CM  G 3450.1    5  6.7    13                                                ?
+249CM  G 3509.7    3  37.9   19                                                 
+249CM  G 3538.3    3  100.0  4                                                  
+249CM  G 3560.6    10 36     5                                                  
+249CM  G 3663.5    3  29.5   18                                                 
+249CMF G FL=1047.8                                                              
+249CM cG E$very poor fit and omitted in the fitting; level-energy               
+249CM2cG difference=3665.84                                                     
+249CM  G 3702.1    4  9.2    8                                                  
+249CM  G 3750.7    3  62.0   30                                                 
+249CM  G 3796.1    3  21.2   12                                                 
+249CM  G 3854.5    8  5.5    21                                                ?
+249CM  G 4022.9    4  12.9   12                                                 
+249CM  G 4219.0    3  57.1   24                                                 
+249CM  G 4243.5    3  35.2   16                                                 
+249CM  G 4406.5    4  7.5    7                                                  
+249CM  G 4505.0    3  12.4   8                                                  
+249CM  G 4713.4    4  8.6    7                                                  

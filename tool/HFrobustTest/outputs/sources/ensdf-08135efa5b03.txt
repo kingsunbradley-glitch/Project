@@ -1,0 +1,44 @@
+243BK    247ES A DECAY (4.55 M)        1989HA27                  14NDS    201408
+243BK  H TYP=FUL$AUT=C.D. Nesaraja, E.A. McCutchan$CIT=NDS 121, 695 (2014)$     
+243BK2 H CUT=30-Sep-2013$                                                       
+243BK c  {+247}Es-%|a decay: estimated by 1967Mi06 from observed |a yield and   
+243BK2c  calculated total cross section for {+238}U({+14}N,5n)                  
+243BK c  1989Ha27: {+247}Es activity produced in the {+249}Cf(p,3n) reaction    
+243BK2c  with E(p)=18 to 33 MeV and the {+238}U({+15}N,4n) reaction with        
+243BK3c  E({+15}N)=82 to 103 MeV.  Reaction products transferred via He jet and 
+243BK4c  collected onto a moving tape or a rotating wheel.  Measured E|a, I|a,  
+243BK5c  |a(t) using Si(Au) surface barrier detectors. FHWM=27 to 30 MeV for    
+243BK6c  the 7.275 MeV |a-group of {+211m}Po.                                   
+243BK c  Others: 1973Es01, 1967Mi06                                             
+243BK cA E$From 1989Ha27. The {+212}Po |a peak at 8784 MeV was used for energy  
+243BK2cA calibration (E|a=8784.86 {I12} is recommended by 1991Ry01).            
+243BK cA IA$Alpha intensities per 100 |a decays, from 1989Ha27.                 
+243BK cA HF$r{-0}({+243}Bk)=1.493 {I7}, average of r{-0}({+242}Cm)=1.4953 {I9}  
+243BK2cA and r{-0}({+244}Cf)=1.490 {I13} is used in the calculations.           
+243BK cA HF$Because of the approximate value of %|a decay, the hindrance        
+243BK2cA factors should be taken as approximate.                                
+243BK cL E$Calculated from Q(|a)=7462 from 2012Wa38 and the measured E|a's.     
+243BK cL J$Hindrance factors for |a decay from (7/2+) {+247}Es and the level    
+243BK2cL spacings imply that these levels are probably members of a rotational  
+243BK3cL band. From the unhindered character of the |a transition (HF|?2.4)     
+243BK4cL to the |?18 keV level,                                                 
+243BK5cL the bandhead member should be the same state as that of the parent.    
+243BK6cL Systematics of Nilsson states (see, for example, 1972El21)             
+243BK7cL suggest either the 3/2[521] or the 7/2[633] orbital for {+247}Es       
+243BK8cL g.s. If the |a decay was to the 3/2[521] orbital, the band parameter   
+243BK9cL would be 9.4                                                           
+243BKacL which would not fit the local trend. By assuming a rotational band     
+243BKbcL built on the 7/2[633] state, the rotational band parameter of 5.7 is   
+243BKccL consistent with band parameters for 7/2[633] bands in the region.      
+247ES  P 0.0+X        (7/2+)            4.55 M    26             7462     20    
+247ES cP T$from |a(t) in 1989Ha27. Others: 5.0 min {I3} (1967Mi06), 4.7 min     
+247ES2cP {I3} (1973Es01).                                                       
+243BK  N                        7E-2   AP                                       
+243BK  L 18        AP (7/2+)                                                    
+243BK cL E$|DE=20 keV.                                                          
+243BK  A 7323      1 86      4 2.4     AP                                       
+243BK cA E$other: 7320 {I30} from 1967Mi06 and 1973Es01.                        
+243BK  L 67        20 (9/2+)                                                    
+243BK  A 7275      3 12      2 11      AP                                       
+243BK  L 131       20 (11/2+)                                                   
+243BK  A 7213      5 2.0     7 37      AP                                       

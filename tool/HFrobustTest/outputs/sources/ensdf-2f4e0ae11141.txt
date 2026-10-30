@@ -1,0 +1,271 @@
+224AC    ADOPTED LEVELS, GAMMAS                                  ENSDF    202205
+224AC  H TYP=FUL$AUT=Balraj Singh, Sukhjeet Singh$CIT=ENSDF$CUT=08-Mar-2022$    
+224AC  H TYP=FUL$AUT=SUKHJEET SINGH, BALRAJ SINGH$CIT=NDS 130, 127 (2015)$      
+224AC2 H CUT=15-Oct-2015$                                                       
+224AC  Q 239       10 5662   8  4288    4 6326.9 7     2021WA16                 
+224AC cQ $S(2n)=12530 {I6}, S(2p)=10722 {I8} (2021Wa16)                         
+224AC c  {+224}Ac identified and produced by 1948Gh01 in Th(d,X) at 80 MeV,     
+224AC2c  with an estimated half-life of |?2.5 h. Later studies of {+224}Ac      
+224AC3c  decay: 1951Me10, 1958Hi78, 1968Le17, 1976MiZR, 1987Mi10, 1992Li31.     
+224AC c                                                                         
+224AC c  Theoretical calculations: 24 references extracted from the NSR         
+224AC2c  database are listed in document records.                               
+224AC d  2022Ya08, 2021He09, 2021Ma20, 2021Sa52, 2021Sr02, 2020Bu17, 2019Sr04,  
+224AC2d  2019Sr06, 2017Sa39, 2017Sa62, 2017Zh03, 2016Na19, 2015Se14, 2013Sa54,  
+224AC3d  2013Ta07, 2013Zd01.                                                    
+224AC d  2012Sa34: Half-life calculation                                        
+224AC d  2008Sh18: theoretical calculations of level energies, J|p              
+224AC d  2004Sh25: theoretical calculations of parity doublet splitting,        
+224AC2d  configuration assignments                                              
+224AC d  1994So16: Level structure of odd-odd actinides                         
+224AC d  1992Ch20: Properties of prolate superdeformed states                   
+224AC d  1988Sh01: J|p with octupole deformation                                
+224AC d  1986Po06, 1986Po15: Spontaneous emission of heavy ions                 
+224AC c  All data are from {+228}Pa |a decay                                    
+224AC c  In this evaluation, the level scheme is essentially that proposed by   
+224AC2c  1994Ah03 with some modifications suggested in 2004Sh25. The band       
+224AC3c  structures are taken essentially from 2004Sh25, but considered         
+224AC4c  tentative at this stage. As pointed out in 1994Ah03 and 2004Sh25, the  
+224AC5c  level scheme of {+224}Ac is very complex and many additional levels    
+224AC6c  are expected. Thus the level scheme presented here is considered as    
+224AC7c  incomplete. Information about confirmed multipolarities, mixing ratios 
+224AC8c  and other spectroscopic details is lacking. Further experiments on     
+224AC9c  the decay of {+228}Pa, and involving nuclear reactions are needed to   
+224ACAc  confirm and elucidate the structure of this nucleus.                   
+224AC c  2004Sh25 suggest five other bands, not listed here, for which only     
+224AC2c  one or two levels each are known.                                      
+224AC cL J$Assignments are mainly from 2004Sh25 based on interpretation         
+224AC2cL of parity-doublets (reflection asymmetric) structures in {+224}Ac.     
+224AC3cL Some of the assignments are supported by transition multipolarities    
+224AC4cL from conversion electron data for high energy transitions and          
+224AC5cL E1 assignments from I(K-x ray)/I|g ratios. For the K|p=0 and 1 bands,  
+224AC2cL two scenarios are presented in their figures 4 and 5 of 2004Sh25. See  
+224AC3cL detailed discussion by the authors. Assignments given here are         
+224AC4cL arbitrarily taken from figure 4 in 2004Sh25. K|p=3+ and 3- parity-     
+224AC5cL doublet bands are also supported by 1994Ah03 with minor differences in 
+224AC6cL level assignments at high energy.                                      
+224AC CL BAND(X)$Band based on (0-).                                            
+224AC2cL Mixture of K|p=0- and K|p=1- bands from |p3/2~#|n3/2 and |p5/2~#|n3/2  
+224AC3cL configurations (2004Sh25)                                              
+224AC CL BAND(Y)$Band based on 1+.                                              
+224AC2cL Mixture of K|p=0+ and K|p=1+ bands from |p3/2~#|n3/2 and |p5/2~#|n3/2  
+224AC3cL configurations (2004Sh25)                                              
+224AC CL BAND(Z)$Band based on (3-).                                            
+224AC2cL Mixture of K|p=2- and K|p=3- bands from |p5/2~#|n1/2 configuration     
+224AC3cL (2004Sh25)                                                             
+224AC CL BAND(U)$Band based on (3+).                                            
+224AC2cL Mixture of K|p=2+ and K|p=3+ bands from |p5/2~#|n1/2 configuration     
+224AC3cL (2004Sh25)                                                             
+224AC  XA228PA A DECAY (19.5 H)                                                 
+224AC PN                                                                     6  
+224AC  L 0           (0-)              2.78 H    16                         X   
+224AC2 L %EC=90.9 +14-20$ %A=9.1 +20-14 (1951Me10)$                             
+224ACX L XREF=A                                                                 
+224AC cL %EC,%A$from |e/|a=10 {I2} (1951Me10).                                  
+224AC cL %B-$ No |b{+-} branch observed; %|b{+-}<1.6 from log| {Ift}>5.9        
+224AC2cL expected for a 0- to 0+ {+224}Th g.s. |b{+-} transition                
+224AC cL J$log| {Ift}=5.9 (1976MiZR) to 1- level in {+224}Ra suggest probable   
+224AC2cL allowed |b{+-} transition; large hindrance factors                     
+224AC3cL (or non-observation) of |a transitions to levels                       
+224AC3cL in {+220}Fr which are connected by |g transitions                      
+224AC4cL implying change of one or two units of spin between these levels;      
+224AC5cL possible K|p=0- bandhead of an octupole band. See also several         
+224AC6cL arguments given in previous Nuclear Data Sheets evaluation (1986Ma45;  
+224AC7cL same arguments in 1997Ar05) where J|p=0- was assigned. Based on        
+224AC8cL theoretical considerations 1988Sh01 deduce J|p=0- or 3- for 3/2 proton 
+224AC9cL and 3/2 neutron coupling with octupole deformation, and                
+224ACAcL 2+ or (2-) with quadrupole deformation only.                           
+224AC cL T$weighted average of 2.55 h {I28} (1987Mi10) and 2.9 h {I2}           
+224AC2cL (1951Me10; their previous value |?2.5 h reported in 1948Gh01)          
+224AC  L 17.60     15   (1-)                                                X   
+224ACX L XREF=A                                                                 
+224AC  L 23.40     11   (2-)                                                    
+224ACX L XREF=A                                                                 
+224AC  L 29.83      9    (1+)                                               Y   
+224ACX L XREF=A                                                                 
+224AC cL J$E1 |g to (0-)                                                        
+224AC  G 29.8      1  100      E1                      2.83   5                 
+224AC  L 34.2       8                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 37.17      9   (2-)                                                X   
+224ACX L XREF=A                                                                 
+224AC  G 37.2      1  100      [E2]                    1200   24               ?
+224AC  L 44.2       3                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 45.8       4   (-)                                                    ?
+224ACX L XREF=A                                                                 
+224ACX L XREF=A                                                                 
+224AC  L 47.4       4                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 49.08     13   (3-)                                                    
+224ACX L XREF=A                                                                 
+224AC  L 52.20     11   (2+)                                                Y   
+224ACX L XREF=A                                                                 
+224AC  G 22                                                                    S
+224AC  G 28.8      1  42     7  E1                     3.10   6                 
+224AC  G 34.6      1  100    11 E1                     1.91                     
+224AC cG $A 52.1|g is omitted here due to unlikely M2 multipolarity             
+224AC2cG implied from assigned J|p values                                       
+224AC  L 64.47     14  (3+)                                                     
+224ACX L XREF=A                                                                 
+224AC  G 41.1      1  100                                                       
+224AC cG M$(M1) listed in 1993Sh07, but no argument given                       
+224AC  L 65.2       6                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 75.9       6                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 78.51     12    (3-)                                               X   
+224ACX L XREF=A                                                                 
+224AC cL $A 48.6|g is omitted here due to unlikely M2 multipolarity             
+224AC2cL implied from assigned J|p values                                       
+224AC  G 26.3      1  100    14 E1                     3.93   7                 
+224AC  L 80.49     10  (3+)                                                 Y   
+224ACX L XREF=A                                                                 
+224AC  G 28.3      1  4.2    AP                                                 
+224AC  G 43.3      1  100    13 E1                     1.054  17                
+224AC  L 84.1       4                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 90.56     13 (+)                                                       
+224ACX L XREF=A                                                                 
+224ACX L XREF=A                                                                 
+224AC  G 67.2      1   100      (E1)                   0.327                    
+224AC  L 92.6       4                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 100.44    23                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 103.31    13 (4+)                                                      
+224ACX L XREF=A                                                                 
+224AC  G 54.2      1   100      (E1)                   0.580                    
+224AC  L 105.1      6                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 109.33    17  (4-)                                                     
+224ACX L XREF=A                                                                 
+224AC  G 60.3      2   100                                                  &   
+224AC  L 110.53    15  (+)                                                      
+224ACX L XREF=A                                                                 
+224AC  G   61.5    1   100                                                      
+224AC  L 116.46    13   (4-)                                                X   
+224ACX L XREF=A                                                                 
+224AC  G 36.0      1  100    15 (E1)                   1.72   3                 
+224AC  G 52.0      2   87    15                                                 
+224ACF G FL=64.47                                                               
+224AC  L 130.30    11   (4+)                                                Y   
+224ACX L XREF=A                                                                 
+224AC  G 49.8      1   20    4                                                  
+224AC  G 51.8      1  100    11 (E1)                   0.654                    
+224AC  G 78.6      3   8     4                                                 ?
+224AC  G 81.2      1   89    15                                                 
+224AC  L 133.4      4                                                          ?
+224ACX L XREF=A                                                                 
+224AC  L 142.5      3  (5+)                                                     
+224ACX L XREF=A                                                                 
+224AC  L 146.6      4                                                           
+224ACX L XREF=A                                                                 
+224AC cL E$this level may be the same as 142.4 level, but the energy matching   
+224AC2cL is poor                                                                
+224AC  G   62.5    1   100   17                                                ?
+224AC  L 159.3      4                                                           
+224ACX L XREF=A                                                                 
+224AC  G   66.3    3   50    AP                                                ?
+224AC  G   75.5    3   100   AP                                                ?
+224AC  L  169      2                                                            
+224ACX L XREF=A                                                                 
+224AC  L 176.72    14   (5+)                                                Y   
+224ACX L XREF=A                                                                 
+224AC  G 46.5      2   30    AP                                                 
+224AC  G 60.3      2   125   LT (E1)                   0.436  8             &   
+224AC  G 67.4      2   100   15                                                 
+224AC  G 73.4      2   21    9                                                  
+224AC  L 183.40    13   (5-)                                                X   
+224ACX L XREF=A                                                                 
+224AC  G 53.1      1   100   15 (E1)                   0.612                    
+224AC  G 74.1      3    38   10                                                 
+224AC  G 80.1      1    85   15 (E1)                   0.205                    
+224AC  L  212      2                                                            
+224ACX L XREF=A                                                                 
+224AC  L 219.7      4                                                           
+224ACX L XREF=A                                                                 
+224AC  G   77.2    2    100  AP                                                 
+224AC  G   86.3    2    67   AP                                                ?
+224AC  L  236.5    4   (6-)                                                 X   
+224ACX L XREF=A                                                                 
+224AC  G 59.8      3   100                                                      
+224AC  L 252.68    17  (6+)                                                 Y   
+224ACX L XREF=A                                                                 
+224AC  G 69.3      2   100   17 (E1)                   0.301                    
+224AC  G 76.0      2    43   12                                                 
+224AC  G 110.3     4    86   17                                                 
+224AC  G 122.5     5   23    AP                                                 
+224AC  L 283.48    13 (3-)                                                      
+224ACX L XREF=A                                                                 
+224AC  G 140.8     4   20    5                                                  
+224AC  G  193.0    2   11    4                                                  
+224AC  G 237.7     3   26    5  (M1)                   1.473                   ?
+224AC  G 246.2     2   36    8                                                  
+224AC  G 260.1     1   100   11                                                 
+224AC  L  300      2                                                            
+224ACX L XREF=A                                                                 
+224AC  L 317.2      5                                                           
+224ACX L XREF=A                                                                 
+224AC  G  280.0    5   100   AP                                                 
+224AC  G  283.0    5   100   AP                                                ?
+224AC  L 333.04    12 (3+)                                                      
+224ACX L XREF=A                                                                 
+224AC  G 202.7     1   88    13 M1(+E2)  0.6     LT    2.07   23                
+224AC  G  222.7    2   16    AP                                                 
+224AC  G  232.6    2   59    9                                                 ?
+224AC  G 242.6     2   47    8  (M1)                   1.392                    
+224AC  G 252.6     2   63    13 (M1)                   1.244                    
+224AC  G  267.8    5   33    11                                                ?
+224ACF G FL=65.2                                                                
+224AC  G  280.8    4   31    AP                                                 
+224AC  G  283.4    4   47    AP                                                 
+224AC  G  285.8    5   16    AP                                                ?
+224AC  G  288.9    5   47    AP                                                ?
+224AC  G  295.5    4   31    AP                                                 
+224AC  G 303.2     2   100   18                                                 
+224AC  L 353.89    11   (3-)                                                Z   
+224ACX L XREF=A                                                                 
+224AC  G 237.5     2   18.9  23 (M1)                   1.476                    
+224AC  G 244.7     5   9.6   23 (M1)                   1.359                    
+224AC  G  248.8    5   7.7   27                                                ?
+224AC  G  269.1    4   13    3                                                 ?
+224AC  G  278.0    5   9     AP                                                ?
+224AC  G  290.0    5  23     AP                                                 
+224AC  G  309.6    3  23     AP                                                ?
+224AC  G 316.8     1  100    14 (M1)                   0.666                    
+224AC  G 330.4     1  50     LT (M1)                   0.593                &   
+224AC  L 360.25    11   (3+)                                                U   
+224ACX L XREF=A                                                                 
+224AC  G 230.0     1  45     8  M1(+E2)  0.7     LT    1.41   21                
+224AC  G  268.7    5   9     2                                                 ?
+224AC  G 279.5     4   9.3   23                                                 
+224AC  G 308.0     1   100   10 M1(+E2)  0.4     LT    0.68   4                 
+224AC  G  312.8    4   5.0   AP                                                ?
+224AC  G 330.4     1   28    LT                                             &   
+224AC  L 380.80    16  (+)                                                      
+224ACX L XREF=A                                                                 
+224AC  G 250.5     2   59    12 (M1)                   1.273                    
+224AC  G  300.3    3   17    AP                                                 
+224AC  G  328.6    2   100   14                                                 
+224AC  G  351.0    4   17    AP                                                 
+224AC  L 395.84    19   (4-)                                                Z   
+224ACX L XREF=A                                                                 
+224AC  G  212.5    5   42    AP                                                 
+224AC  G  253.4    5   67    AP                                                 
+224AC  G 317.2     2   580   AP                                                 
+224AC  G 347.0     3   100   42                                                 
+224AC  L 402.92    16  (4+)                                                 U   
+224ACX L XREF=A                                                                 
+224AC  G 226.3     2   17    AP                                                 
+224AC  G 299.5     3   33    AP                                                 
+224AC  G  312.3    3   17    AP                                                 
+224AC  G 322.4     2   100   13 M1(+E2)  0.7     LT    0.55   9                 
+224AC  L 448.08    20  (5-)                                                 Z   
+224ACX L XREF=A                                                                 
+224AC  G 195.5     2   100   30                                                 
+224AC  G 317.8     3   300   AP                                                 
+224AC  G 344.3     4   100   AP                                                 
+224AC  L 452.1      4  (5+)                                                 U   
+224ACX L XREF=A                                                                 
+224AC  G 335.6     3   100                                                      

@@ -1,0 +1,321 @@
+237PU    ADOPTED LEVELS, GAMMAS                                  06NDS    200608
+237PU  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 107, 2323 (2006)$CUT=15-Mar-2006$    
+237PU  Q -1.48E3   SY5880.7  215.57E3  5 5748.3  23    2012WA38                 
+237PU cQ $Note: Current evaluation has used the following Q record              
+237PU2cQ -1480     syst 5880.7 {I21} 5570   50 {I5748}.4 {I23}    2003Au03      
+237PU cQ           |DQ(|b{+-})=60(syst) 2003Au03                                
+237PU c  Calculation of energies and wavefunctions for nonrotational states was 
+237PU2c  reported in 1971Ko31 and 1982Li02.                                     
+237PU cG E         Except for 145.544|g, all energies are from {+237}Am |e      
+237PUxcG decay.                                                                 
+237PU cG RI        From {+237}Am |e decay.                                      
+237PU cG M,MR      From ce measurements in {+237}Am |e decay.                   
+237PU cL           The configurations given below are the dominant components.  
+237PU cL E         From a least squares fit to the adopted |g-ray energies.     
+237PU cL J         Assignments are based on the measured absolute cross sections
+237PU2cL in (d,t) data, expected pattern of the rotational bands, and deduced L 
+237PU3cL transfer values.                                                       
+237PU cL J(H)      From (d,t) data.                                             
+237PU CL BAND(A)   7/2[743] BAND.                                               
+237PU CL BAND(B)   1/2[631] BAND.                                               
+237PU CL BAND(D)   5/2[622] BAND.                                               
+237PU CL BAND(E)   3/2[631] BAND.                                               
+237PU CL BAND(F)   5/2[633] BAND.                                               
+237PU CL BAND(G)   7/2[624] BAND.                                               
+237PU CL BAND(H)   1/2[501] BAND.                                               
+237PU CL BAND(I)   K=5/2 BAND.                                                  
+237PU2cL 5/2[752] Nilsson assignment was proposed by analogy to 633-keV level   
+237PU3cL in {+235}U (1975Ah05). Large log| {Ift} values (7.1 and 7.5) for the   
+237PU4cL allowed feedings from {+237}Am decay to 5/2- and 7/2- levels are       
+237PU5cL consistent with the fact that 5/2[752] is a hole state. |e transitions 
+237PU6cL from 5/2[523] state could be hindered by a factor of 10 because of     
+237PU7cL N-forbiddenness. However, if the level seen in (d,t) at 655 keV        
+237PU8cL is the state seen at 655.3 keV in {+237}Am decay, the observed (d,t)   
+237PU9cL cross section is not consistent with 5/2-, 5/2[752] assignment.        
+237PUAcL A possible assignment could be 5/2-, 5/2[503] state.                   
+237PUBcL This assignment was tentatively proposed for a level observed          
+237PUCcL at 852 keV in (d,t) (1973Gr26).                                        
+237PU CL BAND(L)   K=1/2 : 0+ PHONON COUPLED TO 1/2[631] STATE.                 
+237PU2cL If 851-keV level is 5/2+ member of this band, and if decoupling        
+237PU3cL parameter a=-0.47, same as that of 1/2[631] band, then band parameter  
+237PU4cL A=5.2. 3/2+ member would be expected at about 808 keV.                 
+237PU  XA241CM A DECAY                                                          
+237PU  XE237AM EC DECAY                                                         
+237PU  XD238PU(D,T)                                                             
+237PU  XP239PU(P,T)                                                             
+237PU  XB237PU IT DECAY (0.18 S)                                                
+237PU PN                                                                     6  
+237PU  L 0.0          7/2-             45.64 D   4                          A   
+237PU2 L %A=0.0042 4$ %EC=99.9958 4                                             
+237PU3 L XREF=AEDB                                                              
+237PU cL           |a branching was calculated from |g intensities              
+237PU2cL measured in |a and |e decays of {+237}Pu (1979El05) (see {+237}Pu      
+237PU3cL |a decay). %|a=0.0033 {I3} was calculated from |a activities of        
+237PU4cL {+237}Pu, {+236}Pu in a source with known fractions, and K x-ray       
+237PU5cL counting (1957Th10). Other: a%=0.0020 {I4} in 1957Ho68.                
+237PU cL J         145.544|g from 1/2+ level is E3. |e decay to {+237}Np,       
+237PU2cL |a decay of {+241}Cm, and (d,t) data are consistent with the           
+237PUxcL assignment.                                                            
+237PU cL T         Weighted average of 44.66 d {I4} (1994Ta25), 45.63 d {I20}   
+237PU2cL (1957Th10,1957Ho68), 45.3 d {I2} (1977Sm02), and 45.12 d {I3}          
+237PUxcL (1981Ba15).                                                            
+237PU  L 47.71     4  9/2-                                                  A   
+237PU2 L XREF=AED                                                               
+237PU cL J         47.71|g M1+E2 to 7/2- state; (d,t) data.                     
+237PU  G 47.71     4  100      M1+E2     0.24    8     79     15                
+237PU  L 106       5  11/2-                                                 A   
+237PU2 L XREF=AD                                                                
+237PU cL J         (d,t) data; fit to band.                                     
+237PU  L 145.543    8  1/2+            0.18 S    2                          BM  
+237PU2 L XREF=AEDPB                                                             
+237PU3 L %IT=100                                                                
+237PU cL J         L=0 in {+239}Pu(p,t) reaction; (d,t) data.                   
+237PU cL T         From |a|g(t) in {+241}Cm |a decay.                           
+237PU  G 145.542    8  100     E3                      51.6                     
+237PU3 G BE3=0.028 4                                                            
+237PU cG E         weighted average of 145.536 {I9} ({+241}Cm |a decay) and     
+237PU2cG 145.552 {I12} ({+237}Am |e decay).                                     
+237PU3cG The unweighted average is 145.544 {I8}.                                
+237PUB G BE3W=0.028 4                                                           
+237PU  L 155.456   12 3/2+                                                  B   
+237PU2 L XREF=AED                                                               
+237PU cL J         9.903|g M1+E2 to 1/2+ state; |a hindrance factor;            
+237PU2cL (d,t) data.                                                            
+237PU  G 9.903     16 100      M1+E2     0.07    2     3.2E+3 10                
+237PU  L 175       7  13/2-                                                 A   
+237PU2 L XREF=AD                                                                
+237PU cL J         (d,t) and {+241}Cm |a decay data; fit to the rotational band.
+237PU  L 201.179   12 5/2+                                                  B   
+237PU2 L XREF=AEDP                                                              
+237PU cL J         45.724|g to 3/2+ is M1+E2, 55.638|g to 1/2+ state is (E2);   
+237PU2cL (d,t), (p,t) and {+241}Cm |a decay data.                               
+237PU  G 45.724    8 46      12M1+E2     0.47    13    170    60                
+237PU  G 55.638    11100     16(E2)                    261                      
+237PU  L 224.25    5  7/2+                                                  B   
+237PU2 L XREF=AEDP                                                              
+237PU cL J         68.8|g (E2) to 7/2+ state; (d,t) and {+241}Cm |a decay data; 
+237PU2cL fit to the rotational band.                                            
+237PU  G 68.8      1  100      (E2)                    94.2                     
+237PU  L 257          15/2-                                                 A   
+237PU2 L XREF=D                                                                 
+237PU cL J         (d,t) data; fit to the rotational band.                      
+237PU  L 280.222   14 5/2+                                                  D   
+237PU2 L XREF=ED                                                                
+237PU cL J         280.22|g E1 to 7/2- state; 124.72|g to 3/2+ state is not E2. 
+237PU  G 79.05     2 0.42    7 (M1)                    12.0                     
+237PU  G 124.72    3 0.59    11(M1)                    15.1                     
+237PU  G 280.23    2 100     5  E1                     0.0484                   
+237PU  L 304       4  9/2+                                                  B   
+237PU2 L XREF=ADP                                                               
+237PU cL J         (d,t) reaction; fit to the rotational band.                  
+237PU  L 320.970   16 7/2+                                                  D   
+237PU2 L XREF=E                                                                 
+237PU cL J         40.748|g M1+E2 to 5/2+ state, 321.0|g E1 to 7/2-, 273.3|g    
+237PU2cL to 9/2- state.                                                         
+237PU  G 40.748    6 2.0     4  M1+E2    0.19    3     123    14            &   
+237PU  G 273.3     1 54      4                                                  
+237PU  G 321.0     1 100     8  E1                     0.036                    
+237PU  L 370.40    4  3/2+                                                  E   
+237PU2 L XREF=AE                                                                
+237PU cL J         224.86|g (M1) to 1/2+ state, it is                           
+237PU2cL not pure E2 or pure E1; therefore, J|p Ne 5/2, 1/2-, 3/2-; and         
+237PU2cL J|p Ne 1/2+ from log| {Ift}=7.33 for |e branch in 5/2(-) {+237}Am |e   
+237PUxcL decay.                                                                 
+237PU  G 214.9     2 100     21(M1)                    3.23                     
+237PU  G 224.86    4 100     21(M1)                    2.85                     
+237PU  L 371       5   9/2+                                                 D   
+237PU2 L XREF=D                                                                 
+237PU cL J         (d,t) data; fit to the rotational band.                      
+237PU  L 404.19    5  5/2+                                                  E   
+237PU2 L XREF=AED                                                               
+237PU cL J         M1+E2 |g transitions to 3/2+, 5/2+, 7/2+ states.             
+237PU2cL Low |a hindrance factor is probably due to Coriolis interaction        
+237PU3cL of the 3/2[631] band with the 5/2[633] and 1/2[631] bands.             
+237PU  G 123.8     3 7       AP                                                 
+237PU  G 179.94    2 41      9 (M1(+E2)) 0.7     7     4.0    14                
+237PU  G 203.03    5 71      9 M1(+E2)   0.4     4     3.4    5                 
+237PU  G 248.7     2 100     10(M1(+E2)) 0.6     6     1.7    5                 
+237PU  L 407.82     6 5/2+                                                  F   
+237PU2 L XREF=EDP                                                               
+237PU cL J         183.7|g and 252.2|g to 7/2+ and 3/2+ states, respectively,   
+237PU2cL are M1(+E2).                                                           
+237PU  G 127.5     2 17      4                                                  
+237PU  G 183.7     2 30      8  M1(+E2)  0.7     7     3.8    13                
+237PU  G 206.7     1 52      7  M1(+E2)  0.3     3     3.4    2                 
+237PU  G 252.2     2 43      12 M1(+E2)  0.6     6     1.6    5             @   
+237PU  G 407.8     1 100     8 (E1)                    0.0218                   
+237PU  L 438.41     7 7/2+                                                  F   
+237PU2 L XREF=ED                                                                
+237PU cL J         438.4|g E1 and 390.7|g E1 to 7/2- and 9/2- states,           
+237PU2cL respectively , log| {Ift}=6.57 for |e branch from 5/2(-) {+237}Am |e   
+237PUxcL decay rules out 9/2+.                                                  
+237PU  G 158.3     3 0.8     3                                                  
+237PU  G 390.7     1 6.6     5  E1                     0.0238                   
+237PU  G 438.4     1 100     5  E1                     0.0188                   
+237PU  L 453.29    14 7/2+                                                  E   
+237PU2 L XREF=ED                                                                
+237PU cL J         455.8|g M1 from 7/2+ state; log| {Ift}=7.53 for |e branch in 
+237PU2cL 5/2(-) {+237}Am |e decay; fit to the rotational band.                  
+237PU  G 229.1     3 100     34                                                 
+237PU  G 252.2     2 100     34                                             @   
+237PU  G 453.2     3 67      14                                                 
+237PU  L 473.52     7 7/2+                                                  G   
+237PU2 L XREF=ED                                                                
+237PU cL J         473.5, 425.8 |g's to 7/2-, 9/2- states are E1; log| {Ift}=6.7
+237PU2cL for |e branch in {+237}Am |e decay.                                    
+237PU  G 193.4     3 2.1     7                                                  
+237PU  G 425.8     1 45      3  E1                     0.0200                   
+237PU  G 473.5     1 100     7  E1                     0.0161                   
+237PU  L 486         (9/2+)                                                 F   
+237PU2 L XREF=D                                                                 
+237PU cL J         (d,t) data.                                                  
+237PU  L 513           9/2+                                                 E   
+237PU2 L XREF=D                                                                 
+237PU cL J         (d,t) data; fit to the rotational band.                      
+237PU  L 545          (1/2-)                                                H   
+237PU2 L XREF=D                                                                 
+237PU cL J         1/2[501] band assignment.                                    
+237PU  L 582          (5/2-)                                                H   
+237PU2 L XREF=D                                                                 
+237PU cL           Spin assignment is tentative.                                
+237PU  L 591          (3/2-)                                                H   
+237PU2 L XREF=D                                                                 
+237PU cL J         Band member.                                                 
+237PU  L 655                                                                    
+237PU2 L XREF=D(*)                                                              
+237PU cL           This level, observed in (d,t) reaction, may be identical     
+237PU2cL to the 655.3-keV, 5/2-, K=5/2 level observed in {+237}Am |e decay.     
+237PU3cL See the comment on Nilsson assignment for the band based on            
+237PU4cL 655.3-keV level.                                                       
+237PU  L 655.39    15 (5/2)-                                                I   
+237PU2 L XREF=ED(*)                                                             
+237PU cL J         655.3|g to 7/2- g.s. is M1; populated in {+237}Am |e decay.  
+237PU2cL Energy difference from the 7/2- state at 696.2 keV (which yields       
+237PU3cL A=5.8) suggests that these levels are members of a K=5/2 band.         
+237PU  G 655.3     2  100       M1                     0.153                    
+237PU  L 691          (7/2-)                                                H   
+237PU2 L XREF=D                                                                 
+237PU cL J         Band member. Spin assignment is tentative.                   
+237PU  L 696.14    15  7/2-                                                 I   
+237PU2 L XREF=E                                                                 
+237PU cL J         696.2, 648.5 gammas to 7/2-, 9/2- states                     
+237PU2cL are M1; log| {Ift}|<7.5 for |e branch from 5/2(-) {+237}Am |e decay.   
+237PU  G 40.748    6                                                        &   
+237PU  G 648.5     3 100     16 M1                     0.158                    
+237PU  G 696.2     3 77      16 M1                     0.131                    
+237PU  L 716                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 741                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 757                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 775                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 800       2  1/2+                                                  L   
+237PU2 L XREF=P                                                                 
+237PU cL J         L=0 in (p,t).                                                
+237PU  L 809                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 840                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 851       5   3/2+,5/2+                                                
+237PU2 L XREF=P                                                                 
+237PU cL J         L=2 in {+239}Pu(p,t) reaction. This level may be the 5/2+    
+237PU2cL member of K=1/2 band at 800 keV.                                       
+237PU  L 852                                                                    
+237PU2 L XREF=D                                                                 
+237PU cL           5/2-, 5/2[503] state assignment was tentatively              
+237PU2cL proposed in (d,t) dataset (1973Gr26).                                  
+237PU  L 884                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 908.90    12 7/2+                                                      
+237PU2 L XREF=E                                                                 
+237PU cL J         501.2 and 435.2 gammas to 5/2+ and 7/2+ states are M1,       
+237PU2cL 861.2|g to 9/2- level. The 7/2[613] state assignment was proposed      
+237PU3cL from {+237}Am |e decay (1975Ah05).                                     
+237PU  G 435.2     3 9.6     16 M1                     0.462                    
+237PU  G 455.8     3 3.5     8  M1                     0.407                    
+237PU  G 501.2     3 10.8    16 M1                     0.315                    
+237PU  G 504.8     3 7.3     16 M1                     0.309                    
+237PU  G 861.2     3 14.2    16                                                 
+237PU  G 908.8     2 100     6                                                  
+237PU  L 933                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 964                                                                    
+237PU2 L XREF=D                                                                 
+237PU  L 998       5                                                            
+237PU2 L XREF=PD(*)                                                             
+237PU  L 1000.6    3 3/2+,5/2,7/2                                               
+237PU2 L XREF=ED(*)                                                             
+237PU cL J         log| {Ift} of 7.13 for the |e branch from 5/2(-) {+237}Am and
+237PU2cL 1000.6|g to 7/2- state suggest J|p=3/2+, 5/2|+, or 7/2|+.              
+237PU  G 720.4     5  100    21                                                 
+237PU  G 1000.6    3  79     21                                                 
+237PU  L 1014                                                                   
+237PU2 L XREF=D                                                                 
+237PU cL           3/2-, 3/2[501] state assignment was tentatively proposed in  
+237PU2cL 1973Gr26 from (d,t) data.                                              
+237PU  L 1025      3                                                            
+237PU2 L XREF=P                                                                 
+237PU  L 1053                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1104                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1189                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1216                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1250                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1264                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1348                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1383                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1397                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1463                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1481                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 1534                                                                   
+237PU2 L XREF=D                                                                 
+237PU  L 26.0E+2   20                  97 NS     4                              
+237PU2 L %SF GT 0                                                               
+237PU cL           SF decay observed. Other decay mode not reported.            
+237PU cL E         From 1978De07 (fit to excitation function)- |DE=200 by the   
+237PU2cL evaluator. 2900 {I200} in 1971Br39 (fit to excitation function), 3400  
+237PU3cL {I200} from threshold energies (1970Bu02), 3100 {I150} from fit to     
+237PU4cL excitation function (1973Va16), 2300 {I200} recommended in 1973Br38    
+237PU5cL from lowest threshold.                                                 
+237PU cL T         Weighted average of 77 ns {I16} (1979Gu03), 120 ns {I30}     
+237PU2cL (1969VaZX), 60 ns {I20} (1969Me11,1971Re11), 120 ns {I50} (1970Bu02),  
+237PU3cL 88 ns {I35} (1971Ru03), 114 ns {I12} (1971Te07), 100 ns {I50} and 120  
+237PU4cL ns {I50} (1971Br39), 130 ns {I20} (1972Vi10), 110 ns {I9} (1974Ba82),  
+237PU5cL 110 ns {I30} (1969La14), 85 ns {I7} (1982Ra04). Other: 60 ns           
+237PU6cL (1970Po01; reevaluated measurement of 1969La14), 70 ns (1972Ga42).     
+237PU cL           For calculated level energy and T{-1/2}(level), see 1972We09,
+237PU2cL 1990Bh02. For calculations and evaluations of fission-barrier          
+237PU3cL parameters see, for example, 1972We09, 1976Ga11, 1978Fl05, 1980Bj02,   
+237PUxcL 1981Re06, 1984Ku05.                                                    
+237PU cL           g=-0.45 {I3} by perturbed angular distribution of fission    
+237PU2cL fragments (1982Ra04, 1983Ra36).                                        
+237PU cL J         for suggested spins and discussions, see 1971Ru03, 1972Vi10, 
+237PU2cL 1973Va16, 1975Ha09, 1975Kh06, 1979Gu03, 1980Bj02, 1980Li15, 1982Ra04,  
+237PUxcL 1984Du03.                                                              
+237PU  L 29.0E+2   25                   1.1 US   1                              
+237PU2 L %SF GT 0                                                               
+237PU cL           Only SF decay has been observed, it is not established       
+237PU2cL whether the level decays by |g to the 85-ns SF isomer or by SF         
+237PU3cL only, or both.                                                         
+237PU cL E         from fit to excitation functions, 1973Va16 deduced that      
+237PU2cL 1.1-|ms isomer is 300|+150 keV above the 82-ns (97-ns in current       
+237PU3cL evaluation) isomer.                                                    
+237PU cL T         Weighted average of 900 ns {I150} (1970Po01), 1120 ns {I80}  
+237PU2cL (1971Ru03), 950 ns {I300} (1971Te07), 1000 ns {I200} (1972Vi10),       
+237PU3cL 1310 ns {I260} (1974Ba82), 1050 ns {I400} (1979Gu03).                  
+237PU cL           Assignment: {+237}Np(d,2n) exit (1970Po01).                  
+237PU cL           g=+0.14 {I2} by time-dependent, perturbed angular            
+237PU2cL distribution of fission fragments (1974Ka06).                          
+237PU cL           For suggested spins see 1979Gu03, 1984Du03, for example.     

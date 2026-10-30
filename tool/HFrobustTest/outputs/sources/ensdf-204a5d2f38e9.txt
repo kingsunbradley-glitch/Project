@@ -1,0 +1,83 @@
+270DB    ADOPTED LEVELS                                          19NDS    201902
+270DB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 70 (2019)$CUT=31-Jan-2019$       
+270DB  Q 820       SY 4910   SY 4230   CA 8260   SY    2017WA10,1997MO25        
+270DB cQ $Estimated uncertainties (2017Wa10): |DQ(|b{+-})=830, |DS(n)=880,      
+270DB2cQ |DQ(|a)=200.                                                           
+270DB cQ $S(p) from theory (1997Mo25); other values from 2017Wa10               
+270DB cQ $S(2n)=10900 {I810} (syst, 2017Wa10). S(2p)=10250 (1997Mo25, theory)   
+270DB c  2010Og01, 2011Og04: {+274}Bh from |a decay chain:                      
+270DB2c  {+294}Ts |) {+290}Mc |) {+286}Nh |) {+282}Rg |) {+278}Mt |) {+274}Bh   
+270DB3c  |) {+270}Db, {+294}Ts formed and identified in reaction                
+270DB4c  {+249}Bk({+48}Ca,3n), E=247 MeV at FLNR-JINR-Dubna using Dubna         
+270DB5c  gas-filled recoil separator (DGFRS). Measured E|a, half-lives, |a-|a   
+270DB6c  correlations. One decay chain was assigned to the decay of {+294}Ts.   
+270DB7c  See details in {+294}Ts Adopted Levels.                                
+270DB c  2012Og06, 2013Og04, 2013Og01: {+274}Bh formed in the decay chain of    
+270DB2c  {+294}Ts as above in 2011Og04. See details in {+294}Ts Adopted Levels. 
+270DB3c  Two decay chains were reported.                                        
+270DB c  2014Kh04: {+274}Bh from |a decay chain: {+294}Ts |) {+290}Mc |)        
+270DB2c  {+286}Nh |) {+282}Rg |) {+278}Mt |) {+274}Bh |) {+270}Db; {+294}Ts     
+270DB3c  formed and identified in reaction {+249}Bk({+48}Ca,3n),E=252.1, 254.0, 
+270DB4c  258.0 MeV at GSI using Gas-filled Trans-Actinide Separator and         
+270DB5c  Chemistry Apparatus (TASCA). Four decay chains were assigned to the    
+270DB6c  decay of {+294}Ts, but only two were reported in 2014Kh04, while       
+270DB7c  the other two were relegated to a future detailed publication as per   
+270DB8c  reference 36 in the paper, however no further publication seems to have
+270DB9c  appeared since the 2014Kh04 paper. See details for {+294}Ts Adopted    
+270DBAc  Levels.                                                                
+270DB c  One EVR-|a-SF correlated decay chain reported by 2011Og04, three by    
+270DB2c  2013Og04 and 2012Og06, and two by 2014Kh04, all starting with the decay
+270DB3c  of {+294}Ts and ending in SF-decaying {+270}Db nuclide in Dubna work   
+270DB4c  (2013Og04, 2011Og04) and in SF-decaying {+266}Lr in GSI work           
+270DB5c  (2014Kh04). 2011Og07 and 2012OgZZ are also related reports for the     
+270DB6c  Dubna work. See Adopted Levels for {+294}Ts for details of above       
+270DB7c  three studies.                                                         
+270DB c                                                                         
+270DB c  For theoretical studies, consult Nuclear Science References (NSR)      
+270DB2c  database at NNDC, BNL for 47 primary references dealing with the       
+270DB3c  half-lives and other aspects of nuclear structure in this mass region  
+270DB  XA274BH A DECAY (44 S)                                                   
+270DB  L 0                              15 H     +10-4                          
+270DB2 L %SF AP 100 $ %A=?                                                      
+270DBX L XREF=A                                                                 
+270DB cL $By combining the data from Dubna work (2013Og04,2011Og04), 2014Kh04   
+270DB2cL assigned |a decay of {+270}Db to five decay chains to |a decay         
+270DB3cL and only one decay chain to SF decay, based on which the authors       
+270DB4cL assigned |?17% decay branch to SF decay mode, which is in disagreement 
+270DB5cL with the Dubna work (2013Og04, 2011Og04 and 2015Og05, 2017Og01 reviews)
+270DB6cL where dominant decay mode is assigned as SF decay, while not excluding 
+270DB7cL |a or |e decay mode entirely. See detailed discussion in section IV of 
+270DB8cL 2013Og04, where comparison is made between decay modes of {+270}Db and 
+270DB9cL {+268}Db, with a conclusion that |a decay mode of {+270}Db is unlikely.
+270DB cL $Considering the following statement in 2015Og05 review about the two  
+270DB2cL events in 2014Kh04 where |a decay of {+270}Db is reported, the         
+270DB3cL evaluator adopts the half-life and decay mode from 2015Og05 based on   
+270DB4cL Dubna work reported in 2013Og04 and 2011Og04: "However,                
+270DB5cL the probability of a random origin for both of these events, which can 
+270DB6cL be extracted from the data given in [89], is rather large and reaches  
+270DB7cL 0.5 (see discussion in [29]). We do not include these results for      
+270DB8cL {+270}Db in Table 1 and Figs. 5 and 8 below because detailed analysis  
+270DB9cL of data is not complete (reference [36]in [89])". Reference [89] is    
+270DBAcL 2014Kh04, reference [29] is 2015Og01.                                  
+270DB cL E$the observed SF or |a activity is assumed to correspond to the ground
+270DB2cL state of {+270}Db                                                      
+270DB cL J$1-,4- from |W(proton)=5/2-, |W(neutron)=3/2+ (1997Mo25, theory)      
+270DB cL T$from 2017Og01 and 2015Og05 reviews. Measurements: 1.0 h {I+19-4} for 
+270DB2cL |a decay mode from two decay chains, also T{-1/2}=1.1 h {I+15-4}       
+270DB3cL (2014Kh04) by combining their data with those from 2013Og04;           
+270DB4cL 17 h {I+15-6} (2013Og04, 2012Og06 from a total of four correlated decay
+270DB5cL chains, all assigned as SF decay of {+270}Db in contrast to the work of
+270DB6cL 2014Kh04 where dominant |a decay mode is assigned); 23 h {I+110-10}    
+270DB7cL (2010Og01,2011Og04, from one correlated event, with assigned SF decay  
+270DB8cL mode of {+270}Db). Note that in one correlated decay event reported in 
+270DB9cL 2013Og04, short interval of 1.156 h was recorded between the |a decay  
+270DBAcL of {+274}Bh and SF decay of {+270}Db, but this was not correlated with 
+270DBBcL any |a decay. Note that in 2017Au03 (NUBASE-2016), T{-1/2} is          
+270DBCcL adopted as 2.0 h {I13} by symmetrization of T{-1/2}=1.0 h {I+19-4},    
+270DBDcL determined by 2014Kh04 from dominant |a decay mode of {+270}Db, yet the
+270DBEcL decay mode in 2017Au03 is assigned as 100% SF taken from Dubna work,   
+270DBFcL which in evaluator's opinion presents an inconsistent scenario.        
+270DB cL $E|a=7.90 MeV {I3} from decay of {+270}Db (2014Kh04); the |a decay     
+270DB2cL mode reported only by 2014Kh04. 2015Og05 review article discusses      
+270DB3cL the works from Dubna (2013Og04, 2011Og04) and GSI (2014Kh04), and      
+270DB4cL concludes the SF decay of {+270}Db as a dominant mode.                 

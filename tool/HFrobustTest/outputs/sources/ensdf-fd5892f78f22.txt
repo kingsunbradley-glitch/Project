@@ -1,0 +1,238 @@
+225TH    ADOPTED LEVELS, GAMMAS                                  09NDS    200905
+225TH  H TYP=ERR$AUT=B. Singh$DAT=11-MAR-2013$COM=Some RI set to 100$           
+225TH  H TYP=FUL$AUT=A. K. Jain (a), R. Raut (b), J. K. Tuli$                   
+225TH2 H CIT=NDS 110, 1409 (2009)$CUT=1-Dec-2008$                               
+225TH  Q -2.03E3   8 5755    125213    7 6921.4  22    2012WA38                 
+225TH cQ $Note: Current evaluation has used the following Q record              
+225TH2cQ -2.0|*10{+3}   7 {I5757}    12 {I5213}   6 {I6921}.4  {I21}    2003Au03
+225TH  XA229U A DECAY                                                           
+225TH  XB226RA(A,5NG)                                                           
+225TH cL E $From 1990Hu04                                                       
+225TH cL J $From 1990Hu04. Deduced under the assumption of stretched            
+225TH2cL transition.                                                            
+225TH c  Theoretical calculations in 2007Mi30, 2002Ts01, 1995De13, 1993De18,    
+225TH2c  1991Cw01, 1989Cw03.                                                    
+225TH c  Detailed spectroscopic studies on {+225}Th was carried out             
+225TH2c  using the reaction {+226}Ra(|a,5n) at a beam energy of 50 MeV. The     
+225TH3c  measurements could establish the level structure of the nucleus        
+225TH4c  upto an excitation energy of 2494 keV and spin 39/2~h. Parity          
+225TH5c  doublets were observed and classified according to simplex (s)         
+225TH6c  quantum number. The results were compared with theoretical             
+225TH7c  calculations in interpreting the nuclear shape. However, the           
+225TH8c  relative excitation of the s=+i band with respect to the ground state  
+225TH9c  could not be established experimentally (1990Hu04).                    
+225TH CL BAND(A) $ s=-i, |p=+ BAND                                              
+225TH CL BAND(B) $ s=-i, |p=- BAND                                              
+225TH CL BAND(C) $ s=+i, |p=+ BAND                                              
+225TH CL BAND(D) $ s=+i, |p=- BAND                                              
+225TH cL $For given s, |p=- has greater effective moment of inertia than |p=+.  
+225TH2cL For given |p, s=-i has larger effective moment of inertia than s=+i,   
+225TH3cL for rotation frequencies <0.18 Mev. For each s, effective moment of    
+225TH4cL inertia converge at a common value.                                    
+225TH c  The level observed at 102 keV in the |a-decay, not observed in         
+225TH2c  1990Hu04. Interpretations in 1988Le13.                                 
+225TH cG E $Uncertainty in |g-energies is 0.2 keV for strong lines and upto     
+225TH2cG 0.5 keV for weak lines. Lines with intensities around 1.0 has been     
+225TH3cG considered as weak lines in this dataset.                              
+225TH cG M $Multipolarities from conversion electron measurements, (L1+L2)/L3   
+225TH2cG intensity ratios and (L1+L2) conversion coefficients.                  
+225TH cG CC $Calculated using bricc, assuming stretched transitions,            
+225TH2cG according to 1990Hu04.                                                 
+225TH cG RI(A)     Set 100 (|b. Singh)                                          
+225TH  L 0.0         (3/2+)            8.75 M    4                          A   
+225THX L XREF=AB                                                                
+225TH2 L %A AP 90 $ %EC AP 10                                                   
+225TH cL J $Assumed to be same as that of the ground state of 223Ra, measured   
+225TH2cL in 1983Ah03 and 1986Sh02. Assignment supported by measurements in      
+225TH3cL 1989Ac01 and theoretical calculations in 1989Cw03, 1985Na07, 1984Le04, 
+225TH4cL 1982Le19.                                                              
+225TH  L 68.4        (7/2+)                                                 A   
+225THX L XREF=AB                                                                
+225TH  G 68.4        100       [E2]                    68.0                 A   
+225TH cG E $From the level scheme of 1990Hu04. Not listed in the table.         
+225TH  L 187.0       (11/2+)                                                A   
+225THX L XREF=AB                                                                
+225TH  G 118.6       100       E2                      5.36   8             A   
+225TH cG $(ce(L1)+ce(L2))/ce(L3)=1.8 {I2}                                       
+225TH  L 325.6       (13/2-)                                                B   
+225THX L XREF=B                                                                 
+225TH  G 138.6     2 100       E1                      0.226  4             *   
+225TH cG $ce(L1)+ce(L2)|?0.03                                                   
+225TH cG RI $I|g(103 gate)=39 {I4}, I|g(118 gate)=47 {I5}                       
+225TH  L 370.2       (15/2+)                                                A   
+225THX L XREF=B                                                                 
+225TH  G 44.9      2                                                            
+225TH cG RI $I|g(103 gate)=3.0 {I6}, I|g(118 gate)=10 {I2}                      
+225TH  G 183.2     2           E2                      0.914  14                
+225TH cG $(ce(L1)+ce(L2))/ce(L3)=2.3 {I2}                                       
+225TH cG RI $I|g(103 gate)=6.4 {I7} I|g(118 gate)=21                            
+225TH  L 519.7       (17/2-)                                                B   
+225THX L XREF=B                                                                 
+225TH  G 149.4     2           E1                      0.189  3                 
+225TH cG $ce(L1)+ce(L2)|?0.03                                                   
+225TH cG RI $I|g(103 gate)=18 {I2}, I|g(118 gate)=38 {I4}                       
+225TH  G 194.1     2                                                        *   
+225TH cG RI $I|g(103 gate)=2.1 {I7}, I|g(118 gate)=3.3 {I12}                    
+225TH  L 614.3       (19/2+)                                                A   
+225THX L XREF=B                                                                 
+225TH  G 94.8      2           E1                      0.1351 21                
+225TH cG $ce(L1)+ce(L2)<0.15                                                    
+225TH cG RI $I|g(103 gate)=11.7 {I12}, I|g(118 gate)=24 {I4}                    
+225TH  G 244.1     2           E2                      0.327  5                 
+225TH cG $(ce(L1)+ce(L2))/ce(L3)=2.2 {I6}                                       
+225TH cG RI $I|g(103 gate)=3.6 {I4}, I|g(118 gate)=14.0 {I14}                   
+225TH  L 768.7       (21/2-)                                                B   
+225THX L XREF=B                                                                 
+225TH  G 154.2     2           E1                      0.175  3                 
+225TH cG $ce(L1)+ce(L2)<0.06                                                    
+225TH cG RI $I|g(103 gate)=9.0 {I9}, I|g(118 gate)=26 {I3}                      
+225TH  G 249.0     2                                                            
+225TH cG RI $I|g(103 gate)=3.6 {I4}, I|g(118 gate)=5.9 {I6}                     
+225TH  L 910.7       (23/2+)                                                A   
+225THX L XREF=B                                                                 
+225TH  G 141.8     2           E1                      0.214  3                 
+225TH cG $ce(L1)+ce(L2)<0.06                                                    
+225TH cG RI $I|g(103 gate)=5.0 {I5}, I|g(118 gate)=14.9 {I15}                   
+225TH  G 296.4     2                                                            
+225TH cG RI $I|g(103 gate)=|?2, I|g(118 gate)=6.1 {I12}                         
+225TH  L 1072.2      (25/2-)                                                B   
+225THX L XREF=B                                                                 
+225TH  G 161.9     2           E1                      0.1558 23                
+225TH cG $ce(L1)+ce(L2)<0.06                                                    
+225TH cG RI $I|g(103 gate)=3.8 {I5}, I|g(118 gate)=12.3 {I12}                   
+225TH  G 303.5     2                                                            
+225TH cG RI $I|g(103 gate)=5.3 {I8}, I|g(118 gate)=8.9 {I9}                     
+225TH  L 1251.3      (27/2+)                                                A   
+225THX L XREF=B                                                                 
+225TH  G 178.8     2                                                        *   
+225TH cG RI $I|g(103 gate)=2.9 {I4}, I|g(118 gate)=7.0 {I7}                     
+225TH  G 340.6     5                                                            
+225TH cG RI $I|g(103 gate)=0.9 {I3}, I|g(118 gate)=4.7 {I7}                     
+225TH  L 1426.3      (29/2-)                                                B   
+225THX L XREF=B                                                                 
+225TH  G 174.9     2                                                            
+225TH cG RI $I|g(103 gate)=4.4 {I8}, I|g(118 gate)=5.9 {I6}                     
+225TH  G 354.1     2                                                            
+225TH cG RI $I|g(103 gate)=1.4 {I5}, I|g(118 gate)=4.7 {I5}                     
+225TH  L 1631.8      (31/2+)                                                A   
+225THX L XREF=B                                                                 
+225TH  G 205.4     2                                                            
+225TH cG RI $I|g(103 gate)=5.2 {I7}, I|g(118 gate)=4.7 {I10}                    
+225TH  G 380.5     5                                                            
+225TH cG RI $I|g(103 gate)=0.5 {I3}, I|g(118 gate)=2.4 {I4}                     
+225TH  L 1824.5      (33/2-)                                                B   
+225THX L XREF=B                                                                 
+225TH  G 193.1     2                                                           ?
+225TH cG RI $I|g(103 gate)=8.4 {I13}, I|g(118 gate)=8.1 {I12}                   
+225TH  G 398.2     5                                                            
+225TH cG RI $I|g(103 gate)=1.1 {I3}, I|g(118 gate)=2.4 {I4}                     
+225TH  L 2047.2      (35/2+)                                                A  ?
+225THX L XREF=B                                                                 
+225TH  G 222.7     5                                                           ?
+225TH cG RI $I|g(103 gate)=0.8 {I4}, I|g(118 gate)=2.9 {I6}                     
+225TH  G 415.4     5                                                           ?
+225TH cG RI $I|g(103 gate)=1.6 {I4}, I|g(118 gate)=1.2 {I3}                     
+225TH  L 2259.1      (37/2-)                                                B  ?
+225THX L XREF=B                                                                 
+225TH  G 211.6     2                                                        *  ?
+225TH cG RI $I|g(103 gate)=2.7 {I3}, I|g(118 gate)=2.5 {I3}                     
+225TH  G 434.6     5                                                           ?
+225TH cG RI $I|g(103 gate)=1.0 {I3}, I|g(118 gate)=1.4 {I3}                     
+225TH  L 2494.4      (39/2+)                                                A  ?
+225THX L XREF=B                                                                 
+225TH  G 234.9     2                                                        *  ?
+225TH cG RI $I|g(103 gate)=3.9 {I4}, I|g(118 gate)=2.4 {I4}                     
+225TH  G 447.2     5                                                           ?
+225TH cG RI $I|g(103 gate)=0.7 {I2}, I|g(118 gate)=1.2 {I3}                     
+225TH  L X           (5/2+)                                                 C   
+225THX L XREF=AB                                                                
+225TH cL E $Adjustment of energies of (5/2+) and (9/2+) states under the        
+225TH2cL constraint that the difference between their energies must remain      
+225TH3cL constant (103 keV) yielded x=31 keV.                                   
+225TH  L X+103.5     (9/2+)                                                 C   
+225THX L XREF=AB                                                                
+225TH cL E $Adjustment of energies of (5/2+) and (9/2+) states under the        
+225TH2cL constraint that the difference between their energies must remain      
+225TH3cL constant (103 keV) yielded E(9/2+)=135 keV.                            
+225TH  G 103.5       100       E2                      9.60   14            A   
+225TH cG $(ce(L1)+ce(L2))/ce(L3)=1.7 {I2}                                       
+225TH  L X+222.8     (11/2-)                                                D   
+225THX L XREF=B                                                                 
+225TH  G 119.3     2 100       E1                      0.323  5             A   
+225TH cG $ce(L1)+ce(L2)<0.15                                                    
+225TH cG RI $I|g(103 gate)=30 {I3}                                              
+225TH  L X+271.1     (13/2+)                                                C   
+225THX L XREF=B                                                                 
+225TH  G 48.1      2                                                            
+225TH cG RI $I|g(103 gate)=16 {I3}                                              
+225TH  G 167.6     2           E2                      1.288  19                
+225TH cG $(ce(L1)+ce(L2))/ce(L3)=1.9 {I3}                                       
+225TH cG RI $I|g(103 gate)=13 {I1}                                              
+225TH  L X+401.6     (15/2-)                                                D   
+225THX L XREF=B                                                                 
+225TH  G 131.1     2           E1                      0.258  4                 
+225TH cG $ce(L1)+ce(L2)|?0.03                                                   
+225TH cG RI $I|g(103 gate)=28 {I3}, I|g(118 gate)=9.5 {I10}                     
+225TH  G 178.8     2                                                        *  ?
+225TH cG RI $I|g(103 gate)=2.9 {I4}, I|g(118 gate)=7.0 {I7}                     
+225TH  L X+498.1     (17/2+)                                                C   
+225THX L XREF=B                                                                 
+225TH  G 95.9      2           E1                      0.1311 20                
+225TH cG $ce(L1)+ce(L2)<0.15                                                    
+225TH cG RI $I|g(103 gate)=27 {I3}, I|g(118 gate)=8 {I3}                        
+225TH  G 227.0     2           E2                      0.419  6                 
+225TH cG $(ce(L1)+ce(L2))/ce(L3)=2.4 {I6}                                       
+225TH cG RI $I|g(103 gate)=11 {I2}, I|g(118 gate)=3.4 {I11}                     
+225TH  L X+636.5     (19/2-)                                                D   
+225THX L XREF=B                                                                 
+225TH  G 138.6     2           E1                      0.226  4             *   
+225TH cG $ce(L1)+ce(L2)|?0.03                                                   
+225TH cG RI $I|g(103 gate)=39 {I4}, I|g(118 gate)=47 {I5}                       
+225TH  G 234.9     2                                                        *   
+225TH cG RI $I|g(103 gate)=3.9 {I4}, I|g(118 gate)=2.4 {I4}                     
+225TH  L X+775.6     (21/2+)                                                C   
+225THX L XREF=B                                                                 
+225TH  G 138.6     2           E1                      0.226  4             *   
+225TH cG $ce(L1)+ce(L2)|?0.03                                                   
+225TH cG RI $I|g(103 gate)=39 {I4}, I|g(118 gate)=47 {I5}                       
+225TH  G 277.5     2                                                            
+225TH cG RI $I|g(103 gate)=7.1 {I7}, I|g(118 gate)=2.5 {I5}                     
+225TH  L X+925.2     (23/2-)                                                D   
+225THX L XREF=B                                                                 
+225TH  G 149.8                                                                  
+225TH  G 288.7     5                                                            
+225TH cG RI $I|g(103 gate)=5.2 {I5}, I|g(118 gate)=0.8 {I4}                     
+225TH  L X+1096      (25/2+)                                                C   
+225THX L XREF=B                                                                 
+225TH  G 170.3     2                                                            
+225TH cG RI $I|g(103 gate)=8.5 {I9}, I|g(118 gate)=7.8 {I8}                     
+225TH  G 320.4     2                                                            
+225TH cG RI $I|g(103 gate)=4.2 {I6}, I|g(118 gate)=2.1 {I3}                     
+225TH  L X+1259.3    (27/2-)                                                D   
+225THX L XREF=B                                                                 
+225TH  G 163.9     2                                                            
+225TH cG RI $I|g(103 gate)=1.9 {I4}, I|g(118 gate)=2.3 {I3}                     
+225TH  G 334.1     2                                                            
+225TH cG RI $I|g(103 gate)=3.5 {I4}, I|g(118 gate)=1.2 {I3}                     
+225TH  L X+1454.2    (29/2+)                                                C  ?
+225THX L XREF=B                                                                 
+225TH  G 194.1     2                                                        *  ?
+225TH cG RI $I|g(103 gate)=2.1 {I7}, I|g(118 gate)=3.3 {I12}                    
+225TH  G 358.2     5                                                           ?
+225TH cG RI $I|g(103 gate)=1.8 {I9}, I|g(118 gate)=1.1 {I4}                     
+225TH  L X+1626.3    (31/2-)                                                D  ?
+225THX L XREF=B                                                                 
+225TH  G 173.2     2                                                           ?
+225TH cG RI $I|g(103 gate)=7.5 {I10}, I|g(118 gate)=6.7 {I7}                    
+225TH  G 367.0     2                                                           ?
+225TH cG RI $I|g(103 gate)=3.8 {I4}, I|g(118 gate)=2.8 {I3}                     
+225TH  L X+1839.1    (33/2+)                                                C  ?
+225THX L XREF=B                                                                 
+225TH  G 211.6     2                                                        *  ?
+225TH cG RI $I|g(103 gate)=2.7 {I3}, I|g(118 gate)=2.5 {I3}                     
+225TH  G 384.9     5                                                           ?
+225TH cG RI $I|g(103 gate)=1.2 {I3}, I|g(118 gate)=0.9 {I3}                     
+225TH  L X+2020.1    (35/2-)                                                D  ?
+225THX L XREF=B                                                                 
+225TH  G 393.8     5                                                           ?
+225TH cG RI $I|g(103 gate)=1.3 {I3}, I|g(118 gate)=0.6 {I3}                     

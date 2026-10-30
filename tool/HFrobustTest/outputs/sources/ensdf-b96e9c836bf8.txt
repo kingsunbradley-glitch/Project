@@ -1,0 +1,43 @@
+244ES    248MD A DECAY                 1973ES01                  17NDS    201711
+244ES  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 146, 387 (2017)$CUT=31-Aug-2017$     
+244ES c  2008Ne01: {+248}Md, the alpha decay great-granddaughter of {+260}Bh    
+244ES2c  produced in {+209}Bi({+52}Cr,n) reaction with E({+52}Cr{+12+})=257.0   
+244ES3c  MeV beam provided by 88-Inch Cyclotron at LBNL.                        
+244ES4c  The nuclei were analyzed using Berkeley Gas-Filled Separator.          
+244ES5c  A focal plane Si strip detector and a Si-strip detector                
+244ES6c  array, with a resolution of FWHM=55 keV was used to detect the |a      
+244ES7c  particles. No level scheme was suggested by the authors due to the     
+244ES8c  absence of gamma rays. The branching for alpha decay= 58 % {I20}       
+244ES9c  is in contrast to the currently adopted value of 20 % {I10} (2014Ma86),
+244ESac  authors (2008Ne01) speculate that the discrepancy may be due to their  
+244ESbc  low counting statistics.                                               
+244ES c  1973Es01: {+243}Md produced from bombarding {+12}C beam from the       
+244ES2c  Berkeley heavy ion accelerator onto a {+241}Am target. |a-particle     
+244ES3c  were observed using |a -particle spectroscopy consisting of a series   
+244ES4c  of seven Si-Au surface barrier detectors. Measured T{-1/2}, E|a        
+244ES5c  I|a, and branching ratio.                                              
+244ES cA E$Measured by 1973Es01, except where noted                             
+244ES cA IA$Measured by 1973Es01.                                               
+244ES cA E(A)$Alpha measured by 2008Ne01 that have not been placed in the       
+244ES2cA level scheme                                                           
+244ES cA HF$r{-0}({+244}Es)|?1.5 |?, estimated by the evaluator from the        
+244ES2cA r{-0} systematics given in 1998Ak04                                    
+244ES cL E$Level energies are calculated from Q|a({+248}Md)=8700 {I150}         
+244ES2cL (syst, 2017Wa10) and the measured E|a's                                
+248MD  P 0.0                             7 S       3            8700      SY    
+248MD cP QP$From systematics in 2017Wa10 with |DQ(|a)= 150                      
+248MD cP J,T$From Adopted Levels of {+248}Md (2014Ma86)                         
+244ES  N 1.0                   0.20    10                                       
+244ES cN BR$From Adopted Levels of {+248}Md (2014Ma86)                          
+244ES  A 8130                                                               A   
+244ES  A 8260                                                               A   
+244ES  A 8460                                                               A   
+244ES cA E$the 8460|a group from {+248}Md decay was correlated with             
+244ES2cA 9610|a group from {+252}Lr decay. It is possible that this             
+244ES3cA can be due to an isomer in {+252}Lr.                                   
+244ES  L 200       SY                                                           
+244ES cL E$|DE=150 (sys)                                                        
+244ES  A 8360      30 25     AP   65   AP                                       
+244ES  L 240       SY                                                           
+244ES cL E$|DE=150 (sys)                                                        
+244ES  A 8320      20 75     AP   16   AP                                       

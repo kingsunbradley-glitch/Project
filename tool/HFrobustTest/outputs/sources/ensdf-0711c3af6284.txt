@@ -1,0 +1,162 @@
+210FR    214AC A DECAY                 2004KU24,2000HE17,1968VA0414NDS    201408
+210FR  H TYP=FUL$AUT=M. SHAMSUZZOHA BASUNIA$CIT=NDS 121, 561 (2014)$            
+210FR2 H CUT=31-Mar-2014$                                                       
+210FR c  Others: 1961Gr42, 1979Sc09.                                            
+210FR c  2004Ku24: {+214}Ac isotope was produced from {+209}Bi({+12}C,7n)       
+210FR2c  reaction, E=9.1 MeV/nucleon. Evaporation residues separated from       
+210FR3c  {+12}C beam by the velocity filter SHIP at GSI. After separation the   
+210FR4c  residues were implanted into a position-sensitive 16-strip PIPS Si     
+210FR5c  detector (FWHM=22 keV at 8 MeV for each strip). In one experiment an   
+210FR6c  HPGe, and in another experiment a Ge clover detector were mounted      
+210FR7c  behind the Si detector. Measured E|g, E|a, I|g, I|a, |a-|g/X-ray coin. 
+210FR8c  Deduced level scheme, |g-ray multipolarity, and J|p.                   
+210FR c  2000He17: Same research group of 2004Ku24. {+214}Ac was produced from  
+210FR2c  {+218}Pa |a decay, {+170}Er({+51}V,|a3n) and {+209}Bi({+12}C,7n)       
+210FR3c  reactions. 16-strip PIPS Si detector, two planar Ge-detectors or an    
+210FR4c  HPGe detector. Measured E|g, E|a, I|g, I|a, |a-|g/X-ray coin. Deduced  
+210FRxc  level scheme.                                                          
+210FR c  1968Va04: {+214}Ac isotope was produced from {+209}Bi({+12}C,7n)       
+210FR2c  reaction. Recoiling reaction products were slowed down in a helium     
+210FR3c  atmosphere and collected onto a catcher foil in an adjacent vacuum     
+210FR4c  chamber. Si(Au) surface-barrier detector. Measured E|a, I|a, E|g.      
+210FR5c  Deduced level scheme.                                                  
+210FR cA E,IA      From 2004Ku24, except otherwise noted. E|a values of 1968Va04
+210FR2cA (in comment section) have been increased by 2 keV, as recommended in   
+210FR3cA 1991Ry01 because of changes in calibration energies. I|a: deduced      
+210FR4cA indirectly from |a-|g coin events in 2004Ku24, unless otherwise stated.
+210FR cA IA(A)$|a-intensity extracted from singles |a-spectrum (2004Ku24)       
+210FR cA IA(B)$>0.35 {I5}; 7011|a and 7023|a form a doublet                     
+210FR2cA (2004Ku24) with %I{-|a}=2.1 {i2} from the singles |a-spectrum.         
+210FR cA HF        Using r{-0}({+210}Fr)=1.4701, average of                     
+210FR2cA r{-0}({+208}Rn)=1.467 {I10}, r{-0}({+210}Rn)=1.4552 {I21},             
+210FR3cA r{-0}({+210}Ra)=1.492 {I16}, and r{-0}({+212}Ra)=1.466 {I6} (1998Ak04).
+210FR cG E         Detected in coincidence with alpha particles (2004Ku24).     
+210FR cG E(Y)$Based upon |a-|g coin data - 2004Ku24 identify the |g-ray as a    
+210FR2cG transition between excited states, and not feeding the g.s.. The sum   
+210FR3cG of 41.5 and 121.0 keV is equal to 162.5 keV, which is a tentative      
+210FR4cG transition from 225 level to 62 level. It is speculated in 2004Ku24    
+210FR5cG that in a cascade 41.5|g and 121.0|g could feed the level at 62 keV via
+210FR6cG a level at 104.1- or 183.6-keV from 225-keV level.                     
+210FR cG RI        From 2004Ku24                                                
+210FR cG E(X)      Also reported in 2000He17                                    
+210FR DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+210FR cG MR$If no value given it was assumed |d=1.00 for E2/M1,                 
+210FR2cG |d=1.00 for E3/M2 and |d=0.10 for the other multipolarities            
+210FR cL E$From least-squares fit to |g-ray energies.                           
+210FR cL E(R)$Possible (unobserved) transition from this to a low-lying level.  
+210FR cL J,T$From Adopted Levels                                                
+214AC  P 0.0          (5-)             8.2 S     2              7352.1    25    
+214AC cP $J|p=(5-) proposed in 1979Sc09 from analogy with {+212}Fr, {+210}At,   
+214AC2cP and {+208}Bi.                                                          
+210FR  N                       0.89    GE                                       
+210FR PN                                                                     6  
+210FR  G 41.5      1                                                        Y   
+210FR  G 121.0     1                                                        Y   
+210FR  G 184.8     10                                                       Y   
+210FR  G 422.1     4                                                        Y   
+210FR  L 0.0         6+                3.18 M    6                              
+210FR  A 7215      3  54     2   6.6                                        A   
+210FR cA E$Others: E|a=7210 keV {i10} (2000He17), 7214 keV {i5} (1968Va04)      
+210FR  L 62.68      6                                                           
+210FR  A 7153      6                                                        C   
+210FR  G 62.6      1  100                                                   XC  
+210FR  L 138.96     7 (5,6,7)+                                                  
+210FR  A 7081      4  42     2   2.7                                        C   
+210FR2 A FLAG=A                                                                 
+210FR cA E$Others: E|a=7080 keV {i15} (2000He17), 7082 keV {i5} (1968Va04)      
+210FR  G 76.3      1  6      2                                              XC  
+210FR  G 138.9     1  100    3 M1                      5.62                     
+210FRS G  KC=4.53 7$LC=0.832 12$MC=0.198 3                                      
+210FRS G  NC=0.0520 8$OC=0.01162 17$PC=0.00186 3$QC=0.0001040 15                
+210FR cG E$Weighted average of 139.0 keV {i1} (2004Ku24) and 138.6 keV {i2}     
+210FR2cG (2000He17)                                                             
+210FR cG M         From |a(K)exp=4.6 {I4} (2004Ku24)                            
+210FR  L 195.55     8                                                           
+210FR  A 7023      5  0.35   GT  217   LT                                   C   
+210FR2 A FLAG=B                                                                 
+210FR cA E         Other: 7021 keV {i15} (2000He17)                             
+210FR  G 133.1     1  37     12                                                ?
+210FR cG E$Tentative assignment to {+210}Fr in 2004Ku24                         
+210FR  G 195.5     1  100    4                                                  
+210FR cG E         Other: 193.0 keV {i2} (2000He17)                             
+210FR  L 209.06     7                                                           
+210FR  A 7011      5  0.44   GT  155   LT                                   C   
+210FR2 A FLAG=B                                                                 
+210FR cA E         Other: 7016 keV {i15} (2000He17)                             
+210FR  G 146.4     1  59     3                                               C  
+210FR  G 209.0     1  100    3                                              X   
+210FR cG M$(M1+E2) from |a(K)exp=0.4 {I3}. Pure E2 not excluded (2004Ku24).     
+210FR  L 225.14    10                                                          ?
+210FR cL E$Uncertain level - not adopted                                        
+210FR  A 6998      7  0.04   GT  1485  LT                                      ?
+210FR cA E         Other: E|a=7002 keV {i15} (1968Va04)                         
+210FR cA IA        >0.04 {I2} (2004Ku24)                                        
+210FR  G 162.5     1  100    20                                                ?
+210FR cG E$Uncertain placement from uncertain level - not adopted               
+210FR  G 225.1     2  15     LT                                                ?
+210FR cG E$Doublet with 224.7|g; |g-ray and level energy were                   
+210FR2cG calculated from the sum 62.6|g and 162.5|g in cascade to the g.s.      
+210FR3cG Uncertain placement from uncertain level - not adopted.                
+210FR  L 244.20     7 (5,6,7)+                                                  
+210FR  A 6978      5  1.1    3    43                                        C   
+210FR2 A FLAG=A                                                                 
+210FR  G 181.4     1  13     11                                              C  
+210FR  G 244.2     1  100    6 M1                      1.149                    
+210FRS G  KC=0.927 13$LC=0.1687 24$MC=0.0402 6                                  
+210FRS G  NC=0.01053 15$OC=0.00235 4$PC=0.000378 6$QC=2.11E-5 3                 
+210FR cG M         From |a(K)exp=1.9 {I14} (2004Ku24)                           
+210FR  L 333.00    10                                                       R   
+210FR  A 6889      6  0.054  GT  439   LT                                       
+210FR cA IA        >0.054 {I10} (2004Ku24)                                      
+210FR  G 333.0     1  100                                                       
+210FR  L 339.50    10                                                       R   
+210FR  A 6879      6  0.031  GT  724   LT                                       
+210FR cA IA        >0.031 {I8} (2004Ku24)                                       
+210FR  G 339.5     1  100                                                       
+210FR  L 346.40    10                                                       R   
+210FR  A 6878      5  0.13   GT  163   LT                                   C   
+210FR cA E         Other: 6881 keV {i15} (2000He17)                             
+210FR cA IA        0.13 {I2} (2004Ku24)                                         
+210FR  G 346.4     1  100                                                       
+210FR cG E         Other: 348.6 keV {i16} (2000He17)                            
+210FR  L 363.69     9 (4 TO 8)+                                                 
+210FR  A 6861      6  0.09   GT  202   LT                                   C   
+210FR cA IA        >0.09 {I2} (2004Ku24)                                        
+210FR  G 154.6     1  78     12                                                 
+210FR  G 224.7     1  100    9 M1                      1.449                 C  
+210FRS G  KC=1.168 17$LC=0.213 3$MC=0.0507 8                                    
+210FRS G  NC=0.01329 19$OC=0.00297 5$PC=0.000477 7$QC=2.66E-5 4                 
+210FR cG M         From |a(K)exp=1.5 {I9} (2004Ku24)                            
+210FR  G 363.9     2  24     4                                                  
+210FR  L 444.20    20                                                       R   
+210FR  A 6783      7  0.015  GT  599   LT                                       
+210FR cA IA        >0.015 {I4} (2004Ku24)                                       
+210FR  G 444.2     2  100                                                       
+210FR  L 525.71     7 (4 TO 8)+                                                 
+210FR  A 6701      5  0.14   2    29                                        C   
+210FRF A FLAG=A                                                                 
+210FR  G 281.4     1  74     7 M1                      0.776                 C  
+210FRS G  KC=0.627 9$LC=0.1137 16$MC=0.0271 4                                   
+210FRS G  NC=0.00709 10$OC=0.001586 23$PC=0.000254 4$QC=1.420E-5 20             
+210FR cG M         From |a(K)exp=1.1 {I9} (2004Ku24)                            
+210FR  G 316.6     2  33     5                                               C  
+210FR  G 330.1     1  57     8                                                  
+210FR  G 386.7     2  31     4                                                  
+210FR  G 463.0     2  23     4                                                  
+210FR  G 525.9     1  100    6                                                  
+210FR  L 601.40    20                                                       R   
+210FR  A 6626      7  0.0047 GT  465   LT                                       
+210FR cA IA        >0.0047 {I12} (2004Ku24)                                     
+210FR  G 601.4     2  100                                                       
+210FR  L 622.50    20                                                       R   
+210FR  A 6606      7  0.0066 GT  273   LT                                       
+210FR cA IA        >0.0066 {I13} (2004Ku24)                                     
+210FR  G 622.5     2  100                                                       
+210FR  L 713.4     7                                                        R   
+210FR  A 6515      15 0.0022 GT  351   LT                                       
+210FR cA IA        >0.0022 {I8} (2004Ku24)                                      
+210FR  G 713.4     7  100                                                       
+210FR  L 753.7     7                                                        R   
+210FR  A 6478      15 0.0023 GT  230   LT                                       
+210FR cA IA        >0.0023 {I8} (2004Ku24)                                      
+210FR  G 753.7     7  100                                                       

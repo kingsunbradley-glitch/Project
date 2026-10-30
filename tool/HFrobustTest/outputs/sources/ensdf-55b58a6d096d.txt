@@ -1,0 +1,438 @@
+209FR    ADOPTED LEVELS, GAMMAS                                  15NDS    201506
+209FR  H TYP=FUL$AUT=J. CHEN {+#} AND F.G. KONDEV$CIT=NDS 126, 373 (2015)$      
+209FR2 H CUT=30-Sep-2013$                                                       
+209FR  Q -5620     50 9173   19 1402   18 6777    4    2012WA38                 
+209FR  XA213AC A DECAY                                                          
+209FR  XB176YB(37CL,4NG)                                                        
+209FR  XC197AU(16O,4NG)                                                         
+209FR cG E,RI$From 2009Dr04 in {+197}Au({+16}O,4n|g)                            
+209FR cG E(X)$ The ordering of the 331|g-727|g cascade is not firmly established
+209FR cG M$From 2009Dr04 in {+197}Au({+16}O,4n|g), based on ce data,            
+209FR2cG anisotropies and transition strengths                                  
+209FR cG MR$From 2009Dr04 in {+197}Au({+16}O,4n|g), based on measured ce data   
+209FR cL E$From a least-squares fit to E|g                                      
+209FR cL J$From 2009Dr04 in {+197}Au({+16}O,4n|g), based on deduced |g-ray      
+209FR2cL transition multipolarities, multiple |g-ray decay branches and         
+209FR3cL transition strengths, unless otherwise stated                          
+209FR cL T$From 2009Dr04 in {+197}Au({+16}O,4n|g), unless otherwise stated      
+209FR DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+209FR DG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=0.00 FOR E2/M1,                 
+209FR2DG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES            
+209FR PN                                                                     6  
+209FR  L 0.0          9/2-             50.5 S     7                             
+209FRX L XREF=AC                                                                
+209FR3 L %A=89 3$ %EC+%B+=11 3                                                  
+209FR cL J$J from atomic beam magnetic resonance (1978Ek02, 1978Ek05, 1985Co24, 
+209FR2cL 1986Ek02). |p from |m                                                  
+209FR cL T$weighted average of 50.0 s {I3} (|a(t), 1974Ho27), 52.0 s {I20}      
+209FR2cL (|a(t), 1967Va20), 51.3 s {I8} (|a(t), 1996Xu02) and 54.7 s {I10}      
+209FR3cL (|a(t), 1964Gr04)                                                      
+209FR cL %A$from 1974Ho27, deduced from the growth and decay of                 
+209FR2cL {+209}Fr and {+209}Rn |a groups, with the assumption that              
+209FR3cL %|a({+209}Rn)=17 {I2}. Other: %|a=97.0% {i15} using %|e+|b{++}=3.0%    
+209FR4cL {i15} (1996Xu02), but no convincing evidence was presented.            
+209FR2 L MOMM1=+3.95 8 (1986Ek02)                                               
+209FR3 L MOME2=-0.24 2 (1985Co24)$                                              
+209FR cL MOMM1,MOME2$from atomic beam laser spectroscopy. Other:                
+209FR2cL +3.95 {I2} (1985Co24)                                                  
+209FR cL $configuration=|p(h{-9/2}){++1}                                        
+209FR cL $|d|4r{+2}|5({+209}Fr,{+212}Fr)=-0.13043 fm{+2} {I8} (1987Co19).       
+209FR2cL Others: 1985Co24, 1980Li22, 1978Ek05                                   
+209FR cL $E|a=6646 {I5} (1974Ho27), 6647 {I5} (1967Va20), 6650 {I20} (1964Gr04) 
+209FR  L 606.06    18 13/2-                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$606.0|g stretched E2 to 9/2-                                         
+209FR cL $configuration=dominant |p(h{-9/2}){++1}~#|n(f{-5/2}){+-2}{-2{++}}     
+209FR  G 606.0     2  100      E2                      0.0238                   
+209FRS G  KC=0.01680 24$LC=0.00522 8$MC=0.001315 19                             
+209FRS G  NC=0.000345 5$OC=7.46E-5 11$PC=1.099E-5 16$QC=3.74E-7 6               
+209FR cG M$|a(K)exp=0.016 {I2}, |a(L)exp=0.007 {I1}, A{-2}=+0.27 {I3} (2009Dr04)
+209FR  L 622.64    18  11/2-                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$622.7|g M1+E2 to 9/2-, 466.3|g E2 from 15/2-                         
+209FR  G 622.7     2  100      M1+E2     0.64    11    0.071  5                 
+209FRS G  KC=0.057 5$LC=0.0107 7$MC=0.00256 14                                  
+209FRS G  NC=0.00067 4$OC=0.000150 9$PC=2.38E-5 14$QC=1.27E-6 10                
+209FR cG M,MR$from |a(K)exp=0.057 {I4} (2009Dr04). Also A{-2}=-0.43 {I10}       
+209FRxcG (2009Dr04)                                                             
+209FR  L 1088.88   21 15/2-                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$482.7|g M1(+E2) to 13/2-, 466.3|g E2 to 11/2- and 136.1|g M1(+E2)    
+209FR2cL from 17/2-                                                             
+209FR cL $configuration=|p(h{-9/2}){++1}~#|n(f{-5/2}){+-2}{-4{++}}              
+209FR  G 466.3     2  100    3 E2                      0.0436                   
+209FRS G  KC=0.0280 4$LC=0.01162 17$MC=0.00298 5                                
+209FRS G  NC=0.000783 11$OC=0.0001677 24$PC=2.40E-5 4$QC=6.42E-7 9              
+209FR cG M$|a(K)exp=0.031 {I3}, A{-2}=+0.21 {I5} (2009Dr04)                     
+209FR  G 482.7     3  36.8   22M1(+E2)   1.8     LT    0.13   6                 
+209FRS G  KC=0.10 5$LC=0.020 6$MC=0.0048 14                                     
+209FRS G  NC=0.0013 4$OC=0.00028 9$PC=4.4E-5 14$QC=2.2E-6 11                    
+209FR cG M,MR$from |a(K)exp>0.054 (2009Dr04). Also A{-2}=-0.48 {I17} (2009Dr04) 
+209FR  L 1224.97   23 17/2-                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$538.7|g E2 from 21/2- and 618.9|g E2 to 13/2-                        
+209FR cL $configuration=|p(h{-9/2}){++1}~#|n(f{-5/2}){+-2}{-4{++}}              
+209FR  G 136.1     3  26     4 M1(+E2)   0.4     LT    5.7    3                 
+209FRS G  KC=4.5 4$LC=0.93 5$MC=0.225 15                                        
+209FRS G  NC=0.059 4$OC=0.0131 8$PC=0.00205 8$QC=0.000104 7                     
+209FR cG M,MR$from |a(exp)=7.0 {I10} (2009Dr04). Also A{-2}=-0.31 {I7}          
+209FRxcG (2009Dr04)                                                             
+209FR  G 618.9     2  100    13E2                      0.0227                   
+209FRS G  KC=0.01614 23$LC=0.00492 7$MC=0.001236 18                             
+209FRS G  NC=0.000324 5$OC=7.02E-5 10$PC=1.037E-5 15$QC=3.59E-7 5               
+209FR cG M$|a(K)exp=0.017 {I3}, A{-2}=+0.23 {I9} (2009Dr04)                     
+209FR  L 1330.46   25 17/2-                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$724.4|g stretched E2 to 13/2-                                        
+209FR cL $configuration=|p(h{-9/2}){++3}                                        
+209FR  G 724.4     2  100      E2                      0.01624                  
+209FRS G  KC=0.01200 17$LC=0.00319 5$MC=0.000794 12                             
+209FRS G  NC=0.000208 3$OC=4.53E-5 7$PC=6.79E-6 10$QC=2.63E-7 4                 
+209FR cG M$|a(K)exp=0.012 {I2}, |a(L)exp=0.0022 {I4}, A{-2}=+0.23 {I4}          
+209FRxcG (2009Dr04)                                                             
+209FR  L 1763.7     3 21/2-                                                     
+209FRX L XREF=BC                                                                
+209FR cL J$433.2|g and 538.7|g stretched E2 to 17/2-                            
+209FR cL $configuration=|p(h{-9/2}){++3}                                        
+209FR  G 433.2     2  100.0  15 E2                     0.0524                   
+209FRS G  KC=0.0325 5$LC=0.01481 21$MC=0.00382 6                                
+209FRS G  NC=0.001003 15$OC=0.000214 3$PC=3.04E-5 5$QC=7.51E-7 11               
+209FR cG E$433.5 {I4} from {+176}Yb({+37}Cl,4n|g) (2006Me03)                    
+209FR cG M$|a(K)exp=0.032 {I2}, |a(M)exp=0.003 {I1}, A{-2}=+0.26 {I5} (2009Dr04)
+209FR  G 538.7     2  26.7   11E2                      0.0310                   
+209FRS G  KC=0.0211 3$LC=0.00739 11$MC=0.00188 3                                
+209FRS G  NC=0.000492 7$OC=0.0001060 15$PC=1.544E-5 22$QC=4.75E-7 7             
+209FR cG M$|a(K)exp=0.019 {I3}, A{-2}=+0.20 {I9} (2009Dr04)                     
+209FR  L 1928.6     4  23/2-           1.0 NS    LT                             
+209FRX L XREF=C                                                                 
+209FR cL J$164.9|g M1+E2 to 21/2-, the absence of transitions to levels with    
+209FR2cL J|p<21/2- rules out the 19/2- and 21/2- alternatives.                  
+209FR cL $configuration=|p((h{-9/2}){++2}(f{-7/2}){++1}){+3}                    
+209FR  G 164.9     2  100      M1+E2     0.44    +9-8  3.08   14                
+209FRS G  KC=2.37 15$LC=0.535 12$MC=0.131 4                                     
+209FRS G  NC=0.0343 10$OC=0.00755 19$PC=0.001165 19$QC=5.5E-5 4                 
+209FR cG M,MR$from |a(exp)=3.08 {I11} (2009Dr04). Also A{-2}=-0.24 {I4}         
+209FRxcG (2009Dr04)                                                             
+209FRB G BM1W>0.00091$BE2W>1.6                                                  
+209FR  L 2130.5     4  25/2+           35 NS     3                              
+209FRX L XREF=BC                                                                
+209FR cL J$201.9|g E1 to 23/2-, the absence of transitions to levels            
+209FR2cL with J|p<23/2- rules out the 21/2+ and 23/2+ alternatives              
+209FR cL T$weighted average of 33.3 ns {I21} (2009Dr04) and 39 ns {I3}          
+209FR2cL (2011Ka37) in {+197}Au({+16}O,4n|g), both using                        
+209FRxcL 409|g+515|g+619|g)|g-202|g(|Dt)                                        
+209FR cL CONF$|p(h{-9/2}){++1}~#|n((f{-5/2}){+-1}(i{-13/2}){+-1}){-9{+-}}       
+209FR  G 201.9     2  100      E1                      0.0862                   
+209FR cG E$202.1 {I4} from {+176}Yb({+37}Cl,4n|g) (2006Me03)                    
+209FR cG M$|a(exp)|<0.14 (2009Dr04), combined analysis for 201.9|g and 247.3|g, 
+209FR2cG with the main contribution being from the latter. A{-2}=-0.12 {I5}     
+209FRxcG (2009Dr04)                                                             
+209FRB G BE1W=6.1E-7 6                                                          
+209FRS G  KC=0.0689 10$LC=0.01311 19$MC=0.00313 5                               
+209FRS G  NC=0.000812 12$OC=0.000176 3$PC=2.64E-5 4$QC=1.141E-6 17              
+209FR  L 2175.9     4  25/2+           0.69 NS   LT                             
+209FRX L XREF=BC                                                                
+209FR cL J$247.6|g E1 to 23/2-, 45.4|g M1 to 25/2+, the absence of transitions  
+209FR2cL to levels with J|p<23/2- rules out the 23/2+ alternative.              
+209FR cL $configuration=|p((h{-9/2}){++2}(i{-13/2}){++1}){+3}                   
+209FR  G 45.4      3  5.1    9 M1                      28.3   7                 
+209FR cG M$|a(exp)=28.0 {I8} (2009Dr04)                                         
+209FRB G BM1W>0.0066                                                            
+209FRS G  LC=21.5 6$MC=5.12 13                                                  
+209FRS G  NC=1.34 4$OC=0.300 8$PC=0.0482 12$QC=0.00270 7                        
+209FR  G 247.3     2  100    3 E1                      0.0533                   
+209FR cG E$247.4 {I4} from {+176}Yb({+37}Cl,4n|g) (2006Me03)                    
+209FR cG M$|a(exp)|<0.14 (2009Dr04), combined analysis for 201.9|g and 247.3|g, 
+209FR2cG with the main contribution being from the latter. A{-2}=-0.24 {I4}     
+209FRxcG (2009Dr04)                                                             
+209FRB G BE1W>7.2E-6                                                            
+209FRS G  KC=0.0429 6$LC=0.00793 12$MC=0.00189 3                                
+209FRS G  NC=0.000490 7$OC=0.0001069 16$PC=1.619E-5 23$QC=7.29E-7 11            
+209FR  L 2245.1     4 23/2(+)                                                   
+209FRX L XREF=C                                                                 
+209FR cL J$481.4|g (E1) to 21/2-, the absence of transitions to levels with     
+209FR2cL J|p<21/2- rules out the J=19/2 alternatives.                           
+209FR  G 481.4     3  100      (E1)                    0.01231                  
+209FRS G  KC=0.01006 15$LC=0.001716 25$MC=0.000405 6                            
+209FRS G  NC=0.0001055 15$OC=2.33E-5 4$PC=3.62E-6 5$QC=1.82E-7 3                
+209FR cG M$A{-2}=-0.34 {I17} (2009Dr04)                                         
+209FR  L 2407.6     5  27/2+                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$231.7|g M1 to 25/2+                                                  
+209FR cL $configuration=|p((h{-9/2}){++2}(i{-13/2}){++1}){+3}                   
+209FR  G 231.7     2  100    8 M1(+E2)   0.4     LT    1.26   8                 
+209FRS G  KC=1.01 7$LC=0.193 4$MC=0.0462 8                                      
+209FRS G  NC=0.01210 20$OC=0.00270 5$PC=0.000428 11$QC=2.29E-5 15               
+209FR cG E$231.4 {I4} from {+176}Yb({+37}Cl,4n|g) (2006Me03)                    
+209FR cG M,MR$from |a(exp)=1.33 {I13} (2009Dr04). Also A{-2}=-0.58 {I4}         
+209FRxcG (2009Dr04)                                                             
+209FR  L 2424.7     5  29/2+           0.69 NS   LT                             
+209FRX L XREF=C                                                                 
+209FR cL J$248.8|g E2 to 25/2+                                                  
+209FR cL $configuration=|p((h{-9/2}){++2}(i{-13/2}){++1}){+3}                   
+209FR  G 17.1      7 9.5     19 [M1]                   126    17               S
+209FR cG E$from level energy differences                                        
+209FRS G  LC=2.9 4$MC=92 13                                                     
+209FRS G  NC=24 4$OC=5.4 8$PC=0.87 12$QC=0.049 7                                
+209FRB G BM1W>0.037                                                             
+209FR  G 248.8     3 100     19 E2                     0.261                    
+209FR cG M$A{-2}=+0.18 {I11} (2009Dr04)                                         
+209FRS G  KC=0.1040 15$LC=0.1160 18$MC=0.0309 5                                 
+209FRS G  NC=0.00811 12$OC=0.00170 3$PC=0.000229 4$QC=2.61E-6 4                 
+209FRB G BE2W>0.87                                                              
+209FR  L 2559.1     5 25/2(-)                                                   
+209FRX L XREF=C                                                                 
+209FR cL J$630.5|g (M1+E2) to 23/2-                                             
+209FR cL $configuration=|p(h{-9/2}){++5}                                        
+209FR  G 630.5     3  100      (M1+E2)                 0.0881                   
+209FRS G  KC=0.0714 10$LC=0.01270 18$MC=0.00301 5                               
+209FRS G  NC=0.000790 12$OC=0.0001766 25$PC=2.84E-5 4$QC=1.589E-6 23            
+209FR cG M$A{-2}=-0.60 {I12} (2009Dr04)                                         
+209FR  L 2599.1     5  27/2-                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$670.5|g E2 to 23/2-                                                  
+209FR cL $configuration=|p((h{-9/2}){++4}(f{-7/2}){++1}){+5}                    
+209FR  G 670.5     3  100      E2                      0.0191                   
+209FRS G  KC=0.01386 20$LC=0.00393 6$MC=0.000983 14                             
+209FRS G  NC=0.000258 4$OC=5.59E-5 8$PC=8.33E-6 12$QC=3.06E-7 5                 
+209FR cG M$A{-2}=+0.33 {I9} (2009Dr04)                                          
+209FR  L 2696.7     5 27/2+                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$566.2|g M1+E2 to 25/2+, the absence of transitions to levels with    
+209FR2cL J|p<25/2+ rules out the 23/2+ and 25/2+ alternatives.                  
+209FR cL $configuration=|p(h{-9/2}){++1}~#|n((f{-5/2}){+-1}(i{-13/2}){+-1}){-9{+
+209FRxcL \-}}                                                                   
+209FR  G 566.2     3  100      M1+E2                   0.1171                   
+209FRS G  KC=0.0948 14$LC=0.01693 24$MC=0.00402 6                               
+209FRS G  NC=0.001053 15$OC=0.000236 4$PC=3.78E-5 6$QC=2.12E-6 3                
+209FR cG M$A{-2}=-0.65 {I14} (2009Dr04)                                         
+209FR  L 2717.4     5 (29/2)                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$309.8|g to 27/2+                                                     
+209FR  G 309.8     3  100                                                       
+209FR  L 2857.7     6                                                          ?
+209FRX L XREF=C                                                                 
+209FR  G 140.3     3  100                                                      ?
+209FR  L 2903.3     5 29/2+                                                    ?
+209FRX L XREF=C                                                                 
+209FR cL J$727.4|g E2 to 25/2+                                                  
+209FR  G 727.4     3  100      E2                      0.01610              X   
+209FRS G  KC=0.01190 17$LC=0.00316 5$MC=0.000785 11                             
+209FRS G  NC=0.000206 3$OC=4.48E-5 7$PC=6.72E-6 10$QC=2.60E-7 4                 
+209FR cG M$A{-2}=+0.26 {I9} (2009Dr04)                                          
+209FR  L 2917.9     5 29/2(+)                                                   
+209FRX L XREF=C                                                                 
+209FR cL J$787.4|g (E2) to 25/2+                                                
+209FR  G 787.4     3  100      (E2)                    0.01369                  
+209FRS G  KC=0.01028 15$LC=0.00257 4$MC=0.000635 9                              
+209FRS G  NC=0.0001664 24$OC=3.63E-5 6$PC=5.50E-6 8$QC=2.23E-7 4                
+209FR cG M$A{-2}=+0.30 {I11}                                                    
+209FR  L 2937.8     5 (27/2)                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$692.7|g to 23/2+                                                     
+209FR  G 692.7     3  100                                                       
+209FR  L 3027.4     6 31/2+                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$602.7|g M1+E2 to 29/2+, the absence of transitions to levels with    
+209FR2cL J|p<29/2+ rules out the 27/2+ and 29/2+ alternative.                   
+209FR cL $configuration=|p((h{-9/2}){++4}(i{-13/2}){++1}){+5}                   
+209FR  G 602.7     3  100      M1+E2                   0.0992                   
+209FRS G  KC=0.0804 12$LC=0.01432 21$MC=0.00340 5                               
+209FRS G  NC=0.000891 13$OC=0.000199 3$PC=3.20E-5 5$QC=1.79E-6 3                
+209FR cG M$A{-2}=-0.57 {I8} (2009Dr04)                                          
+209FR  L 3115.4     5 33/2+                                                     
+209FRX L XREF=BC                                                                
+209FR cL J$690.7|g stretched E2 to 29/2+                                        
+209FR cL $configuration=|p((h{-9/2}){++4}(i{-13/2}){++1}){+5}                   
+209FR  G 690.7     2  100      E2                      0.0179                   
+209FRS G  KC=0.01311 19$LC=0.00363 5$MC=0.000904 13                             
+209FRS G  NC=0.000237 4$OC=5.15E-5 8$PC=7.70E-6 11$QC=2.88E-7 4                 
+209FR cG E$690.9 {I4} from {+176}Yb({+37}Cl,4n|g) (2006Me03)                    
+209FR cG M$A{-2}=+0.25 {I5} (2009Dr04)                                          
+209FR  L 3127.4     6  31/2-                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$528.3|g E2 to 27/2-                                                  
+209FR cL $configuration=|p((h{-9/2}){++4}(f{-7/2}){++1}){+5}                    
+209FR  G 528.3     3  100      E2                      0.0324                   
+209FRS G  KC=0.0219 3$LC=0.00785 11$MC=0.00200 3                                
+209FRS G  NC=0.000523 8$OC=0.0001126 16$PC=1.636E-5 23$QC=4.95E-7 7             
+209FR cG M$A{-2}=+0.44 {I16} (2009Dr04)                                         
+209FR  L 3153.1     5  31/2                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$745.5|g Q to 27/2+                                                   
+209FR  G 435.7     3                                                            
+209FR  G 728.4     3  100    33                                                 
+209FR  G 745.5     3  73     7 Q                                                
+209FR cG M$A{-2}=+0.22 {I11} (2009Dr04)                                         
+209FR  L 3234.5     5 31/2(+)                                                   
+209FRX L XREF=C                                                                 
+209FR cL J$331.2|g (M1+E2) to 29/2+                                             
+209FR DL $possible                                                              
+209FR2DL CONF=|p((h{-9/2}){++2}(i{-13/2}){++1})~#|n(f{-5/2}){+-2}{-2{++}}       
+209FR  G 331.2     3  44     3 (M1+E2)                 0.496                X   
+209FRS G  KC=0.401 6$LC=0.0725 11$MC=0.01725 25                                 
+209FRS G  NC=0.00452 7$OC=0.001011 15$PC=0.0001622 23$QC=9.05E-6 13             
+209FR cG M$A{-2}=-0.40 {I13} (2009Dr04)                                         
+209FR  G 809.8     3  100    9 (M1+E2)                 0.0456                   
+209FRS G  KC=0.0370 6$LC=0.00654 10$MC=0.001550 22                              
+209FRS G  NC=0.000406 6$OC=9.08E-5 13$PC=1.459E-5 21$QC=8.20E-7 12              
+209FR cG M$A{-2}=-0.10 {I8} (2009Dr04)                                          
+209FR  L 3369.6     6  33/2+                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$342.2|g M1+E2 to 31/2+                                               
+209FR  G 342.2     3  100      M1+E2                   0.454                    
+209FRS G  KC=0.367 6$LC=0.0663 10$MC=0.01576 23                                 
+209FRS G  NC=0.00413 6$OC=0.000924 14$PC=0.0001482 21$QC=8.28E-6 12             
+209FR cG M$A{-2}=-0.45 {I20} (2009Dr04)                                         
+209FR  L 3409.4     6  33/2(+)                                                  
+209FRX L XREF=C                                                                 
+209FR cL J$174.9|g M1+E2 to 31/2(+)                                             
+209FR DL $possible                                                              
+209FR2DL CONF=|p((h{-9/2}){++2}(i{-13/2}){++1})~#|n(f{-5/2}){+-2}{-2{++}}       
+209FR  G 174.9     3  100      M1+E2     1.1     +4-3  1.8    4                 
+209FRS G  KC=1.2 4$LC=0.476 15$MC=0.122 6                                       
+209FRS G  NC=0.0320 16$OC=0.0069 3$PC=0.000981 16$QC=2.8E-5 8                   
+209FR cG M$|a(exp)=0.24 {I15}, A{-2}=-0.19 {I20} (2009Dr04)                     
+209FR  L 3415.9     6  33/2(-)           62 NS   AP                             
+209FRX L XREF=C                                                                 
+209FR cL J$181.4|g E1(+M2) 31/2(+)                                              
+209FR cL T$from 181|g(t), consistent with 810|g(t), in (2009Dr04)               
+209FR cL $possible configuration=|p(h{-9/2}){++1}~#|n((i{-13/2}){+-2}){-12{++}} 
+209FR  G 181.4     3  100      E1(+M2)   0.15    LE    0.25   14                
+209FR cG M,MR$from |a(exp)=0.24 {I15} (2009Dr04). Also A{-2}=-0.19 {I20}        
+209FRxcG (2009Dr04)                                                             
+209FRS G  KC=0.19 10$LC=0.05 4$MC=0.013 9                                       
+209FRS G  NC=0.0033 23$OC=0.0007 5$PC=0.00011 8$QC=5.E-6 4                      
+209FRB G BE1W>4.1E-7$BM2W<1.3                                                   
+209FR  L 3630.9     6  37/2+                                                    
+209FRX L XREF=BC                                                                
+209FR cL J$515.5|g stretched E2 to 33/2+                                        
+209FR cL $configuration=|p((h{-9/2}){++4}(i{-13/2}){++1}){+5}                   
+209FR  G 515.5     2  100      E2                      0.0343                   
+209FRS G  KC=0.0230 4$LC=0.00846 12$MC=0.00216 3                                
+209FRS G  NC=0.000565 8$OC=0.0001216 17$PC=1.761E-5 25$QC=5.21E-7 8             
+209FR cG E$515.2 {I4} from {+176}Yb({+37}Cl,4n|g) (2006Me03)                    
+209FR cG M$A{-2}=+0.38 {I10} (2009Dr04)                                         
+209FR  L 3923.4     7  35/2(+)                                                  
+209FRX L XREF=C                                                                 
+209FR cL J$514.0|g (M1+E2) to 33/2(+)                                           
+209FR  G 514.0     3  100      (M1+E2)                 0.1515                   
+209FRS G  KC=0.1226 18$LC=0.0219 3$MC=0.00521 8                                 
+209FRS G  NC=0.001366 20$OC=0.000305 5$PC=4.90E-5 7$QC=2.74E-6 4                
+209FR cG M$A{-2}=-0.53 {I24} (2009Dr04)                                         
+209FR  L 3968.7     7  35/2                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$559.3|g D+Q to 33/2(+)                                               
+209FR  G 559.3     3  100       D+Q                                             
+209FR cG $A{-2}=-0.19 {I4} (2009Dr04)                                           
+209FR  L 4039.6     6 39/2+                                                     
+209FRX L XREF=BC                                                                
+209FR cL J$408.7|g M1+E2 to 37/2+                                               
+209FR cL $configuration=|p((h{-9/2}){++3}(f{-7/2}){++1}(i{-13/2}){++1}){+5}     
+209FR  G 408.7     2  100      M1+E2     1.10    +17-150.160  19                
+209FRS G  KC=0.123 16$LC=0.0283 20$MC=0.0069 5                                  
+209FRS G  NC=0.00182 12$OC=0.00040 3$PC=6.1E-5 5$QC=2.8E-6 4                    
+209FR cG E$408.8 {I4} from {+176}Yb({+37}Cl,4n|g) (2006Me03)                    
+209FR cG M,MR$from |a(K)exp=0.145 {I14}, |a(L)exp=0.012 {I4} (2009Dr04). Also   
+209FR2cG |a(exp)=0.25 {I13} and A{-2}=-0.46 {I7} (2009Dr04)                     
+209FR  L 4166.4     7  (37/2)                                                   
+209FRX L XREF=C                                                                 
+209FR  G 757.0     3  100                                                       
+209FR  L 4324.3     7 41/2+                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$284.7|g M1+E2 to 39/2+                                               
+209FR cL $configuration=|p((h{-9/2}){++3}(f{-7/2}){++1}(i{-13/2}){++1}){+5}     
+209FR  G 284.7     3  100      M1+E2                   0.752                    
+209FRS G  KC=0.607 9$LC=0.1101 16$MC=0.0262 4                                   
+209FRS G  NC=0.00687 10$OC=0.001535 22$PC=0.000246 4$QC=1.374E-5 20             
+209FR cG M$A{-2}=-0.32 {I13} (2009Dr04)                                         
+209FR  L 4364.1     6  39/2+                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$733.2|g M1+E2 to 37/2+                                               
+209FR  G 733.2     3  100      M1+E2                   0.0592                   
+209FRS G  KC=0.0480 7$LC=0.00850 12$MC=0.00202 3                                
+209FRS G  NC=0.000529 8$OC=0.0001182 17$PC=1.90E-5 3$QC=1.065E-6 15             
+209FR cG M$A{-2}=-0.63 {I17} (2009Dr04)                                         
+209FR  L 4423.6     6  41/2(+)                                                  
+209FRX L XREF=C                                                                 
+209FR cL J$792.7|g (E2) to 37/2+                                                
+209FR  G 792.7     3  100      (E2)                    0.01351                  
+209FRS G  KC=0.01015 15$LC=0.00253 4$MC=0.000624 9                              
+209FRS G  NC=0.0001635 23$OC=3.57E-5 5$PC=5.40E-6 8$QC=2.20E-7 3                
+209FR cG M$A{-2}=+0.33 {I14} (2009Dr04)                                         
+209FR  L 4659.8     7  45/2-           420 NS    18                             
+209FRX L XREF=BC                                                                
+209FR cL J$620.2|g E3 to 39/2+                                                  
+209FR cL T$from 232|g+409|g+620|g(t) in 2009Dr04. Selected |g's as gates were   
+209FR2cL not contaminated in the |g-ray spectra. Other: 360 ns 140 from from    
+209FR3cL 433.5|g(t) in {+176}Yb({+37}Cl,4n|g) (2006Me03)                        
+209FR cL $configuration=|p((h{-9/2}){++3}(i{-13/2}){++2}){+5}                   
+209FR  G 335.5     3  13     3 (M2)                    1.602                   ?
+209FR cG M$A{-2}=+0.1 {I3} (2009Dr04)                                           
+209FRS G  KC=1.188 17$LC=0.311 5$MC=0.0779 12                                   
+209FRS G  NC=0.0206 3$OC=0.00458 7$PC=0.000722 11$QC=3.77E-5 6                  
+209FRB G BM2W=0.046 12                                                          
+209FR  G 620.2     3  100    7 E3                      0.0686                   
+209FR cG E$619.5 {I5} from {+176}Yb({+37}Cl,4n|g) (2006Me03)                    
+209FR cG M$|a(K)exp=0.042 {I8}, K/L=1.6 {I3}, A{-2}=+0.07 {I12} (2009Dr04)      
+209FRS G  KC=0.0386 6$LC=0.0223 4$MC=0.00586 9                                  
+209FRS G  NC=0.001544 22$OC=0.000331 5$PC=4.75E-5 7$QC=1.178E-6 17              
+209FRB G BE3W=22 3                                                              
+209FR  L 5046.2     7                                                          ?
+209FRX L XREF=C                                                                 
+209FR  G 386.4     3  100                                                      ?
+209FR  L 5069.3     7 (43/2)                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$745.0|g to 41/2+                                                     
+209FR  G 745.0     3  100                                                       
+209FR  L 5194.6     7  47/2(-)                                                  
+209FRX L XREF=C                                                                 
+209FR cL J$534.8|g (M1+E2) to 45/2-                                             
+209FR  G 534.8     3  100      (M1+E2)                 0.1363 20                
+209FRS G  KC=0.1104 16$LC=0.0197 3$MC=0.00469 7                                 
+209FRS G  NC=0.001228 18$OC=0.000274 4$PC=4.41E-5 7$QC=2.47E-6 4                
+209FR cG M$A{-2}=-0.45 {I11} (2009Dr04)                                         
+209FR  L 5302.1     7(47/2)                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$642.3|g D+Q to 45/2-                                                 
+209FR  G 642.3     3  100       D+Q                                             
+209FR cG M$A{-2}=-0.23 {I19} (2009Dr04)                                         
+209FR  L 5399.5     7  49/2-                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$739.7|g E2 to 45/2-                                                  
+209FR  G 739.7     3  100      E2                      0.01556                  
+209FRS G  KC=0.01154 17$LC=0.00302 5$MC=0.000750 11                             
+209FRS G  NC=0.000196 3$OC=4.28E-5 6$PC=6.44E-6 9$QC=2.52E-7 4                  
+209FR cG M$A{-2}=+0.39 {I8} (2009Dr04)                                          
+209FR  L 5413.9     7                                                          ?
+209FRX L XREF=C                                                                 
+209FR  G 754.1     3  100                                                      ?
+209FR  L 5480.3     7                                                          ?
+209FRX L XREF=C                                                                 
+209FR  G 820.5     3  100                                                      ?
+209FR  L 5488.5     7  47/2-                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$828.7|g M1+E2 to 45/2-                                               
+209FR  G 828.7     3  100      M1+E2                   0.0429                   
+209FRS G  KC=0.0348 5$LC=0.00615 9$MC=0.001459 21                               
+209FRS G  NC=0.000382 6$OC=8.55E-5 12$PC=1.373E-5 20$QC=7.71E-7 11              
+209FR cG M$A{-2}=-0.66 {I6} (2009Dr04)                                          
+209FR  L 5657.2     7  47/2(-)                                                  
+209FRX L XREF=C                                                                 
+209FR cL J$997.4|g (M1+E2) to 45/2(-)                                           
+209FR  G 997.4     3  100      (M1+E2)                 0.0265                   
+209FRS G  KC=0.0215 3$LC=0.00377 6$MC=0.000895 13                               
+209FRS G  NC=0.000234 4$OC=5.24E-5 8$PC=8.43E-6 12$QC=4.74E-7 7                 
+209FR cG M$A{-2}=-0.56 {I13} (2009Dr04)                                         
+209FR  L 5765.2     7(47/2)                                                     
+209FRX L XREF=C                                                                 
+209FR cL J$1105.4|g (D+Q) to 45/2-                                              
+209FR  G 1105.4    3  100      (D+Q)                                            
+209FR cG M$A{-2}=-0.32 {I13} (2009Dr04)                                         
+209FR  L 5903.4     8  49/2-                                                    
+209FRX L XREF=C                                                                 
+209FR cL J$414.9|g M1+E2 to 47/2-                                               
+209FR  G 414.9     3  100      M1+E2                   0.269                    
+209FRS G  KC=0.218 3$LC=0.0392 6$MC=0.00931 14                                  
+209FRS G  NC=0.00244 4$OC=0.000545 8$PC=8.75E-5 13$QC=4.89E-6 7                 
+209FR cG M$A{-2}=-0.50 {I16} (2009Dr04)                                         

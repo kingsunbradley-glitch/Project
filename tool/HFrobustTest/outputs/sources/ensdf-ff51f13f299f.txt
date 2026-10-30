@@ -1,0 +1,113 @@
+216TH    ADOPTED LEVELS, GAMMAS                                  26NDS    202603
+216TH  H TYP=FUL$AUT=C. Morse$CIT=NDS 209, 409 (2026)$CUT=5-Aug-2025$           
+216TH  Q -7.53E+3  3  8694   13 3021   17 8072    4    2021Wa16                 
+216TH cQ $S(2n)=16539 {I15},  S(2p)=4372 {I12},  Q(|ep)=478 {I13} (2021Wa16)    
+216TH cL E$From a least-squares fit to E{-|g}, unless noted otherwise.  The     
+216TH2cL uncertainty of the levels from 2039-keV upwards is dominated by the    
+216TH3cL uncertainty in the Q{-|a} values.                                      
+216TH cG M(A)$2005Ku03 states that the transition (|g+e{+-}) intensity balance  
+216TH2cG is consistent with  an E2(151.2|g)-E1(883.4|g) cascade in IT decay     
+216TH3cG (0.74 |ms).                                                            
+216TH dG $Transition strength is calculated by Java-RULER (version 10-Jun-2025) 
+216TH DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+216TH  XA216TH IT DECAY (135 US)                                                
+216TH  XB216TH IT DECAY (0.74 US)                                               
+216TH  L 0.0          0+                26.3 MS   2                             
+216THX L XREF=A                                                                 
+216TH2 L %A=100                                                                 
+216TH cL %A$Only |a decay has been observed (2005Ku31)                          
+216TH cL T$Weighted average of 28 ms {I2} (1968Va10,1968Va18), 27.0 ms {I3}     
+216TH2cL (2000He17), 25.4 ms {I8} (2001Ha46), 26.0 ms {I2} (2005Ku31), and      
+216TH3cL 26.3 ms {I5} (2019Zh54).  Other: 22.0 ms {I+16-14} (2000Ni02), 30 ms   
+216TH4cL {I9} (2005Li17), 29 ms {I+13-7} (2014Ya19).                            
+216TH  L 1478.21   10 (2+)                                                      
+216THX L XREF=A                                                                 
+216TH cL J$From systematics of 2{++} levels in N=126 isotones                   
+216TH  G 1478.2    1            (E2)                   0.004877                 
+216THS G KC=0.00382 5$LC=0.000751 11$MC=0.0001814 25$NC=4.83E-5 7$              
+216THS G OC=1.135E-5 16$PC=2.167E-6 30$QC=1.848E-7 26                           
+216TH cG M$Assumed based on systematics of 2{++}|)0{++} transitions for N=126   
+216TH2cG isotones.                                                              
+216TH  L 1687.71   15 (3-)                                                      
+216THX L XREF=A                                                                 
+216TH cL J$E1 to (2{++})                                                        
+216TH  G 209.5     1            E1                      0.084612                
+216THS G KC=0.0671 9$LC=0.01329 19$MC=0.00320 4$NC=0.000845 12$OC=0.0001953 27$ 
+216THS G PC=3.59E-5 5$QC=2.55E-6 4                                              
+216TH cG M$Based on intensity balance in {+216}Th IT Decay (135 |ms)            
+216TH  L 1813.81   18 (4+)                                                      
+216THX L XREF=A                                                                 
+216TH cL J$E1 to (2{++})                                                        
+216TH  G 126.1     1  100    12 E1                      0.283 4                 
+216THS G KC=0.2190 31$LC=0.0484 7$MC=0.01171 17$NC=0.00308 4$OC=0.000705 10$    
+216THS G PC=0.0001262 18$QC=7.82E-6 11                                          
+216TH cG M$Based on intensity balance in {+216}Th IT Decay (135 |ms)            
+216TH  G 335.8     3  4.7    14 (E2)                    0.120717               ?
+216THS G KC=0.0583 8$LC=0.0460 7$MC=0.01227 18$NC=0.00328 5$OC=0.000744 11$     
+216THS G PC=0.0001290 19$QC=3.52E-6 5                                           
+216TH cG M$Required by 126.1(E1)-209.5(E1) cascade.                             
+216TH  L 2013.71   20 (6+)                                                      
+216THX L XREF=A                                                                 
+216TH cL J$E2 to (4{++})                                                        
+216TH  G 199.9     1            E2                      0.660 9                 
+216THS G KC=0.1585 22$LC=0.367 5$MC=0.1002 14$NC=0.0268 4$OC=0.00602 9$         
+216THS G PC=0.001017 14$QC=1.226E-5 17                                          
+216TH cG M$Based on intensity balance in {+216}Th IT Decay (135 |ms)            
+216TH  L 2039      7  (8+)              135 US    4                             
+216THX L XREF=AB                                                                
+216TH2 L %A=2.8 9 (2005Ku31) $%IT=97.2 9 (2005Ku31)                             
+216TH cL $configuration=h{-9/2}f{-7/2} (2005Ku31)                               
+216TH cL T$Weighted average of 140 |ms {I5} (2000He17), 128 |ms {I8}            
+216TH2cL (2001Ha46), 135 |ms {I4} (2005Ku31), 128 |ms {I35} (2011Ro20), and     
+216TH3cL 126 |ms {I14} (2019Zh54).  Other: 180 |ms {I40} (1983Hi03).            
+216TH cL %A$Other: 5 {I+5-3} (2001Ha46), 3 {I1} (1983Hi08)                      
+216TH cL E$From difference of Q{-|a}{+gs}=8072 keV {I4} (2021Wa16) and          
+216TH2cL Q{-|a}{+iso}=10111 kev {I6}.  The latter quantity is calculated from   
+216TH3cL a weighted average of the following E{-|a} measurements: 9912 keV      
+216TH4cL {I20} (1983Hi08), 9933 keV {I15} (2000He17), 9915 keV {I15}            
+216TH5cL (2001Ha46), 9930 keV {I10} (2005Ku31), and 9918 keV {I15} (2019Zh54).  
+216TH cL J$|a-decay to 8{++} state in {+212}Ra with HF|?2.4.                    
+216TH  G 26                                                                    S
+216TH cG E$Not observed, energy from level-energy difference                    
+216TH  L 2130      7  (8+)                                                      
+216THX L XREF=B                                                                 
+216TH cL $configuration=h{-9/2}{+2} (2005Ku31)                                  
+216TH cL J$Based on shell-model calculations in 2001Ha46 which predict a        
+216TH2cL second 8{++} state, weakly populated by an 11{+-} isomer.              
+216TH  G 90.5                                                                  S
+216TH cG E$Deduced from level energies, as this transition has not been         
+216TH2cG observed.                                                              
+216TH  L 2646      7  (11-)             580 NS    26                            
+216THX L XREF=B                                                                 
+216TH cL $configuration=h{-9/2}i{-13/2} (2001Ha46)                              
+216TH cL T$Weighted average of 570 ns {I30} and 615 ns {I55} (2001Ha46)         
+216TH cL J$Shell-model prediction of isomer with h{-9/2}i{-13/2} configuration  
+216TH2cL in 2001Ha46                                                            
+216TH  G 516.3     2  8      2  (E3)                    0.142820                
+216THS G KC=0.0631 9$LC=0.0585 8$MC=0.01585 22$NC=0.00427 6$OC=0.000972 14$     
+216THS G PC=0.0001708 24$QC=5.44E-6 8                                           
+216THB G BE3W=5.2 13                                                            
+216TH cG M$From consistency with level scheme                                   
+216TH  G 606.8     1  100    4  (E3)                    0.087612                
+216THS G KC=0.0454 6$LC=0.0310 4$MC=0.00831 12$NC=0.002235 31$OC=0.000511 7$    
+216THS G PC=9.08E-5 13$QC=3.51E-6 5                                             
+216THB G BE3W=21.2 11                                                           
+216TH cG M$From consistency with level scheme                                   
+216TH  L 3529      7  (12+)                                                     
+216THX L XREF=B                                                                 
+216TH cL J$(E2) from (14{++}); (E1) to (11{+-})                                 
+216TH  G 883.4     3            (E1)                   0.004316                 
+216THF G FLAG=A                                                                 
+216THS G KC=0.00353 5$LC=0.000588 8$MC=0.0001391 19$NC=3.69E-5 5$OC=8.68E-6 12$ 
+216THS G PC=1.668E-6 23$QC=1.515E-7 21                                          
+216TH  L 3680      7  (14+)             0.74 US   7                             
+216THX L XREF=B                                                                 
+216TH2 L %IT=100 (2005Ku31,2001Ha46)                                            
+216TH cL T$From 2005Ku31.  Other: >130 ns (2001Ha46)                            
+216TH cL J$Shell-model prediction of 14{++} isomer (2001Ha46); systematics of   
+216TH2cL even-Z N=126 isotones.                                                 
+216TH  G 151.2     6            (E2)                    1.94  4                 
+216THF G FLAG=A                                                                 
+216THS G KC=0.2396 35$LC=1.244 28$MC=0.341 8$NC=0.0914 21$OC=0.0204 5$          
+216THS G PC=0.00342 8$QC=2.63E-5 5                                              
+216THB G BE2W=0.0428 +47-39                                                     

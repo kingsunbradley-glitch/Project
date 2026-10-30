@@ -1,0 +1,426 @@
+212FR    ADOPTED LEVELS, GAMMAS                                  20NDS    202009
+212FR  H TYP=FUL$AUT=K. Auranen and E.A. McCutchan$CIT=NDS 168, 117 (2020)$     
+212FR2 H CUT=1-Aug-2020$                                                        
+212FR  Q -3317     14 7447   15 2050   11 6529.0  16   2017Wa10                 
+212FR cQ $S(2n)=16325{I 18}; S(2p)=6122{I 12}; Q(|ep)=842{I 9} (2017Wa10).      
+212FR c  Hyperfine structure. Optical laser spectroscopy: 1990Ar25.             
+212FR c  Hyperfine structure. Laser trap: 2002Sp04, 2002Sp02, 2000Gr20,         
+212FR2c  1999Gr15.                                                              
+212FR c  Isotope shift : 2014Co18                                               
+212FR c  Mass measurement : 2019An10                                            
+212FR cL E$From a least-squares fit to E|g data. For |g rays given without      
+212FR2cL uncertainty, 1 keV uncertainty has been assumed for the calculation.   
+212FR cL J$For excited levels, based on measured multipolarities of             
+212FR2cL transitions.  For states populated in                                  
+212FR3cL {+198}Pt({+19}F,5n|g),{+205}Tl({+12}C,5n|g) there is an assumption of  
+212FR4cL increasing spin with increasing excitation energy.                     
+212FR cL T$All values for excited levels are from {+198}Pt({+19}F,5n|g),        
+212FR2cL {+205}Tl({+12}C,5n|g)                                                  
+212FR cG E,RI$From {+198}Pt({+19}F,5n|g),{+205}Tl({+12}C,5n|g), except where    
+212FR2cG noted.                                                                 
+212FR cG M$From ce and |g(|q) measurements in                                   
+212FR2cG {+198}Pt({+19}F,5n|g),{+205}Tl({+12}C,5n|g), except where noted.       
+212FR cG MR$Deduced from ce meaurements in                                      
+212FR2cG {+198}Pt({+19}F,5n|g),{+205}Tl({+12}C,5n|g)                            
+212FR cG E(A),RI(A)$From {+216}Ac (440 |ms) decay                               
+212FR D  CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+212FR  XA216AC A DECAY (440 US)                                                 
+212FR  XB198PT(19F,5NG), 205TL(12C,5NG)                                         
+212FR PN                                                                     6  
+212FR  L 0.0          5+                20.0 M    6                             
+212FRX L XREF=AB                                                                
+212FR2 L %EC+%B+=57 2$%A=43 2 (1950Hy27)$MOME2=-0.10 1 (1985Co24) $             
+212FR3 L MOMM1=4.62 9 (1985Co24) $CONF=|p (h{-9/2}{++5})                        
+212FR cL J$J from atomic beam (1978Ek02), |p from shell-model configuration     
+212FR2cL and |m.                                                                
+212FR cL T$weighted average of 19.3 min {I5} (1950Hy27) and 20.6 min {I3}       
+212FR2cL (1981Va27)                                                             
+212FR cL %A,%EC+%B+$from 1950Hy27 based on (|e+|b{++})/|a=1.3 {I1} determined   
+212FR2cL from growth and decay of daughter nuclide ({+212}Rn) |a activity.      
+212FR cL MOMM1,MOME2$from atomic beam laser spectroscopy (1985Co24,2016St14).   
+212FR2 L CONF=(|ph{-9/2}{++5})(|np{-1/2}{+-1})                                  
+212FR  L 82.47     5  (4+)                                                      
+212FRX L XREF=A                                                                 
+212FR cL J$analogy with {+214}Fr(|a) to {+210}At and {+212}At(|a) to {+208}Bi   
+212FR  G 82.6      1  100                                                       
+212FRF G FLAG=A                                                                 
+212FR  L 500.71    7                                                            
+212FRX L XREF=A                                                                 
+212FR  G 418.3     1  100    6                                               C  
+212FRF G FLAG=A                                                                 
+212FR  G 500.7     1  53     4                                                  
+212FRF G FLAG=A                                                                 
+212FR  L 536.34    8                                                            
+212FRX L XREF=A                                                                 
+212FR  G 453.9     1  9      1                                               C  
+212FRF G FLAG=A                                                                 
+212FR  G 536.3     1  100    6                                                  
+212FRF G FLAG=A                                                                 
+212FR  L 542.10    10 7+                0.4 NS    LT                            
+212FRX L XREF=AB                                                                
+212FR2 L CONF=(|ph{-9/2}{++5})(|nf{-5/2}{+-1})                                  
+212FR cL J$E2 542|g to 5+ g.s.                                                  
+212FR  G 542.2     1  100       E2                      0.0305                  
+212FRS G KC=0.0208 3$LC=0.00725 11$MC=0.00184 3$NC=0.000483 7$OC=0.0001040 15$  
+212FRS G PC=1.515E-5 22$QC=4.69E-7 7                                            
+212FRB G BE2W GT 0.39                                                           
+212FR  L 574.88    11                                                           
+212FRX L XREF=A                                                                 
+212FR  G 492.4     1  100    4                                               C ?
+212FRF G FLAG=A                                                                 
+212FR  G 575.0     4  1.3    4                                                 ?
+212FRF G FLAG=A                                                                 
+212FR  L 606.22    7                                                            
+212FRX L XREF=A                                                                 
+212FR  G 105.8     2  11     3                                               C  
+212FRF G FLAG=A                                                                 
+212FR  G 523.7     1  100    7                                               C  
+212FRF G FLAG=A                                                                 
+212FR  G 606.2     1  60     7                                                  
+212FRF G FLAG=A                                                                 
+212FR  L 610.60    20                                                           
+212FRX L XREF=A                                                                 
+212FR  G 610.6     2  100                                                       
+212FRF G FLAG=A                                                                 
+212FR  L 777.29    9                                                            
+212FRX L XREF=A                                                                 
+212FR  G 276.6     2  1.3    6                                                  
+212FRF G FLAG=A                                                                 
+212FR  G 694.8     1  100    5                                               C  
+212FRF G FLAG=A                                                                 
+212FR  G 777.3     2  14     2                                                  
+212FRF G FLAG=A                                                                 
+212FR  L 853.72    7  (4+,5+,6+)                                                
+212FRX L XREF=A                                                                 
+212FR cL J$(M1) 854|g to 5+ g.s.                                                
+212FR  G 352.9     2  1.2    5                                               C  
+212FRF G FLAG=A                                                                 
+212FR  G 771.3     1  77     4                                                  
+212FRF G FLAG=A                                                                 
+212FR  G 853.7     1  100    4  (M1)                    0.0397                  
+212FRF G FLAG=A                                                                 
+212FR cG $|a(K)exp=0.06 {I6}                                                    
+212FRS G KC=0.0322 5$LC=0.00569 8$MC=0.001348 19$NC=0.000353 5$OC=7.90E-5 11$   
+212FRS G PC=1.269E-5 18$QC=7.13E-7 10                                           
+212FR cG M$from |a(K) in {+216}Ac |a decay (440 |ms)                            
+212FR  L 937.26    10 (4+,5+,6+)                                                
+212FRX L XREF=A                                                                 
+212FR cL J$(M1) 937|g to 5+ g.s.                                                
+212FR  G 855.8     7  5      LE                                              C  
+212FRF G FLAG=A                                                                 
+212FR  G 937.2     1  100    2  (M1)                    0.0311                  
+212FRF G FLAG=A                                                                 
+212FR cG $|a(K)exp=0.027 {I17}                                                  
+212FRS G KC=0.0253 4$LC=0.00445 7$MC=0.001054 15$NC=0.000276 4$OC=6.18E-5 9$    
+212FRS G PC=9.93E-6 14$QC=5.58E-7 8                                             
+212FR cG M$from |a(K) in {+216}Ac |a decay (440 |ms)                            
+212FR  L 1008.7    4                                                            
+212FRX L XREF=A                                                                 
+212FR  G 1008.7    4  100                                                       
+212FRF G FLAG=A                                                                 
+212FR  L 1129.9    4                                                            
+212FRX L XREF=A                                                                 
+212FR  G 1047.5    9  85     50                                                 
+212FRF G FLAG=A                                                                 
+212FR  G 1129.9    5  100    40                                                 
+212FRF G FLAG=A                                                                 
+212FR  L 1209.5    5                                                            
+212FRX L XREF=A                                                                 
+212FR  G 1209.5    5  100                                                       
+212FRF G FLAG=A                                                                 
+212FR  L 1239.9    4                                                            
+212FRX L XREF=A                                                                 
+212FR  G 1239.9    4  100                                                       
+212FRF G FLAG=A                                                                 
+212FR  L 1287.1    8                                                            
+212FRX L XREF=A                                                                 
+212FR  G 1287.1    8  100                                                       
+212FRF G FLAG=A                                                                 
+212FR  L 1356.0    20                                                           
+212FRX L XREF=A                                                                 
+212FR  G 1356      2  100                                                       
+212FRF G FLAG=A                                                                 
+212FR  L 1375.22   22                                                           
+212FRX L XREF=A                                                                 
+212FR  G 436.8     6  17     6                                                  
+212FRF G FLAG=A                                                                 
+212FR  G 1293.1    4  45     17                                                 
+212FRF G FLAG=A                                                                 
+212FR  G 1375.3    3  100    20                                                 
+212FRF G FLAG=A                                                                 
+212FR  L 1389.30   22 9+                2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR2 L CONF=(|ph{-9/2}{++5})(|np{-1/2}{+-1})                                  
+212FR cL J$E2 847|g to 7+ level                                                 
+212FR  G 847.2     2  100       E2                     0.01182                  
+212FRS G KC=0.00898 13$LC=0.00214 3$MC=0.000526 8$NC=0.0001378 20$OC=3.02E-5 5$ 
+212FRS G PC=4.59E-6 7$QC=1.94E-7 3                                              
+212FRB G BE2W GT 0.0085                                                         
+212FR  L 1551.30   24 11+               31.9 US   7                          M1 
+212FRX L XREF=B                                                                 
+212FR2 L MOMM1=9.89 4 (1977Be56)                                                
+212FR2 L CONF=(|ph{-9/2}{++5})(|np{-1/2}{+-1})$G=0.899 4 (1977Be56)             
+212FR cL J$E2 162|g to 9+ level                                                 
+212FR cL MOMM1$from Stroboscopic Observation of Perturbed Angular Distribution  
+212FR2cL (1977Be56).                                                            
+212FR  G 162.0     1  100       E2                      1.214                   
+212FRS G KC=0.241 4$LC=0.717 11$MC=0.193 3$NC=0.0507 8$OC=0.01056 15$           
+212FRS G PC=0.001385 20$QC=7.62E-6 11                                           
+212FRB G BE2W=0.000956 23                                                       
+212FR  L 1879.7    3  12+               2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR2 L CONF=(|p(h{-9/2}{++4}(|pf{-7/2}{+1})(|np{-1/2}{+-1})                   
+212FR cL J$M1 328|g to 11+ level                                                
+212FR  G 328.4     2  100       M1                      0.508                   
+212FRS G KC=0.410 6$LC=0.0742 11$MC=0.01765 25$NC=0.00463 7$OC=0.001035 15$     
+212FRS G PC=0.0001660 24$QC=9.27E-6 13                                          
+212FRB G BM1W GT 0.00021                                                        
+212FR  L 2337.6    4  (13+)             2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR cL J$(M1+E2) 458|g to 12+ level                                           
+212FR  G 457.9     2  100       (M1+E2)                 0.126 81                
+212FRS G KC=0.098 69$LC=0.0212 89$MC=0.0051 20$NC=0.00135 52$OC=3.0E-4 12$      
+212FRS G PC=4.6E-5 21$QC=2.2E-6 16                                              
+212FR  L 2492.1    3  15-               603 NS    28                         M2 
+212FRX L XREF=B                                                                 
+212FR2 L MOME2=(-)0.84 (1990By03)$MOMM1=15.64 12 (1989By01) $                   
+212FR2 L CONF=(|ph{-9/2}{++4})(|pi{-13/2}{=1})(|np{-1/2}{+-1})                  
+212FR cL J$E3 612|g to 12+ level                                                
+212FR cL MOMM1$from Time Dependent Perturbed Angular Distribution (1989By01).   
+212FR cL MOME2$from Time Dependent Perturbed Angular Distribution               
+212FR2cL (1990By03,2016St14). Other value: -0.80 {I12}, Level Mixing            
+212FR3cL Spectroscopy (1991Ha02). Other: 1990Ha30.                              
+212FR  G 612.4     1  100       E3                      0.0711                  
+212FRS G KC=0.0396 6$LC=0.0233 4$MC=0.00615 9$NC=0.001620 23$OC=0.000347 5$     
+212FRS G PC=4.98E-5 7$QC=1.218E-6 17                                            
+212FRB G BE3W=21.8 11                                                           
+212FR  L 2495.7    4  (14-)             2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR cL J$468|g from 16-, D 158|g to (13+)                                     
+212FR  G 158.0     3  100       (E1)                    0.1558                  
+212FRS G KC=0.1235 19$LC=0.0245 4$MC=0.00586 9$NC=0.001517 23$OC=0.000328 5$    
+212FRS G PC=4.83E-5 8$QC=1.98E-6 3                                              
+212FRB G BE1W GT 2.1E-5                                                         
+212FR cG M$D from |g(|q) in {+198}Pt({+19}F,5n|g),{+205}Tl({+12}C,5n|g),        
+212FR2cG |D|p=yes from level scheme.                                            
+212FR  L 2612.4    4  (14+)             1.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR2 L CONF=(|ph{-9/2}{++4})(|pf{-7/2}{+1})(|nf{-5/2}{+-1})                   
+212FR cL J$(Q) 733|g to 12+ level; D |g to (13+) level.                         
+212FR  G 275.0     3  100    2  D                                               
+212FR  G 732.6     3  98     4  (Q)                                             
+212FR  L 2951.6    4  (16+)             2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR2 L CONF=(|ph{-9/2}{++4})(|pf{-7/2}{+1})(|np{-1/2}{+-1})                   
+212FR cL J$(E1) 459.5|g to 15- level                                            
+212FR  G 339.3     3  100    1  [E2]                    0.1010                  
+212FRS G KC=0.0539 8$LC=0.0349 5$MC=0.00916 14$NC=0.00240 4$OC=0.000509 8$      
+212FRS G PC=7.05E-5 11$QC=1.280E-6 19                                           
+212FRB G BE2W GT 0.45                                                           
+212FR cG M$from J{+|p}{-i} and J{+|p}{-f}.                                      
+212FR  G 459.5     2  73     2  (E1)                   0.01355                  
+212FRS G KC=0.01106 16$LC=0.00190 3$MC=0.000448 7$NC=0.0001167 17$OC=2.57E-5 4$ 
+212FRS G PC=4.00E-6 6$QC=2.00E-7 3                                              
+212FRB G BE1W GT 3.9E-7                                                         
+212FR  L 2964.0    3  16-               1.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR2 L CONF=(|ph{-9/2}{++4})(|pi{-13/2}{+1})(|nf{-5/2}{+-1})                  
+212FR cL J$M1 472|g to 15- level                                                
+212FR  G 468.0     5  6.8    5  [E2]                                            
+212FRB G BE2W GT 0.012                                          ?               
+212FR  G 471.9     1  100    1  M1                      0.190                   
+212FRS G KC=0.1541 22$LC=0.0276 4$MC=0.00656 10$NC=0.001720 25$OC=0.000385 6$   
+212FRS G PC=6.17E-5 9$QC=3.45E-6 5                                              
+212FRB G BM1W GT 0.00012                                                        
+212FR  L 3240.9    3  17-               1.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR cL $Configuration=(|p(h{-9/2}{++4})(|pi{-13/2}{+1})(|n(f{-5/2}{+-1}) +    
+212FR2cL (|p(h{-9/2}{++4})(|pi{-13/2}{+1})(|n(p{-1/2}{+-1})                     
+212FR cL J$M1 277|g to 16- level; E2 749|g to 15- level                         
+212FR  G 277.0     1  53.0   8  M1                      0.811                   
+212FRS G KC=0.654 10$LC=0.1188 17$MC=0.0283 4$NC=0.00741 11$OC=0.001657 24$     
+212FRS G PC=0.000266 4$QC=1.483E-5 21                                           
+212FRB G BM1W GT 0.00019                                                        
+212FR  G 289.3     2  11.0   4  E1                      0.0371                  
+212FRS G KC=0.0300 5$LC=0.00543 8$MC=0.001290 19$NC=0.000335 5$OC=7.34E-5 11$   
+212FRS G PC=1.119E-5 16$QC=5.19E-7 8                                            
+212FRB G BE1W GT 2.9E-7                                                         
+212FR cG M$D from |g(|q) in {+198}Pt({+19}F,5n|g),{+205}Tl({+12}C,5n|g);        
+212FR2cG |D|p=yes from level scheme                                             
+212FR  G 748.8     1  100.0  17 E2                     0.01517                  
+212FRS G KC=0.01128 16$LC=0.00293 4$MC=0.000726 11$NC=0.000190 3$OC=4.15E-5 6$  
+212FRS G PC=6.24E-6 9$QC=2.46E-7 4                                              
+212FRB G BE2W GT 0.011                                                          
+212FR  L 3256.2    5                    1.4 NS    LT                           ?
+212FRX L XREF=B                                                                 
+212FR  G 304.5     3  100                                                       
+212FR  L 3583.5    4  19-               1.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR2 L CONF=(|ph{-9/2}{++4})(|pi{-13/2}{+1})(|n(p{-1/2}{+-1})                 
+212FR cL J$E2 343|g to 17- level                                                
+212FR  G 342.6     2  100       E2                      0.0982                  
+212FRS G KC=0.0528 8$LC=0.0337 5$MC=0.00884 13$NC=0.00232 4$OC=0.000491 7$      
+212FRS G PC=6.81E-5 10$QC=1.253E-6 18                                           
+212FRB G BE2W GT 1.0                                                            
+212FR  L 3750.8    5                    1.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR  G 494.6     2  100       M1+E2     0.7    5      0.125 38                
+212FRS G KC=0.099 33$LC=0.020 5$MC=0.0047 10$NC=0.0012 3$OC=0.00027 6$          
+212FRS G PC=4.3E-5 10$QC=2.23E-6 72                                             
+212FRB G BM1W GT 4.6E-5 $BE2W GT 0.006                                          
+212FR  L 4025.5    4  20-               2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR2 L CONF=(|ph{-9/2}{++4})(|pi{-13/2}{+1})(|n(f{-5/2}{+-1})                 
+212FR cL J$M1 442|g to 19- level                                                
+212FR  G 442.0     2  100       M1                      0.227                   
+212FRS G KC=0.184 3$LC=0.0330 5$MC=0.00784 11$NC=0.00205 3$OC=0.000459 7$       
+212FRS G PC=7.37E-5 11$QC=4.12E-6 6                                             
+212FRB G BM1W GT 0.00010                                                        
+212FR  L 4081.8    6                    1.4 NS    LT                           ?
+212FRX L XREF=B                                                                 
+212FR  G 331.0     3  100                                                       
+212FR  L 4137.2    4  20-               2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR2 L CONF=(|ph{-9/2}{++3})(|pi{-13/2}{+1})(|pf{-7/2}{+1})(|n(p{-1/2}{+-1})  
+212FR cL J$M1 554|g to 19- level                                                
+212FR  G 111                                                                   ?
+212FR  G 553.7     2            M1                      0.1243                  
+212FRS G KC=0.1006 15$LC=0.0180 3$MC=0.00427 6$NC=0.001118 16$OC=0.000250 4$    
+212FRS G PC=4.01E-5 6$QC=2.25E-6 4                                              
+212FRB G BM1W GT 5.8E-5                                                         
+212FR  L 4447.1    6                    1.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR  G 365.3     2  100                                                       
+212FR  L 4499.1    5                    2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR  G 361.9     3  100                                                       
+212FR  L 4546.9    4  21-               2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR cL $Configuration=(|ph{-9/2}{++4})(|pi{-13/2}{+1})(|n(f{-5/2}{+-1}) +     
+212FR2cL (|p(h{-9/2}{++3})(|pi{-13/2}{+1})(|pf{-7/2}{+1})(|n(p{-1/2}{+-1})      
+212FR cL J$M1 |g's to 20- levels                                                
+212FR  G 409.6     1  76     1  M1                      0.279                   
+212FRS G KC=0.225 4$LC=0.0405 6$MC=0.00964 14$NC=0.00253 4$OC=0.000565 8$       
+212FRS G PC=9.07E-5 13$QC=5.07E-6 7                                             
+212FRB G BM1W GT 5.7E-5                                                         
+212FR  G 521.4     2  100    2  M1                      0.1458                  
+212FRS G KC=0.1181 17$LC=0.0211 3$MC=0.00502 7$NC=0.001315 19$OC=0.000294 5$    
+212FRS G PC=4.72E-5 7$QC=2.64E-6 4                                              
+212FRB G BM1W GT 3.7E-5                                                         
+212FR  L 4632.1    6                                                            
+212FRX L XREF=B                                                                 
+212FR  G 881.3     3  100                                                      ?
+212FR  L 4634.1    6                                                            
+212FRX L XREF=B                                                                 
+212FR  G 883.3     3  100                                                      ?
+212FR  L 4765.0    5                                                           ?
+212FRX L XREF=B                                                                 
+212FR  G 217.8     5                                                           ?
+212FR  G 739.6     3                                                            
+212FR  L 4834.2    4  22+               4.23 NS   35                         M3 
+212FRX L XREF=B                                                                 
+212FR2 L MOMM1=22 4 (1986By01)                                                  
+212FR2 L CONF=(|ph{-9/2}{++3})(|pi{-13/2}{++2})(|n(p{-1/2}{+-1})                
+212FR cL J$E1 287|g to 21- level                                                
+212FR cL MOMM1$from Time Dependent Perturbed Angular Distributions (1986By01).  
+212FR  G 287.3     1  100       E1                      0.0377                  
+212FRS G KC=0.0305 5$LC=0.00552 8$MC=0.001312 19$NC=0.000341 5$OC=7.46E-5 11$   
+212FRS G PC=1.138E-5 16$QC=5.27E-7 8                                            
+212FRB G BE1W=1.83E-6 16                                                        
+212FR  L 4907.7    6                                                            
+212FRX L XREF=B                                                                 
+212FR  G 273.6     3  100                                                      ?
+212FR  L 5056.0    5  (23+)             2.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR cL J$(M1) 222|g to 22+ level                                              
+212FR  G 148                                                                   S
+212FR  G 221.9     3            (M1)                    1.500                   
+212FRS G KC=1.210 18$LC=0.220 4$MC=0.0525 8$NC=0.01377 20$OC=0.00308 5$         
+212FRS G PC=0.000494 8$QC=2.75E-5 4                                             
+212FR  L 5161.1    6                                                            
+212FRX L XREF=B                                                                 
+212FR  G 529.0     3  100                                                      ?
+212FRL G FL=4632.1                                                              
+212FR  L 5266.2    5  (24+)             2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR cL J$M1+E2 210|g to (23+) level                                           
+212FR  G 210.2     1  100       M1+E2     1.3    +6-4   0.94  24                
+212FRS G KC=0.62 23$LC=0.242 6$MC=0.0619 9$NC=0.01624 24$OC=0.00348 6$          
+212FRS G PC=0.000500 23$QC=1.44E-5 51                                           
+212FRB G BM1W GT 1.2E-4 $BE2W GT 1.9                                            
+212FR  L 5803.1    6  (25+)             2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR cL J$M1+E2 537|g to (24+) level                                           
+212FR  G 536.9     2  100       M1+E2     1.1    +19-6  0.078 37                
+212FRS G KC=0.061 31$LC=0.0129 43$MC=0.00314 97$NC=8.2E-4 26$OC=1.82E-4 58$     
+212FRS G PC=2.83E-5 99$QC=1.37E-6 70                                            
+212FRB G BM1W GT 6.4E-6 $BE2W GT 0.015                                          
+212FR  L 5854.5    6  (27-)             312 NS    21                         M4 
+212FRX L XREF=B                                                                 
+212FR2 L MOME2=(-)1.7 (1990By03)$MOMM1=21.9 3 (1986By01) $                      
+212FR2 L CONF=(|ph{-9/2}{++3})(|pi{-13/2}{++2})(|np{-1/2}{-2})(|ng{-9/2}{-1})   
+212FR cL J$E3 588|g to (24+) level                                              
+212FR cL MOMM1$from Time Dependent Perturbed Angular Distributions (1986By01).  
+212FR cL MOME2$from Time Dependent Perturbed Angular Distributions              
+212FR2cL (1990By03,2016St4). Other value: -1.5 {I3}, Level Mixing Spectroscopy  
+212FR3cL (1991Ha02). Other: 1990Ha30.                                           
+212FR  G 588.3     2  100       E3                      0.0798                  
+212FRS G KC=0.0431 6$LC=0.0272 4$MC=0.00718 11$NC=0.00189 3$OC=0.000405 6$      
+212FRS G PC=5.78E-5 9$QC=1.353E-6 19                                            
+212FRB G BE3W=55 4                                                              
+212FR  L 6055.5    6  (28)                                                      
+212FRX L XREF=B                                                                 
+212FR cL J$D 201|g to (27-) level.                                              
+212FR  G 201.2     3  100       D                                               
+212FR  L 6344.7    6  (28-)             1.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR cL J$M1 490|g to (27-) level.                                             
+212FR  G 490.1     2  100       M1                      0.1721                  
+212FRS G KC=0.1392 20$LC=0.0249 4$MC=0.00593 9$NC=0.001553 22$OC=0.000347 5$    
+212FRS G PC=5.57E-5 8$QC=3.12E-6 5                                              
+212FRB G BM1W GT 0.00011                                                        
+212FR  L 6671.0    8                                                            
+212FRX L XREF=B                                                                 
+212FR  G 326          100                                                       
+212FR  L 6976.8    6  (29)              1.4 NS    LT                            
+212FRX L XREF=B                                                                 
+212FR cL J$(M1+E2) 921.5|g to (28) level.                                       
+212FR  G 304                                                                    
+212FR  G 632.1     3  71     5                                                  
+212FR  G 921.5     3  100    5  (M1+E2)   0.6    6      0.026674                
+212FRS G KC=0.0215 61$LC=0.0039 10$MC=0.00092 22$NC=0.00024 6$OC=5.4E-5 13$     
+212FRS G PC=8.6E-6 22$QC=4.7E-7 14                                              
+212FR  L 7053.9    8                                                            
+212FRX L XREF=B                                                                 
+212FR  G 77                                                                     
+212FR  G 1199                                                                   
+212FR  L 7253.7    9                                                            
+212FRX L XREF=B                                                                 
+212FR  G 909          100                                                       
+212FR  L 7660.6    7  (29+)             2 NS      LT                            
+212FRX L XREF=B                                                                 
+212FR cL J$E1 1316|g to (28-) level                                             
+212FR  G 407                                                                    
+212FR  G 607                                                                    
+212FR  G 684                                                                    
+212FR  G 990.0     5  49     2                                                  
+212FR  G 1315.6    5  100    2  E1                     0.00196                  
+212FRS G KC=0.001576 22$LC=0.000248 4$MC=5.80E-5 9$NC=1.513E-5 22$OC=3.37E-6 5$ 
+212FRS G PC=5.38E-7 8$QC=3.00E-8 5                                              
+212FRB G BE1W GT 2.8E-8                                                         
+212FR  L 8255.6    7                                                            
+212FRX L XREF=B                                                                 
+212FR  G 595.0     3                                                            
+212FR  G 1201                                                                   
+212FR  L 8406.9    11                                                           
+212FRX L XREF=B                                                                 
+212FR  G 151          100                                                       
+212FR  L 8533.2    11                   23.6 US   21                         M5 
+212FRX L XREF=B                                                                 
+212FR cL J$1990By02 suggest J|p=34+ for this level                              
+212FR cL E$search for fission from this high-spin isomeric level was            
+212FR2cL performed in 1997Wa36.                                                 
+212FR  G 126                                                                    
+212FR  G 278                    (E3)                    1.225                   
+212FRS G KC=0.213 3$LC=0.739 11$MC=0.205 3$NC=0.0543 8$OC=0.01140 16$           
+212FRS G PC=0.001527 22$QC=1.269E-5 18                                          

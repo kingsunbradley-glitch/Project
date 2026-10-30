@@ -1,0 +1,342 @@
+248CM    ADOPTED LEVELS, GAMMAS                                  25NDS    202507
+248CM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 204, 374 (2025)$CUT=30-Jun-2024$     
+248CM dG $Transition strength is calculated by Java-RULER (version 08-Feb-2024) 
+248CM  Q -740      50 6212   4 7050    SY 5161.8125    2021WA16                 
+248CM cQ $|DS(p)=100 (syst,2021Wa16)                                            
+248CM cQ $S(2n)=11366.8 {I27}, S(2p)=12580 {I15} (2021Wa16)                     
+248CM  XA248BK EC DECAY                                                         
+248CM  XB252CF A DECAY                                                          
+248CM  XC246CM(T,P)                                                             
+248CM  XD248CM(A,A'),(D,D')                                                     
+248CM  XE248CM(209BI,209BI'G)                                                   
+248CM  XFCOULOMB EXCITATION                                                     
+248CM cG E,RI,M$From Coulomb excitation, except as noted                        
+248CM cL E$From least-squares fit to E|g data by the evaluator, except as noted 
+248CM cL E(G)$From {+248}Cm(|a,|a'),(d,d')                                      
+248CM cL J$From assignments to bands. Confirming arguments are given            
+248CM2cL where available                                                        
+248CM cL T$From Coulomb excitation, except as noted                             
+248CM CL BAND(A)$K|p=0+ g.s. band                                               
+248CM CL BAND(B)$K|p=1- octupole-vibrational band                               
+248CM CL BAND(C)$K|p=2+ gamma-vibrational band                                  
+248CM cL SEQ(D)$K|p=0+                                                          
+248CM DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+248CM PN                                                                     6  
+248CM  L 0.0          0+               3.48E+5 Y 6                          A   
+248CM2 L %A=91.61 16 $ %SF=8.39 16                                              
+248CMX L XREF=ABCDEF                                                            
+248CM cL $Evaluated rms charge radius=5.869 fm {I19} (2013An02)                 
+248CM cL T$Recommended by 1989Ho24 from weighted average of                     
+248CM2cL 3.52 |*10{+5} y {I4} (1969Me01:                                        
+248CM3cL originally reported 3.84 |*10{+5} y {I4}),                             
+248CM4cL 3.60 |*10{+5} y {I4} (1971Ma32:                                        
+248CM5cL originally reported 3.94 |*10{+5} y {I4}),                             
+248CM6cL and 3.40 |*10{+5} y {I3} (1971Mc19:                                    
+248CM7cL originally reported 3.397 |*10{+5} y {I32})                            
+248CM cL $T{-1/2}(SF)=4.15|*10{+6} {I3} recommended by 2000Ho27 from            
+248CM2cL weighted average of 4.22 |*10{+6} y {I12} (1969Me01),                  
+248CM3cL 4.20 |*10{+6} y {I5} (1971Ma32), and 4.115 |*10{+6} y {I34} (1971Mc19) 
+248CM cL %A,%SF$from the Adopted values for T{-1/2} and T{-1/2}(SF)             
+248CM  L 43.399    25 2+               122.5 PS  25                         A   
+248CMX L XREF=ABCDEF                                                            
+248CM cL T$from Coulomb excitation. Other: 126 ps {I10} from {+252}Cf |a decay  
+248CM  G 43.399    25100       E2                      1000   14                
+248CMS G  LC=724 10$MC=203.9 29                                                 
+248CMS G  NC=56.7 8$OC=13.70 20$PC=2.238 32$QC=0.00553 8                        
+248CM cG E,RI$from {+252}Cf |a decay                                            
+248CMB G BE2W=324 8                                                             
+248CM  L 143.80    20 4+               80 PS     +14-19                     A   
+248CMX L XREF=BDEF                                                              
+248CM  G 100.4     2 100       E2                      18.38  31                
+248CMS G  LC=13.28 22$MC=3.75 6                                                 
+248CMS G  NC=1.045 18$OC=0.253 4$PC=0.0420 7$QC=0.0001737 28                    
+248CM cG E$from Coulomb excitation. Other: 100.2 {I4} from {+252}Cf |a decay    
+248CMB G BE2W=3.9E2 +11-6                                                       
+248CM  L 298.90    29 6+               34 PS     +11-3                      A   
+248CMX L XREF=BDEF                                                              
+248CM  G 155.1     2 100       E2                      2.71    4                
+248CMS G  KC=0.1741 24$LC=1.837 28$MC=0.517 8                                   
+248CMS G  NC=0.1440 22$OC=0.0350 5$PC=0.00589 9$QC=3.82E-5 6                    
+248CMB G BE2W=5.4E2 +6-9                                                        
+248CM  L 506.5     6  8+               16.0 PS   +31-23                     A   
+248CMX L XREF=BDEF                                                              
+248CM  G 207.4     2 100       E2                      0.858  12               S
+248CMS G  KC=0.1394 20$LC=0.521 8$MC=0.1458 21                                  
+248CMS G  NC=0.0405 6$OC=0.00987 14$PC=0.001683 25$QC=1.604E-5 23               
+248CM cG E$from {+252}Cf |a decay. Other: 207.4 {I2} from Coulomb excitation    
+248CMB G BE2W=5.4E2 9                                                           
+248CM  L 762.9     6  10+              7.5 PS    +7-6                       A   
+248CMX L XREF=F                                                                 
+248CM  G 256.4     2 100       E2                      0.401   6                
+248CMS G  KC=0.1027 14$LC=0.2165 31$MC=0.0602 9                                 
+248CMS G  NC=0.01673 24$OC=0.00408 6$PC=0.000704 10$QC=9.06E-6 13               
+248CMB G BE2W=524 47                                                            
+248CM  L 1050      2  (2+)             1.23 PS   +18-16                     C   
+248CMX L XREF=DF                                                                
+248CM cL J$from the ratio of cross sections R= d|s(90|')/d|s(125|') and a       
+248CM2cL fit to a rotational band in (|a,|a'),(d,d') (1975Th11,1975Ya13).       
+248CM  L 1050      2  (1-)                                                  B   
+248CMX L XREF=D(1050?)F                                                         
+248CM cL J$Based on measured Routhian and branching ratios of E1 decays to      
+248CM2cL g.s. bands for levels 7- to 11- extrapolated to the (1-), 3- and 5-    
+248CM3cL states (1998Ha08). This behavior of the alignment curve was compared   
+248CM4cL with cranked random-phase approximation (RPA) calculations and observed
+248CM5cL Routhians (2002AbZV)                                                   
+248CM  L 1064.2    7  12+              3.71 PS   +22-18                     A   
+248CMX L XREF=F                                                                 
+248CM  G 301.3     2 100       E2                      0.2362 33                
+248CMS G  KC=0.0790 11$LC=0.1143 16$MC=0.0316 4                                 
+248CMS G  NC=0.00876 12$OC=0.002144 31$PC=0.000373 5$QC=6.04E-6 9               
+248CMB G BE2W=537 +28-31                                                        
+248CM  L 1084         0+                                                    D   
+248CMX L XREF=CF                                                                
+248CM cL J$from L=0 in (t,p)                                                    
+248CM  L 1095      2  3-                                                    B   
+248CMX L XREF=DF                                                                
+248CMF L FLAG=G                                                                 
+248CM  L 1131      3  2+                                                    D   
+248CMX L XREF=DF                                                                
+248CM  L 1144      2  (4+)                                                  C   
+248CMX L XREF=DF                                                                
+248CMF L FLAG=G                                                                 
+248CM  L 1172      3  (5-)                                                  B   
+248CMX L XREF=DF                                                                
+248CMF L FLAG=G                                                                 
+248CM  L 1222      3  4+                                                    D   
+248CMX L XREF=DF                                                                
+248CMF L FLAG=G                                                                 
+248CM  L 1236      2  (3-)                                                      
+248CMX L XREF=D                                                                 
+248CM cL J$Assumed 3- octupole excitation band (1975Ya13)                       
+248CMF L FLAG=G                                                                 
+248CM  L 1284.4    7  6+                                                    C   
+248CMX L XREF=EF                                                                
+248CM  G 985                                                                    
+248CM cG E$from {+248}Cm({+209}Bi,{+209}Bi'|g)                                  
+248CM  L 1295.2    6  7-                                                    B   
+248CMX L XREF=F                                                                 
+248CM  G 789.0     5 100     LE                                                 
+248CM  G 996.4     5 8.2     LE                                                 
+248CM  L 1305      3  (3-)                                                      
+248CMX L XREF=D                                                                 
+248CM cL J$Assumed 3- octupole excitation band (1975Ya13)                       
+248CMF L FLAG=G                                                                 
+248CM  L 1319      3                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1358      3                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1399      3                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1406.2    7  14+              1.75 PS   +9-7                       A   
+248CMX L XREF=F                                                                 
+248CM  G 342.0     2 100       E2                      0.1608 23                
+248CMS G  KC=0.0638 9$LC=0.0707 10$MC=0.01938 27                                
+248CMS G  NC=0.00538 8$OC=0.001318 19$PC=0.0002315 33$QC=4.46E-6 6              
+248CMB G BE2W=643 +27-31                                                        
+248CM  L 1440      3                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1452.4    7  8+                                                    C   
+248CMX L XREF=EF                                                                
+248CM  G 167.9     5 152     LE                                                 
+248CM  G 946.1     5 1E2     1                                                  
+248CM  L 1460.5    12 (8-)             146 US    18                          M  
+248CMX L XREF=E                                                                 
+248CM2 L %IT=100                                                                
+248CM cL T$from {+248}Cm({+209}Bi,{+209}Bi'|g). Other: 146 |ms {I18} (2012TaZO) 
+248CM  G 7                                                                     S
+248CM cG E$from {+248}Cm({+209}Bi,{+209}Bi'|g)                                  
+248CM  G 954                                                                    
+248CM cG E$from {+248}Cm({+209}Bi,{+209}Bi'|g)                                  
+248CM  L 1466.0    6  9-                                                    B   
+248CMX L XREF=F                                                                 
+248CM  G 171.2     5 49      41                                                 
+248CM  G 703.1     4 100     20                                                 
+248CM  G 959.0     5 5       5                                                  
+248CM  L 1466.2    5  8+                                                    D   
+248CMX L XREF=F                                                                 
+248CM  G 1167.3    4 100                                                        
+248CM  L 1469      4                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1484      2  (3-)                                                      
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM cL J$Assumed 3- octupole excitation band (1975Ya13)                       
+248CM  L 1514      3                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1552      4                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1651      4                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1651.9    7  10+                                                   D   
+248CMX L XREF=F                                                                 
+248CM  G 185.9     4 100     73                                                 
+248CMF G FL=1466.0                                                              
+248CM  G 1145.4    4 25      20                                                 
+248CM  L 1669.4    7  10+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 217.1     5 80      LT                                                 
+248CM  G 906.6     4 100     43                                                 
+248CM  L 1682.5    7  11-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 216.4     4 23      11                                                 
+248CMF G FL=1466.0                                                              
+248CM  G 618.3     3 100     14                                                 
+248CM  G 919.6     4 7       7                                                  
+248CM  L 1784.1    7  16+              1.43 PS   +9-11                      A   
+248CMX L XREF=F                                                                 
+248CM  G 377.8     2 100       E2                      0.1210 17                
+248CMS G  KC=0.0538 8$LC=0.0491 7$MC=0.01338 19                                 
+248CMS G  NC=0.00371 5$OC=0.000911 13$PC=0.0001612 23$QC=3.54E-6 5              
+248CMB G BE2W=496 +41-30                                                        
+248CM  L 1880.2    7  12+                                                   D   
+248CMX L XREF=F                                                                 
+248CM  G 228.4     4 100     67                                                 
+248CM  G 1117.4    5 7       5                                                  
+248CM  L 1883      3                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1929.1    7  12+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 259.9     4 59      23                                                 
+248CM  G 865.2     4 100     26                                                 
+248CM  L 1938      4                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 1942.1    7  13-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 259.6     3 49      9                                                  
+248CM  G 535.9     3 100     14                                                 
+248CM  G 877.9     4 9       5                                                  
+248CM  L 1969      4                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 2000      4                                                            
+248CMX L XREF=D                                                                 
+248CMF L FLAG=G                                                                 
+248CM  L 2150.1    7  14+                                                   D   
+248CMX L XREF=F                                                                 
+248CM  G 270.0     5 1E2     1                                                  
+248CM  G 1085.5    5 11      LT                                                 
+248CM  L 2192.7    7  18+              0.87 PS   +9-7                       A   
+248CMX L XREF=F                                                                 
+248CM  G 408.6     2 100       E2                      0.0978 14                
+248CMS G  KC=0.0470 7$LC=0.0372 5$MC=0.01008 14                                 
+248CMS G  NC=0.00279 4$OC=0.000687 10$PC=0.0001223 17$QC=2.97E-6 4              
+248CMB G BE2W=5.6E2 5                                                           
+248CM  L 2229.5    7  14+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 300.8     4 100     67                                                 
+248CM  G 822.9     4 87      27                                                 
+248CM  L 2242.1    7  15-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 300.0     3 100     57                                                 
+248CM  G 458.1     3 83      37                                                 
+248CM  G 835.9     4 8.0     23                                                 
+248CM  L 2460.6    8  16+                                                   D   
+248CMX L XREF=F                                                                 
+248CM  G 310.2     5 100     LT                                                 
+248CM  G 1054.7    5 7.4     LT                                                 
+248CM  L 2566.9    7  16+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 337.4     3 100     60                                                 
+248CM  G 782.7     4 36      19                                                 
+248CM  L 2578.3    7  17-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 336.2     3 100     15                                                 
+248CM  G 385.7     3 24.0    21                                                 
+248CM  G 794.3     4 6.9     21                                                 
+248CM  L 2627.2    7  20+              0.76 PS   +11-8                      A   
+248CMX L XREF=F                                                                 
+248CM  G 434.4     2 100       E2                      0.0834 12                
+248CMS G  KC=0.0422 6$LC=0.0301 4$MC=0.00812 11                                 
+248CMS G  NC=0.002251 32$OC=0.000554 8$PC=9.91E-5 14$QC=2.59E-6 4               
+248CMB G BE2W=4.8E2 6                                                           
+248CM  L 2808.6    9  18+                                                   D   
+248CMX L XREF=F                                                                 
+248CM  G 348.0     5 100                                                        
+248CM  L 2937.2    7  18+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 370.3     3 100     58                                                 
+248CM  G 744.6     4 33      16                                                 
+248CM  L 2947.2    7  19-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 320.1     5 8.5     22                                                 
+248CM  G 369.4     4 100     9                                                  
+248CM  G 754.0     5 6.5     26                                                 
+248CM  L 3083.6    8  22+              0.44 PS   4                          A   
+248CMX L XREF=F                                                                 
+248CM  G 456.4     2 100       E2                      0.0735 10                
+248CMS G  KC=0.0388 5$LC=0.0255 4$MC=0.00685 10                                 
+248CMS G  NC=0.001897 27$OC=0.000468 7$PC=8.40E-5 12$QC=2.325E-6 33             
+248CMB G BE2W=6.5E2 +7-6                                                        
+248CM  L 3190.1    10 20+                                                   D   
+248CMX L XREF=F                                                                 
+248CM  G 381.5     5 100                                                        
+248CM  L 3331.7    8  20+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 394.6     4 100     64                                                 
+248CM  G 704.5     5 17      LE                                                 
+248CM  L 3347.0    8  21-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 263.5     5 11      LE                                                ?
+248CM  G 400.0     4 100     11                                                 
+248CM  G 719.6     5 9.8     LE                                                ?
+248CM  L 3559.7    8  24+              0.41 PS   +9-6                       A   
+248CMX L XREF=F                                                                 
+248CM  G 476.1     2 100       E2                      0.0662  9                
+248CMS G  KC=0.0361 5$LC=0.02213 31$MC=0.00594 8                                
+248CMS G  NC=0.001643 23$OC=0.000406 6$PC=7.30E-5 10$QC=2.122E-6 30             
+248CMB G BE2W=5.7E2 +10-11                                                      
+248CM  L 3601.9    12 22+                                                   D   
+248CMX L XREF=F                                                                 
+248CM  G 411.8     5 100                                                        
+248CM  L 3738.3    9  22+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 406.6     4 100                                                        
+248CM  L 3775.0    9  23-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 428.0     4 100                                                        
+248CM  L 4041.0    13 24+                                                   D   
+248CMX L XREF=F                                                                 
+248CM  G 439.1     5 100                                                        
+248CM  L 4055.5    8  26+              0.32 PS   +9-6                       A   
+248CMX L XREF=F                                                                 
+248CM  G 495.8     3 100       E2                      0.0601  8                
+248CMS G  KC=0.0336 5$LC=0.01939 27$MC=0.00518 7                                
+248CMS G  NC=0.001435 20$OC=0.000355 5$PC=6.40E-5 9$QC=1.947E-6 27              
+248CMB G BE2W=6.0E2 +14-13                                                      
+248CM  L 4158.1    10 24+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 419.8     5 100                                                        
+248CM  L 4229.4    10 25-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 454.4     4 100                                                        
+248CM  L 4572.5    9  28+              0.27 PS   +18-9                      A   
+248CMX L XREF=F                                                                 
+248CM  G 517.0     4 100       E2                      0.0544  8                
+248CMS G  KC=0.0313 4$LC=0.01695 24$MC=0.00452 6                                
+248CMS G  NC=0.001250 18$OC=0.000309 4$PC=5.60E-5 8$QC=1.782E-6 25              
+248CMB G BE2W=5.8E2 +29-23                                                      
+248CM  L 4599.5    11 26+                                                   C   
+248CMX L XREF=F                                                                 
+248CM  G 441.4     5 100                                                        
+248CM  L 4709.3    11 27-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 479.9     5 100                                                        
+248CM  L 5114.1    11 30+                                                   A   
+248CMX L XREF=F                                                                 
+248CM  G 541.6     5 100                                                        
+248CM  L 5215.9    12 29-                                                   B   
+248CMX L XREF=F                                                                 
+248CM  G 506.6     5 100                                                        
+248CM  L 5680.8    12 (32+)                                                 A  ?
+248CMX L XREF=F                                                                 
+248CM  G 566.7     5 100                                                       ?

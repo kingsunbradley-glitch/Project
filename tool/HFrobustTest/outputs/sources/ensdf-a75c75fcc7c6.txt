@@ -1,0 +1,42 @@
+222FR    226AC A DECAY (29.37 H)       1987MI10,1975VAZD         23NDS    202310
+222FR  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Jun Chen et al.,$              
+222FR2 H CIT=NDS 192, 315 (2023)$CUT=25-Sep-2023$                               
+222FR c  1987Mi10: {+226}Ac formed {+232}Th(|g,X),E=40-150 MeV, using 40-80     
+222FR2c  |mg/cm{+2} thick target and bremsstrahlung beam. Measured |a-radiation 
+222FR3c  using a solid-state detector, and deduced half-life of {+226}Ac decay  
+222FR c  1974Va28, 1975VaZD: {+226}Ac produced in Th(p,X),E(p)=600-MeV.         
+222FR2c  Measured E|g, I|g, I|a. 1975VaZD deduced |a branching from |b{+-}      
+222FR3c  and |e branchings measured by 1974Va28.                                
+222FR c  1950Me08: {+226}Ac produced in Th(d,X),E(d)=60 MeV at the Berkeley     
+222FR2c  184-in cyclotron. {+226}Ac identified by |a particle emission from     
+222FR3c  {+226}Th daughter. Half-life of 29 h was quoted in this paper from     
+222FR4c  a private communication with K. Street, Jr. See 1948Se40 (Table of     
+222FR4c  Isotopes, p635) for firm identification of {+226}Ac as |b{+-} parent of
+222FR5c  {+226}Th and reference to K. Street, R.A. James and G.T. Seaborg,      
+222FR6c  unpublished data, July 1948. See also 2013Fr03 for the first           
+222FR7c  identification of {+226}Ac isotope.                                    
+222FR cA HF$The nuclear radius parameter r{-0}({+222}Fr)=1.53825 {I28}          
+222FR2cA is deduced from interpolation (or unweighted average) of radius        
+222FR3cA parameters of the adjacent even-even nuclides from 2020Si16            
+226AC  P 0           (1-)              29.37 H   12             5506      8     
+226AC cP J$Three hyperfine-structure peaks in hyperfine spectrum Fig. 2 in      
+226AC2cP 2019Ve07 suggest spin of 1. Measured magnetic moment of +1.06 {I5}     
+226AC3cP is reasonably well reproduced by the empirical values deduced from     
+226AC4cP additivity rule applied to the experimental magnetic moments of the    
+226AC5cP ground states of {+227}Ac (J|p=3/2-, dominant |p3/2[532]); {+225}Ac    
+226AC6cP (J|p=3/2-, mixed |p3/2[532] and |p3/2[651] configurations, as given    
+226AC7cP in 2019Ve07); and {+225}Ra (J|p=1/2+, dominant |n1/2[631]) (2019Ve07), 
+226AC8cP suggesting negative parity for the ground state of {+226}Ac            
+226AC cP T$measured by 1987Mi10, |a-decay curve for 14 different measurements.  
+226AC2cP Other measurement: 29 h (quoted by 1950Me08 from a private             
+226AC3cP communication from K. Street, Jr., unpublished data; also quoted in a  
+226AC4cP book by 1964Hy02 from a private communication from 1952Sk82).          
+226AC5cP 1964Hy02 and 1952Sk82 references not available to the evaluators.      
+226AC cP QP$From 2021Wa16                                                       
+222FR  N                       6E-5    2                                        
+222FR cN BR$Measured %|a=0.006 {I2} (1975VaZD)                                  
+222FR  L 0            2-               14.2 M    3                              
+222FR cL J,T$from the Adopted Levels                                            
+222FR  A 5399      5 100          58   20                                       
+222FR cA E$measurement by 1975VaZD. Other measurement: 1964Mc21.                
+222FR cA IA$only one |a group has been observed, thus assumed 100%              

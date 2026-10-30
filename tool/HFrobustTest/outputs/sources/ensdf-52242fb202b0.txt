@@ -1,0 +1,99 @@
+222TH    226U A DECAY (268 MS)         1998GR19,2000HE17,1989AN1323NDS    202310
+222TH  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Jun Chen et al.,$              
+222TH2 H CIT=NDS 192, 315 (2023)$CUT=25-Sep-2023$                               
+222TH c  This dataset prepared by P. Dimitriou, B. Singh, and IAEA-ICTP         
+222TH2c  workshop participants: M.J. Lazaric and C. Ngwetsheni.                 
+222TH c  2000He17, 2002CaZU: {+226}U was produced in heavy-ion fusion           
+222TH2c  {+208}Pb({+22}Ne,4n) at GSI. Fusion products were separated in-flight  
+222TH3c  reaction using the velocity filter SHIP. Measured E|a, I|a, half-life  
+222TH4c  of {+226}U decay by |a|a- and |a|g-coin. FWHM=18-20 keV for E|a.       
+222TH5c  In 2002CaZU, half-life of {+226}U decay was reported as 258 ms {I13}.  
+222TH d  2002CaZZ superseded by 2002CaZU                                        
+222TH c  1998Gr19, 1999Gr28 (also 2001Ku07, 1997En10): {+226}U produced in      
+222TH2c  {+208}Pb({+22}Ne,4n),E({+22}Ne)=111 MeV at the K130 cyclotron facility 
+222TH3c  of the University of Jyvaskyla, followed by the separation of fusion   
+222TH4c  products using the gas-filled magnetic separator RITU. Measured E|a,   
+222TH5c  I|a, half-life of {+226}U decay by recoil-|a tagging technique using   
+222TH6c  silicon strip detector for |a particles with FWHM better than 30 keV   
+222TH7c  for E|a|?7.5-MeV. In 2001Ku07 (conference article), a                  
+222TH8c  position-sensitive PIPS Si detector was used for |a detection for      
+222TH9c  which resolution was stated as 35 keV.                                 
+222TH c  1989An13, 1990An22: {+226}U and {+230}Pu were produced in heavy-ion    
+222TH2c  fusion reactions {+208}Pb({+22}Ne,4n) and {+208}Pb({+26}Mg,4n),        
+222TH3c  respectively, at JINR. Fusion products were separated in-flight by     
+222TH3c  the VASSILISSA kinematic separator. Measured E|a, I|a, T{-1/2} using   
+222TH4c  |a-spectroscopy, with FWHM=40-60 keV, and 35 keV, respectively.        
+222TH c  1973Vi10: measured E|a, T{-1/2} of {+226}U decay by bombarding         
+222TH2c  {+232}Th with 140 MeV {+4}He ions from University of Maryland          
+222TH3c  cyclotron, and using secular equilibrium technique. FWHM=50 keV        
+222TH4c  for |a-particle detection.                                             
+222TH c  1970Va13: measured E|a, T{-1/2} of {+222}Th decay chain at the         
+222TH2c  Berkeley HILAC.                                                        
+222TH c  2018Mi11 (conference article): {+226}U from the |a decay of {+230}Pu,  
+222TH2c  produced in W({+48}Ca,X){+230}Pu,E({+48}Ca)=4.55 MeV/nucleon; measured 
+222TH3c  E|a and half-life for the decay of {+226}U using the new COMPASS       
+222TH4c  detection system with SHIP fragment separator at GSI facility.         
+222TH c  2003MoZT: {+226}U produced in a decay chain starting from {+234}Bk     
+222TH2c  decay, where the activity was produced in {+197}Au({+40}Ar,3n),        
+222TH3c  E({+40}Ar)=188.4 MeV, followed by separation of reaction products      
+222TH4c  using the Gas-Filled Recoil-Ion Separator (GARIS) at RIKEN.            
+222TH5c  For four events assigned to the decay of {+234}Bk, |a decay times      
+222TH6c  for {+226}U |a decay were given as 196 ms, 149 ms, 464 ms, and         
+222TH7c  1370 ms.                                                               
+222TH d  2023Xi06, 2009Ni06, 2009Ro06, 2008Sa40, 2007Pe30: theoretical          
+222TH2d  calculations of |a-decay half-life.                                    
+222TH cA HF$The nuclear radius parameter r{-0}({+222}Th)=1.5387 {I27}           
+222TH2cA is deduced by assuming HF=1.0 for the ground-state to                  
+222TH3cA ground-state alpha decay branch.                                       
+226U   P 0.0          0+               268 MS    9              7701      4     
+226U  cP T$From |a decay. Weighted average of measured values of                
+226U 2cP 258 ms {I13} (2002CaZU, from the same lab as 2000He17, but an          
+226U 3cP independent experiment); 281 ms {I9} (2000He17); 260 ms {I10}          
+226U 4cP (1998Gr19, also 260 ms {I20} in 2001Ku07, 230 ms {I+60-40} in          
+226U 5cP 1999Gr28, and 160 ms {I+21-17} tentative result in 1997En10, all       
+226U 6cP from the same lab); and 200 ms {I50} (1994Ye08,1990An22, also          
+226U 7cP 0.25 s {I+15-10} in 1989An13 from the same lab). Others: 0.4 s {I1}    
+226U 8cP (2018Mi11), and 0.5 s {I2} (1973Vi10).                                 
+226U  cP QP$From 2021Wa16                                                       
+222TH  N                       1.0                                              
+222TH cN BR$Only the |a decay of {+226}U has been observed. From theoretical    
+222TH2cN T{-1/2}(|b)>100 s and T{-1/2}(|a)=0.65 s (2019Mo01), %|e+%|b{++}<0.65. 
+222TH3cN Other: %|e+%|b{++}<0.05 (from gross theory of |b decay, 1973Ta30).     
+222TH  A 7450      30                                                           
+222TH cA E$from 2018Mi11 only, as authors report two |a transitions:            
+222TH2cA 7400 {I30} which likely corresponds to 7387 {I5} |a, and               
+222TH3cA 7450 {I30} |a. Note that the two |a energies reported by 2018Mi11      
+222TH4cA overlap within the uncertainties.                                      
+222TH  L 0.0          0+                1.964 MS 2                              
+222TH cL T$from the Adopted Levels                                              
+222TH  A 7563      5  84     3  1.00                                            
+222TH cA E$weighted average of 7570 {I30} (2018Mi11); 7560 {I10} (2002CaZU, from
+222TH2cA the same lab as 2000He17 but an independent experiment); 7555 {I10}    
+222TH3cA (2000He17); 7565 {I5} (1999Gr28, 1998Gr19, 7566 {I4} in                
+222TH4cA 2001Ku07, 7566 {I20} in 1997En10); and 7570 {I15} (1990An22, 7570 {I20}
+222TH5cA in 1989An13). Others: 7430 {I30} (1973Vi10), 7500 {I50} (1970Va13)     
+222TH cA IA$weighted average of 86 {I3} (2002CaZU, from the same lab as         
+222TH2cA 2000He17, but an independent experiment); 82 {I5} (2000He17);          
+222TH3cA 82 {I4} (1999Gr28, 85 {I11} in 2001Ku07, |?72 in 1997En10); and        
+222TH4cA 85 {I5} (1989An13).                                                    
+222TH  L 181        8  2+               240 PS   20                             
+222TH cL E$from E|a=7387 {I7} for decay to the 2+ level, and Q(|a)=7701 {I4}    
+222TH2cL for the decay of {+226}U. Other: 182.9 {I2} in the Adopted Levels.     
+222TH cL J,T$from the Adopted Levels                                            
+222TH  A 7387      5  16     2   1.3   2                                        
+222TH cA E$weighted average of 7384 {I20} (2002CaZU, from the same lab as       
+222TH2cA but an independent experiment); 7374 {I10} (2000He17);                 
+222TH3cA and 7390 {I5} (1999Gr28, 7384 {I7} in 2001Ku07, 7394 {I20} in          
+222TH4cA 1997En10). Others: two transitions of E|a=7400 {I30} and 7450 {I30}    
+222TH5cA (2018Mi11), 7420 {I20} (1989An13).                                     
+222TH cA IA$weighted average of 14 {I3} (2002CaZU, from the same lab as         
+222TH2cA but an independent experiment); 15 {I3} (2000He17); 18 {I2}            
+222TH3cA (1999Gr28, 15 {I5} in 2001Ku07, |?28 in 1997En10); and                 
+222TH4cA 15 {I5} (1989An13)                                                     
+222TH  L 246       20 (1-)                                                      
+222TH cL E$from E|a=7323 {I20} for decay to the (1-) level, and Q(|a)=7701 {I4} 
+222TH2cL for the decay of {+226}U.                                              
+222TH cL J$proposed by 2000He17, based on systematics of 1- states in           
+222TH2cL neighboring nuclei                                                     
+222TH  A 7323      20   3    1  4.0    14                                       
+222TH cA E,IA$from 2000He17                                                     

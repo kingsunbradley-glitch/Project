@@ -1,0 +1,160 @@
+212FR    216AC A DECAY (440 US)        2004Ku24                  20NDS    202009
+212FR  H TYP=FUL$AUT=K. Auranen and E.A. McCutchan$CIT=NDS 168, 117 (2020)$     
+212FR2 H CUT=1-Aug-2020$                                                        
+212FR c  2004Ku24: the nuclei of interest were produced in the                  
+212FR2c  fusion-evaporation reaction {+209}Bi({+12}C,5n). The 240-|mg/cm{+2}    
+212FR3c  thick targets had a 40-|mg/cm{+2} thick carbon backing. The {+12}C     
+212FR4c  beam was provided by the UNILAC accelerator at the energy of 7.1       
+212FR5c  MeV/nucleon and at the intensity of |?200 pnA. Residues were selected  
+212FR6c  with the velocity filter SHIP, and those were implanted into 16-strip  
+212FR7c  PIPS Si detector with a HPGe detector mounted immediately behind.      
+212FR8c  E|g, E|a, I|g, I|a, |g|a coincidences were measured.                   
+212FR c  Others: 1968Va18, 1970To18, 2000He17, 2005Li17, 2018Hu13               
+212FR cA E$From 2004Ku24                                                        
+212FR cA IA$Deduced indirectly by 2004Ku24 from |a|g coincidences by            
+212FR2cA normalizing the number of |g-ray counts to those of |a- and |g-lines   
+212FR3cA observed for the 853 and 938 levels (which yielded identical values),  
+212FR4cA unless stated otherwise. Uncertainties for intensities obtained by     
+212FR5cA this method are statistical only. Plausible effect due to summing of   
+212FR6cA |a-particle and conversion electrons were not taken into account,      
+212FR7cA meaning the quoted I{-|a} values are lower or upper limits as          
+212FR8cA indicated.                                                             
+212FR cL E$From a least-square fit to the E|g data by the evaluator             
+212FR cL J,T$From the Adopted Levels.                                           
+212FR cA HF$r{-0}({+212}Fr)=1.5043 {I22}, average of r{-0}({+212}Ra)=1.4695     
+212FR2cA {I14}, r{-0}({+214}Ra)=1.5487 {I30}, r{-0}({+210}Rn)=1.4557 {I12}, and 
+212FR3cA r{-0}({+212}Rn)=1.5433 {I36} (2020Si16).                               
+212FR c  $ The {+212}Fr level scheme and {+216}Ac |a-decay data adopted here    
+212FR2c  follows that presented in 2004Ku24.                                    
+212FR c  In the previous A=212 evaluation (2005Br03) four excited states were   
+212FR2c  adopted for {+212}Fr based on |a feeding from a low-lying (47 keV      
+212FR3c  {I11}), high-spin (9{+-}) isomeric state of {+216m}Ac with a           
+212FR4c  half-life nearly identical to that of the {+216}Ac ground state, see,  
+212FR5c  i.e. 1968Va18, 1970To18, 2000He17. Later, in 2004Ku24, based on |a|g   
+212FR6c  coincidence measurement it was obseved that all Q{-|a}+E{-|g} sums     
+212FR7c  are equal to the Q{-|a} of  the g.s. to g.s. |a decay, and that a      
+212FR8c  change in beam energy did not have an impact on the relative           
+212FR9c  population of the {+216}Ac ground state and assumed isomer.            
+212FRac  Furthermore, in 2004Ku24 it was pointed out that the obtained          
+212FRbc  |a-decay hindrance factors do not support high-spin origin, but        
+212FRcc  instead all observed |a decays can be explained by the (1{+-}) ground  
+212FRdc  state of {+216}Ac. Consequently, the assignment of a high-spin isomer  
+212FRec  in {+216}Ac is considered erroneous, and the respective {+212}Fr       
+212FRfc  levels, as well as the corresponding {+216m}Ac |a-decay data set were  
+212FRgc  removed in the present evaluation.                                     
+212FR cG E,RI$From 2004Ku24. Intensities are normalized to 100 for the most     
+212FR2cG intense |g-ray from each level.                                        
+212FR cG M$From the Adopted Levels. For cases where the multipolarity derives   
+212FR2cG from this dataset, supporting evidence is given in the comments.       
+212FR D  CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+216AC  P 0.0          (1-)              440 US    16             9235     6     
+216AC cP T$from 2000He17. Other: 390 |ms {I60} (2005Li17)                       
+216AC cP J$analogy with {+212}At and {+214}Fr                                   
+212FR  N                        1                                               
+212FR PN                                                                     7  
+212FR  G 406.2     1                                                            
+212FR  G 617.3     3                                                            
+212FR  G 765.3     2                                                            
+212FR  G 1081.3    3                                                            
+212FR  L 0.0          5+                20.0 M    6                             
+212FR  A 9105      7 47.5    5 235     14                                       
+212FR cA IA$deduced from the singles |a-spectrum by assuming the tail in the    
+212FR2cA 9029 |a transition towards higher energy is due to summing of 9029     
+212FR3cA keV |a-particles and conversion electrons from the 82 keV transition.  
+212FR4cA Other: 75 {I57} (2018Hu13).                                            
+212FR cA E$Others: 9052 keV {I10} (2000He17), 9070 {I50} (2005Li17),            
+212FR2cA 9070 keV {I8} (1970To18), 9069 {I6} (2018Hu13)                         
+212FR  L 82.48     6  (4+)                                                      
+212FR  G 82.6      1  100                                                    C  
+212FR  A 9029      7 48.8    10145     9                                        
+212FR cA IA$deduced from the singles |a-spectrum by assuming the tail in the    
+212FR2cA 9029 |a transition towards higher energy is due to summing of 9029     
+212FR3cA keV |a-particles and conversion electrons from the 82 keV transition.  
+212FR4cA Other: 25 {I28} (2018Hu13)                                             
+212FR cA E$others: 8990 keV {I20} (1970To18), 8976 {I10} (2018Hu13)             
+212FR  L 500.72    7                                                            
+212FR  G 418.3     1  100    6                                               C  
+212FR  G 500.7     1  53     4                                                  
+212FR  A 8616      6 0.23    5 2.69E3  61                                       
+212FR cA IA$from the singles |a-spectrum.                                       
+212FR  L 536.34    8                                                            
+212FR  G 453.9     1  9      1                                               C  
+212FR  G 536.3     1  100    6                                                  
+212FR  A 8581      6 0.51    GT1.03E3  LT                                       
+212FR cA IA$|DI|a=0.06                                                          
+212FR  L 542.00    10 7+                                                        
+212FR  G 542.0     1  100       E2                      0.0305                  
+212FR  A 8576      6 0.46    GT1108    LT                                       
+212FR cA IA$|DI|a=0.05                                                          
+212FR  L 574.89    11                                                           
+212FR  G 492.4     1  100    4                                               C ?
+212FR  G 575.0     4  1.3    4                                                 ?
+212FR  A 8536      150.12    GT3474    LT                                       
+212FR cA IA$|DI|a=0.02                                                          
+212FR  L 606.23    8                                                            
+212FR  G 105.8     2  11     3                                               C  
+212FR  G 523.7     1  100    7                                               C  
+212FR  G 606.2     1  60     7                                                  
+212FR  A 8514      6 0.11    GT3125    LT                                       
+212FR cA IA$|DI|a=0.02                                                          
+212FR  L 610.60    20                                                           
+212FR  G 610.6     2  100                                                       
+212FR  A 8509      7 0.017   GT19684   LT                                       
+212FR cA IA$|DI|a=0.001                                                         
+212FR  L 777.29    10                                                           
+212FR  G 276.6     2  1.3    6                                                  
+212FR  G 694.8     1  100    5                                               C  
+212FR  G 777.3     2  14     2                                                  
+212FR  A 8346      7 0.1     LT1050    GT                                       
+212FR  L 853.73    8  (4+,5+,6+)                                                
+212FR  G 352.9     2  1.2    5                                               C  
+212FR  G 771.3     1  77     4                                               C  
+212FR  G 853.7     1  100    4  (M1)                    0.0397                  
+212FRX G EKC=0.06 6                                                             
+212FRS G KC=0.0322 5$LC=0.00569 8$MC=0.001348 19$NC=0.000353 5$OC=7.90E-5 11$   
+212FRS G PC=1.269E-5 18$QC=7.13E-7 10                                           
+212FR cG EKC$deduced by gating on |a-particles with energies between 8230 and   
+212FR2cG 8320.                                                                  
+212FR  A 8270      5 1.40    7 49      4                                        
+212FR cA IA$from the singles |a-spectrum.                                       
+212FR  L 938.21    10 (4+,5+,6+)                                                
+212FR  G 855.8     7  5      LE                                              C  
+212FR  G 938.2     1  100    2  (M1)                    0.0310                  
+212FRX G EKC=0.027 17                                                           
+212FRS G KC=0.0252 4$LC=0.00443 7$MC=0.001051 15$NC=0.000275 4$OC=6.16E-5 9$    
+212FRS G PC=9.90E-6 14$QC=5.57E-7 8                                             
+212FR cG EKC$deduced from ratio between L{-|a1} x-rays and 938 |g-rays gated    
+212FR2cG by the 8187 |a-transition.                                             
+212FR  A 8187      5 0.74    2 53      4                                        
+212FR cA IA$from the singles |a-spectrum.                                       
+212FR  L 1008.7    4                                                            
+212FR  G 1008.7    4  100                                                       
+212FR  A 8114      9 0.0020  GT13023   LT                                       
+212FR cA IA$|DI|a=0.0003                                                        
+212FR  L 1129.9    5                                                            
+212FR  G 1047.5    9  85     50                                                 
+212FR  G 1129.9    5  100    40                                                 
+212FR  A 8001      150.0024  GT4792    LT                                       
+212FR cA IA$|DI|a=0.0016                                                        
+212FR  L 1209.5    5                                                            
+212FR  G 1209.5    5  100                                                       
+212FR  A 7924      150.0013  GT5116    LT                                       
+212FR cA IA$|DI|a=0.0002                                                        
+212FR  L 1239.9    4                                                            
+212FR  G 1239.9    4  100                                                       
+212FR  A 7892      100.021   2 242     27                                       
+212FR cA IA$from the singles |a-spectrum.                                       
+212FR  L 1287.1    8                                                            
+212FR  G 1287.1    8  100                                                       
+212FR  A 7846      150.016   3 229     45                                       
+212FR cA IA$from the singles |a-spectrum.                                       
+212FR  L 1356.0    20                                                           
+212FR  G 1356      2  100                                                       
+212FR  A 7776      150.0010  GT2372    LT                                       
+212FR cA IA$|DI|a=0.0004                                                        
+212FR  L 1375.35   23                                                           
+212FR  G 436.8     6  17     6                                                  
+212FR  G 1293.1    4  45     17                                                 
+212FR  G 1375.3    3  100    20                                                 
+212FR  A 7758      6 0.011   3 177     50                                       
+212FR cA IA$from the singles |a-spectrum.                                       

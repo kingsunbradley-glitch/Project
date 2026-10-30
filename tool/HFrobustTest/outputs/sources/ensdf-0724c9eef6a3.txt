@@ -1,0 +1,86 @@
+254FM    ADOPTED LEVELS, GAMMAS                                  19NDS    201902
+254FM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 1 (2019)$CUT=31-Jan-2019$        
+254FM  Q -2550     SY 6514   4 5396.7  23 7307.5 19    2017WA10                 
+254FM cQ $Estimated |DQ(|b{+-})=100 (2017Wa10)                                  
+254FM cQ $S(2n)=12055 {I6}, S(2p)=9710 {I3} (2017Wa10)                          
+254FM c  Both the known activities of {+254}Md decay almost 100% by |b{++},|e   
+254FM2c  decays, but no experimental data are available to elucidate the        
+254FM3c  level structure in {+254}Fm. Based on particle plus rotor model        
+254FM4c  phenomenological calculations, 2017So07 analyzed |b{++}+|e decays of   
+254FM5c  the 10-min and 28-min activities of {+254}Md to {+254}Fm, and          
+254FM6c  concluded that 10-min activity, assigned as |p1/2[521]~#|n1/2[620],    
+254FM7c  K|p=0-, J|p=1- is the ground state, and the 28-min activity, assigned  
+254FM8c  as |p7/2[514]~#|n1/2[620],K|p=3-, is a J|p=3- isomer lying within a few
+254FM9c  keV of the 10-min ground state. The authors further estimated decays   
+254FMAc  to the excited states in {+254}Fm, and surmised that the 10-min, 1-    
+254FMBc  ground state would populate the known g.s. and the first 2+ state in   
+254FMCc  {+254}Fm, and the 28-min 3- isomer would feed the known 2+ and 3+      
+254FMDc  members of the gamma-vibrational band at 694 and 793, respectively.    
+254FM c  Theoretical studies: consult the NSR database at www.nndc.bnl.gov      
+254FM2c  for 172 references dealing with theoretical calculations of            
+254FM3c  half-lives for different decay modes, binding energies, fission        
+254FM4c  characteristics, and other nuclear structure aspects.                  
+254FM d  Theoretical nuclear structure calculations of levels, J|p, bands and   
+254FM2d  B(EL): 2014Li15, 2012Jo05, 2010Ad04, 2009Al09, 2008Su07, 2002Pr01,     
+254FM3d  1976Iv04, 1970Ne08, 1965So04, 1965Be40                                 
+254FM d  Other theoretical studies:                                             
+254FM d  1965Be40: calculated energy of the 2+ |g-vibrational state,            
+254FM2d  contributions of proton and neutron states to its wave function, and   
+254FM3d  B(E2) values for gammas deexciting the state                           
+254FM d  1965So04: calculated energies of 0+, 0-, 1-, 2- collective states, and 
+254FM2d  B(EL) reduced transition probabilities for deexciting gammas           
+254FM d  1976Iv04, 1973Iv01: theoretical calculation of energies of 2-qp proton,
+254FM2d  2-qp neutron, single-phonon states, and B(EL) values for gammas        
+254FM3d  deexciting single-phonon states                                        
+254FM d  1970Ne08: calculated energies of K=0-, 1-, 2-, 3- octupole states and  
+254FM2d  their rotational band members, and B(E3; 0+ to 3-) values              
+254FM d  Calculation of total potential energies as functions of deformations:  
+254FM2d  1969Pa08.                                                              
+254FM d  Calculations of equilibrium deformations: 1983Bo15.                    
+254FM d  Calculations of fission barrier and/or ground-state SF half-lives:     
+254FM2d  1971Sc03, 1976Iw02, 1976Ra02, 1978Po09, 1980Lo12, 1983Bo15, 1983Cw01,  
+254FM3d  1985Lo17, 1985St22, 1987Mo16, 1988Hu13, 1989Cw01, 1989St20, 1992Bh03,  
+254FM4d  1996Lo08, 2002Wa22, 2004Ba17, 2004Bo34.                                
+254FM d  Calculations of T{-1/2}(|a): 1979Po23, 1997Mo25.                       
+254FM d  RMF calculation of ground-state properties: 2005La04.                  
+254FM d  1988Sa35: calculations of partial half-life for SF emission.           
+254FM d  Calculations of fission fragment kinetic energy distributions:         
+254FM2d  1995Ba47, 1995Ef04.                                                    
+254FM cG E,RI,M,MR$From 39.3-h {+254}Es |b{+-} decay                            
+254FM cL J$From band assignments, and other supporting comments as given.       
+254FM CL BAND(A)$Ground-state band                                              
+254FM CL BAND(B)$K|p=2+ |g-vibrational band                                     
+254FM  XA254ES B- DECAY (275.7 D)                                               
+254FM  XB254ES B- DECAY (39.3 H)                                                
+254FM PN                                                                     6  
+254FM  L 0.0          0+               3.240 H   2                          A   
+254FM2 L %A=99.9408 3 $ %SF=0.0592 3 $                                          
+254FMX L XREF=B                                                                 
+254FM cL $%|a/%SF=1689 {I8}, weighted                                           
+254FM2cL average of 1695 {I8} and 1664 {I17}, measured by 1967Fi03. Other       
+254FM3cL measurements: 1956Jo09.                                                
+254FM cL T$measurement by 1967Fi03. Earlier measurements: 3.24 h {I1}           
+254FM2cL (1956Jo09), 3.2 h (1954Ch23)                                           
+254FM  L 44.992    10 2+                                                    A   
+254FMX L XREF=B                                                                 
+254FM cL J$44.99|g, E2 to 0+                                                    
+254FM  G 44.992    10 100        E2                     1172                    
+254FM  L 149.349   16 4+                                                    A   
+254FMX L XREF=B                                                                 
+254FM cL J$104.35|g, E2 to 2+                                                   
+254FM  G 104.356   12  100      E2                      21.7                    
+254FM  L 693.66    4  2+                                                    B   
+254FMX L XREF=B                                                                 
+254FM cL J$693.67|g, E2 to 0+ g.s.                                              
+254FM  G 544.28    10 3.1    3  E2                     0.0612                   
+254FM  G 648.69    7  100    7  E2(+M1)   9      GT    0.0427 13                
+254FM  G 693.67    7  86     6  E2                     0.0359                   
+254FM  L 733.54    4  3+                                                    B   
+254FMX L XREF=B                                                                 
+254FM cL J$584.18|g and 688.68|g, E2(+M1) to 4+ and 2+, respectively; |b        
+254FM2cL feeding from 2+ parent rules out 4+, and 2+ is less likely from        
+254FM3cL absence of |g to 0+; gamma-vibrational band member                     
+254FM  G 39.881    10          (E2)                    2.10E3                   
+254FM  G 584.18    10 23.2   16 E2(+M1)  9       GT    0.0538 17                
+254FM  G 688.68    2  100    7  E2(+M1)  8       GT    0.0378 13                
+254FMF G FL=44.992                                                              

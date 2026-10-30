@@ -1,0 +1,70 @@
+272BH    ADOPTED LEVELS, GAMMAS                                  19NDS    201902
+272BH  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 148 (2019)$CUT=31-Jan-2019$      
+272BH  Q -220      SY 5200   SY 3260   SY  9300  50    2017WA10                 
+272BH cQ $Estimated uncertainties (2017Wa10): |DQ(|b{+-})=740, |DS(n)=680,      
+272BH2cQ |DS(p)=790.                                                            
+272BH cQ $S(2n)=11580 {I600}, S(2p)=8100 {I810} (syst,2017Wa10)                 
+272BH cQ $Other Q(|a): 9.21 MeV {I1} (2017Og01,2013Ru11), 9.18 MeV {I1}         
+272BH2cQ (2015Og05), 9.15 MeV {I6} (2004Og03)                                   
+272BH c  The {+272}Bh nuclide is produced in about 100 (or 113) correlated decay
+272BH2c  chains observed at Dubna, GSI and Berkeley, starting from {+288}Mc and 
+272BH3c  ending in {+268}Db, which decays by SF. Main references for production 
+272BH4c  of {+288}Mc: 2004Og03, 2005Og02, 2005Dm03, 2012Og02, 2013Ru11,         
+272BH5c  2015Ru11, 2013Og01, 2015Ga24, 2016Fo10. See {+288}Mc Adopted Levels    
+272BH6c  for details.                                                           
+272BH c  2012Og02 and 2013Og01 proposed an isomer in {+276}Mt with a half-life  
+272BH2c  of 4 s, which could decay by |a to {+272}Bh, but it has not been       
+272BH3c  confirmed in the work of 2013Ru11 (also 2016Fo10). 2013Ru11 suggest    
+272BH4c  that the isomer could be equally associated with {+280}Rg or {+272}Bh  
+272BH c  Data for excited states and gamma rays are from {+276}Mt |a decay      
+272BH2c  based on studies by 2013Ru11 (at GSI) and 2015Ga24 (at Berkeley)       
+272BH c  For theoretical studies, consult Nuclear Science References (NSR)      
+272BH2c  database at NNDC, BNL for 56 primary references dealing with the       
+272BH3c  half-lives and other aspects of nuclear structure in this mass region  
+272BH cL E$From E|g data                                                        
+272BH cG E(B)$Reversed ordering of the 166-136 |g cascade is also possible      
+272BH cG M$Multipolarities in square bracket are assumed by 2015Ga24 for GEANT  
+272BH2cG simulations.                                                           
+272BH cG M(A)$Determined by 2015Ga24 from their experimental data and GEANT     
+272BH2cG simulations, based on the expected counts of 166|g and 136|g as well   
+272BH3cG as the observation of |g|g-coincidences.                               
+272BH  XA276MT A DECAY (0.69 S)                                                 
+272BH PN                                                                     6  
+272BH  L 0.0                           10.5 S    +15-11                         
+272BH2 L %A AP 100                                                              
+272BHX L XREF=A                                                                 
+272BH cL $Only the |a decay mode has been observed.                             
+272BH cL E$The observed activity is assumed to correspond to the ground state of
+272BH2cL {+272}Bh, as seems suggested in level-scheme Fig. 3 of 2013Ru11.       
+272BH cL J$1-,2- from |W(proton)=1/2-, |W(neutron)=3/2+ (1997Mo25, theory)      
+272BH cL T$from 2016Fo10, based on detailed statistical analysis of 96 observed 
+272BH2cL correlated events, starting from {+288}Mc, in three laboratories       
+272BH3cL (FLNR-JINR-Dubna, GSI and Berkeley). Others: 10.6 s {I+16-11} (2017Og01
+272BH4cL review; 10.9 s {I+20-15} 2015Og05 review). Measurements:               
+272BH5cL 9.8 s {I+117-35} (2004Og03,2005Og02,2011Og07 from three correlated     
+272BH6cL events); 10.9 s {I+21-15} (2013Ru11,2015Ru11 from all the known decay  
+272BH7cL chains); 12.0 s {I+31-21} (2013Og01, update of 8.2 s {I+25-16} in      
+272BH8cL 2012Og02)                                                              
+272BH cL $E|a=8.55 to 9.20 MeV (2017Og01); 8.55-9.15 MeV (2015Og05);            
+272BH2cL 8.73 to 9.15 MeV, 9.21 MeV {I1} (2013Ru11); 9.07 MeV and 8.93 MeV      
+272BH3cL (2015Ru11); 9.02 MeV {I6} (2004Og03,2011Og07), from {+272}Bh |a decay  
+272BH  L 60.2      10                                                          ?
+272BHX L XREF=A                                                                 
+272BH  L 196.2     10                                                          ?
+272BHX L XREF=A                                                                 
+272BH cL E$226.2 keV if the ordering of 136|g-166|g cascade is reversed.        
+272BH2cL Ordering of the two |g rays is not established.                        
+272BH  G 136       1  100      (E1)                    0.0878               A   
+272BHF G FLAG=B                                                                 
+272BH  L 362.2      5                                                           
+272BHX L XREF=A                                                                 
+272BH  G 166       1 10        (E1)                    0.0543               A   
+272BHF G FLAG=B                                                                 
+272BH  G 302       1 5         [E1]                    0.0554                  ?
+272BH  G 362.2     5 100       [E1]                    0.0390                   
+272BH  L 434       1                                                           ?
+272BHX L XREF=A                                                                 
+272BH  G 434       1  100      [E1]                    0.0278                  ?
+272BH  L 479.6     23                                                          ?
+272BHX L XREF=A                                                                 
+272BH  G 479.6     23  100     [E1]                    0.0232                  ?

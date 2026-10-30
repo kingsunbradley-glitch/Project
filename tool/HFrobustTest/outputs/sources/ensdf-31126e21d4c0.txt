@@ -1,0 +1,33 @@
+242BK    ADOPTED LEVELS                                          22NDS    202211
+242BK  H TYP=FUL$AUT=M.J. Martin, C.D. Nesaraja$CIT=NDS 186, 261 (2022)$        
+242BK2 H CUT=31-Dec-2021$                                                       
+242BK  Q -1640     SY 6300   SY 3240   SY 6910   SY    2021WA16                 
+242BK cQ $|DQ(|b{+-})=140, |DS(n)=210, |DS(p)=140, |DQ(|a)=150 (syst,2021Wa16)  
+242BK cQ $S(2n)=14060 {I200}, S(2p)=8340 {I140} (syst,2021Wa16)                 
+242BK c  Assignment: 1979Wi03                                                   
+242BK c  {+235}U({+11}B,4n)  E=55-65 MeV, chem, excit;                          
+242BK c  {+238}U({+10}B,6n)  E=67 MeV;                                          
+242BK c  {+232}Th({+14}N,4n) E=77 MeV;                                          
+242BK c  {+232}Th({+15}N,5n) E=76-92 MeV, excit         .                       
+242BK c                                                                         
+242BK c  For references on theory, refer to the NSR file at the Web site        
+242BK2c  given in the abstract.                                                 
+242BK  XA246ES A DECAY                                                          
+242BK  L 0.0                             7.0 M   13                             
+242BKX L XREF=A                                                                 
+242BK2 L %EC+%B+=99.5 5$%A=0.5 5$                                               
+242BK cL %EC+%B+$$ Only the |e+|b{++} decay mode has been observed. No |a or SF 
+242BK2cL activities were identified: %|a<1, %SF<0.03 (1979Wi03).                
+242BK cL T         measured by 1979Wi03.                                        
+242BK  L 150       AP                                                           
+242BKX L XREF=A                                                                 
+242BK  L 0+X                           9.5 NS    20                             
+242BK2 L %SF=100                                                                
+242BK cL           Only SF decay has been observed.                             
+242BK cL T         measured by 1972Wo07.                                        
+242BK cL           Assignment: {+241}Am(|a,3n) excit (1972Wo07).                
+242BK  L 0+Y                           600 NS    100                            
+242BK2 L %SF=100                                                                
+242BK cL           Only SF decay has been observed.                             
+242BK cL T         measured by 1972Wo07. Other measurement: 1972Ga42.           
+242BK cL           Assignment: {+241}Am(|a,3n) excit (1972Wo07).                

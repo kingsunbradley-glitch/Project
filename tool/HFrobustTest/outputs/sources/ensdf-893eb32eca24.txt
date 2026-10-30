@@ -1,0 +1,70 @@
+265RF    ADOPTED LEVELS                                          26NDS    202603
+261RF  H TYP=FUL$AUT=M. GUPTA$CIT=NDS 209, 499 (2026)$CUT=1-Jan-2018$           
+265RF  Q -1690     SY 5460   SY 4970   SY 7810   SY    2021Wa16                 
+265RF cQ Q-$estimated uncertainty=420 keV                                       
+265RF cQ SN$estimated uncertainty=510 keV                                       
+265RF cQ SP$estimated uncertainty=570 keV                                       
+265RF cQ QA$estimated uncertainty=300 keV from systematics.                     
+265RF c  1999Ni03: All data retracted and experiment not confirmed by 2003Gr26. 
+265RF c  2010El06: Descendant of {+285}Fl produced in the reaction              
+265RFac  {+242}Pu({+48}Ca,5n) at E=256 MeV at the LBNL cyclotron facility. The  
+265RFac  cross-section for the production of 114 was 0.6 pb {I+9-5}.            
+265RF2c  {+265}Rf was identified as last member of the |a-decay chain of        
+265RF2c  {+285}Fl ending the sequence by SF. EVRs were separated by the         
+265RFac  Berkeley Gas Filled Separator (BGS) with a calculated efficiency of 69%
+265RF3c  for {+285}Fl. A MWPC was placed at the focal plane of the BGS through  
+265RFac  which the EVRs passed prior to implantation in the focal plane         
+265RFac  detector (FPD). The FPD consisted of 48 vertical strip silicon         
+265RFac  detectors. Additional "upstream" detectors (UD) were placed            
+265RFac  perpendicular                                                          
+265RFac  to the FPD arrangement ensuring that the overall measuring efficiency  
+265RFac  of the detector assembly was about 75% for detecting full-energy       
+265RFac  deposits in either the FPD or FPD-UD combination                       
+265RFac  and 100% for detecting at least one fragment from SF decay.            
+265RFac  A HPGe clover detector was also mounted behind a 2-mm-thick aluminum   
+265RFac  vacuum window directly behind the FPD with an estimated 13% efficiency 
+265RFac  for measuring x-rays from SHE from recoils in the FPD. {+265}Rf was    
+265RFac  identified as the last SF decaying member in the first (of two) decay  
+265RFac  with the properties: E(SF)= 208.1 MeV with a decay time of 152 s       
+265RFac  corresponding to a half life of 105 s {I+505-48} (evaluator).          
+265RF c  2015Ut02: Descendant of {+285}Fl produced in {+240}Pu({+48}Ca,3n),     
+265RFac  at the U400 cyclotron using the DGFRS at JINR, Dubna. This nucleus was 
+265RFac  observed as the last member of three decay chains at a laboratory      
+265RFac  energy of 245 MeV. EVRs were separated in-flight with a transmission   
+265RFac  efficiency of about 35% {I5} for Z=114 nuclei. Recoils passed          
+265RFac  through a tof system consisting of two MWPCs before being implanted    
+265RFac  in the detectors. The silicon detectors at the focus were modified     
+265RFac  to increase the position resolution and thus reduce the probability of 
+265RFac  random events. The detection efficiency of the double sided silicon    
+265RFac  detectors (DSSD) was about 52% for E|a about 10 MeV. The data          
+265RFac  acquisition system allowed for the detection of alpha or SF signals    
+265RFac  in the sub-microsecond time interval following the implant due to the  
+265RFac  inclusion of PIXIE-16 modules provided by ORNL. Three events were      
+265RFac  attributed to this nucleus with the following energies and decay times:
+265RFac  218 MeV, 10.37 s (beam on for event); 220 MeV, 99.95 s (beam off for   
+265RFac  event) and 166 MeV, 491.06 s (beam on for entire decay chain).         
+265RFac  The combined half-life of three events (1 from 2010El06 and 2 from     
+265RFac  2015Ut02, excluding the 491.06 s value due to the ambiguity in its     
+265RFac  measurement) is 60.6 s {I+82.8 -22.2}                                  
+265RFac  estimated by the evaluator using the methods of 1984Sc13.              
+265RF c  Other: 2016Ho09                                                        
+265RF c  Theory: See Nuclear Science References                                 
+265RF c  Assignment: Descendant of {+242}Pu({+48}Ca,5n){+285}Fl, E=256 MeV      
+265RFac  (2010El06) and {+240}Pu({+48}Ca,3n){+285}Fl at E=245 MeV (2015Ut02).   
+265RF  XA269SG A DECAY (3.1 M)                                                  
+265RF  L 0                             1.0 M     +12-3                          
+265RF cL T$from 1 SF event (2010El06) and 2 SF events                           
+265RFacL (2015Ut02) as provided in Table 2 (2015Ut02). Other: measured total    
+265RFacL half-life of 61 s {I+84-22} from Table 4 (2016Ho09).                   
+265RF2 L %SF AP 100                                                             
+265RF cL $%SF from a total of 4 SF events from 2010El06 and 2015Ut02            
+265RF3cL and 3 events from 2016Ho09                                             
+265RF2 L %A LE 0.2 (2016Ho09)                                                   
+265RF cL $T(calc): SF decay half-life |? 1 s (1997Sm03); |a                     
+265RF2cL decay half-lives: 6.58 h (generalized liquid drop model, 2008Ro06),    
+265RF3cL 29.6 h (Viola-Seaborg-Sobiczewski formulas, 2008Ro06); |?2.8 h         
+265RF4cL (1997Sm03), 5.6 y (1997Mo25).                                          
+265RFX L XREF=A                                                                 
+265RF cL E$Assuming SF occurs from the ground state of {+256}Rf                 
+265RF cL J$3/2+ proposed in calculations by 1997Mo25                            
+265RF cL $|b{-2}(Theory): 0.200 (1995Mo29); 0.237 (2003Mu26)                    

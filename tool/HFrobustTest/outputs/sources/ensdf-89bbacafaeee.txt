@@ -1,0 +1,47 @@
+262RF    ADOPTED LEVELS                                          01NDS    200112
+262RF  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94, 131 (2001)$CUT=1-Aug-2001$          
+262RF  Q -3.9E3    SY7.00E3  SY4.5E3   SY8.49E3  SY    2012WA38                 
+262RF cQ $Note: Current evaluation has used the following Q record              
+262RF2cQ -3945     syst 6985   syst 4516   syst 8490   syst    1995Au04         
+262RF c                                                                         
+262RF t  Assignment:                                                            
+262RF2t          {+244}Pu({+22}Ne,4n) excitation function:                      
+262RF3t             E({+22}Ne)=114.4, 109.8, 119.0, and 123.6 MeV  (1996La11)   
+262RF4t                                                                         
+262RF c  Theoretical calculations:                                              
+262RF c  Deformation, Q(|a), E(2+) and I|a(to 2+)/I|a(0+) were calculated by    
+262RF2c  2001Mu06.                                                              
+262RF c  For calculations of fission barrier, see 1974Ju02, 1983Cw01,           
+262RF2c  1987Mi30, 2001Mo07.                                                    
+262RF c  T{-1/2}(SF) was calculated by 1976Ra02, 1978Po09, 1985Lo17,1989Mo03,   
+262RF2c  1989St20.                                                              
+262RF c  T{-1/2}(|a) was calculated by 1997Po18 and 1997Mo25.                   
+262RF c  Decay by pion was studied, and |p/SF probability was calculated        
+262RF2c  by 1988Io04.                                                           
+262RF  XA266SG A DECAY                                                          
+262RF  L 0.0          0+               2.3 S     4                              
+262RF cL T         the measured half-lives are 1.2 s {I+10-5} (obtained by      
+262RF2cL 1994La22 from correlation times for |a-SF events in {+266}Sg           
+262RF3cL |a decay), 2.1 s {I2} (1996La11), 2.5 s {I+24-16} (1998Tu01). Earlier  
+262RF4cL measurements: 1985So03, 1978NiZW.                                      
+262RF2 L %SF LE 100                                                             
+262RF cL           Only the SF decay mode of {+262}Rf has been observed.        
+262RF cL           No |a decay from {+262}Rf was observed, and an upper         
+262RF2cL limit of 0.8% was set by 1996La11. |a-SF correlation ({+258}No         
+262RF3cL decays by SF) was searched by 2000La34, none was detected, and         
+262RF4cL an upper limit of 3% was estimated.                                    
+262RF cL           Various calculations for spontaneous fission half-life gave  
+262RF2cL values ranging from 300 |ms to 15 min. See 1989Mo03, 1989St20,         
+262RF3cL 1985Lo17, 1978Po09 and 1976Ra02.                                       
+262RF cL           Calculated partial half-life for |a decay by                 
+262RF2cL various methods also do not agree with each other: T{-1/2}(|a)=2630 s  
+262RF3cL by 1997Mo25; T{-1/2}(|a)=7 s by 1997Po18 [E|a=8670 was used in their   
+262RF4cL semiempirical formula; no correction has been made for                 
+262RF5cL E|a(g.s. to g.s.)|?8360 from Q(|a)=8490 syst (1995Au04)];              
+262RF6cL log T{-1/2}(|a)=-7.42 y [T{-1/2}(|a)=1.2 s] by 1976Ra02.               
+262RF cL           Calculations of 1997Mo25 gave T{-1/2}(|b)>100 s.             
+262RFX L XREF=A                                                                 
+262RF  L 254       50                                                          ?
+262RFX L XREF=A                                                                 
+262RF cL           See {+266}Sg |a decay data set for a comment about this      
+262RFxcL level.                                                                 

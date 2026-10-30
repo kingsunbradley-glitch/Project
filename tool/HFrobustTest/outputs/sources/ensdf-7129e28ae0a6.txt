@@ -1,0 +1,250 @@
+218AC    ADOPTED LEVELS, GAMMAS                                  19NDS    201911
+218AC  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Murray Martin et al.,$         
+218AC2 H CIT=NDS 160, 405 (2019)$CUT=30-Oct-2019$                               
+218AC  Q -1520     50 5930   50 2340   50 9380   50    2017WA10                 
+218AC cQ $S(2n)=13440 {I50}, S(2p)=6710 {I50} (2017Wa10)                        
+218AC d  {+218}Ac evaluated by M.S. Basunia, M.M. Grinder, and M.J. Kobra.      
+218AC c  Assignment: daughter of {+222}Pa |a decay (1970Bo13)                   
+218AC d  Deduced mass excess: 1976Da20                                          
+218AC d  Yield measurement: 2005Li17                                            
+218AC c  Theory references: consult NSR database (www.nndc.bnl.gov/nsr/)        
+218AC2c  for 15 primary references for calculations of half-lives               
+218AC3c  of radioactive decays, and two for nuclear structure.                  
+218AC d  Calculated Q(|a) and T{-1/2}: 2001Mo07, 1973Ma52                       
+218AC d  Calculated partial T{-1/2} for {+5}He emission: 1984Po11               
+218AC d  Review of |a decay data: 1975Ka37                                      
+218AC c  Review of level data for nuclides with reflection asymmetry: 1996Bu45  
+218AC cG E,RI,M$From {+209}Bi({+12}C,3n|g)                                      
+218AC cL E$From least-squares fit to E|g data                                   
+218AC cL J$All assignments are made from the |g-ray multipolarities,            
+218AC2cL E1, E2, M1 branching ratios, and shell-model considerations and        
+218AC3cL band associations. For high-spin (J>10) levels, ascending order of     
+218AC4cL spins with excitation energy is assumed.                               
+218AC CL BAND(A)$Band based on (9-), s=+1.                                      
+218AC2cL Configuration=(|ph{-9/2}~#|ng{-9/2})~#(0+,2+,..core).                  
+218AC CL BAND(a)$Band based on (12+), s=+1.                                     
+218AC2cL Configuration=(|ph{-9/2}~#|ng{-9/2})~#(3-,5-,..core)                   
+218AC CL BAND(B)$Band based on (12-), s=-1.                                     
+218AC2cL Configuration=(|ph{-9/2}~#|ni{-11/2})~#(0+,2+,..core)                  
+218AC CL BAND(b)$Band based on (11+), s=-1.                                     
+218AC2cL Configuration=(|ph{-9/2}~#|ni{-11/2})~#(3-,5-,..core)                  
+218AC CL BAND(E)$Band based on (11+), s=-1.                                     
+218AC2cL Configuration=(|pi{-13/2}~#|ng{-9/2})~#(0+,2+,..core)                  
+218AC CL BAND(e)$Band based on (14-), s=-1.                                     
+218AC2cL Configuration=(|pi{-13/2}~#|ng{-9/2})~#(3-,5-,..core)                  
+218AC  XA222PA A DECAY (4.1 MS)                                                 
+218AC  XB209BI(12C,3NG)                                                         
+218AC PN                                                                     6  
+218AC  L 0.0          (1-)             1.03 US   5                              
+218AC2 L %A=100                                                                 
+218AC cL E$From {+218}Ac |a decay. Only the |a-decay mode has been observed.    
+218AC2cL Theoretical partial T{-1/2}=13.1 s for {+218}Ac |e+|b{++} decay        
+218AC3cL (2019Mo01) gives %|e+%|b{++}=8|*10{+-6}                                
+218AC cL J$from the systematics of odd-odd nuclides in this mass region, the    
+218AC2cL probable configuration is |ph{-9/2}~#|ng{-9/2}, as proposed in         
+218AC3cL {+209}Bi({+12}C,3n|g).                                                 
+218AC cL T$from |a decay. Weighted average of 0.98 |ms {I12} (2017Su18),        
+218AC2cL 0.96 |ms {I5} (2015Kh09), 1.06 |ms {I9} (1989Mi17), 1.31 |ms {I12}     
+218AC3cL (1989De06) and 1.12 |ms {I11} (1983Sc23). Others: 1.8 |ms {I1}         
+218AC4cL (2019Mi08, from correlated |a decays in {+226}Np and {+222}Pa decay    
+218AC5cL chains, authors also give T{-1/2}=1.5 |ms {I1}); 0.27 |ms {I4}         
+218AC6cL (1970Bo13) seem discrepant values. Note that statistics is poor        
+218AC7cL in 2019Mi08.                                                           
+218AC  L 0+X                                                                    
+218ACX L XREF=B                                                                 
+218AC cL E$see comment for |?407-keV level                                      
+218AC  L 122.5+X   2                                                            
+218ACX L XREF=B                                                                 
+218AC cL E$see comment for |?529-keV level                                      
+218AC  G 122.5     2  100      M1                      9.56                     
+218ACF G FL=0+X                                                                 
+218AC  L 122.5+Y      (9-)              32 NS    9                          AM1 
+218AC2 L %IT=100                                                                
+218ACX L XREF=B                                                                 
+218AC DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+218AC cL E$y=x+z, where z is expected to be less than 100 keV.                  
+218AC cL J$from the systematics of neighboring odd-odd nuclides,                
+218AC2cL probable configuration=|ph{-9/2}~#|ng{-9/2}                            
+218AC cL T$from delayed component in (122.5|g)(total |g)(t) curve (1994De04).   
+218AC2cL 1994De04 noted that mult(122.5|g)=M1 would give a much shorter         
+218AC3cL half-life for 122.5+x level, and suggested one or more intermediate    
+218AC4cL transitions of <100 keV from the (9-) state to the 122.5+x level.      
+218AC5cL 1994De04 also pointed out contribution from a prompt component in the  
+218AC6cL (122.5|g)(total |g)(t) distribution, which may suggest population of   
+218AC7cL the 122.5+x level by |g rays from higher levels of short half-lives.   
+218AC8cL Half-life of 32 ns is assigned by the evaluators to the 122.5+y, (9-)  
+218AC9cL level, while noting that 1994De04 did not explicitly assign this       
+218ACAcL half-life to the (9-) or any other level, either in their level-scheme 
+218ACBcL Fig. 2 or in the text of their paper. Occurrence of (1-) ground states 
+218ACCcL and (9-) isomers in {+216}Ac; and also in N=129 isotones {+214}At and  
+218ACDcL possibly in {+212}Bi seem to support the assignment of (9-) isomer in  
+218ACEcL {+218}Ac.                                                              
+218AC  G  Z                                                                    S
+218ACF G FL=122.5+X                                                             
+218AC cG E$z corresponds to either one or more gamma rays, with energy          
+218AC2cG of <100 keV                                                            
+218AC  L 193       AP                                                           
+218ACX L XREF=A                                                                 
+218AC  L 226.90+Y  24  (9-)                                                     
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=1, 189.2 M1 |g from 416.1+y (10-) level                          
+218AC  L 407       AP                                                           
+218ACX L XREF=A                                                                 
+218AC cL E$this level may correspond to 0+x level from {+209}Bi({+12}C,3n|g)    
+218ACxcL reaction                                                               
+218AC  L 416.10+Y  14  (10-)                                                    
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=1, 293.6 (M1) |g to 122.5+y, (9-) level;                         
+218AC2cL probable configuration=(|ph{-9/2}~#|ni{-11/2})10- ~# 0+ core           
+218AC  G 189.2     2  100    9 M1                      2.79                     
+218AC  G 293.6     2  24     3 (M1)                    0.820                    
+218ACF G FL=122.5+Y                                                             
+218AC  L 506.99+Y  13  (11+)            103 NS   11                         EM2 
+218AC2 L %IT=100                                                                
+218ACX L XREF=B                                                                 
+218AC cL J$M2 |g to (9-); (E1) |g to (10-); possible bandhead                   
+218AC cL T$384.5|g(t) in {+209}Bi({+12}C,3n|g)                                  
+218AC  G 91.0      2  85.3   24 (E1)                   0.1461 23                
+218ACB G BE1W=6.5E-7 8                                                          
+218AC  G 384.5     2  100.0  14 M2                     1.201                    
+218ACF G FL=122.5+Y                                                             
+218ACB G BM2W=0.31 4                                                            
+218AC  L 529       AP                                                           
+218ACX L XREF=A                                                                 
+218AC cL E$this level may correspond to 122.5+x level from                      
+218AC2cL {+209}Bi({+12}C,3n|g) reaction which deexcites by 122.5|g.             
+218AC  L 560       AP                                                           
+218ACX L XREF=A                                                                 
+218AC  L 580       AP                                                           
+218ACX L XREF=A                                                                 
+218AC  L 600.94+Y  16  (10-)                                                    
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=1, M1 |g to (9-).                                                
+218AC2cL Possible configuration=(|ph{-9/2}|ng{-9/2})8- ~# 2+ (unfavored)        
+218AC cL E$the ordering of the 81-478 cascade is not established                
+218AC2cL experimentally, the ordering given here is preferred by 1994De04       
+218AC3cL from theoretical considerations                                        
+218AC  G 478.5     2   100     M1                      0.217                    
+218ACF G FL=122.5+Y                                                             
+218AC  L 630.38+Y  14  (11-)                                                A   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2, E2 |g to (9-)                                                 
+218AC  G 507.8     2  100      E2                      0.0392                   
+218ACF G FL=122.5+Y                                                             
+218AC  L 681.98+Y  14  (11+)                                                b   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=1, E1 |g to (10-); |DJ=0, M1 |g to (11+)                         
+218AC  G 81.1      2  24     10 (E1)                   0.198                    
+218AC  G 175.0     2  26     10 M1                     3.48                     
+218AC  G 265.8     2  100    14 E1                     0.0476                   
+218AC  L 789.16+Y  15  (12+)                                                a   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=1, E1 |g to (11-); |DJ=1, M1 |g to (11+)                         
+218AC  G 107.0     2  7.8    22 (M1+E2)                                         
+218AC  G 158.8     2  100    13 E1                     0.1601                   
+218AC  G 282.3     2  15     4  M1                     0.914                    
+218AC  L 990.45+Y  15  (12-)                                                B   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2, E2 |g to (10-); |DJ=1 |g to (11+)                             
+218AC  G 308.5     2  13.8   25  D                                              
+218AC  G 360.0     2  2.9    10 [M1]                   0.469                    
+218AC  G 574.3     2  100    6 E2                      0.0295                   
+218AC  L 1044.89+Y 17  (13+)                                                E   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2, E2 |g to (11+)                                                
+218AC  G 537.9     2   100     E2                      0.0342                   
+218AC  L 1088.50+Y 17  (13-)                                                A   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2 |g to (11-); |DJ=1, E1 |g to (12+)                             
+218AC  G 299.3     2  100    10 E1                     0.0364                   
+218AC  G 458.1     2  50     4  Q                                               
+218AC  L 1181.93+Y 17  (13+)                                                b   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2, E2 |g to (11+); (E1) |g to (12-)                              
+218AC  G 137.0     2  3.3    9 [M1+E2]                 4.8    22                
+218AC  G 191.4     2  74     8 (E1)                    0.1024                   
+218AC  G 500.1     2  100    7 E2                      0.0406                   
+218AC  L 1258.07+Y 19  (14+)                                                a   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2 |g to (12+); |DJ=1, E1 |g to (13-)                             
+218AC  G 169.5     2  64     4 E1                      0.1369                   
+218AC  G 468.9     2  100    11 Q                                               
+218AC  L 1335.86+Y 22    (14-)                                              e   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=1 |g to (13+)                                                    
+218AC  G 291.0     2   100      D                                               
+218AC  L 1418.54+Y 17    (14-)                                              B   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2 |g to (12-); |DJ=1, M1 |g to (13-)                             
+218AC  G 236.6     2  76     5 E1                      0.0622                   
+218AC  G 330.1     2  35     4 M1                      0.595                    
+218AC  G 373.5     2  8      3   D                                              
+218AC  G 428.1     2  100    7  Q                                               
+218AC  L 1509.83+Y 19    (15+)                                              E   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2, E2 |g to (13+); |DJ=1, (E1) |g to (14-)                       
+218AC  G 174.0     2  25     5 (E1)                    0.1286                   
+218AC  G 465.1     2  100    6 E2                      0.0483                   
+218AC  L 1557.23+Y 19  (15-)                                                A   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2 |g to (13-); |DJ=1, E1 |g to (14+)                             
+218AC  G 299.1     2  100    10 E1                     0.0364                   
+218AC  G 468.7     2  36     5  Q                                               
+218AC  L 1625.41+Y 19     (15+)                                             b   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2, E2 |g to (13+); |DJ=1, (E1) |g to (14-)                       
+218AC  G 115.6     2  6.5    32 [M1+E2]                8.4    29                
+218AC  G 206.8     2  90     12 (E1)                   0.0853                   
+218AC  G 443.5     2  100    14 E2                     0.0544                   
+218AC  L 1697.60+Y 23     (16+)                                             a   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2, E2 |g to (14+); |DJ=1, E1 |g to (15-)                         
+218AC  G 140.4     2  45     4 E1                      0.215                    
+218AC  G 439.5     2  100    6 E2                      0.0556                   
+218AC  L 1789.45+Y 19  (16-)                                                B   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2, E2 |g to (14-); |DJ=1, M1 |g to (15-)                         
+218AC  G 164.0     2  12.7   10 E1                     0.1482                   
+218AC  G 232.1     2  15.3   13 M1                     1.574                    
+218AC  G 279.8     2   100     (E1)                    0.0423                   
+218AC  G 370.9     2  100    9 E2                      0.0868                   
+218AC  L 1843.1+Y  3    (16-)                                               e   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=1 |g to (15+);                                                   
+218AC  G 333.2     2   100   18  D                                              
+218AC  G  507.0                                                                ?
+218AC cG E$this |g is expected but not seen with certainty probably because     
+218AC2cG it is obscured by strong 507.8|g                                       
+218AC  L 1939.4+Y  3   (17+)                                                E   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2 |g to (15+); (E1) |g to (16-)                                  
+218AC  G 96.2      2  48     16 (E1)                   0.1262 19                
+218AC  G 429.6     2  100    11 Q                                               
+218AC  L 1990.2+Y  3   (17+)                                                    
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=1, E1 |g to (16-)                                                
+218AC  G 200.7     2  100      E1                      0.0915                   
+218ACF G FL=1789.45+Y                                                           
+218AC  L 2025.8+Y  3   (17+)                                                b   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2 |g to (15+); possible |g to (16-)                              
+218AC  G 236.1                                                                 ?
+218ACF G FL=1789.45+Y                                                           
+218AC  G 400.4     2  100    24  Q                                              
+218AC  L 2121.0+Y  4   (18-)                                                e   
+218ACX L XREF=B                                                                 
+218AC cL J$|g to (16-); possible |g to (17+)                                    
+218AC  G 181.5                                                                 ?
+218AC  G 277.9     2  100    38 [E2]                   0.203                    
+218AC  L 2141.0+Y  3   (18+)                                                a   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2 |g to (16+)                                                    
+218AC  G 443.4     2   100      Q                                               
+218AC  L 2239.6+Y  4   (19+)                                                E   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=2 |g to (17+)                                                    
+218AC  G 300.2     2   100      (Q)                                             
+218AC  L 2630.2+Y  4   (20+)                                                a   
+218ACX L XREF=B                                                                 
+218AC cL J$|DJ=(2) |g to (18+)                                                  
+218AC  G 489.2     2   100      (Q)                                             

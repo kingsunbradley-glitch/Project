@@ -1,0 +1,38 @@
+218FR    222AC A DECAY (4.9 S)         1982BO04,1972ES03,1964MC2119NDS    201911
+218FR  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Murray Martin et al.,$         
+218FR2 H CIT=NDS 160, 405 (2019)$CUT=30-Oct-2019$                               
+218FR c  1982Bo04: measured E|a                                                 
+218FR c  1972Es03: measured E|a, I|a, half-life of decays of {+222}Ac and       
+218FR2c  {+218}Fr. Deduced hindrance factors.                                   
+218FR c  1964Mc21: measured E|a, I|a                                            
+218FR c  Other: 1991Ga28: |a|a correlations from successive |a decays           
+218FR cA IA$|a intensity per 100 |a decays. These I|a data are the values       
+218FR2cA recommended by 1991Ry01 from I|a measured by 1964Mc21.                 
+218FR cA HF$The nuclear radius parameter r{-0}({+218}Fr)=1.5497 {I30}           
+218FR2cA is deduced from interpolation (or unweighted average) of radius        
+218FR3cA parameters of the adjacent even-even nuclides.                         
+222AC  P 0.0          1-               4.9 S     5              7137.4    20    
+222AC cP J$From {+222}Ac Adopted Levels in the ENSDF database (March 2011       
+222AC2cP update).                                                               
+222AC cP T$Weighted average of 5 s {I1} (1972Es03), 4.2 s {I5} (1958To25) and   
+222AC2cP 5.5 s {I5} (1952Me13). Value is 5.0 s {I5} in {+222}Ac Adopted Levels  
+222AC3cP in the ENSDF database.                                                 
+222AC cP QP$From 2017Wa10                                                       
+218FR  N                       0.99    1                                        
+218FR cN BR$%|a=99 {I1}. Possible |e branching was estimated by 1966Wa23 as 1-2%
+218FR2cN from I|a(7.13-MeV |a) of {+218}Rn shown in {+222}Ac |a spectrum by     
+218FR3cN 1964Mc21. Theoretical partial T{-1/2}>100 s for {+222}Ac |e+|b{++}     
+218FR4cN decay (2019Mo01) gives (%|e+%|b{++})<5                                 
+218FR  L 0             1-                1.1 MS  +5-4                           
+218FR cL J,T$from the Adopted Levels                                            
+218FR  A 7008.6    20 94     1   3.2   4                                        
+218FR cA E$recommended by 1991Ry01 from energies measured by 1982Bo04,          
+218FR2cA 1972Es03 and 1964Mc21. The original energies were changed because of   
+218FR3cA changes in calibration energies used. The original energies and the    
+218FR4cA changes (+ for increased energies, and - for decreased E|a) are        
+218FR5cA 7013 {I2} (-4.4) (1982Bo04), 7010 {I20} (+1.4) (1972Es03), 6998 (-1.6) 
+218FR6cA (1964Mc21). Others: 1988Hu08, 1968Ha14, 1958To25, 1951Me10             
+218FR  L 46        11                                                           
+218FR  A 6963      10 6      1    35   7                                        
+218FR cA E$from 1964Mc21. Original energy has been increased by 11 keV,         
+218FR2cA as recommended by 1991Ry01.                                            

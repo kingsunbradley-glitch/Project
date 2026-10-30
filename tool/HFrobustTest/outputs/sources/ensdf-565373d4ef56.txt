@@ -1,0 +1,54 @@
+213TH    ADOPTED LEVELS, GAMMAS                                  22NDS    202203
+213TH  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 181, 475 (2022)$CUT=1-Jan-2022$      
+213TH  Q -7530     60 8062   14 2468   14 7837   7     2021WA16                 
+213TH c  Assignment: {+206}Pb({+16}O,9n) excit (1968Va18),                      
+213TH2c  {+177}Hf({+40}Ar,4n) excit (1980Ve01).                                 
+213TH c  2002Mi20: {+154}Sm({+64}Ni,5n), E=4-5 MeV/nucleon, measured            
+213TH2c  evaporation residue cross section |s.                                  
+213TH c  2002Sa22, 2003Ik01: {+138}Ba({+82}Se,7n), E(cm)=193-251 MeV and        
+213TH2c  {+134}Ba({+82}Se,3n); measured evaporation residue cross section |s.   
+213TH c  2007Ma57 and 2008La14: 2007Ma57 reported long-lived isomer (half-life  
+213TH2c  |>1 |* 10{+8} year) for {+213}Th from mass measurement and abundances  
+213TH3c  relative to {+232}Th in a study of naturally-occurring thorium using   
+213TH4c  inductively coupled plasma-sector field mass spectrometry. Not         
+213TH5c  confirmed by accelerator mass spectrometry (AMS) measurements          
+213TH6c  (2008La14). An upperlimit of 1.2 |* 10{+12} was determined for the     
+213TH7c  detection of {+213}Th/{+232}Th.                                        
+213TH cG E,RI$From ({+54}Cr,5n|g)                                               
+213TH  XA217U A DECAY                                                           
+213TH  XB164DY(54CR,5NG)                                                        
+213TH  XC176HF(40AR,3NG)                                                        
+213TH dG CC$From BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+213TH PN                                                                     6  
+213TH  L 0             5/2-            146 MS    +22-19                         
+213THX L XREF=ABC                                                               
+213TH2 L %A AP 100                                                              
+213TH cL J         favored |a decay to 5/2- g.s. of {+209}Ra. Configuration:    
+213TH2cL |n (f{-5/2}{+-1}).                                                     
+213TH cL           Only |a decay is reported. Branching for a possible          
+213TH2cL (|e+|b{++}) decay to {+213}Ac is estimated by the evaluator as |?1.4%  
+213TH3cL from T{-1/2}(|e+|b{++})|?10 second, calculated by 1973Ta30 using |b    
+213THxcL gross theory. E|a=7700 keV {I30} (1997Mi03).                           
+213TH cL T         Weighted average of 150 ms {I25} (1968Va18 - 7690|a(t))      
+213TH2cL and 130 ms {I+50-30} (1980Ve01 - 7689|a(t)).                           
+213TH  L 799       1  (9/2-)                                                    
+213THX L XREF=BC                                                                
+213TH cL J         381|g M2 from (13/2)+                                        
+213TH  G 799       1  100                                                       
+213TH  L 1180      1  (13/2+)          8.3 US    8                           M  
+213THX L XREF=BC                                                                
+213TH cL J$ Proposed by 2007Kh22 in analogy of 13/2+ isomeric states in         
+213TH2cL {+205}Po, {+207}Po, {+209}Rn, and {+211}Ra. Configuration:             
+213TH3cL |n (i{-13/2}{+-1}).                                                    
+213TH cL T$From ({+40}Ar,3n|g) - 2021Zh24. Other value 1.3 |ms {I3}             
+213TH2cL (({+54}Cr,5n|g) - reported as 1.4 |ms {I4} in 2007Kh22) is discrepant. 
+213TH3cL The 2021Zh24 value is chosen based on the transition strenghs          
+213TH4cL B(M2)(W.u.) of the 13/2+ isomers for N=123 isotones: 0.0056 {I+6-5}    
+213TH5cL ({+213}Th), 0.0046 {I3} ({+211}Ra) (2013Si17), 0.0043 {I5} ({+209}Rn)  
+213TH6cL (2015Ch30), and 0.0026 {I2} ({+207}Po) (2011Ko04).                     
+213TH  G 381       1  100      (M2)                    1.331  22                
+213THS G  KC=0.981 16$LC=0.261 5$MC=0.0660 11                                   
+213THS G  NC=0.0178 3$OC=0.00420 7$PC=0.000805 14$QC=7.14E-5 12                 
+213TH cG M$ from |a(exp)=0.77 {I29}, deduced from intensity balance             
+213TH2cG at 799 level ({+54}Cr,5n|g) (2007Kh22).                                
+213THB G BM2W=0.0056 +6-5                                                       

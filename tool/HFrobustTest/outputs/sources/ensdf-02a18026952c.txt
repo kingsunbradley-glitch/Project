@@ -1,0 +1,85 @@
+220PA    ADOPTED LEVELS                                          26NDS    202609
+220PA  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220PA2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220PA  Q -2740     SY 6380   70 1470   60 9704   11    2021WA16                 
+220PA cQ $|DQ(|b{+-})=100 (syst,2021Wa16)                                       
+220PA cQ $S(2n)=14514 {I23}, S(2p)=5150 {I60}, Q(|e)=5589 {I20}, Q(|ep)=1420    
+220PA2cQ {I50} (2021Wa16)                                                       
+220PA c  2023Lu04: {+186}W({+40}Ar,X) E=188 MeV {+40}Ar beam was produced from  
+220PA2c  the Sector-Focusing Cyclotron (SFC) of the Heavy Ion Research Facility 
+220PA3c  in Lanzhou (HIRFL). Evaporation residues were identified and separated 
+220PA4c  using SHANS separator and implanted into a double-sided silicon strip  
+220PA5c  detector. Measured E|a, I|a, (evaporation residue)|a correlations.     
+220PA6c  Deduced T{-1/2}.                                                       
+220PA d  2023Lu04 was compiled by E.A. McCutchan (NNDC, BNL) on January 29, 2024
+220PA c  2019Ya04: {+184}W({+40}Ca,X) E=206 MeV {+40}Ca beam was produced from  
+220PA2c  the Sector-Focusing Cyclotron (SFC) of the Heavy Ion Research Facility 
+220PA3c  in Lanzhou (HIRFL). Evaporation residues were identified and separated 
+220PA4c  using SHANS separator and implanted into three 300-|mm double-sided    
+220PA5c  silicon strip detectors. Measured E|a, I|a, (evaporation residue)|a    
+220PA6c  correlations. Deduced T{-1/2} using digital pulse fitting method.      
+220PA d  2019Ya04 was compiled by E.A. McCutchan (NNDC, BNL) on April 28, 2022  
+220PA c  2019Zh54: W({+40}Ar,X) E=190 MeV {+40}Ar beam was produced from the    
+220PA2c  Sector Focusing Cyclotron of the Heavy Ion Research Facility in Lanzhou
+220PA3c  (HIRFL). Target was 200 |mg/cm{+2} natural tungsten. Evaporation       
+220PA4c  residues (ERs) were identified with two multi-wire proportional        
+220PA5c  counters (MWPCs), and implanted into three position-sensitive strip    
+220PA6c  detectors (PSSDs) combined with eight non-position-sensitive side      
+220PA7c  silicon detectors (SSDs) for detecting escaped alpha particles and     
+220PA8c  three punch-through detectors behind PSSDs as veto for light particles.
+220PA9c  Measured E|a, I|a, Er-|a and |a-|a energy and time correlations.       
+220PAAc  Deduced T{-1/2}. Comparisons with available data.                      
+220PA d  2019Zh54 was compiled by J. Chen (NSCL, MSU) on December 24, 2019      
+220PA c  2017Hu08: {+187}Re({+40}Ar,|a3n) E=188 MeV {+40}Ar beam was produced   
+220PA2c  from the Sector-Focusing Cyclotron (SFC) of the Heavy Ion Research     
+220PA3c  Facility in Lanzhou (HIRFL). Target was enriched {+187}Re, 460         
+220PA4c  |mg/cm{+2} thick. Evaporation residues were identified and separated   
+220PA5c  using SHANS separator, and implanted into a 300-|mm double-sided       
+220PA6c  silicon strip detector (DSSD). Measured E|a, I|a, (evaporation         
+220PA7c  residue)|a time correlations. Deduced T{-1/2}                          
+220PA d  2017Hu08 was compiled by B. Singh (McMaster Univ) on December 31, 2018 
+220PA c  1987FaZS: {+204}Pb({+19}F,3n) at GSI. Measured E|a, implant-|a(t).     
+220PA2c  Deduced T{-1/2}.                                                       
+220PA c  1987MiZO: {+205}Tl({+20}Ne,X) E=102-110 MeV at University of Tokyo.    
+220PA2c  Measured E|a, implant-|a(t). Deduced T{-1/2}                           
+220PA c  Production and yield measurements: 2005Li17, 2001Ni06                  
+220PA c  Structure calculations:                                                
+220PA c  2025He15: calculated levels, J, |p, occupation probabilites using the  
+220PA2c  particle-number-conserving (PNC) method in the framework of the        
+220PA3c  deformed shell model                                                   
+220PA c  1987Sa19: calculated binding energy                                    
+220PA  XA224NP A DECAY (38 US)                                                  
+220PA  L  0            (1-)             0.86 US  7                              
+220PAX L XREF=A                                                                 
+220PA2 L %A=100                                                                 
+220PA cL J$assigned by 2017Hu08 based on systematics of unhindered |DL=0 g.s. to
+220PA2cL g.s. |a transitions with reduced width of |?80 keV in N=129 nuclei from
+220PA3cL At to Ac (reduced width=77 keV {I13} in 2017Hu08 for {+220}Pa decay),  
+220PA4cL and probable configuration=|n2g{-9/2}~#|p1h{-11/2}.                    
+220PA cL T$weighted average of 0.83 |ms {I7} (2023Lu04), 0.91 |ms {I10}         
+220PA2cL (2019Ya04), 0.98 |ms {I+40-22} (2019Zh54), 0.90 |ms {I13} (2017Hu08),  
+220PA3cL 0.78 |ms {I16} (1987FaZS), all from implant-|a(t) in 2017Hu08. Other:  
+220PA4cL 1.1 |ms {I1} (1987MiZO)                                                
+220PA cL $Measured E|a from the ground state of {+220}Pa: 9542 keV {I6}         
+220PA2cL (2023Lu04), 9522 keV {I25} (2019Ya04), 9520 keV {I16} (2017Hu08).      
+220PA3cL Others: 9650 {I50} (1987FaZS)                                          
+220PA cL $Production cross section=6.5 nb {I+9-7} (2017Hu08)                    
+220PA cL $Calculated %|e+%|b{++}=3|*10{+-7} from gross |b-decay strength        
+220PA2cL function (1973Ta30).                                                   
+220PA cL $Configuration of theoretical calculations: |p1/2[530]~#|n3/2[642] for 
+220PA2cL g.s. with J|p=1-,(2-) (2025He15)                                       
+220PA  L  34       26                   0.31 US  +25-10                      M1 
+220PAX L XREF=A                                                                 
+220PA2 L %A AP 100                                                              
+220PA cL T$from original value of 308 ns {I+250-95} from correlated |a events   
+220PA2cL (2018Hu13)                                                             
+220PA cL $Configurations of theoretical calculations: |p5/2[523]~#|n3/2[642] for
+220PA2cL a calculated level at 3.3 keV with J|p=1-,(4-); |p3/2[651]~#|n3/2[642] 
+220PA3cL for a calculated level at 20.8 keV with J|p=3+,(0+) (2025He15)         
+220PA  L  297      65                   0.07 US  +33-3                       M2 
+220PAX L XREF=A                                                                 
+220PA2 L %A AP 100                                                              
+220PA cL T$from original value of 69 ns {I+330-30} from correlated |a events    
+220PA2cL (2018Hu13)                                                             
+220PA cL $Configuration of theoretical calculations: |p5/2[642]~#|n1/2[501] for 
+220PA2cL a calculated level at E=357.2 keV with J|p=3-,(2-) (2025He15)          

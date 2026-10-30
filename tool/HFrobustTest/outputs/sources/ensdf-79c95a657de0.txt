@@ -1,0 +1,73 @@
+212RA    216TH A DECAY (133 US)        2005Ku31                  20NDS    202009
+212RA  H TYP=FUL$AUT=K. Auranen and E.A. McCutchan$CIT=NDS 168, 117 (2020)$     
+212RA2 H CUT=1-Aug-2020$                                                        
+212RA cA HF$r{-0}({+212}Ra)=1.4695 {I14}; see {+216}Th |a decay (26.0 ms)       
+212RA2cA dataset.                                                               
+212RA cL E$From E|g data, except the E(level)=1967 which is derived from the    
+212RA2cL measured E|a and Q(|a) from 2017Wa10.                                  
+212RA cL J,T$From the Adopted Levels.                                           
+212RA cG E$From 2005Ku31, except where noted.                                   
+212RA cG RI$Deduced by the evaluator based on reported |a feeding and           
+212RA2cG internal-conversion coefficients.                                      
+212RA c  2005Ku31: the nuclei of interest were observed as the |a-decay         
+212RA2c  daughter of {+216}Th nuclei produced in the                            
+212RA3c  {+170}Er({+50}Ti,4n){+216}Th fusion evaporation reaction at GSI,       
+212RA4c  Germany. The 400-|mg/cm{+2} thick {+170}Eu targets were evaporated on  
+212RA5c  30-|mg/cm{+2} thick carbon foils. UNILAC provided the 217.5 MeV        
+212RA6c  {+50}Ti beam with an intensity of |?200 pnA. Residues were selected    
+212RA7c  with the velocity filter SHIP, and implanted into  a                   
+212RA8c  position-sensitive 16-strip PIPS silicon detector. E|a, E|g, I|g,      
+212RA9c  |a|g coin, recoil-|g-|a-|g correlations were measured. |g rays were    
+212RAac  detected, without a coincidence condition, with a Clover Ge detector   
+212RAbc  placed behind the PIPS.                                                
+212RA c  2019Zh54: {+216}Th produced in the {+183}W({+40}Ar,X) reaction with    
+212RA2c  E({+40}Ar)=180 MeV followed by separation with the SHANS separator     
+212RA3c  and implantation into a position-sensitive strip detector.  Measured   
+212RA4c  E|a, I|a, |a(t).                                                       
+212RA cA E,IA$From 2005Ku31, except where noted.                                
+212RA cG M$From the Adopted Gammas                                              
+212RA D  CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+216TH  P 2045      9  (8+)              133 US    4              8072     4     
+216TH cP T$weighted average of 126 |ms {I14} (2019Zh54), 135 |ms {I4}           
+216TH2cP (2005Ku31), and 128 |ms {I8} (2001Ha46). Others:  120 |ms {I+60-30}    
+216TH3cP and 250 |ms {I+340-90} from |a(t) to excited state levels (2019Zh54),  
+216TH4cP 180 |ms {I40} (1983Hi08), and 140 |ms {I5} (2000He17) which is         
+216TH5cP assumed to be superseded by 2005Ku31.                                  
+212RA  N 1.0                     0.028 9                                        
+212RA cN BR$from 2005Ku31. Others: %|a= 5 {I+5-3} (2001Ha46), %|a|?3            
+212RA2cN (1983Hi08) deduced from %IT=97 {I1} from the observed isomer ratio     
+212RA3cN and comparison with that for the {+217}Pa(29/2) level.                 
+212RA  L 0.0          0+                13.0 S    2                             
+212RA  A 9922      1074      4 3.5E4   12                                       
+212RA cA E$weighted average of 9918 keV {I15} (2019Zh54), 9930 keV {I10}        
+212RA2cA (2005Ku31), 9915 keV {I15} (2001Ha46),  9912 keV {I20} (1983Hi08).     
+212RA3cA Other: 9933 keV {I15} (2000He17) which is assumed to be superseded by  
+212RA4cA 2005Ku31.                                                              
+212RA cA IA$other: 84 {I12} (2019Zh54)                                          
+212RA  L 629.30    10 2+                                                        
+212RA  G 629.3     1  25     4  E2                      0.0230                  
+212RAS G KC=0.01624 23$LC=0.00504 7$MC=0.001273 18$NC=0.000336 5$OC=7.43E-5 11$ 
+212RAS G PC=1.208E-5 17$QC=5.78E-7 8                                            
+212RA  A 9308      1213      3 8.2E3   33                                       
+212RA cA E$weighted average of 9301 keV {I16} (2019Zh54) and 9312 keV {I12}     
+212RA2cA(2005Ku31)                                                              
+212RA cA IA$other: 11.5 {I+60-43} (2019Zh54)                                    
+212RA  L 1454.30   22 4+                                                        
+212RA  G 825.0     2  13     2  E2                     0.01311                  
+212RAS G KC=0.00985 14$LC=0.00245 4$MC=0.000607 9$NC=0.0001599 23$OC=3.57E-5 5$ 
+212RAS G PC=5.93E-6 9$QC=3.40E-7 5                                              
+212RA  L 1895.10   24 6+                                                        
+212RA  G 440.8     1  12     2  E2                      0.0526                  
+212RAS G KC=0.0323 5$LC=0.01508 22$MC=0.00391 6$NC=0.001032 15$OC=0.000226 4$   
+212RAS G PC=3.55E-5 5$QC=1.205E-6 17                                            
+212RA  L 1967      13 8+                9.3 US    9                          M1 
+212RA  G 63.3      20 0.15   4  [E2]                    84    14               S
+212RAS G LC=61 11$MC=17 3$NC=4.4 8$OC=0.93 16$PC=0.134 23$QC=0.00032 5          
+212RA cG E$from 1986Ko01 using observed ce(L) and ce(M) in                      
+212RA2cG {+204}Pb({+12}C,4n|g). In 2005Ku31 the transition was not observed,    
+212RA3cG but the level energy differences suggest a value of |?72 keV.          
+212RA cG RI$the uncertainty includes the uncertainty on |a feeding intensity    
+212RA2cG as well as the uncertainty on the conversion coefficient.              
+212RA  A 7999      1013      2 2.4     9                                        
+212RA cA E$other: 7998 {I18} (2019Zh54)                                         
+212RA cA IA$other: 4.9 {I+48-27} (2019Zh54)                                     

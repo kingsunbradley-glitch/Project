@@ -1,0 +1,57 @@
+219TH    223U A DECAY (59 US)          2020SU02,1994YE08,1991AN1021NDS    202106
+219TH  H TYP=FUL$AUT=Balraj Singh et al.,$CIT=NDS 175, 1 (2021)$CUT=19-May-2021$
+219TH c  2020Su02: {+223}U was produced in the fusion-evaporation reaction      
+219TH2c  {+187}Re({+40}Ar,p3n) at E({+40}Ar)=188 MeV, followed by separation    
+219TH3c  of fragments using SHANS in-flight separator, and implanted into a     
+219TH4c  double-sided silicon strip detector (DSSD) at Lanzhou accelerator      
+219TH5c  facility. Measured E|a and I|a for two |a transitions, half-life of    
+219TH6c  {+223}U decay. Deduced hindrance factors.                              
+219TH c  1997AnZY, 1994Ye08, 1991An10, 1991An13: {+223}U activity was produced  
+219TH2c  in {+208}Pb({+22}Ne,7n),E=100-155 MeV (1997AnZY); {+197}Au({+27}Al,n)  
+219TH3c  (1994Ye08); {+208}Pb({+20}Ne,5n) (1991An10,1991An13), and separated    
+219TH4c  using the electrostatic recoil separator VASSILISSA at JINR-Dubna.     
+219TH5c  Measured E|a, I|a, T{-1/2} using Si detectors.                         
+219TH d  1994AnZY, 1993AnZS, 1991AnZZ are secondary reports from                
+219TH2d  the same group as 1997AnZY, 1991An10 and 1994Ye08                      
+219TH c  The decay scheme is from 2020Su02                                      
+219TH cA HF$The nuclear radius parameter r{-0}({+219}Th)=1.5402 {I90}           
+219TH2cA is deduced from interpolation (or unweighted average) of radius        
+219TH3cA parameters of the adjacent even-even nuclides given in 2020Si16        
+219TH cL T,J$From the Adopted Levels                                            
+223U   P 0.0           (7/2+)          59 US     10             9158      17    
+223U  cP J$From systematics of g.s. J|p values of N=131 isotones, as proposed   
+223U 2cP in 2020Su02                                                            
+223U  cP T$From weighted average of 62 |ms {I+14-10} (2020Su02, deduced from    
+223U 2cP 60 |ms {I+24-13} for 8753|a, 28 |ms {I+23-9} for 8898 line and         
+223U 3cP 78 |ms {I+39-20} for 8993|a using maximum likelihood method); and      
+223U 4cP 55 |ms {I10} (based on better statistics data collected in their       
+223U 5cP earlier studies, 1997AnZY claimed that 55 |ms {I10} value was more     
+223U 6cP reliable than the value of 18 |ms {I+10-5} reported in their other     
+223U 7cP studies: 1991An10 and 1991An13). From the three half-lives reported    
+223U 8cP in 2020Su02, evaluators obtain weighted averaged of 58 |ms {I+14-11}.  
+223U  cP QP$From 2021Wa16                                                       
+219TH  N                       1.0                                              
+219TH cN BR$%|a=100                                                             
+219TH  L 0.0          (9/2+)           1.025 US  30                             
+219TH  A 8993      17  35    13  8     4                                        
+219TH cA E,IA$From 2020Su02                                                     
+219TH cA $Reduced |a-decay width |d{+2}=25 keV {I9}, HF=12 {I5} (2020Su02)      
+219TH  L 97        25                                                          ?
+219TH cL $This level is not included in the Adopted Levels.                     
+219TH  A 8898      18                                                          ?
+219TH cA E$A line at 8898 keV seen by 2020Su02 in their |a spectrum, with an    
+219TH2cA apparent intensity of 19% {I9} is most likely due to sum of 8753|a and 
+219TH3cA conversion electrons, as discussed by the authors.                     
+219TH  L 244       23  (7/2+)                                                   
+219TH cL $2020Su02 suggested J|p=(7/2+,11/2+), based on systematics of low-lying
+219TH2cL levels in N=129 isotones. Evaluators prefer (7/2+) as, in the Adopted  
+219TH3cL dataset, (11/2+) is assigned to the 362.5 level. Also, (7/2+) is       
+219TH4cL suggested by favored |a decay from (7/2+) parent.                      
+219TH  A 8753      16  65    13  1.0   3                                        
+219TH cA E,IA$from 2020Su02. Uncertainty for I|a given as 20 by 2020Su02 has    
+219TH2cA been revised to 13 (based on I|a(8993|a)=35 {I13} and                  
+219TH3cA expected I|a(8753)=100-I|a(8993|a)). Value of I|a in 2020Su02 assumed  
+219TH2cA that the 8898-keV peak observed in the Er-|a correlated spectrum was   
+219TH3cA entirely due to sum peak (8753|a and conversion electrons). Other:     
+219TH4cA E|a=8780 {I40}, I|a=100 (1994Ye08)                                     
+219TH cA $Reduced |a-decay width |d{+2}=198 keV {I61}, HF=1.6 {I5} (2020Su02)   

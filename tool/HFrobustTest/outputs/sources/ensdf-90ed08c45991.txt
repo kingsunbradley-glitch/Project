@@ -1,0 +1,369 @@
+218RA    ADOPTED LEVELS, GAMMAS                                  19NDS    201911
+218RA  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Murray Martin et al.,$         
+218RA2 H CIT=NDS 160, 405 (2019)$CUT=30-Oct-2019$                               
+218RA  Q -4190     50 7310   13 4952   13 8546   6     2017WA10                 
+218RA cQ $S(2n)=12783 {I14}, S(2p)=8180 {I13} (2017Wa10)                        
+218RA d  {+218}Ra evaluated by M.J. Martin, S. Nandi, and S. Kaim.              
+218RA c  Theory references: consult NSR database (www.nndc.bnl.gov/nsr/)        
+218RA2c  for 62 primary references for nuclear structure, and 42                
+218RA3c  for calculations of half-lives of radioactive decays                   
+218RA d  Theoretical calculations:                                              
+218RA d  1991Sk01, 1988So08, 1986Le05, 1984Na22: deformation energy,            
+218RA2d  equilibrium quadrupole and octupole deformations                       
+218RA d  1986Le05: octupole-, quadrupole- and hexadecapole-equilibrium          
+218RA2d  deformations, and corresponding B(E1)/B(E2) ratios                     
+218RA d  1991Bu10: intrinsic dipole-moments for nuclear deformations            
+218RA2d  obtained by 1988So08.                                                  
+218RA d  1987Na10: The shape changes as a function of angular momentum of       
+218RA2d  the rotating radium and thorium nuclei by using the                    
+218RA3d  cranking model. The authors showed that the lightest isotopes having   
+218RA4d  spherical ground states develop octupole and quadruple deformations    
+218RA5d  under rotations.                                                       
+218RA d  1994Jo02, 1993Dz01, 1993Sc11, 1993Yo02, 1992De46, 1991Eg01, 1989Mi02,  
+218RA2d  1985Na07: The parity splittings in the yrast bands                     
+218RA d  1994Jo02: octupole potential with axial symmetry and double minima.    
+218RA d  1993Dz01: level energies of rotational and vibrational bands by        
+218RA2d  using quadrupole and octupole deformations; B(E1)/B(E2) ratios for     
+218RA3d  transitions between these opposite-parity bands.                       
+218RA d  1993Sc11; reflection asymmetry in nuclei                               
+218RA d  1993Yo02: the alternating-parity states in terms of                    
+218RA2d  the interacting-boson model. The rotational-band energies and the      
+218RA3d  B(E1)/B(E2) ratios were calculated and compared with the experimental  
+218RA4d  values.                                                                
+218RA d  1989Mi02, 1988Na08, 1987En05, 1987Ka37, 1985Ba10, 1983Du11:            
+218RA2d  The interacting-boson model used to calculate the                      
+218RA6d  PI=+- band energies and/or the B(E1)/B(E2) branchings.                 
+218RA d  1992De46, 1989De11: The polarizations of the E1 transitions between    
+218RA2d  the octupole-vibrational and the ground-state bands in various nuclei  
+218RA3d  with octupole deformation                                              
+218RA d  1991Eg01, 1989Eg02: The B(E1), B(E3) reduced transition rates and      
+218RA2d  the energy splitting between the 0+ and 1- states were calculated using
+218RA3d  a microscopic parity-projection method.                                
+218RA d  1985Na07: energy displacements between the                             
+218RA2d  rotational positive- and negative-parity bands, and for the            
+218RA3d  calculated rotational frequencies as a function of J|p values of bands.
+218RA d  Structure calculations since 1995:                                     
+218RA2d  2005Za02, 2005Bh02, 2005Bo18, 2003Ra17, 2003Bu27,                      
+218RA3d  2003Bu11, 2002Ts01, 2002Ra25, 2001Za04, 2000Bu32, 2000Bu02, 2000Bo34,  
+218RA4d  1998Ra05, 1997Ra20, 1997Ra07, 1997Jo22, 1996Ra47, 1996Ra37, 1996De29,  
+218RA5d  1996Bu45, 1995Ru10, 1995Jo11, 1995De13, 1994Be20                       
+218RA d  Theory papers for |a decay: 2005Pe08, 2005Bh02                         
+218RA d  Theory papers for fission barriers: 2000Go44, 1997An08                 
+218RA d  Analysis and syst of |a decay data: 1987Po06, 2005Pe08                 
+218RA c  From lifetime measurements, 1988Ga33 conclude that higher spin         
+218RA2c  states exhibit enhanced B(E1) rates of about 0.006 which may be a      
+218RA3c  result of collective dipole deexcitations from a reflection-           
+218RA4c  asymmetric intrinsic state.                                            
+218RA cG E,RI$From {+208}Pb({+13}C,3n|g),({+14}C,4n|g) dataset.                 
+218RA cL E$From a least-squares fit to the adopted E|g data except for          
+218RA2cL the 853 level which comes from the E(|a) branch to that level          
+218RA cG M$From |g(|q) and |g(lin pol) data in {+208}Pb({+13}C,3n|g)            
+218RA cL J$From |g(|q) and |g(lin pol) data in {+208}Pb({+13}C,3n|g),           
+218RA2cL and association of levels in bands or sequences. Additional |g         
+218RA3cL mult arguments are given explicitly.                                   
+218RA cL T$From recoil-distance Doppler-shift method in inverse kinematic       
+218RA2cL reaction: {+13}C({+208}Pb,3n|g)(1988Ga33). No delayed                  
+218RA3cL component with a half-life longer than 5 ns was observed for any of    
+218RA4cL the transitions (1986Go21).                                            
+218RA cL T(K)$1988Ga33 deduced T{-1/2}=3.1 ps {I4} for 1341, 7-; 2.3 ps {I3} for
+218RA2cL 1547, 8+; 5.9 ps {I6} for 1694, 9-; 2.6 ps {I4} for 1962, 10+; and     
+218RA3cL 4.2 ps {I5} for 2109, 11- levels using average B(E2) for transitions   
+218RA4cL from some of the above levels.                                         
+218RA CL BAND(A)$K|p=0+ g.s. band.                                              
+218RA CL BAND(B)$Octupole band                                                  
+218RA cL SEQ(C)$|g sequence based on 12-                                        
+218RA cL SEQ(D)$|g sequence based on (21+)                                      
+218RA  XA222TH A DECAY (1.964 MS)                                               
+218RA  XB208PB(13C,3NG),(14C,4NG),                                              
+218RA PN                                                                     6  
+218RA  L 0.0          0+               25.91 US  14                         A   
+218RA2 L %A=100                                                                 
+218RAX L XREF=AB                                                                
+218RA dL $Theoretical probabilities for decay by heavy-ion emissions were       
+218RA2dL studied by 1986Pi11 and 1986Ir01 for nuclei in A=210-260 mass region.  
+218RA3dL Decay by {+8}Be emission was found to be the most probable one for     
+218RA4dL {+218}Ra; the partial lifetime for this decay was calculated, and      
+218RA5dL ln[T{-1/2}({+8}Be)/T{-1/2}(|a)]=17 was obtained by 1986Pi11, and       
+218RA6dL |G({+8}Be)/|G(|a)=2.8|*10{+-15} by 1986Ir01.                           
+218RA cL T$weighted average of 25.99 |ms {I10} (E. Parr et al., Phys Rev. C     
+218RA2cL 100, 044323 (2019)), 25.2 |ms {I3} (2001Ku07), 26 |ms {I2} (1992Wi14)  
+218RA3cL and 25.6 |ms {I11} (1986To02). Others:                                 
+218RA4cL 15.6 |ms {I10} (1991AnZZ), 14 |ms {I2} (1970Va13)                      
+218RA  L 388.90    10 2+               29.8 PS   28                         A   
+218RA cL J$E2 |g to 0+                                                          
+218RAX L XREF=AB                                                                
+218RA  G 388.9     1   100     E2                      0.0727                   
+218RAB G BE2W=25.5 24                                                           
+218RA  L 741.10    14 4+               19.4 PS   35                         A   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=2, E2 |g to 2+                                                   
+218RA  G 352.2     1  100      E2                      0.0954                   
+218RAB G BE2W=63 12                                                             
+218RA  L 793.21    18(3-)                                                   B   
+218RAX L XREF=AB$                                                               
+218RA cL J$|DJ=1, D |g to 2+                                                    
+218RA  G 404.3     2  100       D                                               
+218RA  L 853       6 (1-)                                                   B   
+218RAX L XREF=A                                                                 
+218RA cL E$from E|a and Q(|a) values                                            
+218RA cL J$on the basis of the similarity in the hindrance factor               
+218RA2cL for the 853 level with that of the 793 level, and the |g to 0+,        
+218RA3cL 2016Pa28 propose that the 853 level is the bandhead of the             
+218RA4cL octupole band.                                                         
+218RA  G 853                                                                    
+218RA  L 1038.32   18  5-                                                   B   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=1, E1 |g to 4+                                                   
+218RA  G 245.1     2                                                            
+218RA  G 297.3     2           E1                      0.0359                   
+218RA  L 1122.04   20  6+               13.2 PS  28                         A   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=2, E2 |g to 4+; E1 |g to 5-                                      
+218RA  G 83.7      2  35     7 (E1)                    0.177  3                 
+218RAB G BE1W=0.0057 17                                                         
+218RA  G 380.9     2  100    6 E2                      0.0769                   
+218RAB G BE2W=46 11                                                             
+218RA  L 1340.85   21  7-                                                   B   
+218RAX L XREF=B                                                                 
+218RAF L FLAG=K                                                                 
+218RA cL J$|DJ=1, E1 |g to 6+; |DJ=2, E2 |g to 5-                               
+218RA  G 218.8     1  100    5 E1                      0.0729                   
+218RA  G 302.6     2  8.7    22 E2                     0.1482                   
+218RA  L 1546.70   23  8+                                                   A   
+218RAX L XREF=B                                                                 
+218RAF L FLAG=K                                                                 
+218RA cL J$|DJ=1, E1 |g to 7-; |DJ=2, E2 |g to 6+                               
+218RA  G 205.8     2  100    7 E1                      0.0843                   
+218RA  G 424.6     2  71     20 E2                     0.0578                   
+218RA  L 1573.01   19 (3-,4,5-)                                                 
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (3-) and 5-                                               
+218RA  G 534.7     2                                                            
+218RA  G 779.8     2                                                            
+218RA  G 831.9     2                                                            
+218RA  L 1694.35   25 9-                                                    B   
+218RAX L XREF=B                                                                 
+218RAF L FLAG=K                                                                 
+218RA cL J$|g to 8+; |DJ=2, E2 |g to 7-                                         
+218RA  G 147.5     2  100    45                        0.190                @   
+218RA  G 353.6     2  58     20 E2                     0.0943                   
+218RA  L 1714.60   25                                                           
+218RAX L XREF=B                                                                 
+218RA cL J$|g to 4+                                                             
+218RA  G 973.5     2                                                            
+218RA  L 1725.8    3                                                            
+218RAX L XREF=B                                                                 
+218RA cL J$|g to 5-                                                             
+218RA  G 687.5     2  100                                                       
+218RA  L 1803.60   24                                                           
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to 6+ and 7-                                                 
+218RA  G 462.7     2                                                            
+218RA  G 681.6     2                                                            
+218RA  L 1855.9    3                                                            
+218RAX L XREF=B                                                                 
+218RA cL J$|g to 6+                                                             
+218RA  G 733.9     2  100                                                       
+218RA  L 1896.8    3                                                            
+218RAX L XREF=B                                                                 
+218RA cL J$|g to 8+                                                             
+218RA  G 350.1     2  100                                                       
+218RA  L 1961.7    3  10+                                                   A   
+218RAX L XREF=B                                                                 
+218RAF L FLAG=K                                                                 
+218RA cL J$|DJ=1, E1 |g to 9-; |DJ=2, E2 |g to 8+                               
+218RA  G 267.3     1  100    5 E1                      0.0457                   
+218RA  G 415.0     2  36     9 E2                      0.0613               @   
+218RA  L 2031.8    3                                                            
+218RAX L XREF=B                                                                 
+218RA cL J$|g to 9-                                                             
+218RA  G 337.5     2  100                                                       
+218RA  L 2109.3    3  11-                                                   B   
+218RAX L XREF=B                                                                 
+218RAF L FLAG=K                                                                 
+218RA cL J$|DJ=2, E2 |g to 9-; |DJ=1,  D |g to 10+                              
+218RA  G 77.5      2                                                            
+218RA  G 147.5     2  42     42                        0.190                @   
+218RA  G 415.0     2  100    25 E2                     0.0613               @   
+218RA  L 2328.3    4                                                            
+218RAX L XREF=B                                                                 
+218RA  G 472.4     2  100                                                       
+218RA  L 2390.8    3  12+               1.4 PS   LT                         A   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=1, E1 |g to 11-; |DJ=2, E2 |g to 10+                             
+218RA  G 281.4     2  100    7 E1                      0.0407                   
+218RAB G BE1W>0.004                                                             
+218RA  G 429.3     2  33     7 E2                      0.0562                   
+218RAB G BE2W>84                                                                
+218RA  L 2420.0    3 (12-)                                                  C   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=1, (M1+E2) |g to 11-                                             
+218RA  G 310.6     2  100       (M1+E2)                0.4    3                 
+218RA  L 2442.4    4                                                            
+218RAX L XREF=B                                                                 
+218RA  G 410.6     2  100                                                       
+218RA  L 2465.6    3                                                            
+218RAX L XREF=B                                                                 
+218RA cL J$|g to 10+                                                            
+218RA  G 503.9     2                                                            
+218RA  G 568.8     2                                                            
+218RA  L 2526.3    3  13-               4.9 PS   LT                         B   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=1, E1 |g to 12+; |DJ=2, E2 |g to 11-                             
+218RA  G 106.1     2                                                            
+218RA  G 135.6     2  33     3 E1                      0.230                    
+218RAB G BE1W>0.0034                                                            
+218RA  G 416.9     2  100    27 E2                     0.0606                   
+218RAB G BE2W>80                                                                
+218RA  L 2825.5    3  14+               1.4 PS   LT                         A   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=1, E1 |g to 13-; |DJ=2, E2 |g to 12+                             
+218RA  G 299.3     2  100    28 E1                     0.0354                   
+218RAB G BE1W>0.0035                                                            
+218RA  G 434.8     2   45    LT E2                     0.0544               *   
+218RA cG E$double placement, with intensity not divided                         
+218RA  L 2966.4    4  15-               1.4 PS   LT                         B   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=1, E1 |g to 14+; |DJ=2, E2 |g to 13-                             
+218RA cL T$ This T{-1/2} leads to B(E2)(W.u)>218, a factor of about 3 larger    
+218RA2cL than any of the other E2 or E1 reduced transition probabilities.       
+218RA3cL  The T{-1/2} limit may be a typo.                                      
+218RA  G 140.9     2  32     5 E1                      0.210                    
+218RAB G BE1W>0.011                                                             
+218RA  G 440.0     2  100    5 E2                      0.0528                   
+218RAB G BE2W>218                                                               
+218RA  L 2967.2    4  (14-)                                                 C   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=2, E2 |g to (12-); |g to 13-                                     
+218RA  G 142                                                                    
+218RA  G 440.8     2                                                            
+218RA  G 547.3     2           E2                      0.0313                   
+218RA  L 3285.1    4  16+                                                   A   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to 14+ and 15-                                               
+218RA  G 318.7        100    20                                                 
+218RAF G FL=2966.4                                                              
+218RA  G 459.7        60     20                                                 
+218RA  L 3387.7    7 (16-)                                                  C   
+218RAX L XREF=B                                                                 
+218RA cL J$|g to (14-)                                                          
+218RA  G 420.5        100                                                       
+218RAF G FL=2967.2                                                              
+218RA  L 3388.8    4  17-                13 PS   LT                         B   
+218RAX L XREF=B                                                                 
+218RA cL J$|DJ=2, E2 |g to 15-; |g to 16+                                       
+218RA  G 104                                                                    
+218RA  G 422.4     2           E2                      0.0586                   
+218RAF G FL=2966.4                                                              
+218RA  L 3719.8    7 (18-)                                                  C   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (16-) and 17-                                             
+218RA  G 331                                                                    
+218RAF G FL=3388.8                                                              
+218RA  G 332.1     3                                                            
+218RAF G FL=3387.7                                                              
+218RA  L 3756.0    7  18+                                                   A   
+218RAX L XREF=B                                                                 
+218RA cL J$|g to 17-, and member of g.s. band                                   
+218RA  G 367                                                                    
+218RAF G FL=3388.8                                                              
+218RA  G 471                                                                   ?
+218RA  L 3805.9    8  19-                                                   B   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to 17-, (18-) and 18+                                        
+218RA  G 50                                                                     
+218RA  G 86                                                                     
+218RA  G 417                                                                    
+218RAF G FL=3388.8                                                              
+218RA  L 4117.7    9 (20-)                                                  C   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (18-) and 19-                                             
+218RA  G 312                                                                    
+218RA  G 398                                                                    
+218RA  L 4191.1    11 (20+)                                                 A  ?
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to 18+ and 19-                                               
+218RA  G 385                                                                    
+218RA  G 434.8     2                                                        *   
+218RA cG E$double placement, with intensity not divided                         
+218RA  L 4212.6    10 (21-)                                                 B   
+218RAX L XREF=B                                                                 
+218RA cL J$|g to 19-                                                            
+218RA  G 406.6        100                                                       
+218RA  L 4391.6    11(21+)                                                  D   
+218RAX L XREF=B                                                                 
+218RA cL J$|g to (20-)                                                          
+218RA  G 274          100                                                       
+218RA  L 4588.3    11(22+)                                                  A   
+218RAX L XREF=B                                                                 
+218RA cL J$|g to (21-)                                                          
+218RA  G 376                                                                    
+218RA  G 397                                                                   ?
+218RA  L 4675.3    10(23-)                                                  B   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (21-) and (22+)                                           
+218RA  G 87                                                                     
+218RA  G 462.7                                                              *   
+218RA  L 4682.6    10(22-)                                                  C   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (20-) and (21-)                                           
+218RA  G 291                                                                   ?
+218RA  G 470                                                                    
+218RA  G 565                                                                    
+218RA  L 4835.5    11(23+)                                                  D   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (21+), (22+) and (22-)                                    
+218RA  G 153                                                                    
+218RA  G 247                                                                    
+218RA  G 444                                                                    
+218RA  L 5020.3    12 (24+)                                                 A   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (22+) and (23-)                                           
+218RA  G 345                                                                *   
+218RA  G 432                                                                *   
+218RA  L 5125.4    13 (25-)                                                 B   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (23-) and (24+)                                           
+218RA  G 105                                                                    
+218RA  G 450                                                                *   
+218RA  L 5139.4    11 (24-)                                                 C   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (22-) and (23+)                                           
+218RA  G 304                                                                    
+218RA  G 457                                                                    
+218RA  G 464                                                                   ?
+218RA  L 5363.5    13 (25+)                                                 D   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (23+) and (24-)                                           
+218RA  G 224                                                                    
+218RA  G 528                                                                    
+218RA  L 5470.1    13 (26+)                                                 A   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (24+) and (25-)                                           
+218RA  G 345                                                                *   
+218RA  G 450                                                                *   
+218RA  L 5588.1    13 (27-)                                                 B   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (25-) and (26+)                                           
+218RA  G 118                                                                    
+218RA  G 463                                                                *   
+218RA  L 5901.7    14 (28+)                                                 A   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (26+) and (27-)                                           
+218RA  G 313                                                                    
+218RA  G 432                                                                *   
+218RA  L 6134.9    15 (29-)                                                 B   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (27-) and (28+)                                           
+218RA  G 233                                                                    
+218RA  G 547                                                                    
+218RA  L 6343.8    15 (30+)                                                 A   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (28+) and (29-)                                           
+218RA  G 209                                                                    
+218RA  G 442                                                                    
+218RA  L 6678.8    16 (31-)                                                 B   
+218RAX L XREF=B                                                                 
+218RA cL J$|g rays to (29-) and (30+)                                           
+218RA  G 335                                                                    
+218RA  G 544                                                                    

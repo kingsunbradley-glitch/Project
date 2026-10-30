@@ -1,0 +1,30 @@
+237CM    ADOPTED LEVELS                                          06NDS    200608
+237CM  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 107, 3323 (2006)$CUT=15-Mar-2006$    
+237CM  Q -3.94E3   SY6.68E3  8 4.08E3  SY6.77E3  5     2012WA38                 
+237CM cQ $Note: Current evaluation has used the following Q record              
+237CM2cQ -3800     syst 6700   syst   4200 syst   6800 syst    2003Au03         
+237CM cQ           |DQ(|b{+-})=300(syst), |DS(n)=300(syst), |DS(p)=230(syst),   
+237CM2cQ |DQ(|a)=200(syst) 2003Au03                                             
+237CM c  Mass excess for {+237}Cm was interpolated in 1988Ha24 as 49.35 MeV     
+237CM2c  from plots of "semiempirical-microscopic mass" systematics verses      
+237CM3c  {IN{-p}}{IN{-n}}/({IN{-p}}+{IN{-n}}). The "semiempirical-              
+237CM4c  microscopic mass" terms, giving the structure-dependent component of   
+237CM5c  the atomic masses, were taken as the differences between the empirical 
+237CM6c  masses of 1985Wa02 and the calculated masses of 1981Mo24 for spherical 
+237CM7c  nuclei. From 2003Au03, mass excess for {+237}Cm is 49.28 {I21}(syst)   
+237CM8c  MeV.                                                                   
+237CM c  The nucleus and its decay have not been experimentally studied.        
+237CM2c  Existence of a level at |?190 keV is deduced from the 7342-keV         
+237CM3c  |a observed in {+241}Cf decay.                                         
+237CM  XA241CF A DECAY                                                          
+237CM  L 0.0                                                                   S
+237CM2 L XREF=A                                                                 
+237CM cL           |a branching of {+241}Cf to {+237}Cm has not been            
+237CM2cL experimentally determined, but estimated by the evaluator as 14% {I7}. 
+237CM3cL The assumption that the observed 7342-keV |a of {+241}Cf is            
+237CM4cL a favored transition (therefore HF|<4.0) and its intensity             
+237CM5cL is about 76% of |a decay yield %|a|>12.5. See {+241}Cf |a decay.       
+237CM  L 194       AP                                                           
+237CM2 L XREF=A                                                                 
+237CM cL E         level energy is calculated from Q(|a)({+241}Cf)=7660 keV     
+237CM2cL (2003Au03) and E|a=7342 keV ({+241}Cf |a decay).                       

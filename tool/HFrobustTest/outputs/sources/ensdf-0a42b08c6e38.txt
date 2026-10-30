@@ -1,0 +1,98 @@
+258RF    ADOPTED LEVELS                                          17NDS    201709
+258RF  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 144, 297 (2017)$CUT=25-Aug-2017$      
+258RF  Q -5460     SY 7600   30 3610   SY 9190   30    2017WA10                 
+258RF cQ $Estimated uncertainties (2017Wa10): 310 for Q(|b{+-}), 60 for S(p)    
+258RF cQ $S(2n)=14020 {I40}, S(2p)=6060 {I30} (2017Wa10)                        
+258RF c  1969Gh01: {+258}Rf produced and identified in {+249}Cf({+12}C,3n) and  
+258RF2c  {+249}Cf({+13}C,4n) reactions through measurement of excitation        
+258RF3c  functions and half-life for fission and alpha decays                   
+258RF c  1984Og03: {+258}Rf produced in {+208}Pb({+50}Ti,|g) and identified as  
+258RF2c  parent of {+246}Cf in the |a-decay chain                               
+258RF c  1985So03: {+258}Rf produced in {+246}Cm({+16}O,4n),E=95 MeV and        
+258RF2c  measured production cross section                                      
+258RF c  2008Ga08: {+258}Rf produced in {+238}U({+26}Mg{+6+},6n) reaction at    
+258RF2c  E=4.9-6.0 MeV/nucleon; {+238}UF{-4} rotating target at 88-Inch         
+258RF3c  cyclotron facility at LBNL and with Berkeley gas-filled recoil         
+258RF4c  separator (BGS) of the LBNL. Evaporation residues recoiling from the   
+258RF5c  target were separated by the BGS from the beam and other reaction      
+258RF6c  products  on the basis of magnetic rigidities in He gas. Measured      
+258RF7c  (evaporation residues)|a and (evaporation residues)|a|a correlations,  
+258RF8c  |a decay, SF decay, half-life, excitation functions.                   
+258RF c  2016He15: {+258}Rf obtained as daughter of {+258}Db, which was produced
+258RF2c  in {+209}Bi({+50}Ti,n),E=236 MeV, with {+50}Ti beam from the ECR source
+258RF3c  of the UNILAC at GSI. The Evaporation residues (ERs) were separated by 
+258RF4c  the velocity filter SHIP and implanted into a position-sensitive       
+258RF5c  16-strip Si PIPS detector for detecting ERs, conversion electrons, and 
+258RF6c  subsequent |a-decays or spontaneous fission (SF) events. Escaped       
+258RF7c  products into the backward hemisphere were detected by a box of six    
+258RF8c  Si wafers. Measured correlations between ERs, x rays, ce, |a-decay and 
+258RF9c  SF events, half-life of {+258}Rf decay from various correlations, and  
+258RFAc  %|a decay mode of {+258}Rf.                                            
+258RF c  Theoretical studies: consult the NSR database at www.nndc.bnl.gov for  
+258RF2c  about 105 references dealing with theoretical calculations of          
+258RF3c  half-lives for different decay modes, binding energies, fission        
+258RF4c  characteristics, and other nuclear structure aspects.                  
+258RF d  Theoretical potential energy surfaces and fission barriers:            
+258RF2d  1972La05, 1983Cw01, 1986Ma02.                                          
+258RF d  Theoretical half-lives for SF decay: 1978Po09, 1985Lo17,               
+258RF2d  1987Mo16, 1989St20, 1992Bh03.                                          
+258RF d  1992Si13: cluster decay calculations.                                  
+258RF d  1973Iv01: Theoretical nonrotational levels, B(E2), B(E3) values        
+258RF d  2001Mu06: Theoretical  nuclear deformation, 2+ first rotational level  
+258RF2d  energy, Q(|a), and I|a(to 2+ state)/I|a(to 0+ state)                   
+258RF d  Theoretical mass parameters: 1969Wy02 and 1994Ba97.                    
+258RF c  The decay schemes of {+258}Db activities are tentative according to    
+258RF2c  2016He15                                                               
+258RF  XA258DB EC DECAY (4.3 S)                                                 
+258RF  XB258DB EC DECAY (1.9 S)                                                 
+258RF  L 0            0+               12.0 MS   12                             
+258RF2 L %SF=95.1 16$ %A=4.9 16 (2016He15)                                      
+258RFX L XREF=AB                                                                
+258RF cL $%|a from the number of SF and |a decays correlated to ce events       
+258RF2cL (2016He15). Others: 31% {I11} (2008Ga08, from four |a-decay events, and
+258RF3cL 54 SF events, EVR-|a|a and EVR-SF correlation);                        
+258RF4cL indirect value of %|a=13 determined by 1984Og03 from ratio of          
+258RF5cL fission events to {+246}Cf |a counts (|a-daughter of {+258}Rf).        
+258RF cL T$unweighted average of 9.4 ms {I+10-6} (2016He15, weighted average of 
+258RF2cL several correlated decay curves); 14.7 ms {I+12-10} (2008Ga08);        
+258RF3cL 13 ms {I3} (1985So03) and 11 ms {I2} (1969Gh01). Weighted average      
+258RF4cL is 11.3 ms {I14}, but with a reduced |h{+2} of 5.1 as compared with    
+258RF5cL critical |h{+2}=2.6                                                    
+258RF cL T$2016He15 give the following half-lives from different sets of        
+258RF2cL correlated decay curves and also photons: 10.0 ms {I11}, 10.1 ms {I30},
+258RF3cL 10.9 ms {I+66-30}, 13.3 ms {I+58-31}, 6.2 ms {I31}, 4.7 ms {I+47-16},  
+258RF4cL 9.3 ms {I+26-17}; the last from photon decay curve. Weighted average   
+258RF5cL of all these values is 9.4 ms {I+10-6}, and unweighted average is      
+258RF6cL 9.2 ms {I11}                                                           
+258RF cL $78 EVR-SF correlation events were observed at three highest beam      
+258RF2cL energies. Four |a decay chains: {+258}Rf |a decay to {+254}No |a decay 
+258RF3cL to {+250}Fm were identified and are listed in table II of 2008Ga08.    
+258RF4cL Average E|a=9.05 MeV {I3} for decay of {+258}Rf to the g.s. of         
+258RF5cL {+254}No. One event had E|a lower by 90 keV which was interpreted as   
+258RF6cL transition to an excited state in {+254}No (2008Ga08)                  
+258RF cL $Measured cross sections: 0.31 nb {I+16-12} at 138.5 MeV,              
+258RF2cL 0.77 nb {I+20-18} at 144.5 MeV, 0.43 nb {I+13-11} at 151.4 MeV         
+258RF3cL (2008Ga08)                                                             
+258RF cL $1985He22, 1994Hu18, 1994Wi17: measurements of mass and total kinetic  
+258RF2cL energy distributions of fission fragments.                             
+258RF dL $Theoretical calculations of 1997Mo25 give T{-1/2}(|a)=74 ms which     
+258RF2dL corresponds to %|a=16, in agreement with the branching determined      
+258RF3dL in 1984Og03. 1997Po18 obtained also T{-1/2}(|a)=74 ms from             
+258RF4dL semi-empirical formula. Other T{-1/2}(|a) calculations: 1976Ra02.      
+258RF5dL Theoretical calculations for T{-1/2}(SF) from various methods          
+258RF6dL gave results in the range of log T{-1/2}(SF in years)=-8 to -11.       
+258RF  L 0+X         (2+)                                                      ?
+258RFX L XREF=B                                                                 
+258RF cL E,J$tentatively proposed by 2016He15. This level may be the first      
+258RF2cL excited 2+ state in {+258}Rf                                           
+258RF  L 0+Y                           2.4 MS    +24-8                       M1 
+258RFX L XREF=A                                                                 
+258RF2 L %SF=? $ %A=? $ %IT=?                                                   
+258RF cL T$from the time distribution of correlations between x-ray events (no  
+258RF2cL coincident ce) and subsequent ce or x-ray events that could be from    
+258RF3cL the decay of this state (2016He15)                                     
+258RF  L 0+Z                           15 US     10                          M2 
+258RFX L XREF=A                                                                 
+258RF2 L %SF=? $ %A=? $ %IT=?                                                   
+258RF cL T$from the time distribution of correlations between two consecutive ce
+258RF2cL events (2016He15)                                                      

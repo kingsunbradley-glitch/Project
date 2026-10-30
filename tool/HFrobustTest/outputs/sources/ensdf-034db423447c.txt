@@ -1,0 +1,27 @@
+233NP    237AM A DECAY (73.6 M)        1975AH05                  20NDS    202012
+233NP  H TYP=FUL$AUT=B. Singh, J. K. Tuli,  E. Browne$CIT=NDS 170, 499 (2020)$  
+233NP2 H CUT=8-Oct-2020$                                                        
+233NP c  1975Ah05: {+237}Am [from {+237}Np(n,4n) and {+237}Np( He,3n)];         
+233NP2c  measured E|a, I|a, E|g, I|g, ce, |g|g-coin, half-life of {+237}Am decay
+233NP3c  using Ge(Li) detectors for |g detection and a magnetic |b-ray          
+233NP4c  spectrometer with a cooled Si(Li) detector for conversion electrons.   
+233NP c  Others: 2006As03 (also 2002As08), 1972PoZS and 1952Hi63                
+233NP cA HF$The nuclear radius parameter r{-0}({+233}Np)=1.4954 {I46}           
+233NP2cA is deduced from interpolation (or unweighted average) of radius        
+233NP3cA parameters of the adjacent even-even nuclides (2020Si16)               
+233NP cL J,T$From the Adopted Levels                                            
+237AM  P 0.0          5/2(-)           73.6 M    10             6200      SY    
+237AM cP J$Assignment in {+237}Am Adopted Levels in the ENSDF database          
+237AM2cP (March 2006 update) is still valid.                                    
+237AM cP T$Weighted average of 73.0 min {I10} (1975Ah05) and 74.4 min {I12}     
+237AM2cP (1972PoZS). Uncertainty is 0.8 min in {+237}Am Adopted Levels in       
+237AM3cP the ENSDF database                                                     
+237AM cP QP$6200 {I30} (Syst,2017Wa10)                                          
+233NP  N                       0.00025 3                                        
+233NP cN BR$%|a=0.025 {I3} for the decay of {+237}Am                            
+233NP  L 0.0          (5/2+)            36.2 M   1                              
+233NP  L 50        AP  5/2(-)                                                   
+233NP cL E$from E|a=6042 and Q(|a)=6200 (systematics)                           
+233NP  A 6042      5  100       0.85   11                                       
+233NP cA E$measurement of 1975Ah05 (semi). Other measurements:                  
+233NP2cA 6043 (2006As03, 6047 in 2002As08), 1952Hi63                            

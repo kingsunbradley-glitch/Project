@@ -1,0 +1,48 @@
+251MD    255LR A DECAY (31.1 S)        2006Ch52,2008Ha31,2008An1623NDS    202305
+251MD  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251MD cA E,IA$From 2006Ch52, unless otherwise noted.  Intensities have been     
+251MD2cA renormalized to sum to 100.                                            
+251MD c  2006Ch52: {+255}Lr isotope produced by {+209}Bi({+48}Ca,2n) reaction   
+251MD2c  at 217 MeV, in two separate experiments conducted at JYFL and GANIL.   
+251MD3c  Recoil products separated from the primary beam in each. JYFL:         
+251MD4c  Measured recoil products, E|a, I|a, and tof using a Multi-Wire         
+251MD5c  Proportional Counter gas detector, two Double-Sided Si Strip           
+251MD6c  Detectors (DSSSD) and a "box" of 28 pin-diodes surrounding the two     
+251MD7c  DSSSDs. GANIL: Measured recoil products, E|g, I|g, E|a, I|a, ce, and   
+251MD8c  tof using a "galotte" detector (mylar foil and micro-channel plate     
+251MD9c  detector), a DSSSD, four cooled Si detectors (BEST) and four           
+251MDac  segmented Ge detectors (EXOGAM).                                       
+251MD c  2008An16: {+255}Lr produced by {+209}Bi({+48}Ca,2n) at 214-244 MeV.    
+251MD2c  Recoil products separated from the primary beam using the velocity     
+251MD3c  filter SHIP. Measured recoil products, E|a, I|a, using a               
+251MD4c  position-sensitive 16-strip silicon PIPS detector. Measured            
+251MD5c  time-of-flight (tof) using electron foil detectors. Measured E|g, I|g  
+251MD6c  in prompt and coincidence with alpha particles. Detectors: clover Ge   
+251MD7c  detector. No gamma-rays were observed (I|g/I|a <0.03).                 
+251MD c  2008Ha31: {+255}Lr isotope produced by {+209}Bi({+48}Ca,2n) reaction,  
+251MD2c  at 219 MeV, using the U400 cyclotron, Dubna. Activity was separated    
+251MD3c  using the VASSILISSA fragment separator. Measured |a                   
+251MD4c  particle-energies and intensities, conversion electrons, and |g rays   
+251MD5c  with Si and Ge detectors.                                              
+251MD c  $ Other references: 1971Es01, 2001Ga20, 2006An13.                      
+251MD cA HF$The nuclear radius parameter r{-0}({+251}Md)=1.467 {I15} is         
+251MD2cA deduced from interpolation (or unweighted average) of radius           
+251MD3cA parameters of the adjacent even-even nuclides (2020Si16).              
+255LR  P 0            1/2-              31.1 S    11             8556     7     
+255LR cP T$Weighted average of 31.1 s {I13} (2006Ch52), 31 s {I2} (2008Ha31).   
+255LR cP QP$From 2021Wa16                                                       
+251MD  N                        0.74   5                                        
+251MD cN BR$From 2008Ha31, where %|e=26 {I5}.                                   
+251MD  L 0            (7/2-)            4.27 M    26                            
+251MD2 L %A=10 1$%EC=90 1$CONF=|p7/2-[514]                                      
+251MD cL T,%A$From 2006Ch52.                                                    
+251MD  A 8420      105.0     LE59      GE                                       
+251MD  L 54        10 (1/2-)                                                    
+251MD2 L CONF=|p1/2-[521]                                                       
+251MD cL E$From |DE{-|a}.                                                       
+251MD  A 8366      2 93.3    212.36    24                                       
+251MD cA E$Weighted average of 8365 {I2} (2006Ch52), 8371 {I10} (2008Ha31),     
+251MD2cA and 8373 {I5} (2008An16).                                              
+251MD  L 135       AP (11/2-)                                                   
+251MD cL E$From 2006Ch52.                                                       
+251MD  A 8290      5 1.7     6 70      AP                                      ?

@@ -1,0 +1,81 @@
+245FM    249NO A DECAY                 2022TE01,2022Lo03         23NDS    202305
+245FM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 189, 1 (2023)$CUT=14-Feb-2023$       
+245FM c  2022Te01(superseeds 2021Te08, 2021Sv02):                               
+245FM2c  {+245}Fm was produced from the |a decay of {+249}No.                   
+245FM3c  {+249}No was synthesized in the fusion-evaporation reaction            
+245FM4c  {+204}Pb({+48}Ca,3n) which was followed by separation in the           
+245FM5c  separator for heavy element spectroscopy (SHELS) and identified        
+245FM6c  with the GABRIELA detector array. GABRIELA array consists of           
+245FM7c  a DSSD detector (FWHM=15-20 keV for |a particle with E|a=6-10 MeV).    
+245FM8c  tof upstream from the DSSD distinguishes implanted recoils from        
+245FM9c  their subsequent |a, electron and SF decays. Particles escaping from   
+245FMac  the DSSD are then detected in 8 DSSDs with 16 strips                   
+245FMbc  forming a tunnel configuration.  Measured E|a, recoil-|a|a(t)          
+245FM c  2022Lo03: {+245}Fm produced as the granddaughter from |a decay         
+245FM2c  of {+253}Rf. {+253}Rf was produced in fusion evaporation               
+245FM3c  {+204}Pb({+50}Ti,n) with E({+50}Ti)=244 MeV from the U400 Cyclotron    
+245FM4c  at the Flerov Laboratory of Nuclear Reactions in Dubna                 
+245FM4c  Evaporation residues separated with the separator for heavy element    
+245FM5c  spectroscopy (SHELS) were implanted into 10 double-sided silicon       
+245FM6c  strip detectors (DSSD) for position and time correlation in the        
+245FM7c  GABRIELA detector array. Particles escaping from                       
+245FM8c  the DSSD were then detected in 8 DSSDs with 16 strips                  
+245FM9c  forming a tunnel configuration. Measured E|a, recoil-|a|a(t)           
+245FMac  and fission properties of {+253}Rf                                     
+245FM c  2020Kh10: {+245}Fm produced via {+208}Pb({+40}Ar,3n) reaction.         
+245FM2c  The {+40}Ar beam was from the UNILAC linear accelerator                
+245FM3c  at GSI with E({+40}Ar)=192 MeV. The evaporation residues were          
+245FM4c  separated from the primary beam by the velocity filter SHIP            
+245FM5c  and were then implanted into a position sensitive 16-strip             
+245FM6c  Si detector surrounded by six additional Si                            
+245FM7c  detectors and an HPGe Clover detector. Measured E|a, recoil-|a         
+245FM6c  recoil-|a|a, recoil-|a(t), recoil-|a|g.                                
+245FM c  2015Re01: {+245}Fm produced via {+208}Pb({+40}Ar,3n) reaction.         
+245FM2c  {+245}Fm was separated using the Separator for Heavy Element           
+245FM3c  Spectroscopy (SHELS) at the U-400 accelerator at FLNR, JINR            
+245FM4c  in Dubna, Russia. |a activity of 8127.6 keV {I10} was                  
+245FM3c  observed                                                               
+245FM c  2007Ha29: {+245}Fm produced via {+208}Pb({+40}Ar,3n) reaction.         
+245FM2c  {+245}Fm was separated using the using the gas-filled recoil           
+245FM3c  ion separator GARIS at the RIKEN Linear Accelerator.                   
+245FM4c  |a activity of 8.15 MeV was observed.                                  
+245FM c  1998Sa08: {+245}Fm  was produced via {+232}Th({+20}Ne,7n) and          
+245FM2c  {+232}Th({+22}Ne,9n) reactions. It was then separated by               
+245FM3c  the electrostatic recoil separator VASSILISSA at JINR.                 
+245FM4c  The observed 8.16 MeV activity was probably from                       
+245FM4c  two main contributors {+247m}Fm (8.18 MeV) and {+245}Fm (8.15 MeV).    
+245FM c  1967Nu01: {+245}Fm produced via {+233}U({+16}O,4n),                    
+245FM2c  {+239}Pu({+12}C,6n) reactions. Targets were about 500 |mg/cm{+2} thick.
+245FM3c  |a activity of 8.15 MeV was observed. Measured T{-1/2} and             
+245FM4c  excitation functions.                                                  
+245FM cG E(G)$Deduced by 2022Te01 based on the detected alphas and GEANT        
+245FM2cG simulated spectrum. Assumed to be a M1 transition which would not      
+245FM3cG be observed as it is highly converted                                  
+245FM cL E(A)$Deduced by 2022Te01 based on the broad alpha spectrum supported by
+245FM2cL Geant4 simulations                                                     
+245FM c                                                                         
+249NO  P 0.0         (5/2+)            38.1 MS   28             9170      SY    
+249NO cP J$From 2022Te01 based on systematics of N=147 isotones                 
+249NO2cP ({+239}U, {+241}Pu, {+243}Cm); results from Geant simulations and the  
+249NO3cP detected |a from {+249}No |a decay (2022Te01). Note: Currently as of   
+249NO4cP of date 14 February 2023, J|p=(7/2+) for g.s. {+249}No on the online   
+249NO5cP version of ENSDF)                                                      
+249NO cP T$From time distribution measurement in 2022Te01                       
+249NO2cP Note T{-1/2}= 38.3 ms {I28} from |t=55 ms {I4} given in 2022Te01       
+249NO3cP should be 38.1 ms {I28}. See also same group (2021Sv02) with           
+249NO4cP T{-1/2}=38.1 ms {I25}. Others: 15 ms {I+74-7} (2021Kh07)               
+245FM  N                       1.00    LT                                       
+245FM cN BR$From Adopted Levels in {+245}Fm                                     
+245FM  L 0.0         (1/2+)            5.6 S     7                              
+245FM cL $Configuration=1/2+[631]                                               
+245FM cL T$From Adopted Level                                                   
+245FM  L 10        CA (3/2+)                                                A   
+245FM DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+245FM  G 10        1                                                        G  S
+245FM  L 40        CA (5/2+)                                                A   
+245FM DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+245FM cL $Configuration=5/2+[622]                                               
+245FM  A 9105      33                                                           
+245FM cA E$Weighted average of 9129 keV {I22} (2022Te01) and 9060 keV {I30}     
+245FM2cA (2021Kh07)                                                             
+245FM  G 30        1                                                        G  S

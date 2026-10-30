@@ -1,0 +1,228 @@
+205FR    ADOPTED LEVELS, GAMMAS                                  20NDS    202006
+205FR  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 166, 1 (2020)$CUT=20-Apr-2020$         
+205FR  Q -7150     70 9988   26 629    11 7054.7 24    2017WA10                 
+205FR  XA209AC A DECAY                                                          
+205FR  XB169TM(40AR,4NG)                                                        
+205FR cL E$From least squares fit to E|g.                                       
+205FR cL J$From the deduced |g-ray transition multipolarities in                
+205FR2cL {+169}Tm({+40}Ar,4n|g) and systematics of structures in neighboring    
+205FR3cL nuclei. Specific arguments are given with most levels.                 
+205FR cL SEQ(A)$Based on the |p(h{-9/2}{++1}) state                             
+205FR cL SEQ(B)$Based on the |p(i{-13/2}{++1}) state                            
+205FR cG E,RI$From {+169}Tm({+40}Ar,4n|g) (2012Ja01)                            
+205FR cG E(X)$Doublet in {+169}Tm({+40}Ar,4n|g) (2012Ja01)                      
+205FR PN                                                                     6  
+205FR  L 0.0           9/2-            3.90 S    7                              
+205FR2 L XREF=AB                                                                
+205FR2 L %A=98.5 4 $%EC+%B+=1.5 4                                               
+205FR cL %EC+%B+$1.5% {I2} from 2010De04 using the |g-ray intensities in        
+205FR2cL {+201}Po and {+205}Rn, assuming no direct feeding to the ground and    
+205FR3cL first-excited states, and %|e+%B({+201}At)=29%. The recommended        
+205FR4cL uncertainty is determined by the evaluator by taking in quadratures    
+205FR5cL the uncertainties of %|e+%B({+205}Fr)=1.5% {I2} (2010De04) and         
+205FR6cL %|e+%B({+201}At)=29% {I7}. Others: upper limit on %|e+%|b{++}<3        
+205FR7cL (1974Ho27) based on non-observation of E|a=6262 keV ({+205}Rn);        
+205FRxcL %|e+%|b{++}<1 (1981Ri04).                                              
+205FR2 L MOMM1=+3.80 3  $ MOME2=-0.308 18                                       
+205FR cL MOMM1$From 2015Vo05, using the collinear laser spectroscopy technique. 
+205FR2cL Others: +3.83 {I5} (2013Fl09,2014Ly01) and +3.81 {I5} (2013Vo10).      
+205FR cL MOME2$From 2015Vo05, using the collinear laser spectroscopy technique. 
+205FR2cL Other: -0.351 {I4} (2013Vo10).                                         
+205FR cL $|d<r{+2}>({+205}Fr,{+208}Fr)=-0.0983 fm{+2} {I1} (2015Vo05) and       
+205FR2cL -0.0995 fm{+2} {I4} (2013Vo10). |d<r{+2}>({+203}Fr,{+221}Fr)=-1.475    
+205FR3cL fm{+2} {I7}(exp) {I15}(syst) (2013Fl09,2014Ly01)                       
+205FR cL J$From the measure hyperfine structure (2013Vo10,2013Fl09,2015Vo05);   
+205FR2cL |p is from |m and systematics of similar structures in neighboring     
+205FR3cL nuclei                                                                 
+205FR cL T$Weighted average (external uncertainty) of 3.96 s {I4} (1981Ri04),   
+205FR2cL 3.80 s {I3} (2005De01), and 4.02 s {I4} (2010De04, weighted average of 
+205FR3cL all values quoted in Table I).                                         
+205FR4cL Others: 3.7 s {I1} (1974Ho27), 3.7 s {I2} (1967Va20), and 3.7 s {I4}   
+205FR5cL (1964Gr04), 3.7 s {I6} (2015Ma63)                                      
+205FR cL $E|a=6910 keV {I20} (1964Gr04), 6917 keV {I5} (1967Va20), 6912 keV {I5}
+205FR2cL (1974Ho27), 6917 keV {I5} (1981Ri04), 6915 keV {I1} (1995Le04), 6916   
+205FR3cL keV {I5} (2005De01), and 6934 keV {i3} (2015Ma63)                      
+205FR cL CONF$|p(h{-9/2}{++1}).                                                 
+205FR  L 209.0     10  (7/2-)                                                   
+205FR2 L XREF=B                                                                 
+205FR cL J$209|g to 9/2-; proposed configuration                                
+205FR cL CONF$|p(f{-7/2}{++1})                                                  
+205FR  G 209       1  100                                                       
+205FR  L 444.0     12  (5/2-)                                                   
+205FR2 L XREF=B                                                                 
+205FR cL J$237|g to 7/2-, 444|g to 9/2-; proposed configuration                 
+205FR cL CONF$|p(h{-9/2}{++1})~#2+                                              
+205FR  G 235       1                                                            
+205FR  G 444       2                                                            
+205FR  L 516.80    20  13/2-                                                A   
+205FR2 L XREF=B                                                                 
+205FR cL J$516.8|g (E2) to 9/2-; proposed configuration                         
+205FR cL CONF$|p(h{-9/2}{++1})~#2+                                              
+205FR  G 516.8     2  100       (E2)                                            
+205FR cG M$A{-2}=+0.25 {I1}                                                     
+205FR  L 544.0     10  13/2+             80 NS   20                         B   
+205FR2 L XREF=B                                                                 
+205FR cL J$544|g (M2) to 9/2-; proposed configuration                           
+205FR cL T$From 2012Ja01 (estimate) in {+169}Tm({+40}Ar,4n|g), based on the     
+205FR2cL feeding intensity of the isomer measured by the JUROGAM array (target  
+205FR3cL position), the number of events detected  in the GREAT clover detector 
+205FR4cL (focal plane), and the time-of-flight of the recoiling nuclei between  
+205FR5cL the target position and focal plane.                                   
+205FR cL CONF$|p(i{-13/2}{++1})                                                 
+205FR  G 544       1   100       (M2)                                           
+205FR cG M$|a(K)exp=0.25 {I10} (2012Ja01)                                       
+205FRB G BM2W=0.23 6                                                            
+205FR  L 609        6   (1/2+)           1.15 MS 4                           M  
+205FR2 L XREF=B                                                                 
+205FR3 L %IT=100                                                                
+205FR cL J$165|g to (5/2-); proposed configuration                              
+205FR cL T$From implant-ce(t) in {+169}Tm({+40}Ar,4n|g) (2012Ja01)              
+205FR cL CONF$|p(s{-1/2}{++1})                                                  
+205FR  G  165      5   100       [M2]                                          S
+205FR cG E$From the observed summed (K+L+M)ce peak at 169 keV and GEANT4        
+205FR2cG simulations of the J|p=(1/2+) isomer decay in {+169}Tm({+40}Ar,4n|g)   
+205FR3cG (2012Ja01)                                                             
+205FRB G BM2W=0.0063 10                                                         
+205FR  L 763        6  (5/2+)                                                   
+205FR2 L XREF=B                                                                 
+205FR cL J$154.3|g to (1/2+)                                                    
+205FR  G 154.3     5   100                                                     ?
+205FR  L 840.0     14  (11/2-)                                                 ?
+205FR2 L XREF=B                                                                 
+205FR cL J$631|g to (7/2-)                                                      
+205FR  G 631       1   100                                                  X   
+205FR  L 1020.6    10  15/2+                                                B   
+205FR2 L XREF=B                                                                 
+205FR cL J$476.6|g (M1) to 13/2+                                                
+205FR  G 476.6     2   100      (M1)                                            
+205FR cG M$A{-2}=-0.17 {I4}                                                     
+205FR  L 1097.30   23  17/2-                                                A   
+205FR2 L XREF=B                                                                 
+205FR cL J$580.5|g (E2) to 13/2-; proposed configuration                        
+205FR cL CONF$|p(h{-9/2}{++1})~#4+                                              
+205FR  G 580.5     1   100      (E2)                                            
+205FR cG M$A{-2}=0.28 {I4}                                                      
+205FR  L 1169.8    11                                                           
+205FR2 L XREF=B                                                                 
+205FR  G  653      1   100                                                  X   
+205FR  L 1176       6  (9/2+)                                                  ?
+205FR2 L XREF=B                                                                 
+205FR cL J$413.1|g to (5/2+)                                                    
+205FR  G 413.1     5   100                                                     ?
+205FR  L 1197.2    10  17/2+                                                B   
+205FR2 L XREF=B                                                                 
+205FR cL J$175.8|g to 15/2+, 653.2|g (E2) to 13/2+                              
+205FR  G 175.8     1  6.7    6                                                  
+205FR  G 653.2     1  100    3  (E2)                                        X   
+205FR cG M$A{-2}=+0.21 {I5}                                                     
+205FR  L 1588.5    10  (17/2+)                                                  
+205FR2 L XREF=B                                                                 
+205FR cL J$390.6|g to 17/2+, 568.5|g D to 15/2+                                 
+205FR cL CONF$|p(h{-9/2}{++1})~#|n(f{-5/2}{+-1},i{-13/2}{+-1}){-5{+-}}  or      
+205FR2cL |p(h{-9/2}{++1})~#|n(p{-3/2}{+-1},i{-13/2}{+-1}){-5{+-}}               
+205FR  G 390.6     1  14.2   11                                                 
+205FR  G 568.5     1  100    4  D                                               
+205FR cG M$A{-2}=-0.28 {I16}                                                    
+205FR  L 1592.8     3                                                           
+205FR2 L XREF=B                                                                 
+205FR  G 1076.0    2    100                                                     
+205FR  L 1643.9    10  19/2+                                                B   
+205FR2 L XREF=B                                                                 
+205FR cL J$446.6|g to 17/2+, 623.5|g to 15/2+                                   
+205FR  G 446.6     1  100    4                                                  
+205FR  G 623.5     2   37    4                                                  
+205FR  L 1761.90   25  21/2-                                                A   
+205FR2 L XREF=B                                                                 
+205FR cL J$664.6|g (E2) to 17/2-; proposed configuration                        
+205FR cL CONF$|p(h{-9/2}{++1})~#6+                                              
+205FR  G 664.6     1   100      (E2)                                            
+205FR cG M$A{-2}=+0.29 {I7}                                                     
+205FR  L 1827.8    11  21/2+                                                B   
+205FR2 L XREF=B                                                                 
+205FR cL J$183.6|g to 19/2+, 630.9|g (E2) to 17/2+                              
+205FR  G 183.6     2  10.0   13                                                 
+205FR  G 630.9     2  100    4   (E2)                                       X   
+205FR cG M$A{-2}=+0.24 {I3}                                                     
+205FR  L 1873.5    11 (19/2+)                                                   
+205FR2 L XREF=B                                                                 
+205FR cL J$285.0|g to (17/2+)                                                   
+205FR  G 285.0     1  100                                                       
+205FR  L 1894.1    11 (21/2+)                                                   
+205FR2 L XREF=B                                                                 
+205FR cL J$305.6|g to (17/2+)                                                   
+205FR  G 305.6     1   100                                                      
+205FR  L 2037.2     3  (23/2-)                                                  
+205FR2 L XREF=B                                                                 
+205FR cL J$275.3|g D to 21/2-                                                   
+205FR cL CONF$|p(h{-9/2}{++2}f{-7/2}{++1})                                      
+205FR  G  275.3    1   100       D                                              
+205FR cG M$A{-2}=-0.51 {I13}                                                    
+205FR  L 2039.7     3                                                           
+205FR2 L XREF=B                                                                 
+205FR  G  942.4    2   100                                                      
+205FR  L 2080.5     3                                                           
+205FR2 L XREF=B                                                                 
+205FR  G  983.2    2   100       Q                                              
+205FR cG M$A{-2}=+0.25 {I1}                                                     
+205FR  L 2139.5    11 (21/2+)                                                  ?
+205FR2 L XREF=B                                                                 
+205FR cL J$550.6|g to (17/2+)                                                   
+205FR  G 550.6     3  100                                                      ?
+205FR  L 2185.4    11  23/2+                                                B   
+205FR2 L XREF=B                                                                 
+205FR cL J$358.2|g (M1) to 21/2+, 541.4|g (E2) to 19/2+                         
+205FR cL CONF$|p(h{-9/2}{++1})~#|n(f{-5/2}{+-1},i{-13/2}{+-1}){-7{+-}}  or      
+205FR2cL |p(h{-9/2}{++1})~#|n(p{-3/2}{+-1},i{-13/2}{+-1}){-7{+-}}               
+205FR  G 358.2     6  100    6   (M1)                                           
+205FR cG M$A{-2}=-0.29 {I11}                                                    
+205FR  G 541.4     2   40    6   (E2)                                           
+205FR cG M$A{-2}=+0.6 {I3}                                                      
+205FR  L 2189.8    11 (21/2+)                                                   
+205FR2 L XREF=B                                                                 
+205FR cL J$601.3|g to (17/2+)                                                   
+205FR  G 601.3     1  100                                                       
+205FR  L 2348.3    11  (27/2+)                                                  
+205FR2 L XREF=B                                                                 
+205FR cL J$162.9|g (E2) to 23/2+                                                
+205FR cL CONF$|p(h{-9/2}{++1})~#|n(f{-5/2}{+-1},i{-13/2}{+-1}){-9{+-}}          
+205FR  G 162.9     1  100        (E2)                                           
+205FR cG M$A{-2}=+0.23 {I9}                                                     
+205FR  L 2441.6    11 (23/2+)                                                   
+205FR2 L XREF=B                                                                 
+205FR cL J$547.5|g D to (21/2+)                                                 
+205FR  G 547.5     1  100        D                                              
+205FR cG M$A{-2}=-0.48 {I4}                                                     
+205FR  L 2481.1     4  (25/2-)                                              A   
+205FR2 L XREF=B                                                                 
+205FR cL J$719.2|g to 21/2-; proposed configuration                             
+205FR cL CONF$|p(h{-9/2}{++5}) or |p(h{-9/2}{++3})~#2+                          
+205FR  G 719.2     2   100                                                      
+205FR  L 2643.0     4  (27/2-)                                                  
+205FR2 L XREF=B                                                                 
+205FR cL J$605.8|g to (23/2-)                                                   
+205FR cL CONF$|p(h{-9/2}{++4}f{-7/2}{++1}) or |p(h{-9/2}{++2}f{-7/2}{++1})~#2+  
+205FR  G  605.8    3   100                                                      
+205FRF G FL=2037.2                                                              
+205FR  L 2644.3    11  (29/2+)                                                  
+205FR2 L XREF=B                                                                 
+205FR cL J$296.0|g to (27/2+)                                                   
+205FR cL CONF$|p(h{-9/2}{++1})~#|n(f{-7/2}{+-1},i{-13/2}{+-1})                  
+205FR  G 296.0     2   100                                                      
+205FR  L 2831.1    11 (25/2+)                                                  ?
+205FR2 L XREF=B                                                                 
+205FR cL J$640.9|g to (21/2+)                                                   
+205FR  G 640.9     2   100                                                     ?
+205FR  L 2922.8    11 (27/2+)                                                   
+205FR2 L XREF=B                                                                 
+205FR cL J$481.2|g to (23/2+)                                                   
+205FR  G 481.2     2   100                                                      
+205FR  L 2996.5    11  (31/2+)                                                  
+205FR2 L XREF=B                                                                 
+205FR cL J$648.2|g to (27/2+)                                                   
+205FR  G 648.2     2   100                                                      
+205FR  L 3081.6    11  (33/2+)                                                  
+205FR2 L XREF=B                                                                 
+205FR cL J$437.3|g (Q) to (29/2+)                                               
+205FR  G 437.3     1   100        (Q)                                           
+205FRF G FL=2644.3                                                              
+205FR cG M$A{-2}=+0.43 {I17}                                                    

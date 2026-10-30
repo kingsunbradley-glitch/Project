@@ -1,0 +1,40 @@
+240ES    244MD A DECAY                 2020PO07,2020KH08         25NDS    202511
+240ES  H TYP=FUL$AUT=C. Morse$CIT=NDS 206, 359 (2025)$CUT=27-Sep-2024$          
+240ES c  $ Two studies have claimed first observation of {+244}Md, identified   
+240ES2c  via |a decay: one from GSI (2020Kh08) and the other from LBNL          
+240ES3c  (2020Po07 - the evaluator acknowledges being a coauthor on this        
+240ES4c  publication). The LBNL study used the {+209}Bi({+40}Ar,2n) reaction    
+240ES5c  (E{-beam}=220 MeV before entering the 500 |mg/cm{+2} targets) while    
+240ES6c  the GSI experiment employed the {+197}Au({+50}Ti,xn) reaction at       
+240ES7c  231.5 and 239.8 MeV (center of target), thereby observing both the 2n  
+240ES8c  and 3n channels producing {+245}Md and {+244}Md, respectively.  Both   
+240ES9c  experiments identified reactions of interest using genetic             
+240ESac  correlations, whereby a fusion-evaporation residue is separated from   
+240ESbc  unreacted beam and implanted in a position-sensitive focal-plane       
+240EScc  detector, and the energies and decay times of subsequent decays        
+240ESdc  occuring at the same location are correlated with the implanted ions.  
+240ESec  Additionally, the LBNL experiment could retract the focal plane        
+240ESfc  detector to send reaction products through a gas catcher and           
+240ESgc  secondary separator in order to perform direct mass measurements of    
+240EShc  recoil products. However, the two studies are in disagreement.  The    
+240ESic  GSI data at 231.5 MeV (E{-|a}=8.61-8.69 MeV, T{-1/2}=0.33 s {I+15-8})  
+240ESjc  is consistent with the decay properties of {+245}Md, while the data    
+240ESkc  at 239.8 MeV is claimed to be the first observation of |a decay of     
+240ESlc  {+244}Md (E{-|a}=8.73-8.86 MeV, T{-1/2}=0.30 s {I+19-9}).  The LBNL    
+240ESmc  data reports an |a-decay energy of 8.66 MeV {I2} with a half-life of   
+240ESnc  0.4 s {I+4-1}, and possibly a second decay mode with E{-|a}=8.31 MeV   
+240ESoc  {I2} and T{-1/2}|?6 s.  The main decay mode observed in the LBNL       
+240ESpc  experiment is consistent with the energy and half-life reported for    
+240ESqc  {+245}Md in the GSI experiment, which might suggest that the LBNL      
+240ESrc  result is a misidentification.  However, the direct mass measurement   
+240ESsc  employed at LBNL makes it difficult to dismiss the results as an       
+240EStc  error.  Unfortunately, supporting spectroscopic data from a            
+240ESuc  simultaneous measurement of {+247}Md during the LBNL experiment have   
+240ESvc  not been published, which would help to corroborate the {+244}Md       
+240ESwc  data. Given the experimental ambiguity, the evaluator has opted not    
+240ESxc  to provide evaluated values until further evidence is available.       
+244MD  P 0                                                       8.95E+3  8     
+244MD cP QP$From 2021Wa16                                                       
+240ES  L 0            (1+)              6 S       2                             
+240ES cL J,T$From Adopted Levels.  Note that 2020Po07 reports 4.7 s {I+38-14},  
+240ES2cL while 2020Kh08 reports 8 s {I+6-2}.                                    

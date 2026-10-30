@@ -1,0 +1,128 @@
+222U     ADOPTED LEVELS                                          23NDS    202310
+222U   H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Jun Chen et al.,$              
+222U 2 H CIT=NDS 192, 315 (2023)$CUT=25-Sep-2023$                               
+222U   Q -7000     60 8320   90 3390   80  9480  50    2021WA16                 
+222U  cQ $Q(|e)=2210 {I100}, Q(|ep)=40 {I50}, S(2n)=14880 {I110} (syst),        
+222U 2cQ S(2p)=4990 {I50} (2021Wa16)                                            
+222U  c  1983Hi12: W({+40}Ar,xn) E({+40}Ar)=180 MeV; products were separated    
+222U 2c  from the primary beam by the velocity filter; parent of {+214}Ra       
+222U 3c  (7.16-MeV |a). Tentative identification of {+222}U nuclide.            
+222U  c  2012Ya04: {+100}Mo({+124}Sn,2n){+222}U,E({+124}Sn)=505 MeV. Measured   
+222U 2c  evaporation residues at the HRIBF-ORNL facility. Deduced production    
+222U 3c  |s=21 nb {I+38-21} from in-beam data, and <270 nb from post-irradiation
+222U 4c  collection of decay product {+206}Po (from |a decay chain:             
+222U 5c  {+222}U |) {+218}Th |) {+214}Ra |) {+210}Rn |) {+206}Po). No confirmed 
+222U 6c  production and identification of {+222}U nuclide.                      
+222U  c  2015Kh09: {+222}U produced and identified in {+176}Yb({+50}Ti,4n),     
+222U 2c  E({+50}Ti)=231-255 MeV reaction. The {+50}Ti{+12+} pulsed beam was     
+222U 3c  produced by the UNILAC at GSI. Target=0.45 mg/cm{+2} {I5} thick        
+222U 4c  {+176}YbF{-3} mounted on a rotating wheel, synchronized with the beam  
+222U 5c  pulses. Evaporation residues (ERs), separated by using gas-filled      
+222U 6c  TransActinide Separator and Chemistry Apparatus (TASCA) with flight    
+222U 7c  time of 0.53 |ms {I6} through the separator, were implanted in a       
+222U 8c  double-sided silicon strip detector. The events due to radioactive     
+222U 9c  decays of implanted residues were selected from the events related to  
+222U Ac  beam using a multiwire proportional counter (MWPC). Measured E|a, I|a, 
+222U Bc  from Er-|a correlated events from subsequent |a-decay chains,          
+222U Cc  half-lives of the parent nuclei corresponding to the evaporation       
+222U Dc  residues, and successive |a-decay daughters, the latter identified by  
+222U Ec  their known characteristics in literature. The identification of       
+222U Fc  {+222}U was made based on observed Er-|a, two- or three-signal         
+222U Gc  correlated events using a fast data acquisition and combined analog    
+222U Hc  and digital (CANDI) readout system. A total of 81 Er traces were       
+222U Ic  recorded for {+222}U and analyzed with subsequent |a decay chain:      
+222U Jc  {+222}U -> {+218}Th -> {+214}Ra. FWHM|?40 keV for 8.7 MeV |a particles,
+222U Kc  recorded as single events, |?110 keV and |?180 keV for multiple |a     
+222U Lc  events stored in a single trace with time differences of 1 |ms and     
+222U Mc  0.17 |ms, respectively. Deduced |a-decay reduced widths, and neutron   
+222U Nc  shell gap, the latter compared with FRDM95 and HFB26 theoretical       
+222U Oc  calculations for the Z=82-92,N=126 nuclei                              
+222U  c  2023Lu04: {+222}U produced in {+186}W({+40}Ar,4n),E({+40}Ar)=188 MeV,  
+222U 2c  followed by the separation of the evaporation residues (ERs) using the 
+222U 3c  He-filled recoil separator SHANS at the HRIFL-Lanzhou facility.        
+222U 4c  Measured |a-|a-correlated decay chains, E|a and T{-1/2} for the decay  
+222U 5c  of the g.s. of {+222}U from a total of ten observed events. Deduced    
+222U 6c  reduced |a-decay width and hindrance factor in Rasmussen's formalism.  
+222U  c  Nuclear structure calculations:                                        
+222U  c  2021Ch14: calculated equilibrium quadrupole deformations |b{-20},      
+222U 2c  deformation energies using axial reflection-asymmetric                 
+222U 3c  Hartree-Fock-Bogoliubov theory with Skyrme energy-density functionals  
+222U 4c  and density-dependent pairing force for multipole expansion of         
+222U 5c  interaction energies in isospin and reflection-asymmetric deformations.
+222U  c  2021Gu26: calculated odd-even mass differences using deformed          
+222U 2c  mean-field plus extended pairing model.                                
+222U  c  2021No02, 2021Ro02: calculated low-energy levels, J|p, B(E1), B(E2),   
+222U 2c  B(E3), quadrupole and octupole deformation parameters using            
+222U 3c  Hartree-Fock-Bogoliubov approximation, based on the Gogny-D1M energy   
+222U 4c  density functional and corresponding mapped sdf-IBM.                   
+222U  c  2020Ca18: calculated deformation parameters |b{-2}, |b{-3}, octupole   
+222U 2c  deformation energies, proton moments Q{-20} and Q{-30} using five      
+222U 3c  Skyrme energy density functionals, and four covariant energy density   
+222U 4c  functionals                                                            
+222U  c  2017Xi15: calculated levels, J|p, B(E1), B(E2), B(E3), electric dipole 
+222U 2c  moments, deformation energy surface in (|b{-3},|b{-3}) plane using     
+222U 3c  microscopic quadrupole-octupole collective Hamiltonian (QOCH) based on 
+222U 4c  relativistic |a(P)-PK1 energy density functional and |d-interaction    
+222U 5c  pairing.                                                               
+222U  c  2016Ag06: calculated equilibrium |b{-2}, |b{-3} deformation parameters 
+222U 2c  for ground state using density functional models and |e{-2}, |e{-3}    
+222U 3c  parameters by mic-mac (MM) approach, potential energy surfaces in      
+222U 4c  (|b{-2},|b{-3}) plane using CEDF DD-PC1 theory, and covariant energy   
+222U 5c  density functionals, with a nonlinear meson coupling, with             
+222U 6c  density-dependent meson couplings, and pairing correlations within     
+222U 7c  relativistic Hartree-Bogoliubov theory.                                
+222U  c  Theoretical calculations for |a and cluster decays:                    
+222U  c  2022He18: calculated |a-decay T{-1/2}, |a-preformation factor using    
+222U 2c  density-dependent cluster model with RMF NN interactions, M3Y NN       
+222U 3c  interactions and universal decay law (UDL) formula.                    
+222U  c  2022Xu13: calculated |a-decay T{-1/2} using the Gamow model with a     
+222U 2c  screened electrostatic barrier.                                        
+222U  c  2021Sa52: calculated Q(2|a), T{-1/2} for 2|a-decay with and without the
+222U 2c  deformation effects using used modified generalized liquid drop model, 
+222U 3c  and Coulomb and proximity potential model with different preformation  
+222U 4c  factors for double |a decay.                                           
+222U  c  2021Se10: calculated Q(|b{+-})values and T{-1/2} for cluster decays,   
+222U 2c  change in neutron-skin thickness, the isospin-asymmetry using          
+222U 3c  self-consistent Hartree-Fock-Bogolyubov based on Skyrme-SLy4 effective 
+222U 4c  nucleon-nucleon interaction                                            
+222U  c  2020Ni01, 2017Ni01: calculated |a-branching ratios to vibrational      
+222U 2c  states, |a-decay T{-1/2}, partial half-lives for |b{++}/|e and |a-decay
+222U 3c  modes using multichannel cluster model (MCCM).                         
+222U  c  2018Se01: calculated driving potential vs cluster charge, T{-1/2} for  
+222U 2c  |a-decay and for cluster decay, |a and cluster Q values using          
+222U 3c  Skyrme-SLy4 nucleon-nucleon interaction, within the frame work of      
+222U 4c  the performed cluster model                                            
+222U  c  2017Sa39: calculated cluster decay T{-1/2} using 12 different          
+222U 2c  potentials                                                             
+222U  d  Other theory references (structure): 2020EfZY, 2021Po06, 2015Ku28,     
+222U 2d  2015To07, 2012Ro29, 2012Wa27, 2010To07, 1988So08, 1986Da03,            
+222U 3d  1984Na22, 1982Le19.                                                    
+222U  d  Other theory references for |a and cluster decays: 2023Xi06, 2023As01, 
+222U 2d  2022Ch05, 2022De22, 2022De31, 2022Lu11, 2022Ou01, 2022Pa33, 2022Si14,  
+222U 3d  2022Sr01, 2022Wa06, 2022Xu04, 2021Bu02, 2021Ch44, 2021He09, 2021Va09,  
+222U 4d  2020Bu17, 2020Ca10, 2020De37, 2020Mo37, 2020Zh36, 2019Li58, 2019So15,  
+222U 5d  2019Sr04, 2018De17, 2018Ho01, 2018Zh35, 2017Da09, 2017Ph01, 2017Sa62,  
+222U 6d  2017Wa17, 2016Na19, 2016Qi10, 2015Ku28, 2015Ni12, 2014Is03, 2013Is13,  
+222U 7d  2013Ja16, 2013Ra05, 2013Se17, 2013To12, 2012Is07, 2012Is08, 2012Re06,  
+222U 8d  2012Sa31, 2011Qi06, 2011Sh13, 2009Ni06, 2009Qi07, 2008Zh12, 2007Pe30,  
+222U 9d  2001Mo07.                                                              
+222U  d  Theory references for masses: 2022Ca06, 2020Ma19, 2018Ut01.            
+222U   L 0            0+                4.6 US   7                              
+222U 2 L %A AP 100                                                              
+222U  cL $Only the |a decay has been observed. Decay mode of %|a|?100 is based  
+222U 2cL on theoretical half-lives of 17.4 |ms for |a decay and 17.5 s for      
+222U 3cL |b decay (2019Mo01)                                                    
+222U  cL T$weighted average of 4.7 |ms {I7} (2015Kh09, fitting of the (Er)-|a   
+222U 2cL correlated decay curve for the 9310|a peak from {+222}U decay to a     
+222U 3cL single exponential); and 4.0 |ms {I+19-10} (2023Lu04, Er-|a correlated 
+222U 4cL decay curve). Other: 1.0 |ms {I+12-4} (1983Hi12, from correlated 12.08 
+222U 5cL MeV and 7.16 MeV |a peaks, the latter from {+214}Ra decay; the 12.08   
+222U 6cL MeV composite peak was interpreted as the superposition of |a peaks    
+222U 7cL from decays of {+222}U and {+218}Th; the assignment of this |a peak to 
+222U 8cL {+222}U was not that definite)                                         
+222U  cL $Measured E|a=9.31 MeV {I5} from the decay of {+222}U to {+218}Th      
+222U 2cL (2015Kh09), 9246 keV {I8} (2023Lu04). Evaluator's note: the difference 
+222U 3cL in the two values seems significant, however, it seems that the        
+222U 4cL uncertainty of 8 keV in 2023Lu04 is underestimated, as this value      
+222U 5cL was deduced from simply a spread of E|a values (without uncertainties) 
+222U 6cL for only five events (#3, #4, #5, #6 and #9) in authors' Table I.      

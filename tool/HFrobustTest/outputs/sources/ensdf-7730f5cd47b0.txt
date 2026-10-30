@@ -1,0 +1,233 @@
+244MD    ADOPTED LEVELS                                          ENSDF    202102
+244MD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=15-FEB-2021$                    
+244MD  Q              7470   CA 880    CA 8940   CA    2019MO01                 
+244MD cQ $S(2n)=16460, S(2p)=3740, Q(|e)=6860 (theory, 2019Mo01)                
+244MD c  2020Po07: {+244}Md produced and identified in {+209}Bi({+40}Ar,5n),    
+244MD2c  E({+40}Ar)=220 MeV. Experiment performed at LBNL using the             
+244MD3c  88-inch cyclotron facility, Berkeley Gas-filled separator (BGS) for    
+244MD4c  separation of fragments by A/Q, and mass identification set up FIONA   
+244MD5c  (For the Identification Of Nuclide A) were used. For confirmation and  
+244MD6c  optimization, as well as for calibration purpose, the evaporation      
+244MD7c  residues of the known {+247}Md nucleus using {+209}Bi(E({+40}Ar,2n),   
+244MD8c  E=200 MeV reaction, and known {+198}At and {+199}At were produced in   
+244MD9c  {+165}Ho({+40}Ar,7n) and {+165}Ho({+40}Ar,6n) reactions. Recoils were  
+244MDAc  implanted in double-sided silicon strip detectors (DSSDs) to detect    
+244MDBc  evaporation residues (EVR) and |a particles from the decays. For       
+244MDCc  {+247}Md, several EVR-|a-|a correlations were detected with            
+244MDDc  decay chain characteristics consistent with known decay properties.    
+244MDEc  Authors mention that details about the {+247}Md and its decay chain    
+244MDFc  will be discussed in a forthcoming publication. Six EVR-|a-|a-|a       
+244MDGc  correlated events, listed below, were assigned to                      
+244MDHc  {+244}Md |) {+240}Es |) {+236}Bk |) {+232}Am |a-decay chain, mostly    
+244MDIc  partial chains, the |a-decay mode of {+236}Bk discovered for the first 
+244MDJc  time. Measured E|a, half-lives and production cross section. Deduced   
+244MDKc  possible evidence for two long-lived activities in {+244}Md. The       
+244MDLc  probability of detecting four random events was found to be of the     
+244MDMc  order of 0.1%, based on long-term background measurement. It was       
+244MDNc  unlikely that any decays from {+240}Es |e-delayed fission branch or the
+244MDOc  {+236}Bk |e branch would have been observed in the present experiment. 
+244MD c  2020Kh08: {+244}Md produced and identified in {+197}Au({+50}Ti,3n),    
+244MD2c  E({+50}Ti)=231.5, 239.8 MeV, corresponding to excitation               
+244MD3c  energies of 26.2 MeV and 32.7 MeV, respectively for the compound       
+244MD4c  nucleus. Experiment performed at GSI using the UNILAC accelerator and  
+244MD5c  gas-filled transactinide separator and chemistry apparatus (TASCA)     
+244MD6c  for separation of fragments by A/Q, and mass identification.           
+244MD7c  For calibration purpose, {+176}Yb({+48}Ca,X) reaction and |a decay     
+244MD8c  of resulting products was used. FWHM=40 keV at E|a=5.8 MeV. Recoils    
+244MD9c  were implanted in double-sided silicon strip detectors (DSSDs) to      
+244MDAc  detect evaporation residues (EVR) and |a particles from the decays.    
+244MDBc  Seven EVR-|a correlated events, listed below, were assigned to         
+244MDCc  {+244}Md |) {+240}Es |) {+236}Bk |a-decay chain. Measured E|a,         
+244MDDc  half-lives and production cross section. No fission events from        
+244MDEc  the decay of {+244}Fm, possible |e daughter of {+244}Md, were          
+244MDFc  observed. Another group of eight EVR-Fission correlated events were    
+244MDGc  observed and interpreted for assignments to {+244}Md isomer and/or     
+244MDHc  {+244}Fm                                                               
+244MD c  Theoretical calculations: four primary reference in the NSR database   
+244MD2c  (available at www.nndc.bnl.gov/nsr/) for nuclear structure,            
+244MD3c  radioactive decay half-lives and other properties                      
+244MD c                                                                         
+244MD c  History of six observed correlated (EVR-|a-|a-|a) events, mostly       
+244MD2c  partial decay chains (2020Po07):                                       
+244MD c                                                                         
+244MD c  Event #1:                                                              
+244MD c  E{-|a1}=8178 keV {I23}, |Dt{-|a1}=0.60 s, assigned to {+240}Es;        
+244MD2c  decays 70% {I10} by |a-decay mode, as in 2017Ko02,                     
+244MD3c  and also adopted in the {+240}Es Adopted Levels in the ENSDF           
+244MD4c  database (Dec 2016 update).                                            
+244MD c  E{-|a2}=7305 keV {I23}, |Dt{-|a2}=27.34 s, assigned to {+236}Bk:       
+244MD2c  decays by |a-decay mode according to the present experiment, but       
+244MD3c  was assigned 100% |e decay by 2017Ko02; and                            
+244MD4c  also adopted in the {+236}Bk Adopted Levels in the ENSDF database      
+244MD5c  (Dec 2016 update).                                                     
+244MD c                                                                         
+244MD c  Event #2:                                                              
+244MD c  E{-|a1}=8308 keV {I19}, |Dt{-|a1}=9.18 s, assigned to {+244}Md         
+244MD c  E{-|a2}=7996 keV {I19}, |Dt{-|a2}=14.37 s, assigned to {+240}Es:       
+244MD2c  decays 70% {I10} by |a-decay mode                                      
+244MD c                                                                         
+244MD c  Event #3:                                                              
+244MD c  E{-|a1}=8635 keV {I18}, |Dt{-|a1}=0.88 s, assigned to {+244}Md         
+244MD c  E{-|a2}=7330 keV {I18}, |Dt{-|a2}=18.95 s, assigned to {+236}Bk:       
+244MD2c  decays 70% {I10} by |a-decay mode                                      
+244MD c                                                                         
+244MD c  Event #4:                                                              
+244MD c  E{-|a1}=8653 keV {I25}, |Dt{-|a1}=0.13 s, assigned to {+244}Md         
+244MD c  E{-|a2}=8128 keV {I25}, |Dt{-|a2}=1.20 s, assigned to {+240}Es:        
+244MD2c  decays 70% {I10} by |a-decay mode                                      
+244MD c  E{-|a3}=7086 keV {I25}, |Dt{-|a2}=75.97 s, assigned to {+236}Bk:       
+244MD c                                                                         
+244MD c  Event #5:                                                              
+244MD c  E{-|a1}=8682 keV {I20}, |Dt{-|a1}=0.31 s, assigned to {+244}Md         
+244MD c  E{-|a2}=8203 keV {I20}, |Dt{-|a2}=10.00 s, assigned to {+240}Es:       
+244MD2c  decays 70% {I10} by |a-decay mode                                      
+244MD c                                                                         
+244MD c  Event #6:                                                              
+244MD c  E{-|a1}=8684 keV {I20}, |Dt{-|a1}=1.16 s, assigned to {+244}Md         
+244MD c  E{-|a2}=8124 keV {I20}, |Dt{-|a2}=7.65 s, assigned to {+240}Es:        
+244MD2c  decays 70% {I10} by |a-decay mode                                      
+244MD c                                                                         
+244MD c                                                                         
+244MD c  History of seven observed correlated (EVR-|a-|a) events, mostly        
+244MD2c  partial, at E({+50}Ti)=239.8 MeV (2020Kh08)                            
+244MD c                                                                         
+244MD c  Event #1: Energy of evaporation residue (EVR)=10.9 MeV                 
+244MD c  E{-|a1}=8810 keV, |Dt{-|a1}=0.189 s, assigned to {+244}Md.             
+244MD c  E{-|a2}=670 keV (escaped), |Dt{-|a2}=5.6 s, assigned to {+240}Es:      
+244MD2c  decays 70% {I10} by |a-decay mode, as in 2017Ko02;                     
+244MD3c  and also adopted in the {+240}Es Adopted Levels in the ENSDF           
+244MD4c  database (Dec 2016 update).                                            
+244MD c  {+236}Bk decays by |e to {+236}Cm                                      
+244MD c                                                                         
+244MD c  Event #2: Energy of evaporation residue (EVR)=11.8 MeV                 
+244MD c  E{-|a1}=8860 keV, |Dt{-|a1}=0.312 s, assigned to {+244}Md              
+244MD c  E{-|a2}=8050 keV, |Dt{-|a2}=15.5 s, assigned to {+240}Es:              
+244MD2c  decays 70% {I10} by |a-decay mode                                      
+244MD c  {+236}Bk decays by |e to {+236}Cm                                      
+244MD c                                                                         
+244MD c  Event #3: Energy of evaporation residue (EVR)=11.7 MeV                 
+244MD c  E{-|a1}=8810 keV, |Dt{-|a1}=1.04 s, assigned to {+244}Md               
+244MD c  E{-|a2}=7060 keV (partly detected), |Dt{-|a2}=2.99 s, assigned to      
+244MD2c  {+240}Es: decays 70% {I10} by |a-decay mode                            
+244MD c  {+236}Bk decays by |e to {+236}Cm                                      
+244MD c                                                                         
+244MD c  Event #4: Energy of evaporation residue (EVR)=12.1 MeV                 
+244MD c  E{-|a1}=8780 keV, |Dt{-|a1}=0.051 s, assigned to {+244}Md              
+244MD c  E{-|a2} missing for |a decay of {+240}Es                               
+244MD c  {+236}Bk decays by |e to {+236}Cm                                      
+244MD c                                                                         
+244MD c  Event #5: Energy of evaporation residue (EVR)=13.5 MeV                 
+244MD c  E{-|a1}=8730 keV, |Dt{-|a1}=0.875 s, assigned to {+244}Md              
+244MD c  E{-|a2}=7760 keV (partly detected), |Dt{-|a2}=27.4 s, assigned to      
+244MD2c  {+240}Es: decays 70% {I10} by |a-decay mode                            
+244MD c  {+236}Bk decays by |e to {+236}Cm, which further decays by             
+244MD2c  |a decay with observed E|a=6890 keV, and |Dt=106 s                     
+244MD c                                                                         
+244MD c  Event #6: Energy of evaporation residue (EVR)=13.7 MeV                 
+244MD t  E{-|a1}=8830 keV, |Dt{-|a1}=0.472 s, assigned to {+244}Md              
+244MD c  E{-|a2} missing for the |a decay of {+240}Es                           
+244MD2c  decays 70% {I10} by |a-decay mode                                      
+244MD c  {+236}Bk decays by |e to {+236}Cm                                      
+244MD c                                                                         
+244MD c  Event #7: Energy of evaporation residue (EVR)=13.7 MeV                 
+244MD t  E{-|a1}=8740 keV, |Dt{-|a1}=0.0924 s, assigned to {+244}Md             
+244MD c  No |a detected from the decay of {+240}Es, but |e-delayed fission to   
+244MD2c  {+240}Cf observed, with E(fission)=151 MeV and |Dt=0.0829 s.           
+244MD c                                                                         
+244MD c  History of eight observed correlated (EVR-FI) events, related to a     
+244MD2c  short-lived activity at E({+50}Ti)=239.8 MeV, with a very tentative    
+244MD3c  assignment to a short-lived isomer in {+244}Md, but with several other 
+244MD4c  scenarios discussed for these eight events with T{-1/2}=5 ms {+3-2},   
+244MD5c  including possible assignment to {+244}Fm SF decay, where {+244}Fm     
+244MD6c  could be produced in (p2n) reaction channel (2020Kh08):                
+244MD c                                                                         
+244MD c  Event #1: Energy of evaporation residue (EVR)=12.7 MeV                 
+244MD c  Energy of fission events=87 MeV, |Dt=0.00648 s                         
+244MD c                                                                         
+244MD c  Event #2: Energy of evaporation residue (EVR)=8.8 MeV                  
+244MD c  Energy of fission events=47 MeV, |Dt=0.0165 s                          
+244MD c                                                                         
+244MD c  Event #3: Energy of evaporation residue (EVR)=15.7 MeV                 
+244MD c  Energy of fission events=135 MeV, |Dt=0.0105 s                         
+244MD c                                                                         
+244MD c  Event #4: Energy of evaporation residue (EVR)=12.0 MeV                 
+244MD c  Energy of fission events=102 MeV, |Dt=0.00826 s                        
+244MD c                                                                         
+244MD c  Event #5: Energy of evaporation residue (EVR)=13.2 MeV                 
+244MD c  Energy of fission events=122 MeV, |Dt=0.0027 s                         
+244MD c                                                                         
+244MD c  Event #6: Energy of evaporation residue (EVR)=14.1 MeV                 
+244MD c  Energy of fission events=103 MeV, |Dt=0.00395 s                        
+244MD c                                                                         
+244MD c  Event #7: Energy of evaporation residue (EVR)=10.6 MeV                 
+244MD c  Energy of fission events=90 MeV, |Dt=0.00437 s                         
+244MD c                                                                         
+244MD c  Event #8: Energy of evaporation residue (EVR)=13.9 MeV                 
+244MD c  Energy of fission events=125 MeV, |Dt=0.00703 s                        
+244MD c                                                                         
+244MD cL $2020Po07 assigned a very tentative activity of |?6 s from             
+244MD2cL |Dt(EVR-|a{-1}) in a single event #2, emitting E|a1=8308 keV {I19} from
+244MD3cL an agreement of |a2 energy in event #2 with literature value for the   
+244MD4cL |a decay of {+240}Es decay, |a1 is assigned to a tentative state in    
+244MD5cL {+244}Md, lower than the 0.4-s activity, which may correspond to the   
+244MD6cL ground state of {+244}Md, as |a1 in event #2 is also shown in Fig. 4   
+244MD7cL of 2020Po07 to decay to the g.s. of {+240}Es. This activity is not     
+244MD8cL reported in 2020Kh08.                                                  
+244MD  L 0                             0.38 S    +19-9                          
+244MD2 L %A AP 100 (2020Po07,2020Kh08)$ %EC+%B+<14 (2020Kh08)                   
+244MD cL $In 2020Po07, 100% |a decay mode is assumed, considering that possible 
+244MD2cL {+244}Md |e decay would lead to fission events, either from |a-delayed 
+244MD3cL fission or from the spontaneous fission of the {+244}Fm daughter ground
+244MD4cL state, whereas no such events were observed at the FIONA focal plane in
+244MD5cL the present experiment. In addition, measured half-life is in agreement
+244MD6cL with expected half-lives of 1.7 s {I+27-7} from Viola-Seaborg (VS)     
+244MD7cL formula, 0.7 s {I+25-5} from Royer formula, and 1.0 s {I29-8} from the 
+244MD8cL superfluid tunneling model (STM), favoring a dominant |a decay mode.   
+244MD9cL From theoretical T{-1/2}=10.3 s for |b decay, and 1.15 s for |a decay  
+244MDAcL (2019Mo01) also, dominant |a decay mode is expected.                   
+244MD cL $From the similarity of |a1 and |a2 energies in events #4, #5 and #6,  
+244MD2cL and agreement of E|a value for {+240}Es |a decay with literature value,
+244MD3cL these events are assigned to the decay of {+244}Md by 2020Po07. The    
+244MD4cL first |a in event #3 is also assigned to {+244}Md decay.               
+244MD cL $In 2020Kh08, upper limit of %|e decay is estimated, from observation  
+244MD2cL of no correlated fission events which could be assigned to {+244}Fm    
+244MD3cL decay, as possible |e daughter of {+244}Md.                            
+244MD cL $E|a=8794 {I20} (2020Kh08) from the decay of {+244}Md decay, as        
+244MD2cL evaluator's unweighted average of seven |a1 values from seven EVR-|a   
+244MD3cL correlated events with measured E|a=8810, 8860, 8810, 8780, 8730, 8830 
+244MD4cL and 8740 keV in 2020Kh08. From range of E|a=8730-8860 keV given by     
+244MD5cL 2020Kh08, E|a=8795 {I65}. This |a transition populates the g.s. of     
+244MD6cL {+240}Es                                                               
+244MD cL E$it is assumed that the 0.38-s activity is associated with the ground 
+244MD2cL state. This assumption is consistent with the results in 2020Kh08. In  
+244MD3cL 2020Po07, however, authors have proposed the 0.4-s activity located    
+244MD4cL above a very tentative lower state (possibly the g.s.) of |?6 s        
+244MD5cL half-life, based on a single event. But no correlated event with 6-s   
+244MD6cL activity is reported in 2020Kh08                                       
+244MD cL J$0+ or 7+ from |W{-|p}=7/2- and |W{-|n}=7/2- orbitals (2019Mo01)      
+244MD cL T$weighted average of 0.4 s {I+4-1} (2020Po07, average mean lifetime   
+244MD2cL |Dt(EVR-|a{-1})=0.6 s {I+6-2}) and 0.30 s {I+19-9} (2020Kh08, based on 
+244MD3cL eight mean lifetimes of correlated events, with values of 6.48 ms,     
+244MD4cL 16.5 ms, 10.5 ms, 8.26 ms, 2.7 ms, 3.95 ms, 4.37 ms and 7.03 ms).      
+244MD5cL It is assumed that the same activity is being observed in both the     
+244MD6cL experiments.                                                           
+244MD cL $Measured production |s=0.5 nb {I+3-2} for E({+40}Ar)=220 MeV beam     
+244MD2cL (2020Po07)                                                             
+244MD cL $Measured production |s=65 pb {I+34-25} for E({+50}Ti)=239.8 MeV beam  
+244MD2cL (2020Kh08)                                                             
+244MD  L 0+X                            5 MS     +3-2                        M ?
+244MD2 L %SF=? $%A=? $ %EC+%B+=?                                                
+244MD cL $The assignment of 5-ms activity, based on observed EVR-Fission        
+244MD2cL correlated events (2020Kh08, listed in header comments) is very        
+244MD3cL tentative. Several alternative scenarios have been provided by 2020Kh08
+244MD4cL about these events, including assignment to {+244}Fm decay (known to   
+244MD5cL decay by dominant SF mode with T{-1/2}=3.12 ms), and assignment to     
+244MD6cL another activity (isomeric state) in {+244}Md which can decay by       
+244MD7cL |e+|b{++} mode to {+244}Fm. No correlated events, corresponding to     
+244MD8cL this activity, are reported in 2020Po07.                               
+244MD cL $If the assignment of the 5-ms activity to {+244}Md in 2020Kh08 is     
+244MD2cL correct, then only the SF decay mode has been observed. There is no    
+244MD3cL experimental information about either |a decay or the |e+|b{++} decay. 
+244MD cL T$from 2020Kh08, based on eight mean lifetimes of correlated events,   
+244MD2cL with values of 6.48 ms, 16.5 ms, 10.5 ms, 8.26 ms, 2.7 ms, 3.95 ms,    
+244MD3cL 4.37 ms and 7.03 ms.                                                   

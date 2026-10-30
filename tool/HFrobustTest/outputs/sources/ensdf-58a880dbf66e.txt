@@ -1,0 +1,107 @@
+249NO    ADOPTED LEVELS, GAMMAS                                  24NDS    202403
+249NO  H TYP=MOD$AUT=C.D.Nesaraja$DAT=27-APR-2025$                              
+249NO2 H COM=Level 125-keV has replaced the previous adopted level 102-keV.     
+249NO  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249NO  Q              6970   SY 2450   SY 9170   SY    2021WA16                 
+249NO cQ $Estimated uncertainties (2021Wa16): 360 for S(n), 340 for S(p),       
+249NO2cQ 200 for Q(|a).                                                         
+249NO cQ $Q(|e)=4610 {I320}, Q(|ep)=2600 {I280}, S(2p)=4460 {I330}              
+249NO2cQ (syst,2021Wa16). S(2n)=15680 (2019Mo01, theory).                       
+249NO3cQ Other Q(|a)=9280 {I30} (2022Te01) based on measured E|a=9129 {I22}     
+249NO4cQ (2022Te01)                                                             
+249NO c  Two independent experiments, one at FLNR-JINR-Dubna and the other at   
+249NO2c  GSI have identified new {+249}No nuclide, as described below.          
+249NO c  2021Sv02, 2022Te01 (also 2021Te08): {+249}No produced and identified in
+249NO2c  {+204}Pb({+48}Ca,2n),E=225.4 MeV, followed by separation of evaporation
+249NO3c  residues using the SHELS velocity filter separator, and detected in the
+249NO4c  GABRIELA detection system of Double-Sided Silicon Detectors (DSSDs)    
+249NO5c  positioned at the focal plane of the separator, and 5 Ge detectors (1  
+249NO6c  clover and 4 coaxial Ge detectors). Measured Er-|a-|a correlated       
+249NO7c  events, E|a, and half-lives of {+249}No and its daughter product       
+249NO8c  {+245}Fm, and several events related to |a and |e decays of daughters  
+249NO9c  of {+245}Fm such as {+241}Cf and {+245}Es were observed, confirming    
+249NOac  unambiguously identification of {+249}No nuclide, although, 2021Sv02   
+249NObc  mentioned that more detailed studies were needed to elucidate decay    
+249NOcc  characteristics of {+249}No nuclide. Experiments were performed at the 
+249NOdc  U400 cyclotron facility of the Flerov Laboratory of Nuclear Reaction   
+249NOec  (FLNR-JINR-Dubna).                                                     
+249NO c  2021Kh07: {+249}No nuclide identified from the |a decay of {+253}Rf,   
+249NO2c  the latter produced in {+204}Pb({+50}Ti,n),E=234.3 MeV, followed by    
+249NO3c  separation of evaporation residues (ERs) using gas-filled TransActinide
+249NO4c  Separator and Chemistry Apparatus (TASCA) at UNILAC, GSI. Measured     
+249NO5c  (Er)(fission)- and (Er)|a-correlated events, E|a, I|a, partial         
+249NO6c  half-lives of two fission activities of {+253}Rf, |a-decay half-life   
+249NO7c  of the newly discovered {+249}No isotope from the |a decay of {+253}Rf 
+249NO8c  in (Er)-|a-|a-|a correlated events.                                    
+249NO c  Previous (unsuccessful) experiments on the identification of {+249}No: 
+249NO c  2003Be18 (also 2003Po08,2003Ye02): {+204}Pb({+48}Ca,2n),E=218-236 MeV; 
+249NO2c  {+206}Pb({+48}Ca,4n),E=234.5 MeV. Fragments separated by VASSILISSA    
+249NO3c  mass separator at JINR-Dubna facility. Measured two activities: one    
+249NO4c  assigned to {+250}No and the other to {+249}No with half-life of       
+249NO5c  54 |ms {I+15-10}, but with a possibility that both could belong to     
+249NO6c  {+250}No. Later 2006Pe17, using {+204}Pb({+48}Ca,2n),E=220 MeV         
+249NO7c  reaction and Fragment Mass Analyzer at ATLAS-ANL facility assigned     
+249NO8c  the 54-|ms activity to {+250}No. Also 2003Be18 re-investigated the     
+249NO9c  results of their experiment in 2017Sv02 using the same reaction,       
+249NOAc  and concluded that the two activities observed in their 2003 work      
+249NOBc  belonged to {+250}No and that {+249}No nuclide was not produced,       
+249NOCc  in agreement with the results obtained by 2006Pe17 at Argonne.         
+249NO c  Theoretical nuclear structure calculations:                            
+249NO c  2012Zh01: calculated bandhead energies of low-lying one-quasiparticle  
+249NO2c  bands, moments of inertia plots of g.s. and excited bands, alignments, 
+249NO3c  occupation probabilities, contribution of neutron and proton major     
+249NO4c  shells to angular momentum alignments using Cranked shell model (CSM), 
+249NO5c  particle-number conserving (PNC) method.                               
+249NO c  2011Ad15: calculated one-quasiparticle states in N=147 nuclei using    
+249NO2c  Two-center shell model (TCSM), quasiparticle-phonon model (QPM).       
+249NO c  2006Sh19: calculated levels, J|p rotational bands, transition dipole   
+249NO2c  and quadrupole moments using Cluster model.                            
+249NO c  2005Pa73: calculated neutron single-quasiparticle energies using       
+249NO2c  macroscopic-microscopic approach.                                      
+249NO c  1985Cw01: calculated deformation energy along fission barrier          
+249NO2c  versus |b{-2}, fission barrier versus neutron number using             
+249NO3c  Strutinsky method                                                      
+249NO d  Theoretical calculations of |a-decay half-lives and other decay        
+249NO2d  characteristics: 2022Ba25, 2022Xi08, 2021Ji04, 2021Si02, 2021Vl01,     
+249NO3d  2019Sr04, 2012Ji07, 2008Do12, 1978Po09.                                
+249NO  XA253RF A DECAY (9.9 MS)                                                 
+249NO  XB204PB(48CA,3N)                                                         
+249NO  L  0           (5/2+)            38.1 MS  28                             
+249NO2 L %A LE 100 $ %EC+%B+=? $ %ECP=? $ %SF=0.23 +46-23 (2022Te01,2021Sv02)   
+249NOX L XREF=AB                                                                
+249NO cL $Only the |a decay has been observed in 2021Sv02 and 2021Kh07.         
+249NO2cL %SF decay mode in 2021Sv02 from Er-SF correlations, where only one such
+249NO3cL event with a decay time of more than 200 ms was observed, from which   
+249NO4cL authors could set only an upper limit on the SF-decay branch.          
+249NO5cL The |a decay of {+249}No is expected to be the dominant decay mode     
+249NO6cL from theoretical T{-1/2}(|a)=1.18 s, and T{-1/2}(|e decay)=11.4 s      
+249NO7cL (2019Mo01), suggesting |?90% |a and |?10% |e+|b{++} decay.             
+249NO cL $From the decay of {+249}No, measured E|a=9129 keV {I22}               
+249NO2cL (2022Te01,2021Sv02); 9060 keV {I30} (2021Kh07). Weighted average is    
+249NO3cL 9105 keV {I33}.                                                        
+249NO cL T$from |a-decay in 2021Sv02 and 2022Te01, from detection               
+249NO2cL of 218 events assigned to {+249}No from {+249}No |) {+245}Fm |a-|a     
+249NO3cL correlated events, as shown in |a-spectrum in Fig. 1 of 2021Sv02 and   
+249NO4cL Fig. 5 in 2022Te01 (T{-1/2}=43.8 ms {I7} in 2021Te08). Due to much     
+249NO5cL higher statistics in 2021Sv02 and 2022Te01, as compared to those in    
+249NO6cL 2021Kh07, as well as direct production of {+249}No isotope, evaluator  
+249NO7cL recommends half-life measurement in 2021Sv02 and 2022Te01. Others:     
+249NO8cL T{-1/2}=15 ms {I+74-7} ms (2021Kh07) from Er-{+253}Rf |) {+249}No |)   
+249NO9cL {+245}Fm, Er-|a-|a-|a correlated events, with a total number of seven  
+249NOAcL observed events; T{-1/2}=29 ms {I+14-7} from Er-|a-|a(t) (2022Lo03)    
+249NO cL J$(5/2+) assigned by 2022Te01 based on |n5/2[622] orbital for N=147    
+249NO2cL isotones {+239}U, {+241}Pu and {+243}Cm; 5/2+ also from theory in      
+249NO3cL 2019Mo01, 2012Zh01, 2011Ad15, 2006Sh19, and 2005Pa73. Other: (7/2+)    
+249NO4cL assigned by 2021Kh07 based on favored |a decay from {+253}Rf with      
+249NO5cL |n7/2[624] orbital assignment, and based on g.s. J|p and similar       
+249NO6cL configurations for {+247}Fm and {+251}No. However, 2022Lo03 assigned   
+249NO7cL |n1/2[631] for the g.s. of {+253}Rf.                                   
+249NO cL $Measured production |s=0.47 nb {I4} in {+204}Pb({+48}Ca,2n),E=225.4   
+249NO2cL MeV (2022Te01), with 193 observed Er-|a correlated events.             
+249NO  L 125       CA  (1/2+)                                                   
+249NO cL J$Based on the systematics of low lying isotones N=147 and             
+249NO2cL the GEANT4 simulated properties by 2022Te01                            
+249NOX L XREF=A                                                                 
+249NO  G 125                    [E2]                                           S
+249NO cG E$from 2022Te01. Assumed to be E2 transition which would not be        
+249NO2cG observed as it is highly converted                                     

@@ -1,0 +1,38 @@
+255MD    ADOPTED LEVELS                                          13NDS    201309
+255MD  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+255MD2 H CUT=1-Nov-2011$                                                        
+255MD  Q -1963     16 6681   SY 3349   7  7906   3     2012WA38                 
+255MD cQ           Estimated |DS(n)=100 (2012Wa38)                              
+255MD c                                                                         
+255MD c  Calculations, compilations:                                            
+255MD c  |a decay: 1992Bu03, 1993Bu09                                           
+255MD c  Ground state properties: 1997Ch06, 1997Mo25, 2010Ad19                  
+255MD c  Single-particle Nilsson levels: 1994Cw02, 2004Pa40                     
+255MD c  Q(|a), half-lives: 2011Sa40, 2008Do12                                  
+255MD c                                                                         
+255MD c  1994Cw02 have calculated the following single-particle level sequence: 
+255MD2c  g.s., 1/2[521], 0.24 MeV, 7/2[514]; 0.43 MeV, 7/2[633]; 0.48 MeV,      
+255MD3c  9/2[624]; 0.83 MeV, 3/2[521].                                          
+255MD  XA255NO EC DECAY                                                         
+255MD  XB259LR A DECAY                                                          
+255MD  L 0           (7/2-)            27 M      2                              
+255MDX L XREF=AB                                                                
+255MD2 L %A=7 1$ %EC=93 1                                                       
+255MD3 L CONF=(P,7/2(514))                                                      
+255MD cL J         Favored |a decay to (7/2-) level in {+251}Es.                
+255MD cL T         27 min {I2} (1970Fi12), 27 min {I3} (1971Ho16). Other:       
+255MDxcL 1965Si14                                                               
+255MD cL %A$%|a=8 {I2}, from growth of {+255}Fm daughter;                       
+255MD2cL |a/(|a+|e)=0.07 {I1} (1970Fi12), 0.100 {I14} (1971Ho16), 0.100         
+255MD3cL {I+25-17} (1965Si14)                                                   
+255MD cL %EC$From K| x ray intensity and decay scheme (2000Ah02).               
+255MD cL           SF looked for but not detected,                              
+255MD2cL %SF<0.15 (1971Ho16,2000Ho27).                                          
+255MD3cL Calculated T{-1/2}(SF)|?5|*10{+7} min (1985Lo17).                      
+255MD  L   12      SY (1/2-)                                                    
+255MDX L XREF=AB                                                                
+255MD cL E         from {+259}Lr |a decay; estimated |DE=71 keV                 
+255MD cL J         favored |a decay from {+259}Lr indicates same configuration  
+255MD2cL as parent; |a decay does not populate the g.s., which suggests         
+255MD3cL a low J for this level, perhaps 1/2-. The Nilsson model suggests       
+255MDxcL configuration=(|p 1/2[521]) for Z=103.                                 

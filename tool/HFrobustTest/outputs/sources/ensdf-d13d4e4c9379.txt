@@ -1,0 +1,44 @@
+248CF    252FM A DECAY                 1984AH02                  25NDS    202507
+248CF  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 204, 374 (2025)$CUT=30-Jun-2024$     
+248CF dA HF$Hindrance Factor is calculated by AlphaHF (version 10-Jan-2025)     
+248CF dL E$Least-squares fitting is done by GLSC (version 17-Jan-2025)          
+248CF c  Other then the Q record, no changes were made in this dataset          
+248CF2c  from the previous evaluation 2014Ma86                                  
+248CF c  1984Ah02: Alpha-particle spectra were measured with a Au-Si surface    
+248CF2c  barrier detector and the Argonne double-focusing magnetic              
+248CF3c  spectrometer.                                                          
+248CF DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+248CF cA HF$The nuclear radius parameter r{-0}({+248}Cf)=1.46664 {I46} is       
+248CF2cA deduced from assumed HF=1.0 for the ground-state to ground-state alpha 
+248CF3cA decay branch                                                           
+248CF cL J,T$From Adopted Levels                                                
+252FM  P 0.0          0+               25.39 H   4              7153.7    10    
+252FM cP QP$From 2021Wa16                                                       
+252FM cP T$From Adopted Levels in {+252}Fm (2021Ma19)                           
+248CF  N 0.0110    23          0.999977 2                                       
+248CF cN NR$from I(41|g+ce)-I(96|g+ce)=I|a(6998|a). This is consistent with the 
+248CF2cN intensity balance at the g.s., I(|g+ce)(41|g)=100-I|a(7039|a)=16.0     
+248CF3cN {I5} from which one gets a normalization factor of 0.0110 {I22}        
+248CF cN BR$From Adopted Levels in {+252}Fm (2021Ma19)                          
+248CF PN                                                                     2  
+248CF cA E$Others: 1977Be36, 1967Ch17, and 1956Fr07                             
+248CF cG RI$Relative photon intensity                                           
+248CF CL BAND(A)$K|p=0+ g.s. band.                                              
+248CF  L 0.0          0+               333.5 D   28                         A   
+248CF cL T$From Adopted Levels                                                  
+248CF  A 7039      2 84.0    5 1.0                                              
+248CF  L 41.53     6  2+                                                    A   
+248CF  A 6998      2 15.0    2 3.77    7                                        
+248CF  G 41.53     6  1.0    2 [E2]                    1461   23                
+248CF2 G %IG=0.011 +5-4                                                         
+248CF cG RI$0.2 uncertainty assumed by the evaluator                            
+248CFS G  LC=1053 17$MC=300 5                                                   
+248CFS G  NC=84.3 13$OC=20.79 33$PC=3.26 5$QC=0.00709 11                        
+248CF  L 137.81    9  4+                                                    A   
+248CF  A 6904      2 0.97    4 23.0    10                                       
+248CF  G 96.28     6  3.3    3 [E2]                    26.5    4                
+248CFS G  LC=19.10 27$MC=5.45 8                                                 
+248CFS G  NC=1.534 22$OC=0.379 5$PC=0.0606 9$QC=0.0002178 31                    
+248CF2 G %IG=0.036 +12-10                                                       
+248CF  L 285       4  6+                                                    A   
+248CF  A 6759      3 0.023   5 2.3E2   5                                        

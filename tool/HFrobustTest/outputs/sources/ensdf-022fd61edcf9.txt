@@ -1,0 +1,55 @@
+245MD    ADOPTED LEVELS                                          23NDS    202305
+245MD  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 189, 1 (2023)$CUT=14-Feb-2023$       
+245MD  Q             8340    SY 930    SY 9010   SY    2021WA16                 
+245MD cQ $|DS(n)=460, |DS(p)=330, |DQ(|a)=120 (syst,2021Wa16)                   
+245MD cQ $S(2p)=4000 {I330}, Q(|ep)=2010 {I320} (syst,2021Wa16)                 
+245MD c                                                                         
+245MD c  2020Kh08: Decay properties were identified in the {+197}Au({+50}Ti,2n) 
+245MD2c  fusion-evaporation experiment. E({+50}Ti)=231.5, 239.8 MeV, that       
+245MD3c  corresponds to compound nucleus excitation energies of 26.2 MeV        
+245MD4c  and 32.7 MeV, respectively from the universal linear accelerator UNILAC
+245MD5c  at GSI bombarded a rotating {+197}Au target. The evaporation residues  
+245MD6c  (ERs) were separated using the the gas-filled transactinide separator  
+245MD7c  and chemistry apparatus (TASCA). A double-sided silicon strip detector 
+245MD8c  (DSSD) was used to detect implanting ERs and their                     
+245MD9c  subsequent decays. Energy calibrations were performed using |a decays  
+245MDac  produced in the {+48}Ca+{+176}Yb reaction with FWHM|? 40 keV for       
+245MDbc  5.8 MeV-|a particles. Measured Er-|a-|a and Er-fission events.         
+245MDcc  See supplemental material from 2020Kh08 of the experimentally observed 
+245MDdc  7 |a decay chains and 6 short -lived fissions.                         
+245MDec  Refer to XUNDL compilation by B. Singh for {+245}Md on 31 December,    
+245MDfc  2022 for tabulated information of the correlated (Er-|a-|a) events and 
+245MDgc  (Er-FI) events taken from the supplemental information provided by     
+245MDhc  2020Kh08                                                               
+245MD c  1996Ni09: A spontaneous fission activity observed from                 
+245MD2c  {+209}Bi({+40}Ar,x) at E=5.12 MeV/nucleon assigned to                  
+245MD3c  {+245}Md via |a|a correlations at the UNILAC accelerator,              
+245MD4c  GSI, Darmstadt. Evaporation residue were separated and stopped at      
+245MD5c  the focal plane and detected with PIPS detectors. Measured E|a,        
+245MD6c  T{-1/2} and T{-SF}. Obtained decay properties for {+245m}Md:           
+245MD7c  E|a=8640 keV {I20} and E|a=8680 keV {I20}.                             
+245MD c  Other reactions and nuclear structure calculations:                    
+245MD2c  2010Ad19, 2010Do08, 2004Pa40.                                          
+245MD c                                                                         
+245MD  L 0.0          (7/2-)           0.33 S    +15-8                          
+245MD cL E$Assumed that the 0.33-s activity is associated with the ground       
+245MD2cL state, in contrast with1996                                            
+245MD cL J$7/2-[514] from systematics of odd mass ({+247,249,251,253,255}Md)    
+245MD2cL isotopes deduced from the decay studies of mendelevium isotopes        
+245MD3cL using |a|g coincidence measurements in 2005He27.                       
+245MD3cL 7/2-[514] was also calculated for low-lying one-quasiproton states     
+245MD4cL by 2010Ad19. In contrast 1996Ni09 assumed 1/2-[521]                    
+245MD cL $Configuration=7/2-[514]                                               
+245MD2 L %A AP 100                                                              
+245MD cL $Only the |a decay has been observed in 1996Ni09 and 2020Kh08.         
+245MD2cL Branching ratio deduced from theoretical calculations in 2019Mo01 with 
+245MD3cL T{-1/2}(|b decay)=11.8 s, and T{-1/2}(|a)=0.56 s                       
+245MD4cL :%|a=95, %|e+|b{++}=5.                                                 
+245MD cL T$From the correlation time distribution of |a events in 2020Kh08.     
+245MD2cL Note that this half-life is similar to the 0.35 s {I+23-16} which was  
+245MD3cL considered as an isomer in 1996Ni09.                                   
+245MD  L X           (1/2-)            0.9 MS    +6-3                        M  
+245MD2 L %A=?$%EC+%B+=?                                                         
+245MD cL T$From Er-fission correlated decay chains (2020Kh08)                   
+245MD2cL J$ From 1/2-[521] (2017He08)                                           
+245MD cL $Configuration=1/2-[521]                                               

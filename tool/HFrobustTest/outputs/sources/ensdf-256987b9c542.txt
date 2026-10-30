@@ -1,0 +1,171 @@
+218FR    ADOPTED LEVELS, GAMMAS                                  19NDS    201911
+218FR  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Murray Martin et al.,$         
+218FR2 H CIT=NDS 160, 405 (2019)$CUT=30-Oct-2019$                               
+218FR  Q 408       12 5327   8 3888    6 8014.0  20    2017WA10                 
+218FR cQ $S(2n)=12054 {I6}, S(2p)=9775 {I6} (2017Wa10)                          
+218FR d  {+218}Fr evaluated by B. Singh, I. Bala, R. Chakrabarti, and           
+218FR2d  D. Kanjilal.                                                           
+218FR d  Structure calculations: 1990Mo11                                       
+218FR d  Calculated |a decay probability: 1973Ma52                              
+218FR c  Isotopic assignment: 1951Me10 (from {+226}Pa |a-decay chain, also      
+218FR2c  1949Me54, as listed in 2013Fr09).                                      
+218FR3c  Later studies: 1964Mc21, 1968Ha14, 1972Es03                            
+218FR c  Theory references: consult NSR database (www.nndc.bnl.gov/nsr/)        
+218FR2c  for 14 primary references for calculations of half-lives               
+218FR3c  of radioactive decay modes, and three for nuclear structure            
+218FR cG E,RI$From {+209}Bi({+18}O,2|an|g)                                      
+218FR cG M$From intensity balance in ({+18}O,2|an|g)                            
+218FR cL $Shell-model calculations were carried out by the evaluators to compare
+218FR2cL the low-lying negative-parity structures up to 10- and excitation      
+218FR3cL energy of 1 MeV using NuShellX@MSU code with jj67pn interaction, and   
+218FR4cL {+208}Pb core with 5 valence protons in 1h{-9/2} and 2f{-7/2} orbitals,
+218FR5cL and 5 valance neutrons in 1i{-11/2} and 2g{-9/2} orbitals.             
+218FR cL E$From least-squares fit to E|g data from ({+18}O,2|an|g), unless      
+218FR2cL otherwise noted.                                                       
+218FR cL E(D)$Level energies are from E|a values measured in 4.9- and 64-s      
+218FR2cL {+222}Ac decays. The relative energies of the |a decaying levels in    
+218FR3cL {+222}Ac have not been determined. The E|a=7000 {I20} from the 64-s    
+218FR4cL isomer and E|a=7008.6 {I20} from the 4.9-s g.s. determine the          
+218FR5cL excitation energies of the connecting levels to be very similar:       
+218FR6cL E(level in {+218}Fr fed from 64-s {+222}Ac)- E(64-s parent             
+218FR7cL {+222}Ac level)=9 {I21}.                                               
+218FR cL J$From probable (reflection asymmetric) band assignments for           
+218FR2cL states above the ground state.                                         
+218FR CL BAND(A)$s=-1 band, |p=-.                                               
+218FR2cL Probable configuration=|ph{-9/2}~#|ng{-9/2}.                           
+218FR CL BAND(B)$s=+1 band, |p=-.                                               
+218FR2cL Probable configuration=|ph{-9/2}~#|ng{-9/2}.                           
+218FR3cL Average D{-0}/Q{-0}=0.00036 fm{+-1} 7, from the |g-ray                 
+218FR4cL branching ratios and rotational model, where D{-0} and Q{-0} are       
+218FR5cL intrinsic electric dipole moment and quadrupole moment, respectively.  
+218FR CL BAND(b)$s=+1 band, |p=+.                                               
+218FR2cL See comments for the |p=- partner of s=+1 band                         
+218FR  XA222AC A DECAY (4.9 S)                                                  
+218FR  XB222AC A DECAY (64 S)                                                   
+218FR  XC209BI(18O,2ANG)                                                        
+218FR PN                                                                     6  
+218FR  L 0.0           1-                1.1 MS  +5-4                           
+218FR2 L %A=100                                                                 
+218FRX L XREF=AB                                                                
+218FR cL $Only |a decay has been observed by 1964Mc21 and 1982Ew01              
+218FR dL $The probabilities for decay by heavy-ion emissions were               
+218FR2dL studied by 1986Pi11 for nuclei in the mass 210-260 region. The decay   
+218FR3dL by {+8}Be emission was found to be the most probable one for {+218}Fr, 
+218FR4dL and their calculation of partial lifetime for this decay gives         
+218FR5dL ln[T{-1/2}({+8}Be)/T{-1/2}(|a)]=17.                                    
+218FR cL J$favored |a decay to 1- {+214}At g.s. Evaluators' shell-model         
+218FR2cL calculations also predict 1- g.s.                                      
+218FR cL T$from |a-decay curve. Weighted average of 0.7 ms {I6} (1964Mc21)      
+218FR2cL and 1.3 ms {I+5-4} (1982Ew01)                                          
+218FR  L 0+X         (9-)                                                   B   
+218FRX L XREF=C                                                                 
+218FR cL $2014Bu06 suggested that this level may be the same as the 86-keV level
+218FR2cL with J|p=(8-) from 1999Sh03 due to similar configuration as reported by
+218FR3cL 2000De36                                                               
+218FR  L 46        11                                                       D   
+218FRX L XREF=AB                                                                
+218FR  L 86        8       (8-,9-)     21.9 MS   5                           M  
+218FR2 L %A AP 100                                                              
+218FR2 L MOMM1=+2.68 4 (2014Bu06)                                               
+218FR cL MOMM1$from hyperfine structure using collinear resonance ionization    
+218FR2cL spectroscopy at ISOLDE-CERN. The value corresponds to J|p=8-. For 9-,  
+218FR3cL 2014Bu06 give |m=+2.70 {I4}.                                           
+218FR cL $Only the |a-decay mode has been observed. The isomeric decay mode     
+218FR2cL may be possible if intermediate levels of appropriate spins            
+218FR3cL exist between this level and the ground state.                         
+218FR cL $Measured |d|4r{+2}|5({+218}Fr,{+221}Fr)=-0.401 fm{+2} {I5} (stat)     
+218FR2cL {I6} (syst) (2014Bu06, hyperfine structure using collinear resonance   
+218FR3cL ionization spectroscopy at ISOLDE-CERN)                                
+218FR cL $Measured |d|n({+218}Fr,{+221}Fr)=+8.24 GHz {I10} (2014Bu06, hyperfine 
+218FR2cL structure using collinear resonance ionization spectroscopy at         
+218FR3cL ISOLDE-CERN)                                                           
+218FR cL E$from E|a=7868 {I5} and 7952 {I5} of 1.1-ms and 21.9-ms               
+218FR2cL |a decays, respectively, if they both populate the g.s. in {+214}At.   
+218FR cL J$(8-) tentative assignment from 1982Ew01 and 1999Sh03, based on       
+218FR2cL weak population (HF=510) of 9- isomer at 232 keV in {+214}At, and      
+218FR3cL fairly strong population (HF=6.8) of an (8-) state at 728 keV in       
+218FR4cL {+214}At, from |a decay of 21.9-ms activity of {+218}Fr. On the basis  
+218FR5cL of similar configurations, 2014Bu06 suggest that this level may be the 
+218FR6cL same as the 0+x, (9-) in in-beam |g-ray work (2000De36). Evaluators'   
+218FR7cL shell-model calculations predict 7- at 82 keV, 8- at 194 keV, and two  
+218FR8cL 9- states at 283 and 313 keV.                                          
+218FR cL T$from |a-decay curve; weighted average of 21 ms {I2} (2014Bu06) and   
+218FR2cL 22.0 ms {I5} (1982Ew01)                                                
+218FR  L 112       28                                                       D   
+218FRX L XREF=B                                                                 
+218FR  L 163       28                                                       D   
+218FRX L XREF=B                                                                 
+218FR  L 193       28                                                       D   
+218FRX L XREF=B                                                                 
+218FR  L 255       28                                                       D   
+218FRX L XREF=B                                                                 
+218FR  L    272.9+X  (11-)                                                  B   
+218FRX L XREF=C                                                                 
+218FR  G     272.9     100                                                      
+218FRF G FL=0+X                                                                 
+218FR  L 295       28                                                       D   
+218FRX L XREF=B                                                                 
+218FR  L    450.0+X  (10-)                                                  A   
+218FRX L XREF=C                                                                 
+218FR cL $Evaluators' shell-model calculations predict 10- levels at 463 and    
+218FR2cL 492 keV                                                                
+218FR  G     177.1      100    (M1)                                             
+218FR  L 550       28                                                       D   
+218FRX L XREF=B                                                                 
+218FR  L    586.8+X  (12+)                                                  b   
+218FRX L XREF=C                                                                 
+218FR  G     314.0      100                                                     
+218FR  L    596.0+X  (13-)                                                  B   
+218FRX L XREF=C                                                                 
+218FR  G     323.0     100                                                      
+218FR  L    776.6+X  (12-)                                                  A   
+218FRX L XREF=C                                                                 
+218FR  G     326.6     100                                                      
+218FR  L    862.7+X  (14+)                                                  b   
+218FRX L XREF=C                                                                 
+218FR  G     266.5     100                                                      
+218FR  G     275.9      10   AP                                                 
+218FR  L    940.0+X  (13+)                                                      
+218FRX L XREF=C                                                                 
+218FR  G     163.5     100                                                      
+218FR  L    973.1+X  (15-)                                                  B   
+218FRX L XREF=C                                                                 
+218FR  G     110.3     20    AP  (E1)                                           
+218FR  G     377.2     100                                                      
+218FR  L   1143.8+X  (14-)                                                  A   
+218FRX L XREF=C                                                                 
+218FR  G     203.8      30   AP                                                 
+218FR  G     367.1      100                                                     
+218FR  L   1192.1+X  (16+)                                                  b   
+218FRX L XREF=C                                                                 
+218FR  G     219.0      100                                                     
+218FR  G     329.4       20  AP                                                 
+218FR  L   1421.7+X  (17-)                                                  B   
+218FRX L XREF=C                                                                 
+218FR  G     229.5      100                                                     
+218FR  G     448.7      100                                                     
+218FR  L   1572.4+X  (18+)                                                  b   
+218FRX L XREF=C                                                                 
+218FR  G     150.6       45  AP (E1)                                            
+218FR  G     380.5      100                                                     
+218FR  L   1582.9+X  (16-)                                                  A   
+218FRX L XREF=C                                                                 
+218FR  G     439.1      100                                                     
+218FR  L   1921.7+X  (19-)                                                  B   
+218FRX L XREF=C                                                                 
+218FR  G     500.0      100                                                     
+218FR  L   2035.1+X  (20+)                                                  b   
+218FRX L XREF=C                                                                 
+218FR  G     462.7      100                                                     
+218FR  L   2065.1+X  (18-)                                                  A   
+218FRX L XREF=C                                                                 
+218FR  G     482.2      100                                                     
+218FR  L   2477.9+X  (21-)                                                  B   
+218FRX L XREF=C                                                                 
+218FR  G     556.2      100                                                    ?
+218FR  L   2527.5+X  (22+)                                                  b   
+218FRX L XREF=C                                                                 
+218FR  G     492.4      100                                                     
+218FR  L   3045.1+X  (24+)                                                  b   
+218FRX L XREF=C                                                                 
+218FR  G     517.5      100                                                     

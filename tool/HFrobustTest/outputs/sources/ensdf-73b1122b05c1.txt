@@ -1,0 +1,55 @@
+243ES    247MD A DECAY (1.2 S)         2010AN08,2005HE27         14NDS    201408
+243ES  H TYP=FUL$AUT=C.D. Nesaraja, E.A. McCutchan$CIT=NDS 121, 695 (2014)$     
+243ES2 H CUT=30-Sep-2013$                                                       
+243ES c  2010An08,2005He27: {+247}Md activity produced in the                   
+243ES2c  {+209}Bi({+40}Ar,2n) reaction with                                     
+243ES3c  E({+40}Ar)=187 MeV. Evaporation residues (Er) separated with the       
+243ES4c  velocity filter SHIP and implanted into a position sensitive Si strip  
+243ES5c  detector.  Measured E|a, I|a, Er-|a(t), Er-SF(t), E|g, I|g using an    
+243ES6c  array of position sensitive Si detectors and an HPGe detector. Earlier 
+243ES7c  preliminary results given in 2006An13, 2004He23.                       
+243ES D  CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+243ES cA E,IA$From 2010An08.                                                    
+243ES cA HF$Calculated using r{-0}({+243}Es)=1.487 {I20}, from                  
+243ES2cA r{-0}({+242}Cf)=1.491 and r{-0}({+244}Fm)=1.483, both extrapolated     
+243ES3cA from r{-0}'s given in 1998Ak04.                                        
+243ES cG E,RI$From 2005He27. I|g are given relative to I|g(210|g)=100.          
+243ES cL E$From 2010An08.                                                       
+247MD  P 0.0          (7/2-)            1.2 S     1              8764     10    
+247MD cP           %|a: from 2010An08.  %SF is given as <0.1% in their Table 1, 
+247MD2cP but <1% in  their Figure 4.                                            
+247MD cP T$from evaporation residue (Er)-8416|a(t) correlations.                
+247MD2cP Note that there is some                                                
+247MD3cP inconsistency in 2010An08, with T{-1/2}=1.2 s {I1} quoted in the text  
+247MD4cP and Table 1, however, T{-1/2}=1.3 s {I1} is given in Figure 2 and      
+247MD5cP Figure 4.                                                              
+243ES  N                        0.999  GT                                       
+243ES  A 8345      206       1                                                  
+243ES cA E$tentative assignment based on measured T{-1/2}|?1.3 s, in agreement  
+243ES2cA with {+247}Md ground state T{-1/2}.                                    
+243ES  L 0.0+X        (7/2+)            23 S      2                             
+243ES2 L %A=61 6$%EC+%B+=39 6$%SF<1 (2010An08)                                  
+243ES cL %A$from the ratio of correlated {+247}Md-{+243}Es parent-daughter |a   
+243ES2cL decays and uncorrelated {+247}Md |a decays (2010An08). Other:          
+243ES3cL estimation of %|a>30 and %|e<70 by 1973Es02 from intensities of |a's   
+243ES4cL from {+243}Es and {+243}Cf decays (only strongest |a's from each       
+243ES5cL nucleus were observed).                                                
+243ES cL T$from 7893|a(t) relative to {+247}Md |a decays (2010An08).            
+243ES cL J$proposed configuration 7/2[633] (2010An08).                          
+243ES  A 8616      202       1 131     AP                                       
+243ES cA E$tentative assignment based on measured T{-1/2}|?1.0 s, in agreement  
+243ES2cA with {+247}Md ground state T{-1/2}.                                    
+243ES  L X+52.1       (9/2+)                                                    
+243ES cL J$proposed configuration 7/2[633] (2010An08).                          
+243ES  L X+209.6      (7/2-)                                                    
+243ES cL J$proposed configuration 7/2[514] (2010An08).                          
+243ES  A 8416      1092      1 0.65    AP                                       
+243ES cA E$other: 8422 {I10} in 2005He27.                                       
+243ES  G 157.5     5  11     3                                                  
+243ES  G 209.6     3  100       (E1)                    0.101716                
+243ESS G KC=0.0776 12$LC=0.0180 3$MC=0.00445 7$NC=0.001229 18$OC=0.000314 5$    
+243ESS G PC=5.57E-5 8$QC=2.26E-6 4                                              
+243ES cG $|a(K)exp|<0.13, |a(L)exp|<0.04 (2005He27). |a(K)exp is from ratio of  
+243ES2cG K x-ray and I|g, while |a(L)exp is estimated from energy summing       
+243ES3cG between |a's and L conversion electrons.                               
+243ES cG M$from |a(K)exp and |a(L)exp.                                          

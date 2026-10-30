@@ -1,0 +1,105 @@
+248CM    252CF A DECAY                 1970BA18                  25NDS    202507
+248CM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 204, 374 (2025)$CUT=30-Jun-2024$     
+248CM dL E$Least-squares fitting is done by GLSC (version 30-Jun-2025)          
+248CM c  1990Po14: X-ray intensities measured from the |a decay of {+252}Cf     
+248CM2c  using x ray spectrometer                                               
+248CM c  1971Wa28: Measured E|g, I|g, I(L x ray), E(L x ray) with high          
+248CM2c  resolution Si(Li) spectrometer. Deduced L-subshell fluorescense yields 
+248CM c  1970To08: Measured E|g, T{-1/2} using |a-ce delayed-coincidence        
+248CM2c  technique. Alphas were measured with a surface barrier detector and    
+248CM3c  the ce were detected with a plastic scintillator-photomultiplier.      
+248CM c  1970Ba18: Measured E|a, I|a with double-focusing magnetic spectrograph 
+248CM c  1963Le17: Measured E|a, I|a using the fission anticoincidence          
+248CM2c  technique. No photons with E|g>225 were observed:                      
+248CM3c  I|g(E|g>225)<0.002 per |a decays                                       
+248CM c  1963Bj03: Measured |a-|g and |a-electron coincidence.                  
+248CM2c  No photons with E|g>400 were observed: I(E|g>400)<0.002, and           
+248CM3c  no electrons with E(ce)>400 were observed: I(E(ce)>400)<0.00006        
+248CM4c  per 100 |a decays.                                                     
+248CM c  1955As42: Measured alpha and gamma spectra with alpha-particle         
+248CM2c  spectrograph and alpha-particle gamma coincidence counter.             
+248CM c  Others: 1975AlYO                                                       
+248CM cA HF$The nuclear radius parameter r{-0}({+248}Cm)=1.50109 {I20} is       
+248CM2cA deduced from assumed HF=1.0 for the ground-state to ground-state alpha 
+248CM3cA decay branch                                                           
+248CM cA E$Except as noted, all energies are from the measurements of 1970Ba18; 
+248CM2cA the original energies are increased here by 1.6 keV by recalibrating   
+248CM3cA the energies at 6118.10 keV for the highest energy                     
+248CM4cA |a (transition to the g.s. of {+248}Cm).                               
+248CM cA E(B)$The energies of the 6118- and 6076-keV |a's are from              
+248CM2cA 1986Ry04. The original energies have been decreased by 0.14            
+248CM3cA and 0.13 keV, respectively, as recommended by 1991Ry01.                
+248CM cA IA$I|a values can be obtained from directly measured |a                
+248CM2cA intensities or from intensity balance arguments using the measured     
+248CM3cA I|g values and theoretical conversion coefficients.                    
+248CM4cA Except for E|a=5826.3 keV, the evaluator has chosen the approach where 
+248CM5cA intensities with quoted uncertainties are available.                   
+248CM cG $L x ray=7.8 {I4} per 100 |a decays (1971Wa28). See 1971Wa28 for       
+248CM2cG measured energies and intensities of L X-ray components and for        
+248CM3cG deduced L subshell-fluorescence yields. See also 1964Ha14 for          
+248CM4cG L fluorescence yield, obtained from L| x ray intensity in singles,     
+248CM5cG |g|g and |a|g spectra.                                                 
+248CM cG $L x ray and M x ray radiations were observed by 1990Po14.             
+248CM cG $K x ray=0.007 per 100 |a decays (1955As42).                           
+248CM cG M$From Adopted Gammas                                                  
+248CM cL T$From Adopted Levels                                                  
+248CM cL E$From least-squares fit to E|g data                                   
+248CM CL BAND(A)$K|p=0+ g.s. band                                               
+248CM DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+252CF  P 0.0         0+                2.647 Y   3              6216.95   4     
+252CF cP QP$From 2021Wa16                                                       
+252CF cP T$From Adopted Levels in {+252}Cf (2021Ma19)                           
+248CM  N 1.0                   0.96898 3                                        
+248CM cN BR$From Adopted Levels in {+252}Cf (2021Ma19)                          
+248CM PN                                                                     5  
+248CM  L 0.0          0+               3.48E+5 Y 6                          A   
+248CM  A 6118.10   4  84.1   4 1.0                                          B   
+248CM cA IA$from 1976BaZZ. Others: 84.0 (1970Ba18), 84.5 (1955As42)             
+248CM  L 43.399    25 2+               122.5 PS  25                         A   
+248CM cL T$from (|a)(ce)(t) (1970To08)                                          
+248CM  A 6075.64   11 15.1    9 3.37   20                                   B   
+248CM cA IA$from an intensity balance at the 43 level. Measured values of       
+248CM2cA I|a are 15.5 (1955As42) and 15.8 (1970Ba18)                            
+248CM  G 43.399    25 0.0153 9  E2                     1000   14                
+248CMS G  LC=724 10$MC=203.9 29                                                 
+248CMS G  NC=56.7 8$OC=13.70 20$PC=2.238 32$QC=0.00553 8                        
+248CM2 G %IG=0.0148 9                                                           
+248CM cG E$from 1971Wa28. Others: 42 (1955As42), 43.4 {I1} (1956Ho54)           
+248CM cG RI$from (1971Wa28). Other: 0.014 (1955As42)                            
+248CM  L 143.6     4  4+               80 PS     +14-19                     A   
+248CM  A 5976.6       0.25   12 6E1    4                                        
+248CM cA IA$from an intensity balance at the 144 level. Measured values of      
+248CM2cA I|a are 0.28 (1958As64) and 0.2 (1970Ba18)                             
+248CM  G 100.2     4  0.013   6 E2                     18.5    4                
+248CMS G  LC=13.41 31$MC=3.79 9                                                 
+248CMS G  NC=1.054 25$OC=0.255 6$PC=0.0424 10$QC=0.000175 4                     
+248CM2 G %IG=0.013 6                                                            
+248CM cG E$from 1964As10                                                        
+248CM cG RI$from 1955As42                                                       
+248CM  L 298.7     5  6+               34 PS     +11-3                      A   
+248CM  A 5826.3       0.0020   1.18E3                                           
+248CM cA IA,HF$the measured I|a value and that deduced from I|g are not         
+248CM2cA consistent. I|a=0.0020 (1970Ba18) whereas from I|g=0.0020 {I6}         
+248CM3cA (1963Le17) and |a, the requirement of an intensity balance             
+248CM4cA at the 298 level gives I|a=0.0074 {I22}. Conversely, from I|a, one     
+248CM5cA deduces I|g=0.00052. Note that HF=1180 for I|a=0.0020 and 320 {I110}   
+248CM6cA for I|a=0.0074 {I22}. Note further that 1963Le17 quote HF=1170 {I350}, 
+248CM7cA so there is an inconsistency in 1963Le17. The evaluator adopts the     
+248CM8cA I|a value of 1970Ba18 and the I|g(155|g) value deduced from I|a        
+248CM  G 155.1     2  0.00055   E2                     2.71    4                
+248CMS G  KC=0.1741 24$LC=1.837 28$MC=0.517 8                                   
+248CMS G  NC=0.1440 22$OC=0.0350 5$PC=0.00589 9$QC=3.82E-5 6                    
+248CM2 G %IG=5.3E-4                                                             
+248CM cG E$From Adopted Gammas. E|g=160 keV {I15} is reported by 1963Le17 in |a 
+248CMxcG decay                                                                  
+248CM cG RI$see comment on I|a(5826|a)                                          
+248CM  L 505.0     5  8+               16.0 PS   +31-23                     A   
+248CM DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+248CM  A 5616.0      6E-5    AP 2.8E3  19                                       
+248CM cA IA$from 1970Ba18                                                       
+248CM  G 207.4     2  3E-5   AP E2                     0.858  12               S
+248CMS G  KC=0.1394 20$LC=0.521 8$MC=0.1458 21                                  
+248CMS G  NC=0.0405 6$OC=0.00987 14$PC=0.001683 25$QC=1.604E-5 23               
+248CM2 G %IG AP 2.91E-5                                                         
+248CM cG E,RI$this transition is not seen in |a decay. E|g is from adopted      
+248CM2cG gammas, and I|g is from I(|g+ce)=I|a with |a as given                  

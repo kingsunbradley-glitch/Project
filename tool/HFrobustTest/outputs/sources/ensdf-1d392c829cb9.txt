@@ -1,0 +1,76 @@
+254MD    258LR A DECAY (3.92 S)        1971ES01                  19NDS    201902
+254MD  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 1 (2019)$CUT=31-Jan-2019$        
+254MD c  1971Es01: {+258}Lr source was produced in {+15}N bombardments of       
+254MD2c  {+249}Cf and {+248}Cm targets, and {+12}C, {+13}C bombardments of      
+254MD3c  {+249}Cf target; the authors used {+11}B and {+10}B beams on {+249}Cf  
+254MD4c  target.                                                                
+254MD c  1976BeZY: {+258}Lr produced in {+249}Cf({+15}N,|a2n). Measured E|a,    
+254MD2c  I|a, half-life at ORNL accelerator facility.                           
+254MD c  2014Ha04: {+258}Lr produced as daughter from |a decay of               
+254MD2c  {+262}Db, which was produced via the reaction {+248}Cm({+19}F,5n)      
+254MD3c  at beam energies of 97.4 and 103.1 MeV from the RIKEN Linear           
+254MD4c  Accelerator (RILAC). The evaporation residues (EVR) were separated in  
+254MD5c  flight from beam particles and majority of nuclear transfer products   
+254MD6c  by the gas-filled recoil ion separator (GARIS) and transported         
+254MD7c  to the rotating wheel apparatus MANON (measurement system for Alpha-   
+254MD8c  particle and spontaneous fission events On-line). They were deposited  
+254MD9c  on mylar foils and set on the wheel between 15 pairs of Si PIN         
+254MDAc  photodiodes with separated signals for |a-particles                    
+254MDBc  (1-20 MeV) and spontaneous fission (SF) fragments (5-150 MeV). FWHM    
+254MDCc  for |a detection was 50 keV in the top detectors and about 100 keV in  
+254MDDc  the bottom ones. Measured time-correlated |a|a and |a(SF) events       
+254MDEc  in the |a energy range of 8.0 MeV |< E{-|a} |<9.0 MeV and SF fragment  
+254MDFc  energy range E{-SF} |>30 MeV.                                          
+254MD c  The deduced |a hindrance factors for both sets of E|a and              
+254MD2c  I|a data, measured by two different groups, as well as the level       
+254MD3c  spacings indicate some abnormalities, perhaps, the possible existence  
+254MD4c  of some impurities in their sources.                                   
+254MD cA E$|a energies measured by 1971Es01 and 1976BeZY differ by              
+254MD2cA 30-50 keV. The published data of 1971Es01 are listed here, and         
+254MD3cA those of 1976BeZY are quoted for comparison.                           
+254MD cA E$The original energies have not been adjusted for changes in          
+254MD2cA calibration energies, as the changes would be well within the          
+254MD3cA uncertainties for E|a values:                                          
+254MD4cA E|a({+213}Fr)=6773, E|a({+211}Po)=7443 and E|a({+253}Es)=6640 were     
+254MD5cA used by 1971Es01, and E|a({+244}Cm)=5804.9, E|a({+243}Am)=5274.8 and   
+254MD6cA E|a({+249}Cf)=5813.5 were used by 1976BeZY for energy calibration.     
+254MD7cA 1991Ry01 recommends E|a({+244}Cm)=5804.77 {I5}, E|a({+243}Am)=5275.3   
+254MD8cA {I10}, E|a({+249}Cf)=5812.8 {I16}; E|a({+213}Fr)=6775 {I2},            
+254MD9cA E|a({+211}Po)=7449.3 {I13}, E|a({+253}Es)=6632.51 {I5} have been       
+254MDAcA adopted in the ENSDF database. In 2014Ha04, a broad |a group           
+254MDBcA is reported at 8.61 MeV, which probably corresponds to the known       
+254MDCcA |a lines as listed in the table here.                                  
+254MD cA IA$|a intensity per 100 |a decays. I|a values of 1971Es01 and          
+254MD2cA 1976BeZY are not in perfect agreement. I|a measured by 1971Es01        
+254MD3cA are listed; I|a measured by 1976BeZY are also quoted.                  
+254MD cA HF$r{-0}({+254}Md)=1.48 {I1}, deduced from r{-0} systematics           
+254MD2cA given in 1998Ak04, is used in calculations. The calculated HFs and the 
+254MD3cA level spacings are quite different from that for the normal behavior   
+254MD4cA in this region. They may indicate perhaps some impurity in the source, 
+254MD5cA or that the deduced partial |a-decay half-lives are not correct.       
+258LR  P 0.0                           3.92 S    33             8904      19    
+258LR cP T$From {+258}Lr Adopted Levels in the ENSDF database (August 2017      
+258LR2cP update)                                                                
+258LR cP QP$From 2017Wa10                                                       
+254MD  N                       0.974   18                                       
+254MD cN BR$%|a=97.4 {I18} (from {+258}Lr Adopted Levels)                       
+254MD  L 83        30                                                           
+254MD cL $If E|a=8648 {I10} (1976BeZY), then E(level)=120 {I23}.                
+254MD  A 8680      20 7      2 4.7     AP                                       
+254MD cA $E|a=8648 {I10} and I|a=10 {I2} were measured by 1976BeZY.             
+254MD2cA When these measurements are used, HF|?2.6.                             
+254MD  L 114       30                                                           
+254MD cL $If E|a=8614 {I10} (1976BeZY), then E(level)=154 {I23}.                
+254MD  A 8650      20 16     3 1.7     AP                                       
+254MD cA $E|a=8614 {I10} and I|a=35 {I5} were measured by 1976BeZY.             
+254MD2cA When these measurements are used, HF|?0.6.                             
+254MD  L 144       30                                                           
+254MD cL $If E|a=8589 {I10} (1976BeZY), then E(level)=180 {I23}.                
+254MD  A 8620      20 47     3 0.5     AP                                       
+254MD cA $E|a=8589 {I10} and I|a=45 {I7} were measured by 1976BeZY.             
+254MD2cA When these measurements are used, HF|?0.4.                             
+254MD  L 175       30                                                           
+254MD cL $If E|a=8540 {I20} (1976BeZY), then E(level)=230 {I30}.                
+254MD  A 8590      20 30     4 0.6     AP                                       
+254MD cA $E|a=8540 {I20} and I|a=10 {I5} were measured by 1976BeZY.             
+254MD2cA When these measurements are used, HF|?1.2.                             

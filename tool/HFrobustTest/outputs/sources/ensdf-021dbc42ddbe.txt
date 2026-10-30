@@ -1,0 +1,86 @@
+237PU    241CM A DECAY                 1975AH05                  06NDS    200608
+237PU  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 107, 3323 (2006)$CUT=15-Mar-2006$    
+237PU c  Others: 1971Bb10,1967Ba42,1957As85.                                    
+237PU c  {+241}Cm source was prepared by irradiation of {+239}Pu with 40-MeV    
+237PU2c  |a-particles; |a-spectrum was taken with magnetic spectrometer;        
+237PU3c  Measured E|a,I|a.                                                      
+237PU c  %|a=1.0|+0.1.                                                          
+237PU c  |a|g(t): (|a)(145|g)(t) T{-1/2}=0.18 s {I2} (1957St67).                
+237PU2c                                                                         
+237PU cA E         From 1975Ah05, except where noted.                           
+237PU cA           |a's of 5828, 5821, 5807, 5781, 5778, and 5729 keV,          
+237PU2cA reported in 1967Ba42, were not observed in 1975Ah05 (<0.3%);           
+237PU3cA therefore, these |a groups are assumed to be due to impurities.        
+237PU cA IA        |a intensity per 100 |a decays (1975Ah05).                   
+237PU2cA Measurements of 1967Ba42 are noted for comparison.                     
+237PU cA HF        r{-0}({+237}Pu)=1.498 {I2}, average of                       
+237PU2cA r{-0}({+236}Pu)=1.4949 {I18} and r{-0}({+238}Pu)=1.5013 {I10}          
+237PUxcA (1998Ak04).                                                            
+237PU cA E(R)      Recommended in 1991Ry01 from E|a's in 1967Ba42,              
+237PU2cA 1971Bb10 and 1975Ah05. The original energies of 1967Ba42, 1971Bb10 and 
+237PU3cA 1975Ah05 have been adjusted by +0.6, +0.4 and -0.3 keV, respectively,  
+237PU4cA due to changes in calibration energies (1991Ry01).                     
+237PU cL E         Deduced by evaluator from Q(|a)=6185.2 {I6} ({+241}Cm), E|a, 
+237PU2cL and feeding level energy, except otherwise noted.                      
+237PU cL J         From adopted levels, except otherwise noted.                 
+237PU cL E(A)      7/2[743] band; rotational const.=5.3 keV.                    
+237PU cL E(B)      1/2[631] band; rotational const.=6.224 keV; decoupling       
+237PU2cL parameter =-0.4696.                                                    
+237PU cL E(C)      3/2[631] band; rotational const.=6.76 keV.                   
+241CM  P 0.0         1/2+              32.8 D    2              6185.2    6     
+237PU  N                       0.010   1                                        
+237PU  L 0.0       6  7/2-                                                  A   
+237PU cL J         From 145.5|g E3 transition to the g.s.                       
+237PU  A 6080.9    170.15    5  6.2E3  22                                   R   
+237PU cA           I|a=0.64 in 1967Ba42. 1991Ry01 recommend I|a=0.15 {I5}.      
+237PU cA           Q(|a)=6185.2 {I6} ({+241}Cm) gives E|a=6082.5 {I6} to the    
+237PUxcA 0.0 level.                                                             
+237PU  L 47.3      6  9/2-                                                  A   
+237PU  A 6036      3 0.12    4  4.5E3  16                                       
+237PU cA           I|a=0.10 in 1967Ba42.                                        
+237PU  L 106.3     6  11/2-                                                 A   
+237PU  A 5978      3 0.28    7  9.8E2  27                                       
+237PU  L 145.536   9  1/2+             0.18 S    2                          BM  
+237PU cL E         From 145.536|g. E|a gives a value of 145.9 {I6}.             
+237PU cL J         Favored |a transition (hindrance factor 2.6 {I3}) from       
+237PU2cL {+241}Cm g.s. (J|p=1/2+) to this level (1975Ah05).                     
+237PU  A 5939.0    6  68.9   10  2.5   3                                    R   
+237PU cA           I|a=71.6 {I5} is given in 1976BaZZ. 1991Ry01 recommend       
+237PU2cA I|a=69.5 {I8} from measured values of 71.5 (1967Ba42) and 68.9 {I10}   
+237PUxcA (1975Ah05).                                                            
+237PU cA           E|a=5939.4 {I6} from Q(|a)=6185.2 {I6} (2003Au03) and        
+237PUxcA E(level)=145.544 10.                                                   
+237PU  G 145.536   9            E3                                              
+237PU cG E         From 1974Po08 (s ce); E|g=145.552 {I12} in {+237}Am |e decay.
+237PU cG M         |a(K)exp|<3, |a(L)exp=39 {I8} was determined from relative   
+237PU2cG x-ray and 145|g intensities, assuming that all delayed x-rays          
+237PU3cG were from conversion of the 145|g (1957St67).                          
+237PU4cG See also {+237}Am |e decay.                                            
+237PUB G BE3W=1.46 17                                                           
+237PU  L 157.9     6  3/2+                                                  B   
+237PU  A 5927.2    15 18.1   5   8.2   9                                    R   
+237PU cA           I|a=16.3 {I2} is given in 1976BaZZ. 1991Ry01 recommend       
+237PU2cA I|a=17.7 {I8}, from measured values of 16.3 (1967Ba42) and 18.1 {I5}   
+237PUxcA (1975Ah05).                                                            
+237PU cA           E|a(to 155 level)=E|a(145 level)-9.75 {I3}=5929.3 {I7}.      
+237PU2cA (9.75 is from the difference of 9.91 {I3} in level energies and        
+237PUxcA includes recoil.)                                                      
+237PU  L 171.3     6  13/2-                                                 A   
+237PU  A 5914      4 0.12    5  1.06E3 46                                       
+237PU  L 201.1     2  5/2+                                                  B   
+237PU  A 5884.7    6  11.8   4   7.5   8                                    R   
+237PU cA           I|a=11.5 {I2} is given in 1976BaZZ. I|a=11.7 {I8} is         
+237PU2cA recommended in 1991Ry01 from measurements of 11.8 {I4} (1975Ah05) and  
+237PUxcA 11.5 (1967Ba42).                                                       
+237PU cA           E|a(to 201 level)=E|a(145 level)-54.71 {I3}=5884.3 {I7}      
+237PU2cA (54.71 is from the difference of 55.64 {I3} in level energies and      
+237PUxcA includes recoil)                                                       
+237PU  L 223.2     5  7/2+                                                  B   
+237PU  A 5863      3 0.14    5  4.9E2  19                                       
+237PU  L 302.5     4  9/2+                                                  B   
+237PU  A 5785      3 0.07    AP  372   AP                                       
+237PU cA           I|a=1.8 from 1967Ba42.                                       
+237PU  L 369.6     4  3/2+                                                  C   
+237PU  A 5719      3 0.08    4   142   73                                       
+237PU  L 402.2     5  5/2+                                                  C   
+237PU  A 5687      3 0.22    5    34   9                                        

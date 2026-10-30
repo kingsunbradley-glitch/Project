@@ -1,0 +1,37 @@
+214AC    218PA A DECAY (0.13 MS)       2020Zh01                  21NDS    202106
+214AC  H TYP=FUL$AUT=Shaofei Zhu and E. A. McCutchan$CIT=NDS 175, 1 (2021)$     
+214AC2 H CUT=1-May-2021$                                                        
+214AC c  2020Zh01: {+218m}Pa was produced in {+182}W({+40}Ar,1p3n) reaction     
+214AC2c  with a beam at 190 MeV at HIRFL, China; evaporation residues (Er)      
+214AC3c  were separated in-flight by the SHANS gas-filled separator and         
+214AC4c  implanted into PSSD silicon detectors at the focal plane. |g rays      
+214AC5c  from the decay were detected by a clover detector with four HPGe       
+214AC6c  crystals and two single crystal HPGe detectors. E|a, I|a and T{-1/2}   
+214AC7c  were measured by Er-|a-|a time and position correlations.              
+214AC cA E$From 2020Zh01.                                                       
+214AC cL E,J$From the Adopted Levels.                                           
+214AC cA HF$Using r{-0}({+214}Ac)=1.510 {I23} from unweighted average of        
+214AC2cA r{-0}({+212}Ra)=1.4695 {I14}, r{-0}({+214}Ra)=1.5487 {I30} and         
+214AC3cA r{-0}({+214}Th)=1.512 {I14} (2020Si16).                                
+214AC4cA No data on r{-0}({+216}Th) available.                                  
+218PA  P 83        6  (1-)              0.13 MS   +6-3           9791     12    
+218PA cP E$from Q(|a)({+218m}Pa-{+214g}Ac)-Q(|a)({+218g}Pa-{+214g}Ac).          
+218PA cP QP$from 2021Wa16.                                                      
+218PA cP T$from 2020Zh01.                                                       
+218PA cP J$based on systematics (2020Zh01).                                     
+214AC  N                        1.0                                             
+214AC  L 0.0          5(+)              8.2 S     2                             
+214AC cL T$from the Adopted Levels.                                             
+214AC  A 9691      1590      GT423     LT                                       
+214AC cA E$from 2020Zh01, based on Er-|a1-|a2 correlation with |a2 as {+214}Ac  
+214AC2cA decay. The probability of being random is less than 3x10{+-27}.        
+214AC cA IA$estimated by evaluators from 9 Er-|a1 correlation events and 1      
+214AC2cA |a-|g event observed in 2020Zh01.                                      
+214AC  L 91.8      4  (4+)                                                      
+214AC  G 92.2                                                                   
+214AC cG E$from (2020Zh01).                                                     
+214AC  A 9596      2110      LT863.3   GT                                       
+214AC cA E$from 2020Zh01, tentatively assigned based on |a-|g correlation with  
+214AC2cA probability of being random less than 2x10{+-3}.                       
+214AC cA IA$estimated by evaluators from 9 Er-|a1 correlation events and 1      
+214AC2cA |a-|g event observed in 2020Zh01.                                      

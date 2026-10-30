@@ -1,0 +1,28 @@
+230AM    234BK A DECAY                 2016KA13                  24NDS    202408
+230AM  H TYP=FUL$AUT=C. Morse$CIT=NDS 197, 259 (2024).$CUT=26-Sep-2023$         
+230AM c  $ 2016Ka13: {+230}Am obtained from {+234}Bk |a decay. {+234}Bk was     
+230AM2c  produced from {+197}Au({+40}Ar,3n) reaction. {+40}Ar beam, E=189.5     
+230AM3c  MeV, was delivered by the RIKEN heavy ion linear accelerator. Recoil   
+230AM4c  products were separated by RIKEN's gas-filled recoil ion separator     
+230AM5c  (GARIS), guided to a gas-jet chamber, stopped in helium gas and        
+230AM6c  attached to KCL aerosols, transported to a rotating wheel system for   
+230AM7c  |a/SF spectroscopy using seven pairs of Si PIN-diode detectors.        
+230AM8c  Identified six fission events from saturated pulse height of E |J20    
+230AM9c  MeV and deduce {+230}Am half-life.                                     
+230AM c  $ The authors of 2016Ka13 do not place the observed |a decays in a     
+230AM2c  level scheme.  The Q(|b{+-})value of 8.1 MeV from the Atomic Mass      
+230AM3c  Evaluation would suggest that the 7960 keV |a goes to the ground state 
+230AM4c  of {+230}Am, but given the sparse nature of the data, the evaluator has
+230AM5c  chosen not to make this assignment.                                    
+234BK  P 0.0                            19 S      +6-4           8.10E+3  5     
+234BK cP T$From 2016Ka13.                                                       
+234BK cP QP$From 2021Wa16                                                       
+230AM  N                        0.50   15                                       
+230AM cN BR$Calculated based on 17 |a decays observed out of 34 total decays    
+230AM2cN of {+234}Bk in 2016Ka13.                                               
+230AM  A 7620      20                                                           
+230AM  A 7760      20                                                           
+230AM  A 7860      20                                                           
+230AM  A 7960      20                                                           
+230AM  L 0.0                            35 S      +12-7                         
+230AM cL T$From Adopted Levels.                                                 

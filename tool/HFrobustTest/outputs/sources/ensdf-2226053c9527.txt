@@ -1,0 +1,21 @@
+213TH    217U A DECAY                  2000MA65,2005LE42         22NDS    202203
+213TH  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 181, 475 (2022)$CUT=1-Jan-2022$      
+213TH c  2000Ma65: {+217}U was produced through {+182}W({+40}Ar,5n){+217}U;     
+213TH2c  Target 92% enriched; E=193 MeV; multi-strip silicon detector; E|a,     
+213THxc  T{-1/2} measured.                                                      
+213TH c  2005Le42: {+217}U was produced through {+182}W({+40}Ar,5n){+217}U;     
+213TH2c  E=186 MeV, double-sided silicon detector; E|a, T{-1/2} measured.       
+213TH cA HF        Using r{-0}({+213}Th)=1.499 {I24}                            
+213TH2cA is deduced from interpolation (or unweighted average) of               
+213TH2cA r{-0}({+214}Th)=1.512 {I14} and r{-0}({+212}Th)=1.486 {I33} (2020Si16).
+217U   P 0                             16 MS     +21-6            8430    80    
+217U  cP T         From 2018Ko01 (A=217 evaluation).                            
+217U  cP J         In 2005Le42, J|p=(1/2-) was proposed.                        
+217U  cP QP        From systematics in 2021Wa16                                 
+213TH  N                        1.0                                             
+213TH cL J,T       From Adopted Levels                                          
+213TH  L 0              5/2-           146 MS    +22-19                         
+213TH  A 8018      14 100        6     LT                                       
+213TH cA E         Weighted average of 8005 {I20} (2000Ma65), 8024 {I14}        
+213TH2cA (2005Le42). Uncertainty is the lower input value.                      
+213TH cA HF        Limit based on the calculated value of 2 {I4}, where HF|=0.  

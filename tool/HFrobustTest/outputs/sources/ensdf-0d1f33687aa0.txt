@@ -1,0 +1,154 @@
+252CF    ADOPTED LEVELS, GAMMAS                                  21NDS    202103
+252CF  H TYP=FUL$AUT=A.M. MATTERA, S. ZHU, A.B. HAYES, E.A. MCCUTCHAN$          
+252CF2 H CIT=NDS 172, 543 (2021)$CUT=1-Jan-2021$                                
+252CF  Q -1.26E+3  5  6172   4  6482   11 6216.95 4    2017WA10                 
+252CF cQ $S(2n)=11278.4 {I27}; S(2p)=11533 {I10} (2017Wa10)                     
+252CF cL E$From a least-squares fit to E|g, by evaluators.                      
+252CF CL BAND(E)$K|p=0+ g.s. band.                                              
+252CF CL BAND(F)$K|p=2+ |g-vibrational band. Mixed with the K=3 state at        
+252CF2cL 969.83 keV.                                                            
+252CF CL BAND(G)$K|p=2- band.                                                   
+252CF cG E,RI$From {+252}Es |e decay, except where noted.                       
+252CF D  CC$FROM BrIcc v2.3d (03-Apr-2019) 2008Ki07, "Frozen Orbitals" appr.    
+252CF  XA256FM A DECAY                                                          
+252CF  XB252ES EC DECAY                                                         
+252CF  XCCOULOMB EXCITATION                                                     
+252CF  XDCF(18O,XG)                                                             
+252CF  L 0.0          0+                2.647 Y   3                         E   
+252CFX L XREF=ABCD                                                              
+252CF2 L %A=96.898 3$%SF=3.102 3                                                
+252CF cL T$2.647 y {I3} adopted from 1994KhZW on the analysis of the following  
+252CF2cL measured half-lives: 2.646 y {I4} (1965Me02), 2.621 y {I6}             
+252CF3cL (1969De23),  2.659 y {I10} (1973Mi05), 2.638 y {I7} (1974Sp02), 2.637  
+252CF4cL y {I5} (1976Mo30), 2.640 y {I7} (1982La25), 2.651 y {I4} (1984SmZV),   
+252CF5cL 2.648 y {I2} (W.G. Alberts and M. Matzke, PTB Mitteilungen 93, 315     
+252CF6cL (1983)), and 2.6503 y {I31} (1985Ax02). This analysis took             
+252CF7cL into account the duration and the number of measurements in each       
+252CF8cL experiment by comparing them with a formulated ideal experiment.       
+252CF9cL Other measured half-lives: 2.55 y {I15} (1957Ea01); 2.628 y {I10}      
+252CFacL (1974Sh15); 2.653 y {I1} (quoted in 1992Ra08 as private communication  
+252CFbcL J.R. Smith).                                                           
+252CFccL Other evaluated half-lives:                                            
+252CFdcL 2.645 y {I8} (1986LoZT: an average of 2.638 y and 2.651 y with a       
+252CFecL quoted error sufficiently large to cover the range of uncertainty);    
+252CFfcL 2.648 y {I2} (1992Ra08: Rajeval method); 2.650 y {I2} (1994Ka08:       
+252CFgcL Modified Bayesian Method).                                             
+252CF cL $%|a and %SF from weighted average of deduced %SF values from          
+252CF2cL |a/SF=31.56 {I35} (1993Pa29), 31.5 {I3} (1970Al23), 31.3 {I5}          
+252CF3cL (1970Al23), 31.3 {I2} (1965Me02), 31 {I1} (1954Ma98) and measured %SF  
+252CF4cL value of 3.1028 {I27} (2018Be29). Other |a/SF measurements:            
+252CF5cL T{-1/2}(SF)=66 y {I10} (1957Ea01), |a/SF=36.4 (1961Se18).              
+252CF  L 45.72     5  2+                92 PS     6                         E   
+252CFX L XREF=ABCD                                                              
+252CF2 L BE2=16.7 {I11} (1971Fo17)                                              
+252CF cL T$calculated from B(E2)|^=16.7 e{+2}b{+2} {I11} in Coulomb excitation  
+252CF2cL with |a(45.72|g)=917.                                                  
+252CF cL J$E2 |g to 0+; populated from 0+ by Coulomb excitation.                
+252CF  G 45.72     5  100       E2                      9.2E2 5                 
+252CFS G LC=661 34$MC=188 10$NC=52.9 27$OC=13.1 7$PC=2.05 10$QC=0.00469 21      
+252CFB G BE2W=349 24                                                            
+252CF cG E$other: 44.0 keV {I5} in Coulomb Excitation                           
+252CF cG M$from |a(M)exp=240, |a(N+O+...)=70 with uncertainties better than     
+252CF2cG 15% in {+252}Es |e decay                                               
+252CF  L 151.73    6  4+                                                    E   
+252CFX L XREF=BD                                                                
+252CF cL J$E2 |g to 2+.                                                         
+252CF  G 106.02    5  100       E2                      16.97 25                
+252CFS G LC=12.22 18$MC=3.49 5$NC=0.981 14$OC=0.243 4$PC=0.0389 6$              
+252CFS G QC=0.0001510 22                                                        
+252CF cG M$from |a(L2)exp=7.2, |a(L3)exp=3.8 with uncertainties better than     
+252CF2cG 15% in {+252}Es |e decay                                               
+252CF  L 316.23    12 6+                                                    E   
+252CFX L XREF=D                                                                 
+252CF cL J$E2 |g to 4+.                                                         
+252CF  G 164.5     1  100       E2                      2.49  11                
+252CFS G KC=0.1557 22$LC=1.68 8$MC=0.478 22$NC=0.134 6$OC=0.0334 15$            
+252CFS G PC=0.00543 25$QC=3.29E-5 11                                            
+252CF cG E$from Cf({+18}O,X|g) (2010Ta10).                                      
+252CF cG M$Q from I|g(in-plane)/I|g(out-of-plane)=1.33 {I22} in Cf({+18}O,X|g); 
+252CF2cG E2 from assignment to rotational band                                  
+252CF  L 536.6     3  8+                                                    E   
+252CFX L XREF=D                                                                 
+252CF cL J$E2 |g to 6+.                                                         
+252CF  G 220.4     3  100       E2                      0.791 32                
+252CFS G KC=0.1268 23$LC=0.480 22$MC=0.135 6$NC=0.0380 17$OC=0.0095 4$          
+252CFS G PC=0.00156 7$QC=1.37E-5 4                                              
+252CF cG E$from Cf({+18}O,X|g) (2010Ta10).                                      
+252CF cG M$Q from I|g(in-plane)/I|g(out-of-plane)=1.1 {I3} in Cf({+18}O,X|g);   
+252CF2cG E2 from assignment to rotational band                                  
+252CF  L 804.82    7  (2+)                                                  F   
+252CFX L XREF=B                                                                 
+252CF cL J$|gs to 0+ and 2+, no |g to 4+; analogous to the K=2, 2+ band head of 
+252CF2cL K{+|p}=2+ band observed in {+250}Cf and {+254}Fm.                      
+252CF  G 759.1     1  100    8  [E2]                    0.02657                 
+252CFS G KC=0.0177 4$LC=0.00648 20$MC=0.00169 5$NC=0.000470 15$OC=0.000120 4$   
+252CFS G PC=2.17E-5 7$QC=7.86E-7 19                                             
+252CF  G 804.8     1  77     5  [E2]                    0.02366                 
+252CFS G KC=0.01606 35$LC=0.00555 17$MC=0.00144 4$NC=0.000400 12$               
+252CFS G OC=0.0001020 31$PC=1.86E-5 6$QC=7.01E-7 17                             
+252CF  L 809.2     6  10+                                                   E   
+252CFX L XREF=D                                                                 
+252CF cL J$E2 |g to 8+.                                                         
+252CF  G 272.6     5  100       E2                      0.373 14                
+252CFS G KC=0.0950 19$LC=0.202 9$MC=0.0564 24$NC=0.0158 7$OC=0.00395 17$        
+252CFS G PC=0.000661 28$QC=7.69E-6 23                                           
+252CF cG E$from Cf({+18}O,X|g) (2010Ta10).                                      
+252CF cG M$Q from I|g(in-plane)/I|g(out-of-plane)=1.4 {I4} in Cf({+18}O,X|g);   
+252CF2cG E2 from assignment to rotational band                                  
+252CF  L 830.81    7  (2-)                                                  G   
+252CFX L XREF=B                                                                 
+252CF cL J$no |gs to 0+ or 4+; 785.1|g to 2+,  analogous to the K=2,2- band     
+252CF2cL head of K{+|p}=2- band observed in {+250}Cf, and consistent with its   
+252CF3cL properties.                                                            
+252CF  G 785.1     1  100       [E1]                   0.0071916                
+252CFS G KC=0.00577 13$LC=0.001066 25$MC=0.000257 6$NC=7.08E-5 17$OC=1.82E-5 4$ 
+252CFS G PC=3.45E-6 8$QC=1.88E-7 4                                              
+252CF  L 845.72    9  (3+)                                                  F   
+252CFX L XREF=B                                                                 
+252CF cL J$|gs to 2+ and 4+, no |g to 0+; member of K{+|p}=2+ band.             
+252CF  G 694.0     1  30.9   21                                                 
+252CF  G 800.0     1  100    7                                                  
+252CF  L 867.52    7  (3-)                                                  G   
+252CFX L XREF=B                                                                 
+252CF cL J$|gs to 4+ and 2+, no |g to 0+; member of K{+|p}=2- band.             
+252CF  G 715.8     1  100    6  [E1]                   0.0084719                
+252CFS G KC=0.00678 15$LC=0.001265 30$MC=0.000306 7$NC=8.42E-5 20$OC=2.17E-5 5$ 
+252CFS G PC=4.08E-6 9$QC=2.20E-7 5                                              
+252CF  G 821.8     1  40     3  [E1]                   0.0066415                
+252CFS G KC=0.00534 12$LC=0.000981 23$MC=0.000237 6$NC=6.51E-5 15$OC=1.68E-5 4$ 
+252CFS G PC=3.18E-6 7$QC=1.75E-7 4                                              
+252CF  L 900.33    25 (4+)                                                  F   
+252CFX L XREF=B                                                                 
+252CF cL J$|gs to 4+ and 2+, no |g to 0+; member of K{+|p}=2+ band.             
+252CF  G 748.6     3  100    17 [E2]                    0.02737                 
+252CFS G KC=0.0181 4$LC=0.00673 21$MC=0.00176 6$NC=0.000489 15$OC=0.000124 4$   
+252CFS G PC=2.26E-5 7$QC=8.07E-7 20                                             
+252CF  G 854.6     4  45     10 [E2]                    0.02095                 
+252CFS G KC=0.01452 32$LC=0.00475 14$MC=0.00122 4$NC=0.000341 10$OC=8.69E-5 26$ 
+252CFS G PC=1.59E-5 5$QC=6.24E-7 15                                             
+252CF  L 917.03    12 (4-)                                                  G   
+252CFX L XREF=B                                                                 
+252CF cL J$|g to 4+, no |gs to 2+, 0+; member of K{+|p}=2- band.                
+252CF  G 765.3     1  100       [E1]                   0.0075217                
+252CFS G KC=0.00604 14$LC=0.001118 26$MC=0.000270 6$NC=7.43E-5 17$OC=1.91E-5 4$ 
+252CFS G PC=3.61E-6 8$QC=1.97E-7 4                                              
+252CF  L 969.83    6  (3+)                                                      
+252CFX L XREF=B                                                                 
+252CF cL J$E1 |g to (2-); M1 |g to (2+); |gs to 2+ and 4+; and no               
+252CF2cL |g to 0+.                                                              
+252CF cL $the two-quasiparticle configuration of |n 1/2[620] + |n 7/2[613] was  
+252CF2cL proposed by 1973Fi06. This assignment is consistent with its           
+252CF3cL population in {+252}Es |e decay.                                       
+252CF  G 102.32    5  13.6   9  [E1]                    0.139420                
+252CFS G LC=0.1043 15$MC=0.0260 4$NC=0.00711 10$OC=0.001772 25$PC=0.000296 4$   
+252CFS G QC=1.004E-5 14                                                         
+252CF  G 139.03    5  100    8  E1                      0.250235                
+252CFS G KC=0.1862 26$LC=0.0479 7$MC=0.01186 17$NC=0.00326 5$OC=0.000817 12$    
+252CFS G PC=0.0001406 20$QC=5.25E-6 7                                           
+252CF cG M$from |a(L1+L2)exp=0.03 with uncertainty better than 15%              
+252CF2cG in {+252}Es |e decay                                                   
+252CF  G 165.0     1  1.04   11 M1                      9.89                    
+252CF cG M,MR$M1 with |d=0.0 {I23} from |a(L1+L2)exp=2.2 with uncertainty better
+252CF2cG than 15% in {+252}Es |e decay                                          
+252CF  G 818.1     1  5.4    4                                                  
+252CF  G 924.1     1  17.4   11                                                 

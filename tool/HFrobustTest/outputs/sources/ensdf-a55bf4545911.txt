@@ -1,0 +1,43 @@
+245FM    ADOPTED LEVELS, GAMMAS                                  23NDS    202305
+245FM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 189, 1 (2023)$CUT=14-Feb-2023$       
+245FM  Q -5130     SY 6840   SY 3120   SY 8440   SY    2021WA16                 
+245FM cQ $|DQ(|b{+-})=330, |DS(n)=280, |DS(p)=270, |DQ(|a)=100 (syst,2021Wa16)  
+245FM cQ $S(2n)=15270 {I240}, S(2p)=5380 {I270}, Q(|ep)=1430 {I200}             
+245FM2cQ (syst,2021Wa16)                                                        
+245FM cG E(G)$Deduced by 2022Te01 based on the broad alpha spectrum supported by
+245FM2cG Geant4 simulations                                                     
+245FM c                                                                         
+245FM  XA249NO A DECAY                                                          
+245FM  L 0.0         (1/2+)            5.6 S     7                              
+245FMX L XREF=A                                                                 
+245FM cL J$(1/2+) based on systematics of N=145 isotones                        
+245FM2cL ({+239}Pu, {+241}Cm, {+243}Cf);                                        
+245FM3cL 1/2+[631] calculated with the two-center shell model (TCSM) code       
+245FM2cL (2010Ad19), and the cranked shell model (CSM) code with  pairing       
+245FM3cL correlations treated by a particle-number conserving (PNC) method      
+245FM4cL (2012Zh01)                                                             
+245FM2 L %A LT 100$%EC+%B+=11.5 +68-50$%SF LT 0.3                               
+245FM cL $%|a |? 100 (2020Kh10)                                                 
+245FM cL $%|e+|b{+} from correlations of the {+249}No alpha activity            
+245FM2cL with subsequent alpha decays of energy 7728(20) keV and                
+245FM3cL T{-1/2}= 1.2 m {I+10-4} measured by 2022Te01 which corresponds         
+245FM4cL to the |a decay of {+245}Es.                                           
+245FM5cL Other: %|e < 7 based number of observed {+245}Es (2020Kh10),           
+245FM cL $%SF < 0.3 based on number of observed fission and |a events           
+245FM2cL (2020Kh10).                                                            
+245FM cL T$Weighted average of 5.5 s {I7} from time distribution (2022Te01),    
+245FM2cL 7.7 s {I+53-23} from Er-|a-|a(t) (2022Lo03) and 4.2 s {I13} from       
+245FM3cL |a decay curve (1967Nu01).  See also T{-1/2}=5.4 s {I8} from 2021Sv02  
+245FM4cL (superseded and same group as 2022Te01)                                
+245FM cL $T{-1/2}(SF)>1.1 h, estimated from excitation                          
+245FM2cL function systematics (2000Ho27).                                       
+245FM cL $Configuration=1/2+[631]                                               
+245FM  L 10        CA (3/2+)                                                    
+245FMX L XREF=A                                                                 
+245FM DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+245FM  G 10        1                                                        G  S
+245FM  L 40        CA (5/2+)                                                    
+245FMX L XREF=A                                                                 
+245FM DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+245FM cL $Configuration=5/2+[622]                                               
+245FM  G 30        1                                                        G  S

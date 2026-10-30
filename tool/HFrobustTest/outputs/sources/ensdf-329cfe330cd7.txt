@@ -1,0 +1,58 @@
+256DB    ADOPTED LEVELS                                          17NDS    201704
+256DB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256DB  Q             7170    SY 1120   SY 9340   30    2017WA10                 
+256DB cQ $Estimated uncertainties (2017Wa10): 430 for S(n), 270 for S(p)        
+256DB cQ $S(2n)=16140 (theory,1997M025). S(2p)=3950 {I390}, Q(|ep)=3260 {I240}  
+256DB2cQ (syst,2017Wa10)                                                        
+256DB c  Theoretical calculations: consult the Nuclear Science References (NSR) 
+256DB2c  database for about 27 theory references.                               
+256DB c  1983OgZX: {+256}Db claimed to have been observed as an SF              
+256DB2c  activity in {+209}Bi({+49}Ti,2n); measured half-life from SF           
+256DB3c  and |a-decay curves. According to results of experiments in 2001He35,  
+256DB4c  the SF activity reported by 1983OgZX was most likely from {+256}Rf     
+256DB5c  produced in |e decay of {+256}Db.                                      
+256DB c  2001He35 (also 1999He11,1999He07): {+256}Db produced in                
+256DB2c  {+209}Bi({+50}Ti,3n),E=4.59-5.08 MeV/nucleon, evaporation residues from
+256DB3c  filtering by SHIP separator at GSI. Measured E|a, T{-1/2}(|a), |a|a and
+256DB4c  |a(SF) parent-daughter correlations. A total of 16 |a-decay chains were
+256DB5c  assigned involving the production of {+256}Db. The authors also found  
+256DB6c  evidence for |e decay mode of {+256}Db resulting in {+256}Rf which     
+256DB7c  decays primarily by SF decay mode, and that is the SF activity which   
+256DB8c  was most likely observed by 1983OgZX.                                  
+256DB c  2008Ne01: {+256}Db from |a decay of {+260}Bh produced in               
+256DB2c  {+209}Bi({+52}Cr,n),E=257.0 MeV beam provided by 88-Inch Cyclotron at  
+256DB3c  LBNL. The nuclei were analyzed using Berkeley Gas-Filled Separator.    
+256DB4c  {+256}Db, {+252}Lr and {+248}Md formed through successive              
+256DB5c  |a-decay chain.                                                        
+256DB c  There are several |a groups reported by 2008Ne01 in {+260}Bh |a decay  
+256DB2c  which suggests population of excited states in {+256}Db, but           
+256DB3c  no levels have been explicitly proposed at present.                    
+256DB  XA260BH A DECAY (35 MS)                                                  
+256DB  L 0.0                           1.6 S     +5-3                           
+256DB2 L %A=70 11$ %EC=30 11$ %SF=?                                             
+256DBX L XREF=A                                                                 
+256DB cL %A$weighted average taken by 2008Ne01 of their result, which is not    
+256DB2cL stated in the paper but presumably 76% {I11}, and %|a=64 {I12} implied 
+256DB3cL from measured %|e=36 {I12} by 2001He35                                 
+256DB cL $%|e=100-%|a. Other: 36% {I12} (2001He35)                              
+256DB cL $2001He35 did not find any evidence for SF decay mode of {+256}Db,     
+256DB2cL however, did observe SF events while studying the decay of {+256}Db.   
+256DB3cL These SF events were ascribed to the decay of {+256}Rf, |e daughter    
+256DB4cL of {+256}Db. The SF decay events observed by 1983OgZX in the decay     
+256DB5cL study of {+256}Db were most likely due to the same decay process       
+256DB cL E$the 1.6-s activity is assumed to belong to g.s. of {+256}Db          
+256DB cL J$in theoretical calculations by 1997Mo25, 1/2- proton and 9/2+        
+256DB2cL neutron orbitals were specified, which would suggest J|p=4-,5-         
+256DB cL T$from (implants)|a-correlations (2001He35). Other values from         
+256DB2cL 2001He35 from SF events are: 2.3 s {I+11-6} and 1.7 s {I+9-4}, in      
+256DB3cL agreement with their adopted value but much less precise. 1983OgZX     
+256DB4cL obtained T{-1/2}=2.6 s {I+14-8} from SF observed in                    
+256DB5cL {+209}Bi({+49}Ti,2n) reaction and in {+260}Bh |a decay. Weighted       
+256DB6cL average of all the four values is 1.8 s {I+4-2}, but the evaluator     
+256DB7cL prefers the value recommended by 2001He35                              
+256DB cL $Theoretical half-lives (1997Mo25) of 15.1 s for |a and 22.9 s for |b  
+256DB2cL decays, for example predict %|a=17.2 and %|b{++}=11.4 which suggest    
+256DB3cL %SF=71.4. Theoretical calculations by 1985Lo17 predict                 
+256DB4cL T{-1/2}(SF)|?0.01 s, suggesting %SF|?100, which is in disagreement     
+256DB5cL with experimental results from 2008Ne01 and 2001He35, who              
+256DB6cL determined large |a and |b branches, and no evidence of SF decay       

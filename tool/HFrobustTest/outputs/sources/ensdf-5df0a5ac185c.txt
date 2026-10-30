@@ -1,0 +1,116 @@
+245ES    249MD A DECAY                 2005HE27,2008GA25,2009HE2023NDS    202305
+245ES  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 189, 1 (2023)$CUT=14-Feb-2023$       
+245ES c  2019Br06: {+249}Md source was produced via {+203}Tl({+48}Ca,2n)        
+245ES2c  reaction at the Accelerator Laboratory of the University               
+245ES3c  of Jyvaskyla (JYFL). Fusion-evaporation residues were                  
+245ES4c  separated and selected using the recoil ion transport unit (RITU)      
+245ES5c  gas-filled separator. Separated residues were first detected in a      
+245ES6c  position-sensitive multiwire proportional counter (MWPC) and then      
+245ES7c  implanted into two adjacent double-sided strip detector (DSSDs).       
+245ES8c  Measured energy spectra of subsequent |a decays of residue recoils,    
+245ES9c  recoil-|a-correlations, recoil-|a(t). Deduced |a-decay T{-1/2},        
+245ESAc  and branching ratio.                                                   
+245ES c  2009He20: Improved decay data from previous experiments by this group. 
+245ES2c  {+249}Md produced in the |a decay chain:                               
+245ES3c  {+257}Db |) {+253}Lr |) {+249}Md.                                      
+245ES4c  {+257}Db was produced by the {+209}Bi({+50}Ti,2n) reaction at the      
+245ES5c  UNILAC accelerator, GSI, Darmstadt. Evaporation residues from the      
+245ES6c  heavy-ion fusion reaction were separated from the projectile beam      
+245ES7c  by the velocity filter SHIP and implanted into a position-sensitive    
+245ES8c  16 strip Si PIPS detector surrounded six Si-wafers.                    
+245ES9c  Measured E|a, I|a, T{-1/2}, and excitation functions.                  
+245ES c  2008Ga25: {+249}Md produced in the |a decay chain:                     
+245ES2c  {+257}Db |) {+253}Lr |) {+249}Md.                                      
+245ES3c  The {+257}Db activity was produced by the {+209}Bi({+50}Ti,2n) and     
+245ES4c  {+208}Pb({+51}V,2n) reactions at 4.7 - 5.1 MeV/nucleon beams of {+51}V 
+245ES5c  and {+50}Ti provided by the 88-Inch Cyclotron at the Lawrence Berkeley 
+245ES6c  National Laboratory. Evaporation residues were separated from the      
+245ES7c  beam and other unwanted reaction products in the Berkeley Gas-filled   
+245ES8c  Separator. The Db recoils were implanted at the focal plane detector   
+245ES9c  consisting of silicon cards that were able to detect the alphas        
+245ES c  2005He27: {+249}Md was produced in two reactions:                      
+245ES c  i) {+209}Bi({+50}Ti,2n){+257m,g}Db |)|a decay |) {+253m,g}Lr |)        
+245ES2c  |a decay |)  {+249}Md                                                  
+245ES c  ii){+209}Bi({+48}Ca,4n) {+253m,g}Lr |)|a decay |) {+249}Md             
+245ES c  The experiment was performed at the UNILAC                             
+245ES2c  accelerator, GSI, Darmstadt. Evaporation residues from the             
+245ES3c  heavy-ion fusion reaction were separated from the projectile beam      
+245ES4c  by the velocity filter SHIP and implanted into a position-sensitive    
+245ES5c  16 strip Si PIPS detector. Measured (fragments)|a coin, |a|g coin,     
+245ES8c  prompt and delayed |g rays, K-x rays. A 'Clover' detector was used     
+245ES9c  for |g rays.                                                           
+245ES c  1985He22: {+249}Md produced in the |a decay chain:                     
+245ES2c  {+257}Db |) {+253}Lr |) {+249}Md.                                      
+245ES2c  {+257}Db was produced by the {+209}Bi({+50}Ti,2n) reaction at the      
+245ES3c  UNILAC accelerator, GSI, Darmstadt.  Evaporation residues from the     
+245ES5c  heavy-ion fusion reaction were separated from the projectile beam      
+245ES6c  by the velocity filter SHIP and identified after implantation into an  
+245ES7c  array of position-sensitive surface-barrier detectors by analyzing     
+245ES8c  their |a-decay chains. Measured E|a, I|a, T{-1/2}, branching ratio     
+245ES9c  and excitation functions.                                              
+245ES c  1973Es01: {+249}Md was populated in the {+241}Am({+12}C,|a4n) reaction 
+245ES2c  at the Berkeley heavy-ion linear accelerator. Alpha spectrum was       
+245ES3c  measured with a series of Si-Au surface barrier detectors.             
+245ES4c  Measured excitation function, T{-1/2}, E|a, I|a                        
+245ES c                                                                         
+245ES cG E,RI$From 2005He27. I|g have been normalized to I(253.2|g)=100         
+245ES cL J,T$From Adopted Levels                                                
+245ES cL E$From level scheme in 2005He27                                        
+245ES cA E$Two additional |a lines may ne attributed to the |a decay of         
+245ES2cA {+249}Md. 8087 keV 7956 keV (2009He20). From |a-|g coincidence,        
+245ES3cA 2009He20 suggests that the former 8087-keV could be                    
+245ES4cA interpreted as a result of summing with conversion electroms from      
+245ES5cA the transition of 9/2+ |) 7/2+                                         
+245ES cA HF$The nuclear radius parameter r{-0}({+245}Es)=1.4945 {I65}           
+245ES2cA as specified by the user.                                              
+245ES3cA The nuclear radius parameter r{-0}({+245}Es) is the unweighted average 
+245ES4cA of adjacent even-even nuclides  r{-0}({+244}Cf) and r{-0}({+246}Fm)    
+245ES5cA The r{-0}({+244}Cf)=1.4945 {I65} (2020Si16) but evaluator is unable to 
+245ES6cA estimate the r{-0}({+246}Fm). Hence r{-0}({+245}Cf)=1.4945 {I65}       
+245ES7cA is used in the estimation of HF.                                       
+245ES DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+249MD  P 0.0          (7/2-)           24.8 S    10             8441      SY    
+249MD cP J$From Adopted Levels for {+249}Md in 2011Ab07                         
+249MD cP T$From weighted average of 26 s {I1} (2019Br06), 23 s {I3} (2009He20), 
+249MD2cP 23.8 s {I+38-29} (2008Ga25), 19 s {I+3-2} (2001He35), 25 s {I+14-7}    
+249MD3cP (1985He22), and 24 s {I4} (1973Es01). The current Adopted Levels in    
+249MD4cP the ENDSF database for {+249}Md (2011Ab07) gives T{-1/2}({+249}Md)=    
+249MD5cP 21.7 s {I20} based on references available at the time of the          
+249MD6cP evaluation                                                             
+249MD cP QP$8441 {I18} (2021Wa16)                                               
+245ES  N                       0.75    5                                        
+245ES cN BR$%|a from 2019Br06. The current Adopted Levels of {+249}Md (2011Ab07)
+245ES2cN gives %|a>60 based on references available at the time of the          
+245ES3cN evaluation                                                             
+245ES PN                                                                     5  
+245ES  G 223.2     5  10     5                                                  
+245ES cG E$Was seen in coincidence with E|a=8029 keV {I10} by 2009He20. Due to  
+245ES2cG low statistics of events, the evaluator considers this gamma unplaced  
+245ES  L 0.0         (3/2-)            66.6 S    60                             
+245ES cL J$Systematics of Nilsson orbitals suggests either the 3/2[521]         
+245ES2cL or the 7/2[633] state.                                                 
+245ES3cL 3/2[521] and 7/2[633] orbitals are                                     
+245ES4cL close in energy and either could be the g.s. However, 2005He27 estimate
+245ES5cL that 7/2+ bandhead of 7/2[633] band lies |?30 keV above the 3/2-       
+245ES6cL bandhead of 3/2[521] band, hence the g.s is assigned (3/2-)            
+245ES  L 0.0+X       (7/2+)                                                     
+245ES cL E$x |?30 keV {I15} (2005He27). x=30 keV {I21} deduced by evaluator     
+245ES2cL (see comments at Ex=253.2+x                                            
+245ES cL $Configuration=7/2[633]                                                
+245ES  L 52.8+X        (9/2+)                                                   
+245ES  L 253.2+X   3   (7/2-)                                                   
+245ES cL E$x=30 keV {I21} deduced by evaluator using Q|a (g.s.)=8441 keV {I18}  
+245ES2cL and E|a=8026 keV {I10}                                                 
+245ES cL $Configuration=7/2[514]                                                
+245ES  A 8026      10 100        1.10  AP                                       
+245ES cA E$From 2009He20. Others: 8030 keV {I20} (1973Es01), 8026 keV {I20}     
+245ES2cA (1985He22).                                                            
+245ES cA IA$From 2009He20. Intensity per 100 alpha decays.                      
+245ES  G 200.4     7  20     8                                                  
+245ES cG E$Transition into the 9/2+ level assigned by 2005He27                  
+245ES  G 253.2     5  100        E1                    0.0673 10                
+245ES cG M$From |a(K)exp|<0.09; |a(L)exp|<0.034 deduced from ratio of           
+245ESxcG K| x ray, L| x ray and I|g (2005He27)                                  
+245ESF G FL=0.0+X                                                               
+245ESS G  KC=0.0518 8$LC=0.01155 17$MC=0.00285 4                                
+245ESS G  NC=0.000786 12$OC=0.0002014 30$PC=3.62E-5 5$QC=1.544E-6 22            

@@ -1,0 +1,74 @@
+253CF    257FM A DECAY                 1967AS02,1982AH01         13NDS    201309
+253CF  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+253CF2 H CUT=1-Mar-2012$                                                        
+253CF DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+257FM  P  0.0         (9/2+)           100.5 D   2               6863.5   14    
+253CF  N 0.93      4           0.99790 4                                        
+253CF cN NR        From decay scheme.                                           
+253CF PN             1                                                      C   
+253CF2PN IA PER 100 A DECAYS OF PARENT                                          
+253CF cL E$From least-squares fit to E|g, unless otherwise noted                
+253CF cL J$From adopted levels                                                  
+253CF cA E,IA$From 1982Ah01, unless otherwise noted                             
+253CF cA HF        r{-0}({+253}Cf)=1.5091                                       
+253CF cA E(A),IA(A)$Recommended value from 1991Ry01 based on adjusted           
+253CF2cA measurements of 1967As02 and 1982Ah01                                  
+253CF cG           K| x ray(Cf)=58% {I4} (from |g spectrum, 1982Ah01); K| x     
+253CF2cG ray(Cf)=53% {I3} (from measured I(ce(K)), 1982Ah01)                    
+253CF cG E,RI$From 1982Ah01; other: 1967As02                                    
+253CF cG M,MR$From I(ce) and I|g of 1981Ah01; both intensities are given        
+253CF2cG in % |a-decay                                                          
+253CF  L 0.0          (7/2+)                                                    
+253CF  A  6752     3  0.58   6  2.92E3 31                                   A   
+253CF  L 61.61     8  (9/2+)                                                    
+253CF  A 6695      3  3.4    2   267   16                                       
+253CF cA IA$weighted average of 3.2 {I3} (1967As02) and 3.5 {I3} (1982Ah01)     
+253CF cA HF        see 1982Ah01 for calculation of HF(6695|a) including Coriolis
+253CF2cA interaction between 7/2[613] and 9/2[615] bands.                       
+253CF  G 61.6      1  1.45   8 M1+E2     0.27    2     47.4   19                
+253CFS G LC=35.1 14$MC=9.1 4$NC+=3.29 15                                        
+253CFS G NC=2.52 12$OC=0.64 3$PC=0.117 5$QC=0.00503 9                           
+253CF cG M,MR$|a(L12)exp=31 {I3}, L12/L3=6.7 {I9}, L:M:N+=51 {I7}: 15.0 {I15}:  
+253CF2cG 6.7 {I7} (1982Ah01). Theory |a(L12)=32.8 {I9}, L12/L3=7.2 {I10},       
+253CFxcG L:M:N+=51: 13.1 {I5}: 5.1 {I2}                                         
+253CF  L 136.62    9 (11/2+)                                                    
+253CF  A 6622         1.2    LT  347   GT                                      S
+253CF  G 75.0      1  0.200  17(M1)                    19.7                     
+253CFS G LC=14.72 22$MC=3.62 6$NC+=1.318 20                                     
+253CFS G NC=1.004 15$OC=0.261 4$PC=0.0504 8$QC=0.00298 5                        
+253CF cG M$|a(L12)exp=16.5 {I29} (1982Ah01). Theory: |a(L12)=15.8               
+253CF  G 136.7     2  0.06   2    [E2]                  5.59                    
+253CFS G KC= 0.124$ LC=3.91$ MC=1.11$ NC+=  0.445                               
+253CF  L 241.01    8  (9/2+)                                                    
+253CF  A  6519.5   14 93.8   7  1.487  15                                   A   
+253CF  G 104.4     1  0.62   5 (M1)                    7.52                     
+253CFS G LC=5.63 8$MC=1.386 20$NC+=0.504 8                                      
+253CFS G NC=0.384 6$OC=0.0997 15$PC=0.0193 3$QC=0.001136 17                     
+253CF cG M$|a(L12)exp=5.3 {I8} (1982Ah01). Theory: |a(L12)=6.08                 
+253CF  G 179.4     1  8.7    7 M1+E2     0.58    13    5.8    5                 
+253CFS G KC=4.2 5$LC=1.182 17$MC=0.301 6$NC+=0.1095 19                          
+253CFS G NC=0.0839 15$OC=0.0215 4$PC=0.00398 7$QC=0.000185 18                   
+253CF cG RI$absolute measurement in % of |a decay.                              
+253CF cG M,MR$|a(K)exp=4.6 {I5}, K:L12:M:NO=40 {I3}: 9.3 {I9}: 2.6 {I3}: 1.0    
+253CF2cG {I3} (1982Ah01). Theory: |a(K)=4.6 {I5}, K:L12:M:NO=40: 11.0: 2.81:    
+253CFxcG 1.09                                                                   
+253CF  G 241.0     1  11.0   6 M1+E2     1.06    13    1.78   17                
+253CFS G KC=1.22 16$LC=0.419 14$MC=0.109 3$NC+=0.0396 10                        
+253CFS G NC=0.0304 8$OC=0.00775 21$PC=0.00140 5$QC=5.4E-5 7                     
+253CF cG M,MR$|a(K)exp=1.31 {I13}, K:L12:L3:M=14.4 {I12}: 4.2 {I4}: 0.53 {I18}: 
+253CF2cG 1.2 {I2}. Theory: |a(K)=1.31 {I17}, K:L12:L3:M=14.4: 4.4 {I3}: 0.49    
+253CFxcG {I5}: 1.27 {I3}                                                        
+253CF  L 321.21    22 (11/2+)                                                   
+253CF  A 6441      3  2.0    2    29   3                                        
+253CF  G 80.2      2  0.085  9 (M1+E2)                 39     24                
+253CFS G LC=29 17$MC=8 5$NC+=2.9 18                                             
+253CFS G NC=2.2 14$OC=0.6 4$PC=0.09 5$QC=0.0014 10                              
+253CF cG M$intensity balance at the 321.2 level suggests M1+E2                  
+253CF2cG multipolarity                                                          
+253CF  L 417       5  (13/2+)                                                   
+253CF cL E         calculated from E|a                                          
+253CF  A 6346      5  0.3    1    68   23                                       
+253CF  G 96        5           [M1,E2]                 18     10 0.3      LE   S
+253CFS G L/T=0.7 3$M/T=0.19 13$N+/T=0.07 5                                      
+253CFS G N/T=0.05 4$O/T=0.013 10$P/T=0.0022 16$Q/T=4.E-5 4                      
+253CF cG TI        from intensity balance                                       

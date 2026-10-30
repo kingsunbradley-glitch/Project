@@ -1,0 +1,28 @@
+255ES    ADOPTED LEVELS                                          13NDS    201309
+255ES  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+255ES2 H CUT=1-Nov-2011$                                                        
+255ES D  Modified by E. Browne (November 10, 2011)                              
+255ES  Q  290      10 5973   12 4540   16 6436.3 14    2012WA38                 
+255ES c  Calculations, compilations:                                            
+255ES c  |a decay: 1993Bu09, 1992Bu03                                           
+255ES c  Ground state properties: 2010Ni02, 2008Do12, 2007Ro08, 1997Mo25,       
+255ES2c  1995Mo29.                                                              
+255ES c  Pion decay: 1988Io05                                                   
+255ES c  Single-particle Nilsson levels: 2010Ad19, 2004Pa40, 1994Cw02.          
+255ES c  Spontaneous fission calculated half-lives: 2005Re16, 2005RoZS,         
+255ES2c  2004Ro01.                                                              
+255ES c                                                                         
+255ES c  1994Cw02 have calculated the following single-particle level sequence: 
+255ES2c  g.s. 7/2[633], 0.30 MeV, 3/2[521]; 0.31 MeV, 1/2[521]; 0.51 MeV,       
+255ES3c  7/2[514]; 0.53 MeV, 1/2[660]; 0.62 MeV, 5/2[642].                      
+255ES  XA255CF B- DECAY                                                         
+255ES  L 0           (7/2+)            39.8 D    12                             
+255ES2 L %B-=92.0 4$ %A=8.0 4$ %SF=0.0041 2                                     
+255ES cL           Deduced by evaluators from %|a/%|b{+-}=0.087 {i4};           
+255ES2cL and %|b{+-}/%SF=2.22|*10{+4} {i10} (1967Fi03).                         
+255ES3cL Other: %|a/%|b{+-}=0.093 {i3} (1966Rg01)                               
+255ES cL           T{-1/2}(SF)=2600 y {i100} (1967Fi03,2000Ho27).               
+255ESX L XREF=A                                                                 
+255ES cL J         configuration=(|p 7/2[633]) from Nilsson model (1994Cw02).   
+255ES2cL Pattern of |a decay to {+251}Bk is consistent with this assignment.    
+255ES cL T         from 1966Rg01. Other: 38 d {I2} (1987Po22)                   

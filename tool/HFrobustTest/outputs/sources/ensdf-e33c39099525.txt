@@ -1,0 +1,286 @@
+254NO    ADOPTED LEVELS, GAMMAS                                  19NDS    201902
+254NO  H TYP=FMT$AUT=C. Morse$DAT=02-SEP-2022$COM=Removed gamma rays with X     
+254NO2 H given as energy. Information preserved in comments.                    
+254NO  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 1 (2019)$CUT=31-Jan-2019$        
+254NO  Q -5150     SY 7707   12 3740   SY 8226   8     2017WA10                 
+254NO cQ $Estimated uncertainties (2017Wa10): 300 for Q(|b{+-}), 30 for S(p)    
+254NO cQ $S(2n)=14291 {I13}, S(2p)=6670 {I11} (2017Wa10)                        
+254NO c  Production and assignment of {+254}No isotope:                         
+254NO c  1958Gh40, 1966Do04: parent of {+250}Fm; chemistry                      
+254NO c  1966Do04: {+238}U({+22}Ne,6n); excitation function                     
+254NO c  1966Za04: {+243}Am({+15}N,4n); parent of {+250}Fm                      
+254NO c  1967Gh01: {+246}Cm({+12}C,4n); excitation function                     
+254NO c  1967Mi03: {+242}Pu({+16}O,4n); excitation function                     
+254NO c  1988Tu07: {+208}Pb({+48}Ca,2n); chemistry; grandparent of {+246}Cf     
+254NO c  Consult the NSR database at www.nndc.bnl.gov for numerous papers       
+254NO2c  since 1988 for the production cross sections of {+254}No in different  
+254NO3c  reactions                                                              
+254NO c  2018It04: measured mass excess=84675 keV {I42}(stat) {I19}(syst) using 
+254NO2c  multireflection time-of-flight mass spectrograph at GARIS-RIKEN        
+254NO3c  facility. This value can be compared to evaluated mass excess of       
+254NO4c  84723.4 keV {I93} in 2017Wa10                                          
+254NO c  2012Mi27: measured mass excess using time-of-flight                    
+254NO2c  ion-cyclotron-resonance method                                         
+254NO c  2010Bl04, 2010Bl03, 2010Dw01: measured mass using SHIPTRAP             
+254NO2c  Penning trap spectrometer at GSI                                       
+254NO c  Theoretical studies: consult the NSR database at www.nndc.bnl.gov for  
+254NO2c  100 references dealing with theoretical calculations of                
+254NO3c  half-lives for different decay modes, binding energies, fission        
+254NO4c  characteristics, level properties, moments and deformations.           
+254NO d  For theoretical structure calculations (levels, J|p, bands, moments,   
+254NO2d  shape isomers, deformation parameters, etc.) see 2016Li37, 2016Ro28,   
+254NO3d  2015He31, 2014Li15, 2014Mi26, 2013Af01, 2013Zh15, 2012Jo05, 2012Li31,  
+254NO4d  2012Ne04, 2012Pa35, 2012Zh01, 2011Jo09, 2011Ne05, 2011Ne09, 2010Ad04,  
+254NO5d  2010Ad17, 2010Vr01, 2009Al09, 2009Zh01, 2008He18, 2008Su07, 2006De23,  
+254NO6d  2006Sh19, 2005Sh56, 2005La04, 2004Qu03, 2004Xu04, 2003Af02, 2003Be41,  
+254NO7d  2003He26, 2003La02, 2003Re22, 2002Pr01, 2001Du02, 2001Mu10, 2001Za03,  
+254NO8d  1991So15, 1983Bo15, 1976Iv04, 1973Iv01. 2015RoZW, 2011Li04, 2010Do07,  
+254NO9d  2001La27 and 2000Eg02 are theoretical studies dealing only with the    
+254NOAd  structure of {+254}No                                                  
+254NO d  For calculation of fission barrier, see, 1973Ba19,1983Cw01,            
+254NO2d  1990PaZT, 1992Bh03, 2003Mo04, 2004Bo34.                                
+254NO d  For theoretical calculation of SF half-life, see 1976Ra02, 1978Po09,   
+254NO2d  1983Bo15, 1986Ba43, 1987Mo16, 1989St20, 1990PaZT, 1992Bh03, 2005Xu01.  
+254NO d  For theoretical calculation of partial half-life for |a decay, see     
+254NO2d  1976Ra02, 1979Po23, 1997Mo25, 2003Wu06.                                
+254NO cG E,M$For gamma rays from the g.s. rotational band members, and for the  
+254NO2cG (3+) bandhead, energies, |g-ray branching ratios, and multipolarity    
+254NO3cG assignments are from {+208}Pb({+48}Ca,2n|g):prompt |g. The             
+254NO4cG multipolarity assignments are based on internal conversion data.       
+254NO5cG For |g rays from the (4+) and higher members of the K|p=(3+) band,     
+254NO6cG energies are from {+254}No IT decay (265 ms).                          
+254NO cG RI(x)$Relative branching ratios of 842|g and 943|g are from            
+254NO2cG {+254}No IT decay (265 ms)                                             
+254NO cG RI(y)$Branching ratios from {+254}No IT decay (184 |ms):LBNL           
+254NO cL $The decay scheme of the 184-|ms isomer has been studied by            
+254NO2cL 2010He10 at GSI, and by 2010Cl01 at LBNL. Very different decay         
+254NO3cL schemes were proposed in the two experiments, although a similar       
+254NO4cL rotational band, but with different J|p values and configuration,      
+254NO5cL was assigned in both the studies. 2016WaZW conducted an independent    
+254NO6cL experiment at Jyvaskyla (JYFL) to resolve the difference between the   
+254NO7cL two studies. The author favored the decay scheme given by 2010He10,    
+254NO8cL with a possible difference that the 605-keV transition deexcited the   
+254NO9cL isomer directly rather than through an intermediate level as           
+254NOAcL suggested by 2010He10. However, 2016WaZW concluded with the following  
+254NOBcL statement about the 605-keV transition: "The 605 keV rays seen at the  
+254NOCcL focal plane in coincidence with the decay of the fast isomer confirm   
+254NODcL that there is a transition with this energy in {+254}No somewhere      
+254NOEcL between the two isomers, but it does not give any more information     
+254NOFcL about where in the level scheme the transition should be placed. Any   
+254NOGcL of the level schemes in figure 9.1 is consistent with this             
+254NOHcL observation". Evaluator also consulted Prof. R.-D. Herzberg, thesis    
+254NOIcL advisor of 2016WaZW, as well as the first author of 2006He19 paper     
+254NOJcL for his opinion on the current status of the decay scheme of this      
+254NOKcL isomer. Evaluator was advised (ref. e-mail reply of June 19, 2017      
+254NOLcL from Prof. Herzberg) that at this time, no definite decay scheme       
+254NOMcL could be adopted, and that future experiments with more advanced       
+254NONcL detector arrays are needed to investigate the decay scheme between     
+254NOOcL the two isomers: 184 |ms and 265 ms. Thus, while the two currently     
+254NOPcL proposed decay schemes are presented in this evaluation as separate    
+254NOQcL datasets, no decay scheme has been adopted in this dataset.            
+254NO cL E$From least-squares fit to E|g data, assuming uncertainty of 1 keV    
+254NO2cL when not stated.                                                       
+254NO cL J$From band structures as proposed in several studies using            
+254NO2cL {+208}Pb({+48}Ca,2n|g) reaction. Members of the ground-state           
+254NO3cL from 4+ to 12+ are supported by E2 intraband transitions, higher       
+254NO4cL members from continuing |g cascade.                                    
+254NO CL BAND(A)$K|p=0+, g.s. band.                                             
+254NO2cL No indication of a backbend was found. The quadrupole deformation of   
+254NO3cL |b(2)=0.27 {I3} was deduced by 1999Le42 from E(2+ state)=44.2 {I4},    
+254NO4cL extrapolated from neighboring E(2+ states).                            
+254NO CL BAND(B)$|p1/2[521]~#|p7/2[514],K|p=(3+) band                           
+254NO CL BAND(C)$K|p=(8-) band                                                  
+254NO CL BAND(D)$|DJ=1 band                                                     
+254NO  XF254LR EC DECAY (18.1 S)                                                
+254NO  XA258RF A DECAY (12.0 MS)                                                
+254NO  XB254NO IT DECAY (265 MS)                                                
+254NO  XC254NO IT DECAY (184 US):GSI                                            
+254NO  XD254NO IT DECAY (184 US):LBNL                                           
+254NO  XE208PB(48CA,2NG):PROMPT G                                               
+254NO PN                                                                     6  
+254NO  L 0.0          0+               51.2 S    4                          A   
+254NO2 L %A=90 1$ %EC=10 1 (2010He10)$ %SF=0.17 2 (1994Hu18)                    
+254NOX L XREF=AB                                                                
+254NO cL $Measured |d|n({+254}No,{+253}No)=6.72 GHz {I18};                      
+254NO2cL |d|n({+254}No,{+252}No)=10.08 GHz {I69};                               
+254NO3cL |d<r{+2}>({+254}No,{+253}No)=-0.070 fm{+2} {I2}(stat) {I5}(syst);      
+254NO4cL |d<r{+2}>({+254}No,{+252}No)=-0.105 fm{+2} {I7}(stat) {I7}(syst)       
+254NO5cL (2018Ra11, laser atomic spectroscopy using radiation detected resonance
+254NO6cL ionization spectroscopy (RADRIS) technique at SHIP-UNILAC-GSI facility 
+254NO cL $Measured %|e=10 {I1}, %SF=0.23 {I10} (2010He10) from the number       
+254NO2cL of |a decays and fission events from {+254}No and the number of |a     
+254NO3cL decays from {+254}Fm.                                                  
+254NO cL $Measured %|e=10 {I4}, %SF=0.25 {I+20-11} (1988Tu07) from              
+254NO2cL |a and fission activities of {+254}No, and |a activities of {+254}Fm   
+254NO3cL and {+246}Cf                                                           
+254NO cL $Measured %SF=0.17 {I5} (1989La07) by comparing g.s. SF                
+254NO2cL activity yield with |a activity yields for {+246}Cf and {+242}Cm;      
+254NO3cL %SF=0.17 {I2} (1994Hu18) from the ratio of |a and SF events;           
+254NO4cL %|a|?10 (1979Or02)                                                     
+254NO cL T$from 2006He19, decay curve for 8.1-MeV |a peak. Others:              
+254NO2cL 48 s {I3} (1999Le42), 53 s {I20} (1994Hu18), 54 s {I+8-6} (1989La07),  
+254NO3cL 53 s {I+46-24} (1988Tu07), 68 s {I+36-18} (1985He22), 75 s {I15}       
+254NO4cL (1967Mi03), 52 s {I5} (1967Gh01, value of 55 s {I5} measured relative  
+254NO5cL to T{-1/2}({+214}Ra)=2.6 s was corrected by 1999Le42 for {+214}Ra      
+254NO6cL half-life), 50 s {I10} (1966Do04). Weighted average of all the values  
+254NO7cL is also 51.2 s {I4} with reduced |h{+2}=0.5                            
+254NO cL T$T{-1/2}(SF)>25 h, estimated by 1966Fl04                              
+254NO  L   44.2    4  2+                                                    A   
+254NO DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+254NOX L XREF=ABCDE                                                             
+254NO cL E$from {+208}Pb({+48}Ca,2n|g), estimated by 1999Le42 from Harris       
+254NO2cL parameters extracted for the g.s. rotational band.                     
+254NO  G 44.2      4  100       [E2]                   1510   70               S
+254NO  L 145.2      7 4+                                                    A   
+254NOX L XREF=BCDE                                                              
+254NO  G   101.1   6  100       E2                     30.0   10                
+254NO  L 304.6      7 6+                                                    A   
+254NOX L XREF=BCDE                                                              
+254NO  G   159.5   2  100       E2                     3.94                     
+254NO  L 518.7      7 8+                                                    A   
+254NOX L XREF=BCDE                                                              
+254NO  G   214.1   1  100       E2                     1.204                    
+254NO  L 786.0      8 10+                                                   A   
+254NOX L XREF=E                                                                 
+254NO  G   267.3   1  100       E2                     0.535                    
+254NO  L 987.5      8  (3+)                                                 B   
+254NOX L XREF=BCDE                                                              
+254NO cL J$|g rays to 2+ and 4+. Probable configuration=|p1/2[521]~#|p7/2[514], 
+254NO2cL K|p=(3+) (2006He19)                                                    
+254NO  G 842       1   36    9                                              x   
+254NO  G 943       1   100   16                                             x   
+254NO  L 1033.2    11  (4+)                                                 B   
+254NOX L XREF=BCD                                                               
+254NO cL J$|g rays to (3+) and 4+; band member                                  
+254NO  G  45                                                                   S
+254NO  G 887                                                                    
+254NO  L 1091.1     9  (5+)                                                 B   
+254NOX L XREF=BCD                                                               
+254NO cL J$|g rays to (3+) and 6+; band member                                  
+254NO  G  58                                                                   S
+254NO  G 103                                                                    
+254NO  G 786       1                                                            
+254NO  L 1104.1     8  12+                                                  A   
+254NOX L XREF=E                                                                 
+254NO  G   318.1   2  100       (E2)                   0.300                    
+254NO  L 1160.3     9  (6+)                                                 B   
+254NOX L XREF=BCD                                                               
+254NO cL J$|g rays to (4+) and 6+; band member                                  
+254NO  G  69                                                                    
+254NO  G 126                                                                    
+254NO  G 856                                                                    
+254NO  L 1243.1     9  (7+)                                                 B   
+254NOX L XREF=BCD                                                               
+254NO cL J$|g rays to (5+) and 6+; band member                                  
+254NO  G  82          100                                                   x   
+254NO  G 151         110     40                                             x   
+254NO  G 940                                                                    
+254NO  L 1296.4    11 (8-)             265 MS    2                          CM1 
+254NO2 L %IT=100 $ %SF=0.020 12 (2010He10) $ %A LE 0.01 (2010He10)              
+254NOX L XREF=BCD                                                               
+254NO cL E$other: 1295 keV {I2} (2010He10), 1297 keV {I2} (2010Cl01)            
+254NO cL T$weighted average of 263 ms {I2} (2010Cl01, recoil-ce(t)); 275 ms {I7}
+254NO2cL (2010He10, recoil-ce(t)); 266 ms {I10} (2006Ta19, summed electron      
+254NO3cL spectrum decay curve); 266 ms {I2} (2006He19, recoil-ce(t)). Other:    
+254NO4cL 0.28 s {I4} (1973Gh03, first identification of the isomer)             
+254NO cL J$2010He10, 2006Ta19 and 2006He19 proposed |p9/2[624]~#|p7/2[514],     
+254NO2cL K|p=8-. However, 2010He10 and 2006He19 suggested that long half-life of
+254NO3cL this isomer may be due to contribution from 2-neutron configurations of
+254NO4cL |n7/2[624]~#|n9/2[734] and |n7/2[613]~#|n9/2[734],K|p=8-. 2010Cl01     
+254NO5cL proposed |n7/2[613]~#|n9/2[734],K|p=8- configuration.                  
+254NO cL $See 2015Ko14 evaluation for |g-transition hindrance factors           
+254NO cL $unobservedGammaIntensity=49 {I2}:From {+254}No IT decay (265 ms).     
+254NO  G 53           100    7  (E1)                   0.83   5             x   
+254NO  G 778          14     4  [E1]                   0.0085               x   
+254NO  L 1407.8    11 (9-)                                                  C   
+254NOX L XREF=CD                                                                
+254NO cL J$|g to (8-), band member                                              
+254NO  G 111.4     2  100       [M1]                   9.51                     
+254NO cG E$average of 111.4 {I2} in {+254}No IT decay (184 |ms):GSI, and        
+254NO2cG 111.4 {I3} in {+254}No IT decay (184 |ms):LBNL                         
+254NO  L 1470.7     8  14+                                                  A   
+254NOX L XREF=E                                                                 
+254NO  G   366.6   2   100     [E2]                    0.195                    
+254NO  L 1530.8    15 (10-)                                                 C   
+254NOX L XREF=CD                                                                
+254NO cL J$|g to (9-), band member                                              
+254NO  G 123                                                                    
+254NO  L 1530.8+X       J1                                                  D   
+254NO DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+254NOX L XREF=CD                                                                
+254NO cL E$this level is the 1532.0, (10-) level in {+254}No IT decay           
+254NO2cL (184 |ms):GSI (2010He10), but at 2013.2, (10+) in {+254}No IT decay    
+254NO3cL (184 |ms):LBNL (2010Cl01) decaying through 481.8 and 605.2 |g rays.    
+254NO4cL 2016WaZW did not confirm the existence of the 482|g, and the 605|g     
+254NO5cL was placed from a 2917-keV level feeding the top member of the K=8     
+254NO6cL band. 2016WaZW suggested a possible placement of the 605|g directly    
+254NO7cL from the isomer, but left open other possibilities.                    
+254NO cL $J{-1}=10- in 2010He10, 10+ in 2010Cl01                                
+254NO  L 1664.4+X  1   J1+1                                                 D   
+254NOX L XREF=CD                                                                
+254NO  G 133.3     1  100                                                       
+254NO cG E$average of 133.3 {I1} in {+254}No IT decay (184 |ms):GSI, and        
+254NO2cG 133.4 {I4} in {+254}No IT decay (184 |ms):LBNL                         
+254NO  L 1809.1+X   8 J1+2                                                  D   
+254NOX L XREF=CD                                                                
+254NO  G 145       1  100                                                       
+254NO cG E$from {+254}No IT decay (184 |ms):LBNL                                
+254NO  L 1883.4     8  16+                                                  A   
+254NOX L XREF=E                                                                 
+254NO  G   412.7   2  100      [E2]                    0.1397                   
+254NO  L 1966.1+X   8 J1+3                                                  D   
+254NOX L XREF=CD                                                                
+254NO  G 156.9     2  100    17                                                 
+254NO cG E$average of 156.9 {I2} in {+254}No IT decay (184 |ms):GSI, and        
+254NO2cG 156.9 {I3} in {+254}No IT decay (184 |ms):LBNL                         
+254NO  G 302                                                                    
+254NO cG E$from {+254}No IT decay (184 |ms):GSI                                 
+254NO  L 2134.4+X   8 J1+4                                                  D   
+254NOX L XREF=CD                                                                
+254NO  G 168.5     1  100    17                                             y   
+254NO cG E$average of 168.5 {I1} in {+254}No IT decay (184 |ms):GSI, and        
+254NO2cG 168.9 {I3} in {+254}No IT decay (184 |ms):LBNL                         
+254NO  G 325.5     5   83    33                                             y   
+254NO cG E$325 in {+254}No IT decay (184 |ms):GSI, and                          
+254NO2cG 325.5 {I5} in {+254}No IT decay (184 |ms):LBNL                         
+254NO  L 2314.8+X   8 J1+5                                                  D   
+254NOX L XREF=CD                                                                
+254NO  G 179.5     1  100    13                                                 
+254NO cG E$average of 179.5 {I1} in {+254}No IT decay (184 |ms):GSI, and        
+254NO2cG 179.4 {I3} in {+254}No IT decay (184 |ms):LBNL                         
+254NO  G 347.2     2   76    22                                                 
+254NO cG E$average of 347.1 {I2} in {+254}No IT decay (184 |ms):GSI, and        
+254NO2cG 347.5 {I5} in {+254}No IT decay (184 |ms):LBNL                         
+254NO cG RI$average of 57 {I22} in {+254}No IT decay (184 |ms):GSI, and         
+254NO2cG 100 {25} in {+254}No IT decay (184 |ms):LBNL                           
+254NO  L 2314.8+Y     (16)             184 US    3                           M2 
+254NO DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+254NO2 L %IT=100 $ %SF LE 0.012 (2010He10)                                      
+254NOX L XREF=CD                                                                
+254NO cL $This isomer was defined at 3001 keV with an |?84-keV transition       
+254NO2cL deexciting it in {+254}No IT decay (184 |ms):GSI (2010He10), and       
+254NO3cL possibly at 2917 keV with direct deexcitation through the 605-keV      
+254NO4cL |g ray by 2016WaZW. 2010Cl01 assigned it from 2928 keV with 312.4 and  
+254NO5cL 133.4 gamma rays deexciting it in {+254}No IT decay (184 |ms):LBNL     
+254NO cL E$3001 keV {I3} (2010He10), 2917 keV (2016WaZW);                       
+254NO2cL 2928 keV {I3} (2010Cl01)                                               
+254NO cL T$weighted average of 184 |ms {I2} (2010Cl01, recoil-ce-ce(t));        
+254NO2cL 198 |ms {I13} (2010He10, recoil-ce(t)); 171 |ms {I9}                   
+254NO3cL (2006Ta19, summed electron decay curve)                                
+254NO cL J$configuration=(|p7/2[514]~#|p9/2[624]){-8-}(|n7/2[613]~#|n9/2[734])  
+254NO2cL {-8-},K|p=16+ (2010Cl01). In 2010He10, |n7/2[613] orbital is replaced  
+254NO3cL by |n7/2[624]                                                          
+254NO cL $See 2015Ko14 evaluation for |g-transition hindrance factors, where    
+254NO2cL the isomer is considered to deexcite directly through the 605|g        
+254NO  L 2339.4     9  18+                                                  A   
+254NOX L XREF=E                                                                 
+254NO  G   456.0   3                                                            
+254NO  L 2837.4    14 (20+)                                                 A   
+254NOX L XREF=E                                                                 
+254NO  G   498     1                                                            
+254NO  L 3373.4    17 (22+)                                                 A   
+254NOX L XREF=E                                                                 
+254NO  G   536     1                                                            
+254NO  L 3943.4    20 (24+)                                                 A  ?
+254NOX L XREF=E                                                                 
+254NO  G   570                                                                 ?

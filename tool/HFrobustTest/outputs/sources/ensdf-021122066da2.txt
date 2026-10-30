@@ -1,0 +1,175 @@
+213RA    ADOPTED LEVELS, GAMMAS                                  22NDS    202203
+213RA  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 181, 475 (2022)$CUT=1-Jan-2022$      
+213RA  Q -5795     157527    143427    136861.7  23    2021WA16                 
+213RA c  2011Ka30: Pt({+36}S,X), E=5.96 MeV/nucleon and W({+48}Ca,X), E=5.41    
+213RA2c  MeV/nucleon - measured differential cross section d|s/d|W.             
+213RA c  2002Mi20: Measured evaporation residue production cross section of     
+213RA2c  {+213}Ra, bombarding {+154}Sm target with {+64}Ni beam,                
+213RA3c  E=4-5 MeV/nucleon.                                                     
+213RA c  2009Ga07: Measured production cross section of {+213}Ra in the         
+213RA2c  {+209}Bi({+10}B,X) reaction, E(cm)=52-72 MeV.                          
+213RA cG E,RI,M,MR$From ({+13}C,4n|g), except where otherwise noted.            
+213RA cG E(A),RI(A),M(A)$From {+213}Ra IT decay (2.18 ms).                      
+213RA cG M(B)      In 2018Pa04 ({+13}C,4n|g) based on |g(|q) data M1, E1, E2,   
+213RA2cG and M1+E2 were assigned, evaluator list those as D, Q, D+Q.            
+213RA cL E         Deduced by the evaluator from a least square fit to the      
+213RA2cL |g-ray energies, except where otherwise noted.                         
+213RA cL J$Above 1770 level, spin-parity assignments are from ({+13}C,4n|g) -   
+213RA2cL 2018Pa04, based on proposed |g multipolarity from measured |g(|q) data 
+213RA3cL and deduced total conversion coefficients.                             
+213RA  XA217TH A DECAY                                                          
+213RA  XB213RA IT DECAY (2.18 MS)                                               
+213RA  XC204PB(13C,4NG)                                                         
+213RA DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+213RA PN                                                                     6  
+213RA  L 0.0          1/2-             2.73 M    5                              
+213RAX L XREF=ABC                                                               
+213RA2 L MOMM1=+0.610 2                                                         
+213RA2 L %A=86 2$ %EC+%B+=14 2                                                  
+213RA cL T         Weighted average of 2.74 min {I6} (1968Lo15), 2.75 min {I15} 
+213RA2cL (1967Va22), 2.7 min {I3} (1955Mo68), and 2.54 min {I+21-18}            
+213RA3cL (9247|a(t)) (2000Ni02 - also reported 2.7 min {I+21-8} (8713|a(t)) and 
+213RA4cL 2.5 min {I+12-6} (8429|a(t)). Other: 2.72 min (1961Gr42). All from     
+213RA5cL {+213}Ra |a decay measurements.                                        
+213RA cL J         spin measured (hyperfine structure by LASER spectroscopy,    
+213RA2cL 1983Ah03). Configuration: |n (p{-1/2}{+-1}) from measured |m.          
+213RA cL MOMM1$From 2019StZV, 1987Ar20 - Larmor precession, optical pumping by  
+213RA2cL LASER. Others: 0.62 {I3} (1983Ah03), 0.592 {I11} (1987We03).           
+213RA cL $%|a: Weighted average of 87 {I2} (2017Lo13) and 80 {I5} (1967Va22);   
+213RA2cL %|e+%|b = 100 - %|a.                                                   
+213RA  L 546.35    5  (5/2-)           21.5 PS   28                             
+213RAX L XREF=ABC                                                               
+213RA cL J         546.35|g (E2) to 1/2- g.s.; probable configuration:          
+213RA2cL |n (f{-5/2}{+-1}).                                                     
+213RA cL T         From |t=31 ps {I4} (2021Ge07 - ({+13}C,4n|g)), from |g gated 
+213RA2cL time difference measurements by Generalised Centroid Difference method.
+213RA  G 546.35    5  100      (E2)                    0.0315  4            A   
+213RAS G  KC=0.02125 30$LC=0.00763 11$MC=0.001945 27                            
+213RAS G  NC=0.000513 7$OC=0.0001131 16$PC=1.815E-5 25$QC=7.70E-7 11            
+213RAB G BE2W=6.9 +11-8                                                         
+213RA  L 820       6  (3/2-)                                                    
+213RAX L XREF=A                                                                 
+213RA cL E         Level energy calculated by the evaluator using Q(|a)         
+213RA2cL ({+217}Th) and E|a feeding this level.                                 
+213RA cL J         From systematics of {+211}Rn isotone.                        
+213RA  L 1608.85   21 (9/2-)                                                    
+213RAX L XREF=BC                                                                
+213RA cL J         1062.5|g (E2) to 5/2- state. Systematics of 9/2- levels in   
+213RA2cL nuclei with 125 neutrons (see 1976Ra37).                               
+213RA  G 1062.5    2  100      (E2)                    0.0080211            A   
+213RAS G  KC=0.00624 9$LC=0.001342 19$MC=0.000327 5                             
+213RAS G  NC=8.61E-5 12$OC=1.936E-5 27$PC=3.27E-6 5$QC=2.110E-7 30              
+213RA  L 1769.72   22 (13/2-)                                                   
+213RAX L XREF=BC                                                                
+213RA cL J         160.87|g to (9/2-) state is predominantly E2; no |g to       
+213RA2cL the (5/2-) state. Please see {+213}Ra IT decay (2.18 ms) dataset.      
+213RA  G 160.87    5  100      E2                      1.328  19            A   
+213RAS G  KC=0.2371 33$LC=0.802 11$MC=0.2174 31                                 
+213RAS G  NC=0.0575 8$OC=0.01227 17$PC=0.001801 25$QC=1.314E-5 18               
+213RA  L 1770      5  (17/2-)          2.18 MS   5                           M1 
+213RA dL E$Level energy held fixed In least-squares adjustment                  
+213RAX L XREF=BC                                                                
+213RA cL E$From {+213}Ra IT decay (2.18 ms)                                     
+213RA2 L MOMM1=7.4 4                                                            
+213RA2 L %A=0.6 4$ %IT=99.4 4                                                   
+213RA cL J         Measured g=0.87 {I5} (1994Ne01) value supports the           
+213RA2cL configuration: |p ([h{-9/2}{++2}]{-8+})~#|n (p{-1/2}{+-1})             
+213RA3cL for which the calculated magnetic moment, 7.672 {I33}, is in good      
+213RA4cL agreement with the measured g value (1994Ne01).                        
+213RA cL T         From IT decay.                                               
+213RA cL MOMM1$From 2019StZV, 1994Ne01 - Level Mixing Spectroscopy (LEMS).      
+213RA cL %A        From 2006Ku26. Other: 0.6 in 1976Ra37 (also |?1) - both in   
+213RA2cL the {+213}Ra IT decay (2.18 ms) dataset. %IT = 100 - %|a.              
+213RA  L 2287.50   10 (21/2-)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p(h{-9/2}{+6}){-8+}~#|nf{-5/2}{+-1}                   
+213RA  G 517.5     1  100      Q                                            B   
+213RAF G FL=1770                                                                
+213RA  L 2609.90   15 (23/2+)            18.7 NS 21                             
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-9/2}i{-13/2}]{-11-}~#|np{-1/2}{+-1}  
+213RA cL T$From (455|g+731|g)(322|g)(|Dt) measurements ({+13}C,4n|g) - 2018Pa04)
+213RA  G 322.4     1  100      (E1)                    0.0299  4                
+213RA cG $|a(exp)=0.11 {I5} (2018Pa04)                                          
+213RAB G BE1W=2.94E-7 +36-31                                                    
+213RAS G  KC=0.02418 34$LC=0.00438 6$MC=0.001042 15                             
+213RAS G  NC=0.000273 4$OC=6.10E-5 9$PC=1.021E-5 14$QC=6.70E-7 9                
+213RA  L 3065.3     4 (25/2+)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-9/2}i{-13/2}]{-10-}~#|nf{-5/2}{+-1}  
+213RA  G 455.4     4  100      D+Q                                          B   
+213RA  L 3136.6     3 (25/2-)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p(h{-9/2}{+6}){-12+}~#|np{-1/2}{+-1}                  
+213RA  G 849.1     3  100      Q                                            B   
+213RA  L 3281.1     5 (25/2-)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-17/2}f{-7/2}]{-12+}~#|np{-1/2}{+-1}  
+213RA  G 993.6     7  100      Q                                            B   
+213RA  L 3340.4     4 (27/2+)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-9/2}i{-13/2}]{-11-}~#|nf{-5/2}{+-1}  
+213RA  G 275.0     4   72    3 M1+E2     0.64    2     0.697  14                
+213RA cG $|a(exp)=0.99 {I8} (2018Pa04)                                          
+213RAS G  KC=0.539 11$LC=0.1190 19$MC=0.0291 4                                  
+213RAS G  NC=0.00768 12$OC=0.001730 27$PC=0.000293 5$QC=1.96E-5 4               
+213RA  G 730.5     5   100   5 Q                                            B   
+213RA  L 3345.60   22 (25/2-)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p(h{-9/2}{+6}){-10+}~#|nf{-5/2}{+-1}                  
+213RA  G 1058.1    2  100      Q                                            B   
+213RA  L 3433.2     3 (27/2-)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-21/2}f{-7/2}]{-13+}~#|np{-1/2}{+-1}  
+213RA  G 87.6      4                                                            
+213RA  G 152.1     5  18.7   16 M1+E2    0.7     3     3.7     6                
+213RA cG $|a(exp)=3.7 {I5} (2018Pa04)                                           
+213RAS G  KC=2.6 7$LC=0.81 6$MC=0.205 21                                        
+213RAS G  NC=0.054 6$OC=0.0120 11$PC=0.00195 11$QC=9.8E-5 24                    
+213RA  G 296.6     2  100.0  24 M1                     0.732  10                
+213RA cG $|a(exp)=0.96 {I9} (2018Pa04)                                          
+213RAS G  KC=0.589 8$LC=0.1081 15$MC=0.0258 4                                   
+213RAS G  NC=0.00680 10$OC=0.001552 22$PC=0.000271 4$QC=2.121E-5 30             
+213RA  L 3441.4     5 (29/2-)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-21/2}f{-7/2}]{-14+}~#|np{-1/2}{+-1}  
+213RA  G 304.8     8  100                                                       
+213RA  L 3863.8    11 (27/2+)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-13/2}i{-13/2}]{-13-}~#|np{-1/2}{+-1} 
+213RA  G 798.5     10  100                                                      
+213RA  L 3878.0     7 (29/2+)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-17/2}i{-13/2}]{-14-}~#|np{-1/2}{+-1} 
+213RA  G 436.7     8  100    8                                                  
+213RA  G 537.8     11  83    8 D                                            B   
+213RA  L 4006.9     5 (31/2+)                                                   
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-17/2}i{-13/2}]{-15-}~#|np{-1/2}{+-1} 
+213RA  G 565.5     2  100.0  17 D                                           B   
+213RA  G 666.5     4   24.4  10 Q                                           B   
+213RA  L 4047.7     7 (33/2+)            34.7 NS 21                             
+213RAX L XREF=C                                                                 
+213RA cL $Configuration: |p[(h{-9/2}{+5}){-21/2}i{-13/2}]{-16-}~#|np{-1/2}{+-1} 
+213RA cL T$From (455|g+731|g)(322|g)(|Dt) measurements (({+13}C,4n|g) -         
+213RA2cL 2018Pa04). Lifetime measured by (beam pulse)(566|g and 667|g)(t)       
+213RA3cL showed no difference.                                                  
+213RA  G 169.7     3  82     4 E2                      1.079  17                
+213RA cG $|a(exp)=1.3 {I2} (2018Pa04)                                           
+213RAB G BE2W=0.422 +31-28                                                      
+213RAS G  KC=0.2176 31$LC=0.634 10$MC=0.1717 28                                 
+213RAS G  NC=0.0454 7$OC=0.00969 16$PC=0.001426 23$QC=1.139E-5 17               
+213RA  G 606.3     5  100    6 [M2]                    0.277   4                
+213RAB G BM2W=0.103 8                                                           
+213RAS G  KC=0.2135 30$LC=0.0480 7$MC=0.01181 17                                
+213RAS G  NC=0.00313 4$OC=0.000713 10$PC=0.0001232 18$QC=9.25E-6 13             
+213RA  L 4047.7+X      (35/2+)                                                 ?
+213RA dL E$Level energy held fixed In least-squares adjustment                  
+213RAX L XREF=C                                                                 
+213RA  G  Y                                                                    ?
+213RAF G FL=4047.7                                                              
+213RA  L 4506.2+X      (37/2+)                                                 ?
+213RA dL E$Level energy held fixed In least-squares adjustment                  
+213RAX L XREF=C                                                                 
+213RA  G 458.7     6                                                           ?
+213RAF G FL=4047.7+X                                                            

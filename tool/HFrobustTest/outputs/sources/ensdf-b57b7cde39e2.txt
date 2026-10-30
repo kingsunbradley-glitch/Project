@@ -1,0 +1,224 @@
+243CM    ADOPTED LEVELS, GAMMAS                                  14NDS    201408
+243CM  H TYP=FUL$AUT=C.D. Nesaraja, E.A. McCutchan$CIT=NDS 121, 695 (2014)$     
+243CM2 H CUT=30-Sep-2013$                                                       
+243CM  Q -1508     5  5693.0 10 5575.1 10 6168.8  10   2012WA38                 
+243CM cQ $S(2n)=12662.4 {i16}; S(2p)=10351.1 {i10} (2012Wa38)                   
+243CM c                                                                         
+243CM c  First identification: 1950Re55 using {+241}Am(n,|g){+242m}Am, |b       
+243CM2c  decay to {+242}Cm and then subsequent {+242}Cm(n,|g) followed by       
+243CM3c  chemical separation and mass-spectrograph identification.              
+243CM c                                                                         
+243CM c  Theoretical studies and systematics:                                   
+243CM c                                                                         
+243CM c  2013Zd01: T{-1/2} for |a decay calculated with phenomenological model  
+243CM2c  based on Gamow theory with WKB approximation for Coulomb barrier       
+243CM3c  penetration.                                                           
+243CM c  2012Ba35: T{-1/2} for {+34}Si cluster decay calculated with            
+243CM2c  generalized liquid drop model.                                         
+243CM c  2012Ku29: T{-1/2} for {+34}Si cluster decay calculated with different  
+243CM2c  nuclear proximity potentials                                           
+243CM c  2012Ni16: T{-1/2} and branching ratios calculated with Multichannel    
+243CM2c  cluster model.                                                         
+243CM c  2012Ro34: T{-1/2} and fission barriers calculated with a generalized   
+243CM2c  liquid drop model.                                                     
+243CM c  2012Sa31: T{-1/2} for {+34}Si cluster decay calculated with a Coulomb  
+243CM2c  and Proximity Potential model.                                         
+243CM c  2012Ta10: T{-1/2} for cluster decay calculated with a semi-empirical   
+243CM2c  model.                                                                 
+243CM c  2012Zh01: |b{-2}, |b{-4}, moment of inertia, and alignments            
+243CM2c  calculated with a particle conserving method based on the cranked      
+243CM3c  shell model.                                                           
+243CM c  2011Ad15: calculations of one-quasi-particle states                    
+243CM c  2011Es05: calculated shape isomer yield for |a + {+239}Pu reaction.    
+243CM c  2011Sh13: calculated cluster T{-1/2} using effective liquid drop       
+243CM2c  model.                                                                 
+243CM c  2011Zh36: partial |a decay T{-1/2} to members of favored bands         
+243CM2c  calculated with microscopic tunneling theory                           
+243CM c  2010Ni02,2010Ni13: T{-1/2}, branching ratios and cluster               
+243CM2c  performation factors calculated with generalized density dependent     
+243CM3c  cluster model.                                                         
+243CM c  2007Ro08: calculated T{-1/2} using generalized liquid drop model.      
+243CM c  2006Sh19: levels, J|p, rotational bands, dipole and quadrupole         
+243CM2c  moments calculated with a cluster model.                               
+243CM c  2005Pa73: neutron single particle energies calculated with a           
+243CM2c  microscopic-macroscopic approach; T{-1/2}(SF) calculated with          
+243CM3c  Swiatecki formula and extensions.                                      
+243CM c  2005Re16,1990Bh02: calculation of spontaneous fission half-lives of    
+243CM2c  ground and isomeric states.                                            
+243CM c  2004Ro01: analysis of spontaneous-fission half-lives relative to       
+243CM2c  liquid drop model predictions                                          
+243CM c  2004Sa55: analysis of shape isomer excitation energies.                
+243CM c  2002Si26: compilation and evaluation of fission isomer data.           
+243CM c  1997Ro12: systematic study of spontaneous fission half-lives           
+243CM c  1996St28,1994Du03: calculation of hindrance factors and intensities    
+243CM2c  of alphas from {+243}Cm ground state to the favored band in {+239}Pu;  
+243CM3c  1996St28 also calculates anisotropy for this favored |a decay.         
+243CM c  1994Du03: structure of the ground state calculated using an enlarged   
+243CM2c  superfluid model.                                                      
+243CM c  1991Bl07: calculation of partial T{-1/2} for decay by {+34}Si          
+243CM2c  emission.                                                              
+243CM c  1990Bh02,1989Eg01,1987Gu03,1984Ku05,1981Re06,1980Ku14,1976Ga11,        
+243CM2c  1972We09,1971Br39: calculations of fission-barrier parameters.         
+243CM c  1990Ig01,1989Eg01: fission barrier parameters deduced from analysis    
+243CM2c  of {+242}Cm(n,|g) cross sections.                                      
+243CM c  1985Lo17,1978Po09: calculation of spontaneous fission half-life of     
+243CM2c  ground state.                                                          
+243CM c  1984Ku05: fast-neutron induced fission cross-sections calculated and   
+243CM2c  fission-barrier heights deduced from comparison with data.             
+243CM c  1982Be62: evaluation of fast neutron-induced reaction data.            
+243CM c  1981Re06: fission-barrier heights calculated from an analysis of       
+243CM2c  fission probabilities deduced from induced fission reactions.          
+243CM c  1980Ku14: study of dependence of fission barriers and                  
+243CM2c  |g(n)/|g(fission) on neutron number.                                   
+243CM c  1979Is04: compilation of |g(n)/|g(fission) data.                       
+243CM c  1976Ga11: fission-barrier heights and |g(n)/|g(f) deduced from         
+243CM2c  measurements of fission probability in ({+3}He,df) and ({+3}He,tf)     
+243CM3c  reactions.                                                             
+243CM c  1974Ma17: calculation of level density at the neutron binding energy.  
+243CM c  1972Ah03: calculation of surface distributions of alpha particles.     
+243CM c  1971Ko31: calculation of level energies with various possible          
+243CM2c  configurations.                                                        
+243CM c  1969Po05: calculation of intensities of favored and hindered           
+243CM2c  alpha-transitions to various bands.                                    
+243CM D  CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+243CM cL E$From {+244}Cm(d,t), except where noted.                              
+243CM cL J$From {+244}Cm(d,t), except where noted. Assignments were made from   
+243CM2cL comparison of experimental cross sections with those expected from     
+243CM3cL theory with cross sections measured at |q=140|' and 90|'.              
+243CM CL BAND(A)$5/2[622] BAND. A=5.5.                                          
+243CM CL BAND(B)$1/2[631] BAND.                                                 
+243CM CL BAND(D)$7/2[624] BAND. A=5.7.                                          
+243CM CL BAND(E)$1/2[501] BAND HEAD.                                            
+243CM  XA247CF A DECAY                                                          
+243CM  XB243BK EC DECAY                                                         
+243CM  XC244CM(D,T)                                                             
+243CM  L 0.0          5/2+              29.1 Y    1                         A   
+243CMX L XREF=ABC                                                               
+243CM2 L %EC=0.29 3$%A=99.71 3$%SF=5.3E-9 9                                     
+243CM cL $|m=0.40 {I8} (from 1973Ab03 with the uncertainty recommended by       
+243CM2cL 2011StZZ)                                                              
+243CM cL J$spin was measured by 1973Ab03 (electron paramagnetic resonance).     
+243CM2cL Orbital assignments are from measured |m values and (d,t) data         
+243CM cL T$recommended by 1989Ho24 from weighted average of the revised values  
+243CM2cL of 1986Ti03 and 1958Ch38. T{-1/2}=29.20 y {I12} obtained by 1986Ti03   
+243CM3cL from relative {+244}Cm and {+243}Cm |a activities using                
+243CM4cL T{-1/2}({+244}Cm)=18.11 y {I2}. T{-1/2}=29.0 y {I8} obtained by        
+243CM5cL 1958Ch38 from |a activities of {+243}Cm and {+244}Cm using             
+243CM6cL T{-1/2}({+244}Cm)=18.4 y {I5}. A correction by the evaluators to the   
+243CM7cL value of 1958Ch38 using the adopted T{-1/2}({+244}Cm)=18.1 y {I1}      
+243CM8cL (2003Ak04) yields T{-1/2}({+243}Cm)=28.5 y {I8}.                       
+243CM cL %EC$calculated by the evaluators from T{-1/2}(|e)=1.0|*10{+4} y {I1},  
+243CM2cL as obtained by 1958Ch38 from ratio of {+243}Am and {+243}Cm |a         
+243CM3cL activities (correction for the adopted T{-1/2}'s of {+243}Am and       
+243CM4cL {+243}Cm does not change the |e decay half-life), and from total       
+243CM5cL half-life of 29.1 y {I1}.                                              
+243CM cL %SF$from T{-1/2}(SF)=5.5|*10{+11} y {I9}, measured by 1987Po19 from    
+243CM2cL SF and |a activities, and total half-life of 29.1 y {I1}.              
+243CM cL MOMM1$estimated from EPR in 1973Ab03, relative to |m of {+241}Am.      
+243CM2cL Compiled by 2011StZZ.                                                  
+243CM  L 42        2  7/2+                                                  A   
+243CMX L XREF=C                                                                 
+243CM  L 87.4      1  1/2+              1.08 US   3                         B   
+243CMX L XREF=BC                                                                
+243CM cL J$E2 87.4|g to 5/2+; assignment in (d,t)                               
+243CM cL T$from (K x-ray)(ce 87.4|g)(t) in {+243}Bk |e decay.                   
+243CM cL E$from 87.4 {I1} |g-ray to ground state.                               
+243CM  G 87.4      1  100       E2                      35.1                    
+243CMS G LC=25.4 4$MC=7.18 11$NC=2.00 3                                         
+243CMS G OC=0.483 8$PC=0.0800 12$QC=0.000296 5                                  
+243CMB G BE2W=0.0316 10                                                         
+243CM cG M$from ce data in {+243}Bk |e decay.                                   
+243CM cG E$from {+243}Bk |e decay                                               
+243CM  L 94        2  9/2+                                                  A   
+243CMX L XREF=C                                                                 
+243CM cL E$assumed doublet consisting of the 9/2+ member of the 5/2[622] band   
+243CM2cL and the 3/2+ member of the 1/2[631] band.                              
+243CM  L 94        2  3/2+                                                  B   
+243CMX L XREF=C                                                                 
+243CM cL E$assumed doublet consisting of the 9/2+ member of the 5/2[622] band   
+243CM2cL and the 3/2+ member of the 1/2[631] band.                              
+243CM  L 114       20 (7/2+)                                                D   
+243CMX L XREF=A(95)C(133)                                                       
+243CM cL E$no K x-rays were observed in coincidence with the |a transition      
+243CM2cL feeding the level. The level energy, therefore, must be less than the  
+243CM3cL K-binding energy of 128 keV. E(level) is unweighted average of 133     
+243CM4cL keV {I4} in (d,t) and 95 keV {I16} in {+247}Cf |a decay derived from   
+243CM5cL Q(|a) and measured E|a.                                                
+243CM cL J$unhindered |a decay from probable 7/2[624] ground state of {+247}Cf  
+243CM2cL and assignment in (d,t).                                               
+243CM  L 153       2  (11/2+)                                               A   
+243CMX L XREF=C                                                                 
+243CM cL J$tentative assignment as 11/2+ member of 5/2[622] band in (d,t)       
+243CM  L 164       2  (9/2+)                                                D   
+243CMX L XREF=AC                                                                
+243CM cL E$other: 154 keV {I16} from Q(|a) and measured E|a in {+247}Cf |a      
+243CM2cL decay.                                                                 
+243CM cL J$population in |a decay from the probable 7/2[624] ground state of    
+243CM2cL {+247}Cf and assignment in (d,t)                                       
+243CM  L 219       3  (13/2+)                                               A   
+243CMX L XREF=C                                                                 
+243CM cL J$tentative assignment as 13/2+ member of 5/2[622] band in (d,t)       
+243CM  L 228       3  (11/2+)                                               D   
+243CMX L XREF=C                                                                 
+243CM cL J$tentative assignment as 11/2+ member of 7/2[624] band in (d,t)       
+243CM  L 260       2  (9/2+)                                                B   
+243CMX L XREF=C                                                                 
+243CM  L 530       3                                                            
+243CMX L XREF=C                                                                 
+243CM cL J$suggested J|p=(15/2-) and 7/2[743] band member in (d,t)              
+243CM  L 729       2  1/2-                                                  E   
+243CMX L XREF=C                                                                 
+243CM  L 769       2                                                            
+243CMX L XREF=C                                                                 
+243CM cL E$assumed doublet in (d,t)                                             
+243CM cL J$suggested J|p= (3/2-) and (5/2-) in (d,t) assuming doublet           
+243CM2cL corresponds to the 3/2- and 5/2- members of the 1/2[501] band.         
+243CM  L 798       2                                                            
+243CMX L XREF=C                                                                 
+243CM cL J$suggested J|p=(5/2+) and 3/2[631] band member in (d,t)               
+243CM  L 842       2                                                            
+243CMX L XREF=C                                                                 
+243CM  L 860       4                                                           ?
+243CMX L XREF=C                                                                 
+243CM  L 892       2                                                            
+243CMX L XREF=C                                                                 
+243CM cL J$suggested J|p=(9/2+) and 3/2[631] band member in (d,t)               
+243CM  L 904       3                                                            
+243CMX L XREF=C                                                                 
+243CM  L 930       4                                                            
+243CMX L XREF=C                                                                 
+243CM  L 973       2                                                            
+243CMX L XREF=C                                                                 
+243CM  L 1015      3                                                            
+243CMX L XREF=C                                                                 
+243CM  L 1023      2                                                            
+243CMX L XREF=C                                                                 
+243CM  L 1046      4                                                            
+243CMX L XREF=C                                                                 
+243CM  L 1136      2                                                            
+243CMX L XREF=C                                                                 
+243CM cL J$suggested J|p=(5/2-) as 5/2[503] bandhead in (d,t)                   
+243CM  L 1217      3                                                            
+243CMX L XREF=C                                                                 
+243CM  L 1222      4                                                            
+243CMX L XREF=C                                                                 
+243CM  L 1359      3                                                            
+243CMX L XREF=C                                                                 
+243CM  L 1367      4                                                            
+243CMX L XREF=C                                                                 
+243CM  L 1.9E+3    3                    42 NS     6                             
+243CM2 L %SF LE 100                                                             
+243CM cL $Spontaneously fissioning shape isomer, only SF decay has been         
+243CM2cL observed.                                                              
+243CM cL T$from 1972Wo05. Measured values are: 45 ns (1969Me11), 38 ns {I10}    
+243CM2cL (1970Po01), 45 ns {I20} (1971Re11), 40 ns (1972Ga42,1974GaZD), 42 ns   
+243CM3cL {I6} (1972Wo07).                                                       
+243CM cL $See 1977VaZW and 1980Bj02 for reviews of SF isomers. See also         
+243CM2cL 1973PoZA for compilation of experimental half-lives.                   
+243CM cL E$recommended by 1980Bj02.                                             
+243CM cL $E=1500 {I200} was deduced by 1973Br04 from {+242}Pu(|a,3n)            
+243CM2cL excitation function and T{-1/2}(level) using a statistical model.      
+243CM3cL Some calculated level energies are: E=1400 (1990Bh02), 1850            
+243CM4cL (1972We09), 2000 {I300} (1971Br39).                                    
+243CM cL $Assignment: {+243}Am(d,2n) (1970Po01,1971Re11); {+242}Pu(|a,3n)       
+243CM2cL excit (1971Br39).                                                      

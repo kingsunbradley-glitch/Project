@@ -1,0 +1,264 @@
+239PU    243CM A DECAY                                           14NDS    201411
+239PU  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 122, 293 (2014)$             
+239PU2 H CUT=30-Jun-2013$                                                       
+239PU c  See also the evaluation from the                                       
+239PU2c  Decay Data Evaluation Project (ddep) (2012Ch30)                        
+239PU c  |a|g: 1953As14, 1963Le17, 1966Ba07, 1977VaZW.                          
+239PU c  |a|g(|q): 1963Fl01.                                                    
+239PU c  (L| x ray)(|g)(|q): 1975Za11.                                          
+239PU c  (K| x ray)(L| x ray)(|q): 1974Ma27.                                    
+239PU cA E$From 1966Ba07 (s), unless otherwise specified. 1966Ba07 reported     
+239PU2cA uncertainties of 1 keV near their alpha calibration lines of           
+239PU3cA 5167.7 ({+240}Pu), 5498.8 ({+238}Pu), 5806.1 ({+244}Cm), and 2-3 keV   
+239PU3cA elsewhere. Others: 1953As14, 1957As70, 1957As83, 1962Iv01, 1963Le17,   
+239PU4cA 1963Dz07, 1970By01, 1971Bb10, 1976BaZZ, 1977VaZW.                      
+239PU cA IA$From 1966Ba07, unless otherwise specified.                          
+239PU2cA Others: 1976BaZZ, 1963Dz07, 1963Le17.                                  
+239PU cA HF        Using r{-0}({+239}Pu)=1.4996, average of                     
+239PU2cA r{-0}({+238}Pu)=1.5013 {I10} and r{-0}({+240}Pu)=1.4979 {I7}           
+239PUxcA (1998Ak04).                                                            
+239PU cA E(R),IA(R)$From 1979Ry03 and 1991Ry01                                  
+239PU DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+239PU DG CC$From BRICC (Sept. 10, 2013) E. Browne                               
+239PU tG           x-rays(Pu):                                                  
+239PU2tG                                                                        
+239PU3tG   E|g        I|g(%|a)                  Calculated                      
+239PU4tG (1972Ah02) (1972Ah02)               (RADLST)                           
+239PU5tG ---------- ----------               --------                           
+239PU6tG                                                                        
+239PU7tG  99.536     13.5 {I5}    K|a{-2}| x ray     12.5 {I5}                  
+239PU8tG 103.750     20.8 {I8}    K|a{-1}| x ray     19.8 {I8}                  
+239PU9tG 117.1        7.6 {I3}    K|b{-1}'| x ray     9.8 {I4} (K|b| x ray)     
+239PUAtG 120.6        2.6 {I1}    K|b{-2}'| x ray                               
+239PU tG $The agreement between measured and calculated K| x ray supports       
+239PU2tG the experimental |g-ray intensities and assigned multipolarities.      
+239PU cG E         Measurements of 1959Ew90 (s ce), 1965Ma17 (cryst),           
+239PU2cG 1972Po04 (s ce, semi), and 1979Bo30 (cryst), and 1982Ah04 (semi)       
+239PU3cG observed in {+239}Np and {+239}Am decays, except as noted. Other       
+239PU4cG measurements: 1953As14 (scin), 1955Sc08 (s ce), 1956Ne17 (pc, scin),   
+239PU5cG 1964Ba31 (|a|g, semi).                                                 
+239PU cG RI        From 1972Ah02. Photon intensity per 100 |a decays. Other     
+239PU2cG measurements: 1956Ne17, 1964Ba31.                                      
+239PU cG E(S)      Transition was not observed in {+243}Cm |a decay. E|g is     
+239PU2cG from the decay of {+239}Np and {+239}Am.                               
+239PU cG E(X)      From 1963Le17 (|a|g and (|a)(ce) coin).                      
+239PU cG M,MR$From ce data in {+239}Am, {+239}Np, and {+243}Cm decays; and      
+239PU2cG |g(|q) measurements by 1972Kr07, 1990Si12 from polarized {+239}Np,     
+239PU3cG unless otherwise specified.                                            
+239PU cL J         From adopted levels                                          
+239PU cL E$Deduced by evaluator from a least-squares fit to |g-ray energies.    
+243CM  P 0.0          5/2+             28.9 Y    4              6168.8    10    
+243CM cP QP$From 2012Wa38                                                       
+243CM cP T$Recommended in 2012Ch30, weighted average (using the Limited         
+243CM2cP Statistical Weight method) of 29.0 y {I8} (1958Ch38) and 29.20 y {I12} 
+243CM3cP (1986Ti03). Other value: 29.1 y {I1} (1989Ho24).                       
+239PU  N 1.0         1.0       0.9971  3                                        
+239PU cN NR$from 1972Ah02.                                                      
+239PU  A 5607                                                                  ?
+239PU  A 5713      5  0.04   LE                                                ?
+239PU cA           From 1963Dz07 (s).                                           
+239PU  G 640       AP                                                       X  ?
+239PU cG           Uncertain transition                                         
+239PU  G 680       AP                                                       X   
+239PU  G 720       AP                                                       X   
+239PU  G 740       AP                                                       X   
+239PU  G 760       AP                                                       X   
+239PU  L 0.0          1/2+                                                      
+239PU  A 6066.2    17 1.5    2  1920                                        R   
+239PU  L 7.8607    20 3/2+                                                      
+239PU  A 6058      1  4.7    3  559                                         R   
+239PU cA           I|a|?6%, deduced by evaluator from |g-ray transition         
+239PU2cA intensity balance.                                                     
+239PU  G 7.860     3  0.015  APM1+E2     0.055   3     5.7E3  4  85       APS  S
+239PUS G M/T=0.74 4$N+/T=0.261 20                                               
+239PUS G N/T=0.203 17$O/T=0.049 5$P/T=0.0083 7$Q/T=0.000286 19                  
+239PU cG TI        deduced by evaluator from |g-ray and |a-particle transition  
+239PU2cG intensity balance at 7.86-keV level. I(|g+ce)(7.86|g)=I(|g+ce)(49|g) + 
+239PU3cG I(|g+ce)(67|g) + I(|g+ce)(277|g) + I|a(6058|a)|?85%                    
+239PU cG RI        deduced by evaluator from I(|g+ce)(7.86|g)|?85% and |a=5700  
+239PUxcG {I400}.                                                                
+239PU  L 57.2750   20 5/2+                                                      
+239PU  A 6010         1.1       1350                                            
+239PU  G 49.412    4  0.2    APM1+E2     0.50    3     126    8             S  S
+239PU cG RI$From decay scheme and transition intensity balance.                 
+239PUS G LC=92 6$MC=24.8 17$NC+=8.7 6                                           
+239PUS G NC=6.8 5$OC=1.62 11$PC=0.269 17$QC=0.00592 13                          
+239PU  G 57.273    4  0.05   APE2                      222                  @   
+239PUS G LC=161.1 23$MC=45.0 7$NC+=15.73 22                                     
+239PUS G NC=12.36 18$OC=2.91 4$PC=0.457 7$QC=0.001109 16                        
+239PU cG RI        |g ray placed twice in level scheme. I|g=0.14 {I1}           
+239PU2cG was measured for the doublet. I|g from transition intensity balance    
+239PU3cG at 57-keV level.                                                       
+239PU4cG I(|g+ce)(228|g) + I(|g+ce)(272|g) + I(|g+ce)(334|g) + I|a(6010) -      
+239PUxcG I(|g+ce)(49|g)|?0.06%.                                                 
+239PU  L 75.7055   23 7/2+                                                      
+239PU  A 5991.8    15 5.7    2  211                                         R   
+239PU cA           I|a|?7%, deduced by evaluator from |g-ray transition         
+239PU2cA intensity balance.                                                     
+239PU  G 18.43     CA          (M1+E2)                                         S
+239PU cG           ce lines were obscured by Auger lines in {+239}Am decay; an  
+239PU2cG upper limit of 3% for its transition intensity was given by 1972Po04.  
+239PU  G 67.841    7 0.20    5 E2                      98.5                 S  S
+239PU cG RI$From decay scheme and transition intensity balance.                 
+239PUS G LC=71.5 10$MC=20.0 3$NC+=6.99 10                                       
+239PUS G NC=5.50 8$OC=1.293 19$PC=0.204 3$QC=0.000543 8                         
+239PU  L 163.755   23 9/2+                                                      
+239PU  A 5907      3  0.1       4260                                            
+239PU cA           I|a=0.11% {I2}, deduced by evaluator from |g-ray transition  
+239PU2cA intensity balance.                                                     
+239PU  G 88.06     3  0.0016   M1+E2     0.50          12.26                S  S
+239PUS G LC=9.07 13$MC=2.36 4$NC+=0.830 12                                      
+239PUS G NC=0.645 9$OC=0.1563 22$PC=0.0274 4$QC=0.001050 15                     
+239PU cG RI$from I|g(88.06)/I|g(106.47)=0.12 {i5}, from {+239}Np |b{+-} decay.  
+239PU  G 106.47    4  0.0136   E2                      11.80                S  S
+239PUS G LC=8.56 12$MC=2.40 4$NC+=0.839 12                                      
+239PUS G NC=0.659 10$OC=0.1553 22$PC=0.0248 4$QC=9.29E-5 13                     
+239PU cG RI$from intensity balance at 163.76 level.                             
+239PU  L 192.8     10 11/2+                                                     
+239PU  A 5876      3  0.7       430                                             
+239PU  G 117.1     CA                                                          S
+239PU  L 285.4594  17 5/2+               1.2 NS  AP                             
+239PU cL T         from 1956St23                                                
+239PU  A 5785.2    9  73.2   23 1.33                                        R   
+239PU cA           I|a=72% {I3}, deduced by evaluator from |g-ray transition    
+239PU2cA intensity balance.                                                     
+239PU  G 209.753   2  3.30   10M1+E2     0.37    8     2.93   13             C  
+239PUS G KC=2.27 12$LC=0.499 9$MC=0.1231 18$NC+=0.0435 7                        
+239PUS G NC=0.0335 5$OC=0.00830 13$PC=0.00156 3$QC=9.3E-5 5                     
+239PU cG MR$from |a(K)exp=2.42 {I14}; |a(L12)exp=0.488 {I15} (1991Sh06). Other  
+239PU2cG value: |d=-0.004 {I+1-24} from |g(|q) (1972Kr07,1990Si12).             
+239PU  G 228.183   2  10.6   3 M1+E2     0.28    7     2.41   9              C  
+239PUS G KC=1.88 8$LC=0.395 7$MC=0.0967 15$NC+=0.0342 6                         
+239PUS G NC=0.0263 4$OC=0.00653 11$PC=0.001233 23$QC=7.7E-5 3                   
+239PU cG MR$from |a(K)exp=2.01 {I7}; |a(M)exp=0.0968 {I59} (1991Sh06). Other    
+239PU2cG value: |d=+0.001 {I+9-1} from |g(|q) (1972Kr07,1990Si12).              
+239PU  G 277.599   2  14.0   4 M1+E2     0.23    10    1.42   7              C  
+239PUS G KC=1.12 6$LC=0.228 6$MC=0.0555 13$NC+=0.0196 5                         
+239PUS G NC=0.0151 4$OC=0.00375 9$PC=0.000711 19$QC=4.53E-5 22                  
+239PU cG MR$from |a(K)exp=1.19 {I5}; |a(L12)exp=0.238 {I10}, |a(M)exp=0.0579    
+239PU2cG {I29} (1991Sh06). Other value: |d=+0.165 {I2}, from |g(|q)             
+239PUxcG (1972Kr07,1990Si12).                                                   
+239PU  G 285.460   2  0.73   2 E2                      0.247                    
+239PUS G KC=0.0843 12$LC=0.1190 17$MC=0.0326 5$NC+=0.01145 16                   
+239PUS G NC=0.00896 13$OC=0.00213 3$PC=0.000356 5$QC=4.99E-6 7                  
+239PU  L 330.124    3  7/2+                                                     
+239PU  A 5742.1    9  11.5   5  4.89                                        R   
+239PU cA           I|a=9.5% {I21}, deduced by evaluator from |g-ray transition  
+239PU2cA intensity balance.                                                     
+239PU  G 44.663    5  0.13   2 M1+E2     0.20    3     86     8                 
+239PUS G LC=64 6$MC=16.2 17$NC+=5.7 6                                           
+239PUS G NC=4.4 5$OC=1.08 11$PC=0.193 17$QC=0.00902 15                          
+239PU cG RI        deduced from I|g(44.66|g)/I|g(254.4|g)=0.13 {I1}/0.11 {I6},  
+239PU2cG as observed in {+239}Np |b{+-} decay (1982Ah04), and I|g(254.4|g)=0.11 
+239PUxcG {I1}.                                                                  
+239PU  G 166.39    6  0.012  3 M1                      6.22                 S  S
+239PUS G KC=4.91 7$LC=0.984 14$MC=0.239 4$NC+=0.0846 12                         
+239PUS G NC=0.0651 10$OC=0.01621 23$PC=0.00308 5$QC=0.000202 3                  
+239PU cG RI        deduced from I|g(166.39|g)/I|g(254.4|g)=0.111 {I23}, using   
+239PU2cG I(ce(L1))(166.39|g)/I(ce(K))(254.4|g)=7 {I1}/105 {I15} from {+239}Am   
+239PU3cG |e decay (1959Ew90), and the following theoretical conversion          
+239PU4cG coefficients: |a(L1)(166.39|g; M1)=0.932, and |a(K)(254.4|g;           
+239PUxcG M1+E2)=1.457                                                           
+239PU  G 254.40    3  0.11   1 M1+E2     -0.159  6     1.85                     
+239PUS G KC=1.457 21$LC=0.294 5$MC=0.0716 10$NC+=0.0253 4                       
+239PUS G NC=0.0195 3$OC=0.00485 7$PC=0.000920 13$QC=5.93E-5 9                   
+239PU  G 272.87    9  0.08   1 M1+E2     +0.165  9     1.518                    
+239PUS G KC=1.198 18$LC=0.241 4$MC=0.0588 9$NC+=0.0208 3                        
+239PUS G NC=0.01599 23$OC=0.00397 6$PC=0.000754 11$QC=4.86E-5 7                 
+239PU  G 322.3     2  0.007  1 [E2]                    0.1699                   
+239PUS G KC=0.0679 10$LC=0.0745 11$MC=0.0203 3$NC+=0.00713 11                   
+239PUS G NC=0.00557 8$OC=0.001329 19$PC=0.000224 4$QC=3.73E-6 6                 
+239PU  L 387.419   20 9/2+                                                      
+239PU  A 5686         1.6       17.1                                            
+239PU cA           I|a|?2.5% {I1}, deduced by evaluator from |g-ray transition  
+239PU2cA intensity balance.                                                     
+239PU  G 57.30        0.09   AP[M1+(E2)]               28.6   5             @   
+239PUS G LC=21.5 4$MC=5.4 8$NC+=1.428 21                                        
+239PUS G NC=7 6$OC=1.6 13$PC=0.26 20$QC=0.0028 17                               
+239PU cG RI$from I|g(doublet)=0.14% {I1} and I|g(57|g, 57-keV level)|?0.05%.    
+239PU cG E         from E(level) difference. E=57.273 {I4} measured             
+239PU2cG for the doublet                                                        
+239PU cG CC        for M1. Transition intensity balance at 387-keV level and    
+239PU2cG theoretical |a(E2)=221 suggest a negligibly small E2 admixture.        
+239PU  G 101.96    2  0.008  CAE2                      14.42                S  S
+239PUS G LC=10.46 15$MC=2.93 5$NC+=1.026 15                                     
+239PUS G NC=0.805 12$OC=0.190 3$PC=0.0302 5$QC=0.0001088 16                     
+239PU cG RI        from I|g(101.96|g)/I|g(311.7|g)|?8/17, as                    
+239PU2cG deduced by 1972Po04 in {+239}Am |e decay.                              
+239PU  G 311.7     2  0.017  2 [M1+E2]   0.2     LE    1.057  23                
+239PUS G KC=0.835 19$LC=0.167 3$MC=0.0406 7$NC+=0.01434 24                      
+239PUS G NC=0.01104 19$OC=0.00275 5$PC=0.000522 9$QC=3.38E-5 8                  
+239PU cG MR        assumed by evaluator.                                        
+239PU  L 391.5847  22 7/2-                                                      
+239PU  A 5682      3  0.2       130                                             
+239PU cA           I|a=0.41% {I4}, deduced by evaluator from |g-ray transition  
+239PU2cA intensity balance.                                                     
+239PU  G 4.2       CA           [E1]                                           S
+239PU  G 61.460    2  0.015  2 E1                      0.473                S  S
+239PUS G LC=0.354 5$MC=0.0881 13$NC+=0.0300 5                                   
+239PUS G NC=0.0236 4$OC=0.00553 8$PC=0.000871 13$QC=2.87E-5 4                   
+239PU cG RI        deduced from I|g(61.46|g)/I|g(334.31|g)=129 {I2}/207 {I3},   
+239PU2cG which was recommended by 1986LoZT, and from {+239}Np |b{+-} decay.     
+239PU  G 106.125   2  0.31   3 E1(+M2)   -0.007  7     0.26   3             S  S
+239PU DG $LC=0.088 8$MC=0.0216 21$NC+=0.0074 8                                  
+239PU2DG NC=0.0058 6$OC=0.00139 15$PC=0.00023 3$QC=9.4E-6 15                    
+239PU cG CC$experimental anomalous conversion coefficient (1959Ew90).           
+239PU2cG Other: 1957Ew30                                                        
+239PU cG RI        deduced from I|g(106.12|g)/I|g(334.31|g)=27.2 {I4}/2.07 {I3},
+239PU2cG as measured in {+239}Np |b{+-} decay.                                  
+239PU  G 315.880   3  0.018  2 E1(+M2)   +0.008  8     0.0372 9                 
+239PUS G KC=0.0294 6$LC=0.00583 16$MC=0.00141 4$NC+=0.000493 15                 
+239PUS G NC=0.000382 12$OC=9.3E-5 3$PC=1.69E-5 6$QC=8.9E-7 3                    
+239PU  G 334.310   3  0.024  2 E1(+M2)   +0.006  6     0.0329 6                 
+239PUS G KC=0.0261 5$LC=0.00511 10$MC=0.001238 24$NC+=0.000432 9                
+239PUS G NC=0.000334 7$OC=8.18E-5 16$PC=1.48E-5 3$QC=7.91E-7 17                 
+239PU  L 427       3                                                           ?
+239PU  A 5646         0.03      553                                            ?
+239PU  L 434       3  (9/2-)                                                    
+239PU  A 5639      3  0.14      108                                             
+239PU  L 451       5                                                           ?
+239PU  A 5622         0.06      203                                            ?
+239PU  L 462       3  (11/2+)                                                   
+239PU  A 5612      3  0.03   AP  353   AP                                       
+239PU  L 469.8     4  (1/2-)                                                    
+239PU cL E$from adopted levels                                                  
+239PU  A 5609      3  0.01   LE  957   GE                                       
+239PU cA IA        I(5609|a + 5607|a)=0.01 was measured by 1966Ba07.            
+239PU  G 461.9     5                                                        S  S
+239PU  G 469.8     5                                                        S  S
+239PU  L 481       3                                                           ?
+239PU  A 5593      3  0.01      828                                            ?
+239PU  L 487       3  (11/2-)                                                   
+239PU  A 5587      3  0.02   AP 383    AP                                       
+239PU  L 492.1     3   3/2-                                                     
+239PU  A 5582      3  0.009  AP 797    AP                                       
+239PU  G 434.7     5                                                        S  S
+239PU  G 484.3     5                                                        S  S
+239PU  G 492.3     5                                                        S  S
+239PU  L 499       3                                                           ?
+239PU  A 5575      3  0.007     937                                            ?
+239PU  L 505.56    20 (5/2-)                                                    
+239PU  A 5568      3  0.007     861                                             
+239PU  G 430.0     3                                                        S  S
+239PU  G 447.6     5                                                        S  S
+239PU  G 497.8     3                                                        S  S
+239PU  L 538       3                                                            
+239PU  A 5537      3  0.002     1970                                            
+239PU  L 543       3                                                           ?
+239PU  A 5532      3  0.006     614                                            ?
+239PU  L 556.2     5  (7/2-)                                                    
+239PU cL E$from adopted levels; from E|a E(level)=552 {I3}                      
+239PU  A 5523      3  0.002     1550                                            
+239PU  G 392.4     5                                                        S  S
+239PU  G 499                                                                S  S
+239PU  L 746       3                                                            
+239PU  A 5332      3  0.003     78.4                                            
+239PU  L 756       3                                                            
+239PU  A 5323      3  0.003     68.1                                            
+239PU  L 763       3                                                            
+239PU  A 5316      3  0.001     185                                             
+239PU  L 813       3                                                            
+239PU  A 5267      3  0.0015    61.0                                            
+239PU  L 850       15                                                           
+239PU  A 5226      15 0.00039   138                                             
+239PU cA E         from 1963Le17 (|a|g semi).                                   

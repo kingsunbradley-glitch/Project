@@ -1,0 +1,60 @@
+250CM    ADOPTED LEVELS                                          01NDS    200112
+250CM  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94,131 (2001)$CUT=1-Aug-2001$           
+250CM  Q 39        125832    107.4E3   SY5169    18    2012WA38                 
+250CM cQ $Note: Current evaluation has used the following Q record              
+250CM2cQ 37        11 {I5832}   10 {I7409}   syst 5169   19    1995Au04         
+250CM c                                                                         
+250CM c  Theoretical studies:                                                   
+250CM c  For theoretical calculations of spontaneous fission half-life of       
+250CM2c  {+250}Cm, see, for example, 1974Ho05, 1976Ra02, 1978Po09, 1983Bo15,    
+250CM3c  1987Mo16, 1989St20 (included pairing vibrations).                      
+250CM c  Decay by pion emission probability relative to SF decay was            
+250CM2c  calculated by 1988Io04.                                                
+250CM c  For fission barrier calculations, see 1972Ma11, 1973Ba19, 1976Iw02,    
+250CM2c  1977Pr10, 1980Ku14, 1984Ku05, 1991Pe03                                 
+250CM c  For equilibrium deformations calculations, see 1982Du16, 1983Bo15.     
+250CM c  Spontaneously fissioning isomeric state was predicted, and its         
+250CM2c  properties were calculated by 1978Po01, 1992Bh03.                      
+250CM c  For the calculated B(E2; 0+ to 2+) value for the excitation of the     
+250CM2c  first excited state by using the N(p)N(n) scheme, see 1993Sa05.        
+250CM c                                                                         
+250CM cL E         Levels were populated in {+254}Cf |a decay.                  
+250CM  XA254CF A DECAY                                                          
+250CM cL J(A)      K=0 g.s. rotational band                                     
+250CM  L 0.0          0+               8.3E+3 Y  AP                         A   
+250CM2 L %SF AP 74 $ %A AP 18 $ %B- AP 8                                        
+250CM cL           Only SF decay has been observed. Spontaneous fission         
+250CM2cL half-life was measured: T{-1/2}(SF)=17.4|*10{+3} y {I24} (1966Rg01);   
+250CM3cL 11.3|*10{+3} y {I5} (1967Me16). Other measurement: 20|*10{+3} y        
+250CM4cL (1957Hu76). T{-1/2}(SF)=11.3|*10{+3} y {I5} is recommended by 1989Ho24 
+250CMxcL and 2000Ho27.                                                          
+250CM cL           Any probable |a and |b{+-} decay branchings may Be deduced   
+250CM2cL from estimated partial half-lives (see below): if                      
+250CM3cL T{-1/2}(|a)=45.5|*10{+3} y {I7} and T{-1/2}(|b{+-})|?106|*10{+3} y,    
+250CM4cL then, by using T{-1/2}(SF)=11.3|*10{+3} y, the total half-life and     
+250CM5cL decay branchings are calculated as T{-1/2}|?8.3|*10{+3}, and %SF|?74,  
+250CMxcL %|a|?18, %|b{+-}|?8.                                                   
+250CM cL           From absence of {+250}Cf in debris of a thermonuclear        
+250CM2cL explosion test, 1956Fi11 deduced that either {+250}Cm is stable        
+250CM3cL against |b decay or its |b half-life is >130 y.                        
+250CM cL           Because of the available Q(|b{+-})({+250}Cm)=37 {I11}, any |b
+250CM2cL transition from {+250}Cm should populate only the 2- g.s. of {+250}Bk. 
+250CM3cL Requirement of log| {If{+1u}t}|>8.5 yields                             
+250CM4cL T{-1/2}(|b{+-})|>6.7|*10{+3} y. If log| {If{+1u}t}|?9.7, as it is for  
+250CM5cL the {+250}Bk |b{+-} decay to {+250}Cf g.s., then                       
+250CMxcL T{-1/2}(|b{+-})|?106|*10{+3} y.                                        
+250CM cL           From r{-0} systematics (see 1998Ak04), r{-0}=1.515 {I5} is   
+250CM2cL estimated; by using this r{-0} parameter, Q(|a)({+250}Cm)=5269 {I19}   
+250CM3cL (from 1995Au04), I|a(unobserved 5086|a; g.s. to g.s.)=85 {I15} per 100 
+250CM4cL |a decays [from systematics I|a(to g.s.)/I|a(to 2+) for the region],   
+250CM5cL and by requiring that HF(5086|a)=1.0, the partial |a decay half-life   
+250CM6cL of {+250}Cm is calculated as T{-1/2}(|a)=45.5|*10{+3} y {I7}.          
+250CM cL           For a systematic study of spontaneous fissioning nuclei,     
+250CM2cL see, for example, 1997Ro12.                                            
+250CM cL           The kinetic energy distribution of fission fragments         
+250CM2cL were measured by 1973Ho02.                                             
+250CMX L XREF=A                                                                 
+250CM  L 43        5  2+                                                    A   
+250CM cL J         hindrance factor (2.9) for the 5791|a from {+254}Cf; energy  
+250CM2cL systematics of 2+ levels in nearby even-A californium isotopes.        
+250CMX L XREF=A                                                                 

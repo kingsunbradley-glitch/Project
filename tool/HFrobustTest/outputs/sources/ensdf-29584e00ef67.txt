@@ -1,0 +1,62 @@
+212AC    ADOPTED LEVELS, GAMMAS                                  20NDS    202009
+212AC  H TYP=FUL$AUT=K. Auranen and E.A. McCutchan$CIT=NDS 168, 117 (2020)$     
+212AC2 H CUT=1-Aug-2020$                                                        
+212AC  Q -4830     50 8000   70 8.4E2  5  7520   50    2017WA10                 
+212AC cQ $S(2n)=17660{I 80}; S(2p)=3970{I 50}; Q(|ep)=4130{I 50} (2017Wa10).    
+212AC c  Assignment: {+197}Au({+20}Ne,5n), {+203}Tl({+16}O,7n) excit (1968Va04) 
+212AC c  2014Ya19: the nuclei of interest were produced in a {+40}Ca(193 MeV)   
+212AC2c  + {+175}Lu complete fusion reaction at the HIRFL-Lanzhou facility.     
+212AC3c  The target was a 500-|mg/cm{+2}-thick layer of natural Lu (>97.4%      
+212AC4c  {+175}Lu) evaporated on a 40 |mg/cm{+2} carbon backing. The residues   
+212AC5c  were selected using gas-filled recoil separator SHANS, and implanted   
+212AC6c  into position sensitive silicon detectors. Time and position           
+212AC7c  correlation were measured between evaporation residue implantation     
+212AC8c  (Er) and the subsequent |a-decay events. E|a, half-lives, Er-|a-|a     
+212AC9c  correlations were measured.                                            
+212AC c  2015Ma63: the {+212}Ac nuclei were produced using a                    
+212AC2c  fusion-evaporation reaction of {+162}Dy({+54}Cr,p3n){+212}Ac. The      
+212AC3c  403-|mg/cm{+2}-thick target was on 75-|mg/cm{+2}-thick carbon backing  
+212AC4c  and the {+54}Cr beam energy, accelerated by the K500 superconducting   
+212AC5c  cyclotron of Texas A&M, was reduced stepwise with aluminium degraders  
+212AC6c  (E({+54}Cr)=243, 248, 253 MeV). The residues were selected with the    
+212AC7c  momentum achromat recoil spectrometer (MARS) and implanted into a      
+212AC8c  position sensitive silicon detector. E|a and |s(p2n)+|s(p3n) were      
+212AC9c  measured.                                                              
+212AC c  2017Gr18, 2016Fe11: the {+212}Ac nuclei were produced using a          
+212AC2c  fusion-evaporation reaction of {+197}Au({+20}Ne,5n){+212}Ac at the     
+212AC3c  Cyclotron Research Centre, Louvain-la-Neuve, Belgium. The 1-|mm-thick  
+212AC4c  target was placed on an angle of 20|' with respect to the 145 MeV      
+212AC5c  {+20}Ne beam axis. Residues were extracted using Leuven Isotope        
+212AC6c  Separator On-Line (LISOL). g factor, quadrupole moment, and spin of    
+212AC7c  the ground state were measured through optical hyperfine spectra       
+212AC8c  obtained using in-gas-cell laser ionization and spectroscopy (IGLIS)   
+212AC9c  technique.                                                             
+212AC c  2018Ro14: mass measurement.  Mass excess of 7304 keV {I24} compared    
+212AC2c  compared with 7277 keV {I51} from AME-2016 (2017Wa10).                 
+212AC  XA216PA A DECAY                                                          
+212AC  L 0.0          (7+)              880 MS    35                            
+212ACX L XREF=A                                                                 
+212AC2 L %A=95 CA$%EC+%B+=5 CA$MOMM1=4.98 28 (2017Gr18)                         
+212AC cL %A,%EC+%B+$from theoretical partial |b-decay half-life (2019Mo01)      
+212AC cL T$from 2014Ya19. Others: 930 ms{I 50} (1968Va04), 880 ms{I 110}        
+212AC2cL (2000He17).                                                            
+212AC cL J$(7+) if observed |a decay feeds the {+208}Fr 7+ g.s. (HF|?1.9).      
+212AC2cL J({+208}Fr)=7 was determined in 2015Vo05 based on hyperfine            
+212AC3cL spectrum measurement. J=(6) or (7) from a fit to the hyperfine         
+212AC4cL spectrum in 2017Gr18.                                                  
+212AC cL $Configuration [(|ph{-9/2})(|nf{-5/2})]{-J=7} from g=0.711 {I39}       
+212AC2cL (2017Gr18)                                                             
+212AC cL MOMM1$from g factor, measured with reference to g factor=0.920 {I13}   
+212AC2cL for the 17/2 and 21/2 isomers in {+215}Ac, measured as 0.920 {I19} by  
+212AC3cL 1983De08, and adjusted to 0.920 {I13} by 2017Gr18. Uncertainty in the  
+212AC4cL g factor is quadratic addition of statistical uncertainty of 0.013,    
+212AC5cL and systematic uncertainty of 0.037, as given by 2017Gr18. g=0.818     
+212AC6cL {I15} if g.s. J=6, uncertainty is statistical only.                    
+212AC  L 133.6     3                                                            
+212ACX L XREF=A                                                                 
+212AC cL E$from E|g                                                             
+212AC  G 133.6     3                                                            
+212AC cG E$from {+216}Pa |a decay (2000He17)                                    
+212AC  L 158       20                                                           
+212ACX L XREF=A                                                                 
+212AC cL E$from measured E|a and Q(|a)=8097 keV {I15} (2017Wa10).               

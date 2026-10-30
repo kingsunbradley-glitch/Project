@@ -1,0 +1,678 @@
+241AM    ADOPTED LEVELS, GAMMAS                                  15NDS    201512
+241AM  H TYP=FUL$AUT=C.D. NESARAJA$CIT=NDS 130, 183 (2015)$CUT=30-Sep-2015$     
+241AM  Q -767.4    12  6647  14 4479.96135637.82 12    2012WA38                 
+241AM c  Experimental Studies                                                   
+241AM c  2011He12: Determined beta shape function and activity of {+241}Pu      
+241AM2c  |b decay. Resolved the difference between efficiency tracing method    
+241AM3c  and the triple-to-double coincidence ratio (TDCR) method using a shape 
+241AM4c  function derived from experimental data                                
+241AM c  Theoretical/Systematical Studies:                                      
+241AM c  2015Er03: Calculation of fission probabilities with a dynamic          
+241AM2c  statistical approach                                                   
+241AM c  2013Zd01: T{-1/2} for |a decay calculated with phenomenological model  
+241AM2c  based on Gamow theory with WKB approximation for Coulomb barrier       
+241AM3c  penetration.                                                           
+241AM c  2013Af01: Calculated pairing and rotational properties in the          
+241AM2c  density functional framework                                           
+241AM c  2013Ni13: Study of |a decay of g.s Bk to rotational bands using the    
+241AM2c  multichannel cluster model (MCCM)                                      
+241AM c  2013Ta07: Partial T{-1/2} for cluster decay of {+241}Am using          
+241AM2c  semi-empirical model                                                   
+241AM c  2013Zd02: Coupled-channel calculation to describe |a transition to     
+241AM2c  several rotational bands in {+241}Am                                   
+241AM c  2012Ba35, 2011Sh13: Calculated T{-1/2} of cluster decay for {+241}Am   
+241AM2c  using a generalized liquid-drop model                                  
+241AM c  2012Ni16: |a decay branching ratio  and T{-1/2} for transitions from   
+241AM2c  ground state to favored rotational bands using                         
+241AM3c  Multichannel Cluster Model                                             
+241AM c  2012Sa05, 2012Sa31: Calculated cluster decay half-lives using the      
+241AM2c  Coulomb and Proximity Potential Model (CPPM)                           
+241AM c  2012Ta10: Partial T{-1/2}, Q(|b{+-})values, branching ratios using a   
+241AM2c  semi-empirical with the one-parameter model dependence on cluster      
+241AM3c  radius                                                                 
+241AM c  2011He12: Compilation of longest lived known in nuclides with Z|> 82   
+241AM2c  with half-life, spin, excitation energy, and primary reference         
+241AM c  1990Bh02: Calculated T{-1/2}(SF).                                      
+241AM c  1982Li02: Calculated energy band heads, magnetic moments, B(E2)        
+241AM2c  and B(M1) using the rotor plus quasiparticle approximation             
+241AM c  1992Gu10, 1990Sh01, 1989Ba20,1989Si13, 1989Sh37, 1989Ma43, 1988Bl11,   
+241AM2c  1986Po15, 1987GrZO, 1987Po08, 1987Sh04, 1988Ba01: Theoretical          
+241AM3c  calculations and discussions on decays by heavy ions                   
+241AM2c  such as {+34}Si, {+28}Si, and neon isotopes                            
+241AM c  1988Io05: Decay by ion emission was considered and                     
+241AM2c  compared with SF decay                                                 
+241AM c  1983Penetration parameters for the 32.639- and 41.176-keV transitions  
+241AM2c  have been calculated by 1983Bh10 as a function of nuclear deformation  
+241AM c  1977Ch27: Calculated Proton occupation probabilities for various       
+241AM2c  Nilsson states                                                         
+241AM c  1976Ch22, 1971Ga20: Calculations of excited-state energies and         
+241AM2c  configurations                                                         
+241AM cG E$From {+241}Cm |e decay where available. Others are from              
+241AMxcG ({+209}Bi,{+209}Bi'|g)                                                 
+241AM cG E(Y)$The tentative placement assigned to this transition results       
+241AM2cG from the observation of a weak transition at this energy in sums       
+241AM3cG of coincidence spectra double gated on transitions between high-spin   
+241AM4cG levels in the g.s. band                                                
+241AM cG RI$Relative photon branching from each level taken from                
+241AM2cG {+241}Cm |e decay where available. Others are from                     
+241AMxcG ({+209}Bi,{+209}Bi'|g)                                                 
+241AM cG RI(B)$Value given is an upper limit                                    
+241AM cG M$From {+241}Cm |e decay                                               
+241AM cG M(A)$Probable anomalous conversion. See 1974Po08 in |e decay for       
+241AM2cG calculations of penetration effects                                    
+241AM cG TI$Relative I|g+Ice from each level, given for levels for which        
+241AM2cG one or more of the deexciting transitions exhibits anomalous           
+241AM3cG conversion                                                             
+241AM cG TI(A)$From sum of I|g and Ice. Given where internal conversion         
+241AM2cG is anomalous                                                           
+241AM DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+241AM cG MR$If no value given it was assumed |d=1.00 for E2/M1,                 
+241AM cL J$The argument "Reaction data" includes assignments from {+240}Pu(|a,t)
+241AM2cL that are based on a comparison of the observed spectroscopic           
+241AM3cL factors with calculated values, and assignments from {+243}Am(p,t)     
+241AM3cL that are based on angular distributions. Assignments for higher        
+241AM4cL band members, given with no argument are from 2004Ab16 from their      
+241AM6cL {+241}Am({+209}Bi,{+209}Bi'|g) work and are based on observation       
+241AM6cL of these bands individually in triple coincidence runs gated on        
+241AM7cL multiplicity and sum energy                                            
+241AM CL BAND(A)$ 5/2[523] BAND, |a=+1/2                                        
+241AM CL BAND(B)$ 5/2[523] BAND, |a=-1/2                                        
+241AM CL BAND(C)$ 5/2[642] BAND, |a=+1/2                                        
+241AM CL BAND(D)$ 5/2[642] BAND, |a=-1/2                                        
+241AM CL BAND(E)$ 3/2[521] BAND, |a=-1/2                                        
+241AM CL BAND(F)$ 3/2[521] BAND, |a=+1/2                                        
+241AM CL BAND(G)$ 1/2[400] BAND.                                                
+241AM CL BAND(H)$ 1/2[530] BAND.                                                
+241AM  XA245BK A DECAY                                                          
+241AM  XB241PU B- DECAY                                                         
+241AM  XC241AM(209BI,209BI'G)                                                   
+241AM  XE241CM EC DECAY                                                         
+241AM  XP243AM(P,T)                                                             
+241AM  XT240PU(A,T)                                                             
+241AM PN                                                                     6  
+241AM  L 0.0          5/2-             432.6 Y   6                              
+241AM2 L %A=100 $ %SF=3.6E-10 9$FLAG=A$XREF=ABCEP$                              
+241AM cL $%SF is obtained from adopted T{-1/2} and T{-1/2}(SF) values.          
+241AM cL T$From evaluated t{-1/2} as recommended by 2004ChZX                    
+241AM tL $T{-1/2}: Measured values                                              
+241AM2tL   432.7 y {I7}  by calorimetry        (1967Oe01)                       
+241AM3tL   433 y {I7}    by specific activity  (1968Br22)                       
+241AM4tL   436.6 y {I30} by specific activity  (1968St02)                       
+241AM5tL   426.3 y {I21} by calorimetry        (1972Jo07)                       
+241AM6tL   432.8 y {I16} by specific activity  (1974Po16)                       
+241AM7tL   432.5 y {I7}  by calorimetry        (1974StYG)                       
+241AM8tL   432.0 y {I2}  by calorimetry        (1975Ra35)                       
+241AM cL $1989Ho24 recommend T{-1/2}=432.7 y {I6}, 1991BaZS recommend           
+241AM2cL 432.2 y {I7}, 2004ChZX recommend 432.6 y {I6}, 2004Wo02 recommend      
+241AM3cL 433.1 {I11}                                                            
+241AM4cL Earlier t{-1/2} measurements prior to 1967: 470 {I+6-10} y             
+241AM5cL (1952Ha68), 458.1 y {I5} (1957Ha10), 457.7 y {I18} (1958Wa69).         
+241AM6cL These measurements have been excluded from 2004ChZX's evaluation       
+241AM7cL due to large systematic uncertainties                                  
+241AM tL $T{-1/2}(SF): Measured values                                          
+241AM2tL           2.3|*10{+14} y {I8}     (1961Dr03)                           
+241AM3tL           0.90|*10{+14} y {I4}    (1970Ga27)                           
+241AM4tL           1.147|*10{+14} y {I24}  (1970Go06)                           
+241AM5tL           1.8|*10{+14} y {I4}     (1986Pa17)                           
+241AM6tL           1.2|*10{+14} y {I6}     (1993Ku16)                           
+241AM7tL           1.2|*10{+14} y {I3}     Adopted as recommended by 2000Ho27.  
+241AM cL $No {+34}Si decay was observed:                                        
+241AM tL $    {+34}Si/|a<3.0|*10{+-12} (1985Ho21),                              
+241AM2tL         <4.2|*10{+-13} (1986Pa17),                                     
+241AM3tL         <8.7|*10{+-15} (1985TrZY),                                     
+241AM4tL         <7.4|*10{+-16} (1987Mo28).                                     
+241AM cL $No other cluster emission was observed:                               
+241AM2cL cluster/|a<5.0|*10{+-15} (1986Tr10).  See also 1995Ar33                
+241AM3 L MOMM1=+1.58 1$ MOME2=+4.34 5                                           
+241AM cL $|m measured by atomic beam with laser fluorescent spectroscopy        
+241AM2cL (1990Iz01). Compiled by 2014StZZ, others:+1.61 {I3} (1966Ar04).        
+241AM cL $Q measured by Muonic X-ray hyperfine structure method (1985Jo04)      
+241AM2cL (1990Iz01) and recommended by 2013StZZ. Compiled by 2014StZZ, others:  
+241AM3cL +3.8 {12} (1989DrE26), +3.14 {I5} (1990Iz01), +4.2 {I13} (1988Be30)    
+241AM cL J$J from optical spectroscopy (1953Fr01 and 1956Th18) and atomic       
+241AM2cL beam (1960Ma30). Configuration 5/2[523] Nilsson-state assignment is    
+241AM3cL from the measured magnetic moment                                      
+241AM  L 41.176    3  7/2-                                                      
+241AM2 L XREF=ACEP$FLAG=B$                                                      
+241AM cL J$M1+E2 |g to 5/2-. Reaction data                                      
+241AM  G 41.176    3           M1+E2     0.486   23    295    17                
+241AMS G  LC=216 13$MC=59 4                                                     
+241AMS G  NC=16.2 10$OC=3.90 23$PC=0.64 4$QC=0.01151 20                         
+241AM  L      93.7010 9/2-                                                      
+241AM2 L XREF=ACEPT$FLAG=A$                                                     
+241AM cL J$Energy fit to a band. Reaction data                                  
+241AM  L     157.5018 11/2-                                                     
+241AM2 L XREF=ACPT$FLAG=B$                                                      
+241AM cL J$Energy fit to a band. Reaction data                                  
+241AM  G 116.4      2                                                           
+241AM  L 205.883   10 5/2+                                                      
+241AM2 L XREF=ACE$FLAG=C$                                                       
+241AM cL J$E1 |g to 5/2-. |g to 7/2-. Reaction data                             
+241AM  G 164.8     2  16      3[E1]                    0.1635                   
+241AMS G  KC=0.1255 18$LC=0.0285 4$MC=0.00699 10                                
+241AMS G  NC=0.00189 3$OC=0.000463 7$PC=8.08E-5 12$QC=3.52E-6 5                 
+241AM cG E$E|g=165.1 {I2} in {+241}Am({+209}Bi,{+209}Bi'|g)                     
+241AM cG RI$I|g=21 {I6} in |a decay                                             
+241AM  G 205.879   13 100    6 E1                      0.0980                   
+241AMS G  KC=0.0761 11$LC=0.01647 23$MC=0.00402 6                               
+241AMS G  NC=0.001091 16$OC=0.000268 4$PC=4.75E-5 7$QC=2.19E-6 3                
+241AM  L     233.6820 13/2-                                                     
+241AM2 L XREF=CP$FLAG=A$                                                        
+241AM cL J$|g to 9/2-. Energy fit to a band                                     
+241AM  G 139.9      2 100                                                       
+241AM  L      235.2 5 7/2+                                                      
+241AM2 L XREF=AT$FLAG=D$                                                        
+241AM cL J$Fit to a band                                                        
+241AM  G 194.0     5  100      [E1]                    0.1123 17                
+241AMS G  KC=0.0870 14$LC=0.0190 3$MC=0.00466 8                                 
+241AMS G  NC=0.001262 20$OC=0.000309 5$PC=5.46E-5 9$QC=2.48E-6 4                
+241AM  L 239                                                                   ?
+241AM2 L XREF=A                                                                 
+241AM  L 270                                                                   ?
+241AM2 L XREF=A                                                                 
+241AM  L      273.2 5  9/2+                                                     
+241AM2 L XREF=ACT$FLAG=C$                                                       
+241AM cL J$Reaction data. Fit to a band                                         
+241AM  G 179.5      5 100                                                       
+241AM  L      319.810 11/2+                                                     
+241AM2 L XREF=ACT$FLAG=D$                                                       
+241AM  L     319.8223 15/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 162.4      2 100                                                       
+241AM  L      381.1 5 13/2+                                                     
+241AM2 L XREF=ACT$FLAG=C$                                                       
+241AM  G 108.0      5 100                                                      ?
+241AM2 G FL=273.2                                                               
+241AM  G 147.6      5 100                                                       
+241AM  L     418.1823 17/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 98.0       5 4.6    23                                                 
+241AM2 G FL=319.82$FLAG=B$                                                      
+241AM  G 184.4      2 100    43                                                 
+241AM2 G FL=233.68$                                                             
+241AM  L      453.1 9 15/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 133.3      5                                                           
+241AM2 G FL=319.8$                                                              
+241AM  L 459                                                                   ?
+241AM2 L XREF=A                                                                 
+241AM  L 471.810    9 3/2-                                                      
+241AM2 L XREF=ACET$FLAG=E$                                                      
+241AM cL J$|a hindrance factor is 1.8 from 3/2-                                 
+241AM  G 265.922   12 0.56   6 [E1]                    0.0552   3.0        2    
+241AM2 G FLAG=A$                                                                
+241AMS G  K/T=0.0410 6$L/T=0.00847 12$M/T=0.00206 3                             
+241AMS G  N/T=0.000560 8$O/T=0.0001380 20$P/T=2.48E-5 4$Q/T=1.217E-6 17         
+241AMS G  KC=0.0433 6$LC=0.00894 13$MC=0.00218 3                                
+241AMS G  NC=0.000590 9$OC=0.0001456 21$PC=2.62E-5 4$QC=1.284E-6 18             
+241AM  G 430.634   20 5.7    3 E2                      0.0805   5.1        3    
+241AMS G  K/T=0.0385 6$L/T=0.0264 4$M/T=0.00710 10                              
+241AMS G  N/T=0.00196 3$O/T=0.000475 7$P/T=8.22E-5 12$Q/T=1.92E-6 3             
+241AMS G  KC=0.0416 6$LC=0.0285 4$MC=0.00767 11                                 
+241AMS G  NC=0.00211 3$OC=0.000514 8$PC=8.88E-5 13$QC=2.08E-6 3                 
+241AM  G 471.805   20 100    4 M1+E2                   0.22   16100        4    
+241AM2 G FLAG=A$                                                                
+241AMS G  K/T=0.14 10$L/T=0.033 16$M/T=0.008 4                                  
+241AMS G  N/T=0.0023 11$O/T=0.0006 3$P/T=0.00010 6$Q/T=6.E-6 5                  
+241AMS G  KC=0.17 14$LC=0.040 20$MC=0.010 5                                     
+241AMS G  NC=0.0028 12$OC=0.0007 4$PC=0.00013 7$QC=7.E-6 6                      
+241AM  L 495                                                                    
+241AM2 L XREF=A                                                                 
+241AM  L 504.449    9 5/2-                                                      
+241AM2 L XREF=ACET$FLAG=F$                                                      
+241AM cL J$M1+E2 |g to 3/2-. Anomalous M1+E2 |g to 7/2-                         
+241AM  G 32.639    3  16.5    6M1+E2     0.124   4     220    5  100       3    
+241AMS G  L/T=0.741 12$M/T=0.188 6                                              
+241AMS G  N/T=0.0515 16$O/T=0.0128 4$P/T=0.00233 7$Q/T=0.000116 3               
+241AMS G  LC=163 4$MC=41.4 10                                                   
+241AMS G  NC=11.4 3$OC=2.82 6$PC=0.513 11$QC=0.0257 4                           
+241AM  G 298.57    5  6.4    16[E1]                    0.0429    0.29      7    
+241AM2 G FLAG=A$                                                                
+241AMS G  K/T=0.0324 5$L/T=0.00655 10$M/T=0.001594 23                           
+241AMS G  N/T=0.000433 6$O/T=0.0001068 15$P/T=1.93E-5 3$Q/T=9.73E-7 14          
+241AMS G  KC=0.0338 5$LC=0.00684 10$MC=0.001662 24                              
+241AMS G  NC=0.000451 7$OC=0.0001114 16$PC=2.02E-5 3$QC=1.015E-6 15             
+241AM  G 410.8     1 7.0     7 [E2]                    0.0910    2.11     22    
+241AMS G  K/T=0.0414 6$L/T=0.0307 5$M/T=0.00830 12                              
+241AMS G  N/T=0.00229 4$O/T=0.000555 8$P/T=9.57E-5 14$Q/T=2.11E-6 3             
+241AMS G  KC=0.0452 7$LC=0.0335 5$MC=0.00905 13                                 
+241AMS G  NC=0.00249 4$OC=0.000606 9$PC=0.0001044 15$QC=2.31E-6 4               
+241AM  G 463.273   20 100    7 M1+E2                   0.23   17 3.38     18    
+241AM2 G FLAG=A$                                                                
+241AMS G  K/T=0.14 10$L/T=0.034 17$M/T=0.009 4                                  
+241AMS G  N/T=0.0024 11$O/T=0.0006 3$P/T=0.00011 6$Q/T=6.E-6 5                  
+241AMS G  KC=0.18 14$LC=0.042 21$MC=0.011 5                                     
+241AMS G  NC=0.0029 13$OC=0.0007 4$PC=0.00013 7$QC=7.E-6 6                      
+241AM  G 504.45    3  48     3 M1+E2                   0.18   13 1.49      9    
+241AM2 G FLAG=A$                                                                
+241AMS G  K/T=0.12 9$L/T=0.028 14$M/T=0.007 4                                   
+241AMS G  N/T=0.0019 9$O/T=0.00048 23$P/T=9.E-5 5$Q/T=5.E-6 4                   
+241AMS G  KC=0.14 11$LC=0.033 17$MC=0.008 4                                     
+241AMS G  NC=0.0023 11$OC=0.0006 3$PC=0.00011 6$QC=6.E-6 5                      
+241AM  L     525.6725 19/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 107.2      2 13      5                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 206.0      2 100                                                       
+241AM2 G FL=319.82$                                                             
+241AM  L      530.9 4 17/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 149.9      5 100    50                                                 
+241AM  G 211.0      5 10     5                                                  
+241AM2 G FL=319.82$                                                             
+241AM  L 543                                                                   ?
+241AM2 L XREF=A                                                                 
+241AM  L      550.4 4 7/2-                                                      
+241AM2 L XREF=ACT$FLAG=E$                                                       
+241AM  G 77.0       5                                                          ?
+241AM  G 455.9      5                                                           
+241AM  G 510.0      5                                                           
+241AM  L 623.10    4  (1/2+)                                                    
+241AM2 L XREF=ET$FLAG=G$                                                        
+241AM cL J$E2 |g to 5/2+. log| {Ift}=8.2 from 1/2+.                             
+241AM2cL Likely configuration 1/2[400]                                          
+241AM  G 151.4     4  3      AP[E1]                    0.199                    
+241AMS G  KC=0.1519 24$LC=0.0353 6$MC=0.00866 14                                
+241AMS G  NC=0.00234 4$OC=0.000572 9$PC=9.92E-5 16$QC=4.22E-6 7                 
+241AM  G 417.24    4  100    6 E2                      0.0874                   
+241AMS G  KC=0.0440 7$LC=0.0318 5$MC=0.00857 12                                 
+241AMS G  NC=0.00236 4$OC=0.000573 8$PC=9.89E-5 14$QC=2.23E-6 4                 
+241AM  G 623.1     3  1.8    5 [M2]                    0.433                    
+241AMS G  KC=0.322 5$LC=0.0821 12$MC=0.0207 3                                   
+241AMS G  NC=0.00571 8$OC=0.001435 21$PC=0.000272 4$QC=1.650E-5 24              
+241AM  L      625.2 5 9/2-                                                      
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 120.8      5                                                           
+241AM  L      629.8 7 19/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 176.7      5                                                           
+241AM  L 636.861   10 3/2-                                                      
+241AM2 L XREF=E$FLAG=H$                                                         
+241AM cL J$M1+E2 |g's to 3/2- and 5/2-. log| {Ift}=6.25 from 1/2+               
+241AM  G 132.413   7 100     5 M1+E2     0.061   +13-1712.94    100        4    
+241AM2 G FLAG=A$                                                                
+241AMS G  K/T=0.728 7$L/T=0.151 3$M/T=0.0368 7                                  
+241AMS G  N/T=0.01005 20$O/T=0.00253 5$P/T=0.000483 10$Q/T=3.06E-5 6            
+241AMS G  KC=10.15 15$LC=2.10 3$MC=0.512 8                                      
+241AMS G  NC=0.1401 20$OC=0.0353 5$PC=0.00674 10$QC=0.000427 6                  
+241AM  G 165.049   8  77     5 M1+E2     0.22    3     6.73   1244.9      18    
+241AM2 G FLAG=A$                                                                
+241AMS G  K/T=0.677 7$L/T=0.145 3$M/T=0.0357 8                                  
+241AMS G  N/T=0.00976 21$O/T=0.00245 5$P/T=0.000465 10$Q/T=2.82E-5 7            
+241AMS G  KC=5.24 10$LC=1.123 16$MC=0.276 4                                     
+241AMS G  NC=0.0755 11$OC=0.0189 3$PC=0.00359 5$QC=0.000218 4                   
+241AM  G 430       1  1.0    AP [E1]                   0.0200    0.09     AP    
+241AMS G  K/T=0.01567 23$L/T=0.00300 5$M/T=0.000725 11                          
+241AMS G  N/T=0.000197 3$O/T=4.89E-5 8$P/T=8.99E-6 14$Q/T=4.87E-7 8             
+241AMS G  KC=0.01598 24$LC=0.00306 5$MC=0.000739 11                             
+241AMS G  NC=0.000201 3$OC=4.99E-5 8$PC=9.17E-6 14$QC=4.97E-7 8                 
+241AM  G 595.8     3  0.38   8 [E2]                    0.0373    0.036     7    
+241AMS G  K/T=0.0227 4$L/T=0.00974 14$M/T=0.00255 4                             
+241AMS G  N/T=0.000702 10$O/T=0.0001721 25$P/T=3.06E-5 5$Q/T=1.012E-6 15        
+241AMS G  KC=0.0236 4$LC=0.01010 15$MC=0.00265 4                                
+241AMS G  NC=0.000728 11$OC=0.000178 3$PC=3.17E-5 5$QC=1.050E-6 15              
+241AM  G 636.88    3  40     3  M1+E2    0.59    18    0.133  16 3.9       3    
+241AMS G  K/T=0.092 11$L/T=0.0191 19$M/T=0.0047 5                               
+241AMS G  N/T=0.00128 12$O/T=0.00032 3$P/T=6.1E-5 6$Q/T=3.7E-6 5                
+241AMS G  KC=0.104 13$LC=0.0217 21$MC=0.0053 5                                  
+241AMS G  NC=0.00145 14$OC=0.00036 4$PC=6.9E-5 7$QC=4.2E-6 5                    
+241AM  L      645.0 3 21/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 120.3      5 4.1    13                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 226.9      2 100    43                                                 
+241AM  L 652.089   10 (1/2)-                                                    
+241AM2 L XREF=E$FLAG=H$                                                         
+241AM cL J$M1+E2 |g to 3/2-. log| {Ift}=6.32 from 1/2+ rules out 5/2-. In |e    
+241AM2cL decay, 1974Po08 suggest that the 652 level is the bandhead of the      
+241AM3cL 1/2[530] band with the 3/2- member at 637 keV                          
+241AM  G 15.228    2  11.4    5M1+E2     0.0302  14    437    8                 
+241AMS G  MC=322 6                                                              
+241AMS G  NC=88.3 15$OC=22.1 4$PC=4.16 7$QC=0.249 4                             
+241AM  G 29.02     5  6.3    13[E1]                    3.42                     
+241AMS G  LC=2.54 4$MC=0.663 10                                                 
+241AMS G  NC=0.177 3$OC=0.0404 6$PC=0.00542 8$QC=0.0001288 19                   
+241AM  G 147.67    3  2.75   23[E2]                    3.08                     
+241AMS G  KC=0.185 3$LC=2.10 3$MC=0.589 9                                       
+241AMS G  NC=0.1629 23$OC=0.0390 6$PC=0.00631 9$QC=3.40E-5 5                    
+241AM  G 180.277   8  100     9M1(+E2)   0.25    LT    5.31   14                
+241AMS G  KC=4.15 14$LC=0.868 13$MC=0.212 4                                     
+241AMS G  NC=0.0581 9$OC=0.01460 21$PC=0.00278 4$QC=0.000172 6                  
+241AM  G 652.1     4  8.3    21[E2]                    0.0306                   
+241AMS G  KC=0.0201 3$LC=0.00777 11$MC=0.00202 3                                
+241AMS G  NC=0.000555 8$OC=0.0001364 20$PC=2.44E-5 4$QC=8.76E-7 13              
+241AM  L 653.23    4  3/2+                                                      
+241AM2 L XREF=ET$FLAG=G$                                                        
+241AM cL J$M1+E2 |g to 5/2+. log| {Ift}=8.2 from 1/2+ rules out 5/2+ and 7/2+   
+241AM  G 447.35    4  80     10 M1+E2    0.77    LT     0.37   7                
+241AMS G  KC=0.29 6$LC=0.061 9$MC=0.0149 19                                     
+241AMS G  NC=0.0041 6$OC=0.00102 14$PC=0.00019 3$QC=1.17E-5 23                  
+241AM  G 653.2     2 100     7 [E1]                    0.00898                  
+241AMS G  KC=0.00724 11$LC=0.001313 19$MC=0.000316 5                            
+241AMS G  NC=8.57E-5 12$OC=2.14E-5 3$PC=3.99E-6 6$QC=2.32E-7 4                  
+241AM  L 670.24    8   3/2+                                                     
+241AM2 L XREF=E                                                                 
+241AM cL J$M1+E2 |g to 5/2+. log| {Ift}=7.7 from 1/2+ rules out 5/2+ and 7/2+.  
+241AM cL $Configuration 3/2[651]                                                
+241AM  G 464.36    8  14.8   24M1+E2     1.5     +17-5 0.17   8                 
+241AMS G  KC=0.12 6$LC=0.034 9$MC=0.0088 21                                     
+241AMS G  NC=0.0024 6$OC=0.00059 15$PC=0.00011 3$QC=5.1E-6 24                   
+241AM  G 670.2     2  100    7 [E1]                    0.00856                  
+241AMS G  KC=0.00691 10$LC=0.001250 18$MC=0.000300 5                            
+241AMS G  NC=8.16E-5 12$OC=2.04E-5 3$PC=3.80E-6 6$QC=2.22E-7 4                  
+241AM  L      682.1 6 11/2-                                                     
+241AM2 L XREF=CT$FLAG=E$                                                        
+241AM  G 131.7      5                                                           
+241AM  L      723.9 4 21/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 193.0      5 100                                                       
+241AM  G 198.0      5 10      7                                                 
+241AM2 G FLAG=B$                                                                
+241AM  L 732        4 (11/2+)                                                   
+241AM2 L XREF=T                                                                 
+241AM cL J$1975Er01 propose an 11/2+,7/2[633] assignment on the basis           
+241AM2cL of their (|a,t) work                                                   
+241AM  L      773.8 3 23/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 129.1      2 45     25                                                 
+241AM  G 247.9      2 100                                                       
+241AM  L      787.2 6 13/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 106.2      5  10    9                                                 ?
+241AM  G 162.0      5  100   90                                                 
+241AM  L 822       4  (13/2+)                                                   
+241AM2 L XREF=T                                                                 
+241AM cL J$1975Er01 propose a 13/2+,7/2[633] assignment based on their          
+241AM2cL (|a,t) work                                                            
+241AM  L      851.3 5 23/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 127.3      5 29     14                                                 
+241AM  G 221.5      5 100    43                                                 
+241AM  L      863.8 7 15/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 181.7      5                                                           
+241AM  L 884       4                                                            
+241AM2 L XREF=T                                                                 
+241AM  L      912.7 3 25/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 139.1      5 16      6                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 267.8      2 100                                                       
+241AM  L 952       1  5/2-                                                      
+241AM2 L XREF=P                                                                 
+241AM cL J$L=0 in {+243}Am(p,t) with target J|p=5/2-. 1974Fr01 interpret        
+241AM2cL this level as a pairing excitation                                     
+241AM  L      959.4 4 25/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 108.1      5 10      5                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 185.6      5 10      5                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 235.5      5 100    50                                                 
+241AM  L 982        2                                                           
+241AM2 L XREF=P                                                                 
+241AM  L      989.1 7 17/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 124.5      5 10     8                                                  
+241AM  G 201.9      5 100    92                                                 
+241AM  L 1020      4                                                            
+241AM2 L XREF=T                                                                 
+241AM  L     1061.7 4 27/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 149.6      5 36     13                                                 
+241AM  G 287.8      2 100                                                       
+241AM  L 1064       4                                                           
+241AM2 L XREF=T                                                                 
+241AM  L     1084.6 7 19/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 91.3       5 10     14                                                ?
+241AM2 G FLAG=B$FL=989.1$                                                       
+241AM cG E$The energy fit is poor. The least-squares adjustment gives 95.5 {I5} 
+241AM  G 221.5      5 100                                                       
+241AM  L 1106      4                                                            
+241AM2 L XREF=T                                                                 
+241AM  L     1117.6 5 27/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 158.2      5 100                                                       
+241AM  G 266.3      5 31     22                                                 
+241AM  L 1132       5                                                           
+241AM2 L XREF=T                                                                 
+241AM  L 1136       3                                                           
+241AM2 L XREF=P                                                                 
+241AM  L 1163      3                                                            
+241AM2 L XREF=T                                                                 
+241AM cL J$1975Er01 propose a tentative assignment of 9/2-,7/2[514]             
+241AM2cL on the basis of their (|a,t) work                                      
+241AM  L     1219.2 4 29/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 157.3      5 30     12                                                 
+241AM  G 306.6      2 100                                                       
+241AM  L 1227       3                                                           
+241AM2 L XREF=T                                                                 
+241AM  L     1230.9 8 21/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 147.2      5 10     12                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 241.0      5 100                                                       
+241AM  L     1235.9 5 29/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 118.3      5 10      5                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 174.3      5 10      5                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 276.5      5 100    43                                                 
+241AM  L     1345.0 8 23/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 113.7      5 10     13                                                ?
+241AM2 G FLAG=B$FL=1230.9$                                                      
+241AM  G 260.3      5 100                                                       
+241AM  L     1387.5 4 31/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 168.6      5 19      7                                                 
+241AM  G 325.8      5 100                                                       
+241AM  L     1426.4 6 31/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 190.5      5 100                                                       
+241AM  G 308.8      5 97     64                                                 
+241AM  L     1510.2 8 25/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 164.9      5 10     12                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 279.5      5 100                                                       
+241AM2 G FL=1230.9$                                                             
+241AM  L 1550      4 (5/2-)                                                     
+241AM2 L XREF=P$                                                                
+241AM cL J$L=(0) in {+243}Am(p,t) with target J|p=5/2-                          
+241AM  L     1551.2 6 33/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 124.8      5 10      6                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 315.3      5 100                                                       
+241AM  L     1562.6 4 33/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 175.1      5 22      7                                                 
+241AM  G 343.3      2 100                                                       
+241AM  L 1642.7     9 27/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 132.9      5 10     7                                                  
+241AM2 G FLAG=B$                                                                
+241AM  G 297.8      5 100                                                       
+241AM  L     1749.4 5 35/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 186.6      5 17      8                                                 
+241AM  G 361.9      2 100                                                       
+241AM  L     1775.2 7 35/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 224.0      5 21     40                                                 
+241AM2 G FL=1551.2$                                                             
+241AM  G 348.8      5 100                                                       
+241AM  L     1826.9 9 29/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 184.5      5 10      9                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 316.1      5 100                                                       
+241AM  L     1903.5 7 37/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 352.3      5                                                           
+241AM2 G FL=1551.2$                                                             
+241AM  L     1940.6 5 37/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 191.1      5 15      6                                                 
+241AM  G 378.0      2 100                                                       
+241AM  L     1975.8 9 31/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 148.2      5 10      7                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 333.6      5 100                                                       
+241AM  L     2145.4 5 39/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 204.9      5 18      9                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 396.3      5 100                                                       
+241AM  L     2161.6 7 39/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 258.1      5 41     41                                                 
+241AM  G 386.4      5 100                                                       
+241AM  L     2178.010 33/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 351.3      5                                                           
+241AM  L 2200      AP                  1.2 US    3                           M1 
+241AM DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+241AM cL           Assignment: {+242}Pu(p,2n) excit (1969La14);                 
+241AM2cL {+241}Pu(13-MeV d,2n) (1969La14);                                      
+241AM3cL {+241}Am(14.7-MeV n,n') (1973Be04).                                    
+241AM cL E         Threshold energy of (p,2n) reaction, obtained by 1969La14    
+241AM2cL yielded E=2500 {I100}; from fit to excitation function for (p,2n)      
+241AM3cL reaction of 1969La14, E(level)=2200 {I200} obtained by 1971Br39,       
+241AM4cL 1972Br35. For calculated isomeric level energy, see, for example,      
+241AM5cL 1970Ja16, 1972We09, 1987Gu03.                                          
+241AM2 L %SF=100                                                                
+241AM cL           Only SF decay was observed.                                  
+241AM cL           |G(|g)/|G(SF)<1 from absence of 472|g (1976Be55).            
+241AM cL           1972We09 calculated T{-1/2}(|g)/T{-1/2}(SF)=2.7|*10{+-3}/0.45
+241AMxcL |*10{+-6}.                                                             
+241AM cL T         Unweighted average of 1.5 |ms {I6} (1969La14) and            
+241AM2cL 0.9 |ms {I3} (1993Ku16).                                               
+241AM cL           For calculated T{-1/2}(SF), see 1990Bh02, for example.       
+241AM cL           Fission-barrier parameters were deduced from fission         
+241AM2cL probability measured in {+240}Pu({+3}He,d) reaction                    
+241AM3cL (1974Ba73,1976Ga11). 1981Re06 deduced barrier heights from fission     
+241AM4cL probability data of 1976Ga11. See 1980Ku14, 1984Ku05, 1987Gu03,        
+241AM5cL 1989Bh01, 1990Bh02, 1992Gr10 for calculated barrier parameters.        
+241AM  L     2289.7 9 41/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 386.2      5                                                           
+241AM  L     2343.910 35/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 166.2      5 10      6                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 367.8      5 100                                                       
+241AM  L     2352.2 6 41/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 207.1      5 16      7                                                 
+241AM2 G FLAG=B$                                                                
+241AM  G 411.2      5 100                                                       
+241AM  L     2561.511 37/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 383.5      5                                                           
+241AM  L     2574.6 8 43/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 429.2      5                                                           
+241AM  L     2582.7 9 43/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 421.1      5                                                           
+241AM  L     2708.010 45/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 418.3      5                                                           
+241AM  L     2743.811 39/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 399.9      5                                                           
+241AM  L     2794.7 8 45/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 442.5      5                                                           
+241AM  L     2977.212 41/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 415.7      5                                                           
+241AM  L     3035.1 9 47/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 460.5      5                                                           
+241AM  L     3036.310 47/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 453.6      5                                                           
+241AM  L     3156.711 49/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 448.7      5                                                           
+241AM  L     3174.712 43/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 430.9      5                                                           
+241AM  L     3266.9 9 49/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 472.2      5                                                           
+241AM  L     3424.313 45/2-                                                     
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 447.1      5                                                           
+241AM  L     3520.812 51/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 484.5      5                                                           
+241AMF G FL=3036.3                                                              
+241AM  L     3525.110 51/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 490.0      5                                                           
+241AMF G FL=3035.1                                                              
+241AM  L     3633.513 53/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 476.8      5                                                           
+241AM  L     3635.113 47/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 460.4      5                                                           
+241AM  L     3767.711 53/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 500.8      5                                                           
+241AM  L 3903.0    14 (49/2-)                                                   
+241AM2 L FLAG=F$XREF=C$                                                         
+241AM  G 479.3      5                                                          ?
+241AM  L     4034.413 55/2+                                                     
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 513.6      5                                                           
+241AM  L     4043.212 55/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 518.1      5                                                           
+241AM  L     4122.514 51/2-                                                     
+241AM2 L FLAG=E$XREF=C$                                                         
+241AM  G 487.4      5                                                           
+241AMF G FL=3635.1                                                              
+241AM  L     4137.614 57/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 504.1      5                                                           
+241AMF G FL=3633.5                                                              
+241AM  L     4294.912 57/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 527.2      5                                                           
+241AM  L     4575.613 59/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 532.4      5                                                           
+241AM  L 4577.5    14 (59/2+)                                                   
+241AM2 L FLAG=D$XREF=C$                                                         
+241AM  G 542.8      5                                                       Y  ?
+241AM  L     4669.414 61/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 531.8      5                                                           
+241AM  L     4845.913 61/2-                                                     
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 551.0      5                                                           
+241AM  L     5117.214 63/2-                                                     
+241AM2 L FLAG=B$XREF=C$                                                         
+241AM  G 541.6      5                                                           
+241AMF G FL=4575.6                                                              
+241AM  L     5228.915 65/2+                                                     
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 559.5      5                                                           
+241AM  L     5407.914  65/2-                                                    
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 562.0      5                                                           
+241AM  L 5816.8    16 (69/2+)                                                   
+241AM2 L FLAG=C$XREF=C$                                                         
+241AM  G 587.6      5                                                       Y  ?
+241AM  L 5980.9    14 (69/2-)                                                   
+241AM2 L FLAG=A$XREF=C$                                                         
+241AM  G 573.0      5                                                       Y  ?

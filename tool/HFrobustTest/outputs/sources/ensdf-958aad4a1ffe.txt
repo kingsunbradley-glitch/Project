@@ -1,0 +1,111 @@
+251MD    ADOPTED LEVELS, GAMMAS                                  23NDS    202305
+251MD  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251MD  Q -3882     SY 7.50E+39  2394   20 7963    4    2021WA16                 
+251MD cQ $|DQ(|b{+-})=182 (2021Wa16)                                            
+251MD cQ $S(2n)=14360 {I17},  S(2p)=6786 syst {I36} (2021Wa16)                  
+251MD cL J$Based on identification of band-head configurations deduced from     
+251MD2cL favored |a decay from {+255}Lr and identification of the rotational    
+251MD3cL bands built on top of them in {+205}Tl({+48}Ca,2n|g), unless noted     
+251MD4cL otherwise.                                                             
+251MD CL BAND(A)$|p7/2-[514]                                                    
+251MD CL BAND(B)$|p1/2-[521]                                                    
+251MD c  $ 2018It04: Mass measurement.                                          
+251MD  XA255LR A DECAY (31.1 S)                                                 
+251MD  XB255LR A DECAY (2.54 S)                                                 
+251MD  XC251MD IT DECAY (1.4 S)                                                 
+251MD  XD205TL(48CA,2NG)                                                        
+251MD  L 0            7/2-              4.27 M    11                        A   
+251MDX L XREF=ABCD                                                              
+251MD2 L %A=10 1$%EC+B+=90 1$CONF=|p7/2-[514]                                   
+251MD cL %A$From 2006Ch52.                                                      
+251MD cL T$Weighted average of 4.28 min {I12} (2021Go26), 4.27 min {I26}        
+251MD2cL (2006Ch52), and 4.0 min {I5} (1973Es01).                               
+251MD cL J$Favored |a decay from the state assigned 7/2-[514] in {+255}Lr and   
+251MD2cL the g-factor determined from the rotational band built on this state   
+251MD3cL support the 7/2- assignment.                                           
+251MD  L 54        10 1/2-                                                  B   
+251MDX L XREF=AD                                                                
+251MD2 L CONF=|p1/2-[521]                                                       
+251MD cL J$Favored |a decay from the 1/2-[521] configuration in {+255}Lr and    
+251MD2cL the lack of observed signature partner in the rotational band support  
+251MD3cL the 1/2{+-} assignment.                                                
+251MD  L 61.0      10 9/2-                                                  A   
+251MDX L XREF=D                                                                 
+251MD  G 61                     M1(+E2)                                        S
+251MD  L 94        10 5/2-                                                  B   
+251MDX L XREF=D                                                                 
+251MD  G 40                     E2                                             S
+251MDL G FL=54                                                                  
+251MD  L 133.0     10 11/2-                                                 A   
+251MDX L XREF=ABD                                                               
+251MD  G 133                    E2                                             S
+251MD  L 181       10 9/2-                                                  B   
+251MDX L XREF=D                                                                 
+251MD  G 87        2            E2                                              
+251MDL G FL=94                                                                  
+251MD  L 222.8     10 13/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 161.8     3            E2                                              
+251MD  L 322.0     12 15/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 189.0     7            E2                                              
+251MD  L 325       10 13/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 144       2            E2                                              
+251MD  L 437.6     12 17/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 214.8     5            E2                                              
+251MD  L 520       10 17/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 195.4     2            E2                                              
+251MDL G FL=325                                                                 
+251MD  L 560.8     13 19/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 238.8     4            E2                                              
+251MD  L 701.4     12 21/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 263.8     3            E2                                              
+251MD  L 765       10 21/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 244.7     3            E2                                              
+251MD  L 844       GE (23/2+)           1.4 S     3                             
+251MDX L XREF=C                                                                 
+251MD2 L %IT=100 AP                                                             
+251MD cL J,T$From {+251}Md IT decay (2021Go26)                                  
+251MD cL %IT$No other decay mode has been observed.                             
+251MD  L 849.8     16 23/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 289       1            E2                                              
+251MD  L 1012.6    13 25/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 311.2     6            E2                                              
+251MD  L 1057      10 25/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 291.7     2            E2                                              
+251MD  L 1183.8    19 27/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 334       1            E2                                              
+251MD  L 1370.6    17 29/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 358       1            E2                                              
+251MD  L 1393      10 29/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 336.0     2            E2                                              
+251MD  L 1559.8    22 31/2-                                                 A   
+251MDX L XREF=D                                                                 
+251MD  G 376       1            E2                                              
+251MD  L 1770      10 33/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 376.8     2            E2                                              
+251MD  L 2185      10 37/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 415.1     4            E2                                              
+251MD  L 2634      11 41/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 449.4     10           E2                                              
+251MD  L 3117      11 45/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 483       1            E2                                              
+251MD  L 3630      11 49/2-                                                 B   
+251MDX L XREF=D                                                                 
+251MD  G 513       1            E2                                              

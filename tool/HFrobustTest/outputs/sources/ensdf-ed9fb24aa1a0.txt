@@ -1,0 +1,457 @@
+219RA    ADOPTED LEVELS, GAMMAS                                  21NDS    202106
+219RA  H TYP=FUL$AUT=Balraj Singh et al.,$CIT=NDS 175, 1 (2021)$CUT=19-May-2021$
+219RA  Q -2180     50 5323   12 4955   8 8138    3     2021WA16                 
+219RA cQ $S(2n)=12638 {I10}, S(2p)=8843 {I8} (2021Wa16)                         
+219RA d  {+219}Ra evaluated by B. Singh, A.K. Jain, S. Kumar, S. Singh.         
+219RA c  Theoretical calculations: 34 primary references in the NSR             
+219RA2c  database (www.nndc.bnl.gov/nsr), 12 related to structure               
+219RA3c  calculations, and 22 to radioactivity                                  
+219RA d  Theoretical calculations:                                              
+219RA d  Structure calculations: 2011Mi04, 2009Mi02, 2006Au02 (also 2007Au05,   
+219RA2d  2007Au07), 2005Bh02, 2002Ts01, 1995De13, 1992De46, 1991Cw01, 1988Le13, 
+219RA3d  1985Na07                                                               
+219RA d  Radioactivity (|a-decay and cluster decay half-lives): 22 references   
+219RA c  1952Me13: {+219}Ra identified in |a decay chain:                       
+219RA2c  {+227}U|){+223}Th|){+219}Rn at the 184-inch Berkeley cyclotron, where  
+219RA3c  {+227}U was produced in bombardment of thorium nitrate with helium     
+219RA4c  beam. Short half-life was deduced for the decay of {+219}Rn from |a    
+219RA5c  measurements. Later measurements at Berkeley by 1970Va13 measured      
+219RA6c  the half-life more precisely                                           
+219RA cG E,RI,M$From {+208}Pb({+14}C,3n|g) reaction in different studies,       
+219RA2cG for |g rays from high-spin (J|>13/2+) levels.                          
+219RA3cG Gamma-ray energies are from weighted averages of available data.       
+219RA4cG Relative gamma-ray branching ratios differ significantly between the   
+219RA5cG three studies (2017He15, 1992Wi02, 1987Co36) at different beam         
+219RA6cG energies. In some cases, weighted or unweighted averages are taken,    
+219RA7cG while in others, values are adopted from 2017He15, with apparently,    
+219RA8cG the most statistics. Multipolarity assignments are from ce and |g(|q)  
+219RA9cG data in E=67 MeV (1987Co36), |g|g(|q)(DCO) data in E=65 MeV (1992Wi02),
+219RAAcG and ce and |g|g(|q) data in E=68 MeV (2017He15, 2000Ri12). Mult=Q is   
+219RABcG is most likely E2, as the transition is within a band, and no          
+219RACcG long-lived levels are expected to give M2. Exceptions are noted        
+219RA cG E(x,y),RI(x),M(z),MR(u)$From {+223}Th |a decay                         
+219RA cL $The high-spin level scheme was first proposed by 1987Co36 with the    
+219RA2cL discovery of a ground-state band up to 51/2, later modified and        
+219RA3cL extended by 1992Wi02, 1992Li09, 2000Ri12 and 2017He15. See also        
+219RA4cL 1993Sh43 and 2001Sh14 for analysis of spectroscopic data from in-beam  
+219RA5cL |g-ray and |a-decay experiments. The ground state band and             
+219RA6cL two side bands have been proposed, with all the three bands containing 
+219RA7cL states of both parities connected by E1 |g transitions. The            
+219RA8cL ground-state band has been interpreted in terms of weak coupling of a  
+219RA9cL g{-9/2} neutron to a soft quadrupole core of {+218}Ra. It has K=1/2    
+219RAAcL and an expected large decoupling constant, which gives rise to         
+219RABcL J|p=7/2+ ground state. The interpretation of the level scheme with     
+219RACcL three alternating parity bands having different K values is consistent 
+219RADcL with average B(E1)/B(E2) branching ratios deduced by 1992Wi02          
+219RAEcL and 1987Co36                                                           
+219RA cL E$Deduced by evaluators from a least-squares fit to E|g data.          
+219RA cL J$Spin and parity assignments to levels from {+208}Pb({+14}C,3n|g) are 
+219RA2cL based on band structure, |g-ray multipolarities inferred from          
+219RA3cL conversion electron data (2000Ri12,1987Co36), DCO ratios               
+219RA4cL (1992Wi02,2017He15), and |g(|q) data in 1987Co36                       
+219RA CL BAND(A)$Band based on (11/2+).                                         
+219RA2cL Alternating parity band, indicating reflection asymmetric structure    
+219RA CL BAND(a)$Band based on (17/2-).                                         
+219RA2cL Alternating parity band, indicating reflection asymmetric structure    
+219RA CL BAND(B)$Band based on (9/2+).                                          
+219RA2cL Alternating parity band, indicating reflection asymmetric structure    
+219RA CL BAND(b)$Band based on (15/2-).                                         
+219RA2cL Alternating parity band, indicating reflection asymmetric structure    
+219RA CL BAND(C)$Band based on (13/2+).                                         
+219RA2cL Alternating parity band, indicating reflection asymmetric structure    
+219RA CL BAND(c)$Band based on (15/2-).                                         
+219RA2cL Alternating parity band, indicating reflection asymmetric structure    
+219RA  XA223TH A DECAY (0.60 S)                                                 
+219RA  XB208PB(14C,3NG) E=67 MEV                                                
+219RA  XC208PB(14C,3NG) E=65 MEV                                                
+219RA  XD208PB(14C,3NG) E=68 MEV                                                
+219RA PN                                                                     6  
+219RA  L 0.0            (7/2+)          9 MS     2                              
+219RA2 L %A=100                                                                 
+219RAX L XREF=ABCD                                                              
+219RA cL T$from weighted average of 10 ms {I3} for 7980 {I10} |a and            
+219RA2cL 8 ms {I2} for 7660 {I20} |a (2018Sa45). Others: 10 ms {I3}             
+219RA3cL (1970Va13, probably for composite |a lines from the decay of           
+219RA4cL the g.s. and 16.6-keV isomer); short half-life (1952Me13)              
+219RA cL J$analogy with (7/2+) g.s. in isotonic {+221}Th. 2000Ri12 provide      
+219RA2cL detailed discussion for assignment of 7/2 in preference to 11/2,       
+219RA3cL based on their conversion electron measurements and implied            
+219RA4cL multipolarities of transitions in ({+14}C,3n|g) study, results of      
+219RA5cL |a(316|g)(|q) experiment in {+219}Ra to {+215}Rn decay (1989Ha26), and 
+219RA5cL consideration of four different scenarios for the structure of the g.s.
+219RA6cL of {+219}Ra, and probable inferred J|p values of these structures,     
+219RA7cL concluding that ground state of {+219}Ra is statically octupole        
+219RA8cL deformed, consistent with spectrum of low-lying levels predicted       
+219RA9cL by 1993Sh43 (also 2001Sh14), pointing out that in the ground state     
+219RAAcL the odd neutron populated a K=1/2 state having a very large decoupling 
+219RABcL parameter, resulting in a J|p=7/2+ ground state, and 11/2+ first       
+219RACcL excited state at 16 keV. Other: 1989Ha26 measured 7/2 or 11/2,         
+219RADcL rejecting 9/2 for the 316 level in {+215}Rn (|a)(316|g)(|q) in         
+219RAEcL {+219}Ra |a decay, and assigning favored |a decay (HF=4.7 {I15}) of    
+219RAFcL {+219}Ra g.s. |a decay to the 316 level in {+215}Rn, (7/2,11/2) was    
+219RAGcL assigned for {+219}Ra g.s., with further preference for 7/2+ for       
+219RAHcL {+219}Ra g.s. from systematics arguments. Note, however, that the 316  
+219RAIcL level in {+215}Rn has since been assigned (11/2)+ in {+215}Rn Adopted  
+219RAJcL Levels in the ENSDF database (Sept 2013 update), which negates the     
+219RAKcL argument made by 1989Ha26 about favored |a decay. In addition, from    
+219RALcL data in 2018Sa45 for {+219}Ra decay, HF=7 {I3} (deduced by evaluators) 
+219RAMcL for decay to the 316 level in {+215}Rn may not be a favored decay      
+219RA  L 16.6      2    (11/2+)         10 MS    3                          AM  
+219RAX L XREF=ABCD                                                              
+219RA2 L %A AP 100 (2018Sa45) $ %IT=?                                           
+219RA cL T$estimated half-life from Monte Carlo analysis of |a decay data from  
+219RA2cL {+219}Ra decay (2018Sa45)                                              
+219RA cL J$from prediction of theoretical calculations in 2001Sh14, based on    
+219RA2cL reflection-asymmetric strong coupling model, as shown in authors'      
+219RA3cL Fig. 5., and comparison of experimental low-lying (11/2+) levels in    
+219RA4cL isotonic {+217}Rn (first excited state) and {+215}Po (second excited   
+219RA5cL state), and in isotope {+217}Ra (second excited state). Also, almost   
+219RA6cL 100% |a decay from this isomer to 316, (11/2)+ state in {+215}Rn,      
+219RA7cL proposed in 2018Sa45, with HF=3.5 {I11} (deduced by evaluators),       
+219RA8cL which may be considered as a favored decay, supporting (11/2+) for     
+219RA9cL the 16.6 level                                                         
+219RA  L 52.1      3    (3/2+)                                                  
+219RAX L XREF=A                                                                 
+219RA cL J$88|g from (5/2+); systematics (2001Sh14)                             
+219RA  G 52.0      3   100     [E2]                      216  7             x   
+219RA  L 113.7     1    (9/2+)                                              B   
+219RAX L XREF=ABCD                                                              
+219RA cL J$97|g M1 to (11/2+); band member                                      
+219RA  G 97.14     17     56 7  M1                       3.39               x   
+219RAF G FLAG=z                                                                 
+219RA  G 113.74    11    100 13 M1                       10.83              x   
+219RAF G FLAG=z                                                                 
+219RA  L 140.0     1    (5/2+)                                                  
+219RAX L XREF=A                                                                 
+219RA cL J$favored |a decay (HF=2.7) from {+223}Th g.s. with J|p=(5/2+),        
+219RA2cL where J|p can be assigned on the basis of analogy with 5/2+ g.s. of    
+219RA3cL isotonic {+221}Ra, and prediction from theoretical calculations        
+219RA4cL by 1987Sh24.                                                           
+219RA  G 88.0      5       9 7 [M1+E2]                    11   7            x   
+219RA  G 140.01    9     100 11 M1                       5.99               x   
+219RAF G FLAG=z                                                                 
+219RA  L 152.0     1    (7/2+)                                                  
+219RAX L XREF=A                                                                 
+219RA cL J$152|g M1+E2 to (7/2+); 38|g (M1+E2) to (9/2+)                        
+219RA  G 38.2      3     1.9 9 (M1+E2)   0.31    15     132   62            x   
+219RAF G FLAG=zu                                                                
+219RA  G 151.99    10    100 11 M1+E2    0.95    +90-50  3.3  10            x   
+219RAF G FLAG=zu                                                                
+219RA  L 251.1     2    (15/2+)                                             A   
+219RAX L XREF=BCD                                                               
+219RA cL J$E2 |g to (11/2+)                                                     
+219RA  G 234.5     1   100     E2                       0.336                   
+219RA  L  271.6    8                                                           ?
+219RAX L XREF=A                                                                 
+219RA cL J$(5/2+ to 11/2+) from possible 158|g to (9/2)+ and 119|g to (7/2)+    
+219RA  G  119.6                                                             y  ?
+219RA  G  157.8                                                             y  ?
+219RA  L  320.6    4  (3/2+,5/2,7/2+)                                           
+219RAX L XREF=A                                                                 
+219RA cL J$320|g to (7/2+); 268|g to (3/2+). 2001Sh14 suggested (5/2-)          
+219RA2cL from systematics                                                       
+219RA  G 168.8     5    100  50                                             x   
+219RA  G 268.0     10   167  AP                                             x   
+219RA  G 320.6     8    33   AP                                             x   
+219RA  L 328.3     5  (1/2+:7/2+)                                               
+219RAX L XREF=A                                                                 
+219RA cL J$276|g to (3/2+); 188|g to (5/2+)                                     
+219RA  G 188.4     7    50   AP                                             x   
+219RA  G 276.1     6    100  50                                             x   
+219RA  L 404.7     2   (3/2+,5/2,7/2+)                                          
+219RAX L XREF=A                                                                 
+219RA cL J$353|g to (3/2+); 253|g to (7/2+). 2001Sh14 suggested (5/2-)          
+219RA2cL from systematics                                                       
+219RA  G 252.8     2     43  13                                             x   
+219RA  G 264.7     2    100  30                                             x   
+219RA  G 353.0          2.9  AP                                             x  ?
+219RA  L 421.7     12                                                           
+219RAX L XREF=A                                                                 
+219RA cL J$421|g to (7/2+)                                                      
+219RA  G 421.7     12  100                                                  x   
+219RA  L 445.0     3  (5/2+,7/2,9/2+)                                           
+219RAX L XREF=A                                                                 
+219RA cL J$331|g to (9/2+); 305|g to (5/2+). 2001Sh14 suggested (7/2-)          
+219RA2cL from systematics                                                       
+219RA  G 124.4                                                              y  ?
+219RA  G 293.0     5    100  25                                             x   
+219RA  G 305.0     5    100  50                                             x   
+219RA  G 331.3     5    100  50                                             x   
+219RA  L 470.7     5  (5/2+:11/2+)                                              
+219RAX L XREF=A                                                                 
+219RA cL J$357|g to (9/2+); 319|g to (7/2+). 2001Sh14 suggested (9/2-)          
+219RA2cL from systematics                                                       
+219RA  G 318.8     7     60  30                                             x   
+219RA  G 356.9     7    100  60                                             x   
+219RA  L 475.2     2    (13/2+)                                             B   
+219RAX L XREF=BCD                                                               
+219RA cL J$361|g E2 to (9/2+); 459|g M1 to (11/2+); band member                 
+219RA  G 361.5     2    100  5   E2                    0.0887                   
+219RA  G 458.6     2     68  4   M1                    0.224                    
+219RA  L 512.4     2    (17/2-)                                             a   
+219RAX L XREF=BCD                                                               
+219RA cL J$261|g E1 to (15/2+); band member                                     
+219RA  G 261.2     1    100      E1                    0.048                    
+219RA  L 515.4     10                                                           
+219RAX L XREF=A                                                                 
+219RA cL J$(5/2+ to 13/2+) from 401|g to (9/2+)                                 
+219RA  G 401.7     10   100                                                 x   
+219RA  L 546.1     2    (19/2+)                                             A   
+219RAX L XREF=BCD                                                               
+219RA  G 295.0     1    100       (E2)                 0.160                    
+219RA  L 556.0      3  (13/2+)                                              C   
+219RAX L XREF=CD                                                                
+219RA  G 539.1     4    100      D                                              
+219RA  L 604.1     2    (15/2-)                                             b   
+219RAX L XREF=BCD                                                               
+219RA  G 48.1                                                                  S
+219RA cG E$unobserved transition with E|g=48.4 in E=65 MeV (1992Wi02) only.     
+219RA2cG Here E|g is from level-energy difference                               
+219RA  G 128.9     2    100  6  E1                     0.260                    
+219RA  G 353.0     3    30   3                                                  
+219RA cG RI$from E=68 MeV (2017He15). Other: 11 {I2} (E=65 MeV, 1992Wi02)       
+219RA  L 751.3     2    (21/2-)                                             a   
+219RAX L XREF=BCD                                                               
+219RA  G 205.2     2    100  4   E1                    0.0849                   
+219RA  G 238.5     2    4.3  11  (E2)                  0.316                    
+219RA cG RI$unweighted average of 6.36 {I23} (E=68 MeV, 2017He15); 3.88 {I15}   
+219RA2cG (E=65 MeV, 1992Wi02); 2.80 {I15} (E=67 MeV, 1987Co36)                  
+219RA  L 779.8      4   (15/2-)                                             c   
+219RAX L XREF=CD                                                                
+219RA  G 223.8     3    100                                                     
+219RA  L 853.5     3    (17/2+)                                             B   
+219RAX L XREF=BCD                                                               
+219RA  G 249.4     2    100  5   D                                              
+219RA  G 378.3     3    35   4                                                  
+219RA  L 876.5      3   (17/2+)                                             C   
+219RAX L XREF=BCD                                                               
+219RA  G 96.7      3     16  4   [E1]                  0.1207                   
+219RA cG RI$from E=68 MeV (2017He15). Other: 56 {I4} in E=65 MeV (1992Wi02)     
+219RA  G 320.5     3     16  4   (E2)                  0.125                    
+219RA cG RI$from E=68 MeV (2017He15). Other: 85 {I41} in E=65 MeV (1992Wi02)    
+219RA  G 625.7     3     100 11  D                                              
+219RA  L 893.2     3    (23/2+)                                             A   
+219RAX L XREF=BCD                                                               
+219RA  G 141.7     2    100  5   E1                    0.207                    
+219RA  G 347.3     2     75  8   E2                    0.0991                   
+219RA cG RI$unweighted average of 67 {I2} (E=68 MeV, 2017He15) and 83 {I5}      
+219RA2cG (E=65 MeV, 1992Wi02). Other: 123 {I6} (E=67 MeV, 1987Co36).            
+219RA3cG Unweighted average of all the three results is 91 {I17}                
+219RA  L 937.6     2    (19/2-)                                             b   
+219RAX L XREF=BCD                                                               
+219RA  G 61.1                                                                  S
+219RA cG E$unobserved transition with E|g=61.4 in E=65 MeV (1992Wi02) only.     
+219RA2cG Here E|g is from level-energy difference                               
+219RA  G 84.3      3   29    8   (E1)                  0.174                    
+219RA cG RI$from E=65 MeV (1992Wi02). Other: 244 {I17} (E=68 MeV, 2017He15)     
+219RA  G 333.6     2   100   5   (E2)                  0.111                    
+219RA  G 391.9     5                                                            
+219RA  G 425.4     3    28   4                                                  
+219RA cG RI$from E=68 MeV (2017He15). Other: 12 {I2} (E=65 MeV, 1992Wi02)       
+219RA  L 1053.3     3   (25/2-)                                             a   
+219RAX L XREF=BCD                                                               
+219RA  G 160.1     2    100  3  E1                     0.1545                   
+219RA  G 302.0     2    26   4  E2                     0.1492                   
+219RA cG RI$unweighted average of 19.7 {I16} (E=68 MeV, 2017He15); 26.1 {I13}   
+219RA2cG (E=65 MeV, 1992Wi02); 31.9 {I16} (E=67 MeV, 1987Co36)                  
+219RA  L 1131.2    4    (19/2-)                                             c   
+219RAX L XREF=CD                                                                
+219RA  G 254.8     3    100  8   D                                              
+219RA  G 351.2     5     44  11                                                 
+219RA cG RI$available from E=68 MeV (2017He15) only                             
+219RA  G 619       1    100  15                                                ?
+219RA cG E$|g from E=65 MeV only (1992Wi02)                                     
+219RA  L 1245.7     3   (21/2+)                                             B   
+219RAX L XREF=BCD                                                               
+219RA  G 308.4     3    100  17  D                                              
+219RA cG RI$from E=68 MeV (2017He15)                                            
+219RA  G 390.7     10    25  8                                                  
+219RA cG E$from E=68 MeV (2017He15). Tentative |g with E|g=392.3 {I5} in E=65   
+219RA2cG MeV (1992Wi02). Not reported in E=67 MeV (1987Co36)                    
+219RA  L 1257.3     3   (21/2+)                                             C   
+219RAX L XREF=CD                                                                
+219RA  G 126.0     3     97  17  [E1]                  0.275                    
+219RA cG RI$unweighted average of 80 {I10} (E=68 MeV, 2017He15) and 114 {I14}   
+219RA2cG (E=65 MeV, 1992Wi02)                                                   
+219RA  G 381.0     3    100  10                                                 
+219RA  G 711.0     3     84  17                                                 
+219RA cG RI$unweighted average of 100 {I10} (E=68 MeV, 2017He15) and 67 {I7}    
+219RA2cG (E=65 MeV, 1992Wi02)                                                   
+219RA  L 1288.4     3   (27/2+)                                             A   
+219RAX L XREF=BCD                                                               
+219RA  G 234.9     2  100.0  25                                                 
+219RA  G 395.0     2    36   6   (E2)                  0.0697                   
+219RA cG RI$unweighted average of 26.8 {I25} (E=68 MeV, 2017He15); 35.9 {I16}   
+219RA2cG (E=65 MeV, 1992Wi02); 46.9 {I26} (E=67 MeV, 1987Co36)                  
+219RA  L 1324.9     3   (23/2-)                                             b   
+219RAX L XREF=BCD                                                               
+219RA  G 79.4      3    20   2   [E1]                  0.204                    
+219RA cG RI$from E=68 MeV (2017He15). Other: 7.1 {I24} (E=65 MeV, 1992Wi02)     
+219RA  G 387.4     2    100  5   (E2)                  0.0735                   
+219RA  G 573.6     3    45   4                                                  
+219RA cG RI$from E=68 MeV (2017He15). Other: 16.5 {I24} (E=65 MeV, 1992Wi02)    
+219RA  L 1411.4     3   (29/2-)                                             a   
+219RAX L XREF=BCD                                                               
+219RA  G 122.8     2     83  12  (E1)                  0.292                    
+219RA cG RI$unweighted average of 94 {I3} (E=68 MeV, 2017He15) and 71 {I3}      
+219RA2cG (E=65 MeV, 1992Wi02). Other: 46.9 {I26} (E=67 MeV, 1987Co36)           
+219RA  G 358.1     1     100 3   E2                    0.0911                   
+219RA  L 1426.4    5                                                           ?
+219RAX L XREF=C                                                                 
+219RA  G 295.2     3      100                                                  ?
+219RA  L 1504.4     4   (23/2-)                                             c   
+219RAX L XREF=CD                                                                
+219RA  G 247.2     3    100  11                                                 
+219RA  G 373.3     10    22  11                                                 
+219RA cG E,RI$from E=68 MeV (2017He15). Tentative 373.3 {I5} |g in E=65 MeV     
+219RA2cG (1992Wi02), with no intensity given                                    
+219RA  G 753       1                                                           ?
+219RA cG $|g from E=65 MeV (1992Wi02) only, with I|g=425 {I75}. Treated as      
+219RA2cG uncertain by evaluators, since not confirmed in 2017He15               
+219RA  L 1638.1     4   (25/2+)                                             B   
+219RAX L XREF=BCD                                                               
+219RA  G 313.1     3    100  10                                                 
+219RA  G 392.4     9     43  5                                                  
+219RA cG E,RI$from E=68 MeV (2017He15). Tentative 392.6 {I5} |g in E=65 MeV     
+219RA2cG (1992Wi02), with no intensity given                                    
+219RA  L 1671.6     5   (25/2+)                                             C   
+219RAX L XREF=CD                                                                
+219RA  G 167.3     3   100   17  (E1)                  0.138                    
+219RA  G 414.0     5   117   34                                                 
+219RA cG RI$given in E=68 MeV (2017He15) only                                   
+219RA  G 776.8     10   33   17                                                ?
+219RA cG E,RI$tentative |g from E=68 MeV (2017He15) only                        
+219RA  L 1701.6     3   (31/2)+                                             A   
+219RAX L XREF=BCD                                                               
+219RA  G 290.2     2    100  3   E1                    0.0379                   
+219RA  G 413.2     2   14.3  10  Q                                              
+219RA  L 1738.2     3   (27/2-)                                             b   
+219RAX L XREF=BCD                                                               
+219RA  G 100.2     5   59.1  23  [E1]                  0.110                    
+219RA cG RI$available from E=68 MeV (2017He15) only                             
+219RA  G 413.7     3    100  7   Q                                              
+219RA  G 685.0     4     68  5                                                  
+219RA cG RI$from E=68 MeV (2017He15). Other: 28.6 {I36} (E=65 MeV, 1992Wi02)    
+219RA  L 1833.2     3   (33/2-)                                             a   
+219RAX L XREF=BCD                                                               
+219RA  G 131.6     2    41   8   (E1)                  0.247                    
+219RA cG RI$unweighted average of 56 {I4} (E=68 MeV, 2017He15); 36.4 {I15}      
+219RA2cG (E=65 MeV, 1992Wi02); 30.7 {I16} (E=67 MeV, 1987Co36)                  
+219RA  G 421.8     1    100  4   E2                    0.0588                   
+219RA  L 1933.1     9  (27/2-)                                              c  ?
+219RAX L XREF=D                                                                 
+219RA  G 261.5     7  100    13                                                 
+219RA  G 428.1     10  13    6                                                 ?
+219RA  L 2038.6     4   (29/2+)                                             B   
+219RAX L XREF=BCD                                                               
+219RA  G 300.4     4   100   4                                                  
+219RA  G 400.5     3    21   4                                                  
+219RA cG RI$weighted average of 19.4 {I32} (E=68 MeV, 2017He15) and 32 {I8}     
+219RA2cG (E=65 MeV, 1992Wi02)                                                   
+219RA  L 2130.2     3   (35/2+)                                             A   
+219RAX L XREF=BCD                                                               
+219RA  G 297.0     3    100  5   E1                    0.0360                   
+219RA  G 428.6     2    23.6 20  Q                                              
+219RA cG RI$unweighted average of 21.7 {I11} (E=68 MeV, 2017He15) and 25.5 {I10}
+219RA2cG (E=65 MeV, 1992Wi02). Other: 11.7 {I5} (E=67 MeV, 1987Co36)            
+219RA  L 2152.9    4    (31/2-)                                             b   
+219RAX L XREF=BCD                                                               
+219RA  G 114.1     3    13.4 15                                                 
+219RA cG RI$from E=68 MeV (2017He15). Other: 22.4 {I9} (E=65 MeV, 1992Wi02)     
+219RA  G 414.9     2    100  5  Q                                               
+219RA  G 741.4     5     27  3                                                  
+219RA cG RI$weighted average of 28 {I3} (E=68 MeV, 2017He15) and 25.9 {I35}     
+219RA2cG (E=65 MeV, 1992Wi02). Other: 11.7 {I5} (E=67 MeV, 1987Co36)            
+219RA  L 2289.7     4   (37/2-)                                             a   
+219RAX L XREF=BCD                                                               
+219RA  G 159.5     3     46  12  [E1]                  0.155                    
+219RA cG RI$unweighted average of 34 {I6} (E=65 MeV, 1992Wi02) and 57 {I8}      
+219RA2cG (E=67 MeV, 1987Co36). Other: 13.4 {I15} (E=68 MeV, 2017He15).          
+219RA3cG Unweighted average of all three results is 35 {I13}                    
+219RA  G 456.4     2    100  5   E2                    0.0482                   
+219RA  L 2460.1     4   (33/2+)                                             B   
+219RAX L XREF=BCD                                                               
+219RA  G 307.5     3    100  10                                                 
+219RA  G 421.6     5    127  10                                                 
+219RA cG RI$from E=68 MeV (2017He15) only. Tentative |g in E=65 MeV (1992Wi02), 
+219RA2cG with no I|g; |g not reported in 1987Co36                               
+219RA  L 2567.9     4   (35/2-)                                             b   
+219RAX L XREF=CD                                                                
+219RA  G 108.1     3    45   5                                                  
+219RA cG RI$from E=68 MeV (2017He15). Other: 15 {I8} (E=65 MeV, 1992Wi02)       
+219RA  G 415.1     3    173  9                                                  
+219RA cG RI$from E=68 MeV (2017He15). Other: 85 {I39} (E=65 MeV, 1992Wi02)      
+219RA  G 734.4     4    100  9                                                  
+219RA  L 2580.4     4   (39/2+)                                             A   
+219RAX L XREF=BCD                                                               
+219RA  G 290.6     3    100  4   D                                              
+219RA  G 450.2     3    30.7 20  Q                                              
+219RA cG RI$weighted average of 33.3 {I22} (E=68 MeV, 2017He15) and 29.6 {I23}  
+219RA2cG (E=65 MeV, 1992Wi02); 29.4 {I20} (E=67 MeV, 1987Co36)                  
+219RA  L 2767.8     4   (41/2-)                                             a   
+219RAX L XREF=BCD                                                               
+219RA  G 187.5     3    38.2 14  (E1)                  0.105                    
+219RA cG RI$weighted average of 38.0 {I14} (E=68 MeV, 2017He15) and 42 {I6}     
+219RA2cG (E=65 MeV, 1992Wi02). Other: 59.5 {I27} (E=67 MeV, 1987Co36).          
+219RA3cG Unweighted average of all the three results is 47 {I6}                 
+219RA  G 478.1     3    100  3                                                  
+219RA  L 2888.0     6 (37/2+)                                               B   
+219RAX L XREF=D                                                                 
+219RA  G 319.9     9  100    7                                                  
+219RA  G 428.1     9  73     7                                                  
+219RA  L 3003.0     5   (39/2-)                                             b   
+219RAX L XREF=CD                                                                
+219RA  G 114.8     10  29    5  [E1]                   0.343  9                 
+219RA cG $|g from E=68 MeV (2017He15) only                                      
+219RA  G 435.4     3   100   10                                                 
+219RA  G 711.9     9   67    5                                                  
+219RA cG $|g from E=68 MeV (2017He15) only                                      
+219RA  L 3045.7     4   (43/2+)                                             A   
+219RAX L XREF=BCD                                                               
+219RA  G 277.7     5   100   4   D                                              
+219RA  G 465.1     3    80   5   Q                                              
+219RA cG RI$weighted average of 84 {I4} (E=68 MeV, 2017He15) and 73 {I5}        
+219RA2cG (E=67 MeV, 1987Co36). In E=65 MeV (1992Wi02), I|g is available for     
+219RA3cG only the 465|g, thus no branching ratio can be deduced.                
+219RA  L 3272.7     4   (45/2-)                                             a   
+219RAX L XREF=BD                                                                
+219RA  G 226.9     2    45   4   D                                              
+219RA cG RI$from E=68 MeV (2017He15). Other: 100 {I13} (E=67 MeV, 1987Co36)     
+219RA  G 505.0     2    100  7   Q                                              
+219RA  L 3320.4     7 (41/2+)                                               B   
+219RAX L XREF=D                                                                 
+219RA  G 317.6     9  100    14                                                 
+219RA  G 432.5     10  57    14                                                 
+219RA  L 3451.2     7 (43/2-)                                               b   
+219RAX L XREF=D                                                                 
+219RA  G 131.0     8  100    4                                                  
+219RA  G 448.6     8   80    4                                                  
+219RA  G 682.3     10  16    4                                                  
+219RA  L 3522.5    5    (47/2+)                                             A   
+219RAX L XREF=BD                                                                
+219RA  G 249.4     5   100   5                                                  
+219RA  G 476.9     5   95    9   Q                                              
+219RA cG RI$from E=68 MeV (2017He15). Other: 36 {I9} (E=67 MeV, 1987Co36)       
+219RA  L 3775.6     9 (45/2+)                                               B   
+219RAX L XREF=D                                                                 
+219RA  G 324.3     10  12    4                                                  
+219RA  G 455.3     8   100   8                                                  
+219RA  L 3793.2     5   (49/2-)                                             a   
+219RAX L XREF=BD                                                                
+219RA  G 270.7     3   100   10                                                 
+219RA  G 520.6     4    50   10 Q                                               
+219RA cG RI$from E=68 MeV (2017He15). Other: 100 {I17} (E=67 MeV, 1987Co36)     
+219RA  L 3913.8    14 (47/2-)                                               b   
+219RAX L XREF=D                                                                 
+219RA  G 138.2     10 100    13                                                 
+219RA  G 462.5     10  75    13                                                ?
+219RA  L 4024.7     7 (51/2+)                                               A   
+219RAX L XREF=BD                                                                
+219RA  G 231.7     5  100    4                                                  
+219RA  G 501.7     9   48    4  (Q)                                             
+219RA cG E,RI$from E=68 MeV (2017He15). Other: E|g=503.7 {I2}, I|g=86 {I7}      
+219RA2cG (E=67 MeV, 1987Co36).                                                  
+219RA  L 4324.7     9 (53/2-)                                               a  ?
+219RAX L XREF=D                                                                 
+219RA  G 300.2     9  100    6                                                 ?
+219RA  G 531.2     10  8     4                                                 ?

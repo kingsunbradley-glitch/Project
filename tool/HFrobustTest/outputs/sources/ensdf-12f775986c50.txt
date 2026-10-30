@@ -1,0 +1,28 @@
+243ES    247MD A DECAY (0.25 S)        2010AN08                  14NDS    201408
+243ES  H TYP=FUL$AUT=C.D. Nesaraja, E.A. McCutchan$CIT=NDS 121, 695 (2014)$     
+243ES2 H CUT=30-Sep-2013$                                                       
+243ES c  {+247}Md activity produced in the {+209}Bi({+40}Ar,2n) reaction with   
+243ES2c  E({+40}Ar)=187 MeV. Evaporation residues (Er) separated with the       
+243ES3c  velocity filter SHIP and implanted into a position sensitive Si strip  
+243ES4c  detector.  Measured E|a, I|a, ce, Er-|a, Er-|a|g, |a|g coincidences,   
+243ES5c  Er-|a(t), Er-SF(t), E|g, I|g using an array of position sensitive Si   
+243ES6c  detectors and an HPGe detector. Subset of results given in 2006An13.   
+243ES cA HF$r{-0}({+243}Es)=1.487 {I20} is used to calculate the hindrance      
+243ES2cA factor. This r{-0} is the same value used for the 1.2-second {+247}Md  
+243ES3cA |a decay.                                                              
+247MD  P 0.0+X        (1/2-)            0.25 S    4              8764     10    
+247MD cP           %|a: from 2010An08.                                          
+247MD cP T$from evaporation residue (Er)-|a(t) in 2010An08.                     
+247MD2cP Other: 0.27 s {I7} from Er-SF(t) in 2010An08.                          
+243ES  N                        0.79   5                                        
+243ES  A 8660      2017      5                                                  
+243ES cA E$tentative assignment based on measured T{-1/2}|?0.28 s, in agreement 
+243ES2cA with {+247}Md isomeric state T{-1/2}.                                  
+243ES  L 0.0+Y        (3/2-)                                                    
+243ES cL J$proposed configuration = 3/2[521]                                    
+243ES  L 0.0+Z          (1/2-)                                                  
+243ES cL J$proposed configuration = 1/2[521], HF=2.5 from (1/2-) parent.        
+243ES cL E$z-y<150 keV as non-observation of coincidences between K x-rays and  
+243ES2cL the 8783|a suggests that energy difference between (1/2-) and (3/2-)   
+243ES3cL states is lower than K shell binding energy of 146.5 keV.              
+243ES  A 8783      2083      5 2.5     5                                        

@@ -1,0 +1,192 @@
+240U     ADOPTED LEVELS, GAMMAS                                  25NDS    202511
+240U   H TYP=FUL$AUT=C. Morse$CIT=NDS 206, 359 (2025)$CUT=27-Sep-2024$          
+240U   Q 399       17 5928   3  7911   SY 4035    14   2021Wa16                 
+240U  cQ $|DS(p)=196 (2021Wa16)                                                 
+240U  cQ $S(2n)=10735 {I3},  S(2p)=14387 syst {I283} (2021Wa16)                 
+240U  cG E,RI$From {+238}U({+18}O,{+16}O|g), except where noted.                
+240U  cL J$Primarily based upon observed rotational-band structure, and by      
+240U 2cL analogy to K{+|p}=0{+-} octupole band in {+238}U.                      
+240U  CL BAND(A)$GS band                                                        
+240U  CL BAND(B)$K{+|p}=0{+-}, octupole band                                    
+240U  c  $ See 2023Ni04 for recent mass measurement.                            
+240U  cG E(X)$Observed |g-ray energy differs considerably in                    
+240U 2cG {+238}U({+136}Xe,x|g),({+70}Zn,x|g) dataset, but is also much less     
+240U 3cG precise.                                                               
+240U  cG E(D),RI(D)$From {+238}U({+136}Xe,x|g),({+70}Zn,x|g)                    
+240U  cL E$From a least-squares fit to E{-|g} for levels connected by |g        
+240U 2cL transitions, except where noted.                                       
+240U  cG M$Multipolarities for transitions between the ground-state rotational  
+240U 2cG band are assumed to be of E2 character, while transitions from the     
+240U 3cG presumed octupole band are assumed to be E1.                           
+240U  DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+240U   XA244PU A DECAY                                                          
+240U   XB238U(T,P)                                                              
+240U   XC238U(18O,16OG)                                                         
+240U   XD238U(136XE,XG),(70ZN,XG)                                               
+240U  PN                                                                     6  
+240U   L 0            0+                14.1 H    1                         A   
+240U X L XREF=ABCD                                                              
+240U 2 L %B-=100                                                                
+240U  cL T$From 1981Hs02. Other: 14.1 h {I2} (1953Kn23)                         
+240U   L 45        1  (2+)                                                  A   
+240U X L XREF=ABCD                                                              
+240U  cL E$From (t,p)                                                           
+240U   G 45        1            [E2]                    6.0E2 7                S
+240U S G LC=4.4E2 5$MC=122 14$NC=33 4$OC=7.6 9$PC=1.22 14$QC=0.00292 31         
+240U   L 150.6     10 (4+)                                                  A   
+240U X L XREF=BCD                                                               
+240U   G 105.6     1  100       [E2]                    10.34 15                
+240U S G LC=7.53 11$MC=2.090 31$NC=0.567 8$OC=0.1304 19$PC=0.02136 31$          
+240U S G QC=8.98E-5 13                                                          
+240U   L 313.2     10 (6+)                                                  A   
+240U X L XREF=CD                                                                
+240U   G 162.6     1  100       [E2]                    1.663 24                
+240U S G KC=0.2049 29$LC=1.063 15$MC=0.294 4$NC=0.0798 11$OC=0.01839 26$        
+240U S G PC=0.00305 4$QC=2.232E-5 32                                            
+240U   L 528.7     11 (8+)                                                  A   
+240U X L XREF=CD                                                                
+240U   G 215.5     1  100       [E2]                    0.569 8                 
+240U S G KC=0.1367 19$LC=0.316 4$MC=0.0867 12$NC=0.02352 33$OC=0.00544 8$       
+240U S G PC=0.000912 13$QC=1.029E-5 14                                          
+240U   L 792.9     11 (10+)                                                 A   
+240U X L XREF=CD                                                                
+240U   G 264.1     2  100       [E2]                    0.282 4                 
+240U S G KC=0.0952 13$LC=0.1370 20$MC=0.0373 5$NC=0.01013 15$OC=0.002349 34$    
+240U S G PC=0.000398 6$QC=6.17E-6 9                                             
+240U   L 847.0     11 (3-)                                                  B   
+240U X L XREF=CD                                                                
+240U  cL J$|g's to (2+) and (4+) levels.  2005Is07 assigns this level as the    
+240U 2cL lowest-lying member of a K{+|p}=0{+-} octupole band by analogy with a  
+240U 3cL similar band seen in {+238}U, which would imply negative parity.       
+240U   G 696.4     5  85     19 [E1]                   0.0071610                
+240U S G KC=0.00582 8$LC=0.001013 14$MC=0.0002413 34$NC=6.46E-5 9$              
+240U S G OC=1.560E-5 22$PC=2.95E-6 4$QC=2.187E-7 31                             
+240U   G 801.9     5  100    19 [E1]                   0.005538                 
+240U S G KC=0.00451 6$LC=0.000775 11$MC=0.0001842 26$NC=4.93E-5 7$              
+240U S G OC=1.192E-5 17$PC=2.265E-6 32$QC=1.707E-7 24                           
+240U   L 944.7     11 (5-)                                                  B   
+240U X L XREF=CD                                                                
+240U   G 631.6     5  63     12 [E1]                   0.0085912                
+240U S G KC=0.00697 10$LC=0.001225 17$MC=0.000292 4$NC=7.83E-5 11$              
+240U S G OC=1.887E-5 27$PC=3.57E-6 5$QC=2.60E-7 4                               
+240U   G 794.0     3  100    15 [E1]                   0.005638                 
+240U F G FLAG=X                                                                 
+240U S G KC=0.00459 6$LC=0.000789 11$MC=0.0001877 26$NC=5.03E-5 7$              
+240U S G OC=1.215E-5 17$PC=2.307E-6 32$QC=1.736E-7 24                           
+240U   L 1040      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1087.7    11 (7-)                                                  B   
+240U X L XREF=CD                                                                
+240U   G 558.9     7  24     11 [E1]                   0.0108515                
+240U S G KC=0.00878 12$LC=0.001564 22$MC=0.000374 5$NC=0.0001001 14$            
+240U S G OC=2.410E-5 34$PC=4.54E-6 6$QC=3.25E-7 5                               
+240U   G 774.5     3  100    14 [E1]                   0.005898                 
+240U F G FLAG=X                                                                 
+240U S G KC=0.00480 7$LC=0.000827 12$MC=0.0001967 28$NC=5.27E-5 7$              
+240U S G OC=1.273E-5 18$PC=2.417E-6 34$QC=1.813E-7 25                           
+240U   L 1100.5    11 (12+)                                                 A   
+240U X L XREF=CD                                                                
+240U   G 307.6     3  100       [E2]                    0.174325                
+240U S G KC=0.0716 10$LC=0.0754 11$MC=0.02040 30$NC=0.00553 8$OC=0.001286 19$   
+240U S G PC=0.0002202 32$QC=4.29E-6 6                                           
+240U   L 1160      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1276.1    11 (9-)                                                  B   
+240U X L XREF=CD                                                                
+240U   G 482.5     7  35     11 [E1]                   0.0144821                
+240U S G KC=0.01168 17$LC=0.002116 30$MC=0.000507 7$NC=0.0001357 19$            
+240U S G OC=3.26E-5 5$PC=6.11E-6 9$QC=4.28E-7 6                                 
+240U   G 747.5     3  100    14 [E1]                   0.006299                 
+240U F G FLAG=X                                                                 
+240U S G KC=0.00512 7$LC=0.000884 12$MC=0.0002105 30$NC=5.64E-5 8$              
+240U S G OC=1.362E-5 19$PC=2.58E-6 4$QC=1.930E-7 27                             
+240U   L 1447.0    15 (14+)                                                     
+240U X L XREF=D                                                                 
+240U   G 346.5     10           [E2]                    0.122720                
+240U F G FLAG=D                                                                 
+240U S G KC=0.0572 9$LC=0.0482 8$MC=0.01295 23$NC=0.00351 6$OC=0.000818 14$     
+240U S G PC=0.0001412 25$QC=3.26E-6 5                                           
+240U   L 1502.9    15 (11-)                                                     
+240U X L XREF=D                                                                 
+240U   G 710.0     10           [E1]                   0.0069110                
+240U F G FLAG=D                                                                 
+240U S G KC=0.00562 8$LC=0.000976 14$MC=0.0002324 33$NC=6.23E-5 9$              
+240U S G OC=1.503E-5 21$PC=2.85E-6 4$QC=2.113E-7 30                             
+240U   L 1545      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1596      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1670      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1708      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1756      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1775.7    15 (13-)                                                     
+240U X L XREF=D                                                                 
+240U   G 675.2     10           [E1]                   0.0075811                
+240U F G FLAG=D                                                                 
+240U S G KC=0.00616 9$LC=0.001075 15$MC=0.000256 4$NC=6.86E-5 10$               
+240U S G OC=1.656E-5 24$PC=3.13E-6 4$QC=2.310E-7 33                             
+240U   L 1792      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1826.4    18 (16+)                                                     
+240U X L XREF=D                                                                 
+240U   G 379.4     10           [E2]                    0.095315                
+240U F G FLAG=D                                                                 
+240U S G KC=0.0482 7$LC=0.0347 6$MC=0.00927 16$NC=0.00251 4$OC=0.000587 10$     
+240U S G PC=0.0001019 17$QC=2.66E-6 4                                           
+240U   L 1893      5                                                            
+240U X L XREF=B                                                                 
+240U   L 1929      5                                                            
+240U X L XREF=B                                                                 
+240U   L 2010      5                                                            
+240U X L XREF=B                                                                 
+240U   L 2089.0    18 (15-)                                                     
+240U X L XREF=D                                                                 
+240U   G 642.0     10           [E1]                   0.0083312                
+240U F G FLAG=D                                                                 
+240U S G KC=0.00676 10$LC=0.001186 17$MC=0.000283 4$NC=7.58E-5 11$              
+240U S G OC=1.828E-5 26$PC=3.45E-6 5$QC=2.53E-7 4                               
+240U   L 2236.3    21 (18+)                                                     
+240U X L XREF=D                                                                 
+240U   G 409.9     10           [E2]                    0.077512                
+240U F G FLAG=D                                                                 
+240U S G KC=0.0417 6$LC=0.0264 4$MC=0.00703 12$NC=0.001903 31$OC=0.000445 7$    
+240U S G PC=7.78E-5 13$QC=2.246E-6 34                                           
+240U   L 2428.0    21 (17-)                                                     
+240U X L XREF=D                                                                 
+240U   G 601.6     10           [E1]                   0.0094214                
+240U F G FLAG=D                                                                 
+240U S G KC=0.00764 11$LC=0.001349 19$MC=0.000322 5$NC=8.63E-5 12$              
+240U S G OC=2.078E-5 30$PC=3.92E-6 6$QC=2.84E-7 4                               
+240U   L 2668.2    23 (20+)                                                     
+240U X L XREF=D                                                                 
+240U   G 431.9     10           [E2]                    0.067710                
+240U F G FLAG=D                                                                 
+240U S G KC=0.0378 6$LC=0.02208 35$MC=0.00585 9$NC=0.001585 26$OC=0.000371 6$   
+240U S G PC=6.52E-5 10$QC=2.005E-6 30                                           
+240U   L 2801.4    23 (19-)                                                     
+240U X L XREF=D                                                                 
+240U   G 565.1     10           [E1]                   0.0106215                
+240U F G FLAG=D                                                                 
+240U S G KC=0.00860 12$LC=0.001529 22$MC=0.000365 5$NC=9.79E-5 14$              
+240U S G OC=2.356E-5 34$PC=4.44E-6 6$QC=3.19E-7 5                               
+240U   L 3116.8    25 (22+)                                                     
+240U X L XREF=D                                                                 
+240U   G 448.6     10           [E2]                    0.06169                 
+240U F G FLAG=D                                                                 
+240U S G KC=0.0352 5$LC=0.01943 31$MC=0.00514 8$NC=0.001391 22$OC=0.000326 5$   
+240U S G PC=5.74E-5 9$QC=1.849E-6 27                                            
+240U   L 3181.9    25 (21-)                                                     
+240U X L XREF=D                                                                 
+240U   G 513.7     10           [E1]                   0.0127919                
+240U F G FLAG=D                                                                 
+240U S G KC=0.01033 15$LC=0.001858 27$MC=0.000445 6$NC=0.0001190 17$            
+240U S G OC=2.86E-5 4$PC=5.38E-6 8$QC=3.81E-7 6                                 
+240U   L 3572      3  (24+)                                                     
+240U X L XREF=D                                                                 
+240U   G 455.1     10           [E2]                    0.05949                 
+240U F G FLAG=D                                                                 
+240U S G KC=0.0343 5$LC=0.01853 29$MC=0.00489 8$NC=0.001324 21$OC=0.000311 5$   
+240U S G PC=5.47E-5 9$QC=1.793E-6 26                                            

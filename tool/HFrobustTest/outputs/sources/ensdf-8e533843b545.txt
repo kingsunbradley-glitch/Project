@@ -1,0 +1,27 @@
+262SG    ADOPTED LEVELS                                          01NDS    200112
+262SG  H TYP=ERR$AUT=J. Tuli$DAT=9-Nov-2010$COM=2001Mu06 to 2001Ho06 (G. Audi)$ 
+262SG  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94, 131 (2001)$CUT=1-Aug-2001$          
+262SG  Q -6.2E3    SY7.71E3  4 3.17E3  SY9600    16    2012WA38                 
+262SG cQ $Note: Current evaluation has used the following Q record              
+262SG2cQ -6084     syst 7810   syst 3220   syst 9600   syst    1995Au04         
+262SG c                                                                         
+262SG t  Assignment:                                                            
+262SG2t     {+207}Pb({+64}Ni,X)270(110) |a decay => {+266}Hs |a decay => {+262}S
+262SG+t  g (2001Ho06).                                                          
+262SG c                                                                         
+262SG c  Theoretical studies:                                                   
+262SG c  For calculations and for predicted T{-1/2}(SF), see 1985Lo17, 1989St20,
+262SG2c  1995KoZL, 1997Ro12.                                                    
+262SG c  For predicted half-lives for |a decay, see 1976Ra02, 1995KoZL,         
+262SG2c  1997Mo25, 1997Po18.                                                    
+262SG c  Deformations, Q(a), E(2+ level) and I|a(to 2+)/I|a(to 0+) were         
+262SG2c  calculated by 2001Ho06.                                                
+262SG c  T{-1/2}(|e decay) was calculated by 1995KoZL and 1997Mo25.             
+262SG c                                                                         
+262SG  XA266HS A DECAY                                                          
+262SG  L 0.0         0+                6.9 MS    +38-18                         
+262SG cL T         measured by 2001Ho06.                                        
+262SG2 L %SF GE 78 $ %A LE 22                                                   
+262SG cL           Only SF branch was detected. From non-observation of |a's    
+262SG2cL upper limit of 22% for |a decay branch was set by 2001Ho06.            
+262SGX L XREF=A                                                                 

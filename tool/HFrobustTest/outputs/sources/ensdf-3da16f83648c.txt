@@ -1,0 +1,57 @@
+259RF    ADOPTED LEVELS                                          13NDS    201309
+259RF  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+259RF2 H CUT=1-Aug-2011$                                                        
+259RF D  Modified by E. Browne (October 10, 2011).                              
+259RF  Q -3629     SY 6051   SY 3711   SY 9130   SY    2012WA38                 
+259RF cQ $Estimated |DQ(|b{+-})=90, |DS(n)=79, |DS(p)=125,                      
+259RFxcQ |DQ(|a)=71 (2012Wa38)                                                  
+259RF c                                                                         
+259RF c  Calculations, compilations:                                            
+259RF c  |a decay, Q values, Half-lives: 2010Do08, 2010Si27, 2009Do22, 2009Sa25,
+259RF2c  2008Do12, 2008Ro06, 2007Zh41, 2006Pa12, 2006Xu04, 2005Re16, 2004Xu02,  
+259RF3c  2003Re32, 2002Gu24, 2001Mo07.                                          
+259RF c  Favored |a decay: 1993Bu09                                             
+259RF c  g.s. properties: 1997Mo25, 1995Mo29                                    
+259RF c  Single-particle Nilsson levels: 2005Pa28, 2005Pa73, 1994Cw02           
+259RF c  Fission Barriers: 2000Du06                                             
+259RF c  Spontaneous fission: 2000Ho27                                          
+259RF c  Nuclear reactions:                                                     
+259RF c  {+136}Xe({+124}Sn,n) E=289.5 MeV (2008Sm02,2001De23).                  
+259RF c  {+242}Pu({+22}Ne,5n) (2000La34).                                       
+259RF c                                                                         
+259RF c  1994Cw02 calculate the following single-particle level sequence:       
+259RF2c  g.s., 1/2[620]; 0.01 MeV, 3/2[622]; 0.05 MeV, 11/2[725]; 0.11 MeV,     
+259RF3c  7/2[613]; 0.40 MeV, 9/2[615]; 1.40 MeV, 7/2[624].                      
+259RF c                                                                         
+259RF c  Assignment: {+249}Cf({+13}C,3n) excit, parent of {+255}No              
+259RF2c  (1969Gh01,1971Gh03). {+246}Cm({+18}O,5n), SF followed (1973Dr10).      
+259RF3c  {+249}Cf({+13}C,3n), measured SF/|a (1981Be03). {+248}Cm({+15}N,4n)    
+259RFxc  excit, {+245}Cm({+18}O,4n) (1985So03).                                 
+259RF  XA263SG A DECAY                                                          
+259RF  XB238U(26MG,5N)                                                          
+259RF cL E(A)      From {+263}Sg |a decay                                       
+259RF  L  0.0                          2.4 S     4                              
+259RFX L XREF=B                                                                 
+259RF2 L %A=92 2$ %SF=8 2                                                       
+259RF cL J         analogy to {+253}Cf (N=155) suggests 7/2[613]. {+259}Rf |a   
+259RF2cL decay does not seem to go to {+255}No g.s. with J|p=(1/2+). Therefore, 
+259RF3cL J|p may not be the 1/2[620] Nilsson level as predicted                 
+259RF4cL by 1994Cw02.                                                           
+259RF cL T$weighted average of 1.9 s {I+13-5} (2006Gr24),                       
+259RF2cL 2.2 s {I+17-8} (2004Fo08), 2.6 s {I+14-7} (2004Mo14), 1.7 s {I+8-5}    
+259RF3cL (1994Gr08), 3.4 s {i17} (1985So03), 3.0 s {i13} (1981Be03),            
+259RF4cL 3.2 s {i8} (1973Dr10). Other value: 3 s (1969Gh01).                    
+259RF cL %SF       weighted average of 6.3 {I37} (1981Be03) from SF/|a and      
+259RF2cL 8 {I2} (1973Dr10), 9 {I3} (1985So03) from cross section calculations.  
+259RF3cL Other: <20 (1971Gh02)                                                  
+259RF cL %EC+%B+   log| {Ift}|?6 gives T{-1/2}(|e+|b{++})|?1000 s               
+259RF  L    0.0+X                                                           A   
+259RFX L XREF=A                                                                 
+259RF cL E         X=10 from Q(|a)=9403 (systematics,2011AuZZ)                  
+259RFxcL and E|a=9250 {I40} (1974Gh04).                                         
+259RF  L  203+X    40                                                       A   
+259RFX L XREF=A                                                                 
+259RF cL E         E=203 from Q(|a)({+263}Sg)=9403 syst (2012Wa38) and E|a=9060 
+259RFxcL {I40}                                                                  
+259RF cL E         uncertainty in E(level) does not include the uncertainty     
+259RF2cL in X.                                                                  

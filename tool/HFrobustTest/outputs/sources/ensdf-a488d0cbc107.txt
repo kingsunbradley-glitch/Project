@@ -1,0 +1,204 @@
+256FM    ADOPTED LEVELS, GAMMAS                                  17NDS    201704
+256FM  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256FM  Q -1970     SY 6384   7 5891    12 7027   5     2017WA10                 
+256FM cQ $Estimated uncertainty=120 for Q(|b{+-}) (2017Wa10)                    
+256FM cQ $S(2n)=11559 {I7}, S(2p)=10433 {I12} (2017Wa10)                        
+256FM c  1955Ch30 produced and identified {+256}Fm in neutron irradiation of    
+256FM2c  {+255}Es, and |b{+-} decay of {+256}Es at Berkeley. Measured           
+256FM3c  half-life from decay curve for spontaneous fission. Later studies:     
+256FM4c  of {+256}Fm decay: 1958Ph40, 1965Si14, 1968Ho13, 1972Fl04, 1981Lo15    
+256FM c  Theoretical calculations: consult the Nuclear Science References (NSR) 
+256FM2c  database for about 200 theory references.                              
+256FM c  2014Sh07, 2013Af01, 2013Pr08, 2012Jo05: nuclear structure theory       
+256FM2c  references                                                             
+256FM cG E,RI$From 7.6-h {+256}Es |b{+-} decay or {+256}Md |e decay, when       
+256FM2cG independent levels are populated in each. For 682 and 725 levels,      
+256FM3cG populated in both the decays, unweighted averages are taken            
+256FM cG E(S)$Transition has not been observed; its energy is from level        
+256FM2cG scheme.                                                                
+256FM cG CC$Theoretical values from BrIcc code (2008Ki07) using "Frozen orbital"
+256FM2cG approximation                                                          
+256FM cL E$From least-squares fit to E|g values                                 
+256FM cL $Assignments to band members are from depopulation patterns,           
+256FM2cL and energy fit to rotational bands.                                    
+256FM cL J(R)$Strong evidence for the presence of rotational band based on g.s. 
+256FM CL BAND(A)$K|p=0+ band.                                                   
+256FM CL BAND(B)$K|p=(2+) |g-vibrational band.                                  
+256FM CL BAND(O)$K|p=(2-) octupole-vibrational band.                            
+256FM CL BAND(D)$K|p=(3+) band                                                  
+256FM CL BAND(E)$K|p=(5+) band                                                  
+256FM  XA256ES B- DECAY (25.4 M)                                                
+256FM  XB256ES B- DECAY (7.6 H)                                                 
+256FM  XC256MD EC DECAY (77.7 M)                                                
+256FM PN                                                                     6  
+256FM  L 0.0          0+               157.1 M   13                         A   
+256FM2 L %A=8.1 3$ %SF=91.9 3                                                   
+256FMX L XREF=BC                                                                
+256FM cL T$weighted average of 150 min {I4} (1981Lo15), 157.6 min {I13}         
+256FM2cL (1972Fl04), 157 min {I2} (1968Ho13), 162 min {I6} (1965Si14),          
+256FM3cL 160 min {I10} (1958Ph40). Other: |?3-4 h (1955Ch30)                    
+256FM cL $Branching: |a/(|a+SF)=0.081 {I3} was determined by 1968Ho13           
+256FM2cL from |a and SF counts.                                                 
+256FM3cL Other measurement: SF/|a=35 {I10} (1965Si14).                          
+256FM cL $Emission of |a rays, tritons and protons in the SF of {+256}Fm        
+256FM2cL was studied by 1985Wi10.                                               
+256FM  L 48.12     16 2+                                                    A   
+256FMX L XREF=BC                                                                
+256FMF L FLAG=R                                                                 
+256FM  G 48.3      3           [E2]                    832        100       S  S
+256FM  L 159.60    20 4+                                                    A   
+256FMX L XREF=BC                                                                
+256FMF L FLAG=R                                                                 
+256FM  G 111.6     2  100      [E2]                    15.96                    
+256FM  L 332.2      3 6+                                                    A   
+256FMX L XREF=B                                                                 
+256FMF L FLAG=R                                                                 
+256FM  G 172.6     2  100      [E2]                    2.40                     
+256FM  L 563.3      3 8+                                                    A   
+256FMX L XREF=B                                                                 
+256FMF L FLAG=R                                                                 
+256FM  G 231.1     2  100      [E2]                    0.772                    
+256FM  L 682.21    14  (2+)                                                 B   
+256FMX L XREF=BC                                                                
+256FM cL J         relative photon intensities of transitions to 0+ and 2+      
+256FM2cL states of g.s. band suggest J|p=2+.                                    
+256FM  G 634.1     2  94     10                                             @   
+256FM  G 682.2     2  100                                                       
+256FM  L 725.43    19  (3+)                                                 B   
+256FMX L XREF=BC                                                                
+256FM  G 565.9     3  23     4                                                  
+256FM  G 677.4     2 100     8                                                  
+256FM  L 783.20    22  (4+)                                                 B   
+256FMX L XREF=B                                                                 
+256FM  G 450.8     15 13                                                        
+256FM  G 623.5     2 100                                                        
+256FM  L 853.4      5  (5+)                                                 B   
+256FMX L XREF=B                                                                 
+256FM  G 693.8     15 100                                                       
+256FM  L 881.59    19  (2-)                                                 O   
+256FMX L XREF=B                                                                 
+256FM cL J         |g transitions to the (2+),(3+) states of K=2                
+256FM2cL |g-vibrational band, and |g to only 2+ of the K=0 g.s. band; no        
+256FM3cL |g rays to 0+,4+ of the K=0 g.s. band.                                 
+256FM  G 156       2 1.5                                                        
+256FM  G 199.3     2 26                                                         
+256FM  G 833.5     2 100                                                        
+256FM  L 922.03    23  (3-)                                                 O   
+256FMX L XREF=B                                                                 
+256FM  G 141       2 4                                                          
+256FM  G 197.4     5 35                                                        ?
+256FM  G 762.7     2 100                                                        
+256FM  L 938.8     16  (6+)                                                 B   
+256FMX L XREF=B                                                                 
+256FM  G 606.6     15 100                                                       
+256FM  L 978.1      5  (4-)                                                 O   
+256FMX L XREF=B                                                                 
+256FM  G 252.7     5  100                                                       
+256FM  L 1039.0     4  (7+)                                                 B   
+256FMX L XREF=B                                                                 
+256FM  G 185.7     5 22                                                         
+256FM  G 706.8     2 100                                                        
+256FM  L 1045.1     5  (5-)                                                 O   
+256FMX L XREF=B                                                                 
+256FM  G 67.0                                                               S  S
+256FM  G 192       2                                                            
+256FM  L 1099.73   18  (3+)                                                 D   
+256FMX L XREF=B                                                                 
+256FM cL J         |g transitions to 2+, (2-) and 4+ state rule out J<2,        
+256FM2cL 2-, J>3 for 1099.7 level; 218.1|g to (2-) might be E1, as deduced      
+256FM3cL from intensity balance at the 882.8 level in 7.6-h {+256}Es |b{+-}     
+256FM4cL decay. The probable J|p values, then, are 2+ and 3+. From the branching
+256FM5cL ratios of deexciting gammas, 1989Ha10 suggested J|p=3+ which is        
+256FM6cL consistent with absence of |g to the 0+ g.s.                           
+256FM  G 178.0     2 19      LE                                             *   
+256FM  G 218.1     2 100                                                        
+256FM  G 316.4     2 18                                                         
+256FM  G 374.2     2 25                                                         
+256FM  G 417.6     2 27                                                         
+256FM  G 940.1     15 14                                                        
+256FM  G 1051.5    2 45                                                         
+256FM  L 1123.0     5 (6-)                                                  O   
+256FMX L XREF=B                                                                 
+256FM  G 78.0                                                               S  S
+256FM  G 269.5     5                                                            
+256FM  L 1150.3       (8+)                                                  B  ?
+256FMX L XREF=B                                                                 
+256FM  G 211.2     5                                                        *  ?
+256FM  G 586.6     15                                                          ?
+256FM  L 1150.4     4  (4+)                                                 D   
+256FMX L XREF=B                                                                 
+256FM  G 50.8                                                               S  S
+256FM  L 1213.5    11  (7-)                                                 O  ?
+256FMX L XREF=B                                                                 
+256FM  G 90.5                                                               S  S
+256FM  L 1251.6     4  (5+)                                                 E   
+256FMX L XREF=B                                                                 
+256FM cL J         |g transitions to (3+) and (4+) states of K=2 band,          
+256FM2cL but no |g to 2+ bandhead imply J|p of 5+ for the 1251.6 level.         
+256FM  G 397.2     5 82                                                        ?
+256FM  G 468.4     5 100                                                        
+256FM  G 526.1     5 91                                                         
+256FM  L 1326.17   18  (1+)                                                     
+256FMX L XREF=C                                                                 
+256FM cL $Proposed configuration=|n7/2[613]~#|n9/2[615] (2000Ah02)              
+256FM  G 600.8     4  17     3                                                  
+256FM  G 644.0     2  100    8                                                  
+256FM  G 1278.0    3  14     2                                                  
+256FM  G 1326.1    3  33     3                                              &   
+256FM  L 1328.3     4 (6+)                                                  E  ?
+256FMX L XREF=B                                                                 
+256FM cL J$from probable (E1) character of the 96.8|g from (7-)                 
+256FM2cL isomeric state                                                         
+256FM  G 76.8                                                               S  S
+256FM  G 178.0     2                                                        *   
+256FMF G FL=1150.4                                                              
+256FM  L 1360.4     3  (2+)                                                     
+256FMX L XREF=C                                                                 
+256FM cL $Proposed configuration=|n7/2[613]~#|n9/2[615] (2000Ah02)              
+256FM  G 634.1     2  76     30                                             @  ?
+256FM  G 677.3     2                                                        @  ?
+256FM  G 1200.6    5  42     9                                                  
+256FM  G 1312.3    3  100    9                                                  
+256FM  L 1374.19   18  (1-)                                                     
+256FMX L XREF=C                                                                 
+256FM cL $Proposed configuration=|p7/2[633]~#|p7/2[514] (2000Ah02)              
+256FM  G 692.0     2  100    8                                                  
+256FM  G 1326.1    3  49     4                                              &   
+256FM  G 1374.1    3  52     6                                                  
+256FM  L 1405.27   21  (2-)                                                     
+256FMX L XREF=C                                                                 
+256FM cL $Proposed configuration=|p7/2[633]~#|p7/2[514] (2000Ah02)              
+256FM  G 680.0     3  70     6                                                  
+256FM  G 723.0     2  82     9                                                  
+256FM  G 1357.1    3  100    9                                                  
+256FM  L 1425.1     3 (7-)             70 NS     5                           M  
+256FMX L XREF=B                                                                 
+256FM2 L %IT=100                                                                
+256FM cL T$from 1989Ha10 by (|b)(231|g)(t) data. The observed                   
+256FM2cL |b-delayed fission activities were consistent with this half-life.     
+256FM cL $The partial half-life for fission was deduced by 1989Ha10 as          
+256FM2cL 0.8 ms {I+88-7} from the |b-delayed-fission probability of             
+256FM3cL 2|*10{+-5} (measured number of delayed fissions/total number of        
+256FM4cL |b{+-} decays of 7.6-h {+256}Es; two fission events were observed.)    
+256FM cL J         |g transitions to 8+ and (5-) states, relative photon        
+256FM2cL intensities of deexciting |g rays, and nonobservation of transitions   
+256FM3cL to 5+, 4+ states suggest J|p=(7-). 1989Ha10 pointed out that this      
+256FM4cL level could be analogous to the 7-,two-quasiparticle state predicted   
+256FM5cL for {+254}Fm by 1964So02: K|p=7-, |p7/2[633]~#|p7/2[514].              
+256FM  G 96.8      2 13                                                         
+256FM  G 211.2     5 4.4     LE                                             *  ?
+256FM  G 275.3     2 5.8                                                       ?
+256FMF G FL=1150.3                                                              
+256FM  G 302.0     5 4.2                                                        
+256FM  G 380.0     5 1.9                                                        
+256FM  G 861.8     2 100                                                        
+256FM  G 1092.9    2 47                                                         
+256FM  L 1559.8     4 (7+,8+)                                                   
+256FMX L XREF=B                                                                 
+256FM cL J         log| {Ift} for the |b branch from 7.6-h {+256}Es indicates an
+256FM2cL allowed transition, if completion of the decay scheme would not        
+256FM3cL decrease |b intensity considerably. If J|p(7.6-h {+256}Es parent)=8+,  
+256FM4cL then |p(1560 level)=+. From |g transition to the (7-) state,           
+256FM5cL J|p=7+ or 8+ may be deduced. Because of the assumptions made,          
+256FM6cL however, these suggested spins should be considered as very tentative. 
+256FM  G 134.7     2   100      [E1]                   0.0735                   

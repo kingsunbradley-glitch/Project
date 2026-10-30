@@ -1,0 +1,1601 @@
+235U     ADOPTED LEVELS, GAMMAS                                  14NDS    201411
+235U   H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 122, 205 (2014)$             
+235U 2 H CUT=1-Feb-2014$                                                        
+235U   Q -124.0    9  5297.5 2 6709    4 4678.2  7     2012WA38                 
+235U  D  Modified by E. Browne (January 22, 2014, Sept. 23,2014)                
+235U  c  Other reactions:                                                       
+235U  c  {+235}U(n,n'): E<20 MeV (2013He11,2005Ha23); E=0.14-15.2 MeV           
+235U 2c  (2010Ha06); Others: 2009Ch24, 2009Mu14, 2004Du20.                      
+235U  c  {+235}U(n,n'|g): 2013Ke02, 2012LeZZ, 2008HuZW.                         
+235U  c  {+235}U(|a,|a'): 2011Bu11.                                             
+235U  c  {+235}U(p,p): E=1-200 MeV, calculated |s (2008Li05).                   
+235U  c  {+235}U(SF): 2013Ka26, 2012Fa12, 2012Ha06, 2005Re16. Measured          
+235U 2c  |s using surrogate reaction (2012Hu01);                                
+235U 3c  calculated fission barrier and half-life (2012Ro34,2007Ro08).          
+235U  c  {+238}U(n,4n): 2012Br11                                                
+235U  c  {+235}U(n,F) E=400 keV (2012PrZZ); E=2-8 MeV (2011Mu07);               
+235U 2c  E=0.01 - 30 MeV, calculated |s (2009Go05).                             
+235U  c  {+235}U({+12}C,{+12}C) E=30-1000 Mev/nucleon;                          
+235U 2c  {+235}U({+20}C,{+20}C) E=30-1000 Mev/nucleon (2008Li05).               
+235U  c  Cluster decay:                                                         
+235U  c  {+235}U({+29}Mg): calculated half-life (2013Ta07).                     
+235U  c  {+235}U({+24}Ne), {+235}U({+25}Ne): Calculated half-life               
+235U xc  (2013Zd01,2013Zd02).                                                   
+235U  c  {+235}U({+24}Ne), {+235}U({+25}Ne),{+235}U({+28}Mg): Calculated        
+235U 2c  half-life (2012Ba35,2012Ku29). Others: {+235}U({+24}Ne),               
+235U xc  {+235}U({+25}Ne): 2010Ni13, 2004Ba64                                   
+235U  c  {+235}U({+20}O), {+235}U({+22-26}Ne), {+235}U({+28-30}Mg) calculated   
+235U 2c  Q(|b{+-})value, half-life (2012Sa31).                                  
+235U  c  {+235}U({+24}Mg): calculated half-life, isotope shift, Q(|b{+-})value  
+235U xc  (2005Bh02).                                                            
+235U  c  {+235}U({+28}Mg): 2010Si12; calculated half-life (2009Ar11).           
+235U 2c  Other: 2009Do16.                                                       
+235U  c  {+235}U({+25}Ne), {+235}U({+29}Mg): calculated half-life (2011Sh13).   
+235U  c  {+235}U({+26}Ne), {+235}U({+29}Mg): 2005Ku32, 2005Ku04.                
+235U  c  {+232}Th({+16}O,{+13}C), {+232}Th({+19}F,{+16}N) (2000Si04):           
+235U 2c  Measured excitation functions.                                         
+235U  c  {+232}Th(|a,xnF) (1997Er02): Measured fission fragments.               
+235U  c  {+235}U(SF): calculated fission barrier and half-life                  
+235U 2c  (2012Ro34,2012Pa40,2011Hu06)                                           
+235U  c  {+235}U isotopic abundance in natural uranium: 2012Qi02, 2011Be53,     
+235U 2c  2008We01.                                                              
+235U  c  Nuclear Structure:                                                     
+235U 2c  Level density parameters: 2006Fr21. Others: 2011Mu06, 2010Ni02,        
+235U 3c  2010Qu01, 2010To07, 2006Sa35.                                          
+235U 4c  Quadrupole moment: 2005Ko18.                                           
+235U  DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+235U  cG E,RI$From Coulomb Excitation or {+239}Pu |a decay, unless otherwise    
+235U 2cG specified.                                                             
+235U  cG MR$From {+239}Pu |a decay                                              
+235U  cG E(W)$From {+234}U(n,|g)                                                
+235U  cG E(Z),RI(Z)$From {+234}U(n,|g)                                          
+235U  cG E(X),RI(X)$ Unresolved from a 1782|g in {+238}U                        
+235U  cL E(Z)$From {+239}Pu |a decay                                            
+235U  cL E(W)$From {+234}U(n,|g)                                                
+235U  cL E$Deduced by evaluators from least-squares fit to |g-ray energies.     
+235U  cL J         Spin/parity and configuration assignments are based on       
+235U 2cL |g-ray multipolarities, B(E2) values from Coulomb Excitation,          
+235U 3cL alpha hindrance factors from {+239}Pu |a decay,                        
+235U 4cL and on rotational structure.                                           
+235U  CL BAND(A)$ 7/2[743], |a=+1/2                                             
+235U  CL BAND(a)$ 7/2[743], |a=-1/2                                             
+235U  CL BAND(B)$ 1/2[631], |a=+1/2                                             
+235U  CL BAND(b)$ 1/2[631], |a=-1/2                                             
+235U  CL BAND(C)$ 5/2[622], |a=+1/2                                             
+235U  CL BAND(c)$ 5/2[622], |a=-1/2                                             
+235U  CL BAND(D)$ 3/2[631], |a=+1/2                                             
+235U  CL BAND(d)$ 3/2[631], |a=-1/2                                             
+235U  CL BAND(E)$ K=3/2 |g-vibrational band, |a=+1/2                            
+235U  CL BAND(e)$ K=3/2 |g-vibrational band. |a=-1/2                            
+235U  CL BAND(F)$ 5/2[752], |a=+1/2                                             
+235U  CL BAND(f)$ 5/2[752], |a=-1/2                                             
+235U  CL BAND(G)$ 9/2[734], |a=+1/2                                             
+235U  CL BAND(g)$ 9/2[734], |a=-1/2                                             
+235U  CL BAND(H)$ K=11/2 |g-vibrational band, |a=+1/2                           
+235U  CL BAND(h)$ K=11/2 |g-vibrational band, |a=-1/2                           
+235U  CL BAND(K)$ 1/2[501] + 1/2[770]                                           
+235U  CL BAND(L)$ 1/2[631]|*0-                                                  
+235U  CL BAND(M)$ 5/2[633]                                                      
+235U  CL BAND(N)$ 7/2[624]                                                      
+235U  CL BAND(O)$ 1/2[631]|*0+ BETA VIBRATION                                   
+235U  CL BAND(P)$ 5/2[622]-2+                                                   
+235U  CL BAND(Q)$ 5/2[622]|*0+ BETA VIBRATION                                   
+235U   XB235PA B- DECAY                                                         
+235U   XC235NP EC DECAY                                                         
+235U   XD239PU A DECAY                                                          
+235U   XACOULOMB EXCITATION                                                     
+235U   XE233U(T,P)                                                              
+235U   XF234U(N,G) E=TH                                                         
+235U   XG234U(D,P)                                                              
+235U   XI235U(N,N')                                                             
+235U   XJ235U(N,N'G)                                                            
+235U   XK235U(D,D')                                                             
+235U   XL236U(D,T)                                                              
+235U   XM236U(3HE,A)                                                            
+235U   XNMUONIC ATOM                                                            
+235U   XP235U(G,G')                                                             
+235U  PN                                                                     6  
+235U   L 0.0          7/2-             7.04E+8 Y 1                          a   
+235U X L XREF=ABCDFGIJKLNP                                                      
+235U 3 L %A=100 $ %SF=7E-9 2$ %20NE=8E-10 4$ %25NE AP 8E-10$                    
+235U 4 L %28MG=8E-10                                                            
+235U 2 L MOMM1=-0.38 3 (1983Ni08,2011StZZ)$                                     
+235U 3 L MOME2=+4.936 6 (1984Zu02,2011StZZ)                                     
+235U  cL           |m({+233}U)/|m({+235}U)=-1.5604 {I14}, consistent with       
+235U 2cL 5/2[633] and 7/2[743] configurations for {+233}U and {+235}U ground    
+235U 3cL states, respectively (1990Ga28).                                       
+235U  cL J$Measured - see 2013Ma15, 1955Va07, 1956Hu26, 1956Ka53, 1957Bl66,     
+235U 2cL 1958Da21. Parity and configuration assignments are                     
+235U 2cL from |m, Q.                                                            
+235U  cL           Charge radius deduced from optical isotope shifts (1990Ga28) 
+235U 2cL Others: 1998El02, 1992An17, 1997Be64.                                  
+235U  cL T$From 2004Sc03, weighted average (chi**/n-1=1.006) of                 
+235U 2cL 6.97|*10{+8} y {i24} (1939Ni03. Mass spectrometry. Measured Pb/U       
+235U 3cL ratios in uranium ores);                                               
+235U 4cL 7.11|*10{+8} y {i14} (1950Kn17. Specific activity method.);            
+235U 5cL 6.77|*10{+8} y {i21} (1951Sa30, Measured {+235}U/{+238}U)              
+235U 6cL activity ratios.);                                                     
+235U 7cL 7.12|*10{+8} y {i16} (1952Fl20. Specific activity method.);            
+235U 8cL 7.64|*10{+8} y {i43} (1957Cl16. Measured {+235}U/{+238}U)              
+235U 9cL activity ratios.);                                                     
+235U AcL 6.95|*10{+8} y {i16} (1957Wu39. Measured {+235}U/{+234}U               
+235U BcL activity ratios.);                                                     
+235U CcL 7.12|*10{+8} y {i9} (1965Wh05. Specific activity method);              
+235U DcL 7.06|*10{+8} y {i8} (1966Ba58), Mass spectrometry.                     
+235U EcL 7.04|*10{+8} y {i1} (1971Ja07. Specific activity method);              
+235U FcL 6.79|*10{+8} y {i13} (1974De19. Measured {+235}U/{+238}U |a            
+235U GcL activity ratios);                                                      
+235U HcL Other value: 7.04|*10{+8} y (Value recommended in 2000Ho27.)           
+235U IcL Others: 1965De06, 1971Ar48, 1974Ja17, 1993Bu10.                        
+235U  cL           T{-1/2}(SF)=1.0|*10{+19} y {I3}, value recommended in        
+235U 2cL 2000Ho27 from T{-1/2}(SF)=9.8|*10{+18} y {I28} (1981Vo02);             
+235U 3cL T{-1/2}(SF)>1.8|*10{+18} y (1974GrZA);                                 
+235U xcL T{-1/2}(SF)=0.35|*10{+18} y {I9} (1966Al23);                           
+235U xcL T{-1/2}(SF)=0.18|*10{+18} y (1952Se67).                                
+235U  cL           %{+20}Ne/%|a=8|*10{+-12} {I4} (1989Tr11,1991Bo20).           
+235U  cL           {+24}Ne emission (1997Ka11).                                 
+235U  cL           T{-1/2}({+25}Ne)|?9|*10{+19} yr. Other: 1997Tr17.            
+235U  cL           T{-1/2}({+28}Mg)=8.8|*10{+20} yr (1998Ro11,1997Ro24); other  
+235U 2cL value: >9|*10{+20} (1997MiZP).                                         
+235U  cL           Q({+233}U)/Q({+235}U)=0.975 {I3} (1990Ga28)                  
+235U   L 0.0760     4 1/2+             26 M      AP                         BM1 
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ABDFM                                                             
+235U 3 L %IT=100                                                                
+235U  cL T         depends on chemical environment                              
+235U 2cL (1966Ma20,1968Ne04,1974Ne09,1971Ar48,1972Ne12).                        
+235U 3cL T{-1/2}=25.7 min {I4} in LASER produced plasma (1979Iz02).             
+235U  cL T$T{-1/2}=230 min. {+235m}U placed in a silver matrix. Drastic change  
+235U 2cL in T{-1/2} may be due to a special electromagnetic field resonance     
+235U 3cL (1993Ko32,1989Ko52). Others: 1992Vs01, 1992Vo05.                       
+235U  cL           Ultra-violet laser excitation of {+235}U (1992Bo26).         
+235U  cL J         favored |a decay from 1/2+ {+239}Pu                          
+235U   G 0.0765    4  100       E3                      1E10  GT                
+235U  cG E$weighted average of 0.0768 keV {I5} (1979Zh05) and                   
+235U 2cG 0.07616 keV {I53} (1996PaZY). Others: 1995Pa45.                        
+235U  cG           B(E3)(W.u.)=1.57|*10{+19}/(1+|a)                             
+235U   L 13.0339   21 3/2+             0.50 NS   3                          b   
+235U  cL T$from {+239}Pu |a decay (1970Ho02).                                   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ABDFGL                                                            
+235U   G 12.975    10 100      (M1+E2)   0.02          497                      
+235U 2 G FL=0.0760                                                              
+235U S G MC AP 889$NC+ AP 307                                                   
+235U S G NC AP 240$OC AP 56.3$PC AP 9.76$QC AP 0.357                            
+235U  cG $B(E2)(W.u.)|?28.7, B(M1)(W.u.)=0.041                                  
+235U   L 46.103     8 9/2-             14 PS     AP                         a   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADFJKN                                                            
+235U  cL T$from B(E2)=6.7, average of B(E2)=4.834 {I16} in muonic atom,         
+235U 2cL B(E2)=7.4 {I7} in Coulomb excitation (1957Ne07), and B(E2)=8.0 {I12}   
+235U 3cL in (d,d'). The approximate value of the half-life is due to the large  
+235U 4cL uncertainty in the E2 |g-ray mixing ratio (|d=0.14 {I14}).             
+235U   G 46.21     5  100      M1+E2     0.14    14    5.E1   3                 
+235U 2 G FL=0.0                                                                 
+235U S G LC=40 19$MC=10 6$NC+=3.5 19                                            
+235U S G NC=2.7 15$OC=0.6 4$PC=0.12 6$QC=0.0081 4                               
+235U  cG $B(E2)(W.u.)= 839, B(M1)(W.u.)=0.31 {I18}                              
+235U   L 51.6968   11 5/2+             191 PS    5                          B   
+235U X L XREF=ABDFGIL                                                           
+235U  cL T$from {+239}Pu |a decay (1970Ho02,1970ToZZ)                           
+235U   G 38.661    2    38.0 8 M1+E2     0.48    3     298    24                
+235U 2 G FL=13.0339                                                             
+235U S G LC=219 17$MC=59 5$NC+=20.2 16                                          
+235U S G NC=15.9 13$OC=3.7 3$PC=0.62 5$QC=0.01231 24                            
+235U  cG           B(E2)(W.u.)=65 {I7}, B(M1)(W.u.)=0.00141 {I7}                
+235U   G 51.624    1    100  2 E2                      310                      
+235U 2 G FL=0.0760                                                              
+235U S G LC=226 4$MC=62.6 9$NC+=21.5 3                                          
+235U S G NC=16.97 24$OC=3.89 6$PC=0.630 9$QC=0.001600 23                        
+235U  cG           B(E2)(W.u.)=215 {I10}                                        
+235U   L 81.724     4 7/2+                                                  b   
+235U X L XREF=ABDFGLM                                                           
+235U   G 30.04     2    60.3 17(M1)                    156.7                    
+235U 2 G FL=51.6968                                                             
+235U S G LC=118.1 17$MC=28.7 4$NC+=10.01 14                                     
+235U S G NC=7.73 11$OC=1.88 3$PC=0.363 5$QC=0.0292 4                            
+235U   G 68.696    6    100  28E2                      78.5                     
+235U S G LC=57.2 8$MC=15.86 23$NC+=5.45 8                                       
+235U S G NC=4.30 6$OC=0.987 14$PC=0.1604 23$QC=0.000474 7                       
+235U   L 103.903    8 11/2-            33 PS     5                          A   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADGIKLMN                                                          
+235U  cL T         from B(E2)=1.18 {I16} (1957Ne07) and B(E2)=1.19 {I4} in      
+235U 2cL muonic atom (1984Zu02). Other value: B(E2)=2.2 {I3}, in (d,d').        
+235U   G 57.828    3  100     1M1+E2     0.23    2     32.6   16                
+235U 2 G FL=46.103                                                              
+235U  cG $B(M1)(W.u.)=0.086 {I14}, B(E2)(W.u.)|?420                             
+235U   G 103.06    3 18.7     5E2                      11.58                    
+235U 2 G FL=0.0                                                                 
+235U  cG $B(E2)(W.u.)|?204                                                      
+235U   L 129.2995  10 5/2+                                                  C   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ABDFGJLM(*)                                                       
+235U  cL J         |g-ray de-excitation (E1 to 7/2-, M1 to 3/2+)                
+235U   G 47.60     3  0.99   4 (M1)                    40.4                     
+235U S G LC=30.4 5$MC=7.37 11$NC+=2.57 4                                        
+235U S G NC=1.99 3$OC=0.483 7$PC=0.0932 14$QC=0.00749 11                        
+235U   G 77.592    14 6.02   8  M1(+E2)   0.5    5      17    11                
+235U S G LC=12 8$MC=3.2 22$NC+=1.1 8                                            
+235U S G NC=0.9 6$OC=0.20 14$PC=0.036 21$QC=0.0015 5                            
+235U   G 116.26    2  8.99   17 M1(+E2)   0.56   56     14    3                 
+235U   G 129.296   1  100.0  6 E1                      0.275                    
+235U 2 G FL=0.0                                                                 
+235U S G KC=0.211 3$LC=0.0482 7$MC=0.01173 17$NC+=0.00400 6                     
+235U S G NC=0.00313 5$OC=0.000734 11$PC=0.0001295 19$QC=6.71E-6 10              
+235U   L 150.356   16 9/2+                                                  B   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADFGLM(*)                                                         
+235U   G 68.74     CA 9      4  (M1+E2)   0.5    SY     30    10                
+235U 3 G FL=81.724                                                              
+235U   G 98.78     2  100    5 E2                      14.11                    
+235U 3 G FL=51.6968                                                             
+235U S G LC=10.28 15$MC=2.85 4$NC+=0.981 14                                     
+235U S G NC=0.774 11$OC=0.1779 25$PC=0.0291 4$QC=0.0001143 16                   
+235U   L 171.358    5 7/2+                                                  c   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADF                                                               
+235U   G 41.93     5    100  10M1+E2     0.14    10    7.E1   3                 
+235U 2 G FL=129.2995                                                            
+235U S G LC=55 21$MC=14 6$NC+=4.8 20                                            
+235U S G NC=3.7 16$OC=0.9 4$PC=0.17 6$QC=0.0107 3                               
+235U   G 89.64     3    18.5 14(M1+E2)                 14     8                 
+235U S G LC=10 6$MC=2.8 17$NC+=1.0 6                                            
+235U S G NC=0.8 5$OC=0.18 11$PC=0.030 16$QC=0.0007 5                            
+235U   G 119.70    3    13   6 (M1+E2)                 10     4                 
+235U S G KC=5 6$LC=3.1 11$MC=0.8 4$NC+=0.29 12                                  
+235U S G NC=0.23 10$OC=0.053 21$PC=0.009 3$QC=0.00028 23                        
+235U   G 125.21    10   38.6 10(E1)                    0.296                    
+235U S G KC=0.227 4$LC=0.0523 8$MC=0.01275 18$NC+=0.00434 7                     
+235U S G NC=0.00340 5$OC=0.000797 12$PC=0.0001403 20$QC=7.20E-6 11              
+235U   G 158.1     3    0.68 7 (E2)                    1.86                     
+235U S G KC=0.211 3$LC=1.204 20$MC=0.333 6$NC+=0.1147 19                        
+235U S G NC=0.0904 15$OC=0.0208 4$PC=0.00345 6$QC=2.42E-5 4                     
+235U   G 171.393   6    75.3 14(E1)                    0.1414                   
+235U S G KC=0.1103 16$LC=0.0235 4$MC=0.00570 8$NC+=0.00195 3                    
+235U S G NC=0.001520 22$OC=0.000359 5$PC=6.45E-5 9$QC=3.62E-6 5                 
+235U   L 171.464   13 13/2-            21.9 PS   13                         a   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADGKN                                                             
+235U  cL T$From B(E2)=2.12 {I5} and |d in muonic atom                           
+235U   G 67.674    12   100   2M1+E2     0.194   3     16.43  25                
+235U 2 G FL=103.903                                                             
+235U S G LC=12.31 19$MC=3.06 5$NC+=1.063 16                                     
+235U S G NC=0.825 13$OC=0.198 3$PC=0.0371 6$QC=0.00252 4                        
+235U  cG $B(M1)(W.u.)=0.12 {I9}, B(E2)(W.u.)=303 {I24}                          
+235U   G 124.51    3       45 2E2                      5.01                     
+235U 2 G FL=46.103                                                              
+235U S G KC=0.215 3$LC=3.49 5$MC=0.968 14$NC+=0.333 5                           
+235U S G NC=0.263 4$OC=0.0605 9$PC=0.00995 14$QC=5.07E-5 8                      
+235U  cG $B(E2)(W.u.)=517 {I37}                                                 
+235U   L 197.087   15 11/2+                                                 b   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADGL                                                              
+235U   G 115.31    14   100    E2                      6.87                     
+235U 3 G FL=81.724                                                              
+235U   L 225.382    7 9/2+                                                  C   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADFGJKLM(*)                                                       
+235U   G 54.039    8    100  2 M1(+E2)   0.1     1     30     7                 
+235U S G LC=23 5$MC=5.5 13$NC+=1.9 5                                            
+235U S G NC=1.5 4$OC=0.36 8$PC=0.069 13$QC=0.00512 14                           
+235U   G 96.14     3    19.5 9 [E2]                    16.02                    
+235U S G LC=11.67 17$MC=3.24 5$NC+=1.114 16                                     
+235U S G NC=0.879 13$OC=0.202 3$PC=0.0330 5$QC=0.0001264 18                     
+235U   G 143.35    20   8.7  5 (M1+E2)                 5      3                 
+235U S G KC=3 3$LC=1.5 4$MC=0.41 11$NC+=0.14 4                                  
+235U S G NC=0.11 3$OC=0.026 7$PC=0.0046 8$QC=0.00017 14                         
+235U   G 173.70    5    1.5  4 (E2)                    1.280                    
+235U S G KC=0.190 3$LC=0.795 12$MC=0.220 3$NC+=0.0757 11                        
+235U S G NC=0.0596 9$OC=0.01375 20$PC=0.00229 4$QC=1.85E-5 3                    
+235U   G 179.220   12   34.0 4 (E1)                    0.1273                   
+235U 3 G FL=46.103                                                              
+235U S G KC=0.0995 14$LC=0.0210 3$MC=0.00509 8$NC+=0.001741 25                  
+235U S G NC=0.001359 19$OC=0.000321 5$PC=5.78E-5 8$QC=3.28E-6 5                 
+235U   G 225.42    4    7.6  3 (E1)                    0.0747                   
+235U 2 G FL=0.0                                                                 
+235U S G KC=0.0589 9$LC=0.01191 17$MC=0.00288 4$NC+=0.000988 14                 
+235U S G NC=0.000770 11$OC=0.000183 3$PC=3.33E-5 5$QC=2.00E-6 3                 
+235U   L 250.014   21 15/2-                                                 A   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADGKLM(*)                                                         
+235U   G 78.78     3      10012M1(+E2)   0.5     5     16     10                
+235U 2 G FL=171.464                                                             
+235U S G LC=12 7$MC=3.0 20$NC+=1.0 7                                            
+235U S G NC=0.8 6$OC=0.19 13$PC=0.034 19$QC=0.0014 5                            
+235U   G 146.25    3       9919E2                      2.56                     
+235U 3 G FL=103.903                                                             
+235U S G KC=0.223 4$LC=1.703 24$MC=0.472 7$NC+=0.1624 23                        
+235U S G NC=0.1280 18$OC=0.0295 5$PC=0.00487 7$QC=3.06E-5 5                     
+235U   L 259.0     21                                                           
+235U X L XREF=G                                                                 
+235U   L 291.135   19 11/2+                                                 c   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADGKLM(*)                                                         
+235U   G 65.708    30   100  7 M1(+E2)   0.23    20    20     9                 
+235U S G LC=15 7$MC=3.7 18$NC+=1.3 6                                            
+235U S G NC=1.0 5$OC=0.24 11$PC=0.044 18$QC=0.00279 25                          
+235U   G 119.0     10   18   AP[E2]                    6.15   25                
+235U 2 G FL=171.358                                                             
+235U S G KC=0.196 6$LC=4.34 19$MC=1.20 5$NC+=0.414 18                           
+235U S G NC=0.327 14$OC=0.075 4$PC=0.0123 6$QC=5.94E-5 19                       
+235U   G 188.23    10   21   3 [E1]                    0.1135                   
+235U 3 G FL=103.903                                                             
+235U S G KC=0.0889 13$LC=0.0186 3$MC=0.00450 7$NC+=0.001540 22                  
+235U S G NC=0.001202 17$OC=0.000285 4$PC=5.13E-5 8$QC=2.95E-6 5                 
+235U   G 244.92    5    10   1 [E1]                    0.0618                   
+235U S G KC=0.0489 7$LC=0.00974 14$MC=0.00236 4$NC+=0.000808 12                 
+235U S G NC=0.000629 9$OC=0.0001498 21$PC=2.74E-5 4$QC=1.676E-6 24              
+235U   L 294.557   16 13/2+                                                 B   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ADM(*)                                                            
+235U   G 97.6      3    28   CAM1+E2     0.5     3     7.0    19                
+235U S G LC=5.2 14$MC=1.3 4$NC+=0.46 14                                         
+235U S G NC=0.36 11$OC=0.085 25$PC=0.015 4$QC=0.00076 16                        
+235U   G 144.201   3    100  2 E2                      2.70                     
+235U 2 G FL=150.356                                                             
+235U S G KC=0.224 4$LC=1.80 3$MC=0.499 7$NC+=0.1720 25                          
+235U S G NC=0.1356 19$OC=0.0312 5$PC=0.00516 8$QC=3.19E-5 5                     
+235U   L 332.845   4  5/2+                                                  M   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DEFGL                                                             
+235U   G 161.450   15   21.1 4 M1                      5.67                     
+235U S G KC=4.51 7$LC=0.880 13$MC=0.213 3$NC+=0.0742 11                         
+235U S G NC=0.0574 8$OC=0.01395 20$PC=0.00269 4$QC=0.000215 3                   
+235U   G 203.550   5    100  2 M1                      2.95                     
+235U S G KC=2.35 4$LC=0.456 7$MC=0.1103 16$NC+=0.0385 6                         
+235U S G NC=0.0297 5$OC=0.00723 11$PC=0.001394 20$QC=0.0001112 16               
+235U   G 281.2     2    0.37 5 M1+E2                   0.7    5                 
+235U S G KC=0.5 5$LC=0.15 4$MC=0.037 8$NC+=0.013 3                              
+235U S G NC=0.0099 21$OC=0.0024 6$PC=0.00044 13$QC=2.5E-5 20                    
+235U   G 319.68    10   0.85 9 M1+E2                   0.5    4                 
+235U S G KC=0.4 3$LC=0.10 4$MC=0.024 7$NC+=0.0085 24                            
+235U S G NC=0.0066 19$OC=0.0016 5$PC=0.00029 11$QC=1.8E-5 14                    
+235U   G 332.845   5    86.8 5 E1                      0.0313                   
+235U S G KC=0.0250 4$LC=0.00476 7$MC=0.001145 16$NC+=0.000394 6                 
+235U S G NC=0.000306 5$OC=7.33E-5 11$PC=1.356E-5 19$QC=8.87E-7 13               
+235U   L 339.976   24 17/2-                                                 a   
+235U X L XREF=ADKL                                                              
+235U   G 90.17     3       71 6[M1]                    6.24                     
+235U 3 G FL=250.014                                                             
+235U S G LC=4.70 7$MC=1.138 16$NC+=0.397 6                                      
+235U S G NC=0.307 5$OC=0.0746 11$PC=0.01440 21$QC=0.001153 17                   
+235U   G 168.13    3      100 8[E2]                    1.456                    
+235U 2 G FL=171.464                                                             
+235U S G KC=0.197 3$LC=0.918 13$MC=0.253 4$NC+=0.0873 13                        
+235U S G NC=0.0688 10$OC=0.01587 23$PC=0.00263 4$QC=2.03E-5 3                   
+235U   L 357.22     4 15/2+                                                 b   
+235U X L XREF=ADKLM(*)                                                          
+235U   G 62.6      10     3.910                                                 
+235U   G 160.08    4      10020                                                 
+235U   L 367.031    8 7/2+                                                  M   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DFGKM(*)                                                          
+235U   G 141.657   20    29.8 7[M1]                    8.22                     
+235U S G KC=6.52 10$LC=1.279 18$MC=0.309 5$NC+=0.1079 16                        
+235U S G NC=0.0834 12$OC=0.0203 3$PC=0.00391 6$QC=0.000312 5                    
+235U   G 195.679   8     100  2M1                      3.30                     
+235U S G KC=2.62 4$LC=0.510 8$MC=0.1233 18$NC+=0.0430 6                         
+235U S G NC=0.0332 5$OC=0.00808 12$PC=0.001558 22$QC=0.0001244 18               
+235U   G 237.77    10    13.7 6[M1]                    1.91                     
+235U S G KC=1.519 22$LC=0.295 5$MC=0.0712 10$NC+=0.0248 4                       
+235U S G NC=0.0192 3$OC=0.00467 7$PC=0.000900 13$QC=7.18E-5 10                  
+235U   G 285.3     2     1.7  4(M1+E2)                 0.7    5                 
+235U S G KC=0.5 5$LC=0.14 4$MC=0.035 8$NC+=0.012 3                              
+235U S G NC=0.0095 21$OC=0.0023 6$PC=0.00042 13$QC=2.4E-5 19                    
+235U   G 320.862   20    50.410[E1]                    0.0339                   
+235U S G KC=0.0270 4$LC=0.00517 8$MC=0.001246 18$NC+=0.000429 6                 
+235U S G NC=0.000333 5$OC=7.96E-5 12$PC=1.472E-5 21$QC=9.56E-7 14               
+235U   G 354.0     5      0.6 2[E2]                    0.1155                   
+235U S G KC=0.0549 8$LC=0.0445 7$MC=0.01195 18$NC+=0.00413 7                    
+235U S G NC=0.00324 5$OC=0.000756 12$PC=0.0001306 20$QC=3.11E-6 5               
+235U   G 367.063   25    83.320[E1]                    0.0254                   
+235U S G KC=0.0203 3$LC=0.00382 6$MC=0.000918 13$NC+=0.000316 5                 
+235U S G NC=0.000246 4$OC=5.88E-5 9$PC=1.093E-5 16$QC=7.29E-7 11                
+235U   L 368.9      3 13/2+                                                 C   
+235U 2 L XREF=A                                                                 
+235U   G 78.7      10      4016                                                 
+235U   G 143.7     10   1.0E2 5                                                 
+235U   L 393.218    5 3/2+                                                  D   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=BDFGJKL                                                           
+235U   G 263.95    3      7.6 3M1                      1.428                    
+235U S G KC=1.136 16$LC=0.220 3$MC=0.0531 8$NC+=0.0185 3                        
+235U S G NC=0.01432 20$OC=0.00348 5$PC=0.000672 10$QC=5.35E-5 8                 
+235U   G 341.506   10    18.2 6M1                      0.701                    
+235U S G KC=0.559 8$LC=0.1076 15$MC=0.0260 4$NC+=0.00906 13                     
+235U S G NC=0.00700 10$OC=0.001703 24$PC=0.000328 5$QC=2.62E-5 4                
+235U   G 380.191   6    87.4 18M1                      0.523                    
+235U 2 G FL=13.0339                                                             
+235U S G KC=0.417 6$LC=0.0801 12$MC=0.0193 3$NC+=0.00674 10                     
+235U S G NC=0.00521 8$OC=0.001267 18$PC=0.000244 4$QC=1.95E-5 3                 
+235U   G 393.14    3    100  10M1                      0.477                    
+235U S G KC=0.380 6$LC=0.0731 11$MC=0.01764 25$NC+=0.00615 9                    
+235U S G NC=0.00475 7$OC=0.001155 17$PC=0.000223 4$QC=1.776E-5 25               
+235U   L 414.768   11 9/2+                                                  M   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DGKLM(*)                                                          
+235U   G 123.62    5    26.9 10[M1]                    12.08                    
+235U 2 G FL=291.135                                                             
+235U S G KC=9.57 14$LC=1.89 3$MC=0.457 7$NC+=0.1595 23                          
+235U S G NC=0.1232 18$OC=0.0300 5$PC=0.00578 9$QC=0.000462 7                    
+235U   G 189.360   10   94.3 11[M1+E2]                 2.3    14                
+235U 3 G FL=225.382                                                             
+235U S G KC=1.5 14$LC=0.553 10$MC=0.143 8$NC+=0.0496 25                         
+235U S G NC=0.0387 23$OC=0.0092 4$PC=0.00164 8$QC=8.E-5 6                       
+235U   G 218.0     5     1.4 12                                                 
+235U   G 243.38    3    28.7 5 [M1+E2]                 1.1    7                 
+235U S G KC=0.8 7$LC=0.23 5$MC=0.059 8$NC+=0.021 3                              
+235U S G NC=0.0161 20$OC=0.0038 6$PC=0.00070 15$QC=4.E-5 3                      
+235U   G 311.78    4    29.3 8 [E1]                    0.0361                   
+235U 2 G FL=103.903                                                             
+235U S G KC=0.0287 4$LC=0.00552 8$MC=0.001331 19$NC+=0.000458 7                 
+235U S G NC=0.000356 5$OC=8.51E-5 12$PC=1.570E-5 22$QC=1.014E-6 15              
+235U   G 368.554   20   100  2 [E1]                    0.0252                   
+235U 3 G FL=46.103                                                              
+235U S G KC=0.0202 3$LC=0.00378 6$MC=0.000910 13$NC+=0.000313 5                 
+235U S G NC=0.000243 4$OC=5.83E-5 9$PC=1.083E-5 16$QC=7.23E-7 11                
+235U   L 426.741    3 5/2+                                                  d   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=BDFGKLM(*)                                                        
+235U   G 255.384   15    5.2 2 [M1]                    1.565                    
+235U S G KC=1.245 18$LC=0.241 4$MC=0.0583 9$NC+=0.0203 3                        
+235U S G NC=0.01570 22$OC=0.00382 6$PC=0.000737 11$QC=5.87E-5 9                 
+235U   G 297.46    3     3.2 2 [M1]                    1.025                    
+235U S G KC=0.816 12$LC=0.1577 22$MC=0.0381 6$NC+=0.01328 19                    
+235U S G NC=0.01026 15$OC=0.00250 4$PC=0.000481 7$QC=3.84E-5 6                  
+235U   G 345.013   4     35  2 M1                      0.682                    
+235U 2 G FL=81.724                                                              
+235U S G KC=0.543 8$LC=0.1046 15$MC=0.0253 4$NC+=0.00881 13                     
+235U S G NC=0.00681 10$OC=0.001655 24$PC=0.000319 5$QC=2.54E-5 4                
+235U   G 375.054   3     100 2 M1                      0.543                    
+235U S G KC=0.432 6$LC=0.0832 12$MC=0.0201 3$NC+=0.00700 10                     
+235U S G NC=0.00541 8$OC=0.001315 19$PC=0.000254 4$QC=2.02E-5 3                 
+235U   G 413.713   5     94  2 M1                      0.415                    
+235U 2 G FL=13.0339                                                             
+235U S G KC=0.331 5$LC=0.0636 9$MC=0.01534 22$NC+=0.00535 8                     
+235U S G NC=0.00413 6$OC=0.001005 14$PC=0.000194 3$QC=1.544E-5 22               
+235U   G 426.68    3    1.51 4 (E2)                    0.0699                   
+235U S G KC=0.0387 6$LC=0.0230 4$MC=0.00610 9$NC+=0.00211 3                     
+235U S G NC=0.001653 24$OC=0.000387 6$PC=6.79E-5 10$QC=2.06E-6 3                
+235U   L 439.39     3 19/2-                                                 A   
+235U 2 L XREF=A                                                                 
+235U   G 98.92     3       41 8                                                 
+235U 2 G FL=339.976                                                             
+235U   G 189.56    3      100 4                                                 
+235U 3 G FL=250.014                                                             
+235U   L 445.648    8  7/2+                                                 N   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DFJK                                                              
+235U  cL J         M1 |g ray to 5/2+, E1 to 7/2-, strong |g ray to 9/2-.        
+235U   G 274.370   10     8  4 M1                      1.282                W   
+235U 3 G FL=171.358                                                             
+235U S G KC=1.021 15$LC=0.197 3$MC=0.0477 7$NC+=0.01663 24                      
+235U S G NC=0.01285 18$OC=0.00313 5$PC=0.000603 9$QC=4.81E-5 7                  
+235U   G 316.41    3     100 3 M1                      0.865                    
+235U S G KC=0.689 10$LC=0.1329 19$MC=0.0321 5$NC+=0.01119 16                    
+235U S G NC=0.00865 13$OC=0.00210 3$PC=0.000406 6$QC=3.23E-5 5                  
+235U   G 399.536   3     46  3 [E1]                    0.0213                   
+235U S G KC=0.01706 24$LC=0.00317 5$MC=0.000761 11$NC+=0.000262 4               
+235U S G NC=0.000204 3$OC=4.88E-5 7$PC=9.10E-6 13$QC=6.16E-7 9                  
+235U   G 445.72    3     67  5 E1                      0.01698                  
+235U S G KC=0.01367 20$LC=0.00250 4$MC=0.000600 9$NC+=0.000207 3                
+235U S G NC=0.0001606 23$OC=3.86E-5 6$PC=7.21E-6 10$QC=4.98E-7 7                
+235U   L 456.84     7 15/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 88.0      10      4916                                                 
+235U 2 G FL=368.9                                                               
+235U   G 165.70    6      10023                                                 
+235U   L 473.826   11 7/2+                                                  D   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DFKLM                                                             
+235U   G 248.95    5     3.5 4 [M1]                    1.680                    
+235U 3 G FL=225.382                                                             
+235U S G KC=1.337 19$LC=0.259 4$MC=0.0626 9$NC+=0.0218 3                        
+235U S G NC=0.01687 24$OC=0.00410 6$PC=0.000791 11$QC=6.31E-5 9                 
+235U   G 302.87    5     2.4 2 [M1]                    0.976                    
+235U 3 G FL=171.358                                                             
+235U S G KC=0.777 11$LC=0.1500 21$MC=0.0362 5$NC+=0.01263 18                    
+235U S G NC=0.00976 14$OC=0.00237 4$PC=0.000458 7$QC=3.65E-5 6                  
+235U   G 323.84    3    26.2 4 M1                      0.811                    
+235U 3 G FL=150.356                                                             
+235U S G KC=0.646 9$LC=0.1246 18$MC=0.0301 5$NC+=0.01049 15                     
+235U S G NC=0.00811 12$OC=0.00197 3$PC=0.000380 6$QC=3.03E-5 5                  
+235U   G 341.014   30   24   LT[M1]                    0.704                    
+235U 2 G FL=129.2995                                                            
+235U S G KC=0.561 8$LC=0.1081 16$MC=0.0261 4$NC+=0.00909 13                     
+235U S G NC=0.00703 10$OC=0.001709 24$PC=0.000330 5$QC=2.63E-5 4                
+235U   G 392.53    3    100  10M1                      0.479                    
+235U 3 G FL=81.724                                                              
+235U S G KC=0.382 6$LC=0.0734 11$MC=0.01772 25$NC+=0.00617 9                    
+235U S G NC=0.00477 7$OC=0.001160 17$PC=0.000224 4$QC=1.784E-5 25               
+235U   G 422.598   19   59.5 10M1                      0.392                    
+235U 3 G FL=51.6968                                                             
+235U S G KC=0.313 5$LC=0.0600 9$MC=0.01447 21$NC+=0.00504 7                     
+235U S G NC=0.00390 6$OC=0.000948 14$PC=0.000183 3$QC=1.457E-5 21               
+235U   G 428.4     3    0.50 5 [E1]                    0.0184                   
+235U S G KC=0.01481 21$LC=0.00272 4$MC=0.000653 10$NC+=0.000225 4               
+235U S G NC=0.0001749 25$OC=4.20E-5 6$PC=7.84E-6 11$QC=5.38E-7 8                
+235U   G 461.25    5    1.11 2 [E2]                    0.0575                   
+235U 3 G FL=13.0339                                                             
+235U S G KC=0.0334 5$LC=0.01772 25$MC=0.00467 7$NC+=0.001617 23                 
+235U S G NC=0.001265 18$OC=0.000297 5$PC=5.24E-5 8$QC=1.743E-6 25               
+235U   G 473.9     5   0.026 13[E1]                    0.01501                  
+235U 2 G FL=0.0                                                                 
+235U S G KC=0.01210 18$LC=0.00220 4$MC=0.000526 8$NC+=0.000182 3                
+235U S G NC=0.0001409 20$OC=3.39E-5 5$PC=6.35E-6 9$QC=4.43E-7 7                 
+235U   L 482.00     4 17/2+                                                 B   
+235U 2 L XREF=A                                                                 
+235U   G 125.2     10     1.7 7                                                 
+235U   G 187.48    4      10013                                                 
+235U   L 510.49    17(9/2+)                                                 N   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DEGKL                                                             
+235U  cL J         |g rays to 9/2- and 11/2-.                                   
+235U   G 406.8     2  100    20                                                 
+235U   G 463.9     3  11.2   12                                                 
+235U   L 532.4     5  (13/2+)                                                   
+235U 2 L XREF=M(*)                                                              
+235U   L 533.208   10 9/2+                                                  d   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DGKLM(*)                                                          
+235U   G 242.08    3  2.8    2 [M1]                    1.82                     
+235U 2 G FL=291.135                                                             
+235U S G KC=1.445 21$LC=0.280 4$MC=0.0677 10$NC+=0.0236 4                       
+235U S G NC=0.0182 3$OC=0.00444 7$PC=0.000856 12$QC=6.82E-5 10                  
+235U   G 307.85    5  2.1    2 [M1]                    0.933                    
+235U S G KC=0.743 11$LC=0.1434 20$MC=0.0346 5$NC+=0.01207 17                    
+235U S G NC=0.00933 13$OC=0.00227 4$PC=0.000438 7$QC=3.49E-5 5                  
+235U   G 336.113   12 43.2   8 M1                      0.733                    
+235U S G KC=0.583 9$LC=0.1125 16$MC=0.0272 4$NC+=0.00947 14                     
+235U S G NC=0.00732 11$OC=0.001779 25$PC=0.000343 5$QC=2.73E-5 4                
+235U   G 361.89    5  4.7    3 [M1]                    0.598                    
+235U S G KC=0.477 7$LC=0.0918 13$MC=0.0222 4$NC+=0.00772 11                     
+235U S G NC=0.00597 9$OC=0.001451 21$PC=0.000280 4$QC=2.23E-5 4                 
+235U   G 382.75    5  100    2 (M1)                    0.513                    
+235U S G KC=0.409 6$LC=0.0787 11$MC=0.0190 3$NC+=0.00662 10                     
+235U S G NC=0.00511 8$OC=0.001244 18$PC=0.000240 4$QC=1.91E-5 3                 
+235U   G 430.08    10 1.67   5 [E1]                    0.0183                   
+235U 3 G FL=103.903                                                             
+235U S G KC=0.01469 21$LC=0.00270 4$MC=0.000648 9$NC+=0.000223 4                
+235U S G NC=0.0001734 25$OC=4.16E-5 6$PC=7.77E-6 11$QC=5.34E-7 8                
+235U   G 451.481   10 73.1   6 M1(+E2)   1.0     10    0.19   14                
+235U 2 G FL=81.724                                                              
+235U S G KC=0.15 12$LC=0.035 16$MC=0.009 4$NC+=0.0030 13                        
+235U S G NC=0.0023 10$OC=0.00056 24$PC=0.00010 5$QC=7.E-6 6                     
+235U   G 481.66    12 1.8    1 [E2]                    0.0517                   
+235U S G KC=0.0309 5$LC=0.01538 22$MC=0.00404 6$NC+=0.001399 20                 
+235U S G NC=0.001095 16$OC=0.000257 4$PC=4.55E-5 7$QC=1.590E-6 23               
+235U   G 487.06    10 0.10   1 [E1]                    0.01421                  
+235U S G KC=0.01147 16$LC=0.00208 3$MC=0.000497 7$NC+=0.0001714 24              
+235U S G NC=0.0001330 19$OC=3.20E-5 5$PC=6.00E-6 9$QC=4.21E-7 6                 
+235U   L 551.17     4 21/2-                                                 a   
+235U 2 L XREF=A                                                                 
+235U   G 111.67    3       34 5                                                 
+235U   G 211.67    4      100 3                                                 
+235U 2 G FL=339.976                                                             
+235U   L 557.2      3 17/2+                                                 C   
+235U 2 L XREF=A                                                                 
+235U   G 100.0     10      35 8                                                 
+235U   G 188.30    13     10019                                                 
+235U   L 559.34     5 19/2+                                                 b   
+235U 2 L XREF=A                                                                 
+235U   G 76.6      10     2.7 5                                                 
+235U   G 202.08    4      10010                                                 
+235U   L 587.8     5  (11/2+)                                               N   
+235U X L XREF=DGKL                                                              
+235U   L 608.17     3 11/2+                                                 D   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DGKL                                                              
+235U   G 411.15    3  100    50[M1]                    0.422                    
+235U S G KC=0.337 5$LC=0.0647 9$MC=0.01560 22$NC+=0.00544 8                     
+235U S G NC=0.00420 6$OC=0.001022 15$PC=0.000197 3$QC=1.571E-5 22               
+235U   G 457.61    5  21.9   4 [M1]                    0.316                    
+235U 3 G FL=150.356                                                             
+235U S G KC=0.252 4$LC=0.0483 7$MC=0.01165 17$NC+=0.00406 6                     
+235U S G NC=0.00314 5$OC=0.000763 11$PC=0.0001471 21$QC=1.173E-5 17             
+235U   G 526.4     4  0.84   30[E2]                    0.0419                   
+235U S G KC=0.0262 4$LC=0.01160 17$MC=0.00303 5$NC+=0.001048 15                 
+235U S G NC=0.000819 12$OC=0.000193 3$PC=3.44E-5 5$QC=1.322E-6 19               
+235U   L 633.092   15 (5/2-)                                                F   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DEFKL                                                             
+235U   G 633.15    6  100      M1(+E2)   0.5     LT    0.122  11                
+235U F G FL=0.0                                                                 
+235U S G KC=0.097 9$LC=0.0187 14$MC=0.0045 4$NC+=0.00157 12                     
+235U S G NC=0.00122 9$OC=0.000296 21$PC=5.7E-5 5$QC=4.5E-6 4                    
+235U   L 637.794    6 3/2-                                                  e   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ABDFGLM                                                           
+235U   G 211.056   7  0.7    4                                                  
+235U   G 244.583   8  1.7    9                                                  
+235U   G 586.3     3  8.0    8                                                  
+235U   G 624.78    5  18     1 (E1)                                             
+235U S G CC=0.00877 13$KC=0.00712 10$LC=0.001252 18$MC=0.000299 5$NC+=0.0001032 
+235U S G NC=8.00E-5 12$OC=1.93E-5 3$PC=3.64E-6 5$QC=2.66E-7 4                   
+235U   G 637.7                 (E1)                                             
+235U 3 G FL=0.0760                                                              
+235U S G CC=0.00844 12$KC=0.00685 10$LC=0.001202 17$MC=0.000287 4$NC+=9.91E-5 14
+235U S G NC=7.68E-5 11$OC=1.85E-5 3$PC=3.50E-6 5$QC=2.56E-7 4                   
+235U   G 637.8        100    10E2                      0.0273                   
+235U 3 G FL=0.0                                                                 
+235U S G KC=0.0185 3$LC=0.00655 10$MC=0.001683 24$NC+=0.000583 9                
+235U S G NC=0.000455 7$OC=0.0001078 15$PC=1.95E-5 3$QC=8.96E-7 13               
+235U   L 658.96     4 1/2-                                                  K   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=ABDFGJL                                                           
+235U   G 265.7     3  11     2 [E1]                    0.0514                   
+235U S G KC=0.0408 6$LC=0.00802 12$MC=0.00194 3$NC+=0.000665 10                 
+235U S G NC=0.000518 8$OC=0.0001234 18$PC=2.26E-5 4$QC=1.412E-6 20              
+235U   G 645.94    4  100    3  E1                                              
+235U S G CC=0.00824 12$KC=0.00669 10$LC=0.001172 17$MC=0.000280 4$NC+=9.66E-5 14
+235U S G NC=7.49E-5 11$OC=1.81E-5 3$PC=3.41E-6 5$QC=2.50E-7 4                   
+235U   G 658.86    6  66.8   13 E1                                              
+235U 2 G FL=0.0760                                                              
+235U S G CC=0.00794 12$KC=0.00645 9$LC=0.001128 16$MC=0.000269 4$NC+=9.29E-5 13 
+235U S G NC=7.20E-5 10$OC=1.737E-5 25$PC=3.29E-6 5$QC=2.41E-7 4                 
+235U   L 664.531   12 (5/2)-                                                E   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DFK                                                               
+235U   G 493.0     3  43     2 [E1]                    0.01387                 ?
+235U 3 G FL=171.358                                                             
+235U S G KC=0.01120 16$LC=0.00202 3$MC=0.000484 7$NC+=0.0001671 24              
+235U S G NC=0.0001297 19$OC=3.12E-5 5$PC=5.85E-6 9$QC=4.11E-7 6                 
+235U  cG           B(E1)(W.u.)=4.1|*10{+-6} {I25}                               
+235U   G 582.89    10 30     2 [E1]                    0.01001                  
+235U S G KC=0.00811 12$LC=0.001437 21$MC=0.000343 5$NC+=0.0001185 17            
+235U S G NC=9.19E-5 13$OC=2.21E-5 4$PC=4.17E-6 6$QC=3.01E-7 5                   
+235U  cG           B(E1)(W.u.)=1.7|*10{+-6} {I10}                               
+235U   G 612.83    3  47     2  E1                                              
+235U S G CC=0.00910 13$KC=0.00738 11$LC=0.001300 19$MC=0.000310 5$NC+=0.0001072 
+235U S G NC=8.31E-5 12$OC=2.00E-5 3$PC=3.78E-6 6$QC=2.75E-7 4                   
+235U  cG           B(E1)(W.u.)=2.3|*10{+-6} {I14}                               
+235U   G 618.28    6  100    3 (E2)                    0.0292                   
+235U S G KC=0.0196 3$LC=0.00716 10$MC=0.00184 3$NC+=0.000639 9                  
+235U S G NC=0.000499 7$OC=0.0001180 17$PC=2.13E-5 3$QC=9.53E-7 14               
+235U  cG           B(E2)(W.u.)=0.46 {I28}                                       
+235U   G 664.58    5  81.3   16E2                      0.0251                   
+235U S G KC=0.01721 25$LC=0.00583 9$MC=0.001493 21$NC+=0.000517 8               
+235U S G NC=0.000403 6$OC=9.57E-5 14$PC=1.736E-5 25$QC=8.25E-7 12               
+235U  cG           B(E2)(W.u.)=0.26 {I16}                                       
+235U   L 666.69    10 19/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 110.0     10      23 4                                                 
+235U   G 209.84    8      10013                                                 
+235U   L 670.924   25 (7/2)-                                                f   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DJFL                                                              
+235U   G 624.78    3  100    5 M1                      0.1369                   
+235U S G KC=0.1094 16$LC=0.0208 3$MC=0.00501 7$NC+=0.001745 25                  
+235U S G NC=0.001349 19$OC=0.000328 5$PC=6.33E-5 9$QC=5.05E-6 7                 
+235U   G 670.99    4   2       M1+E2                   0.096  18                
+235U 2 G FL=0.0                                                                 
+235U S G KC=0.076 15$LC=0.0149 23$MC=0.0036 6$NC+=0.00126 19                    
+235U S G NC=0.00097 15$OC=0.00024 4$PC=4.5E-5 7$QC=3.5E-6 7                     
+235U   L 671.94     4 23/2-                                                 A   
+235U X L XREF=KA                                                                
+235U   G 120.93    3     25.418                                                 
+235U 2 G FL=551.17                                                              
+235U   G 232.40    3      100 5[E2]                    0.435                    
+235U S G KC=0.1200 17$LC=0.230 4$MC=0.0631 9$NC+=0.0218 3                       
+235U S G NC=0.01713 24$OC=0.00396 6$PC=0.000668 10$QC=8.48E-6 12                
+235U   L 690.2     5  (13/2+)                                               d   
+235U X L XREF=AL                                                                
+235U   L 701.101   17 (7/2)-                                                e   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DFGJKL                                                            
+235U   G 550.5     2  19     2 [E1]                    0.01117                  
+235U S G KC=0.00904 13$LC=0.001613 23$MC=0.000385 6$NC+=0.0001331 19            
+235U S G NC=0.0001032 15$OC=2.48E-5 4$PC=4.68E-6 7$QC=3.35E-7 5                 
+235U  cG           B(E1)(W.u.)|?4|*10{+-6}                                      
+235U   G 597.99    5  74     3 [E2]                    0.0314                   
+235U 2 G FL=103.903                                                             
+235U S G KC=0.0208 3$LC=0.00789 11$MC=0.00204 3$NC+=0.000706 10                 
+235U S G NC=0.000551 8$OC=0.0001304 19$PC=2.35E-5 4$QC=1.019E-6 15              
+235U  cG           B(E2)(W.u.)|?1.4                                             
+235U   G 619.21    6  54     4    [E1]                                          
+235U S G CC=0.00892 13$KC=0.00724 11$LC=0.001274 18$MC=0.000304 5$NC+=0.0001050 
+235U S G NC=8.14E-5 12$OC=1.96E-5 3$PC=3.71E-6 6$QC=2.70E-7 4                   
+235U  cG           B(E1)(W.u.)|?9|*10{+-6}                                      
+235U   G 649.32    6  32     2    [E1]                                          
+235U S G CC=0.00816 12$KC=0.00662 10$LC=0.001160 17$MC=0.000277 4$NC+=9.56E-5 14
+235U S G NC=7.41E-5 11$OC=1.79E-5 3$PC=3.38E-6 5$QC=2.48E-7 4                   
+235U  cG           B(E1)(W.u.)|?4|*10{+-6}                                      
+235U   G 654.88    8  100    2 (E2)                    0.0258                   
+235U S G KC=0.01767 25$LC=0.00607 9$MC=0.001558 22$NC+=0.000540 8               
+235U S G NC=0.000421 6$OC=9.98E-5 14$PC=1.81E-5 3$QC=8.50E-7 12                 
+235U  cG           B(E2)(W.u.)|?1.5                                             
+235U   G 701.01    2  22.7   6 [M1+E2]                 0.06   4                 
+235U S G KC=0.05 4$LC=0.010 6$MC=0.0025 12$NC+=0.0009 5                         
+235U S G NC=0.0007 4$OC=0.00016 8$PC=3.1E-5 16$QC=2.2E-6 15                     
+235U  cG           B(E2)(W.u.)|?0.2                                             
+235U   L 703.753   20 3/2-                                                  K   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=BDFL                                                              
+235U   G 652.05    2  100    2  E1                                              
+235U S G CC=0.00809 12$KC=0.00657 10$LC=0.001151 17$MC=0.000274 4$NC+=9.48E-5 14
+235U S G NC=7.35E-5 11$OC=1.773E-5 25$PC=3.35E-6 5$QC=2.46E-7 4                 
+235U   G 690.81    8  14     4  E1                                              
+235U S G CC=0.00727 11$KC=0.00591 9$LC=0.001029 15$MC=0.000245 4$NC+=8.47E-5 12 
+235U S G NC=6.57E-5 10$OC=1.584E-5 23$PC=3.00E-6 5$QC=2.22E-7 4                 
+235U   G 703.6     5  59.0   12 E1                                              
+235U 2 G FL=0.0760                                                              
+235U S G CC=0.00702 10$KC=0.00571 8$LC=0.000993 14$MC=0.000237 4$NC+=8.18E-5 12 
+235U S G NC=6.34E-5 9$OC=1.529E-5 22$PC=2.90E-6 4$QC=2.15E-7 3                  
+235U   L 710.02     5 21/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 152.0     10     1.2 5                                                 
+235U   G 228.06    4      100 8                                                 
+235U   L 720.22     3 (9/2)-                                                F   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DK                                                                
+235U   G 617.10    10 100    5 M1                      0.1415                   
+235U 3 G FL=103.903                                                             
+235U   G 674.05    3  38     2 M1                      0.1118                   
+235U   L 750.21    16 (9/2-)                                                E   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DK                                                                
+235U  cL J         from (d,d')                                                  
+235U   G 579.4     3  43     9                                                  
+235U   G 599.6     2  100    10                                                 
+235U   G 668.2     5  20     7                                                  
+235U   L 761.017    6 (1/2)-                                                L   
+235U 2 L FLAG=W                                                                 
+235U X L XREF=DFGL                                                              
+235U   G 123.228   5  2.0    4 [M1]                    12.19                W   
+235U F G FL=637.794                                                             
+235U S G KC=9.66 14$LC=1.91 3$MC=0.461 7$NC+=0.1609 23                          
+235U S G NC=0.1244 18$OC=0.0303 5$PC=0.00584 9$QC=0.000467 7                    
+235U   G 747.970   10 100    8    E1                                        W   
+235U 2 G FL=13.0339                                                             
+235U S G CC=0.00628 9$KC=0.00511 8$LC=0.000883 13$MC=0.000210 3$NC+=7.27E-5 11  
+235U S G NC=5.63E-5 8$OC=1.360E-5 19$PC=2.58E-6 4$QC=1.93E-7 3                  
+235U   G 760.98    4  8.0    16   [E1]                                      W   
+235U 3 G FL=0.0760                                                              
+235U S G CC=0.00608 9$KC=0.00496 7$LC=0.000855 12$MC=0.000203 3$NC+=7.03E-5 10  
+235U S G NC=5.45E-5 8$OC=1.316E-5 19$PC=2.50E-6 4$QC=1.87E-7 3                  
+235U   L 769.27     6 1/2+                                                  O   
+235U 2 L FLAG=W                                                                 
+235U X L XREF=DF                                                                
+235U  cL J         E0 to 1/2+, low |a HF                                        
+235U   G 639.99    10 100    2 [E2]                    0.0271                   
+235U S G KC=0.0184 3$LC=0.00647 9$MC=0.001663 24$NC+=0.000576 8                 
+235U S G NC=0.000449 7$OC=0.0001065 15$PC=1.93E-5 3$QC=8.88E-7 13               
+235U   G 756.4     2  32     6 [M1+E2]                 0.05   4                 
+235U S G KC=0.04 3$LC=0.008 5$MC=0.0020 10$NC+=0.0007 4                         
+235U S G NC=0.0005 3$OC=0.00013 7$PC=2.5E-5 13$QC=1.8E-6 12                     
+235U   G 769.15    8  59     11 E0+M1                                           
+235U F G FL=0.0760                                                              
+235U   L 769.934    9 3/2-                                                  L   
+235U 2 L FLAG=W                                                                 
+235U X L XREF=DFGL                                                              
+235U   G 718.231   10 41     3  E1                                          W   
+235U S G CC=0.00676 10$KC=0.00550 8$LC=0.000954 14$MC=0.000227 4$NC+=7.86E-5 11 
+235U S G NC=6.09E-5 9$OC=1.470E-5 21$PC=2.79E-6 4$QC=2.07E-7 3                  
+235U   G 756.87    6  10     3    [E1]                                      W   
+235U S G CC=0.00614 9$KC=0.00500 7$LC=0.000864 12$MC=0.000206 3$NC+=7.11E-5 10  
+235U S G NC=5.51E-5 8$OC=1.330E-5 19$PC=2.52E-6 4$QC=1.89E-7 3                  
+235U   G 769.870   16 100    18 E1                                          W   
+235U S G CC=0.00596 9$KC=0.00485 7$LC=0.000836 12$MC=0.000199 3$NC+=6.88E-5 10  
+235U S G NC=5.33E-5 8$OC=1.287E-5 18$PC=2.44E-6 4$QC=1.83E-7 3                  
+235U   L 778.36    19 (11/2)-                                               f   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DMK                                                               
+235U   G 606.9     2  23.3   23M1(+E2)   1       LT    0.12   3                 
+235U 3 G FL=171.464                                                             
+235U S G KC=0.094 25$LC=0.019 4$MC=0.0045 9$NC+=0.0016 3                        
+235U S G NC=0.00123 24$OC=0.00030 6$PC=5.7E-5 12$QC=4.3E-6 12                   
+235U   G 674.4     5  100    3 (M1)                    0.1116                   
+235U S G KC=0.0892 13$LC=0.01692 24$MC=0.00408 6$NC+=0.001420 20                
+235U S G NC=0.001098 16$OC=0.000267 4$PC=5.15E-5 8$QC=4.11E-6 6                 
+235U   L 779.51    3  3/2+                                                  O   
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=FD                                                                
+235U   G 697.8     5  54     12[E2]                    0.0226                  ?
+235U S G KC=0.01578 23$LC=0.00509 8$MC=0.001300 19$NC+=0.000450 7               
+235U S G NC=0.000351 5$OC=8.34E-5 12$PC=1.518E-5 22$QC=7.50E-7 11               
+235U   G 727.9     2  86     5 M1(+E2)   0.8     LT    0.077  14                
+235U S G KC=0.061 12$LC=0.0120 19$MC=0.0029 5$NC+=0.00101 15                    
+235U S G NC=0.00078 12$OC=0.00019 3$PC=3.6E-5 6$QC=2.8E-6 6                     
+235U   G 766.47    3  90     5 E0+M1+E2                0.05   3                 
+235U S G KC=0.04 3$LC=0.008 4$MC=0.0019 10$NC+=0.0007 4                         
+235U S G NC=0.0005 3$OC=0.00013 7$PC=2.4E-5 13$QC=1.8E-6 12                     
+235U   G 779.4        100    6 M1(+E2)   1       LT    0.061  15                
+235U 2 G FL=0.0760                                                              
+235U S G KC=0.049 12$LC=0.0096 20$MC=0.0023 5$NC+=0.00081 16                    
+235U S G NC=0.00062 13$OC=0.00015 3$PC=2.9E-5 6$QC=2.2E-6 6                     
+235U   L 787.8      3 21/2+                                                 C   
+235U X L XREF=A                                                                 
+235U   G 121.4     10      27 5                                                 
+235U 2 G FL=666.69                                                              
+235U   G 230.64    10     10017                                                 
+235U   L 790.9      8 15/2+                                                 D   
+235U X L XREF=A                                                                 
+235U   G 434.1     10   100                                                     
+235U   L 800.58     6 23/2+                                                 b   
+235U X L XREF=A                                                                 
+235U   G 90.65     6      1.8 6                                                 
+235U   G 241.19    4      100 7                                                 
+235U   L 805.65     6 25/2-                                                 a   
+235U X L XREF=AG                                                                
+235U   G 134.2     2   28    2                                                  
+235U F G FL=671.94                                                              
+235U   G 254.5     2  100    5 [E2]                    0.319                    
+235U S G KC=0.1019 15$LC=0.1589 23$MC=0.0434 7$NC+=0.01497 22                   
+235U S G NC=0.01178 17$OC=0.00273 4$PC=0.000462 7$QC=6.75E-6 10                 
+235U   L 805.651   10 3/2-                                                      
+235U 2 L FLAG=Z                                                                 
+235U X L XREF=DFL                                                               
+235U  cL J$E1 |g ray from 1/2+ in (n,|g); E2 |g ray to 7/2-                     
+235U   G 172.560   11 9      3 [M1]                    4.7                  Z   
+235U 3 G FL=633.092                                                             
+235U S G KC=3.73 6$LC=0.728 11$MC=0.1761 25$NC+=0.0614 9                        
+235U S G NC=0.0475 7$OC=0.01155 17$PC=0.00223 4$QC=0.0001777 25                 
+235U   G 378.83    16 29     15[E1]                    0.0238               Z   
+235U S G KC=0.0190 3$LC=0.00356 5$MC=0.000856 12$NC+=0.000295 5                 
+235U S G NC=0.000229 4$OC=5.49E-5 8$PC=1.020E-5 15$QC=6.85E-7 10                
+235U   G 412.31    12 69     23   [E1]                                      Z   
+235U   G 792.58    5  77     9 (E1)                                         Z   
+235U S G CC=0.00565 8$KC=0.00460 7$LC=0.000791 11$MC=0.000188 3$NC+=6.51E-5 10  
+235U S G NC=5.04E-5 7$OC=1.218E-5 17$PC=2.31E-6 4$QC=1.741E-7 25                
+235U   G 805.65    1  101    10E2                      0.01688              Z   
+235U 3 G FL=0.0                                                                 
+235U S G KC=0.01223 18$LC=0.00348 5$MC=0.000877 13$NC+=0.000304 5               
+235U S G NC=0.000237 4$OC=5.65E-5 8$PC=1.038E-5 15$QC=5.67E-7 8                 
+235U   L 806.9      4 11/2-                                                 e   
+235U X L XREF=A                                                                 
+235U   G 557.0     5      10025                                                 
+235U   G 635.3     5    1.0E210                                                 
+235U 2 G FL=171.464                                                             
+235U   L 811.96    3  (5/2-)                                                L   
+235U 2 L FLAG=W                                                                 
+235U X L XREF=F                                                                 
+235U   G 760.26    5  45     9    [E1]                                      W   
+235U S G CC=0.00609 9$KC=0.00496 7$LC=0.000856 12$MC=0.000204 3$NC+=7.05E-5 10  
+235U S G NC=5.46E-5 8$OC=1.318E-5 19$PC=2.50E-6 4$QC=1.87E-7 3                  
+235U   G 798.92    3  100    10 (E1)                                        W   
+235U S G CC=0.00557 8$KC=0.00454 7$LC=0.000780 11$MC=0.000186 3$NC+=6.42E-5 9   
+235U S G NC=4.97E-5 7$OC=1.201E-5 17$PC=2.28E-6 4$QC=1.718E-7 24                
+235U   L 821.23     4 5/2+                                                  O   
+235U 2 L FLAG=W                                                                 
+235U X L XREF=FLD                                                               
+235U   G 428.03    4                                                           ?
+235U   G 596.0     5  32     16[E2]                    0.0318                   
+235U S G KC=0.0210 3$LC=0.00800 12$MC=0.00207 3$NC+=0.000717 11                 
+235U S G NC=0.000560 8$OC=0.0001323 19$PC=2.38E-5 4$QC=1.029E-6 15              
+235U   G 670.8     5  7        [E2]                    0.0246                  ?
+235U S G KC=0.01693 24$LC=0.00568 8$MC=0.001454 21$NC+=0.000504 8               
+235U S G NC=0.000393 6$OC=9.32E-5 14$PC=1.692E-5 24$QC=8.10E-7 12               
+235U   G 769.59    14 42     LT E0+(M1)                                     Z   
+235U   G 808.19    4  92     17M1                      0.0690               Z   
+235U S G KC=0.0552 8$LC=0.01042 15$MC=0.00251 4$NC+=0.000874 13                 
+235U S G NC=0.000675 10$OC=0.0001643 23$PC=3.17E-5 5$QC=2.54E-6 4               
+235U   G 821.16    CA             [E2]                                      W   
+235U 2 G FL=0.0760                                                              
+235U   G 821.3     2 100     25   [E1]                                      Z   
+235U 3 G FL=0.0                                                                 
+235U S G CC=0.00530 8$KC=0.00432 6$LC=0.000741 11$MC=0.0001761 25$NC+=6.09E-5 9 
+235U S G NC=4.72E-5 7$OC=1.140E-5 16$PC=2.17E-6 3$QC=1.638E-7 23                
+235U   L 821.83    7  (9/2-)                                                G   
+235U X L XREF=K                                                                 
+235U  cL J         from (d,d')                                                  
+235U   L 843.859   10(1/2)+                                                 P   
+235U 2 L FLAG=W                                                                 
+235U X L XREF=FGLD                                                              
+235U  cL J         |g-ray de-excitation (E2 to 5/2+; M1(+E0) to 1/2+)           
+235U   G 714.70    10 65     7 E2                      0.0215               W   
+235U S G KC=0.01512 22$LC=0.00477 7$MC=0.001215 17$NC+=0.000421 6               
+235U S G NC=0.000328 5$OC=7.80E-5 11$PC=1.423E-5 20$QC=7.15E-7 10               
+235U   G 843.780   10 100    5  M1(+E0)                                     W   
+235U   L 845.35    2  (7/2+)                                                O  ?
+235U 2 L FLAG=W                                                                 
+235U X L XREF=FD                                                                
+235U   G 763.61    2  100       E0(+M1)                                     W  ?
+235U   L 850.56     3 13/2-                                                 F   
+235U X L XREF=A                                                                 
+235U   G 600.47    6      10015                                                 
+235U   G 679.22    3       7517                                                 
+235U   L 865.189    8 3/2+                                                  P   
+235U 2 L FLAG=W                                                                 
+235U X L XREF=DFG                                                               
+235U   G 693.810   10 44     5 E2                      0.0229               Z   
+235U S G KC=0.01594 23$LC=0.00517 8$MC=0.001321 19$NC+=0.000458 7               
+235U S G NC=0.000357 5$OC=8.47E-5 12$PC=1.542E-5 22$QC=7.58E-7 11               
+235U   G 735.910   15 69     7 M1+E2     1.2     2     0.048  7             Z   
+235U S G KC=0.037 6$LC=0.0081 9$MC=0.00198 20$NC+=0.00069 7                     
+235U S G NC=0.00053 6$OC=0.000129 13$PC=2.4E-5 3$QC=1.73E-6 24                  
+235U   G 783.40    5  8.7    18[E2]                    0.0179               Z   
+235U S G KC=0.01285 18$LC=0.00374 6$MC=0.000946 14$NC+=0.000328 5               
+235U S G NC=0.000255 4$OC=6.08E-5 9$PC=1.116E-5 16$QC=5.99E-7 9                 
+235U   G 813.510   17 100    10M1                      0.0678               Z   
+235U S G KC=0.0542 8$LC=0.01024 15$MC=0.00246 4$NC+=0.000859 12                 
+235U S G NC=0.000664 10$OC=0.0001614 23$PC=3.11E-5 5$QC=2.49E-6 4               
+235U   L 879.8      3 13/2-                                                 E   
+235U X L XREF=A                                                                 
+235U   G 629.7     5      10012                                                 
+235U   G 708.4     5       4212                                                 
+235U 2 G FL=171.464                                                             
+235U   L 885.5     6  (11/2-)                                               g   
+235U X L XREF=KL                                                                
+235U   G 63.5       5                                                           
+235U 3 G FL=821.83                                                              
+235U   G 108.7      5                                                           
+235U   G 165.8      5                                                           
+235U   G 215.6      5                                                           
+235U   G 297.9      5                                                           
+235U   G 715.3      5                                                           
+235U   G 734.4      3                                                           
+235U   G 782.8      3                                                           
+235U   G 839.5      5                                                           
+235U   L 891.91     3 5/2+                                                  P   
+235U X L XREF=DFG                                                               
+235U 2 L FLAG=W                                                                 
+235U   G 720.55    3  27     7 [M1+E2]                 0.06   4             Z   
+235U S G KC=0.04 3$LC=0.009 5$MC=0.0023 12$NC+=0.0008 4                         
+235U S G NC=0.0006 3$OC=0.00015 8$PC=2.9E-5 15$QC=2.1E-6 14                     
+235U   G 762.6     2  13     6 [M1+E2]                 0.05   3             Z   
+235U S G KC=0.04 3$LC=0.008 4$MC=0.0020 10$NC+=0.0007 4                         
+235U S G NC=0.0005 3$OC=0.00013 7$PC=2.5E-5 13$QC=1.8E-6 12                     
+235U   G 840.25    9  64     7  M1+E0                                       W   
+235U   G 879.2     3  48     5 [M1+E2]                 0.035  21                
+235U S G KC=0.027 17$LC=0.006 3$MC=0.0014 7$NC+=0.00047 23                      
+235U S G NC=0.00036 18$OC=9.E-5 5$PC=1.7E-5 9$QC=1.3E-6 8                       
+235U   G 891.0     3  100    10[E2]                    0.01385                  
+235U S G KC=0.01024 15$LC=0.00270 4$MC=0.000677 10$NC+=0.000235 4               
+235U S G NC=0.000182 3$OC=4.36E-5 7$PC=8.07E-6 12$QC=4.68E-7 7                  
+235U   L 905.262   18 5/2+                                                  Q   
+235U 2 L FLAG=W                                                                 
+235U X L XREF=F                                                                 
+235U   G 679.83    6  100    13E2                      0.0239               W   
+235U S G KC=0.01653 24$LC=0.00547 8$MC=0.001399 20$NC+=0.000485 7               
+235U S G NC=0.000378 6$OC=8.97E-5 13$PC=1.630E-5 23$QC=7.89E-7 11               
+235U   G 733.93    4  67     15M1                      0.0891               W   
+235U S G KC=0.0712 10$LC=0.01348 19$MC=0.00325 5$NC+=0.001132 16                
+235U S G NC=0.000875 13$OC=0.000213 3$PC=4.10E-5 6$QC=3.28E-6 5                 
+235U   G 775.96    2  47     15 E0+M1                                       Z   
+235U   L 916.87    13 23/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 129.0     10    13.025                                                 
+235U   G 250.17    8      100 9                                                 
+235U   L 921.1     4  13/2-                                                 h   
+235U X L XREF=A                                                                 
+235U   G 671.1                                                                  
+235U 3 G FL=250.014                                                             
+235U   L 924.5      5 15/2-                                                 f   
+235U X L XREF=AGM                                                               
+235U   G 584.5     5    100                                                     
+235U   L 943       2  (7/2-)                                                    
+235U X L XREF=G                                                                 
+235U  cL J         From (d,p)                                                   
+235U   L 945.58     5 27/2-                                                 A   
+235U X L XREF=A                                                                 
+235U   G 140.13    4     18.910                                                 
+235U   G 273.63    3      100 4                                                 
+235U F G FL=671.94                                                              
+235U   L 951.05     3 1/2-,3/2-                                             W   
+235U X L XREF=F                                                                 
+235U  cL J$E1 |g ray to 1/2+                                                    
+235U   G 171.548   8  2.8    14[E1]                    0.1411               Z   
+235U S G KC=0.1101 16$LC=0.0234 4$MC=0.00569 8$NC+=0.00194 3                    
+235U S G NC=0.001517 22$OC=0.000359 5$PC=6.44E-5 9$QC=3.61E-6 5                 
+235U   G 950.94    15 100    10 E1                                          W   
+235U 3 G FL=0.0760                                                              
+235U S G CC=0.00409 6$KC=0.00334 5$LC=0.000565 8$MC=0.0001342 19$NC+=4.65E-5 7  
+235U S G NC=3.60E-5 5$OC=8.70E-6 13$PC=1.659E-6 24$QC=1.274E-7 18               
+235U   L 953.4      3 15/2-                                                 e   
+235U X L XREF=A                                                                 
+235U   G 595.8     5       38 4                                                 
+235U   G 614.2     5      10010                                                 
+235U   G 702.9     5     24.020                                                 
+235U   L 960.4     6   (13/2-)                                              G   
+235U X L XREF=AGKM                                                              
+235U   G 74.88      7                                                           
+235U   G 138.3      5                                                           
+235U 3 G FL=821.83                                                              
+235U   G 183.5      5                                                           
+235U   G 240.3      5                                                           
+235U   G 372.5      3                                                           
+235U   G 601.1      4                                                           
+235U   G 622.3      6                                                           
+235U   G 763.3      5                                                           
+235U   G 790.3      5                                                           
+235U   G 858.8      4                                                           
+235U   L 968.443   14 (3/2)+                                                W   
+235U X L XREF=FGLD                                                              
+235U  cL J         E2 to 1/2+                                                   
+235U   G 916.78    8  16     5 [M1+E2]                 0.031  19            Z   
+235U S G KC=0.025 15$LC=0.0050 25$MC=0.0012 6$NC+=0.00042 21                    
+235U S G NC=0.00033 16$OC=8.E-5 4$PC=1.5E-5 8$QC=1.1E-6 7                       
+235U   G 955.40    2  100    11M1+E2     0.6     2     0.036  5             Z   
+235U S G KC=0.028 4$LC=0.0055 6$MC=0.00133 14$NC+=0.00046 5                     
+235U S G NC=0.00036 4$OC=8.7E-5 9$PC=1.67E-5 18$QC=1.30E-6 16                   
+235U   G 968.37    2  89     9 M1+E2     0.6     3     0.035  6             Z   
+235U S G KC=0.027 5$LC=0.0053 8$MC=0.00128 19$NC+=0.00045 7                     
+235U S G NC=0.00035 5$OC=8.4E-5 12$PC=1.61E-5 24$QC=1.26E-6 22                  
+235U   L 975.94     7 25/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 174.6     10     1.6 8                                                 
+235U   G 265.93    4      100 6                                                 
+235U   L 987.7      4 13/2-                                                 h   
+235U X L XREF=ADK                                                               
+235U   G 737.2     5    1.0E2 4                                                 
+235U   G 816.7     5     7.E1 4                                                 
+235U 2 G FL=171.464                                                             
+235U   L 990.229    8 1/2-,3/2-                                             W   
+235U X L XREF=FG(*)                                                             
+235U  cL J         E1 from 1/2+ in (n,|g)                                       
+235U   G 125.040   2  9      3 [E1]                    0.297                Z   
+235U S G KC=0.227 4$LC=0.0525 8$MC=0.01280 18$NC+=0.00436 6                     
+235U S G NC=0.00341 5$OC=0.000800 12$PC=0.0001408 20$QC=7.22E-6 11              
+235U   G 229.24    2  8      5 [M1]                    2.12                 Z   
+235U S G KC=1.682 24$LC=0.326 5$MC=0.0789 11$NC+=0.0275 4                       
+235U S G NC=0.0213 3$OC=0.00517 8$PC=0.000997 14$QC=7.95E-5 12                  
+235U   G 990.13    4  100    10   [E1]                                      Z   
+235U S G CC=0.00381 6$KC=0.00311 5$LC=0.000526 8$MC=0.0001247 18$NC+=4.32E-5 6  
+235U S G NC=3.34E-5 5$OC=8.09E-6 12$PC=1.543E-6 22$QC=1.190E-7 17               
+235U   L 992.64     3 (5/2+)                                                W   
+235U X L XREF=FG(*)DL                                                           
+235U  cL J         |g-ray de-excitation; not detected in average res. neutron   
+235U 2cL capture. Detected in thermal neutron capture.                          
+235U   G 978.9     7  35     10                                             Z   
+235U   G 992.64    3  100    10                                             Z   
+235U 2 G FL=0.0                                                                 
+235U   L 1002.28   20 1/2-,3/2-                                             W   
+235U X L XREF=FGKL                                                              
+235U  cL J         E1 from 1/2+ in (n,|g)                                       
+235U   G 1002.2    2  100                                                   W   
+235U 3 G FL=0.0760                                                              
+235U   L 1020.6     7 19/2+                                                 D   
+235U X L XREF=A                                                                 
+235U   G 230.0     10    3.E1 3                                                 
+235U   G 461.2     10   1.0E2 5                                                 
+235U 2 G FL=559.34                                                              
+235U   L 1023.79    7 17/2-                                                 F   
+235U X L XREF=A                                                                 
+235U   G 583.90    12     100 5                                                 
+235U 2 G FL=439.39                                                              
+235U   G 683.99    7       87 6                                                 
+235U   L 1038.231  10  5/2+                                                 W   
+235U X L XREF=FG(*)L(*)                                                         
+235U  cL J         M1 |g ray to 7/2+; detected in (n,|g)                        
+235U   G 564.070   17 80     20M1                      0.180                Z   
+235U 3 G FL=473.826                                                             
+235U S G KC=0.1437 21$LC=0.0274 4$MC=0.00660 10$NC+=0.00230 4                   
+235U S G NC=0.001777 25$OC=0.000432 6$PC=8.34E-5 12$QC=6.65E-6 10               
+235U   G 611.630   11 100    20(E2)                    0.0299               Z   
+235U 3 G FL=426.741                                                             
+235U S G KC=0.0200 3$LC=0.00738 11$MC=0.00190 3$NC+=0.000660 10                 
+235U S G NC=0.000515 8$OC=0.0001219 17$PC=2.20E-5 3$QC=9.74E-7 14               
+235U   G 1024.7    6  60     20                                             Z   
+235U   L 1047.1    4  15/2-                                                 g   
+235U X L XREF=A                                                                 
+235U   G 85.15     12                                                           
+235U 3 G FL=960.4                                                               
+235U   G 122.1      2                                                           
+235U   G 124.4      5                                                           
+235U   G 160.1      2                                                           
+235U   G 195.5      5                                                           
+235U   G 268.2      4                                                           
+235U 3 G FL=778.36                                                              
+235U   G 606.7      5                                                           
+235U   G 706.5      5                                                           
+235U   G 796.4      4                                                           
+235U   G 874.7      2                                                           
+235U   L 1054.2     3 17/2-                                                 E   
+235U X L XREF=A                                                                 
+235U   G 174.3     5       22 9                                                 
+235U   G 614.6     5    1.0E2 4                                                 
+235U   G 714.6     8       39 8                                                 
+235U   L 1057.4     3 25/2+                                                 C   
+235U X L XREF=A                                                                 
+235U   G 141.0     10     8.422                                                 
+235U   G 269.60    9      100 9                                                 
+235U   L 1057.42   11                                                       Z   
+235U X L XREF=DFJ                                                               
+235U   G 832.5     2  66     5                                                  
+235U   G 886.0     5  11     5                                              Z   
+235U 3 G FL=171.358                                                             
+235U   G 927.8     2  70     20                                             Z   
+235U   G 1005.7    3  40     7                                                  
+235U   G 1057.3    2  100    16                                                 
+235U 3 G FL=0.0                                                                 
+235U   L 1066.5     5 15/2-                                                 H   
+235U X L XREF=A                                                                 
+235U   G 816.5     5    100.0                                                   
+235U   L 1072.82   17 (1/2,3/2)                                             W   
+235U X L XREF=FGL                                                               
+235U  cL J         detected in thermal neutron (n,|g)                           
+235U   G 1060.1    3  34     11                                             Z   
+235U   G 1072.6    2  100    20                                             Z   
+235U 3 G FL=0.0760                                                              
+235U   L 1078.03    7 27/2+                                                 b   
+235U X L XREF=A                                                                 
+235U   G 102.9     10     0.5 5                                                 
+235U   G 277.44    4      100 6                                                 
+235U   L 1099.02   11 (3/2-)                                                W   
+235U X L XREF=F                                                                 
+235U  cL J         E1 |g ray from 1/2+; |g-ray de-excitation in (n,|g)          
+235U   G 1047.40   13 100    23  [E1]                                       Z   
+235U S G CC=0.00345 5$KC=0.00283 4$LC=0.000475 7$MC=0.0001127 16$NC+=3.90E-5 6  
+235U S G NC=3.02E-5 5$OC=7.31E-6 11$PC=1.396E-6 20$QC=1.082E-7 16               
+235U   G 1085.8    2  50     12  [E1]                                       Z   
+235U S G CC=0.00324 5$KC=0.00266 4$LC=0.000445 7$MC=0.0001056 15$NC+=3.65E-5 6  
+235U S G NC=2.83E-5 4$OC=6.85E-6 10$PC=1.309E-6 19$QC=1.019E-7 15               
+235U   G 1099.0     3 38     13  [E2]                                       Z   
+235U 3 G FL=0.0                                                                 
+235U S G CC=0.00928 13$KC=0.00709 10$LC=0.001643 23$MC=0.000406 6$NC+=0.0001409 
+235U S G NC=0.0001094 16$OC=2.63E-5 4$PC=4.92E-6 7$QC=3.16E-7 5                 
+235U   L 1100.98    6 29/2-                                                 a   
+235U X L XREF=A                                                                 
+235U   G 155.74    4     19.710                                                 
+235U 2 G FL=945.58                                                              
+235U   G 295.21    3      100 5                                                 
+235U F G FL=805.65                                                              
+235U   L 1108      4  (9/2-)                                                    
+235U X L XREF=KG(*)                                                             
+235U   L 1109.0     3 19/2-                                                 f   
+235U X L XREF=A                                                                 
+235U   G 557.6     5     7.E110                                                 
+235U   G 669.3     5    1.0E210                                                 
+235U   G 769.6     5     8.E110                                                 
+235U   L 1116.21   4  (5/2-)                                                W   
+235U X L XREF=FJDEG(*)                                                          
+235U  cL J         |g-ray de-excitation (E1 to 5/2+, |g's to 7/2+, 3/2+);       
+235U 2cL Conversely, 1972Ri08 suggested J|p=5/2+, possible configuration        
+235U xcL 5/2[633]|*0+                                                           
+235U   G 944.9     4  34     11 [E1]                                        Z   
+235U 3 G FL=171.358                                                             
+235U S G CC=0.00413 6$KC=0.00338 5$LC=0.000572 8$MC=0.0001358 19$NC+=4.70E-5 7  
+235U S G NC=3.64E-5 6$OC=8.80E-6 13$PC=1.678E-6 24$QC=1.288E-7 18               
+235U   G 986.92    4  100    10 E1                                          Z   
+235U S G CC=0.00383 6$KC=0.00313 5$LC=0.000529 8$MC=0.0001255 18$NC+=4.34E-5 6  
+235U S G NC=3.36E-5 5$OC=8.13E-6 12$PC=1.552E-6 22$QC=1.196E-7 17               
+235U   G 1102.9    7  9      6  [E1]                                        Z   
+235U S G CC=0.00316 5$KC=0.00259 4$LC=0.000433 6$MC=0.0001027 15$NC+=3.61E-5 5  
+235U S G NC=2.75E-5 4$OC=6.67E-6 10$PC=1.274E-6 18$QC=9.93E-8 14$IPC=4.98E-7 18 
+235U   G 1115.6    3  20     6                                              Z   
+235U   L 1141.3     3 17/2-                                                 G   
+235U X L XREF=A                                                                 
+235U   G 802.0     5      10014                                                 
+235U   G 890.9     5      10020                                                 
+235U   L 1142.6     3 19/2-                                                 e   
+235U X L XREF=A                                                                 
+235U   G 583.1     5       8410                                                 
+235U   G 592.0     5       9720                                                 
+235U   G 702.9     5      10020                                                 
+235U   L 1142.633   8 (3/2)-                                                W   
+235U X L XREF=FL                                                                
+235U  cL J$|g-ray de-excitation (M1+E2 to 3/2-. M1 to (5/2)-. |g ray to 1/2+)   
+235U   G 478.100   10 62     7 M1                      0.281                Z   
+235U S G KC=0.224 4$LC=0.0429 6$MC=0.01034 15$NC+=0.00360 5                     
+235U S G NC=0.00278 4$OC=0.000677 10$PC=0.0001306 19$QC=1.041E-5 15             
+235U   G 504.840   6  66     7 M1+E2     1.2     2     0.127  18            Z   
+235U S G KC=0.096 15$LC=0.0230 22$MC=0.0057 5$NC+=0.00198 18                    
+235U S G NC=0.00154 14$OC=0.00037 4$PC=6.9E-5 7$QC=4.5E-6 7                     
+235U   G 1090.9    2  24     6  [E1]                                        Z   
+235U S G CC=0.00322 5$KC=0.00264 4$LC=0.000442 7$MC=0.0001047 15$NC+=3.63E-5 5  
+235U S G NC=2.81E-5 4$OC=6.80E-6 10$PC=1.299E-6 19$QC=1.011E-7 15               
+235U   G 1142.2    2  100    20 [E1]                                        Z   
+235U S G CC=0.00298 5$KC=0.00244 4$LC=0.000407 6$MC=9.65E-5 14$NC+=3.58E-5 5    
+235U S G NC=2.59E-5 4$OC=6.26E-6 9$PC=1.198E-6 17$QC=9.36E-8 14$IPC=2.39E-6 4   
+235U   L 1156.2     3 17/2-                                                 h   
+235U X L XREF=A                                                                 
+235U   G 716.1     5       5017                                                 
+235U   G 816.7     5       5017                                                 
+235U   G 906.3     5    1.0E2 4                                                 
+235U   L 1204.16   15 27/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 146.5     10       9 3                                                 
+235U 2 G FL=1057.4                                                              
+235U   G 287.28    8      10010                                                 
+235U   L 1235.5     5 21/2-                                                 F   
+235U X L XREF=A                                                                 
+235U   G 431.4     10     10010                                                 
+235U   G 563.5     10     10017                                                 
+235U 2 G FL=671.94                                                              
+235U   G 684.1     10     10017                                                 
+235U   G 795.2     10      3913                                                 
+235U   L 1240.9     3 19/2-                                                 g   
+235U X L XREF=A                                                                 
+235U   G 801.6     5    1.0E2 4                                                 
+235U   G 901.4     5    1.0E2 4                                                 
+235U   G 991.0     5    1.0E2 4                                                 
+235U   L 1258.08    6 31/2-                                                 A   
+235U X L XREF=A                                                                 
+235U   G 157.31    4     16.010                                                 
+235U   G 312.43    3      100 4                                                 
+235U   L 1261.2     319/2-                                                  H   
+235U X L XREF=A                                                                 
+235U   G 822.0     5    1.0E2 4                                                 
+235U   G 921.8     5    1.0E2 4                                                 
+235U   G 1010.4    5    1.0E2 4                                                 
+235U   L 1275.2     3 21/2-                                                 E   
+235U X L XREF=A                                                                 
+235U   G 221.0     6       17 9                                                 
+235U   G 603.3     5      10017                                                 
+235U 2 G FL=671.94                                                              
+235U   G 724.1     4     9.E1 4                                                 
+235U   L 1276.84    8 29/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 300.90    4    100                                                     
+235U   L 1292.2     3 23/2+                                                 D   
+235U X L XREF=A                                                                 
+235U   G 272.0     10      1620                                                 
+235U   G 491.6     3      10024                                                 
+235U   L 1333.6     3 23/2-                                                 f   
+235U X L XREF=A                                                                 
+235U   G 224.5     5     2.E113                                                 
+235U 2 G FL=1109.0                                                              
+235U   G 527.8     5     1.E2 3                                                 
+235U 2 G FL=805.65                                                              
+235U   G 661.8     5    1.0E2 5                                                 
+235U 2 G FL=671.94                                                              
+235U   L 1349.93   24 21/2-                                                 G   
+235U X L XREF=A                                                                 
+235U   G 209.0     5       10 6                                                 
+235U   G 798.3     5       60 8                                                 
+235U   G 910.1     5      100 6                                                 
+235U   G 1010.5    5       60 6                                                 
+235U   L 1362.5     3 29/2+                                                 C   
+235U X L XREF=A                                                                 
+235U   G 159.0     10      12 4                                                 
+235U   G 305.08    9      10010                                                 
+235U 2 G FL=1057.4                                                              
+235U   L 1374.5     3 23/2-                                                 e   
+235U X L XREF=A                                                                 
+235U   G 568.7     5    1.0E2 3                                                 
+235U 2 G FL=805.65                                                              
+235U   G 573.4     5       27 3                                                 
+235U   G 703.1     5       8615                                                 
+235U 2 G FL=671.94                                                              
+235U   L 1389.22    9 31/2+                                                 b   
+235U X L XREF=A                                                                 
+235U   G 311.20    5    100                                                     
+235U   L 1434.30    6 33/2-                                                 a   
+235U X L XREF=A                                                                 
+235U   G 176.45    4     17.410                                                 
+235U   G 333.26    3      100 4                                                 
+235U   L 1467.17   24 23/2-                                                 g   
+235U X L XREF=A                                                                 
+235U   G 227.0     5       3317                                                 
+235U   G 795.3     5    1.0E2 4                                                 
+235U 3 G FL=671.94                                                              
+235U   G 916.2     5    1.0E2 4                                                 
+235U   G 1027.8    5    1.0E2 4                                                 
+235U   L 1485.59    9 25/2-                                                 F   
+235U X L XREF=A                                                                 
+235U   G 250.4     10      6422                                                 
+235U   G 539.80    10   1.0E2 3                                                 
+235U   G 680.10    9     9.E1 4                                                 
+235U 3 G FL=805.65                                                              
+235U   G 813.6     10      4322                                                 
+235U 2 G FL=671.94                                                              
+235U   L 1504.8     4 23/2-                                                 H   
+235U X L XREF=A                                                                 
+235U   G 833.3     5    1.0E2 4                                                 
+235U 2 G FL=671.94                                                              
+235U   G 953.2     5     7.E1 4                                                 
+235U   L 1525.15   17 31/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 162.0     10      13 3                                                 
+235U   G 320.97    8      10010                                                 
+235U   L 1542.4     4 25/2-                                                 E   
+235U X L XREF=A                                                                 
+235U   G 267.1     7     8.E1 3                                                 
+235U   G 596.9     5    1.0E2 3                                                 
+235U 2 G FL=945.58                                                              
+235U   G 736.7     6    1.0E2 4                                                 
+235U 2 G FL=805.65                                                              
+235U   L 1595.4     3 25/2-                                                 G   
+235U X L XREF=A                                                                 
+235U   G 245.5     5       1710                                                 
+235U   G 789.7     5       6717                                                 
+235U 2 G FL=805.65                                                              
+235U   G 923.9     5    1.0E2 4                                                 
+235U 2 G FL=671.94                                                              
+235U   L 1599.7     3 27/2-                                                 f   
+235U X L XREF=A                                                                 
+235U   G 266.1     5    1.0E220                                                 
+235U   G 498.5     5    1.0E220                                                 
+235U   G 654.2     5    1.0E220                                                 
+235U 2 G FL=945.58                                                              
+235U   L 1600.7     6 27/2+                                                 D   
+235U X L XREF=A                                                                 
+235U   G 308.0     10    5.E1 3                                                 
+235U   G 522.9     10   1.0E2 3                                                 
+235U   L 1606.32    6 35/2-                                                 A   
+235U X L XREF=A                                                                 
+235U   G 172.28    5     13.011                                                 
+235U   G 348.18    3      100 4                                                 
+235U   L 1610.04   10 33/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 333.20    6    100                                                     
+235U   L 1646.8     3 27/2-                                                 e   
+235U X L XREF=A                                                                 
+235U   G 545.8     5      10010                                                 
+235U   G 568.2     5       6110                                                 
+235U   G 701.8     5       48 7                                                 
+235U 2 G FL=945.58                                                              
+235U   L 1656.4     7                                                           
+235U X L XREF=P                                                                 
+235U   G 1656.4    7      100                                                   
+235U 2 G FL=0.0                                                                 
+235U   L 1700.1     3 33/2+                                                 C   
+235U X L XREF=A                                                                 
+235U   G 175.0     10       6 3                                                 
+235U   G 337.66    9      10013                                                 
+235U   L 1731.65   10 35/2+                                                 b   
+235U X L XREF=A                                                                 
+235U   G 342.42    5    100                                                     
+235U   L 1731.8     3 27/2-                                                 g   
+235U X L XREF=A                                                                 
+235U   G 264.6     5     7.E1 4                                                 
+235U   G 785.9     5    1.0E2 4                                                 
+235U 2 G FL=945.58                                                              
+235U   G 926.5     5    1.0E2 4                                                 
+235U 2 G FL=805.65                                                              
+235U   L 1733.54   19                                                           
+235U X L XREF=P                                                                 
+235U   G 1687.0    5   60    20                                                 
+235U   G 1733.6    2   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 1769.3    4                                                            
+235U X L XREF=P                                                                 
+235U   G 1769.3    4   100                                                  &   
+235U F G FL=0.0                                                                 
+235U   L 1773.49   10 29/2-                                                 F   
+235U X L XREF=A                                                                 
+235U   G 287.7     10      8020                                                 
+235U   G 515.40    8       6220                                                 
+235U   G 672.7     3    1.0E2 4                                                 
+235U   G 827.8     10      6020                                                 
+235U 2 G FL=945.58                                                              
+235U   L 1802.23    6 37/2-                                                 a   
+235U X L XREF=A                                                                 
+235U   G 196.18    6     15.215                                                 
+235U   G 367.89    3      100 5                                                 
+235U   L 1815.25   18                                                           
+235U X L XREF=P                                                                 
+235U   G 1769.3    4   62    4                                              &   
+235U   G 1815.2    2   100                                                      
+235U 2 G FL=0.0                                                                 
+235U   L 1827.67   19                                                           
+235U X L XREF=P                                                                 
+235U   G 1782.1    6   45    18                                             X   
+235U   G 1827.6    2   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 1851.6     5 29/2-                                                 E   
+235U X L XREF=A                                                                 
+235U   G 309.1     10      5921                                                 
+235U   G 593.5     6    1.0E2 4                                                 
+235U   G 750.7     10    9.E1 4                                                 
+235U 2 G FL=1100.98                                                             
+235U   L 1862.41   10                                                           
+235U X L XREF=P                                                                 
+235U   G 1862.4    1   100                                                      
+235U 2 G FL=0.0                                                                 
+235U   L 1877.55   20 35/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 178.0     10      11 4                                                 
+235U   G 352.37    11     10010                                                 
+235U   L 1879.12    9 29/2-                                                 G   
+235U X L XREF=A                                                                 
+235U   G 284.0     5       3815                                                 
+235U   G 778.2     5       5015                                                 
+235U   G 933.53    7      10025                                                 
+235U   G 1073.3    5       2515                                                 
+235U 2 G FL=805.65                                                              
+235U   L 1906.1     3 31/2-                                                 f   
+235U X L XREF=A                                                                 
+235U   G 306.4     5    1.0E215                                                 
+235U 2 G FL=1599.7                                                              
+235U   G 472.0     5     3.E115                                                 
+235U   G 647.8     5     5.E115                                                 
+235U   L 1943.43   10 31/2+                                                 D   
+235U X L XREF=A                                                                 
+235U   G 342.6     10      79 4                                                 
+235U 2 G FL=1600.7                                                              
+235U   G 554.21    5      100 4                                                 
+235U   L 1958.9     4 31/2-                                                 e   
+235U X L XREF=A                                                                 
+235U   G 524.5     5      10016                                                 
+235U   G 701.0     5       8916                                                 
+235U   L 1973.09   12 37/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 363.05    7    100                                                     
+235U   L 1973.8    3                                                            
+235U X L XREF=P                                                                 
+235U   G 1973.8    3   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 1986.91    6 39/2-                                                 A   
+235U X L XREF=A                                                                 
+235U   G 184.81    5     11.615                                                 
+235U   G 380.55    3      100 5                                                 
+235U   L 2003.36   17                                                           
+235U X L XREF=P                                                                 
+235U   G 1957.4    2   62    13                                                 
+235U   G 2003.0    3   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 2005.9    4                                                            
+235U X L XREF=P                                                                 
+235U   G 2005.9    4   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 2010.6    3                                                            
+235U X L XREF=P                                                                 
+235U   G 2010.6    3   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 2033.4     3 31/2-                                                 g   
+235U X L XREF=A                                                                 
+235U   G 301.7     5       5025                                                 
+235U 2 G FL=1731.8                                                              
+235U   G 774.8     5       5025                                                 
+235U   G 932.8     5    1.0E2 5                                                 
+235U   L 2067.1     4                                                           
+235U X L XREF=P                                                                 
+235U   G 2067.1    4   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 2067.4     3 37/2+                                                 C   
+235U X L XREF=A                                                                 
+235U   G 189.0     10       9 5                                                 
+235U 2 G FL=1877.55                                                             
+235U   G 367.37    15     10017                                                 
+235U   L 2074.2    3                                                            
+235U X L XREF=P                                                                 
+235U   G 2074.2    3   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 2086.7    6                                                            
+235U X L XREF=P                                                                 
+235U   G 2086.7    6   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 2097.2     5 33/2-                                                 F   
+235U X L XREF=A                                                                 
+235U   G 323.8     10   1.0E2 4                                                 
+235U   G 490.6     10      6320                                                 
+235U   G 663.2     10    8.E1 3                                                 
+235U   G 839.1     10    6.E1 3                                                 
+235U   L 2103.36   13 39/2+                                                 b   
+235U X L XREF=A                                                                 
+235U   G 371.71    8    100                                                     
+235U 2 G FL=1731.65                                                             
+235U   L 2110.2    3                                                            
+235U X L XREF=P                                                                 
+235U   G 2063.3    6   51    13                                                 
+235U   G 2110.4    3   100                                                      
+235U F G FL=0.0                                                                 
+235U   L 2193.0     5 33/2-                                                 G   
+235U X L XREF=A                                                                 
+235U   G 934.9     5    100                                                     
+235U   L 2201.00    7 41/2-                                                 a   
+235U X L XREF=A                                                                 
+235U   G 214.10    3       19 3                                                 
+235U   G 398.76    4      100 6                                                 
+235U   L 2216.1    3                                                            
+235U X L XREF=P                                                                 
+235U   G 2216.1    3    100                                                     
+235U F G FL=0.0                                                                 
+235U   L 2249.6     3 35/2-                                                 f   
+235U X L XREF=A                                                                 
+235U   G 343.4     5    1.0E212                                                 
+235U   G 447.3     5     2.E112                                                 
+235U   G 643.0     5     4.E112                                                 
+235U   L 2258.69   24 39/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 192.0     10       9 5                                                 
+235U 2 G FL=2067.4                                                              
+235U   G 381.10    15     10013                                                 
+235U   L 2314.5     7 35/2+                                                 D   
+235U X L XREF=A                                                                 
+235U   G 371.1     10      79 4                                                 
+235U   G 583.3     10     100 3                                                 
+235U 2 G FL=1731.65                                                             
+235U   L 2363.80   18 41/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 390.71    13   100                                                     
+235U   L 2368.6     4 35/2-                                                 g   
+235U X L XREF=A                                                                 
+235U   G 762.6     5    1.0E2 5                                                 
+235U   G 934.0     5    1.0E2 5                                                 
+235U   L 2395.90    8 43/2-                                                 A   
+235U X L XREF=A                                                                 
+235U   G 195.21    20      13 3                                                 
+235U   G 409.00    5      100 7                                                 
+235U   L 2416.1    3                                                            
+235U X L XREF=P                                                                 
+235U   G 2416.1    3    100                                                     
+235U F G FL=0.0                                                                 
+235U   L 2454.7    12 37/2-                                                 F   
+235U X L XREF=A                                                                 
+235U   G 357.5     10   100                                                     
+235U   L 2462.7     3 41/2+                                                 C   
+235U X L XREF=A                                                                 
+235U   G 203.0     10      25 7                                                 
+235U   G 395.27    7      100 9                                                 
+235U 2 G FL=2067.4                                                              
+235U   L 2.5E+3    3                   3.6 MS    18                          M2 
+235U X L XREF=F                                                                 
+235U  cL E,T$Fission isomer (2007Ob02).                                         
+235U 2 L %SF=?                                                                  
+235U  cL           From 2007Ob02                                                
+235U  cL           From {+234}U(n,F), |s(SF)=10 |mb {i8}. Produced with neutrons
+235U 2cL of E(n)=0.95 and 1.27 MeV. Separated with the isomer spectrometer      
+235U 3cL neptune at the Van de Graaff laboratory of the irmm, Geel, Belgium.    
+235U   L 2502.5     9 43/2+                                                 b   
+235U X L XREF=A                                                                 
+235U   G 398.9     10   100                                                     
+235U   L 2555.6    6                                                            
+235U X L XREF=P                                                                 
+235U   G 2555.6    6    100                                                     
+235U F G FL=0.0                                                                 
+235U   L 2626.2     3 39/2-                                                 f   
+235U X L XREF=A                                                                 
+235U   G 376.2     5     100 AP                                                 
+235U   G 425.6     5     100 AP                                                 
+235U 3 G FL=2201.00                                                             
+235U   G 639.4     5     100 AP                                                 
+235U   L 2626.81    9 45/2-                                                 a   
+235U X L XREF=A                                                                 
+235U   G 231.04    18      15 6                                                 
+235U   G 425.77    6      100 8                                                 
+235U   L 2666.2     7 43/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 203.6     10      3019                                                 
+235U   G 407.6     10   1.0E2 3                                                 
+235U   L 2709.4     8 39/2+                                                 D   
+235U X L XREF=A                                                                 
+235U   G 395.5     10     100 5                                                 
+235U   G 605.7     10      50 4                                                 
+235U   L 2754.7    4                                                            
+235U X L XREF=P                                                                 
+235U   G 2754.7    4    100                                                     
+235U F G FL=0.0                                                                 
+235U   L 2780.2     3 45/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 416.37    20   100                                                     
+235U   L 2829.97   12 47/2-                                                 A   
+235U X L XREF=A                                                                 
+235U   G 202.90    18      17 5                                                 
+235U   G 434.14    10     10010                                                 
+235U   L 2843.4    15 41/2-                                                 F   
+235U X L XREF=A                                                                 
+235U   G 388.7     10   100                                                     
+235U   L 2883.7     4 45/2+                                                 C   
+235U X L XREF=A                                                                 
+235U   G 217.8     10      2112                                                 
+235U   G 420.96    7      10012                                                 
+235U   L 2927.9     9 47/2+                                                 b   
+235U X L XREF=A                                                                 
+235U   G 425.40    5    100                                                     
+235U   L 3075.98   17 49/2-                                                 a   
+235U X L XREF=A                                                                 
+235U   G 245.6     5       2911                                                 
+235U   G 449.20    15     10012                                                 
+235U 2 G FL=2626.81                                                             
+235U   L 3098.3     7 47/2+                                                 c   
+235U X L XREF=A                                                                 
+235U   G 432.1     1    100                                                     
+235U   L 3124.1    10 43/2+                                                 D   
+235U X L XREF=A                                                                 
+235U   G 415.0     10      3223                                                 
+235U   G 621.3     10     10020                                                 
+235U   L 3220.6     3 49/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 440.44    8    100                                                     
+235U   L 3286.77   17 51/2-                                                 A   
+235U X L XREF=A                                                                 
+235U   G 456.80    13   100                                                     
+235U   L 3328.6     4 49/2+                                                 C   
+235U X L XREF=A                                                                 
+235U   G 444.96    10   100                                                     
+235U   L 3547.6     8 53/2-                                                 a   
+235U X L XREF=A                                                                 
+235U   G 261.0     10    20  AP                                                 
+235U   G 471.4     10   100  AP                                                 
+235U   L 3683.5     3 53/2+                                                 B   
+235U X L XREF=A                                                                 
+235U   G 462.91    10   100                                                     
+235U   L 3764.3     6 55/2-                                                 A   
+235U X L XREF=A                                                                 
+235U   G 477.5     5    100                                                     
+235U   L 4040.7    13 57/2-                                                 a   
+235U X L XREF=A                                                                 
+235U   G 493.1     10   100                                                     

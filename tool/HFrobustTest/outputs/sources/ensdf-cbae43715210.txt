@@ -1,0 +1,42 @@
+249ES    ADOPTED LEVELS, GAMMAS                                  24NDS    202403
+249ES  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249ES  Q -2340     SY 7200   SY 3350   SY 6940   SY    2021WA16                 
+249ES cQ $|DQ(|b{+-})=30, |DS(n)=60, |DS(p)=30, |DQ(|a)=30 (syst,2021Wa16)      
+249ES cQ $S(2n)=13550 {I40}, S(2p)=8890 {I30} (syst,2021Wa16)                   
+249ES cG E,RI$From {+253}Md |a decay (2012He09)                                 
+249ES  XA253MD A DECAY (6 M)                                                    
+249ES DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+249ES PN                                                                     6  
+249ES  L 0            7/2+             102.2 M   6                              
+249ESX L XREF=A                                                                 
+249ES2 L %EC+%B+=99.43 8$ %A=0.57 8                                             
+249ES cL $%|a=0.57 {I8} from |a/K-xray= 0.007 {I7} (1970Ah01),                  
+249ES2cL I(K-xray)= 81.8 % {I5} (1976Ah07) and                                  
+249ES3cL I|a/I(|a+|e)=5.7|*10{+-3} {I8} (1976Ah07)                              
+249ES cL $Configuration=(|p7/2[633])(2012He09)                                  
+249ES cL J$From log| {Ift}=6.7 to 9/2- g.s. and                                 
+249ES2cL log| {Ift}=7.2 to 5/2+ level in {+249}Cf limits J to 7/2; log|         
+249ES3cL {Ift}=8.9 to 11/2- level in {+249}Cf rules out J|p=7/2-                
+249ES cL T$From weighted average of half-lives from decay measurement of        
+249ES2cL the 379.5|g from the {+249}Es |e decay: 102 min {I42} (1989Ha27),      
+249ES2cL 102.2 m {I6} (1976Ah07) and 1.7 h {I1} (1970Ah01).                     
+249ES2cL Others: 1.8 h (1956Ha80)                                               
+249ES  L 49.0       6  (9/2+)                                                   
+249ESX L XREF=A                                                                 
+249ES cL J$Proposed in 2012He09 based on 304.2|g from 353, 7/2- level feeding   
+249ES2cL this level.                                                            
+249ES  L 353.2     4   (7/2-)                                                   
+249ESX L XREF=A                                                                 
+249ES cL E$from E|g=353.2 {I4}                                                  
+249ES cL $Configuration=|p7/2[514]                                              
+249ES cL J$(E1) 353.2|g to 7/2+ g.s; from favored |a decay from (7/2-)          
+249ES2cL {+253}Md. Alpha hindrance factor|?1 was deduced by 2012He09,           
+249ES3cL based on a single 7103|a branch with theoretical half-life from        
+249ES4cL 1980Po10 and 1983Ru11                                                  
+249ES  G 304.2     4   20       [E1]                   0.0455  6                
+249ESS G  KC=0.0354 5$LC=0.00760 11$MC=0.001867 27                              
+249ESS G  NC=0.000516 7$OC=0.0001326 19$PC=2.411E-5 34$QC=1.075E-6 15           
+249ES  G 353.2     4   100      (E1)                   0.0334  5                
+249ESS G  KC=0.0261 4$LC=0.00547 8$MC=0.001340 19                               
+249ESS G  NC=0.000370 5$OC=9.54E-5 14$PC=1.748E-5 25$QC=8.06E-7 11              
+249ES cG M$From |a(K)exp |<0.06 (2005He27)                                      

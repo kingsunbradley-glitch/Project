@@ -1,0 +1,1246 @@
+237U     ADOPTED LEVELS, GAMMAS                                  06NDS    200608
+237U   H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 107, 2323 (2006)$CUT=15-Mar-2006$    
+237U   Q 518.6     5 5125.8  5 7231    144233.5  10    2012WA38                 
+237U  cQ $Note: Current evaluation has used the following Q record              
+237U 2cQ 518.6     5 {I5125}.8  {I5} 7240 {I200} 4233.7 {I10}    2003Au03       
+237U  cG E,RI      From {+236}U(n,|g) res:secondary |g's, except otherwise      
+237U xcG noted.                                                                 
+237U  cG E(Z),RI(Z)$From {+241}Pu |a decay.                                     
+237U  cG E(X)      From {+241}Pu |a decay.                                      
+237U  cG E(Y),M(W)$From {+238}U({+207}Pb,{+208}Pb|g).                           
+237U  cG M         From {+241}Pu |a decay, except otherwise noted.              
+237U  cL E         From a least squares fit to the adopted |g-ray energies, when
+237U 2cL available, otherwise from (d,p), (d,t), or ({+3}He,|a). Some of the    
+237U 3cL high-energy levels, close in energy, and observed in pickup, stripping 
+237U 4cL and/or (n,|g) reactions might be identical.                            
+237U  cL E(C)      From {+236}U(n,|g) Resonance capture. Uncertainties for the  
+237U 2cL (n,|g) primary gammas with E|g<3702 keV (feeding levels above 1440 keV)
+237U 3cL are not given in 1979Vo05. An upper limit of 2 keV for those levels is 
+237U 4cL assumed by the evaluator.                                              
+237U  cL J         Assignments given as being (d,p), (d,t) and/or               
+237U 2cL ({+3}He,|a) data without further explanation are based on measured     
+237U 3cL differential cross sections at various angles and on comparison of     
+237U 4cL experimental spectroscopic factors with the calculated values.         
+237U  cL J(Q)      From rotational band structure and |g-ray angular correlation
+237U 2cL analysis in {+238}U({+207}Pb,{+208}Pb|g).                              
+237U  cL J(M)      From average-resonance (n,|g). See resonance-capture dataset 
+237U 2cL for J|p assignment criteria.                                           
+237U  CL BAND(A)   1/2[631] band: |a=1/2+                                       
+237U  CL BAND(R)   1/2[631] band: |a=1/2-                                       
+237U  CL BAND(B)   5/2[622] band: |a=1/2+                                       
+237U  CL BAND(S)   5/2[622] band: |a=1/2-                                       
+237U  CL BAND(D)   7/2[743] band: |a=1/2+                                       
+237U  CL BAND(T)   7/2[743] band: |a=1/2-                                       
+237U  CL BAND(E)   7/2[624] band?                                               
+237U  CL BAND(F)   KPI=1/2-.                                                    
+237U  CL BAND(G)   3/2[631] band                                                
+237U  CL BAND(H)   KPI=1/2- band                                                
+237U 2cL Assignment of the levels to a band and its possible character of       
+237U 3cL octupole vibration on the 1/2[631] g.s. band were suggested in 1979Vo05
+237U 4cL on the basis of reduced transition rates of gammas to the g.s. band and
+237U 5cL the level energies.                                                    
+237U  CL BAND(I)   5/2[633] band                                                
+237U  CL BAND(J)   KPI=1/2+                                                     
+237U 2cL Possibly K=1/2,{1/2[620]+ |g vibration on 5/2[622]} band.              
+237U 2cL The assignment was proposed in 1979Vo05 from comparison                
+237U 3cL of theoretical and experimental (d,p) cross sections.                  
+237U  CL BAND(K)   1/2[501] band                                                
+237U  CL BAND(L)   KPI=1/2+ BAND?                                               
+237U 2cL Assignment as |b vibration on 1/2[631] band was suggested in           
+237U xcL 1979Vo05.                                                              
+237U  CL BAND(N)   5/2[752] band                                                
+237U  CL BAND(O)   Rotational band: |a=1/2-                                     
+237U 2cL based on 15/2- at 846 keV level, feeding the 1/2[631] band.            
+237U  CL BAND(P)   Rotational band: |a=1/2+                                     
+237U 2cL based on 17/2- at 930 keV level, feeding the 1/2[631] band.            
+237U   XA241PU A DECAY                                                          
+237U   XB237PA B- DECAY                                                         
+237U   XD236U(D,P)                                                              
+237U   XT238U(D,T)                                                              
+237U   XH238U(3HE,A)                                                            
+237U   XP236U(N,G):RESONANCE CAPTURE                                            
+237U   XS236U(N,G) RES:SECONDARY G'S                                            
+237U   XC238U(N,2NG)                                                            
+237U   XE238U(207PB,208PBG)                                                     
+237U  PN                                                                     6  
+237U   L 0.0          1/2+             6.752 D   2                          A   
+237U 2 L %B-=100                                                                
+237U 3 L XREF=ABDHTPSCE                                                         
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; L=0,1 for (0.0 + 11) keV levels in ({+3}He,|a). High hindrance
+237U 3cL factor for the |a decay from {+241}Pu is consistent with a spin-flip   
+237U 4cL transition from 5/2[622] state to 1/2[631] state.                      
+237U  cL T         From 1958Ca16. Others: 6.63 d {I5} (1949Me43), 6.75 d {I1}   
+237U 2cL (Huizenga and Flynn, quoted in 1953Wa05), 6.3 d {I1} and 6.6 d {I1}    
+237U 3cL from |g- and |b-activity, respectively, in 1963Ak04.                   
+237U   L 11.393    14 3/2+                                                  R   
+237U 2 L XREF=ABDHTPSCE                                                         
+237U  cL J         hindrance factor for the |a decay from {+241}Pu; L=0 or 1    
+237U 2cL in ({+3}He,|a) for a 5 keV level, doublet with g.s.; primary |g        
+237U 3cL intensities from average-resonance neutron capture. Band member.       
+237U   G 11.39     2  100                                                   Z   
+237U  cG           |DE is from E(148.57|g) and E(159.96|g).                     
+237U   L 56.282    15 5/2+                                                  A   
+237U 2 L XREF=ABTPSE                                                            
+237U  cL J         |a hindrance factor; (d,t) reaction; weakly populated        
+237U 2cL in 2-keV average-resonance neutron capture. Band member.               
+237U   G 44.86     10 33     4                                              Z   
+237U   G 56.32     10 100    6                                              Z   
+237U   L 82.86      5 7/2+                                                  R   
+237U 2 L XREF=ADHTSCE                                                           
+237U  cL J$From L=4 in (d,t), |a hindrance factor, and band assignment.         
+237U   G 26.6                                                                  S
+237U  cG E         from level scheme; transition has not been observed.         
+237U 2cG I(|g+ce)(26.6|g)/I|g(71.6)=37 was deduced by the evaluator from        
+237U xcG {+241}Pu |a decay.                                                     
+237U   G 71.6      2                                                        X   
+237U   L 159.962   14 5/2+             3.1 NS    1                          B   
+237U 2 L XREF=ADTPSCE                                                           
+237U  cL J         favored |a feeding from {+241}Pu. Band assignment.           
+237U  cL T         From |a|g(t) in {+241}Pu |a decay (1968Ah01).                
+237U   G 77.10     10 11.4   4                                              Z   
+237U  cG           If |d is negligible, B(M1)(W.u.)=1.36|*10{+-4} {I9}.         
+237U   G 103.680   5  54.8   7                                              Z   
+237U  cG           If |d=0.0689 {I10}, B(M1)(W.u.)=2.69|*10{+-4} {I15},         
+237U xcG B(E2)(W.u.)=0.0351 {I22}.                                              
+237U   G 148.567   10 100    1                                              Z   
+237U  cG           If |d=0.169 {I3}, B(M1)(W.u.)=1.63|*10{+-4} {I10},           
+237U xcG B(E2)(W.u.)=0.062 {I5}.                                                
+237U   G 159.955   20 3.53   8                                              Z   
+237U  cG           B(E2)(W.u.)=0.055 {I3}.                                      
+237U   L 162.3     19 9/2+                                                  A   
+237U 2 L XREF=DTHE                                                              
+237U  cL J         ({+3}He,|a) cross section data. Band member.                 
+237U   L 204.06    21 11/2+                                                 R   
+237U 2 L XREF=HTCE                                                              
+237U  cL J         ({+3}He,|a) cross reaction data. Band member.                
+237U   G 121.2     2  100                                                   X   
+237U  cG E         Placement of 121.2|g from 2004Fo01. In {+241}Pu |a decay the 
+237U 2cG placement is shown from the 7/2+ state at 204.15 keV level.            
+237U   L 204.17     7 7/2+                                                  S   
+237U 2 L XREF=ATSE                                                              
+237U  cL J         44.2|g M1+E2 to 5/2+. Band member.                           
+237U   G 44.20     10 100       M1+E2    0.194   13    75.3   31                
+237U   L 260.93    12 9/2+                                                  B   
+237U 2 L XREF=ADTHE                                                             
+237U  cL J$From L=4 in (d,t). Band member.                                      
+237U   G 56.76     10 100                                                   X   
+237U 2 G FL=204.17                                                              
+237U   G 101                                                                Y   
+237U 2 G FL=159.962                                                             
+237U   L 274.0     10(7/2)-            155 NS    6                          T   
+237U 2 L XREF=AE                                                                
+237U  cL J         114.0|g E1 to 5/2+ state. |a HF=90 is consistent             
+237U 2cL with the assignment. Band assignment from analogy with the 391.6 keV   
+237U 3cL {+239}Pu level of half-life 193 ns.                                    
+237U  cL T         From |a|g(t) in {+241}Pu |a decay (1968Ah01).                
+237U   G 114.0     10 100       E1                     0.090                X   
+237U 2 G FL=159.962                                                             
+237U B G BE1W=7.1E-7 4                                                          
+237U   L 316        3(9/2-)                                                 D   
+237U 2 L XREF=AE                                                                
+237U  cL E         From {+241}Pu |a decay.                                      
+237U  cL J         |a hindrance factor and level spacing from 274-keV level     
+237U 2cL suggest (9/2-), 7/2[743] assignment.                                   
+237U   L 317.3     16 13/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 155                                                                *   
+237U 2 G FL=162.3                                                               
+237U 2 G FLAG=Y                                                                 
+237U   L 327.3     10 11/2+                                                 S   
+237U 2 L XREF=AHE                                                               
+237U  cL J         Band member. |a hindrance factor.                            
+237U   G 123                                                                Y   
+237U 2 G FL=204.17                                                              
+237U   L 367.0     15(11/2-)                                                T   
+237U 2 L XREF=ATHE                                                              
+237U  cL J         From (d,t) and ({+3}He,|a) expt. spectroscopic factor and |a 
+237U 2cL hindrance factor.                                                      
+237U   G 93                                                                 Y   
+237U   L 375.1     11 15/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 171                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=204.06                                                              
+237U   L 409.8     10 (13/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 149                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 426.15    6 (7/2+)                                                 E   
+237U 2 L XREF=S                                                                 
+237U  cL J         |g transition to 5/2 state, no gammas to the                 
+237U 2cL 1/2[631] band.                                                         
+237U   G 266.17    6  100                                                       
+237U   L 432        3 (13/2-)                                               D   
+237U 2 L XREF=HE                                                                
+237U  cL           Level was assumed doublet; 13/2-,7/2[743] and                
+237U 2cL 13/2+, 5/2[622] assignments were suggested in 1970Vo03                 
+237U 3cL from ({+3}He,|a) data.                                                 
+237U   G 116                                                                Y   
+237U 2 G FL=316                                                                 
+237U   L 482       1 (9/2+)                                                 E   
+237U 2 L XREF=D                                                                 
+237U  cL J         From (d,p) based on cross section data by 1965Br22.          
+237U   L 484       3                                                            
+237U 2 L XREF=T                                                                 
+237U   L 501.4     12 (15/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 174                                                                Y   
+237U   L 506.0     18(15/2)-                                                T   
+237U 2 L XREF=HTE                                                               
+237U  cL J         L=7 in (d,t). Band member.                                   
+237U   G 139                                                                Y   
+237U   L 518.2     13 17/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 143                                                                Y   
+237U   G 201                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=317.3                                                               
+237U   L 530       4                                                            
+237U 2 L XREF=T                                                                 
+237U   L 540.62     4  1/2-                                                 F   
+237U 2 L XREF=BPS                                                               
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g branchings to 1/2+, 3/2+ levels.                           
+237U   G 529.26    5  100    7                                                  
+237U   G 540.61    5  62     5                                                  
+237U   L 545       4                                                            
+237U 2 L XREF=T                                                                 
+237U   L 551       2 (11/2+)                                                E   
+237U 2 L XREF=DH                                                                
+237U  cL E         From ({+3}He,|a).                                            
+237U  cL J         (d,p) and ({+3}He,|a) reaction data.                         
+237U   L 554.97     4  3/2-                                                 F   
+237U 2 L XREF=BPS                                                               
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g to 5/2+ rules out 1/2-.                                    
+237U   G 498.62    5  100    8                                                  
+237U   G 543.68    6  12.5   11                                                 
+237U   G 555.02    9  95     9                                                  
+237U   L 575       3                                                            
+237U 2 L XREF=T                                                                 
+237U   L 578.01     5(5/2-)                                                 F   
+237U 2 L XREF=S                                                                 
+237U  cL J         |g branchings to 3/2+, 5/2+ and 7/2+ levels. Band member.    
+237U   G 495.09    6  80     6                                                  
+237U   G 521.53    11 6.8    LE                                             *   
+237U  cG RI        branching is from {+237}Pa |b{+-} decay. Other possible      
+237U 2cG multiplet (placed from the 947.97 level which is not populated in      
+237U 3cG {+237}Pa |b{+-} decay) is suggested only in (n,|g).                    
+237U   G 566.65    6  100    7                                                  
+237U   L 592.0     13 19/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 217                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 592        3 (17/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 160                                                                Y   
+237U 2 G FL=432                                                                 
+237U   L 607.7     12 (17/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 198                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 632       3 (13/2+)                                                E   
+237U 2 L XREF=H                                                                 
+237U  cL J         From cross section data in ({+3}He,|a).                      
+237U   L 657       3                                                            
+237U 2 L XREF=D                                                                 
+237U   L 664.25     4  3/2+                                                 G   
+237U 2 L XREF=TPS                                                               
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g to 7/2+ level.                                             
+237U   G 504.32    10 24     3                                                  
+237U   G 581.90    20 28     5                                                  
+237U   G 652.87    6  100    8                                                  
+237U   G 664.21    6  170    LE                                             &   
+237U   L 666.44     7(5/2)+                                                     
+237U 2 L XREF=PS                                                                
+237U  cL J         populated only in 24-keV resonance average and the 43.7-eV   
+237U 2cL resonance neutron capture.                                             
+237U   G 610.29    11 28     5                                                  
+237U   G 654.80    20 16     5                                                  
+237U   G 666.41    9  100    12                                                 
+237U   L 677.58     5 3/2+,5/2+                                                 
+237U 2 L XREF=PS                                                                
+237U  cL J         Populated weakly in average-resonance neutron capture;       
+237U 2cL |g's to 5/2+, 7/2+ levels.                                             
+237U   G 251.20    20 14     6                                                  
+237U   G 473.42    7  81     8                                                  
+237U 2 G FL=204.17                                                              
+237U   G 517.50    10 53     8                                                  
+237U   G 594.60    20 58     14                                                 
+237U   G 621.37    7  100    11                                                 
+237U   L 688       2                                                            
+237U 2 L XREF=H                                                                 
+237U   L 690.0     20 (19/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 184                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 697.65     5 (5/2+)                                                G   
+237U 2 L XREF=TPS                                                               
+237U  cL J         populated weakly in average-resonance neutron capture; gammas
+237U 2cL to 3/2+ and 7/2+ states.                                               
+237U   G 537.61    9  27     4                                                  
+237U   G 614.86    10 32     5                                                  
+237U   G 641.34    6  84     7                                                  
+237U   G 686.29    8  100    10                                                 
+237U   L 698       2                                                            
+237U 2 L XREF=D                                                                 
+237U   L 718       6                                                            
+237U 2 L XREF=H                                                                 
+237U   L 720.48     5  3/2-                                                     
+237U 2 L XREF=PS                                                                
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g transition to 5/2+ level.                                  
+237U   G 664.21    6  592    LE                                             &   
+237U   G 709.06    12 100    16                                                 
+237U   G 720.44    12 68     11                                                 
+237U   L 721.5     13 (19/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 220                                                                Y   
+237U   L 734.34     5 (1/2-)                                                H   
+237U 2 L XREF=BPS                                                               
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g branchings to 1/2+, 3/2+ levels.                           
+237U   G 179.5     3  32     8                                                  
+237U   G 722.88    6  100    8                                                  
+237U   G 734.42    7  68     7                                                  
+237U   L 758.15     5  3/2-                                                 H   
+237U 2 L XREF=SPS                                                               
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g to 5/2+.                                                   
+237U   G 701.87    6  100    8                                                  
+237U   G 746.80    20 14     3                                                  
+237U   G 758.15    6  68     6                                                  
+237U   L 762.8     14 21/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 171                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=592.0                                                               
+237U   G 245                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 798       2 (9/2+)                                                 G   
+237U 2 L XREF=HT                                                                
+237U  cL E         From ({+3}He,|a).                                            
+237U  cL J         ({+3}He,|a) and (d,t) data.                                  
+237U   L 798.0     24 (21/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 206                                                                Y   
+237U 2 G FL=592                                                                 
+237U   L 832.45     6 (5/2+)                                                I  ?
+237U 2 L XREF=PS                                                                
+237U  cL J         weakly populated in average-resonance neutron capture.       
+237U   G 672.51    6  100    9                                                  
+237U   G 820.4     3  33     9                                                  
+237U   L 846.4     16  (15/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U  cL J         529|g (E1) to 13/2+ state.                                   
+237U   G 529                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U 2 G FL=317.3                                                               
+237U   L 846.94     9(1/2)+                                                 J   
+237U 2 L XREF=DPS                                                               
+237U  cL J         J|p=1/2+, 3/2+ from primary |g intensities measured in       
+237U 2cL average-resonance neutron capture. Energy spacing from 872.15 (3/2+)   
+237U 3cL and 893.4 {I3} (5/2+) levels is consistent with this level being the   
+237U 4cL 1/2+ member of a K=1/2 band.                                           
+237U   G 687.5     3  11     4                                                  
+237U   G 846.89    9  100    8                                                  
+237U   L 848       1 (11/2+)                                                G   
+237U 2 L XREF=H                                                                 
+237U  cL J         From cross section data in ({+3}He,|a).                      
+237U   L 850.6     13 (21/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 129                                                                Y   
+237U 2 G FL=721.5                                                               
+237U   G 243                                                                Y   
+237U   L 853.0     14 23/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 261                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=592.0                                                               
+237U   L 865.09    12  1/2-                                                 K   
+237U 2 L XREF=BHTPS                                                             
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g branching to the 1/2+, 3/2+ levels of the g.s. band;       
+237U 3cL L=0,1 in (d,t).                                                        
+237U   G 310.2     2  5.1    7                                                  
+237U   G 853.6     2  100    8                                                  
+237U   G 865.1     2  46     5                                              *   
+237U  cG RI        branching from {+237}Pa |b{+-} decay. Other possible         
+237U 2cG multiplet (placed from the 947.97 level which is not populated in      
+237U 3cG {+237}Pa |b{+-} decay) is suggested only in (n,|g). See {+237}Pa       
+237U 4cG |b{+-} decay for a comment on branching measured in |b{+-} decay and   
+237U xcG in (n,|g).                                                             
+237U   L 866       3                                                            
+237U 2 L XREF=D                                                                 
+237U   L 872.14     7  3/2+                                                 J   
+237U 2 L XREF=PS                                                                
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g to 7/2+ level.                                             
+237U   G 317.14    12 12     LT                                             &   
+237U   G 331.2     3  6      LE                                                 
+237U 2 G FL=540.62                                                              
+237U   G 667.5     3  17     6                                                  
+237U 2 G FL=204.17                                                              
+237U   G 712.10    20 15     4                                                  
+237U   G 815.95    9  100    8                                                  
+237U   L 893.41    12 (5/2+)                                                J   
+237U 2 L XREF=DPS                                                               
+237U  cL J         populated weakly in average-resonance neutron capture.       
+237U   G 837.14    14 100    18                                                 
+237U   G 882.00    20 87     15                                                 
+237U   L 903.4     5 (3/2,5/2-)                                                 
+237U 2 L XREF=B                                                                 
+237U  cL J         From log| {Ift} value in {+237}Pa |b{+-} feeding from (1/2+) 
+237U 2cL level; |g to 5/2+ level; (d,t) data. 3/2-, 1/2[501] state was assigned 
+237U 3cL in {+237}Pa |b{+-} decay. Nonobservation of this level in average      
+237U 4cL n-capture, casts doubt on this assignment.                             
+237U   G 847.1     5  100                                                       
+237U  cG E         From {+237}Pa |b{+-} decay.                                  
+237U   L 905.73     7(1/2)+                                                 L   
+237U 2 L XREF=PS                                                                
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; |g branching to the 1/2+, 3/2+, 5/2+ states of the g.s.       
+237U 3cL band.                                                                  
+237U   G 849.45    13 49     8                                                  
+237U   G 894.14    10 100    10                                                 
+237U   G 906.01    12 87     12                                                 
+237U   L 909.34    111/2-,3/2-                                                  
+237U 2 L XREF=PS                                                                
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture. 3/2-, 1/2[501] assignment was suggested in 1979Vo03.          
+237U   G 909.34    11  100                                                  &   
+237U   L 911       4 (5/2-)                                                 K   
+237U 2 L XREF=HT                                                                
+237U  cL E         From ({+3}He,|a).                                            
+237U  cL J         From spectroscopic factor in ({+3}He,|a) and (d,t) (J|p=3/2- 
+237U 2cL and 5/2- in (d,t) dataset).                                            
+237U   L 917.0     23 (23/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 119                                                                Y   
+237U 2 G FL=798.0                                                               
+237U   G 227                                                                Y   
+237U 2 G FL=690.0                                                               
+237U   L 920.63    10(3/2)+                                                 L   
+237U 2 L XREF=PS                                                                
+237U  cL J         primary |g intensities from average-resonance neutron        
+237U 2cL capture; gammas to 3/2+, 5/2+ levels.                                  
+237U   G 864.00    20 100    18                                                 
+237U   G 909.34    11 107    LE                                             &   
+237U   L 930.0     13 (17/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         555|g (E1) to 15/2+ state.                                   
+237U   G 338                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=592.0                                                               
+237U   G 555                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U   L 946       2 (9/2+)                                                 I   
+237U 2 L XREF=HT                                                                
+237U  cL E         From ({+3}He,|a).                                            
+237U  cL J         ({+3}He,|a) and (d,t) reaction data.                         
+237U   L 947.91    12(5/2)+                                                 L   
+237U 2 L XREF=SP                                                                
+237U  cL J         L=4 in (d,t) and ({+3}He,|a). Populated weakly in            
+237U 2cL average-resonance neutron.                                             
+237U 2cL capture.                                                               
+237U   G 283.40    20                                                       *  ?
+237U   G 521.53    11                                                       *  ?
+237U   G 865.1     2                                                        *  ?
+237U   G 936.40    20 90     17                                                 
+237U   G 947.97    14 100    20                                                 
+237U   L 952       2                                                            
+237U 2 L XREF=D                                                                 
+237U   L 971       2                                                            
+237U 2 L XREF=H                                                                 
+237U  cL           L=4 or 5 in ({+3}He,|a).                                     
+237U   L 981.27     5  3/2+                                                     
+237U 2 L XREF=PS                                                                
+237U  cL J         populated in average-resonance neutron capture with moderate 
+237U 2cL intensity; |g to 5/2- level.                                           
+237U   G 283.40    20 10     4                                              *   
+237U 2 G FL=697.65                                                              
+237U   G 317.14    12 25     LE                                             &   
+237U   G 403.16    7  38     3                                                  
+237U 2 G FL=578.01                                                              
+237U   G 426.33    8  51     7                                                  
+237U   G 440.69    6  100    8                                                  
+237U   L 984.5     14 (23/2+)                                               S   
+237U 2 L XREF=TE                                                                
+237U 2 L FLAG=Q                                                                 
+237U   G 134                                                                Y   
+237U 2 G FL=850.6                                                               
+237U   G 263                                                                Y   
+237U 2 G FL=721.5                                                               
+237U   L 987       3                                                            
+237U 2 L XREF=D                                                                 
+237U   L 1013      4  (7/2-, 9/2-)                                              
+237U 2 L XREF=T                                                                 
+237U  cL E         Possibly doublet.                                            
+237U  cL J$From expt. spectroscopic factor - twice than calculated value.       
+237U  cL           7/2- and 9/2- states of the                                  
+237U 2cL 1/2[501] band were suggested in 1970Bo31 for this level,               
+237U 3cL assumed to be a doublet.                                               
+237U   L 1027.5    14  (19/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         509|g (E1) to 17/2+ state.                                   
+237U   G 181                                                                Y   
+237U 2 G FL=846.4                                                               
+237U   G 265                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 509                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U   L 1033      2                                                        C  ?
+237U 2 L XREF=P                                                                 
+237U   L 1040      1 (11/2+)                                                I   
+237U 2 L XREF=H                                                                 
+237U  cL J         From cross section data in ({+3}He,|a).                      
+237U   L 1048.0    24 (25/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 131                                                                Y   
+237U 2 G FL=917.0                                                               
+237U   G 250                                                                Y   
+237U 2 G FL=798.0                                                               
+237U   L 1048.7    14 25/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 196                                                                *   
+237U 2 G FL=853.0                                                               
+237U 2 G FLAG=Y                                                                 
+237U   G 286                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 1050.0    5 1/2+,3/2+                                              M   
+237U 2 L XREF=DP                                                                
+237U  cL E         From (n,|g) resonance.                                       
+237U   L 1068.2    9  1/2,3/2+                                              M   
+237U 2 L XREF=P                                                                 
+237U   L 1078.8    4 1/2+,3/2+,5/2+                                         M   
+237U 2 L XREF=P                                                                 
+237U   L 1085.0    3  1/2+,3/2+                                             M   
+237U 2 L XREF=DP                                                                
+237U  cL E         From (n,|g) resonance.                                       
+237U   L 1094.7    5 (5/2+)                                                     
+237U 2 L XREF=P                                                                 
+237U  cL J         populated only in 24-keV resonance average neutron capture.  
+237U   L 1108.8    2  1/2-,3/2-                                             M   
+237U 2 L XREF=P                                                                 
+237U 2 L FLAG=C                                                                 
+237U   L 1110      2                                                            
+237U 2 L XREF=D                                                                 
+237U  cL           J|p=(1/2+) and 1/2[620] assignment is suggested in (d,p).    
+237U 2cL This level might be the same state observed in (n,|g) at               
+237U 3cL 1108.8 keV.                                                            
+237U   L 1112      3                                                            
+237U 2 L XREF=T                                                                 
+237U   L 1122.9    2  1/2-,3/2-                                             C   
+237U 2 L XREF=P                                                                 
+237U  cL J         I|g in resonance capture.                                    
+237U   L 1126      2                                                            
+237U 2 L XREF=D                                                                 
+237U  cL           J|p=(9/2+) and 7/2[613] assignment is suggested in (d,p).    
+237U   L 1128.0    7  5/2+                                                      
+237U 2 L XREF=P                                                                 
+237U  cL J         populated in 24-keV average resonance and in 5.45-eV         
+237U 2cL resonance neutron capture.                                             
+237U   L 1131.0    14 (21/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         278|g (E1) to 23/2+ state, 539|g (E1) to 19/2+ state.        
+237U   G 201                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 278                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U 2 G FL=853.0                                                               
+237U   G 539                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U 2 G FL=592.0                                                               
+237U   L 1133.8    15 (25/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 149                                                                *   
+237U 2 G FL=984.5                                                               
+237U 2 G FLAG=Y                                                                 
+237U   G 283                                                                Y   
+237U 2 G FL=850.6                                                               
+237U   L 1140      3 (13/2+)                                                I   
+237U 2 L XREF=H                                                                 
+237U  cL J         From cross section data in ({+3}He,|a).                      
+237U   L 1155.1    15  27/2+                                                R   
+237U 2 L XREF=TE                                                                
+237U  cL J$Assignment from ({+207}Pb,{+208}Pb|g), based on rotational band      
+237U xcL structure.                                                             
+237U   G 302                                                                Y   
+237U 2 G FL=853.0                                                               
+237U   L 1162      2                                                            
+237U 2 L XREF=D                                                                 
+237U  cL           J|p=(5/2+) and 1/2[620] assignment was suggested in (d,p).   
+237U   L 1175.3    3  1/2-,3/2-                                             M   
+237U 2 L XREF=P                                                                 
+237U 2 L FLAG=C                                                                 
+237U   L 1183.1    2  1/2+,3/2+                                             M   
+237U 2 L XREF=P                                                                 
+237U 2 L FLAG=C                                                                 
+237U   L 1186.0    24 (27/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 138                                                                Y   
+237U 2 G FL=1048.0                                                              
+237U   G 269                                                                Y   
+237U 2 G FL=917.0                                                               
+237U   L 1189      3                                                            
+237U 2 L XREF=HT                                                                
+237U  cL E         From (d,t).                                                  
+237U   L 1192      2                                                            
+237U 2 L XREF=D                                                                 
+237U  cL           The level may be a member of the 3/2[622], proposed in (d,p).
+237U   L 1201.4    3  (1/2-,3/2-)                                           M   
+237U 2 L XREF=P                                                                 
+237U 2 L FLAG=C                                                                 
+237U   L 1208      4                                                            
+237U 2 L XREF=T                                                                 
+237U   L 1215      2                                                        C  ?
+237U 2 L XREF=P                                                                 
+237U   L 1229.6    5  1/2+,3/2+                                             M   
+237U 2 L XREF=P                                                                 
+237U 2 L FLAG=C                                                                 
+237U   L 1235      3                                                            
+237U 2 L XREF=D                                                                 
+237U  cL           The level may be a member of the 3/2[622], proposed in (d,p).
+237U   L 1247      3                                                            
+237U 2 L XREF=T                                                                 
+237U   L 1250.7    14  (23/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         202|g (E1) to 25/2+ state, 488|g (E1) to 21/2+ state.        
+237U   G 202                    (E1)                                        *   
+237U 2 G FLAG=WY                                                                
+237U 2 G FL=1048.7                                                              
+237U   G 223                                                                Y   
+237U   G 488                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U   L 1259      2 (15/2-)                                                N   
+237U 2 L XREF=H                                                                 
+237U  cL J         L=7 in ({+3}He,|a). Band assignment.                         
+237U   L 1268.8    7  1/2+,3/2+,5/2+                                            
+237U 2 L XREF=P                                                                 
+237U  cL J         populated in 24-keV average resonance and 71.1-eV            
+237U 2cL resonance neutron capture.                                             
+237U   L 1286.9    16 (27/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 153                                                                Y   
+237U 2 G FL=1133.8                                                              
+237U   G 303                                                                Y   
+237U 2 G FL=984.5                                                               
+237U   L 1287.0    5  1/2+,3/2+                                             M   
+237U 2 L XREF=P                                                                 
+237U   L 1299      3                                                            
+237U 2 L XREF=H                                                                 
+237U  cL           L=5,6, or 7 in ({+3}He,|a).                                  
+237U   L 1301      2                                                        C  ?
+237U 2 L XREF=P                                                                 
+237U   L 1340.0    24 (29/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 154                                                                Y   
+237U 2 G FL=1186.0                                                              
+237U   G 292                                                                Y   
+237U 2 G FL=1048.0                                                              
+237U   L 1344.7     4 (1/2-)                                                    
+237U 2 L XREF=BP                                                                
+237U  cL J         primary |g intensities in average-resonance neutron          
+237U 2cL capture suggest J|p=1/2(-),3/2(-). Relative photon intensities of the  
+237U 3cL gammas deexciting the level are not in good agreement                  
+237U 4cL with the Alaga rule for K=J=3/2.                                       
+237U   G 1333.2    5  100    50                                                 
+237U  cG E,RI      From {+237}Pa |b{+-} decay.                                  
+237U   G 1344.8    5  60     30                                                 
+237U  cG E,RI      From {+237}Pa |b{+-} decay.                                  
+237U   L 1371.7    17                                                           
+237U 2 L XREF=D                                                                 
+237U   L 1372.2    15 29/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 217                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 324                                                                Y   
+237U 2 G FL=1048.7                                                              
+237U   L 1375      3                                                            
+237U 2 L XREF=T                                                                 
+237U   L 1376.1    15 (25/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         221|g (E1) to 27/2+ state, 523|g (E1) to 23/2+ state.        
+237U   G 221                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U   G 245                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=1131.0                                                              
+237U   G 523                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U 2 G FL=853.0                                                               
+237U   L 1380.4    4  1/2+,3/2+                                             M   
+237U 2 L XREF=P                                                                 
+237U   L 1407.4     4 (1/2)+                                                    
+237U 2 L XREF=BP                                                                
+237U  cL J         populated in 2-keV average-resonance neutron capture with a  
+237U 2cL moderate intensity, suggesting J|p=1/2+,3/2+. Relative photon          
+237U 3cL intensities of the gammas deexciting the level are not in good         
+237U 4cL agreement with the Alaga rule for K=J=3/2.                             
+237U   G 1395.9    5  100    50                                                 
+237U  cG E,RI      From {+237}Pa |b{+-} decay.                                  
+237U   G 1407.5    5  60     30                                                 
+237U  cG E,RI      From {+237}Pa |b{+-} decay.                                  
+237U   L 1424.0    2  1/2-,3/2-                                             M   
+237U 2 L XREF=P                                                                 
+237U 2 L FLAG=C                                                                 
+237U   L 1441      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1454.9    16 (29/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 168                                                                Y   
+237U 2 G FL=1286.9                                                              
+237U   G 321                                                                Y   
+237U 2 G FL=1133.8                                                              
+237U   L 1485      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1488      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1493      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1494.1    16 31/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 339                                                                Y   
+237U   L 1495.0    25 (31/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 155                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 309                                                                Y   
+237U 2 G FL=1186.0                                                              
+237U   L 1508      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1515.7    15  (27/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         467|g (E1) to 25/2+ state.                                   
+237U   G 265                                                                *   
+237U 2 G FL=1250.7                                                              
+237U 2 G FLAG=Y                                                                 
+237U   G 467                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U 2 G FL=1048.7                                                              
+237U   L 1527      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1531      2                                                            
+237U 2 L XREF=H                                                                 
+237U  cL           L=6 or 7 in ({+3}He,|a).                                     
+237U   L 1550      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1561      3                                                            
+237U 2 L XREF=H                                                                 
+237U  cL           L=4, 5, or 6 in ({+3}He,|a).                                 
+237U   L 1563      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1567      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1579      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1583      3                                                            
+237U 2 L XREF=T                                                                 
+237U   L 1588      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1605      3                                                            
+237U 2 L XREF=H                                                                 
+237U  cL           L=4, 5, or 6 in ({+3}He,|a).                                 
+237U   L 1612      3                                                            
+237U 2 L XREF=T                                                                 
+237U   L 1622      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1625.0    17 (31/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 170                                                                Y   
+237U   G 338                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=1286.9                                                              
+237U   L 1634      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1647      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1651      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1659      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1662.3    16 (29/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         507|g (E1) to 27/2+ state.                                   
+237U   G 286                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=1376.1                                                              
+237U   G 507                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U   L 1667      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1669.9    25 (33/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 175                                                                Y   
+237U 2 G FL=1495.0                                                              
+237U   G 330                                                                Y   
+237U   L 1694      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1696      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1698      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1712      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1717      4                                                            
+237U 2 L XREF=T                                                                 
+237U   L 1719      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1727      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1729.2    16 33/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 235                                                                Y   
+237U 2 G FL=1494.1                                                              
+237U   G 357                                                                Y   
+237U 2 G FL=1372.2                                                              
+237U   L 1733      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1738      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1741      4                                                            
+237U 2 L XREF=T                                                                 
+237U   L 1755      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1757      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1760      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1798      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1803      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1809.0    17 (33/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 184                                                                *   
+237U 2 G FL=1625.0                                                              
+237U 2 G FLAG=Y                                                                 
+237U   G 354                                                                Y   
+237U   L 1821.8    16  (31/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         450|g (E1) to 29/2+ state.                                   
+237U   G 306                                                                Y   
+237U   G 450                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U 2 G FL=1372.2                                                              
+237U   L 1823      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1838      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1839       3 (35/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 169                                                                Y   
+237U 2 G FL=1669.9                                                              
+237U   G 344                                                                Y   
+237U 2 G FL=1495.0                                                              
+237U   L 1849      2                                                            
+237U 2 L XREF=H                                                                 
+237U   L 1864      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1868.2    17 35/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 374                                                                Y   
+237U 2 G FL=1494.1                                                              
+237U   L 1873      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1883      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1888      2                                                            
+237U 2 L XREF=H                                                                 
+237U   L 1889      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1896      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1900      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1915      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1929      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1940      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1955      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1961      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1962      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1968      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1977      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1987.7    17 (33/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         494|g (E1) to 31/2+ state.                                   
+237U   G 325                                                                Y   
+237U 2 G FL=1662.3                                                              
+237U   G 494                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U 2 G FL=1494.1                                                              
+237U   L 1990      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 1993.0    18 (35/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 184                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 368                                                                Y   
+237U 2 G FL=1625.0                                                              
+237U   L 1999      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2004      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2035       3 (37/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 196                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U 2 G FL=1839                                                                
+237U   G 365                                                                Y   
+237U 2 G FL=1669.9                                                              
+237U   L 2039      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2057      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2061      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2063      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2069      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2076      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2079      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2092      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2101      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2108      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2117.2    17 37/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 249                                                                Y   
+237U 2 G FL=1868.2                                                              
+237U   G 388                                                                Y   
+237U 2 G FL=1729.2                                                              
+237U   L 2133      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2136      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2139      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2148      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2154      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2166.5    17  (35/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U  cL J         437|g (E1) to 33/2+ state.                                   
+237U   G 345                                                                Y   
+237U 2 G FL=1821.8                                                              
+237U   G 437                    (E1)                                        Y   
+237U 2 G FLAG=W                                                                 
+237U 2 G FL=1729.2                                                              
+237U   L 2171      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2176      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2191.0    19 (37/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 198                                                                *   
+237U 2 G FL=1993.0                                                              
+237U 2 G FLAG=Y                                                                 
+237U   G 382                                                                Y   
+237U   L 2211      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2217       3 (39/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 183                                                                Y   
+237U 2 G FL=2035                                                                
+237U   G 378                                                                Y   
+237U 2 G FL=1839                                                                
+237U   L 2221      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2226      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2237      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2244      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2255      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2263      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2272.2    19 39/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 404                                                                Y   
+237U 2 G FL=1868.2                                                              
+237U   L 2274      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2282      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2294      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2297      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2308      2                                                        C   
+237U 2 L XREF=P                                                                 
+237U   L 2349.7    20 (37/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 362                                                                Y   
+237U 2 G FL=1987.7                                                              
+237U   L 2388.0    19 (39/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 197                                                                Y   
+237U   G 395                                                                Y   
+237U 2 G FL=1993.0                                                              
+237U   L 2431       3 (41/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 214                                                                Y   
+237U 2 G FL=2217                                                                
+237U   G 396                                                                Y   
+237U 2 G FL=2035                                                                
+237U   L 2530.1    19 41/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 258                                                                Y   
+237U 2 G FL=2272.2                                                              
+237U   G 413                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 2547.5    20  (39/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 381                                                                Y   
+237U 2 G FL=2166.5                                                              
+237U   L 2597.0    20 (41/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 209                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 406                                                                Y   
+237U   L 2625       3 (43/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 194                                                                Y   
+237U   G 407                                                                Y   
+237U 2 G FL=2217                                                                
+237U   L 2702.5    20 43/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 430                                                                Y   
+237U 2 G FL=2272.2                                                              
+237U   L 2746.7    22 (41/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 397                                                                Y   
+237U   L 2805.0    20 (43/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 208                                                                Y   
+237U   G 417                                                                Y   
+237U   L 2855       3 (45/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 230                                                                Y   
+237U   G 424                                                                Y   
+237U   L 2960.5    22  (43/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 413                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 2963.8    20 45/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 261                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 434                                                                Y   
+237U   L 3024.0    21 (45/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 219                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 427                                                                Y   
+237U   L 3057       3 (47/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 202                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 432                                                                Y   
+237U   L 3154.5    23 47/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 452                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 3174.7    24 (45/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 428                                                                Y   
+237U   L 3243.0    21 (47/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 219                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 438                                                                Y   
+237U   L 3302       3 (49/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 245                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 447                                                                Y   
+237U   L 3401.5    24  (47/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 441                                                                Y   
+237U 2 G FL=2960.5                                                              
+237U   L 3415.8    23 49/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 452                                                                *   
+237U 2 G FL=2963.8                                                              
+237U 2 G FLAG=Y                                                                 
+237U   L 3472.0    22 (49/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 229                                                                Y   
+237U   G 448                                                                Y   
+237U   L 3511       3 (51/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 209                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   G 454                                                                Y   
+237U   L 3625.5    25 51/2+                                                 R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 471                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 3630       3 (49/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 455                                                                Y   
+237U   L 3702.0    23 (51/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 459                                                                Y   
+237U   L 3770       3 (53/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 259                                                                Y   
+237U   G 468                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 3865       3  (51/2-)                                              O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 463                                                                Y   
+237U   L 3886.8    25 53/2+                                                 A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 471                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 3940.0    24 (53/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 468                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 3985       3 (55/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 215                                                                Y   
+237U   G 474                                                                Y   
+237U   L 4105       3 (53/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 475                                                                Y   
+237U 2 G FL=3630                                                                
+237U   L 4115       3 (55/2+)                                               R   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 489                                                                Y   
+237U 2 G FL=3625.5                                                              
+237U   L 4182       3 (55/2+)                                               S   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 480                                                                Y   
+237U   L 4257       3 (57/2-)                                               D   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 487                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 4344       3 (55/2-)                                               O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 479                                                                Y   
+237U   L 4377       3 (57/2+)                                               A   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 490                                                                Y   
+237U   L 4427       3 (57/2+)                                               B   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 487                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 4477       3 (59/2-)                                               T   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 492                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 4597       3 (57/2-)                                               P   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 492                                                                *   
+237U 2 G FLAG=Y                                                                 
+237U   L 4835       3 (59/2-)                                               O   
+237U 2 L XREF=E                                                                 
+237U 2 L FLAG=Q                                                                 
+237U   G 491                                                                Y   

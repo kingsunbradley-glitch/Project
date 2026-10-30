@@ -1,0 +1,57 @@
+258LR    262DB A DECAY (33.8 S)        2014HA04                  17NDS    201709
+258LR  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 144, 297 (2017)$CUT=25-Aug-2017$      
+258LR c  2014Ha04: {+262}Db was produced in {+248}Cm({+19}F,5n),E=97.4,103.1 MeV
+258LR2c  at the RILAC-RIKEN facility. The evaporation residues (EVR) were       
+258LR3c  separated in flight from beam particles and majority of nuclear        
+258LR4c  transfer products by the gas-filled recoil ion separator (GARIS), and  
+258LR5c  transported to the rotating wheel apparatus MANON (Measurement system  
+258LR6c  for Alpha-particle and spontaneous fission events ON-line). Measured   
+258LR7c  time-correlated |a-|a and |a-SF events in E|a=8-9 MeV range and SF     
+258LR8c  fragment in |>30 MeV using Si PIN photodiodes                          
+258LR c  1977BeZM: measured E|a, I|a, T{-1/2}                                   
+258LR c  1971Gh01: |a spectrum taken by 1971Gh01 had complex activities. Two    
+258LR2c  |a peaks at 8.45 MeV and 8.66 MeV were detected with intensities of    
+258LR3c  |?80% and |?20%, respectively. The 8.66-MeV |a was masked by |a peaks  
+258LR4c  from {+258}Lr decay.                                                   
+258LR cA E,IA$From measurement by 2014Ha04                                      
+258LR cA HF$r{-0}({+258}Lr)=1.46 {I3}, estimated value from extrapolation of    
+258LR2cA known r{-0} values for A=150-158 No, Rf and Sg isotopes                
+262DB  P 0.0                           33.8 S    +44-35         9050      SY    
+262DB cP QP$9050 {I100} (syst,2017Wa10)                                         
+262DB cP T$From average decay time of 76 |a-|a correlated events (2014Ha04,     
+262DB2cP earlier values deduced from fewer events: 39 s {I+53-14} in 2012Mo25,  
+262DB3cP 24 s {I+14-7} in 2009Mo12, 14 s {I+26-10} in 2007Mo43, 28 s {I+140-13} 
+262DB4cP in 2004Mo42). Other half-life measurements: 27 s {I+20-11} (1999Dr09,  
+262DB5cP |a decay); 35.7 s {I+69-54} (1992Sc30); 35.3 s {I123} (1989Kr17,       
+262DB6cP correlated |a decays); 33.5 s {I94} (1989Kr17, SF decay); 28 s {I+7-5} 
+262DB7cP and 32 s {I+8-6} (1988Gr30, |a and SF decays); 35.2 s {I+104-72}       
+262DB8cP (1979Dr07, SF decay); 32.6 s {I65} (1977Be43, SF decay); 34.1 s {I46}  
+262DB9cP (1977Be43, |a decay); 40 s {I10} (1971Gh01). Weighted average of all   
+262DBAcP the independent values is 34.4 s {I+44-35} (assigning the lowest       
+262DBBcP uncertainty in the data points), however the most precise              
+262DBCcP value from 2014Ha04 is preferred here. In 2001Ak11 evaluation,         
+262DBDcP T{-1/2}=35 s {I5}                                                      
+258LR  N                       0.48    4                                        
+258LR cN BR$%SF=52 {I4} (2014Ha04), thus %|a=48 {I4}; no |e decay from {+262}Db 
+258LR2cN was observed. Others: %|a=49 {I10} (1989Kr17), |?67 (1977BeZM)         
+258LR  L 0                             3.92 S    33                             
+258LR cL T$from {+258}Lr Adopted Levels                                         
+258LR  L 0+X                                                                    
+258LR cL E$x=235 {I105} from From Q(|a)({+262}Db)=9050 {I100} (syst,2017Wa10)   
+258LR2cL and E|a=8680 {I30}                                                     
+258LR  A 8680      30 30     5  130    AP                                       
+258LR cA E$average of 23 |a energy values between 8.61-8.77 MeV energy range    
+258LR2cA (2014Ha04). Other measured E|a=8670 {I20} (1977BeZM), 8660 (1971Gh01)  
+258LR cA IA$others: 9 (1977BeZM), 20 (1971Gh01)                                 
+258LR  L 153+X     35                                                          ?
+258LR  A 8530      20                                                          ?
+258LR cA E$this |a group from 1977BeZM only, not identified clearly             
+258LR2cA by 2014Ha04, even though in 1977BeZM this |a is claimed as stronger    
+258LR3cA than the 8670|a which was observed clearly by 2014Ha04. This |a        
+258LR4cA branch is also questioned by 1989Kr17                                  
+258LR cA IA,HF$16 (1977BeZM), hindrance factor |?25                             
+258LR  L 224+X     50                                                           
+258LR  A 8460      40 70     5  2.1    AP                                       
+258LR cA E$average of 52 |a energy values between 8.30-8.55 MeV energy range.   
+258LR2cA Others: 8450 {I20} (1977BeZM), 8450 (1971Gh01)                         
+258LR cA IA$others: 75 (1977BeZM), 80 (1971Gh01)                                

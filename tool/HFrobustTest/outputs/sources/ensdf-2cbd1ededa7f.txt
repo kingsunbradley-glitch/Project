@@ -1,0 +1,55 @@
+239BK    243ES A DECAY                 1973ES02,1989HA27,2010AN0814NDS    201411
+239BK  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 122, 293 (2014)$             
+239BK2 H CUT=30-Jun-2013$                                                       
+239BK c  Decay scheme based on |a-particle measurements and using               
+239BK2c  Q(|a) ({+243}Es)=8072 {I10} (2012Wa38)                                 
+239BK c  2010An08, 2006An13:                                                    
+239BK c  {+243}Es source obtained from {+247}Md |a decay                        
+239BK c  {+247}Md was produced via {+209}Bi({+40}Ar,2n). {+40}Ar beam with E=187
+239BK2c  and 198 MeV from the UNILAC bombarded a 0.450 |mg/cm{+2} metallic      
+239BK3c  {+209}Bi target evaporated on a 40 |mg/cm{+2} Carbon backing.          
+239BK4c  The target was covered with a 10 |mg/cm{+2} Carbon foil. The           
+239BK5c  experiments were performed at the velocity filter SHIP at GSI.         
+239BK c  Measured: |a, |g, (recoil)|a, half-lives, |a decay branching ratios.   
+239BK c  Detection system: at the focal plane of SHIP two time-of-flight        
+239BK2c  detectors, an array of position-sensitive Si detectors and a Ge clover 
+239BK3c  detector consisting of four Ge crystals were placed.                   
+239BK c  HIVAP code was used to predict the cross sections                      
+239BK2c  reported in 1989Ha27. Theoretical calculations: Woods-Saxon potential  
+239BK cA E,IA$From 2010An08, unless otherwise specified.                        
+239BK cA IA$Renormalized by evaluators to intensities per 100                   
+239BK2cA alpha-particle decays.                                                 
+239BK cA HF$Using r{-0}({+239}Bk)=1.49, average of r{-0}({+238}Cm)=1.490 {I20}, 
+239BK2cA and r{-0}({+238}Cf)=1.495 {I12} (1998Ak04).                            
+243ES  P 0             (7/2+,3/2-)     23 S      3              8072      10    
+243ES cP T$ Measured in 2010An08 from timing of 7893|a.                         
+243ES cP QP$From 2012Wa38                                                       
+243ES cP $ Configuration=7/2+[633] or 3/2-[521]                                 
+239BK  N                        0.61   6                                        
+239BK cN BR$%|a=61 {I6}, %|e=39 {I6}                                            
+239BK cN BR$from {+243}Es |a decay (2010An08).                                  
+239BK2DN %A AP 3.4, from calculated T(A)=616 s (1997Mo25).                      
+239BK  A 7850      20 14.6   20   18                                            
+239BK  L 0            (3/2-,7/2+)                                               
+239BK  A 7939      10 11     5    24                                           ?
+239BK cA E,IA$From 1989Ha27.                                                    
+239BK cA E$2010An08 has not reported this |a-particle.                          
+239BK cA IA$From I|a(7939)/I|a(7899)=(13 {I7})/(87 {I12})=0.149 {I83}           
+239BK2cA (1989Ha27) and I|a(7893)=79.4 {I25} (2010An08).                        
+239BK DA HF$from syst HF AP 50 (247BK, 249BK); therefore, if the ALPHA          
+239BK2DA branching ratio of 243ES were AP 1, then IA from syst should be AP 5%. 
+239BK3DA If 239BK GS were 3/2- (rather than the adopted 7/2+) since 243ES GS is 
+239BK4DA 3/2-, then the expected HF for the GS ALPHA would be AP 200            
+239BK5DA (50 multiplied by 4, the phase space factor).                          
+239BK6DA This situation seems unlikely given the uncertainties on IA.           
+239BK  L 47        10  (7/2+,3/2-)                                              
+239BK cL E$level not in 2010An08. Suggested from adopted Q(|a).                 
+239BK  A 7893      10 71     5   2.6                                            
+239BK cA E,IA$E|a=7899 {I3}, I|a=87 {I12} in 1989Ha27. 1973Es02 reported        
+239BK2cA one |a group at E|a=7890 {I20}.                                        
+239BK DA HF        from ALPHA syst HF AP 1.3 is expected; therefore, %A         
+239BK2DA of 243ES should be AP 1. From BETA syst of 1973Ta30, EC                
+239BK3DA branching ratio of 243ES is expected to be AP 0.2                      
+239BK  L 197       14                                                           
+239BK  A 7745      10   3.8  11   15                                           ?
+239BK cA IA$Tentative |a from |a(Er) correlated events                          

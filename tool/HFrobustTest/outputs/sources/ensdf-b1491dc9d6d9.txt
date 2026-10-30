@@ -1,0 +1,477 @@
+229PA    ADOPTED LEVELS, GAMMAS                                  26NDS    202601
+229PA  H TYP=FUL$AUT=F.G. KONDEV, J.K. TULI and E. BROWNE$                      
+229PA2 H CIT=NDS 208, 397 (2026)$CUT=23-Oct-2025$                               
+229PA  Q -1314     7 7098    5 4163    3 5835    4     2021WA16                 
+229PA cQ $S(2n)=13076 {I8}, S(2p)=10530.6 {I30}, Q(|e)=311 {I4} (2021Wa16)      
+229PA cG E,RI,M$From {+229}U |e+|b{++} decay, unless otherwise stated           
+229PA cG E(x),RI(y),M(z)$From {+230}Th(p,2n|g)                                  
+229PA cG M(d)$From {Ice}-subshell ratios in 1991Gr13 [{+230}Th(p,2n|g)]         
+229PA cG M(e)$From {Ice-ce} coincidence data and intensity balances in 1994Le22 
+229PA2cG [{+230}Th(p,2n|g)]                                                     
+229PA cL E$From a least-squares fit to E|g.                                     
+229PA2cL Reduced |h{+2}=0.882, compared to the critical value of |h{+2}=1.639   
+229PA cL E(F)$From {+231}Pa(p,t)                                                
+229PA cL J(G)$From the deduced L values and spectroscopic strengths in          
+229PA2cL {+231}Pa(p,t) (1994Le22)                                               
+229PA CL BAND(I)$K|p=5/2+, |p5/2[642] band                                      
+229PA CL BAND(A)$K|p=1/2-, |p1/2[530] band (s=-1/2)                             
+229PA CL BAND(B)$K|p=1/2-, |p1/2[530] band (s=+1/2)                             
+229PA CL BAND(C)$K|p=1/2+, mixed |p1/2[400] and |p1/2[660] band (s=+1/2)        
+229PA CL BAND(D)$K|p=1/2+, mixed |p1/2[400] and |p1/2[660] band (s=-1/2)        
+229PA CL BAND(L)$K|p=3/2+, |p3/2[651] band                                      
+229PA CL BAND(M)$K|p=3/2-, |p3/2[532] band                                      
+229PA CL BAND(O)$K|p=3/2+, |p3/2[402] band                                      
+229PA  XA229U EC DECAY                                                          
+229PA  XB233NP A DECAY                                                          
+229PA  XC230TH(P,2NG)                                                           
+229PA  XD231PA(P,T),231PA(P,TG)                                                 
+229PA DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+229PA PN                                                                     6  
+229PA  L  0.0          5/2+              1.54 D  5                          I   
+229PA2 L %EC=99.51 5 $ %A=0.49 5                                                
+229PAX L XREF=ABCD                                                              
+229PA cL %A$Weighted average of 0.48% {I5} (1987Ah05) and 0.53% {I10}           
+229PA2cL (2018Gr09).                                                            
+229PA cL J$Favored |a decay (5580|a) to the K|p=5/2+, |p5/2[642] state in       
+229PA2cL {+225}At (see also 1993Sh19). |a(|q) from oriented nuclei in 1999Sc17, 
+229PA3cL where 5580|a(|q): A{-2}=1.13 {I11} and 5670|a(|q): A{-2}=0.81 {I11}.   
+229PA4cL See also 1997Sc26, 2002De24                                            
+229PA cL T$Weighted average of 1.50 d {I5} (1987Ah05), using Th K{-|a1}(t),     
+229PA2cL 1.5 d {I1} (2021Km01), using 119|g(t), and 1.67 d {I8},                
+229PA3cL unweighted average of 8 values: 1.83 d {I5}, 2.08 d {I6}, 1.66 d {I5}  
+229PA4cL and 1.78 d {I10} [117.2|g(t)] and 1.49 d {I2}, 1.60 d {I2},            
+229PA5cL 1.47 d {I2} and 1.43 d {I3} [119.0|g(t)] in 2018Gr09. Note, that the   
+229PA6cL values reported in 2018Gr09 are discrepant with |h{+2}/7=23.8. However,
+229PA7cL 2018Gr09 reports a combined value of 1.55 d {I1}, but the evaluators   
+229PA8cL consider the uncertainty to be underestimated.                         
+229PA9cL Other: 1.4 d {I4} (1949Hy01).                                          
+229PA cL CONF$|p5/2+[642] Nilsson assignment                                    
+229PA  L 12.211    25  3/2-              420 NS  30                         A   
+229PAX L XREF=ACD                                                               
+229PA cL J$L(p,t)=0; bandhead assignment                                        
+229PA cL T$From a time-difference spectrum between Pa K x rays and 80-400 eV    
+229PA2cL electrons in {+229}U |e+|b{++} decay (1982Ah08). Assigned in 1982Ah08  
+229PA3cL to a J|p=5/2-, |p5/2[523] level at 0.022 {I5} keV above the ground     
+229PA4cL state. The subsequent work by 2015Ah04 did not adopt this level,       
+229PA5cL however the authors pointed out that from |g-ray energy differences the
+229PA6cL existence  of this J|p=5/2- level cannot unambiguously be excluded. The
+229PA7cL association of the 420 ns halflife with the J|p=3/2-, 12.2111-keV      
+229PA8cL level should be considered as tentative.                               
+229PA  G 12.211    25 100      [E1]                    8.06   12               S
+229PAB G BE1W=2.61E-5 +21-18                                                    
+229PAS G  MC=6.14 9                                                             
+229PAS G  NC=1.575 23$OC=0.310 4$PC=0.0360 5$QC=0.000744 11                     
+229PA cG E$From level energy difference, based on a least-squares fit to the    
+229PA2cG following pairs of |g rays from 2015Ah04 ({+229}U |e+|b{++} decay). The
+229PA3cG validity of the |g-ray energy calibration in 2015Ah04 is supported by  
+229PA4cG the very good agreement of the reported {+221}Ra |g ray energies from  
+229PA5cG the same data (produced in consequent {+229}Pa-{+225}Ac |a decays) with
+229PA6cG adopted values (2007Ja05). Other: 11.6 keV {I3} from {+230}Th(p,t|g) in
+229PA7cG 1998Le15, but no details about the energy calibration for such a       
+229PA8cG low-energy |g ray are presented by the authors.                        
+229PA  L 26.75     6 (1/2)-                                                 B   
+229PAX L XREF=AD                                                                
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2; bandhead assignment                                        
+229PA cL CONF$Dominant |p1/2[530] Nilsson assignment                            
+229PA  L 30.72      3(7/2+)                                                 I   
+229PAX L XREF=AC                                                                
+229PA cL J$Level populated by 114.03|g and 211.06|g from J|p=(5/2)+ and (5/2)-  
+229PA2cL levels in {+229}U |e+|b{++} decay; expected member of the K|p=5/2+     
+229PA3cL ground-state band (2015Ah04). The assignment is tentative              
+229PA  L 59.6       5(9/2+)                                                 I   
+229PAX L XREF=C                                                                 
+229PA cL J$118.9|g E1 from 11/2-; band member. The assignment is tentative      
+229PA  L 68.6       37/2-                                                   A   
+229PAX L XREF=CD                                                                
+229PA cL J$L(p,t)=2; 56.4|g E2 to 3/2-; band assignment                         
+229PA  G 56.4      3 100       E2                      187     6            x   
+229PAF G FL=12.211                                                              
+229PA3 G FLAG=yz                                                                
+229PAS G  LC=136 4$MC=37.5 11                                                   
+229PAS G  NC=10.11 30$OC=2.28 7$PC=0.367 11$QC=0.000962 26                      
+229PA  L 95.9       5(11/2+)                                                I   
+229PAX L XREF=C                                                                 
+229PA cL J$82.6|g from 11/2-; band member. The assignment is tentative          
+229PA  L 100.27     8(5/2)-                                                 B   
+229PAX L XREF=AD(99.9)                                                          
+229PA cL J$L(p,t)=2; band assignment                                            
+229PA  L 122.533   18(3/2)+                                                 L   
+229PAX L XREF=AC                                                                
+229PA cL J$122.52|g M1 to 5/2+, 88.43|g E1 from 3/2-; proposed configuration    
+229PA cL CONF$Dominant |p3/2[651] Nilsson assignment                            
+229PA  G 122.52    2 100       M1                      11.38  16                
+229PAS G  KC=9.04 13$LC=1.760 25$MC=0.425 6                                     
+229PAS G  NC=0.1139 16$OC=0.0273 4$PC=0.00522 7$QC=0.000432 6                   
+229PA cG M$|a(L1+L2)exp=1.9 {I2}, |a(M1+M2)exp=0.6 {I1}, |a(N+O)exp=0.12 {I2};  
+229PA2cG Ice(L1+L2)exp=5.0% {I5}, Ice(M1+M2)exp=1.6% {I2},                      
+229PA3cG Ice(N+O)exp=0.30 {I4} (2015Ah04)                                       
+229PA  L 134.0     10 (5/2-)                                                F   
+229PAX L XREF=D(137.3)                                                          
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2                                                             
+229PA  L 144.735   21 (5/2)+                                                L   
+229PAX L XREF=AC                                                                
+229PA cL J$114.70|g M1 |g to 5/2+, 132.52|g to 3/2-; band assignment            
+229PA  G 114.03    3 100     8                                                  
+229PA  G 132.52    3 76      6                                                  
+229PA  G 144.70    3 84      6 M1                      7.10   10                
+229PAS G  KC=5.65 8$LC=1.092 15$MC=0.263 4                                      
+229PAS G  NC=0.0706 10$OC=0.01695 24$PC=0.00324 5$QC=0.000268 4                 
+229PA cG M$|a(K)exp=5.5 {I15}; Ice(K)exp=2.3% {I6} (2015Ah04)                   
+229PA  L 178.5      411/2-                                                  A   
+229PAX L XREF=CD                                                                
+229PA cL J$L(p,t)=4; 109.9|g E2 to 7/2-; band assignment                        
+229PA  G 82.6      3                                                        x   
+229PA  G 109.9     2           E2                                           x   
+229PA2 G FLAG=d                                                                 
+229PA  G 118.9     3           E1                                           x   
+229PA2 G FLAG=e                                                                 
+229PA  L 210.988   23(3/2)-                                                 M   
+229PAX L XREF=AC                                                                
+229PA cL J$66.24|g E1 to 5/2+, 184.2|g to (1/2)-                                
+229PA cL CONF$Dominant |p3/2-[532] Nilsson assignment                           
+229PA  G 66.24     3 25.2    31E1                      0.359   5                
+229PAS G  LC=0.270 4$MC=0.0664 9                                                
+229PAS G  NC=0.01748 25$OC=0.00397 6$PC=0.000657 9$QC=2.84E-5 4                 
+229PA cG M$|a(L1+L2)exp<5; Ice(L1+L2)exp<3.0% (2015Ah04)                        
+229PA  G 88.43     1091      9 E1                      0.1672 24                
+229PAS G  LC=0.1261 18$MC=0.0308 4                                              
+229PAS G  NC=0.00813 12$OC=0.001863 27$PC=0.000317 5$QC=1.523E-5 22             
+229PA cG M$|a(L1+L2)exp<2; Ice(L1+L2)exp<3.0% (2015Ah04)                        
+229PA  G 110.9                                                                  
+229PA  G 184.2     2 8.7     22                                                 
+229PA  G 198.77    3 100     6 M1                      2.89    4                
+229PAS G  KC=2.308 32$LC=0.443 6$MC=0.1068 15                                   
+229PAS G  NC=0.0286 4$OC=0.00687 10$PC=0.001313 18$QC=0.0001084 15              
+229PA cG M$|a(K)exp=2.40 {I33}, |a(L1+L2)exp=0.43 {I9}; Ice(K)exp=5.5% {I7},    
+229PA2cG Ice(L1+L2)exp=1.0% {I2} (2015Ah04)                                     
+229PA  G 211.06    4 5.7     AP                                                 
+229PA  L 220.5      5(9/2)-                                                 B   
+229PAX L XREF=CD                                                                
+229PA cL J$L(p,t)=4; 42.0|g to 11/2-; band member                               
+229PA  G 42.0      3                                                        x   
+229PA  L 241.817   21(5/2)-                                                 M   
+229PAX L XREF=AC                                                                
+229PA cL J$241.84|g (E1) |g to 5/2+; band assignment                            
+229PA  G 119.26    3 44.1    34 E1                                              
+229PA2 G FLAG=e                                                                 
+229PA  G 211.06    4 54      AP                                                 
+229PA  G 229.60    4 44      3                                                  
+229PA  G 241.84    4 100     9 (E1)                    0.0621  9                
+229PAS G  KC=0.0493 7$LC=0.00969 14$MC=0.002336 33                              
+229PAS G  NC=0.000621 9$OC=0.0001457 20$PC=2.64E-5 4$QC=1.680E-6 24             
+229PA  L 252.73     5  (1/2)+                                               C   
+229PAX L XREF=AD                                                                
+229PA cL J$L(p,t)=1; 240.50|g (E1) to 3/2-, 226.00|g to (1/2)-                  
+229PA cL CONF$Dominant |p1/2+[400] Nilsson assignment                           
+229PA  G 226.00    4 43      4                                                  
+229PA  G 240.50    4 100     8 (E1)                    0.0629  9                
+229PAS G  KC=0.0499 7$LC=0.00982 14$MC=0.002367 33                              
+229PAS G  NC=0.000629 9$OC=0.0001477 21$PC=2.68E-5 4$QC=1.700E-6 24             
+229PA  L 285.71    20(5/2)+                                                 C   
+229PAX L XREF=AD(284.7)                                                         
+229PA cL J$L(p,t)=3; 273.5|g to 3/2-; band assignment                           
+229PA  G 273.5     2 100                                                        
+229PA  L 304.87     8 (3/2)+                                                D   
+229PAX L XREF=AD(303.6)                                                         
+229PA cL J$L(p,t)=3; 204.60|g to 5/2-, 278.0|g to (1/2)-; band assignment       
+229PA  G 204.60    3 100     8                                                  
+229PA  G 278.0     1 65      6                                                  
+229PA  G 292.8     1 23.1    31                                                 
+229PA  L 338.6      415/2-                                                  A   
+229PAX L XREF=CD                                                                
+229PA cL J$160.1|g E2 to 11/2-; band assignment                                 
+229PA  G 160.1     2 100       E2                      1.651  25            x   
+229PA2 G FLAG=dy                                                                
+229PAS G  KC=0.2163 30$LC=1.048 16$MC=0.288 4                                   
+229PAS G  NC=0.0778 12$OC=0.01765 27$PC=0.00290 4$QC=2.138E-5 31                
+229PA  L 377.8      4(9/2)+                                                 C   
+229PAX L XREF=CD                                                                
+229PA cL J$L(p,t)=3; 199.3 to 11/2-; band member                                
+229PA  G 199.3     2  100      (E1)                                         x   
+229PA2 G FLAG=ey                                                                
+229PA  L 386.7      5(13/2)-                                                B   
+229PAX L XREF=CD(389.5)                                                         
+229PA cL J$L(p,t)=6; 48.1|g to 15/2-, 208.2|g to 11/2-; band member             
+229PA  G 48.1      3                                                        x   
+229PA  G 208.2     5                                                        x   
+229PA  L 392.9      6(7/2)+                                                 D   
+229PAX L XREF=C                                                                 
+229PA cL J$172.4|g E1 to (9/2)-; band member                                    
+229PA  G 172.4     3    100    E1                                           x   
+229PA2 G FLAG=ey                                                                
+229PA  L 458.77    3  (3/2+)                                                O   
+229PAX L XREF=A                                                                 
+229PA cL J$247.80|g (E1) to (3/2)-, 216.90|g to (5/2)-, 458.82|g to 5/2+        
+229PA cL CONF$Dominant |p3/2+[402] Nilsson assignment                           
+229PA  G 216.90    4  42.2   33                                                 
+229PA  G 247.80    4  100    6 (E1)                    0.0587  8                
+229PAS G  KC=0.0466 7$LC=0.00914 13$MC=0.002202 31                              
+229PAS G  NC=0.000585 8$OC=0.0001374 19$PC=2.494E-5 35$QC=1.595E-6 22           
+229PA  G 314.0     1  7.1    13                                                 
+229PA  G 336.23    6  14.3   13                                                 
+229PA  G 446.60    8  10.4   13                                                 
+229PA  G 458.82    10 3.2    7                                                  
+229PA  L 490.05     5 (5/2+)                                                O   
+229PAX L XREF=A                                                                 
+229PA cL J$279.1|g to (3/2)-, 345.2|g to (5/2)+; band assignment                
+229PA  G 279.1     1  100    10                                                 
+229PA  G 345.2     1  19.1   24                                                 
+229PA  G 477.89    10 11.9   24                                                 
+229PA  G 490.07    10 7.6    19                                                 
+229PA  L 521.1      5(11/2)+                                                D   
+229PAX L XREF=C                                                                 
+229PA cL J$134.4|g E1 to (13/2)-; band member                                   
+229PA  G 134.4     5           E1                                           x   
+229PA2 G FLAG=d                                                                 
+229PA  G 300.6     2                                                        x   
+229PA  L 522.1      4(13/2)+                                                C   
+229PAX L XREF=CD(521.5)                                                         
+229PA cL J$L(p,t)=5; 183.5|g to 15/2-, 343.6|g to 11/2-; band assignment        
+229PA  G 183.5     4                                                        x   
+229PA  G 343.6     2                                                        x   
+229PA  L 534.8      6                                                           
+229PAX L XREF=C                                                                 
+229PA  G 356.3     4  100                                                   x   
+229PA2 G FLAG=y                                                                 
+229PA  L 545.8      519/2-                                                  A   
+229PAX L XREF=CD                                                                
+229PA cL J$L(p,t)=8; 207.2|g to 15/2-; band assignment                          
+229PA  G 207.2     2  100                                                   x   
+229PA2 G FLAG=y                                                                 
+229PA  L 561.73     7 (3/2-)                                                    
+229PAX L XREF=A                                                                 
+229PA cL J$549.50|g to 3/2-; possible direct feeding in {+229}U |e decay        
+229PA2cL (J|p=3/2+)                                                             
+229PA cL CONF$Dominant |p3/2[521] Nilsson assignment                            
+229PA  G 350.80    10 40     4                                                  
+229PA  G 549.50    10 100    10                                                 
+229PA  L 594.7     10(17/2)-                                                B   
+229PAX L XREF=CD(595.3)                                                         
+229PA cL J$L(p,t)=8; 256.1|g to 15/2-; band member                              
+229PA  G 256.1     9   100                                                  x   
+229PA2 G FLAG=y                                                                 
+229PA  L 614.3      6                                                           
+229PAX L XREF=C                                                                 
+229PA  G 435.8     4   100                                                  x   
+229PA2 G FLAG=y                                                                 
+229PA  L 689.7      5(15/2)+                                                D   
+229PAX L XREF=CD                                                                
+229PA cL J$L(p,t)=7; 303.0|g to (13/2)-                                         
+229PA  G 303.0     2  100                                                   x   
+229PA2 G FLAG=y                                                                 
+229PA  L 712.8      5(17/2)+                                                C   
+229PAX L XREF=CD(*715.0)                                                        
+229PA cL J$L(p,t)=0+(7); 167.0|g to 19/2-, 190.7|g to (13/2)+; band assignment  
+229PA  G 167.0     4                                                        x   
+229PA  G 190.7     6                                                        x  ?
+229PAF G FL=522.1                                                               
+229PA  G 374.2     3                                                        x   
+229PA  L 715.0     4 (3/2-)                                                 F   
+229PAX L XREF=D(*715.0)                                                         
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=0+(7)                                                         
+229PA  L 739.3     9 (1/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=(2)                                                           
+229PA  L 745.10     7 (3/2)                                                     
+229PAX L XREF=A                                                                 
+229PA cL J$733.0|g to 3/2-, 600.5|g to (5/2)+; possible direct feeding in       
+229PA2cL {+229}U |e+|b{++} decay (J|p=3/2+)                                     
+229PA  G 286.2     1  9.8    8                                                  
+229PA  G 534.3     2  3.3    8                                                  
+229PA  G 600.5     2  7.3    8                                                  
+229PA  G 622.6     2  17.9   16                                                 
+229PA  G 644.9     3  2.2    6                                                  
+229PA  G 733.0     2  100    8                                                  
+229PA  L 768.0     6 (7/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2                                                             
+229PA  L 789.0     7                                                        F   
+229PAX L XREF=D                                                                 
+229PA  L 795.1      5(23/2-)                                                A   
+229PAX L XREF=CD(792.9)                                                         
+229PA cL J$L(p,t)=(10); 249.3|g to 19/2-; band assignment                       
+229PA  G 249.3     3  100                                                   x   
+229PA2 G FLAG=y                                                                 
+229PA  L 799.27    14  (3/2)                                                   ?
+229PAX L XREF=A                                                                 
+229PA cL J$787.2|g to 3/2-, 799.6|g to (5/2)+; possible direct feeding in       
+229PA2cL {+229}U |e+|b{++} decay (J|p=3/2+)                                     
+229PA  G 340.2     3  54     14                                                 
+229PA  G 557.1     3  80     20                                                 
+229PA  G 654.7     3  60     16                                                 
+229PA  G 787.2     3  32     6                                                  
+229PA  G 799.6     3  100    20                                                 
+229PA  L 812.7     6 (5/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2                                                             
+229PA  L 841.3     10(21/2-)                                                B   
+229PAX L XREF=C                                                                 
+229PA cL J$295.5|g to 19/2-; band assignment                                    
+229PA  G 295.5     9  100                                                   x   
+229PA2 G FLAG=y                                                                 
+229PA  L 842.7     6 3/2-                                                   F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=0                                                             
+229PA  L 858.8     9 (1/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2                                                             
+229PA  L 877.2     7 (7/2)-                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2                                                             
+229PA  L 884.14    18  (3/2+)                                                  ?
+229PAX L XREF=A                                                                 
+229PA cL J$425.7|g to (3/2+), 884.2|g to 5/2+; possible direct feeding in       
+229PA2cL {+229}U |e+|b{++} decay (J|p=3/2+)                                     
+229PA  G 425.7     3  100    10                                                 
+229PA  G 761.2     3  26     7                                                  
+229PA  G 884.2     3  58     8                                                  
+229PA  L 903.4     8 (5/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=(2)                                                           
+229PA  L 942.1     10(11/2)-                                                F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=4                                                             
+229PA  L 978.6     103/2-                                                   F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=0                                                             
+229PA  L 991.8     9 3/2-                                                   F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=0                                                             
+229PA  L 1006.5    9 3/2-                                                   F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=0                                                             
+229PA  L 1024.8    15                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(2)                                                            
+229PA  L 1034.2    10                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=2                                                              
+229PA  L 1058.54   18  (3/2-)                                                  ?
+229PAX L XREF=A                                                                 
+229PA cL J$847.1|g to (3/2)-, 1058.6|g to 5/2+; possible direct feeding in      
+229PA2cL {+229}U |e+|b{++} decay (J|p=3/2+)                                     
+229PA  G 497.2     3  34     9                                                  
+229PA  G 847.1     3  100    22                                                 
+229PA  G 1058.6    3  67     11                                                 
+229PA  L 1069.1    10                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=2                                                              
+229PA  L 1076.1    13                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=2                                                              
+229PA  L 1085.6    10                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=2                                                              
+229PA  L 1117.0    10(3/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=(0)                                                           
+229PA  L 1133.5    11                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(2)                                                            
+229PA  L 1146.5    12                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(2)                                                            
+229PA  L 1161.9    11                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=2                                                              
+229PA  L 1173.2    10                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=2                                                              
+229PA  L 1186.1    12                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(2)                                                            
+229PA  L 1196.7    12                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(2)                                                            
+229PA  L 1212.0    11                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=2                                                              
+229PA  L 1220.7    11                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=2                                                              
+229PA  L 1241.4    11                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(4)                                                            
+229PA  L 1264.9    11                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(2)                                                            
+229PA  L 1299.1    12                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(4)                                                            
+229PA  L 1314.4    12                                                       F   
+229PAX L XREF=D                                                                 
+229PA cL $L(p,t)=(4)                                                            
+229PA  L 1371.2    103/2-                                                   F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=0                                                             
+229PA  L 1413.1    113/2-                                                   F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=0                                                             
+229PA  L 1439.2    11(3/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=(0)                                                           
+229PA  L 1469.4    12(3/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=(0)                                                           
+229PA  L 1491.5    12                                                       F   
+229PAX L XREF=D                                                                 
+229PA  L 1522.4    133/2-                                                   F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=0                                                             
+229PA  L 1535.9    133/2-                                                   F   
+229PAX L XREF=D                                                                 
+229PA cL J$L(p,t)=0                                                             
+229PA  L 1552.6    14(1/2)-                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2                                                             
+229PA  L 1582.0    13(7/2)-                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2                                                             
+229PA  L 1604.9    13 5/2-,1/2+                                             F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=2+1                                                           
+229PA  L 1629.0    13 (5/2)+                                                F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=3                                                             
+229PA  L 1648.6    13(3/2)+                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=3                                                             
+229PA  L 1665.2    13                                                       F   
+229PAX L XREF=D                                                                 
+229PA  L 1678.9    14(11/2)-                                                F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=4                                                             
+229PA  L 1698.4    14(9/2+)                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=(3)                                                           
+229PA  L 1721.1    14(9/2-)                                                 F   
+229PAX L XREF=D                                                                 
+229PA2 L FLAG=G                                                                 
+229PA cL J$L(p,t)=(4)                                                           
+229PA  L 1743.5    14                                                       F   
+229PAX L XREF=D                                                                 
+229PA  L 1754.3    14                                                       F   
+229PAX L XREF=D                                                                 
+229PA  L 1768.9    14                                                       F   
+229PAX L XREF=D                                                                 
+229PA  L 1785.4    14                                                       F   
+229PAX L XREF=D                                                                 
+229PA  L 1844.8    15                                                       F   
+229PAX L XREF=D                                                                 

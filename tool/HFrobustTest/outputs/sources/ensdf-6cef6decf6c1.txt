@@ -1,0 +1,380 @@
+250BK    ADOPTED LEVELS, GAMMAS                                  01NDS    200112
+250BK  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94,131 (2001)$CUT=1-Aug-2001$           
+250BK  Q 1780      4 4970    4 5089    6 5531    SY    2012WA38                 
+250BK cQ $Note: Current evaluation has used the following Q record              
+250BK2cQ 1780      4  {I4969}   5  {I5087}   6  {I5532}   19    1995Au04        
+250BK PN                                                                     6  
+250BK  XA254ES A DECAY (275.7 D)                                                
+250BK  XI254ES A DECAY (39.3 H)                                                 
+250BK  XN249BK(N,G):(TENTATIVE)                                                 
+250BK c                                                                         
+250BK c  Since the 39.9-h {+254}Es |a decay and {+249}Bk(n,|g) data presented   
+250BK2c  in this evaluation are considered as preliminary, level schemes and    
+250BK3c  predominant configuration assignments given here, which are based      
+250BK4c  mostly on these data, should Be taken as tentative, particularly in    
+250BK5c  view of some interpretations that are inconsistent with data.          
+250BK c  Assuming the level scheme is correct, the inconsistencies noted here   
+250BK2c  can Be explained by large admixtures of other configurations.          
+250BK3c  See 275.7-d {+254}Es and 39.3-h {+254}Es |a decays and                 
+250BK4c  {+249}Bk(n,|g) data sections for additional remarks.                   
+250BK D  SOME OF THE SMALL ROTATIONAL BAND PARAMETERS ALSO MAY INDICATE         
+250BK2D  COUPLINGS AMONG (MIXING OF) STATES. 1966Mc02, 1966Ah02 AND 1982HoZE,   
+250BK3D  HOWEVER, STATE THAT THE BAND PARAMETERS ARE AS THEY PREDICT.           
+250BK c                                                                         
+250BK c  Theoretical studies:                                                   
+250BK c  Fission-barrier properties were calculated by 1977Pr10, 1980Ku14,      
+250BK2c  1984Oh09, 1984Ku05, 1984Ro23.                                          
+250BK c  For discussions and calculations of Gallagher-Moszkovski splitting,    
+250BK2c  and of odd- and even-spin states' energy shifts (Newby shifts),        
+250BK3c  see, for example, 1986Ho30, 1986Ho36, 1986So12, 1988Fr16, 1989HoZI,    
+250BK4c  1994No15.                                                              
+250BK cG E         From (n,|g), 276-d and 39.3-h {+254}Es |a decays.            
+250BK cG RI        Relative photon intensities deexciting each level. These     
+250BK2cG branchings are deduced from I|g's measured in {+254}Es |a decays.      
+250BK cG M         Deduced in {+254}Es |a decays and (n,|g) work.               
+250BK CL BAND(A)   K=2.                                                         
+250BK2cL A=5.7; configuration: (p 3/2[521],n 1/2[620])                          
+250BK CL BAND(B)   K=4.                                                         
+250BK2cL A=4.27; configuration: (p 7/2[633],n 1/2[620])                         
+250BK CL BAND(I)   K=7.                                                         
+250BK2cL A=4.4; configuration: (p 7/2[633],n 7/2[613]).                         
+250BK CL BAND(D)   K=5.                                                         
+250BK2cL A=5.7; (p 3/2[521],n 7/2[613]) configuration was proposed by           
+250BK3cL 1966Mc02. Since the deexcitation of the 97.49 level by 61.91|g to the  
+250BK4cL 4+,4(p 7/2[633],n 1/2[620]) level at 35.59 is not consistent with      
+250BK5cL 5+,5(p 3/2[521],n 7/2[613]) assignment for the 97.49 level (a |g       
+250BK6cL transition between these states would require both proton and          
+250BK7cL neutron states to change during decay), large admixture with other     
+250BK8cL states would Be expected.                                              
+250BK CL BAND(E)   K=1.                                                         
+250BK2cL A=5.3; configuration, (p 3/2[521],n 1/2[620]), was assigned by         
+250BK3cL 1983Ah02 in 39.3-h {+254}Es |a decay and by 1982HoZE in (n,|g)         
+250BKxcL reaction.                                                              
+250BK CL BAND(F)   K=3.                                                         
+250BK2cL A=4.14; (p 7/2[633],n 1/2[620]) configuration was assigned by          
+250BK3cL 1982HoZE. This assignment was proposed by 1973Ah04 to a level at       
+250BK4cL 131.6 keV.                                                             
+250BK CL BAND(G)   K=2.                                                         
+250BK2cL A=5.59; (p 3/2[521],n 7/2[613]) configuration was proposed by          
+250BK2cL 1982HoZE.                                                              
+250BK CL BAND(J)   K=2.                                                         
+250BK2cL A=4.15. From the favored |a decay of 39.3-h {+254}Es, the configuration
+250BK3cL is (p 7/2[633],n 3/2[622]), as assigned by 1973Ah04. However,          
+250BK4cL the |g's shown to decay to g.s. band are not consistent with           
+250BK5cL the configuration assigned. Some admixture with other bands            
+250BK6cL is needed to explain the |g deexcitations.                             
+250BK DL           PROBABLE CORIOLIS INTERACTION WITH THE K=3,                  
+250BK2DL (p 7/2[633],n 1/2[620]) ROTATIONAL BAND MAY EXPLAIN THE SMALLNESS OF   
+250BK3DL THE PARAMETER, A=4.15. HOWEVER, THERE WOULD NOT BE ANY MIXTURE OF THIS 
+250BK4DL CONFIGURATION IN THE 2- STATE. THERE MUST BE A MIXTURE WITH A          
+250BK5DL K,JPI=1,2+ STATE. POSSIBLE CANDIDATES: K=1,(p 5/2[642],n 1/2[620])     
+250BK6DL BAND WHICH IS QUITE LIKELY, IF THERE IS THE SAME ADMIXTURE ALSO IN THE 
+250BK7DL 254ES PARENT STATE, AND K=1+,(p 3/2[521],n 1/2[501]) BAND              
+250BK8DL (THE n 1/2[501] NILSSON STATE IS ABOVE THE FERMI LEVEL- PERHAPS        
+250BK9DL NOT?)                                                                  
+250BK CL BAND(K)   K=5.                                                         
+250BK2cL A=4.43; configuration of (p 7/2[633],n 3/2[622]) was assigned by       
+250BK3cL 1982HoZE.                                                              
+250BK cL E(M)      The authors of 1966Mc02 tentatively suggested that the       
+250BK2cL 413-,471- and 527-keV levels might Be members of a rotational band.    
+250BK3cL They may possibly Be the 6+, 7+ and 8+ members of the K=6 band,        
+250BK4cL identified at 406 keV.                                                 
+250BK cL E         From 275.7-d and 39.3-h {+254}Es |a decay and from           
+250BK2cL {+249}Bk(n,|g) reaction studies.                                       
+250BK cL T         Excited states' half-lives are from 275.7-d and 39.3-h       
+250BK2cL {+254}Es |a decay                                                      
+250BK  L 0.0          2-               3.212 H   5                          A   
+250BKX L XREF=AIN                                                               
+250BK2 L %B-=100                                                                
+250BK cL T         measurement of 1979Re01. Other measured half-lives are       
+250BK2cL 3.10 h (1954Gh24), 3.222 h {I5} (1959Va02), 3.103 h {I19} (1988Po05).  
+250BK cL J         log| {Ift}=7.2 for |b to 3+ state rules out J<2;             
+250BK2cL from log| {Ift}'s to 0+ states, J|p Ne 2+ and J is not >2.             
+250BK cL           Among the available Nilsson orbitals, analogy to {+251}Bk and
+250BK2cL {+251}Cf for the proton and neutron states suggests that probable      
+250BK3cL configuration is 2-,(p 3/2[521]+n 1/2[620]).                           
+250BK  L 34.47       (3-)                                                   A   
+250BKX L XREF=AIN                                                               
+250BK cL J         34.4|g to g.s. is (M1,E2); rotational parameter.             
+250BK  G 34.47                  (M1,E2)                 18E2  16                
+250BK  L 35.59       (4+)              29 US     1                          B   
+250BKX L XREF=AIN                                                               
+250BK cL J         (M2) to g.s.; |a hindrance factor of |a from 2.757-d         
+250BK2cL {+254}Es is consistent with the J|p and configuration assignments.     
+250BK  G 1.12                  [E1]                             5.5E+5    AP   S
+250BKB G BE1W AP 1E-6                                                           
+250BK cG           The N-, O-, P- subshell, and the total                       
+250BK2cG conversion coefficient                                                 
+250BK3cG were calculated by 1991Ba63 for 0.95-, 1.1- and 1.25-keV |g            
+250BK4cG transitions with E1 multipolarity. The authors calculated total        
+250BK5cG |a(1.1|g)=986.                                                         
+250BK cG           From intensity balance in {+254}Es |a decay, 30% of I(|g+ce) 
+250BK2cG from the 35.59 level decays through the 1.12-keV |g                    
+250BK  G 35.59       100        (M2)                   1.287E4  12.9E+5         
+250BKB G BM2W AP 0.026                                                          
+250BK  L 78.33       (5+)                                                   B   
+250BKX L XREF=AIN                                                               
+250BK cL J         (M1+E2) to (4+); |a hindrance factor in 275.7-d {+254}Es     
+250BK2cL |a decay.                                                              
+250BK  G 42.74                 (M1+E2)                                          
+250BK  L 80.26        (4-)                                                  A   
+250BKX L XREF=N                                                                 
+250BK cL J         45.79|g to (3-) and 80.26|g to 2- are (M1+E2) and (E2),      
+250BK2cL respectively, obtained in (n,|g).                                      
+250BK  G 45.79                 (M1+E2)                                          
+250BK  G 80.26                 (E2)                                             
+250BK  L 86        2 (7+)              213 US    8                          I   
+250BKX L XREF=A                                                                 
+250BK cL J         favored |a decay from (7+) 275.7-d {+254}Es.                 
+250BK  G 8                     [E2]                    1.3E6                   S
+250BK2 G FL=78.33 $                                                             
+250BK cG           Transition has not been observed; energy is from level       
+250BK2cG scheme.                                                                
+250BKB G BE2W=0.0007 5                                                          
+250BK  L 97.49       (5-)              38 NS     5                          D   
+250BKX L XREF=AN                                                                
+250BK cL J         61.91-keV (E1) transition to (4+). Hindrance factor for the  
+250BK2cL |a from (7+),(p 7/2[633],n 7/2[613])  275.7-d {+254}Es is consistent   
+250BK3cL with J|p=(5-) and the configuration of (p 3/2[521],n 7/2[613]).        
+250BK  G 61.91                 (E1)                     0.508                   
+250BKB G BE1W=1.25E-5 18                                                        
+250BK  L 103.83      (1-)                                                   E   
+250BKX L XREF=IN                                                                
+250BK cL J         (M1) to g.s. J|p and configuration was assigned by 1973Ah04  
+250BK2cL in 39.3-h {+254}Es |a decay and by 1982HoZE in (n,|g) reaction.        
+250BK  G 103.83                 (M1)                    7.47                    
+250BK  L 115.45       (3+)                                                  F   
+250BKX L XREF=IN                                                                
+250BK cL J         (M1) transitions from 2+ level at 211.82 and to (4+) level   
+250BK2cL at 35.59.                                                              
+250BK cL E         the order of 96.38- and 79.86-keV gammas, feeding and        
+250BK2cL deexciting the level, respectively, were reversed in 39.3-h {+254}Es   
+250BK3cL |a decay and (n,|g) works, with two different level energies. The same 
+250BK4cL configuration assignment was proposed by 1973Ah04 and by 1982HoZE.     
+250BK5cL The order for these two gammas chosen here is mostly based on the      
+250BK6cL intensity balance in |a decay at this level. However, uncertainties on 
+250BK7cL the transition intensities of these gammas do not rule out the reverse 
+250BK8cL order. Therefore, the level energy could very well Be 131.97 keV.      
+250BK cL           Another reason for adopting this order is that if the        
+250BK2cL 3+ state were at 131.97 keV, the rotational band parameter would       
+250BK3cL Be much too small, assuming the assignment of the 148.60-keV level     
+250BK2cL as the band's 4+ member is correct.                                    
+250BK cL           An expected E1 transition to g.s. either 115.45 keV or       
+250BK2cL 131.97 keV, which would                                                
+250BK3cL determine the level's correct energy, would Be obscured by the         
+250BK4cL K|a{-1}| x ray and K|b{-2}'| x ray.                                    
+250BK cL           See also the 39.3-h {+254}Es |a decay set.                   
+250BK  G 79.86                  (M1)                   16.05                    
+250BK  L 125.01      (2-)                                                   E   
+250BKX L XREF=IN                                                                
+250BK cL J         (M1) transitions to 2- and (3-) members of g.s. band;        
+250BK2cL rotational band parameter.                                             
+250BK  G 90.53        100    30 (M1)                    11.13                   
+250BK  G 125.01       75     30 (M1)                    4.38                    
+250BK  L 130.49      (6+)                                                   B   
+250BKX L XREF=AIN                                                               
+250BK cL J         52.16|g and 94.91 |g's to (5+) and (4+) states are (M1+E2)   
+250BK2cL and (E2), respectively; |a hindrance factor                            
+250BK3cL in 275.7-d {+254}Es |a decay.                                          
+250BK  G 52.16                 (M1+E2)                 2.6E2  20                
+250BK  G 94.91                 (E2)                    26.7                     
+250BK  L 137.32       (5-)                                                  A   
+250BKX L XREF=AIN                                                               
+250BK cL J         (M1) and (E2) transitions to the (4-) and (3-) members of    
+250BK2cL the band, respectively; energy fit to the band.                        
+250BK  G 57.06                 (M1)                    42.8                     
+250BK  G 102.84                (E2)                    18.4                     
+250BK  L 146.43       (2-)                                                  G   
+250BKX L XREF=N                                                                 
+250BK cL J         assignment was made by 1982HoZE. The (M1) and (M1+E2)        
+250BK2cL transitions to the (3-) and 2- states of the g.s. band, respectively,  
+250BK3cL are consistent with the suggested configuration, which is reasonable   
+250BK4cL among the available Nilsson states expected at low energies.           
+250BK  G 111.96                 (M1)                   6.01                     
+250BK  G 146.43                (M1+E2)                 8.3    41                
+250BK  L 148.60       (4+)                                                  F   
+250BKX L XREF=N                                                                 
+250BK cL J         (M1) transitions to (4+) and (5+) states of the K=4 band,    
+250BK2cL and the energy spacing from the 115.44 level are consistent with       
+250BK3cL this J|p assignment.                                                   
+250BK  G 70.27                 (M1)                    23.3                     
+250BK  G 113.01                (M1)                    5.85                     
+250BK  L 156       2 (8+)                                                   I   
+250BKX L XREF=A                                                                 
+250BK cL J         |a hindrance factor in 275.7-d {+254}Es |a decay; (M1+E2)    
+250BK2cL to (7+) state at 86 keV.                                               
+250BK  G 70.4      2            (M1+E2)                66     43                
+250BK  L 157.39       (3-)                                                  E   
+250BKX L XREF=N                                                                 
+250BK cL J         (E2) transition to (1-) state, (M1) to (4-) state.           
+250BK  G 53.59                 (E2)                    402.8                    
+250BK  G 77.13                 (M1)                    17.78                    
+250BK  G 122.95                (M1)                    4.59                     
+250BK  L 167.09      (6-)                                                   D   
+250BKX L XREF=AN                                                                
+250BK cL J         (M1+E2) to (5-); rotational parameter. |a hindrance          
+250BK2cL factor is consistent with the J|p and configuration assignments.       
+250BK  G 69.60                  (M1+E2)                69     24                
+250BK  L 175.13      (1+)              42 NS     2                              
+250BKX L XREF=IN                                                                
+250BK cL J         (E1) transitions to (2-) and (1-) states; no |g to (3-).     
+250BK2cL The K=0,(p 7/2[633],n 7/2[613])  configuration, assigned by 1973Ah04   
+250BK3cL in 39.3-h {+254}Es |a decay and by 1982HoZE in (n,|g), is not          
+250BK4cL consistent with HF=270 for the |a from 2+,2 (p 7/2[633],n 3/2[622])    
+250BK5cL parent state; it is also not consistent with |g transitions to members 
+250BK6cL of K=1 and K=2 bands with (p 3/2[521]|+n 1/2[620]) configurations.     
+250BK  G 50.12        22     3  (E1)                    0.882                   
+250BKB G BE1W=3.5E-6 7                                                          
+250BK  G 71.30        100    10 (E1)                    0.352                   
+250BKB G BE1W=5.6E-6 8                                                          
+250BK  G 175.12       6.5    14[E1+M2]                  2.76                    
+250BK cG CC        for E1+M2, |d=0.3.                                           
+250BKB G BE1W=2.2E-8 6 $ BM2W=0.30 8 $                                          
+250BK cG           B(M2)(W.u.) for |d=0.3                                       
+250BK  L 179.99      (3-)                                                   G   
+250BKX L XREF=N                                                                 
+250BK cL J         (M1+E2) and (M1) transitions to 2- and (3-) states;          
+250BK2cL band parameter.                                                        
+250BK  G 145.56                (M1)                    12.9                     
+250BK  G 179.99                (M1+E2)                 4.3    27                
+250BK  L 190       2 (7+)                                                   B   
+250BKX L XREF=A                                                                 
+250BK cL J         hindrance factor of 2350 for 6324|a from 275.7-d {+254}Es is 
+250BK2cL consistent with its transition from J|p,K=7+,7,(p 7/2[633],n 7/2[613]) 
+250BK3cL parent to (7+) of K=4,(p 7/2[633],n 1/2[620])  band.                   
+250BK  L 203.64       (4-)                                                  E   
+250BKX L XREF=N                                                                 
+250BK cL J         (M1) transitions to (3-) and (4-) states of g.s. band.       
+250BK2cL J|p=(4-) is preferred from nonobservation of |g to 2- g.s. Energy      
+250BK3cL fit to level is somewhat poor.                                         
+250BK  G 123.37                (M1)                    4.55                     
+250BK  G 169.19                (M1)                    8.40                     
+250BK  L 211.82       2+                                                    J   
+250BKX L XREF=IN                                                                
+250BK cL J         parity is from E1 character of 211.82|g to 2- g.s. Spin      
+250BK2cL is from favored |a decay from 39.3-h {+254}Es.                         
+250BK  G 36.7                                                                  S
+250BK cG           This transition was not observed; existence was deduced from 
+250BK2cG |a|g-coincidence data observed in 39.3-h {+254}Es |a decay.            
+250BK cG E         from level scheme.                                           
+250BK  G 96.38        5.9    7  (M1)                    9.28                    
+250BK  G 177.36       59     6  (E1)                    0.145                   
+250BK  G 211.82       100    10 E1                      0.0967                  
+250BK  L 215.94      (0+)                                                       
+250BKX L XREF=N                                                                 
+250BK cL J         (M1) and (E1) transitions to (1+) and (1-), respectively;    
+250BK2cL no |g t0 J=2 and higher J|p states. A=6.80, if this and 175.12-keV     
+250BK3cL levels are 0+ and 1+ members of a K=0 band, as proposed by 1982HoZE.   
+250BK  G 40.82                  (M1)                   113.7                    
+250BK  G 112.116                (E1)                   0.109                    
+250BK  L 236.74      (3+)                                                   J   
+250BKX L XREF=IN                                                                
+250BK cL J         HF(6357|a)=30 {I3}, in 39.3-h {+254}Es |a decay, is          
+250BK2cL consistent with |a transition from 2+,2(p 7/2[633],n 3/2[622]) parent  
+250BK3cL to this state with main configuration of 3+,2(p 7/2[633],n 3/2[622]) . 
+250BK cL E         121.29|g deexciting this level is assumed to Be incorrectly  
+250BK2cL shown in decay scheme of 1982HoZE to decay to the 148.60-keV level:    
+250BK3cL it is placed here between this level and the 115.44-keV level.         
+250BK4cL E(level)=236 {I3} from E|a's.                                          
+250BK  G 121.29                 (M1)                   4.78                     
+250BK  G 202.27                                                                 
+250BK cG E         deduced from level energies shown in 1982HoZE.               
+250BK2cG |g energy was not given in the decay scheme of 1982HoZE.               
+250BK  L 241       2 (9+)                                                   I   
+250BKX L XREF=A                                                                 
+250BK cL J         (M1,E2) to (8+) member of the K=7 band; HF(|a)=380 is        
+250BK2cL consistent with |a transition from the 7+,7(p 7/2[633],n 7/2[613])     
+250BK3cL parent.                                                                
+250BK  G 85.1      1           (M1,E2)                                          
+250BK2 G FL=156                                                                 
+250BK  L 247.9     2 (7-)                                                   D   
+250BKX L XREF=A                                                                 
+250BK cL J         (M1,E2) to (6-) amd |g to (5-) members of the band;          
+250BK2cL HF=224 {I22} for |a transition from the 7+,7(p 7/2[633],n 7/2[613])    
+250BK3cL parent.                                                                
+250BK  G 80.8      1           (M1,E2)                                          
+250BK  G 150       2                                                            
+250BK  L 270.46       (4+)                                                  J   
+250BKX L XREF=IN                                                                
+250BK cL J         (E2) to (2+) member of the band; HF(|a)=79 for |a from       
+250BK2cL 2+,2 (p 7/2[633],n 3/2[622])  parent.                                  
+250BK  G 58.64                  (E2)                   261                      
+250BK  G 235.98                                                                 
+250BK  L 298       2                                                            
+250BKX L XREF=I                                                                 
+250BK  L 316       3 (5+)                                                   J   
+250BKX L XREF=I                                                                 
+250BK cL J         HF(|a)=650 {I150} for |a transition from                     
+250BK2cL 2+,2 (p 7/2[633],n 3/2[622]).                                          
+250BK  L 316.46       (5+)                                                  K   
+250BKX L XREF=N                                                                 
+250BK cL J         J|p=5+ of K=5,(p 7/2[633]+n 3/2[622]) band assignment was    
+250BK2cL made by 1982HoZE from M1 |g transitions to 4+ and 5+ members of        
+250BK3cL K=4,(p 7/2[633],n 1/2[620]) band. The level observed at 316 keV        
+250BK4cL in 39.3-h {+254}Es |a decay was assigned by 1973Ah04 to                
+250BK5cL J|p=5+ of K=2,(p 7/2[633]-n 3/2[622]) band. Both of these 5+ states    
+250BK6cL may Be populated by |a in 39.3-h {+254}Es.                             
+250BK  G 238.14                 (M1)                   3.21                     
+250BK  G 280.88                 (M1)                   2.03                     
+250BK  L 325       2                                                            
+250BKX L XREF=A                                                                 
+250BK  G 233       2  32     4                                                 ?
+250BK cG           Existence of this transition is questionable.                
+250BK  G 249       2  100    16                                                 
+250BK  L 333       2                                                            
+250BKX L XREF=A                                                                 
+250BK  L 341       AP                                                           
+250BKX L XREF=A                                                                 
+250BK  L 369.61      (6+)                                                   K   
+250BKX L XREF=N                                                                 
+250BK cL J         (M1) transitions to (5+) and (6+) members of K=4 band; (6+)  
+250BK2cL is inferred from non-observation of an E2 to the band's (4+) member.   
+250BK  G 239.18                 (M1)                   3.17                     
+250BK  G 291.36                 (M1)                   1.81                     
+250BK  L 406         (6+)                                                       
+250BKX L XREF=N                                                                 
+250BK cL J         K,J|p=6,6+, (p 5/2[642],n 7/2[613]) state was proposed by    
+250BK2cL 1982HoZE from (n,|g), and also by 1982KoZZ in {+254}Es |a decay data   
+250BK3cL which is not included in this evaluation, since it is tentative. It    
+250BK4cL should Be pointed out that an |a transition to this state from the     
+250BK5cL 7,7+ (p 7/2[633],n 7/2[613]) parent is expected to have low hindrance  
+250BK6cL factor.                                                                
+250BK  L 413       3                                                        M   
+250BKX L XREF=A                                                                 
+250BK cL E         calculated from Q(|a)({+254}Es)=6615.7 {I15} and E|a=6105    
+250BK2cL {I2}. This level may Be identical to the state identified in (n,|g)    
+250BK3cL at 406-keV. However, in their preliminary |a decay work, 1982KoZZ      
+250BK4cL observed a new |a to 406-keV level, presumably in addition to an       
+250BK5cL |a to the 413-keV level. If the 6105|a is a doublet,                   
+250BK6cL HF(|a to 406)|>22 which is consistent with an |a transition            
+250BK7cL between the 7+,7(p 7/2[633],n 7/2[613])  parent and a                  
+250BK8cL 6+,6(p 5/2[642],n 7/2[613]) daughter state. |a and |g spectra          
+250BK9cL with higher resolution are needed to resolve whether or not these      
+250BK2cL two levels are the same.                                               
+250BK  G 316       2                                                            
+250BK cG           This |g could deexcite the 406-keV level, if it is also      
+250BK2cG populated by an |a from {+254}Es g.s. An E1 |g transition would Be     
+250BK3cG expected between the J|p,K=6+,6(p 5/2[642],n 7/2[613]) and             
+250BK4cG 5-,5(p 3/2[521],n 7/2[613])  states.                                   
+250BK  L 471       2                                                        M   
+250BKX L XREF=A                                                                 
+250BK  G 304       2                                                            
+250BK  L 526                                                                    
+250BKX L XREF=N                                                                 
+250BK cL J         J|p,K=3-,3 (p 7/2[633],n 1/2[761]) was assigned from         
+250BK2cL (n,|g) data.                                                           
+250BK  L 527       20                                                       M   
+250BKX L XREF=A                                                                 
+250BK DL           This level is probably not the same state observed in (n,g): 
+250BK2DL the n 1/2[761] is a particle state, as identified in 249Cf from (d,p)  
+250BK3DL data. Probability of this quisi-particle state in 254Es gs             
+250BK4DL configuration is probably negligible.                                  
+250BK  L 552                                                                    
+250BKX L XREF=N                                                                 
+250BK cL J         J|p,K=6+,6 (p 7/2[633],n 5/2+[622]) was proposed from        
+250BK2cL (n,|g) data. The same configuration was assigned by 1982KoZZ to a      
+250BK3cL level at 355.3 keV from {+254}Es |a decay.                             
+250BK  L 566                                                                    
+250BKX L XREF=N                                                                 
+250BK cL J         J|p,K=4-,4 (p 7/2[633],n 1/2[761]) was proposed from         
+250BK2cL (n,|g) data.                                                           

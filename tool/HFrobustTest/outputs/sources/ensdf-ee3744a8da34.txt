@@ -1,0 +1,82 @@
+253ES    ADOPTED LEVELS, GAMMAS                                  13NDS    201309
+253ES  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+253ES2 H CUT=1-Mar-2012$                                                        
+253ES DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+253ES  Q -334      3  6352   50 4310   5 6739.16  5    2012WA38                 
+253ES PN                                                                     6  
+253ES c                                                                         
+253ES c  Calculations, compilations:                                            
+253ES c  |a decay: 1996St28, 1993Bu09, 1992Bu03                                 
+253ES c  g.s. properties: 1997Mo25, 1995Mo29, 2004Pa40                          
+253ES c  Pion decay: 1988Io05                                                   
+253ES c  Single-particle Nilsson levels: 1994Cw02, 2004Pa40                     
+253ES c                                                                         
+253ES c  1994Cw02 calculated the following predominant configurations:          
+253ES2c  g.s., 7/2[633]; 0.29 MeV, 3/2[521]; 0.32 MeV, 1/2[521];                
+253ES3c  0.58 MeV, 7/2[514]; 0.62 MeV, 1/2[660]; 0.71 MeV, 5/2[642].            
+253ES c  2004Pa40 have calculated following predominant configurations:         
+253ES2c  0.16 MeV, 1/2[521]; 0.22 MeV, 3/2[521]; 0.48 MeV, 1/2[400];            
+253ES3c  0.50 MeV, 7/2[514]; 0.51 MeV, 5/2[642].                                
+253ES c                                                                         
+253ES c  2008Gu05 (same as 2007Se08) measured T{-1/2} vs temp with isotope      
+253ES2c  implanted in metallic iron and found no temperature dependance of its  
+253ESxc  half-life.                                                             
+253ES  XA253CF B- DECAY                                                         
+253ES  XB253FM EC DECAY                                                         
+253ES  XC257MD A DECAY                                                          
+253ES cL E$From {+257}Md |a decay, unless otherwise noted                       
+253ES CL BAND(A)$Band 7/2+[633].                                                
+253ES2cL A=5.16 keV {I2} (if B=0), E{-0}=-81.3 keV {I3}                         
+253ES CL BAND(B)$Band 3/2-[521].                                                
+253ES2cL A=6.6 keV {I10} (if B=0), E{-0}=81 keV {I6}                            
+253ES CL BAND(C)$Band 7/2-[514].                                                
+253ES2cL A=7.11 keV {I22} (if B=0), E{-0}=259 keV {I3}                          
+253ES cG $All |g data are from {+257}Md |a decay, unless otherwise              
+253ES2cG noted                                                                  
+253ES cL J$From band assignment, unless specifically stated.                    
+253ES  L 0            7/2+             20.47 D   3                          A   
+253ES2 L MOMM1=4.10 7 (2011StZZ,1975Go05)$ MOME2=6.7 8 (2011StZZ,1975Go05)      
+253ES2 L %A=100$ %SF=8.7E-6 3 (2003Au03)                                        
+253ESX L XREF=ABC                                                               
+253ES cL J$7/2 from optical spectroscopy (1970Wo14), |p=+ from                  
+253ES2cL configuration=(|p 7/2[633])                                            
+253ES3cL from |m (1972El21)                                                     
+253ES cL T$from 20.467 d {I24} (1969DrZZ); others: 20.50 d {I17} (1987Po22),    
+253ES2cL 20.31 d {I16} (1982Po13), 20.7 d {I3} (1966Rg01), 20.03 d {I1}         
+253ESxcL (1956Jo09)                                                             
+253ES cL %SF$from %|a/%SF=1.15|*10{+7} {I3} (1965Me02), resulting in            
+253ESxcL T{-1/2}(SF)=6.4|*10{+5} y {I2}                                         
+253ES cL           2000Ho27 have recommended SF half-life as 6.3|*10{+5} y {I2} 
+253ES2cL from weighted average                                                  
+253ES3cL of values given by 1954Fi14, 1956Jo09 and 1965Me02.                    
+253ES4cL Other SF half-life calculations: 2005Re16, 2004Ro01                    
+253ES  L 46.3      3  (9/2+)                                                A   
+253ESX L XREF=AC                                                                
+253ES  G 46.4      1  100                                                       
+253ES cG E$from {+253}Cf |b{+-} decay                                           
+253ES  L   80      8  (11/2+)                                               A   
+253ESX L XREF=C                                                                 
+253ES  L  106      4                                                            
+253ESX L XREF=C                                                                 
+253ES cL J$This level has been observed in the alpha decay of {+257}Md and      
+253ES2cL assigned the Nilsson state 3/2-3/2[521] (1993Mo18). However, there     
+253ES3cL is no evidence of being populated from {+253}Fm (1/2+1/2[620]) as it   
+253ES4cL would be expected. A 106-keV M2 |g-ray transition to the               
+253ES5cL ground state (7/2+7/2[633]) in {+253}Es has not been observed          
+253ESxcL (1967Ah02).                                                            
+253ES  L  139      3  (5/2-)                                                B   
+253ESX L XREF=C                                                                 
+253ES  L  181.3    5   (7/2-)                                               B   
+253ESX L XREF=C                                                                 
+253ES  G  181.3    5   100                                                      
+253ES  L  371.4    1   (7/2-)                                               C   
+253ESX L XREF=C                                                                 
+253ES cL J$|g's to 7/2+ g.s. and (9/2+) level indicate J|p 5/2+,7/2,9/2+.       
+253ES2cL From Nilsson model the most likely single-particle                     
+253ES3cL configuration=(|p 7/2[514]).                                           
+253ES  G  325.1    2    21   3                                                  
+253ES  G  371.4    1   100   5                                                  
+253ES  L  435      2   (9/2-)                                               C   
+253ESX L XREF=C                                                                 
+253ES cL J$band assignment; favored |a decay from {+257}Md.                     
+253ES  G  388.5    15   100                                                     

@@ -1,0 +1,31 @@
+223PA    227NP A DECAY                 1990NI05,1990AN19,1994YE0801NDS    200110
+223PA  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 846 (2001)$CUT=1-May-2001$           
+223PA D  ADDED N RECORD (TWB. 19990323)                                         
+223PA D  MODIFIED BY E. BROWNE (FEBRUARY 2000)                                  
+223PA c  1990Ni05: {+227}Np activity was produced by {+209}Bi({+22}Ne,4n),      
+223PA2c  E=121 MeV, and identified by mass separation and by detection of |a    
+223PA3c  particles with E|a=8010 keV from {+223}Pa, the daughter nucleus. No    
+223PA4c  spontaneous fission activity was observed. Measured E|a. Detector:     
+223PAxc  semi.                                                                  
+223PA c  1990An19, 1994Ye08: {+227}Np activity was produced by                  
+223PA2c  {+209}Bi({+22}Ne,4n), E=106-115 MeV, separated using the recoil        
+223PA3c  separator VASSILISSA, and identified by detection of |a particles with 
+223PA4c  E|a=8.00 {I15} MeV and E|a=8.20 {I15} MeV from {+223}Pa, its daughter  
+223PA5c  nucleus. Measured E|a. Detector: semi.                                 
+223PA c  The 1-min spontaneous fission activity (T{-1/2}=60 s {I5} (1966Ku13),  
+223PA2c  T{-1/2}=51 s {I15} (1976SoZT)), previously assigned to {+228}Np or     
+223PA3c  {+227}Np, probably belongs to {+228}Np.                                
+223PA D            AN ELECTRON CAPTURE DELAYED FISSION ACTIVITY WITH T=1.07 M 3 
+223PA2D  HAS BEEN OBSERVED AND ASSIGNED TO 228NP ON THE BASIS OF CHEMICAL       
+223PA3D  SEPARATION OF NEPTUNIUM, AND ON THE IDENTIFICATION OF DAUGHTER NUCLEI  
+223PA4D  WHICH BELONG TO THE ELECTRON CAPTURE DECAY CHAIN (1990HaZY).           
+223PA cA E         From 1990Ni05                                                
+227NP  P 0.0                            0.51 S   6              7816      14    
+223PA  N                       1.0                                              
+223PA cN BR$|e not observed (<25%) (1994Ye08)                                   
+223PA  L 0.0                           5.1 MS     6                             
+223PA cL T         from adopted levels.                                         
+223PA  A 7677      20                                                           
+223PA cA E$other values: 7680 {I10} (1990An19), 7680 {I20} (1994Ye08).          
+223PA  L 27                                                                     
+223PA  A 7650      20                                                           

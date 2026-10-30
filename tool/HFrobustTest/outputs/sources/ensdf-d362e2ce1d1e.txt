@@ -1,0 +1,496 @@
+220AC    ADOPTED LEVELS, GAMMAS                                  26NDS    202609
+220AC  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220AC2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220AC dG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+220AC dL E$Least-squares fitting is done by GLSC (version 14-Dec-2025)          
+220AC  Q -946      15 5900   50 2939   9 8348    4     2021WA16                 
+220AC cQ $S(2n)=13250 {I60}, S(2p)=7894 {I7}, Q(|e)=3472 {I10} (2021Wa16)       
+220AC c  Assignment: {+208}Pb({+15}N,3n) excit (1970Bo13); parent of {+216}Fr   
+220AC2c  (1970Bo13,1987FuZT)                                                    
+220AC c  Other reactions:                                                       
+220AC c  2025De15: {+208}Pb({+48}Ca,X) E=236 MeV at FLNR. Measured |s.          
+220AC c  2006Ho03: {+209}Bi({+18}O,3n|a|g) E|?90-94 MeV at LNL. Measured E|g,   
+220AC2c  E|a, |a|g-coin, |g(|q).                                                
+220AC c  2005Li17: Be({+238}U,X) E=1 GeV/nucleon at GSI. Measured yields        
+220AC c  2000Pa51: {+208}Pb({+15}N,3n|g) E=78 MeV at Grenoble and Strasbourg.   
+220AC2c  Measured E(ce).                                                        
+220AC c  1999Bo52: {+205}Tl({+22}Ne,X) E<145 MeV. Measured |s                   
+220AC c  Calculations, compilations, systematics:                               
+220AC c  Alternating parity bands: 1993Sc11                                     
+220AC c  Heavy-ion emission: 1985Po14                                           
+220AC c  Level structure, odd-odd actinides: 1994So16                           
+220AC c  Spontaneous emission of heavy ions: 1986Po06                           
+220AC cG E,RI,M$From {+224}Pa |a decay up to 412 level and from                 
+220AC2cG {+209}Bi({+14}C,3n|g) above that. Multipolarity assignments in |a decay
+220AC3cG are deduced by 1996Li05 based on ce data and those in ({+14}C,3n|g) are
+220AC4cG based on |g|g(DCO) and intensity balance, unless otherwise noted       
+220AC cG E(X)$Possible doublet. See details in {+224}Pa |a decay                
+220AC cL $Band assignments are from ({+14}C,3n|g)                               
+220AC cL E$From a least-squares fit to |g-ray energies                          
+220AC cL J$Proposed by 1996Li05 for levels populated in {+224}Pa |a decay, based
+220AC2cL on |g-ray multipolarities, |a hindrance factors, and shell model       
+220AC3cL expectations, unless otherwise noted. Detailed supporting arguments are
+220AC4cL given under comments if available; for levels at x keV and above: the  
+220AC5cL assignments are from ({+14}C,3n|g) data set (1991Sc19) and are based on
+220AC6cL |g|g, |g multipolarity and band structure.                             
+220AC cL E(G)$The authors of 1991Sc19 suggest that J|p of level at x keV is     
+220AC2cL relatively high, and thus this level is not the g.s. of {+220}Ac       
+220AC3cL (x|=0). This suggestion is based on the observation that the difference
+220AC4cL between the highest and lowest observed states is only 18 spin units,  
+220AC5cL whereas much higher spins have been reached with this reaction in other
+220AC6cL nuclei. Also the |g rays seen in {+224}Pa |a decay were not seen in    
+220AC7cL this study.                                                            
+220AC CL BAND(A)$Band based on 0+x level, with parity unknown. Note that        
+220AC2cL parities of all other bands as indicated by + and - are only relative  
+220AC3cL parities with respective to the parity of 0.0+x level, but not actual  
+220AC4cL signs of their real parities.                                          
+220AC CL BAND(B)$Band based on 625+x level, relative parity=-.                  
+220AC CL BAND(C)$Band based on 59+x level, relative parity=+.                   
+220AC CL BAND(D)$Band based on 507+x level, relative parity=-.                  
+220AC CL BAND(E)$Band based on 555+x level, relative parity=+.                  
+220AC CL BAND(F)$Band based on 779+x level, relative parity=-.                  
+220AC  XA224PA A DECAY                                                          
+220AC  XB209BI(14C,3NG)                                                         
+220AC PN                                                                     6  
+220AC  L 0.0          (3-)             26.4 MS   2                              
+220AC2 L %A=100                                                                 
+220ACX L XREF=A                                                                 
+220AC cL J$proposed by 1996Li05, based on quadrupole-octupole configurations    
+220AC2cL derived from |p(h9/2) |n(i11/2) subshells.                             
+220AC cL T$weighted average of 26.4 ms {I2} (1990An19) and 26.1 ms {I5}         
+220AC2cL (1970Bo13)                                                             
+220AC cL $Calculated %|e+%|b{++}=5|*10{+-4}, from gross |b-decay strength       
+220AC2cL function (1973Ta30)                                                    
+220AC  L 13.78     13 (2-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$139.2|g M1 from 153, (2-) level and 170.5|g M1 from 184, (3-) level; 
+220AC2cL 57.8|g from 71.6, (1-) level is most likely M1 based on intensity      
+220AC3cL balance in {+224}Pa |a decay                                           
+220AC  G 13.8                                                                  S
+220AC  L 28.00     10                                                          ?
+220ACX L XREF=A                                                                 
+220AC cL E$Level introduced by evaluators based on |a group reported by 1987FuZT
+220AC2cL in {+224}Pa |a decay. See details in {+224}Pa |a decay                 
+220AC  G 28.0      1  100      [E1]                    3.34   6             X   
+220ACS G  LC=2.50 4$MC=0.634 11                                                 
+220ACS G  NC=0.1631 28$OC=0.0340 6$PC=0.00487 8$QC=0.0001637 26                 
+220AC cG M$E1 is assumed by the evaluators based on intensity balance in        
+220AC2cG {+224}Pa |a decay, considering that either M1 or E2 would give a very  
+220AC3cG large |a(total) value and thus a large I(|g+ce)(28|g) indicating a     
+220AC4cG strong decay to 28-keV level which is inconsistent with observation in 
+220AC5cG 1996Li05                                                               
+220AC  L 40.69     10 (4-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$40.7|g M1 to (3-) g.s.; 28.0|g M1 from 69, (5-) level                
+220AC  G 40.7      1  100      M1                      47.5   8                 
+220ACS G  LC=36.0 6$MC=8.64 14                                                  
+220ACS G  NC=2.29 4$OC=0.533 8$PC=0.0987 16$QC=0.00878 14                       
+220AC cG M$Reported as M1 in 1996Li05. Evaluators adopted M1+E2 for             
+220AC2cG transition-intensity balance purposes.                                 
+220AC  L 68.71     13 (5-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$likely favored |a decay (HF=5.6) from (5-) parent in {+224}Pa |a     
+220AC2cL decay                                                                  
+220AC  G 28.0      1  100      M1                      143.4  25            X   
+220ACS G  LC=108.4 19$MC=26.1 5                                                 
+220ACS G  NC=6.93 12$OC=1.611 28$PC=0.298 5$QC=0.0266 5                         
+220AC  L 71.56     20 (1-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$Proposed by 1996Li05, but conclusive argument for the spin assignment
+220AC2cL seems unclear. Assignments of some other levels are made partially     
+220AC3cL based on (1-) assignment of this level as noted. |p=(-) is from 81.5|g 
+220AC4cL M1 from 153 level with |p=(-)                                          
+220AC  G 57.8      2   100                                                      
+220AC  L 108.51    18 (3-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$Proposed by 1996Li05, but conclusive argument for the spin assignment
+220AC2cL seems unclear. |p=(-) from 67.8|g M1 to (4-)                           
+220AC  G 67.8      2  100      M1                      10.63  18                
+220ACS G  LC=8.05 13$MC=1.931 32                                                
+220ACS G  NC=0.512 8$OC=0.1191 20$PC=0.0220 4$QC=0.001959 32                    
+220AC  L 113.33    19 (1-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$113.3|g (E2) to (3-) and possible 39.5|g from 153, (2-) level        
+220AC  G 113.3     2           (E2)                    6.07   10                
+220ACS G  KC=0.266 4$LC=4.25 7$MC=1.163 19                                      
+220ACS G  NC=0.309 5$OC=0.0675 11$PC=0.01059 17$QC=5.02E-5 8                    
+220AC  L 145.56    28                                                          ?
+220ACX L XREF=A                                                                 
+220AC  G 74.0      2  100                                                      ?
+220AC  L 150.18    14 (4-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$Proposed by 1996Li05, but conclusive argument for the spin assignment
+220AC2cL seems unclear. |p=(-) from 109.5|g M1 to (4-)                          
+220AC  G 109.5     1  100      M1                      13.07  19                
+220ACS G  KC=10.43 15$LC=2.000 28$MC=0.480 7                                    
+220ACS G  NC=0.1272 18$OC=0.0296 4$PC=0.00547 8$QC=0.000486 7                   
+220AC  L 153.00    10 (2-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$153.0|g M1 to (3-) g.s. and 81.5|g M1 to 71.6 level with J=(1)       
+220AC  G 39.5                                                                  ?
+220AC  G 81.5      3    28   LEM1                      6.22   11                
+220ACS G  LC=4.71 8$MC=1.129 20                                                 
+220ACS G  NC=0.300 5$OC=0.0697 12$PC=0.01288 23$QC=0.001145 20                  
+220AC  G 139.2     1    45   4 M1                      6.65   9                 
+220ACS G  KC=5.32 8$LC=1.003 14$MC=0.2406 34                                    
+220ACS G  NC=0.0638 9$OC=0.01484 21$PC=0.00275 4$QC=0.0002434 34                
+220AC  G 153.0     1   100   7 M1                      5.08   7                 
+220ACS G  KC=4.07 6$LC=0.766 11$MC=0.1836 26                                    
+220ACS G  NC=0.0487 7$OC=0.01133 16$PC=0.002095 30$QC=0.0001857 26              
+220AC  L 184.21    16 (3-)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$Proposed by 1996Li05, but conclusive argument for the spin assignment
+220AC2cL seems unclear. Assignments of some other levels are made partially     
+220AC3cL based on (3-) assignment of this level as noted. |p=- from 184.2|g M1  
+220AC4cL to (3-) g.s.                                                           
+220AC  G 170.5     3    30   5 M1                      3.74   6                 
+220ACS G  KC=3.00 4$LC=0.563 8$MC=0.1349 20                                     
+220ACS G  NC=0.0358 5$OC=0.00832 12$PC=0.001539 23$QC=0.0001364 20              
+220AC  G 184.2     2   100   8 M1                      3.01   4                 
+220ACS G  KC=2.412 35$LC=0.452 6$MC=0.1083 16                                   
+220ACS G  NC=0.0287 4$OC=0.00668 10$PC=0.001236 18$QC=0.0001095 16              
+220AC  L 233.81    17 (5+)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$Proposed by 1996Li05, but conclusive argument for the spin assignment
+220AC2cL seems unclear. |p=(+) is from 165.1|g E1 to 69, (5-) level             
+220AC  G 165.1     1  100      E1                      0.1458 21                
+220ACS G  KC=0.1150 16$LC=0.02338 33$MC=0.00563 8                               
+220ACS G  NC=0.001476 21$OC=0.000333 5$PC=5.76E-5 8$QC=3.64E-6 5                
+220AC  L 263.22    15 (4+)                                                      
+220ACX L XREF=A                                                                 
+220AC cL J$113.1|g E1 to 150, (4-) level and 194.5|g E1 to 69, (5-) level       
+220AC  G 113.1     2    32   3 E1                      0.360  5                 
+220ACS G  KC=0.278 4$LC=0.0623 9$MC=0.01506 22                                  
+220ACS G  NC=0.00394 6$OC=0.000880 13$PC=0.0001488 22$QC=8.47E-6 12             
+220AC  G 154.7     2    18   4                                                  
+220AC  G 194.5     1   100   6 E1                      0.0986 14                
+220ACS G  KC=0.0782 11$LC=0.01544 22$MC=0.00371 5                               
+220ACS G  NC=0.000974 14$OC=0.0002204 31$PC=3.84E-5 5$QC=2.53E-6 4              
+220AC  L 312.0     7                                                            
+220ACX L XREF=A                                                                 
+220AC  G 298.2     7  100                                                       
+220AC  L 335.18    20 (2-,3,4-)                                                 
+220ACX L XREF=A                                                                 
+220AC cL J$proposed by the evaluators based on 182.0|g to (2-), 294.7|g to (4-) 
+220AC  G 151.0     2   100   30                                                 
+220AC  G 182.0     4    60   AP                                                 
+220AC  G 294.7     5    50   AP                                                 
+220AC  G 335.0     7    24   AP                                                 
+220AC  L 356.14    24 (3-,4,5-)                                                 
+220ACX L XREF=A                                                                 
+220AC cL J$proposed by the evaluators based on 247.6|g to (3-), 315.8|g to (4-) 
+220AC  G 247.6     3    86   24                                                 
+220AC  G 287.4     3   100   24                                                 
+220AC  G 315.8     7    19   AP                                                 
+220AC  L 411.9     7                                                            
+220ACX L XREF=A                                                                 
+220AC  G 398.0     10  100   AP                                                 
+220AC  G 412.0     10  100   AP                                                 
+220AC  L 0.0+X          J                                                   A   
+220AC DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+220ACX L XREF=B                                                                 
+220AC2 L FLAG=G                                                                 
+220AC cL $Bandhead of high spin structure reported 1991Sc19.                    
+220AC  L 59.00+X   20   J+1                                                 C   
+220ACX L XREF=B                                                                 
+220AC  G 59.0      2  100      M1                      15.97  27                
+220ACS G  LC=12.08 21$MC=2.90 5                                                 
+220ACS G  NC=0.769 13$OC=0.1790 31$PC=0.0331 6$QC=0.00294 5                     
+220AC  L 136.24+X  25   J+2                                                 A   
+220ACX L XREF=B                                                                 
+220AC  G 77.3      2  100      M1                      7.25   12                
+220ACS G  LC=5.49 9$MC=1.317 21                                                 
+220ACS G  NC=0.349 6$OC=0.0813 13$PC=0.01503 24$QC=0.001336 21                  
+220AC  L 305.07+X  25   J+3                                                 C   
+220ACX L XREF=B                                                                 
+220AC  G 168.9     2   56.5  13M1+E2                   2.5    13                
+220ACS G  KC=1.6 14$LC=0.64 6$MC=0.165 26                                       
+220ACS G  NC=0.044 7$OC=0.0098 13$PC=0.00167 10$QC=8.E-5 6                      
+220AC  G 246.0     2  100.0  13 (E2)                   0.301  4                 
+220ACS G  KC=0.1073 15$LC=0.1426 21$MC=0.0384 6                                 
+220ACS G  NC=0.01022 15$OC=0.002250 32$PC=0.000363 5$QC=5.90E-6 8               
+220AC  L 401.33+X  27   J+4                                                 A   
+220ACX L XREF=B                                                                 
+220AC  G 96.3      2   21.5  21  M1(+E2)               8.1    43                
+220ACS G  LC=6.0 31$MC=1.6 9                                                    
+220ACS G  NC=0.42 24$OC=0.09 5$PC=0.015 7$QC=4.0E-4 31                          
+220AC  G 265.0     2  100.0  21E2                      0.2360 34                
+220ACS G  KC=0.0924 13$LC=0.1057 15$MC=0.0284 4                                 
+220ACS G  NC=0.00755 11$OC=0.001665 24$PC=0.000270 4$QC=4.94E-6 7               
+220AC  L 507.13+X  29   J+4                                                 D   
+220ACX L XREF=B                                                                 
+220AC  G 202.1     2  100      E1                      0.0900 13                
+220ACS G  KC=0.0715 10$LC=0.01403 20$MC=0.00337 5                               
+220ACS G  NC=0.000885 13$OC=0.0002004 28$PC=3.50E-5 5$QC=2.327E-6 33            
+220AC  L 554.65+X  28   J+4                                                 E   
+220ACX L XREF=B                                                                 
+220AC  G 249.5     2   85    8 M1                      1.287  18                
+220ACS G  KC=1.033 15$LC=0.1926 27$MC=0.0461 7                                  
+220ACS G  NC=0.01223 17$OC=0.00284 4$PC=0.000526 7$QC=4.66E-5 7                 
+220AC  G 418.5     2  100    8                                                  
+220AC  L 614.04+X  28   J+5                                                 C   
+220ACX L XREF=B                                                                 
+220AC  G 106.9     2  100.0  13  E1                    0.0955 14                
+220ACS G  LC=0.0723 11$MC=0.01748 26                                            
+220ACS G  NC=0.00457 7$OC=0.001019 15$PC=0.0001716 25$QC=9.61E-6 14             
+220AC  G 212.7     2   23.9  9   M1(+E2)               1.3    8                 
+220ACS G  KC=0.9 7$LC=0.281 21$MC=0.0713 13                                     
+220ACS G  NC=0.01895 33$OC=0.00429 18$PC=0.00074 8$QC=4.1E-5 32                 
+220AC  G 309.0     2   57.2  13 (E2)                   0.1464 21                
+220ACS G  KC=0.0677 10$LC=0.0581 8$MC=0.01547 22                                
+220ACS G  NC=0.00412 6$OC=0.000911 13$PC=0.0001490 21$QC=3.45E-6 5              
+220AC  L 625.31+X  30   J+5                                                 B   
+220ACX L XREF=B                                                                 
+220AC  G 224.0     2  100      E1                      0.0707 10                
+220ACS G  KC=0.0563 8$LC=0.01087 15$MC=0.00261 4                                
+220ACS G  NC=0.000685 10$OC=0.0001555 22$PC=2.73E-5 4$QC=1.857E-6 26            
+220AC  L 731.08+X  29   J+6                                                 A   
+220ACX L XREF=B                                                                 
+220AC  G 105.9     2   68    3 E1                      0.0979 15                
+220ACS G  LC=0.0741 11$MC=0.01792 27                                            
+220ACS G  NC=0.00469 7$OC=0.001045 16$PC=0.0001758 26$QC=9.81E-6 14             
+220AC  G 117.1     2   13    7 M1                      10.86  16                
+220ACS G  KC=8.69 13$LC=1.648 24$MC=0.395 6                                     
+220ACS G  NC=0.1049 16$OC=0.0244 4$PC=0.00451 7$QC=0.000400 6                   
+220AC  G 329.7     2  100    5 (E2)                    0.1210 17                
+220ACS G  KC=0.0594 8$LC=0.0455 6$MC=0.01207 17                                 
+220ACS G  NC=0.00321 5$OC=0.000712 10$PC=0.0001170 17$QC=2.98E-6 4              
+220AC  L 774.00+X  29   J+6                                                 D   
+220ACX L XREF=B                                                                 
+220AC  G 159.9     2  100.0  12E1                      0.1575 23                
+220ACS G  KC=0.1240 18$LC=0.0254 4$MC=0.00611 9                                 
+220ACS G  NC=0.001602 23$OC=0.000361 5$PC=6.23E-5 9$QC=3.91E-6 6                
+220AC  G 266.9     2   17.6  12 (E2)                   0.2306 33                
+220ACS G  KC=0.0911 13$LC=0.1027 15$MC=0.0276 4                                 
+220ACS G  NC=0.00734 11$OC=0.001618 23$PC=0.000262 4$QC=4.86E-6 7               
+220AC  L 779.15+X  33   J+5                                                 F   
+220ACX L XREF=B                                                                 
+220AC  G 224.5     2  100                                                       
+220AC  L 887.05+X  33   J+6                                                 E   
+220ACX L XREF=B                                                                 
+220AC  G 107.9     2  100    4   E1                    0.412  2                 
+220AC  G 332.4     2   70    4  (E2)                   0.1181 17                
+220ACS G  KC=0.0584 8$LC=0.0441 6$MC=0.01171 17                                 
+220ACS G  NC=0.00311 4$OC=0.000690 10$PC=0.0001135 16$QC=2.93E-6 4              
+220AC  L 914.14+X  30   J+7                                                 B   
+220ACX L XREF=B                                                                 
+220AC  G 140.2     2    5.7  18M1                      6.52   9                 
+220ACS G  KC=5.22 8$LC=0.983 14$MC=0.2357 34                                    
+220ACS G  NC=0.0625 9$OC=0.01454 21$PC=0.00269 4$QC=0.0002385 35                
+220AC  G 183.1     2  100    3 E1                      0.1138 16                
+220ACS G  KC=0.0901 13$LC=0.01798 26$MC=0.00432 6                               
+220ACS G  NC=0.001134 16$OC=0.000256 4$PC=4.46E-5 6$QC=2.89E-6 4                
+220AC  G 288.7     2   21.5  24                                                 
+220AC  L 973.75+X  29   J+7                                                 C   
+220ACX L XREF=B                                                                 
+220AC  G 199.7     2  100.0  20E1                      0.0926 13                
+220ACS G  KC=0.0735 10$LC=0.01446 21$MC=0.00347 5                               
+220ACS G  NC=0.000911 13$OC=0.0002064 29$PC=3.60E-5 5$QC=2.389E-6 34            
+220AC  G 242.7     2   16    LT                                                ?
+220AC  G 359.7     2   41.8  20 (E2)                   0.0945 13                
+220ACS G  KC=0.0498 7$LC=0.0330 5$MC=0.00872 12                                 
+220ACS G  NC=0.002320 33$OC=0.000515 7$PC=8.52E-5 12$QC=2.454E-6 34             
+220AC  L 1103.41+X 30   J+8                                                 D   
+220ACX L XREF=B                                                                 
+220AC  G 129.7     2  100    5 E1                      0.260  4                 
+220ACS G  KC=0.2029 29$LC=0.0436 6$MC=0.01051 15                                
+220ACS G  NC=0.00275 4$OC=0.000617 9$PC=0.0001053 15$QC=6.24E-6 9               
+220AC  G 189.3     2   19    3                                              @   
+220AC  G 329.4     2   38    5  (E2)                   0.1213 17                
+220ACS G  KC=0.0595 8$LC=0.0456 6$MC=0.01212 17                                 
+220ACS G  NC=0.00322 5$OC=0.000714 10$PC=0.0001174 17$QC=2.99E-6 4              
+220AC  L 1113.91+X 30   J+8                                                 A   
+220ACX L XREF=B                                                                 
+220AC  G 140.2     3    2.4  11M1                      6.52   10                
+220ACS G  KC=5.22 8$LC=0.983 15$MC=0.236 4                                      
+220ACS G  NC=0.0625 10$OC=0.01454 22$PC=0.00269 4$QC=0.000238 4                 
+220AC  G 199.8     2  100.0  23E1                      0.0925 13                
+220ACS G  KC=0.0734 10$LC=0.01444 21$MC=0.00347 5                               
+220ACS G  NC=0.000910 13$OC=0.0002061 29$PC=3.60E-5 5$QC=2.386E-6 34            
+220AC  G 382.9     2   32.7  19 (E2)                   0.0796 11                
+220ACS G  KC=0.0440 6$LC=0.0264 4$MC=0.00695 10                                 
+220ACS G  NC=0.001848 26$OC=0.000411 6$PC=6.83E-5 10$QC=2.138E-6 30             
+220AC  L 1120.1+X  4    J+7                                                 F   
+220ACX L XREF=B                                                                 
+220AC  G 233.0     2  100      E1                      0.0645 9                 
+220ACS G  KC=0.0514 7$LC=0.00987 14$MC=0.002365 33                              
+220ACS G  NC=0.000622 9$OC=0.0001412 20$PC=2.482E-5 35$QC=1.705E-6 24           
+220AC  L 1266.10+X 31   J+9                                                 B   
+220ACX L XREF=B                                                                 
+220AC  G 152.2     2  100    3 E1                      0.1773 25                
+220ACS G  KC=0.1393 20$LC=0.0288 4$MC=0.006936 99                               
+220ACS G  NC=0.001819 26$OC=0.000409 6$PC=7.05E-5 10$QC=4.36E-6 6               
+220AC  G 162.7     2    9.9  19(M1)                    4.27   6                 
+220ACS G  KC=3.42 5$LC=0.643 9$MC=0.1541 22                                     
+220ACS G  NC=0.0409 6$OC=0.00951 14$PC=0.001758 25$QC=0.0001558 22              
+220AC  G 351.9     2   45    3 (E2)                    0.1004 14                
+220ACS G  KC=0.0521 7$LC=0.0358 5$MC=0.00946 13                                 
+220ACS G  NC=0.00252 4$OC=0.000558 8$PC=9.22E-5 13$QC=2.58E-6 4                 
+220AC  L 1267.8+X  4    J+8                                                 E   
+220ACX L XREF=B                                                                 
+220AC  G 147.7     2  100    6 E1                      0.1906 27                
+220ACS G  KC=0.1495 21$LC=0.0311 4$MC=0.00750 11                                
+220ACS G  NC=0.001965 28$OC=0.000442 6$PC=7.60E-5 11$QC=4.67E-6 7               
+220AC  G 380.8     2   96    6 (E2)                    0.0808 11                
+220ACS G  KC=0.0444 6$LC=0.0269 4$MC=0.00709 10                                 
+220ACS G  NC=0.001885 27$OC=0.000419 6$PC=6.97E-5 10$QC=2.164E-6 30             
+220AC  L 1372.96+X 31   J+9                                                 C   
+220ACX L XREF=B                                                                 
+220AC  G 259.2     2    8.2  18M1                      1.158  16                
+220ACS G  KC=0.929 13$LC=0.1731 25$MC=0.0415 6                                  
+220ACS G  NC=0.01100 16$OC=0.00256 4$PC=0.000473 7$QC=4.19E-5 6                 
+220AC  G 269.6     2  100.0  23  D                                              
+220AC  G 399.1     2   15.5  18 (E2)                   0.0713 10                
+220ACS G  KC=0.0405 6$LC=0.02284 32$MC=0.00599 8                                
+220ACS G  NC=0.001593 22$OC=0.000355 5$PC=5.92E-5 8$QC=1.953E-6 27              
+220AC  L 1485.2+X  4    J+9                                                 F   
+220ACX L XREF=B                                                                 
+220AC  G 217.4     2  100    9 E1                      0.0758 11                
+220ACS G  KC=0.0604 9$LC=0.01170 17$MC=0.00281 4                                
+220ACS G  NC=0.000738 10$OC=0.0001673 24$PC=2.93E-5 4$QC=1.983E-6 28            
+220AC  G 365.0     2   19    9                                                  
+220AC  L 1488.92+X 31   J+10                                                D   
+220ACX L XREF=B                                                                 
+220AC  G 116.0     2   56    4 E1                      0.340  5                 
+220ACS G  KC=0.263 4$LC=0.0583 9$MC=0.01409 21                                  
+220ACS G  NC=0.00369 5$OC=0.000824 12$PC=0.0001396 20$QC=8.01E-6 12             
+220AC  G 222.8     2   29    5 (M1)                    1.765  25                
+220ACS G  KC=1.415 20$LC=0.264 4$MC=0.0633 9                                    
+220ACS G  NC=0.01680 24$OC=0.00391 6$PC=0.000723 10$QC=6.40E-5 9                
+220AC  G 385.5     2  100    5 (E2)                    0.0782 11                
+220ACS G  KC=0.0434 6$LC=0.0258 4$MC=0.00678 10                                 
+220ACS G  NC=0.001803 25$OC=0.000401 6$PC=6.67E-5 9$QC=2.107E-6 30              
+220AC  L 1534.53+X 32   J+10                                                A   
+220ACX L XREF=B                                                                 
+220AC  G 268.4     2  100    5 E1                      0.0465 7                 
+220ACS G  KC=0.0373 5$LC=0.00701 10$MC=0.001677 24                              
+220ACS G  NC=0.000441 6$OC=0.0001004 14$PC=1.776E-5 25$QC=1.257E-6 18           
+220AC  G 420.6     2   18    5 (E2)                    0.0622 9                 
+220ACS G  KC=0.0365 5$LC=0.01907 27$MC=0.00499 7                                
+220ACS G  NC=0.001325 19$OC=0.000296 4$PC=4.95E-5 7$QC=1.744E-6 24              
+220AC  L 1678.12+X 32   J+11                                                B   
+220ACX L XREF=B                                                                 
+220AC  G 143.6     2   89    5 E1                      0.2039 29                
+220ACS G  KC=0.1597 23$LC=0.0335 5$MC=0.00806 12                                
+220ACS G  NC=0.002113 31$OC=0.000475 7$PC=8.15E-5 12$QC=4.97E-6 7               
+220AC  G 189.3     2   13    4 M1+E2                   1.8    10            @   
+220ACS G  KC=1.2 10$LC=0.423 8$MC=0.108 8                                       
+220ACS G  NC=0.0288 22$OC=0.00648 31$PC=0.00111 4$QC=6.E-5 5                    
+220AC  G 412.0     2  100    5 (E2)                    0.0656 9                 
+220ACS G  KC=0.0380 5$LC=0.02047 29$MC=0.00536 8                                
+220ACS G  NC=0.001424 20$OC=0.000318 4$PC=5.31E-5 7$QC=1.823E-6 26              
+220AC  L 1704.3+X  4    J+10                                                E   
+220ACX L XREF=B                                                                 
+220AC  G 219.1     2  100    6 E1                      0.0744 11                
+220ACS G  KC=0.0593 8$LC=0.01148 16$MC=0.00275 4                                
+220ACS G  NC=0.000724 10$OC=0.0001641 23$PC=2.88E-5 4$QC=1.949E-6 28            
+220AC  G 436.5     2   50    6                                                  
+220AC  L 1790.20+X 32   J+11                                                C   
+220ACX L XREF=B                                                                 
+220AC  G 256                                                                   ?
+220AC  G 301.2     2  100    3 (E1)                    0.0358 5                 
+220ACS G  KC=0.0288 4$LC=0.00533 8$MC=0.001274 18                               
+220ACS G  NC=0.000335 5$OC=7.65E-5 11$PC=1.359E-5 19$QC=9.84E-7 14              
+220AC  G 417.3     2   17    3                                                  
+220AC  L 1883.6+X  4    J+11                                                F   
+220ACX L XREF=B                                                                 
+220AC  G 179.3     2  100    7 E1                      0.1197 17                
+220ACS G  KC=0.0947 13$LC=0.01896 27$MC=0.00456 7                               
+220ACS G  NC=0.001196 17$OC=0.000270 4$PC=4.69E-5 7$QC=3.03E-6 4                
+220AC  G 398.4     2   72    7                                                  
+220AC  L 1935.15+X 33   J+12                                                D   
+220ACX L XREF=B                                                                 
+220AC  G 144.9     2   54    3 E1                      0.1996 29                
+220ACS G  KC=0.1564 22$LC=0.0327 5$MC=0.00788 11                                
+220ACS G  NC=0.002065 30$OC=0.000464 7$PC=7.97E-5 11$QC=4.87E-6 7               
+220AC  G 257.2     2   20.1  25M1                      1.183  17                
+220ACS G  KC=0.950 13$LC=0.1769 25$MC=0.0424 6                                  
+220ACS G  NC=0.01124 16$OC=0.00261 4$PC=0.000483 7$QC=4.28E-5 6                 
+220AC  G 446.2     2  100    4 (E2)                    0.0536 8                 
+220ACS G  KC=0.0325 5$LC=0.01564 22$MC=0.00407 6                                
+220ACS G  NC=0.001082 15$OC=0.0002419 34$PC=4.07E-5 6$QC=1.537E-6 22            
+220AC  L 1974.00+X 33   J+12                                                A   
+220ACX L XREF=B                                                                 
+220AC  G 295.8     2  100    4 E1                      0.0373 5                 
+220ACS G  KC=0.0300 4$LC=0.00556 8$MC=0.001330 19                               
+220ACS G  NC=0.000350 5$OC=7.98E-5 11$PC=1.417E-5 20$QC=1.022E-6 14             
+220AC  G 439.4     2   23    4                                                  
+220AC  L 2145.92+X 34   J+13                                                B   
+220ACX L XREF=B                                                                 
+220AC  G 171.9     2   59    4 E1                      0.1324 19                
+220ACS G  KC=0.1045 15$LC=0.02110 30$MC=0.00507 7                               
+220ACS G  NC=0.001331 19$OC=0.000301 4$PC=5.21E-5 7$QC=3.33E-6 5                
+220AC  G 210.8     3   21    LT                                                 
+220AC  G 467.8     2  100    4 (E2)                    0.0477 7                 
+220ACS G  KC=0.0296 4$LC=0.01339 19$MC=0.00347 5                                
+220ACS G  NC=0.000923 13$OC=0.0002067 29$PC=3.49E-5 5$QC=1.391E-6 20            
+220AC  L 2164.8+X  4    J+(12)                                              E   
+220ACX L XREF=B                                                                 
+220AC  G 281.0     2  100    13                                                 
+220AC  G 460.6     2   45    13                                                 
+220AC  L 2223.64+X 34    J+13                                               C   
+220ACX L XREF=B                                                                 
+220AC  G 288.5     2  100    5 E1                      0.0395 6                 
+220ACS G  KC=0.0317 4$LC=0.00590 8$MC=0.001411 20                               
+220ACS G  NC=0.000371 5$OC=8.46E-5 12$PC=1.501E-5 21$QC=1.078E-6 15             
+220AC  G 433.5     2   22    5                                                  
+220AC  L 2339.6+X  4    J+(13)                                              F   
+220ACX L XREF=B                                                                 
+220AC  G 174.8     2   67    17                                                 
+220AC  G 456.1     2  100    17                                                 
+220AC  L 2416.19+X 34   J+14                                                D   
+220ACX L XREF=B                                                                 
+220AC  G 192.6     2   79    7 E1                      0.1009 14                
+220ACS G  KC=0.0800 11$LC=0.01583 23$MC=0.00380 5                               
+220ACS G  NC=0.000998 14$OC=0.0002259 32$PC=3.94E-5 6$QC=2.59E-6 4              
+220AC  G 270.0     5   18    LT                                                 
+220AC  G 481.1     2  100    7 (E2)                    0.0445 6                 
+220ACS G  KC=0.0281 4$LC=0.01223 17$MC=0.00317 4                                
+220ACS G  NC=0.000841 12$OC=0.0001885 27$PC=3.19E-5 4$QC=1.312E-6 18            
+220AC  L 2431.33+X 35   J+14                                                A   
+220ACX L XREF=B                                                                 
+220AC  G 285.4     2   61    20E1                      0.0405 6                 
+220ACS G  KC=0.0325 5$LC=0.00606 9$MC=0.001448 20                               
+220ACS G  NC=0.000381 5$OC=8.68E-5 12$PC=1.539E-5 22$QC=1.103E-6 16             
+220AC  G 457.2     2  100    20                                                 
+220AC  L 2637.0+X  4    J+(14)                                              E   
+220ACX L XREF=B                                                                 
+220AC  G 297.4     2                                                            
+220AC  G 472.0     2                                                            
+220AC  L 2649.2+X  4    J+(15)                                              B   
+220ACX L XREF=B                                                                 
+220AC  G 217.8     2  100    9                                                  
+220AC  G 233.2     3   27    9                                                  
+220AC  G 503.3     2   93    9                                                  
+220AC  L 2686.9+X  4    J+(15)                                              C   
+220ACX L XREF=B                                                                 
+220AC  G 270.7     2  100    5                                                  
+220AC  G 463.3     2   20    5                                                  
+220AC  L 2822.3+X  5    J+(15)                                              F   
+220ACX L XREF=B                                                                 
+220AC  G 185.0     3                                                            
+220AC  G 482.9     2                                                            
+220AC  L 2909.9+X  4    J+(16)                                              A   
+220ACX L XREF=B                                                                 
+220AC  G 260.8     2  100    16(E1)                    0.0497 7                 
+220ACS G  KC=0.0398 6$LC=0.00751 11$MC=0.001797 25                              
+220ACS G  NC=0.000473 7$OC=0.0001076 15$PC=1.900E-5 27$QC=1.336E-6 19           
+220AC  G 478.5     2   55    16                                                 
+220AC  L 2916.5+X  4    J+(16)                                              D   
+220ACX L XREF=B                                                                 
+220AC  G 229.5     2  100    16                                                 
+220AC  G 500.3     2  100    16(E2)                    0.0406 6                 
+220ACS G  KC=0.0260 4$LC=0.01079 15$MC=0.00279 4                                
+220ACS G  NC=0.000740 10$OC=0.0001661 23$PC=2.82E-5 4$QC=1.209E-6 17            
+220AC  L 3175.9+X  4    J+(17)                                              C   
+220ACX L XREF=B                                                                 
+220AC  G 259.3     2                                                            
+220AC  G 489.1     2                                                            
+220AC  L 3180.6+X  4    J+(17)                                              B   
+220ACX L XREF=B                                                                 
+220AC  G 270.3     5                                                            
+220AC  G 531.4     2                                                            
+220AC  L 3405.6+X  4    J+(18)                                              A   
+220ACX L XREF=B                                                                 
+220AC  G 224.7     4                                                            
+220AC  G 495.8     2                                                            

@@ -1,0 +1,41 @@
+220PA    224NP A DECAY (38 US)         2018HU13                  26NDS    202609
+220PA  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220PA2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220PA c  Adapted from the XUNDL dataset for 2018Hu13, compiled by B. Singh      
+220PA2c  (McMaster University) on November 18, 2018                             
+220PA c  Identification of new {+224}Np nuclide in {+187}Re({+40}Ar,3n) reaction
+220PA2c  through the observation of six correlated |a-decay chains, starting    
+220PA3c  from {+224}Np: {+224}Np to {+220}Pa to {+216}Ac to {+212}Fr            
+220PA c  2018Hu13: {+224}Np ions were produced via {+187}Re({+40}Ar,3n) with 188
+220PA2c  MeV {+40}Ar beam from the Sector-Focusing Cyclotron (SFC) of the Heavy 
+220PA3c  Ion Research Facility in Lanzhou (HIRFL) on an enriched target of      
+220PA4c  {+187}Re, 460-|mg/cm{+2} thick. Evaporation residues were identified   
+220PA5c  and separated using SHANS separator, and implanted into a 300-|mm      
+220PA6c  double-sided silicon strip detector (DSSD). Measured E|a, I|a,         
+220PA7c  (evaporation residue)|a time correlations using recoil-decay tagging   
+220PA8c  method. Deduced levels, T{-1/2}.                                       
+220PA cL E$From 2018Hu13                                                        
+220PA cL T$From implant-|a(t) in 2018Hu13                                       
+220PA cA E,IA$From 2018Hu13. Systematic uncertainty of 15 keV in energy is      
+220PA2cA included in the quoted E|a values.                                     
+224NP  P   0                             38 US   +26-11          9329     30    
+224NP cP E$Assumed that the observed |a activity is emanated from the decay of  
+224NP2cP the ground state of {+224}Np                                           
+224NP cP J$2- from systematics in 2021Ko07                                      
+224NP cP T$From implant|g(t) in 2018Hu13                                        
+224NP cP QP$From 2021Wa16                                                       
+220PA  N                        1.0                                             
+220PA  L  0           (1-)                                                      
+220PA cL J$from Adopted Levels                                                  
+220PA  L  34       26                   0.31 US  +25-10                      M1 
+220PA2 L %A AP 100                                                              
+220PA cL T$from original value of 308 ns {I+250-95} from correlated |a events   
+220PA2cL (2018Hu13)                                                             
+220PA  A  9137     20  83    51                                                 
+220PA cA $Q(|a)=9303 keV {I20} for decay to the 34-keV level (2018Hu13)         
+220PA  L  297      65                   0.07 US  +33-3                       M2 
+220PA2 L %A AP 100                                                              
+220PA cL T$from original value of 69 ns {I+330-30} from correlated |a events    
+220PA2cL (2018Hu13)                                                             
+220PA  A  8868     62  17    18                                                 
+220PA cA $Q(|a)=9029 keV {I63} for decay to the 297-keV level (2018Hu13)        

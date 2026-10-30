@@ -1,0 +1,89 @@
+250FM    ADOPTED LEVELS                                          01NDS    200112
+250FM  H TYP=FMT$AUT=J. Tuli$DAT=22-APR-2005$COM=Fixed Fmt/Typo$                
+250FM  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94,131 (2001)$CUT=1-Aug-2001$           
+250FM  XA254NO A DECAY                                                          
+250FM  XB250MD EC DECAY                                                         
+250FM  Q -4.6E3    SY7518    104.39E3  SY7557    8     2012WA38                 
+250FM cQ $Note: Current evaluation has used the following Q record              
+250FM2cQ -4630     syst 7610   syst 4390   syst 7557   12    1995Au04           
+250FM c                                                                         
+250FM c  Theoretical studies:                                                   
+250FM c  Energies and structures of high-K (K=7- and 8-), low-energy (<2 MeV)   
+250FM2c  states in {+250}Fm were calculated by 1991So15 in a                    
+250FM3c  quasiparticle-phonon nuclear model.                                    
+250FM c  Energies of the lowest K=0+ and K=2+ states and the B(E2; g.s. to 0+), 
+250FM2c  B(E2; g.s. to second 2+) values; energies of the K=0-, 1-, 2-          
+250FM3c  octupole-vibrational states and the B(E3; g.s. to 3-) of these         
+250FM3c  vibrational states were calculated by 1971Ko31 and 1973Iv01.           
+250FM c  Properties of the |g-vibrational states were investigated by           
+250FM2c  1965Be40, and B(E2) values were calculated.                            
+250FM c  Equilibrium deformations and static electric moment were calculated    
+250FM2c  by 1983Bo15.                                                           
+250FM c  For calculations of fission barriers, see, for example, 1976Iw02,      
+250FM2c  1983Ga05, 1984Ku05, 1989St20, 1992Bh03.                                
+250FM c  Partial half-life for g.s. SF decay was calculated by 1976Ra02,        
+250FM2c  1980Lo12, 1983Bo15, 1983Cw01, 1985St22, 1985Lo17, 1988Sa35, 1989St20,  
+250FM3c  1992Bh03 and 1996Lo08.                                                 
+250FM c  The fission barrier and the spontaneous fission half-life of the       
+250FM2c  1.8-s isomeric state were calculated by 1986Ba43 by considering        
+250FM3c  the possible two quisiparticle states with                             
+250FM4c  8-(n 9/2[734],n 7/2[624]) and 7-(p 7/2[514],p 7/2[633])                
+250FM5c  configurations for the level.                                          
+250FM c  For a study of heavy-cluster radioactivity and calculations of         
+250FM2c  partial half-lives for such decays, as well as for |a and              
+250FM3c  SF decays, see 1988Sa35.                                               
+250FM c  For calculated |a decay half-lives, see 1979Po23, 1997Mo25,            
+250FM2c  for example.                                                           
+250FM c                                                                         
+250FM  L 0.0          0+               30 M      3                              
+250FMX L XREF=A                                                                 
+250FM cL T         30 min {I3} was measured by 1957Am47 and 1966Ak01. Other     
+250FM2cL measurements: |?30 min (1954At35,1957Am47), |?33 min (1962Do11).       
+250FM2 L %A>90 $ %EC<10 $ %SF=0.0069 10 $                                       
+250FM cL           No |e decay activity was observed: |e/|a<0.1 (1957Am47).     
+250FM cL           %SF=0.0069 {I10}, T{-1/2}(SF)=0.83 y {I15} (1989La07). Other 
+250FM2cL measurement: %SF|?0.0006 (1970Dr05).                                   
+250FM  L 0.0+X                         1.8 S     1                           M1 
+250FM cL T         measured by 1973Gh03.                                        
+250FM cL           Assignment: {+249}Cf(|a,3n), parent of 30-min {+250}Fm;      
+250FM2cL {+242}Pu({+12}C,X), {+243}Am({+11}B,X) and {+249}Cf({+4}He,x)          
+250FM3cL cross-bombardment technique; not produced in {+243}Am({+12}C) and in   
+250FM4cL {+243}Am({+13}C) reactions (1973Gh03).                                 
+250FM2 L %IT GE 80 $ %A<20 $ %EC=? $ %SF LE 8.2E-5 $                            
+250FM cL           IT-decay mode is inferred by 1971Gh03 from the observation   
+250FM2cL of 7.44-MeV |a's of the 30-min {+250}Fm g.s. No |g transitions         
+250FM3cL have been observed deexciting this state.                              
+250FM cL           No evidence for decays by |a emission or spontaneous         
+250FM2cL fission were seen, and the upper limits for such decay modes were      
+250FM3cL placed by 1973Gh03 to Be of the order of 20%.                          
+250FM cL           Spontaneous fission branch was searched by 1989La07,         
+250FM2cL and no evidence for SF activity from the 1.8- s isomer was seen:       
+250FM3cL T{-1/2}(SF; 1.8-s isomer)/T{-1/2}(SF; g.s.)|>0.1 was determined, which 
+250FM4cL corresponds to T{-1/2}(SF isomer)|>0.07 y, %SF|<8.2|*10{+-5}           
+250FMxcL (1989La07).                                                            
+250FM cL           Possible configurations, 8-,(n 7/2[624],n 9/2[734]) or       
+250FM2cL 7-,(p 7/2[633],p 7/2[514]), were suggested by 1973Gh03 to explain      
+250FM3cL the existence of this isomeric state. The authors pointed out the      
+250FM4cL existence of low-lying high-spin isomers also in the A=170-190 region. 
+250FM cL E         level energy is not measured. A J|p=7- isomer with half-life 
+250FM2cL of 70 ns was observed in {+256}Fm at 1425.5 keV. Calculations by       
+250FM3cL 1991So15 for {+250}Fm predict                                          
+250FM4cL 7-,(p7/2[633],p7/2[514]) state at 1.7 MeV, and                         
+250FM5cL 8-,(n9/2[734],n7/2[624]) state at 0.8 MeV. See 1991So15 for other      
+250FM6cL configurations with K=7, K=8, and their calculated level energies.     
+250FM cL           Potential energy and partial half-lives for SF decay from    
+250FM2cL the states with 8-,(n9/2[734],n7/2[624]) and the                       
+250FM3cL 7-,(p7/2[514],p7/2[633]) configurations were calculated by             
+250FM4cL 1986Ba43; their calculations yielded T{-1/2}(SF)=1.82|*10{+5} y and    
+250FM5cL 9.77|*10{+8} y for the 8- and 7- states, respectively, and             
+250FM6cL T{-1/2}=85.1 y for the 0+ ground state, which is a factor of 100       
+250FM7cL larger than the measured value.                                        
+250FM  L 0.0+Y                                                               M2 
+250FM2 L %SF LE 100                                                             
+250FM cL           Only the SF decay was observed. No other decay modes have    
+250FM2cL been searched; the level was populated in |e decay of {+250}Md         
+250FMxcL (1980Ga07).                                                            
+250FM cL E         the level is proposed as being in the second potential well. 
+250FM2cL The level energy has not been determined. See 1980Ga07 for             
+250FM3cL calculation and evaluation of the inner fission barrier.               
+250FMX L XREF=B                                                                 

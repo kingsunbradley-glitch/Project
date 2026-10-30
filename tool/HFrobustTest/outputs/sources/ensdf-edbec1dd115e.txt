@@ -1,0 +1,64 @@
+252LR    256DB A DECAY                 2001HE35,2008NE01         21NDS    202103
+252LR  H TYP=FUL$AUT=A.M. MATTERA, S. ZHU, A.B. HAYES, E.A. MCCUTCHAN$          
+252LR2 H CIT=NDS 172, 543 (2021)$CUT=1-Jan-2021$                                
+252LR c  $ 2001He35: Source of {+256}Db produced in {+209}Bi({+50}Ti,3n) at     
+252LR2c  4.59-5.08 MeV/A, evaporation residues implanted in 16 strips Si        
+252LR3c  detector following filtering by SHIP separator. Measured E|a,          
+252LR4c  T{-1/2}(|a), |a|a and |aSF parent-daughter correlations. A total of    
+252LR5c  16 |a-decay chains were observed, of which only 8 were used to         
+252LR6c  estimate the decay energy.                                             
+252LR c  $ 2008Ne01: Production of {+260}Bh in {+209}Bi({+52}Cr,n) at 202.4 MeV 
+252LR2c  (center-of-mass energy of the beam in the center of the target).       
+252LR3c  {+256}Db was produced in |a decay of {+260}Bh. Evaporation residues    
+252LR4c  implanted on a Si-strip detector array, after passing through a MWPC   
+252LR5c  used for discrimination of implantation events from alpha-like decay   
+252LR6c  events. Measured E|a, T{-1/2}(|a). A total of 6 |a-decay chains were   
+252LR7c  observed.                                                              
+252LR cA HF$r{-0}({+252}Lr)=1.49 {i3} calculated as average of the r{-0} for    
+252LR2cA the doubly-even neighboring nuclei. The other r{-0}'s were estimated   
+252LR3cA by the evaluator based on existing scarce data, hence the large        
+252LR4cA uncertainties on r{-0}({+252}Lr) and hindrance factors.                
+252LR cL E$From Q(|a) differences; |DE(level) added quadratically.              
+252LR cA IA$From 2001He35.                                                      
+256DB  P 0.0                            1.6 S     +5-3           9340     30    
+256DB cP QP$from 2017Wa10.                                                      
+256DB cP T$from 2017Si08 based on value from 2001He35.                          
+252LR  N                        0.70   11                                       
+252LR cN BR$from 2017Si08, weighted average taken by 2008Ne01 of their result   
+252LR2cN (which is not stated in the paper but presumably 76 % {i11}), and %|a  
+252LR3cN =64 {i12} by 2001He35 (implied from measured %|e=36 {i12}).            
+252LR  L 0.0                            0.33 S    +8-7                          
+252LR2 L %EC+%B+=60 CA$%A=40 CA$%SF<2 CA                                        
+252LR cL T$weighted average of 0.27 s {I +18 -8} (2008Ne01) and 0.36 s {I +11   
+252LR2cL -7} (2001He35).                                                        
+252LR cL %A,%EC+%B+,%SF$not measured for this nucleus. The probability for      
+252LR2cL spontaneous fission of {+252}Lr was studied by 1976Og02 through        
+252LR3cL {+203,205}Tl({+50}Ti,xn) reactions, and an upper limit of 2% was       
+252LR4cL estimated for its spontaneous fission decay. The theoretical           
+252LR5cL calculations of 2019Mo01 give T{-1/2}(|a)=5.50 s and the partial       
+252LR6cL half-life for Gamow-Teller |b decay T{-1/2}(|b{++})=1.98 s,            
+252LR7cL hence %|a |?40, %|e+%|b{++}|?60, %SF<2.                                
+252LR  A 9190      5511      AP128     AP                                       
+252LR cA $For consinstency with AME16, the value was taken from 2008Ne01,       
+252LR2cA assuming that the transition E(|a) = 9190 keV {I 55} goes to the       
+252LR3cA g.s.. The transition E(|a) = 9120 keV {I20} reported in 2001He35 is    
+252LR4cA also thought to populate the g.s.. In both cases, the uncertainties    
+252LR5cA represent the FWHM of the detectors resolution determined during the   
+252LR6cA calibration procedure.                                                 
+252LR  L 120       40                                                          ?
+252LR  A 9073      1911      AP58      AP                                       
+252LR cA $The value was taken as the weighted average of E(|a) = 9060  keV {I   
+252LR2cA 55} from 2008Ne01 and  E(|a) = 9075  keV {I 20} reported in 2001He35.  
+252LR3cA In both cases, the uncertainties represent the FWHM of the detectors   
+252LR4cA resolution determined during the calibration procedure.                
+252LR  L 180       30                                                           
+252LR  A 9019      1667      AP6.4     AP                                       
+252LR cA $The value was taken as the weighted average of E(|a) = 9030 keV       
+252LR2cA {I28} (from 2008Ne01, as the average of 4 |a chains at 9030 keV        
+252LR3cA {I55}, 9020 keV {I55}, 9040 keV {I55}, 9030 keV {I55}) and E(|a) =     
+252LR4cA 9014 keV {I20} (reported in 2001He35 as the average of 5 |a events).   
+252LR  L 310       40                                                          ?
+252LR  A 8891      2011      AP16      AP                                       
+252LR cA E$|a only reported in 2001He35. The uncertainty represents the FWHM    
+252LR2cA of the detectors resolution determined during the calibration          
+252LR3cA procedure.                                                             

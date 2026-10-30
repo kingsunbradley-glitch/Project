@@ -1,0 +1,56 @@
+256LR    260DB A DECAY (1.52 S)        1977BE36,1971DR01,1970GH02ENSDF    202006
+256LR  H TYP=UPD$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=04-JUN-2020$                    
+256LR  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256LR c  No new experimental references since the 2017 update (2017Si08) of     
+256LR2c  {+256}Lr. In the present update, very minor changes have been made.    
+256LR c  1977Be36: measured E|a, I|a, x-ray intensities, half-life of {+260}Db  
+256LR2c  decay                                                                  
+256LR c  1971Dr01: measured E|a, half-life of {+260}Db decay                    
+256LR c  1970Gh02: measured E|a, I|a.                                           
+256LR cG $I(L| x ray)=69% {I7}, I(K| x ray)<1.5%, I|g(50 keV<|g<450 keV)<1.5%   
+256LR2cG were measured by 1977Be36.                                             
+256LR cA E$Energies measured by 1977Be36. The original energies                 
+256LR2cA given by 1977Be36 are increased by 1 keV because of changes in         
+256LR3cA calibration energies: E|a({+249}Cf) from 5813.5 to 5812.8 {I16},       
+256LR4cA E|a({+243}Am) from 5274.8 to 5275.3 {I10}, E|a({+244}Cm) from 5804.9   
+256LR5cA to 5804.77 {I5}. Other measurements: 1970Gh02, 1971Dr01. For           
+256LR6cA calibration, 1970Gh02 used E|a({+213}Fr)=6773 and E|a({+211}Po)=7443;  
+256LR7cA 6775.0 {I17} and 7450.3 {I5} are recommended by 1991Ry01 for them,     
+256LR8cA respectively.                                                          
+256LR cA IA$|a intensity per 100 |a decays, measured by 1977Be36.               
+256LR2cA The intensities measured by 1970Gh02 are also quoted for each |a       
+256LR3cA for comparison.                                                        
+256LR cA HF$r{-0}({+256}Lr)=1.457 {I10} used for deducing hindrance factors.    
+256LR2cA This value of r{-0} is based on a general trend in this mass region,   
+256LR3cA as the r{-0} values from the |a decays of neighboring even-even nuclei 
+256LR4cA are not available for interpolation.                                   
+256LR cL E$All the |a groups were observed in coincidence with                  
+256LR2cL L x-rays(Lr) (1977Be36). The energy of the lowest level fed by the     
+256LR3cL highest energy |a, therefore, should be more than the L-shell binding  
+256LR4cL energy. The absence of K| x ray and |g rays suggests that E(level)<154,
+256LR5cL the K-binding energy. Q(|a)({+260}Db)=9500 {I40} (syst) is recommended 
+256LR6cL by 2017Wa10. Level energies are deduced from this Q(|a) and measured   
+256LR7cL E|a values                                                             
+260DB  P 0.0                           1.52 S    13              9500     SY    
+260DB cP T$From {+260}Db Adopted Levels in the ENSDF database (Oct 1998 update),
+260DB2cP taken from 1977Be36. Others: 1.4 s {I+6-3} (1971Dr01), 1.6 s {I3}      
+260DB3cP (1970Gh02). Other estimated values from studies of {+272}Rg decay      
+260DB4cP chain: 2.6 s {I+18-8} (2002Ho11), 5.7 s {I+23-13} (2004Mo27,2004Mo14), 
+260DB5cP 1.45 s (2004Fo08)                                                      
+260DB cP QP$9500 {I40} (syst,2017Wa10)                                          
+256LR  N                        0.95    5                                       
+256LR cN BR$%|a|>90.4 {I6} was deduced by 1977Be36. For the purpose of          
+256LR2cN absolute |a intensities and HF values, evaluator uses %|a=95 {I5},     
+256LR3cN overlapping the lower and upper limits suggested by the measured value 
+256LR  L 236       44                                                           
+256LR  A 9121      17 19     3 17      4                                        
+256LR cA $Other: E|a=9140, I|a=20 (1970Gh02).                                   
+256LR cA E$others: 9144 (2002Ho11), 8.35-9.40 MeV (2004Mo27,2004Mo14),          
+256LR2cA 9416 (sum line,2004Fo08). All these estimates are from studies         
+256LR3cA of {+272}Rg |a-decay chain                                             
+256LR  L 282       42                                                           
+256LR  A 9075      14 28     5 8.4     22                                       
+256LR cA $Other: E|a=9100, I|a=25 (1970Gh02).                                   
+256LR  L 317       42                                                           
+256LR  A 9042      14 53     5 3.5     7                                        
+256LR cA $Other: E|a=9060, I|a=55 (1970Gh02).                                   

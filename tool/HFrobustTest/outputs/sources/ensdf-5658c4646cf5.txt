@@ -1,0 +1,217 @@
+247CM    251CF A DECAY                 2003AH07,1968CH03,1970BRZN15NDS    201503
+247CM  H TYP=FUL$AUT=C. D. NESARAJA$CIT=NDS 125, 395 (2015)$CUT=31-Mar-2014$    
+247CM c  2003Ah07: Produced {+251}Cf from |a decay of {+255}Fm. Measured level  
+247CM2c  T{-1/2}, |g, |a, |a-|g coincidence, and electron spectra with high     
+247CM3c  resolution spectrometers such as the passivated, implanted, planar     
+247CM4c  silicon Detector (PIPS) (FWHM=10.5 and 9.2 keV). The latter being also 
+247CM5c  measured by the PIN diode.                                             
+247CM c  1970BrZN: Studied alpha spectrum decay of {+251}Cf with a Au-Si        
+247CM2c  surface barrier detector (FWHM=15 keV) and ZnS-photomultiplier tube.   
+247CM3c  Measured |g's with 5 cm{+3} Ge(Li) detector and electrons with         
+247CM4c  Si(Li) detector. Measured |a-particles energies, |g energies,          
+247CM5c  intensities, |a-|g coincidence, and conversion electrons.              
+247CM c  1968Ch03: |a decay of {+251}Cf along with |a-|g coincidence            
+247CM2c  measurements were done using Si(Au), Ge(Li) and NaI(Tl) detectors      
+247CM3c  Measured E|a, I|a, E|g, I|g, |a-|g coincidences. Deduced J|p, T{-1/2}  
+247CM4c  and identified rotational bands                                        
+247CM c  Other measurements: 1966Rg01                                           
+247CM cA E$Measurements by 2003Ah07, except where noted otherwise.              
+247CM cA IA$Measurements of 2003Ah07 are adopted.                               
+247CM cA HF$r{-0}({+247}Cm)=1.4924 {I88}, unweighted average of                 
+247CM2cA r{-0}({+246}Cm)=1.4836 {I5} and r{-0}({+248}Cm)=1.5012 {I6} (1998Ak04),
+247CM3cA is used in calculations of HF.                                         
+247CM tG ${+251}Cm x-rays: (2003Ah07)                                           
+247CM2tG                                                                        
+247CM3tG   E(x-ray)     I(x-ray)                    Transitions                 
+247CM4tG   --------     --------                    -----------                 
+247CM5tG   104.57 {I2}     12.6 {I7}                      K|a{-2} x-ray         
+247CM6tG   109.26 {I2}     19.8 {I10}                     K|a{-1} x-ray         
+247CM7tG   122.31 {I2}                                 K|b{-3} x-ray            
+247CM8tG                 7.7 {I5}                                               
+247CM9tG                 I(K|b{-3} x-ray+K|b{-1} x-ray)                         
+247CMatG   123.40 {I2}                                 K|b{-1} x-ray            
+247CMbtG   127.01 {I4}                                 K|b{-2} x-ray+K|b{-4} x-r
+247CM+tG ay                                                                     
+247CMctG                 2.6 {I2}                                               
+247CMdtG                 I(K|b{-2} x-ray+K|b{-4} x-ray                          
+247CMetG                 +K|O{-23} x-ray)                                       
+247CMftG   128.00 {I5}                                 K|O{-23} x-ray           
+247CMgtG                                                                        
+247CMhtG Others: 1966Rg01, 1968Ch03, 1970BrZN                                   
+247CMitG                                                                        
+247CM cG                                                                        
+247CM cG E$From 2003Ah07. Other measurements: 1968Ch03, 1970BrZN.               
+247CM cG RI$Measured by 2003Ah07, except as noted otherwise.                    
+247CM2cG Absolute intensities were determined by 2003Ah07 by measuring the      
+247CM3cG alpha rate of a thin {+251}Cf source with a Si detector of known       
+247CM4cG geometry and measuring the gamma spectrum with a Ge spectrometer of    
+247CM5cG known absolute efficiency which was determined with a calibrated       
+247CM6cG source. Earlier measurements: 1968Ch03, 1970BrZN.                      
+247CM3cG See also {+247}Am |b{+-} decay.                                        
+247CM cG E(S)$Transition was not observed. Existence is from the level          
+247CM2cG scheme.                                                                
+247CM cG M,MR(B)$Determined by evaluator from |a(exp) (2003Ah07)                
+247CM cG CC(A)$Deduced by evaluator from intensity balance                      
+247CM DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+247CM cL E$From least-squares fit to E|g's                                      
+247CM CL BAND(D)$ 9/2[734]                                                      
+247CM CL BAND(E)$ 5/2[622]                                                      
+247CM CL BAND(F)$ 7/2[624]                                                      
+247CM CL BAND(G)$ 1/2[620]                                                      
+247CM CL BAND(H)$ 1/2[631]                                                      
+251CF  P 0.0         1/2+              898 Y     44             6177.0    9     
+251CF cP T$From Adopted Levels in {+251}Cf                                      
+251CF cP QP$From 2012Wa38.                                                      
+251CF2cP E|a (to 404.90 level)=5679.3 {I16} yields Q|a=6176.2 {I16}             
+247CM  N 1.0         1.0       1.0                                              
+247CM PN                                                                     2  
+247CM  L 0.0         9/2-              1.56E+7 Y 5                          D   
+247CM cL T$From Adopted Levels                                                  
+247CM  A 6078      2 2.6     1  5.15E3 36                                       
+247CM cA IA$6 {I5} from I(|g+ce) imbalances                                     
+247CM  L 61.67      411/2-                                                  D   
+247CM  A 6017      2 12.5    3   519   32                                       
+247CM cA IA$9.7 {I16} from I(|g+ce) imbalances                                  
+247CM  G 61.67     5 0.40    3 M1+E2     0.25    2     37.5   16            B   
+247CMS G  LC=27.8 11$MC=7.1 4                                                   
+247CMS G  NC=1.96 9$OC=0.491 21$PC=0.092 4$QC=0.00493 8                         
+247CM cG $|a(L1+L2):|a(L3):|a(M+N)=23.5 {I31}:3.3 {I8}:11.0 {I17} (2003Ah07)    
+247CM cG $|a(K):|a(L1+L2):|a(L3):|a(M):|a(N)=0.24 {I5}:1.0 {I1}:0.5 {I1}:0.7    
+247CM2cG {I1}:0.37 {I5} (1970BrZN)                                              
+247CM  L 134.66     613/2-                                                  D   
+247CM  A 5946      2 0.60    6  4.52E3 52                                       
+247CM  G 73.00     8 0.040   5 [M1+E2]   0.7     +5-4  39     16            A   
+247CMF G FLAG=B                                                                 
+247CMS G  LC=28 13$MC=8 4                                                       
+247CMS G  NC=2.1 10$OC=0.52 24$PC=0.09 4$QC=0.0023 7                            
+247CM  G 134.65    8 0.014   3 [E2]                    4.94                     
+247CMS G  KC=0.1531 22$LC=3.46 5$MC=0.976 14                                    
+247CMS G  NC=0.272 4$OC=0.0659 10$PC=0.01104 16$QC=6.08E-5 9                    
+247CM  L 219.02     715/2-                                                  D   
+247CM  A 5859                                                                  S
+247CM cA $From the |g's de-exciting the 219-keV level, existence of an          
+247CM2cA alpha branch to the 219.0-keV level with I|a=1.2% {I7} and             
+247CM3cA E|a=5862 {I2} may be deduced from intensity balance.                   
+247CM4cA For I|a|?1.2%, HF|?800.                                                
+247CM  G 84.35     8 0.040   5 [M1+E2]                 26     15                
+247CMS G  LC=19 11$MC=5 4                                                       
+247CMS G  NC=1.5 9$OC=0.36 22$PC=0.06 4$QC=0.0012 9                             
+247CM  G 157.35    8 0.020   4 [E2]                    2.56                     
+247CMS G  KC=0.1741 25$LC=1.723 25$MC=0.485 7                                   
+247CMS G  NC=0.1350 20$OC=0.0328 5$PC=0.00552 8$QC=3.65E-5 6                    
+247CM  L 227.379   195/2+              26.3 US   3                          EM  
+247CM cL T$From 2003Ah03. Others: 25 |ms {I3} (1968Ch03)                        
+247CM  A 5854      2 27.6    5   31.7  19                                       
+247CM  G 165.70    5 0.12    1 E3                      30.4                     
+247CMS G  KC=0.235 4$LC=21.3 3$MC=6.47 10                                       
+247CMS G  NC=1.83 3$OC=0.445 7$PC=0.0750 11$QC=0.000469 7                       
+247CM cG $Ice(L1+L2):Ice(L3)=15 {I3}:6.7 {I26} (2003Ah07).                      
+247CM  G 227.38    2 6.8     3  M2+E3    0.52    +9-8  10.3   4                 
+247CMS G  KC=6.0 5$LC=3.15 9$MC=0.87 3                                          
+247CMS G  NC=0.242 9$OC=0.0609 20$PC=0.0113 3$QC=0.00056 4                      
+247CM cG $|a(K):|a(L1+L2):|a(L3):|a(M+N)=6.0 {I5}:2.7 {I3}:0.41 {I5}            
+247CM2cG :1.53 {I17} (2003Ah07)                                                 
+247CM cG $|a(K):|a(L1+L2):|a(L3):|a(M):|a(N)=7 {I2}:3.7 {I6}:0.6 {I2}:2.1 {I4}  
+247CM2cG :0.85 {I15} (1970BrZN)                                                 
+247CM  L 265.86     4(7/2+)                                                 E   
+247CM  A 5817      2 4.0     2   136   11                                       
+247CM  G 38.48     5 0.038   6 (M1+E2)   0.21    5     183    32            A   
+247CMF G FLAG=B                                                                 
+247CMS G  LC=1.4E2 3$MC=35 8                                                    
+247CMS G  NC=9.8 21$OC=2.4 5$PC=0.44 8$QC=0.0202 4                              
+247CM  G 265.86    8  0.43   3 [E1]                    0.0565 8                 
+247CMS G  KC=0.0442 7$LC=0.00927 13$MC=0.00226 4                                
+247CMS G  NC=0.000617 9$OC=0.0001540 22$PC=2.86E-5 4$QC=1.559E-6 22             
+247CM cG $Since an E1 transition from 5/2[622] to 9/2[734] state                
+247CM2cG would be K forbidden, there might be some M2 admixture in 265.86 |g.   
+247CM3cG |a(M2)=7.10.                                                           
+247CM  L 285.41     5(7/2+)                                                 F   
+247CM  A 5798      2 2.5     2   170   17                                       
+247CM  G 58.03     5 0.024   5 (M1+E2)   0.53    11    80     22            A   
+247CMF G FLAG=B                                                                 
+247CMS G  LC=59 11$MC=16 4                                                      
+247CMS G  NC=4.4 9$OC=1.08 21$PC=0.19 4$QC=0.0052 4                             
+247CM  G 285.41    8  1.13   9 [E1]                    0.0484                   
+247CMS G  KC=0.0380 6$LC=0.00787 11$MC=0.00192 3                                
+247CMS G  NC=0.000523 8$OC=0.0001308 19$PC=2.44E-5 4$QC=1.350E-6 19             
+247CM  L 318.31     59/2+                                                   E   
+247CM  A 5766      2  3.6    2    78   7                                        
+247CM  G 52.45     5 0.048   5 (M1+E2)   0.27    6     70     8             A   
+247CMF G FLAG=B                                                                 
+247CMS G  LC=51 8$MC=13.3 23                                                    
+247CMS G  NC=3.7 7$OC=0.92 15$PC=0.169 24$QC=0.00792 21                         
+247CM  G 256.65    8 0.13    1 [E1]                    0.0611 9                 
+247CMS G  KC=0.0477 7$LC=0.01007 15$MC=0.00246 4                                
+247CMS G  NC=0.000670 10$OC=0.0001672 24$PC=3.10E-5 5$QC=1.675E-6 24            
+247CM  G 318.3     1 0.050   5 [E1]                    0.0384                   
+247CMS G  KC=0.0302 5$LC=0.00614 9$MC=0.001495 21                               
+247CMS G  NC=0.000408 6$OC=0.0001021 15$PC=1.91E-5 3$QC=1.086E-6 16             
+247CM  L 345.89     6(9/2+)                                                 F   
+247CM  A 5738      2 0.8     1   248   34                                       
+247CM  G 60.5      1 0.010   3 (M1+E2)   0.48    16    62     21            A   
+247CMF G FLAG=B                                                                 
+247CMS G  LC=46 13$MC=12 4                                                      
+247CMS G  NC=3.4 11$OC=0.83 25$PC=0.15 4$QC=0.0047 5                            
+247CM  G 284.2     1 0.12    1 [E1]                    0.0489 7                 
+247CMS G  KC=0.0383 6$LC=0.00794 12$MC=0.00194 3                                
+247CMS G  NC=0.000528 8$OC=0.0001320 19$PC=2.46E-5 4$QC=1.362E-6 19             
+247CM  G 345.9     1 0.043   4 [E1]                    0.0322 5                 
+247CMS G  KC=0.0254 4$LC=0.00510 8$MC=0.001240 18                               
+247CMS G  NC=0.000338 5$OC=8.48E-5 12$PC=1.593E-5 23$QC=9.22E-7 13              
+247CM  L 404.90     31/2+              100.6 NS  6                          G   
+247CM cL T$From 2003Ah03                                                        
+247CM  A 5679.3    1635.4    5   2.62  16                                       
+247CM cA IA$44.2 {I24} from I(|g+ce) imbalances                                 
+247CM cA E$Recommended by 1991Ry01 from E|a=5680.3 {I10} measured               
+247CM2cA by 1971Bb10, 5667 {I10} by 1968Ch03, and 5667 {I3} by 1970BrZN.        
+247CM3cA Adjustments were applied by 1991Ry01 because of changes in calibration 
+247CM4cA energies. E|a=5679 {I2} from 2003Ah07.                                 
+247CM  G 177.52    2  17.3   9 E2                      1.567  22                
+247CMS G  KC=0.1643 23$LC=1.015 15$MC=0.285 4                                   
+247CMS G  NC=0.0794 12$OC=0.0193 3$PC=0.00327 5$QC=2.52E-5 4                    
+247CM cG $Ice(K):Ice(L1+L2):Ice(L3):Ice(M+N)=0.19 {I3}:0.71 {I8}:0.31           
+247CM2cG {I3}:0.41 {I5} (2003Ah07)                                              
+247CM cG $Ice(K):Ice(L1+L2):Ice(L3):Ice(M):Ice(N)=                              
+247CM2cG 4.1 {I6}:18 {I1}:9 {I1}:12 {I1}:6.4 {I10} (1970BrZN)                   
+247CM cG $|a(K)exp=0.25, |a(exp)=1.27 (1968Ch03).                               
+247CM  L 432.98    23(3/2+)                                                 G   
+247CM  A 5651      2 3.3     2   19.5  17                                       
+247CM  G 28        2                                                        S  S
+247CM  L 448.8     13(5/2+)                                                 G   
+247CM  A 5635      2 4.9     2   10.7  8                                        
+247CM  G 16        3                                                        S  S
+247CM  G 44        2                                                        S  S
+247CM  L 516.68    11(7/2+)                                                 G   
+247CM  A 5569      2 1.9     LE   11   GE                                       
+247CM cA E$From E|a(404.9 level)=5679.3 {I16} and the level energy difference   
+247CM2cA from least-squares fit to E|g's (recoil energy is taken into account). 
+247CM3cA E|a=5568 {I2}, measured by 2003Ah07, is assumed by the evaluator to be 
+247CM4cA a doublet, feeding the 516.7- and 518.6-keV levels.                    
+247CM cA IA$1.9 {I1} was measured by 2003Ah07 for the doublet.                  
+247CM  G 68        2                                                        S  S
+247CM  G 83.7      2                                                        S  S
+247CM  G 289.3     1 0.070   7 [M1+E2]                 0.9    7                 
+247CMS G  KC=0.7 6$LC=0.19 6$MC=0.049 13                                        
+247CMS G  NC=0.014 4$OC=0.0034 9$PC=0.00064 21$QC=3.E-5 3                       
+247CM  L 518.59     7(3/2+)                                                 H   
+247CM  A 5567      2 1.9     LE   10   GE                                       
+247CM cA E$From E|a(404.9 level)=5679.3 {I16} and the level energy difference   
+247CM2cA from least-squares fit to E|g's (recoil energy is taken into account). 
+247CM3cA E|a=5568 {I2}, measured by 2003Ah07, is assumed by the evaluator to be 
+247CM4cA a doublet, feeding the 516.7- and 518.6-keV levels.                    
+247CM cA IA$1.9 {I1} was measured by 2003Ah07 for the doublet.                  
+247CM  G 113.7     1 0.024   5 [M1+E2]                 8      3                 
+247CMS G  LC=5.5 20$MC=1.5 7                                                    
+247CMS G  NC=0.41 18$OC=0.10 4$PC=0.018 6$QC=0.0005 4                           
+247CM  G 291.20    8 0.30    3 [M1+E2]                 0.9    7                 
+247CMS G  KC=0.7 6$LC=0.19 6$MC=0.048 13                                        
+247CMS G  NC=0.013 4$OC=0.0033 9$PC=0.00063 21$QC=3.E-5 3                       
+247CM  L 581.67     8(5/2+)                                                 H   
+247CM  A 5505      2 0.27    5    33   7                                        
+247CM cA IA$0.060 {I17} from I(|g+ce) imbalances                                
+247CM  G 315.8     1 0.024   3 [M1+E2]                 0.7    6                 
+247CMS G  KC=0.5 5$LC=0.15 6$MC=0.037 12                                        
+247CMS G  NC=0.010 3$OC=0.0026 8$PC=0.00049 18$QC=2.6E-5 21                     
+247CM  G 354.3     1 0.013   2 [M1+E2]                 0.5    4                 
+247CMS G  KC=0.4 4$LC=0.10 5$MC=0.026 10                                        
+247CMS G  NC=0.0072 25$OC=0.0018 7$PC=0.00034 14$QC=1.9E-5 16                   

@@ -1,0 +1,71 @@
+247ES    251MD A DECAY                 2006CH52,2005HE27         15NDS    201503
+247ES  H TYP=FUL$AUT=C. D. NESARAJA$CIT=NDS 125, 395 (2015)$CUT=31-Mar-2014$    
+247ES c  2006Ch52: {+251}Md isotope produced                                    
+247ES2c  in |a decay of {+255}Lr isotope. Parent nuclide produced by            
+247ES3c  {+209}Bi({+48}Ca,2n) reaction, in two separate                         
+247ES4c  experiments conducted at JYFL and GANIL. In both experiments, an       
+247ES6c  incident beam energy of E|?217 MeV was used. Recoil products           
+247ES7c  separated from the primary beam in each.                               
+247ES8c  JYFL: Measured recoil products, E|a, I|a, and tof using a              
+247ES9c  Multi-Wire Proportional Counter gas detector, two double-sided Si      
+247ESac  strip detectors (DSSSD) and a "box" of 28 pin-diodes surrounding the   
+247ESbc  two DSSSDs.                                                            
+247EScc  GANIL: Measured recoiled products, E|g, I|g, E|a, I|a, ce, and tof     
+247ESdc  using a "galotte" detector (mylar foil and micro-channel plate         
+247ESec  detector), a DSSSD, four cooled Si detectors (BEST) and four segmented 
+247ESfc  Ge detectors (EXOGAM).                                                 
+247ES c  Theoretical calculations using Hartree-Fock-Bogoliubov (HFB) with      
+247ES2c  Skyrme were performed to interpret the experimental results            
+247ES c  2005He27: {+251}Md produced from |a decay of                           
+247ES2c  {+255}Lr. {+255}Lr produced by the {+209}Bi({+48}Ca,2n) reaction       
+247ES3c  with beam energy E=4.55-4.65 MeV/nucleon.                              
+247ES4c  Evaporation residues were separated from the primary beam by velocity  
+247ES5c  filter SHIP at GSI facility. Measured (fragments)-|a coin, |a-|g coin, 
+247ES6c  prompt and delayed |g-rays, and K x-rays.                              
+247ES7c  |g-rays were detected with a 'Clover' detector and a position          
+247ES8c  sensitive (PIPS) detector was used to measure the |a decay.            
+247ES cA $|a line at 7590 {I5} in the |a spectrum in 2006Ch52 is assigned to a  
+247ES2cA sum line with an intensity of 13 {I3} relative to 87 {I3} for 7550|a.  
+247ES3cA This line was not clear if it was present in the work of 2005He27      
+247ES cA E$Energies from JYFL experiment in 2006Ch52, which had better          
+247ES2cA resolution.                                                            
+247ES cA HF$r{-0}({+247}Es)=1.476 {I20}, estimated by the evaluator from the    
+247ES2cA r{-0} systematics given in 1998Ak04.                                   
+247ES cG E$From |a-|g coincidences in 2005He27 with higher precision            
+247ES cG RI$From 2005He27                                                       
+251MD  P 0.0         (7/2-)            4.27 M    26             7963      4     
+251MD cP T$From measured half-life of 7550|a from decay of {+251}Md (2006Ch52)  
+251MD cP QP$From 2012Wa38. Q(g.s)= 7965 {I1} from E|a=7550 to 293+x level       
+251MD2cP (2006Ch52); Q(g.s)=7955 {I10} from E|a=7540 {I10} to 293+x,            
+251MD3cP assuming x is small                                                    
+251MD cP J$From Adopted Levels in {+251}Md (2013Br09)                           
+251MD cP $Proposed configuration=7/2[514] (2005He27)                            
+247ES  N                       0.10    1                                        
+247ES cN BR$%|a=10 {I1} from comparison of the intensities in |a-|a and         
+247ES2cN recoil-|a coincidences in |a decay of {+255}Lr grand-mother nucleus    
+247ES3cN (2006Ch52)                                                             
+247ES  L 0           (3/2-)                                                     
+247ES cL J$Possibly 3/2-[521] (2005He27)                                        
+247ES  L 0+X          (7/2+)                                                    
+247ES DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+247ES cL $Proposed configuration=7/2[633] (1989Ha27)                            
+247ES cL E$The assignment to g.s. is not certain; 3/2[521] and                  
+247ES2cL 7/2[633] orbitals are close in energy and either could be the g.s.,    
+247ES3cL 2005He27 estimate that 7/2+ bandhead of 7/2[633] band lies |?30 keV    
+247ES4cL above the 3/2- bandhead of 3/2[521] band.                              
+247ES  L 50.9+X     3 (9/2+)                                                    
+247ES cL E$The unobserved transition depopulating this level is shown by        
+247ES2cL 2006Ch52 to be a highly-converted (possibly M1) transition.            
+247ES cL J$Suggested by theoretical calculations in 2006Ch52.                   
+247ES  G 50                    (M1)                                            S
+247ES cG $Highly converted transition                                           
+247ES  L 293.69+X  10   (7/2-)                                                  
+247ES cL $Proposed configuration=7/2[514] (based upon multipolarities proposed  
+247ES2cL for depopulating |g transitions).                                      
+247ES  A 7550      1 100         1.12  15                                       
+247ES cA E$Others: 7540 {I10} (2005He27); 7310 {I30} (1973Es01)                 
+247ES  G 242.7     3 16       2(E1)                                             
+247ES cG M$E2 is also possible but less likely.                                 
+247ES  G 293.7     1 100       (E1)                                             
+247ES2 G EKC LE 0.08$ ELC LE 0.16 (2005He27)                                    
+247ES cG RI$I|g(293)/I|g(243)=4.4 {I2} (2006Ch52)                               

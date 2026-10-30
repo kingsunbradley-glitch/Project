@@ -1,0 +1,660 @@
+233PA    237NP A DECAY (2.144E+6 Y)    2002WO03,2000SC04,1979GO1220NDS    202012
+233PA  H TYP=FUL$AUT=B. Singh, J. K. Tuli,  E. Browne$CIT=NDS 170, 499 (2020)$  
+233PA2 H CUT=8-Oct-2020$                                                        
+233PA c  Following points should be noted:                                      
+233PA c  1. The directly measured %|a feedings (adopted here from 2002Wo03) and 
+233PA2c  those deduced from the gamma-ray intensity balances in the decay scheme
+233PA3c  (given under comments) are not always in good agreement.               
+233PA c  2. Below 115 keV the photon spectrum is mainly dominated by            
+233PA2c  many (complex) peaks from Pa x-rays (from {+237}Np |a decay) and       
+233PA3c  U x-rays (from {+233}Pa |b decay), which makes it difficult to extract 
+233PA4c  accurate intensities of |g rays in this energy region.                 
+233PA c  2000Sc04, 2002Wo03 (also 2000Wo01,2000Si02): measured |a, |g,          
+233PA2c  |a|g, |b|g, x-rays using Ge(Li), two HPGe and Si(Li) detectors at PTB. 
+233PA3c  Survey of previous measurements. The photon intensities in 2002Wo03    
+233PA4c  were originally listed in 2000Sc04 together with detailed information  
+233PA5c  about the origin of a radiation. The |a results given in 2002Wo03 were 
+233PA6c  originally listed in 2000Si02. 2000Wo01 give absolute intensities of   
+233PA7c  only 10 prominent |g rays.                                             
+233PA c  2004Sh07: measured x-ray and |g-ray emission probabilities for         
+233PA2c  {+237}Np decay in equilibrium with {+233}Pa decay. Euromet project.    
+233PA c  2002Lu01, 2000Lu01: measured emission probabilities of x-rays          
+233PA2c  and |g rays for {+237}Np-{+233}Pa source in equilibrium. The results   
+233PA3c  are also listed in 2002Wo03. Euromet project.                          
+233PA c  1992Lo03: measured half-life of decay of {+237}Np                      
+233PA c  1990Pe16: ce                                                           
+233PA c  1990Lo04: |a, |g                                                       
+233PA c  1990Bo44: E|a, I|a                                                     
+233PA c  1988Wo01: ce, |a, |g|g-coin                                            
+233PA c  1984Va27: photon emission probabilities of five x-ray lines and ten    
+233PA2c  |g rays                                                                
+233PA c  1981Ba68: relative and absolute |g-ray intensities of 40 |g rays       
+233PA c  1979Go12: measured |a, |g, |g|g- and |a|g-coin, x rays, |g(x ray)-coin;
+233PA2c  51 |g rays assigned to the decay of {+237}Np; absolute intensities of  
+233PA3c  31 |g rays measured                                                    
+233PA c  1976Sk01: energies and relative intensities of 42 |g rays              
+233PA c  1975PeZI: E|g, I|g, |g|g- and |a|g-coin                                
+233PA c  1974HeYW (also 1971Cl01): measured E|g, I|g of 31 |g rays.             
+233PA c  1969Br12 (also 1968Br25,1969BrZV): E|g, I|g, ce, |a, |g|g-, |a|g- and  
+233PA2c  |a(ce)-coin. Data from 1969Br12 are cited in 1971El11 evaluation of    
+233PA3c  A=137 nuclides.                                                        
+233PA c  1960Br12: measured half-life of decay of {+237}Np                      
+233PA c  1949Ma01: measured half-life of decay of {+237}Np                      
+233PA c  Others:                                                                
+233PA c  First identification of {+237}Np isotope: 1948Wa04, 1948Ma16           
+233PA d  1949Ma01 is the same as 1948Ma16                                       
+233PA c  |g measurements: 1975IoZZ, 1974ChXY, 1969Va06,                         
+233PA2c  1969HoZY, 1961Ba44, 1955St04, 1955Ma67                                 
+233PA c  |a: 1976BaZZ, 1969Va06, 1968Ba25, 1961Ba44, 1956Ko56, 1955Ma67         
+233PA c  |g|g-coin: 1969HoZY                                                    
+233PA c  |a|g(|q): 1967Hu03                                                     
+233PA c  |a(|q,temp) from oriented {+237}Np: 1961Ha34, 1974Go08.                
+233PA c  |a|g(t), |a(ce)(t) measurements: 1972Mc12, 1972Mc29, 1972Wi11,         
+233PA2c  1971Ga16, 1968Ob02, 1961Ma10, 1955St88, 1954En11                       
+233PA cA E$From 2002Wo03 (also 2000Si02). In an earlier evaluation (1990Ak02),  
+233PA2cA the adopted values were from 1961Ba44, 1968Ba25, 1976BaZZ.             
+233PA3cA Others: 1979Go12 (semi), 1969Br12 (semi), 1969Va06 (semi),             
+233PA4cA 1956Ko56 (s), 1955Ma67.                                                
+233PA cA IA$From 2002Wo03 (also 2000Si02). Values from 1990Bo44 are given under 
+233PA2cA comments. Earlier measurements: 1969Br12 (also 1968Br25), 1956Ko56.    
+233PA3cA Measurements of 1961Ba44 and 1979Go12 do not agree well with the       
+233PA4cA intensities given by 2002Wo03                                          
+233PA cA HF$The nuclear radius parameter r{-0}({+233}Pa)=1.51670 {I40}          
+233PA2cA is deduced from interpolation (or unweighted average) of radius        
+233PA3cA parameters of the adjacent even-even nuclides (2020Si16)               
+233PA cA E(a)$Transition seen by 2002Wo03 (also 2000Si02)                       
+233PA cA IA(B)$Reported by 1961Ba44 only, treated as uncertain                  
+233PA cA E(G)$From level scheme. This possible |a was observed only by          
+233PA2cA 1979Go12 in |a|g-coin spectrum (indicated by 1979Go12 in their         
+233PA3cA table for |a|g-coin results).                                          
+233PA cA E(H)$From 1961Ba44, 1968Ba25 and 1976BaZZ.                             
+233PA cA E(K),IA(K)$Combined to 163.25+169.1 levels: E|a=4710.8 {I7},           
+233PA2cA I|a=1.174% {I13} (2002Wo03); E|a=4710.6, I|a=1.20% {I5} (1990Bo44)     
+233PA tG $   ------------------------------------------------------------------ 
+233PA tG $                      Pa x-ray intensities                            
+233PA tG $   E(x ray)    Radiation             I(x ray) (%)                     
+233PA tG $   --------    ---------    ---------------------------------------   
+233PA tG $    2000Sc04                   2004Sh07          2000Sc04             
+233PA tG $    2002Wo03                                     2002Wo03             
+233PA tG $   ---------                  -------------     --------------------  
+233PA tG $     3.15      M (?)                             4.8 {I25}            
+233PA tG $    11.37      L{-1}             1.31 {I20}            1.55 {I8}      
+233PA tG $    13.27      L{-|a}            23.3 {I24}            26 {I3}        
+233PA tG $    14.95      L{-|c}             0.50 {I4}             0.64 {I6}     
+233PA tG $    15.4(b)    L{-|b6}                              <0.66 {I5}        
+233PA tG $    16.0       L{-|b2,15;|b4}       6.3 {I6}              7.9 {I3}    
+233PA tG $    16.6(b)    L{-|b1,|b5,|b3}                        <27.4 {I11}     
+233PA tG $    17.2(b)    L{-L1-M4,5}                         <11.5 {I5}         
+233PA tG $    18.9(a)    L{-L1-N1}          0.126 {I12}                         
+233PA tG $    19.50      L{-|g1}                               4.65 {I17}       
+233PA tG $    20.16(b)   L{-|g2,|g3,|g6}                         <3.49 {I13}    
+233PA tG $    20.7 (b)   L{-L1-O2,4}         1.22 {I11}                         
+233PA tG $    92.29(c)   K{-|a2,|a3}          1.80 {I3}            1.82 {I5}    
+233PA tG $    95.87(c)   K{-|a1}             2.89 {I4}            2.98 {I7}     
+233PA tG $   107.60(c)   K{-|b3}             0.330 {I24}          0.249 {I8}    
+233PA tG $   108.43(c)   K{-b1}             0.69 {I3}            0.864 {I19}(d) 
+233PA tG $   109.1(a)    K{-b5}             0.0252 {I12}                        
+233PA tG $   111.50(c)   K{-|b2}             0.269 {I13}            (b)         
+233PA tG $   111.9(a)    K{-|b4}             0.0078 {I4}                        
+233PA tG $   112.5(a)    K{-OP}             0.099 {I15}                         
+233PA tG $                                                                      
+233PA tG $ K x-ray intensities are in agreement with those from                 
+233PA tG $ 2002Lu01 and 1984Va27                                                
+233PA tG $ (a) From 2004Sh07                                                    
+233PA tG $ (b) Combined with  U x-rays from {+233}Pa |b{+-} decay               
+233PA tG $ (c) From 1979Go12 and 1984Va27                                       
+233PA tG $ (d) For 108.43+109.1                                                 
+233PA tG $  ------------------------------------------------------------------- 
+233PA cG $|g|g-coin from 1988Wo01 and 1976Sk01; |g|g- and |a|g-coin from        
+233PA2cG 1979Go12; |a|g-coin and |a(ce)-coin from 1969Br12                      
+233PA cG E$From weighted averages of 1979Go12, 1976Sk01 and 1974HeYW for        
+233PA2cG several transitions, unless otherwise stated. Energies measured by     
+233PA3cG 1988Wo01, 1975IoZZ, 1969Br12 and 1969HoZY are in good agreement.       
+233PA4cG Others: 1975PeZI, 1974ChXY, 1969Va06, 1961Ba44, 1955Ma67, 1955St04.    
+233PA cG RI$Weighted or unweighted averages from 2004Sc04, 2002Lu01 (also       
+233PA2cG 2000Lu01), 2000Sc04 (also 2002Wo03,2000Wo01), 1990Lo04, 1988Wo01,      
+233PA3cG and others, as stated with each |g ray.                                
+233PA3cG Minimum uncertainty of 1% was used in the                              
+233PA4cG averaging procedure, as well as in the final result. Other             
+233PA5cG measurements: 1984Va27, 1981Ba68, 1979Go12, 1976Sk01, 1975IoZZ,        
+233PA6cG 1975PeZI, 1971Cl03, 1969Br12, 1969Va06, 1969HoZY                       
+233PA cG M$From ce data of 1988Wo01 and 1969Br12. See also 1969HoZY and         
+233PA2cG {+233}Th |b{+-} decay. Assumed mixing ratios are from analogous        
+233PA3cG transitions. Experimental conversion data quoted here are from         
+233PA4cG 1988Wo01, unless otherwise stated. Assignment are the same in          
+233PA5cG the Adopted Gammas                                                     
+233PA cG M(u)$E1 from upper limit of |a(L1+L2)exp deduced from |a(ce)-coin      
+233PA2cG (1969Br12)                                                             
+233PA cG MR$From BrIccMixing code when ce data are available.                   
+233PA cG MR(x)$|d(E2/M1) assumed as |?0.4 from analogous transitions            
+233PA2cG as in 1990Ak02 evaluation of A=233 nuclei.                             
+233PA cG E(A)$Seen only by 1979Go12.                                            
+233PA cG E(B),RI(B)$From 1990Pe16.                                              
+233PA cG E(C)$Not observed; existence has been inferred by coincidence          
+233PA2cG data. Energy from level scheme.                                        
+233PA cG E(E)$From 2000Sc04, isotopic assignment is uncertain.                  
+233PA cG E(F)$From 1981Ba68, 1976Sk01 or 1969Br12. Transition is not            
+233PA2cG reported by 2000Sc04, or in any other recent experiments.              
+233PA cG E(I)$Expected interband transition has not been observed. This         
+233PA2cG transition is not listed in the Adopted dataset                        
+233PA cG E(S)$From {+233}Th |b{+-} decay; not seen in {+237}Np |a decay.        
+233PA cG RI(G)$Photon intensities of transitions deexciting the 257.3           
+233PA2cG level are assumed very small in comparison to their doublets, since    
+233PA3cG the |a transition feeding the level is uncertain or very weak.         
+233PA cL $(|a)(140|g,200|g)(t): T{-1/2}<2 ns (1955St88)                         
+233PA cL $(|a)(E|g>100)(t): T{-1/2}|<1.02 ns (1968Ob02)                         
+233PA cL E$From least-squares fit to E|g values, assuming 0.2 keV               
+233PA2cL uncertainty when not given                                             
+233PA cL J$From the Adopted Levels.                                             
+233PA CL BAND(A)$|p1/2[530]                                                     
+233PA CL BAND(B)$|p3/2[651]                                                     
+233PA CL BAND(C)$|p1/2[660]                                                     
+233PA CL BAND(D)$|p5/2[642]                                                     
+233PA CL BAND(E)$|p5/2[523]                                                     
+237NP  P 0.0         5/2+              2.144E+6 Y 7             4957.3    7     
+237NP cP J,T$Values are from {+237}Np Adopted Levels in the ENSDF database      
+237NP2cP (March 2006), and are still valid.                                     
+237NP cP QP$From 2017Wa10                                                       
+233PA  N 1.0         1.0       1.0                                              
+233PA cN BR$%|a=100. The SF and cluster decay modes are insignificant           
+233PA PN                                                                     3  
+233PA  A 4386      AP 0.02      46265                                       B   
+233PA  A 4550.5    220.011   3  8.4E4  24                                   a   
+233PA  A 4680.5    180.020   4  4.6E4  10                                   a   
+233PA  A 4825      4 0.014   11 6.6E4  52                                   a   
+233PA  A 4849      5 0.006   4  1.5E5  11                                   a   
+233PA  G 21.5        0.356   13                                             E   
+233PA cG RI$0.65 {I5} (2004Sh07)                                                
+233PA  G 27.7        0.84    7                                              E   
+233PA  G 288.3       0.0164  5                                              E   
+233PA  L 0.0          3/2-             26.975 D  13                         A   
+233PA cL T$From the Adopted Levels                                              
+233PA  A 4872.7    14 2.39   4   353   7                                        
+233PA cA E$others: 4873.0 (1990Bo44), 4871 {I3} (1961Ba44)                      
+233PA cA IA$others: 2.43 {I3} (1990Bo44), 2.6 {I2} (1969Br12), 0.925 (1961Ba44);
+233PA2cA 3.5 {I17} (to g.s. +6.66 level) (from decay scheme)                    
+233PA  L 6.658     17 1/2-                                                  A   
+233PA  A 4866.4    14 0.53   4  1.43E3 11                                       
+233PA cA E$other: 4866.4 (1990Bo44)                                             
+233PA cA IA$others: 0.49 {I3} (1990Bo44), 0.24 (1961Ba44), |>0.3 {I1}           
+233PA2cA (1969Br12); 3.5 {I17} (to g.s. +6.66 level) (from decay scheme)        
+233PA  G 6.68      5            (M1)                   3.04E3 8             S  S
+233PAS G  MC=2.25E3 6                                                           
+233PAS G  NC=610 17$OC=146 4$PC=28.0 8$QC=2.33 7                                
+233PA cG E,M$from the Adopted Gammas                                            
+233PA  L 57.112    10 7/2-                                                  A   
+233PA  A 4816.8    10 2.430  17  142   2                                        
+233PA cA E$4817.0 (1990Bo44)                                                    
+233PA cA IA$others: 2.47 {I2} (1990Bo44), 4.1 {I21} (from decay scheme)         
+233PA  G 57.113    20 0.362  4 E2                      175.6                 C  
+233PA cG E$weighted average of 57.104 {I20} (1979Go12), 57.15 {I4} (1976Sk01),  
+233PA2cG 57.112 {I20} (1974HeYW)                                                
+233PA cG RI$weighted average of 0.356 {i16} (2004Sh07), 0.366 {i3} (2002Lu01),  
+233PA2cG 0.360 {I5} (2002Wo03), 0.354 {I8} (2000Sc04), 0.34 {I1} (1988Wo01),    
+233PA3cG 0.38 {I4} (1979Go12). Others: 0.39 {I1} (1984Va27), 0.42 {I2}          
+233PA4cG (1981Ba68), 0.43 {I3} (1976Sk01)                                       
+233PA cG M$L1, L2, L3 ce lines used for normalization (1988Wo01)                
+233PA2 G EM2C=23 1$ EM3C=19 1$ ENC+=11 1$ EM1C<1.2 3 (1988Wo01)                 
+233PA2 G EM4C=1.2 3$ EM5C<1.2 3 (1988Wo01)                                      
+233PA2 G ELC=122 18                                                             
+233PA cG $L12:L3:M:N=26:18:16:5.6 (1969Br12)                                    
+233PAS G  LC=128.2 18$MC=35.3 5                                                 
+233PAS G  NC=9.51 14$OC=2.15 3$PC=0.345 5$QC=0.000911 13                        
+233PA cG E$admixture of {+233}Pa decay                                          
+233PA  L 70.526    20 5/2-                                                  A   
+233PA  A 4803.5    10 2.014  17  139   2                                        
+233PA cA E$other: 4803.6 (1990Bo44)                                             
+233PA cA IA$from 1961Ba44. Others: 2.06 {I5} (1990Bo44), |?3% (1969Br12),       
+233PA2cA 1.4 {i3} (from decay scheme)                                           
+233PA  G 63.90     10 0.0108 4 (E2)                    102.3                F   
+233PAS G  LC=74.7 12$MC=20.6 4                                                  
+233PAS G  NC=5.55 9$OC=1.252 20$PC=0.202 4$QC=0.000565 9                        
+233PA cG RI$from 1981Ba68                                                       
+233PA cG M$from Adopted Gammas                                                  
+233PA  G 70.49     10 0.0108 4 [M1+E2]                 38     27            F   
+233PAS G  LC=28 19$MC=7.5 54                                                    
+233PAS G  NC=2.0 15$OC=0.46 33$PC=0.076 51$QC=0.00126 89                        
+233PA cG RI$from I|g(63.9)/I|g(70.75)=1.0 (1975IoZZ)                            
+233PA  L 86.482     8 5/2+             36.5 NS   4                          B   
+233PA cL T$from |a(86.5|g)(t), unless otherwise stated. Weighted average of     
+233PA2cL 35.7 ns {I4} (1972Mc12), 36.4 ns {I5} (1972Mc29), 35.7 ns {I5}         
+233PA3cL (1972Wi11), 35.4 ns {I8} (|a(29.6|g)(t),1972Wi11), 37.4 ns {I4}        
+233PA4cL (|a(65-105 |a)(t),1971Ga16), 36.8 ns {I16} (|a(70-90 |g)(t),1968Ob02), 
+233PA5cL 36.9 ns {I5} (1961Ma10), 36.9 ns {I4} (|a(ce, <100 keV)(t),1954En11).  
+233PA  A 4788.0    9 47.64   6   4.55  3                                    C   
+233PA cA E$4788.1 (1990Bo44)                                                    
+233PA cA IA$others: 47.75 {I20} (1990Bo44); 82 {I2} (to 86+95+104+109 levels)   
+233PA2cA (from decay scheme)                                                    
+233PA  G 29.374    10 14.5   4  E1                     3.07                  C  
+233PA2 G EM1C<0.0078 5$ EM2C=0.059 8$ EM3C=0.054 7$ EM4C=0.012 3 (1988Wo01)     
+233PA2 G EM5C=0.009 2$ ENC+=0.048 2 (1988Wo01)                                  
+233PAS G  LC=2.29 4$MC=0.585 9                                                  
+233PAS G  NC=0.1527 22$OC=0.0331 5$PC=0.00487 7$QC=0.0001509 22                 
+233PA cG E$weighted average of 29.374 {I20} (1979Go12), 29.373 {I10} (1976Sk01),
+233PA2cG 29.375 {I20} (1974HeYW)                                                
+233PA cG $1990Pe16: Ice(L1)=1.4% {I2}, Ice(L2)=1.6% {I2}, Ice(L3)=2.6% {I2}     
+233PA cG RI$unweighted average of 13.2 {I4} (2004Sh07), 13.51 {I16} (2002Lu01), 
+233PA2cG 14.12 {I15} (2000Sc04), 13.9 {I1} (1990Lo04), 15.0 {I4} (1984Va27),    
+233PA3cG 15.6 {I2} (1981Ba68), 16.3 {I9} (1976Sk01). Weighted average is        
+233PA4cG 14.2 {I3}, but reduced |h{+2}=14. Others: 19.3 {I9} (1988Wo01),        
+233PA5cG 9.8 {I10} (1979Go12), both seem discrepant.                            
+233PA cG M$ce data of 1988Wo01 indicate that this transition may be an          
+233PA2cG anomalous E1, as is the 86.477|g. Measured I(ce) are:                  
+233PA3cG M1:M2:M3:M4:M5=<8:61 {I8}:55 {I7}:12 {I3}:9.0 {I18}; the theoretical   
+233PA4cG ratios for E1 are: 36:41.1:(55):14.1:16.9 (normalized at M3 line). The 
+233PA5cG deduced M conversion coefficients are smaller than the theoretical     
+233PA6cG ones, in contrast to the 86.477|g. However, as 1988Wo01 pointed out,   
+233PA7cG the detector efficiency was not completely reliable for E(ce)<50 keV.  
+233PA8cG The theoretical conversion coefficients are given here for that reason,
+233PA9cG rather than the deduced ones from measured I(ce)/I|g ratios.           
+233PA cG $|a(29|g)(|q): A{-2}=+0.28 {I17} (1967Hu03)                            
+233PA  G 86.484    10 12.2   3 E1                      1.43   8              C  
+233PA cG E$weighted average of 86.477 {I10} (1979Go12), 86.503 {I20} (1976Sk01),
+233PA2cG 86.486 {I10} (1974HeYW)                                                
+233PA cG RI$unweighted average of 12.86 {I21} (2000Wo01), 11.40 {I24}           
+233PA2cG (2002Lu01), 12.44 {I33} (1984Va27), 11.5 {I3} (1981Ba68), 12.6 {I13}   
+233PA3cG (1969Br12). Weighted average is 12.1 {I3}, but reduced |h{+2}=6.7.     
+233PA4cG Others: I|g(86.48+86.8 from {+233}Pa decay)=13.6 {I5}                  
+233PA5cG (2004Sh07), 14.1 {I3} (2000Sc04,2002Wo03), 14.0 {I4} (2002Lu01)        
+233PA2 G ELC=1.13 5 $ EMC=0.22 6 $ ENC=0.08 1 $ EL1C=0.54 3 (1988Wo01)          
+233PA2 G EL2C=0.55 3$ EL3C=0.035 7$ EM1C=(0.03 3)$ EM2C=0.09 1 (1988Wo01)       
+233PA2 G EM3C<0.056 3$ EM4C<0.017 1$ EM5C=0.024 3$ ENC+=0.08 1 (1988Wo01)       
+233PA2 G ELC=1.0 1                                                              
+233PA cG $L12:L3:M:N=133:8:40:13 (1969Br12)                                     
+233PA cG $The M and N+ regions of the ce spectra are highly complex.            
+233PA cG CC$from I(ce)/I|g measured by 1988Wo01. Other: 1.49 {I18}, analyzed    
+233PA2cG by 2008Go10 from data for measured conversion L-shell conversion       
+233PA3cG coefficients for anomalous E1 transition. The total conversion         
+233PA4cG coefficient is much enhanced as compared to the theoretical value of   
+233PA5cG 0.177.                                                                 
+233PA cG M$anomalous E1. See 1960As02 for discussions. Others: 1969Br12,        
+233PA2cG 2008Go10                                                               
+233PA cG $|a(87|g)(|q): A{-2}=+0.12 {I4} (1967Hu03)                             
+233PA  L 94.651    12 3/2+                                                  B   
+233PA  G 8.22      5 0.0055  AP (M1)                   1.64E3 4  9        AP    
+233PAS G MC=1.22E+3 3$ NC=329 8$ OC=78.9 19$ PC=15.1 4$ QC=1.25 3               
+233PA cG E$from {+233}Th |b{+-} decay. Other: 8.03 (1990Lo04) with              
+233PA2cG I|g=0.034 {I11}                                                        
+233PA cG $Total I(ce)(8.22|g)/I|g(88.0|g)|?62, as deduced in {+233}Th |b{+-}    
+233PA2cG decay, yields total Ice(8.22|g)|?9.                                    
+233PA cG M$from Adopted Gammas                                                  
+233PA  G 87.99     3  0.148  10[E1]                    0.1694               FC  
+233PAS G  LC=0.1277 18$MC=0.0312 5                                              
+233PAS G  NC=0.00824 12$OC=0.00189 3$PC=0.000321 5$QC=1.539E-5 22               
+233PA cG RI$unweighted average of 0.134 {I13} (2004Sh07), 0.167 {I4} (2002Lu01),
+233PA2cG 0.143 {I1} (1990Lo04). Weighted average is 0.146 {I6} with reduced     
+233PA3cG |h{+2}=16                                                              
+233PA  G 94.65     5  0.591  20 E1                     0.1398                C  
+233PAS G  LC=0.1054 15$MC=0.0257 4                                              
+233PAS G  NC=0.00680 10$OC=0.001561 22$PC=0.000267 4$QC=1.312E-5 19             
+233PA cG E$weighted average of 94.64 {I5} (1979Go12), 94.66 {I5} (1976Sk01)     
+233PA cG M$from Adopted Gammas                                                  
+233PA cG RI$weighted average of 0.575 {I19} (2004Sh07) and 0.615 {I23}          
+233PA2cG (2002Lu01)                                                             
+233PA  L 103.651   18 7/2+                                                  B   
+233PA  A 4771.4    8 23.2    3   7.1   1                                    C   
+233PA cA E,IA$other: 4771.4, 22.7 {I4} (1990Bo44)                               
+233PA  G 9.0                    [E2]                   4.2E5                C  S
+233PA cG $E|g=9.78, I|g=0.36 (1990Lo04) may partly belong to {+237}Np decay     
+233PA  G 17.40     5            [M1+E2]                8.0E3  78            S  S
+233PAF G FL=86.482                                                              
+233PA cG E$17.78 in 1990Lo04                                                    
+233PA  G 46.53     4  0.109  3 [E1]                    0.914                 C  
+233PAS G  LC=0.687 10$MC=0.1707 25                                              
+233PAS G  NC=0.0448 7$OC=0.01000 15$PC=0.001587 23$QC=5.98E-5 9                 
+233PA cG E$weighted average of 46.53 {I6} (1979Go12), 46.534 {I40} (1976Sk01)   
+233PA cG RI$unweighted average of 0.100 {I13} (2004Sh07), 0.103 {I2} (2002Wo03),
+233PA2cG 0.104 {I4} (2000Sc04), 0.113 {I1} (1990Lo04),                          
+233PA3cG 0.121 {I10} (1988Wo01), 0.110 {I10} (1984Va27), 0.119 {I4} (1981Ba68), 
+233PA4cG 0.100 {I10} (1979Go12). Weighted average is 0.111 {I2} with reduced    
+233PA5cG |h{+2}=4.5. Other: 0.163 {I5} (2002Lu01) seems discrepant              
+233PA  L 109.05     3 9/2+                                                  B   
+233PA  A 4766.5    8 9.3     3   16.3  6                                    C   
+233PA cA E,IA$other: 4766.4, 9.7 {I3} (1990Bo44)                                
+233PA  G 5.18                                                               C  S
+233PA cG E$from 1990Lo04, I|g=0.222 {I5} listed which may be transition         
+233PA2cG intensity                                                              
+233PAF G FLAG=F                                                                 
+233PA  G 22.6                                                               C  S
+233PA  L 133.25    20(11/2+)                                                B   
+233PA  A 4741.3    20 0.019      5395                                       C   
+233PAF A FLAG=BH                                                                
+233PA cA E$not in 2002Wo03; E|a=4748? (1990Bo44)                                
+233PA  G 24.14     10                                                       A  ?
+233PA  G 29.6                                                               I  S
+233PA  L 163.32     5 (11/2-)                                               A   
+233PA  A 4712.3    201.174   LE   53   GE                                   H   
+233PAF A FLAG=K                                                                 
+233PA cA IA$other: 0.484 {I13} (from decay scheme)                              
+233PA  G 54.40     10                                                       A   
+233PA  G 106.12    5  0.048  1 [E2]                    9.30                 FC  
+233PAS G  LC=6.78 10$MC=1.87 3                                                  
+233PAS G  NC=0.505 8$OC=0.1143 17$PC=0.0186 3$QC=7.89E-5 12                     
+233PA cG E$from 1976Sk01. Other: 106.15 {I25} (1979Go12)                        
+233PA cG RI$weighted average of 0.051 {I3} (2004Sh07), 0.049 {I1} (2002Lu01),   
+233PA2cG 0.048 {I1} (1990Lo04), 0.042 {I3} (1988Wo01)                           
+233PA  L 169.160   17 1/2+                                                  C   
+233PA  A 4708.3    201.174   LE   48   GE                                   H   
+233PAF A FLAG=K                                                                 
+233PA cA IA$other: 0.24 {I4} (from decay scheme)                                
+233PA  G 74.54     10 0.012  3 [M1+E2]                 29     20            FC  
+233PAS G  LC=7.43 11$MC=1.79 3                                                  
+233PAS G  NC=0.481 7$OC=0.1153 17$PC=0.0220 4$QC=0.00183 3                      
+233PA cG RI$from 1981Ba68                                                       
+233PA  G 162.51    3  0.0326 12(E1)                    0.1574               *C  
+233PA cG M$from Adopted Gammas                                                  
+233PAS G  KC=0.1230 18$LC=0.0260 4$MC=0.00629 9                                 
+233PAS G  NC=0.001670 24$OC=0.000389 6$PC=6.91E-5 10$QC=3.99E-6 6               
+233PA cG E$weighted average of 162.41 {I8} (1979Go12), 162.50 {I6} (1976Sk01),  
+233PA2cG 162.52 {I3} (1974HeYW)                                                 
+233PA cG RI$weighted average of 0.0327 {I12} (2000Sc04) and 0.032 {I4}          
+233PA2cG (1988Wo01)                                                             
+233PA  G 169.156   20 0.0621 24[E1]                    0.1431                C  
+233PAS G  KC=0.1120 16$LC=0.0235 4$MC=0.00568 8                                 
+233PAS G  NC=0.001508 22$OC=0.000352 5$PC=6.26E-5 9$QC=3.65E-6 6                
+233PA cG RI$weighted average of 0.0633 {I19} (2000Sc04) and 0.057 {I4}          
+233PA2cG (1988Wo01)                                                             
+233PA  L 179.59    10(9/2-)                                                 A   
+233PA  A 4698.2    8  0.535  10   90   2                                        
+233PA cA E,IA$other: 4698.0, 0.54 {I4} (1990Bo44)                               
+233PA  G 109.10    10                                                       B  ?
+233PA cG E$overlap with Pa K{-|b5}-x rays                                       
+233PA  L 201.619   14 3/2+                                                  C   
+233PA  G 32.46                                                              C  S
+233PA  G 115.44    20 0.0026 8 [M1+E2]                 10.0   35             ?  
+233PAS G  KC=5.4 52$LC=3.3 13$MC=0.89 39                                        
+233PAS G  NC=0.24 11$OC=0.055 23$PC=0.0094 32$QC=2.9E-4 23                      
+233PA cG E$weighted average of 115.40 {I35} (1979Go12), 115.45 {I20} (1976Sk01) 
+233PA cG RI$from 1976Sk01. Others: 0.32 (1979Go12) is in disagreement,          
+233PA2cG probably includes sum peak; 0.332 {I10} for sum peak (2000Sc04)        
+233PA cG E$admixture with U K x-rays                                            
+233PA  G 131.093   20 0.0849 31 E1                     0.262                uC  
+233PAS G  KC=0.202 3$LC=0.0451 7$MC=0.01095 16                                  
+233PAS G  NC=0.00290 4$OC=0.000672 10$PC=0.0001179 17$QC=6.40E-6 9              
+233PA cG E$weighted average of 131.101 {I25} (1979Go12), 131.043 {I30}          
+233PA2cG (1976Sk01), 131.11 {I2} (1974HeYW)                                     
+233PA cG RI$weighted average of 0.075 {I5} (2004Sh07), 0.0857 {I22} (2000Sc04), 
+233PA2cG and 0.091 {I5} (1988Wo01)                                              
+233PA2 G EL1C LT 0.06 (1969Br12)                                                
+233PA  G 194.96    2  0.182  5 E1                      0.1024               uC  
+233PAS G  KC=0.0806 12$LC=0.01644 23$MC=0.00397 6                               
+233PAS G  NC=0.001055 15$OC=0.000247 4$PC=4.43E-5 7$QC=2.68E-6 4                
+233PA cG E$weighted average of 194.95 {I3} (1979Go12),                          
+233PA2cG 194.97 {I2} (1974HeYW). Other: 195.096 {I20} (1976Sk01)                
+233PA cG RI$weighted average of 0.16 {I3} (2004Sh07), 0.177 {I5} (2000Sc04),    
+233PA2cG 0.191 {I6} (1988Wo01)                                                  
+233PA2 G EL1C+EL2C<0.05 (1969Br12)                                              
+233PA  G 201.670   25 0.0394 9 E1                      0.0946               uC  
+233PAS G  KC=0.0746 11$LC=0.01512 22$MC=0.00365 6                               
+233PAS G  NC=0.000970 14$OC=0.000227 4$PC=4.08E-5 6$QC=2.49E-6 4                
+233PA cG E$weighted average of 201.62 {I5} (1979Go12), 201.72 {I5} (1976Sk01),  
+233PA2cG 201.670 {I25} (1974HeYW).                                              
+233PA cG RI$weighted average of 0.0393 {I9} (2000Sc04) and 0.041 {I4} (1988Wo01)
+233PA2 G EL1C+EL2C<0.05 (1969Br12)                                              
+233PA  L 212.346   13  5/2+                                                 C   
+233PA  A 4665.0    9  3.478  24  8.1   8                                    C   
+233PA cA E$other: 4664.6 (1990Bo44)                                             
+233PA cA IA$others: 3.43 {I4} (1990Bo44), 2.76 {I20} (from decay scheme)        
+233PA  G 10.7                                                               I  S
+233PA  G 43.2                                                               I  S
+233PA  G 108.7       0.071   3 M1(+E2)   0.9     LT    4.4    12             C  
+233PAS G  LC=3.3 8$MC=0.84 25                                                   
+233PAS G  NC=0.226 66$OC=0.053 15$PC=0.0094 21$QC=0.00049 12                    
+233PA cG E$from level-energy difference. E|g=108.0 was given by 1969Br12 from   
+233PA2cG E(ceL12) and E(ceM) measured in coincidence with |a.                   
+233PA cG RI$weighted average of 0.072 {I4} (2004Sh07) and 0.070 {I3} (2002Lu01).
+233PA2cG Other: 0.068 {I15} from I|g(108|g):I|g(117|g):I|g(155|g):I|g(212|g)=   
+233PA3cG 23 {I4}:56 {I6}:31 {I2}:55 {I4}, measured by 1969Br12 in |a|g-coin     
+233PA4cG spectrum. I|g(108.2+108.7+109.1)+x-ray=0.864 {I19} (2000Sc04).         
+233PA2 G EL1C+EL2C=2.7 6 (1969Br12)                                             
+233PA cG $L12:L3:M=62:<3:17 (1969Br12)                                          
+233PA  G 117.705   20 0.170  4 M1+E2     0.46    +22-13 11.5  10             C  
+233PAS G  KC=8.4 14$LC=2.4 4$MC=0.60 10                                         
+233PAS G  NC=0.16 3$OC=0.038 6$PC=0.0068 8$QC=0.00041 7                         
+233PA cG E$weighted average of 117.702 {I20} (1979Go12), 117.681 {I30}          
+233PA2cG (1976Sk01), 117.718 {I20} (1974HeYW).                                  
+233PA cG RI$weighted average of 0.169 {I17} (2004Sh07), 0.184 {I12} (2002Lu01), 
+233PA2cG 0.169 {I4} (2000Sc04) and 0.15 {I2} (1988Wo01)                         
+233PA2 G ELC=1.8 3 (1969Br12)$                                                  
+233PA cG $L12:L3:M:N=90:8:51:|?8 (1969Br12)                                     
+233PA  G 141.74    10                                                       AC  
+233PA  G 155.242   20 0.0887 18 E1                     0.1755               uC  
+233PAS G  KC=0.1368 20$LC=0.0292 4$MC=0.00708 10                                
+233PAS G  NC=0.00188 3$OC=0.000437 7$PC=7.74E-5 11$QC=4.41E-6 7                 
+233PA cG E$weighted average of 155.239 {I20} (1979Go12), 155.22 {I4} (1976Sk01),
+233PA2cG 155.25 {I2} (1974HeYW).                                                
+233PA cG RI$weighted average of 0.087 {I6} (2004Sh07), 0.091 {I6} (2002Lu01),   
+233PA2cG 0.0889 {I18} (2000Sc04) and 0.086 {I6} (1988Wo01)                      
+233PA2 G EL1C+EL2C<0.09 (1969Br12)                                              
+233PA  G 212.32    2  0.152  3 E1                      0.0839               uC  
+233PAS G  KC=0.0663 10$LC=0.01331 19$MC=0.00321 5                               
+233PAS G  NC=0.000854 12$OC=0.000200 3$PC=3.60E-5 5$QC=2.22E-6 4                
+233PA cG E$weighted average of 212.29 {I5} (1979Go12),                          
+233PA2cG 212.33 {I2} (1974HeYW). Other: 212.415 {I25} (1976Sk01),               
+233PA cG RI$weighted average of  0.150 {I4} (2002Lu01), 0.151 {I3} (2000Sc04)   
+233PA2cG and 0.156 {I4} (1988Wo01). Other: 0.209 {I7} for 212.4+214.1 (2004Sh07)
+233PA2 G EL1C+EL2C<0.013 (1969Br12)                                             
+233PA  L 218       3                                                           ?
+233PA cL E$level not included in the Adopted dataset                            
+233PA  A 4659.1    20 0.57   LE   45   GE                                   B  ?
+233PA cA E$|a not in 2002Wo03 and 1990Bo44                                      
+233PA  L 237.904   11 5/2+                                                  D   
+233PA  A 4640.0    10 6.43   3   2.86  3                                    C   
+233PA cA E$other: 4839.5 (1990Bo44)                                             
+233PA cA IA$others: 6.45 {I4} (1990Bo44); 6.0 {I7} (from decay scheme)          
+233PA  G 36.32     2 0.005   1 M1+E2     0.31    9     2.1E+2 8             BC  
+233PAF G FLAG=F                                                                 
+233PAS G  LC=1.57E+2 56$MC=41 16                                                
+233PAS G  NC=11.1 41$OC=2.56 93$PC=0.44 15$QC=0.0144 5                          
+233PA cG $L1:L2:L3=1.1 {I4}:1.3 {I5}:1.0 {I3} (1990Pe16)                        
+233PA cG RI$from 1990Lo04                                                       
+233PA  G 134.276   20 0.072  3 [M1+E2]   0.4     AP    8.04   AP            xC  
+233PAS G  KC=6.05 9$LC=1.484 21$MC=0.369 6                                      
+233PAS G  NC=0.0991 14$OC=0.0235 4$PC=0.00433 6$QC=0.000291 4                   
+233PA cG E$weighted average of 134.285 {I20} (1979Go12), 134.23 {I4} (1976Sk01),
+233PA2cG 134.28 {I3} (1974HeYW).                                                
+233PA cG RI$unweighted average of 0.073 {I6} (2004Sh07), 0.075 {I3} (2002Lu01), 
+233PA2cG 0.067 {I3} (2000Sc04), 0.0640 {I9} (1990Lo04) and 0.080 {I5}           
+233PA3cG (1988Wo01). Weighted average is 0.066 {I3} with reduced |h{+2}=5.8     
+233PA  G 143.248   10 0.416  11M1+E2     0.69    19    5.8    6              C  
+233PA cG E$weighted average of 143.249 {I20} (1979Go12), 143.208 {I25}          
+233PA2cG (1976Sk01), 143.254 {I10} (1974HeYW).                                  
+233PA cG RI$unweighted average of 0.394 {I24} (2004Sh07), 0.428 {I3} (2002Lu01),
+233PA2cG 0.443 {I8}, 0.387 {I2} (1990Lo04) and 0.43 {I1} (1988Wo01). Weighted   
+233PA3cG average is 0.410 {I11} with reduced |h{+2}=17                          
+233PA2 G EKC=3.1 4$ EL1C=1.5 2$ EL2C=0.3 1$ EM1C=0.3 1 (1988Wo01)               
+233PA cG $|a(N+)exp<0.76 {i3} (1988Wo01)                                        
+233PA cG $|a(L3)exp=|a(M2)exp=|a(M3)exp=|a(M4)exp=|a(M5)exp<0.44 {I2} (1988Wo01)
+233PA cG $From their ce data, 1988Wo01 give %E2=9 {I7} or                       
+233PA2cG |d(E2/M1)=0.31 {I+13-17}                                               
+233PA2 G EL1C+EL2C=0.9 1 (1969Br12)                                             
+233PA cG $K:L12:L3:M:N=250:69:<5:15:6 (1969Br12)                                
+233PAS G  KC=4.0 7$LC=1.32 8$MC=0.34 3                                          
+233PAS G  NC=0.091 7$OC=0.0212 15$PC=0.00379 18$QC=0.00020 3                    
+233PA  G 151.408   15 0.244  3 M1+E2     0.28    12    5.9    3              C  
+233PA cG E$weighted average of 151.414 {I20} (1979Go12), 151.375 {I35}          
+233PA2cG (1976Sk01), 151.410 {I15} (1974HeYW).                                  
+233PA cG RI$weighted average of 0.223 {I14} (2004Sh07), 0.244 {I3} (2002Lu01),  
+233PA2cG 0.232 {I24} (2000Sc04) and 0.248 {I7} (1988Wo01)                       
+233PA cG $Measured conversion electron intensities for this transition          
+233PA2cG do not agree well: Ice(K)/Ice(L1+L2)=2.0 {I6} (1988Wo01), |?6.5        
+233PA3cG (1968Br12). Ice(L1)/Ice(L2)=15.8 {I26}:8.3 {I21} measured by           
+233PA4cG 1988Wo01 is used to determine the M1+E2 admixture. Other: 1969Br12     
+233PA2 G EKC=5.3 7$ EL1C=1.2 2$ EL2C=0.6 2$ ENC+<1.12 6$ EL3C<0.78 4 (1988Wo01) 
+233PA2 G EL1C+EL2C=1.0 2 (1969Br12)                                             
+233PA cG $|a(M1)exp=|a(M2)exp=|a(M3)exp=|a(M4)exp=|a(M5)exp<0.71 {I4} (1988Wo01)
+233PA cG $K:L12:L3:M=|?220:34:2:8 (1969Br12)                                    
+233PA cG MR$deduced by evaluators considering experimental ce data for K, L1 and
+233PA2cG L2 shells from 1988Wo01, and K:L12:L3:M ratio data (with 25%           
+233PA3cG uncertainty) from 1969Br12. Using data from 1988Wo01 only,             
+233PA4cG evaluators obtain |d<0.5, whereas 1988Wo01 give %E2=33 {I9} or         
+233PA5cG |d(E2/M1)=0.70 {I16}, which the evaluators cannot reproduce.           
+233PAS G  KC=4.6 4 $LC=0.99 3$MC=0.242 10                                       
+233PAS G  NC=0.065 3 $OC=0.0155 6$PC=0.00291 7$QC=0.000220 14                   
+233PA  G 180.79    5  0.0156 10[E1]                    0.1223                C  
+233PAS G  KC=0.0960 14$LC=0.0199 3$MC=0.00480 7                                 
+233PAS G  NC=0.001275 18$OC=0.000298 5$PC=5.32E-5 8$QC=3.15E-6 5                
+233PA cG E$weighted average of 180.81 {I10} (1979Go12), 180.80 {I8} (1976Sk01), 
+233PA2cG 180.78 {I5} (1974HeYW).                                                
+233PA cG RI$weighted average of 0.0158 {I10} and 0.015 {I2} (1988Wo01)          
+233PA  G 237.884   24 0.0572 9 [E1]                    0.0645                C  
+233PAS G  KC=0.0511 8$LC=0.01008 15$MC=0.00243 4                                
+233PAS G  NC=0.000646 9$OC=0.0001516 22$PC=2.75E-5 4$QC=1.740E-6 25             
+233PA cG E$weighted average of 237.86 {I2} (1979Go12),                          
+233PA2cG 237.908 {I20} (1974HeYW). Other: 238.04 {I4} (1976Sk01)                
+233PA cG RI$weighted average of 0.067 {I4} (2004Sh07), 0.056 {I3} (2002Lu01),   
+233PA2cG 0.0569 {I6} (2000Sc04) and 0.059 {I3} (1988Wo01)                       
+233PA  L 257.129   24 5/2-                                                  E   
+233PA  A 4619.7    21 0.032  8  4.2E2  11                                   C   
+233PA cA E$other: 4619, uncertain |a (1990Bo44)                                 
+233PA  G 153.37    10                                                       *   
+233PAF G FLAG=FG                                                                
+233PA  G 162.51    3                                                        *   
+233PAF G FLAG=G                                                                 
+233PA  G 170.62    5                                                        *   
+233PAF G FLAG=G                                                                 
+233PA  G 186.86    35           M1+E2     0.8    3     2.5    5             *   
+233PAF G FLAG=FG                                                                
+233PA cG M,MR$from the Adopted Gammas                                           
+233PA  G 250.58                                                             A   
+233PAF G FLAG=G                                                                 
+233PA  G 257.09    20           M1+E2     1.1    2     0.80   12            *   
+233PAF G FLAG=FG                                                                
+233PA cG M,MR$from the Adopted Gammas                                           
+233PA  L 279.719   22(7/2+)                                                 C   
+233PA  A 4599.1    18 0.371  9   24.5  7                                        
+233PA cA E$other: 4598.5 (1990Bo44)                                             
+233PA cA IA$others: 0.39 {I2} (1990Bo44); 0.36 {I3} (from decay scheme)         
+233PA  G 170.62    5 0.020   4 [M1+E2]   0.4     AP    4.0    AP            *C  
+233PAF G FLAG=x                                                                 
+233PAS G  KC AP 3.09$LC AP 0.698$MC AP 0.1720                                   
+233PAS G  NC AP 0.0462$OC AP 0.01097$PC AP 0.00205$QC AP 0.0001466              
+233PA cG E$weighted average of 170.59 {I6} (1979Go12), 170.63 {I8}              
+233PA2cG (1976Sk01), 170.64 {I5} (1974HeYW)                                     
+233PA cG RI$weighted average of 1976Sk01 and 1979Go12                           
+233PA  G 176.09    5 0.016   4 [M1+E2]   0.4     AP    3.67   AP            xC  
+233PAS G  KC AP 2.82$LC AP 0.633$MC AP 0.1559                                   
+233PAS G  NC AP 0.0418$OC AP 0.00995$PC AP 0.00186$QC AP 0.0001340              
+233PA cG E$weighted average of 176.12 {I6} (1979Go12), 176.09 {I7}              
+233PA2cG (1976Sk01), 176.06 {I5} (1974HeYW)                                     
+233PA cG RI$weighted average of 0.012 {I4} (2000Sc04) and 0.020 {I4} (1988Wo01) 
+233PA  G 193.24    3 0.0437  18[M1+E2]   0.4     AP    2.8    AP            xC  
+233PAS G  KC AP 2.18$LC AP 0.477$MC AP 0.1172                                   
+233PAS G  NC AP 0.0314$OC AP 0.00748$PC AP 0.001403$QC AP 0.0001030             
+233PA cG E$weighted average of 193.26 {I5} (1979Go12), 193.26 {I4}              
+233PA2cG (1976Sk01), 193.22 {I3} (1974HeYW)                                     
+233PA cG RI$weighted average of 0.041 {I8} (2004Sh07), 0.030 {I5} (2002Lu01),   
+233PA2cG 0.0437 {I10} (2000Sc04), 0.049 {I3} (1988Wo01). Reduced |h{+2}=3.6     
+233PA  G 209.20    3 0.0142  9 [E1]                    0.0868                C  
+233PAS G  KC=0.0685 10$LC=0.01381 20$MC=0.00333 5                               
+233PAS G  NC=0.000886 13$OC=0.000207 3$PC=3.73E-5 6$QC=2.30E-6 4                
+233PA cG E$weighted average of 209.19 {I5} (1979Go12), 209.25 {I5}              
+233PA2cG (1976Sk01), 209.18 {I3} (1974HeYW)                                     
+233PA cG RI$from 2000Sc04. Others: <0.02 (2004Sh07), 0.019 {I2} (2002Lu01),     
+233PA2cG 0.010 {I2} (1988Wo01)                                                  
+233PA  G 222.6     2 0.0020  10 [E1]                   0.075                F   
+233PA cG RI$average of 1976Sk01 and 1981Ba68                                    
+233PA  L 283       3                                                           ?
+233PA cL E$level not included in the Adopted Levels                             
+233PA  A 4594.9    20 0.085      101                                        B  ?
+233PA cA E$not reported in 2002Wo03 and 1990Bo44                                
+233PA  L 300.483   25 7/2+                                                  D   
+233PA  A 4578.6    14 0.369  23  17.3  11                                       
+233PA cA E$other: 4577.5 (1990Bo44)                                             
+233PA cA IA$others: 0.41 {I2} (1990Bo44); 0.7 {I4} (from decay scheme)          
+233PA  G 62.59     10 0.006  2 [M1+E2]                 65     49            F   
+233PAS G  LC=47 35$MC=12.9 99                                                   
+233PAS G  NC=3.5 27$OC=0.79 60$PC=0.130 93$QC=0.0018 13                         
+233PA cG RI$from 1981Ba68. Other: |?0.012 (1976Sk01)                            
+233PA cG $|a(M1)=17.5, |a(E2)=115.3.                                            
+233PA  G 191.43    3 0.0187  13[M1+E2]                 2.0    12             C  
+233PAS G  KC=1.4 12$LC=0.487 10$MC=0.125 7                                      
+233PAS G  NC=0.0337 19$OC=0.00786 25$PC=0.00140 7$QC=6.7E-5 54                  
+233PA cG E$weighted average of 191.46 {I5} (1979Go12), 191.45 {I6}              
+233PA2cG (1976Sk01), 191.42 {I3} (1974HeYW)                                     
+233PA cG RI$weighted average of 0.023 {I5} (2004Sh07), 0.015 {I4} (2002Lu01),   
+233PA2cG 0.0192 {I15} (2000Sc04) and 0.014 {I5} (1988Wo01)                      
+233PA  G 196.85    5 0.0209  12[M1+E2]   0.4     AP    2.67   AP            xC  
+233PAS G  KC AP 2.07$LC AP 0.451$MC AP 0.1108                                   
+233PAS G  NC AP 0.0297$OC AP 0.00708$PC AP 0.001327$QC AP 9.77E-5               
+233PA cG E$weighted average of 196.86 {I5} (1979Go12), 196.84 {I6}              
+233PA2cG (1976Sk01), 196.8 {I1} (1974HeYW)                                      
+233PA cG RI$weighted average of 0.020 {I4} (2004Sh07), 0.024 {I5} (2002Lu01),   
+233PA2cG 0.0208 {I12} (2000Sc04) and 0.021 {I2} (1988Wo01). Other: 0.156 {I2}   
+233PA3cG (1990Lo04) seems discrepant                                            
+233PA  G 214.01    4 0.0357  10[M1+E2]   0.4     AP    2.1    AP             C  
+233PAS G  KC AP 1.637$LC AP 0.351$MC AP 0.0860                                  
+233PAS G  NC AP 0.0231$OC AP 0.00550$PC AP 0.001034$QC AP 7.72E-5               
+233PA cG E$weighted average of 214.01 {I5} (1979Go12), 214.09 {I5}              
+233PA2cG (1976Sk01), 213.96 {I4} (1974HeYW)                                     
+233PA cG RI$weighted average of  0.039 {I2} (2002Lu01), 0.0362 {I8} (2000Sc04), 
+233PA2cG and 0.034 {I1} (1988Wo01).                                             
+233PA3cG Others: 0.209 {I7} for 212.4+214.0 (2004Sh07), 0.132 {I2} (1990Lo04)   
+233PA cG CC$ for assumed |d|?0.4                                                
+233PA  G 229.94    5  0.011  3 [E1]                    0.0697               FC  
+233PAS G  KC=0.0552 8$LC=0.01095 16$MC=0.00264 4                                
+233PAS G  NC=0.000702 10$OC=0.0001646 23$PC=2.98E-5 5$QC=1.87E-6 3              
+233PA cG RI$average of 1981Ba68, 1976Sk01 and 1969Br12                          
+233PA  L 303.51     6(9/2+)                                                 C   
+233PA  A 4573      3  0.048  23  127   61                                   B   
+233PA cA IA$possibly includes I|a to 306.05 level                               
+233PA cA IA$other: 0.059 {I9} (from decay scheme)                               
+233PA  G 139.9     1 0.0046  4 [E1]                    0.225                F  ?
+233PAS G  KC=0.1742 25$LC=0.0381 6$MC=0.00925 13                                
+233PAS G  NC=0.00245 4$OC=0.000569 8$PC=0.0001002 15$QC=5.55E-6 8               
+233PA cG RI$from 1981Ba68. I|g=0.019 {I5} (1976Sk01) is in disagreement.        
+233PA2cG Not reported in any other study                                        
+233PA  G 194.67    20  0.033 8 [M1+E2]                  1.9   12                
+233PA cG E$from 1976Sk01                                                        
+233PA cG RI$from 2002Lu01. Others: 0.03 {I1} (2004Sh07), 0.051 {I15} (1976Sk01).
+233PA2cG Alaga rule suggests I|g|<0.013 if I|g(199.95|g) deexciting the         
+233PA3cG 303.6 level is <0.004.                                                 
+233PA  G 199.95    6 0.0053  8 [M1+E2]                  1.8   11            F   
+233PA cG RI$from 1981Ba68                                                       
+233PA  L 306.09     7(7/2-)                                                 E   
+233PA  A 4567         0.010  4                                              G  ?
+233PA cA IA$from decay scheme                                                   
+233PA  G 48.96     10          [M1+E2]                 2.0E2  17            B  ?
+233PAF G FLAG=F                                                                 
+233PA  G 219.8                 [E1]                    0.0774               A  ?
+233PA  G 248.93    10 0.0050 14[M1+E2]                 0.93   61             C  
+233PAS G  KC=0.67 57$LC=0.20 4$MC=0.050 7                                       
+233PAS G  NC=0.0135 18$OC=0.0032 5$PC=0.00057 13$QC=3.2E-5 26                   
+233PA cG E$weighted average of 248.95 {I10} (1979Go12), 248.90 {I10} (1976Sk01) 
+233PA cG RI$others: 0.006 {I3} (2002Lu01); for 248.5                            
+233PA2cG (from {+233}Pa decay)+248.9: 0.0618 {I11} (2000Sc04),                  
+233PA3cG 0.10 {I5} (2004Sh07)                                                   
+233PA  L 365.96     7 9/2+                                                  D   
+233PA  A 4515.1    19 0.035  4    59   7                                        
+233PA cA E$other: 4513.7 (1990Bo44)                                             
+233PA cA IA$others: 0.041 {I4} (1990Bo44); 0.066 {I7} (from decay scheme)       
+233PA  G 153.37    10 0.0061 11[E2]                    1.96                 *C  
+233PAF G FLAG=F                                                                 
+233PAS G  KC=0.226 4$LC=1.268 19$MC=0.349 5                                     
+233PAS G  NC=0.0942 14$OC=0.0214 3$PC=0.00350 5$QC=2.42E-5 4                    
+233PA cG RI$average of 1976Sk01 and 1981Ba68                                    
+233PA  G 186.86    35 0.003  3 [E1]                    0.1131               *   
+233PAF G FLAG=F                                                                 
+233PAS G  KC=0.0889 13$LC=0.0183 3$MC=0.00442 7                                 
+233PAS G  NC=0.001173 18$OC=0.000274 4$PC=4.91E-5 8$QC=2.93E-6 5                
+233PA cG RI$from 1976Sk01. Others: I|g=0.0069 {I14} (1969Br12),                 
+233PA2cG 0.0013 {I8} (1981Ba68)                                                 
+233PA  G 202.9     2  0.0048 19[E1]                    0.0932                C  
+233PAS G  KC=0.0735 11$LC=0.01489 22$MC=0.00360 6                               
+233PAS G  NC=0.000955 14$OC=0.000223 4$PC=4.02E-5 6$QC=2.45E-6 4                
+233PA cG E$from 1976Sk01                                                        
+233PA cG RI$other: I|g(201.6+202.9)=0.0393 {I9} (2000Sc04)                      
+233PA  G 257.09    20 0.0064 14[M1+E2]                 0.9    6             *C  
+233PAF G FLAG=F                                                                 
+233PA cG RI$average of 1981Ba68, 1971Cl03 and 1969Br12. Others: 0.019 {I6}      
+233PA2cG (1979Go12) for 257.1+258.2 (from {+233}Pa decay): <0.05 (2004Sh07),    
+233PA3cG 0.036 {I5} (2002Lu01)                                                  
+233PA  G 262.44    15 0.0047118[M1+E2]                 0.8    6              C  
+233PA cG E$from 1976Sk01. Value is the same in 1979Go12, with uncertainty       
+233PA2cG of 0.20                                                                
+233PA cG RI$from 2000Sc04                                                       
+233PA  G 279.65    20 0.0109 4 [E2]                    0.222                 C  
+233PAS G  KC=0.0847 12$LC=0.1005 15$MC=0.0272 4                                 
+233PAS G  NC=0.00733 11$OC=0.001676 24$PC=0.000282 4$QC=5.02E-6 7               
+233PA cG RI$from 2000Sc04. Others: 0.0017 {I17} (1976Sk01), 0.011 {I4}          
+233PA2cG (1979Go12), 0.0023 (1971Cl03)                                          

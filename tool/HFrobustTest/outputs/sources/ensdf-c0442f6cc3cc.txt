@@ -1,0 +1,102 @@
+209RA    ADOPTED LEVELS, GAMMAS                                  15NDS    201506
+209RA  H TYP=FUL$AUT=J. CHEN {+#} AND F.G. KONDEV$CIT=NDS 126, 373 (2015)$      
+209RA2 H CUT=30-Sep-2013$                                                       
+209RA  Q -6990     70 7930   50 2770   50 7143.0 27    2012WA38                 
+209RA  XA213TH A DECAY                                                          
+209RA  XB174YB(40AR,5NG)                                                        
+209RA  XC184W(30SI,5NG)                                                         
+209RA cG E,RI$From {+184}W({+30}Si,5n|g) (2004Re04), unless otherwise stated    
+209RA cG E(B)$Observed at the focal plane and, therefore, fed from an isomeric  
+209RA2cG state with a half-life of a few |ms or longer in {+184}W({+30}Si,5n|g) 
+209RA3cG (2004Re04) (not placed in the level scheme).                           
+209RA cG M$From 2004Re04 in {+184}W({+30}Si,5n|g), based on the measured |g-ray 
+209RA2cG anisotropies (D=M1 and Q=E2 were assumed), unless otherwise stated     
+209RA cL E$From a least-squares fit to E|g.                                     
+209RA cL E(A)$Fed from a long-lived (a few |ms or longer) isomeric state, since 
+209RA2cL 378.8|g, 643.6|g and 765.3|g were observed at the mass separator       
+209RA3cL focal plane in {+184}W({+30}Si,5n|g) (2004Re04).                       
+209RA cL J$From 2004Re04 in {+184}W({+30}Si,5n|g), based on the deduced         
+209RA2cL |g-ray transition multipolarities and systematics arguments, unless    
+209RA3cL otherwise stated                                                       
+209RA PN                                                                     6  
+209RA  L 0.0           5/2-            4.8 S      2                             
+209RAX L XREF=ABC                                                               
+209RA2 L %A AP 100                                                              
+209RA cL J$from collinear LASER spectroscopy (1988Ah02). |p from |m             
+209RA cL T$weighted average of 4.7 s {I2} (|a(t),1967Va22), 4.5 s {I3} (|a(t),  
+209RA2cL 1968Lo15) and 5.1 s {I2} (238-KLM|a(t)+644.0|g|a(t), 2008Ha12). Since  
+209RA3cL {+209}Ra and {+210}Ra have similar E|a, different beam energies were   
+209RA4cL used to differentiate production of {+209}Ra and {+210}Ra in 1967Va22  
+209RA5cL and 1968Lo15                                                           
+209RA2 L MOMM1=+0.852 16$ MOME2=+0.39 4                                         
+209RA cL MOMM1,MOME2$measured using Collinear Fast Beam Laser Spectroscopy.     
+209RA2cL |m is weighted average of +0.865 {I13} (1988Ah02,1987Ar20) and         
+209RA3cL +0.832 {I16} (1987We03); Q is weighted average of +0.38 {I4}           
+209RA4cL (1988Ah02,1987We03) and +0.40 {I4} (1989Ne03).                         
+209RA cL $configuration=|n(f{-5/2}){+-1}                                        
+209RA cL $|d|4r{+2}|5({+209}Ra,{+214}Ra)=-0.253 fm{+2} {I25} (1988Ah02)         
+209RA cL $E|a=7008 keV {I5} (1967Va22), 7003 keV {I10} (2003He06), and 7005 keV 
+209RA2cL {I4} (2008Ha12).                                                       
+209RA  L 644.0      5  9/2-                                                     
+209RAX L XREF=BC                                                                
+209RA cL CONF$|n(f{-5/2}){+-1}~#2{++}                                           
+209RA cL J$644.0|g E2 to 5/2-                                                   
+209RA  G 644.0     5 100       E2                      0.0218                   
+209RAS G KC=0.01553 22$LC=0.00471 7$MC=0.001187 17$NC+=0.000394 6               
+209RAS G NC=0.000313 5$OC=6.94E-5 10$PC=1.130E-5 16$QC=5.51E-7 8                
+209RA cG E$weighted average of 643.6 keV {I5} from {+184}W({+30}Si,5n|g) and    
+209RA2cG 644.4 keV {I5} from {+174}Yb({+40}Ar,5n|g).                            
+209RA cG M${+209}Ra cg M; |a(K)exp<0.034 and K/L>3 in {+174}Yb({+40}Ar,5n|g)    
+209RA2cG (2008Ha12) are consistent with E1 or E2, but E1 is ruled out, since    
+209RA3cG the placement in the level scheme requires Mult.=E2; |g-ray anisotropy 
+209RA3cG measurements in {+184}W({+30}Si,5n|g) (2004Re04) suggest also Mult.=E2 
+209RA  L 882.4      7  13/2+           117 US    5                              
+209RAX L XREF=BC                                                                
+209RA cL J$238.4|g M2 to 9/2-; systematics of known J|p=13/2+ isomeric states in
+209RA2cL neighboring N=121 isotones                                             
+209RA cL T$weighted average of 115 |ms {I7} from 644.0|g(t) and 118 |ms {I6}    
+209RA2cL from from 238-KLM(t) in {+174}Yb({+40}Ar,5n|g) (2008Ha12). Other: 88   
+209RA3cL |ms {I31} from 238.4|g(t) in {+174}Yb({+40}Ar,5n|g) (2008Ha12)         
+209RA cL CONF$|n(i{-13/2}){+-1}                                                 
+209RA  G 238.4     5 100       M2                      5.38                     
+209RAS G KC=3.81 6$LC=1.164 17$MC=0.298 5$NC+=0.1010 15                         
+209RAS G NC=0.0796 12$OC=0.0181 3$PC=0.00308 5$QC=0.000221 3                    
+209RA cG E,RI$from {+174}Yb({+40}Ar,5n|g) 2008Ha12                              
+209RA cG M$from |a(K)exp=4.0 {I5} in {+174}Yb({+40}Ar,5n|g) (2008Ha12)          
+209RAB G BM2W=0.00153 7                                                         
+209RA  L 1014.8     7 (11/2-)                                               A   
+209RAX L XREF=C                                                                 
+209RA  G 370.8     5 100       (M1)                    0.397                B   
+209RAS G KC=0.320 5$LC=0.0585 9$MC=0.01395 21$NC+=0.00467 7                     
+209RAS G NC=0.00368 6$OC=0.000839 13$PC=0.0001463 22$QC=1.147E-5 17             
+209RA  L 1409.3     7 (13/2-)                                               A   
+209RAX L XREF=C                                                                 
+209RA  G 765.3     5 100       (E2)                    0.01525              B   
+209RAS G KC=0.01130 16$LC=0.00297 5$MC=0.000739 11$NC+=0.000246 4               
+209RAS G NC=0.000195 3$OC=4.34E-5 7$PC=7.17E-6 11$QC=3.93E-7 6                  
+209RA  L 1450.9     9 (17/2+)                                                   
+209RAX L XREF=C                                                                 
+209RA cL CONF$possible |n(i{-13/2}){+-1}~#2{++}                                 
+209RA  G 568.5     5 100       (E2)                    0.0288                   
+209RAS G KC=0.0197 3$LC=0.00677 10$MC=0.001722 25$NC+=0.000571 9                
+209RAS G NC=0.000454 7$OC=0.0001003 15$PC=1.615E-5 23$QC=7.10E-7 10             
+209RA  L 1888.1    10 (21/2+)                                                   
+209RAX L XREF=C                                                                 
+209RA  G 437.2     5 100       (E2)                    0.0537                   
+209RAS G KC=0.0329 5$LC=0.01549 23$MC=0.00402 6$NC+=0.001331 20                 
+209RAS G NC=0.001061 16$OC=0.000232 4$PC=3.65E-5 6$QC=1.226E-6 18               
+209RA  L 2223.7    12 (25/2+)                                                   
+209RAX L XREF=C                                                                 
+209RA  G 335.6     5 100       (E2)                    0.1093                   
+209RAS G KC=0.0562 8$LC=0.0393 6$MC=0.01038 16$NC+=0.00343 6                    
+209RAS G NC=0.00274 5$OC=0.000594 9$PC=9.13E-5 14$QC=2.19E-6 4                  
+209RA  L 2452.8    13 (27/2+)                                                  ?
+209RAX L XREF=C                                                                 
+209RA  G 229.1     5 100       (M1)                    1.496  23                
+209RAS G KC=1.203 19$LC=0.222 4$MC=0.0530 9$NC+=0.0178 3                        
+209RAS G NC=0.01398 22$OC=0.00319 5$PC=0.000556 9$QC=4.36E-5 7                  
+209RA  L 2760      15 (29/2+)                                                  ?
+209RAX L XREF=C                                                                 
+209RA  G 306                   (M1)                    0.671                   ?
+209RAS G KC=0.541 8$LC=0.0992 14$MC=0.0237 4$NC+=0.00793 12                     
+209RAS G NC=0.00624 9$OC=0.001424 20$PC=0.000248 4$QC=1.95E-5 3                 

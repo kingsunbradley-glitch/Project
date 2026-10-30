@@ -1,0 +1,532 @@
+243PU    ADOPTED LEVELS, GAMMAS                                  14NDS    201408
+243PU  H TYP=FUL$AUT=C.D. Nesaraja, E.A. McCutchan$CIT=NDS 121, 695 (2014)$     
+243PU2 H CUT=30-Sep-2013$                                                       
+243PU  Q 580       3  5034   3  6.95E+320 4757    3    2012WA38                 
+243PU cQ $S(2n)=11344 {I3}; S(2p)=13019 syst {i298} (2012Wa38)                  
+243PU c                                                                         
+243PU c  Theoretical and Systematic studies:                                    
+243PU c                                                                         
+243PU c  2012Ni16: T{-1/2} for |a decay for transitions from ground             
+243PU2c  state to favored rotational bands using Multicluster Channel Model     
+243PU c  2012Ro34: T{-1/2} and fission barriers with a generalized              
+243PU2c  liquid drop model.                                                     
+243PU c  2012Sa31: T{-1/2} from cluster decay using Coulomb                     
+243PU2c  and proximity potential model                                          
+243PU c  2011Ad15,2010Ad17: One-quasiparticle levels using the                  
+243PU2c  microscopic-macroscopic modified TCSM, QPM and the self-consistent     
+243PU3c  SHFB approaches                                                        
+243PU c  2011Ha06: Systematic analysis of experimental work in N=149 isotones   
+243PU c  2011He12: Compilation of T{-1/2}, J|p, and energy for long-lived       
+243PU2c  isomers for Z|>82                                                      
+243PU c  2011Zh36: Systematics and calculated partial half-life of |a decay to  
+243PU2c  members of favored band. Accurate expressions are proposed for the     
+243PU3c  evaluation of partial half-lives of these transitions based on         
+243PU4c  microscopic quantum tunneling theory.                                  
+243PU c  2010Ni02: Systematics and calculations of T{-1/2} and relative         
+243PU2c  intensities of |a decay within the generalized density-dependent       
+243PU3c  cluster model.                                                         
+243PU c  2006Sh19: Possible alternative parity bands using the                  
+243PU2c  cluster model features of reflection asymmetric states                 
+243PU c  2005Re16: Spontaneous fission half-lives                               
+243PU c  2002Si26: Summary of fission isomers                                   
+243PU c  1971Ko31: Nonrotational-state energies using the                       
+243PU2c  Woods-Saxon potential.                                                 
+243PU c  1997Mo25: T{-1/2} for ground-state alpha decay,                        
+243PU2c  pairing gaps and separation energies for neutrons and protons          
+243PU c  1995Mo29: Ground-state deformation.                                    
+243PU c  1983Ga20,1995Mo29: Ground-state mass                                   
+243PU c  1972We09,1990Bh02: Spontaneously fissioning shape isomer               
+243PU c  1982Ku09: Statistical properties of levels were studied. Calculated    
+243PU2c  level spacings in the first and second deformed potential well         
+243PU c                                                                         
+243PU c  Other experimental studies:                                            
+243PU c                                                                         
+243PU c  2006Ma01: Thermal neutron cross section of {+242}Pu(n,|g)              
+243PU c  2005LeZS: Reaction cross section of {+242}Pu(n,|g)                     
+243PU c  1987Gr13: {+249}Cf({+136}Xe,x): Production cross-sections              
+243PU c  1970Ot02: {+242}Pu(n,F) E(n)=500,620,730,990,1230 keV: fission-fragment
+243PU2c  angular distribution was measured by; data were analyzed with          
+243PU3c  single-particle and with statistical model of the intermediate         
+243PU4c  transition nucleus.                                                    
+243PU c  1970Br32: {+242}Pu(d,pF), {+242}Pu(t,dF): Measured fission-fragment    
+243PU2c  angular correlations and deduced and fission probabilities             
+243PU c                                                                         
+243PU cG E,RI$From {+242}Pu(n,|g), {+247}Cm |a decay, {+242}Pu(d,p|g) and       
+243PU2cG {+244}Pu({+208}Pb,{+209}Pb |g) data.                                   
+243PU cG M$From {+247}Cm |a decay. Multipolarities in square brackets are       
+243PU2cG from level scheme.                                                     
+243PU cG RI(M)$Branching of this doubly-placed gamma has not been determined    
+243PU2cG experimentally.                                                        
+243PU cL E$From least square fit of adopted |g energies and                     
+243PU2cL levels observed in (d,p), (d,t) reactions except as noted.             
+243PU cL E$In addition to the 46-ns isomer, 1974Br05 suggests the existence of  
+243PU2cL a longer-lived isomer. From systematics they predict T{-1/2}|?10 |ms. A
+243PU3cL spontaneously fissioning isomer with half-life in the 10-|ms range was 
+243PU4cL searched for, but not observed, by 1976Br38 through {+244}Pu(n,2n)     
+243PU5cL E(n)=14 MeV reaction.                                                  
+243PU cL J$Assignments derived from (d,p), (d,t) reactions are based on ratios  
+243PU2cL of cross sections measured at 90|' and 150|'; on ratios of (d,p)       
+243PU3cL to (d,t) cross sections; on comparison of relative cross sections      
+243PU4cL with those expected "signatures" for various band members; and on      
+243PU5cL systematics of Nilsson orbital. J|p assignments from other reactions   
+243PU6cL are indicated in the comments and in the # footnote                    
+243PU cL J(N)$From band member assignments in {+244}Pu({+208}Pb,{+209}Pb|g)     
+243PU CL BAND(A)$7/2[624] BAND.                                                 
+243PU2cL A=6.2.                                                                 
+243PU CL BAND(B)$5/2[622] BAND.                                                 
+243PU2cL A=6.6                                                                  
+243PU CL BAND(C)$1/2[631] BAND.                                                 
+243PU2cL A=7.2                                                                  
+243PU CL BAND(D)$9/2[734] BAND.                                                 
+243PU CL BAND(E)$1/2[620] BAND.                                                 
+243PU CL BAND(F)$7/2[613] BAND.                                                 
+243PU CL BAND(G)$K=3/2 BAND.                                                    
+243PU CL BAND(H)$1/2[761] BAND.                                                 
+243PU CL BAND(I)$3/2[622] BAND.                                                 
+243PU CL BAND(K)$1/2[501] BAND.                                                 
+243PU CL BAND(L)$3/2[631] BAND.                                                 
+243PU  XA247CM A DECAY                                                          
+243PU  XB243NP B- DECAY                                                         
+243PU  XC244PU(208PB,209PBG)                                                    
+243PU  XD242PU(D,P), 244PU(D,T)                                                 
+243PU  XE242PU(D,PG) E=16 MEV                                                   
+243PU  XF242PU(N,G):PRIMARY G'S                                                 
+243PU  XG242PU(N,G):SECONDARY G'S                                               
+243PU DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+243PU cG MR$If no value given it was assumed |d=1.00 for E2/M1,                 
+243PU2cG |d=1.00 for E3/M2 and |d=0.10 for the other multipolarities            
+243PU  L 0.0          7/2+              4.956 H   3                         A   
+243PUX L XREF=ABCDEFG                                                           
+243PU2 L %B-=100                                                                
+243PU cL T$weighted average of 4.955 h {I3} (1968Di09) and 4.958 h {I5}         
+243PU2cL (1969Ho10). Other measurements: 1951Su55, 1951Th20, 1953En08, 1977Dr07.
+243PU cL J$log| {Ift}|?6.1 to 5/2-. 402|g from 9/2- is E1                       
+243PU cL $Intrinsic Q was estimated by 1985Ge08 as 11.6 {I5} from relative      
+243PU2cL isotope shift, deduced from their measured isotope shifts for          
+243PU3cL neighboring even Pu isotopes.                                          
+243PU  L 58.13     22 9/2+                                                  A   
+243PUX L XREF=ACDG                                                              
+243PU cL J$(d,t) reaction data; energy fit to the band.                         
+243PU  G 58.1                                                                  S
+243PU cG E$|g transition has not been observed. E|g is from level energy        
+243PU2cG difference.                                                            
+243PU  L 124.8      7 11/2+                                                 A   
+243PUX L XREF=ACD                                                               
+243PU cL J$(d,t) reaction data; energy fit to the band.                         
+243PU  G 125         100       [E2]                    5.81                     
+243PUS G  KC=0.1664 24$LC=4.09 6$MC=1.146 16                                    
+243PUS G  NC=0.315 5$OC=0.0743 11$PC=0.01191 17$QC=5.28E-5 8                    
+243PU  L 207.1     11 13/2+                                                 A   
+243PUX L XREF=CD                                                                
+243PU cL J$(d,t) reaction data; 149.0|g to the 9/2+ 7/2[624] band; energy fit   
+243PU2cL to the band.                                                           
+243PU  G 149.0       100       [E2]                    2.75                     
+243PUS G  KC=0.197 3$LC=1.85 3$MC=0.518 8                                       
+243PUS G  NC=0.1423 20$OC=0.0336 5$PC=0.00542 8$QC=2.98E-5 5                    
+243PU  L 287.46    19 5/2+                                                  B   
+243PUX L XREF=ABDEG                                                             
+243PU cL J$287.4|g to 7/2+ state is M1; 96.2|g from (1/2+) state;               
+243PU2cL energy fit to the band                                                 
+243PU  G 229.3     2  1.8    4 [E2]                    0.518                    
+243PUS G  KC=0.1223 18$LC=0.288 5$MC=0.0797 12                                  
+243PUS G  NC=0.0219 4$OC=0.00519 8$PC=0.000856 13$QC=8.66E-6 13                 
+243PU  G 287.4     3  100    14M1                      1.344                    
+243PUS G  KC=1.063 16$LC=0.211 3$MC=0.0513 8                                    
+243PUS G  NC=0.01396 20$OC=0.00347 5$PC=0.000660 10$QC=4.31E-5 7                
+243PU  L 298.8     12 15/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 174         100                                                        
+243PU  L 333.21    24 7/2+                                                  B   
+243PUX L XREF=ADG                                                               
+243PU cL J$feeds 7/2+, 9/2+ levels, fed from 3/2+ state; |a hindrance           
+243PU2cL factor in {+247}Cm decay. (d,t) reaction data is in agreement with the 
+243PU3cL assignment.                                                            
+243PU  G 275.1     2  100    19[M1]                    1.517                    
+243PUS G  KC=1.200 17$LC=0.239 4$MC=0.0580 9                                    
+243PUS G  NC=0.01577 23$OC=0.00392 6$PC=0.000746 11$QC=4.87E-5 7                
+243PU  G 333.0     10 64     28[M1]                    0.895  15                
+243PUS G  KC=0.708 12$LC=0.1403 23$MC=0.0341 6                                  
+243PUS G  NC=0.00927 16$OC=0.00231 4$PC=0.000439 8$QC=2.86E-5 5                 
+243PU  L 383.64    25 (1/2+)            0.33 US   3                         C   
+243PUX L XREF=DEFG                                                              
+243PU cL J$fed by primary |g in (n,|g); (d,p) and (d,t) reaction data.          
+243PU cL T$from d,|g(t) in {+242}Pu(d,p|g) reaction (1975Ya03).                 
+243PU  G 96.2      2 100       [E2]                    18.9   4                 
+243PUS G  LC=13.72 24$MC=3.84 7                                                 
+243PUS G  NC=1.056 18$OC=0.249 5$PC=0.0396 7$QC=0.0001353 22                    
+243PUB G BE2W=0.116 11                                                          
+243PU  L 388       AP (9/2+)                                                B   
+243PUX L XREF=D                                                                 
+243PU  L 392.1      3 (3/2+)                                                C   
+243PUX L XREF=FG                                                                
+243PU cL J$fed by primary |g in (n,|g); (d,p) and (d,t) reaction data.          
+243PU  L 402.6     3  9/2-                                                  D   
+243PUX L XREF=AG                                                                
+243PU cL J$fed by favored |a (HF=1.7) from 9/2- {+247}Cm.                       
+243PU  G 278.0     8  4.7    10[E1]                    0.0488 8                 
+243PUS G  KC=0.0385 6$LC=0.00777 12$MC=0.00188 3                                
+243PUS G  NC=0.000509 8$OC=0.0001242 20$PC=2.23E-5 4$QC=1.143E-6 18             
+243PU  G 344.5     5  1.8    AP[E1]                    0.0307                   
+243PUS G  KC=0.0244 4$LC=0.00476 7$MC=0.001152 17                               
+243PUS G  NC=0.000311 5$OC=7.62E-5 11$PC=1.383E-5 20$QC=7.41E-7 11              
+243PU  G 402.6     3  100    9 E1                      0.0222                   
+243PUS G  KC=0.01774 25$LC=0.00338 5$MC=0.000816 12                             
+243PUS G  NC=0.000221 4$OC=5.41E-5 8$PC=9.88E-6 14$QC=5.46E-7 8                 
+243PU  L 404.0     15 17/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PU cL J$196.9|g to 13/2+                                                     
+243PU  G 196.9       100                                                        
+243PU  L 446.8      3 (5/2+)                                                C   
+243PUX L XREF=FG                                                                
+243PU cL J$|gs from 1/2+, 3/2+ states; band parameters deduced from             
+243PU2cL excitation energy fit the local trend.                                 
+243PU  L 450.1     15 (7/2+)                                                C   
+243PUX L XREF=D                                                                 
+243PU  L 455       5  11/2-                                                 D   
+243PUX L XREF=A                                                                 
+243PU cL E$From E|a and Q|a in {+247}Cm |a decay                                
+243PU cL J$energy fit to the band.                                              
+243PU  L 466.7     15 (11/2+)                                               B   
+243PUX L XREF=D                                                                 
+243PU  L 518.9     16 19/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 220.1       100                                                        
+243PU  L 536.6     15 (13/2+)                                               B   
+243PUX L XREF=D                                                                 
+243PU  L 564.5     15 (9/2+)                                                C   
+243PUX L XREF=D                                                                 
+243PU  L 595.3     15 (15/2-)                                               D   
+243PUX L XREF=D                                                                 
+243PU  L 625.7      3 (1/2+)                                                E   
+243PUX L XREF=DG                                                                
+243PU cL J$intensity ratio of gammas to 1/2+[631] band. This level was          
+243PU2cL obscured in (d,p) and (d,t) reactions by the 9/2+, 7/2[613] state.     
+243PU  G 233.9     6  5.0    16                                                 
+243PU  G 242.0     2  100    19                                                 
+243PU  L 626       2  (9/2+)                                                F   
+243PUX L XREF=D                                                                 
+243PU  L 646.8     18 21/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 242.8       100                                                        
+243PUL G FL=404.0                                                               
+243PU  L 653.8     4  (3/2+)                                                E   
+243PUX L XREF=DFG                                                               
+243PU cL J$fed by primary |g in (n,|g); |g to 3/2+ level; (d,p) and (d,t)       
+243PU2cL reaction data.                                                         
+243PU  G 261.7     3 100                                                        
+243PU  L 677.2     5  (5/2+)                                                E   
+243PUX L XREF=DFG                                                               
+243PU cL J$(d,p) and (d,t) reaction data; fed by primary |g in (n,|g); probably 
+243PU2cL decays to 7/2+ and (3/2+) states.                                      
+243PU  G 284.4     3  100    40                                                ?
+243PU  G 343.9     2  130    LT                                                ?
+243PUF G FLAG=M                                                                 
+243PU  L 704.0      3 (3/2-)                                                G   
+243PUX L XREF=DFG                                                               
+243PU cL J$strong primary (n,|g) feeding and |g decay to the 5/2+,5/2[522]      
+243PU2cL state suggest J|p=1/2+,3/2|+. Nonobservation of |g transition to       
+243PU3cL any other state and weak population in (d,p) and (d,t) reactions       
+243PU4cL imply that it might be a collective state built on the 5/2[622]        
+243PU5cL state. 1976Ca25 propose that it is perhaps an octupole-vibrational     
+243PU6cL state.                                                                 
+243PU  G 416.5     2 100                                                        
+243PU  L 734.1     20                                                           
+243PUX L XREF=D                                                                 
+243PU  L 741.8     15 (7/2+)                                                E   
+243PUX L XREF=D                                                                 
+243PU  L 783.8     19 23/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PU cL J$264.9|g to 19/2+                                                     
+243PU  G 264.9       100                                                        
+243PU  L 790.7      3 (3/2-)                                                H   
+243PUX L XREF=DFG                                                               
+243PU cL J$(d,p) and (d,t) reaction data. (n,|g) data is consistent with the    
+243PU2cL assignment.                                                            
+243PU  G 343.9     2  139    LT                                                 
+243PUF G FLAG=M                                                                 
+243PU  G 407.1     3  100    12                                                 
+243PU  L 809.5     3  1/2+,3/2                                                  
+243PUX L XREF=FG                                                                
+243PU cL J$fed by strong primary |g in (n,|g).                                  
+243PU  G 426.0     6  29     LE                                                 
+243PUF G FLAG=M                                                                 
+243PU  G 522.1     3  100    LE                                                 
+243PUF G FLAG=M                                                                 
+243PU  L 813.76    17 3/2+                                                  I   
+243PUX L XREF=DFG                                                               
+243PU cL J$fed by primary |g in (n,|g); feeds 7/2+, 5/2+ states. Level is       
+243PU2cL tentatively assigned to 3/2+,3/2[622] state from data in (d,p) and     
+243PU3cL (d,t) reactions.                                                       
+243PU  G 159.2     13 27     11                                                 
+243PU  G 480.6     3  31     4                                                  
+243PU  G 526.2     3  100    11                                                 
+243PU  G 813.8     2  96     10                                                 
+243PU  L 834.4     15 (7/2-)                                                H   
+243PUX L XREF=D                                                                 
+243PU  L 845.5      4 (5/2+)                                                I   
+243PUX L XREF=DG                                                                
+243PU cL J$(d,p) and (d,t) reaction data. |g decays are consistent with the     
+243PU2cL assignment.                                                            
+243PU  G 558.0     3  100    11                                                 
+243PU  G 787.5     8  34     17                                                 
+243PU  G 844.3     8  26     LE                                                ?
+243PUF G FLAG=M                                                                 
+243PU cG $Large |d should be expected, since M1 transition is K forbidden.      
+243PU  L 873.7     10 (1/2-)                                                H   
+243PUX L XREF=DG                                                                
+243PU cL J$(d,p) reaction data.                                                 
+243PU  G 219.9     3 100                                                       ?
+243PU  L 884       3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 895.6     15 (7/2+)                                                I   
+243PUX L XREF=D                                                                 
+243PU  L 905.7      4 (1/2-)                                                K   
+243PUX L XREF=DFG                                                               
+243PU cL J$fed by primary |g in (n,|g); decays to (1/2+), (3/2+) levels; (d,t)  
+243PU2cL reaction data.                                                         
+243PU  G 513.6     3  100    12                                                 
+243PU  G 522.1     3  34     LE                                                 
+243PUF G FLAG=M                                                                 
+243PU  L 920.6     15 (11/2-)                                               H   
+243PUX L XREF=D                                                                 
+243PU  L 933.0     21 25/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 286.2       100                                                        
+243PU  L 948.1      3 (3/2-)                                                K   
+243PUX L XREF=DFG                                                               
+243PU cL J$fed by primary |g in (n,|g); decays to (1/2+), (3/2+), (5/2+) levels;
+243PU2cL (d,t) reaction data.                                                   
+243PU  G 501.2     3  59     7                                                  
+243PU  G 555.7     5  51     17                                                 
+243PU  G 564.7     4  100    11                                                 
+243PU  L 954       2  (9/2+)                                                I   
+243PUX L XREF=D                                                                 
+243PU cL J$(d,p) reaction data.                                                 
+243PU  L 981.0     4  (5/2+)                                                L   
+243PUX L XREF=DG                                                                
+243PU cL J$(d,p) and (d,t) reaction data; |g decays are consistent with the     
+243PU2cL assignment.                                                            
+243PU  G 533.9     4  80     16                                                 
+243PU  G 589.1     3  100    12                                                 
+243PU  G 648.8     8  43     LE                                                ?
+243PUF G FLAG=M                                                                 
+243PU  G 693.5     7  32     12                                                 
+243PU  L 1044      2  (11/2+)                                                   
+243PUX L XREF=D                                                                 
+243PU cL J$11/2+, 9/2[615] assignment was tentatively suggested from (d,p),     
+243PU2cL (d,t) data.                                                            
+243PU  L 1080      2  (9/2+)                                                L   
+243PUX L XREF=D                                                                 
+243PU  L 1091.3    21 27/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 307.5       100                                                        
+243PU  L 1114      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1130.2     3 (1/2+,3/2)                                                
+243PUX L XREF=DFG                                                               
+243PU cL J$fed by primary |g in (n,|g); |g decays to (1/2+), (3/2|+), (5/2+)    
+243PU2cL levels.                                                                
+243PU  G 426.0     6  38     LE                                                 
+243PUF G FLAG=M                                                                 
+243PU  G 683.4     4  53     LE                                                 
+243PUF G FLAG=M                                                                 
+243PU  G 738.2     3  79     9                                                  
+243PU  G 746.4     3  100    11                                                 
+243PU  L 1145      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1176.5    3  3/2+,5/2+                                                 
+243PUX L XREF=DFG                                                               
+243PU cL J$fed by primary |g in (n,|g); gammas to 7/2+ and 5/2+ states.         
+243PU  G 385.7     3  13.5   23                                                 
+243PU  G 551.7     5  6.7    18                                                ?
+243PUL G FL=625.7                                                               
+243PU  G 730.1     7  5.4    18                                                 
+243PU  G 844.3     8  9.9    LE                                                ?
+243PUF G FLAG=M                                                                 
+243PU  G 889.1     6  100    14                                                 
+243PU  G 1176.5    5  52     11                                                 
+243PU  L 1197      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1213      2  (5/2-)                                                    
+243PUX L XREF=DG                                                                
+243PU cL J$5/2-,5/2[503] assignment is tentatively proposed by 1976Ca25.        
+243PU  G 879.8     10 75     35                                                ?
+243PU  G 925.3     10 100    50                                                ?
+243PU  L 1233      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1243      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1261.1    23 29/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 328.1       100                                                        
+243PU  L 1265      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1286      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1299      2                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1301.7     5 1/2,3/2                                                   
+243PUX L XREF=FG                                                                
+243PU cL J$fed by strong primary |g in (n,|g); |g decays to (1/2+) level.       
+243PU  G 648.8     8  37     LE                                                ?
+243PUF G FLAG=M                                                                 
+243PU  G 676.0     3  100    10                                                 
+243PUL G FL=625.7                                                               
+243PU  G 918.0     10 43     16                                                 
+243PU  L 1324      2                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1354      2                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1359      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1367.9     6 1/2,3/2                                                   
+243PUX L XREF=FG                                                                
+243PU cL J$fed by primary |g in(n,|g); |g decays to (3/2+), (3/2-) levels.      
+243PU  G 663.9     6  100    16                                                 
+243PU  G 714.7     11 31     16                                                ?
+243PU  G 976.0     12 84     42                                                 
+243PU  L 1387.4    4  3/2+                                                      
+243PUX L XREF=DFG                                                               
+243PU cL J$fed by strong primary |g in (n,|g); |g decays to 7/2+ level.         
+243PU  G 439.4     3  93     14                                                 
+243PU  G 683.4     4  107    LE                                                 
+243PUF G FLAG=M                                                                 
+243PU  G 1053.8    10 100    38                                                 
+243PU  L 1403      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1420.5    6  (3/2+)                                                    
+243PUX L XREF=D(1419)FG                                                         
+243PU cL J$fed by strong primary |g in (n,|g); probable |g decay to 7/2+ level. 
+243PU  G 716.9     5  61     13                                                ?
+243PU  G 1028.4    10 39     AP                                                ?
+243PU  G 1087.1    8  100    52                                                ?
+243PU  L 1434.7     4 1/2+,3/2                                                  
+243PUX L XREF=FG                                                                
+243PU cL J$fed by strong primary |g in (n,|g); gammas to 5/2+, 3/2+ and 3/2-    
+243PU2cL levels. J|p=3/2- is suggested by 1976Ca25.                             
+243PU  G 625.2     2  100    11                                                ?
+243PU  G 644.2     4  38     9                                                  
+243PU  G 757.5     4  44     8                                                  
+243PU  G 781.1     12 25     17                                                ?
+243PU  G 1042.1    5  73     11                                                 
+243PU  L 1438.8    24 31/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 347.5       100                                                        
+243PU  L 1444      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1465      3                                                            
+243PUX L XREF=D                                                                 
+243PU  L 1491.2    8  1/2-,3/2-                                                 
+243PUX L XREF=DF                                                                
+243PU cL J$fed by strong primary |g in (n,|g).                                  
+243PU  L 1516.6    8  (3/2-)                                                    
+243PUX L XREF=FG                                                                
+243PU cL J$fed by strong primary |g in (n,|g); possibly feeds (5/2+) level.     
+243PU  G 838.7     5 100                                                       ?
+243PU  L 1627.6    25 33/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 366.5       100                                                        
+243PUL G FL=1261.1                                                              
+243PU  L 1.7E+3    3                    46 NS     13                            
+243PU DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+243PU2 L %SF=100                                                                
+243PU cL $No other decay observed. Delayed gammas from this isomer were         
+243PU2cL searched for by 1974Br05 following {+242}Pu(n,F|g) reaction. No gammas 
+243PU3cL were found from the isomer.                                            
+243PU cL $Assignment: {+242}Pu(d,p) (1969La14,1970Vi05).                        
+243PU cL E$recommended by 1980Bj02.                                             
+243PU cL $1972We09 deduced E(level)=1.8 MeV from {+242}Pu(n,F) cross sections   
+243PU2cL measured by 1971Au06; E(level)=3.2 +0.6-0.2 MeV and E(level)=3.6 MeV   
+243PU3cL were deduced by 1969Ja01 and by 1971Be12, respectively, from average   
+243PU4cL level spacings observed in their {+242}Pu(n,F) data. Theoretical       
+243PU5cL calculations: E(level)=2.08 MeV (1972We09), 2.45 MeV (1990Bh02)        
+243PU cL T$from unweighted average of measured values of: 33 ns (1970Po01:      
+243PU2cL reevaluated measurement of 1969La14) and 58 ns {I11} (1970Vi05).       
+243PU DL $1980Bj02=S.Bjornholm and J.E.Lynn, Rev.Mod.Phys. 52, 725 (80)         
+243PU  L 1824       3 35/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 384.9       100                                                        
+243PUL G FL=1438.8                                                              
+243PU  L 2030       3 37/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 402.4       100                                                        
+243PU  L 2243       3 39/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 419.1       100                                                        
+243PU  L 2465       3 41/2+                                                 A   
+243PUF L FLAG=N                                                                 
+243PUX L XREF=C                                                                 
+243PU  G 434.9       100                                                        
+243PU  L 2692       3 43/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 449.2       100                                                        
+243PU  L 2929       3 45/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 463.6       100                                                        
+243PU  L 3167       3 47/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 475.0       100                                                        
+243PU  L 3413       4 49/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 484.5       100                                                        
+243PU  L 3656       4 51/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 488.6       100                                                        
+243PU  L 3901       4 53/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 488.2       100                                                        
+243PU  L 4142       4 55/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 486.5       100                                                        
+243PU  L 4384       4 57/2+                                                 A   
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 482.5       100                                                        
+243PU  L 4625       4 (59/2+)                                               A  ?
+243PUX L XREF=C                                                                 
+243PUF L FLAG=N                                                                 
+243PU  G 482.9       100                                                       ?
+243PU  L 5034.2    26 1/2+                                                     S
+243PUX L XREF=F                                                                 
+243PU  G 3517.4      92      14                                                 
+243PU  G 3543.0      100                                                        
+243PU  G 3599        93.3    AP                                                 
+243PUL G FL=1434.7                                                              
+243PU cG $Peak was broad (1976Ca25).                                            
+243PU  G 3614        77      16                                                 
+243PU  G 3646.8      84      13                                                 
+243PU  G 3666.4      25.8    40                                                 
+243PU  G 3733        23.8    60                                                 
+243PUL G FL=1301.7                                                              
+243PU  G 3857.5      5.2     18                                                 
+243PU  G 3903.9      32.9    50                                                 
+243PU  G 4085.5      60.1    91                                                 
+243PU  G 4128.6      48.0    73                                                 
+243PU  G 4220.6      76      12                                                 
+243PU  G 4225.0      39.7    79                                                 
+243PU  G 4243.0      35.3    54                                                 
+243PU  G 4330.0      86      13                                                 
+243PU  G 4356.9      12.7    20                                                 
+243PU  G 4381.2      18.1    28                                                 
+243PU  G 4587.4      16.5    26                                                 
+243PUL G FL=446.8                                                               
+243PU  G 4641.9      17.5    28                                                 
+243PU  G 4650.9      6.2     12                                                 

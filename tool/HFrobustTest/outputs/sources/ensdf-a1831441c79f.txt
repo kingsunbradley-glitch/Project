@@ -1,0 +1,87 @@
+266BH    ADOPTED LEVELS                                          19NDS    201902
+266BH  H TYP=MOD$AUT=B. SINGH$CIT=ENSDF$DAT=24-Jun-2020$COM=T1/2 comment edited$
+266BH  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 70 (2019)$CUT=31-Jan-2019$       
+266BH  Q -3030     SY 6380   SY 1980   SY 9220   40    2017WA10                 
+266BH cQ $Estimated uncertainties (2017Wa10): |DQ(|b{+-})=170, |DS(n)=290,      
+266BH2cQ |DS(p)=200, |DQ(|a)=80                                                 
+266BH cQ $Q(|a) from E|a=9.08 MeV {I4} (2004Mo42). Others: 9.43 MeV from        
+266BH2cQ E|a=9.29 MeV (2000Wi15), 9430 {I80} (syst, 2017Wa10)                   
+266BH cQ $S(2n)=14100 {I240}, S(2p)=5840 {I290} (syst, 2017Wa10).               
+266BH c  Edited by B. Singh, June 24, 2020: comment for half-life from          
+266BH2c  2000Wi15 modified. 1997Mo25 reference updated to 2019Mo01. No          
+266BH3c  new experimental references since the 2019 update.                     
+266BH c  2000Wi15: chemical investigation aimed at the study of {+266,267}Bh.   
+266BH2c  Reaction: {+249}Bk({+22}Ne,5n) at the 88-inch cyclotron of LBNL which  
+266BH4c  provided the {+22}Ne{+(6+)} beam at energies of 148 and 153 MeV        
+266BH5c  corresponding to 116-118 MeV and 122-124 MeV respectively in the       
+266BH6c  target. The target was 0.81 mg/cm{+2} {+249}Bk as oxide                
+266BH7c  prepared by the molecular plating technique.                           
+266BH8c  Chemical separation prior to this ensured that less than 0.5% of       
+266BH9c  {+249}Cf was present. Reaction products collected in a recoil chamber  
+266BHAc  located directly behind the target. This chamber was continuously      
+266BHBc  swept with He gas containing KCl aerosols to collect the products.     
+266BHCc  The products were then guided through a TEFLON capillary (1.4 mm,      
+266BHDc  7 min in length) to the merry-go-round (Mg) rotating wheel system.     
+266BHEc  One decay chain of {+266}Bh was observed at the higher beam energy     
+266BHFc  of 122-124 MeV followed by an |a-decay sequence. The cross-section     
+266BHGc  estimated for the 5n-reaction channel was 25-250 pb,                   
+266BHHc  based on an expected unhindered half-life of T{-1/2}|?0.5 s for this   
+266BHIc  nuclide with Q(|a)=9.29 MeV. Due to the experimental set-up, this      
+266BHJc  cross-section was strongly dependent on the assumed {+267}Bh half-life.
+266BHKc  The estimated half-life for {+266}Bh was T{-1/2}|?1-10 s; suggested    
+266BHLc  value is within 1 s. Fission decay properties of {+266}Bh and {+267}Bh 
+266BHMc  could not be determined due to contamination from {+256}Fm SF decay.   
+266BH c  Event #1:                                                              
+266BH c  E{-|a1}=9290 keV, t{-1}=0.87 s, assigned to {+266}Bh                   
+266BH c  E{-|a2}=8540 keV, t{-2}=27.83 s, assigned to {+262}Db                  
+266BH c  E{-|a3}=8740 keV, t{-3}=0.04 s, assigned to {+258}Lr                   
+266BH c                                                                         
+266BH c  2004Mo42, 2007Mo43, 2012Mo25: {+266}Bh produced as                     
+266BH2c  |a-great-granddaughter of {+278}Nh, which was formed in                
+266BH3c  {+209}Bi({+70}Zn,n) E=349 MeV reaction at RIKEN. See {+278}Nh          
+266BH4c  Adopted Levels for details of three correlated decay chains observed.  
+266BH5c  Results are summarized by 2015Mo25.                                    
+266BH d  2005MoZS, 2006MoZV, 2006MoZV, 2007MoZY, 2009MoZU and 2010MoZV reports  
+266BH2d  superseded by published articles: 2004Mo42, 2007Mo43 and 2012Mo25.     
+266BH c                                                                         
+266BH c  2006Qi03: {+266}Bh produced directly in {+243}Am({+26}Mg,3n),E=162 MeV 
+266BH2c  reaction (126 MeV at mid target) at HIRFL, Lanzhou facility. Total of  
+266BH3c  four |a-|a-|a correlated decay chains were observed. Deduced average   
+266BH4c  E|a, T{-1/2} of {+266}Bh decay and production |s.                      
+266BH c  History of decay chains in 2006Qi03:                                   
+266BH c  Event #1:                                                              
+266BH c  E{-|a1}=8989 keV, t{-1}=1.13 s, assigned to {+266}Bh                   
+266BH c  E{-|a2}=8459 keV, t{-2}=33.52 s, assigned to {+262}Db                  
+266BH c                                                                         
+266BH c  Event #2:                                                              
+266BH c  E{-|a1}=9071 keV, t{-1}=0.79 s, assigned to {+266}Bh                   
+266BH c  E{-|a2}=8604 keV, t{-2}=34.14 s, assigned to {+262}Db                  
+266BH c                                                                         
+266BH c  Event #3:                                                              
+266BH c  E{-|a1}=8959 keV, t{-1}=0.51 s, assigned to {+266}Bh                   
+266BH c  E{-|a2}=8542 keV, t{-2}=29.23 s, assigned to {+262}Db                  
+266BH c  E{-|a3}=8641 keV, t{-3}=5.07 s, assigned to {+258}Lr                   
+266BH c                                                                         
+266BH c  Event #4:                                                              
+266BH c  E{-|a1}=9106 keV, t{-1}=1.52 s, assigned to {+266}Bh                   
+266BH c  E{-|a2}=8518 keV, t{-2}=53.09 s, assigned to {+262}Db                  
+266BH c  Other: 1987ScZR                                                        
+266BH c                                                                         
+266BH c  For theoretical studies, consult Nuclear Science References (NSR)      
+266BH2c  database at NNDC, BNL for 42 primary references dealing with the       
+266BH3c  half-lives and other aspects of nuclear structure in this mass region  
+266BH  XA270MT A DECAY (0.48 S)                                                 
+266BH  L 0                             2.1 S     +29-8                          
+266BH2 L %A AP 100 $ %SF=?                                                      
+266BHX L XREF=A                                                                 
+266BH cL J$2-,3- from |W(proton)=5/2-, |W(neutron)=1/2+ (2019Mo01,theory)       
+266BH cL T$from mean lifetime=3.0 s {I+42-11} (2015Mo25 review article, analysis
+266BH2cL of three correlated decay chains observed in 2004Mo42, 2007Mo43        
+266BH3cL and 2012Mo25 at RIKEN). Others: 0.66 s {I+59-26} (2006Qi03),           
+266BH4cL |?1 s in Fig. 1 and 1 to 10 s in the text (2000Wi15), 0.6 s {I+29-3}   
+266BH5cL (deduced by 2004Mo42, from 0.87 s in Table I of 2000Wi15, interpreted  
+266BH6cL by 2004Mo42 as decay time of {+266}Bh)                                 
+266BH cL $E|a=9.08 MeV {I4} (2004Mo42), 9.77 MeV {I4} (2007Mo43), 9.39 MeV {I6} 
+266BH2cL (2012Mo25), 9.03 MeV {I8} (2006Qi03), 9.29 MeV (2000Wi15) from |a      
+266BH3cL decay of {+266}Bh. Unweighted average of the first four values is      
+266BH4cL 9.32 MeV {I17} (evaluator).                                            

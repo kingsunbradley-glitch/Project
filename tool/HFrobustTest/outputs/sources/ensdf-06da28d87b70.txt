@@ -1,0 +1,47 @@
+263SG    ADOPTED LEVELS                                          99NDS    199911
+263SG  H TYP=FUL$AUT=AGDA ARTNA-COHEN$CIT=NDS 88, 155 (1999)$CUT=31-Jul-1999$   
+263SG  Q -4.3E3    SY6.25E3  SY3.36E3  SY9.40E3  6     2012WA38                 
+263SG cQ $Note: Current evaluation has used the following Q record              
+263SG2cQ $ -4500    syst 6400   syst 3410   syst 9390   syst    1995Au04        
+263SG cQ           Estimated |DQ(|b{+-})=400, |DS(n)=300, |DS(p)=220,           
+263SGxcQ |DQ(|a)=100 (1995Au04)                                                 
+263SG c                                                                         
+263SG c  Calculations, compilations:                                            
+263SG c  g.s. properties: 1997Mo25, 1995Mo29                                    
+263SG c  Favored |a decay: 1993Bu09                                             
+263SG c  Pion emission: 1991Io03                                                
+263SG c  Single-particle Nilsson levels: 1994Cw02                               
+263SG c                                                                         
+263SG c  1994Cw02 calculate the following single-particle level sequence:       
+263SG2c  g.s. 7/2[613], 0.00 MeV {I11}/2[725], 0.01 MeV {I3}/2[622], 0.03 MeV   
+263SG3c  {I1}/2[620], 0.12 MeV {I9}/2[615]                                      
+263SG c                                                                         
+263SG c  Assignment: {+249}Cf({+18}O,4n), parent of {+259}Rf, grandparent of    
+263SG2c  {+255}No, |a-|a-|a correlation (1974Gh04,1994Gr08)                     
+263SG3c  {+249}Cf({+18}O,4n), excit, observed SF (1979Dr07)                     
+263SG3c  {+238}U({+34}S,5n){+267}Hs |a, daughter of {+267}Hs from |a-|a         
+263SG4c  correlation (1995Og02)                                                 
+263SG  XA267HS A DECAY                                                          
+263SG  L 0.0                           1.0 S     2                              
+263SG2 L %A GT 70$ %SF LT 30 (1995La20)                                         
+263SG cL T         from 1.1 s {I+28-6} (1994Gr08), 0.9 s {I2} (1974Gh04)        
+263SG cL %A        only |a decay observed (1974Gh04)                            
+263SG cL %SF       <30, no SF detected following {+267}Hs |a decay (1995La20).  
+263SG2cL T{-1/2}(SF)=0.64 s {I+32-18} from analysis of fragment tracks, %SF|?70 
+263SG3cL from cross section comparisons (1979Dr07)                              
+263SG cL           Calculated: T{-1/2}(|a)=2 s, T{-1/2}(|e+|b{++})=60 s,        
+263SG2cL T{-1/2}(SF)=20 s, deduced from Q values (1995KoZL); T{-1/2}(|a)|?0.1 s 
+263SG3cL (1990Ha26); T{-1/2}(SF)|?400 s, T{-1/2}(|a)|?30 s (1988Lo03)           
+263SG  L 0.0+X                                                                  
+263SGX L XREF=A                                                                 
+263SG cL E         x=90 {I90} from Q(|a)({+267}Hs)=10110 {I70} (systematics,    
+263SG2cL 1995Au04) and E|a                                                      
+263SG  L  130+X                                                                 
+263SGX L XREF=A                                                                 
+263SG  L  0.0+Y                          0.12 S                              M  
+263SG2 L %A=?$ %IT=?                                                            
+263SG cL           Reported as a member of |a chain from {+271}110              
+263SG2cL (1997Ho03,1997Ho13).                                                   
+263SG2cL 1997Au04 cites T{-1/2}=0.36 s {I13} from an earlier report by same     
+263SGxcL authors.                                                               
+263SG cL           Parent of 1.7 s E|a=8.88 MeV {+259}Rf (1997Ho03,1997Ho13).   

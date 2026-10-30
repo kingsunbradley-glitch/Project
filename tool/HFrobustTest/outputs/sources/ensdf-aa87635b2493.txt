@@ -1,0 +1,39 @@
+253LR    ADOPTED LEVELS                                          13NDS    201309
+253LR  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+253LR2 H CUT=1-Mar-2012$                                                        
+253LR  Q -4980     SY 8233   SY 1584   SY 8918   20    2012WA38                 
+253LR cQ $2012Wa38: |DQ(|b{+-})=457 syst, |DS(n)=312 syst, |DS(p)=202 syst      
+253LR c  Calculations, compilations:                                            
+253LR c  g.s. properties: 1997Mo25, 1995Mo29, 2004Pa40                          
+253LR c  Single-particle Nilsson levels: 1994Cw02, 2004Pa40                     
+253LR c  Half-lives for alpha and beta decay: 1997Mo25                          
+253LR c                                                                         
+253LR c  1994Cw02 have calculated the following single-particle level sequence: 
+253LR2c  g.s., 7/2[514]; 0.04 MeV, 1/2[521]; 0.15 MeV, 9/2[624]; 0.69 MeV,      
+253LR3c  5/2[512]; 0.88 MeV, 7/2[633].                                          
+253LR c  2004Pa40 have calculated following single-particle level sequence      
+253LR2c  0.09 MeV, 9/2[624]; 0.10 MeV, 1/2[521]; 0.56 MeV, 5/2[512];            
+253LR3c  0.71 MeV, 7/2[633]; 1.08 MeV, 3/2[521].                                
+253LR c                                                                         
+253LR c  Assignment:                                                            
+253LR c  {+205}Tl({+50}Ti,2n){+257}Db(|a), parent of {+249}Md                   
+253LR2c  (1985He22,1986He28) granddaughter of {+261}Bh (1989Mu09)               
+253LR  XA257DB A DECAY (2.3 S)                                                  
+253LR  XB257DB A DECAY (0.67 S)                                                 
+253LR  L  0.0        (7/2-)              0.57 S  +7-6                        M  
+253LRX L XREF=A                                                                 
+253LR2 L %A AP 98.7$ %SF AP 1.3                                                 
+253LR cL %A$from %SF=1.3 {I+30-10} (2001He35).                                  
+253LR cL J$configuration=7/2-[514] (2001He35,2005KuZZ)                          
+253LR@cL T{-1/2}(SF)|>2.2 min (2000Ho27)                                        
+253LR cL T         from 2001He35, 1999He11                                      
+253LR  L  0+Y        (1/2-)            1.49 S    +30-21                      M1 
+253LRX L XREF=B                                                                 
+253LR2 L %A=92 5$ %SF= 8 5                                                      
+253LR cL           %|a: from measured %SF=8 {I5} (2001He35)                     
+253LR cL J$configuration=1/2-[521] (2005KuZZ)                                   
+253LR cL T         from 2001He35. Others: 1.3 s {I+6-3} (1985He22,1986He28),    
+253LR2cL 1.7 s {I+20-6} (1989Mu09), 1.5 s {I+3-2} (1999He11).                   
+253LR  L  107      18     (9/2-)                                                
+253LRX L XREF=A                                                                 
+253LR cL J$from 2005KuZZ, |p=+, configuration=9/2+[624] in 2001He35             

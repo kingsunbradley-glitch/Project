@@ -1,0 +1,67 @@
+249NO    253RF A DECAY (9.9 MS)        2022LO03,2022TE01         24NDS    202403
+249NO  H TYP=MOD$AUT=C.D.Nesaraja$DAT=27-APR-2025$                              
+249NO2 H COM=Level 125-keV has replaced the previous level 102-keV.             
+249NO  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249NO c  2022Lo03: measured E|a, (Er)-|a-|a correlated decays using             
+249NO2c  SHELS fragment separator and implanted into the GABRIELA setup at      
+249NO3c  FLNR-JINR-Dubna. E|a=9210 keV {I20} and 9310 keV {I20} observed        
+249NO4c  following the decay of {+253}Rf.                                       
+249NO c  2022Te01: Partial decay scheme established based on decay scenario     
+249NO2c  presented in 2022Lo03 and supported by GEANT4 simulations. Additional  
+249NO3c  details were provided by A.Lopez-Martens (co-author of 2022Te01)       
+249NO2c  in an email to C.D. Nesaraja on 22 April, 2025.                        
+249NO c  2021Kh07: {+253}Rf produced in {+204}Pb({+50}Ti,n),E=234.3 MeV,        
+249NO2c  followed by separation of evaporation residues (ERs) using gas-filled  
+249NO3c  TransActinide Separator and Chemistry Apparatus (TASCA) at UNILAC, GSI.
+249NO4c  Measured (Er)-|a-|a-|a correlated events, E|a, I|a, half-lives of two  
+249NO5c  fission activities of {+253}Rf. A total of seven (Er)-|a-|a-|a         
+249NO6c  correlated events were recorded.                                       
+253RF  P  0           (1/2+)             9.9 MS  12              9460     20    
+253RF cP E$The 9.9-ms activity in 2022Lo03 and 12.8-ms in 2021Kh07 assumed      
+253RF2cP as the g.s. of {+253}Rf. A second activity with T{-1/2}=52.8 |ms {I44} 
+253RF3cP is reported by 2022Lo03, and with T{-1/2}=44 |ms {I+17-10} by 2021Kh07,
+253RF4cP decaying by SF decay. Experimentally, energy ordering of the two states
+253RF5cP is not established. It is assumed that the longer-lived and            
+253RF6cP slow-fissioning activity is the ground state.                          
+253RF cP J$Proposed configuration=|n1/2[631] (2022Lo03). 2021Kh07 suggested 7/2+
+253RF2cP for the g.s. with configuration=|n7/2[724]. Note that 2022Lo03 reversed
+253RF3cP the J|p assignments for the g.s. and the 52.8-|ms isomer from those    
+253RF4cP proposed by 2021Kh07, based on fission hindrances and                  
+253RF5cP half-lives of the two activities.                                      
+253RF cP T$from SF decay curve (2022Lo03). Others: 5.7 ms {I+31-15} from        
+253RF2cP Er-|a-correlated decay curve (2022Lo03); 12.8 ms {I+70-34} (2021Kh07,  
+253RF3cP Er-|a decay); 11 ms {I+6-3} (1997He29).                                
+253RF cP QP$From measured E|a=9310 {I20} (2022Lo03) to the g.s. of {+249}No.    
+253RF2cP Other: 9430 keV {I300} (syst, 2021Wa16)                                
+249NO cL J,T$from the Adopted Levels                                            
+249NO  N                         0.17  6                                        
+249NO cN BR$%|a=17 {I6} for decay of 9.9-ms activity of {+253}Rf                
+249NO2cN obtained from the ratio of |a-decay and fission events (2022Lo03)      
+249NO  L  0           (5/2+)            38.1 MS  28                             
+249NO  A 9310      20                                                           
+249NO cA E$From 2022Te01. A 5% direct feeding to g.s. is deduced to             
+249NO2cA account for all the counts in the 9.31 MeV alpha decay                 
+249NO3cA branch from the internal conversion and subsequent atomic              
+249NO4cA radiation that are fully absorbed in the DSSD as                       
+249NO5cA described in the email communication from A. Lopez-Martens             
+249NO  L 125       CA (1/2+)                                                    
+249NO cL E$From E|a feeding the state as deduced by 2022Te01                    
+249NO3cL based on the decay scenario (2022Lo03) and supported by GEANT          
+249NO4cL simulation.                                                            
+249NO  A 9190      20                                                           
+249NO cA E$Per email-communication with A.Lopez-Martens (co-author of 2022Te01) 
+249NO2cA on 22 April, 2025, the double humped |a decay spectrum structure       
+249NO3cA (Fig.5a in 2022Te01) indicates alpha decay to excited state. The       
+249NO4cA average E|a=9210 keV {I20} observed is a partial or total summing of   
+249NO5cA the alpha particle energy from auger electrons, LX rays and/or partial 
+249NO6cA energy deposition of the L electron as it makes its way out of the     
+249NO7cA DSSD. These effects were simulated with the GEANT4 code, and the most  
+249NO8cA likely energy of 9190 keV {I20} with a branching ratio of |?95% that   
+249NO9cA feeds the state was deduced. Note that the experimental statistics were
+249NOacA low as shown in the alpha spectrum of Fig 5a in 2022Te01. Other: 9170  
+249NObcA keV {I30} (2021Kh07).                                                  
+249NO  G 125                    [E2]                                           S
+249NO cG E$from 2022Te01. Assumed to be E2 transition which would not be        
+249NO2cG observed as it is highly converted                                     
+249NO cG M$Highly converted prompt transition based on known low lying states   
+249NO3cG in N=147 isotones (2022Te01).                                          

@@ -1,0 +1,117 @@
+258DB    ADOPTED LEVELS, GAMMAS                                  17NDS    201709
+258DB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 144, 297 (2017)$CUT=25-Aug-2017$      
+258DB  Q -3450     SY 6480   SY 1360   SY 9500   50    2017WA10                 
+258DB cQ $Estimated uncertainties (2017Wa10): 510 for Q(|b{+-}), 370 for S(n),  
+258DB2cQ 310 for S(p)                                                           
+258DB cQ $S(2n)=14840 {I390}, S(2p)=4530 {I320}, Q(|ep)=1840 {I310}             
+258DB2cQ (syst,2017Wa10)                                                        
+258DB c  1984Og03: {+258}Db produced and identified in {+208}Bi({+50}Ti,n)      
+258DB2c  and parent of {+258}Rf activity.                                       
+258DB c  1985He22: {+258}Db produced in {+208}Bi({+50}Ti,n), and identified     
+258DB2c  as parent of {+254}No, {+254}Lr, {+250}Fm, and {+250}Md through        
+258DB3c  |a|a correlations, measured half-lives.                                
+258DB c  2001Ga20: {+258}Db produced in {+241}Am({+22}Ne,5n), measured          
+258DB2c  half-lives                                                             
+258DB c  2008Ga25: {+258}Db produced in {+208}Pb({+51}V,n),({+50}Ti,n) reactions
+258DB2c  at E=4.7-5.1 MeV/nucleon, with beams of {+51}V (11+ charge state) and  
+258DB3c  {+50}Ti (12+ charge state) provided by 88-Inch Cyclotron at LBNL.      
+258DB4c  Separated and detected charged particles using BGS focal plane detector
+258DB5c  and a multiwire proportional counter. Measured E|a, I|a and half-life  
+258DB6c  of {+258}Db decay using silicon implantation detectors.                
+258DB c  2016He15: {+258}Db produced in {+209}Bi({+50}Ti,n),E=236 MeV, with     
+258DB2c  {+50}Ti beam from the ECR source of the UNILAC at GSI. The Evaporation 
+258DB3c  residues (ERs) were separated by the velocity filter SHIP and implanted
+258DB4c  into a position-sensitive 16-strip Si PIPS detector for detecting      
+258DB5c  ERs, conversion electrons, and subsequent |a-decays or spontaneous     
+258DB6c  fission (SF) events. Escaped products into the backward hemisphere were
+258DB7c  detected by a box of six Si wafers. The x rays were detected by a Ge   
+258DB8c  clover detector consisting of four crystals. Measured correlations     
+258DB9c  between ERs, x rays, ce, |a-decay and SF events. Deduced isomeric      
+258DBAc  states and half-lives.                                                 
+258DB c  Theoretical studies: consult the NSR database at www.nndc.bnl.gov for  
+258DB2c  about 40 references dealing with theoretical calculations of           
+258DB3c  half-lives for different decay modes, binding energies, fission        
+258DB4c  characteristics, and other nuclear structure aspects.                  
+258DB d  Theoretical partial half-life of spontaneous fission of the            
+258DB2d  ground-state: 1985Lo17.                                                
+258DB d  Theoretical fission barrier: 1985Cw01.                                 
+258DB d  1994Ch42, 2000De09: process of the formation of {+258}Db in            
+258DB2d  {+209}Bi({+50}Ti,n) reaction was studied and the excitation functions  
+258DB3d  were calculated, and compared with experimental production             
+258DB4d  cross sections                                                         
+258DB d  Theoretical bound-state binding energy: 2000Pa12.                      
+258DB d  Theoretical mass excess of {+258}Db: 1996Wu09.                         
+258DB  XA262BH A DECAY (83 MS)                                                  
+258DB  XB262BH A DECAY (16 MS)                                                  
+258DB  L 0.0          (5+,6+)          4.3 S     5                              
+258DB2 L %A=77 8 $ %EC+%B+=23 8 (2009He20)                                      
+258DBX L XREF=A                                                                 
+258DB cL $|e decay to excited states including two newly-proposed isomeric      
+258DB2cL states in {+258}Rf (2016He15)                                          
+258DB cL T$from 2009He20. In their later work, 2016He15 report 4.4 s {I10} and  
+258DB2cL 3.6 s {I3} activities from the time distributions of SF events,        
+258DB3cL correlated and uncorrelated with conversion electron events,           
+258DB4cL respectively, which could support the existence of two long-lived      
+258DB5cL states in {+258}Db as claimed in their |a-decay study in 2009He20, but 
+258DB6cL is not a sufficient argument for an unambiguous claim by itself in the 
+258DB7cL work of 2016He15. Others: 4.2 s {I+4-3} (2008Ga25, from 77 correlated  
+258DB8cL |a decays); 4.2 s {I+16-5} (1984Og03, SF decay of {+258}Rf,            
+258DB9cL daughter of {+258}Db was detected); 4.4 s {I+9-6} (1985He22; |a from   
+258DBAcL {+262}Bh decay); 3.0 s {I+8-6} (1989Mu09, |a from {+262}Bh decay);     
+258DBBcL 4.3 s {I11} (2001Ga20, from |a of {+258}Db decay); 1.8 s {I+11-7} and  
+258DBCcL 4.0 s {I+10-8} (1981Mu06, |a decays from {+262}Bh and {+258}Db);       
+258DBDcL 6.1 s {I+10-8} (1985He22, from SF activities).                         
+258DB cL J$from shell-model calculations (2016He15). Possible configurations:   
+258DB2cL |n11/2[725] + |p1/2[521] for 6+ or |n9/2[624] + |p1/2[620] for 5+      
+258DB dL $Production cross sections in {+208}Pb({+51}V,n) (2008Ga25):           
+258DB2dL 0.23 nb {I+52-19} at E({+51}V)=236.1 MeV,                              
+258DB3dL 2.07 nb {I+110-76} at E({+51}V)=239.7 MeV, 1.00 nb {I+46-33} at        
+258DB4dL E({+51}V)=244.1 MeV, 0.57 nb {I+55-31} at E({+51}V)=247.2 MeV,         
+258DB5dL <0.59 nb at E({+51}V)=250.8 MeV, <0.18 nb at E({+51}V)=255.0 MeV.      
+258DB dL $Production cross sections in {+209}Bi({+50}Ti,n) (2008Ga25):          
+258DB2dL 0.055 nb {I+250-45} at E({+50}Ti)=229.5 MeV,                           
+258DB3dL 2.55 nb {I+72-55} at E({+50}Ti)231.8 MeV, 5.5 nb {I+17-14} at          
+258DB4dL E({+50}Ti)=233.6 MeV, 3.4 nb {I+19-14} at E({+50}Ti)=236.0 MeV,        
+258DB5dL 2.6 nb {I+12-9} at E({+50}Ti)=238.4 MeV                                
+258DB  L 0+X         (1-)              1.9 S     5                           M1 
+258DB2 L %A=64 10 $  %EC+%B+=36 10 (2009He20)                                   
+258DB cL $|e decay to g.s. and probable low-lying states in {+258}Rf (2016He15) 
+258DB cL T$from 2016He15, taken from authors' earlier work in 2009He20.         
+258DB2cL 2016He15 report 4.4 s {I10} and 3.6 s {I3} from the time distributions 
+258DB3cL of SF events, correlated and uncorrelated with conversion electrons,   
+258DB4cL respectively, which could support the existence of two different       
+258DB5cL long-lived states in {+258}Db as claimed from their |a-decay           
+258DB6cL study in 2009He20, but not sufficient for an unambiguous claim by      
+258DB7cL itself in 2016He15.                                                    
+258DB cL J$from shell-model calculations (2016He15). Possible configuration:    
+258DB2cL |n1/2[620] + |p1/2[521] for 1-                                         
+258DB  L 0+Y                           20 S      10                          M2?
+258DB2 L %EC AP 100                                                             
+258DB cL $Existence of this isomer has not been established.                    
+258DB cL $No |a decays were observed from this activity (1985He22).             
+258DB cL T$deduced by 1985He22 based on difference in half-lives                
+258DB2cL observed from |a decay (4.4 s) and SF (6.1 s {I+10-6}); the larger     
+258DB3cL value was explained by 1985He22 by postulating a 20-s isomer in        
+258DB4cL {+258}Db which decays by |e to {+258}Rf which in turn decays by SF     
+258DB5cL with T{-1/2}=12 ms.                                                    
+258DB  L 0+Z                                                                    
+258DBX L XREF=B                                                                 
+258DB  L 156.5     7  (4:7)(-)                                                  
+258DBX L XREF=A                                                                 
+258DB cL J$(E1) |g to (5+,6+)                                                   
+258DB  G 156.5     7            (E1)                                            
+258DBF G FL=0.0                                                                 
+258DB cG M$possible E1, estimated from number of observed |a|g coincidences     
+258DB  L 184+Z     50                                                           
+258DBX L XREF=B                                                                 
+258DB  L   222     20                                                           
+258DBX L XREF=A                                                                 
+258DB  L 358       30                                                           
+258DBX L XREF=A                                                                 
+258DB cL $A 38.9|g observed by 2009He20 in coin with 9810|a groups              
+258DB  L 480       20                                                           
+258DBX L XREF=A                                                                 
+258DB cL $A 38.9|g observed by 2009He20 in coin with 9671|a groups              
+258DB  L 561+Z     50                                                           
+258DBX L XREF=B                                                                 
+258DB cL $A 102.4 {I5} |g observed by 2009He20 in coin with 9826|a group        

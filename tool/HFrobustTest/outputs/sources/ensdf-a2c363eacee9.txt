@@ -1,0 +1,69 @@
+258DB    262BH A DECAY (83 MS)         2009HE20,2006FO02         17NDS    201709
+258DB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 144, 297 (2017)$CUT=25-Aug-2017$      
+258DB c  All the reported measurements related to the production cross sections,
+258DB2c  E|a, half-life and decay modes of {+262}Bh are from the GSI and LBNL   
+258DB3c  accelerator laboratories.                                              
+258DB c  2009He20: {+262}Bh produced in the {+209}Bi({+54}Cr,n) reaction,       
+258DB2c  the {+54}Cr beam delivered by the charge state injector of the UNILAC  
+258DB3c  accelerator at GSI Darmstadt. Evaporation residues were separated by   
+258DB4c  the velocity filter SHIP and implanted into a 16-strip Si PIPS         
+258DB5c  detector. A box of six Si-wafers was used to measure escaping          
+258DB6c  |a-particles. A Ge clover detector consisting of four crystals was used
+258DB7c  to measure |g rays in coincidence with particles. Measured E|a, E|g,   
+258DB8c  |a|g coin, half-lives, |s. Multiple events detected                    
+258DB c  2008Ne08: {+262}Bh produced in {+208}Pb({+55}Mn,n),E=273-283 MeV; and  
+258DB2c  {+209}Bi({+54}Cr,n), E=253.5-272.3 MeV; measured excitation functions, 
+258DB3c  E|a, |s, T{-1/2} of {+262}Bh decay. Single events detected             
+258DB c  2006Fo02: {+262}Bh produced in {+208}Pb({+55}Mn,n),E=260,264,268 MeV;  
+258DB2c  measured E|a, (evaporation residues)|a|a-correlations, excitation      
+258DB3c  functions, T{-1/2} of {+262}Bh decay                                   
+258DB c  1997Ho14: {+262}Bh source from |a-decay of {+266}Mt, measured E|a.     
+258DB2c  Single events detected                                                 
+258DB c  1989Mu09: {+262}Bh from {+209}Bi({+54}Cr,n),E=4.87-5.07 MeV/nucleon,   
+258DB2c  measured E|a, (evaporation residues)|a|a-correlations, T{-1/2}.        
+258DB3c  deduced no evidence for SF-decay of {+262}Bh                           
+258DB c  1981Mu06: {+262}Bh produced in {+209}Bi({+54}Cr,n),E=4.85 MeV/nucleon, 
+258DB2c  measured E|a, T{-1/2}                                                  
+258DB cA $2009He20 state that the |a lines were modified                        
+258DB2cA by energy summing with conversion electrons, thus |a intensities       
+258DB3cA could not be deduced unambiguously.                                    
+258DB cL J,T$From Adopted Levels                                                
+262BH  P 0.0                            83 MS    14             10319     15    
+262BH cP E$From 2017Au03                                                        
+262BH cP T$From weighted average of 83 ms {I14} (2009He20), 84 ms {I+21-16}     
+262BH2cP (2006Fo02). Others: 120 ms {I+55-29} (2008Ne08, same laboratory (LBNL) 
+262BH3cP as 2006Fo02), 102 ms {I26} (1989Mu09), 115 ms {I+231-75} (1981Mu06).   
+262BH4cP 1989Mu09 and 1981Mu06 are from the same laboratory (GSI) as 2009He20.  
+262BH5cP In 2001Ak11 evaluation, T{-1/2}=102 ms {I26}                           
+262BH cP QP$From 2017Wa10, deduced from E|a=10008 {I26} (2009He20) based on     
+262BH2cP 156.5 level                                                            
+258DB  N                       1       AP                                       
+258DB cN BR$%|a |? 100. No evidence was found by 2006Fo02 and 1989Mu09 for      
+258DB2cN fission decay mode of {+262}Bh, 2006Fo02 give an upper limit of 11%    
+258DB3cN and 1989Mu09 suggest an upper limit of 10% for SF decay mode           
+258DB  G 38.9      9                                                            
+258DB cG E$from 2009He20, |g observed in coin with 9671|a and 9810|a groups     
+258DB  L  0.0          (5+,6+)          4.3 S    5                              
+258DB  L 156.5     7   (4:7)(-)                                                 
+258DB  A 10008     15                                                           
+258DB cA E$from 2009He20; 10 events detected. Others: 10025, 10096, 10125       
+258DB2cA (2008Ne08), 10075 {I25} (2006Fo02, 5 events), 10143 (1997Ho14),        
+258DB3cA 10060 {I25} (1989Mu09)                                                 
+258DB  G 156.5     7            (E1)                                            
+258DB cG E$from 2009He20, observed in coin with 9952-10067 |a group range       
+258DB2cG (average |a energy=10008 {I26})                                        
+258DB cG M$possible E1, estimated from number of observed |a|g coincidences     
+258DB  L   222     20                                                           
+258DB  A  9943     15                                                           
+258DB cA E$from 2009He20; 6 events detected. Others: 9936 {I25} (2006Fo02, 4    
+258DB2cA events), 9910 {I25} (1989Mu09)                                         
+258DB  L 358       30                                                           
+258DB  A 9809      25                                                           
+258DB cA E$from 2006Fo02; 3 events. Other: 9831 (1997Ho14)                      
+258DB cA $38.9|g observed by 2009He20 in coin with 9810|a groups                
+258DB  L 480       20                                                           
+258DB  A 9689      15                                                           
+258DB cA E$from 2009He20; 12 events detected. Others: 9657 {I25} and            
+258DB2cA 9727 {I25} (2006Fo02, single events); 9648, 9735, 9762 (2008Ne08);     
+258DB3cA 9763 (1997Ho14); 9740 {I25} (1989Mu09); 9704 {I50} (1981Mu06)          
+258DB cA $38.9|g observed by 2009He20 in coin with 9671|a groups                

@@ -1,0 +1,26 @@
+242CF    246FM A DECAY                                           22NDS    202211
+242CF  H TYP=FUL$AUT=M.J. Martin, C.D. Nesaraja$CIT=NDS 186, 261 (2022)$        
+242CF2 H CUT=31-Dec-2021$                                                       
+246FM  P 0.0         0+                1.54 S    4              8379      5     
+246FM cP T$Weighted average 1.54 s {I4} (2011Ve03) and 1.6 s {I2} (2012Pi05)    
+246FM cP QP$From 2021Wa16                                                       
+242CF  N                       0.932    6                                       
+242CF cN BR$2011Ve03 report %SF=6.8 {I6}and %(|e+|b{++}|<1.3 (from              
+242CF2cN systematics. These combine to give %|a=100-6.8 {I6}=93.2 {I6}.         
+242CF3cN Note that the authors give 93.2 {I36} in their                         
+242CF4cN Table 1. The evaluators assume that the uncertainty is a               
+242CF5cN misprint                                                               
+242CF cA IA$Alpha intensity per 100 |a decays, calculated by the                
+242CF2cA evaluators from HF(|a to 2+ level)=2.5, estimated from |a              
+242CF3cA hindrance factor .                                                     
+242CF  L 0.0         0+                3.5 M     2                              
+242CF  A 8242       5 77     AP 1.0                                             
+242CF cA E$calculated from Q(|a)({+246}Fm)=8379 {I5}. The measured              
+242CF2cA energies are 8244 {I7} (2012Pi05), 8230 {I20} (1966Ak01), 8250 {I30}   
+242CFxcA (1967Fl15), 8240 {I20} (1967Nu01).                                     
+242CF  L 45        SY (2+)                                                     S
+242CF cL E$Level has not been observed. Its energy is from systematics          
+242CF2cL of 2+ level energies.                                                  
+242CF  A 8198      AP 23     AP 2.5                                            S
+242CF cA E$No |a group was observed. The energy is from Q(|a) and an            
+242CF2cA the energy of the 2+ state from systematics.                           

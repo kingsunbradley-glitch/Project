@@ -1,0 +1,48 @@
+206RA    ADOPTED LEVELS, GAMMAS                                  25NDS    202503
+206RA  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 201, 346 (2025)$CUT=21-Jan-2025$       
+206RA  Q -9920     70 10310  29 2414   20 7415   4     2021WA16                 
+206RA cQ $S(2n)=18638 {I20}, S(2p)=3042 {I19}, Q(|e)=4810 {I30}, Q(|ep)=3986    
+206RA2cQ {I19} (2021Wa16)                                                       
+206RA  XA210TH A DECAY                                                          
+206RA  XB170YB(40AR,4NG)                                                        
+206RA cL E$From a least-squares fit to E|g                                      
+206RA cL J$From {+170}Yb({+40}Ar,4n|g) (1999Co13) based on the apparent band    
+206RA2cL structure and systematics of heavier, even-even Ra nuclei              
+206RA cG E,RI,M$From {+170}Yb({+40}Ar,4n|g) (1999Co13)                          
+206RA DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+206RA PN                                                                     6  
+206RA  L   0          0+               0.24 S    2                              
+206RAX L XREF=AB                                                                
+206RA2 L %A AP 100                                                              
+206RA cL T$Weighted average of 0.24 s {I2} (1987He10), 0.21 s {I5} (1996Le09)   
+206RA2cL and 0.238 s {I48} (2021Ni08). Others: 0.25 s {I5} (1995Le15),          
+206RA3cL 0.40 s {I+70-16} (1995Uu01) and 0.99 s (1995Le41) all superseded by    
+206RA4cL 1996Le09, 0.4 s {I2} (1967Va22) and 0.5 s (1968Lo15).                  
+206RA cL $E{-|a}=7294 keV {I23} (2021Ni08), 7262 keV {I15} (1995Uu01),          
+206RA2cL 7270 keV {I10} (1987He10) and 7270 keV {I5} (1967Va22). Others:        
+206RA3cL 7268 keV {I10} (1995Le15, 1996Le09) and 7263 keV {I20} (1995Le41)      
+206RA  L 474.3      5  (2+)                                                     
+206RAX L XREF=B                                                                 
+206RA  G 474.3     5   100     [E2]                    0.0439  6                
+206RAS G  KC=0.0280 4$LC=0.01186 17$MC=0.00306 4                                
+206RAS G  NC=0.000807 12$OC=0.0001770 26$PC=2.80E-5 4$QC=1.032E-6 15            
+206RA  L 1052.1     7  (4+)                                                     
+206RAX L XREF=B                                                                 
+206RA  G 577.8     5   100     [E2]                    0.0277  4                
+206RAS G  KC=0.01909 27$LC=0.00645 9$MC=0.001639 23                             
+206RAS G  NC=0.000432 6$OC=9.55E-5 14$PC=1.540E-5 22$QC=6.87E-7 10              
+206RA  L 1762.7     9  (6+)                                                     
+206RAX L XREF=B                                                                 
+206RA  G 710.6     5  100      [E2]                    0.0177625                
+206RAS G  KC=0.01295 18$LC=0.00361 5$MC=0.000903 13                             
+206RAS G  NC=0.0002380 34$OC=5.29E-5 7$PC=8.69E-6 12$QC=4.55E-7 6               
+206RA  L 2010.1    10  (8+)            1 NS      LT                             
+206RAX L XREF=B                                                                 
+206RA cL T$From {+170}Yb({+40}Ar,4n|g) (1999Co13)                               
+206RA cL $Configuration=|p(h{-9/2}{++2}){-8+} in 1999Co13. The assignment is    
+206RA2cL tentative. Given the large B(E2) value for the 247.4|g a significant   
+206RA3cL mixture with a collective J|p=8+ state can be expected                 
+206RA  G 247.4     5  100      [E2]                    0.280   4                
+206RAB G BE2W>6.5                                                               
+206RAS G  KC=0.1057 15$LC=0.1286 21$MC=0.0344 6                                 
+206RAS G  NC=0.00910 15$OC=0.001958 32$PC=0.000294 5$QC=4.42E-6 7               

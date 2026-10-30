@@ -1,0 +1,1991 @@
+229TH    233U A DECAY                  1967BA43,2003BA78         26NDS    202601
+229TH  H TYP=FUL$AUT=F.G. KONDEV, J.K. TULI and E. BROWNE$                      
+229TH2 H CIT=NDS 208, 397 (2026)$CUT=23-Oct-2025$                               
+229TH dA HF$Hindrance Factor is calculated by AlphaHF (version 10-Jan-2025)     
+229TH dL E$Least-squares fitting is done by GLSC (version 14-Nov-2024)          
+229TH c  1967Ba43: Chemically-purified {+233}U source was studied with a        
+229TH2c  magnetic spectrograph with an energy resolution of |DE/E |J 0.06%.     
+229TH3c  Measured E|a and I|a relative to E|a({+240}Pu)=5167.7 keV {I7}.        
+229TH4c  Others (same authors): 1976Ba68, 1976BaZZ, 1968Ba25, 1964Ba42          
+229TH c  2003Ba78: Chemically-separated {+233}U source was obtained by          
+229TH2c  successive |b{+-} decays of {+233}Th that was produced in the          
+229TH3c  {+232}Th(n,|g) reaction. Other uranium isotopes, and their respective  
+229TH4c  daughter nuclei, were also present despite fast separation methods     
+229TH5c  employed. Measured E|g, I|g, |g|g coin using a planar LEPS and three   
+229TH6c  coaxial HP germanium detectors.                                        
+229TH c  Others: 2024Gr01, 2020Si22, 2018Ki11, 2011Ki16, 2010BeZZ, 2009Ki14,    
+229TH3c  2007Be16, 1996Ko29 (supersedes 1992El01), 1994He08, 1990Re03, 1984Ah06,
+229TH4c  1984Gl03, 1984Re05, 1976Kr03, 1977Ca04, 1967Ga15, 1967Mo28, 1966Ah02,  
+229TH5c  1961An08, 1961Ru06, 1960Dz07, 1959Tr31, 1956Al30, 1956Go43, 1955Go57,  
+229TH6c  1953As40, 1952We27, 1948Cr12                                           
+229TH c  |a|g(t): 2021Sh28, 1970To12, 1967Tr07, 1967Hu03. |a|g(|q): 1968Ma42,   
+229TH2c  1967Hu03, 1958Ro64.                                                    
+229TH cL E$From a least-squares fit to E|g. Reduced |h{+2}=1.0, compared to     
+229TH2cL the critical value of |h{+2}=1.26                                      
+229TH cL J,T$From adopted levels, unless otherwise stated                       
+229TH CL BAND(A)$K|p=5/2+, |n5/2[633] band                                      
+229TH CL BAND(B)$K|p=3/2+, |n3/2[631] band                                      
+229TH CL BAND(C)$K|p=3/2-, |n3/2[761]+|n3/2[631]~#0- band                       
+229TH CL BAND(D)$K|p=5/2-, |n5/2[752] band                                      
+229TH CL BAND(E)$K|p=5/2+, |n5/2[622]+|n5/2[633]~#0++|n5/2[752]~#0- band        
+229TH CL BAND(F)$K|p=1/2+, |n1/2[631] band                                      
+229TH CL BAND(G)$K|p=1/2-, |n1/2[501]                                           
+229TH CL BAND(H)$K|p=3/2+, |n3/2[642] band. Assignment is tentative.            
+229TH cA E,IA$From 1967Ba43, unless othewise stated                             
+229TH cA E(W)$From Q|a and level-energy difference                              
+229TH cA IA(X)$From |g-ray transition intensity balance                         
+229TH cA HF$Using r{-0}=1.5256 {I33} , unweighted average of                    
+229TH2cA r{-0}({+232}U)=1.52885 {I29} and r{-0}({+234}U)=1.52224 {I49}          
+229TH3cA (2020Si16).                                                            
+229TH cG E,RI$From 2003Ba78, unless otherwise stated. I|g were normalized to    
+229TH2cG I|g(208|g)=100 by multiplying the original values by 43.66812.         
+229TH cG M,MR$From adopted gammas                                               
+229TH cG E(a)$From 1994He08.                                                    
+229TH cG E(b)$Reported only in 1996Ko29.                                        
+229TH cG E(c)$Reported only in 1976Kr03.                                        
+229TH cG RI(d)$From 2003Ba78, based on the rotational model                     
+229TH cG RI(e)$From 2003Ba78, using the |g-ray intensity balance                
+229TH cG E(f),RI(g)$From adopted gammas. I|g determined after appropriate       
+229TH2cG normalization                                                          
+229TH cG E(h)$Placement to the {+229}Th ground state (J|p=5/2+) is assumed in   
+229TH2cG 2003Ba78. The |g-ray transition could also proceed to the 0.008-keV    
+229TH3cG isomer                                                                 
+229TH tG $ ------------------------------------------------                     
+229TH tG           X rays (Th):                                                 
+229TH2tG     E|g, keV         I|g, %                                            
+229TH2tG 1976Kr03 1979Ce04   1966Ah02                                           
+229TH3tG ------   ------    ---------                                           
+229TH3tG  11.12              0.13 {I4}       L{Il}                              
+229TH4tG  12.97              2.4 {I4}        L|a1+L|a2                          
+229TH5tG  14.97                              L|b6                               
+229TH6tG  15.64                              L|b2+L|b4                          
+229TH7tG  16.20              3.3 {I5}        L|b1                               
+229TH8tG  17.08                              L|b9+L|b10                         
+229TH9tG  18.37                              L|g5                               
+229TH0tG  18.98              0.90 {I15}      L|g1                               
+229THAtG  19.50                              L|g2+L|g3+L|g6                     
+229THBtG  20.27                              L|g4                               
+229THCtG  89.94    89.96     0.0096 {I10}    K|a2                               
+229THDtG  93.34    93.35     0.0140 {I14}    K|a1                               
+229THEtG          104.83                     K|b3                               
+229THEtG 105.59   105.5      0.0058 {I6}     K|b1                               
+229THFtG          106.16                     K|b5                               
+229THGtG          108.49                     K|b4                               
+229THHtG 108.67   108.69     0.0015 {I3}     K|b2                               
+229TH tG $ ------------------------------------------------                     
+229TH DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+233U   P 0.0          5/2+             1.5919E5 Y15             4908.7    12    
+233U  cP J,T$From 2020Si28                                                      
+233U  cP QP$From 2021Wa16                                                       
+233U  cP $Dominant configuration=|n5/2[633]                                     
+229TH  N 2.29E-5   3            1                                               
+229TH PN                                                                     4  
+229TH cN NR$From I|g(208|g)=0.00229% {I3} in 1984Re05. Others: 0.00228% {I11}   
+229TH2cN (2024Gr01) and 0.00229% {I11} (2003Ba78)                               
+229TH cN BR$Others: %SF<6|*10{+-11}, %{+24}Ne=7.2|*10{+-11},                    
+229TH2cN %{+28}Mg<1.3|*10{+-13} (2020Si28)                                      
+229TH  A 4804         0.051                                                     
+229TH  A 4758         0.016                                                     
+229TH  A 4751         0.01                                                      
+229TH  A 4687         0.0028                                                    
+229TH  A 4641         0.003                                                     
+229TH  A 4534      4  0.005  2                                                  
+229TH cA E,IA$From 1966Ah02                                                     
+229TH  A 4330      AP 0.0001 AP                                                 
+229TH cA E,IA$From 1966Ah02                                                     
+229TH  G 27.4      2  4.8    3                                              b   
+229TH2 G %IG=0.000110 7                                                         
+229TH  G 31.449    13 10.5   18                                                 
+229TH2 G %IG=0.00024 4                                                          
+229TH cG E$Others: 31.39 keV {I1} (1996Ko29), 31.52 keV {I4} (1977Ca04)         
+229TH cG RI$Others: 5.7 {I8} (1996Ko29), 10.8 (1977Ca04)                        
+229TH  G 36.516    23 6.1    13                                                 
+229TH2 G %IG=0.000140 30                                                        
+229TH  G 36.95     3  5.2    13                                                 
+229TH2 G %IG=0.000119 30                                                        
+229TH  G 42.005    19 14.9   18                                                 
+229TH2 G %IG=0.00034 4                                                          
+229TH cG E$Other: 41.96 keV {I3} (1996Ko29)                                     
+229TH  G 53.18     1  14.0    1                                             b   
+229TH2 G %IG=0.000321 5                                                         
+229TH  G 57.72     1  67.0    1                                             b   
+229TH2 G %IG=0.001534 20                                                        
+229TH  G 70.23     1  25.5   13                                             b   
+229TH2 G %IG=0.000584 31                                                        
+229TH cG E$Other: 70.33 keV {I5} (1976Kr03)                                     
+229TH cG RI$Other: 24.5 (1976Kr03)                                              
+229TH  G 84.29     4  3.6    1                                              b   
+229TH2 G %IG=8.24E-5 25                                                         
+229TH cG E$Other: 84.75 keV {I2} (1976Kr03)                                     
+229TH cG RI$Other: 2.9 (1976Kr03)                                               
+229TH  G 96.69     7  8.3    11                                                 
+229TH2 G %IG=0.000190 25                                                        
+229TH  G 98.37     2  5.6    8                                              b   
+229TH2 G %IG=0.000128 18                                                        
+229TH  G 109.41    5  10.8   12                                             b   
+229TH2 G %IG=0.000247 28                                                        
+229TH cG E$Other: 109.5 keV {I1} (1976Kr03)                                     
+229TH cG RI$Other: 12.1 (1976Kr03)                                              
+229TH  G 129.13    1  7.8    1                                              b   
+229TH2 G %IG=1.786E-4 33                                                        
+229TH cG E$Others: 129.4 keV {I1} (1976Kr03), 129.10 keV {I3} (1977Ca04)        
+229TH cG RI$Others: 4.2 (1976Kr03), 2.8 (1977Ca04)                              
+229TH  G 149.691   24 4.15   26                                                 
+229TH2 G %IG=9.5E-5 6                                                           
+229TH cG E$Others: 149.69 keV {I2} (1996Ko29), 149.86 keV {I1} (1976Kr03)       
+229TH cG RI$Others: 3.6 {I2} (1996Ko29), 5.4 (1976Kr03)                         
+229TH  G 163.72    3  5.11   22                                                 
+229TH2 G %IG=0.000117 5                                                         
+229TH  G 176.12    5  0.70   22                                                 
+229TH2 G %IG=1.6E-5 5                                                           
+229TH cG E$Other: 176.03 keV {I11} (1996Ko29)                                   
+229TH cG RI$Other: 0.7 {I2} (1996Ko29)                                          
+229TH  G 187.12    3  1.40   18                                                 
+229TH2 G %IG=3.2E-5 4                                                           
+229TH  G 193.503   5                                                            
+229TH cG E$From 1994He08                                                        
+229TH  G 198.60    12 0.17   6                                                  
+229TH2 G %IG=3.9E-6 14                                                          
+229TH  G 200.7     1  0.04                                                  c   
+229TH2 G %IG=9.16E-7 12                                                         
+229TH  G 207.25    9  1.40   22                                                 
+229TH2 G %IG=3.2E-5 5                                                           
+229TH  G 214.98    11 0.25   7                                                  
+229TH2 G %IG=5.7E-6 16                                                          
+229TH  G 228.1     1  0.08                                                  c   
+229TH2 G %IG=1.832E-6 24                                                        
+229TH  G 230.97    9  0.38   10                                                 
+229TH2 G %IG=8.7E-6 23                                                          
+229TH  G 236.3     1  0.4                                                   c   
+229TH2 G %IG=9.16E-6 12                                                         
+229TH  G 244.50    6  1.66   22                                                 
+229TH2 G %IG=3.8E-5 5                                                           
+229TH  G 252.05    8  0.4    2                                              b   
+229TH2 G %IG=9E-6 5                                                             
+229TH  G 287.32    14 0.7    3                                                  
+229TH2 G %IG=1.6E-5 7                                                           
+229TH  G 290.62    3  4.8    3                                                  
+229TH2 G %IG=0.000110 7                                                         
+229TH  G 316.30    4  4.1    3                                                  
+229TH2 G %IG=9.4E-5 7                                                           
+229TH  G 335.68    8  0.35   8                                                  
+229TH2 G %IG=8.0E-6 18                                                          
+229TH  G 352.06    5  0.3    1                                              b   
+229TH2 G %IG=6.9E-6 23                                                          
+229TH  G 364.01    12 0.28   7                                                 ?
+229TH2 G %IG=6.4E-6 16                                                          
+229TH  G 398.26    11 0.16   3                                              b   
+229TH2 G %IG=3.7E-6 7                                                           
+229TH  G 440.42    3  0.26   3                                              b   
+229TH2 G %IG=6.0E-6 7                                                           
+229TH  G 473.51    18 0.13   7                                                  
+229TH2 G %IG=3.0E-6 16                                                          
+229TH  G 537.6     5                                                        c   
+229TH  G 545.1     3  0.1                                                   c   
+229TH2 G %IG=2.290E-6 30                                                        
+229TH  G 549.79    8  0.03   1                                              b   
+229TH2 G %IG=6.9E-7 23                                                          
+229TH  G 633.51    12 0.03   1                                                  
+229TH2 G %IG=6.9E-7 23                                                          
+229TH cG E$Other: 633.51 keV {I12} (1996Ko29)                                   
+229TH cG RI$Other: 0.03 {I1} (1996Ko29)                                         
+229TH  G 702.7     3  0.048  22                                                 
+229TH2 G %IG=1.1E-6 5                                                           
+229TH cG E$Other: 703.46 keV {I18} (1996Ko29)                                   
+229TH cG RI$Other: 0.01 {I1} (1996Ko29)                                         
+229TH  G 710.8     5                                                        c   
+229TH  G 714.3     3  0.021  10                                                 
+229TH2 G %IG=4.8E-7 23                                                          
+229TH cG E$Other: 714.28 keV {I6} (1996Ko29)                                    
+229TH cG RI$Other: 0.02 {I1} (1996Ko29)                                         
+229TH  G 721.88    14 0.18   5                                                  
+229TH2 G %IG=4.1E-6 11                                                          
+229TH  G 765.82    20 0.006  3                                                  
+229TH2 G %IG=1.4E-7 7                                                           
+229TH cG E$Other: 765.82 keV {I20} (1996Ko29)                                   
+229TH cG RI$Other: 0.006 {I2} (1996Ko29)                                        
+229TH  G 826.3     5                                                        c   
+229TH  G 843.35    10 0.0070 22                                                 
+229TH2 G %IG=1.6E-7 5                                                           
+229TH cG E$Other: 843.35 keV {I18} (1996Ko29)                                   
+229TH cG RI$Other: 0.007 {I2} (1996Ko29)                                        
+229TH  G 867.9     4  0.1                                                   c   
+229TH2 G %IG=2.290E-6 30                                                        
+229TH  G 920.0     10                                                       c   
+229TH  G 927.1     3  0.06   3                                                  
+229TH2 G %IG=1.4E-6 7                                                           
+229TH  G 932.6     3  0.06   3                                                  
+229TH2 G %IG=1.4E-6 7                                                           
+229TH  G 1003.0    10 0.3                                                   c   
+229TH2 G %IG=6.87E-6 9                                                          
+229TH  G 1055.0    10                                                       c   
+229TH  G 1109.8    5  0.035  13                                                 
+229TH2 G %IG=8.0E-7 30                                                          
+229TH  G 1119.0    10 0.3                                                   c   
+229TH2 G %IG=6.87E-6 9                                                          
+229TH  L 0.0          5/2+              7907 Y   24                         A   
+229TH2 L %A=100                                                                 
+229TH  A 4824.0    12 82.7   3 1.29    11                                       
+229TH cA E$From 1991Ry01, based on E|a=4823.6 keV {I12} from 1968Ba25. Others:  
+229TH2cA 4824.2 keV {I12} (1976Ba68,1976BaZZ), 4824.4 keV {I15} (1967Ba43).     
+229TH3cA Value is for decays to the ground state and the 8.355734-eV isomer.    
+229TH cA IA$From 1984Ah06. Others: 83.3% {I3} (1991Ry01), 84.4% {I5} (1976Ba68),
+229TH2cA 83.7% (1961Ru06), 83.4% (1960Dz07), 83.5% (1956Go43).                  
+229TH3cA Value is for decays to the ground state and the 8.355734-eV isomer.    
+229TH  L 8355734E-911    3/2+          7.0 US    10                         BM  
+229TH cL E$From adopted levels.                                                 
+229TH  A 4824.3    12                                                       W  S
+229TH  G 8355734E-911          [M1]                    1.6E9  3             f   
+229TH cG CC$From adopted gammas                                                 
+229TH  L 29.18995  7   5/2+            82.2 PS   40                         B   
+229TH  A 4796         0.28     2.4E2                                            
+229TH cA IA$Others: 0.48% (1960Dz07), <0.26% from |g-ray transition intensity   
+229TH2cA balance                                                                
+229TH  G 29.1821   8  341    44  M1+E2    0.127  6     206     7                
+229TH2 G %IG=0.0078 10                                                          
+229TH cG E$From 2020Si22. Others: 29.18251 keV {I72} (stat) {I33} (syst)        
+229TH2cG (2019Ya18), 29.1856 keV {I4} (stat) (2007Be16,2010BeZZ, no systematic  
+229TH3cG uncertainty given) [micro-calorimetry]; 29.1846 keV {I30} (1994He08),  
+229TH4cG 29.1867 keV {I11} (2003Ba78), 29.12 keV {I1} (1996Ko29), 29.16 keV {I6}
+229TH5cG (1976Kr03), 29.15 keV {I9} (1977Ca04) [HPGe detectors, include         
+229TH5cG contributions from other 29-keV transitions]                           
+229TH cG RI$Others: 524 {I13} (1984Re05), 267 {I20} (1996Ko29), 500 (1976Kr03), 
+229TH2cG 272.2 (1977Ca04)                                                       
+229TH cG M$Other: M/N=0.27/0.15 in 1959Tr31                                     
+229THF G FL=8355734E-9                                                          
+229THS G  LC=154 5$MC=38.7 14                                                   
+229THS G  NC=10.3 4$OC=2.39 8$PC=0.440 14$QC=0.0297 4                           
+229TH  G 29.18993  7  35     5 [M1]                    139.8  20            f   
+229TH2 G %IG=0.00080 11                                                         
+229THF G FL=0.0                                                                 
+229THS G  LC=105.6 15$MC=25.5 4                                                 
+229THS G  NC=6.80 10$OC=1.612 23$PC=0.313 4$QC=0.0299 4                         
+229TH cG E$Other: 29.1899 keV {I8} (2020Si22) [micro-calorimetry].              
+229TH cG RI$From 2020Si22, based on line-shape analysis. Other: 118 {I21} using 
+229TH2cG rotational model in 2003Ba78.                                          
+229TH  L 42.4333   4 7/2+              170 PS    4                          A   
+229TH cL T$Weighted average of 169 ps {I4} [2021Sh28, |a-42.4|g(|Dt)] and       
+229TH2cL 172 ps {I6} [1970To12, |a-ce(|Dt)]                                     
+229TH  A 4782.3    15 14.9   2 3.68    30                                       
+229TH cA E$From 1991Ry01, based on E|a=4782.9 keV {I12} from 1968Ba25. Others:  
+229TH2cA 4783.5 keV {I12} (1976Ba68,1976BaZZ), 4783 keV (1967Ba43)              
+229TH cA IA$From 1984Ah06. Others: 14.1% {I4} (1991Ry01), 13.23% (1976Ba68),    
+229TH2cA 14.1% {I7} (1961Ru06), 14.6% (1960Dz07), 14.9% {I7} (1956Go43)         
+229TH3cA and 8.7% {I9} from |g-ray transition intensity balance                 
+229TH  G 13.2429   8  105    31 [M1]                   358     5                
+229TH2 G %IG=0.0024 7                                                           
+229THF G FLAG=d                                                                 
+229TH cG E$From 2020Si22.                                                       
+229THS G  MC=267 4                                                              
+229THS G  NC=71.2 10$OC=16.86 24$PC=3.27 5$QC=0.313 4                           
+229TH  G 42.4250      22     LE [E2]                   684    10            f   
+229TH2 G %IG LE 5.0E-4                                                          
+229THF G FL=8355734E-9                                                          
+229THS G  LC=501 7$MC=136.9 19                                                  
+229THS G  NC=36.6 5$OC=8.14 11$PC=1.340 19$QC=0.00336 5                         
+229TH cG E$Other: 42.4524 keV {I7} (1994He08, doublet)                          
+229TH cG RI$From the measured branching ratio of <0.7% in 2020Si22. Other:      
+229TH2cG 7.9 {I22} using rotational model in 2003Ba78                           
+229TH  G 42.4331   8 3.14E3  17 M1+E2    0.364   +32-26121    12                
+229TH2 G %IG=0.072 4                                                            
+229THF G FL=0.0                                                                 
+229THS G  LC=90 9$MC=23.5 24                                                    
+229THS G  NC=6.3 6$OC=1.42 14$PC=0.248 23$QC=0.00912 18                         
+229TH cG E$From 2020Si22. Other: 42.4349 keV {I2} (stat) (2007Be16,2010BeZZ,    
+229TH2cG no systematic uncertainty given) [micro-calorimetry]; 42.4524 keV {I7} 
+229TH3cG (1994He08, doublet), 42.4344 keV {I11} (2003Ba78), 42.38 keV {I1}      
+229TH3cG (1996Ko29), 42.44 keV {I2} (1976Kr03), 42.48 keV {I3} (1977Ca04)       
+229TH cG RI$Others (for a doublet): 3764 {I57} (1984Re05), 2308 {I19}           
+229TH2cG (1996Ko29), 2583 {I208} (1976Kr03), 2412 (1977Ca04)                    
+229TH cG M$L1/L2/L3/M/N=2.3/4.5/4.3/4.0/1.2 in 1959Tr31; (L1+L2)/L3=2.2 {1},    
+229TH2cG L1/L2=0.9 {I1} and L/M=3 in 1961An08                                   
+229TH  L 71.8212   4   7/2+            120 PS    40                         B   
+229TH cL T$From [|a-71.8|g(|Dt)] in 2021Sh28                                    
+229TH  A 4754         0.163    2.1E2                                            
+229TH cA IA$Others: 0.28% (1960Dz07), 0.3% (1956Go43) and                       
+229TH2cA 0.40% {I6} from |g-ray transition intensity balance                    
+229TH  G 29.3885   8  35     6 [M1]                    137.1  19                
+229TH2 G %IG=0.00080 14                                                         
+229TH2 G FLAG=d                                                                 
+229THS G  LC=103.5 14$MC=24.99 35                                               
+229THS G  NC=6.67 9$OC=1.580 22$PC=0.307 4$QC=0.0293 4                          
+229TH cG E$From 2020Si22. Other: 29.3911 keV {I4 (stat)}                        
+229TH2cG (2007Be16,2010BeZZ, no systematic uncertainty given)                   
+229TH  G 42.6314   8  576    31 (M1+E2)   0.12   1     54.6   17                
+229TH2 G %IG=0.0132 7                                                           
+229THS G  LC=41.0 12$MC=10.11 34                                                
+229THS G  NC=2.70 9$OC=0.632 20$PC=0.1193 34$QC=0.00965 14                      
+229TH cG E$From 2020Si22. Other: 42.6333 keV {I2 (stat)}                        
+229TH2cG (2007Be16,2010BeZZ, no systematic uncertainty given)                   
+229TH  G 71.8133   16 79     6 E2                      53.8    8                
+229TH2 G %IG=0.00181 14                                                         
+229THF G FL=8355734E-9                                                          
+229TH2 G FLAG=d                                                                 
+229THS G  LC=39.4 6$MC=10.81 15                                                 
+229THS G  NC=2.90 4$OC=0.644 9$PC=0.1066 15$QC=0.000350 5                       
+229TH cG E$Others: 71.8159 keV {I20} (1994He08),                                
+229TH2cG 71.76 keV {I1} (1996Ko29), 71.84 keV {I2} (1976Kr03),                  
+229TH3cG 71.84 keV {I4} (1977Ca04)                                              
+229TH cG RI$Others (for the doublet 71.8|g): 127 {I2} (1996Ko29), 121 {I6}      
+229TH2cG (1976Kr03), 106 (1977Ca04)                                             
+229TH cG M$L3/M/N=0.08/0.07/0.03 in 1959Tr31                                    
+229TH  G 71.8212      51     5 [M1]                    9.91   14            f  S
+229TH2 G %IG=0.00117 12                                                         
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=d                                                                 
+229THS G  LC=7.49 10$MC=1.803 25                                                
+229THS G  NC=0.481 7$OC=0.1139 16$PC=0.02211 31$QC=0.002106 29                  
+229TH  L 97.1357   4  9/2+             93 PS     9                          A   
+229TH cL T$Weighted average of 103 ps {I12} [|a-54.7|g(|Dt)] and 88 ps {I9}     
+229TH2cL [|a-97.1|g(|Dt)] in 2021Sh28. Other: 147 ps {I12} from |a-ce(|Dt) in   
+229TH3cL 1970To12                                                               
+229TH  A 4729         1.85   5 12.5    11                                       
+229TH cA IA$From 1984Ah06. Others: 1.61% (1967Ba43), 1.9% {I3} (1961Ru06),      
+229TH2cA 1.5% (1960Dz07), 1.6% {I2} (1956Go43) and 1.67% {I12} from |g-ray      
+229TH3cA transition intensity balance                                           
+229TH  G 25.3144   8  92     5 [M1]                    212.8  30                
+229TH2 G %IG=0.00211 12                                                         
+229THS G  LC=160.6 22$MC=38.9 5                                                 
+229THS G  NC=10.38 15$OC=2.458 34$PC=0.477 7$QC=0.0456 6                        
+229TH cG E$From 2020Si22. Others: 25.3106 keV {I8} (1994He08),                  
+229TH2cG 25.311 keV {I4} (2003Ba78), 25.24 keV {I1} (1996Ko29),                 
+229TH2cG 25.30 keV {I6} (1976Kr03), 25.27 keV {I12} (1977Ca04)                  
+229TH cG RI$From 2003Ba78. Others: 4.5 {I2} (1996Ko29), 100 (1976Kr03),         
+229TH2cG 48.5                                                                   
+229TH  G 54.7030   8  788    20M1+E2     0.45    +5-4  52      6                
+229TH2 G %IG=0.0180 5                                                           
+229THS G  LC=38 4$MC=10.0 11                                                    
+229THS G  NC=2.69 31$OC=0.61 7$PC=0.107 11$QC=0.00407 13                        
+229TH cG E$From 2020Si22. Others: 54.7038 keV {I14} (1994He08),                 
+229TH2cG 54.7040 keV {I11} (2003Ba78), 54.65 keV {I1} (1996Ko29),               
+229TH2cG 54.69 keV {I2} (1976Kr03), 54.74 keV {I5} (1977Ca04)                   
+229TH cG RI$Weighted average 795 {I13} (1984Re05) and 734 {I35} (2003Ba78);     
+229TH2cG Others: 650 {I5} (1996Ko29), 625 {I42} (1976Kr03), 560 (1977Ca04)      
+229TH cG M$L1+L2/M/N=0.6/0.32/0.12 in 1959Tr31; L1/L2=0.9 {I1} in 1961An08      
+229TH  G 67.9460   5  14.0   7 [E2]                    70.2   10            a   
+229TH2 G %IG=0.000321 17                                                        
+229THS G  LC=51.3 7$MC=14.08 20                                                 
+229THS G  NC=3.77 5$OC=0.839 12$PC=0.1387 19$QC=0.000438 6                      
+229TH cG E$Others: 67.943 keV {I7} (2003Ba78), 67.89 keV {I1} (1996Ko29),       
+229TH2cG 67.98 keV {I5} (1976Kr03), 68.08 keV {I1} (1977Ca04)                   
+229TH cG RI$Weighted average 14.0 {I10} (2003Ba78), 14 {I1} (1996Ko29); Others: 
+229TH2cG 8.3 (1976Kr03), 12.7 (1977Ca04)                                        
+229TH  G 97.1360   16 855    15E2                      12.91  18                
+229TH2 G %IG=0.0196 4                                                           
+229THF G FL=0.0                                                                 
+229THS G  LC=9.44 13$MC=2.59 4                                                  
+229THS G  NC=0.695 10$OC=0.1549 22$PC=0.0257 4$QC=0.0001097 15                  
+229TH cG E$Unweighted average 97.1344 keV {I3} (1994He08) and 97.1376 keV {I11} 
+229TH2cG (2003Ba78). Others: 97.03 keV {I1} (1996Ko29),                         
+229TH3cG 97.14 keV {I2} (1976Kr03), 97.14 keV {I5} (1977Ca04)                   
+229TH cG RI$Weighted average 887 {I44} (2003Ba78), 846 {I14} (1996Ko29) and     
+229TH2cG 917 {I46} (1976Kr03). Other: 887 (1977Ca04)                            
+229TH cG M$L1/L2=0.2 {I1}, L/M=3.7 and L1+L2/L3=1.4 {I1} in 1961An08;           
+229TH2cG L2/L3/M/M=0.25/0.18/0.12/0.03 in 1959Tr31                              
+229TH  L 125.4300  9   9/2+                                                 B   
+229TH  A 4701         0.06     2.4E2                                            
+229TH cA IA$Others: 0.08% (1960Dz07), 0.05% (1956Go43) and 0.081% {I6} from     
+229TH2cA |g-ray transition intensity balance                                    
+229TH  G 28.2943      1.6    4 [M1]                    153.3  21            f   
+229TH2 G %IG=3.7E-5 9                                                           
+229TH2 G FLAG=d                                                                 
+229THS G  LC=115.7 16$MC=28.0 4                                                 
+229THS G  NC=7.46 10$OC=1.767 25$PC=0.343 5$QC=0.0328 5                         
+229TH  G 53.6093   8  152    8 [M1]                    23.33  33                
+229TH2 G %IG=0.00348 19                                                         
+229THS G  LC=17.63 25$MC=4.24 6                                                 
+229THS G  NC=1.133 16$OC=0.268 4$PC=0.0521 7$QC=0.00496 7                       
+229TH cG E$From 2020Si22. Others: 53.6107 keV {I11} (1994He08),                 
+229TH2cG 53.6104 keV {I17} (2003Ba78)                                           
+229TH cG RI$Other: 131 {I2} (1996Ko29)                                          
+229TH  G 83.000    13 8.3    7  [M1+E2]   0.13   1     6.85   11                
+229TH2 G %IG=0.000190 16                                                        
+229THS G  LC=5.16 8$MC=1.254 21                                                 
+229THS G  NC=0.335 6$OC=0.0789 13$PC=0.01516 24$QC=0.001361 19                  
+229TH cG E$Other: 83.0128 keV {I20} (1994He08)                                  
+229TH cG RI$Weighted average 8.6 {I10} (2003Ba78) and 8.0 {I10} (1996Ko29).     
+229TH2cG Others: 5.8 (1976Kr03), 7.2 (1977Ca04)                                 
+229TH  G 96.232    4  67.0   49 [E2]                   13.49  19                
+229TH2 G %IG=0.00153 11                                                         
+229THS G  LC=9.86 14$MC=2.71 4                                                  
+229THS G  NC=0.726 10$OC=0.1618 23$PC=0.0268 4$QC=0.0001135 16                  
+229TH cG E$Other: 96.14 keV {I1} (1996Ko29)                                     
+229TH cG RI$Weighted average of 74 {I4} (2003Ba78) and 63.5 {I28} (1996Ko29).   
+229TH2cG Others: 125 (1976Kr03), 55.4 (1977Ca04)                                
+229TH  G 125.41    4  2.23   4 [E2]                    4.22    6                
+229TH2 G %IG=5.11E-5 11                                                         
+229THF G FL=0.0                                                                 
+229THS G  KC=0.262 4$LC=2.89 4$MC=0.795 11                                      
+229THS G  NC=0.2130 30$OC=0.0476 7$PC=0.00793 11$QC=4.63E-5 7                   
+229TH  L 146.3542  5  (5/2)-           332 PS    8                          D   
+229TH  A 4677      4  0.006  3 1.7E3   12                                       
+229TH cA E$From 1966Ah02. Other: 4681 keV (1967Ba43)                            
+229TH cA IA$From 1966Ah02. Others: 0.01% (1967Ba43) and <0.008% from |g-ray     
+229TH2cA transition intensity balance                                           
+229TH  G 74.539    4  62.4   24 [E1]                   0.255   4            a   
+229TH2 G %IG=0.00143 6                                                          
+229TH2 G FLAG=g                                                                 
+229THS G  LC=0.1927 27$MC=0.0470 7                                              
+229THS G  NC=0.01233 17$OC=0.00277 4$PC=0.000478 7$QC=2.491E-5 35               
+229TH cG E$Other: 74.550 keV {I6} (2003Ba78), 74.49 keV {I1} (1996Ko29),        
+229TH2cG 74.59 keV {I5} (1976Kr03), 74.55 keV {I10} (1977Ca04)                  
+229TH cG RI$Others: 65.2 {I35} (2003Ba78), 64 {I2} (1996Ko29),                  
+229TH2cG 66.7 {I33} (1976Kr03), 65.6 (1977Ca04)                                 
+229TH  G 117.1628  9  129.7  45 (E1)                   0.336   5            a   
+229TH2 G %IG=0.00297 11                                                         
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.259 4$LC=0.0586 8$MC=0.01419 20                                  
+229THS G  NC=0.00374 5$OC=0.000852 12$PC=0.0001519 21$QC=9.21E-6 13             
+229TH cG E$Other: 117.1575 keV {I19} (2003Ba78)                                 
+229TH cG RI$Others: 125 {I6} (2003Ba78), 96.6 {I11} (1996Ko29), 108 {I5}        
+229TH2cG (1976Kr03), 99.6 (1977Ca04)                                            
+229TH  G 146.3462  6  286.4  26 (E1)                   0.1984 28            a   
+229TH2 G %IG=0.00656 10                                                         
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.1549 22$LC=0.0329 5$MC=0.00795 11                                
+229THS G  NC=0.002097 29$OC=0.000481 7$PC=8.69E-5 12$QC=5.62E-6 8               
+229TH cG E$Other: 146.3462 keV {I16} (2003Ba78)                                 
+229TH cG RI$Weighted average 284 {I13} (2003Ba78) and 286.5 {I26} (1984Re05).   
+229TH2cG Others: 267 {I13} (1976Kr03), 238 {I3} (1996Ko29), 251 (1977Ca04)      
+229TH  L 148.163   2  (7/2-)           689 PS    34                         D   
+229TH  A 4678.7    12                                                       W  S
+229TH  G 1.8085      0.0111  11 [M1]                   8500                 f  S
+229TH2 G %IG=2.54E-7 25                                                         
+229TH2 G FLAG=g                                                                 
+229TH cG CC$From adopted gammas                                                 
+229TH  G 76.343    8  17.8   18 [E1]                   0.2396 34                
+229TH2 G %IG=0.00041 4                                                          
+229TH2 G FLAG=g                                                                 
+229THS G  LC=0.1808 25$MC=0.0441 6                                              
+229THS G  NC=0.01157 16$OC=0.00261 4$PC=0.000450 6$QC=2.365E-5 33               
+229TH cG E$Unweighted average 76.3507 keV {I27} (1994He08) and 76.335 keV {I10} 
+229TH2cG (2003Ba78)                                                             
+229TH cG RI$Others: 13.1 {I13} (2003Ba78), 14.5 {I15} (1996Ko29),               
+229TH2cG 21.7 {I13} (1976Kr03), 15.6 (1977Ca04)                                 
+229TH  G 118.9721  15 176    4 (E1)                    0.325   5            a   
+229TH2 G %IG=0.00403 11                                                         
+229THS G  KC=0.2501 35$LC=0.0563 8$MC=0.01363 19                                
+229THS G  NC=0.00359 5$OC=0.000819 11$PC=0.0001462 20$QC=8.90E-6 12             
+229TH cG E$Other: 118.9625 keV {I17} (2003Ba78)                                 
+229TH cG RI$Weighted average 159 {I8} (2003Ba78) and 177.3 {I18} (1984Re05).    
+229TH2cG Others: 154 {I8} (1976Kr03), 123.6 {I14} (1996Ko29), 127 (1977Ca04)    
+229TH cG M$From 1976Kr03 and 2003Ba78                                           
+229TH  G 148.179   10 18.8   13 [E1]                   0.1926 27                
+229TH2 G %IG=0.000431 30                                                        
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.1504 21$LC=0.0319 4$MC=0.00770 11                                
+229THS G  NC=0.002031 28$OC=0.000466 7$PC=8.42E-5 12$QC=5.47E-6 8               
+229TH cG E$Others: 148.21 keV {I1} (1996Ko29), 148.14 keV {I5} (1976Kr03),      
+229TH2cG 148.20 keV {I5} (1977Ca04)                                             
+229TH cG RI$Others: 17.3 {I9} (2003Ba78), 13.9 {I3} (1996Ko29),                 
+229TH2cG 17.5 {I8} (1976Kr03), 14.4 (1977Ca04)                                  
+229TH  L 163.2536  6  11/2+            220 PS    30                         A   
+229TH cL T$From |a-66.1|g(|Dt) in 2021Sh28.                                     
+229TH  A 4664         0.042    1.9E2                                            
+229TH cA IA$Others: 0.05% {I3} (1961Ru06), 0.060% {I15} (1960Dz07), 0.07% {I4}  
+229TH2cA (1956Go43) and 0.058% {I4} from |g-ray transition intensity balance    
+229TH  G 37.823    16 10.9   18 [M1]                   65.1    9                
+229TH2 G %IG=0.00025 4                                                          
+229THS G  LC=49.2 7$MC=11.85 17                                                 
+229THS G  NC=3.16 4$OC=0.749 11$PC=0.1454 20$QC=0.01388 20                      
+229TH cG E$Others: 37.77 keV {2} (1996Ko29), 37.8 keV {I1} (1976Kr03),          
+229TH2cG 37.98 keV {I12} (1977Ca04)                                             
+229TH cG RI$Others: 7.0 {I1} (1996Ko29), 14.2 (1977Ca04), 20.8 (1976Kr03)       
+229TH  G 66.1184   6  44.5   26 [M1+E2]  0.46    2     24.4    9            a   
+229TH2 G %IG=0.00102 6                                                          
+229THS G  LC=18.1 7$MC=4.70 19                                                  
+229THS G  NC=1.26 5$OC=0.287 11$PC=0.0508 18$QC=0.00230 4                       
+229TH cG E$Other: 66.116 keV {I3} (2003Ba78)                                    
+229TH cG RI$Weighted average 44.5 {I26} (2003Ba78), 41 {I1} (1996Ko29).         
+229TH2cG Others: 36.2 {I21} (1976Kr03), 33.8 (1977Ca04)                         
+229TH  G 91.4324      1.8    3 [E2]                    17.14  24            f  S
+229TH2 G %IG=4.1E-5 7                                                           
+229TH2 G FLAG=d                                                                 
+229THS G  LC=12.54 18$MC=3.45 5                                                 
+229THS G  NC=0.923 13$OC=0.2056 29$PC=0.0341 5$QC=0.0001368 19                  
+229TH  G 120.8194  7  134    11E2                      4.95    7            a   
+229TH2 G %IG=0.00307 26                                                         
+229THS G  KC=0.257 4$LC=3.43 5$MC=0.943 13                                      
+229THS G  NC=0.2527 35$OC=0.0564 8$PC=0.00939 13$QC=5.22E-5 7                   
+229TH cG E$Other: 120.8129 keV {I19} (2003Ba78)                                 
+229TH cG RI$Unweighted average 123 {I7} (2003Ba78) and 145.0 {I13} (1984Re05).  
+229TH2cG Others: 129 {I6} (1976Kr03), 123.6 {I14} (1996Ko29), 82.2 (1977Ca04)   
+229TH cG M$L2/L3/M/N=0.012/0.010/0.007/0.003 in 1959Tr31                        
+229TH  L 164.5323  5  (3/2)-           55 PS     4                          C   
+229TH cL T$From adopted levels. Other: 70 ps {I50} [2021Sh28, |a-164.5|g(|Dt)]  
+229TH  A 4658      4  0.004  2 1.9E3   13                                       
+229TH cA E$From 1966Ah02.                                                       
+229TH cA IA$From 1966Ah02. Other: 0.0080% {I9} from |g-ray transition           
+229TH2cA intensity balance                                                      
+229TH  G 16.3697     0.0032  5  [E2]                   20000                f  S
+229TH2 G %IG=7.3E-8 11                                                          
+229THF G FLAG=g                                                                 
+229TH  G 18.17     5 0.225   38 [M1]                   142.6  23            f   
+229TH2 G %IG=5.2E-6 9                                                           
+229THF G FLAG=g                                                                 
+229THS G  LC=2.81 5$MC=104.1 17                                                 
+229THS G  NC=27.8 5$OC=6.58 11$PC=1.277 21$QC=0.1220 20                         
+229TH  G 135.3394  24 97.82  33 E1                     0.2391 33                
+229TH2 G %IG=0.002240 30                                                        
+229THF G FLAG=g                                                                 
+229THS G  KC=0.1859 26$LC=0.0403 6$MC=0.00974 14                                
+229THS G  NC=0.00257 4$OC=0.000587 8$PC=0.0001057 15$QC=6.68E-6 9               
+229TH cG E$Other: 135.3393 keV {I5} (1994He08)                                  
+229TH cG RI$Others: 86 {I4} (2003Ba78), 101.3 {I9} (1984Re05),                  
+229TH2cG 82.4 {I10} (1996Ko29), 96 {I5} (1976Kr03). Other: 87 (1977Ca04)        
+229TH  G 164.5240  5  268    6  E1                     0.1500 21                
+229TH2 G %IG=0.00614 16                                                         
+229THF G FLAG=a                                                                 
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.1177 16$LC=0.02438 34$MC=0.00588 8                               
+229THS G  NC=0.001553 22$OC=0.000357 5$PC=6.49E-5 9$QC=4.33E-6 6                
+229TH cG E$Other: 164.534 keV {I16} (2003Ba78)                                  
+229TH cG RI$Unweighted average 290 {I13} (2024Gr01), 262 {I13} (2003Ba78),      
+229TH2cG 272.1 {I22} (1984Re05), 256 {I3} (1996Ko29), 258 {I17} (1976Kr03).     
+229TH3cG Other: 266 (1977Ca04)                                                  
+229TH cG M$From 1976Kr03 and 2003Ba78                                           
+229TH  L 173.4734  16 (9/2-)                                                D   
+229TH  A 4656         0.005  AP 1.3E3  9                                        
+229TH cA IA$Other: <0.009% from |g-ray transition intensity balance             
+229TH  G 25.3106   8  0.18   LT[M1]                    212.9  30                
+229TH2 G %IG LT 4.1E-6                                                          
+229THF G FLAG=a                                                                 
+229THS G  LC=160.7 22$MC=38.9 5                                                 
+229THS G  NC=10.38 15$OC=2.459 34$PC=0.477 7$QC=0.0456 6                        
+229TH cG E$Other: 25.311 keV {I4} (2003Ba78)                                    
+229TH  G 27.1191      0.087  LT[E2]                    6.13E3  9            f  S
+229TH2 G %IG LT 2.0E-6                                                          
+229THS G  LC=4.50E3 6$MC=1225 17                                                
+229THS G  NC=327 5$OC=72.6 10$PC=11.93 17$QC=0.02497 35                         
+229TH  G 76.335    10 0.87   LT[E1]                    0.2397 34                
+229TH2 G %IG LT 2.0E-5                                                          
+229THS G  LC=0.1809 25$MC=0.0441 6                                              
+229THS G  NC=0.01158 16$OC=0.00261 4$PC=0.000450 6$QC=2.366E-5 33               
+229TH cG E$Other: 76.3507 keV {I27} (1994He08)                                  
+229TH  G 101.62    5  3.0    7  [E1]                   0.1125 16                
+229TH2 G %IG=6.9E-5 16                                                          
+229THS G  LC=0.0850 12$MC=0.02064 29                                            
+229THS G  NC=0.00543 8$OC=0.001233 17$PC=0.0002177 31$QC=1.262E-5 18            
+229TH cG E$From 1996Ko29. Others: 101.73 keV {I3} (2003Ba78), 101.75 keV {I10}  
+229TH2cG (1976Kr03), 101.77 keV {I7} (1977Ca04)                                 
+229TH cG RI$Others: 2.0 {I1} (1996Ko29), 2.9 (1976Kr03), 3.6 (1977Ca04)         
+229TH  G 131.05    15  0.76  10 [E1]                   0.258   4                
+229TH2 G %IG=1.74E-5 23                                                         
+229THS G  KC=0.2003 29$LC=0.0438 6$MC=0.01059 15                                
+229THS G  NC=0.00279 4$OC=0.000638 9$PC=0.0001146 16$QC=7.18E-6 10              
+229TH cG E$From 1976Kr03. Other: 131.24 keV {I10} (2003Ba78), 131.21 keV {I8}   
+229TH2cG (1996Ko29), 131.34 keV {I11} (1977Ca04)                                
+229TH cG RI$Others: 0.7 {I2} (1996Ko29), 1.3 (1976Kr03), 1.3 (1977Ca04)         
+229TH  L 195.7073  8  11/2+                                                 B   
+229TH  A 4634         0.01     4.6E2                                            
+229TH cA IA$Others: 0.015% (1960Dz07) and 0.0133% {I6} from |g-ray transition   
+229TH2cA intensity balance                                                      
+229TH  G 32.4538      0.70   13 [M1]                   102.3  14            f  S
+229TH2 G %IG=1.60E-5 30                                                         
+229TH2 G FLAG=d                                                                 
+229THS G  LC=77.2 11$MC=18.63 26                                                
+229THS G  NC=4.97 7$OC=1.178 16$PC=0.2286 32$QC=0.02182 31                      
+229TH  G 70.281    5  25.4   11 [M1+E2]  0.17    1     11.94  23                
+229TH2 G %IG=0.000582 26                                                        
+229THS G  LC=8.98 17$MC=2.20 5                                                  
+229THS G  NC=0.588 12$OC=0.1380 27$PC=0.0262 5$QC=0.002191 31                   
+229TH cG E$Other: 70.2813 keV {I13} (1994He08)                                  
+229TH cG RI$Weighted average 25.3 {I18} (2003Ba78) and 25.5 {I13} (1996Ko29).   
+229TH2cG Others: 24.5 {I5} (1976Kr03), 23.8 (1977Ca04)                          
+229TH  G 98.5716       4.2   7  [M1]                   3.95    6            f  S
+229TH2 G %IG=9.6E-5 16                                                          
+229TH2 G FLAG=d                                                                 
+229THS G  LC=2.99 4$MC=0.718 10                                                 
+229THS G  NC=0.1916 27$OC=0.0454 6$PC=0.00880 12$QC=0.000838 12                 
+229TH  G 123.8860  7  31.4   22 [E2]                   4.45    6            a   
+229TH2 G %IG=0.00072 5                                                          
+229THS G  KC=0.261 4$LC=3.06 4$MC=0.841 12                                      
+229THS G  NC=0.2253 32$OC=0.0503 7$PC=0.00838 12$QC=4.81E-5 7                   
+229TH cG E$Other: 123.881 keV {I5} (2003Ba78)                                   
+229TH cG RI$Others: 23.9 {I13} (1996Ko29), 30.4 {I17} (1976Kr03),               
+229TH2cG 25.9 (1977Ca04)                                                        
+229TH  G 153.2     2  1.62   13 [E2]                   1.839  28            *   
+229TH2 G %IG=3.71E-5 30                                                         
+229THS G  KC=0.2362 33$LC=1.173 18$MC=0.321 5                                   
+229THS G  NC=0.0862 13$OC=0.01926 29$PC=0.00323 5$QC=2.53E-5 4                  
+229TH cG E$From 1976Kr03. Others: 153.13 keV {I5} (2003Ba78), 153.19 keV {I4}   
+229TH2cG (1996Ko29), 153.05 keV {I11} (1977Ca04)                                
+229TH cG RI$Others: 2.2 {I1} (1996Ko29), 5.8 {I17} (1976Kr03), 2.2 (1977Ca04)   
+229TH  L 212.259   27 (5/2+)                                                    
+229TH  A 4615         0.004    8.8E2                                            
+229TH  G 87.3      5   3.8   10 [E2]                   21.3    7                
+229TH2 G %IG=8.7E-5 23                                                          
+229THS G  LC=15.6 5$MC=4.28 13                                                  
+229THS G  NC=1.147 35$OC=0.256 8$PC=0.0423 13$QC=0.000163 4                     
+229TH cG E$Uncertainty increased by 3|s. Others: 87.25 keV {I4} (1996Ko29),     
+229TH2cG 87.27 keV {I11} (1977Ca04)                                             
+229TH cG RI$Others: 4.8 (1996Ko29), 7.5 (1977Ca04)                              
+229TH  G 212.32    8   5.63  17 [M1]                   2.201  31                
+229TH2 G %IG=0.000129 4                                                         
+229THF G FL=0.0                                                                 
+229THS G  KC=1.760 25$LC=0.333 5$MC=0.0801 11                                   
+229THS G  NC=0.02136 30$OC=0.00506 7$PC=0.000981 14$QC=9.31E-5 13               
+229TH cG E$From 1977Ca04. Others: 212.332 keV {I19} (2003Ba78), 212.39 keV {I3} 
+229TH2cG (1996Ko29), 212.36 keV {I5} (1976Kr03)                                 
+229TH cG RI$Weighted average 5.7 {I3} (2003Ba78) and 5.6 {I2} (1996Ko29).       
+229TH2cG Others: 4.2 (1976Kr03), 5.5 (1977Ca04)                                 
+229TH  L 217.1609  17 (5/2-)           30 PS     7                          C   
+229TH  A 4606      4  0.014  3 2.3E2   6                                        
+229TH cA E$From 1966Ah02. Other: 4611 keV (1967Ba43)                            
+229TH cA IA$From 1966Ah02. Others: 0.006% (1967Ba43) and                        
+229TH2cA 0.0129% {I4} from |g-ray transition intensity balance                  
+229TH  G 52.607    25 5.47   40 [M1]                   24.66  35                
+229TH2 G %IG=0.000125 9                                                         
+229TH2 G FLAG=g                                                                 
+229THS G  LC=18.63 26$MC=4.49 6                                                 
+229THS G  NC=1.197 17$OC=0.284 4$PC=0.0550 8$QC=0.00525 7                       
+229TH cG E$Others: 52.60 keV {I3} (1996Ko29)                                    
+229TH cG RI$Others: 4.4 {I13} (2003Ba78), 3.0 {I1} (1996Ko29)                   
+229TH  G 69.03     10 7.82   41 [M1]                   11.13  16            f   
+229TH2 G %IG=0.000179 10                                                        
+229TH2 G FLAG=g                                                                 
+229THS G  LC=8.41 12$MC=2.024 30                                                
+229THS G  NC=0.540 8$OC=0.1279 19$PC=0.0248 4$QC=0.002365 35                    
+229TH cG E$Others: 68.85 keV {I6} (2003Ba78), 68.80 keV {I3} (1996Ko29),        
+229TH2cG 68.87 keV {I5} (1977Ca04)                                              
+229TH cG RI$Others: 4.0 {I1} (1996Ko29), 4.3 (1977Ca04)                         
+229TH  G 145.342   3  77.9   31 [E1]                   0.2017 28                
+229TH2 G %IG=0.00178 7                                                          
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.1574 22$LC=0.0335 5$MC=0.00809 11                                
+229THS G  NC=0.002134 30$OC=0.000489 7$PC=8.84E-5 12$QC=5.70E-6 8               
+229TH cG E$Others: 145.40 keV {I1} (1996Ko29), 145.37 keV {I1} (1976Kr03),      
+229TH2cG 145.34 keV {I4} (1977Ca04)                                             
+229TH cG RI$Others: 76 {I3} (2003Ba78), 67 {I1} (1996Ko29), 63 {I8} (1976Kr03), 
+229TH2cG 66 {I11} (1977Ca04)                                                    
+229TH  G 187.953   16 85.3   59 [E1]                   0.1093 15                
+229TH2 G %IG=0.00195 14                                                         
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.0863 12$LC=0.01741 24$MC=0.00420 6                               
+229THS G  NC=0.001108 16$OC=0.000256 4$PC=4.68E-5 7$QC=3.23E-6 5                
+229TH cG E$Others: 187.9669 keV {I3} (1994He08), 187.97 keV {I1} (1996Ko29),    
+229TH2cG 187.96 keV {I2} (1976Kr03), 187.97 keV {I1} (1977Ca04)                 
+229TH cG RI$Others: 81 {I4} (2024Gr01), 82 {I4} (2003Ba78), 79.9 {I12}          
+229TH2cG (1996Ko29) and 83 {I4} (1976Kr03). Other: 81.6 (1977Ca04)              
+229TH  G 217.1519  20  144.6 20 [E1]                   0.0778 11            a   
+229TH2 G %IG=0.00331 6                                                          
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.0617 9$LC=0.01216 17$MC=0.00293 4                                
+229THS G  NC=0.000773 11$OC=0.0001788 25$PC=3.29E-5 5$QC=2.356E-6 33            
+229TH cG E$Others: 217.119 keV {I16} (2003Ba78), 217.18 keV {I1} (1996Ko29),    
+229TH2cG 217.15 keV {I5} (1976Kr03), 217.13 keV {I4} (1977Ca04)                 
+229TH cG RI$Weighted average 143 {I7} (2003Ba78), 144.6 {I22} (1996Ko29) and    
+229TH2cG 146 {I8} (1976Kr03). Other: 141 (1977Ca04)                             
+229TH  L 235.1238  18  (5/2-,7/2-)                                              
+229TH  A 4590         8E-4   LE 3.0E3  29                                   X  S
+229TH  G 86.3      3            [M1]                   5.81   10            @  ?
+229THS G  LC=4.39 8$MC=1.056 18                                                 
+229THS G  NC=0.282 5$OC=0.0667 12$PC=0.01295 22$QC=0.001232 21                  
+229TH cG E$Others: 86.3 keV {I3} (1996Ko29), 86.77 keV {I15} (1977Ca04)         
+229TH cG RI$Others: 6.0 {I1} (1996Ko29), 5.4 (1977Ca04)                         
+229TH  G 88.7      2  10.0   10[M1]                    5.36    8                
+229TH2 G %IG=0.000229 23                                                        
+229THS G  LC=4.05 6$MC=0.975 15                                                 
+229THS G  NC=0.260 4$OC=0.0616 10$PC=0.01196 18$QC=0.001138 18                  
+229TH cG E$Other: 88.4746 keV {I14} (1994He08), 88.7 keV {I2} (1996Ko29),       
+229TH2cG 88.46 keV {I8} (1977Ca04)                                              
+229TH cG RI$Others: 10.0 {I1} (1996Ko29), 17.6 (1977Ca04)                       
+229TH  L 237.3695  7  (7/2-)           34 PS     LE                         C   
+229TH  A 4590         0.007    3.3E2                                            
+229TH cA IA$Others: <0.02% (1961Ru06), 0.004% (1960Dz07), and                   
+229TH2cA 0.0078% {I9} from |g-ray transition intensity balance                  
+229TH  G 25.02     5  4.4    17 [E1]                   4.57    7                
+229TH2 G %IG=0.00010 4                                                          
+229THS G  LC=3.41 5$MC=0.879 13                                                 
+229THS G  NC=0.2273 34$OC=0.0480 7$PC=0.00710 10$QC=0.0002352 34                
+229TH cG E$Other: 25.24 keV {I1} (1996Ko29)                                     
+229TH cG RI$Other: 4.5 {I2} (1996Ko29)                                          
+229TH  G 63.79     6  1.3    5 [M1]                    14.02  20                
+229TH2 G %IG=3.0E-5 11                                                          
+229THS G  LC=10.59 15$MC=2.55 4                                                 
+229THS G  NC=0.680 10$OC=0.1611 23$PC=0.0313 4$QC=0.00298 4                     
+229TH cG E$Other: 63.8 keV {I2} (1996Ko29)                                      
+229TH cG RI$Other: 11 {I2} (1996Ko29)                                           
+229TH  G 72.88     7  1.3    LT[E2]                    50.2    7                
+229TH2 G %IG=2.98E-5 4                                                          
+229THS G  LC=36.7 5$MC=10.08 15                                                 
+229THS G  NC=2.70 4$OC=0.601 9$PC=0.0993 15$QC=0.000329 5                       
+229TH2 G %IG LT 3.0E-5                                                          
+229TH cG E$From 1977Ca04. Other: 72.74 keV {I1} (1996Ko29)                      
+229TH cG RI$Other: 33 {I2} (1996Ko29), 23.5 (1977Ca04)                          
+229TH  G 89.39     14 11.4   13 [M1]                   5.24    8                
+229TH2 G %IG=0.000261 30                                                        
+229THS G  LC=3.96 6$MC=0.954 14                                                 
+229THS G  NC=0.254 4$OC=0.0603 9$PC=0.01169 17$QC=0.001113 16                   
+229TH cG E$Uncertainty increased to 2|s. Others: 89.9568 keV {I24} (1994He08)   
+229TH  G 90.999    11 13.5   18 [M1]                   4.98    7                
+229TH2 G %IG=0.00031 4                                                          
+229THS G  LC=3.76 5$MC=0.905 13                                                 
+229THS G  NC=0.2416 34$OC=0.0572 8$PC=0.01110 16$QC=0.001056 15                 
+229TH cG E$Others: 90.97 keV {I2} (1996Ko29),                                   
+229TH2cG 91.0 keV {I5} (1976Kr03), 91.03 keV {I10} (1977Ca04)                   
+229TH cG RI$Others: 8.7 {I12} (1996Ko29), 8.3 {I21} (1976Kr03),                 
+229TH2cG 13.2 (1977Ca04)                                                        
+229TH  G 111.90    5  17.5   13 [E1]                   0.372   5            f   
+229TH2 G %IG=0.000401 30                                                        
+229THS G  KC=0.284 4$LC=0.0660 9$MC=0.01601 22                                  
+229THS G  NC=0.00421 6$OC=0.000960 13$PC=0.0001706 24$QC=1.020E-5 14            
+229TH cG E$Others: 111.927 keV {I7} (2003Ba78), 111.98 keV {I3} (1996Ko29),     
+229TH2cG 112.0 keV {I1} (1976Kr03)                                              
+229TH cG RI$Others: 13.1 {I5} (1996Ko29), 18.8 {I21} (1976Kr03)                 
+229TH  G 165.581   19 17.8   10[E1]                    0.1477 21                
+229TH2 G %IG=0.000408 24                                                        
+229THS G  KC=0.1160 16$LC=0.02399 34$MC=0.00579 8                               
+229THS G  NC=0.001528 21$OC=0.000351 5$PC=6.39E-5 9$QC=4.27E-6 6                
+229TH cG E$Others: 165.64 keV {I2} (1996Ko29), 165.6 keV {I1} (1976Kr03),       
+229TH2cG 165.72 keV {I10} (1977Ca04)                                            
+229TH cG RI$Others: 15.3 {I4} (1996Ko29), 18.8 {I21} (1976Kr03),                
+229TH2cG 15.4 (1977Ca04)                                                        
+229TH  G 208.1795  7  100      [E1]                    0.0859 12            a   
+229TH2 G %IG=0.002290 30                                                        
+229THS G  KC=0.0680 10$LC=0.01350 19$MC=0.00325 5                               
+229THS G  NC=0.000858 12$OC=0.0001983 28$PC=3.65E-5 5$QC=2.58E-6 4              
+229TH cG E$Others: 208.164 keV {I16} (2003Ba78), 208.22 keV {I1} (1996Ko29),    
+229TH2cG 208.18 keV {I5} (1976Kr03), 208.17 keV {I2} (1977Ca04)                 
+229TH cG RI$Used for normalization of the 2024Gr01, 2003Ba78, 1996Ko29,         
+229TH2cG 1984Re05, 1976Kr03 and 1977Ca04 data                                   
+229TH  G 237.51    10 0.22   7 [E1]                    0.0632  9                
+229TH2 G %IG=5.0E-6 16                                                          
+229THS G  KC=0.0503 7$LC=0.00976 14$MC=0.002347 33                              
+229THS G  NC=0.000621 9$OC=0.0001437 20$PC=2.66E-5 4$QC=1.941E-6 27             
+229TH cG E$Placement by the evaluators. Other: 237.44 keV {I15} (1996Ko29)      
+229TH cG RI$Other: 0.5 {I2} (1996Ko29)                                          
+229TH  L 241.556   14 13/2+                                                 A   
+229TH  A 4582      4  0.006  3 3.6E2   24                                       
+229TH cA E$From 1966Ah02.                                                       
+229TH cA IA$From 1966Ah02. Other: 0.04% {I2} (1956Go43), 0.00179% {I17} from    
+229TH2cA |g-ray transition intensity balance                                    
+229TH  G 45.849       0.40   7  [M1]                   36.9    5            f  S
+229TH2 G %IG=9.2E-6 16                                                          
+229TH2 G FLAG=d                                                                 
+229THS G  LC=27.9 4$MC=6.72 9                                                   
+229THS G  NC=1.794 25$OC=0.425 6$PC=0.0824 12$QC=0.00786 11                     
+229TH  G 78.21     5  2.4    3  [M1+E2]   0.52   5     13.7    9                
+229TH2 G %IG=5.5E-5 7                                                           
+229THS G  LC=10.2 7$MC=2.64 19                                                  
+229THS G  NC=0.71 5$OC=0.161 11$PC=0.0287 18$QC=0.00135 5                       
+229TH cG E$Others: 78.10 keV {I10} (1996Ko29), 78.20 keV {I10} (1976Kr03),      
+229TH2cG 78.09 keV {I14} (1977Ca04)                                             
+229TH cG RI$From 1977Ca04. Others: 1.9 {I3} (2003Ba78), 1.5 {I3} (1996Ko29),    
+229TH2cG 4.2 (1976Kr03)                                                         
+229TH  G 116.3     2  0.21   4 [E2]                    5.84    9            @   
+229TH2 G %IG=4.8E-6 9                                                           
+229THS G  KC=0.2449 35$LC=4.09 7$MC=1.124 18                                    
+229THS G  NC=0.301 5$OC=0.0672 11$PC=0.01118 18$QC=5.91E-5 9                    
+229TH cG E$Others: 116.3 keV {I2} (1996Ko29), 116.41 keV {I7} (1977Ca04)        
+229TH cG RI$Others (doublet): 5.5 {I10} (1996Ko29), 8.5 (1977Ca04)              
+229TH  G 144.426   14 13.1   13 [E2]                   2.338  33                
+229TH2 G %IG=0.000300 30                                                        
+229THS G  KC=0.2503 35$LC=1.527 21$MC=0.419 6                                   
+229THS G  NC=0.1122 16$OC=0.02509 35$PC=0.00419 6$QC=3.01E-5 4                  
+229TH cG E$Others: 144.41 keV {I3} (1996Ko29), 144.7 keV {I5} (1976Kr03),       
+229TH2cG 144.32 keV {I8} (1977Ca04)                                             
+229TH cG RI$Others: 13.5 {I6} (1996Ko29), 37.5 {I13} (1976Kr03), 11.8 (1977Ca04)
+229TH  L 255.913   20 (3/2+,5/2+,7/2+)                                          
+229TH  A 4572         0.0023   7.3E2                                            
+229TH cA IA$Other: <0.0006% from |g-ray transition intensity balance            
+229TH  G 43.69     3  1.8    6 [M1]                    42.6    6                
+229TH2 G %IG=4.1E-5 14                                                          
+229THS G  LC=32.2 5$MC=7.75 11                                                  
+229THS G  NC=2.067 29$OC=0.490 7$PC=0.0950 13$QC=0.00907 13                     
+229TH  G 226.72    28 3.1    10[M1]                    1.832  26                
+229TH2 G %IG=7.1E-5 23                                                          
+229THS G  KC=1.465 21$LC=0.277 4$MC=0.0666 10                                   
+229THS G  NC=0.01776 26$OC=0.00421 6$PC=0.000816 12$QC=7.74E-5 11               
+229TH cG E$From 1977Ca04. Others: 226.2 keV {I2} (2003Ba78,1996Ko29)            
+229TH cG RI$Others: 0.3 {I1} (1996Ko29), 0.4 (1977Ca04)                         
+229TH  G 255.89    3  1.63   9 [M1]                    1.308  18                
+229TH2 G %IG=3.73E-5 21                                                         
+229THF G FL=0.0                                                                 
+229THS G  KC=1.046 15$LC=0.1975 28$MC=0.0474 7                                  
+229THS G  NC=0.01265 18$OC=0.00300 4$PC=0.000581 8$QC=5.52E-5 8                 
+229TH cG E$Others: 255.92 keV {I2} (1996Ko29), 255.93 {I5} (1976Kr03),          
+229TH2cG 255.95 keV {I4} (1977Ca04)                                             
+229TH cG RI$Weighted average 1.72 {I16} (2003Ba78) and 1.6 {I1} (1996Ko29).     
+229TH2cG Others: 1.3 (1976Kr03), 1.7 (1977Ca04)                                 
+229TH  L 261.967   4   1/2+            15 PS     3                          F   
+229TH  A 4565         0.0028   5.4E2                                            
+229TH  G 97.37     4            [E1]                   0.1259 18               ?
+229THS G  LC=0.0951 13$MC=0.02311 32                                            
+229THS G  NC=0.00608 9$OC=0.001379 19$PC=0.0002426 34$QC=1.387E-5 19            
+229TH cG E,RI$Doublet. I|g=87 {I13} in 2003Ba78, but existence of such a strong 
+229TH2cG transition is not confirmed in {+229}Ac |b{+-} decay                   
+229TH  G 261.958   4  12.4   3  M1+E2    1.00    +22-180.74   10            a   
+229TH2 G %IG=0.000284 8                                                         
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.54 9$LC=0.153 7$MC=0.0384 13                                     
+229THS G  NC=0.01027 34$OC=0.00238 9$PC=0.000439 22$QC=2.9E-5 4                 
+229TH cG E$Others: 261.944 keV {I18} (2003Ba78), 261.95 keV {I1} (1996Ko29),    
+229TH2cG 261.91 keV {I9} (1977Ca04)                                             
+229TH cG RI$Weighted average 12.1 {I6} (2003Ba78) and 12.5 {I3} (1996Ko29).     
+229TH2cG Other: 12.4 (1977Ca04)                                                 
+229TH  L 272.849   8  (13/2+)                                               B  ?
+229TH  A 4556.1    12                                                       W  S
+229TH  G 77.142    8            [M1+E2]                23     15            *   
+229THS G  LC=17 11$MC=4.6 31                                                    
+229THS G  NC=1.2 8$OC=0.28 18$PC=0.047 29$QC=1.0E-3 7                           
+229TH  G 146.9     5  5.1    4  [E2]                   2.18    4               ?
+229TH2 G %IG=0.000117 9                                                         
+229THS G  KC=0.2466 35$LC=1.415 29$MC=0.388 8                                   
+229THS G  NC=0.1040 22$OC=0.0232 5$PC=0.00389 8$QC=2.86E-5 5                    
+229TH  L 287.889   5  (7/2-)                                                    
+229TH  A 4538         0.004    2.5E2                                            
+229TH cA IA$Other: 0.0021% {I6} from |g-ray transition intensity balance        
+229TH  G 51.0      3  1.3    4  [M1]                   27.0    6                
+229TH2 G %IG=3.0E-5 9                                                           
+229THS G  LC=20.4 5$MC=4.91 11                                                  
+229THS G  NC=1.311 29$OC=0.311 7$PC=0.0603 14$QC=0.00575 13                     
+229TH  G 114.2     2  8.0    10 [M1]                   12.68  19                
+229TH2 G %IG=0.000183 23                                                        
+229THS G  KC=10.10 15$LC=1.952 29$MC=0.469 7                                    
+229THS G  NC=0.1252 19$OC=0.0297 4$PC=0.00575 9$QC=0.000547 8                   
+229TH cG E$Others: 114.2 keV {I2} (1996Ko29), 114.4 keV {I3} (1977Ca04)         
+229TH cG RI$Others: 8.0 {I1} (1996Ko29) and 10 {I3} (1977Ca04)                  
+229TH  G 139.7278  45 4.25   28 [M1]                   7.17   10            a   
+229TH2 G %IG=9.7E-5 7                                                           
+229THS G  KC=5.73 8$LC=1.093 15$MC=0.263 4                                      
+229THS G  NC=0.0701 10$OC=0.01661 23$PC=0.00322 5$QC=0.000306 4                 
+229TH cG E$Others: 139.720 keV {I3} (2003Ba78), 139.87 keV {I4} (1996Ko29),     
+229TH2cG 139.79 keV {I6} (1977Ca04)                                             
+229TH cG RI$Weighted average 3.9 {I8} (2003Ba78) and 4.3 {I3} (1996Ko29).       
+229TH2cG Others: 4.2 (1976Kr03), 4.2 (1977Ca04)                                 
+229TH  G 162.48    3  2.33   15 [E1]                   0.1545 22            *   
+229TH2 G %IG=5.34E-5 35                                                         
+229THS G  KC=0.1212 17$LC=0.02517 35$MC=0.00608 9                               
+229THS G  NC=0.001603 22$OC=0.000369 5$PC=6.70E-5 9$QC=4.46E-6 6                
+229TH cG E$Others: 162.41 keV {I3} (1996Ko29), 162.6 {I1} (1976Kr03),           
+229TH2cG 162.27 keV {I14} (1977Ca04)                                            
+229TH cG RI$Weighted average 2.36 {I22} (2003Ba78) and 2.3 {I2} (1996Ko29).     
+229TH2cG Others: 10 (1976Kr03), 3.0 {I9} (1977Ca04)                             
+229TH  G 216.053   17 26.5   5  [E1]                   0.0787 11                
+229TH2 G %IG=0.000607 14                                                        
+229THS G  KC=0.0625 9$LC=0.01231 17$MC=0.00296 4                                
+229THS G  NC=0.000783 11$OC=0.0001810 25$PC=3.33E-5 5$QC=2.382E-6 33            
+229TH cG E$Others: 216.08 keV {I1} (1996Ko29), 216.1 {I2} (1976Kr03),           
+229TH2cG 216.08 keV {I2} (1977Ca04)                                             
+229TH cG RI$Weighted average 27.1 {I13} (2003Ba78) and 26.4 {I5} (1996Ko29).    
+229TH2cG Others: 33.3 (1976Kr03), 26.5 (1977Ca04)                               
+229TH  L 288.479   14  (3/2)+          16 PS     7                          F   
+229TH  A 4540.7    12                                                       W  S
+229TH  G 32.57     3  0.79   26 [M1]                   101.2  14                
+229TH2 G %IG=1.8E-5 6                                                           
+229THF G FLAG=e                                                                 
+229THS G  LC=76.4 11$MC=18.44 26                                                
+229THS G  NC=4.92 7$OC=1.165 17$PC=0.2262 32$QC=0.02159 31                      
+229TH  G 141.95    10 0.393  66 [E1]                   0.2134 30                
+229TH2 G %IG=9.0E-6 15                                                          
+229THS G  KC=0.1663 23$LC=0.0356 5$MC=0.00860 12                                
+229THS G  NC=0.002268 32$OC=0.000520 7$PC=9.38E-5 13$QC=6.01E-6 8               
+229TH cG E$Others: 141.8 keV {I2} (1996Ko29)                                    
+229TH cG RI$Other: 0.8 {I2} (1996Ko29)                                          
+229TH  G 259.268   19 6.79   17 [M1]                   1.261  18                
+229TH2 G %IG=0.000155 4                                                         
+229THS G  KC=1.009 14$LC=0.1904 27$MC=0.0457 6                                  
+229THS G  NC=0.01220 17$OC=0.00289 4$PC=0.000560 8$QC=5.32E-5 7                 
+229TH cG E$Others: 259.32 keV {I1} (1996Ko29), 259.33 keV {I4} (1977Ca04)       
+229TH cG RI$Weighted average 6.77 {I35} (2003Ba78) and 6.8 {I2} (1996Ko29).     
+229TH2cG Other: 7.1 (1977Ca04)                                                  
+229TH  G 288.50    3  5.1    6 [M1]                    0.938  13                
+229TH2 G %IG=0.000117 14                                                        
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.751 11$LC=0.1414 20$MC=0.0340 5                                  
+229THS G  NC=0.00906 13$OC=0.002145 30$PC=0.000416 6$QC=3.95E-5 6               
+229TH  L 302.990   4  (7/2+)           110 PS    17                             
+229TH  A 4526.5    12                                                       W  S
+229TH  G 65.62     5  2.2    4 [E1]                    0.358   5                
+229TH2 G %IG=5.0E-5 9                                                           
+229THS G  LC=0.270 4$MC=0.0661 9                                                
+229THS G  NC=0.01731 24$OC=0.00388 5$PC=0.000659 9$QC=3.28E-5 5                 
+229TH  G 129.517      2.6    AP[E1]                    0.266   4            f  S
+229TH2 G %IG AP 6.0E-5                                                          
+229THS G  KC=0.2059 29$LC=0.0451 6$MC=0.01092 15                                
+229THS G  NC=0.00288 4$OC=0.000658 9$PC=0.0001180 17$QC=7.37E-6 10              
+229TH  G 154.846   22 6.14   18[E1]                    0.1734 24                
+229TH2 G %IG=0.000141 5                                                         
+229THS G  KC=0.1357 19$LC=0.0285 4$MC=0.00687 10                                
+229THS G  NC=0.001813 25$OC=0.000416 6$PC=7.55E-5 11$QC=4.96E-6 7               
+229TH cG E$Others: 154.90 keV {I2} (1996Ko29), 154.85 {I1} (1976Kr03),          
+229TH2cG 154.69 keV {I12} (1977Ca04)                                            
+229TH cG RI$Weighted average 6.3 {I4} (2003Ba78) and 6.1 {I2} (1996Ko29).       
+229TH2cG Others: 7.1 (1976Kr03), 6.0 (1977Ca04)                                 
+229TH  G 177.78    32 0.29   6 [M1]                    3.63    5                
+229TH2 G %IG=6.6E-6 14                                                          
+229THS G  KC=2.90 4$LC=0.550 8$MC=0.1323 20                                     
+229THS G  NC=0.0353 5$OC=0.00836 12$PC=0.001622 24$QC=0.0001539 23              
+229TH cG E$From 1996Ko29. Others: 177.94 keV {I16} (2003Ba78), 177.81 keV {I6}  
+229TH2cG (1977Ca04)                                                             
+229TH cG RI$Others: 0.2 {I2} (1996Ko29) and 0.8 (1977Ca04)                      
+229TH  G 205.90    15 1.00   11[M1]                    2.399  34            @   
+229TH2 G %IG=2.29E-5 25                                                         
+229THS G  KC=1.918 27$LC=0.363 5$MC=0.0873 12                                   
+229THS G  NC=0.02329 33$OC=0.00552 8$PC=0.001070 15$QC=0.0001016 14             
+229TH cG E$Others: 205.72 keV {I6} (1996Ko29), 206.2 {I2} (1976Kr03),           
+229TH2cG 205.98 keV {I12} (1977Ca04)                                            
+229TH cG RI$Others: 1.0 {I1} (1996Ko29), 4.2 {I13} (1976Kr03), 2.6 (1977Ca04)   
+229TH  G 260.52    3  4.29   16[M1]                    1.244  17                
+229TH2 G %IG=9.8E-5 4                                                           
+229THS G  KC=0.996 14$LC=0.1878 26$MC=0.0451 6                                  
+229THS G  NC=0.01204 17$OC=0.00285 4$PC=0.000553 8$QC=5.25E-5 7                 
+229TH cG E$Others: 260.54 keV {I2} (1996Ko29), 260.65 keV {I22} (1977Ca04)      
+229TH cG RI$Weighted average 4.45 {I26} (2003Ba78) and 4.2 {I2} (1996Ko29).     
+229TH2cG Other: 4.3 (1977Ca04)                                                  
+229TH  G 273.74    5  0.68   7 [M1]                    1.085  15                
+229TH2 G %IG=1.56E-5 16                                                         
+229THS G  KC=0.868 12$LC=0.1636 23$MC=0.0393 6                                  
+229THS G  NC=0.01048 15$OC=0.002482 35$PC=0.000482 7$QC=4.57E-5 6               
+229TH  G 302.990   4  3.48   9 [M1]                    0.820  11                
+229TH2 G %IG=7.97E-5 23                                                         
+229THF G FLAG=ah                                                                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.656 9$LC=0.1235 17$MC=0.0296 4                                   
+229THS G  NC=0.00791 11$OC=0.001872 26$PC=0.000363 5$QC=3.45E-5 5               
+229TH cG E$Others: 302.978 keV {I19} (2003Ba78), 302.95 keV {I2} (1996Ko29),    
+229TH2cG 302.96 keV {I5} (1976Kr03), 302.81 keV {I19} (1977Ca04)                
+229TH cG RI$Weighted average 3.41 {I18} (2003Ba78) and 3.5 {I1} (1996Ko29).     
+229TH2cG Others: 3.8 (1976Kr03), 2.8 (1977Ca04)                                 
+229TH  L 317.1697  8   5/2+            9.0 PS    16                         F   
+229TH  A 4513         0.018    33                                               
+229TH cA IA$Others: 0.04% {I2} (1961Ru06), 0.033% {I8} (1960Dz07) and           
+229TH2cA 0.0214% {I6} from |g-ray transition intensity balance                  
+229TH  G 28.691       0.172  30 [M1]                   147.1  21            f  S
+229TH2 G %IG=3.9E-6 7                                                           
+229THF G FLAG=g                                                                 
+229THS G  LC=111.1 16$MC=26.8 4                                                 
+229THS G  NC=7.16 10$OC=1.696 24$PC=0.329 5$QC=0.0314 4                         
+229TH  G 55.203       0.086  15 [E2]                   190.6  27            f  S
+229TH2 G %IG=1.97E-6 34                                                         
+229THF G FLAG=g                                                                 
+229THS G  LC=139.5 20$MC=38.2 5                                                 
+229THS G  NC=10.23 14$OC=2.274 32$PC=0.375 5$QC=0.001056 15                     
+229TH  G 99.95     15 0.83   26 [E1]                   0.1176 17                
+229TH2 G %IG=1.9E-5 6                                                           
+229THS G  LC=0.0888 13$MC=0.02157 31                                            
+229THS G  NC=0.00567 8$OC=0.001288 19$PC=0.0002271 33$QC=1.309E-5 19            
+229TH cG E$Others: 100.1 keV {I2} (1996Ko29), 100.03 {I15} (1976Kr03),          
+229TH2cG 100.03 keV {I2} (1977Ca04)                                             
+229TH cG RI$Others: 1.6 {I6} (1996Ko29), 2.1 (1976Kr03), 2.2 (1977Ca04)         
+229TH  G 152.62    10 0.48   13 [E1]                   0.1795 25                
+229TH2 G %IG=1.10E-5 30                                                         
+229THS G  KC=0.1404 20$LC=0.0295 4$MC=0.00714 10                                
+229THS G  NC=0.001882 27$OC=0.000432 6$PC=7.82E-5 11$QC=5.12E-6 7               
+229TH  G 169.002   5  2.17   30 [E1]                   0.1407 20            a   
+229TH2 G %IG=5.0E-5 7                                                           
+229THS G  KC=0.1106 15$LC=0.02277 32$MC=0.00549 8                               
+229THS G  NC=0.001450 20$OC=0.000334 5$PC=6.07E-5 9$QC=4.08E-6 6                
+229TH cG E$Others: 169.10 keV {I9} (2003Ba78), 169.06 keV {I4} (1996Ko29),      
+229TH2cG 168.96 keV {I10} (1976Kr03), 169.05 keV {I5} (1977Ca04).               
+229TH cG RI$Weighted average 1.79 {I26} (2003Ba78) and 2.4 {I2} (1996Ko29).     
+229TH2cG Others: 4.2 (1976Kr03), 2.7 (1977Ca04)                                 
+229TH  G 170.82    3  4.85   47 [E1]                   0.1371 19                
+229TH2 G %IG=0.000111 11                                                        
+229THF G FLAG=g                                                                 
+229THS G  KC=0.1078 15$LC=0.02216 31$MC=0.00535 7                               
+229THS G  NC=0.001411 20$OC=0.000325 5$PC=5.92E-5 8$QC=3.99E-6 6                
+229TH cG E$Others: 170.8091 keV {I24} (1994He08), 170.84 keV {I2} (1996Ko29),   
+229TH2cG 170.84 keV {I5} (1976Kr03), 170.84 keV {I5} (1977Ca04)                 
+229TH cG RI$Others: 4.37 {I26} (2003Ba78), 5.2 {I2} (1996Ko29), 8.3 {I13}       
+229TH2cG (1976Kr03), 5.6 (1977Ca04)                                             
+229TH  G 245.3498  11 157.9  17M1+E2     0.74    13    1.06   10            a   
+229TH2 G %IG=0.00362 6                                                          
+229THF G FLAG=g                                                                 
+229THS G  KC=0.80 9$LC=0.199 6$MC=0.0495 11                                     
+229THS G  NC=0.01321 30$OC=0.00308 8$PC=0.000576 20$QC=4.3E-5 5                 
+229TH cG E$Others: 245.337 keV {I16} (2003Ba78), 245.36 keV {I1} (1996Ko29),    
+229TH2cG 245.33 keV {I3} (1976Kr03), 245.32 keV {I2} (1977Ca04)                 
+229TH cG RI$Others: 156 {I8} (2003Ba78), 158.6 {I23} (1996Ko29),                
+229TH2cG 158.1 {I13} (1984Re05) and 150 {I7} (2024Gr01). Others: 158 {I8}       
+229TH3cG (1976Kr03), superseded by 1984Re05, and 159 (1977Ca04)                 
+229TH cG M$K/L=0.01/0.003 in 1959Tr31                                           
+229TH  G 274.7347  13 17.93  37 M1+E2    1.01    +17-150.64    7            a   
+229TH2 G %IG=0.000411 10                                                        
+229THF G FLAG=g                                                                 
+229THS G  KC=0.47 6$LC=0.130 5$MC=0.0328 11                                     
+229THS G  NC=0.00876 28$OC=0.00203 7$PC=0.000376 17$QC=2.52E-5 32               
+229TH cG E$Others: 274.717 keV {I17} (2003Ba78), 274.71 keV {I1} (1996Ko29),    
+229TH2cG 274.71 keV {I4} (1976Kr03), 274.68 keV {I5} (1977Ca04)                 
+229TH cG RI$Others: 18 {I1} (2003Ba78), 18.2 {I4} (1996Ko29),                   
+229TH2cG 7.1 {I22} (2024Gr01), 20.0 {I25} (1976Kr03) and 17.4 (1977Ca04)        
+229TH  G 288.00    3  39.2   8 [M1]                    0.943  13                
+229TH2 G %IG=0.000898 22                                                        
+229THS G  KC=0.755 11$LC=0.1421 20$MC=0.0341 5                                  
+229THS G  NC=0.00910 13$OC=0.002155 30$PC=0.000418 6$QC=3.97E-5 6               
+229TH cG E$From 1977Ca04. Others: 288.0292 keV {I9} (1994He08), 288.037 keV     
+229TH2cG {I25} (2003Ba78), 288.03 keV {I1} (1996Ko29), 288.01 keV {I4}          
+229TH3cG (1976Kr03)                                                             
+229TH cG RI$Weighted average of 39.7 {I22} (2003Ba78) and 39.1 {I9} (1996Ko29). 
+229TH2cG Others: 37.5 {I21} (1976Kr03), 42.4 (1977Ca04)                         
+229TH  G 317.1689  15 337.0  27 M1+E2    1.18    +16-130.385  35                
+229TH2 G %IG=0.00772 12                                                         
+229THF G FLAG=ah                                                                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.280 31$LC=0.0786 33$MC=0.0198 7                                  
+229THS G  NC=0.00529 19$OC=0.00123 5$PC=0.000227 10$QC=1.50E-5 16               
+229TH cG E$Others: 317.191 keV {I16} (2003Ba78), 317.18 keV {I1} (1996Ko29),    
+229TH2cG 317.15 keV {I2} (1976Kr03), 317.16 keV {I1} (1977Ca04)                 
+229TH cG RI$Weighted average of 310 {I18} (2003Ba78), 330 {I7} (1996Ko29), and  
+229TH2cG 339 {I3} (1984Re05). Others: 333 (1976Kr03), superseded by 1984Re05,   
+229TH3cG and 327 (1977Ca04)                                                     
+229TH cG M$K/L=0.012/0.003 in 1959Tr31                                          
+229TH  L 320.5462  6  5/2+             10.3 PS   21                         E   
+229TH  A 4507      4  0.035  10 16     5                                        
+229TH cA E$From 1966Ah02. Other: 4507 keV (1967Ba43)                            
+229TH cA IA$From 1966Ah02. Others: 0.012% (1967Ba43), 0.04% {I2} (1961Ru06) and 
+229TH2cA 0.0203% {I8} from |g-ray transition intensity balance                  
+229TH  G 32.068       0.22   4  [M1]                   106.0  15            f  S
+229TH2 G %IG=5.0E-6 9                                                           
+229THF G FLAG=g                                                                 
+229THS G  LC=80.0 11$MC=19.30 27                                                
+229THS G  NC=5.15 7$OC=1.220 17$PC=0.2368 33$QC=0.02261 32                      
+229TH  G 32.73     5  37.3   47 [E1]                   2.263  33                
+229TH2 G %IG=0.00085 11                                                         
+229THS G  LC=1.697 25$MC=0.427 6                                                
+229THS G  NC=0.1110 16$OC=0.02394 35$PC=0.00372 5$QC=0.0001390 20               
+229TH cG E$Others: 32.5 keV {I1} (1996Ko29), 32.2 {I2} (1976Kr03),              
+229TH2cG 32.48 keV {I15} (1977Ca04)                                             
+229TH cG RI$Unweighted average of 42 {I5} (2003Ba78) and 32.6 {I12} (1996Ko29). 
+229TH2cG Other: 39.6 (1977Ca04)                                                 
+229TH  G 58.580       0.093  19 [E2]                   143.1  20            f  S
+229TH2 G %IG=2.1E-6 4                                                           
+229THF G FLAG=g                                                                 
+229THS G  LC=104.7 15$MC=28.7 4                                                 
+229THS G  NC=7.68 11$OC=1.708 24$PC=0.282 4$QC=0.000818 11                      
+229TH  G 85.4224   17 4.7    6 [E1]                    0.1779 25            a   
+229TH2 G %IG=0.000108 14                                                        
+229THS G  LC=0.1343 19$MC=0.0327 5                                              
+229THS G  NC=0.00859 12$OC=0.001941 27$PC=0.000338 5$QC=1.850E-5 26             
+229TH cG E$Others: 85.16 keV {I5} (2003Ba78), 85.2 keV {I2} (1996Ko29),         
+229TH2cG 85.43 keV {I2} (1977Ca04)                                              
+229TH cG RI$Unweighted average of 5.2 {I18} (2003Ba78) and 4.1 {I1} (1996Ko29). 
+229TH2cG Other: 7.6 (1977Ca04)                                                  
+229TH  G 103.69    30 2.8    8 [E1]                    0.1067 17                
+229TH2 G %IG=6.4E-5 18                                                          
+229THS G  LC=0.0806 13$MC=0.01957 31                                            
+229THS G  NC=0.00515 8$OC=0.001170 19$PC=0.0002069 33$QC=1.207E-5 19            
+229TH cG E$From 1996Ko29 with uncertainty increased to 3|s. Others: 103.84 keV  
+229TH2cG {I18} (2003Ba78), 103.4 keV (1976Kr03), 103.71 keV {I3} (1977Ca04)     
+229TH cG RI$Others: 1.3 {I5} (1996Ko29), 4.0 (1977Ca04)                         
+229TH  G 156.14    10 1.58   11 [E1]                   0.1699 24                
+229TH2 G %IG=3.62E-5 26                                                         
+229THS G  KC=0.1331 19$LC=0.0279 4$MC=0.00673 9                                 
+229THS G  NC=0.001775 25$OC=0.000408 6$PC=7.39E-5 10$QC=4.87E-6 7               
+229TH cG E$From 1977Ca04. Others: 156.15 keV {I5} (2003Ba78), 156.25 keV {I6}   
+229TH2cG (1996Ko29), 156.1 keV {I15} (1976Kr03)                                 
+229TH cG RI$Weighted average of 1.57 {I13} (2003Ba78) and 1.6 {I2} (1996Ko29).  
+229TH2cG Others: 2.9 (1976Kr03), 2.3 (1977Ca04)                                 
+229TH  G 172.34    10 0.96   9  [E1]                   0.1343 19                
+229TH2 G %IG=2.20E-5 21                                                         
+229THS G  KC=0.1056 15$LC=0.02167 31$MC=0.00523 7                               
+229THS G  NC=0.001380 19$OC=0.000318 4$PC=5.79E-5 8$QC=3.91E-6 5                
+229TH cG E$Others: 172.46 keV {I11} (1996Ko29), 172.42 keV {I12} (1976Kr03),    
+229TH2cG 172.30 keV {I16} (1977Ca04)                                            
+229TH cG RI$Weighted average of 1.0 {I1} (2003Ba78) and 0.8 {I2} (1996Ko29).    
+229TH2cG Others: 1.3 (1976Kr03), 1.4 (1977Ca04)                                 
+229TH  G 174.1919  20 7.92   46 [E1]                   0.1309 18            a   
+229TH2 G %IG=0.000181 11                                                        
+229THF G FLAG=g                                                                 
+229THS G  KC=0.1030 14$LC=0.02109 30$MC=0.00509 7                               
+229THS G  NC=0.001343 19$OC=0.000309 4$PC=5.64E-5 8$QC=3.82E-6 5                
+229TH cG E$Others: 174.209 keV {I18} (2003Ba78), 174.21 keV {I1} (1996Ko29),    
+229TH2cG 174.17 keV {I5} (1976Kr03), 174.21 keV {I3} (1977Ca04)                 
+229TH cG RI$Others: 7.4 {I4} (2003Ba78), 8.1 {I2} (1996Ko29), 11.7 (1976Kr03),  
+229TH2cG 9.3 (1977Ca04)                                                         
+229TH  G 223.39    6  1.08   8  [E2]                   0.443   6                
+229TH2 G %IG=2.47E-5 19                                                         
+229THS G  KC=0.1294 18$LC=0.2301 32$MC=0.0625 9                                 
+229THS G  NC=0.01675 24$OC=0.00376 5$PC=0.000638 9$QC=9.24E-6 13                
+229TH cG E$Others: 223.37 keV {I3} (1996Ko29), 223.45 keV {I10} (1976Kr03),     
+229TH2cG 223.17 keV {I4} (1977Ca04)                                             
+229TH cG RI$Weighted average of 1.05 {I13} (2003Ba78) and 1.1 {I1} (1996Ko29).  
+229TH2cG Others: 1.3 (1976Kr03), 1.3 (1977Ca04)                                 
+229TH  G 248.7242  10 62.1   5 (M1)                    1.415  20                
+229TH2 G %IG=0.001422 22                                                        
+229THF G FLAG=a                                                                 
+229THS G  KC=1.132 16$LC=0.2138 30$MC=0.0514 7                                  
+229THS G  NC=0.01370 19$OC=0.00324 5$PC=0.000629 9$QC=5.97E-5 8                 
+229TH cG E$Others: 248.710 keV {I16} (2003Ba78), 248.73 keV {I1} (1996Ko29),    
+229TH2cG 248.73 keV {I1} (1976Kr03), 248.69 keV {I3} (1977Ca04)                 
+229TH cG RI$Weighted average of 59 {I3} (2024Gr01), 61.1 {I31} (2003Ba78),      
+229TH2cG 62.2 {I5} (1996Ko29), 62 {I3} (1976Kr03). Other: 62.5 (1977Ca04)       
+229TH cG M$From ce(K) in 1959Tr31                                               
+229TH  G 278.10    4  47.8   27 M1+E2    1.08    +16-140.59    6                
+229TH2 G %IG=0.00109 6                                                          
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.43 5$LC=0.123 5$MC=0.0311 9                                      
+229THS G  NC=0.00831 25$OC=0.00193 6$PC=0.000355 15$QC=2.31E-5 27               
+229TH cG E$From 1976Kr03. Others: 278.070 keV {I20} (2003Ba78), 278.08 keV {I1} 
+229TH2cG (1996Ko29), 278.1080 keV {I9} (1994He08), 278.08 keV {I2} (1977Ca04)   
+229TH cG RI$Others: 43 {I3} (2024Gr01), 49.3 {I26} (2003Ba78),                  
+229TH2cG 48.2 {I9} (1996Ko29), 50.0 {I25} (1976Kr03), 47.1 (1977Ca04)           
+229TH  G 291.3561  9   202   11M1+E2     0.74    13    0.66    6            @   
+229TH2 G %IG=0.00463 26                                                         
+229THF G FLAG=a                                                                 
+229THS G  KC=0.50 5$LC=0.117 5$MC=0.0289 11                                     
+229THS G  NC=0.00770 28$OC=0.00180 7$PC=0.000340 16$QC=2.65E-5 28               
+229TH cG E$Others: 291.353 keV {I16} (2003Ba78), 291.38 keV {I1} (1996Ko29),    
+229TH2cG 291.34 keV {I3} (1976Kr03), 291.34 keV {I1} (1977Ca04)                 
+229TH cG RI$Others: 230 {I4} (1996Ko29), 238.7 {I22} (1984Re05), 229 {I13}      
+229TH2cG (1976Kr03), 230 (1977Ca04) that include contribution from 291|g,       
+229TH3cG depopulating 536-keV level                                             
+229TH cG M$Other: K/L=0.008/0.002 in 1959Tr31                                   
+229TH  G 320.5471  13 118    11 M1+E2    1.30    +19-150.348  35            a   
+229TH2 G %IG=0.00270 25                                                         
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=gh                                                                
+229THS G  KC=0.249 31$LC=0.0737 33$MC=0.0186 7                                  
+229THS G  NC=0.00498 19$OC=0.00115 5$PC=0.000212 10$QC=1.34E-5 16               
+229TH cG E$Others: 320.560 keV {I16} (2003Ba78), 320.52 keV {I4} (1996Ko29),    
+229TH2cG 320.53 keV {I3} (1976Kr03), 320.54 keV {I1} (1977Ca04)                 
+229TH cG RI$Weighted average 115 {I5} (2024Gr01), 121 {I6} (2003Ba78), 122 {I3} 
+229TH2cG (1996Ko29), 128.9 {I13} (1984Re05), 125 {I8} (1976Kr03).               
+229TH3cG Other: 121 (1977Ca04).                                                 
+229TH  L 327.86    30 15/2+                                                 A   
+229TH  A 4503         0.001    4.9E2                                            
+229TH cA IA$Other: 0.000995% {I35} from |g-ray transition intensity balance     
+229TH  G 86.3      3  1.66   13[M1+E2]   0.43    2     8.41   26            @   
+229TH2 G %IG=3.80E-5 30                                                         
+229TH2 G FLAG=d                                                                 
+229THS G  LC=6.27 19$MC=1.60 5                                                  
+229THS G  NC=0.427 14$OC=0.0984 31$PC=0.0179 5$QC=0.001067 23                   
+229TH cG E$Others: 86.3 keV {I3} (1996Ko29), 86.77 keV {I15} (1977Ca04)         
+229TH cG RI$Others: 6.0 {I1} (1996Ko29) and 5.4 (1977Ca04) for a triplet        
+229TH  G 132.15       0.15   3 [E2]                    3.38    5            f  S
+229TH2 G %IG=3.4E-6 7                                                           
+229TH2 G FLAG=d                                                                 
+229THS G  KC=0.263 4$LC=2.281 32$MC=0.626 9                                     
+229THS G  NC=0.1678 23$OC=0.0375 5$PC=0.00625 9$QC=3.93E-5 6                    
+229TH  G 164.60      11.40   21[E2]                    1.382  19            f  S
+229TH2 G %IG=0.000261 6                                                         
+229THS G  KC=0.2160 30$LC=0.853 12$MC=0.2336 33                                 
+229THS G  NC=0.0626 9$OC=0.01401 20$PC=0.002350 33$QC=2.067E-5 29               
+229TH  L 347.806   21 (5/2+)                                                    
+229TH  A 4483          0.0014  2.5E2                                            
+229TH cA IA$Other: 0.0013% {I4} from |g-ray transition intensity balance        
+229TH  G 44.813    21 1.2    4 [M1]                    39.5    6            a   
+229TH2 G %IG=2.7E-5 9                                                           
+229THS G  LC=29.8 4$MC=7.19 10                                                  
+229THS G  NC=1.919 27$OC=0.454 6$PC=0.0882 12$QC=0.00841 12                     
+229TH cG E$Other: 44.76 keV {I3} (1996Ko29)                                     
+229TH cG RI$Other: 2.8 {I6} (1996Ko29)                                          
+229TH  G 92.23     24 1.4    5 [M1]                    4.79    8                
+229TH2 G %IG=3.2E-5 11                                                          
+229THS G  LC=3.62 6$MC=0.871 14                                                 
+229THS G  NC=0.232 4$OC=0.0550 9$PC=0.01068 17$QC=0.001016 16                   
+229TH cG E$Uncertainty increased to 2|s by the evaluators                       
+229TH  L 359.72    4  (7/2+)                                                    
+229TH  A 4465          0.003   95                                              ?
+229TH cA IA$Other: <0.00019% from |g-ray transition intensity balance           
+229TH cA E$Probably a doublet with E|a to the 365.8-keV level                   
+229TH  G 142.69    11 1.49   14[E1]                    0.2108 30                
+229TH2 G %IG=3.41E-5 32                                                         
+229THS G  KC=0.1643 23$LC=0.0351 5$MC=0.00849 12                                
+229THS G  NC=0.002238 32$OC=0.000513 7$PC=9.25E-5 13$QC=5.94E-6 8               
+229TH cG E$From 1996Ko29. Other: 142.69 keV {I1} (2003Ba78)                     
+229TH cG RI$Weighted average 1.48 {I21} (2003Ba78), 1.5 {I2} (1996Ko29)         
+229TH  G 186.25       0.34   9 [E1]                    0.1117 16            f   
+229TH2 G %IG=7.8E-6 21                                                          
+229THS G  KC=0.0881 12$LC=0.01782 25$MC=0.00429 6                               
+229THS G  NC=0.001134 16$OC=0.000261 4$PC=4.78E-5 7$QC=3.30E-6 5                
+229TH cG E$Others: 185.83 keV {I11} (2003Ba78), 185.71 keV {I9} (1996Ko29),     
+229TH2cG 185.81 keV {I2} (1977Ca04)                                             
+229TH cG RI$Others: 1.9 {I3} (1996Ko29) and 1.6 (1977Ca04)                      
+229TH  G 317.3        12     5 [M1]                    0.722  10            f  S
+229TH2 G %IG=0.00027 11                                                         
+229THS G  KC=0.578 8$LC=0.1087 15$MC=0.0261 4                                   
+229THS G  NC=0.00696 10$OC=0.001648 23$PC=0.000320 4$QC=3.03E-5 4               
+229TH  G 359.38    19 0.21   6 [M1]                    0.513   7                
+229TH2 G %IG=4.8E-6 14                                                          
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229THS G  KC=0.411 6$LC=0.0771 11$MC=0.01851 26                                 
+229THS G  NC=0.00494 7$OC=0.001169 16$PC=0.0002267 32$QC=2.151E-5 30            
+229TH cG E$Others: 359.38 keV {I4} (1996Ko29)                                   
+229TH cG RI$Weighted average 0.21 {I7} (2003Ba78), 0.2 {I1} (1996Ko29)          
+229TH  L 365.8152  13  7/2+            9 PS      4                          E   
+229TH  A 4460      4   0.005 2 51      25                                       
+229TH cA E$From 1966Ah02. Other: 4465 keV (1967Ba43)                            
+229TH cA IA$From 1966Ah02. Others: 0.003% (1967Ba43), <0.004% (1960Dz07),       
+229TH2cA 0.04% (1956Go43) and 0.00495% {I14} from |g-ray transition             
+229TH3cA intensity balance                                                      
+229TH  G 45.2690       0.38  7 [M1]                    38.3    5            f  S
+229TH2 G %IG=8.7E-6 16                                                          
+229TH2 G FLAG=g                                                                 
+229THS G  LC=29.0 4$MC=6.98 10                                                  
+229THS G  NC=1.862 26$OC=0.441 6$PC=0.0856 12$QC=0.00816 11                     
+229TH  G 48.6455       0.45  9 [M1]                    31.0    4            f  S
+229TH2 G %IG=1.03E-5 21                                                         
+229TH2 G FLAG=g                                                                 
+229THS G  LC=23.45 33$MC=5.65 8                                                 
+229THS G  NC=1.507 21$OC=0.357 5$PC=0.0693 10$QC=0.00661 9                      
+229TH  G 153.2     2           [M1]                    5.52    8            *  ?
+229THS G  KC=4.41 6$LC=0.840 12$MC=0.2021 29                                    
+229THS G  NC=0.0539 8$OC=0.01277 18$PC=0.00248 4$QC=0.0002352 34                
+229TH cG E$From 1976Kr03. Others: 153.13 keV {I5} (2003Ba78), 153.19 keV {I4}   
+229TH2cG (1996Ko29), 153.05 keV {I11} (1977Ca04)                                
+229TH  G 192.29    6  1.36   12[E1]                    0.1035 15                
+229TH2 G %IG=3.11E-5 28                                                         
+229THS G  KC=0.0818 11$LC=0.01645 23$MC=0.00396 6                               
+229THS G  NC=0.001047 15$OC=0.0002414 34$PC=4.42E-5 6$QC=3.07E-6 4              
+229TH cG E$Others: 192.25 keV {I4} (1996Ko29), 192.13 keV {I8} (1976Kr03),      
+229TH2cG 192.13 keV {I4} (1977Ca04)                                             
+229TH cG RI$Weighted average 1.57 {I18} (2003Ba78), 1.3 {I1} (1996Ko29).        
+229TH2cG Others: 2.9 (1976Kr03), 1.6 (1977Ca04)                                 
+229TH  G 217.6     1  1.9    5 [E1]                    0.0774 11                
+229TH2 G %IG=4.4E-5 11                                                          
+229TH2 G FLAG=fg                                                                
+229THS G  KC=0.0614 9$LC=0.01210 17$MC=0.00291 4                                
+229THS G  NC=0.000769 11$OC=0.0001779 25$PC=3.28E-5 5$QC=2.346E-6 33            
+229TH cG E$Others: 217.8 keV {I2} (2003Ba78,1996Ko29)                           
+229TH cG RI$Others: <0.013 (2003Ba78), 3 {I1} (1996Ko29)                        
+229TH  G 219.46    3  5.16   15 [E1]                   0.0759 11                
+229TH2 G %IG=0.000118 4                                                         
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.0602 8$LC=0.01185 17$MC=0.00285 4                                
+229THS G  NC=0.000753 11$OC=0.0001742 24$PC=3.21E-5 4$QC=2.303E-6 32            
+229TH cG E$From 1996Ko29. Others: 219.421 keV {I18} (2003Ba78), 219.42 keV      
+229TH2cG {I10}, (1976Kr03), 219.34 keV {I6} (1977Ca04)                          
+229TH cG RI$Others: 5.15 {I26} (2003Ba78), 5.1 {I1} (1996Ko29),                 
+229TH2cG 7.1 (1976Kr03), 6 (1977Ca04)                                           
+229TH  G 240.388   8  12.0   6 M1+E2     0.74    15    1.13   12                
+229TH2 G %IG=0.000275 14                                                        
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.84 11$LC=0.212 7$MC=0.0528 12                                    
+229THS G  NC=0.01411 33$OC=0.00329 9$PC=0.000615 23$QC=4.5E-5 6                 
+229TH cG E$Others: 240.3719 keV {I17} (1994He08), 240.37 keV {I2} (1996Ko29),   
+229TH2cG 240.35 keV {I5} (1976Kr03), 240.43 keV {I4} (1977Ca04)                 
+229TH cG RI$Others: 18.0 {I10} (2003Ba78), 13.8 {I7} (1996Ko29),                
+229TH2cG 12.9 {I8} (1976Kr03), 15.2 (1977Ca04)                                  
+229TH  G 268.680   18 10.55  26 M1+E2    0.69    16    0.85    9                
+229TH2 G %IG=0.000242 7                                                         
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.65 9$LC=0.152 7$MC=0.0375 14                                     
+229THS G  NC=0.0100 4$OC=0.00234 9$PC=0.000441 22$QC=3.5E-5 4                   
+229TH cG E$Others: 268.6747 keV {I21} (1994He08), 268.66 keV {I3} (1996Ko29),   
+229TH2cG 268.67 keV {I5} (1976Kr03), 268.66 keV {I3} (1977Ca04)                 
+229TH cG RI$Others: 10.7 {I5} (2003Ba78), 10.5 {I2} (1996Ko29),                 
+229TH2cG 10.8 {I8} (1976Kr03), 10.2 (1977Ca04)                                  
+229TH  G 293.995   9  5.36   17 M1(+E2)  0.3     LE    0.861  32            a   
+229TH2 G %IG=0.000123 4                                                         
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.687 28$LC=0.1318 30$MC=0.0317 7                                  
+229THS G  NC=0.00847 17$OC=0.00200 4$PC=0.000387 9$QC=3.61E-5 14                
+229TH cG E$Others: 294.006 {I24} (2003Ba78), 293.96 keV {I2} (1996Ko29),        
+229TH2cG 293.94 keV {I10} (1976Kr03), 293.89 keV {I4} (1977Ca04)                
+229TH cG RI$Others: 5.3 {I3} (2003Ba78), 5.4 {I2} (1996Ko29),                   
+229TH2cG 7.1 (1976Kr03), 5.6 (1977Ca04)                                         
+229TH  G 323.3806  14 33.5   7 M1+E2     1.59    +18-150.291  23            a   
+229TH2 G %IG=0.000767 19                                                        
+229THS G  KC=0.201 21$LC=0.0672 23$MC=0.0172 5                                  
+229THS G  NC=0.00459 13$OC=0.001057 33$PC=0.000192 7$QC=1.09E-5 11              
+229TH cG E$Others: 323.396 {I16} (2003Ba78), 323.39 keV {I4} (1996Ko29),        
+229TH2cG 323.37 keV {I4} (1976Kr03), 323.47 keV {I26} (1977Ca04)                
+229TH cG RI$Weighted average 30.7 {I18} (2024Gr01), 33.6 {I18} (2003Ba78),      
+229TH2cG 33.7 {I7} (1996Ko29), 36.3 {I25} (1976Kr03). Other: 33.8 (1977Ca04)    
+229TH  G 336.631   16 24.0   7 M1+E2     1.51    +42-280.27    5                
+229TH2 G %IG=0.000550 18                                                        
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.19 4$LC=0.060 4$MC=0.0152 10                                     
+229THS G  NC=0.00406 25$OC=0.00094 6$PC=0.000172 14$QC=1.03E-5 21               
+229TH cG E$Others: 336.6195 keV {I16} (1994He08), 336.63 keV {I1} (1996Ko29),   
+229TH2cG 336.60 keV {I4} (1976Kr03), 336.62 keV {I2} (1977Ca04)                 
+229TH cG RI$Others: 19.3 {18} (2024Gr01), 25.3 {I13} (2003Ba78),                
+229TH2cG 24.4 {I5} (1996Ko29), 24.6 {I13} (1976Kr03), 23.7 (1977Ca04)           
+229TH  G 365.8205  35 32.8   10 (M1)                   0.489   7            a   
+229TH2 G %IG=0.000751 25                                                        
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229THS G  KC=0.392 5$LC=0.0734 10$MC=0.01763 25                                 
+229THS G  NC=0.00470 7$OC=0.001113 16$PC=0.0002159 30$QC=2.049E-5 29            
+229TH cG E$Others: 365.820 {I16} (2003Ba78), 365.76 keV {I1} (1996Ko29),        
+229TH2cG 365.79 keV {I3} (1976Kr03), 365.79 keV {I1} (1977Ca04)                 
+229TH cG RI$Others: 29.4 {I18} (2024Gr01), 33.6 {I18} (2003Ba78),               
+229TH2cG 33.2 {I8} (1996Ko29), 36.3 {I21} (1976Kr03), 32.9 (1977Ca04)           
+229TH cG M$K/L=0.0015/<0.001 in 1959Tr31                                        
+229TH  L 374.797   19 (7/2+)                                                    
+229TH  A 4457         0.0028   78                                               
+229TH cA IA$Other: 0.0023% {I6} from |g-ray transition intensity balance        
+229TH  G 86.3      3  4.3    10[E2]                    22.5    5            @   
+229TH2 G %IG=9.8E-5 23                                                          
+229THS G  LC=16.5 4$MC=4.52 10                                                  
+229THS G  NC=1.211 26$OC=0.270 6$PC=0.0447 10$QC=0.0001698 33                   
+229TH  G 139.3     3           [E1]                    0.2232 33            *   
+229THS G  KC=0.1738 26$LC=0.0374 6$MC=0.00903 14                                
+229THS G  NC=0.00238 4$OC=0.000546 8$PC=9.83E-5 15$QC=6.27E-6 9                 
+229TH  G 302.978   19          [M1]                    0.820  11                
+229THS G  KC=0.656 9$LC=0.1235 17$MC=0.0296 4                                   
+229THS G  NC=0.00791 11$OC=0.001872 26$PC=0.000363 5$QC=3.45E-5 5               
+229TH cG E$Other: 302.990 keV {I4} (1994He08)                                   
+229TH  G 374.7     3  0.17   9 [M1]                    0.458   6                
+229TH2 G %IG=3.9E-6 21                                                          
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229THS G  KC=0.367 5$LC=0.0688 10$MC=0.01650 23                                 
+229THS G  NC=0.00440 6$OC=0.001042 15$PC=0.0002022 29$QC=1.918E-5 27            
+229TH cG E$Other: 374.72 keV {I20} (1996Ko29)                                   
+229TH cG RI$Other: 0.05 (1996Ko29)                                              
+229TH  L 382.54    4  (7/2-,9/2,11/2+)                                         ?
+229TH  A 4448.3    12 3.99E-531 4.8E3  6                                    W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 209.08    8  0.083  13                                                 
+229TH2 G %IG=1.90E-6 30                                                         
+229TH  G 310.71    5  1.66   13                                                 
+229TH2 G %IG=3.80E-5 30                                                         
+229TH  L 425.894   4  9/2+                                                  E   
+229TH  A 4411         0.0004   2.2E2                                            
+229TH cA IA$Other: 4.22|*10{+-4}% {I12} from |g-ray transition intensity balance
+229TH  G 184.1     3  0.93   15[E2]                    0.897  14                
+229TH2 G %IG=2.13E-5 34                                                         
+229THS G  KC=0.1824 26$LC=0.523 8$MC=0.1429 22                                  
+229THS G  NC=0.0383 6$OC=0.00858 13$PC=0.001445 23$QC=1.523E-5 22               
+229TH cG E$Others: 184.1 keV {I3} (1996Ko29), 184.4 keV {I1} (1976Kr03),        
+229TH2cG 184.21 keV {I29} (1977Ca04)                                            
+229TH cG RI$Weighted average 0.96 {I22} (2003Ba78), 0.9 {I2} (1996Ko29).        
+229TH2cG Others: 5.8 (1976Kr03), 1 (1977Ca04)                                   
+229TH  G 188.65    12 1.09   18[E1]                    0.1083 15                
+229TH2 G %IG=2.5E-5 4                                                           
+229THS G  KC=0.0855 12$LC=0.01725 24$MC=0.00416 6                               
+229THS G  NC=0.001098 15$OC=0.000253 4$PC=4.63E-5 7$QC=3.20E-6 5                
+229TH cG E$Uncertainty increased to 2|s by the evaluators.                      
+229TH  G 230.18    1  0.071  5 [M1]                    1.756  25                
+229TH2 G %IG=1.63E-6 12                                                         
+229THS G  KC=1.405 20$LC=0.266 4$MC=0.0638 9                                    
+229THS G  NC=0.01702 24$OC=0.00403 6$PC=0.000782 11$QC=7.42E-5 10               
+229TH cG E$From 1996Ko29. Others: 230.11 keV {I3} (2003Ba78), 230.11 keV {I5}   
+229TH2cG (1976Kr03), 230.11 keV {I2} (1977Ca04)                                 
+229TH cG RI$Weighted average 3.10 {I22} (2003Ba78), 2.5 {I2} (1996Ko29).        
+229TH2cG Others: 3.3 (1976Kr03), 2.7 (1977Ca04)                                 
+229TH  G 328.758   5  3.27   12[M1]                    0.655   9            a   
+229TH2 G %IG=7.49E-5 29                                                         
+229THS G  KC=0.525 7$LC=0.0985 14$MC=0.02365 33                                 
+229THS G  NC=0.00631 9$OC=0.001494 21$PC=0.000290 4$QC=2.75E-5 4                
+229TH cG E$Others: 328.53 {I12} (2003Ba78), 328.64 keV {I6} (1996Ko29),         
+229TH2cG 328.74 keV {I5} (1976Kr03), 328.50 keV {I19} (1977Ca04)                
+229TH cG RI$Weighted average 3.49 {I18} (2003Ba78), 3.2 {I1} (1996Ko29).        
+229TH2cG Others: 2.8 (1976Kr03), 2.6 (1977Ca04)                                 
+229TH  G 354.082   20 2.45   9 [M1]                    0.534   7                
+229TH2 G %IG=5.61E-5 22                                                         
+229THS G  KC=0.428 6$LC=0.0803 11$MC=0.01928 27                                 
+229THS G  NC=0.00514 7$OC=0.001217 17$PC=0.0002362 33$QC=2.241E-5 31            
+229TH cG E$Others: 354.03 keV {I1} (1996Ko29), 354.05 keV {I5} (1976Kr03),      
+229TH2cG 354.01 keV {I1} (1977Ca04)                                             
+229TH cG RI$Weighted average 2.62 {I18} (2003Ba78), 2.4 {I1} (1996Ko29).        
+229TH2cG Others: 2.8 (1976Kr03), 2.6 (1977Ca04)                                 
+229TH  G 383.482   21  4.12  9 [M1]                    0.430   6                
+229TH2 G %IG=9.43E-5 24                                                         
+229THS G  KC=0.345 5$LC=0.0645 9$MC=0.01549 22                                  
+229THS G  NC=0.00413 6$OC=0.000978 14$PC=0.0001897 27$QC=1.800E-5 25            
+229TH cG E$Others: 383.42 keV {I1} (1996Ko29), 383.43 keV {I10} (1976Kr03),     
+229TH2cG 383.50 keV {I8} (1977Ca04)                                             
+229TH cG RI$Weighted average 4.19 {I22} (2003Ba78), 4.1 {I1} (1996Ko29).        
+229TH2cG Others: 4.2 (1976Kr03), 3.8 (1977Ca04)                                 
+229TH  G 396.64    13 0.164  24[E2]                    0.0762 11                
+229TH2 G %IG=3.8E-6 6                                                           
+229THS G  KC=0.0420 6$LC=0.02524 35$MC=0.00666 9                                
+229THS G  NC=0.001783 25$OC=0.000405 6$PC=7.117E-5 99$QC=2.430E-6 34            
+229TH cG E$Others: 396.62 keV {I3} (1996Ko29), 396.7 keV {I1} (1976Kr03)        
+229TH cG RI$Weighted average 0.19 {I4} (2003Ba78), 0.15 {I3} (1996Ko29).        
+229TH2cG Other: 0.3 (1977Ca04)                                                  
+229TH  L 428.04    7  (5/2+)                                                    
+229TH  A 4400      5  0.0008 AP 1.1E2  7                                        
+229TH cA E$From 1966Ah02. Other: 4404 keV (1967Ba43)                            
+229TH cA IA$From 1966Ah02. Others: 0.0003% (1967Ba43) and                       
+229TH2cA 1.28|*10{+-4}% {I33} from |g-ray transition intensity balance          
+229TH  G 125.04    23 0.44   13[M1]                    9.83   15                
+229TH2 G %IG=1.01E-5 30                                                         
+229THS G  KC=7.84 12$LC=1.503 23$MC=0.362 5                                     
+229THS G  NC=0.0965 14$OC=0.02284 34$PC=0.00443 7$QC=0.000421 6                 
+229TH cG E$Others: 125.51 keV {I9} (1996Ko29), 125.4 keV {I1} (1976Kr03),       
+229TH2cG 125.41 keV {I6} (1977Ca04)                                             
+229TH cG RI$Others: 1.8 {I2} (1996Ko29), 2.9 (1976Kr03), 2.6 (1977Ca04)         
+229TH  G 139.3     3  0.0206 23[M1]                    7.24   11            *   
+229TH2 G %IG=4.7E-7 5                                                           
+229THS G  KC=5.78 9$LC=1.103 17$MC=0.265 4                                      
+229THS G  NC=0.0708 11$OC=0.01676 26$PC=0.00325 5$QC=0.000309 5                 
+229TH cG E$Others: 139.3 keV {I3} (1996Ko29), 138.5 keV (1977Ca04)              
+229TH cG RI$Weighted average 0.9 {I1} (2003Ba78), 0.9 {I1} (1996Ko29).          
+229TH2cG Other: 0.6 (1977Ca04)                                                  
+229TH  G 210.90    8  0.60   11[E1]                    0.0833 12                
+229TH2 G %IG=1.37E-5 25                                                         
+229THS G  KC=0.0660 9$LC=0.01307 18$MC=0.00315 4                                
+229THS G  NC=0.000831 12$OC=0.0001921 27$PC=3.53E-5 5$QC=2.511E-6 35            
+229TH  L 436.86    4  (7/2-)                                                    
+229TH  A 4394.9    12 6.2E-4 5 117     14                                   W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 77.142    8  15.9   16[E1]                    0.2331 33            *   
+229TH2 G %IG=0.00036 4                                                          
+229THS G  LC=0.1759 25$MC=0.0429 6                                              
+229THS G  NC=0.01126 16$OC=0.002535 35$PC=0.000438 6$QC=2.312E-5 32             
+229TH cG E$Others: 77.08 keV {I1} (1996Ko29), 77.13 keV {I4} (1977Ca04)         
+229TH cG RI$Weighted average 18.8 {I18} (2003Ba78), 15 {I1} (1996Ko29).         
+229TH2cG Other: 28.7 (1977Ca04)                                                 
+229TH  G 116.3     2  0.121  23[E1]                    0.342   5            @   
+229TH2 G %IG=2.8E-6 5                                                           
+229THS G  KC=0.263 4$LC=0.0597 9$MC=0.01447 21                                  
+229THS G  NC=0.00381 6$OC=0.000869 13$PC=0.0001548 23$QC=9.36E-6 14             
+229TH cG E$Others: 116.3 keV {I2} (1996Ko29), 116.41 keV {I7} (1977Ca04)        
+229TH cG RI$Weighted average 5.3 {I10} (2003Ba78), 5.5 {I10} (1996Ko29);        
+229TH2cG Other: 8.5 (1977Ca04)                                                  
+229TH  G 224.39    19 0.54   13[E1]                    0.0721 10                
+229TH2 G %IG=1.24E-5 30                                                         
+229THS G  KC=0.0572 8$LC=0.01122 16$MC=0.00270 4                                
+229THS G  NC=0.000713 10$OC=0.0001650 23$PC=3.04E-5 4$QC=2.194E-6 31            
+229TH cG E$Others: 224.25 keV {I22} (1996Ko29), 224.8 keV {I1} (1976Kr03),      
+229TH2cG 225.00 keV {I3} (1977Ca04)                                             
+229TH cG RI$Weighted average 0.57 {I18} (2003Ba78), 0.5 {I2} (1996Ko29);        
+229TH2cG Others: 1.2 (1976Kr03), 0.4 (1977Ca04)                                 
+229TH  G 272.40    9  3.10   9 [E2]                    0.2280 32                
+229TH2 G %IG=7.10E-5 23                                                         
+229THS G  KC=0.0882 12$LC=0.1027 14$MC=0.0277 4                                 
+229THS G  NC=0.00742 10$OC=0.001672 24$PC=0.000286 4$QC=5.70E-6 8               
+229TH cG E$Others: 272.39 keV {I2} (1996Ko29), 272.3 keV {I5} (1976Kr03),       
+229TH2cG 272.31 keV {I8} (1977Ca04)                                             
+229TH cG RI$Weighted average 3.10 {I18} (2003Ba78), 3.1 {I1} (1996Ko29);        
+229TH2cG Others: 5.0 (1976Kr03), 2.0 (1977Ca04)                                 
+229TH  G 311.9     3  2.76   17[E1]                    0.0341  5                
+229TH2 G %IG=6.3E-5 4                                                           
+229THS G  KC=0.0274 4$LC=0.00511 7$MC=0.001224 17                               
+229THS G  NC=0.000324 5$OC=7.54E-5 11$PC=1.408E-5 20$QC=1.090E-6 15             
+229TH cG E$Others: 311.76 keV {I3} (1996Ko29), 312.0 keV {I5} (1977Ca04)        
+229TH cG RI$Weighted average 2.75 {I18} (2003Ba78), 2.8 {I5} (1996Ko29);        
+229TH2cG Other: 1.1 (1977Ca04)                                                  
+229TH  G 339.2     6  0.11   7 [E1]                    0.0284  4                
+229TH2 G %IG=2.5E-6 16                                                          
+229THS G  KC=0.02281 33$LC=0.00421 6$MC=0.001008 15                             
+229THS G  NC=0.000267 4$OC=6.22E-5 9$PC=1.165E-5 17$QC=9.17E-7 13               
+229TH cG E$Other: 340.20 keV {I5} (1996Ko29)                                    
+229TH cG RI$Other: 0.4 {I1} (1996Ko29)                                          
+229TH  L 449.855   29 (5/2)+                                                    
+229TH  G 161.96    5            [E1]                   0.1557 22            f   
+229THS G  KC=0.1221 17$LC=0.0254 4$MC=0.00613 9                                 
+229THS G  NC=0.001616 23$OC=0.000372 5$PC=6.75E-5 9$QC=4.49E-6 6                
+229TH  G 407.42                 M1+E2    0.98    +27-210.221  35            f   
+229THS G  KC=0.169 30$LC=0.039 4$MC=0.0097 9                                    
+229THS G  NC=0.00258 23$OC=0.00060 6$PC=0.000114 12$QC=8.9E-6 16                
+229TH  G 420.70    5           [M1]                    0.334   5            f   
+229THS G  KC=0.268 4$LC=0.0501 7$MC=0.01202 17                                  
+229THS G  NC=0.00321 4$OC=0.000759 11$PC=0.0001473 21$QC=1.398E-5 20            
+229TH  G 449.4     2            M1+E2    1.22    +32-230.145  24            f   
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229THS G  KC=0.110 20$LC=0.0267 27$MC=0.0066 6                                  
+229THS G  NC=0.00177 16$OC=0.00041 4$PC=7.7E-5 8$QC=5.8E-6 10                   
+229TH  L 465.447   21 (5/2-,7/2,9/2+)                                           
+229TH  A 4366.8    12 1.25E-417 3.5E2  6                                    W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 162.48    3                                                        *   
+229TH  G 291.93    4  4.5    7                                                  
+229TH2 G %IG=0.000103 16                                                        
+229TH  G 393.64    5  0.56   3                                                  
+229TH2 G %IG=1.28E-5 7                                                          
+229TH cG E$Others: 393.60 keV {I1} (1996Ko29), 393.59 keV {I10} (1976Kr03),     
+229TH2cG 393.80 keV {I10} (1977Ca04)                                            
+229TH cG RI$Weighted average 0.57 {I5} (2003Ba78), 0.56 {I4} (1996Ko29);        
+229TH2cG Others: 0.7 (1976Kr03), 0.3 (1977Ca04)                                 
+229TH  G 423.09    14 0.023  5                                                  
+229TH2 G %IG=5.3E-7 11                                                          
+229TH cG E$Other: 423.09 keV {I14} (1996Ko29)                                   
+229TH cG RI$Weighted average 0.023 {I7} (2003Ba78), 0.022 {I6} (1996Ko29)       
+229TH  G 436.20    12 0.17   6                                              @   
+229TH2 G %IG=3.9E-6 14                                                          
+229TH cG E$Others: 436.23 keV {I2} (1996Ko29), 436.6 keV {I4} (1976Kr03),       
+229TH2cG 436.6 keV {I10} (1977Ca04)                                             
+229TH cG RI$Weighted average 0.15 {I8} (2003Ba78), 0.2 {I1} (1996Ko29);         
+229TH2cG Others: 1.5 (1976Kr03), 0.2 (1977Ca04)                                 
+229TH  G 465.37    12 0.21   10                                                 
+229TH2 G %IG=4.8E-6 23                                                          
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229TH cG E,RI$Same values reported in 1996Ko29                                  
+229TH  L 478.637   19 (5/2)+           16 PS     LE                             
+229TH  A 4353.9    12 4.36E-525 7.8E2  8                                    W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 157.88    9  0.030  7 [M1]                    5.07    7            f   
+229TH2 G %IG=6.9E-7 16                                                          
+229TH2 G FLAG=g                                                                 
+229THS G  KC=4.05 6$LC=0.771 11$MC=0.1855 26                                    
+229THS G  NC=0.0495 7$OC=0.01172 17$PC=0.002273 32$QC=0.0002159 30              
+229TH  G 190.159      0.0033 4 [M1]                    3.00    4            f   
+229TH2 G %IG=7.6E-8 9                                                           
+229TH2 G FLAG=g                                                                 
+229THS G  KC=2.398 34$LC=0.455 6$MC=0.1093 15                                   
+229THS G  NC=0.0292 4$OC=0.00691 10$PC=0.001340 19$QC=0.0001272 18              
+229TH  G 241.18    9  0.0202 35[E1]                    0.0610  9            f   
+229TH2 G %IG=4.6E-7 8                                                           
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.0485 7$LC=0.00941 13$MC=0.002261 32                              
+229THS G  NC=0.000598 8$OC=0.0001385 19$PC=2.56E-5 4$QC=1.878E-6 26             
+229TH  G 261.477      0.0215 35[E1]                    0.0507  7            f   
+229TH2 G %IG=4.9E-7 8                                                           
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.0404 6$LC=0.00774 11$MC=0.001859 26                              
+229THS G  NC=0.000492 7$OC=0.0001141 16$PC=2.117E-5 30$QC=1.580E-6 22           
+229TH  G 314.12    5  0.0293 43[E1]                    0.0336  5            f   
+229TH2 G %IG=6.7E-7 10                                                          
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.0269 4$LC=0.00503 7$MC=0.001204 17                               
+229THS G  NC=0.000319 4$OC=7.41E-5 10$PC=1.385E-5 19$QC=1.074E-6 15             
+229TH cG E$Other: 315.39 keV {I13} (2003Ba78)                                   
+229TH cG RI$Other: 0.44 {I7} (2003Ba78)                                         
+229TH  G 330.51    4  0.0182 13[E1]                    0.0300  4            f   
+229TH2 G %IG=4.17E-7 30                                                         
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.02412 34$LC=0.00447 6$MC=0.001070 15                             
+229THS G  NC=0.000283 4$OC=6.60E-5 9$PC=1.235E-5 17$QC=9.67E-7 14               
+229TH  G 332.284      0.0033 4 [E1]                    0.0297  4            f   
+229TH2 G %IG=7.6E-8 9                                                           
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.02384 33$LC=0.00442 6$MC=0.001057 15                             
+229THS G  NC=0.000280 4$OC=6.52E-5 9$PC=1.220E-5 17$QC=9.56E-7 13               
+229TH  G 381.54    15 0.17   6 [E2]                    0.0845 12                
+229TH2 G %IG=3.9E-6 14                                                          
+229THS G  KC=0.0454 6$LC=0.0289 4$MC=0.00766 11                                 
+229THS G  NC=0.002049 29$OC=0.000466 7$PC=8.15E-5 11$QC=2.65E-6 4               
+229TH cG E$Reported in {+233}U |a decay only. Other: 381.32 keV {I6} (1996Ko29) 
+229TH cG RI$Other: 0.14 {I1} (1996Ko29)                                         
+229TH  G 406.58    16 0.130  24 [M1]                   0.367   5                
+229TH2 G %IG=3.0E-6 6                                                           
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.294 4$LC=0.0550 8$MC=0.01320 19                                  
+229THS G  NC=0.00352 5$OC=0.000833 12$PC=0.0001617 23$QC=1.534E-5 22            
+229TH cG E$Others: 406.58 keV {I5} (1996Ko29), 406.7 keV {I3} (1976Kr03)        
+229TH cG RI$Weighted average 0.066 {I18} (2003Ba78), 0.07 {I1} (1996Ko29);      
+229TH2cG Other: 0.2 (1976Kr03)                                                  
+229TH  G 436.20    4  0.208  15 [M1]                   0.303   4            @   
+229TH2 G %IG=4.76E-6 35                                                         
+229TH2 G FLAG=fg                                                                
+229TH cG E$Other: 436.20 keV {I12} (2003Ba78)                                   
+229THS G  KC=0.2432 34$LC=0.0454 6$MC=0.01089 15                                
+229THS G  NC=0.00290 4$OC=0.000688 10$PC=0.0001334 19$QC=1.267E-5 18            
+229TH  G 449.46    7 0.137   24 [M1]                   0.280   4                
+229TH2 G %IG=3.1E-6 6                                                           
+229TH2 G FLAG=g                                                                 
+229THS G  KC=0.2243 31$LC=0.0419 6$MC=0.01004 14                                
+229THS G  NC=0.00268 4$OC=0.000634 9$PC=0.0001230 17$QC=1.168E-5 16             
+229TH cG E$Others: 449.53 keV {I2} (1996Ko29), 449.5 keV {I2} (1976Kr03),       
+229TH2cG 449.6 keV {I15} (1977Ca04)                                             
+229TH cG RI$Others: 0.28 {I4} (2003Ba78), 0.3 {I1} (1996Ko29),                  
+229TH2cG 0.4 (1976Kr03), 0.4 (1977Ca04)                                         
+229TH  G 478.64    4  0.65   4 [M1]                    0.2361 33                
+229TH2 G %IG=1.49E-5 9                                                          
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229THS G  KC=0.1894 27$LC=0.0353 5$MC=0.00846 12                                
+229THS G  NC=0.002256 32$OC=0.000534 7$PC=0.0001037 15$QC=9.84E-6 14            
+229TH cG E$Others: 478.64 keV {I1} (1996Ko29), 478.6 keV {I2} (1976Kr03),       
+229TH2cG 478.7 keV {I26} (1977Ca04)                                             
+229TH cG RI$Weighted average 0.65 {I5} (2003Ba78), 0.64 {I5} (1996Ko29);        
+229TH2cG Others: 0.8 (1976Kr03), 0.6 (1977Ca04)                                 
+229TH  L 513.407   23 (5/2+,7/2,9/2+)                                           
+229TH  A 4319.7    12 4.57E-531 4.0E2  4                                    W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 387.96    12 0.052  13                                                 
+229TH2 G %IG=1.19E-6 30                                                         
+229TH cG E$From 1996Ko29. Other: 387.76 keV {I12} (2003Ba78)                    
+229TH cG RI$Other: 0.03 {I8} (1996Ko29)                                         
+229TH  G 416.24    3  0.49   3                                                  
+229TH2 G %IG=1.12E-5 7                                                          
+229TH cG E$Others: 416.32 keV {I1} (1996Ko29), 416.4 keV {I2} (1976Kr03),       
+229TH2cG 416.4 keV {I12} (1977Ca04)                                             
+229TH cG RI$Weighted average 0.52 {I4} (2003Ba78), 0.46 {I4} (1996Ko29);        
+229TH2cG Others: 0.6 (1976Kr03), 0.4 (1977Ca04)                                 
+229TH  G 441.53    17 0.032  10                                                 
+229TH2 G %IG=7.3E-7 23                                                          
+229TH cG E$Other: 441.53 keV {I17} (1996Ko29)                                   
+229TH cG RI$Other: 0.031 {I9} (1996Ko29)                                        
+229TH  G 471.05    4  0.70   8                                                  
+229TH2 G %IG=1.60E-5 18                                                         
+229TH cG E$Others: 471.06 keV {I1} (1996Ko29), 471.1 keV {I2} (1976Kr03),       
+229TH2cG 471.3 keV {I13} (1977Ca04)                                             
+229TH cG RI$Weighted average 0.81 {I8} (2003Ba78), 0.64 {I6} (1996Ko29);        
+229TH2cG Others: 0.8 (1976Kr03), 0.6 (1977Ca04)                                 
+229TH  G 513.23    13 0.72   10                                             *   
+229TH2 G %IG=1.65E-5 23                                                         
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229TH cG E$Other: 513.19 keV {I5} (1996Ko29)                                    
+229TH cG RI$Other: 0.31 {I10} (1996Ko29)                                        
+229TH  L 526.4801  20 (5/2)-                                                    
+229TH  A 4309         0.0009   16                                               
+229TH cA IA$Other: 0.0027% {I5} from |g-ray transition intensity balance        
+229TH  G 167.10    21 0.72   6  [E1]                   0.1445 21                
+229TH2 G %IG=1.65E-5 14                                                         
+229THS G  KC=0.1135 16$LC=0.02344 34$MC=0.00566 8                               
+229THS G  NC=0.001493 21$OC=0.000343 5$PC=6.25E-5 9$QC=4.19E-6 6                
+229TH cG E$Uncertainty increased to 3|s by the evaluators                       
+229TH  G 205.90    15 0.60   8  [E1]                   0.0881 12            @   
+229TH2 G %IG=1.37E-5 18                                                         
+229THF G FLAG=g                                                                 
+229THS G  KC=0.0698 10$LC=0.01387 20$MC=0.00334 5                               
+229THS G  NC=0.000882 12$OC=0.0002038 29$PC=3.74E-5 5$QC=2.65E-6 4              
+229TH  G 223.39    6  5.00   23 [E1]                   0.0728 10                
+229TH2 G %IG=0.000114 5                                                         
+229THF G FLAG=g                                                                 
+229THS G  KC=0.0578 8$LC=0.01134 16$MC=0.00273 4                                
+229THS G  NC=0.000721 10$OC=0.0001668 23$PC=3.08E-5 4$QC=2.216E-6 31            
+229TH  G 291.3561  9  27     11 [M1]                   0.913  13            @   
+229TH2 G %IG=0.00062 25                                                         
+229THF G FLAG=ae                                                                
+229THS G  KC=0.731 10$LC=0.1376 19$MC=0.0330 5                                  
+229THS G  NC=0.00881 12$OC=0.002087 29$PC=0.000405 6$QC=3.84E-5 5               
+229TH  G 309.58    12 3.94   14 [M1]                   0.772  11                
+229TH2 G %IG=9.02E-5 34                                                         
+229THS G  KC=0.619 9$LC=0.1163 16$MC=0.0279 4                                   
+229THS G  NC=0.00745 10$OC=0.001764 25$PC=0.000342 5$QC=3.25E-5 5               
+229TH cG E$Others: 309.48 keV {I3} (1996Ko29), 309.49 keV {I10} (1976Kr03),     
+229TH2cG 309.8 keV {I5} (1977Ca04)                                              
+229TH cG RI$Weighted average 3.62 {I22} (2003Ba78), 4.0 {I1} (1996Ko29);        
+229TH2cG Others: 4.2 (1976Kr03), 2.9 (1977Ca04)                                 
+229TH  G 455.13    33 0.051  9  [E1]                   0.0152621                
+229TH2 G %IG=1.17E-6 21                                                         
+229THS G  KC=0.01236 17$LC=0.002200 31$MC=0.000524 7                            
+229THS G  NC=0.0001389 20$OC=3.25E-5 5$PC=6.14E-6 9$QC=5.10E-7 7                
+229TH cG E$Uncertainty increased to 3|s by the evaluators.                      
+229TH2cG Other: 455.68 keV {I8} (1996Ko29).                                     
+229TH cG RI$Other: 0.05 {I9} (1996Ko29)                                         
+229TH  G 484.1     1  0.094  24 [E1]                   0.0134719                
+229TH2 G %IG=2.2E-6 6                                                           
+229THS G  KC=0.01092 15$LC=0.001930 27$MC=0.000460 6                            
+229THS G  NC=0.0001218 17$OC=2.85E-5 4$PC=5.40E-6 8$QC=4.53E-7 6                
+229TH cG E$From 1976Kr03. Others: 484.8 keV {I3} (2003Ba78),                    
+229TH2cG 484.33 keV {I3} (1996Ko29)                                             
+229TH cG RI$Weighted average 0.10 {I4} (2003Ba78), 0.09 {I3} (1996Ko29);        
+229TH2cG Other: 0.2 (1976Kr03)                                                  
+229TH  G 526.4795     50.5   18 E1                     0.0113916            f   
+229TH2 G %IG=0.00116 4                                                          
+229THF G FL=0.0                                                                 
+229THF G FLAG=g                                                                 
+229THS G  KC=0.00925 13$LC=0.001620 23$MC=0.000385 5                            
+229THS G  NC=0.0001021 14$OC=2.392E-5 33$PC=4.54E-6 6$QC=3.86E-7 5              
+229TH  L 536.31    11  (1/2)-                                               G   
+229TH  A 4297.2    12 1.8E-5 4 6.6E2   17                                   W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 371.26    23 0.51   10[M1]                    0.470   7                
+229TH2 G %IG=1.17E-5 23                                                         
+229THS G  KC=0.376 5$LC=0.0705 10$MC=0.01693 24                                 
+229THS G  NC=0.00451 6$OC=0.001069 15$PC=0.0002074 29$QC=1.968E-5 28            
+229TH cG E$Other: 371.35 keV {I9} (1996Ko29)                                    
+229TH cG RI$Weighted average 0.06 {I3} (2003Ba78), 0.05 {I1} (1996Ko29)         
+229TH  G 536.44    12 0.021  7 [E1]                    0.0109815                
+229TH2 G %IG=4.8E-7 16                                                          
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.00892 12$LC=0.001558 22$MC=0.000370 5                            
+229THS G  NC=9.82E-5 14$OC=2.301E-5 32$PC=4.37E-6 6$QC=3.72E-7 5                
+229TH cG E$Other: 536.44 keV {I12} (1996Ko29)                                   
+229TH cG RI$Weighted average 0.021 {I10} (2003Ba78), 0.02 {I1} (1996Ko29)       
+229TH  L 569.258   15  (3/2)+                                               H   
+229TH  A 4267.8    12 9.1E-6 21 7.0E2  18                                   W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 203.47    6  0.0019 8  [E2]                   0.619   9            f   
+229TH2 G %IG=4.4E-8 18                                                          
+229THF G FLAG=g                                                                 
+229THS G  KC=0.1536 22$LC=0.341 5$MC=0.0928 13                                  
+229THS G  NC=0.02488 35$OC=0.00558 8$PC=0.000943 13$QC=1.171E-5 16              
+229TH  G 248.8     1  0.019  8  M1+E2    0.80    +16-140.98   10                
+229TH2 G %IG=4.4E-7 18                                                          
+229THF G FLAG=fg                                                                
+229THS G  KC=0.73 9$LC=0.188 6$MC=0.0469 12                                     
+229THS G  NC=0.01253 32$OC=0.00292 8$PC=0.000544 21$QC=3.9E-5 5                 
+229TH  G 252.07    4  0.058  24 M1+E2    0.78    12    0.96    8            f   
+229TH2 G %IG=1.3E-6 5                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=0.72 7$LC=0.181 6$MC=0.0451 11                                     
+229THS G  NC=0.01205 28$OC=0.00281 7$PC=0.000524 18$QC=3.8E-5 4                 
+229TH  G 280.72    4  0.0019 8 [M1]                    1.012  14            f   
+229TH2 G %IG=4.4E-8 18                                                          
+229THF G FLAG=g                                                                 
+229THS G  KC=0.810 11$LC=0.1526 21$MC=0.0366 5                                  
+229THS G  NC=0.00977 14$OC=0.002315 32$PC=0.000449 6$QC=4.26E-5 6               
+229TH  G 307.29    4  0.0044 18[M1]                    0.788  11            f   
+229TH2 G %IG=1.0E-7 4                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=0.631 9$LC=0.1187 17$MC=0.0285 4                                   
+229THS G  NC=0.00760 11$OC=0.001800 25$PC=0.000349 5$QC=3.31E-5 5               
+229TH cG E$Others: 307.29 keV {I16} (2003Ba78), 307.68 keV {I19} (1996Ko29)     
+229TH cG RI$Others: 0.22 {I6} (2003Ba78), 0.3 {I1} (1996Ko29)                   
+229TH  G 313.45    18 0.0050 26[M1]                    0.746  11                
+229TH2 G %IG=1.1E-7 6                                                           
+229THS G  KC=0.598 8$LC=0.1124 16$MC=0.0270 4                                   
+229THS G  NC=0.00720 10$OC=0.001704 24$PC=0.000331 5$QC=3.14E-5 4               
+229TH cG RI$From I|g(313.45|g)/I|g(307.29|g)=1.14 {I36} in 2003Ba78 and         
+229TH2cG the adopted here I|g(307.29|g)=0.0044 {I18}.                           
+229TH3cG Other: 0.25 {I5} (2003Ba78)                                            
+229TH  G 352.07    4  0.0036 15[E1]                    0.0262  4            f   
+229TH2 G %IG=8.2E-8 34                                                          
+229THF G FLAG=g                                                                 
+229THS G  KC=0.02106 29$LC=0.00387 5$MC=0.000926 13                             
+229THS G  NC=0.0002452 34$OC=5.71E-5 8$PC=1.072E-5 15$QC=8.50E-7 12             
+229TH  G 404.72    4  0.015  6 [E1]                    0.0194627            f   
+229TH2 G %IG=3.4E-7 14                                                          
+229THF G FLAG=g                                                                 
+229THS G  KC=0.01571 22$LC=0.00284 4$MC=0.000677 9                              
+229THS G  NC=0.0001794 25$OC=4.19E-5 6$PC=7.89E-6 11$QC=6.42E-7 9               
+229TH cG E$Other: 404.33 keV {I19} (2003Ba78), 404.40 keV {I5} (1996Ko29)       
+229TH cG RI$Others: 0.057 {I18} (2003Ba78), 0.08 {I1} (1996Ko29)                
+229TH  G 422.94    4  0.012  5 [E1]                    0.0177525            f   
+229TH2 G %IG=2.7E-7 11                                                          
+229THF G FLAG=g                                                                 
+229THS G  KC=0.01435 20$LC=0.00258 4$MC=0.000615 9                              
+229THS G  NC=0.0001629 23$OC=3.81E-5 5$PC=7.18E-6 10$QC=5.89E-7 8               
+229TH cG E$Other: 423.09 keV {I14} (2003Ba78, doublet)                          
+229TH  G 526.89    7  0.0041 23[E2]                    0.0377  5            f   
+229TH2 G %IG=9E-8 5                                                             
+229THF G FLAG=g                                                                 
+229THS G  KC=0.02441 34$LC=0.00991 14$MC=0.00256 4                              
+229THS G  NC=0.000685 10$OC=0.0001570 22$PC=2.82E-5 4$QC=1.332E-6 19            
+229TH  G 540.08    7  0.0058 30[M1]                    0.1707 24            f   
+229TH2 G %IG=1.3E-7 7                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=0.1371 19$LC=0.0255 4$MC=0.00610 9                                 
+229THS G  NC=0.001627 23$OC=0.000385 5$PC=7.48E-5 10$QC=7.10E-6 10              
+229TH  G 569.30    7  0.17   7 M1+E2     1.55    +22-170.066   6            f   
+229TH2 G %IG=3.9E-6 16                                                          
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229THS G  KC=0.050 5$LC=0.0120 8$MC=0.00298 18                                  
+229THS G  NC=0.00079 5$OC=0.000185 11$PC=3.48E-5 23$QC=2.61E-6 26               
+229TH cG E$Others: 569.31 keV {I16} (2003Ba78), 569.19 keV {I2} (1996Ko29),     
+229TH2cG 569.4 keV {I2} (1976Kr03)                                              
+229TH cG RI$Other: 0.1 {I1} (1996Ko29)                                          
+229TH  L 585.09    5  (5/2+,7/2,9/2+)                                           
+229TH  A 4249.2    12 7.9E-6 7 6.0E2   7                                    W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 459.74    6  0.315  25                                                 
+229TH2 G %IG=7.2E-6 6                                                           
+229TH cG E$Others: 459.81 keV {I1} (1996Ko29), 559.8 keV {I3} (1976Kr03)        
+229TH cG RI$Weighted average 0.33 {I5} (2003Ba78), 0.31 {I3} (1996Ko29);        
+229TH2cG Other: 0.3 (1976Kr03)                                                  
+229TH  G 513.23    13                                                       *   
+229TH  G 542.41    13 0.021  10                                                 
+229TH2 G %IG=4.8E-7 23                                                          
+229TH cG E$Other: 542.41 keV {I13} (1996Ko29)                                   
+229TH cG RI$Other: 0.02 {I1} (1996Ko29)                                         
+229TH  G 584.94    16 0.01   AP                                             *   
+229TH2 G %IG AP 2.3E-7                                                          
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229TH cG E$Other: 584.94 keV {I16} (1996Ko29)                                   
+229TH cG RI$Other: 0.04 {I1} (1996Ko29)                                         
+229TH  L 605.22    1  5/2+                                                  H   
+229TH  A 4229.6    12 1.31E-58 248     26                                   W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 126.585     0.00367 36 [M1]                   9.49   13            f  S
+229TH2 G %IG=8.4E-8 8                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=7.57 11$LC=1.451 20$MC=0.349 5                                     
+229THS G  NC=0.0931 13$OC=0.02205 31$PC=0.00428 6$QC=0.000407 6                 
+229TH  G 155.371      0.0103 40 [M1]                   5.31    7            f   
+229TH2 G %IG=2.4E-7 9                                                           
+229THF G FLAG=g                                                                 
+229TH2 G FL=449.855                                                             
+229THS G  KC=4.24 6$LC=0.807 11$MC=0.1941 27                                    
+229THS G  NC=0.0518 7$OC=0.01226 17$PC=0.002379 33$QC=0.0002260 32              
+229TH  G 239.41    4  0.0571 56 M1+E2    0.79    12    1.10    9            f   
+229TH2 G %IG=1.31E-6 13                                                         
+229THF G FLAG=g                                                                 
+229THS G  KC=0.82 9$LC=0.213 6$MC=0.0532 11                                     
+229THS G  NC=0.01421 28$OC=0.00331 7$PC=0.000616 19$QC=4.4E-5 4                 
+229TH  G 284.67    4  0.0336 33 M1+E2    0.94    15    0.61    7            f   
+229TH2 G %IG=7.7E-7 8                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=0.45 6$LC=0.118 5$MC=0.0296 11                                     
+229THS G  NC=0.00791 29$OC=0.00184 7$PC=0.000342 17$QC=2.42E-5 31               
+229TH cG E$Others: 284.23 keV {I8} (2003Ba78), 284.49 keV {I14} (1996Ko29),     
+229TH2cG 284.25 keV {I15} (1976Kr03)                                            
+229TH cG RI$Other: 0.39 {I7} (2003Ba78), 0.3 {I1} (1996Ko29)                    
+229TH  G 288.037   25 0.0109 22 [M1]                   0.942  13                
+229TH2 G %IG=2.5E-7 5                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=0.754 11$LC=0.1421 20$MC=0.0341 5                                  
+229THS G  NC=0.00910 13$OC=0.002155 30$PC=0.000418 6$QC=3.97E-5 6               
+229TH cG E$Doublet in 2003Ba78. Other: 288.0292 keV {I9} (1994He08)             
+229TH  G 343.3     1  0.0011628 [E2]                   0.1133 16            f   
+229TH2 G %IG=2.7E-8 6                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=0.0558 8$LC=0.0424 6$MC=0.01129 16                                 
+229THS G  NC=0.00302 4$OC=0.000685 10$PC=0.0001190 17$QC=3.34E-6 5              
+229TH  G 367.83    4  0.0058456[E1]                    0.0238233            f   
+229TH2 G %IG=1.34E-7 13                                                         
+229THF G FLAG=g                                                                 
+229THS G  KC=0.01919 27$LC=0.00351 5$MC=0.000838 12                             
+229THS G  NC=0.0002220 31$OC=5.18E-5 7$PC=9.73E-6 14$QC=7.78E-7 11              
+229TH cG E$Other: 367.795 keV {I8} (1994He08)                                   
+229TH  G 388.05    4  0.0085 8 [E1]                    0.0212630            f   
+229TH2 G %IG=1.95E-7 18                                                         
+229THF G FLAG=g                                                                 
+229THS G  KC=0.01715 24$LC=0.00311 4$MC=0.000744 10                             
+229THS G  NC=0.0001970 28$OC=4.60E-5 6$PC=8.65E-6 12$QC=6.98E-7 10              
+229TH  G 440.71    4  0.0097 9 [E1]                    0.0163023            f   
+229TH2 G %IG=2.22E-7 21                                                         
+229THF G FLAG=g                                                                 
+229THS G  KC=0.01319 18$LC=0.002358 33$MC=0.000562 8                            
+229THS G  NC=0.0001489 21$OC=3.48E-5 5$PC=6.58E-6 9$QC=5.43E-7 8                
+229TH  G 457.07    4  0.0186 18 [E1]                   0.0151321            f   
+229TH2 G %IG=4.3E-7 4                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=0.01225 17$LC=0.002180 31$MC=0.000520 7                            
+229THS G  NC=0.0001377 19$OC=3.22E-5 5$PC=6.09E-6 9$QC=5.06E-7 7                
+229TH cG E$Others: 456.87 keV {I16} (2003Ba78,1996Ko29)                         
+229TH cG RI$Others: 0.019 {I9} (2003Ba78,1996Ko29)                              
+229TH  G 458.87    5 0.00103 11[E1]                    0.0150121            f   
+229TH2 G %IG=2.36E-8 25                                                         
+229THF G FLAG=g                                                                 
+229THS G  KC=0.01216 17$LC=0.002162 30$MC=0.000515 7                            
+229THS G  NC=0.0001365 19$OC=3.19E-5 4$PC=6.04E-6 8$QC=5.02E-7 7                
+229TH  G 533.47    7  0.0257 24 M1+E2    1.05    +46-310.103  24            f   
+229TH2 G %IG=5.9E-7 6                                                           
+229THF G FLAG=g                                                                 
+229THS G  KC=0.080 20$LC=0.0175 29$MC=0.0043 7                                  
+229THS G  NC=0.00115 18$OC=0.00027 4$PC=5.1E-5 9$QC=4.2E-6 10                   
+229TH cG E$Others: 533.53 keV {I5} (2003Ba78), 533.53 keV {I5} (1996Ko29)       
+229TH cG RI$Others: 0.05 {I1} (2003Ba78, 1996Ko29)                              
+229TH  G 562.84    7  0.0494 47 M1+E2    1.28    +32-240.078  12            f   
+229TH2 G %IG=1.13E-6 11                                                         
+229THF G FLAG=g                                                                 
+229THS G  KC=0.060 10$LC=0.0137 15$MC=0.00336 35                                
+229THS G  NC=0.00090 9$OC=0.000210 22$PC=4.0E-5 4$QC=3.1E-6 5                   
+229TH cG E$Others: 562.95 keV {I24} (2003Ba78), 562.60 keV {I4} (1996Ko29),     
+229TH2cG 562.8 keV {I5} (1976Kr03)                                              
+229TH cG RI$Others: 0.06 {I3} (2003Ba78), 0.06 {I1} (1996Ko29)                  
+229TH  G 576.04    7  0.0167 AP M1+E2    1.49    +48-310.066  12            f   
+229TH2 G %IG AP 3.8E-7                                                          
+229THF G FLAG=g                                                                 
+229THS G  KC=0.050 10$LC=0.0119 15$MC=0.00293 35                                
+229THS G  NC=0.00078 9$OC=0.000183 22$PC=3.4E-5 4$QC=2.6E-6 5                   
+229TH cG E$Others: 576.09 keV {I20} (2003Ba78), 575.99 keV {I7} (1996Ko29)      
+229TH cG RI$Others: 0.039 {I18} (2003Ba78), 0.04 {I1} (1996Ko29)                
+229TH  G 605.26    7  0.154  14M1+E2     1.00    +28-220.077  12            f   
+229TH2 G %IG=3.53E-6 32                                                         
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229THS G  KC=0.060 10$LC=0.0126 15$MC=0.00308 35                                
+229THS G  NC=0.00082 9$OC=0.000193 22$PC=3.7E-5 4$QC=3.1E-6 5                   
+229TH cG E$Others: 605.22 keV {I13} (2003Ba78), 605.16 keV {I1} (1996Ko29)      
+229TH cG RI$Weighted average 0.21 {I4} (2003Ba78), 0.15 {I1} (1996Ko29)         
+229TH  L 620.79    7  (5/2+,7/2)                                                
+229TH  A 4214.2    12 2.28E-529 106    16                                   W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 474.41    8  0.34   5                                                  
+229TH2 G %IG=7.8E-6 11                                                          
+229TH cG E$Other: 474.41 keV {I8} (1996Ko29)                                    
+229TH cG RI$Other: 0.33 {I5} (1996Ko29)                                         
+229TH  G 523.59    24 0.41   11                                                 
+229TH2 G %IG=9.4E-6 25                                                          
+229TH cG E$Other: 523.69 keV {I6} (1996Ko29)                                    
+229TH cG RI$Other: 0.4 {I1} (1996Ko29)                                          
+229TH  G 578.61    17 0.15   1                                                  
+229TH2 G %IG=3.44E-6 23                                                         
+229TH cG E$Others: 578.42 keV {I2} (1996Ko29), 578.5 keV {I2} (1976Kr03)        
+229TH cG RI$Weighted average 0.15 {I5} (2003Ba78), 0.15 {I1} (1996Ko29);        
+229TH2cG Other: 0.2 (1976Kr03)                                                  
+229TH  G 591.6     3  0.031  10                                                 
+229TH2 G %IG=7.1E-7 23                                                          
+229TH cG E$Other: 591.64 keV {I7} (1996Ko29)                                    
+229TH cG RI$Other: 0.3 {I1} (1996Ko29)                                          
+229TH  G 620.63    23  0.066 26                                                 
+229TH2 G %IG=1.5E-6 6                                                           
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229TH cG E$Other: 620.82 keV {I3} (1996Ko29)                                    
+229TH cG RI$Other: 0.62 {I4} (1996Ko29)                                         
+229TH  L 637.38    4  (5/2+,7/2,9/2+)                                           
+229TH  A 4197.8    12 9.6E-6 8 183     22                                   W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 402.36    9  0.28   3                                                  
+229TH2 G %IG=6.4E-6 7                                                           
+229TH cG E$Others: 402.22 keV {I1} (1996Ko29), 402.4 keV {I2} (1976Kr03)        
+229TH cG RI$Weighted average 0.31 {I6} (2003Ba78), 0.27 {I4} (1996Ko29);        
+229TH2cG Other: 0.3 (1976Kr03)                                                  
+229TH  G 425.33    12 0.035  6                                                  
+229TH2 G %IG=8.0E-7 14                                                          
+229TH cG E$Other: 425.53 keV {I9} (1996Ko29)                                    
+229TH cG RI$Other: 0.034 {I6} (1996Ko29)                                        
+229TH  G 540.3     3  0.071  7                                                  
+229TH2 G %IG=1.63E-6 16                                                         
+229TH cG E$From 1976Kr03. Others: 540.68 keV {I13} (2003Ba78), 540.49 keV {I6}  
+229TH2cG (1996Ko29)                                                             
+229TH cG RI$Weighted average 0.072 {I10} (2003Ba78), 0.07 {I1} (1996Ko29);      
+229TH2cG Other: 0.2 (1976Kr03)                                                  
+229TH  G 608.15    5  0.021  7                                                  
+229TH2 G %IG=4.8E-7 16                                                          
+229TH cG E$Other: 608.15 keV {I8} (1996Ko29)                                    
+229TH cG RI$Weighted average 0.021 {I10} (2003Ba78), 0.02 {I1} (1996Ko29)       
+229TH  G 637.25    10 0.01   AP                                                 
+229TH2 G %IG AP 2.3E-7                                                          
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229TH cG E$Other: 637.25 keV {I10} (1996Ko29)                                   
+229TH cG RI$Other: 0.01 {I1} (1996Ko29)                                         
+229TH  L 656.93    5  (5/2+,7/2,9/2+)                                           
+229TH  A 4178.6    12 6.3E-6 10 1.9E2  4                                    W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 177.94    16                                                           
+229TH  G 531.54    8  0.031  7                                                  
+229TH2 G %IG=7.1E-7 16                                                          
+229TH cG E$Other: 531.54 keV {I8} (1996Ko29)                                    
+229TH cG RI$Weighted average 0.031 {I10} (2003Ba78), 0.03 {I1} (1996Ko29)       
+229TH  G 559.87    18 0.01   AP                                                 
+229TH2 G %IG AP 2.3E-7                                                          
+229TH cG E$Other: 559.87 keV {I18} (1996Ko29)                                   
+229TH cG RI$Other: 0.01 {I1} (1996Ko29)                                         
+229TH  G 584.94    16                                                       *   
+229TH  G 614.60    20 0.031  7                                                  
+229TH2 G %IG=7.1E-7 16                                                          
+229TH cG E$Other: 614.43 keV {I7} (1996Ko29)                                    
+229TH cG RI$Weighted average 0.031 {I10} (2003Ba78), 0.03 {I1} (1996Ko29)       
+229TH  G 627.70    8  0.021  7                                                  
+229TH2 G %IG=4.8E-7 16                                                          
+229TH cG E$Other: 627.70 keV {I8} (1996Ko29)                                    
+229TH cG RI$Weighted average 0.021 {I10} (2003Ba78), 0.02 {I1} (1996Ko29)       
+229TH  G 657.30    17 0.18   4                                                  
+229TH2 G %IG=4.1E-6 9                                                           
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229TH cG E$Others: 656.88 keV {I2} (1996Ko29), 657.0 keV {I2} (1976Kr03)        
+229TH cG RI$Others: 0.08 {I4} (1996Ko29), 0.1 (1976Kr03)                        
+229TH  L 665.02    9  (3/2)-                                                   ?
+229TH  A 4170.7    12 1.09E-6AP 9E2    9                                    W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 500.44    23 0.031  7  [M1]                   0.2094 29                
+229TH2 G %IG=7.1E-7 16                                                          
+229THS G  KC=0.1681 24$LC=0.0313 4$MC=0.00750 11                                
+229THS G  NC=0.001999 28$OC=0.000473 7$PC=9.19E-5 13$QC=8.73E-6 12              
+229TH cG E$Other: 500.39 keV {I9} (1996Ko29)                                    
+229TH cG RI$Weighted average 0.031 {I10} (2003Ba78), 0.03 {I1} (1996Ko29)       
+229TH  G 665.03    10 0.010  AP [E1]                   0.0072510                
+229TH2 G %IG AP 2.3E-7                                                          
+229THF G FL=0.0                                                                 
+229THS G  KC=0.00592 8$LC=0.001011 14$MC=0.0002398 34                           
+229THS G  NC=6.36E-5 9$OC=1.493E-5 21$PC=2.85E-6 4$QC=2.505E-7 35               
+229TH cG E$Other: 665.03 keV {I10} (1996Ko29)                                   
+229TH cG RI$Other: 0.01 {I1} (1996Ko29)                                         
+229TH  L 749.8     1  (5/2+,7/2,9/2+)                                           
+229TH  A 4087.4    12 1.37E-5 8 14.1   14                                   W  S
+229TH2 A FLAG=X                                                                 
+229TH  G 514.72    13 0.462  19                                                 
+229TH2 G %IG=1.06E-5 5                                                          
+229TH cG E$Others: 514.88 keV {I1} (1996Ko29), 514.0 keV {I5} (1976Kr03)        
+229TH cG RI$Weighted average 0.49 {I8} (2003Ba78), 0.46 {I2} (1996Ko29)         
+229TH  G 652.79    19 0.01   AP                                                 
+229TH2 G %IG AP 2.3E-7                                                          
+229TH cG E$Other: 652.79 keV {I19} (1996Ko29)                                   
+229TH cG RI$Other: 0.01 {I1} (1996Ko29)                                         
+229TH  G 707.4     3  0.084  24                                                 
+229TH2 G %IG=1.9E-6 6                                                           
+229TH cG E$Others: 707.41 keV {I2} (1996Ko29), 707.5 keV {I2} (1976Kr03)        
+229TH cG RI$Weighted average 0.09 {I4} (2003Ba78), 0.08 {I3} (1996Ko29);        
+229TH2cG Other: 0.1 (1976Kr03)                                                  
+229TH  G 720.62    11 0.021  7                                                  
+229TH2 G %IG=4.8E-7 16                                                          
+229TH cG E$Other: 720.62 keV {I11} (1996Ko29)                                   
+229TH cG RI$Weighted average 0.021 {I10} (2003Ba78), 0.02 {I1} (1996Ko29)       
+229TH  G 749.8     4  0.021  7                                                  
+229TH2 G %IG=4.8E-7 16                                                          
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=h                                                                 
+229TH cG E$Other: 749.80 keV {I9} (1996Ko29)                                    
+229TH cG RI$Weighted average 0.021 {I10} (2003Ba78), 0.02 {I1} (1996Ko29)       

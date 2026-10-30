@@ -1,0 +1,46 @@
+256DB    260BH A DECAY (35 MS)         2008NE01                  17NDS    201704
+256DB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256DB c  2008Ne01: production of {+260}Bh in {+209}Bi({+52}Cr,n) reaction;      
+256DB2c  {+256}Db, {+252}Lr and {+248}Md through successive |a-decay chain, and 
+256DB3c  {+256}Rf and {+248}Fm through |e decays.                               
+256DB4c  E({+52}Cr{+12+})=257.0 MeV beam provided by 88-Inch Cyclotron at       
+256DB5c  LBNL. The nuclei were analyzed using Berkeley Gas-Filled Separator.    
+256DB6c  Detectors: A focal plan Si strip detector and a Si-strip detector      
+256DB7c  array, with a resolution of FWHM=55 keV.                               
+256DB8c  Eight correlated decay chains were detected, which are listed          
+256DB9c  in {+260}Bh Adopted Levels in the ENSDF database.                      
+256DB c  The alpha-particle energies measured from the eight chains are:        
+256DB2c  10.24, 10.17, 10.17, 10.08, 10.19, 10.13 and 10.03 MeV. 2008Ne01       
+256DB3c  assign a group of alpha-particle energies between 10.13 and 10.19      
+256DB4c  MeV to the same transition with an average of 10.16 MeV, assigned      
+256DB5c  here as g.s. to g.s. alpha transition. The other three alpha energies  
+256DB6c  may be transitions to other states in {+256}Db, and left here as       
+256DB7c  as unplaced transitions                                                
+256DB cA E(A)$Observed only in one decay chain. This |a group may be a          
+256DB2cA transition to an excited state in {+256}Db                             
+260BH  P 0                             35 MS     +19-9          10400     50    
+260BH cP E$The 35-ms activity is assumed to belong to g.s. of {+260}Bh          
+260BH cP T$From (implants)|a-correlated events (2008Ne01)                       
+260BH cP QP$From 2017Wa10. Other: 10320 {I30}, from average E|a=10.16 MeV {I3}  
+260BH2cP (2008Ne01) for four |a decay events with E|a=10.17, 10.17, 10.19 and   
+260BH3cP 10.13 MeV                                                              
+256DB  N                        1      AP                                       
+256DB cN BR$%|a|?100 for |a decay of {+260}Bh                                   
+256DB  A 10.03E3                                                            A   
+256DB  A 10.08E3                                                            A   
+256DB  A 10.24E3                                                            A   
+256DB  L 0                              1.6 S    +5-3                           
+256DB2 L %A=70 11$ %EC=30 11$ %SF=?                                             
+256DB cL E$the 1.6-s activity is assumed to belong to g.s. of {+256}Db          
+256DB cL T$from Adopted Levels                                                  
+256DB cL %A$from 2008Ne01, based on %|e=36 {I12} (2001He35), thus %|a=64 {I12}, 
+256DB2cL and %|a obtained by 2008Ne01, which is not stated but probably is      
+256DB3cL 76% {I11}                                                              
+256DB  A 10.16E3   3   100                                                      
+256DB cA E$from average of four |a decay events with E|a=10.17, 10.17, 10.19    
+256DB2cA and 10.13 MeV (2008Ne01). This |a group is assumed to feed the g.s.    
+256DB3cA of {+256}Db                                                            
+256DB cA HF$value of 53 is quoted by 2008Ne01, without the method used to       
+256DB2cA deduce this value is not given. Authors cite 1997Sm03 reference, but   
+256DB3cA this paper deals with theoretical |a-decay half-lives only for         
+256DB4cA even-even alpha emitters                                               

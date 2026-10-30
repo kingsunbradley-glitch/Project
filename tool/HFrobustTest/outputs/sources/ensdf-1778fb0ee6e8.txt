@@ -1,0 +1,717 @@
+249BK    253ES A DECAY (20.47 D)       2005AH03,1975AH01         24NDS    202403
+249BK  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249BK c  2005Ah03: {+253}Es was produced by milking {+253}Cf that was produced  
+249BK2c  in the High Flux Isotope Reactor at the Oak Ridge National Laboratory  
+249BK3c  at three different irradiations done in 1998, 2000 and 2003. The       
+249BK4c  sample produced in the 2003 irradiation was chemically and             
+249BK5c  isotopically pure and provided the most sensitive measurements.        
+249BK6c  E|g, %I|g, |a|g coin for all the three samples were measured.          
+249BK7c  Single low energy gammas (<600 keV) were measured using two different  
+249BK9c  LEPS detectors while a 25% Ge detector was used to measure the high    
+249BKac  energy gammas. |a|g coincidence measurements were peformed with a Si   
+249BKbc  detector for the aphas and a 110% Ge detector for the gammas.          
+249BKcc  Measurements were performed separately with the 2003 sample at Argonne 
+249BKdc  National Laboratory using the Gammasphere array of 99                  
+249BKec  Compton-suppressed Ge detectors. |g|g coincidence measurements were    
+249BKfc  measured at Lawrence Livermore National Laboratory using two Ge(Li)    
+249BKgc  detectors. Absolute |g-ray intensities were determined by measuring    
+249BKhc  the alphas from the decay of {+253}Es with a Si detector of known      
+249BKic  solid angle and gammas with a Ge spectrometer whose efficiency was     
+249BKjc  determined with a calibrated source                                    
+249BK c  1975Ah01: {+253}Es was produced in the |b- decay of {+253}Cf at Oak    
+249BK2c  Ridge National Laboratory and was chemically purified. |a particles    
+249BK3c  were measured with an array of 14 surface barrier detectors at the     
+249BK4c  Argonne double focusing magnetic spectrometer. Measured E|a and I|a.   
+249BK5c  Deduced levels and hindrance factors                                   
+249BK c  1972Bb24 (also 1971Ba49): Alpha decay was studied using the technique  
+249BK2c  of deviation of charged particles in a magnetic field using the        
+249BK3c  magnetic |a-spectrograph. Measured |a spectrum, E|a, I|a               
+249BK c  1971HoZQ: {+253}Es was obtained from the milking of {+253}Cf at the    
+249BK2c  Oak Ridge National Laboratory. The gamma spectrum from the decay was   
+249BK3c  measured with a Ge(Li) detector. Measured E|g, I|g and K-conversion    
+249BK4c  coefficients                                                           
+249BK c  1965Ho15: The internal-conversion electron spectrum was measured with  
+249BK2c  the Berkeley 50-cm iron-free spectrometer. Half-lives were             
+249BK3c  determined from indirect measurements of the distance the recoil       
+249BK4c  travelled before emitting conversion electrons using the electrostatic 
+249BK5c  pre-accelerator system in with the iron-free spectrometer.             
+249BK c  1964Ho10: {+253}Es was produced by heavy-isotope production from       
+249BK2c  neutron irradiations on appropriare target materials such as {+244}Cm. 
+249BK3c  The internal conversion electron spectrum was examined with the        
+249BK4c  iron-free spectrometer. Measured E|g, I|g and conversion electron      
+249BK5c  subshell ratios                                                        
+249BK c  1963Le17: Alpha decay of {+253}Es was studied using the NaI            
+249BK2c  scintillator for the gammas. In addition, an anthracene scintillator   
+249BK3c  electron detector and an alpha detector consisting of a                
+249BK4c  phosphorus-diffused p-n silicon detector were used in the              
+249BK5c  alpha-electron coincidences measurements                               
+249BK c  1960As06, 1960As08: Alpha and electron spectra of {+253}Es were        
+249BK2c  investigated with high-resolution magnetic spectrographs.              
+249BK3c  Measured |a|g coin., |a-e                                              
+249BK c  Others:                                                                
+249BK c  1990Po14: Measured relative L and M x-ray intensities from the decay   
+249BK2c  using the x-ray spectrometer                                           
+249BK c                                                                         
+249BK c  All data are from 2005Ah03, unless otherwise stated.                   
+249BK cA HF$The nuclear radius parameter r{-0}({+249}Bk)=1.49492 {I49} is       
+249BK2cA deduced from interpolation of radius parameters of the adjacent        
+249BK3cA even-even nuclides in 2020Si16                                         
+249BK cA E,IA$From 1975Ah01, unless otherwise noted. Assigned to                
+249BK2cA levels in 2005Ah03 based on similar level energy and spin-parity.      
+249BK cA E(A),IA(A)$From 1972Bb24                                               
+249BK cA E(B)$Deduced by the evaluator from level excitation energies.          
+249BK2cA Energies are rounded to the nearest keV with an estimated uncertainty  
+249BK3cA of 1 keV. Values deduced by 2005Ah03 from level excitation energies    
+249BK4cA are given in comments                                                  
+249BK cA IA(I)$Deduced by the evaluator from gamma intensity balance at each    
+249BK2cA level. Values deduced by 2005Ah03 from summing intensities             
+249BK3cA of transitions deexciting that level are given in comments             
+249BK c                                                                         
+249BK tG $ ----------------------------------------------                       
+249BK tG $   The Bk x-ray intensities (2005Ah03):                               
+249BK tG $  E(x ray)  I(x ray)    Bk x ray                                      
+249BK tG $ 107.17 {I1}     9.3|*10{+-3} {I3}    K{-|a2}                         
+249BK tG $ 112.10 {I1}     1.5|*10{+-2} {I1}    K{-|a1}                         
+249BK tG $ 125.42 {I2}     1.86|*10{+-3} {I15}  K{-|b3}                         
+249BK tG $ 126.57 {I2}     3.61|*10{+-3} {I20}  K{-|b1}                         
+249BK tG $ 127.36 {I5}     1.96|*10{+-4} {I20}  K{-|b5}                         
+249BK tG $ 130.24 {I2}     1.47|*10{+-3} {I12}  K{-|b2}+K{-|b4}                 
+249BK tG $ 131.30 {I2}     4.5|*10{+-4} {I4}    KO{-2,3}                        
+249BK tG $ ----------------------------------------------                       
+249BK cG E,RI$ From |g-ray singles data of 2005Ah03, unless otherwise stated.   
+249BK2cG Absolute |g-ray intensities were determined by measuring the alphas    
+249BK3cG from the decay of {+253}Es with a Si detector of known solid angle     
+249BK4cG and gammas with a Ge spectrometer whose efficiency was determined      
+249BK5cG with a calibrated source.                                              
+249BK cG E(X),RI(X)$ Transition observed in |g|g coin measurements in 2005Ah03. 
+249BK2cG I|g<1|*10{+-6} per {+253}Es |a-decay estimated by the authors, unless  
+249BK3cG stated otherwise. Energies for these weak |g rays determined with      
+249BK4cG respect to energies of stronger |g rays measured in |g-ray singles     
+249BK5cG spectra and that also have |DE|g<0.2 keV. |DE|g=1.0 keV assigned to    
+249BK6cG these |g rays by the authors.                                          
+249BK cG M,MR$From experimental conversion coefficient data from 1965Ho13       
+249BK2cG and 1971HoZQ, except as noted. 1965Ho13 (M. D. Holtz, J. M. Hollander, 
+249BK3cG R. L. Graham, T. Novakov) was a private communication to authors in    
+249BK4cG the Table of Isotopes" (1967Le24,1978LeZA). No copy of 1965Ho13        
+249BK5cG is available at the National Nuclear Data Center; however, the         
+249BK6cG evaluator has used the information presented in 1978LeZA.              
+249BK7cG Uncertainties were not provided in 1978LeZA; however, the evaluator    
+249BK8cG has estimated a 20% uncertainty for the ce data in 1978LeZA. The ce(K) 
+249BK9cG data from 1971HoZQ was re-normalized to the M1 389.17 keV {I2} gamma   
+249BKacG transition with |a(K)(389.17)=0.598 {I8} (BrIcc). Mixing ratio was     
+249BKbcG calculated using the BrIccMixing code. Multipolarity and mixing        
+249BKccG ratios from this dataset are given in the Adopted Gammas.              
+249BK cL E$From least-squares fit to E|g data by the evaluator, unless stated   
+249BK2cL otherwise.                                                             
+249BK cL J$From Adopted Levels. The assignments to levels >700 keV are by       
+249BK2cL 2005Ah03 from deexcitation patterns of the levels to members of lower  
+249BK3cL rotational bands, and |a-decay hindrance factors or available          
+249BK4cL configurations as provided in the Adopted Levels                       
+249BK CL BAND(A)$ 7/2[633]                                                      
+249BK CL BAND(B)$ 3/2[521]                                                      
+249BK CL BAND(C)$ 5/2[642]                                                      
+249BK CL BAND(D)$ 9/2[624]                                                      
+249BK CL BAND(E)$ {7/2[633]~#1{+-}}9/2- vibrational band                        
+249BK CL BAND(F)$ {7/2[633]~#0{+-}}7/2- vibrational band                        
+249BK CL BAND(G)$ {7/2[633]~#1{+-}}5/2- vibrational band                        
+249BK CL BAND(H)$ {7/2[633]~#2{+-}}3/2- vibrational band                        
+249BK cL SEQ(I)$1/2[400]                                                        
+249BK cL SEQ(J)$1/2[530].                                                       
+249BK2cL Value of rotational constant (~h{+2}/2{iJ}=4.840 keV) from 2005Ah03    
+249BK3cL indicates Coriolis mixing of 1/2[530], K{+|p}=1/2-, and other negative 
+249BK4cL parity bands present                                                   
+249BK CL BAND(K)$ K{+|p}=1/2-.                                                  
+249BK2cL Value of rotational constant (~h{+2}/2{iJ}=7.84 keV) from 2005Ah03     
+249BK3cL indicates Coriolis mixing of 1/2[530], K{+|p}=1/2-, and other negative 
+249BK4cL parity bands present                                                   
+249BK CL BAND(L)$ Possible 3/2[651] band                                        
+249BK DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+253ES  P 0.0          7/2+              20.47 D   3             6739.24   5     
+253ES cP J,T$From Adopted Levels of {+253}Cf (2013Br09)                         
+253ES cP QP$From 2021Wa16                                                       
+249BK  N 1            1        1                                                
+249BK cN $%SF=1.0|*10{+-5} {I1}; determined by 2005Ah03 from measured intensity 
+249BK2cN of 1435.8 |g per {+253}Es |a decay from the |b-decay of the {+138}Cs   
+249BK3cN fission fragment of {+253}Es.                                          
+249BK PN                                                                     3  
+249BK  G 229.0        1E-6   LT                                             X   
+249BK  G 264.7        1E-6   LT                                             X   
+249BK cG E$assignment to {+253}Es decay is tentative.                           
+249BK  G 482.1     5  1.0E-6 AP                                                 
+249BK  G 842.0     3  9E-7   2                                                  
+249BK  G 847.0     3  6E-7   1                                                  
+249BK  G 965.2     3  8E-7   2                                                  
+249BK  G 1005.3    5  4E-7   AP                                                 
+249BK  G 1023.0    5  1.0E-7 AP                                                 
+249BK  G 1034.7    5  1.0E-6 AP                                                 
+249BK  G 1042.3    5  1.7E-7 AP                                                 
+249BK  G 1057.1    5  3.8E-7 6                                                  
+249BK  G 1106.0    2  1.8E-6 2                                                  
+249BK  L 0.0          7/2+             327.2 D   3                          A   
+249BK cL T$From Adopted Levels                                                  
+249BK  A 6633        89.8    2 1.761   22                                       
+249BK cA IA$89.9% deduced by 2005Ah03 from |g-intensity balance.                
+249BK  L 8.771     14 3/2-             0.3 MS                               BM  
+249BK cL T$From (|a)(ce)-delayed coincidence measurement (1960As08,1960As06).   
+249BK2cL No uncertainty was provided.                                           
+249BK  A 6624      2 0.8       1.8E2                                        A   
+249BK  G 8.77                  [M2]                    3.07E6  4               S
+249BKS G  MC=2.222E6 31                                                         
+249BKS G  NC=6.49E5 9$OC=1.653E5 23$PC=2.97E4 4$QC=1564 22                      
+249BK cG E$Deduced by the evaluator from level energy difference.               
+249BK cG TI$I(|g+ce)(8.77|g)= 2.59 {I27} deduced by evaluator from intensity    
+249BK2cG balance                                                                
+249BK  L 39.614    13 5/2-                                                  B   
+249BK  G 30.85     1  5.5E-3 5 M1+E2     0.114   +29-183.1E2   4                
+249BKS G  LC=231 29$MC=59 8                                                     
+249BKS G  NC=16.3 23$OC=4.1 6$PC=0.78 9$QC=0.0441 6                             
+249BK cG M,MR$M1:M2:M3=100:32:15, N1:N2:N3=23:7:5, M/N=4.2 (1965Ho13)           
+249BK  L 41.805    7  9/2+             9 PS      2                          A   
+249BK cL T$From indirect measurement of the distance the recoil travelled before
+249BK2cL emitting conversion electrons (1965Ho15)                               
+249BK  A 6590.5    14 6.6    10 15.6   25                                       
+249BK cA E,IA$From 1991Ry01.                                                    
+249BK  G 41.80     1  5.6E-2 4  M1+E2    0.140   +39-23122    14                
+249BKS G  LC=90 10$MC=22.9 30                                                   
+249BKS G  NC=6.3 8$OC=1.61 20$PC=0.307 32$QC=0.01781 28                         
+249BK cG M,MR$L1:L2:L3=100:28.9:12.0, M1:M2:M3:M4=23.5:7.1:3.5:0.08             
+249BK2cG L/M=4.12 (1965Ho13)                                                    
+249BK  L 82.595    12 7/2-                                                  B   
+249BK  A 6552      2  0.71   2 94.6    29                                       
+249BK cA IA$0.62 {I10} deduced by the evaluator from |g-intensity balance.      
+249BK  G 42.98     1  8.0E-3 8 M1+E2     0.111   +25-16103     6                
+249BKS G  LC=77 5$MC=19.3 13                                                    
+249BKS G  NC=5.3 4$OC=1.37 9$PC=0.263 15$QC=0.01647 24                          
+249BK cG M,MR$L1:L2:L3=100:27.4: 7.1, M1:M3=25.6: 2.5, L/M=4.6 (1965Ho13)       
+249BK  G 73.82     1  9.5E-4 9 E2                      84.9   12             C  
+249BKS G  LC=61.2 9$MC=17.38 24                                                 
+249BKS G  NC=4.86 7$OC=1.191 17$PC=0.1964 28$QC=0.000663 9                      
+249BK cG M,MR$L2:L3:M2:M3=100:63:30:24 (1965Ho13)                               
+249BK  G 82.61     2  5.2E-5 5                                              &   
+249BK  L 93.759    8  11/2+            5 PS      1                          A   
+249BK cL T$From indirect measurement of the distance the recoil travelled before
+249BK2cL emitting conversion electrons (1965Ho15)                               
+249BK  A 6540      2  0.85   2 70.3    19                                       
+249BK cA IA$0.77 {I5} deduced by the evaluator from |g-intensity balance.       
+249BK  G 51.96     1  1.38E-28  M1+E2    0.143   4     60.0   10                
+249BKS G  LC=44.7 7$MC=11.24 18                                                 
+249BKS G  NC=3.11 5$OC=0.794 13$PC=0.1524 24$QC=0.00935 13                      
+249BK cG M,MR$L1/L2=4.35 {I3}, L1/L3=11.33 {I15}, L2/L3=2.60 {I4} (1964No08);   
+249BK2cG L1:L2:L3=100: 23.1: 9.1, M1:M2:M3=22.1: 7.1: 2.3, L/M=4.2 (1965Ho13)   
+249BK  G 93.76     1  1.2E-3 1 E2                      27.5    4             C  
+249BKS G  LC=19.87 28$MC=5.64 8                                                 
+249BKS G  NC=1.579 22$OC=0.387 5$PC=0.0642 9$QC=0.000256 4                      
+249BK cG M,MR$L2:L3:M2:M3=100: 63: 27: 21 (1965Ho13)                            
+249BK  L 137.711   12 9/2-                                                  B   
+249BK  A 6498      2  0.26   1 144     6                                        
+249BK cA IA$0.03 {I4} deduced by the evaluator from |g-intensity balance.       
+249BK  G 55.11     1  5.5E-3 4  M1+E2    0.146   +38-3250      4             C  
+249BKS G  LC=37.2 26$MC=9.3 7                                                   
+249BKS G  NC=2.58 21$OC=0.66 5$PC=0.127 8$QC=0.00786 13                         
+249BK cG M,MR$L1:L2:M1:M2=100: 22: 24: 6.4 (1965Ho13)                           
+249BK  G 95.90     2  2.7E-5 3 [E1]                    0.1603 22                
+249BKS G  LC=0.1200 17$MC=0.0298 4                                              
+249BKS G  NC=0.00813 11$OC=0.002005 28$PC=0.000346 5$QC=1.365E-5 19             
+249BK  G 98.10     1  1.65E-314E2                      22.31  31             C  
+249BKS G  LC=16.09 23$MC=4.57 6                                                 
+249BKS G  NC=1.279 18$OC=0.313 4$PC=0.0520 7$QC=0.0002150 30                    
+249BK cG M,MR$L2:L3:M2:M3=100: 60: 30: 18 (1965Ho13)                            
+249BK  G 137.71    5  1.0E-5 2                                                  
+249BK  L 155.854   9  13/2+                                                 A   
+249BK  A 6480      2  0.085  3 364     14                                       
+249BK cA IA$0.068 {I22} deduced by the evaluator from |g-intensity balance.     
+249BK  G 62.08     1  2.6E-3 2  M1+E2    0.16    4     34.9   23             C  
+249BKS G  LC=26.0 16$MC=6.5 5                                                   
+249BKS G  NC=1.80 13$OC=0.461 32$PC=0.089 5$QC=0.00552 10                       
+249BK cG M,MR$L2:M1:M2:M3=100: 82: 24: 7 (1965Ho13)                             
+249BK  G 114.04    1  4.7E-4 3 (E2)                    11.12  16             C  
+249BKS G  LC=8.03 11$MC=2.278 32                                                
+249BKS G  NC=0.637 9$OC=0.1564 22$PC=0.0261 4$QC=0.0001227 17                   
+249BK cG M$L2/L3=1.6 (1965Ho13)                                                 
+249BK  L 204.572   13 (11/2-)                                               B   
+249BK  A 6432      2  0.061  3 301     15                                       
+249BK cA IA$0.281 {I30} deduced by the evaluator from |g-intensity balance.     
+249BK  G 66.86     1  2.1E-3 2 (E2)                    135.9  19             C  
+249BKS G  LC=98.1 14$MC=27.8 4                                                  
+249BKS G  NC=7.79 11$OC=1.906 27$PC=0.314 4$QC=0.000997 14                      
+249BK cG M$L1/M1=3.2 (1965Ho13)                                                 
+249BK  G 121.98    1  1.15E-310(E2)                    8.17   11             C  
+249BKS G  LC=5.90 8$MC=1.673 23                                                 
+249BKS G  NC=0.468 7$OC=0.1149 16$PC=0.01919 27$QC=9.63E-5 13                   
+249BK cG M$L2/L3=1.5 (1965Ho13)                                                 
+249BK  G 162.7     1  1.5E-5 4 [E1]                    0.1738 24                
+249BKS G  KC=0.1320 19$LC=0.0314 4$MC=0.00773 11                                
+249BKS G  NC=0.002114 30$OC=0.000528 7$PC=9.53E-5 13$QC=4.44E-6 6               
+249BK  L 229.242   11 (15/2+)                                               A   
+249BK  A 6408      2  0.013  1 1.08E3  9                                        
+249BK cA IA$0.032 {I20} deduced by the evaluator from |g-intensity balance.     
+249BK  G 73.43     2  5.7E-4 5 (M1,E2)                 53     34             C  
+249BKS G  LC=38 24$MC=11 7                                                      
+249BKS G  NC=3.0 20$OC=0.7 5$PC=0.13 8$QC=0.0021 14                             
+249BK cG M$L1/M1=4 (1965Ho13)                                                   
+249BK  G 135.51    1  1.9E-4 2 [E2]                    5.21    7             C  
+249BKS G  KC=0.1361 19$LC=3.66 5$MC=1.038 15                                    
+249BKS G  NC=0.290 4$OC=0.0713 10$PC=0.01195 17$QC=6.68E-5 9                    
+249BK  L 283.131   14 (13/2-)                                               B   
+249BK  A 6354      2  0.0082 4 9.5E2   5                                        
+249BK cA IA$0.018 {I10} deduced by the evaluator from |g-intensity balance.     
+249BK  G 78.56     1  4.1E-4 3  [M1,E2]                39     24             C  
+249BKS G  LC=29 17$MC=8 5                                                       
+249BKS G  NC=2.2 14$OC=0.55 34$PC=0.09 5$QC=0.0017 12                           
+249BK  G 145.42    1  3.3E-4 2 E2                      3.85    5             C  
+249BKS G  KC=0.1560 22$LC=2.67 4$MC=0.755 11                                    
+249BKS G  NC=0.2114 30$OC=0.0519 7$PC=0.00872 12$QC=5.27E-5 7                   
+249BK cG M$L2/L3=1.2 (1965Ho13)                                                 
+249BK  G 189.4     1  5E-6   AP                                                 
+249BK  L 311.857   22 (17/2+)                                               A   
+249BK  A 6325      3  4.0E-4 10 1.4E4  4                                        
+249BK cA IA$4.4|*10{+-5} {I29} deduced by the evaluator from |g-intensity       
+249BK2cA balance.                                                               
+249BK  G 82.61     2  5.2E-5 5                                              &   
+249BK  G 156.08    8  1.5E-5 3                                                  
+249BK  L 373.179   24 (15/2-)                                               B   
+249BK  A 6266      2  8.0E-4 8 3.6E3   4                                        
+249BK cA IA$1.90|*10{+-4} {I16} deduced by the evaluator from |g-intensity      
+249BK2cA balance.                                                               
+249BK  G 90.05     2  3.1E-5 3                                               C  
+249BK  G 168.57    8  5.3E-5 5 [E2]                    2.083  29             C  
+249BKS G  KC=0.1629 23$LC=1.387 20$MC=0.392 6                                   
+249BKS G  NC=0.1096 16$OC=0.0270 4$PC=0.00456 6$QC=3.28E-5 5                    
+249BK  L 377.552   24 (1/2+)                                                I   
+249BK  A 6261      6  3.29E-421 8.3E3  6                                    B  ?
+249BKF A FLAG=I                                                                 
+249BK cA E$Not reported by 1975Ah01.                                            
+249BK  G 368.77    2  3.6E-4 2                                              &C  
+249BK  L 389.170   17 (5/2+)                                                C   
+249BK  A 6250      2  0.045  2 53.3    25                                       
+249BK cA IA$0.0480 {I18} deduced by the evaluator from |g-intensity balance.    
+249BK  G 306.58    8  2.4E-5 2 [E1]                    0.0426  6                
+249BKS G  KC=0.0334 5$LC=0.00694 10$MC=0.001695 24                              
+249BKS G  NC=0.000464 7$OC=0.0001173 16$PC=2.195E-5 31$QC=1.206E-6 17           
+249BK  G 347.34    5  2.0E-4 3 [E2]                    0.1635 23                
+249BKS G  KC=0.0635 9$LC=0.0727 10$MC=0.02002 28                                
+249BKS G  NC=0.00558 8$OC=0.001385 19$PC=0.0002437 34$QC=4.66E-6 7              
+249BK  G 349.56    5  1.4E-4 2 [E1]                    0.0324  5                
+249BKS G  KC=0.0255 4$LC=0.00518 7$MC=0.001263 18                               
+249BKS G  NC=0.000346 5$OC=8.76E-5 12$PC=1.649E-5 23$QC=9.33E-7 13              
+249BK  G 389.17    2  2.70E-210M1                      0.763  11             C  
+249BKS G  KC=0.598 8$LC=0.1232 17$MC=0.0302 4                                   
+249BKS G  NC=0.00831 12$OC=0.002139 30$PC=0.000422 6$QC=2.95E-5 4               
+249BK cG M$K:L1:L2:L3=500:100:10:|? 0.5 (1965Ho13)                              
+249BK  L 410.71    10 (3/2+)                                                I   
+249BK  A 6230      3  1.2E-4 4 1.6E4   6                                        
+249BK cA IA$2.0|*10{+-6} {I32} deduced by the evaluator from |g-intensity       
+249BK2cA balance                                                                
+249BK  G 402.0     1  5.0E-6 10                                             &   
+249BK  L 421.376   24 (5/2+)                                                I   
+249BK  A 6217      3  1.5E-3 AP 1.1E3  8                                        
+249BK cA IA$6.3|*10{+-5} {I23} deduced by the evaluator from |g-intensity       
+249BK2cA balance                                                                
+249BK  G 421.39    3  8.5E-5 4 [M1,E2]                 0.35   26             C  
+249BKS G  KC=0.26 22$LC=0.068 31$MC=0.017 7                                     
+249BKS G  NC=0.0047 20$OC=0.0012 5$PC=2.3E-4 11$QC=1.3E-5 10                    
+249BK  L 428.955   13 (7/2+)                                                C   
+249BK  A 6211      2  0.039  2 39.2    21                                       
+249BK cA IA$0.0427 {I18} deduced by the evaluator from |g-intensity balance.    
+249BK  G 291.26    8  3.4E-5 3 [E1]                    0.0475  7                
+249BKS G  KC=0.0371 5$LC=0.00779 11$MC=0.001905 27                              
+249BKS G  NC=0.000522 7$OC=0.0001318 18$PC=2.459E-5 34$QC=1.336E-6 19           
+249BK  G 335.20    5  1.40E-415[E2]                    0.1816 25                
+249BKS G  KC=0.0674 9$LC=0.0830 12$MC=0.02291 32                                
+249BKS G  NC=0.00639 9$OC=0.001584 22$PC=0.000278 4$QC=5.07E-6 7                
+249BK  G 346.37    5  1.6E-4 2 [E1]                    0.0330  5                
+249BKS G  KC=0.0260 4$LC=0.00528 7$MC=0.001289 18                               
+249BKS G  NC=0.000353 5$OC=8.94E-5 13$PC=1.682E-5 24$QC=9.50E-7 13              
+249BK  G 387.15    2  1.90E-210M1                      0.774  11                
+249BKS G  KC=0.607 8$LC=0.1250 18$MC=0.0306 4                                   
+249BKS G  NC=0.00843 12$OC=0.002170 30$PC=0.000428 6$QC=2.99E-5 4               
+249BK cG M$ |a(K)exp=0.61 {I7} (1971HoZQ), K/L=4.5, L1/L2=10 (1965Ho13)         
+249BK  G 428.95    2  5.55E-320 M1+E2    0.29    18    0.55    5             C  
+249BKS G  KC=0.43 4$LC=0.090 6$MC=0.0220 15                                     
+249BKS G  NC=0.0061 4$OC=0.00156 10$PC=0.000307 22$QC=2.10E-5 21                
+249BK cG M,MR$ |a(K)exp=0.42 {I3} (1971HoZQ),                                   
+249BK2cG K/L12=4.2, L1/L2=10 (1965Ho13)                                         
+249BK  L 473.66    21 (17/2-)                                               B   
+249BK  A 6167      1  9E-6   AP 1.0E5  7                                    B   
+249BK cA IA$|?9.0|*10{+-6} deduced by the evaluator from |g-intensity balance   
+249BK  G 100.5     3  4E-6   AP                                             XC  
+249BK  G 190.5     3  5E-6   AP                                              C  
+249BK  L 475.002   14 (9/2+)                                                C   
+249BK  A 6166      2  0.015  1 60      4                                        
+249BK cA IA$0.0148 {I6} deduced by the evaluator from |g-intensity balance.     
+249BK  G 270.46    8  1.8E-5 2                                                  
+249BK  G 319.16    5  3.7E-5 3 [E2]                    0.2106 30                
+249BKS G  KC=0.0731 10$LC=0.0999 14$MC=0.0276 4                                 
+249BKS G  NC=0.00771 11$OC=0.001911 27$PC=0.000334 5$QC=5.70E-6 8               
+249BK  G 337.30    5  5.2E-5 4 [E1]                    0.0349  5                
+249BKS G  KC=0.0274 4$LC=0.00560 8$MC=0.001367 19                               
+249BKS G  NC=0.000375 5$OC=9.48E-5 13$PC=1.781E-5 25$QC=1.000E-6 14             
+249BK  G 381.23    2  5.5E-3 3 (M1)                    0.807  11                
+249BKS G  KC=0.633 9$LC=0.1305 18$MC=0.0319 4                                   
+249BKS G  NC=0.00880 12$OC=0.002264 32$PC=0.000447 6$QC=3.12E-5 4               
+249BK cG M$ |a(K)exp=0.62 {I6} (1971HoZQ)                                       
+249BK  G 392.42    5  4.4E-5 4 [E1]                    0.0256  4                
+249BKS G  KC=0.02020 28$LC=0.00403 6$MC=0.000981 14                             
+249BKS G  NC=0.000269 4$OC=6.82E-5 10$PC=1.289E-5 18$QC=7.48E-7 10              
+249BK  G 433.20    2  2.7E-3 2 (M1)                    0.569   8             C  
+249BKS G  KC=0.447 6$LC=0.0918 13$MC=0.02244 31                                 
+249BKS G  NC=0.00619 9$OC=0.001592 22$PC=0.000314 4$QC=2.194E-5 31              
+249BK cG M$ |a(K)exp=0.46 {I3} (1971HoZQ)                                       
+249BK  G 475.00    5  3.2E-4 2 (M1)                    0.443   6                
+249BKS G  KC=0.348 5$LC=0.0713 10$MC=0.01743 24                                 
+249BKS G  NC=0.00480 7$OC=0.001236 17$PC=0.0002439 34$QC=1.703E-5 24            
+249BK cG M$ |a(K)exp=0.32 {I4} (1971HoZQ)                                       
+249BK  L 498.68    7  (7/2+)                                                I   
+249BK  A 6142      1  2.36E-526 2.91E4 33                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 70.0         1E-6   LT                                             XC  
+249BK  G 416.3     2  1.4E-6 3                                                  
+249BK  G 456.84    8  1.6E-5 2                                                  
+249BK  G 498.6     2  5.7E-6 6                                                  
+249BK  L 519.189   20 (9/2+)                                                I   
+249BK  A 6122      2  7.8E-4 8 6.9E2   7                                        
+249BK cA IA$3.80|*10{+-4} {I30} deduced by the evaluator from |g-intensity      
+249BK2cA balance.                                                               
+249BK  G 89.9         1E-6   LT                                             XC  
+249BK  G 425.43    2  2.22E-415[E2]                    0.0934 13             C  
+249BKS G  KC=0.0452 6$LC=0.0352 5$MC=0.00956 13                                 
+249BKS G  NC=0.00266 4$OC=0.000663 9$PC=0.0001184 17$QC=2.93E-6 4               
+249BK  G 436.8     4  1.0E-6 AP                                                 
+249BK  G 477.40    5  1.12E-410 [M1,E2]                0.25   18                
+249BKS G  KC=0.19 15$LC=0.047 23$MC=0.012 5                                     
+249BKS G  NC=0.0033 15$OC=8.E-4 4$PC=1.6E-4 8$QC=1.0E-5 7                       
+249BK  L 542.095   19 (11/2+)                                               C   
+249BK  A 6100      2  0.0034 2 122     7                                        
+249BK cA IA$0.00104 {I12} deduced by the evaluator from |g-intensity balance.   
+249BK  G 258.9     2  2E-6   AP                                             XC  
+249BK  G 312.7     1  4.5E-6 6 [E2]                    0.2243 31                
+249BKS G  KC=0.0756 11$LC=0.1080 15$MC=0.0299 4                                 
+249BKS G  NC=0.00835 12$OC=0.002068 29$PC=0.000361 5$QC=6.00E-6 8               
+249BK  G 404.4     1  8.0E-6 8 [E1]                    0.0240634                
+249BKS G  KC=0.01903 27$LC=0.00378 5$MC=0.000919 13                             
+249BKS G  NC=0.0002519 35$OC=6.39E-5 9$PC=1.210E-5 17$QC=7.06E-7 10             
+249BK  G 448.34    2  6.4E-4 3  (M1+E2)  0.52    +17-180.43    5             C  
+249BKS G  KC=0.33 4$LC=0.072 6$MC=0.0178 14                                     
+249BKS G  NC=0.0049 4$OC=0.00126 10$PC=0.000246 21$QC=1.63E-5 19                
+249BK cG M,MR$ |a(K)exp=0.33 {I4} (1971HoZQ)                                    
+249BK  G 500.30    5  1.43E-412(M1)                    0.384   5            &C  
+249BKS G  KC=0.302 4$LC=0.0618 9$MC=0.01512 21                                  
+249BKS G  NC=0.00417 6$OC=0.001072 15$PC=0.0002116 30$QC=1.478E-5 21            
+249BK cG M$ |a(K)exp=0.28 {I9} (1971HoZQ)                                       
+249BK  L 558.179   26 (3/2-)                                                J   
+249BK  A 6084      3  2.5E-4 5 1.37E3  29                                       
+249BK cA IA$1.7|*10{+-4} {I7} deduced by the evaluator from |g-intensity        
+249BK2cA balance                                                                
+249BK  G 136.81    2  3.5E-5 3 [E1]                    0.257   4             C  
+249BKS G  KC=0.1920 27$LC=0.0484 7$MC=0.01196 17                                
+249BKS G  NC=0.00327 5$OC=0.000814 11$PC=0.0001449 20$QC=6.42E-6 9              
+249BK  G 168.8     2  5E-6   AP[E1]                    0.1599 23            &C  
+249BKF G FLAG=X                                                                 
+249BKS G  KC=0.1217 17$LC=0.0286 4$MC=0.00705 10                                
+249BKS G  NC=0.001929 28$OC=0.000482 7$PC=8.72E-5 12$QC=4.11E-6 6               
+249BK  G 180.52    8  2.1E-5 3 [E1]                    0.1373 19             C  
+249BKS G  KC=0.1049 15$LC=0.02426 34$MC=0.00597 8                               
+249BKS G  NC=0.001633 23$OC=0.000409 6$PC=7.43E-5 10$QC=3.57E-6 5               
+249BK  G 518.60    8  1.02E-410 [M1,E2]                0.20   15            &C  
+249BKS G  KC=0.15 12$LC=0.037 19$MC=0.009 4                                     
+249BKS G  NC=0.0026 12$OC=6.6E-4 32$PC=1.3E-4 7$QC=8.E-6 6                      
+249BK  G 549.40    5  3.0E-5 2  [M1,E2]                0.17   12                
+249BKS G  KC=0.13 10$LC=0.032 16$MC=0.008 4                                     
+249BKS G  NC=0.0022 11$OC=5.6E-4 27$PC=1.1E-4 6$QC=7.E-6 5                      
+249BK  L 569.21    5  (1/2-)                                                J   
+249BK  A 6071      AP 5E-5   LE  6005  GE                                      ?
+249BK cA IA$4.4|*10{+-5} {I4} deduced by the evaluator from |g-intensity        
+249BK2cA balance                                                                
+249BK  G 191.7     2  7E-7   AP [E1]                   0.1198 17            XC  
+249BKS G  KC=0.0918 13$LC=0.02094 30$MC=0.00515 7                               
+249BKS G  NC=0.001409 20$OC=0.000353 5$PC=6.44E-5 9$QC=3.15E-6 4                
+249BK  G 530.0     3  1.0E-6 AP [E2]                   0.0544  8                
+249BKS G  KC=0.0311 4$LC=0.01704 24$MC=0.00455 6                                
+249BKS G  NC=0.001266 18$OC=0.000317 4$PC=5.75E-5 8$QC=1.821E-6 26              
+249BK  G 560.42    5  3.5E-5 3  (M1+E2)  0.75    20    0.198  30                
+249BKS G  KC=0.152 25$LC=0.034 4$MC=0.0085 9                                    
+249BKS G  NC=0.00234 26$OC=0.00060 7$PC=0.000117 14$QC=7.5E-6 12                
+249BK cG M,MR$From Adopted Gammas                                               
+249BK  L 597.835   16 (13/2+)                                               C   
+249BK  A 6046      3  4.0E-4 9  5.4E2  12                                       
+249BK cA IA$3.8|*10{+-4} {I31} deduced by the evaluator from |g-intensity       
+249BK2cA balance                                                                
+249BK  G 55.6         1E-6   LT                                             XC  
+249BK cG E$The transition was observed between 597.7 and 542.1. The difference  
+249BK2cG in energy=55.6, while the authors in 2005Ah03 report 54.2 keV. This    
+249BK3cG value does not fit with their level scheme.                            
+249BK4cG Therefore, the evaluator adopts 55.6 instead                           
+249BK  G 78.8         1E-6   LT                                             XC  
+249BK  G 122.1        1E-6   LT                                             XC  
+249BK  G 168.8     2  5E-6   AP                                             &C  
+249BKF G FLAG=X                                                                 
+249BK  G 368.77    2  3.6E-4 2  (M1,E2)                0.5     4            &C  
+249BKF G FL=229.242                                                             
+249BKS G  KC=0.38 32$LC=0.10 4$MC=0.026 9                                       
+249BKS G  NC=0.0071 26$OC=0.0018 7$PC=3.4E-4 15$QC=1.9E-5 15                    
+249BK cG E$ poor fit possibly due to doublet. Level-energy difference=368.59.   
+249BK cG M$ |a(K)exp=0.42 {I11} (1971HoZQ)                                      
+249BK  G 441.83    2  7.9E-5 8 (M1)                    0.539   8            &C  
+249BKF G FL=155.854                                                             
+249BKS G  KC=0.423 6$LC=0.0869 12$MC=0.02126 30                                 
+249BKS G  NC=0.00586 8$OC=0.001508 21$PC=0.000298 4$QC=2.078E-5 29              
+249BK cG E$ poor fit possibly due to doublet. Level-energy difference=441.98.   
+249BK cG M$ |a(K)exp=0.44 {I13} (1971HoZQ)                                      
+249BK  G 503.93    5  2.1E-5 2  [M1,E2]                0.22   16                
+249BKS G  KC=0.16 13$LC=0.040 20$MC=0.010 5                                     
+249BKS G  NC=0.0028 13$OC=7.1E-4 34$PC=1.4E-4 7$QC=8.E-6 6                      
+249BK  G 555.8     3  1.2E-6 3                                                  
+249BK  L 606.691   29 (7/2-)                                                J   
+249BK  A 6037      3  2.9E-4 7  6.7E2  16                                       
+249BK cA IA$2.0|*10{+-4} {I21} deduced by the evaluator from |g-intensity       
+249BK2cA balance                                                                
+249BK  G 87.5      2  1E-6   AP                                             XC  
+249BK  G 177.6        1E-6   LT                                             XC  
+249BK  G 185.3     1  8.0E-6 20                                              C  
+249BK  G 402.0     1  5.0E-6 10                                             &C  
+249BK  G 469.00    5  8.0E-5 7  [M1,E2]                0.27   19             C  
+249BKS G  KC=0.20 16$LC=0.050 24$MC=0.012 6                                     
+249BKS G  NC=0.0034 15$OC=9.E-4 4$PC=1.7E-4 8$QC=1.0E-5 8                       
+249BK  G 524.10    5  5.2E-5 5  [M1,E2]                0.20   14             C  
+249BKS G  KC=0.15 12$LC=0.036 18$MC=0.009 4                                     
+249BKS G  NC=0.0025 12$OC=6.4E-4 31$PC=1.2E-4 6$QC=7.E-6 6                      
+249BK  G 567.10    5  4.5E-5 3  [M1,E2]                0.16   11            &   
+249BKS G  KC=0.12 9$LC=0.029 15$MC=0.0072 35                                    
+249BKS G  NC=0.0020 10$OC=5.1E-4 25$PC=1.0E-4 5$QC=6.E-6 4                      
+249BK  L 624.30    17 (5/2+)                                                L   
+249BK  A 6018      1  3.9E-6 AP 40112  AP                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 203.1     5  3E-7   AP                                             &C  
+249BKF G FLAG=X                                                                 
+249BK  G 235.1     2  3E-6   AP                                             XC  
+249BK  G 624.3     4  7E-7   2                                                  
+249BK  L 624.93    4  (5/2-)                                                J   
+249BK  A 6019      3  1.8E-4 5  8.6E2  24                                       
+249BK cA IA$6.5|*10{+-5} {I5} deduced by the evaluator from |g-intensity balance
+249BK  G 203.1     5  3E-7   AP                                             &   
+249BKF G FLAG=X                                                                 
+249BK  G 542.30    5  2.2E-5 2                                                  
+249BK  G 585.35    5  3.4E-5 2  [M1,E2]                0.15   10                
+249BKS G  KC=0.11 9$LC=0.026 14$MC=0.0066 33                                    
+249BKS G  NC=0.0018 9$OC=4.7E-4 23$PC=9.E-5 5$QC=6.E-6 4                        
+249BK  G 616.1     2  3.6E-6 3  [M1,E2]                0.13    9                
+249BKS G  KC=0.10 7$LC=0.023 12$MC=0.0057 29                                    
+249BKS G  NC=0.0016 8$OC=4.0E-4 20$PC=8.E-5 4$QC=4.9E-6 35                      
+249BK  L 642.74    18 (1/2-)                                                K   
+249BK  A 6000      1  5.7E-6 14 2.20E4 54                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 231.7        1E-6   LT                                             XC  
+249BK  G 264.1        1E-6   LT                                             XC  
+249BKF G FL=377.552                                                             
+249BK  G 634.2     2  4.7E-6 4                                                  
+249BK  L 654.1     5                                                            
+249BK cL E$ Possible 11/2+ member of 1/2[400] band; 2005Ah03 calculated 639 keV 
+249BK2cL for expected 11/2+ member from rotational constant and decoupling      
+249BK3cL parameter quoted above for the band. 135 |g seen in coin with 425      
+249BK4cL transition from 9/2+ member.                                           
+249BK  A 5989      1  1.0E-6 LT 109005 GT                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 134.9        1E-6   LT                                             XC  
+249BK  L 661.35    12 (3/2-)                                                K   
+249BK  A 5982      1  5.5E-6 25 1.82E4 83                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 283.7     2  5E-6   AP                                             &C  
+249BK  G 621.7     2  1.8E-6 2                                                  
+249BK  G 652.7     2  1.20E-615                                                 
+249BK  L 671.089   22 (13/2+)                                               I   
+249BK  A 5972      1  6E-5   AP  1485  AP                                      ?
+249BK cA IA$5|*10{+-5} {I4} deduced by the evaluator from |g-intensity balance  
+249BK  G 152.2     2  2E-7   AP                                              C  
+249BK  G 441.83    2  7.9E-5 8                                              &C  
+249BK  G 515.5     1  3.5E-6 6                                                  
+249BK  G 577.6     2  1.5E-6 2                                                  
+249BK  L 672.81    9  (5/2-)                                                G   
+249BK  A 5971      1  7E-6   AP 12466  AP                                   B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$|?3|*10{+-6} (2005Ah03)                                             
+249BK cA E$5971 (2005Ah03)                                                      
+249BK  G 244.0     2  1E-6   AP                                             XC  
+249BK  G 283.7     2  5E-6   AP                                             &C  
+249BK  G 590.1     3  1.0E-6 AP                                             XC  
+249BK  G 633.0     3  2.0E-6 AP                                             XC  
+249BK  G 664.0     2  5.0E-6 5                                               C  
+249BK  G 672.8     2  1.4E-6 3                                               C  
+249BK  L 701.85    15  (15/2+)                                              C   
+249BK  A 5942      1   6.0E-611 1.02E4 19                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 472.6     2  4E-6   1                                                  
+249BK  G 545.9     3  1.5E-6 3                                                  
+249BK  G 608.2     3  5E-7   AP                                                 
+249BK  L 703.42    10 (7/2+)                                                L   
+249BK  A 5940      1  6.6E-6 AP  9113  AP                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 228.4     2  1E-6   AP                                             XC  
+249BK  G 274.5     2  1E-6   AP                                             XC  
+249BK  G 314.2     2  2E-6   AP                                             XC  
+249BK  G 661.6     2  2.4E-6 4                                               C  
+249BK  G 703.6     4  2E-7   AP                                                 
+249BK  L 704.84    4  (11/2-)                                               J   
+249BK  A 5944      3  1.5E-4 5  3.9E2  14                                       
+249BK cA IA$1.1|*10{+-4} {I8} deduced by the evaluator from |g-intensity        
+249BK2cA balance                                                                
+249BK  G 98.2      2  3E-7   AP                                             XC  
+249BK  G 185.6     2  1E-6   AP                                             XC  
+249BK  G 421.7     2  8E-6   AP                                             XC  
+249BK  G 500.30    5  1.43E-412                                             &   
+249BK  G 567.10    5  4.5E-5 3                                              &   
+249BK  L 709.15    11 (5/2-)                                                K   
+249BK  A 5935      4  4E-5   AP  1402  AP                                       
+249BK cA IA$1.23|*10{+-5} {I18} deduced by the evaluator from |g-intensity      
+249BK2cA balance                                                                
+249BK  G 102.8     3  1E-7   AP                                             XC  
+249BK  G 300.3        1E-6   LT                                             XC  
+249BKF G FL=410.71                                                              
+249BK cG E$Poor fit. Level energy difference=408.85                             
+249BK  G 330.7        1E-6   LT                                             XC  
+249BK  G 571.0     3  1.0E-6 AP                                                 
+249BK  G 626.5     2  4.0E-6 3                                                  
+249BK  G 669.5     2  5.8E-6 5                                                  
+249BK  G 700.3     3  4E-7   1                                                  
+249BK  L 711.15    12 (7/2-)                                                G   
+249BK  A 5933         3.6E-6 AP 15202  AP                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 192.0     2  6E-7   AP                                             XC  
+249BK  G 236.1     2  2E-6   AP                                             XC  
+249BK  G 282.2     2  1E-6   AP                                             XC  
+249BK  L 723.17    7  (9/2-)                                                J   
+249BK  A 5921         6E-5   6  7.9E2  79                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 204.0        1E-6   LT                                             XC  
+249BK cG E$the transition was observed between 723.2 and 519.2. The difference  
+249BK2cG in energy=204.0, while the authors report 202.1 keV. This value does   
+249BK3cG not fit the level scheme. Therefore, the evaluator adopts 204.0        
+249BK  G 247.7        1E-6   LT                                             XC  
+249BK  G 518.60    8  1.02E-410                                             &C  
+249BK  G 640.6     2  3.4E-6 3                                                  
+249BK  L 767.89    9  (9/2-)                                                E   
+249BK  A 5877      1  3.31E-5AP  822   AP                                   B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$3.3|*10{+-5} (2005Ah03)                                             
+249BK cA E$5877 (2005Ah03)                                                      
+249BK  G 726.1     2  5.4E-6 4                                               C  
+249BK  G 767.9     1  3.1E-5 2                                               C  
+249BK  L 769.15    14  (9/2+)                                               L   
+249BK  A 5876      1  3.5E-6 AP  7652  AP                                   B   
+249BKF A FLAG=I                                                                 
+249BK  G 227.1     2  2E-6   AP                                             XC  
+249BK  G 294.1     2  1E-6   AP                                             XC  
+249BK  G 340.2     5  5E-7   AP                                              C  
+249BK  L 836.07    13 (11/2-)                                               E   
+249BK  A 5810      1  4.07E-633 2.85E3 23                                   B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$|?4|*10{+-6} (2005Ah03)                                             
+249BK cA E$5810 (2005Ah03)                                                      
+249BK  G 742.4     3  8.5E-7 10                                                 
+249BK  G 794.2     2  2.6E-6 3                                                  
+249BK  G 836.1     2  6.2E-7 8                                                  
+249BK  L 899.63    13 (3/2-)                                                H   
+249BK  A 5747      1  2.3E-5 12 2.2E2  12                                   B   
+249BK cA IA$|?3|*10{+-5} (2005Ah03)                                             
+249BKF A FLAG=I                                                                 
+249BK cA E$5747 (2005Ah03)                                                      
+249BK  G 227.0     3  5E-6   AP                                              C  
+249BK  G 860.3     2  6.0E-6 4                                                  
+249BK  G 890.5     2  2.2E-5 2                                              &   
+249BK  L 911.16    21 (13/2-)                                               E   
+249BK  A 5736      1  6.2E-6 5   717   58                                   B   
+249BK cA IA$|?6|*10{+-6} (2005Ah03)                                             
+249BKF A FLAG=I                                                                 
+249BK cA E$5736 (2005Ah03)                                                      
+249BK  G 755.3     3  1.2E-6 2                                                  
+249BK  G 817.4     3  5.0E-6 5                                                  
+249BK  L 932.19    5  (7/2-)                                                F   
+249BK  A 5715      1  5.7E-5 12   59   13                                   B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$6.7|*10{+-5} (2005Ah03)                                             
+249BK cA E$5716 (2005Ah03)                                                      
+249BK  G 164.4     3  3E-7   AP[M1]                    8.44   13            XC  
+249BKS G  KC=6.60 10$LC=1.381 21$MC=0.339 5                                     
+249BKS G  NC=0.0934 14$OC=0.0240 4$PC=0.00474 7$QC=0.000333 5                   
+249BK  G 838.5     3  1.2E-6 2                                                  
+249BK  G 890.5     2  2.2E-5 2                                              &   
+249BK  G 932.17    5  4.1E-5 2                                                  
+249BK  L 934.64    17 (5/2-)                                                H   
+249BK  A 5713      1  3.9E-6 AP  841   AP                                   B   
+249BK cA IA$|?6|*10{+-6} (2005Ah03)                                             
+249BKF A FLAG=I                                                                 
+249BK cA E$5713 (2005Ah03)                                                      
+249BK  G 261.7     3  8E-7   AP                                             XC  
+249BK  G 852.1     2  3.1E-6 2                                                  
+249BK  L 988.14    9  (9/2-)                                                F  ?
+249BK  A 5660      1  1.30E-57   125   7                                    B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$1.3|*10{+-5} (2005Ah03)                                             
+249BK cA E$5661 (2005Ah03)                                                      
+249BK  G 894.5     2  5.2E-6 5                                                  
+249BK  G 946.3     1  7.8E-6 5                                                  
+249BK  L 1055.82   7  (11/2-)                                               F  ?
+249BK  A 5594      8  7.6E-6 5    87   6                                    B   
+249BK cA IA$7.4|*10{+-6} (2005Ah03)                                             
+249BKF A FLAG=I                                                                 
+249BK cA E$5594 (2005Ah03)                                                      
+249BK  G 899.9     1  7.2E-6 5                                                  
+249BK  G 962.1     1  2.4E-7 4                                                  
+249BK  G 1014.4    5  2E-7   AP                                                 
+249BK  L 1075.05   8  9/2+                                                  D   
+249BK  A 5575      9  5.9E-6 4    87   6                                    B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$6.9|*10{+-6} (2005Ah03)                                             
+249BK cA E$5575 (2005Ah03)                                                      
+249BK  G 981.3     3  1.0E-7 AP                                                 
+249BK  G 1033.3    CA 1.0E-6 CA                                                S
+249BK cG E,RI$ E|g|?1033.3, I|g|?1.0|*10{+-6}; I|g deduced from excess counts of
+249BK2cG 1031.85 peak in {+250}Bk |b-decay.                                     
+249BK  G 1075.05   8  5.8E-6 4                                                  
+249BK  L 1133.91   8  (13/2-)                                               F  ?
+249BK  A 5517      1  3.00E-620   77   6                                    B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$3.0|*10{+-6} (2005Ah03)                                             
+249BK cA E$5517 (2005Ah03)                                                      
+249BK  G 1040.15   8  3.0E-6 2                                                  
+249BK cG E$ Possible alternate placement as decay-out transition from a 1040    
+249BK2cG level. Assignment to 1134 level based on agreement with calculated     
+249BK3cG energies using rotational constant deduced by 2005Ah03 for the         
+249BK4cG {7/2[633]~#0{+-}}7/2- band.                                            
+249BK  L 1143.78   14 11/2+                                                 D   
+249BK  A 5507      1  1.82E-621  111   13                                   B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$1.8|*10{+-6} (2005Ah03)                                             
+249BK cA E$5507 (2005Ah03)                                                      
+249BK  G 1050.0    2  4.2E-7 5                                                  
+249BK  G 1102.0    2  1.4E-6 2                                                  
+249BK  L 1150.64   12 (5/2-)                                                    
+249BK cL $ Possible configuration={7/2[633]~#1-}5/2-                            
+249BK  A 5500      1  5.4E-6 4    34   3                                    B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$5.4|*10{+-6} (2005Ah03)                                             
+249BK cA E$5500 (2005Ah03)                                                      
+249BK  G 721.6     2  1.5E-6 2                                               C  
+249BK  G 761.5     2  3.1E-6 3                                               C  
+249BK  G 1150.7    2  8.0E-7 8                                                  
+249BK  L 1223.01   10 (7/2+)                                                    
+249BK cL $ Configuration={7/2[633]~#0{+-}}7/2+                                  
+249BK  A 5429       1 8.8E-6 6   7.6   6                                    B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$7.8|*10{+-6} (2005Ah03)                                             
+249BK cA E$5429 (2005Ah03)                                                      
+249BK  G 455.1        1E-6   LT                                             XC  
+249BK  G 748.0        1E-6   LT                                             XC  
+249BK  G 794.0     2  1.5E-6 2                                              XC  
+249BK  G 833.8     2  4.7E-6 4                                               C  
+249BK  G 1181.3    2  1.0E-6 1                                                  
+249BK  G 1223.0    2  6.0E-7 6                                                  
+249BK  L 1227.54   10 (15/2-)                                               F  ?
+249BK  A 5425      1  9.0E-7 9    70   7                                    B   
+249BKF A FLAG=I                                                                 
+249BK cA IA$9.0|*10{+-7} (2005Ah03)                                             
+249BK cA E$5424 (2005Ah03)                                                      
+249BK  G 998.3     1  9.0E-7 9                                                  
+249BK cG E$Possible alternate placement as decay-out transition from a 1040     
+249BK2cG level. Assignment to 1228 level based on agreement with calculated     
+249BK3cG energies using rotational constant deduced by 2005Ah03 for the         
+249BK4cG {7/2[633]~#0{+-}}7/2- band.                                            

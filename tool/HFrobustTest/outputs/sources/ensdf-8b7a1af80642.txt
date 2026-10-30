@@ -1,0 +1,38 @@
+252FM    256NO A DECAY                 1990HO03                  21NDS    202103
+252FM  H TYP=FUL$AUT=A.M. MATTERA, S. ZHU, A.B. HAYES, E.A. MCCUTCHAN$          
+252FM2 H CIT=NDS 172, 543 (2021)$CUT=1-Jan-2021$                                
+252FM c  1990Ho03: {+256}No produced by {+248}Cm({+12}C,4n) at 70|<E{-lab}|<72  
+252FM2c  MeV.  E|a, I|a, |a(t) time spectrum of reaction products measured in   
+252FM3c  planar Si detectors following thermalization and implantation in a     
+252FM4c  rotating wheel via He-jet transport.                                   
+252FM c  2015As05: Brief summary of M. Asai, JAEA-Review 2016-025, p9.          
+252FM2c  {+256}No produced in {+248}Cm({+12}C,4n) with E=77 MeV.                
+252FM3c  Measured E|a, I|a using rotating-wheel |a detection system consisting  
+252FM4c  of 2 Si detectors.                                                     
+252FM cA E$From 1990Ho03. Other measurements: 1967Fl05, 1967Gh01, 1968Fl05,     
+252FM2cA 1977Be36                                                               
+252FM cA IA$Intensity per 100 |a decays, measured by 1990Ho03.                  
+252FM cA HF$r{-0}({+252}Fm)=1.4765 {I19} is calculated from HF(8448|a)=1.0.     
+252FM CL BAND(A)$K=0+ GS BAND.                                                  
+256NO  P 0.0                            2.91 S    5              8582     5     
+256NO cP T$2.91 s {I5}, measured by 1990Ho03, is adopted.                       
+256NO2cP Others: 3.3 s {I2} (1967Gh01), 3.7 s {I5}                              
+256NO3cP (1968Fl05), 6 s {I2} (1967Dr02), 8.2 s {I10} (1966Ku15), |?8 s         
+256NO4cP (1964Do10).                                                            
+252FM  N                        0.9947 6                                        
+252FM cN BR$%|a({+256}No)=99.47 {I6} is obtained from SF/|a=0.0053 {I+6-3},     
+252FM2cN measured by 1990Ho03. Possible |e branch from {+256}No (g.s.) to       
+252FM3cN {+256}Md (g.s.) can be estimated as I(|e)|< 0.001%                     
+252FM4cN by requiring log| {Ift} |> 5.8.                                        
+252FM  L 0.0          0+                                                    A   
+252FM  A 8448      6 87      2 1.0                                              
+252FM cA E$other: 8446 (M. Asai, JAEA-Review 2016-025, p9)                      
+252FM  L 42.1      13 2+                                                    A   
+252FM cL E$from E|a(to 0+)-E|a(to 2+)=41.5 {I13}, |a energy difference measured 
+252FM2cL by M. Asai, JAEA-Review 2016-025, p9, uncertainty also reported in     
+252FM3cL 2015As05. Other: 47 {I5} from E|a(to 0+)-E|a(to 2+)= 46 {I5}           
+252FM4cL (1990Ho03).  1990Ho03 report |a energy difference of 45.9 {I12},       
+252FM5cL but then state the 1 |s error is 5 keV due to interfering activities   
+252FM6cL near the low intensity alpha.                                          
+252FM  A 8402      8 13      2 4.8     8                                        
+252FM cA E$other: 8405 (M. Asai, JAEA-Review 2016-025, p9)                      

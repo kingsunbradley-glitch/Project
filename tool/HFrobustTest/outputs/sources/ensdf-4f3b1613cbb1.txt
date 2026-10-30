@@ -1,0 +1,87 @@
+226TH    230U A DECAY                                            96NDS    199604
+226TH  H TYP=FUL$AUT=Y. A. AKOVALI$CIT=NDS 77,433 (1996)$CUT=1-Feb-1996$        
+230U   P 0.0          0+               20.8 D    21             5992.7    7     
+226TH  N 1.0                   1.0                                              
+226TH PN                                                                     2  
+226TH c  |a|g: (230|g)(5663|a) 1963Le17.                                        
+226TH c  |g|g: see 1976Ku08.                                                    
+226TH c  |a|g(|q):(|a)(230|g)(|q), (|a)(72|g)(|q) 1971He19,1954St02.            
+226TH c  |a|g(t): (|a)(ce 72|g)(t) T{-1/2}(72 level)=0.395 ns {I20} 1960Be25.   
+226TH cA           The hindrance factor for the s-wave |a transition            
+226TH2cA (0+ to 0+) was calculated by 1986Da03. See also 1985Ch32 for           
+226TH3cA calculations of reduced |a widths.                                     
+226TH3cA                                                                        
+226TH CL BAND(A)   KPI=0+ GROUND-STATE BAND                                     
+226TH CL BAND(B)   KPI=0- OCTUPOLE-VIBRATIONAL BAND                             
+226TH cL J(D)      J|p=0+ and 2+ were proposed for 805 and 847 levels,          
+226TH2cL respectively, by 1976Ku08 from analogy to K=0 states in neighboring    
+226TH3cL nuclei.                                                                
+226TH cA E         The |a energies to the g.s. and to the 72.2 level are        
+226TH2cA given as recommended by 1991Ry01 from measured energies of 1966Ba14    
+226TH3cA and 1956As38. The E|a's to all other excited states are from 1966Ba14. 
+226TH4cA The original energies have been increased by 1.5 keV because of        
+226TH5cA changes in calibration energies, as recommended by 1991Ry01.           
+226TH6cA Other measurements: 1956As38, 1963Le17.                                
+226TH cA IA        |a intensities per 100 {+230}U |a decays. I|a's are          
+226TH2cA measurements by 1956As38 and 1966Ba14, except where noted.             
+226TH cA HF        Requirement of HF(5888.4|a)=1.0 yields r{-0}({+226}Th)=1.531 
+226TH2cA {I5}. The half life of {+230}U was measured to be 20.8 d, however, its 
+226TH3cA uncertainty was not given. The evaluator assumed arbitrarily a 10%     
+226TH4cA error, and |DT{-1/2}({+230}U) is taken as 2.1 d in calculating |Dr{-0}.
+226TH cG E         From 1976Ku08. Other measurements: 1956As38, 1956Sm88,       
+226THxcG 1970Lo02.                                                              
+226TH cG RI        From 1976Ku08. The original I|g's have been renormalized     
+226TH2cG by the evaluator to I|g(72.20|g)=0.60% {I4}, as measured by 1969Pe17   
+226TH3cG the authors of 1976Ku08 had normalized their photon                    
+226TH4cG intensities to I|g of its daughter: I|g(324|g of {+222}Ra decay)=2.77%.
+226TH cG M         Multipolarities in square brackets are from the level scheme.
+226TH cA E(S)      |a was not observed. E|a has been calculated from E|a(0)     
+226TH2cA and the level energy.                                                  
+226TH cA IA(S)     Deduced from level scheme.                                   
+226TH  L 0.0          0+               30.57 M   10                         A   
+226TH  A 5888.4    7  67.4   4  1.0                                             
+226TH  L 72.20     4  2+               0.395 NS  20                         A   
+226TH  A 5817.5    7  32.0   2  0.9                                             
+226TH  G 72.20     4  0.60   4  E2                      53.5                    
+226THS G LC=38.9 $ MC=10.67 $ NC+=3.94                                          
+226TH cG RI        absolute intensity was determined to be                      
+226TH2cG I|g=0.60% {I4} by 1969Pe17 (|a|g) and                                  
+226TH3cG I|g=0.59% {I9} by 1956As38 (renormalized by 1961Ru06).                 
+226TH cG M         |a(72|g)=53 {I3} was deduced by 1969Pe17 from |a|g data.     
+226TH2cG See also {+226}Ac |b{+-} decay                                         
+226TH  L 226.43    5  4+                                                    A   
+226TH  A 5667.0    7  0.38   4  12                                              
+226TH  G 154.23    3  0.125  7  (E2)                   1.83                     
+226THS G KC=0.239  $ LC=1.16  $ MC=0.316  $ NC+=0.117                           
+226TH cG M         intensity balance at the 226-keV level suggests E2 for 154|g.
+226TH  L 230.37    5  1-                                                    B   
+226TH  A 5662.4    7  0.26   3  17                                              
+226TH  G 158.18    3  0.070  5  E1                     0.167                    
+226THS G KC=0.131  $ LC=0.0273 $ MC=0.00656 $ NC+=0.00233                       
+226TH cG M         from {+226}Ac |b{+-} decay                                   
+226TH  G 230.37    5  0.122  6  E1                     0.0683                   
+226THS G KC=0.0543 $ LC=0.0106  $ MC=0.00255 $ NC+=0.00090                      
+226TH cG M         from {+226}Ac |b{+-} decay                                   
+226TH  L 307.5     2  3-                                                    B   
+226TH  A 5586.0    7  0.0115 10 150                                             
+226TH  G 81.0      5 0.00048 11 (E1)                   0.208                    
+226TH cG M         intensity balance at the 307.5-keV level suggests            
+226TH2cG E1 multipolarity for 81.0 and 235.3 |g's.                              
+226TH  G 235.3     1 0.0117  8  (E1)                   0.0651                   
+226TH  L 351       2                                                            
+226TH  A 5543      1 0.00054 5  1900                                            
+226TH  L 362       3                                                            
+226TH  A 5533      2 0.0001  AP 8900   AP                                       
+226TH  L 447.3     6  6+                                                    A   
+226TH  A 5448.7    100.00007 AP 4300   AP                                   S  S
+226TH  G 221.0     5 0.00005 1  [E2]                   0.470                    
+226TH  L 450.5     2  5-                                                    B   
+226TH  A 5445.8    9 0.00025 AP 1200   AP                                   S  S
+226TH  G 223.9     3 0.00024 6  [E1]                   0.0729                   
+226TH  L 805.2     4 (0+)                                                   D   
+226TH  A 5097.1    4 0.00030 AP 8      AP                                   S  S
+226TH  G 574.8     3 0.00030 4  [E1]                   0.00964                  
+226TH  L 847.8     4 (2+)                                                   D   
+226TH  A 5056      2 0.000069AP 19     AP                                   S  S
+226TH  G 539       1 0.00003515 [E1]                   0.0109                   
+226TH  G 617       1 0.00004020 [E1]                   0.0084                   

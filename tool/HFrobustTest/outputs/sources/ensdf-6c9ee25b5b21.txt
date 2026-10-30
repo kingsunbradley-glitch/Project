@@ -1,0 +1,278 @@
+220FR    ADOPTED LEVELS, GAMMAS                                  26NDS    202609
+220FR  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220FR2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220FR dG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+220FR  Q 1210      8 5206    8 4636    4 6800.7  19    2021WA16                 
+220FR cQ $S(2n)=11720 {I6}, S(2p)=11196 {I12}, Q(|e)=870 {I4} (2021Wa16)        
+220FR c  Calculations, compilations:                                            
+220FR c  1994So16: level structure, odd-odd actinides                           
+220FR c  1990Mo11: n-p interaction energy                                       
+220FR c  1988Sh01: g.s. J|p with octupole deformation                           
+220FR c  1986Po06: spontaneous emission of heavy ions                           
+220FR c                                                                         
+220FR cG $All |g-ray data are from {+224}Ac |a decay                            
+220FR cG M$Supported by conversion-electron data in 1992Li31 and 1973ChZH.      
+220FR cG M(B)$From transition-intensity balance in level scheme.                
+220FR cL $The level scheme and all information on excited levels come from      
+220FR2cL {+224}Ac |a decay.                                                     
+220FR cL E$From a least-squares fit to |g-ray energies, unless otherwise noted  
+220FR cL J$Levels without spin assignments are all deduced from |a decay with   
+220FR2cL |p=unnatural; therefore, all have J|p=0-,1+,2-,3+,4- etc.              
+220FR cL E(F)$From E|a                                                          
+220FR CL BAND(A)$K|p=1+ g.s. rotational band                                    
+220FR CL BAND(B)$K|p=1- band                                                    
+220FR CL BAND(C)$Possible K|p=2+ band                                           
+220FR CL BAND(E)$Possible K|p=0- band                                           
+220FR  XA224AC A DECAY (2.78 H)                                                 
+220FR PN                                                                     6  
+220FR  L 0.0           1+              27.4 S     3                         A   
+220FR2 L %A=99.65 5$ %B-=0.35 5                                                 
+220FRX L XREF=A                                                                 
+220FR2 L MOMM1=-0.66 1 (2014Ly01,2019StZV)                                      
+220FR2 L MOME2=+0.487 8 (1987Du13,2021StZZ)                                     
+220FR cL J$measured spin=1 using on-line atomic-beam magnetic resonance         
+220FR2cL technique (1978Ek02); |p=+ (unnatural) from |a decay from 0- parent in 
+220FR3cL {+224}Ac                                                               
+220FR cL T$from 1974Ho27. Other: 31.3 s {I50} (2025Gu12), 27.5 s {I15}          
+220FR2cL (1951Me10)                                                             
+220FR cL %B-$from I|a({+216}At)/I|a({+216}Rn) (1971Br13,1973ChZH). Uncertainty  
+220FR2cL assigned in 1997Ar04.                                                  
+220FR cL MOMM1$from Collinear Resonance Ionization Spectroscopy (2014Ly01).     
+220FR2cL Others: -0.67 {I1} from Atomic beam laser spectroscopy (1985Co24);     
+220FR3cL isotope shift measured in 1987Du13 using Collinear fast beam laser     
+220FR4cL spectroscopy but no |m is reported. See also 2019StZV evaluation       
+220FR cL MOME2$from 2021StZZ evaluation using isotope shift measured by 1987Du13
+220FR2cL using Collinear fast beam laser spectroscopy. Other: +0.47 {I3} from   
+220FR3cL re-evaluation by 2014StZZ of the original value of 0.482 {I2} measured 
+220FR4cL in 1985Co24 using Atomic beam laser spectroscopy based on the ratio of 
+220FR5cL hyperfine constants relative to {+212}Fr.                              
+220FR cL $Isotope shift: |D<r{+2}>=-0.134 fm{+2} {I5} relative to {+221}Fr      
+220FR2cL (2014Ly01). Other: |D<r{+2}>=+0.86725 fm {+2} {I45} relative to        
+220FR3cL {+212}Fr (1987Co19, corrected value of 1985Co24)                       
+220FR  L     6.92  6  (3)+                                                  C   
+220FRX L XREF=A                                                                 
+220FR cL J$from E1 |g ray from 2- 156.8 level; |a-particle branch from 0- rules 
+220FR2cL out 2+; member of K|p=2+ band. The inversion of the 2+ and 3+ members  
+220FR3cL of this band cannot be due solely to Coriolis coupling with the K|p=1+ 
+220FR4cL band (1992Li31).                                                       
+220FR  G     6.9                                                               S
+220FR  L    12.37  5   2+                                                   C   
+220FRX L XREF=A                                                                 
+220FR cL J$from E1 |g ray from 1- 140.7 level that allows 0+,1+,2+. Absence of  
+220FR2cL |a-particle branch from 0- {+224}Ac (HF>7000) rules out 1+. See 156.8  
+220FR3cL level spin assignment                                                  
+220FR  G    12.4                                                               S
+220FR  L    19.89  10  (4)+                                                 C   
+220FRX L XREF=A                                                                 
+220FR cL J$from E1 |g ray from (4)- 214.4 level; absence of |a-particle branch  
+220FR2cL from 0- rules out 3+ and 5+; member of K|p=2+ band                     
+220FR  G    13.0                                                               S
+220FR  L    48.38  4   2+                                                   A   
+220FRX L XREF=A                                                                 
+220FR cL J$from M1 |g ray to 1+ g.s.; E1 |g ray from 2- 156.8 level; absence of 
+220FR2cL |a-particle branch from 0- rules out 1+                                
+220FR  G    35.9   1    5    3                                              @   
+220FR  G    41.5   1    6    2                                                  
+220FR  G    48.40  5  100    8   M1                    23.45  34                
+220FRS G  LC=17.80 25$MC=4.24 6                                                 
+220FRS G  NC=1.113 16$OC=0.249 4$PC=0.0399 6$QC=0.002235 32                     
+220FR  L    55.83  13  (5+)                                                 C   
+220FRX L XREF=A                                                                 
+220FR cL J$from |g ray to (4)+ level; |g ray from (4)- 214.4 level; |a-particle 
+220FR2cL branch from 0- allows 3+,4-,5+; possible member of K|p=2+ band.        
+220FR  G    35.9   1   100                                                  @   
+220FR  L    72.99  6  (3)+                                                  A   
+220FRX L XREF=A                                                                 
+220FR cL J$from E1 |g ray from 156.8, 2- level; |a-particle branch from 0-      
+220FR2cL {+224}Ac rules out 2+; member of K|p=1+ g.s. band                      
+220FR  G    24.6       22    AP                                                 
+220FR  G    53.1   1   22    4                                                  
+220FR  G    60.67  5  100    4   M1                    12.08  17                
+220FRS G  LC=9.17 13$MC=2.187 31                                                
+220FRS G  NC=0.574 8$OC=0.1282 18$PC=0.02057 29$QC=0.001151 16                  
+220FR  G    66.0   1   50    9                                                  
+220FR  G    72.9   1   11    4  (E2)                   39.1    6            @   
+220FRS G  LC=28.8 4$MC=7.79 12                                                  
+220FRS G  NC=2.041 32$OC=0.422 7$PC=0.0541 8$QC=9.97E-5 15                      
+220FR  L   127.31  11 (4+)                                                  A   
+220FRX L XREF=A                                                                 
+220FR cL J$from (M1) |g ray to (3)+ level; absence of |a-particle branch from   
+220FR2cL 0-; member of K|p=1+ g.s. band                                         
+220FR  G    54.3   1            (M1)                   16.72  25                
+220FRS G  LC=12.70 19$MC=3.03 5                                                 
+220FRS G  NC=0.794 12$OC=0.1775 27$PC=0.0285 4$QC=0.001594 24                   
+220FR  L   140.72  6   1-                                                   B   
+220FRX L XREF=A                                                                 
+220FR cL J$from E1 |g ray to 1+ g.s.; absence of |a-particle branch from 0-     
+220FR2cL {+224}Ac rules out 0- and 2-                                           
+220FR  G    92.34  5   14.6  14                                                 
+220FR  G   128.4   3   23    6   E1                    0.258   4                
+220FRS G  KC=0.2027 31$LC=0.0420 6$MC=0.01007 15                                
+220FRS G  NC=0.00260 4$OC=0.000559 9$PC=8.13E-5 12$QC=3.16E-6 5                 
+220FR  G   140.7   1  100    8   E1                    0.2065 29                
+220FRS G  KC=0.1630 23$LC=0.0331 5$MC=0.00792 11                                
+220FRS G  NC=0.002050 29$OC=0.000441 6$PC=6.46E-5 9$QC=2.57E-6 4                
+220FR  L   156.82  4   2-                                                   B   
+220FRX L XREF=A                                                                 
+220FR cL J$from E1 |g ray to 1+ g.s., |a-particle branch from 0- {+224}Ac allow 
+220FR2cL 0-,2-. E1 |g ray to 12.4 rules out the combinations                    
+220FR3cL J|p(156.8):J|p(12.4)=0-:0+, 0-:2+ and 2-:0+.                           
+220FR  G    16.1                                                               S
+220FR  G    83.9   2   22.0  12  E1                    0.1707 26                
+220FRS G  LC=0.1295 20$MC=0.0312 5                                              
+220FRS G  NC=0.00804 12$OC=0.001703 26$PC=0.000239 4$QC=8.23E-6 12              
+220FR  G   108.43  5   13.0  12  E1                    0.387   5                
+220FRS G  KC=0.301 4$LC=0.0656 9$MC=0.01574 22                                  
+220FRS G  NC=0.00407 6$OC=0.000869 12$PC=0.0001247 18$QC=4.63E-6 7              
+220FR  G   144.44  5   27.8  25  E1                    0.1938 27                
+220FRS G  KC=0.1531 21$LC=0.0309 4$MC=0.00739 10                                
+220FRS G  NC=0.001915 27$OC=0.000413 6$PC=6.05E-5 8$QC=2.422E-6 34              
+220FR  G   149.90  5   15.4  25  E1                    0.1770 25                
+220FRS G  KC=0.1401 20$LC=0.0281 4$MC=0.00671 9                                 
+220FRS G  NC=0.001739 24$OC=0.000375 5$PC=5.51E-5 8$QC=2.228E-6 31              
+220FR  G   156.82  5  100    6   E1                    0.1586 22                
+220FRS G  KC=0.1257 18$LC=0.02497 35$MC=0.00597 8                               
+220FRS G  NC=0.001547 22$OC=0.000334 5$PC=4.93E-5 7$QC=2.012E-6 28              
+220FR  L   177.18  8  (3)-                                                  B   
+220FRX L XREF=A                                                                 
+220FR cL J$from E1 |g ray to 2+ 12.4 level; absence of |a-particle branch from  
+220FR2cL 0-; member of K|p=1- band.                                             
+220FR  G    20.4                                                               S
+220FR  G    49.8   2    8    2                                                  
+220FR  G   104.4   2   26    6                                                  
+220FR  G   128.9   3   72    20                                                 
+220FR  G   164.8   1  100    20  E1                    0.1406 20                
+220FRS G  KC=0.1117 16$LC=0.02197 31$MC=0.00525 7                               
+220FRS G  NC=0.001361 19$OC=0.000294 4$PC=4.35E-5 6$QC=1.799E-6 25              
+220FR  L   200.21  15 (5+)                                                  A   
+220FRX L XREF=A                                                                 
+220FR cL J$from |g ray to (4+) level; |g from (4-) level; |a-particle branch    
+220FR2cL from 0- level; member of K|p=1+ g.s. band.                             
+220FR  G    72.9   1  100                                                   @   
+220FR  L   214.43  9  (4)-                                                  B   
+220FRX L XREF=A                                                                 
+220FR cL J$from E1 |g rays to (4)+ 19.9 and (3)+ 6.9 levels; |a-particle branch 
+220FR2cL from 0- {+224}Ac; member of K|p=1- band.                               
+220FR  G    37.3   1    5.7  10                                                 
+220FR  G   141.4   1  100    19                                                 
+220FR  G   158.5   2   15    4                                                  
+220FR  G   194.5   3    6.6  19  E1                    0.0942 14                
+220FRS G  KC=0.0753 11$LC=0.01441 21$MC=0.00344 5                               
+220FRS G  NC=0.000892 13$OC=0.0001936 28$PC=2.89E-5 4$QC=1.240E-6 18            
+220FR  G   207.6   2   34    9   E1                    0.0806 11                
+220FRS G  KC=0.0645 9$LC=0.01223 17$MC=0.00291 4                                
+220FRS G  NC=0.000757 11$OC=0.0001645 23$PC=2.466E-5 35$QC=1.072E-6 15          
+220FR  L 246.8     10                                                       F   
+220FRX L XREF=A                                                                 
+220FR  L 257.0     15                                                       F   
+220FRX L XREF=A                                                                 
+220FR  L   273.64  11  1+                                                       
+220FRX L XREF=A                                                                 
+220FR cL J$from M1 |g rays to 1+ g.s. and 2+ 12.3 level; |a-particle branch from
+220FR2cL 0- {+224}Ac.                                                           
+220FR  G   225.3   2   17    5   M1                    1.438  20                
+220FRS G  KC=1.160 16$LC=0.2113 30$MC=0.0503 7                                  
+220FRS G  NC=0.01319 19$OC=0.00295 4$PC=0.000473 7$QC=2.64E-5 4                 
+220FR  G   261.3   2  100    8   M1                    0.953  13                
+220FRS G  KC=0.769 11$LC=0.1397 20$MC=0.0332 5                                  
+220FRS G  NC=0.00872 12$OC=0.001948 28$PC=0.000313 4$QC=1.744E-5 25             
+220FR  G   273.7   4    5.8  16  M1                    0.838  12                
+220FRS G  KC=0.676 10$LC=0.1228 18$MC=0.0292 4                                  
+220FRS G  NC=0.00766 11$OC=0.001713 25$PC=0.000275 4$QC=1.533E-5 22             
+220FR  L   276.02  20                                                           
+220FRX L XREF=A                                                                 
+220FR cL J$suggested as the 3- member of possible K|p=2- band (1992Li31)        
+220FR  G   263.1   5                                                           ?
+220FR  L   290.8   3  (5-)                                                  B   
+220FRX L XREF=A                                                                 
+220FR cL J$no |a-particle branch from 0- level; |g rays to 4+ levels; suggested 
+220FR2cL member of the K|p=1- band.                                             
+220FR  G   163.3   5    50   AP                                                 
+220FR  G   271.5   4   100   30                                                 
+220FR  L   299.91  15  (1)+                                                     
+220FRX L XREF=A                                                                 
+220FR cL J$from M1 |g ray to 2+ 48.4 level; (M1) |g ray to 1+ g.s.; |a-particle 
+220FR2cL branch from 0- {+224}Ac rules out 2+.                                  
+220FR  G   251.6   3  100    27  M1                    1.058  15                
+220FRS G  KC=0.853 12$LC=0.1552 22$MC=0.0369 5                                  
+220FRS G  NC=0.00969 14$OC=0.002165 31$PC=0.000347 5$QC=1.938E-5 28             
+220FR  G   287.6   5   27    12                                                 
+220FR  G   300.0   3   65    15 (M1)                   0.651   9                
+220FRS G  KC=0.525 7$LC=0.0952 14$MC=0.02266 32                                 
+220FRS G  NC=0.00594 8$OC=0.001328 19$PC=0.0002131 30$QC=1.189E-5 17            
+220FR  L 306.9     15                                                       F   
+220FRX L XREF=A                                                                 
+220FR  L   314.8   4                                                            
+220FRX L XREF=A                                                                 
+220FR cL J$suggested as the 4- member of possible K|p=2- band (1992Li31); |g    
+220FR2cL rays to (5+) levels                                                    
+220FR  G   114.7   5   100   60                                                 
+220FR  G   258.8   5   100   AP                                                 
+220FR  L   340.25  12 (0)-                                                  E   
+220FRX L XREF=A                                                                 
+220FR cL J$from M1 |g ray to 1- 140.7 level; |a-particle branch from 0-         
+220FR2cL {+224}Ac; member of K|p=0- band.                                       
+220FR  G    40.4   3    8    3  (E1)                   1.206  30            B   
+220FRS G  LC=0.912 22$MC=0.224 6                                                
+220FRS G  NC=0.0571 14$OC=0.01167 28$PC=0.001487 34$QC=3.99E-5 8                
+220FR  G    66.6   1  100    8   E1                    0.316   5            B   
+220FRS G  LC=0.2399 35$MC=0.0581 8                                              
+220FRS G  NC=0.01492 22$OC=0.00313 5$PC=0.000428 6$QC=1.371E-5 20               
+220FR  G   199.5   2   50    17  M1                    2.021  29                
+220FRS G  KC=1.629 23$LC=0.297 4$MC=0.0708 10                                   
+220FRS G  NC=0.01857 27$OC=0.00415 6$PC=0.000666 10$QC=3.72E-5 5                
+220FR  G   340.3   3    8    3                                                  
+220FR  L   347.9   4                                                            
+220FRX L XREF=A                                                                 
+220FR  G   328.0   3  100                                                   &   
+220FR  L   355.13  19 (0-,2-)                                                   
+220FRX L XREF=A                                                                 
+220FR cL J$from (E1) |g rays to (1)+ and 1+,3+ levels; |a-particle branch from  
+220FR2cL 0- {+224}Ac rules out 1-                                               
+220FR  G    55.3   2   14    4  (E1)                   0.521   9            B   
+220FRS G  LC=0.394 7$MC=0.0959 16                                               
+220FRS G  NC=0.0246 4$OC=0.00511 9$PC=0.000683 11$QC=2.053E-5 33                
+220FR  G    79.10  5  100    11                                                 
+220FR  G    81.5   3   75    7  (E1)                   0.1845 32            B   
+220FRS G  LC=0.1399 24$MC=0.0337 6                                              
+220FRS G  NC=0.00869 15$OC=0.001839 31$PC=0.000257 4$QC=8.78E-6 14              
+220FR  G   228                                                                 ?
+220FR  L   361.0   4                                                            
+220FRX L XREF=A                                                                 
+220FR  G    87.4   3                                                            
+220FR  L   364.16  23  3+,4-                                                    
+220FRX L XREF=A                                                                 
+220FR cL J$from |g rays to 4+, (3)- and (3)+ levels; |a-particle branch from 0- 
+220FR2cL {+224}Ac rules out 2+, 3-, 4+.                                         
+220FR  G    73.6   3   100   50                                                 
+220FR  G   186.8   3   100   33                                                 
+220FR  G   357.0   5    50   AP                                                 
+220FR  L   376.49  20  (2-)                                                 E   
+220FRX L XREF=A                                                                 
+220FR cL J$from |g ray to 2+ level; |a-particle branch from 0-; member of       
+220FR2cL possible K|p=0- band                                                   
+220FR  G   103.1   4   19    AP                                                 
+220FR  G   328.0   3   33    14                                             &   
+220FR  G   364.1   3  100    14                                                 
+220FR  L 380.1     10                                                       F   
+220FRX L XREF=A                                                                 
+220FR  L 414.6     20                                                       F   
+220FRX L XREF=A                                                                 
+220FR  L 442.2     15                                                       F   
+220FRX L XREF=A                                                                 
+220FR  L   452.4   11                                                           
+220FRX L XREF=A                                                                 
+220FR cL J$possibly 4- member of K|p=0- band, or (5+) (1992Li31)                
+220FR  G    97.3                                                               ?
+220FR  L 479.6     20                                                       F   
+220FRX L XREF=A                                                                 
+220FR  L   501.1   4                                                            
+220FRX L XREF=A                                                                 
+220FR  G    48.6                                                               ?
+220FR  G   201.1   4   100   50                                                 
+220FR  G   227.7   5   100   33                                                 
+220FR  L   511.1   10                                                           
+220FRX L XREF=A                                                                 
+220FR  G   491.2                                                                
+220FR  L 579.9     20                                                       F   
+220FRX L XREF=A                                                                 

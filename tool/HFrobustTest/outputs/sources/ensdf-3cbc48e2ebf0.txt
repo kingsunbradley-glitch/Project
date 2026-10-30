@@ -1,0 +1,306 @@
+220TH    ADOPTED LEVELS, GAMMAS                                  26NDS    202609
+220TH  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220TH2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220TH dL E$Least-squares fitting is done by GLSC (version 19-Aug-2025)          
+220TH  Q  -5589    20 7840   60 4170   50 8973   11    2021Wa16                 
+220TH cQ $S(2n)=13820 {i17}, S(2p)=6534 {i17} (2021Wa16)                        
+220TH c  Recent calculations:                                                   
+220TH c  Interacting Boson Model: 2025No03, 2025Ef04, 2025Ef01                  
+220TH c  Beyond mean field: 2024De02                                            
+220TH c  |a-decay half-lives: 2025Ya02, 2025Tc01, 2025Sz01, 2025Ch15, 2024Ch30  
+220TH c  Other reactions: {+176}Yb({+48}Ca,4n|g), E=206, 210.5 MeV: 2001He05    
+220TH cG M$From |a(K)exp in {+208}Pb({+16}O,4n|g), and |g(|q) in                
+220TH2cG {+198}Pt({+26}Mg,4n|g), unless noted otherwise.                        
+220TH cG E,RI$From {+198}Pt({+26}Mg,4n|g) dataset (2006Re15), unless otherwise  
+220TH2cG noted                                                                  
+220TH cG E(E)$From {+208}Pb({+16}O,4n|g)                                        
+220TH cG M(X)$Q from |g(|q) in {+198}Pt({+26}Mg,4n|g) (2006Re15), evaluators    
+220TH2cG assign (E2) based on |DJ|p.                                            
+220TH cG M(Y)$D from |g(|q) in {+198}Pt({+26}Mg,4n|g) (2006Re15), evaluators    
+220TH2cG assign (E1) based on |DJ|p.                                            
+220TH cL E$Deduced from a least-squares fit to |g-ray energies.                 
+220TH cL J$From rotational band structure, spin increases as excitation energy  
+220TH2cL increases, in addition to arguments given to individual levels.        
+220TH CL BAND(G)$ The g.s. rotational band, s=+1.                               
+220TH CL BAND(A)$ Yrast rotational band based on 5-, s=-1.                      
+220TH cL SEQ(B)$ Yrare sequence based on 13(-).                                 
+220TH cL SEQ(C)$ Sequence based on (12)                                         
+220TH cL SEQ(D)$ Sequence based on (10)                                         
+220TH cL SEQ(E)$ |g-ray sequence.                                               
+220TH  XA224U A DECAY                                                           
+220TH  XB198PT(26MG,4NG)                                                        
+220TH  XC208PB(16O,4NG)                                                         
+220TH dG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+220TH PN                                                                     6  
+220TH  L 0.0           0+              10.2 US     4                        G   
+220TH2 L %A=100                                                                 
+220THX L XREF=ABC                                                               
+220TH cL T$Weighted average of 9.7 |ms {i6} (|a(t), 1973Ha32) and 10.4 |ms {i4} 
+220TH2cL (|a|a(t) 2019Pa45). Other: 10.5 |ms {I38} (2006Pe17).                  
+220TH cL $Calculated %|e+%|b{++}=2|*10{+-7}, from gross |b-decay strength       
+220TH2cL function (1973Ta30). 1973HaWU report %|a>90 but basis not given. From  
+220TH3cL log| {Ift}>3.6 one gets a limit of <1|*10{+-5}% for I(|e+|b{++}) to any
+220TH4cL single level in {+220}Ac                                               
+220TH  L 386.50    10 2+                                                    G   
+220THX L XREF=ABC                                                               
+220TH cL E$First excited state listed as 373 in 1988ScZF, 1985Bo32, 2006Re15.   
+220TH2cL The energies of the 2+ to 0+ and 4+ to 2+ transitions were previously  
+220TH3cL assigned as 373.3 keV {I1} and 386.5 keV {I1} (2006Re15), respectively.
+220TH4cL Based on the observation of (8095|a)(386.5|g)-coin and on the energy of
+220TH5cL 8095|a group relative to that of 8479|a, 2014Lo10 suggest that previous
+220TH6cL assignment is incorrect, and that the ordering of the 373.3- and       
+220TH7cL 386.5-keV transitions should be reversed, thus defining 386.5 keV as   
+220TH8cL the first excited state.                                               
+220TH cL J$386.5|g E2 to 0+                                                     
+220TH  G 386.5     1  100      E2                      0.0817 11                
+220THS G  KC=0.0442 6$LC=0.0276 4$MC=0.00731 10                                 
+220THS G  NC=0.001956 27$OC=0.000444 6$PC=7.79E-5 11$QC=2.57E-6 4               
+220TH  L 759.80    14 4+                                                    G   
+220THX L XREF=BC                                                                
+220TH cL J$373|g E2 to 2+                                                       
+220TH  G 373.3     1  100      E2                      0.0897 13                
+220THS G  KC=0.0473 7$LC=0.0313 4$MC=0.00829 12                                 
+220THS G  NC=0.002218 31$OC=0.000504 7$PC=8.80E-5 12$QC=2.78E-6 4               
+220TH  L 993.77    16 5-                                                    A   
+220THX L XREF=BC                                                                
+220TH cL J$234|g E1, |DJ=1 to 4+; band head                                     
+220TH  G 233.9     1  100      E1                      0.0655  9                
+220THS G  KC=0.0521 7$LC=0.01014 14$MC=0.002436 34                              
+220THS G  NC=0.000644 9$OC=0.0001491 21$PC=2.76E-5 4$QC=2.006E-6 28             
+220TH  L 1166.03   16 6+                                                    G   
+220THX L XREF=BC                                                                
+220TH cL J$406|g E2 to 4+, 172|g E1 to 5-                                       
+220TH  G 172.2     1  100    1 E1                      0.1345 19                
+220THS G  KC=0.1058 15$LC=0.02172 31$MC=0.00524 7                               
+220THS G  NC=0.001383 19$OC=0.000318 4$PC=5.80E-5 8$QC=3.92E-6 6                
+220TH  G 406.3     1  68     2 E2                      0.0715 10                
+220THS G  KC=0.0401 6$LC=0.02322 33$MC=0.00612 9                                
+220THS G  NC=0.001637 23$OC=0.000373 5$PC=6.55E-5 9$QC=2.306E-6 32              
+220THS G  KC=0.0401 6$LC=0.02322 33$MC=0.00612 9                                
+220TH  L 1328.99   18 7-                                                    A   
+220THX L XREF=BC                                                                
+220TH cL J$335|g E2 to 5-, 163|g E1 to 6+                                       
+220TH  G 162.9     1  100    2 E1                      0.1536 22                
+220THS G  KC=0.1205 17$LC=0.02501 35$MC=0.00604 9                               
+220THS G  NC=0.001593 22$OC=0.000366 5$PC=6.65E-5 9$QC=4.43E-6 6                
+220TH  G 335.2     2  32     2 E2                      0.1214 17                
+220THS G  KC=0.0585 8$LC=0.0463 7$MC=0.01235 18                                 
+220THS G  NC=0.00331 5$OC=0.000749 11$PC=0.0001299 18$QC=3.53E-6 5              
+220TH  L 1598.16   20 8+                                                    G   
+220THX L XREF=BC                                                                
+220TH cL J$432|g E2 to 6+, 269|g E1 to 7-                                       
+220TH  G 269.1     1  100    2 E1                      0.0475  7                
+220THS G  KC=0.0379 5$LC=0.00723 10$MC=0.001735 24                              
+220THS G  NC=0.000459 6$OC=0.0001065 15$PC=1.979E-5 28$QC=1.486E-6 21           
+220TH  G 432.4     2  17.5   6 E2                      0.0609  9                
+220THS G  KC=0.0356 5$LC=0.01877 26$MC=0.00492 7                                
+220THS G  NC=0.001317 19$OC=0.000300 4$PC=5.31E-5 7$QC=2.017E-6 28              
+220TH  L 1718.89   22 9-                                                    A   
+220THX L XREF=BC                                                                
+220TH cL J$389.9|g E2 to 7-, 120.7|g D to 8+.                                   
+220TH  G 120.7     2  61     2 (E1)                    0.314   5            Y   
+220THS G  KC=0.2421 35$LC=0.0542 8$MC=0.01313 19                                
+220THS G  NC=0.00346 5$OC=0.000789 12$PC=0.0001409 21$QC=8.62E-6 12             
+220THS G  KC=0.2421 35$LC=0.0542 8$MC=0.01313 19                                
+220TH  G 389.9     2  100    2 E2                      0.0798 11                
+220THS G  KC=0.0435 6$LC=0.0268 4$MC=0.007081 99                                
+220THS G  NC=0.001895 27$OC=0.000431 6$PC=7.55E-5 11$QC=2.523E-6 35             
+220TH  L 1934.0    7  (8+)                                                  E   
+220THX L XREF=B                                                                 
+220TH cL J$768|g Q to 6+ is likely E2                                           
+220TH  G 605       1  53     AP                                                ?
+220TH  G 768       1  100    5 (E2)                    0.0167624            X   
+220THS G  KC=0.01222 17$LC=0.00340 5$MC=0.000853 12                             
+220THS G  NC=0.0002277 33$OC=5.28E-5 8$PC=9.74E-6 14$QC=6.29E-7 9               
+220THS G  KC=0.01222 17$LC=0.00340 5$MC=0.000853 12                             
+220TH  L 2012.73   23 10+                                                   G   
+220THX L XREF=BC                                                                
+220TH cL J$293.8|g E1 to 9-, 415|g Q to 8+                                      
+220TH  G 293.8     1  100    2 E1                      0.0390  5                
+220THS G  KC=0.0312 4$LC=0.00587 8$MC=0.001408 20                               
+220THS G  NC=0.000373 5$OC=8.66E-5 12$PC=1.615E-5 23$QC=1.235E-6 17             
+220TH  G 414.6     2  4.1    3  E2                     0.0679 10                
+220TH cG M$Q from |g(|q) in {+198}Pt({+26}Mg,4n|g), (E2) from |a(K)exp in       
+220TH2cG {+208}Pb({+16}O,4n|g).                                                 
+220THS G  KC=0.0386 5$LC=0.02165 31$MC=0.00570 8                                
+220THS G  NC=0.001524 21$OC=0.000347 5$PC=6.11E-5 9$QC=2.208E-6 31              
+220THS G  NC=0.001524 21$OC=0.000347 5$PC=6.11E-5 9$QC=2.208E-6 31              
+220TH  L 2101.59   33 (10)                                                  D   
+220THX L XREF=B                                                                 
+220TH cL J$383|g D, |DJ=1 to 9-; possible band head                             
+220TH  G 382.7     3  100      D                                                
+220TH  L 2158.87   24 11-                                                   A   
+220THX L XREF=BC                                                                
+220TH cL J$440|g E2 to 9-, 146|g E1 to 10+.                                     
+220TH  G 57.3      4  11     AP                                                 
+220TH  G 146.1     1  52     3 E1                      0.1992 28                
+220THS G  KC=0.1555 22$LC=0.0330 5$MC=0.00799 11                                
+220THS G  NC=0.002106 30$OC=0.000483 7$PC=8.72E-5 12$QC=5.64E-6 8               
+220TH  G 440.1     2  100    4 E2                      0.0583  8                
+220THS G  KC=0.0344 5$LC=0.01769 25$MC=0.00463 7                                
+220THS G  NC=0.001240 17$OC=0.000283 4$PC=5.00E-5 7$QC=1.942E-6 27              
+220TH  L 2345.3    8  (10)                                                  E   
+220THX L XREF=B                                                                 
+220TH cL J$411|g to (8+); possible band assignment.                             
+220TH  G 411.3     4  100                                                       
+220TH  L 2434.5    4  (12)                                                  C   
+220THX L XREF=BC                                                                
+220TH cL J$275.6|g D, |DJ=1 to 11-; possible band head                          
+220TH  G 275.6     3  100    5  D                                               
+220TH  L 2441.93   27 12+                                                   G   
+220THX L XREF=BC                                                                
+220TH cL J$283|g E1, |DJ=1 to 11-; 429.3|g to 10+; member of |DJ=2 rotational   
+220TH2cL band                                                                   
+220TH  G 282.8     2  100    4 E1                      0.0424  6                
+220THS G  KC=0.0339 5$LC=0.00643 9$MC=0.001541 22                               
+220THS G  NC=0.000408 6$OC=9.47E-5 13$PC=1.763E-5 25$QC=1.338E-6 19             
+220TH  G 429.3     3  16     2 [E2]                                             
+220TH  L 2461.5    5  (11)                                                  D   
+220THX L XREF=B                                                                 
+220TH cL J$360|g D, |DJ=1 to (10); possible band assignment                     
+220TH  G 359.9     3  100       D                                               
+220TH  L 2555.23   29  13-                                                  A   
+220THX L XREF=BC                                                                
+220TH cL J$113|g D to 12+, 396|g Q to 11-; member of a |DJ=2 rotational band    
+220TH  G 113.3     2  96     5  D                                               
+220TH  G 121       1  33     LE                                                 
+220TH  G 396.4     3  100    5  Q                                               
+220TH  L 2685.77   31  13(-)                                                B   
+220THX L XREF=B                                                                 
+220TH cL J$527|g Q to 11-, 244|g D to 12+; possible band head.                  
+220TH  G 243.6     3  100    9 (E1)                    0.0596  9            Y   
+220THS G  KC=0.0475 7$LC=0.00918 13$MC=0.002206 32                              
+220THS G  NC=0.000583 8$OC=0.0001352 19$PC=2.50E-5 4$QC=1.838E-6 26             
+220THS G  KC=0.0475 7$LC=0.00918 13$MC=0.002206 32                              
+220TH  G 527.3     3  93     7 (E2)                    0.0377  5            X   
+220THS G  KC=0.02437 34$LC=0.00988 14$MC=0.00255 4                              
+220THS G  NC=0.000683 10$OC=0.0001566 22$PC=2.81E-5 4$QC=1.330E-6 19            
+220THS G  KC=0.02437 34$LC=0.00988 14$MC=0.00255 4                              
+220TH  L 2709.7    6  (12)                                                  D  ?
+220THX L XREF=B                                                                 
+220TH cL J$248.2|g D to (11); possible band assignment                          
+220TH  G 248.2     4            D                                              ?
+220TH  L 2884.97   31 14+                                                   G   
+220THX L XREF=BC                                                                
+220TH cL J$199|g D to 13(-), 443|g Q to 12+; member of a |DJ=2 rotational band  
+220TH  G 199.2     4  27     2 (E1)                    0.0953 14            Y   
+220THS G  KC=0.0754 11$LC=0.01506 22$MC=0.00363 5                               
+220THS G  NC=0.000958 14$OC=0.0002212 33$PC=4.06E-5 6$QC=2.84E-6 4              
+220THS G  KC=0.0754 11$LC=0.01506 22$MC=0.00363 5                               
+220TH  G 329.7     2  100    6 (E1)                    0.0302  4            Y   
+220THS G  KC=0.02425 34$LC=0.00450 6$MC=0.001076 15                             
+220THS G  NC=0.000285 4$OC=6.63E-5 9$PC=1.242E-5 17$QC=9.72E-7 14               
+220THS G  KC=0.02425 34$LC=0.00450 6$MC=0.001076 15                             
+220TH  G 442.8     3  33     4 (E2)                    0.0574  8            X   
+220THS G  KC=0.0340 5$LC=0.01733 25$MC=0.00454 6                                
+220THS G  NC=0.001214 17$OC=0.000277 4$PC=4.90E-5 7$QC=1.917E-6 27              
+220THS G  KC=0.0340 5$LC=0.01733 25$MC=0.00454 6                                
+220TH  L 2900.5    11                                                          ?
+220THX L XREF=C                                                                 
+220TH  G 466                                                                E  ?
+220TH  L 2957.7    12                                                       D  ?
+220THX L XREF=B                                                                 
+220TH  G 248       1                                                           ?
+220TH  L 3004.85   33  15-                                                  A   
+220THX L XREF=BC                                                                
+220TH cL J$450|g Q to 13-; member of a |DJ=2 rotational band.                   
+220TH  G 119.6     3  13     2                                                  
+220TH  G 449.7     2  100    4 (E2)                    0.0552  8            X   
+220THS G  KC=0.0330 5$LC=0.01646 23$MC=0.00431 6                                
+220THS G  NC=0.001152 16$OC=0.000263 4$PC=4.66E-5 7$QC=1.855E-6 26              
+220THS G  KC=0.0330 5$LC=0.01646 23$MC=0.00431 6                                
+220TH  L 3027.2    6  (14)                                                  C   
+220THX L XREF=B                                                                 
+220TH cL J$593|g (E2) to (12); possible band assignment                         
+220TH  G 592.7     4  100      (E2)                    0.0289  4            X   
+220THS G  KC=0.01960 28$LC=0.00695 10$MC=0.001780 25                            
+220THS G  NC=0.000476 7$OC=0.0001095 15$PC=1.982E-5 28$QC=1.048E-6 15           
+220THS G  KC=0.01960 28$LC=0.00695 10$MC=0.001780 25                            
+220TH  L 3203.0    4  (15-)                                                 B   
+220THX L XREF=B                                                                 
+220TH cL J$518|g (E2) to 13(-); possible band assignment                        
+220TH  G 317.8     3  100    10                                                 
+220TH  G 517.5     4  52     6 (E2)                    0.0394  6            X   
+220THS G  KC=0.0252 4$LC=0.01048 15$MC=0.00271 4                                
+220THS G  NC=0.000725 10$OC=0.0001662 24$PC=2.98E-5 4$QC=1.382E-6 19            
+220THS G  KC=0.0252 4$LC=0.01048 15$MC=0.00271 4                                
+220TH  L 3317.2    6  (15)                                                      
+220THX L XREF=B                                                                 
+220TH cL J$290|g D to (14), 242|g from 3559 level with J=(16)                   
+220TH  G 289.9     3  100       D                                               
+220TH  L 3376.5    4  16+                                                   G   
+220THX L XREF=B                                                                 
+220TH cL J$492|g Q to 14+, 372|g D to 15-; member of a |DJ=2 rotational band.   
+220TH  G 173.5     4                                                           ?
+220TH  G 371.6     4  100    5 (E1)                    0.0233133            Y   
+220THS G  KC=0.01878 27$LC=0.00343 5$MC=0.000819 12                             
+220THS G  NC=0.0002170 31$OC=5.06E-5 7$PC=9.51E-6 14$QC=7.62E-7 11              
+220THS G  KC=0.01878 27$LC=0.00343 5$MC=0.000819 12                             
+220TH  G 491.7     4  20     2 (E2)                    0.0444  6            X  ?
+220THS G  KC=0.0278 4$LC=0.01231 18$MC=0.00320 5                                
+220THS G  NC=0.000855 12$OC=0.0001958 28$PC=3.49E-5 5$QC=1.537E-6 22            
+220THS G  KC=0.0278 4$LC=0.01231 18$MC=0.00320 5                                
+220TH  L 3467.4    4   17-                                                  A   
+220THX L XREF=BC                                                                
+220TH cL J$462|g Q to 15-; member of a |DJ=2 rotational band.                   
+220TH  G 91.0      3                                                           ?
+220TH  G 462.4     3  100      (E2)                    0.0515  7                
+220THS G  KC=0.0313 4$LC=0.01502 21$MC=0.00392 6                                
+220THS G  NC=0.001048 15$OC=0.0002395 34$PC=4.25E-5 6$QC=1.749E-6 25            
+220THS G  KC=0.0313 4$LC=0.01502 21$MC=0.00392 6                                
+220TH cG M$Q from |g(|q) in {+198}Pt({+26}Mg,4n|g); (E2) from ce data in        
+220TH2cG {+208}Pb({+16}O,4n|g)                                                  
+220TH  L 3480.6    5                                                            
+220THX L XREF=B                                                                 
+220TH  G 277.6     3  100                                                       
+220TH  L 3559.1    7  (16)                                                  C   
+220THX L XREF=B                                                                 
+220TH cL J$533|g to (14); possible band assignment                              
+220TH  G 241.7     3  50     20                                                 
+220TH  G 532.5     5  100    10                                                 
+220TH  L 3681.6    5  (17)                                                  B   
+220THX L XREF=B                                                                 
+220TH cL J$305|g D to 16+                                                       
+220TH  G 305.1     3  100       D                                               
+220TH  L 3867.4    5  (18+)                                                 G   
+220THX L XREF=B                                                                 
+220TH cL J$400|g D to 17-; probably member of g.s. band, but the in-band        
+220TH2cL transition is not observed                                             
+220TH  G 399.9     4  100       D                                               
+220TH  L 3953.8    5   19-                                                  A   
+220THX L XREF=BC                                                                
+220TH cL J$487|g Q to 17-; member of a |DJ=2 rotational band.                   
+220TH  G 486.5     3  100      (E2)                    0.0456  6            X   
+220THS G  KC=0.0284 4$LC=0.01274 18$MC=0.00331 5                                
+220THS G  NC=0.000886 13$OC=0.0002026 29$PC=3.61E-5 5$QC=1.572E-6 22            
+220THS G  KC=0.0284 4$LC=0.01274 18$MC=0.00331 5                                
+220TH  L 4225.7    6  (20)                                                      
+220TH cL J$272|g D to 19-                                                       
+220THX L XREF=B                                                                 
+220TH  G 271.9     3  100       D                                               
+220TH  L 4319.7    5  (20+)                                                 G   
+220THX L XREF=B                                                                 
+220TH cL J$366|g D to 19-; probably member of g.s. band                         
+220TH  G 365.9     3  100    14 D                                               
+220TH  G 452.0     5  71     7                                                 ?
+220TH  L 4433.1    6  (21-)                                                 A   
+220THX L XREF=B                                                                 
+220TH cL J$479|g Q to 19-; member of a |DJ=2 rotational band                    
+220TH  G 479.3     3  100      (E2)                    0.0472  7            X   
+220THS G  KC=0.0292 4$LC=0.01336 19$MC=0.00348 5                                
+220THS G  NC=0.000930 13$OC=0.0002127 30$PC=3.79E-5 5$QC=1.622E-6 23            
+220THS G  KC=0.0292 4$LC=0.01336 19$MC=0.00348 5                                
+220TH  L 4519.6    6  (21-)                                                 B   
+220THX L XREF=B                                                                 
+220TH cL J$566|g Q to 19-; possible band assignment.                            
+220TH  G 199.6     4  38     15                                                ?
+220TH  G 566.2     4  100    15(E2)                    0.0320  5            X   
+220THS G  KC=0.02133 30$LC=0.00796 11$MC=0.002045 29                            
+220THS G  NC=0.000547 8$OC=0.0001256 18$PC=2.267E-5 32$QC=1.150E-6 16           
+220THS G  KC=0.02133 30$LC=0.00796 11$MC=0.002045 29                            
+220TH  L 4716.1    12                                                       G  ?
+220THX L XREF=B                                                                 
+220TH  G 283       1                                                           ?
+220TH  L 4892.0    8                                                        A  ?
+220THX L XREF=B                                                                 
+220TH  G 458.9     5  100                                                      ?

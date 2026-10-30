@@ -1,0 +1,501 @@
+221FR    225AC A DECAY                 2000AR23,2003KU44         07NDS    200705
+221FR  H TYP=FUL$AUT=Ashok Jain, Sukhjeet Singh, Suresh Kumar, Jagdish Tuli$    
+221FR2 H CIT=NDS 108, 883 (2007)$CUT=15-Jan-2007$                               
+221FR c  2003Ku44: Measured |a, |g, |a-|g coin, semi                            
+221FR c  2000Ar23: Measured |g. Deduced |a feeding                              
+221FR c  1972Dz14: Measured |g, x Rays, semi                                    
+221FR c  1967Dz02, 1967Ba51: Measured |a, s                                     
+221FR c  Others: 1972Dz14, 1967Dz02, 1967Ba51                                   
+221FR c  |a|g(|q): 1969LeZW, 1975PeZO, 1977LiYX.                                
+221FR cL $1988Sh12 intrepret levels as quadrupole-octupole deformed 1/2|+,      
+221FR2cL 3/2|+, 5/2|+ and 3/2|+ parity doublets. Alternately, 1992Kv03 interpret
+221FR3cL the levels in terms of octupole phonon admixtures.                     
+221FR cL J$From 2003Ku44. J|p for some of the negative parity excited states    
+221FR2cL were deduced by 1977LiYX from their |a|g(|q) correlations (data were   
+221FR3cL not given), and Coriolis-coupled band calculations.                    
+221FR cL T$From 1978AgZX using the Doppler-shift method, except where given     
+221FR2cL otherwise.                                                             
+221FR cA E$From 1967Ba51 and 1967Dz02, except where otherwise noted.            
+221FR2cA Original energies of 1967Ba51 are increased by 1 keV and energies of   
+221FR3cA 1967Dz02 decreased by 0.3 keV, as recommended by 1979Ry03, due to      
+221FR4cA changes in calibration energies. Other measurements: 1956Hu96,         
+221FR5cA 1962Wa28, 1964Va20.                                                    
+221FR cA IA$From 1967Dz02 and 1967Ba51, except where noted otherwise.           
+221FR2cA Other measurements: 1964Va20, 2003Ku44, 2000Ar23.                      
+221FR cA HF        r{-0}({+221}Fr)=1.5501 is used in calculations.              
+221FR cA E(B)      This |a was not observed by 1967Ba51.                        
+221FR cA E(D)      This |a was not observed by 1967Dz02.                        
+221FR cG           |a|g: 2003Ku44, 1964Va20; 1967Le23 and 1969LeZW also discuss 
+221FR2cG |a|g coinc. results, but the specific data and spectra are not         
+221FR3cG given.                                                                 
+221FR cG E,RI$From 2003Ku44, except where otherwise noted.Other                 
+221FR2cG measurements:2000Ar23, 1955St04, 1956Hu96, 1964Va20, 1967Le23,         
+221FRxcG 1967LoZZ, 1972Dz14.                                                    
+221FR cG RI        Relative photon intensities measured by 2003Ku44, unless     
+221FR2cG otherwise noted. Other measurements: 1972Dz14, 1967Le23, 1981Di14,     
+221FR3cG 2000Ar23. See 1966Wa23 for a comparison of earlier measurements.       
+221FR cG M,MR$Multipolarities and |d from ce data of 1969Dz04, 1970Dz12, and    
+221FR2cG 1971DzZP as summarized by 1972Dz14, and from {+221}Rn |b{+-} decay,    
+221FR3cG unless stated otherwise. See also 1966Wa23 and 1969Le09.               
+221FR cG M(M)$Multipolarities from 2003Ku44.                                    
+221FR cG $Multipolarities in brackets are from the level scheme. These are      
+221FR2cG not measured.                                                          
+221FR cG M(I)$Assumed by the evaluator by considering intensity balances,       
+221FR2cG if there are no more appreciable gammas deexciting or feeding          
+221FR3cG the levels involved.                                                   
+221FR cG E(O)$placements are not in conflict with the |a|g coin (2003Ku44)      
+221FR4cG The Ice's given by 1972Dz14 were normalized such that the conversion   
+221FR5cG coefficient for the 218.0|g in {+217}At agrees with E2 theory          
+221FR6cG (1972Dz14): |a(K)=0.14, |a(L1)=0.022, |a(L2)=0.096, |a(L3)=0.050 were  
+221FRxcG used for 218|g (1969Dz06).                                             
+221FR cG E(P)      From 2003Ku44; Possibility that they belong to 213Bi decay   
+221FR2cG should not be excluded.                                                
+221FR cG E(Q)$Reported by 1990ArZZ but not by 2000ArZZ and 2003Ku44             
+221FR cG E(S)      From {+221}Rn |b{+-} decay; transition was seen in {+225}Ac  
+221FRxcG |a decay.                                                              
+221FR cG RI(S)     From relative photon branching measured in {+221}Rn |b{+-}   
+221FRxcG decay.                                                                 
+221FR cG           The following |g rays were reported by 2000Ar23 but          
+221FR2cG not by 2003Ku44:                                                       
+221FR tG $     E|g          I|g           E|g          I|g                      
+221FR2tG  --------  ---------      -----------   ---------                      
+221FR3tG  53.01 {I5}    < 0.004      442.16 {I8}       0.0045 {I7}              
+221FR4tG  62.6 {I3}     <0.03         443.43 {I10}      0.0014 {I5}             
+221FR5tG  63.5 {I3}     0.021 {I3}       446.31 {I10}      0.0006 {I3}          
+221FR6tG  69.87 {I5}    0.0047 {I12}     527.29 {I5}       0.0019 {I3}          
+221FR7tG  119.09 {I6}   0.018 {I3}       532.11 {I9}       0.00073 {I19}        
+221FR8tG  121.06 {I7}   0.017 {I5}       656.18 {I11}      0.00049 {I23}        
+221FR9tG  161.35 {I7}   0.0036 {I9}      657.88 {I5}       0.0014 {I3}          
+221FR2tG  220.43 {I8}   0.0060 {I18}     702.00 {I14}      0.00016 {I7}         
+221FR3tG  238.64 {I8}   0.0010 {I3}      752.46 {I12}      0.00026 {I7}         
+221FR4tG  388.07 {I7}   0.00121 {I23}    808.48 {I10}      0.0021 {I3}          
+221FR5tG  429.80 {I18}  0.00038 {I19}                                           
+225AC  P  0.0         (3/2-)              10.0 D  1              5935.1   14    
+221FR  N 1.00        1.0        1.0                                             
+221FR cN NR$The Normalization factor is revised in view of the comments         
+221FR2cN of 2000Ar23. The earlier value obtained by 1990Ak05 was 1.09.          
+221FR  G 173.4        0.010  1                                              P  ?
+221FR  G 183          0.0073 11                                             P  ?
+221FR  G 193.2        0.0017 3                                              P  ?
+221FR  G 231.3     2  0.0066 6                                              P  ?
+221FR  G 348.2     4  0.0025 3                                              P  ?
+221FR  G 538.1     1 0.001   AP                                             Q  ?
+221FR  G 646.3     3  0.00010 4                                                 
+221FR  G 653.5     4  0.00015 4                                                 
+221FR  G 668.1     4  0.00024 7                                                 
+221FR  G 674.3     4  0.00007 4                                                 
+221FR  G 698.4     4  0.00017 5                                                 
+221FR  G 747          0.0001 LT                                                 
+221FR  G 753.7        0.0001 LT                                                 
+221FR  G 768.4     5  0.00024 7                                                 
+221FR  L 0.0          5/2-                4.9 M   2                             
+221FR  A 5830      2 50.7    15  11.1  4                                        
+221FR  L 26.01      6(1/2)-                                                     
+221FR  A  5805     2   0.3       1404                                       D   
+221FR  G 26.0         0.0015 5 (E2)                    5.94E3               M   
+221FR2 G CEL2=2.72 16$CEL3=2.68 7$CEM2=1.00 25$CEM3=1.22 26 (2003Ku44)          
+221FRS G LC=4.39E3 7$MC=1176 17$NC+=378 6                                       
+221FRS G NC=307 5$OC=63.3 9$PC=8.01 12$QC=0.00946 14                            
+221FR cG           M3:N1:N2:N3=0.9 {I1}:<0.025:0.25 {I5}:0.25 {I5}              
+221FR cG M$M1+E2 from ce,M1 admixture is <60% (2003Ku44)                        
+221FR  L 36.66      6(3/2)-            1.5 NS    2                              
+221FR cL T$From 1978LiZN ce(t)                                                  
+221FR  A  5792.5   22 18.1   20  20.6  23                                       
+221FR cA E,IA$      from 1972Go29.                                              
+221FR  G  10.642   5                                            8.5       15    
+221FR2 G CEM1=2.20 13$CEM2=0.28 6$CEM3 LT 0.15$CEN1=0.78 6 (2003Ku44)           
+221FR cG $2003Ku44, 2002Ya04 confirm this transition which was proposed by      
+221FR2cG 1972Go29 and 1972Dz14 to account for intensity imbalances at the 26-   
+221FR3cG and 37-keV levels.                                                     
+221FR  G 36.7      1  0.0155 14E2+M1                   6.E2   6             M   
+221FR2 G CEL2=5.69 23$CEL3=6.20 29(2003Ku44)                                    
+221FR cG $L1:L2:L3:M2:M3:N2:N3=0.2 {I1}:6.1 {I7}:6.2 {I8}:1.7 {I2}:1.7 {I2}:0.5 
+221FRxcG {I1}:0.5 {I1}                                                          
+221FRS G LC=4.E2 4$MC=1.1E2 11$NC+=4.E1 4                                       
+221FRS G NC=3.E1 3$OC=6 6$PC=0.8 7$QC=0.0035 16                                 
+221FR cG $M1 admixture is <20% (2003Ku44)                                       
+221FR  L 38.53      6 (9/2)-                                                    
+221FR  A  5790.6   22  8.6   9    43   5                                        
+221FR cA E         from 1972Go29.                                               
+221FR cA IA        from 1972Go29.                                               
+221FR  G 38.5      1  0.0094 8 E2                      863    17            M   
+221FR2 G CEL2=3.07 17$CEL3=3.66 32 (2003Ku44)                                   
+221FRS G LC=637 12$MC=171 4$NC+=55.1 11                                         
+221FRS G NC=44.7 9$OC=9.23 18$PC=1.173 23$QC=0.00158 3                          
+221FR cG $L1:L2:L3:M2:M3:N2:N3=0.11 {I7}:3.1 {I3}: 3.1 {I4}:0.8 {I1}:0.8        
+221FRxcG {I1}:0.25 {I5}:0.25 {I5}                                               
+221FR cG M$M1 admixture <10% (2003Ku44)                                         
+221FR  L 99.62      7(3/2)-             80 PS    30                             
+221FR  A  5732     2  8.0    5   22.8  15                                       
+221FR cA IA        from intensity balance at the 99.62-keV level.               
+221FR2cA I|a=10.0 {I1} was measured which is assumed to include expected        
+221FR3cA |a's to the 99.85 and 100.93-keV levels.                               
+221FR  G 62.9      1  0.43   2 M1                      10.87                M   
+221FRS G LC=8.25 13$MC=1.97 3$NC+=0.651 10                                      
+221FRS G NC=0.516 8$OC=0.1154 17$PC=0.0185 3$QC=0.001035 16                     
+221FR cG $E2 admixture is <1%                                                   
+221FRB G BM1W=0.056 22                                                          
+221FR  G 73.5         0.025  7 E2+M1                   22     16            M   
+221FRS G LC=16 12$MC=4 4$NC+=1.4 10                                             
+221FRS G NC=1.1 9$OC=0.24 17$PC=0.032 21$QC=0.0004 3                            
+221FR cG $M1 admixture is >30%                                                  
+221FR2cG I|g; 2003Ku44 calculated I|g using ce data from 1972Dz14.              
+221FR cG           ce(L3)=0.21 {I5}; L1:L2:L3:M2:M3=<0.05:0.25 {I3}:0.21 {I5}:  
+221FR2cG 0.08 {I3}:0.06 {I2}. These conversion data suggest that possible M1    
+221FR3cG admixture is less than 40%.                                            
+221FR  G 99.6         0.70   6 M1+E2     0.18    5     3.04   13            M   
+221FRS G LC=2.30 9$MC=0.56 3$NC+=0.183 8                                        
+221FRS G NC=0.146 7$OC=0.0323 14$PC=0.00509 16$QC=0.000264 6                    
+221FR cG $E2 admixture is (3+-1)%                                               
+221FR cG RI$2003Ku44 calculated I|g using ce data from 1972Dz14.                
+221FR cG           ce(L1)=1.30 {I15}; L1:L2:L3:M1:M3=1.30 {I15}:0.20 {I3}:0.070 
+221FR2cG {I15}: 0.39 {I5}:0.07 {I2}.                                            
+221FRB G BM1W=0.022 9$BE2W=23 16                                                
+221FR  L 99.85      7(3/2)+              160 PS   30                            
+221FR  A 5732      2  1.32   10  138   11                                       
+221FR cA IA$from intensity balance at the 99.85-keV level.                      
+221FR  G 73.9      1  0.264  17E1                      0.240                M   
+221FRS G LC=0.182 3$MC=0.0439 7$NC+=0.01401 21                                  
+221FRS G NC=0.01129 17$OC=0.00238 4$PC=0.000329 5$QC=1.091E-5 16                
+221FR cG $M2 admixture is >0.5% (2003Ku44)                                      
+221FR cG RI$2003Ku44 calculated I|g using ce data from 1972Dz14.                
+221FRB G BE1W=0.00053 12                                                        
+221FR  G 99.8      1  1.00   11E1(+M2)                 0.1076               M   
+221FRS G LC=0.0816 12$MC=0.0196 3$NC+=0.00631 9                                 
+221FRS G NC=0.00507 8$OC=0.001080 16$PC=0.0001538 22$QC=5.58E-6 8               
+221FR cG $M2 admixture is >0.3% (2003Ku44)                                      
+221FR cG RI$2003Ku44 calculated I|g using ce data from 1972Dz14.                
+221FRB G BE1W=0.00081 19                                                        
+221FR  L 100.93     6(5/2)-                                                     
+221FR  A 5731      2  0.87   23  207   55                                      S
+221FR cA E         from Q(|a)=5935.3 {I20} and E(level)=100.93; this |a was not 
+221FR2cA observed. Recent observation in 2003Ku44 and 2000Ar23.                 
+221FR cA IA        from intensity balance at the 100.93-keV level.              
+221FR  G 64.3      1  0.041  4 M1+E2     0.45    13    20     6             M   
+221FRS G LC=15 4$MC=3.9 11$NC+=1.3 4                                            
+221FRS G NC=1.0 3$OC=0.22 6$PC=0.031 7$QC=0.00084 7                             
+221FR cG $E2 admixture is (17|+5)%                                              
+221FR  G 74.6      4  0.022  7 M1+E2     0.5     AP    12.3   AP            M   
+221FRS G LC AP 9.17$MC AP 2.35$NC+ AP 0.767                                     
+221FRS G NC AP 0.617$OC AP 0.132$PC AP 0.0187$QC AP 0.000521                    
+221FR cG $E2 admixture is 20%.                                                  
+221FR  G 100.8     2  0.075  6 M1+E2                   6      3             M   
+221FRS G LC=4.2 21$MC=1.1 6$NC+=0.36 19                                         
+221FRS G NC=0.29 16$OC=0.06 4$PC=0.008 4$QC=0.00015 12                          
+221FR  L 108.40     6(7/2)-              280 PS   AP                            
+221FR  A  5724     3  3.1    5    53   9                                        
+221FR  G 69.87     5  0.0047 12E2+M1                   28     20                
+221FRS G LC=21 15$MC=5 4$NC+=1.8 13                                             
+221FRS G NC=1.4 11$OC=0.30 22$PC=0.04 3$QC=0.0004 4                             
+221FR cG E,RI$From 2000Ar23; seen also in |b{+-} decay                          
+221FR  G 71.4      3  0.0126 25E2+M1                   25     18            M   
+221FRS G LC=19 13$MC=5 4$NC+=1.6 12                                             
+221FRS G NC=1.3 10$OC=0.27 20$PC=0.036 24$QC=0.0004 3                           
+221FR cG $M1 admixture is >25%                                                  
+221FR  G 108.4     1  0.216  11M1+E2     0.53    13    10.3   5             M   
+221FR2 G CEK=1.19 10 (2003Ku44)                                                 
+221FRS G KC=7.2 8$LC=2.30 24$MC=0.58 7$NC+=0.190 22                             
+221FRS G NC=0.152 18$OC=0.033 4$PC=0.0048 4$QC=0.000171 16                      
+221FR cG $E2 Admixture is (22|+4)%                                              
+221FRB G BM1W AP 0.0036$BE2W AP 28                                              
+221FR  L 145.93    10(1/2)+                                                     
+221FR  A 5829.9    14  0.023     4661                                           
+221FR cA $Observed by 2003Ku44                                                  
+221FR  G 46.2      2  0.0039 6 [E1]                    0.843  16                
+221FR3 G           FL=99.62                                                     
+221FRS G LC=0.638 12$MC=0.156 3$NC+=0.0492 9                                    
+221FRS G NC=0.0398 8$OC=0.00821 15$PC=0.001068 19$QC=3.01E-5 5                  
+221FR  G 119.9     1  0.066  3 [E1]                    0.305                    
+221FRS G KC=0.238 4$LC=0.0503 8$MC=0.01206 17$NC+=0.00389 6                     
+221FRS G NC=0.00312 5$OC=0.000668 10$PC=9.67E-5 14$QC=3.69E-6 6                 
+221FR cG           I|g=0.068 {I6} was measured. Intensity of the part deexciting
+221FR2cG the 393.28-keV level was deduced by the evaluator from                 
+221FR3cG I|g(119|g)/I|g(169|g)=0.28 {I4}/0.26 {I3}, as measured in {+221}Rn     
+221FRxcG |b{+-} decay.                                                          
+221FR  L 150.05     7 (7/2)+             80 PS    20                            
+221FR  A  5682     2   1.3   2    79   13                                       
+221FR  G 49.1      2  0.0066 7 (E1)                    0.716  13                
+221FR3 G           FL=100.93                                                    
+221FRS G LC=0.542 10$MC=0.1322 24$NC+=0.0418 8                                  
+221FRS G NC=0.0338 6$OC=0.00699 13$PC=0.000918 16$QC=2.65E-5 5                  
+221FRB G BE1W=0.00012 4                                                         
+221FR  G 111.5     1  0.264  14(E1)                    0.363                    
+221FRS G KC=0.283 4$LC=0.0609 9$MC=0.01462 21$NC+=0.00470 7                     
+221FRS G NC=0.00378 6$OC=0.000808 12$PC=0.0001162 17$QC=4.35E-6 7               
+221FRB G BE1W=0.00041 11                                                        
+221FR  G 150.1     1  0.60   3 E1                      0.1764               M   
+221FRS G KC=0.1396 20$LC=0.0280 4$MC=0.00669 10$NC+=0.00216 3                   
+221FRS G NC=0.001733 25$OC=0.000374 6$PC=5.49E-5 8$QC=2.22E-6 4                 
+221FR cG $M2 Admixture is <0.4%                                                 
+221FRB G BE1W=0.00038 10                                                        
+221FR  L 195.82     7 (7/2)-             20 PS    5                             
+221FR  A 5637      2  4.4    3   13.6  10                                       
+221FR  G 87.4      1  0.226  13M1                      4.17                     
+221FR@ G ECC=2.8 6 (2003Ku44)                                                   
+221FRS G NC=0.198 3$OC=0.0442 7$PC=0.00709 11$QC=0.000396 6                     
+221FR cG $Admixture of E2 is <1%                                                
+221FRB G BM1W=0.11 4                                                            
+221FR  G 94.9      1  0.084  8 M1(+E2)                 7      4             M   
+221FR3 G           FL=100.93                                                    
+221FRS G LC=5 3$MC=1.4 9$NC+=0.5 3                                              
+221FRS G NC=0.37 22$OC=0.08 5$PC=0.011 5$QC=0.00017 14                          
+221FR cG $E2 admixture is <5%                                                   
+221FR  G 96.7      5  0.028  5 M1+E2     0.69    27    5.4    13            M   
+221FR3 G           FL=99.62                                                     
+221FR2 G CEL1=0.045 10                                                          
+221FR cG $L1:L2:L3=0.045 {I10}:0.045 {I10}:0.06 {I2}                            
+221FRS G LC=4.0 9$MC=1.0 3$NC+=0.34 9                                           
+221FRS G NC=0.27 7$OC=0.058 14$PC=0.0082 16$QC=0.00021 5                        
+221FR cG $E2 admixture is (32|+12)%                                             
+221FRB G BM1W=0.007 4$BE2W=1.1E+2 8                                             
+221FR  G 157.3     2  0.32   2 M1+E2                   2.7    13            M   
+221FRS G KC=1.7 15$LC=0.70 12$MC=0.18 4$NC+=0.059 13                            
+221FRS G NC=0.047 11$OC=0.0101 20$PC=0.00144 14$QC=4.E-5 4                      
+221FR cG $E2 admixture is <4%                                                   
+221FR  G 169.9        0.012  1                                                  
+221FR  G 195.8     2  0.123  6 M1+E2     0.8     2     1.53   20            M   
+221FRS G KC=1.11 20$LC=0.314 5$MC=0.0785 17$NC+=0.0258 5                        
+221FRS G NC=0.0206 5$OC=0.00448 8$PC=0.000667 15$QC=2.6E-5 5                    
+221FR cG $E2 admixture is (40|+20)%                                             
+221FRB G BM1W=0.0031 12$BE2W=17 8                                               
+221FR  L 224.68     6(3/2)+               35 PS   10                            
+221FR  A  5609     3   1.1   1    39   4                                        
+221FR  G 78.8         0.0107 15M1                      5.63                 M   
+221FR@ G ECC=5.1 11 (2003Ku44)                                                  
+221FRS G LC=4.27 6$MC=1.019 15$NC+=0.337 5                                      
+221FRS G NC=0.267 4$OC=0.0597 9$PC=0.00958 14$QC=0.000536 8                     
+221FRB G BM1W=0.014 5                                                           
+221FR  G 123.8     1  0.072  4 [E1]                    0.282                    
+221FR3 G           FL=100.93                                                    
+221FRS G KC=0.221 4$LC=0.0462 7$MC=0.01108 16$NC+=0.00357 5                     
+221FRS G NC=0.00287 4$OC=0.000615 9$PC=8.92E-5 13$QC=3.43E-6 5                  
+221FRB G BE1W=0.00021 7                                                         
+221FR  G 124.8     1  0.024  1 M1+E2                   5.6    21            M   
+221FR3 G           FL=99.85                                                     
+221FRS G KC=3 3$LC=1.7 6$MC=0.45 18$NC+=0.15 6                                  
+221FRS G NC=0.12 5$OC=0.025 10$PC=0.0035 10$QC=8.E-5 7                          
+221FR  G 186.1        0.011   1                                                 
+221FR  G 188.0     1  0.45   2 E1                      0.1023               M   
+221FRS G KC=0.0816 12$LC=0.01570 22$MC=0.00375 6$NC+=0.001216 17                
+221FRS G NC=0.000972 14$OC=0.000211 3$PC=3.14E-5 5$QC=1.338E-6 19               
+221FR cG $M2 admixture is <0.5%                                                 
+221FRB G BE1W=0.00038 12                                                        
+221FR  G 198.4     3  0.017  1 [E1]                    0.0899                   
+221FRS G KC=0.0718 11$LC=0.01370 20$MC=0.00327 5$NC+=0.001061 16                
+221FRS G NC=0.000848 13$OC=0.000184 3$PC=2.75E-5 4$QC=1.186E-6 17               
+221FRB G BE1W=1.2E-5 4                                                          
+221FR  G 224.7     1  0.098  5 [E1]                    0.0668                   
+221FRS G KC=0.0536 8$LC=0.01004 14$MC=0.00239 4$NC+=0.000777 11                 
+221FRS G NC=0.000621 9$OC=0.0001352 19$PC=2.04E-5 3$QC=9.00E-7 13               
+221FRB G BE1W=4.8E-5 15                                                         
+221FR  L 234.52     9 (5/2)+                                                    
+221FR  A  5598     4   0.04      946                                        D   
+221FR  G 126.2     2  0.0070 6 (E1)                    0.269                    
+221FRS G KC=0.211 3$LC=0.0440 7$MC=0.01054 16$NC+=0.00340 5                     
+221FRS G NC=0.00273 4$OC=0.000585 9$PC=8.49E-5 13$QC=3.29E-6 5                  
+221FR  G 133.6     1  0.017  1 (E1)                    0.234                    
+221FR3 G           FL=100.93                                                    
+221FRS G KC=0.184 3$LC=0.0379 6$MC=0.00907 13$NC+=0.00293 5                     
+221FRS G NC=0.00235 4$OC=0.000505 8$PC=7.36E-5 11$QC=2.89E-6 4                  
+221FR  G 134.9     1  0.027  2 E1                      0.229                M   
+221FR3 G           FL=99.62                                                     
+221FRS G KC=0.180 3$LC=0.0369 6$MC=0.00884 13$NC+=0.00286 4                     
+221FRS G NC=0.00229 4$OC=0.000492 7$PC=7.18E-5 11$QC=2.83E-6 4                  
+221FR  G 197.9       0.033   3                                                  
+221FR  L 253.56     6 (5/2)+              35 PS   15                            
+221FR  A 5580      3  1.2    1   25.1  22                                       
+221FR  G 57.8      2  0.0039 8 [E1]                    0.463  8                 
+221FRS G LC=0.350 6$MC=0.0851 15$NC+=0.0270 5                                   
+221FRS G NC=0.0218 4$OC=0.00455 8$PC=0.000611 10$QC=1.87E-5 3                   
+221FRB G BE1W=0.00013 7                                                         
+221FR  G 103.6     2  0.0023 5 [M1+E2]                 10     3                 
+221FRS G NC=0.25 14$OC=0.05 3$PC=0.007 3$QC=0.00014 11                          
+221FR  G 145.2     1  0.126  6 E1                      0.191                M   
+221FR@ G ECC LE 0.1 (2003Ku44)                                                  
+221FRS G KC=0.1512 22$LC=0.0305 5$MC=0.00729 11$NC+=0.00236 4                   
+221FRS G NC=0.00189 3$OC=0.000407 6$PC=5.97E-5 9$QC=2.39E-6 4                   
+221FR cG $E2 admixture is <1%                                                   
+221FRB G BE1W=0.00026 12                                                        
+221FR  G 152.6     2  0.019  1 [E1]                    0.1695                   
+221FR3 G           FL=100.93                                                    
+221FRS G KC=0.1342 20$LC=0.0268 4$MC=0.00641 10$NC+=0.00207 3                   
+221FRS G NC=0.001660 24$OC=0.000358 6$PC=5.27E-5 8$QC=2.14E-6 3                 
+221FRB G BE1W=3.4E-5 15                                                         
+221FR  G 153.9     1  0.182  9 E1                      0.1660               M   
+221FR@ G ECC LE 0.35 (2003Ku44)                                                 
+221FR3 G           FL=99.62                                                     
+221FRS G NC=0.001624 23$OC=0.000351 5$PC=5.16E-5 8$QC=2.10E-6 3                 
+221FRB G BE1W=0.00032 14                                                        
+221FR  G 216.9     2  0.271  14(E1)                    0.0726                   
+221FRS G KC=0.0582 9$LC=0.01096 16$MC=0.00261 4$NC+=0.000849 12                 
+221FRS G NC=0.000678 10$OC=0.0001475 21$PC=2.22E-5 4$QC=9.73E-7 14              
+221FRB G BE1W=0.00017 8                                                         
+221FR  G 228.2     4  0.004  1                                                  
+221FR  G 253.5     1  0.116  6 [E1]                    0.0503                   
+221FRS G KC=0.0405 6$LC=0.00746 11$MC=0.001775 25$NC+=0.000578 9                
+221FRS G NC=0.000461 7$OC=0.0001007 15$PC=1.526E-5 22$QC=6.91E-7 10             
+221FRB G BE1W=4.5E-5 20                                                         
+221FR  L 272.7      6(7/2-,9/2-)                                                
+221FR  A 5563      4   0.034     698                                            
+221FR  G 236.0     6  0.0015 2                                                  
+221FR  L 279.21    11 (7/2)+                                                    
+221FR  A 5554      4   0.1       222                                        D   
+221FR  G 129.2     2  0.0022 4 [M1,E2]                 5.0    20                
+221FRS G KC=3 3$LC=1.5 5$MC=0.39 15$NC+=0.13 5                                  
+221FRS G NC=0.10 4$OC=0.022 8$PC=0.0030 8$QC=7.E-5 6                            
+221FR  G 170.7     2  0.017  1 E1                      0.1291               M   
+221FRS G KC=0.1027 15$LC=0.0201 3$MC=0.00480 7$NC+=0.001554 23                  
+221FRS G NC=0.001244 18$OC=0.000269 4$PC=3.99E-5 6$QC=1.662E-6 24               
+221FR  G 178.3     2 0.014   1 E1                      0.1162               M   
+221FR3 G           FL=100.93                                                    
+221FRS G KC=0.0925 14$LC=0.0180 3$MC=0.00429 7$NC+=0.001391 20                  
+221FRS G NC=0.001112 16$OC=0.000241 4$PC=3.58E-5 6$QC=1.507E-6 22               
+221FR  G 240.7     2 0.010   1 [E1]                    0.0568                   
+221FRS G KC=0.0457 7$LC=0.00847 12$MC=0.00202 3$NC+=0.000656 10                 
+221FRS G NC=0.000524 8$OC=0.0001142 17$PC=1.726E-5 25$QC=7.74E-7 11             
+221FR  G 279.3     3  0.025  2 E1                      0.0402               M   
+221FRS G KC=0.0325 5$LC=0.00591 9$MC=0.001404 20$NC+=0.000457 7                 
+221FRS G NC=0.000365 6$OC=7.98E-5 12$PC=1.215E-5 18$QC=5.60E-7 8                
+221FR  L 288.14    17 (9/2)-                                                    
+221FR  A 5545      4   0.03  1  6.6E2  23                                       
+221FR  G 179.8     3  0.0094 6 [M1,E2]                 1.8    10            I   
+221FRS G KC=1.2 10$LC=0.43 3$MC=0.109 14$NC+=0.036 5                            
+221FRS G NC=0.028 4$OC=0.0061 6$PC=0.000887 15$QC=2.8E-5 22                     
+221FR  G 187.2       0.0089  3                                                  
+221FR  G 249.6     2  0.012  1 [M1]                    1.081                I   
+221FRS G KC=0.872 13$LC=0.1587 23$MC=0.0378 6$NC+=0.01249 18                    
+221FRS G NC=0.00990 14$OC=0.00221 4$PC=0.000355 5$QC=1.98E-5 3                  
+221FR  L 294.7      6(9/2)+                                                     
+221FR  A 5540      4   0.015     1225                                           
+221FR  G 144.7        0.0004 1 M1+E2                   3.5    16            S   
+221FRS G KC=2.2 19$LC=0.96 23$MC=0.25 8$NC+=0.081 23                            
+221FRS G NC=0.065 19$OC=0.014 4$PC=0.0020 4$QC=5.E-5 5                          
+221FR cG M$from 2003Ku44                                                        
+221FR  G 186.3        0.0036 3 E1                      0.1045               M   
+221FRS G KC=0.0834 12$LC=0.01607 23$MC=0.00383 6$NC+=0.001244 18                
+221FRS G NC=0.000995 14$OC=0.000216 3$PC=3.21E-5 5$QC=1.365E-6 20               
+221FR  G 256          0.0006 2 [E1]                    0.0492               S   
+221FRS G KC=0.0396 6$LC=0.00729 11$MC=0.001733 25$NC+=0.000564 8                
+221FRS G NC=0.000450 7$OC=9.84E-5 14$PC=1.491E-5 21$QC=6.76E-7 10               
+221FR  L 393.28    15(7/2,5/2)+                                                 
+221FR  A 5443      3   0.14  1    39   3                                        
+221FR  G 114         0.00075 10M1                      9.86                 M   
+221FR@ G ECC=13.0 17 (2003Ku44)                                                 
+221FRS G KC=7.93 12$LC=1.466 21$MC=0.350 5$NC+=0.1156 17                        
+221FRS G NC=0.0917 13$OC=0.0205 3$PC=0.00329 5$QC=0.000184 3                    
+221FR  G 139.6        0.0012 2 M1+E2                   3.9    17            M   
+221FR@ G ECC=3.2 5 (2003Ku44)                                                   
+221FRS G KC=2.4 21$LC=1.1 3$MC=0.29 9$NC+=0.09 3                                
+221FRS G NC=0.075 24$OC=0.016 5$PC=0.0023 5$QC=6.E-5 5                          
+221FR  G 169.1        0.007  1 [M1,E2]                 2.1    11                
+221FRS G KC=1.4 12$LC=0.53 6$MC=0.137 24$NC+=0.045 8                            
+221FRS G NC=0.036 7$OC=0.0077 11$PC=0.00111 5$QC=3.E-5 3                        
+221FR  G 197.4        0.023  2 E1                      0.0909               M   
+221FR@ G ECC LE 0.04 (2003Ku44)                                                 
+221FRS G KC=0.0727 11$LC=0.01388 20$MC=0.00331 5$NC+=0.001075 15                
+221FRS G NC=0.000859 12$OC=0.000187 3$PC=2.79E-5 4$QC=1.200E-6 17               
+221FR  G 243.2     2  0.0030 3 [M1]                    1.162                    
+221FRS G KC=0.938 14$LC=0.1706 25$MC=0.0406 6$NC+=0.01343 19                    
+221FRS G NC=0.01065 16$OC=0.00238 4$PC=0.000382 6$QC=2.13E-5 3                  
+221FR  G 284.8     3  0.0063 5 [E1]                    0.0385                   
+221FRS G KC=0.0311 5$LC=0.00564 8$MC=0.001339 19$NC+=0.000437 7                 
+221FRS G NC=0.000348 5$OC=7.62E-5 11$PC=1.161E-5 17$QC=5.37E-7 8                
+221FR  G 354.9     3  0.0023 3 [E1]                    0.0235                   
+221FRS G NC=0.000208 3$OC=4.56E-5 7$PC=7.02E-6 10$QC=3.37E-7 5                  
+221FR  L 400.62    24 (7/2-)                                                    
+221FR  A  5436     4   0.07  2    71   21                                       
+221FR  G 112.8        0.0018 2 [M1]                    10.16                I   
+221FRS G KC=8.17 12$LC=1.512 22$MC=0.360 5$NC+=0.1192 17                        
+221FRS G NC=0.0945 14$OC=0.0211 3$PC=0.00339 5$QC=0.000189 3                    
+221FR  G 204.7     3  0.0011 4                                              O   
+221FR  G 362.2     4  0.0042 4 [M1]                    0.389                I   
+221FRS G KC=0.314 5$LC=0.0567 9$MC=0.01349 20$NC+=0.00446 7                     
+221FRS G NC=0.00354 5$OC=0.000790 12$PC=0.0001268 19$QC=7.08E-6 11              
+221FR  L 410.3     12                                                           
+221FR cL $Observed by 2003Ku44                                                  
+221FR  A 5829.9    14                                                           
+221FR  G 137.6       0.0019  2                                                  
+221FR cG E,RI$from 2003Ku44                                                     
+221FR  L 497.3      4                                                           
+221FR cL $Observed by 2003Ku44                                                  
+221FR  A 5829.9    14                                                           
+221FR  G 458.8     4 0.00058 22                                             O   
+221FR  L 517.81    12 (5/2+)                                                    
+221FR  A  5321     3   0.07  1   16.3  24                                       
+221FR  G 321.8     4   0.0030 4                                                 
+221FR  G 368.3     6  0.0006 2                                              O   
+221FR  G 417.9     3  0.0048 4                                                  
+221FRF G FL=99.62                                                               
+221FR  G 481.1     2  0.029  2                                                  
+221FR  G 492.6     6 0.00022 14                                             O   
+221FRF G FL=26.01                                                               
+221FR  G 517.9     2  0.015  1                                                  
+221FR  L 552.05     9 (3/2)-                                                    
+221FR  A  5286     3   0.23  1   3.18  15                                       
+221FR  G  298.6    3  0.0018 5                                              O   
+221FR cG $From 2003Ku44                                                         
+221FR  G 317.4       0.00011 GT                                             *   
+221FR  G 356.6       0.000229                                               O   
+221FR  G 406.2     3  0.0067 4 [E1]                    0.01756                  
+221FRS G KC=0.01430 21$LC=0.00249 4$MC=0.000588 9$NC+=0.000192 3                
+221FRS G NC=0.0001531 22$OC=3.37E-5 5$PC=5.21E-6 8$QC=2.56E-7 4                 
+221FR  G 450.1     7 0.0032   8                                             O   
+221FR  G 452.4     2  0.089  5 [M1]                    0.213                    
+221FRS G KC=0.1725 25$LC=0.0310 5$MC=0.00736 11$NC+=0.00243 4                   
+221FRS G NC=0.00193 3$OC=0.000431 6$PC=6.92E-5 10$QC=3.87E-6 6                  
+221FR  G 512.5     7  0.0005 2                                              O   
+221FR  G 515.3     2  0.019  1 [M1]                    0.1505                   
+221FRS G KC=0.1218 18$LC=0.0218 3$MC=0.00518 8$NC+=0.001712 24                  
+221FRS G NC=0.001357 19$OC=0.000303 5$PC=4.87E-5 7$QC=2.72E-6 4                 
+221FR  G 526.1     1  0.033  2 [M1]                    0.1424                   
+221FRS G KC=0.1153 17$LC=0.0206 3$MC=0.00490 7$NC+=0.001619 23                  
+221FRS G NC=0.001283 18$OC=0.000287 4$PC=4.61E-5 7$QC=2.58E-6 4                 
+221FR  G 552.0     2  0.0056 4 [M1]                    0.1253                   
+221FRS G KC=0.1015 15$LC=0.0181 3$MC=0.00430 6$NC+=0.001423 20                  
+221FRS G NC=0.001128 16$OC=0.000252 4$PC=4.05E-5 6$QC=2.27E-6 4                 
+221FR  L 570.83    16 (7/2+,5/2+)                                               
+221FR  A  5270     4   0.014 5    41   15                                       
+221FR cA           I|a=0.018 was measured by 1967Ba51, 0.009 {I2} by 1967Dz02.  
+221FR  G 317.4       0.00011 5                                              *   
+221FR  G 375.0     7 0.0017  4                                                  
+221FR  G 462.4     6 0.0008  3                                                  
+221FR  G 469.5     3 0.0028  3                                                  
+221FR  G 571.0     2  0.0032 5                                                  
+221FR  L 602.3      7 (5/2-)                                                    
+221FR  A  5239     4  0.0030 8   128   35                                       
+221FR cA IA        1967Ba51 set an upper limit of 0.003 for this |a group.      
+221FR  G 565.6     7 0.00019 8                                              O   
+221FR  L 630.72    13 (5/2+)                                                    
+221FR  A 5211      3  0.030  3   8.7   9                                        
+221FR cA           I|a of 0.003 {I3} listed by 1976Dz02 is assumed to be a      
+221FR2cA misprint. I|a=0.025 was given by 1967Ba51.                             
+221FR  G 435.0     3  0.0024 3                                                  
+221FR  G 522.1     2  0.0018 3                                                  
+221FR  G 529.7     3  0.0071 7                                                  
+221FR  G 531.2     3  0.0040 5                                                  
+221FR  G 591.4     7  0.0007 2                                              O   
+221FR  G 594.6     3  0.0028 6                                                  
+221FR  L 637.72    11                                                           
+221FR  A  5202     5  0.0020 5   118   30                                       
+221FR  G 403.4     3  0.0001614                                             O   
+221FR  G 601.0     3  0.0037 9                                                  
+221FR  G 637.1     7  0.0001 AP                                             O   
+221FR  L  712      5                                                            
+221FR  A  5131     5  0.0020 8    44   18                                       
+221FR  L 714.2      6                                                           
+221FR cL E$From 2003Ku44                                                        
+221FR  A  5131     5  0.0020 8    42   17                                       
+221FR  G  568.3    6  0.0013 3                                              O   
+221FR  L 749.16    20                                                           
+221FR  A  5092     4   0.006 1   8.7   15                                       
+221FR  G 603.5     5  0.0016 4                                                  
+221FR  G 649.5     2  0.0012 3                                                  
+221FR  L 780.2      4                                                           
+221FR  A  5067     5   0.003 1    11   4                                        
+221FR  G  545.8    6 0.00046 12                                                 
+221FR  G  629.9    7  0.00026 8                                             O   
+221FR  G 680.4     6  0.0006115                                                 
+221FR  G 780.6     6  0.00005 1                                             O   
+221FR  L 824.2      7                                                           
+221FR  A  5021         0.001 LE   18   GE                                       
+221FR  G  824.2    7 0.00004 AP                                             O   

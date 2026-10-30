@@ -1,0 +1,69 @@
+266HS    ADOPTED LEVELS, GAMMAS                                  ENSDF    202112
+266HS  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=15-Dec-2021$                    
+266HS  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 70 (2019)$CUT=31-Jan-2019$       
+266HS  Q -653E1    10 7830   40 2540   SY 10346  16    2021WA16                 
+266HS cQ $Estimated uncertainty for S(p)=240 (2021Wa16)                         
+266HS cQ $S(2n)=14570 {I40}, S(2p)=4220 {I280} (syst),                          
+266HS2cQ Q(|ep)=1060 {I140} (syst), Q(|e)=3040 {I170} (syst) (2021Wa16)         
+266HS c  2001Ho06 (also 2002Ho11, 2011Ac01, 2015Mu16 review): {+266}Hs produced 
+266HS2c  as |a daughter of {+270}Ds, which was formed in                        
+266HS3c  {+207}Pb({+64}Ni,n),E=317 MeV using UNILAC accelerator facility and    
+266HS3c  SHIP separator at GSI. Experiments performed under an international    
+266HS4c  collaboration between laboratories in Germany, Slovakia, Poland, and   
+266HS5c  Russia. Of the eight correlated events detected, six events involved   
+266HS6c  EVR-|a1-|a2-SF correlations, and two EVR-|a2-SF. Two groups for the    
+266HS7c  six |a-decays assigned to {+270}Ds as follows: events #1, #2, and #3   
+266HS8c  belonged to the g.s., and events #4, #5, and #6 to states              
+266HS9c  originating from a K-isomer (as in the case of the longest half-life   
+266HSAc  in event #6) or |g-decay. No fission event was observed which could    
+266HSBc  have been assigned to {+266}Hs. See details for {+270}Ds Adopted       
+266HSCc  Levels for history of eight decay chains assigned to {+270}Ds |)       
+266HSDc  {+266}Mt |a-|a sequence. 2001Ho06 considered the possibility of        
+266HSEc  existence of an isomeric state, analogous to the one in {+270}Ds.      
+266HS c  2012Ac04: 25 additional decay chains were observed at GSI using the    
+266HS2c  same reaction and SHIP separator as in 2001Ho06. These chains were of  
+266HS3c  three different types of correlations: EVR-|a-|a-SF, EVR-|a-SF, and    
+266HS4c  EVR-|a-|a-|a-SF. Complete analysis of these data are yet to be         
+266HS5c  published as mentioned in author's review articles 2017Ac02 and        
+266HS6c  2015Ac04. Revised half-life of {+270}Ds |a decay was deduced in this   
+266HS7c  work. These experiments are also briefly described by D. Ackermann     
+266HS8c  et al., in GSI Annual Scientific reports (GSI-2010, p200 (published    
+266HS9c  in 2011), and GSI-2011, p208 (published in 2012)). Isomeric state      
+266HSAc  in {+266}Hs is proposed in these studies                               
+266HS c                                                                         
+266HS c  For theoretical studies, consult Nuclear Science References (NSR)      
+266HS2c  database at NNDC, BNL for 136 primary references dealing with the      
+266HS3c  half-lives and other aspects of nuclear structure in this mass region  
+266HS  XA270DS A DECAY (0.20 MS)                                                
+266HS  XB270DS A DECAY (3.9 MS)                                                 
+266HS  L 0           0+                2.97 MS   +78-51                         
+266HS2 L %A=76 9$ %SF=24 9 (2012Ac04)                                           
+266HSX L XREF=A                                                                 
+266HS cL $SF branch from a larger number of decay chains observed in            
+266HS2cL 2012Ac04, but complete analysis of these results is not available      
+266HS3cL as yet. Other: fission branch estimated as within 1.4%                 
+266HS2cL in the absence of observed SF for this nucleus (2001Ho06).             
+266HS cL E$the observed |a activity is assumed to correspond to the ground      
+266HS2cL state of {+266}Hs                                                      
+266HS cL T$from 2012Ac04, which probably includes data from 25 decay chains     
+266HS2cL observed in this work, details of which have not been published as     
+266HS3cL yet, and also the eight events from the previous GSI work (2001Ho06).  
+266HS4cL Other: 2.3 ms {I+13-4} (2001Ho06).                                     
+266HS  L 85        AP                                                           
+266HSX L XREF=B                                                                 
+266HS  L 712       AP                                                           
+266HSX L XREF=B                                                                 
+266HS  L 930       AP                                                           
+266HSX L XREF=B                                                                 
+266HS  G 218                                                                    
+266HS cG $2001Ho06 note that E|g is close to the theoretical energy of 299 keV  
+266HS2cG from the yrast 8+ to 6+ levels in {+266}Hs                             
+266HS  L 1200      AP                   0.07 S   +36-3                       M  
+266HSX L XREF=B                                                                 
+266HS2 L %A AP 100                                                              
+266HS cL E$from 2017Ac02 and 2015Ac04 review articles. Others: 1100 keV {I90}   
+266HS2cL (2021Ko07, NUBASE-2020), 1404 keV {I97} (2015Ko14, K-isomer evaluation)
+266HS cL J$9- proposed from systematics (2021Ko07,2015Ko14) with                
+266HS2cL possible configuration=|n7/2[613]~#|n11/2[725] in 2015Ko14             
+266HS cL T$74 ms {I+354-34} (2012Ac04). Note: units corrected from s in the 2019
+266HS2cL ENSDF update (and 2019Si12) to ms in the present update.               

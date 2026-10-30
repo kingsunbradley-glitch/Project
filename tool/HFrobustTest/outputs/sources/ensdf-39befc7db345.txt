@@ -1,0 +1,117 @@
+226U     ADOPTED LEVELS, GAMMAS                                  ENSDF    201404
+226U   H TYP=FUL$AUT=B. SINGH and S. SINGH$CIT=ENSDF$CUT=31-MAR-2014$           
+226U   H TYP=UPD$AUT=J. TULI$CUT=1-Jan-1997$COM=T(GS) AKOVALI'S A DECAY$        
+226U   H TYP=FUL$AUT=Y. A. AKOVALI$CIT=NDS 77,433 (1996)$CUT=1-Feb-1996$        
+226U   Q -5450     SY 8120   18 4300   70 7701   4     2012WA38                 
+226U  cQ Q-$estimated uncertainty=90 keV (2012Wa38)                             
+226U  cQ $S(2n)=14527 {I28}, S(2p)=7243 {I16} (2012Wa38)                        
+226U  c  1973Vi10: {+226}U produced and identified in {+232}Th(|a,10n) reaction 
+226U 2c  at E=140 MeV, parent of {+214}Rn (9040|a)                              
+226U  c  1989An13: identified as parent of {+222}Th (7982|a)                    
+226U  c                                                                         
+226U  d  2012Wa27, 2012Ro29, 1988So08, 1984Na22, 1983Ro14, 1982Du16, 1982Le19: c
+226U 2d  equilibrium deformation parameters                                     
+226U  d  1992Ch20: the fermion dynamic symmetry model was used to calculate     
+226U 2d  the properties of the predicted superdeformed state,                   
+226U 3d  potential well, level energies and deformations.                       
+226U  d  1986Ch23: binding-energy calculations and discussions on the           
+226U 2d  role of deformation                                                    
+226U  d  1986Da03, 1986Ir01: interacting boson model of |a clustering           
+226U  d  1995Na13: discussions on multiclustering.                              
+226U  d  1983Ro14: calculations of static electric quadrupole and hexadecapole  
+226U 2d  moments                                                                
+226U  c  Level scheme is tentative according to 1998Gr19, but first two excited 
+226U 2c  states have been verified through the detection of internal conversion 
+226U 3c  electrons                                                              
+226U  cG M$E1 assignments are based on intensity balances (1998Gr19), E2        
+226U 2cG assignments are assumed to be based on band structures                 
+226U  cL E$From least-squares fit to E|g data                                   
+226U  CL BAND(A)$The g.s. band                                                  
+226U  CL BAND(B)$Octupole band based on (5-).                                   
+226U 2cL Weighted averaged magnitude of D{-0}/Q{-0}=7.9|*10{+-3} {I5} in        
+226U xcL b{-1/2} units                                                          
+226U   XA230PU A DECAY (102 S)                                                  
+226U   XB208PB(22NE,4NG)                                                        
+226U  PN                                                                     6  
+226U   L 0.0          0+                 268 MS  9                          A   
+226U 2 L %A=100                                                                 
+226U X L XREF=AB                                                                
+226U  cL $Only |a decay of {+226}U has been observed. Evaluators estimate       
+226U 2cL %|e<0.05 (from gross theory, 1973Ta30), <0.0093 (from calculated       
+226U 3cL half-lives of >100 s for |b decay and 9.3 ms for |a decay in 1997Mo25) 
+226U  cL T$from |a decay curves; weighted average of measured values:           
+226U 2cL 258 ms {I13} (2002CaZZ, from the same group as 2000He17 but seems an   
+226U 3cL independent experiment), 281 ms {I9} (2000He17), 260 ms 10 (1999Gr28,  
+226U 4cL 1998Gr19), 200 ms {I50} (1990An22). Others: 0.25 s {I+15-10}           
+226U 5cL (1989An13, from the same group as 1990An22), 0.5 s {I2} (1973Vi10) are 
+226U 6cL in agreement with the Adopted value but much less precise.             
+226U  dL $2013Fr03: compilation of half-lives                                   
+226U   L 81.3       6  (2+)                                                 A   
+226U X L XREF=AB                                                                
+226U   G 81.3      6   100     [E2]                    36.9   13                
+226U S G LC=26.9 9$MC=7.46 25$NC=2.03 7$OC=0.465 16$PC=0.0758 25$QC=0.000250 8  
+226U   L 250.0      9  (4+)                                                 A   
+226U X L XREF=B                                                                 
+226U   G 168.7     6  100      [E2]                    1.44   3                 
+226U S G KC=0.197 3$LC=0.904 19$MC=0.250 6$NC=0.0678 15$OC=0.0156 4$PC=0.00260 6
+226U   L 447.1      9  (5-)                                                 B   
+226U X L XREF=B                                                                 
+226U   G 197.0     2  100      (E1)                    0.1020                   
+226U S G KC=0.0801 12$LC=0.01658 24$MC=0.00402 6$NC=0.001073 16$OC=0.000254 4   
+226U   L 483.2      9  (6+)                                                 A   
+226U X L XREF=B                                                                 
+226U   G 233.3     3  100      [E2]                    0.429                    
+226U S G KC=0.1191 17$LC=0.227 4$MC=0.0621 10$NC=0.0169 3$OC=0.00390 6          
+226U   L 669.1     10  (7-)                                                 B   
+226U X L XREF=B                                                                 
+226U  cL $Magnitude of D{-0}/Q{-0}=5.5|*10{+-3} {I11}                           
+226U   G 185.7     5  100    31(E1)                    0.1172 18                
+226U S G KC=0.0917 14$LC=0.0192 3$MC=0.00466 8$NC=0.001243 20$OC=0.000294 5     
+226U   G 221.7     5  6.3    19[E2]                    0.514  9                 
+226U S G KC=0.1303 19$LC=0.280 5$MC=0.0769 13$NC=0.0209 4$OC=0.00483 9          
+226U   L 766.4     10  (8+)                                                 A   
+226U X L XREF=B                                                                 
+226U  cL $Magnitude of D{-0}/Q{-0}=6.9|*10{+-3} {I13}                           
+226U   G 97.5      5   100   33(E1)                    0.133  3                 
+226U S G LC=0.1003 20$MC=0.0245 5$NC=0.00652 13$OC=0.00152 3$PC=0.000263 5      
+226U   G 283.6     4   100   20[E2]                    0.224                    
+226U S G KC=0.0833 12$LC=0.1033 16$MC=0.0281 5$NC=0.00761 12$OC=0.00177 3       
+226U   L 950.6     10  (9-)                                                 B   
+226U X L XREF=B                                                                 
+226U  cL $Magnitude of D{-0}/Q{-0}=8.7|*10{+-3} {I21}                           
+226U   G 184.4     5  100    28(E1)                    0.1191 19                
+226U S G KC=0.0932 15$LC=0.0195 3$MC=0.00474 8$NC=0.001265 20$OC=0.000299 5     
+226U   G 281.0     4  8.3    33[E2]                    0.231                    
+226U S G KC=0.0848 12$LC=0.1071 17$MC=0.0291 5$NC=0.00790 12$OC=0.00183 3       
+226U   L 1091.6    10  (10+)                                                A   
+226U X L XREF=B                                                                 
+226U  cL $Magnitude of D{-0}/Q{-0}=10.5|*10{+-3} {I12}                          
+226U   G 140.6     3   100   10(E1)                    0.226                    
+226U S G KC=0.174 3$LC=0.0388 6$MC=0.00945 15$NC=0.00252 4$OC=0.000593 9        
+226U   G 325.6     4   27    6 [E2]                    0.1470                   
+226U S G KC=0.0643 10$LC=0.0607 9$MC=0.01638 25$NC=0.00444 7$OC=0.001034 16     
+226U   L 1282.8    10  (11-)                                                B   
+226U X L XREF=B                                                                 
+226U  cL $Magnitude of D{-0}/Q{-0}=9.0|*10{+-3} {I18}                           
+226U   G 191.1     4   100   18(E1)                    0.1096 17                
+226U S G KC=0.0859 13$LC=0.0179 3$MC=0.00433 7$NC=0.001157 18$OC=0.000274 4     
+226U   G 332.3     4   16    6 [E2]                    0.1385                   
+226U S G KC=0.0619 9$LC=0.0563 9$MC=0.01516 23$NC=0.00411 6$OC=0.000958 14      
+226U   L 1453.8    10  (12+)                                                A   
+226U X L XREF=B                                                                 
+226U  cL $Magnitude of D{-0}/Q{-0}=8.2|*10{+-3} {I17}                           
+226U   G 171.0     4   100   30(E1)                    0.1422 22                
+226U S G KC=0.1109 17$LC=0.0236 4$MC=0.00573 9$NC=0.001529 24$OC=0.000361 6     
+226U   G 362.2     4   42    15[E2]                    0.1083                   
+226U S G KC=0.0526 8$LC=0.0410 6$MC=0.01098 16$NC=0.00298 5$OC=0.000695 11      
+226U   L 1656.3    11  (13-)                                                B   
+226U X L XREF=B                                                                 
+226U  cL $Magnitude of D{-0}/Q{-0}=8.6|*10{+-3} {I15}                           
+226U   G 202.4     4   100   16(E1)                    0.0958                   
+226U S G KC=0.0753 11$LC=0.01551 23$MC=0.00376 6$NC=0.001003 15$OC=0.000238 4   
+226U   G 373.6     4   27    8 [E2]                    0.0994                   
+226U S G KC=0.0496 7$LC=0.0366 6$MC=0.00980 15$NC=0.00266 4$OC=0.000620 9       
+226U   L 1847.0    13  (14+)                                                A  ?
+226U X L XREF=B                                                                 
+226U   G  191                                                                  ?
+226U   G  393                                                                  ?

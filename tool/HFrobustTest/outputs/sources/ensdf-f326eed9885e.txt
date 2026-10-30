@@ -1,0 +1,127 @@
+242CM    ADOPTED LEVELS, GAMMAS                                  22NDS    202211
+242CM  H TYP=FUL$AUT=M.J. Martin, C.D. Nesaraja$CIT=NDS 186, 261 (2022)$        
+242CM2 H CUT=31-Dec-2021$                                                       
+242CM  Q -2950     SY 6969.4 12 5419.6 4 6215.63 8     2021WA16                 
+242CM cQ $|DQ(|b{+-})=140 (syst,2021Wa16)                                       
+242CM cQ $S(2n)=13063.2 {I17}, S(2p)=9899.6 {I4} (2021Wa16)                     
+242CM c                                                                         
+242CM c  For references on theory, refer to the NSR file at the Web site        
+242CM2c  given in the abstract.                                                 
+242CM c                                                                         
+242CM cG E$From ({+209}Bi,{+208}Pb|g), except as noted                          
+242CM CL BAND(A)$K=0 g.s. Band                                                  
+242CM  XA242AM B- DECAY (16.01 H)                                               
+242CM  XB242BK EC DECAY                                                         
+242CM  XC246CF A DECAY                                                          
+242CM  XD241AM(209BI,208PBG)                                                    
+242CM  L 0.0          0+               162.88 D  8                          A   
+242CMX L XREF=ACD                                                               
+242CM2 L %A=100$ %SF=6.2E-6 3 $ %34SI=1.0E-14 +4-3 $                            
+242CM cL %SF$Deduced from the adopted T{-1/2}(SF); %{+34}Si was determined by   
+242CM2cL 2000Og01.                                                              
+242CM cL T$The measured values (in units of days) are 162.5 {I20} (1950Ha14),   
+242CM2cL 162.46 {I32} (1954Gl37), 163.0 {I18} (1954Hu32), 162.7 {I1}            
+242CM3cL (L.N.Treiman, R.A.Penneman, B.Bevan quoted in 1957Ho71), 163.2 {I2}    
+242CM4cL (1975Ke02), 163.1 {I4} (1965Fl02, revised by 1977Di04), 162.76 {I8},   
+242CM5cL (1977Di04), 163.02 {I18} (1979Ch41), 161.35 {I30} (1981Us03),          
+242CM6cL 163.17 {I11} and 162.82 {I26} (1982Ag02), 163.0 {I2} (1984Wi14).       
+242CM7cL The uncertainties given for 1954Gl37, 1977Di04, 1979Ch41,              
+242CM8cL 1981Us03, and 1982Ag02 are reassignments by 1986LoZT of the            
+242CM9cL authors' original values. The evaluators consider the value of         
+242CMAcL 1981Us03 to be an outlier. A weighted average of the other             
+242CMBcL values is 162.877 {I63}. The evaluators adopt 162.88 {I8} where        
+242CM9cL the uncertainty is the smallest of the input values.                   
+242CM cL           T{-1/2}(SF)=7.0|*10{+6} y {I2} is recommended by 2000Ho27    
+242CM2cL from measured partial half-lives of 7.2|*10{+6} y {I2} (1951Ha87),     
+242CM3cL 6.82|*10{+6} y {I18} (1967Ar09, revised value; see 2000Ho27),          
+242CM4cL 7.46|*10{+6} y {I6} (1979Ch41), 7.15|*10{+6} y {I15} (1982Ra33),       
+242CM5cL 6.89|*10{+6} y {I17} (1982UmZZ), 6.98|*10{+6} y {I33} (1986Ze06;       
+242CM6cL revised value; see 2000Ho27), 6.96|*10{+6} y {I18} (1989Us04).         
+242CM cL           The partial half-life for {+34}Si decay was deduced by       
+242CM2cL 2000Og01 as 1.4|*10{+23} s {I+5-3}. Their earlier results were         
+242CM3cL reported in JINR-E7-93-57, p.48 (1993) and in 1997Tr17.                
+242CM  L 42.13     5   2+                                                   A   
+242CMX L XREF=ACD                                                               
+242CM cL J$E2 |g to 0+                                                          
+242CM  G 42.129    7  100      E2                                               
+242CM cG E$from {+242}Am |b{+-} decay. Other: 42 {I3} from {+246}Cf |a decay    
+242CM cG M$from conversion electron ratio in {+242}Am |b{+-} decay              
+242CM  L 137       2  4+                                                    A   
+242CMX L XREF=ACD                                                               
+242CM cL J$energy fit to the band; |g to 2+; |a hindrance                       
+242CM2cL factor.                                                                
+242CM  G 96        3  100                                                       
+242CM cG E$From {+246}Cf |a Decay                                               
+242CM  L 288       6    6+                                                  A   
+242CMX L XREF=ACD                                                               
+242CM cL J$energy fit to the band; |g to 4+; |a hindrance                       
+242CM2cL factor.                                                                
+242CM  G 150.2     5  100      [E2]                                             
+242CM cG E$from ({+209}Bi,{+208}Pb|g). Other: 147 {I5} from {+246}Cf |a decay   
+242CM  L 489.1     13 8+                                                    A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 6+                                     
+242CM  G 200.8     5  100                                                       
+242CM  L 735.9     14 10+                                                   A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 8+                                     
+242CM  G 246.8     5  100                                                       
+242CM  L 1026.2    15 12+                                                   A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 10+                                    
+242CM  G 290.3     5  100                                                       
+242CM  L 1355.2    15 14+                                                   A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 12+                                    
+242CM  G 329.0     5  100                                                       
+242CM  L 1720.8    16 16+                                                   A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 14+                                    
+242CM  G 365.6     5  100                                                       
+242CM  L 2119.5    17 18+                                                   A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 16+                                    
+242CM  G 398.7     5  100                                                       
+242CM  L 0+X                           40 PS     15                          M1 
+242CM2 L %SF=100                                                                
+242CM cL           Only SF decay observed. 100% SF branching is consistent with 
+242CM2cL systematics of spontaneously fissioning isomer half-lives              
+242CM3cL (see 1975Me28,1976Sl01).                                               
+242CM cL T         measured by 1976Sl01.                                        
+242CM cL           Assignment: {+240}Pu(|a,2n) E(|a)=26 MeV,                    
+242CM2cL {+243}Am(p,2n) E(p)=13 MeV (1976Sl01).                                 
+242CM cL           Calculations of 1972We09 yield E=1.83 MeV, T{-1/2}=4.6 ps    
+242CM2cL for the energy and half-life of the SF isomer.                         
+242CM  L 2549.3    18 20+                                                   A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 18+                                    
+242CM  G 429.8     5  100                                                       
+242CMF G FL=2119.5                                                              
+242CM  L 2.8E+3    4                   180 NS    70                          M2 
+242CM2 L %SF=?$%IT=?                                                            
+242CM cL T         measured by 1971Re11.                                        
+242CM cL           Assignment: {+240}Pu(|a,2n) excit (1971Br39),                
+242CM2cL {+243}Am(p,2n) E(p)=20 MeV (1971Re11).                                 
+242CM cL           It is not established whether the level decays by |g         
+242CM2cL transition to the spontaneously fissioning 40-ps isomer, or by         
+242CM3cL spontaneous fission (or both).                                         
+242CM cL           E(level)=2.8 {I4} MeV deduced by 1973Br38 from threshold     
+242CM2cL energy for production of the isomer through {+240}Pu(|a,2n) reaction.  
+242CM3cL See also 1971Br39.                                                     
+242CM cL           From the anomalously high isomer excitation energy for the   
+242CM2cL longer-lived isomer, 1971Br39 proposed that the longer-lived isomer    
+242CM3cL was an excited state in the second potential well.                     
+242CM cL           1976Sl01 suggested that analogous to {+238}Pu, a             
+242CM2cL two-quasiparticle isomeric state would be expected at about 1 MeV      
+242CM3cL higher excitation energy than the 40-ps state.                         
+242CM  L 3008.8    18 22+                                                   A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 20+                                    
+242CM  G 459.5     5  100                                                       
+242CM  L 3497.4    19 (24+)                                                 A   
+242CMX L XREF=D                                                                 
+242CM cL J$energy fit to the band; |g to 22+                                    
+242CM  G 488.6     5  100                                                      ?
+242CM  L 4015.7    20 (26+)                                                 A  ?
+242CMX L XREF=D                                                                 
+242CM  G 518.3     5  100                                                      ?

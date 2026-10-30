@@ -1,0 +1,212 @@
+231PA    235NP A DECAY (396.1 D)       1973BR12                  22NDS    202210
+231PA  H TYP=FMT$DAT=2-Jun-2026$AUT=C. Morse$COM=Moved mixing ratio on 18|g to  
+231PA2 H comment                                                                
+231PA  H TYP=FUL$AUT=Balraj Singh, Jagdish K. Tuli, and Edgardo Browne$         
+231PA2 H CIT=NDS 185, 560 (2022)$CUT=31-Aug-2022$                               
+231PA c  1973Br12 (also 1970BrZX): {+235}Np produced in {+235}U(d,2n),E(d)=12   
+231PA2c  MeV using an enriched target, followed by chemical separation. Measured
+231PA3c  E|a, I|a, E|g, I|g, |a|g-coin using semiconductor detector for |a      
+231PA4c  particles with FWHM=14.5 keV, and Ge(Li) detector for |g rays. A       
+231PA5c  magnetic field to the source was applied to reduce spurious peaks in   
+231PA6c  the singles |a spectrum, caused by the true coincidences between       
+231PA7c  conversion electrons and |a particles.                                 
+231PA c  1986AgZV: measured %|a branching ratio from the decay of {+235}Np.     
+231PA c  Others:                                                                
+231PA c  1987Ha07: {+235}Np produced in {+238}U(p,4n),E(p)=50 MeV reaction.     
+231PA2c  Measured E|a, I|a, x rays.                                             
+231PA c  1984Wh02: {+235}Np produced in {+235}U(p,n),E(p)=50 MeV reaction.      
+231PA2c  Measured x ray and |a spectra, the latter with peaks at 4.88 and       
+231PA3c  4.96 MeV. Deduced %|a branching ratio from {+235}Np decay              
+231PA c  1958Gi05, 1957Th37, 1956Ho46: measured %|a branching ratio from        
+231PA2c  {+235}Np decay                                                         
+231PA c  Evaluators' note: the decay scheme seems fairly complete, except for   
+231PA2c  spectral information about low-energy |g transitions of 9.18 and       
+231PA3c  17.19 keV                                                              
+231PA cA E$From 1973Br12, recalibrated by 1991Ry01. Recalibrated values given   
+231PA2cA here are |?2 keV higher than those deduced from Q(|a) (2021Wa16).      
+231PA cA HF$The nuclear radius parameter r{-0}({+231}Pa)=1.51623 {I36}          
+231PA2cA is deduced from interpolation (or unweighted average) of radius        
+231PA3cA parameters of the adjacent even-even nuclides, as given in 2020Si16,   
+231PA4cA and in the data file of the ALPHAD-RadD code.                          
+231PA cA E$Evaluators have adjusted by 9 keV E|a values from 1960Gi03 given in  
+231PA2cA comments. Original E|a are relative to {+237}Np(86|a)=4781 keV. Values 
+231PA3cA given here are relative to {+237}Np(86|a)=4789.8 (1991Ry01).           
+231PA cG E$From the Adopted Gammas, which are mostly from {+231}Th |b{+-} decay,
+231PA2cG as these are most precisely known. Exceptions are noted                
+231PA cG E(a)$|g not seen in 1973Br12, only an upper limit is given             
+231PA cG RI$From 1973Br12 per 100 decays of |a particles, unless otherwise      
+231PA2cG specified.                                                             
+231PA cG RI(b)$From |g-branching ratios in the Adopted Gammas, which are mostly 
+231PA2cG from {+231}Th |b{+-} decay                                             
+231PA cG TI(d)$From |g-ray transition intensity balance at 84-, 101-, and       
+231PA2cG 102-keV levels, and |g-ray data from {+231}Th |b{+-} decay.            
+231PA cG M,MR$From the Adopted Levels, Gammas dataset                           
+231PA cL E$From least-squares fit to E|g data                                   
+231PA cL J,T$From the Adopted Levels                                            
+231PA cL E(A)$Proposed member of configuration=|p1/2[530] (1973Br12)            
+231PA cL E(B)$Proposed member of configuration=|p3/2[651] (1973Br12)            
+231PA cL E(C)$Proposed member of configuration=|p5/2[642] (1973Br12)            
+235NP  P 0            5/2+             396.1 D   12             5193.8    15    
+235NP cP J,T$From {+235}Np Adopted Levels in the ENSDF database                 
+235NP2cP (Feb 2014 update). No new experimental references for half-life        
+235NP3cP after this update.                                                     
+235NP cP QP$From 2021Wa16                                                       
+231PA  N 1.0          1.0      2.60E-5 13                                       
+231PA PN                                                                     4  
+231PA cN NR$The |g-ray intensities in 1973Br12 are per 100 |a decays,           
+231PA2cN deduced from their |a|g-coin results                                   
+231PA cN BR$%|a=0.00260 {I13} (1986AgZV, measurement of x-rays from {+235}Np    
+231PA2cN and {+236}Np |e decay, and alpha particles from {+237}Np |a decay).    
+231PA3cN Others: %|a=0.0035 {I4} (1956Ho46, I|a/K| x ray+L| x ray, it is not    
+231PA4cN clear whether correction for |eM+ had been applied); 0.0012 {I1}       
+231PA5cN (1957Th37); 0.00159 (1958Gi05, I|a/K| x ray+L| x ray, with correction  
+231PA6cN for |eM+/|eL=0.46); |?0.002 (1984Wh02, K| x ray/I|a).                  
+231PA  G 126       2  0.3    2                                                  
+231PA2 G %IG=8E-6 5$                                                            
+231PA cG E$from 1973Br12. This |g seems different from the 125|g from 247 level 
+231PA  L 0.0          3/2-              32570 Y  130                        A   
+231PA  A 5108      3  1.5    2   348   51                                       
+231PA cA $E|a=5105 {I3} (1973Br12). E|a=5104 keV {I5}, I|a=3.8 (1960Gi03).      
+231PA  L  9.2      10 1/2-                                                  A   
+231PA  A 5100      3  0.2    AP  2200  AP                                       
+231PA cA $E|a=5097 {I3} (1973Br12)                                              
+231PA  G 9.183                                                                 S
+231PA cG E$from the Adopted Gammas                                              
+231PA  L 58.570    3  7/2-              274 PS   10                         A   
+231PA  A 5051      2  1.8    3   119   21                                       
+231PA cA $E|a=5048 {I2} (1973Br12)                                              
+231PA  G 58.5700   24 0.50   3 E2                      155.5  22             C  
+231PA2 G %IG=1.30E-5 10$                                                        
+231PAS G  LC=113.6 16$MC=31.3 5                                                 
+231PAS G  NC=8.43 12$OC=1.90 3$PC=0.306 5$QC=0.000818 12                        
+231PA cG E$58.5 {I4} (1973Br12)                                                 
+231PA cG $I|g=0.6 {I2} (1973Br12) is imprecise. I|g=0.50 {I3} deduced by        
+231PA2cG evaluators from I|g(25.6)=14.3 {I7}, I|a(58)=1.8 {I3}, and intensity   
+231PA3cG balance at 58-keV level.                                               
+231PA  L 84.2152   20 5/2+              45.1 NS  13                         B   
+231PA cL T$other: 37 ns {I4} (1956Ho46, delayed coincidence)                    
+231PA cL $Proposed configuration=|p3/2[651] (1973Br12)                          
+231PA  A 5025      2  53     8   2.8   5                                        
+231PA cA $E|a=5022 {I2} (1973Br12)                                              
+231PA cA $I|a=48 {I11}, deduced by evaluators from |g-ray transition intensity  
+231PA2cA balance.                                                               
+231PA cA $E|a=5024 keV {I5}, I|a=83.6 (1960Gi03).                               
+231PA cA HF$Low alpha hindrance factor is due to strong mixing of this 5/2+,    
+231PA2cA 3/2[651] state with the 5/2+, 5/2[642] favored state at 183.5 keV      
+231PA3cA through the Coriolis interaction.                                      
+231PA  G 25.65     2  14.3   7 E1                      4.37   6             b  S
+231PA2 G %IG=0.000372 26$                                                       
+231PAS G LC=3.26 5$MC=0.843 12$                                                 
+231PAS G NC=0.219 4$OC=0.0471 7$PC=0.00673 10$QC=0.000196 3                     
+231PA  G 84.2140   22 6.9    4 E1                      2.17   21             C  
+231PA2 G %IG=0.000179 14$                                                       
+231PA cG E$84.2 {I1} (1973Br12)                                                 
+231PA cG M$Anomalous E1 |g ray. Total conversion coefficient from               
+231PA2cG {+231}Th |b{+-} decay                                                  
+231PA  L 101.409   4  7/2+              0.7 NS   2                          B   
+231PA  A 5008      4   24     8  4.7   16                                       
+231PA cA $E|a=5004 {I4} (1973Br12)                                              
+231PA cA $I|a=33 {I10}, deduced by evaluators from |g-ray transition intensity  
+231PA2cA balance.                                                               
+231PA  G 17.195    21            (M1)                  166    3 39        10d  S
+231PAS G LC=1.4$ MC=122.6 18$ NC=32.7 5$OC=7.75 12$PC=1.505 22$QC=0.144 2       
+231PA  L 102.2687  21 3/2+              0.7 NS   2                          B   
+231PA  A 5007      AP  0.5   LE  210   GE                                      ?
+231PA cA $I|a=-2.7 {I22} from transition intensity balance,                     
+231PA  G 18.055    18           M1+E2                   218   18 10       2 d  S
+231PA cG $|d=0.040 {I+18-0}                                                     
+231PAS G  LC=45 15$MC=128 8                                                     
+231PAS G  NC=34 2$OC=8.1 4 $PC=1.55 5 $QC=0.124 1                               
+231PA  G 93.02     4  0.10   5 (E1)                    0.1463 21             ? ?
+231PA2 G %IG=2.6E-6 13$                                                         
+231PA cG E$92.2 {I4} (1973Br12, uncertain |g)                                   
+231PAS G  LC=0.1103 16$MC=0.0269 4                                              
+231PAS G  NC=0.00711 10$OC=0.001633 23$PC=0.000279 4$QC=1.363E-5 20             
+231PA  G 102.2700  24 0.30   6  (E1)                   0.1141 16             C  
+231PA2 G %IG=7.8E-6 16$                                                         
+231PA cG E$102.2 {I4} (1973Br12)                                                
+231PAS G  LC=0.0860 12$MC=0.0210 3                                              
+231PAS G  NC=0.00554 8$OC=0.001276 18$PC=0.000220 3$QC=1.107E-5 16              
+231PA  L 111.647   13(9/2+)                                                 B   
+231PA  A 4997      4  6      AP   16   AP                                       
+231PA cA $E|a=4994 {I4} (1973Br12)                                              
+231PA  G 53.2      8  3.7    AP  [E1]                   0.64  3     6     AP   S
+231PA2 G %IG AP 9.5E-5 $                                                        
+231PA cG TI$from I|a value, if 53.2|g is the only decaying transition           
+231PA cG RI$from I(|g+ce) and |a                                                
+231PAS G  LC=0.483 21$MC=0.119 6                                                
+231PAS G  NC=0.0313 14$OC=0.0070 3$PC=0.00114 5$QC=4.53E-5 16                   
+231PA  L  169.4    4  11/2-                                                     
+231PA  A 4940      6  0.6    AP   68   AP                                       
+231PA cA $E|a=4937 {I6} (1973Br12)                                              
+231PA cA $I|a=0.8 {I3}, deduced by evaluators from |g-ray transition intensity  
+231PA2cA balance.                                                               
+231PA  G 110.8     4  0.09   3  (E2)                   7.60   11             C  
+231PA2 G %IG=2.3E-6 8$                                                          
+231PA cG E$from 1973Br12                                                        
+231PAS G LC=5.55 13$MC=1.53 4$                                                  
+231PAS G NC=0.414 9$OC=0.0936 21$PC=0.0152 4$QC=6.79E-5 13                      
+231PA  L 174       1  (5/2-)                                                   ?
+231PA  A 4934         0.1    LT  360   GT                                      ?
+231PA cA IA$upper limit from I|g values from 174 level                          
+231PA  G 89.95     2  0.07   LT (E1)                    0.159823            a  ?
+231PA2 G %IG LT 1.8E-6 $                                                        
+231PAS G  LC=0.1205 17$MC=0.0294 5                                              
+231PAS G  NC=0.00777 11$OC=0.001782 25$PC=0.000304 5$QC=1.467E-5 21             
+231PA  G 174.15    2  0.007  LT [M1+E2]                 2.7   15            a  ?
+231PA2 G %IG LE 1.8E-7 $                                                        
+231PAS G  KC=1.8 16$LC=0.68 4$MC=0.177 22                                       
+231PAS G  NC=0.048 6$OC=0.0111 11$PC=0.00196 6$QC=8.7E-5 71                     
+231PA  L 183.4956  25 5/2+              0.19 NS  LE                         C   
+231PA  A 4925      2  11.5   5   2.88  20                                       
+231PA cA $E|a=4922 {I2} (1973Br12)                                              
+231PA cA $I|a=20.1 {I11}, deduced by evaluators from |g-ray transition intensity
+231PA2cA balance.                                                               
+231PA cA HF$Low alpha hindrance factor is consistent with 5/2+, 5/2[642] favored
+231PA2cA state assignment.                                                      
+231PA cA $E|a=4934 keV {I5}, I|a=11.8 (1960Gi03).                               
+231PA  G 81.2280   21 1.5    1 M1(+E2)   0.00    8     7.66   20             C  
+231PA2 G %IG=3.90E-5 33$                                                        
+231PA cG E$81.2 {I2} (1973Br12)                                                 
+231PAS G  LC=5.78 14$MC=1.40 4                                                  
+231PAS G  NC=0.374 11$OC=0.0898 24$PC=0.0172 4$QC=0.001422 22                   
+231PA  G 82.0870   22 0.70   5 M1(+E2)   0.04    6     7.47   23            b  S
+231PA2 G %IG=1.82E-5 16$                                                        
+231PAS G  LC=5.63 17$MC=1.36 5                                                  
+231PAS G  NC=0.365 12$OC=0.088 3$PC=0.0167 5$QC=0.001377 22                     
+231PA  G 99.2780   36 0.22   2 M1+E2     0.35    7     5.2    4             b  S
+231PA2 G %IG=5.7E-6 6$                                                          
+231PAS G  LC=3.9 3$MC=0.97 8                                                    
+231PAS G  NC=0.261 20$OC=0.062 5$PC=0.0113 7$QC=0.00072 3                       
+231PA  G 124.927   18 0.07   3 (E1)                    0.294  4              C  
+231PA2 G %IG=1.8E-6 8$                                                          
+231PA cG E$125 {I1} (1973Br12)                                                  
+231PAS G KC=0.226 6$LC=0.0510 13$MC=0.0124 4$                                   
+231PAS G NC=0.00328 9$OC=0.000759 19$PC=0.000133 4$QC=7.11E-6 17                
+231PA  G 183.489   20 0.04   3 (E1)                    0.1181 17             C  
+231PA2 G %IG=1.0E-6 8$                                                          
+231PA cG E$185 {I1} (1973Br12)                                                  
+231PAS G  KC=0.0928 13$LC=0.0191 3$MC=0.00463 7                                 
+231PAS G  NC=0.001228 18$OC=0.000287 4$PC=5.13E-5 8$QC=3.05E-6 5                
+231PA  L 247.317   6  7/2+                                                      
+231PA  A 4862      3  0.7    1    18   3                                        
+231PA cA $E|a=4859 {I3} (1973Br12)                                              
+231PA cA $I|a=0.8 {I3}, deduced by evaluators from |g-ray transition intensity  
+231PA2cA balance.                                                               
+231PA cA $E|a=4873 keV {I5}, I|a=0.8 (1960Gi03).                                
+231PA  G 63.86     3  0.007  4  M1+E2    0.6     3     39     16            b  S
+231PA2 G %IG=1.8E-7 10$                                                         
+231PAS G  LC=28 12$MC=7.5 33                                                    
+231PAS G  NC=2.03 88$OC=0.47 20$PC=0.079 31$QC=0.0023 5                         
+231PA  G 135.670   11 0.026  16 M1(+E2)  0.1     +4-1  8.5    10            b  S
+231PA2 G %IG=7.E-7 4$                                                           
+231PAS G  KC=6.7 13$LC=1.32 17$MC=0.32 6                                        
+231PAS G  NC=0.086 15$OC=0.021 4$PC=0.0039 5$QC=0.00032 6                       
+231PA  G 163.1010  54 0.05   3 M1(+E2)   0.0     3     5.1    3              C  
+231PA2 G %IG=1.3E-6 8$                                                          
+231PA cG E$165 {I1} (1973Br12)                                                  
+231PAS G  KC=4.0 4$LC=0.776 19$MC=0.187 7                                       
+231PAS G  NC=0.0502 19$OC=0.0120 4$PC=0.00230 5$QC=0.000190 15                  
+231PA  L 303       7 (9/2+)                                                 C  ?
+231PA  A 4809      7  0.1    AP   52   AP                                      ?
+231PA cA $E|a=4806 {I7} (1973Br12)                                              

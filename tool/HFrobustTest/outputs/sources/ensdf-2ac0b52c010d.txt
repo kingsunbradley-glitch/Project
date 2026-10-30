@@ -1,0 +1,33 @@
+240AM    244BK A DECAY                 1966AH02                  25NDS    202511
+240AM  H TYP=FUL$AUT=C. Morse$CIT=NDS 206, 359 (2025)$CUT=27-Sep-2024$          
+240AM c  1966Ah02: Measured E|a, I|a.                                           
+240AM cA E,IA$As recommended in evaluation by 1991Ry01 from original            
+240AM2cA measurements of 1966Ah02. 1991Ry01 suggest 40% uncertainty on          
+240AM3cA intensities                                                            
+240AM cL E,J$From Adopted Levels.                                               
+240AM cA HF$The nuclear radius parameter r{-0}({+240}Am)=1.498 {I16} is         
+240AM2cA deduced from interpolation (or unweighted average) of radius           
+240AM3cA parameters of the adjacent even-even nuclides (2020Si16).              
+244BK  P 0            (4-)              5.02 H    3              6779     4     
+244BK cP T$From 2014So17.  Others: 4.35 h {I15} (1956Ch77), 4.4 h (1966Ah02).   
+244BK cP QP$From 2021Wa16                                                       
+240AM  N                        0.000126                                        
+240AM cN BR$1991Ry01 recommends b{-|a}=6|*10{+-5}. This appears to be based on  
+240AM2cN 1956Ch77, which reports T{-1/2}({+244}Bk)=4.35 h {I15} and             
+240AM3cN T{-1/2,|a}({+244}Bk)=8 y {I3}, from which b{-|a}=6|*10{+-5} {I2} can   
+240AM4cN be derived.  However, 1956Ch77 states that this assumes there is only  
+240AM5cN one |a-decay (E{-|a}=6.67 MeV), while 1966Ah02 observed two with       
+240AM6cN roughly equal intensity (E{-|a{-1}}=6.624 MeV, E{-|a{-2}}=6.666 MeV).  
+240AM7cN These two observations seem to be in tension, but if we accept that    
+240AM8cN there are two |a-decay channels, then the |a-decay branching ratio     
+240AM9cN becomes 1.2|*10{+-4}. The evaluator has increased the uncertainty by   
+240AMacN 50% since the |a-particle intensities were only approximately          
+240AMbcN determined in 1966Ah02.                                                
+240AM  L 0            (3-)                                                      
+240AM  A 6665      3 50      AP2212    AP                                       
+240AM cA E$6666 keV {I4} in 1966Ah02, 6670.0 keV {I15} in 1956Ch77              
+240AM  L 40        5  (4-)                                                      
+240AM cL E$From difference of Q{-|a} values for decay to ground and excited     
+240AM2cL states.                                                                
+240AM  A 6626      4 50      AP1439    AP                                       
+240AM cA E$6624 keV {I4} in 1966Ah02                                            

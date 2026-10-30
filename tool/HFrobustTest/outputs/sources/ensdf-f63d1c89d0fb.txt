@@ -1,0 +1,53 @@
+262DB    ADOPTED LEVELS                                          01NDS    200112
+262DB  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94, 131 (2001)$CUT=1-Aug-2001$          
+262DB  Q -2.11E3   SY6.06E3  SY2.35E3  SY9.05E3  SY    2012WA38                 
+262DB cQ $Note: Current evaluation has used the following Q record              
+262DB2cQ -2165     syst 6165   syst 2258   syst 9005   syst    1995Au04         
+262DB c                                                                         
+262DB t  Assignment:                                                            
+262DB2t     {+249}Bk(92-97 MeV {+18}O,5n), parent of 4.3-s {+258}Lr (|a's)      
+262DB+t         1971Gh01                                                        
+262DB3t     {+249}Bk(117-MeV {+18}O,5n), chemistry                          1988
+262DB+t  Gr30                                                                   
+262DB3t     {+249}Bk(99-MeV {+18}O,5n), chemistry                  1992Go28,1993
+262DB+t  Zi06                                                                   
+262DB5t     {+248}Cm({+19}F,5n), parent of 4.3-s {+258}Lr (|a's)                
+262DB+t                   1999Dr09                                              
+262DB  L 0.0                           35 S      5                              
+262DB cL T         from measured half-lives: 40 s {I10} (1971Gh01), 32.6 s {I65}
+262DB2cL (1977Be43; from SF decay), 34.1 s {I46} (1977Be43; from |a decay),     
+262DB3cL 35.2 s {I+104-72} (1979Dr07; from SF decay), 33.5 s {I94} (1989Kr17;   
+262DB4cL from SF decay), 35.3 s {I123} (1989Kr17; from correlated |a's),        
+262DB5cL 27 s {I+20-11} (1999Dr09; from |a's).                                  
+262DB2 L %A AP 67                                                               
+262DB cL $%SF+%|e+%|b{++}|?33                                                   
+262DB cL           The |a branching of |?67% is adopted from the data of        
+262DB2cL 1992Kr01. The SF branching of |?33% deduced by 1992Kr01, may include   
+262DB3cL (|e+|b{++}) branching. An upper limit of |?5% for |e+|b{++} branch was 
+262DB4cL obtained by 1977BeZM (see also 1977BeWH) from the absence of L| x      
+262DB5cL ray(Z=104) or K| x ray(Z=104) preceding fission, by assuming           
+262DB6cL T{-1/2}({+262}Rf)|<150 |ms. The adopted half-life of {+262}Rf is 2.3 s 
+262DBxcL {I4}.                                                                  
+262DB cL           |a and SF branchings were obtained in various experiments    
+262DB2cL from |a and fission counts: %SF or %|e|?60 (1971Gh01),                 
+262DB3cL %SF=78 {I6} (1977Be43), %SF|?60 (1979Dr07), %SF=49 {I18} (1988Gr30),   
+262DB4cL %SF=51 {I11} (1989Kr17), %SF|?33 (1992Kr01).                           
+262DB5cL 1971Gh01 addressed the possibility of including SF counts also from    
+262DB6cL decay of {+262}Rf, probable |b{++} decay daughter of {+262}Db, and     
+262DB7cL counts from {+263}Db and {+263}Rf. Because of insufficient data, none  
+262DB8cL of these possibilities was ruled out. The authors of 1992Kr01 examined 
+262DB9cL the {+263}Db production in their {+249}Bk({+18}O,xn) reaction at       
+262DB2cL E({+18}O)=93 and 99 MeV. The {+263}Db nucleus decays by spontaneous    
+262DB3cL fission, and its half-life is 27 s (1992Kr01). Different ratio of      
+262DB4cL {+262}Db/{+263}Db nuclei produced in various experiments could explain 
+262DB5cL the inconsistent branchings deduced.                                   
+262DB cL           1997Mo25 calculated the partial half-lives for |a and        
+262DB2cL |b{++} decays and obtained T{-1/2}(|a)=78.86 s, T{-1/2}(|b{++})=68.99  
+262DB3cL s for {+262}Db g.s. The partial half-life for SF decay was calculated  
+262DB4cL by 1985Lo17 as T{-1/2}(SF)|?32 s, and calculated by 1989Mo03, using    
+262DB5cL two different methods, as 1.9 d and 71 d. See 1985Cw01 for calculation 
+262DB6cL of fission barriers.                                                   
+262DB  L 0.0+X                                                                  
+262DB cL           Level is populated in {+266}Bh |a decay.                     
+262DB2cL Q(|a)({+266}Bh)=9550 {I300}, obtained by 1995Au04 from Q(|a)           
+262DB3cL systematics, suggests E(level)=118 {I+320-118}.                        

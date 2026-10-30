@@ -1,0 +1,475 @@
+238PU    ADOPTED LEVELS, GAMMAS                                  15NDS    201507
+238PU  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 127, 191 (2015)$             
+238PU2 H CUT=1-Jun-2014$                                                        
+238PU  Q -2258.3   51 6999.8 13 5997.5  4 5593.20 19   2012WA38                 
+238PU D  Updated by E. Browne (Dec. 2014)                                       
+238PU  XA238AM EC DECAY                                                         
+238PU  XB238NP B- DECAY                                                         
+238PU  XC242CM A DECAY                                                          
+238PU  XDCOULOMB EXCITATION                                                     
+238PU  XE239PU(D,T)                                                             
+238PU  XF240PU(P,T)                                                             
+238PU  XG238U(A,4NG)                                                            
+238PU  XH239PU(207PB,208PBG)                                                    
+238PU  XJ239PU(117SN,118SNG)                                                    
+238PU c  Energies of vibrational states (K=0+, 2+, 0-, 1-, 2-, 3-), and         
+238PU2c  B(E2), B(E3) values for the excitation of 2+, 3- levels have been      
+238PU3c  calculated by 1965So04, 1970Ne08, 1971Ko31, 1975LeZR, 1975IvZZ. See    
+238PU6c  also 1969Bl13, 1992Ra14, 1993Sa15, 1994Mi14                            
+238PU4c  see 1964So02 for calculated energies of two-quasiparticle states in    
+238PU5c  {+238}Pu and also for structure of some collective states.             
+238PU c  Discovery of {+238}Pu: 2013Fr02                                        
+238PU c  Alpha Decay: 2014Ba07, 2013De12, 2013Fe03, 2013Is13, 2013Se17,         
+238PU2c  2012Is08, 2011Ni11, 2011Qi06, 2011Zh36, 2010Le01, 2010Ni02,            
+238PU3c  2010Wa23, 2010Wa31, 2009De32, 2009Dr05, 2009Ni06, 2009Wa01,            
+238PU4c  2009Zh28, 2006Ch34, 2006De05, 2006Ha20, 2006Ha53, 2006Xu08,            
+238PU5c  2006Xu15, 2005Sh42, 2004Ca24, 2004ChZY, 2004Le07, 2003Ba64,            
+238PU6c  2003Jo04.                                                              
+238PU c  Nuclear reactions: 2013Bo29, 2010Wa07, 2002Be08, 2002Lo18              
+238PU c  {+239}Pu(n,2n): 2002Be08.                                              
+238PU c  {+238}U |b-|b{+-} Decay: 2012Zu07,2010Ba07, 2006Ba35, 2005Tr01,        
+238PU2c  2004Ra13, 2003Cr04, 2002Hi09                                           
+238PU c  Cluster Decay                                                          
+238PU c  {+238}Pu({+32}Si): 2014Ba09, 2013Qi04, 2013Zd01, 2013Zd02, 2012Ku23,   
+238PU2c  2012Ba35, 2012Mi17, 2012Sa31, 2012So15, 2012Ta10, 2010Si12, 2010Zh51,  
+238PU3c  2009Ar11, 2009Qi07, 2009Ro16, 2008Bh05, 2005Bh02, 2005Ku04, 2005Ku32,  
+238PU4c  2004Ba64, 2004Re22, 2002Ba80.                                          
+238PU c  {+238}Pu({+28}Mg): 2013Na25, 2012Sa31, 2012So15, 2011Sh13, 2010Sa29,   
+238PU2c  2010Zh51, 2009Ar11, 2009Qi07, 2009Ro16, 2008Bh05, 2002Ba80,            
+238PU3c  2002Du16                                                               
+238PU c  {+238}Pu({+30}Mg): 2013Qi04, 2013Zd01, 2013Zd02, 2012Ba35, 2012Ku29,   
+238PU2c  2012Ku16, 2012Qi01, 2012Sa31 2012Si01 2012So15 2011Si13, 2010Sa29,     
+238PU3c  2010Si12. 2009Ar05, 2009Ar11, 2009Ro16 2008Bh05 2005Ku32, 2004Ba64,    
+238PU4c  2004He16, 2002Du16, 2002Ba80.                                          
+238PU c  {+238}Pu({+34}Si): 2009Qi07.                                           
+238PU c  Nuclear Structure: 2014Lu01, 2013Af01, 2013Bo24, 2013Li30, 2013Ni02,   
+238PU2c  2013To12, 2012Ib02, 2012Ko06, 2012Lu02, 2012Mi06, 2012Pr09,            
+238PU3c  2012Ro29, 2012Ro34, 2011Af04, 2011Bo12, 2011In03, 2011Li44, 2011Ri05,  
+238PU4c  2011Wa30, 2010Bu02, 2010Is01, 2010Ko36, 2010Ra10, 2010Vr01, 2009So02,  
+238PU5c  2008Bu11, 2007Ba18, 2007Bo46, 2007Sh17, 2006De23, 2006Ra21, 2006Sa35,  
+238PU6c  2005Al40, 2005Bu38, 2005Du18, 2005La04, 2005Za02, 2004Go33, 2004Sa55,  
+238PU7c  2003Bu11, 2003Bu27, 2003Mi18, 2003Ra17, 2003Za01, 2002Do15, 2002Ma85,  
+238PU8c  2002Ra25, 2002Re31                                                     
+238PU c  Isomer energy calculations - 1992Bh03. Other: 2011He12.                
+238PU c  Fission Isomers and Super Deformed Bands: 2002Si26.                    
+238PU c  Quadrupole moments calculations - 1992Bh04.                            
+238PU CL BAND(A)   KPI=0+  GS BAND                                              
+238PU CL BAND(B)   KPI=0-  OCTUPOLE-VIBRATIONAL BAND                            
+238PU CL BAND(D)   KPI=0+  BETA-VIBRATIONAL BAND                                
+238PU CL BAND(E)   KPI=1-  NU 7/2(743)-NU 5/2(622) BAND                         
+238PU CL BAND(F)   KPI=2+                                                       
+238PU CL BAND(G)   KPI=0+                                                       
+238PU CL BAND(H)   KPI=0+                                                       
+238PU CL BAND(J)   KPI=4- NU 7/2(743)+NU 1/2(631) STATE                         
+238PU CL BAND(K)   KPI=3- NU 7/2(743)-NU 1/2(631) STATE                         
+238PU cL J$From an energy fit to the g.s. band in addition to other arguments   
+238PU2cL as given                                                               
+238PU cL E(P)      From {+239}Pu({+207}Pb,{+208}Pb|g)                           
+238PU cG E$From |b{+-} decay, |a decay, and |e decay, except where from in-beam 
+238PU2cG studies as noted                                                       
+238PU cG E(F)$From {+239}Pu({+207}Pb,{+208}Pb|g)                                
+238PU cG M(G)$No photon was observed. ce(K) line seen                           
+238PU cG RI$Branching ratios are from |b{+-} decay, |a decay, and |e decay      
+238PU cG M,MR$From ce data in |b{+-}, |e decay, and |g(|q) in                   
+238PUxcG {+239}Pu({+207}Pb,{+208}Pb|g)                                          
+238PU  L 0.0          0+               87.7 Y    1                          A   
+238PU2 L XREF=ABCDEFGHJ$                                                        
+238PU3 L %A=100$ %SF=1.9E-7 1                                                   
+238PU cL           T{-1/2},%SF: recommended by 1986LoZT                         
+238PU cL T$86.41 y {I30} specific activity {+238}Pu/{+242}Cm (1957Ho71),        
+238PU2cL 87.77 y {I2} by calorimetry (1973JoYT),                                
+238PU3cL 86.98 y {I39} by specific activity (1976Po08),                         
+238PU4cL 87.71 y {I3} specific activity {+238}Pu/{+242}Cm (1977Di04),           
+238PU5cL 87.98 y {I51} relative activity using T{-1/2}({+239}Pu)=24110 y        
+238PUxcL (1981Ag06).                                                            
+238PU cL           T{-1/2}(SF)=4.77|*10{+10} y {I14} (1972Ha11),                
+238PU2cL 4.63|*10{+10} y {I12} (1975GaZX),                                      
+238PU3cL 5.1|*10{+10} y {I6} (1961Dr04).                                        
+238PU  L 44.065    15 2+               175 PS    3                          A   
+238PU2 L XREF=ABCDEFGHJ$                                                        
+238PU cL J$E2 to g.s.                                                           
+238PU cL T$weighted average of 177 ps {I5} from aga9ta0 in {+242}Cm |a decay,   
+238PU2cL and 174 ps {I3} from B(E2) in Coulomb excitation.                      
+238PU  G 44.06     2 100       E2                          775                  
+238PUS G               LC=    566   $MC=    157   $                             
+238PU3 G BE2W=285 5$                                                            
+238PU cG CC,LC,MC$values given are the E2 theory values lowered by 3%           
+238PU2cG (see 1987Ra01)                                                         
+238PU  L 145.936   21 4+                                                    A   
+238PU2 L XREF=ABCDEFGH                                                          
+238PU3 L BE4=1.9 7                                                              
+238PU cL J$E2 to 2+. Coul. ex.                                                  
+238PU cL BE4$from Coul. ex.                                                     
+238PU  G 101.88    3 100       E2                         14.8                  
+238PUS G               LC=   10.7   $MC=   2.99   $NC+=   1.15   $              
+238PU  L     303.36 6 6+                                                    A   
+238PU2 L XREF=BCFGHJ$                                                           
+238PU  G 157.42    5 100         E2                       2.24                  
+238PUS G KC=  0.197   $LC=   1.48   $MC=  0.412   $NC+=  0.157   $              
+238PU  L 512.55    15 8+                                                    A   
+238PU2 L XREF=CGHJ$                                                             
+238PU cL J$E2 |g to 303 level                                                   
+238PU  G 209.20    14 100         E2                   0.73                     
+238PU cG E$From {+248}Cm a decay                                                
+238PU cG M$from ce(L2)/ce(L3) in (|a,4n|g)                                      
+238PU  L 605.18     3 1-                                                    B   
+238PU2 L XREF=ABC$                                                              
+238PU cL J$E1 to g.s.. The intensity ratio for the transitions to 0+ and 2+     
+238PU2cL agree with theory for K=0, not with K=1                                
+238PU  G 561.17    5 100           E1                   0.0116                  
+238PUS G KC= 0.0093   $LC=0.00170   $                                           
+238PU  G 605.18    5 73      2     E1                   0.0101                  
+238PU  L 661.44     4 3-                                                    B   
+238PU2 L XREF=ABCD$BE3=0.71 12$                                                 
+238PU cL J$E1+M2 |g's to 2+ and 4+                                              
+238PU cL BE3$from Coul. ex.                                                     
+238PU  G 515.53    7 55      1    E1+M2   0.114  17     0.023  3                
+238PU cG RI$from |e decay. Values of |?0.64 from |b{+-} decay and 0.67 from     
+238PU2cG |a decay depend on splitting the intensity of the doubly placed        
+238PU3cG 713|g on the basis of model-dependent arguments                        
+238PU  G 617.41    5  100         E1+M2   0.077  17    0.0122 13            @   
+238PU  L 763.24    11 5-                                                    B   
+238PU2 L XREF=BC$                                                               
+238PU cL J$M1+E2 |g from (4)- determines |p=-. |g's to 4+ and 6+ then give J=5. 
+238PU2cL Member of K=0 octupole band                                            
+238PU  G 459.80    20 3.4    AP                                                 
+238PU cG RI$from |e and |a decay, see comment on 515|g from the 661 level       
+238PU  G 617.36       100                                                   @   
+238PU  L 771.9      510+                                                    A   
+238PU2 L XREF=GHJ$                                                              
+238PU  G 259.4      5 100      E2                                           F   
+238PU  L 911.6      8 7-                                                    B   
+238PUX L XREF=H                                                                 
+238PU  G 608.7      5 100                                                      ?
+238PU  L 941.47     8 0+                                                        
+238PU2 L XREF=ABCEF$FLAG=D$                                                     
+238PU cL J$E0 to g.s.                                                           
+238PU  G 336.38    152.8     16 [E1]                                            
+238PU cG RI        from {+242}Cm |a decay, if I(897.33|g)=100.                  
+238PU  G 897.33    10100     7  (E2)                   0.0154                   
+238PU  G 941.5      2           E0                                 59      7    
+238PU cG TI        from {+238}Am |e decay, I(|g+ce)/I|g(897|g)=0.62 from        
+238PU2cG 1960As10 in |a decay. The value of 1.4 {I2} in |b{+-} decay appears to 
+238PUxcG be discrepant                                                          
+238PU  L 962.783   23 1-                                                        
+238PU2 L XREF=ABC$FLAG=E$                                                       
+238PU cL J$E1 to g.s.. The configuration was proposed by 1972Ah04 on the basis  
+238PU2cL of log| {Ift} ratios in |e decay and energy calculations of 1964So02   
+238PU  G 301.5     1 1.68    9  E2                       0.213                  
+238PUS G KC= 0.0780   $LC=  0.098   $MC= 0.0269   $NC+= 0.0103   $              
+238PU  G 357.62    7 7.80    16M1+E2     2.43    20    0.224  15                
+238PU  G 918.69    4 82.0    8 E1                      0.00471                  
+238PU  G 962.77    3 100.0    8E1                      0.00434                  
+238PUS G KC=0.00353   $LC= 612E-6   $                                           
+238PU  L 968.2      4(2-)              8.5 NS    LT                            ?
+238PU2 L XREF=B$                                                                
+238PU cL J$114.4|g from (4)- is probably E2. |g to 2+. 1972Wi22 propose         
+238PU2cL K=2, J|p=2-.                                                           
+238PU cL T$from delayed ce|g coincidence                                        
+238PU  G 924         100        [E1]                                           ?
+238PU2 G BE1W GT 2.0E-8$                                                        
+238PU  G 968.9      4 12      6 [M2]                   0.122                   ?
+238PU2 G BM1W GT 0.016$                                                         
+238PU  L 983.09     7 2+               0.55 PS   +15-11                         
+238PU2 L XREF=ABCDEF$FLAG=D$                                                    
+238PU cL J$E0+E2 to 2+                                                          
+238PU cL T         from B(E2) in Coulomb excitation.                            
+238PU  G 321.75    20 1.8    7   [E1]                   0.036                   
+238PU3 G BE1W=4.7E-5 24$                                                        
+238PU  G 378.05    13 4.4    7   [E1]                   0.0255                  
+238PU3 G BE1W=6.8E-5 22$                                                        
+238PU  G 837.11    15 35     2   [E2]                   0.0176                  
+238PU3 G BE2W=3.1 10$                                                           
+238PU  G 938.95    10 43     3  E0+E2                   4.4    4                
+238PU  G 983.0      3 100    30  [E2]                   0.0129                  
+238PU3 G BE2W=3.9 12$                                                           
+238PU  L 985.45     5 2-                                                        
+238PU2 L XREF=AB$FLAG=E$                                                        
+238PU cL J$M1 to 3-. log| {Ift}=7.5 (log| {If{+1u}t}=8.2) from 1+ rules out 3-  
+238PU2cL and 4- M1. The log ft for the |e feeding rules out J|p=3-,4-.          
+238PU  G 323.98    9  2.8    1  M1+E2    2.8      8    0.29    6                
+238PU  G 380.29    13 2.2    2  [M1]                   0.665                    
+238PU cG M         From 1981Le15                                                
+238PU  G 941.38     5 100.0  10  [E1+M2] -0.17   +1 -2 0.0083  6                
+238PU  L 1018.6     3                                                          ?
+238PU2 L XREF=C$                                                                
+238PU  G 974.5      3                                                          ?
+238PU  L 1028.537  16 2+                                                        
+238PU2 L XREF=ABCF$FLAG=F$                                                      
+238PU cL J$E2 to g.s.                                                           
+238PU  G 882.63    3  3.19    2 E2                      0.0159                  
+238PUS G KC= 0.0115   $LC=0.00328   $                                           
+238PU  G 984.45    2  100     1M1+E2     +23      GT   0.00129                  
+238PU  G 1028.54   2  72.6    3E2                       0.0119                  
+238PUS G KC= 0.0089   $LC=0.00226   $                                           
+238PU cG M         from 1981Le15                                                
+238PU  L 1069.929  22 3+                                                        
+238PU2 L XREF=B$FLAG=F$                                                         
+238PU cL J$M1+E2 |g's to 2+ and 4+                                              
+238PU2cL log ft for the |b{+-} feeding, photon intensity                        
+238PU3cL ratios, and band parameter suggest K=2, J|p=3+                         
+238PU  G 923.98    2  30.0    2 M1+E2    +44     +72-8 0.00145                  
+238PU  G 1025.87   2 100        M1+E2    +31     GT    0.00119                  
+238PU  L 1077.7     512+                                                    A   
+238PU2 L FLAG=P                                                                 
+238PU2 L XREF=GHJ$                                                              
+238PU  G 305.9      5100                                                    F   
+238PU  L 1082.55    6 (4)-             8.5 NS    5                              
+238PU2 L XREF=B$FLAG=J$                                                         
+238PU cL J$E1+M2 to 4+. Configuration proposed by 1972Wi22                      
+238PU cL T         from |b|g(t) in {+238}Np decay (1970Be57)                    
+238PU  G 114.4     4  1.51   27  (E2)                   8.67                    
+238PU3 G BE2W=0.46 6$                                                           
+238PU  G 319.29    11 2.3    3 M1+E2     1.0      5     0.66  23                
+238PU  G 421.14    11 6.0    2  [M1]                    0.29                    
+238PU  G 936.61    6 100.0   14  E1+M2   -0.24    4    0.009   5                
+238PU3 G BE1W=2.01E-8 12                                                        
+238PU  L 1102.4     5 9-                                                    B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 190.8      6 60     19                                             F   
+238PU  G 330.5      6 35     11                                             F  ?
+238PU  G 589.9      5 100    24E1                                           F   
+238PU  L 1125.75   17 (4+)                                                      
+238PU2 L XREF=C$FLAG=F$                                                         
+238PU cL J$|g's to 2+ and 4+. Possible member of K=2 band                       
+238PU  G 979.80    20 100                                                       
+238PU  G 1081.7     3 19      7                                                 
+238PU  L 1134      4 (0+)                                                       
+238PU2 L XREF=F$                                                                
+238PU cL J$L(p,t)=(0)                                                           
+238PU  L 1174.4    4 (2+)                                                       
+238PU2 L XREF=A$                                                                
+238PU cL J         from |g transitions to 0+, 2+ states J|p=1|+,2+.             
+238PU2cL Intensity ratio is not in good agreement with                          
+238PU3cL Alaga rule for J=1, but it agrees well for J=2.                        
+238PU  G 1130.2    5  100                                                       
+238PU  G 1174.5    5  83     22                                                 
+238PU  L 1202.45    8 (3)-                                                      
+238PU2 L XREF=B$FLAG=K$                                                         
+238PU cL J$M1(+E2) to (4)-. |g to 2+                                            
+238PU  G 119.9     1  100     4  M1(+E2)  0.38   LT    3.81   21                
+238PUS G               LC=   2.69   $MC=  0.657   $NC+=  0.246   $              
+238PU  G 132.49    11 2.4    2  [E1]                   0.271                    
+238PU  G 174.0     2  22.0    5 [E1]                   0.143                    
+238PU  L    1228.6518 0+                                                        
+238PU2 L XREF=ACE$FLAG=G$                                                       
+238PU cL J$E0 to g.s.                                                           
+238PU  G 1184.55   21 100        E2                     0.0091                  
+238PUS G KC=0.00695   $LC=0.00163   $                                           
+238PU  G 1228.7    3             E0                                9.2    12    
+238PU  L 1252      2                                                            
+238PU2 L XREF=F$                                                                
+238PU  L 1264.20   15 2+                                                        
+238PU2 L XREF=ACE$FLAG=G$                                                       
+238PU cL J$E0+E2+M1 to 2+                                                       
+238PU  G 1118.25   21 100       [E2]                   0.0102                   
+238PU  G 1220.15   21 81     15 E0+E2+M1               0.26    3                
+238PU  L 1310.3    3  1+,2+                                                    ?
+238PU2 L XREF=A$                                                                
+238PU cL J$M1 to 2+. log| {Ift}=7.4 from 1+ rules out 3+                        
+238PU  G 1266.2    3 100       M1                       0.0268                  
+238PUS G KC= 0.0213   $LC=0.00413   $                                           
+238PU  L 1340.4     6 11-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 238.0      6 74     25E2                                               
+238PU  G 262.6                                                                 ?
+238PU cG E$From authors' figure, not in their table.                            
+238PU  G 568.5      6 100    29E1                                               
+238PU  L 1426.4     6 14+                                                   A   
+238PU2 L XREF=GHJ$                                                              
+238PU  G 348.8      5 100                                                   F   
+238PU  L 1426.61   24  0+                                                       
+238PU2 L FLAG=P                                                                 
+238PU2 L XREF=A$FLAG=H$                                                         
+238PU cL J$E0 to g.s.                                                           
+238PU  G 821.5      4 100       E1                     0.00574                  
+238PUS G KC=0.00465   $LC= 818E-6   $                                           
+238PU  G 1426.6     3           E0                                 8.5    12    
+238PU  L    1447.2419 1-                                                        
+238PU2 L XREF=A$                                                                
+238PU cL J$E0 to 1-                                                             
+238PU2cL intensity ratio of gammas to g.s. band suggests K=0                    
+238PU  G 841.9     4           E0                                  4.4     5    
+238PU  G 1403.2    3  100     9E1                      0.00229                  
+238PUS G KC=0.00187   $LC= 316E-6   $                                           
+238PU  G 1447.3    3  62     4 E1                      0.00217                  
+238PUS G KC=0.00177   $LC= 300E-6   $                                           
+238PU  L    1458.2922 2+                                                        
+238PU2 L XREF=A$FLAG=H$                                                         
+238PU cL J$E0+E2+M1 to 2+                                                       
+238PU2cL energy spacing of the 1426 and 1458 levels                             
+238PU3cL and the ratio of ft's for the |e feedings to these levels              
+238PU4cL suggest that they are members of a band                                
+238PU  G 1414.0    3 23      AP E0+E2+M1                                        
+238PU  G 1458.5    3 100                                                        
+238PU  L 1559.82   14 1-                                                        
+238PU2 L XREF=A$                                                                
+238PU cL J$M1+E2 to 2-. |g to g.s.                                              
+238PU2cL gammas to 0+, 1-, 2+ levels                                            
+238PU  G 574.0     3  77     19 M1+E2    3.2     5     0.055   6                
+238PU  G 597.0     3  100    12[M1+E2]                 0.12    8                
+238PU  G 954.7     3  58     AP[M1+E2]                 0.035  22                
+238PU  G 1515.9    3  79     10                                                 
+238PU  G 1560.0    3  65     10                                                 
+238PU  L     1596.3 3(2+)                                                       
+238PU2 L XREF=A$                                                                
+238PU cL J$gammas to 0+, 2+, and possibly 4+. J=1 is not ruled out if the       
+238PU2cL placement of 1450|g to 4+ is not correct                               
+238PU  G 633.0      5 77     AP                                                ?
+238PU  G 1450.4     5 77     AP                                                ?
+238PU  G 1552.2     3 100    16                                                 
+238PU  G 1596.5     5 31     AP                                                 
+238PU  L 1621.29   12 1-                                                        
+238PU2 L XREF=A$                                                                
+238PU cL J$E1 to 0+                                                             
+238PU2cL E0+M1+E2 transitions with about equal intensity                        
+238PU3cL to K,J|p=0,1- and 1,1- states imply that the configuration of          
+238PU4cL the 1621 state is probably a mixture of K=0 and K=1                    
+238PU  G 658.4     2 6.2      7E0+E2+M1                1.39   14                
+238PU  G 679.5     4 8.8      9E1                      0.00809                  
+238PUS G KC=0.00654   $LC=0.00117   $                                           
+238PU  G 1016.2    2 9.7     10E0+E2+M1                0.66    7                
+238PU  G 1577.3    3 100     8 E1                                               
+238PUS G KC=0.00154   $                                                         
+238PU  G 1621.4    4 0.6     AP                                                 
+238PU  L 1621.8     6 13-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 281.5      6 100    39                                                 
+238PU  G 544.1      6 73     33E1                                               
+238PU  L 1636.40   13  1-                                                       
+238PU2 L XREF=A$                                                                
+238PU cL J$E1 to 0+                                                             
+238PU2cL E0 transitions with about same intensity                               
+238PU3cL to K,J|p=0,1- and 1,1- states imply that the configuration of          
+238PU4cL the 1636.6 state is a mixture of K=0 and K=1                           
+238PU  G 653.3     5  4.4    AP                                                 
+238PU  G 673.4     2            E0                                 3.3     4    
+238PU  G 1031.3    3            E0                                 4.2     4    
+238PU  G 1592.5    3  38     4                                                  
+238PU  G 1636.6    3  100    9  E1                                              
+238PU  L 1651.2    4   1,2+                                                     
+238PU2 L XREF=A$                                                                
+238PU cL J$|g's to 0+ and 2+                                                    
+238PU  G 1607.0    4  100                                                       
+238PU  G 1651.4    5  18     7                                                  
+238PU  L    1726.3422  1,2+                                                     
+238PU2 L XREF=A$                                                                
+238PU cL J$|g's to 0+ and 2+                                                    
+238PU  G 1682.2    3  100       E1,E2                                           
+238PU  G 1726.4    3  59      9                                                 
+238PU  L     1783.5 3  1,2+                                                     
+238PU2 L XREF=A$                                                                
+238PU cL J$|g's to 0+ and 2+                                                    
+238PU  G 1739.4    4  48     15                                                 
+238PU  G 1783.6    4  100                                                       
+238PU  L 1815.5     516+                                                    A   
+238PU2 L FLAG=P                                                                 
+238PU2 L XREF=GHJ$                                                              
+238PU  G 389.0     5 100       E2                                           F   
+238PU2 G FL=1426.4                                                              
+238PU2 G FLAG=F$                                                                
+238PU  L 1898.42   22 2-                                                        
+238PU2 L XREF=A$                                                                
+238PU cL J$M1 |g's to 1- and 3-                                                 
+238PU  G 935.2      3 27     AP                                                ?
+238PU  G 1237.0    3  81      7M1                       0.0285                  
+238PUS G KC= 0.0227   $LC=0.00440   $                                           
+238PU  G 1293.2    3  100     9 M1                      0.0254                  
+238PUS G KC= 0.0202   $LC=0.00391   $                                           
+238PU  L 1944.6     4 15-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 323.1      5 100    44                                                 
+238PU2 G FL=1621.8                                                              
+238PU  G 518.3      5 57     29                                                 
+238PU2 G FL=1426.4                                                              
+238PU  L 2241.7     618+                                                    A   
+238PU2 L FLAG=P                                                                 
+238PU2 L XREF=GHJ                                                               
+238PU  G 426.2     5 100       E2                                           F   
+238PU  L 2308.2     5 17-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 363.5      5 100    48E2                                               
+238PU  G 492.8      5 46     46                                                 
+238PU  L 2400      AP                  0.6 NS    2                           M1 
+238PU2 L %SF LE 100                                                             
+238PU cL           %SF: only SF decay observed                                  
+238PU cL T         0.5 ns {I2} {+236}U(|a,2n) (1973Li01),                       
+238PU2cL 0.7 ns {I2} {+238}Pu(d,pn) (1974MeYP).                                 
+238PU cL           1972We09 calculated T{-1/2}(SF)=0.95 ns, T{-1/2}(|g)=7.0 |ms 
+238PU cL           E=2400 {I200} from thresholds (1973Li01).                    
+238PU2cL Calculated energies are:                                               
+238PU3cL E=2250 (1972We09),                                                     
+238PU4cL E=2000 (1971Pa33),                                                     
+238PU5cL E=1800 (1972Ma11).                                                     
+238PU cL           Assignment: {+236}U(|a,2n) excit (1973Li01)                  
+238PU  L 2702.3     820+                                                    A   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=HJ                                                                
+238PU  G 460.6     5 100                                                        
+238PU  L 2708.7     6 19-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 400.5      5 100      E2                                               
+238PU  G 467.1      5 38     AP                                                 
+238PU  L 3143.8     8 21-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 435.1      5 100    49E2                                               
+238PU  G 441.6      5 38     20                                                ?
+238PU  L 3195.4     822+                                                    A   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=HJ                                                                
+238PU  G 493.10    17100                                                    F   
+238PU  L 3500      AP  (0+)            6.0 NS    15                          M2 
+238PU2 L %SF LE 100                                                             
+238PU cL           %SF: only SF decay observed                                  
+238PU cL T         6.5 ns {I15} {+236}U(|a,2n) (1970Bu02,1971Br39),             
+238PU2cL 5.0 ns {I20} {+236}U(|a,2n) (1973Li01).                                
+238PU3cL Other measurements: 1973Na35, 1969Me11                                 
+238PU cL           E=3700 {I200} from {+236}U(|a,2n) thresholds (1973Li01),     
+238PU2cL E=3400 {I400} estimated from excitation functions (1973Br38).          
+238PU cL           Angular distribution of fission fragments                    
+238PU2cL following {+232}Th(|a,F) and {+236}U(a,2nf) reactions                  
+238PU3cL were measured, and possible spin assignments                           
+238PU4cL were proposed from measured anisotropy by 1974SpZS.                    
+238PU5cL See also 1975Kh06 for a discussion on spin of                          
+238PU6cL this isomeric state.                                                   
+238PU cL           Assignment: {+236}U(|a,2n) excit (1971Br39,1973Li01)         
+238PU  L 3610.6    10 23-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 415.7      5 40                                                       ?
+238PU  G 466.8      5 100                                                       
+238PU  L 3717.1    10 24+                                                   A   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=HJ                                                                
+238PU  G 521.7     5  100                                                   F   
+238PU  L 4105.2    11 25-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 494.6      6 100      E2                                               
+238PU  L 4263.7    11 26+                                                   A   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=HJ                                                                
+238PU  G 546.6      5 100                                                   F   
+238PU  L 4623.2    13 27-                                                   B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 518.0      7 100                                                   F   
+238PU  L 4833.3    13 28+                                                   A   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 569.6      6 100                                                   F   
+238PU  L 5161.3       (29-)                                                 B   
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 538.5      7 100                                                   F  ?
+238PU  L 5426.5     9 (30+)                                                 A  ?
+238PU2 L FLAG=P                                                                 
+238PUX L XREF=H                                                                 
+238PU  G 592.2      6 100                                                   F  ?

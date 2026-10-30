@@ -1,0 +1,373 @@
+225RA    ADOPTED LEVELS, GAMMAS                                  09NDS    200905
+225RA  H TYP=ERR$AUT=B. Singh$DAT=11-MAR-2013$COM=Some RI set to 100$           
+225RA  H TYP=FUL$AUT=A. K. Jain (a), R. Raut (b), J. K. Tuli$                   
+225RA2 H CIT=NDS 110, 1409 (2009)$CUT=1-Dec-2008$                               
+225RA  Q 356       5 4904    3 7090    145097    5     2012WA38                 
+225RA cQ $Note: Current evaluation has used the following Q record              
+225RA2cQ 356       5  {I4904}.5 {I29} 6950   50 {I5097}    5    2003Au03        
+225RA c  Assignment: decay product of {+233}U series (1947En03 and 1947Ha02);   
+225RA2c  chem (1950Ha52).                                                       
+225RA c  Fission isomer was not observed in {+226}Ra(n,2n) with E=0.7-10 MeV and
+225RA2c  with E=14.5 MeV (1972Ku26).                                            
+225RA c  Fission barrier was deduced by 1970Ba22 as 7.0 MeV {I5} from their     
+225RA2c  {+226}Ra(n,F) data.                                                    
+225RA c  1989Sh07: Experimental data interpreted in terms of the coexistence    
+225RA2c  of reflection symmetry and reflection asymmetry. Odd particle is       
+225RA3c  suggested to polarize the soft nuclei towards or away from octupole    
+225RA4c  deformation.                                                           
+225RA c  1988Le13: Calculated level energies including octupole and             
+225RA2c  quadrupole deformations with a reflection-asymmetric rotor core.       
+225RA3c  Calculations of transition probabilities between                       
+225RA4c  parity doublet bands. See also 1986Ch43 and 1986Re04 for discussions.  
+225RA c  1975Iv06: Calculated nonrotational states.                             
+225RA c                                                                         
+225RA CL BAND(A)   KPI=1/2+ BAND, LARGELY INCLUDES 1/2[631] BAND.               
+225RA2cL Coriolis coupled with the 3/2[631] band.                               
+225RA CL BAND(B)   KPI=1/2- BAND, LARGELY INCLUDES 1/2[501] BAND.               
+225RA CL BAND(C)   KPI=3/2+ BAND, LARGELY INCLUDES 3/2[631] BAND.               
+225RA2cL Coriolis coupled with the 1/2[631] band.                               
+225RA CL BAND(D)   KPI=3/2- BAND.                                               
+225RA CL BAND(E)   5/2[633] BAND.                                               
+225RA CL BAND(H)   K=1/2                                                        
+225RA cG E         From {+229}Th |a decay and {+225}Fr |b{+-} decay.            
+225RA cG RI        Relative photon intensity deexciting each level.             
+225RA cG RI(A)     Set 100 (|b. Singh)                                          
+225RA cG M         From ce work in {+229}Th |a decay and |g-x ray coincidence   
+225RA2cG data in {+225}Fr |b{+-} decay.                                         
+225RA  XA229TH A DECAY                                                          
+225RA  XB225FR B- DECAY                                                         
+225RA  XD226RA(D,T), (POL D,T)                                                  
+225RA  XH226RA(3HE,A)                                                           
+225RA  L 0.0          1/2+             14.9 D    2                          A   
+225RA2 L %B-=100                                                                
+225RA3 L MOMM1=-0.7338 15                                                       
+225RA cL           (LASER spectroscopy; 1987Ar20,1983Ah03)                      
+225RA cL           |m=-0.85 was calculated by 1988Le13 for octupole             
+225RA2cL deformation of |b{-3}=0.15 and quadrupole deformation of               
+225RA3cL |b{-2}=0.148. See also 1983Ra28, 1985Dz04 for calculated |m values.    
+225RA4 L XREF=ABD                                                               
+225RA cL           No |a's observed: %|a<0.0001 (1960Ma40).                     
+225RA cL J         spin measured (LASER spectroscopy; 1983Ah03); the orbital    
+225RA2cL assignment from measured magnetic moment.                              
+225RA cL T$measured values: 15.0 d {I6} (1987Mi10), 14.8 d {I2} (1950Ha52).     
+225RA2cL Other measurement: 14 d (1947En03)                                     
+225RA  L 25.41     2   5/2+              0.88 NS 4                          A   
+225RA2 L XREF=ABDH                                                              
+225RA cL J         242.4|g from 7/2+ is M1; 25.39|g to 1/2+ is (E2).            
+225RA cL T         from (|a)(ce)(t) data in {+229}Th |a decay (1985Is03).       
+225RA  G 25.39     2 100        (E2)                   7377                 A   
+225RAB G BE2W=102 6                                                             
+225RA  L 31.56     3  3/2-               2.1 NS  5                          B   
+225RA2 L XREF=AB                                                                
+225RA cL J         31.50|g to 1/2+ g.s. and 148.15|g from 5/2+ are E1.          
+225RA cL T         from (|a)(ce)(t) data in {+229}Th |a decay (1985Is03).       
+225RA  G 31.50     5 100       E1                      2.44                 A   
+225RAB G BE1W=0.00081 20                                                        
+225RA  L 42.77     3   3/2+                3 NS   LT                        A   
+225RA2 L XREF=ABDH                                                              
+225RA cL J         42.82|g to 1/2+ g.s. is M1+E2.                               
+225RA cL T         from 1970Tr04 (presumably from time limit set for |g|g and   
+225RA2cL |gce coincidence experiment).                                          
+225RA  G 17.36     3  110    60 (M1)                   140.6                    
+225RAB G BM1W GT 0.0064                                                         
+225RA  G 42.82     5  100    7  (M1+E2)  0.28    7     77     20                
+225RAB G BM1W GT 0.00027 $ BE2W GT 2.0                                          
+225RA  L 55.16     6  (1/2-)                                                B   
+225RA2 L XREF=AB                                                                
+225RA cL J         23.6|g to 3/2- is (M1+E2); 55.11|g to 1/2+ g.s.; probable    
+225RA2cL 1/2 member of the K=1/2 band.                                          
+225RA  G 23.6         46     4  (M1+E2)  0.034   34    241    12                
+225RA  G 55.11     3  100    16                                                 
+225RA  L 69.36     6  (7/2)-                                                B   
+225RA2 L XREF=AB                                                                
+225RA cL J         43.990|g to 5/2+ is E1, 37.8|g to 3/2- is (E2).              
+225RA  G 37.8      1  0.50   25 (E2)                   1040                     
+225RA  G 43.990    10 100    5  E1                     1.002                    
+225RA  L 100.50    6  (9/2)+                                                A   
+225RA2 L XREF=AH                                                                
+225RA cL J         75.09|g to 5/2+ of g.s. band is E2; 11.1|g from 7/2+ of g.s. 
+225RAxcL band.                                                                  
+225RA  G 31.10     5  100    10                                                 
+225RA  G 75.09     7  72     16 E2                     37.6                     
+225RA  L 101          (3/2+)                                                    
+225RA2 L XREF=D                                                                 
+225RA cL J         angular distributions in (d,t) reaction were consistent with 
+225RA2cL J|p=3/2+, 1/2+ or 5/2-; 3/2+ assignment was prefered (1983Ny01).       
+225RA  L 111.60    5   7/2+                                                 A   
+225RA2 L XREF=ABDH                                                              
+225RA cL J         86.25|g and 68.83|g to 5/2+ and 3/2+ of g.s. band are M1+E2  
+225RA2cL and E2, respectively; intensities of deexciting |g's.                  
+225RA  G 11.1      1                                                            
+225RA  G 42.3      1  6.2    7                                                  
+225RA  G 68.83     3  10.2   10 E2                     57.0                     
+225RA  G 86.25     4  100    8  M1+E2    0.27    9     6.0    7                 
+225RA  L 120.36    6  5/2-                                                  B   
+225RA2 L XREF=AB                                                                
+225RA cL J         147.64|g from 7/2+ is E1, 77.63|g to 3/2+.                   
+225RA  G 50.99     4  39     10                                                 
+225RA  G 77.63     5  100    14                                                 
+225RA  G 94.92     8  30     7                                                  
+225RA  L 149.96    6  3/2+                                                  C   
+225RA2 L XREF=ABDH                                                              
+225RA cL J         150.04|g to 1/2+ is M1+E2.                                   
+225RA  G 94.73     2  33     3                                                  
+225RA  G 107.108   8  100    6  M1+E2    0.3     3     13.1   6                 
+225RA  G 124.55    5  85     8  (M1)                   8.84                     
+225RA  G 150.04    3  7.3    19  M1+E2   0.4     4     4.7    5                 
+225RA  L 179.75    2  5/2+                                                  C   
+225RA2 L XREF=AB                                                                
+225RA cL J         179.757|g to 1/2+ is E2.                                     
+225RA  G 30.3      1  3.5    LT (M1+E2)                223    AP                
+225RA  G 68.09     4  5.8    9  M1+E2    0.32    16    15     5                 
+225RA  G 110.332   8  10.5   11                                                 
+225RA  G 136.990   4  100    3  M1(+E2)                6.91                     
+225RA  G 148.15    4  75     6  E1                     0.1877                   
+225RA  G 154.336   10 65     2  M1+E2    0.4     4     4.4    4                 
+225RA  G 179.757   7  16.7   14 E2                     0.884                    
+225RA  L 203.5     AP (9/2-)                                                B  ?
+225RA2 L XREF=A                                                                 
+225RA cL J         134.2|g to (7/2)- is (M1); |a-hindrance factor.              
+225RA  G 134.2     1            (M1)                   7.14                     
+225RA  L 215.8     AP                                                          ?
+225RA2 L XREF=A                                                                 
+225RA cL           This level could possibly be the 13/2+ member of the         
+225RA2cL K=1/2 g.s. band.                                                       
+225RA  L 220.55    7  (7/2+,9/2+)                                               
+225RA2 L XREF=ADH                                                               
+225RA cL J         63.7|g from (7/2)+ is possibly M1+E2; I|g's of transitions   
+225RA2cL to (9/2)+, 7/2+ states.                                                
+225RA  G 109.2        86     16                                                 
+225RA  G 119.98    2  100    40                                                 
+225RA  G 194.3     3  60     40                                                 
+225RA  L 225.2     1  3/2-                                                  D   
+225RA2 L XREF=B                                                                 
+225RA cL J         169.9|g to 1/2- is M1+E2.                                    
+225RA  G 45.2      2  5.6    10                                                 
+225RA  G 75.1      1  45     4                                                  
+225RA  G 169.9     1  20     2 M1+E2                   2.4    13                
+225RA  G 182.3     1  100                                                       
+225RA  G 193.5     3  15     3                                                  
+225RA  G 199.7     1  35     3                                                  
+225RA  G 225.1     1  55     4                                                  
+225RA  L 226.9     3  (11/2+)                                               A   
+225RA2 L XREF=A                                                                 
+225RA cL J         126.4|g to 9/2+ member of the g.s. band; |a-hindrance        
+225RA2cL factor. J|p=(13/2+) was proposed by 1986He06.                          
+225RA  G 126.4     2 100       [M1,E2]                 5.8    23            A   
+225RAF G FL=100.50                                                              
+225RA  L 236.25    2   5/2+                                                 E   
+225RA2 L XREF=ABDH                                                              
+225RA cL J         favored |a decay from 5/2[633] {+229}Th g.s..                
+225RA  G 56.518    5  6.5    5  M1+E2    0.11    11    18.9   16                
+225RA  G 86.40     5  58     3  M1                     5.03                     
+225RA  G 115.98    10 0.40   7                                                  
+225RA  G 124.65    5  16.7   14 (M1)                   8.82                     
+225RA  G 166.976   7  4.7    3                                                  
+225RA  G 193.509   4  100       M1                     2.53                     
+225RA  G 204.690   5  13.5   7  (E1)                   0.0861                   
+225RA  G 210.853   3  63     7  M1                     1.98                     
+225RA  G 236.249   8  3.95   21 E2                     0.333                    
+225RA  L 243.56    4  7/2+                                                  C   
+225RA2 L XREF=ADH                                                               
+225RA cL J         218.154|g and 142.962|g to the 5/2+ and 9/2+ members of the  
+225RA2cL g.s. band are M1.                                                      
+225RA  G 123.193   13 37.3   18                                                 
+225RA  G 131.926   5  83     3  M1                     7.49                     
+225RA  G 142.962   5  100    3  M1                     5.97                     
+225RA  G 174.82    2  8      LT                                                 
+225RA  G 200.807   16 17.0   8                                                  
+225RA  G 218.154   17 46     6  M1                     1.81                     
+225RA  L 248.5     AP                                                          ?
+225RA2 L XREF=A                                                                 
+225RA  G 68.8                                                               *  ?
+225RA  L 260.2     1 (5/2)-                                                 D   
+225RA2 L XREF=B                                                                 
+225RA cL J         139.8|g to 5/2- is M1+E2, 190.8|g to (7/2)- is M1,           
+225RA2cL 110.3|g to 3/2+ level.                                                 
+225RA  G 80.3      1  10.8   21                                                 
+225RA  G 110.3     1  83     13 (E1)                   0.385                    
+225RA  G 139.8     1  46     4  M1+E2                  4.6    21                
+225RA  G 190.8     1  100    9  M1                     2.63                     
+225RA  G 217.5     1  37     4                                                  
+225RA  G 228.6     1  13.7   17                                                 
+225RA  G 234.8     1  60     5                                                  
+225RA  L 267.92    5   7/2+                                                 E   
+225RA2 L XREF=ADH                                                               
+225RA cL J         156.409|g to 7/2+ is M1, gammas to 3/2+ and 9/2+ levels;     
+225RA2cL |a hindrance factor.                                                   
+225RA  G 31.57     9  5.7    9                                                  
+225RA  G 117.99    15 1.1    4                                                  
+225RA  G 147.64    5  17.2   18 E1                     0.1893                   
+225RA  G 156.409   9  100    3  M1                     4.62                     
+225RA  G 167.45    5  4.3    9                                                  
+225RA  G 225.149   19 6.0    9                                                  
+225RA  G 242.4     2  7.9    13 M1                     1.35                     
+225RA  L 272.15    15                                                           
+225RA2 L XREF=A                                                                 
+225RA cL           Level could be the 9/2+ member of the K=3/2 band based at    
+225RA2cL 149.96 keV.                                                            
+225RA  G 30.3                                                               *   
+225RA  G 68.8                                                               *  ?
+225RA  G 160.6                                                                  
+225RA  G 171.75    2                                                            
+225RA  L 284.49    5  7/2+                                                      
+225RA2 L XREF=A                                                                 
+225RA cL J         127.926 and 183.928 |g's to 7/2+ and 9/2+ levels are M1,     
+225RA2cL 134.2|g to 3/2+ level.                                                 
+225RA  G 63.7      2  3.6    15                                                 
+225RA  G 104.6     2  6      2                                                 ?
+225RA  G 134.2        2.2    LE                                             *   
+225RA  G 172.926   18 80     8  M1                     3.47                     
+225RA  G 183.928   8  100    5  M1(+E2)                2.92                     
+225RA  G 215.100   10 97     8                                                  
+225RA  G 259.08    4  24     4                                                  
+225RA  L 293       8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 321.76    8  (9/2+)                                                E   
+225RA2 L XREF=ADH                                                               
+225RA cL J         |a hindrance factor; level's energy spacing from the         
+225RA2cL 5/2+ and 7/2+ members of the band; |g deexcitation mode.               
+225RA  G 49.75     8  11.1   11                                                 
+225RA  G 53.75     20 5.8    16                                                 
+225RA  G 78.3      2  4.2    11                                                 
+225RA  G 101.1     2  9.5    16                                                 
+225RA  G 142.0     1  5.8    16                                                 
+225RA  G 210.15    8  100    22                                                 
+225RA  G 221.22    5  12     4                                                  
+225RA  G 252.43    3  49     7                                                  
+225RA  G 296.2     2  6      AP                                                 
+225RA  L 328       AP                                                           
+225RA2 L XREF=A                                                                 
+225RA  L 335       AP                                                          ?
+225RA2 L XREF=A                                                                 
+225RA  L 347       AP                                                          ?
+225RA2 L XREF=A                                                                 
+225RA  L 390.0     4  (11/2+)                                               E   
+225RA2 L XREF=ADH                                                               
+225RA cL J         |a hindrance factor; level's energy spacing from other       
+225RA2cL members of the band.                                                   
+225RA  G 163.34    17                                                           
+225RA  G 169.09    3                                                            
+225RA  G 174.22    22                                                       *   
+225RA  L 394.2     1  3/2-,5/2                                                  
+225RA2 L XREF=B                                                                 
+225RA cL J         |g transitions to 3/2+, 3/2-, 5/2+ and 7/2- levels.          
+225RA  G 134.0     1  45     15                                                 
+225RA  G 157.9     1  65     15                                                 
+225RA  G 169.0     3  100    50                                                 
+225RA  G 244.2     1  35     10                                                 
+225RA  G 324.7     2  20     5                                                  
+225RA  G 368.8     2  40     15                                                 
+225RA  L 394.72    13 (3/2,5/2,7/2)+                                            
+225RA2 L XREF=A                                                                 
+225RA cL J         158.42|g to 5/2+ is M1.                                      
+225RA  G 126.5     3  23     11                                                 
+225RA  G 151.6     3  53     AP                                                 
+225RA  G 158.42    12 100    11 M1(+E2)  0.9     LT    4.5    14                
+225RA  G 174.22    11                                                       *   
+225RA  L 400       8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 417       AP                                                          ?
+225RA2 L XREF=A                                                                 
+225RA  L 448       10                                                           
+225RA2 L XREF=H                                                                 
+225RA  L 478.4     1 (3/2)                                                      
+225RA2 L XREF=AB                                                                
+225RA cL J         from |g transitions to 1/2+, 5/2+ and 5/2- levels J|p=       
+225RA2cL 3/2|+, 5/2+. Transition to the 1/2+ state being the strongest          
+225RA3cL suggests J=3/2.                                                        
+225RA  G 242.1     1  24     3                                                  
+225RA  G 253.4     1  29     5                                                  
+225RA  G 328.6     1  20     5                                                  
+225RA  G 358.1     3  8      4                                                  
+225RA  G 435.6     1  71     8                                                  
+225RA  G 453.0     1  50     7                                                  
+225RA  G 478.3     1  100    10                                                 
+225RA  L 484       8                                                            
+225RA2 L XREF=DH                                                                
+225RA cL           Level seen in (d,t) at 484-keV was possibly doublet          
+225RAxcL (1983Ny01).                                                            
+225RA cL J         (5/2+) was proposed by 1983Ny01 from (d,t) data.             
+225RA  L 487       3  (13/2+)                                               E   
+225RA2 L XREF=AD                                                                
+225RA cL J         |a hindrance factor; level energy spacing from other         
+225RA2cL members of the band.                                                   
+225RA  L 535       8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 546       8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 603       3                                                            
+225RA2 L XREF=AD                                                                
+225RA  L 609       3                                                            
+225RA2 L XREF=ADH                                                               
+225RA  L 630       8                                                            
+225RA2 L XREF=D                                                                 
+225RA cL J         (1/2+),(5/2+) was suggested by 1983Ny01 from (d,t) data.     
+225RA  L 675       8                                                            
+225RA2 L XREF=D                                                                 
+225RA cL J         (3/2+) was suggested by 1983Ny01 from (d,t) data.            
+225RA  L 724.1     1  (3/2,5/2)                                                 
+225RA2 L XREF=B                                                                 
+225RA cL J         intensities of gammas to 3/2+, 3/2- and 5/2- levels.         
+225RA  G 464.1     1  36     7                                                  
+225RA  G 499.0     2  100    16                                                 
+225RA  G 574.1     2  43     7                                                  
+225RA  L 815       8 (5/2-)                                                     
+225RA2 L XREF=DH                                                                
+225RA cL J         (d,t) data.                                                  
+225RA  L 851       8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 898       8 (1/2-)                                                 H   
+225RA2 L XREF=DH                                                                
+225RA cL J         from (d,t) data.                                             
+225RA  L 956       8 (5/2-)                                                 H   
+225RA2 L XREF=DH                                                                
+225RA cL J         from (d,t) data.                                             
+225RA  L 967       8 (3/2-)                                                 H   
+225RA2 L XREF=DH                                                                
+225RA cL J         from (d,t) data.                                             
+225RA  L 1009      8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 1025      8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 1056      8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 1070      8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 1091      8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 1156      8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 1184      10                                                           
+225RA2 L XREF=H                                                                 
+225RA  L 1225      8  (5/2-)                                                    
+225RA2 L XREF=DH                                                                
+225RA cL J         from (d,t) data 1983Ny01 proposed 5/2[503] assignment.       
+225RA  L 1258      8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 1272      10                                                           
+225RA2 L XREF=H                                                                 
+225RA  L 1334      8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 1377      10                                                           
+225RA2 L XREF=H                                                                 
+225RA  L 1441      8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 1479      8                                                            
+225RA2 L XREF=DH                                                                
+225RA  L 1553      8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 1766      8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 1792      8                                                            
+225RA2 L XREF=D                                                                 
+225RA  L 1872      10                                                           
+225RA2 L XREF=H                                                                 
+225RA  L 1912      10                                                           
+225RA2 L XREF=H                                                                 
+225RA  L 1972      10                                                           
+225RA2 L XREF=H                                                                 
+225RA  L 2138      10 (13/2+)                                                   
+225RA2 L XREF=H                                                                 
+225RA cL J         13/2+, 3/2[606] assignment was proposed by 1986Lo01 from     
+225RA2cL their ({+3}He,|a) data.                                                

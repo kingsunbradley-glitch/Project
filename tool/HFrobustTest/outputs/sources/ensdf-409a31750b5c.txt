@@ -1,0 +1,37 @@
+229AM    233BK A DECAY                 2015DE22                  26NDS    202601
+229AM  H TYP=FUL$AUT=F.G. KONDEV, J.K. TULI and E. BROWNE$                      
+229AM2 H CIT=NDS 208, 397 (2026)$CUT=23-Oct-2025$                               
+229AM c  2015De22: {+233}Bk produced in multinucleon transfer reaction          
+229AM2c  {+248}Cm({+48}Ca,X),E({+48}Ca)=270 MeV at the UNILAC facility at GSI.  
+229AM3c  Target=460 |mg/cm{+2} thick {+248}Cm oxide deposited on Ti backing.    
+229AM4c  The velocity filter SHIP was used to separate target-like reaction     
+229AM5c  products which were implanted on a position sensitive silicon strip    
+229AM6c  detector (PSSD). A box of six Si detectors surrounded the PSSD to      
+229AM7c  detect escape |a and SF events. The {+233}Bk nuclide was identified    
+229AM8c  by measuring |a energies and half-lives in the decay chain:            
+229AM9c  {+233}Bk [E|a=7.77 MeV {I2}, T{-1/2}=21 s {I+48-17}] ->                
+229AMac  {+229}Am [E|a=8.00 MeV {I2}, T{-1/2}=6.4 s {I+149-54}] ->              
+229AMbc  {+225}Np [E|a=pileup, T{-1/2}=3.8 ms {I+76-27}] -> {+221}Pa ->         
+229AMcc  {+217}Ac -> {+213}Fr [E|a=6.75 MeV {I2}, T{-1/2}=110 s {I+250-90}]     
+229AM cA HF$r{-0}({+229}Am)=1.50 by evaluators from the trend of r{-0} in       
+229AM2cA 2020Si16                                                               
+233BK  P 0.0          (3/2-)            21 S     +48-17         8170      SY    
+233BK cP QP$From 2021Wa16. |DQ(|a)=210 syst (2021Wa16)                          
+233BK cP T$From |a(t) in 2015De22                                               
+233BK cP J$From systematics in even-N Bk (Z=97) isotopes (2021Ko07), but        
+233BK2cP J|p=7/2+ cannot unambiguously be excluded.                             
+233BK cP $Probable configuration=|p3/2[521], if J|p=3/2- or |p7/2[633], if      
+233BK2cP J|p=7/2+                                                               
+229AM  N                       1.0     AP                                       
+229AM  L  0.0          (5/2-)             0.9 S  +21-7                          
+229AM2 L %A=100                                                                 
+229AM cL J,T$From adopted levels                                                
+229AM cL $Probable configuration=|p5/2[523]                                     
+229AM  L 2.60E2    20  (3/2-)                                                  ?
+229AM cL E$From 2021Ko07, based on Q(|a) systematics                            
+229AM cL J$Based on favored |a decay from {+233}Bk [J|p=(3/2-)]. J|p=7/2+       
+229AM2cL cannot unambiguously be excluded.                                      
+229AM cL $Probable configuration=|p3/2[521], if J|p=3/2- or |p7/2[633], if      
+229AM2cL J|p=7/2+                                                               
+229AM  A 7770      20  100   AP  2.0   AP                                       
+229AM cA E,IA$From 2015De22                                                     

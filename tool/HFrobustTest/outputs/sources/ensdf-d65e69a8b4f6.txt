@@ -1,0 +1,35 @@
+248MD    252LR A DECAY                 2001HE35                  25NDS    202507
+248MD  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 204, 374 (2025)$CUT=30-Jun-2024$     
+252LR  P 0                             0.33 S    +11-7          9164      17    
+252LR cP QP$From 2021Wa16                                                       
+252LR cP T$From Adopted Level of {+252}Lr (2021Ma19) which is the weighted      
+252LR2cP average of 0.27 s {I +18 -8} (2008Ne01) and 0.36 s {I +11              
+252LR3cP -7} (2001He35).                                                        
+248MD c  2008Ne01: Alpha decays of {+252}Lr were observed as the                
+248MD2c  grand daughter decay of {+260}Bh produced at the 88-Inch Cyclotron     
+248MD3c  at LBNL. Alphas were detected with a focal plan Si strip detector      
+248MD4c  and a Si-strip detector (FWHM=55 keV)                                  
+248MD c  2001He35: {+252}Lr was produced via {+256}Db |a decay at the           
+248MD2c  filter SHIP at GSI. HPGe detectors were used to measure                
+248MD3c  |a-|g coin, ce half-life.                                              
+248MD c  2001He35 quote HF=6.9 and 15 for the 9018 and 8974 |a's,               
+248MD2c  respectively, but no details are given. The %|a branch of the          
+248MD3c  parent is not known, and except for {+248}Fm, the radius parameters    
+248MD4c  are not available in this mass region                                  
+248MD cA E$From 2001He35, except as noted                                       
+248MD cA E(A)$From 2008Ne01                                                     
+248MD cA IA$Relative |a intensity per 100 |a decays                             
+248MD  A 8820                                                               A   
+248MD  A 9610                                                               A   
+248MD cA E$This |a group is |?0.5 MeV higher than the Q value                   
+248MD  L 0                             7 S       3                              
+248MD cL T$from Adopted levels                                                  
+248MD  A 9018      20 75     AP                                                 
+248MD cA E$other: 9020 (2008Ne01)                                               
+248MD  L 45        24                                                           
+248MD cL E$from |DQ(|a) with the assumption that the 9018|a feeds the g.s. The  
+248MD2cL systematic uncertainty of 10 keV, added quadratically by the           
+248MD3cL authors (2001He35) and subtracted out here to get the uncertainty      
+248MD4cL in |DQ(|a)                                                             
+248MD  A 8974      20  25    AP                                                 
+248MD cA E$other: 8990 (2008Ne01)                                               

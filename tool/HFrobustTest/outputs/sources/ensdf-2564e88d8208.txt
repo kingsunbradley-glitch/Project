@@ -1,0 +1,24 @@
+206FR    210AC A DECAY                 1968VA04,2000He17         25NDS    202503
+206FR  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 201, 346 (2025)$CUT=21-Jan-2025$       
+206FR c  1968Va04: produced by {+197}Au({+20}Ne,X) reaction at 145-153 MeV. At  
+206FR2c  lower energies, and for other reactions, the |a line of {+210}Ac is    
+206FR3c  contaminated with that for the {+211}Ac isotope                        
+206FR c  2000He17: Produced using various heavy-ion reactions at GSI. The       
+206FR2c  velocity filter SHIP was used to separate reaction residues and        
+206FR3c  scattered beam. 16 strips position sensitive silicon detector was      
+206FR4c  used to implant the recoils and correlate subsequent alpha decay       
+206FR5c  events                                                                 
+206FR cA HF$r{-0}({+206}Fr)=1.501 {I5}, unweighted average of 1.5029 {I36}      
+206FR2cA ({+204}Rn), 1.4861 {I29} ({+206}Rn), 1.507 {I11} ({+206}Ra), and       
+206FR3cA 1.5058 {I26} ({+208}Ra) from 2020Si16                                  
+206FR  N                       1.0     AP                                       
+206FR cN BR$Only %|a was observed in 1968Va04 and 2000He17                      
+210AC  P 0.0                           0.35 S    4              7590      60    
+210AC cP T$Weighted average of 0.35 s {I5} (1968Va04) and 0.34 s {I+6-5}        
+210ACxcP (2000He17)                                                             
+210AC cP QP$From 2021Wa16                                                       
+206FR  L  0              3+            16 S      AP                             
+206FR cL E,J,T$From Adopted levels. It is not clear if {+210}Ac |a decays to    
+206FR2cL the 3+ ground state or to the 7+ isomer in {+206}Fr                    
+206FR  A 7462      8  100        1.5   AP                                       
+206FR cA E$From 1968Va04. Others: 7462 keV {I10} (2000He17) and 7482 (1975AlZD) 

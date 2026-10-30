@@ -1,0 +1,1134 @@
+231TH    ADOPTED LEVELS, GAMMAS                                  22NDS    202210
+231TH  H TYP=FUL$AUT=Balraj Singh, Jagdish K. Tuli, and Edgardo Browne$         
+231TH2 H CIT=NDS 185, 560 (2022)$CUT=31-Aug-2022$                               
+231TH  Q 391.5     15 5118.0220 7312   16 4213.4 16    2021WA16                 
+231TH cQ $S(2n)=11912.3 {I22}, S(2p)=13324 {I15} (2021Wa16)                     
+231TH c  2013Fr03 traced the identification of {+231}Th to G.N. Antonoff,       
+231TH2c  Phil. Mag. 22, 419 (1911), where decay of natural uranium was          
+231TH3c  studied for |a and |b radiations, and half-life of 1.5 d (or 36 h) was 
+231TH4c  proposed for a new activity labeled as uranium Y. This reference is    
+231TH5c  not listed in 1931Cu01 or in 1940Li01 (Table of Isotopes). The         
+231TH6c  adopted half-life of 25.57 h {I8} here is from measurements by         
+231TH7c  1958Ca19 and 1951Ja17.                                                 
+231TH c  Mass measurement by Schottky mass spectrometry: 2005LiZZ               
+231TH c  A total of 28 s-wave neutron resonances are reported between           
+231TH2c  1.427 {I5} keV and 563 keV, with resonance parameters in 2018MuZZ      
+231TH3c  evaluation. See {+230}Th(n,|g),(n,n):Resonances dataset for            
+231TH4c  energies and widths.                                                   
+231TH d  Cross section measurements:                                            
+231TH d  {+232}Th(n,2n): 2012Cr01, 2012Pr03, 2011Ad18, 2011Na19, 2011Re13,      
+231TH2d  2010Ad13, 2008CaZU, 2007Sh15, 2003Ka22, 2002Ab03, 1992Ch23.            
+231TH c  Theoretical calculations: consult the NSR database                     
+231TH2c  (www.nndc.bnl.gov/nsr) for 49 primary references, 23 dealing with      
+231TH3c  half-lives of |a and cluster decays and other aspects of radioactive   
+231TH4c  decays, and 26 with nuclear structure calculations. These references   
+231TH5c  are listed under 'document' records in this dataset, which can be      
+231TH6c  accessed through on-line ENSDF database at www.nndc.bnl.gov/ensdf/     
+231TH d  Theory references for structure: 2021Gu26, 2020Ja01, 2020Pa42,         
+231TH2d  2019Qu03, 2017Ta01, 2016Du03, 2013To12, 2004Ad41, 2004Sa55, 2003Ad31,  
+231TH3d  2003Ad34, 2003Ok01, 2002Be89, 2002Ts01, 1988Fe10, 1984Du03, 1982Le19,  
+231TH4d  1982Li02, 1981Be59, 1980Ch30, 1980Ku14, 1979Vo03, 1976Ma44, 1976Vo05,  
+231TH5d  1975Iv06, 1974Mo18                                                     
+231TH d  Theory references for decay: 2022Pr04, 2022Sr01, 2021Bu02, 2021He09,   
+231TH2d  2021Sa52, 2021Ya28, 2020Bu17, 2020De37, 2019Mi13, 2019Sr04, 2017Sa39,  
+231TH3d  2017Su06, 2016Na19, 2016Du03, 2013Is13, 2012Ku29, 2012Ro34, 2012Sa31,  
+231TH4d  2011Sh13, 2010Ni13, 2008Ku21, 1992He12, 1986Pi11, 1985Po11             
+231TH d  2017Ta01: theory, low-excitation M1 resonances                         
+231TH d  2004Sa55: theory, shape isomer energies.                               
+231TH d  2004Ad41: theory, dipole and quadrupole moments                        
+231TH d  2003Ok01, 2002Ts01: theory, collective excitations                     
+231TH d  2022Sr01, 2017Su06: theory, |a decay                                   
+231TH d  2016Du03, 2016Na19, 2011Sh13, 2010Ni13: theory, cluster decays         
+231TH d  2011Ha04, 2005Ha17: theory and analysis of                             
+231TH2d  {+232}Th(n,2n) reaction:                                               
+231TH cG E,RI$From {+235}U alpha decay, unless otherwise specified. Precise     
+231TH2cG gamma-ray energies available from (n,|g) E=th were used in deducing    
+231TH3cG weighted averaged energies listed in {+235}U |a decay dataset.         
+231TH4cG For |g rays from levels above 634 keV and of J<15/2, all energies      
+231TH5cG and branching ratios are available only from (n,|g) E=thermal          
+231TH cG E(x)$Primary |g ray in (n,|g) E=thermal                                
+231TH cG E(r)$Primary |g ray in (n,|g) E=2 keV res.                             
+231TH cG E(z),RI(z,y)$From {+231}Ac |b{+-} decay                                
+231TH cG E(w),RI(w)$From {+230}Th(n,|g), E=th                                   
+231TH cG E(q)$Primary |g in (n,|g) E=th populates a level from which no         
+231TH2cG secondary |g rays are known                                            
+231TH cG M,MR$Based on ce data in (n,|g) E=th (1987Wh01), with multipolarities  
+231TH2cG of primary |g rays from average resonance capture, deduced from        
+231TH3cG average reduced intensities. In cases where upper limit on |a(K)exp    
+231TH4cG for secondary |g rays excludes all mult other than E1 or E2, they were 
+231TH5cG shown as (M1), (E1) or (E2) when the |g-ray placement implies a        
+231TH6cG certain multipolarity. Multipolarities shown as E0+M1(+E2)             
+231TH7cG indicate that the |a(exp) require some M1(+E2) E2 admixture to         
+231TH8cG E0. Exceptions are noted.                                              
+231TH cG M(s)$Multipolarity of primary |g rays in (n,|g) E=th and (n,|g) E=2 keV
+231TH2cG from average resonance capture (ARC) data, where these were deduced    
+231TH3cG from average reduced intensities (see 1987Wh01 for details)            
+231TH cL $Three high-spin bands, two tentatively assigned to signature partners 
+231TH2cL of the |n5/2[633] configuration up to 57/2+ for |a=+1/2 and 51/2+ for  
+231TH3cL |a=-1/2 are given in {+232}Th({+209}Bi,{+210}Bi|g) dataset from        
+231TH4cL 2002AbZV thesis. As firm assignment could not be made in this work,    
+231TH5cL these two bands and a third one with a cascade of eight transitions    
+231TH6cL have not been given in the Adopted dataset.                            
+231TH cL E$From least-squares fit to E|g data, when levels are populated        
+231TH2cL in any of the four |g-ray studies. The gamma-ray energy                
+231TH3cL uncertainty is assumed as 0.5 keV when not stated. Reduced |h{+2} of   
+231TH4cL 2.07 is somewhat larger than critical |h{+2}=1.25 at 95% confidence    
+231TH5cL level, with only three low energy and four high-energy primary         
+231TH6cL |g rays in (n,|g) poorly fitted.                                       
+231TH cL J(a)$Member of K=5/2 rotational band. Energies calculated using        
+231TH2cL |a=6.8 keV and including Coriolis mixing. Band structure: 0- (5/2+),   
+231TH3cL 42- (7/2+), 96- (9/2+), 162 keV (11/2+) (1987Wh01).                    
+231TH cL J(b)$Member of K=5/2 rotational band. Energies calculated using        
+231TH2cL |a=6.7 keV and including Coriolis mixing. Band structure: 185.1-       
+231TH3cL (5/2-), 205.5- (7/2-), 237.2- (9/2-), 280.4- (11/2-), 331.6- (13/2-),  
+231TH4cL 403.9 keV (15/2-) (1987Wh01).                                          
+231TH cL J(c)$Member of K=3/2 rotational band. Energies calculated using        
+231TH2cL |a=6.8 keV and including Coriolis mixing. Band structure: 220.7-       
+231TH3cL (3/2+), 241.7- (5/2+), 276.9- (7/2+), 323.2- (9/2+), and 385.8 keV     
+231TH4cL (11/2+) (1987Wh01).                                                    
+231TH cL J(u)$Member of K=1/2 rotational band. Energies calculated using        
+231TH2cL |a=6.8 keV, a=+0.16, and including Coriolis mixing. Band structure:    
+231TH3cL 792.3- (1/2+), 808.7- (3/2+), 853.0- (5/2+), 891.6- (7/2+), 970.9-     
+231TH4cL (9/2+), 1032.0 keV (11/2+) (1987Wh01).                                 
+231TH cL J(d)$Member of K=1/2 rotational band. Energies calculated using        
+231TH2cL |a=6.8 keV, a=-0.39, and including Coriolis mixing. Band structure:    
+231TH3cL 247.7- (1/2+), 271.5- (3/2+), 302.0- (5/2+), 352.7- (7/2+), 409.5-     
+231TH4cL (9/2+), 489.3 keV (11/2+) (1987Wh01).                                  
+231TH cL J(e)$Member of K=1/2 rotational band. Energies calculated using        
+231TH2cL |a=6.7 keV, a=+0.93, and including Coriolis mixing.  Band structure:   
+231TH3cL 554- (1/2-), 594- (3/2-), and 596 keV (5/2-) (1987Wh01).               
+231TH cL J(j)$Member of K=7/2 rotational band. Energies calculated using        
+231TH2cL |a=6.7 keV, and including Coriolis mixing.  Band structure: 388.6-     
+231TH3cL (7/2-), 452.9- (9/2-), 527.2- (11/2-), 598.9- (13/2-), and 705.4 keV   
+231TH4cL (15/2-) (1987Wh01).                                                    
+231TH cL J(n)$Member of K=5/2 rotational band. Energies calculated using        
+231TH2cL |a=6.8 keV and including Coriolis mixing. Band structure: 317.8-       
+231TH3cL (5/2+), 376.0- (7/2+), 447.9- (9/2+), 531.5 keV (1987Wh01).            
+231TH cL J(o)$Member of K=3/2 rotational band. Energies calculated using        
+231TH2cL |a=6.7 keV and including Coriolis mixing. Band structure: 588.6-       
+231TH3cL (3/2-), 629.3- (5/2-), and 658.5 keV (7/2-) (1987Wh01).                
+231TH cL J(v)$Member of K=1/2 rotational band. Energies calculated using        
+231TH2cL |a=6.8 keV, a=-7.3, and including Coriolis mixing. Band structure:     
+231TH3cL 833.5- (1/2-), 711.6- (3/2-), 984.2- (5/2-), 723.0- (7/2-), and        
+231TH4cL 812.2 keV (15/2-) (1987Wh01).                                          
+231TH cL J$From |g-ray deexcitation in (n,|g) E=thermal. Levels populated by    
+231TH2cL capture |g rays in {+230}Th(n,|g) E=2 keV:ARC have J=1/2, 3/2, based on
+231TH3cL the multipolarity of the capture |g ray.  Additional arguments are     
+231TH4cL given with individual levels.  See detailed arguments for J|p          
+231TH5cL assignments in 1987Wh01. In (d,t), "fingerprint" method (comparison    
+231TH6cL of experimental spectroscopic strengths or cross sections of members   
+231TH7cL of a rotational band with those predicted by perturbed (and            
+231TH8cL unperturbed) Coriolis calculations) has been used by 2008Bu14 to assign
+231TH9cL J|p for levels which form members of a band based on a Nilsson         
+231THAcL configuration.                                                         
+231TH cL T$For excited states, values are from |b|g|g(t) in {+231}Ac decay      
+231TH2cL (1999Aa03)                                                             
+231TH CL BAND(A)$|n5/2[633],|a=+1/2.                                            
+231TH2cL The 13/2+ and 17/2+ members are tentatively included from 1993AcZZ     
+231TH3cL in {+232}Th(d,p2n|g)                                                   
+231TH CL BAND(a)$|n5/2[633],|a=-1/2.                                            
+231TH2cL The 15/2+ and 19/2+ members are tentatively included from 1993AcZZ     
+231TH3cL in {+232}Th(d,p2n|g)                                                   
+231TH CL BAND(B)$|n5/2[752].                                                    
+231TH CL BAND(C)$|n3/2[631].                                                    
+231TH CL BAND(D)$|n1/2[631].                                                    
+231TH CL BAND(E)$|n1/2[501].                                                    
+231TH CL BAND(G)$|n5/2[503].                                                    
+231TH CL BAND(H)$|n3/2[501].                                                    
+231TH CL BAND(J)$|n7/2[743].                                                    
+231TH CL BAND(K)$|n7/2[624].                                                    
+231TH CL BAND(N)$|n5/2[622].                                                    
+231TH CL BAND(O)$|n3/2[761].                                                    
+231TH CL BAND(P)$|n1/2[631]~#0+ + |n5/2[633]~#2+.                               
+231TH CL BAND(S)$|n3/2[631]~#0-.                                                
+231TH CL BAND(T)$|n5/2[752]~#0+ + |n3/2[631]~#0-                                
+231TH CL BAND(U)$|n1/2[640] + |n1/2[631]~#0+.                                   
+231TH CL BAND(V)$|n1/2[770].                                                    
+231TH CL BAND(W)$|n3/2[631]~#0+                                                 
+231TH  XA231AC B- DECAY (7.5 M)                                                 
+231TH  XB235U A DECAY (7.04E+8 Y)                                               
+231TH  XC230TH(N,G) E=TH                                                        
+231TH  XE230TH(N,G) E=TH:PRIMARY G                                              
+231TH  XH230TH(N,G) E=2 KEV:ARC                                                 
+231TH  XJ230TH(N,G),(N,N):RESONANCES                                            
+231TH  XD230TH(D,P)                                                             
+231TH  XK232TH(D,P2NG)                                                          
+231TH  XF232TH(D,T)                                                             
+231TH  XG232TH(3HE,A)                                                           
+231TH  XI232TH(209BI,210BIG)                                                    
+231TH PN                                                                     6  
+231TH  L 0.0         5/2+               25.57 H  8                          A   
+231TH2 L %B-=100                                                                
+231TH cL $%|a|?2|*10{+-14} is expected as negligible, as deduced by evaluators  
+231TH2cL from theoretical T{-1/2}(|b{+-})>100 s and T{-1/2}(|a)=4.9|*10{+17} s  
+231TH3cL (2019Mo01)                                                             
+231THX L XREF=ABCEFK                                                            
+231THF L FLAG=a                                                                 
+231TH cL T$1958Ca19 measured 25.52 h {I1}, where unweighted average was taken   
+231TH2cL in |b counting of 18 different sources, prepared and purified in five  
+231TH3cL different irradiations of {+230}Th by neutrons, with individual values 
+231TH4cL (in h) being: 25.57, 25.44, 25.51, 25.43, 25.51, 25.43, 25.52, 25.56,  
+231TH5cL 25.47, 25.58, 25.51, 25.59, 25.42, 25.58, 25.66, 25.45, 25.56 and      
+231TH6cL 25.51, without uncertainties on individual data points. Evaluators     
+231TH7cL obtain an unweighted average of 25.517 h {I16} or 25.52 h {I2}. In     
+231TH8cL addition, there is no discussion in 1958Ca19 about the systematic      
+231TH9cL uncertainties in the counting procedure and least-squares fits of      
+231THAcL decay curves. Based on a spread of values in 1958Ca19, which may       
+231THBcL serve as an indicator of systematic uncertainty, evaluators estimate   
+231THCcL a total uncertainty of 0.08 h. 1951Ja17 (also plutonium project report 
+231THDcL ANL-4176, p23 (1948)) measured T{-1/2}=25.64 h {I10}, from an average  
+231THEcL of 25.56 h {I6} and 25.73 h {I6} for two samples counted using a G.M.  
+231THFcL counter, where the uncertainties were from dispersion in data, with no 
+231THGcL discussion of the systematic uncertainties, however an uncertainty of  
+231THHcL 0.10 h seems to encompass both the statistical and systematic          
+231THIcL uncertainties. Evaluators adopt T{-1/2}=25.57 h {I8} from weighted     
+231THHcL average of 25.52 h {I8} (1958Ca19) and 25.64 h {I10} (1951Ja17).       
+231THIcL Other measurements: 25.76 h {I21} (1983Ch06); 25.0 h {I5} (1973Ch24);  
+231THJcL 25.7 h {I2} (1971Ko48); 25.2 h, 25.8 h (1963Na06); 24.3 h {I20}        
+231THKcL (1956Ph61); 25.51 h {I23} (1949Kn09, also 25.5 h in AECD-1880 report   
+231THLcL (1948)); 24.5 h (Y. Nishina et al., Nature 142, 874 (1938)); 24.0 h    
+231THMcL (1932Gr01). In 1931Cu01 evaluation, T{-1/2}=24.6 h, without citation   
+231THNcL of a reference for a measurement of this value in their Table I.       
+231THOcL Weighted average of all the measurements listed with uncertainties is  
+231THPcL 25.58 h {I8}, with revised uncertainty of 0.08 h in 1958Ca19           
+231TH cL J$L(d,t)=2; log| {Ift} values to 84.2, 5/2+; 101.4, 7/2+; and 320,     
+231TH2cL 3/2- levels in {+231}Pa require 5/2; 247.6 E2 |g from 247.5, 1/2+ level
+231TH  L 41.9521   16 7/2+                                                  a   
+231THX L XREF=ABCEFGK                                                           
+231THF L FLAG=a                                                                 
+231TH cL J$L(d,t)=4; 41.96|g M1+E2 to 5/2+                                      
+231TH  G 41.98     5  100      M1+E2     0.95    10    3.7E2  4                 
+231TH  L 96.129     3 9/2+                                                  A   
+231THX L XREF=BCDEFGK                                                           
+231THF L FLAG=a                                                                 
+231TH cL J$L(d,t)=4; band member                                                
+231TH  G 54.25     5 13      4   M1+E2    0.85   25    100    29                
+231TH  G 96.09     2 100     6   [E2]                  13.6   2                 
+231TH  L 162.11     3 11/2+                                                 a   
+231THX L XREF=BDFGK                                                             
+231THF L FLAG=a                                                                 
+231TH cL J$L(d,t)=6; band member                                                
+231TH cL J$L=6 in ({+3}He,|a)                                                   
+231TH  G 120.35    5 100        [E2]                    5.04  7                 
+231THF G FL=41.9521                                                             
+231TH cG E$somewhat poor fit. Level-energy difference=120.15 {I3}               
+231TH cG E$from |a decay, based on least squares fit E|g=119.989 {I2}           
+231TH  L 185.7160  13 5/2-               1.07 NS 8                          B   
+231THX L XREF=ABCDEF                                                            
+231THF L FLAG=b                                                                 
+231TH cL J$144|g E1 to 7/2+, 185.7|g E1 to 5/2+; rotational band structure.     
+231TH cL T$other: 0.77 ns {I12} from {+235}U |a decay                           
+231TH  G 143.765   2   19.11 14 E1                     0.207  3                 
+231THB G BE1W=8.0E-6 +7-6                                                       
+231TH  G 185.713   2   100.0 12 E1                     0.1124 16                
+231THB G BE1W=1.95E-5 +16-14                                                    
+231TH  L 205.3101  15 (7/2-)                                                B   
+231THX L XREF=ABCDEF                                                            
+231THF L FLAG=b                                                                 
+231TH cL J$163|g (E1) to 7/2+, 205|g (E1) to 5/2+; Rotational band structure.   
+231TH  G 19.55     5            [M1]                   114.7  19                
+231TH  G 109.176   31  32.2  13 [E1]                   0.0932 13                
+231TH  G 163.357   2   100.0 8 (E1)                    0.1525 22                
+231TH  G 205.311   2   99.2  10(E1)                    0.0887 13                
+231TH  L 221.3966  20 3/2+             74 PS     LT                         C   
+231THX L XREF=ABCD(225)EFHK                                                     
+231THF L FLAG=c                                                                 
+231TH cL J$M1 |g ray from 1/2+ in neutron avg. res. capture; band member from   
+231TH2cL 'Fingerprint' method in (d,t) (2008Bu14)                               
+231TH  G 221.392   20   100.0  M1                      1.96   3                 
+231THS G KC=1.566 22$LC=0.296 5$MC=0.0712 10$                                   
+231THS G NC=0.0190 3$OC=0.00450 7$PC=0.000873 13$QC=8.28E-5 12                  
+231THB G BM1W GT 0.0092                                                         
+231TH  L 225       AP   (13/2+)                                                ?
+231THX L XREF=G                                                                 
+231TH  L 236.899    7 9/2-                                                  B   
+231THX L XREF=BCEF                                                              
+231THF L FLAG=b                                                                 
+231TH cL J$51|g to 5/2-, 74.8|g to 11/2+; band member                           
+231TH  G 31.60     5  7.2    27 [M1]                   110.7  16                
+231TH  G 51.21     5  5.3    12 [E2]                   274    4                 
+231TH  G 74.94     4  11.5   21 [E1]                   0.252  4                 
+231TH cG E$somewhat poor fit. Level-energy difference=74.79 {I3}                
+231TH  G 140.759   20 33.2   23 [E1]                   0.218  3                 
+231TH  G 194.942   7  100.0  21 [E1]                   0.100  2                 
+231TH  L 240.6         (13/2+)                                              A  ?
+231THX L XREF=K                                                                 
+231TH  G 144.5     3  100                                                       
+231TH  L 240.8794  24 5/2+                                                  C   
+231THF L FLAG=c                                                                 
+231THX L XREF=ABCDEFGK                                                          
+231TH cL J$L(d,p)=L(d,t)=2; 199|g M1 to 7/2+. (9/2+) suggested in ({+3}He,|a)   
+231TH2cL with L=3-6 could be for a different level                              
+231TH  G 198.927   3 62      4 M1                      2.64   4                 
+231TH  G 240.876   4 100     6 M1(+E2)   0.3     3     1.45   22                
+231TH  L 247.5867  20 1/2+             74 PS     LT                         D   
+231THX L XREF=ACDEFH                                                            
+231TH cL J$L(d,p)=L(d,t)=0                                                      
+231TH  G 26.2           53   LE  [M1]                  192    4             z  S
+231TH  G 247.586   3  100    18 E2                     0.312  5             w   
+231THB G BE2W GT 58                                                             
+231TH  L 272.1800  15 3/2+                                                  D   
+231THX L XREF=ACD(271)EFH                                                       
+231TH cL J$L(d,p)=L(d,t)=2; M1 |g ray from 1/2+ in neutron avg. res. capture;   
+231TH2cL 272|g M1+E2 to 5/2+.                                                   
+231TH  G 24.6           2.2  13 [M1]                   231    5             z  S
+231TH  G 31.3           7.5  LE (M1)                   114    2             z  S
+231THF G FL=240.8794                                                            
+231TH  G 50.8           10.4 LE [M1]                   27.3   5             z  S
+231TH  G 230.243   11   5.5  12 [E2]                   0.399  6             w   
+231TH  G 272.181   2    100  15 M1+E2    0.64    10    0.85   6             w   
+231TH  L 275.4250  25 7/2+                                                  C   
+231THX L XREF=BCEF(*)K                                                          
+231TH cL J$179|g M1(+E2) to 9/2+, 275|g M1 to 5/2+; L(d,t)=(4+5)                
+231TH  G 34.7      1    97   AP [M1]                   83.9   14               ?
+231THF G FL=240.8794                                                            
+231TH  G 54.1      1    2.6  LT [E2]                   210    4                 
+231TH  G 179.297   2    40   6 M1(+E2)   0.25    25    3.4    4                 
+231TH cG RI$from (n,|g), not seen in |a decay                                   
+231TH  G 233.470   3    100  7  M1                     1.688  24                
+231TH  G 275.428   4     25  5 M1(+E2)   0.25    25    1.02   12                
+231TH cG RI$from weighted average of values from |a decay and (n,|g) E=th       
+231TH  L 277.60     6  (11/2-)                                              B   
+231THX L XREF=BDF(*)G(284)                                                      
+231TH cL J$41|g to 9/2-, 73|g to 7/2-, 115|g to 11/2+; L(d,t)=(4+5); band member
+231THF L FLAG=b                                                                 
+231TH  G 41.1                  [M1]                    51.0   7                 
+231TH  G 72.7      2  100    7 [E2]                    50.8   10                
+231TH  G 115.45    5  8.19   9 [E1]                    0.348  5                 
+231THF G FL=162.11                                                              
+231TH  G 182.1                                                                 ?
+231TH cG E$tentative |g from |a decay, probably very weak, from coincidence     
+231TH2cG data (1975Va11)                                                        
+231TH  L 301.7429  19 5/2+                                                  N   
+231THX L XREF=B(?)CDEF                                                          
+231THF L FLAG=d                                                                 
+231TH cL J$301.7|g M1 to 5/2+, 259.8|g M1+E2 to 7/2+; L(d,t)=(2); band member   
+231TH  G 80.347    2     51  8                                              w   
+231TH  G 259.790   4     36  6 M1+E2     0.65    10    0.96   7             w   
+231TH  G 301.741   3    100  16 M1                     0.880  13            w   
+231TH  L 317.0809  22 5/2+                                                  D   
+231THF L FLAG=n                                                                 
+231THX L XREF=BCDEF                                                             
+231TH cL J$L(d,t)=2; 275|g M1+E2 to 7/2+, 317|g M1 to 5/2+; band member         
+231TH  G 76.198    4      20 3  [M1+E2]                 24    17            w   
+231TH  G 95.7                                                                  ?
+231TH  G 275.129   2    100  15 M1+E2    0.6     1     0.84   6             w   
+231TH cG RI$from (n,|g) E=th                                                    
+231TH  G 317.063   12   4.6  9  M1                     0.723  10                
+231TH cG RI$from (n,|g) E=th                                                    
+231TH  L 324.913    7    (9/2)+                                             C   
+231THX L XREF=BCDEFG(326)K                                                      
+231THF L FLAG=c                                                                 
+231TH cL J$L(d,p)=L(d,t)=4; 229|g M1 to 9/2+; band member. (11/2+) suggested in 
+231TH2cL ({+3}He,|a)                                                            
+231TH  G 228.785   6   100   15 M1                     1.79   3                 
+231TH  G 282.92    5   65    23 [M1+E2]                0.60   40                
+231TH  L 330.6         (15/2+)                                              a  ?
+231THX L XREF=K                                                                 
+231TH  G 168.1     3  100                                                       
+231TH  L 333       3  (13/2-)                                               B   
+231THX L XREF=BDF                                                               
+231THF L FLAG=b                                                                 
+231TH cL J$band member                                                          
+231TH  L 348.3      5 (1/2+,3/2+)                                               
+231THX L XREF=CEH(?)                                                            
+231TH cL J$possible M1 |g from 1/2+ resonance state                             
+231TH  L 351.511    6  7/2+                                                 D   
+231THX L XREF=B(355)CDEF                                                        
+231THF L FLAG=d                                                                 
+231TH cL J$255|g M1 to 9/2+, 351|g M1 to 5/2+.                                  
+231TH  G 255.365   10    79  16 M1                     1.315  19            w   
+231TH  G 309.557   12   100  21 (E2)                   0.1534 22            w   
+231TH  G 351.512   23    64  13 M1                     0.545  8             w   
+231TH  L 377.573    9 (7/2)+                                                N   
+231THX L XREF=BCDEF                                                             
+231THF L FLAG=n                                                                 
+231TH cL J$281|g M1 to 9/2+; band member                                        
+231TH  G 136.55    5  100    6  [M1+E2]                5.3    24                
+231TH  G 173.0     10 45     20  [E1]                  0.132  2                 
+231TH  G 281.440   9  25     AP M1                     1.005  14                
+231TH  L 380.0     3   1/2+,3/2+                                                
+231THX L XREF=CE                                                                
+231TH cL J$M1 |g from 1/2+ resonance state                                      
+231TH  L 385.68     4 (5/2+:11/2+)                                             ?
+231THX L XREF=B                                                                 
+231THF L FLAG=c                                                                 
+231TH cL E$2008Bu14, in their (d,t) work, see a very weak peak near 385 keV     
+231TH2cL but assign to a possible contaminant. The authors question             
+231TH3cL the existence of this level from very weak |g rays in |a decay.        
+231TH4cL In {+235}U |a decay, work in 2017Le03 reported intensity of            
+231TH5cL the 343.5|g and 2018Ma03 reported the intensity of 289.5|g.            
+231TH6cL No experiment has reported the placement of these |g rays from         
+231TH7cL coincidence data.                                                      
+231TH cL J$290|g to 9/2+, 343|g to 7/2+. 2008Bu14, in (d,t) work, discussed     
+231TH2cL that this level cannot be the 11/2+ member of 3/2[631] band, based     
+231TH3cL on comparison of measured and calculated cross sections. In the (d,t)  
+231TH4cL work of 1972Gr19, 11/2, 3/2[631] assignment appears incorrect, in      
+231TH5cL view of analysis by 2008Bu14                                           
+231TH  G 289.56    4  74     14                                                 
+231TH  G 343.5     2  100    9                                                  
+231TH  L 386.5     5  (1/2+,3/2+)                                              ?
+231THX L XREF=H                                                                 
+231TH cL J$possible M1 |g from 1/2+ resonance state                             
+231TH  L 387.828    3     7/2-                                              J   
+231THF L FLAG=j                                                                 
+231THX L XREF=BCE                                                               
+231TH cL J$Favored |a decay (HF=2.0) from {+235}U 7/2-[743]                     
+231TH  G 147.0                                                                 ?
+231THF G FL=240.8794                                                            
+231TH cG E$tentative |g from |a decay, from coincidence data (1975Va11)         
+231TH  G 150.937   20 6.8    9  [M1+E2]                  3.9  19                
+231TH  G 182.504   10 38.5   14 [M1+E2]                  2.1  13                
+231TH  G 202.110   3  100    3  [M1+E2]                  1.6  9                 
+231TH  G 291.65    3  3.4    4                                                  
+231TH  G 345.92    3  3.2    4                                                  
+231TH  G 387.84    3  2.59   22                                                 
+231TH  L 402.0     3  (15/2)-                                               B   
+231THX L XREF=DFG                                                               
+231TH cL J$L(d,p)=L(d,t)=7; band member                                         
+231THF L FLAG=b                                                                 
+231TH  L 432.7         (17/2+)                                              A  ?
+231THX L XREF=K                                                                 
+231TH  G 192.1     2  100                                                       
+231THF G FL=240.6                                                               
+231TH  L 447.4     7  (9/2)+                                                N   
+231THF L FLAG=n                                                                 
+231THX L XREF=D(449)F                                                           
+231TH cL J$L(d,p)=4; band member                                                
+231TH  L 452.192   18  9/2-                                                 J   
+231THF L FLAG=j                                                                 
+231THX L XREF=B                                                                 
+231TH cL J$Favored |a decay HF=3.7. 215|g to 9/2-, 266|g to 5/2-, 356|g to 9/2+.
+231TH  G 64.45     5             [M1+E2]                52    39               S
+231TH cG E$|g ray is expected, but it has not been observed.                    
+231TH  G 215.30    5  58     4  [M1+E2]                 1.3   8                 
+231TH  G 246.83    3  100    6  [M1]                    1.445 20                
+231TH  G 266.47    5  12.9   20 [E2]                    0.245 4                 
+231TH  G 291.2                                                                  
+231THF G FL=162.11                                                              
+231TH  G 356.03    5  4.7    16                                                 
+231TH  G 410.29    4  4.5    13                                                 
+231TH  L 466.5     3  (1/2-,3/2-)                                               
+231THX L XREF=DF                                                                
+231TH cL $L(d,t)=(1)                                                            
+231TH  L 478       6                                                           ?
+231THx L XREF=G                                                                 
+231TH  L 490       3  (11/2+)                                               D   
+231THF L FLAG=d                                                                 
+231TH cL J$band member                                                          
+231THX L XREF=D                                                                 
+231TH cL E$|?487 keV, (d,t) (1970Bo31).                                         
+231TH  L 501.2      5                                                           
+231THX L XREF=CE                                                                
+231TH  L 510.897   11  (7/2)+                                               K  ?
+231TH cL J$469|g M1(+E2) to 7/2+; possible band member                          
+231THX L XREF=CE                                                                
+231TH  G 468.944   10   100    M1+E2     0.7     2     0.18   3             w  ?
+231TH  L 530       3  (11/2+)                                               N   
+231THF L FLAG=n                                                                 
+231THX L XREF=D(*)F(*533.9)                                                     
+231TH cL J$L(d,t)=(6,7); band member                                            
+231TH  L 530.23     5 (11/2-)                                               J   
+231THF L FLAG=j                                                                 
+231THX L XREF=BD(*)F(*533.9)                                                    
+231TH cL J$L(d,t)=(6,7); band member                                            
+231TH  G 142.40    5  100       [E2]                     2.48 4                 
+231TH  L 536.7     7                                                            
+231THX L XREF=CE                                                                
+231TH  L 544.9         (19/2+)                                              a  ?
+231THX L XREF=K                                                                 
+231TH  G 214.3     3  100                                                       
+231TH  L 554.6503  16 (1/2)-           503 PS    12                         E   
+231THX L XREF=ACDEFH                                                            
+231THF L FLAG=e                                                                 
+231TH cL J$L(d,p)=L(d,t)=1; E1 |g from 1/2+ neutron avg. res. capture;          
+231TH2cL band member                                                            
+231TH  G 282.471   2     100 3 E1                      0.0425 6             y   
+231THF G FLAG=x                                                                 
+231THB G BE1W=6.94E-6 20                                                        
+231TH  G 307.063   2    78.5 9 E1                      0.0353 5             y   
+231THF G FLAG=x                                                                 
+231THB G BE1W=4.24E-6 12                                                        
+231TH  G 368.934   2    39.2 6 E2                      0.0927 13            y   
+231THF G FLAG=x                                                                 
+231THB G BE2W=0.336 10                                                          
+231TH  L 568       3                                                            
+231THX L XREF=B(?)D                                                             
+231TH  L 579       1 (9/2+)                                                 K   
+231THX L XREF=DFG                                                               
+231TH cL J$L(d,p)=4; L(d,t)=(4)                                                 
+231TH  L 590.8396  24 3/2-                                                  O   
+231THX L XREF=CD(*)EFH                                                          
+231THF L FLAG=o                                                                 
+231TH cL J$L(d,t)=1; E1 |g ray from 1/2+ in neutron avg. res. capture; 405|g    
+231TH2cL E2+M1 to 5/2-; band member                                             
+231TH cL $Note that (d,t) strength is not consistent with 3/2[761]              
+231TH2cL configuration assignment.                                              
+231TH  G 289.092   10    3.0 6                                              w   
+231TH  G 385.532   3      25 4 (E2)                    0.0822 12            w   
+231TH  G 405.121   3    100  15 E2+M1    1.4     2     0.173  22            w   
+231TH  L 593.6173  20    (3/2)-        0.10 NS   4                          E   
+231THX L XREF=ACD(*)EF(*594.8)H(595.2)                                          
+231TH cL T$from |b|g|g(t) in {+231}Ac decay (1999Aa03).                         
+231THF L FLAG=e                                                                 
+231TH cL J$L(d,t)=3+1; E1 |g ray from 1/2+ in neutron avg. res. capture;        
+231TH2cL band member                                                            
+231TH  G 346.1     2      17 4 (E1)                    0.0272 4             z   
+231THB G BE1W=4.1E-6 +28-14                                                     
+231TH  G 372.221   2      43 6 E1                      0.0232 3             x   
+231TH cG RI$weighted average from (n,|g) E=th and |b{+-} decay                  
+231THB G BE1W=8E-6 +6-3                                                         
+231TH  G 388.3     2     9.5 30[E2]                    0.0806 11            z   
+231THB G BE2W=0.40 +29-16                                                       
+231TH  G 407.899   2     100 11 E2                     0.0708 10            y   
+231THB G BE2W=3.3 +22-10                                                        
+231THF G FLAG=x                                                                 
+231TH  L 595.9738  21 5/2-                                                  E   
+231THF L FLAG=e                                                                 
+231TH cL J$L(d,t)=3+1; 244|g E1 to 7/2+, 324|g (E1) to 3/2+; band member        
+231THX L XREF=CEF(*594.8)                                                       
+231TH  G 244.451   10     18 4  E1                     0.0591 8             w   
+231TH  G 323.794   2     100 15 (E1)                   0.0314 5             w   
+231TH  G 374.590   9      23 5  (E1)                   0.0229 3             w   
+231TH  G 390.662   4      63 12 M1+E2    1.2     3     0.21   5             w   
+231TH  G 410.252   10     29 6  M1                     0.358  5             w   
+231TH  L 619.638    4 3/2-                                                  S   
+231TH cL J$L(d,t)=1; E1 |g ray from 1/2+ in neutron avg. res. capture;          
+231TH2cL 434|g (M1) to 5/2-.                                                    
+231THX L XREF=CD(*)EFH                                                          
+231TH  G 302.540   7      28 6 (E1)                    0.0365 5             w   
+231TH  G 317.886   22   7.9  16                                             w   
+231TH  G 398.242   10    38  8 (E1)                    0.0201 3             w   
+231TH  G 433.927   4    100  16 (M1)                   0.308  4             w   
+231TH  L 623.935   18 (5/2-)                                                T  ?
+231TH cL J$438|g E0(+M1) to 5/2-                                                
+231THX L XREF=CD(*)E                                                            
+231TH  G 418.62    4                                                        &   
+231THF G FLAG=w                                                                 
+231TH  G 438.22    2           E0(+E2+M1)                                   w   
+231TH  L 629.3428  22 (5/2)-                                                O   
+231THF L FLAG=o                                                                 
+231TH cL J$444|g M1(+E2) to 5/2-, 424|g M1+E2 to (7/2-); L(d,t)=(3); band member
+231THX L XREF=CEF                                                               
+231TH  G 424.032   4     38  7  M1+E2    0.9     1     0.209  16            w   
+231TH  G 443.626   2    100  15 M1(+E2)  0.4     4     0.26   6             w   
+231TH  G 629.368   15    9.6 15                                             w   
+231TH  L 634.046   13 (7/2-)                                                T  ?
+231TH cL J$429|g M1+E0(+E2) to (7/2-).                                          
+231THX L XREF=BCE                                                               
+231TH  G 428.71    4    100  22M1+E0(+E2)                                   w   
+231TH  G 448.339   18    87  44                                             w   
+231TH  L 646.6     4  (5/2-,7/2-)                                               
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=3                                                             
+231TH  L 655.939   15 (7/2-)                                                O  ?
+231THX L XREF=CDEFG                                                             
+231TH cL J$419|g (M1) to 9/2-, 470|g M1 to 5/2-. Possible 7/2 member of         
+231TH2cL 3/2-[761] rotational band.                                             
+231TH  G 419.031   16    100 21 (M1)                   0.338  5             w  ?
+231TH  G 470.25    3      71 17 M1                     0.248  4             w  ?
+231TH  L 684.4908  24     (5/2)-                                            G   
+231TH cL J$479|g (E2) to (7/2-), 499|g M1 to 5/2-; L(d,t)=1(+3);                
+231TH2cL possible bandhead                                                      
+231THX L XREF=CDEF                                                              
+231TH  G 479.19    5     9.6 16  E2+M1    3.0    8     0.066  14            &   
+231THF G FLAG=w                                                                 
+231TH  G 498.775   2    100  15 M1                     0.211  3             w   
+231TH  L 687.631    3  1/2+                                                 P   
+231TH cL J$440|g E0+M1 to 1/2+.                                                 
+231THX L XREF=CEH(685.6)                                                        
+231TH cL J$E0 to 1/2+                                                           
+231TH  G 415.460   8    12.1 20 (M1)                   0.346  5             w   
+231TH  G 440.044   7     18  3  E0+M1                                       w   
+231TH  G 466.227   3     81  12 M1                     0.253  4             w   
+231TH  G 687.658   7    100  15 (E2)                   0.0210 3             w   
+231THF G FL=0.0                                                                 
+231TH cG E$somewhat poor fit. Level-energy difference=687.630 {I3}              
+231TH  L 693.50    18                                                           
+231THX L XREF=CE                                                                
+231TH  L 704       2 (15/2-)                                                J   
+231THX L XREF=D                                                                 
+231THF L FLAG=j                                                                 
+231TH cL J$band member                                                          
+231TH  L 709.099    4 3/2+                                                  P   
+231TH cL J$L(d,t)=2; 437|g M1+E0(+E2) to 3/2+.                                  
+231THX L XREF=CEF                                                               
+231TH  G 392.038   13    17  4                                              w   
+231TH  G 436.917   4    100  14M1+E0(+E2)                                   w   
+231TH  G 468.209   19    26  6  M1(+E2)                0.15   10            &   
+231THF G FLAG=w                                                                 
+231TH  G 487.689   23    20  4 (E2)                    0.0453 6             &   
+231THF G FLAG=w                                                                 
+231TH  L 713.755    3 3/2-                                                  V   
+231THF L FLAG=v                                                                 
+231THX L XREF=CEF(*718.0)H                                                      
+231TH cL J$L(d,t)=1+3; E1 from 1/2+ in neutron avg. res. capture;               
+231TH2cL 528|g M1 to 5/2-                                                       
+231TH  G 325.925   3      24 4                                              w   
+231TH  G 441.64    4     5.0 10                                             w   
+231TH  G 528.038   3     100 16 M1                     0.181  3             w   
+231TH  L 720.302    6    (7/2)-                                             V   
+231THF L FLAG=v                                                                 
+231TH cL J$L(d,t)=1+3; 534|g M1 to 5/2-, 515|g M1+E2 to (7/2-); band member     
+231THX L XREF=CDEF(*)                                                           
+231TH  G 418.62    4     2.6 4                                              &   
+231THF G FLAG=w                                                                 
+231TH  G 444.892   14     16 4 (E1)                    0.0159923            w   
+231TH  G 514.991   7    100  15 M1+E2    1.0     2     0.117  17            w   
+231TH  G 534.562   15    15  3  M1                     0.1755 25            w   
+231TH  L 735.263    7 (5/2)+                                                P   
+231TH cL J$463|g M1+E2 to 3/2+, 488|g (E2) to 1/2+.                             
+231THX L XREF=CE                                                                
+231TH  G 433.517   8     100 16 (E2)                   0.0605 9             w   
+231TH  G 463.085   12     75 16 M1+E2    1.2     2     0.136  19            w   
+231TH  G 487.689   23     42 9  (E2)                   0.0453 6             &   
+231THF G FLAG=w                                                                 
+231TH  L 750.0     3 (5/2-,7/2-)                                                
+231THX L XREF=DFG                                                               
+231TH cL J$L(d,t)=3. (15/2-) suggested in ({+3}He,|a)                           
+231TH  L 769.9     6 (11/2+,13/2+)                                              
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=(6)                                                           
+231TH  L 793.027    4 1/2+                                                  U   
+231THF L FLAG=u                                                                 
+231TH cL J$545|g E0(+M1) to 1/2+.                                               
+231THX L XREF=CEFH(794.2)                                                       
+231TH  G 491.284   4     100 15 (E2)                   0.0445 6             w   
+231TH  G 520.847   14     30 5  E2+M1    1.5     3     0.085  16            w   
+231TH  G 545.420   16   7.4  LT E0(+M1)                                     w   
+231TH  G 793.04    3     34  7                                              w   
+231TH  L 802       3                                                            
+231THX L XREF=D                                                                 
+231TH  L 808.508    8 3/2+                                                  U   
+231THF L FLAG=u                                                                 
+231TH cL J$536|g E0+M1(+E2) to 3/2+.                                            
+231THX L XREF=CEF                                                               
+231TH  G 456.990   11   110  19 (E2)                   0.0531 8             w  ?
+231TH cG M$E2(+M1) from ce data in {+231}Th(n,|g). Level scheme requires pure   
+231TH2cG E2.                                                                    
+231TH  G 506.74    7      45 10                                             w   
+231TH  G 536.336   17     76 17E0+M1(+E2)                                   w   
+231TH  G 560.875   21     58 12                                             w   
+231TH  G 587.155   17     81 14 M1                     0.1366 19            w   
+231TH  G 766.6     3      43 11                                             w   
+231TH  G 808.38    9     100 30                                             w   
+231TH  L 812.3     2  (5/2)-                                                    
+231THX L XREF=DFG                                                               
+231TH cL E$possible doublet as indicated in (d,t)                               
+231TH cL J$L(d,t)=3(+1) with possible configuration=|n5/2[503] (2008Bu14).      
+231TH2cL 15/2 suggested as member of 1/2[770] band in 1987Wh01, deduced from    
+231TH3cL energies of other members of this band is not supported by |s(|q)      
+231TH4cL distribution in (d,t) and |s({+3}He,|a)/|s(d,t) ratio which is         
+231TH5cL consistent with L=3 rather than L=7 required by J=[15/2] (2008Bu14)    
+231TH  L 820.552    7 1/2+                                                  P   
+231THX L XREF=CE                                                                
+231TH cL J$573|g M1+E0 to 1/2+                                                  
+231TH  G 503.44    6      19 5                                              w   
+231TH  G 572.964   7     100 17 M1+E0                                       w   
+231TH  G 599.20    4      21 5                                              w   
+231TH  G 820.43    7      37 6                                              w   
+231TH  L 833.169    4 (1/2)-                                                V   
+231THF L FLAG=v                                                                 
+231TH cL J$239|g M1 to (3/2)-; band member                                      
+231THX L XREF=CEFH(834.5)                                                       
+231TH  G 239.548   4     100 15 M1                     1.571  22            w   
+231TH  G 278.524   14    7.0 15                                             w   
+231TH  G 585.607   13     28 5                                              w   
+231TH  G 611.80    2      23 4                                              w   
+231TH  L 839.303    9 3/2+                                                  P   
+231TH cL J$567|g M1+E0 to 3/2+.                                                 
+231THX L XREF=CD(837)EH(840.1)                                                  
+231TH  G 284.659   13     20 4                                              w   
+231TH  G 522.218   16     64 10 (M1)                   0.187  3             w   
+231TH  G 567.108   19     69 12 M1+E0                                       w   
+231TH  G 617.87    4      34 7  M1+E0                                       w   
+231TH  G 797.56    13     45 10                                             w   
+231TH  G 839.36    5     100 16 (E2)                   0.0140320            w   
+231TH  L 841.42    5  1/2-,3/2-                                                 
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=1                                                             
+231TH  L 846.4      4 (1/2+,3/2+)                                               
+231THX L XREF=CEH(?)                                                            
+231TH cL J$possible M1 |g from 1/2+ resonance state                             
+231TH  L 854.5     4  (7/2+,9/2,11/2-)                                          
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=4,5                                                           
+231TH  L 867.00     4  5/2-,7/2-                                                
+231TH cL J$681|g (M1+E2) to 5/2-, 630|g E2 to 9/2-, 479|g (E2) to 7/2-.         
+231THX L XREF=CDE                                                               
+231TH  G 479.19    5     100 17 (E2)                   0.0472 7             &   
+231THF G FLAG=w                                                                 
+231TH  G 630.00    6     51  11 E2                     0.0253 4             w   
+231TH  G 681.37    7     80  13 (M1+E2)                0.06   4             w   
+231TH  L 869.7     11  1/2+                                                     
+231THX L XREF=FH(869.9)                                                         
+231TH cL J$L(d,t)=0                                                             
+231TH  L 871       3   (7/2)+                                                   
+231THX L XREF=G                                                                 
+231TH cL J$L({+3}He,|a)=4                                                       
+231TH  L 875.549    4 (3/2)-                                                H   
+231THX L XREF=CEFH                                                              
+231TH cL J$L(d,t)=1; 321|g M1+E2 to (1/2)-.                                     
+231TH  G 255.903   11     25 5                                              w   
+231TH  G 320.899   4      83 13 M1+E2    0.9     2     0.45   7             w   
+231TH  G 875.54    7     100 17                                             w   
+231TH  L 889.997   12      5/2+                                             P   
+231THX L XREF=CD(881)EF                                                         
+231TH cL J$L(d,t)=2; 614|g M1 to 7/2+, 649|g (M1) to 5/2+, 669|g E2+M1 to 3/2+. 
+231TH2cL 1987Wh01 in (n,|g) E=th predicted the 7/2+, 1/2+[640] state at         
+231TH3cL 891.6 keV.                                                             
+231TH  G 614.563   14    100 16 M1                     0.1209 17            w   
+231TH  G 649.142   23     77 12 (M1)                   0.1046 15            w   
+231TH  G 668.56    10     41 9  E2+M1    1.2     3     0.053  11            w   
+231TH  L 893       2                                                            
+231THX L XREF=D                                                                 
+231TH cL J$7/2+ suggested in (d,p)                                              
+231TH  L 899.2     6                                                            
+231THX L XREF=CE                                                                
+231TH  L 914.90     4 (5/2)-                                                H   
+231TH cL J$L(d,t)=3; 729|g (M1(+E2)) to 5/2-. Possible 5/2- member of 3/2[501]  
+231TH2cL rotational band.                                                       
+231THX L XREF=CEFG                                                              
+231TH  G 673.96    13    34  14                                             w   
+231THF G FL=240.8794                                                            
+231TH  G 678.1     3     22  7                                              w   
+231TH  G 729.19    5     55  9 (M1(+E2))               0.05   3             w   
+231TH  G 914.91    7     100 16                                                 
+231TH  L 930.6     5 (3/2+,5/2+)                                                
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=(2)                                                           
+231TH  L 936.307   10 (5/2)-                                                    
+231TH cL J$548|g M1+E2 to 7/2-, 343|g (M1) to (3/2)-.                           
+231THX L XREF=CE                                                                
+231TH  G 342.702   17   10.9 22 (M1)                   0.584  8             w   
+231TH  G 548.454   15     36 6  E2+M1    1.5     3     0.074  14            w   
+231TH  G 619.27    13   29.6 9                                              w   
+231TH  G 750.621   16    100 18 M1                     0.0711 10            w   
+231TH  G 936.17    6     100 18                                             w   
+231TH  L 942.2      9                                                           
+231THX L XREF=CD(947)EF(944.2)                                                  
+231TH  L 960.809   12 3/2+                                                  W   
+231TH cL J$739|g M1+E0 to 3/2+.                                                 
+231THX L XREF=CEF(958.0)                                                        
+231TH  G 643.85    7      19 5                                              w   
+231TH  G 658.97    6      20 5  M1+E2    1.0     3     0.062  14            w   
+231TH  G 688.611   24     85 15 E2+M1    1.1     2     0.052  7             &   
+231THF G FLAG=w                                                                 
+231TH  G 713.234   16    100 15 M1+E2    0.6     1     0.065  5             w   
+231TH  G 719.74    12     19 5                                              w   
+231TH  G 739.409   25     70 12M1+E0(+E2)                                   w   
+231TH  G 775.04    13     26 8                                              w   
+231TH  G 918.92    11     49 8 (E2)                    0.0117517            &   
+231THF G FLAG=w                                                                 
+231TH  L 966.0     6  3/2+,5/2+                                             U   
+231THF L FLAG=u                                                                 
+231THX L XREF=DFG                                                               
+231TH cL J$L(d,t)=2. {I9}/2+ suggested in (d,p). (11/2+) proposed in            
+231TH2cL ({+3}He,|a). There could be two other different levels near this       
+231TH3cL energy if the results of (d,p) and ({+3}He,|a) prove to be valid       
+231TH  L 974.4     7                                                            
+231THX L XREF=F                                                                 
+231TH  L 981       3                                                            
+231THX L XREF=D                                                                 
+231TH  L 990.5     7                                                            
+231THX L XREF=F                                                                 
+231TH  L 1004.232  21 3/2+                                                      
+231TH cL J$E1,M1 from 1/2+ in neutron avg. res. capture; 763|g M1 to 5/2+;      
+231TH2cL L(d,t)=(1+2)                                                           
+231THX L XREF=CDEF(1003.0)H                                                     
+231TH  G 626.64    4     34  8                                              w   
+231TH  G 763.363   24   100  19 M1                     0.0680 10            w   
+231TH  L 1011.5    9                                                            
+231THX L XREF=D(*1016)F                                                         
+231TH  L 1020.730   6 3/2-                                                      
+231TH cL J$L(d,t)=1; 427|g M1 to (3/2)-, 773|g to 1/2+.                         
+231THX L XREF=CD(*1016)EF(1021.7)H                                              
+231TH  G 336.240   10    40  8  M1+E2     0.63   25    0.47   8             w   
+231TH  G 427.110   7    100  15 M1                     0.321  5             w   
+231TH  G 773.18    13    45  11                                             w   
+231TH  G 799.38    5     89  15                                             w   
+231TH  G 834.92    5    131  21 (M1)                   0.0537 8             &   
+231TH  L 1033.0    3   1/2+                                                     
+231THX L XREF=CEF                                                               
+231TH cL J$L(d,t)=0                                                             
+231TH  L 1056.27    3 (3/2+)                                                    
+231TH cL J$835|g (M1) to 3/2+, 1014|g (E2) to 7/2+.                             
+231THX L XREF=CDEF(1053)                                                        
+231TH  G 784.05    9      26 5                                              w   
+231TH  G 808.74    9      23 4                                              w   
+231TH  G 834.92    5      34 6 (M1)                    0.0537 8             &   
+231THF G FLAG=w                                                                 
+231TH  G 1014.33   4     100 20 (E2)                                        w   
+231TH  L 1066.191  23  (5/2,7/2)+                                               
+231TH cL J$749|g (M1) to 5/2+, 688|g E2+M1 to (7/2)+.                           
+231THX L XREF=CDE                                                               
+231TH  G 688.611   24    100 18  E2+M1    1.1    2      0.052 7             &   
+231THF G FLAG=w                                                                 
+231TH  G 749.14    5     56  9  (M1)                    0.071510            w   
+231TH  G 844.55    18    25  6                                              w   
+231TH  G 1024.91   25    41  14                                             w   
+231TH  G 1066.07   15    45  15                                             w   
+231TH  L 1074.346  17 (3/2)-                                                    
+231THX L XREF=CEF(1076.5)H(1075.1)                                              
+231TH cL J$E1,M1 from 1/2+ in neutron avg. res. capture; 483|g M1+E2 to 3/2-,   
+231TH2cL 757|g to 5/2+.                                                         
+231TH  G 483.507   17    88  19 E2+M1    1.4     3     0.108  21            w   
+231TH  G 757.28    18    71  17                                             w   
+231TH  G 888.49    19   100  22                                             w   
+231TH  L 1081.331  15 1/2-,3/2-                                                 
+231TH cL J$490|g M1 to 3/2-, 527|g M1 to (1/2)-                                 
+231THX L XREF=CDEH                                                              
+231TH  G 487.689   23   100  21 (E2)                   0.0453 6             &   
+231THF G FLAG=w                                                                 
+231TH  G 490.51    2    100  21 M1                     0.221  3             w   
+231TH  G 526.68    5     58  14 (M1)                   0.183  3             w   
+231TH  L 1081.6    6  3/2+,5/2+                                                 
+231THX L XREF=F                                                                 
+231TH cL E,J$L(d,t)=2 suggests a level separate from 1081.3 with negative parity
+231TH  L 1086.811  10 5/2+                                                      
+231TH cL J$709|g E2+M1 to (7/2)+, 493|g (E1) to (3/2)-. L(d,t)=(2) for 1091.8   
+231THX L XREF=CDEF(1091.8)                                                      
+231TH  G 493.177   25   8.9  18 (E1)                   0.0129718            w   
+231TH  G 709.220   14   100  16 E2+M1    0.8     2     0.058  8             w   
+231TH  G 785.08    8     19  3                                              &   
+231THF G FLAG=w                                                                 
+231TH  G 811.408   15    68  11 E2                     0.0150121            w   
+231TH  G 814.64    4     26  4 (E2)                    0.0148921            w   
+231TH  L 1094.25   24 1/2-,3/2-                                                 
+231THX L XREF=CE                                                                
+231TH cL J$E1 primary |g from 1/2+.                                             
+231TH  L 1102.252   8 3/2-                                                      
+231THX L XREF=CDEF(1103.0)H(1103.3)                                             
+231TH cL J$L(d,t)=1; E1 from 1/2+ in neutron avg. res. capture; 418|g M1        
+231TH2cL to (5/2)-.                                                             
+231TH  G 388.482   9    100  11                                             w   
+231TH  G 417.793   14    65  15 M1                     0.341  5             w   
+231TH  G 468.209   19    89  19 [E2]                   0.0500 7             &   
+231THF G FLAG=w                                                                 
+231TH  G 482.62    5      31 8                                              w   
+231TH  G 785.08    8     125 21                                             &   
+231THF G FLAG=w                                                                 
+231TH  G 861.86    24    50  12                                             &   
+231THF G FL=240.8794                                                            
+231THF G FLAG=w                                                                 
+231TH  L 1106      6  (7/2+,9/2+)                                               
+231THX L XREF=G                                                                 
+231TH cL $L({+3}He,|a)=(4).                                                     
+231TH  L 1115.4    6                                                            
+231THX L XREF=DF                                                                
+231TH  L 1126.0    6  3/2+,5/2+                                                 
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=2                                                             
+231TH  L 1133.80    8 (1/2+,3/2+)                                               
+231TH cL J$(M1) from 1/2+ in neutron avg. res. capture;                         
+231THX L XREF=CEH                                                               
+231TH  G 816.70    9    119  26                                             w  ?
+231TH  G 861.86    24    71  17                                             &   
+231THF G FLAG=w                                                                 
+231TH  G 886.15    25   100  24                                             w   
+231TH  L 1155.5     4                                                           
+231THX L XREF=CEF                                                               
+231TH  L 1159.751   8   (3/2)-                                                  
+231TH cL J$E1 from 1/2+ in neutron avg. res. capture; 919|g (E1) to 5/2+.       
+231THX L XREF=CDEFH                                                             
+231TH  G 445.996   7     100 15 E2+M1    1.17    20    0.150  21            w   
+231TH  G 918.92    11     72 12 (E1)                   0.004006             &   
+231THF G FL=240.8794                                                            
+231THF G FLAG=w                                                                 
+231TH  G 974.15    16     43 13                                             w   
+231TH  L 1172.990  24 3/2-                                                      
+231THX L XREF=CDEF(1171.2)H                                                     
+231TH cL J$L(d,t)=1; E1,M1 from 1/2+ in neutron avg. res. capture; 459|g M1 to  
+231TH2cL 3/2-, 544|g (M1) to (5/2)-.                                            
+231TH  G 459.22    8     100 28 M1(+E2)   0.8    LT    0.264  4             w   
+231TH  G 488.55    5      50 11                                             w   
+231TH  G 543.66    3      72 15 (M1)                   0.1677 24            w   
+231TH  G 785.08    8    226  37                                             &   
+231THF G FLAG=w                                                                 
+231TH  L 1181.2    6  1/2-,3/2-                                                 
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1187.0    7                                                            
+231THX L XREF=FG(?)                                                             
+231TH  L 1193.2    8                                                            
+231THX L XREF=CE                                                                
+231TH  L 1200.47   17 1/2-,3/2-                                                 
+231THX L XREF=CDEFH                                                             
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1213.86   22                                                           
+231THX L XREF=CDE                                                               
+231TH  L 1219.05   25 (1/2+,3/2+)                                               
+231THX L XREF=CEF(1220.2)H(1219.1)                                              
+231TH cL J$From (n,|g), E=2 keV:ARC                                             
+231TH  L 1222       3 (1/2+,3/2+)                                               
+231THX L XREF=DH(1222.0)                                                        
+231TH cL J$From (n,|g), E=2 keV:avg                                             
+231TH  L 1235      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1251.46   18                                                           
+231THX L XREF=CE                                                                
+231TH  L 1262      3                                                            
+231THX L XREF=F                                                                 
+231TH  L 1271.1     6 1/2-,3/2-                                                 
+231THX L XREF=H                                                                 
+231TH cL J$From (n,|g), E=2 keV:avg                                             
+231TH  L 1273      1  3/2+,5/2+                                                 
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=2                                                             
+231TH  L 1274.5    4  1/2-,3/2-                                                 
+231THX L XREF=CE                                                                
+231TH cL J$E1 primary |g from 1/2+                                              
+231TH  L 1282      3                                                            
+231THX L XREF=D                                                                 
+231TH  L 1292      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1300      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1323      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1327      2                                                            
+231THX L XREF=DFG(1332)                                                         
+231TH  L 1339      2                                                            
+231THX L XREF=D                                                                 
+231TH  L 1345.7    11                                                           
+231THX L XREF=F                                                                 
+231TH  L 1352.8    11 1/2-,3/2-                                                 
+231THX L XREF=DF                                                                
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1366      4                                                            
+231THX L XREF=D                                                                 
+231TH  L 1372      2                                                            
+231THX L XREF=DF                                                                
+231TH  L 1393      1  1/2-,3/2-                                                 
+231THX L XREF=DF                                                                
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1405.6    10 1/2-,3/2-                                                 
+231THX L XREF=DF                                                                
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1414      5                                                            
+231THX L XREF=D                                                                 
+231TH  L 1430.6    11                                                           
+231THX L XREF=F                                                                 
+231TH  L 1437.2    10 3/2+,5/2+                                                 
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=2                                                             
+231TH  L 1452      1                                                            
+231THX L XREF=F                                                                 
+231TH  L 1458      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1464      1  (1/2-,3/2-)                                               
+231TH cL E$possible doublet                                                     
+231THX L XREF=FG(*)                                                             
+231TH cL J$L(d,t)=1,(2)                                                         
+231TH  L 1476      2                                                            
+231THX L XREF=FG(*)                                                             
+231TH  L 1487.4    11 1/2-,3/2-                                                 
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1494.3    11                                                           
+231THX L XREF=F                                                                 
+231TH  L 1523      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1533      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1542      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1572      1 (5/2-,7/2-)                                                
+231THX L XREF=GF                                                                
+231TH cL J$L(d,t)=(3). L({+3}He,|a) |>3                                         
+231TH  L 1585      1 1/2-,3/2-                                                  
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1601      1 1/2-,3/2-                                                  
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1608      1                                                            
+231THX L XREF=F                                                                 
+231TH  L 1619.5    10 1/2-,3/2-                                                 
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1627      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1648      1                                                            
+231THX L XREF=F                                                                 
+231TH  L 1654      1                                                            
+231THX L XREF=F                                                                 
+231TH  L 1666      2                                                            
+231THX L XREF=F                                                                 
+231TH  L 1678      2                                                            
+231THX L XREF=FG                                                                
+231TH cL J$(15/2-) suggested in ({+3}He,|a)                                     
+231TH  L 1696      1                                                            
+231THX L XREF=F                                                                 
+231TH  L 1708      1 1/2-,3/2-                                                  
+231THX L XREF=F                                                                 
+231TH cL J$L(d,t)=1                                                             
+231TH  L 1714      1                                                            
+231THX L XREF=F                                                                 
+231TH  L 5118.15    3 1/2+                                                     S
+231THX L XREF=CE                                                                
+231TH cL E$S(n)=5118.02 keV {I20} (2021Wa16)                                    
+231TH  G 3843.6    4  3.9    6  E1                                          x   
+231THF G FLAG=qs                                                                
+231THF G FL=1274.5                                                              
+231TH  G 3866.66   17 9.4    7                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 3899.07   24 8.1    8  (M1)                                        x   
+231THF G FLAG=qs                                                                
+231TH cG M$required by level scheme                                             
+231THF G FL=1219.05                                                             
+231TH  G 3904.26   21 9.8    8                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 3917.71   17 11.2   8  D                                           x   
+231THF G FLAG=qs                                                                
+231TH  G 3924.9    8  1.5    5                                              x   
+231THF G FLAG=q                                                                 
+231THF G FL=1193.2                                                              
+231TH  G 3946.19   24 5.6    5  D                                           x   
+231THF G FL=1172.990                                                            
+231THF G FLAG=s                                                                 
+231TH  G 3958.49   12 75     4  E1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 3962.6    4  7.1    12                                             x   
+231THF G FLAG=q                                                                 
+231TH  G 3984.31   9  9.4    7  (M1)                                            
+231TH cG E$reported E|g=3981.82 {I17} in (n,|g) E=th (1987Wh01), but            
+231TH2cG level-energy difference gives 3984.35 {I9}, which after removal of     
+231TH3cG recoil is 3984.31, which is adopted here in place of authors' value    
+231TH4cG of 3981.82                                                             
+231THF G FL=1133.80                                                             
+231THF G FLAG=s                                                                 
+231TH  G 4023.87   23 5.3    5  E1                                          x   
+231THF G FLAG=qs                                                                
+231TH  G 4062.44   13 18.7   11                                             x   
+231THF G FL=1056.27                                                             
+231TH cG E$poor fit. Level-energy difference=4062.44 {I13}                      
+231TH  G 4085.1    3  3.6    5                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 4096.72   13 26.5   15 E1                                          x   
+231THF G FL=1020.730                                                            
+231TH cG E$poor fit. Level-energy difference=4097.38 {I3}                       
+231THF G FLAG=s                                                                 
+231TH  G 4113.98   13 25.7   15 (M1)                                        x   
+231THF G FLAG=s                                                                 
+231TH  G 4157.42   17 8.6    6                                              x   
+231TH  G 4175.9    9  1.3    4                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 4182.51   19 7.0    5                                              x   
+231THF G FLAG=q                                                                 
+231THF G FL=936.307                                                             
+231TH cG E$somewhat poor fit. Level-energy difference=4181.81 {I3}              
+231TH  G 4218.9    6  1.4    3                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 4242.45   15 17.5   12 D                                           x   
+231THF G FLAG=s                                                                 
+231TH  G 4271.7    4  3.8    5                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 4278.73   17 20.7   14 (M1)                                        x   
+231THF G FLAG=s                                                                 
+231TH  G 4284.91   12 100    5  (E1)                                        x   
+231THF G FLAG=s                                                                 
+231TH cG M$E1 or M1 from average reduced intensities in (n,|g) E=2 keV:ARC,     
+231TH2cG |DJ|p consistent with E1.                                              
+231TH  G 4297.14   21 8.4    8                                              x   
+231TH  G 4404.39   11 38.9   23 E1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 4424.61   17 13.3   9                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 4462.2    3  2.4    3                                              x   
+231TH  G 4498.5    3  2.3    4  E1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 4523.95   25 15.3   23 E1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 4527.09   11 63     4  E1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 4563.45   9  49.6   23 E1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 4581.4    7  1.5    3                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 4616.9    5  2.7    4                                              x   
+231THF G FLAG=q                                                                 
+231TH  G 4738.1    3  13.7   23 M1                                          x   
+231THF G FLAG=qs                                                                
+231TH  G 4769.8    5  3.8    6  M1                                          x   
+231THF G FLAG=qs                                                                
+231TH  G 4845.92   6  16.5   8  M1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 4870.1    3  2.6    3  M1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 4896.82   21 7.3    6  M1                                          x   
+231THF G FLAG=s                                                                 
+231TH  G 5117.69   17 4.5    3                                              x   
+231TH  L 5119.84   11    1/2+                                                  S
+231THX L XREF=H                                                                 
+231TH cL E$S(n)+E(n), S(n)=5118.02 keV {I20} (2021Wa16), E(n)=2 keV.            
+231TH cL J$s-wave n-capture in 0+ g.s. of {+230}Th                              
+231TH  G 3848.7    6   33    7   E1                                         r   
+231THF G FLAG=s                                                                 
+231THF G FL=1271.1                                                              
+231TH  G 3898.0    29  19    7   (M1)                                       r   
+231THF G FLAG=s                                                                 
+231THF G FL=1222                                                                
+231TH  G 3900.9    32  17    7   (M1)                                       r   
+231THF G FLAG=s                                                                 
+231THF G FL=1219.05                                                             
+231TH  G 3918.0    8   26    7   D                                          r   
+231THF G FLAG=s                                                                 
+231TH  G 3947.3    6   40    10  D                                          r   
+231THF G FLAG=s                                                                 
+231TH cG E$somewhat poor fit. Level-energy difference=3946.19 {I24}             
+231TH  G 3960.9    4   55    7   E1                                         r   
+231THF G FLAG=s                                                                 
+231TH  G 3985.7    26  21    7   (M1)                                       r   
+231THF G FLAG=s                                                                 
+231TH  G 4016.7    4   69    7   E1                                         r   
+231THF G FLAG=s                                                                 
+231TH  G 4038.8    9   29    10  D                                          r   
+231THF G FLAG=s                                                                 
+231THF G FL=1081.331                                                            
+231TH  G 4044.9    8   36    10  D                                          r   
+231THF G FLAG=s                                                                 
+231TH  G 4099.0    3   81    10  E1                                         r   
+231THF G FLAG=s                                                                 
+231TH  G 4116.3    5   43    7   D                                          r   
+231THF G FLAG=s                                                                 
+231TH  G 4245.1    10  36    12  D                                          r   
+231THF G FLAG=s                                                                 
+231THF G FL=875.549                                                             
+231TH  G 4250.1    11  31    12  D                                          r   
+231THF G FLAG=s                                                                 
+231THF G FL=869.7                                                               
+231TH  G 4276.3    16  21    10  (M1)                                       r  ?
+231THF G FLAG=s                                                                 
+231THF G FL=846.4                                                               
+231TH  G 4279.9    14  31    14  D                                          r   
+231THF G FLAG=s                                                                 
+231THF G FL=839.303                                                             
+231TH  G 4285.5    8   38    10  D                                          r   
+231THF G FLAG=s                                                                 
+231TH  G 4325.9    12  17    7   M1                                         r   
+231THF G FLAG=s                                                                 
+231TH  G 4406.7    3   81    7   E1                                         r   
+231THF G FLAG=s                                                                 
+231TH  G 4434.3    5   48    7   D                                          r   
+231THF G FLAG=s                                                                 
+231THF G FL=687.631                                                             
+231TH  G 4500.0    3   88    7   E1                                         r   
+231THF G FLAG=s                                                                 
+231TH  G 4524.7    9   67    29  E1                                         r   
+231THF G FLAG=s                                                                 
+231THF G FL=593.6173                                                            
+231TH  G 4528.5    7   100   29  E1                                         r   
+231THF G FLAG=s                                                                 
+231TH  G 4564.9    3   74    7   E1                                         r   
+231THF G FLAG=s                                                                 
+231TH  G 4733.4    5   41    7  (M1)                                        r  ?
+231THF G FLAG=s                                                                 
+231TH  G 4770.2    10  19    7  (M1)                                        r  ?
+231THF G FLAG=s                                                                 
+231TH  G 4847.9    7   29    7  M1                                          r   
+231THF G FLAG=s                                                                 
+231TH  G 4872.7    7   31    7  M1                                          r   
+231THF G FLAG=s                                                                 
+231TH  G 4898.5    7   36    7  M1                                          r   
+231THF G FLAG=s                                                                 

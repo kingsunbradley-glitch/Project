@@ -1,0 +1,40 @@
+219PA    223NP A DECAY (2.2 US)        2017SU18,2020WA16         21NDS    202106
+219PA  H TYP=FUL$AUT=Balraj Singh et al.,$CIT=NDS 175, 1 (2021)$CUT=19-May-2021$
+219PA c  2017Su18: {+223}Np produced in {+187}Re({+40}Ar,4n),E=188 MeV, beam    
+219PA3c  from the Sector-focusing cyclotron (SFC) of HIRFL-Lanzhou facility.    
+219PA4c  Target=460 |mg/cm{+2} thick sputtered on 80 |mg/cm{+2} thick carbon    
+219PA5c  foils. Evaporation residues were separated using the recoil separator  
+219PA6c  SHANS, and implanted into a 300-|mm double-sided silicon strip detector
+219PA7c  (DSSSD). Measured E|a, and half-life of {+223}Np and {+219}Pa decays.  
+219PA8c  FWHM=22-30 keV for E|a=7 MeV. In 2020Wa16, measurements and analyses   
+219PA9c  are described about the spectroscopic information of pile-up pulses    
+219PAAc  from the decays of very short-lived nuclei. Reanalyzed Er-|a correlated
+219PABc  data from 2017Su18 and obtained E|a=9499 keV {I36} as compared to      
+219PACc  their earlier value of 9477 keV {I44} in 2017Su18.                     
+223NP  P  0            (9/2-)           2.2 US   +10-5             9672   37    
+223NP cP J,T$From 2017Su18                                                      
+223NP cP QP$Deduced by evaluators from measured E|a=9499 {I36} (2020Wa16).      
+223NP2cP 2017Su18 give Q(|a)=9687 keV {I45}. 2021Wa16 give 9650 {I40}           
+219PA  N                        1.0                                             
+219PA cN BR$%|a=100 for {+223}Np |a decay                                       
+219PA  L 0             9/2-             54 NS    10                             
+219PA cL J,T$from the Adopted Levels                                            
+219PA  A 9499      36                                                           
+219PA cA $E|a=9499 keV {I36} (2020Wa16). An earlier value of 9477 keV {I44} in  
+219PA2cA 2017Su18 (from the same group as 2020Wa16) from the decay of {+223}Np  
+219PA3cA was obtained from measured |a energy of 9976 keV {I37} for {+219}Pa    
+219PA3cA decay in events #1 and #6 in authors' Table 1, and subtracting this    
+219PA4cA energy from summed |a energy of 19453 {I23} obtained from the first    
+219PA5cA five events for |a decays of {+223}Np and its daughter {+219}Pa.       
+219PA cA $Only in the first five events in Table 1, deposited |a-sum energies of
+219PA2cA {+223}Np and {+219}Pa were consistent within 50 keV of 19453 keV {I23},
+219PA3cA suggesting that only one |a line (E|a=9477 keV) was emitted by {+223}Np
+219PA cA $Deduced |a reduced width in Rasmussen formalism,                      
+219PA2cA (|d{+2})=0.17 MeV {I+8-4} (2017Su18), assuming the same J|p values for 
+219PA3cA parent and daughter ground states.                                     
+219PA cA $Evaluators deduce HF|?0.4 for estimated r{-0}=1.50 fm {I2}, based on  
+219PA2cA r{-0}=1.529 fm {I15} for {+218}Th (2020Si16), and extrapolated         
+219PA3cA r{-0}|?1.46 {I2} for {+220}U, with the assumption of a single g.s. to  
+219PA4cA g.s. |a transition in this decay. Low hindrance factor suggests favored
+219PA5cA |a transition, consistent with the assigned J|p values for the ground  
+219PA6cA states of {+223}Np and {+219}Pa.                                       

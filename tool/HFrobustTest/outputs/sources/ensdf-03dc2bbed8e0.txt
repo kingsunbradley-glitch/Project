@@ -1,0 +1,175 @@
+217AC    ADOPTED LEVELS, GAMMAS                                  18NDS    201802
+217AC  H TYP=FUL$AUT=B. SINGH, A. CHAKRABORTY, S. BHATTACHARYA$                 
+217AC2 H CIT=NDS 147, 382 (2018)$CUT=1-DEC-2017$                                
+217AC  Q -3502     16 7512   16 1876   14 9832   10    2017WA10                 
+217AC cQ $S(2n)=13470 {I17}, S(2p)=6192 {I13} (2017Wa10)                        
+217AC c                                                                         
+217AC c  {+217}Ac evaluated by B. Singh, A. Chakraborty and S. Bhattacharya     
+217AC c                                                                         
+217AC c  {+217}Ac produced and identified by 1972No06, 1973No09 and 1973No02    
+217AC2c  in reactions: {+207}Pb({+14}N,4n) and {+208}Pb({+14}N,5n) at E=70-96   
+217AC3c  MeV at the cyclotron laboratory of the Institute of Physical and       
+217AC4c  Chemical Research (now RIKEN); measured E|a, half-life of ground state 
+217AC4c  and isomers in {+217}Ac, angular distribution of |a particles          
+217AC c  Decay scheme is basically as proposed by 1985De14 from their           
+217AC2c  |a|g-, |g|g- and |g(ce) coincidences. In the level scheme shown by     
+217AC3c  1982GoZU, ordering of the 478.9 and 349.0 gammas was reversed, and     
+217AC5c  their (486.4|g)(|g) coincidence spectrum indicates presence of         
+217AC6c  the 349.0|g and absence of the 478.9|g. A 501.6-371.7-380.0-327.6 |g   
+217AC7c  cascade was placed by 1983GoZX (also 1982GoZU) above the 1682 level,   
+217AC8c  proposing levels at 3263, 2762, 2390 and 2010 keV, respectively.       
+217AC9c  Due to the tentative nature of this unpublished work, these levels     
+217ACAc  as well as a proposed 957 level are not adopted here, although, the    
+217ACBc  data from this work can be found in the {+209}Bi({+12}C,4n|g) dataset. 
+217AC cG E,RI,M,MR$From {+217}Ac IT decay (740 ns)                              
+217AC cG M(B)$From ce data as well as |g(|q) data, M1 admixture is possible,    
+217AC2cG however, based on the level scheme, mult=E2 is required                
+217AC cL E$From least-squares fit to E|g data, assuming 0.3 keV uncertainty     
+217AC2cL for each |g ray, except 1 keV when E|g stated to nearest keV           
+217AC  XA217AC IT DECAY (740 NS)                                                
+217AC  XB221PA A DECAY (5.9 US)                                                 
+217AC  XC209BI(12C,4NG):DELAYED G                                               
+217AC PN                                                                     6  
+217AC  L 0.0          9/2-             69 NS     4                              
+217AC2 L %A=100$ %EC+%B+ LT 2                                                   
+217AC2 L MOMM1=+3.83 5 (1985De14,2014StZZ)                                      
+217ACX L XREF=ABC                                                               
+217AC cL J$favored |a decay to 9/2- g.s. of {+213}Fr, configuration=|ph{-9/2}   
+217AC cL T$from 1985De14 ((rf)|a(t), previous value was 72 ns {I5} in           
+217AC2cL 1981MaYW). Others: 75 ns {I3} (1982GoZU); 111 ns {I7} (1973No09,       
+217AC3cL from (rf)|a(t), previous value was 0.10 |ms {I1} in 1972No06)          
+217AC cL MOMM1$from g factor=+0.85 {I1} (1985De14), from time-differential      
+217AC2cL perturbed |a(|q) measurements (|a-TDPAD) technique. See 1985De14 for   
+217AC3cL discussion on probable admixture in the main |ph{-9/2} g.s.            
+217AC4cL configuration, and on the core-polarization effect. See also 1981MaYW  
+217AC5cL from the same group                                                    
+217AC cL $No |a decays from {+217}Ra or its descendants were observed           
+217AC2cL by 1976No09; upper limit for |e+|b{++} decay was set as 2%.            
+217AC3cL T{-1/2}(|e+|b{++})|?1000 sec from gross |b decay theory calculations   
+217AC4cL of 1973Ta30. Therefore, prediction for |e+|b{++} decay branch is       
+217AC5cL |?6.9|*10{+-9}%.                                                       
+217AC cL $Measured E|a=9650 keV {I10} (1973No09, also 1972No06,1973No02)        
+217AC dL $See 1984Po11 for theoretical calculations of {+5}He cluster-emission  
+217AC2dL probability.                                                           
+217AC  L 660.2      3 13/2-                                                     
+217ACX L XREF=AC                                                                
+217AC cL J$660.3, E2 |g to 9/2-; systematics of 13/2- states                    
+217AC2cL in neighboring nuclides. Configuration=|ph{-9/2}~#{+216}Ra 2+          
+217AC  G 660.3        100      E2                      0.0218                   
+217ACS G  KC=0.01544 22$LC=0.00474 7$MC=0.001198 17                             
+217ACS G  NC=0.000318 5$OC=7.20E-5 11$PC=1.252E-5 18$QC=6.89E-7 10              
+217AC  L 670.2      3 11/2-                                                     
+217ACX L XREF=AC                                                                
+217AC cL J$670.1, M1+E2 |g to 9/2-; systematics of 11/2- states and shell       
+217AC3cL model suggest configuration={+216}Ra 2+~#|ph{-9/2}                     
+217AC  G 670.1         100     M1+E2                   0.055  34                
+217AC cG CC$value with uncertainty overlaps pure M1 and pure E2                 
+217ACS G  KC=0.043 29$LC=0.0088 43$MC=0.00213 98                                
+217ACS G  NC=5.6E-4 26$OC=1.30E-4 62$PC=2.4E-5 12$QC=1.9E-6 13                  
+217AC  L 1146.6     4 17/2-                                                     
+217ACX L XREF=AC                                                                
+217AC2 L %A LE 0.27 4 (1985De14)                                                
+217AC cL $10780 {I15} |a transition from 1147 and/or 1149 levels to             
+217AC2cL {+213}Fr g.s.                                                          
+217AC cL J$486.4, E2 |g to 13/2-; shell model and analogy to {+215}Fr,          
+217AC2cL configuration={+216}Ra 4+~#|ph{-9/2}.                                  
+217AC  G 486.4         100     E2                      0.0434               B   
+217ACS G  KC=0.0275 4$LC=0.01181 17$MC=0.00305 5                                
+217ACS G  NC=0.000811 12$OC=0.000182 3$PC=3.08E-5 5$QC=1.282E-6 18              
+217AC  L 1149.1     3 15/2-                                                     
+217ACX L XREF=AC                                                                
+217AC2 L %A LE 0.27 4 (1985De14)                                                
+217AC cL $10780 {I15} |a transition from 1147 and/or 1149 levels to             
+217AC2cL {+213}Fr g.s.                                                          
+217AC cL J$489, M1(+E2) |g to 13/2-; 478.9, E2 |g to 11/2-;                     
+217AC2cL configuration={+216}Ra 4+~#|ph{-9/2}.                                  
+217AC cL E$note that 1983GoZX (also 1982GoZU) suggested this level at 1019      
+217AC2cL based on reversed ordering of the 349.0-478.9 |g cascade               
+217AC cL T$see comment on half-life for 1528 level                              
+217AC  G 478.9       100     25 E2                     0.0450               B   
+217ACS G  KC=0.0283 4$LC=0.01241 18$MC=0.00321 5                                
+217ACS G  NC=0.000854 12$OC=0.000191 3$PC=3.24E-5 5$QC=1.324E-6 19              
+217AC  G 489         75      25M1(+E2)   1       LT    0.16   4                 
+217ACS G  KC=0.130 35$LC=0.026 5$MC=0.0062 11                                   
+217ACS G  NC=0.0016 3$OC=0.00038 7$PC=7.0E-5 14$QC=5.8E-6 16                    
+217AC  L 1498.1     4 19/2-                                                     
+217ACX L XREF=AC                                                                
+217AC2 L %A LE 0.46 13 (1985De14)                                               
+217AC cL $11137 {I15} |a (a doublet) from 1498 and/or 1528 levels to            
+217AC2cL {+213}Fr g.s.                                                          
+217AC cL J$351.5, M1+E2 |g to 17/2-; 349.0, E2 |g to 15/2-;                     
+217AC2cL configuration={+216}Ra 6+~#|ph{-9/2}                                   
+217AC  G 349.0        76     10 E2                     0.1028               B   
+217ACS G  KC=0.0529 8$LC=0.0369 6$MC=0.00975 14                                 
+217ACS G  NC=0.00259 4$OC=0.000576 9$PC=9.50E-5 14$QC=2.62E-6 4                 
+217AC  G 351.5       100     10 M1+E2    +0.65   +20-10 0.38  5                 
+217ACS G  KC=0.30 5$LC=0.063 5$MC=0.0154 11                                     
+217ACS G  NC=0.0041 3$OC=0.00094 7$PC=0.000171 14$QC=1.34E-5 19                 
+217AC  L 1528.4     5 (21/2)-          10 NS     LT                             
+217ACX L XREF=AC                                                                
+217AC2 L %A LE 0.46 13 (1985De14)                                               
+217AC cL $11137 {I15} |a (a doublet) from 1498 and/or 1528 levels to            
+217AC2cL {+213}Fr g.s.                                                          
+217AC cL J$381.8, E2 |g to 17/2-; configuration={+216}Ra 6+~#|ph{-9/2} with     
+217AC2cL some {+216}Ra 8+~#|pf{-7/2} admixture suggested for the 21/2- and      
+217AC3cL 23/2- states by 1985De14 from fast M1 transition between these levels  
+217AC cL T$from |g|g(t) (1985De14). Other: 8 ns {I2} was measured by 1973No02   
+217AC2cL for the 11130|a from either the 1149 or 1528 level. No level with      
+217AC3cL 8 ns half-life was found by 1985De14, but could not be definitely      
+217AC4cL ruled out either by the authors                                        
+217AC  G 30.3      6   0.9   1  [M1]                    114   7  102      9    S
+217ACS G  L/T=0.75 4$M/T=0.180 15                                               
+217ACS G  N/T=0.048 5$O/T=0.0111 10$P/T=0.00206 19$Q/T=0.000183 17              
+217ACS G  LC=86 6$MC=20.7 13                                                    
+217ACS G  NC=5.5 4$OC=1.28 8$PC=0.236 15$QC=0.0210 14                           
+217AC cG $Transition was not observed. E|g is from the level scheme.            
+217AC  G 381.8        100    11 E2                     0.0803               B   
+217ACS G  KC=0.0442 7$LC=0.0267 4$MC=0.00702 10                                 
+217ACS G  NC=0.00187 3$OC=0.000415 6$PC=6.90E-5 10$QC=2.15E-6 3                 
+217AC  L 1682.2     6 (23/2)-          10 NS     LT                             
+217ACX L XREF=AC                                                                
+217AC cL J$153.8, M1+E2 |g to (21/2)-. Probable                                 
+217AC2cL configuration={+216}Ra 8+~#|ph{-9/2}. Fast M1 transition to the 21/2-  
+217AC3cL and absence of an E2 transition to the 19/2- state was interpreted by  
+217AC4cL 1985De14 as being due to an admixture of {+216}Ra 8+~#|pf{-7/2}        
+217AC5cL configuration                                                          
+217AC cL T$from |g|g(t) (1985De14)                                              
+217AC  G 153.8         100     M1+E2     +0.39   8     4.57   18                
+217ACS G  KC=3.52 20$LC=0.795 20$MC=0.195 7                                     
+217ACS G  NC=0.0518 17$OC=0.0119 4$PC=0.00214 5$QC=0.000161 9                   
+217AC  L 1792.2     6 (25/2)-                                                   
+217ACX L XREF=A                                                                 
+217AC cL J$110, M1 |g to (23/2)-.                                               
+217AC  G 110           100     M1(+E2)   0.4     LT    12.5   6                 
+217ACS G  KC=9.6 8$LC=2.17 22$MC=0.53 7                                         
+217ACS G  NC=0.141 17$OC=0.033 4$PC=0.0059 5$QC=0.00045 4                       
+217AC  L 1916.2     6 (27/2)-                                                   
+217ACX L XREF=A                                                                 
+217AC cL J$234, E2 |g to (23/2)-.                                               
+217AC  G 234           100     E2                      0.357  8             B   
+217ACS G  KC=0.1185 20$LC=0.175 4$MC=0.0472 11                                  
+217ACS G  NC=0.0126 3$OC=0.00276 7$PC=0.000445 10$QC=6.66E-6 12                 
+217AC  L 2012.2     7 (29/2)+          740 NS    40                          M1 
+217ACX L XREF=A                                                                 
+217AC2 L %A=4.51 18 $ %IT=95.49 18                                              
+217AC2 L MOMM1=+5.03 7 (1985De14,2014StZZ)                                      
+217AC cL MOMM1$from g factor=+0.347 {I5} (1985De14), from time-differential     
+217AC2cL perturbed |a-angular distribution (|a-TDPAD) technique. See also       
+217AC3cL 1981MaYW from the same group                                           
+217AC cL $10541 {I1} |a to an 1105 level in {+213}Fr (|a in coincidence with    
+217AC2cL 1105|g in {+213}Fr); 11137 {I15} |a to a 498 level in {+213}Fr (|a in  
+217AC3cL coincidence with 498|g in {+213}Fr); 11625 {I17} |a to {+213}Fr g.s.   
+217AC cL J$96|g, E1+M2 |g to (27/2)-; 220|g, M2 |g to (25/2)-. 1985De14 proposed
+217AC2cL configuration=|ng{-9/2}{++2}~#|pi{-13/2} and calculated g=0.36 {I1}    
+217AC3cL by using the g factors of -0.31 and 1.18 for |ng{-9/2} and |pi{-13/2}  
+217AC4cL orbitals, respectively, measured for {+215}Ac.                         
+217AC cL T$from |g(t) (1985De14). Other measurement: 400 ns {I100} (1973No02)   
+217AC  G 96          50      10 E1+M2    0.17    +5-6  2.0    12                
+217ACB G BE1W=1.4E-8 9$BM2W=0.20 17                                             
+217ACS G  LC=1.44 87$MC=0.39 24                                                 
+217ACS G  NC=0.105 64$OC=0.024 15$PC=0.0043 27$QC=3.2E-4 20                     
+217AC  G 220         100     20 M2                     7.62   17                
+217ACB G BM2W=0.21 6                                                            
+217AC cG M$small E3 admixture is not excluded                                   
+217ACS G  KC=5.31 11$LC=1.72 4$MC=0.444 10                                      
+217ACS G  NC=0.120 3$OC=0.0277 7$PC=0.00501 12$QC=0.000403 9                    

@@ -1,0 +1,265 @@
+{
+  "title": "α 衰变 · HF 结构图谱",
+  "cutoff": "2026-10-22",
+  "snapshot": "ENSDF 2026-10-01",
+  "api_release": {
+    "apiVersion": "Open Beta",
+    "database": "ENSDF",
+    "schemaVersion": "1.0.0",
+    "dataGeneratedAt": "2026-08-10T15:57:13Z",
+    "maintainer": "National Nuclear Data Center",
+    "contact": "dmason@bnl.gov",
+    "datasetCount": 19335,
+    "datafileCount": 57219
+  },
+  "n_transitions": 1687,
+  "n_datasets": 345,
+  "n_states": 2032,
+  "n_calculable": 1494,
+  "n_results": 15655,
+  "label_counts": {
+    "unknown": 963,
+    "parity_change": 388,
+    "configuration_mixing": 137,
+    "nilsson_changed": 335,
+    "spin_flip": 34,
+    "same_intrinsic": 28,
+    "same_band": 79
+  },
+  "main_label_counts": {
+    "nilsson_changed": 2,
+    "spin_flip": 1,
+    "parity_change": 1
+  },
+  "methods": [
+    {
+      "name": "Royer",
+      "version": "local_original",
+      "uses_l": false,
+      "source_file": "calc_dzr_poenaru_format.py",
+      "sha256": "d34776722cd38e8009ed785f1383bd7cc9dea7809646919a565e1110b3827705"
+    },
+    {
+      "name": "DZR",
+      "version": "local_original",
+      "uses_l": true,
+      "source_file": "calc_dzr_poenaru_format.py",
+      "sha256": "d34776722cd38e8009ed785f1383bd7cc9dea7809646919a565e1110b3827705"
+    },
+    {
+      "name": "Ismail2022",
+      "version": "local_original",
+      "uses_l": true,
+      "source_file": "calc_ismail2022_formulaE.py",
+      "sha256": "1d0fe140b8422bac0261aead39e8dab6f4d9f849014e2d76bfe099a230ae86aa"
+    },
+    {
+      "name": "Qi2009_UDL",
+      "version": "local_original",
+      "uses_l": false,
+      "source_file": "calc_qi2009_udl.py",
+      "sha256": "ac1cb15df32a22f4f47d76bdb9b01d676df1ab02a4e7c13a7018c8dff3b8107e"
+    },
+    {
+      "name": "Viola_Seaborg",
+      "version": "local_original",
+      "uses_l": false,
+      "source_file": "calc_viola_seaborg.py",
+      "sha256": "2133136304aff0dc0f6d2ad34042702fdd3fd02d162965485088394b4024682a"
+    },
+    {
+      "name": "Xu2022",
+      "version": "local_original",
+      "uses_l": true,
+      "source_file": "calc_xu2022_unified.py",
+      "sha256": "1942431a76fcfab9cd9ec662a4b2dca6b4ca39f3f38baf4c171fb12c6814feb3"
+    },
+    {
+      "name": "E_Rurarz",
+      "version": "local_original",
+      "uses_l": false,
+      "source_file": "calc_poenaru_E. Rurarz_format.py",
+      "sha256": "d52fce204ede5e7bbf02d3eecb6105d2731f734f6a2cfa4cbdffdf67a1765bb5"
+    }
+  ],
+  "labels": {
+    "same_intrinsic": "同组态带头 → 带头",
+    "same_band": "同组态转动带成员跃迁",
+    "nilsson_changed": "Nilsson 轨道改变",
+    "multi_qp_changed": "多准粒子组态改变",
+    "shape_changed": "有独立证据的形变变化",
+    "configuration_mixing": "明显组态混合",
+    "parity_change": "初末态宇称改变",
+    "spin_flip": "带头间 Λ−K 改变",
+    "unknown": "证据不足"
+  },
+  "flags": {
+    "tentative_Jpi": 884,
+    "qualified_measurement": 428,
+    "incomplete_uncertainty": 934,
+    "structure_assignment_not_independent": 563,
+    "missing_Jpi": 483,
+    "multiple_Jpi": 65,
+    "uncertain_final_state": 72,
+    "missing_line_intensity": 193,
+    "uncertain_alpha": 85,
+    "expected_alpha": 94,
+    "no_allowed_l": 3,
+    "unplaced_alpha": 52,
+    "estimated_Q": 7,
+    "unresolved_alpha_multiplet": 1,
+    "missing_half_life": 2,
+    "derived_alpha_energy": 14,
+    "energy_balance_inconsistent": 2,
+    "missing_alpha_branch": 3,
+    "explicit_alpha_normalization": 10,
+    "literature_supplement": 1,
+    "unresolved_final_energy": 1,
+    "single_event_branch": 1
+  },
+  "limitations": [
+    "ENSDF snapshot enumerated comprehensively; bibliography updates are a separately audited supplement, not a claim of exhaustive post-evaluation literature coverage.",
+    "A/(A−4) recoil convention retained; no additional electron-screening correction silently applied.",
+    "HF ranges are empirical overlapping distributions, not unique wavefunction inversions.",
+    "Λ−K is the user spin convention; for pure single-qp Nilsson states its sign is opposite to conventional Σ=K−Λ.",
+    "Independent calibration requires explicit reviewed state evidence. Evaluated/unreviewed assignments remain sensitivity data.",
+    "Measurement errors use first-order asymmetric propagation with independent input errors; unspecified errors remain flagged."
+  ],
+  "seed": 20261022,
+  "bootstrap_replicates": 1000,
+  "label_policy": {
+    "version": "2026-10-26-spin-flip-bandheads",
+    "same_intrinsic": "相同内禀准粒子组态，且初态与末态均有带头指认；不包含转动带其他成员。",
+    "same_band": "同组态对应转动带的跃迁，至少一端为非带头成员；与 same_intrinsic 互斥。",
+    "spin_flip": "两端均为带头，且有唯一可辨认的单准粒子轨道与 Λ−K 改变；非带头成员及带头未确定者不纳入。",
+    "parity_change": "初末态宇称改变；不要求带头，可包含涉及转动带成员的 α 跃迁。",
+    "band_role_rule": "自动判定限于评估资料中明确关联到同一名义 Nilsson 轨道的带：单一 Jπ 与轨道宇称一致时，J=K 为带头，J>K 为转动成员。没有带关联、Jπ 多候选或相互矛盾时保留 unknown；不由基态、相同 Jπ、l=0 或 HF 推定带头。暂定指认保留证据状态。"
+  }
+}
+{
+  "legacy_inventory_records": 210,
+  "legacy_numeric_results": 176,
+  "source_files": [
+    {
+      "file": "ackermann_ground_states.csv",
+      "sha256": "5354f979bcb8ebfbbec5d22587ab6d49e542c1fcf72d64f16ead1b608ce939a2"
+    },
+    {
+      "file": "hf_results_wide.csv",
+      "sha256": "5efa984459f01f1c879e990902541d457f849df2e8086408d258092c54a9ff43"
+    }
+  ],
+  "crosscheck_status_counts": {
+    "requires_final_state_resolution": 75,
+    "no_snapshot_parent_state": 62,
+    "single_candidate_not_automatically_equivalent": 73
+  },
+  "numeric_regression": [
+    {
+      "method": "DZR",
+      "n_comparisons": 176,
+      "max_abs_log10_difference": 1.006705829809107e-11,
+      "passed_rounding_tolerance_1e_8": true
+    },
+    {
+      "method": "Ismail2022",
+      "n_comparisons": 176,
+      "max_abs_log10_difference": 1.1333156635373598e-11,
+      "passed_rounding_tolerance_1e_8": true
+    },
+    {
+      "method": "Qi2009_UDL",
+      "n_comparisons": 176,
+      "max_abs_log10_difference": 9.738154727045867e-12,
+      "passed_rounding_tolerance_1e_8": true
+    },
+    {
+      "method": "Viola_Seaborg",
+      "n_comparisons": 176,
+      "max_abs_log10_difference": 9.238165787905928e-12,
+      "passed_rounding_tolerance_1e_8": true
+    },
+    {
+      "method": "Xu2022",
+      "n_comparisons": 176,
+      "max_abs_log10_difference": 9.704792525155881e-12,
+      "passed_rounding_tolerance_1e_8": true
+    },
+    {
+      "method": "E_Rurarz",
+      "n_comparisons": 176,
+      "max_abs_log10_difference": 9.831357949963149e-12,
+      "passed_rounding_tolerance_1e_8": true
+    }
+  ],
+  "legacy_Xu_note_correction": "Legacy dashboard calls the whole Xu formula outside-domain at Z>90. Author paper applies to superheavy nuclei; only piecewise C=0 outside the two listed regions remains a local convention."
+}
+{
+  "AME_source": "https://amdc.impcas.ac.cn/masstables/Ame2020/rct1.mas20",
+  "NUBASE_source": "https://amdc.impcas.ac.cn/masstables/Ame2020/nubase_4.mas20",
+  "AME_citation": "M. Wang et al., Chinese Phys. C 45, 030003 (2021)",
+  "NUBASE_citation": "F. G. Kondev et al., Chinese Phys. C 45, 030001 (2021)",
+  "n_Q_comparisons": 1686,
+  "n_NUBASE_alpha_states": 386,
+  "coverage_counts": {
+    "state_energy_match": 303,
+    "parent_present_state_unresolved": 48,
+    "no_ENSDF_alpha_dataset_in_snapshot": 35
+  },
+  "limitations": "NUBASE inventory includes estimated branches and limits; an absent ENSDF alpha dataset does not establish no alpha decay. These unresolved entries are retained in a separate audit, not converted to invented resolved transitions. Post-2020 states may be absent from NUBASE."
+}
+Attached coverage/legacy audits, source manifest and all 270 range summaries.
+12 SVG/PNG figures exported
+Pu-239 focused audit and formula table regenerated.
+{
+  "selection": "Z89-118, full N, no l filter; per-label P10-P90; strict outside all three methods",
+  "n_transitions": 46,
+  "n_label_memberships": 56,
+  "n_parents": 23,
+  "counts_by_label": {
+    "same_intrinsic": 1,
+    "same_band": 8,
+    "nilsson_changed": 24,
+    "configuration_mixing": 6,
+    "parity_change": 14,
+    "spin_flip": 3
+  },
+  "n_reviewed_outliers_reclassified": 4,
+  "global_expected_alpha_records": 94,
+  "global_reviewed_calculated_Q_records": 14,
+  "checks_failed": [],
+  "n_main_after_review": 2,
+  "scope_limit": "Frozen ENSDF record and local-formula arithmetic audit; not an independent remeasurement or exhaustive original-experiment review. Rurarz original A/Ad convention remains unresolved."
+}
+test_bandhead_definition (__main__.Physics.test_bandhead_definition) ... ok
+test_coverage_and_storage (__main__.Physics.test_coverage_and_storage) ... ok
+test_expected_and_unresolved_not_calibration (__main__.Physics.test_expected_and_unresolved_not_calibration) ... ok
+test_explicit_alpha_normalization (__main__.Physics.test_explicit_alpha_normalization) ... ok
+test_hf_angular_identity (__main__.Physics.test_hf_angular_identity) ... ok
+test_low_energy_isomer_matching (__main__.Physics.test_low_energy_isomer_matching) ... ok
+test_method_regression (__main__.Physics.test_method_regression) ... ok
+test_nilsson_spin_not_J (__main__.Physics.test_nilsson_spin_not_J) ... ok
+test_no_double_branch_correction (__main__.Physics.test_no_double_branch_correction) ... ok
+test_offline_resources (__main__.Physics.test_offline_resources) ... ok
+test_pu239_favored_line (__main__.Physics.test_pu239_favored_line) ... ok
+test_quantity_and_units (__main__.Physics.test_quantity_and_units) ... ok
+test_range_no_pseudoreplication (__main__.Physics.test_range_no_pseudoreplication) ... ok
+test_selection_rules (__main__.Physics.test_selection_rules) ... ok
+test_spin_flip_heads_and_parity_members (__main__.Physics.test_spin_flip_heads_and_parity_members) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.395s
+
+OK
+Default independent layer: 2 unique transitions
+Frozen versus dynamic ranges: 270 groups; all memberships, counts, status and quantiles agree
+Render paths: 84 (4 views × 7 methods × 3 evidence layers)
+Parent neutron-number filtering, ranges and reset passed: 117
+Same-band l selection and nine-label median annotations passed: 0
+Nilsson l selection, independent scopes, corrected mode and exports passed: 2
+All-record table includes 127 limit records; ranges exclude them
+Filtered subsets, candidate deduplication, comparison, query, detail and escaping passed
+PASS: Offline viewer logic verified. Browser rendering and downloads require separate UI QA.
+PASS: audit offline embedding, 46/4/42 row scopes, combined search, 598 source/arithmetic checks and escaping.
+
+2026-10-26 final delivery checks: all 15,655 formula results unchanged except sample_status; SQLite integrity_check=ok; outlier_audit=46 rows. Real IAB rendering verified: full table 46, search 239Pu 3, combined review status 2, cleared search review status 4. Screenshot figures/outlier_audit_preview.png. Temporary local server and tab closed.

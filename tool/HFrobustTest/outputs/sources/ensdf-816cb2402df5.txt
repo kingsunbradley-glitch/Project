@@ -1,0 +1,104 @@
+260BH    ADOPTED LEVELS                                          ENSDF    201603
+260BH  H TYP=FUL$AUT=B. SINGH$CIT=ENSDF$CUT=15-MAR-2016$                        
+260BH  H TYP=FUL$AUT=Y. A. AKOVALI$CIT=NDS 87, 301 (1999)$CUT=1-Oct-1998$       
+260BH  Q              6960   CA 520    SY 10400  50    2012WA38,1997MO25        
+260BH cQ $S(n) from theory (1997Mo25); S(p) and Q(|a) from 2012Wa38             
+260BH cQ $Estimated uncertainty=270 for S(p) (2012Wa38)                         
+260BH cQ $S(2n)=15670 (theory,1997Mo25). S(2p)=3050 {I390}, Q(|ep)=4040 {I250}  
+260BH2cQ (syst,2012Wa38)                                                        
+260BH c  1983OgZX: {+260}Bh produced in {+206}Pb({+55}Mn,n),E=310 MeV at JINR;  
+260BH2c  parent of {+256}Db; measured E|a                                       
+260BH c  2008Ne01: production of {+260}Bh in {+209}Bi({+52}Cr,n) reaction;      
+260BH2c  {+256}Db, {+252}Lr and {+248}Md through successive |a-decay chain, and 
+260BH3c  {+256}Rf and {+248}Fm through |e decays.                               
+260BH4c  E({+52}Cr{+12+})=257.0 MeV beam provided by 88-Inch Cyclotron at       
+260BH5c  LBNL. The nuclei were analyzed using Berkeley Gas-Filled Separator.    
+260BH6c  Detectors: A focal plan Si strip detector and a Si-strip detector      
+260BH7c  array, with a resolution of FWHM=55 keV.                               
+260BH c                                                                         
+260BH c  Following eight correlated decay chains were detected by 2008Ne01      
+260BH t                                                                         
+260BH t  Decay chain #1: Evaporation residues at 18.0 MeV                       
+260BH t  E{-|a1}=10.24 MeV      t{-1}=0.044 s    -assigned to {+260}Bh decay;   
+260BH+t  {+260}Bh decays by |a to {+256}Db followed by |e decay to {+256}Rf.    
+260BH+t  The |e decay of {+256}Db to {+256}Rf is expected but not seen          
+260BH t  E{-SF}=148.0 MeV       t{-SF}=0.648 s   -assigned to {+256}Rf decay;   
+260BH+t  {+256}Rf decays by SF mode.                                            
+260BH t                                                                         
+260BH t  Decay chain #2: Evaporation residues at 14.9 MeV                       
+260BH t  E{-|a1}=10.17 MeV      t{-1}=0.003 s    -assigned to {+260}Bh decay    
+260BH t  E{-|a2}=9.03 MeV       t{-2}=0.380 s    -assigned to {+256}Db decay    
+260BH t  E{-|a3}=8.82 MeV       t{-3}=0.43 s     -assigned to {+252}Lr decay    
+260BH t  E{-|a4}=8.26 MeV       t{-4}=32.460 s   -assigned to {+248}Md decay;   
+260BH+t  {+248}Md decays by |a to {+244}Es                                      
+260BH t                                                                         
+260BH t  Decay chain #3: Evaporation residues at 15.2 MeV                       
+260BH t  E{-|a1}=10.17 MeV      t{-1}=0.135 s    -assigned to {+260}Bh decay    
+260BH t  E{-|a2}=9.06 MeV       t{-2}=0.316 s    -assigned to {+256}Db decay    
+260BH t  E{-|a3}=8.99 MeV       t{-3}=1.394 s    -assigned to {+252}Lr decay;   
+260BH+t  {+252}Lr decays by |a to {+248}Md which decays by |e to {+248}Fm.      
+260BH+t  The |e decay of {+248}Md to {+248}Fm is expected but not observed.     
+260BH t  E{-|a4}=7.85 MeV       t{-4}=59.642 s   -assigned to {+248}Fm decay;   
+260BH+t  {+248}Fm decays by |a to {+244}Cf                                      
+260BH t                                                                         
+260BH t  Decay chain #4: Evaporation residues at 16.5 MeV                       
+260BH t  E{-|a1}=Escape,0.77 MeV   t{-1}=0.045 s    -assigned to {+260}Bh decay 
+260BH t  E{-|a2}=9.02 MeV       t{-2}=0.563 s    -assigned to {+256}Db decay    
+260BH t  E{-|a3}=9.02 MeV       t{-3}=0.119 s    -assigned to {+252}Lr decay;   
+260BH+t  {+252}Lr decays by |a to {+248}Md                                      
+260BH t                                                                         
+260BH t  Decay chain #5: Evaporation residues at 16.5 MeV                       
+260BH t  E{-|a1}=10.08 MeV      t{-1}=0.050 s    -assigned to {+260}Bh decay    
+260BH t  E{-|a2}=9.19 MeV       t{-2}=0.761 s    -assigned to {+256}Db decay    
+260BH t  E{-|a3}=9.61 MeV       t{-3}=0.195 s    -assigned to {+252}Lr decay    
+260BH t  E{-|a4}=8.46 MeV       t{-4}=1.672 s    -assigned to {+248}Md decay;   
+260BH+t  {+248}Md decays by |a to {+244}Es                                      
+260BH t                                                                         
+260BH t  Decay chain #6: Evaporation residues at 17.9 MeV                       
+260BH t  E{-|a1}=10.19 MeV      t{-1}=0.015 s    -assigned to {+260}Bh decay    
+260BH t  E{-|a2}=9.04 MeV       t{-2}=4.600 s    -assigned to {+256}Db decay    
+260BH t  E{-|a3}=Escape,2.38 MeV   t{-3}=0.540 s    -assigned to {+252}Lr decay 
+260BH t  E{-|a4}=8.13 MeV       t{-4}=15.783 s   -assigned to {+248}Md decay;   
+260BH+t  {+248}Md decays by |a to {+244}Es                                      
+260BH t                                                                         
+260BH t  Decay chain #7: Evaporation residues at 18.1 MeV                       
+260BH t  E{-|a1}=10.13 MeV      t{-1}=0.044 s    -assigned to {+260}Bh decay;   
+260BH+t  {+260}Bh decays by |a to {+256}Db followed by |e decay to {+256}Rf.    
+260BH+t  The |e decay of {+256}Db to {+256}Rf is expected but not seen          
+260BH t  E{-SF}=174.3 MeV       t{-SF}=1.120 s   -assigned to {+256}Rf decay;   
+260BH+t  {+256}Rf decays by SF                                                  
+260BH t                                                                         
+260BH t  Decay chain #8: Evaporation residues at 16.3 MeV                       
+260BH t  E{-|a1}=10.03 MeV      t{-1}=0.037 s    -assigned to {+260}Bh decay    
+260BH t  E{-|a2}=9.03 MeV       t{-2}=4.323 s    -assigned to {+256}Db decay    
+260BH t  E{-|a3}=Escape,3.31 MeV   t{-3}=0.065 s    -assigned to {+252}Lr decay;
+260BH+t  {+252}Lr decays by |a to {+248}Md followed by |e decay to {+248}Fm.    
+260BH+t  The |e decay of {+248}Fm is expected but not observed.                 
+260BH t  E{-|a4}=8.06 MeV       t{-4}=25.171 s   -assigned to {+248}Fm decay;   
+260BH+t  {+248}Fm decays by |a to {+244}Cf.                                     
+260BH  L 0                             35 MS     +19-9                          
+260BH2 L %A AP 100$ %EC<18 $ %SF<18                                             
+260BH cL $%SF+%|e<18 (2008Ne01)                                                 
+260BH cL $Only |a decay of {+260}Bh has been observed by 2008Ne01. An upper     
+260BH2cL limit is proposed by 2008Ne01 for SF and |e decay modes. Mainly        
+260BH3cL the |a decay mode was also reported by 1983OgZX                        
+260BH cL E$the 35-ms activity is assumed to belong to the g.s. of {+260}Bh.     
+260BH2cL Seven |a events are observed at: 10.24, 10.17, 10.17, 10.08, 10.19,    
+260BH3cL 10.13 and 10.03 MeV (2008Ne01), some of which possibly feed excited    
+260BH4cL states in {+256}Db                                                     
+260BH cL T$from (implants)|a-correlated events (2008Ne01). No half-life was     
+260BH2cL reported by 1983OgZX. Theoretical calculations (1997Mo25) predict      
+260BH3cL T{-1/2}=0.025 s for |a decay and 10.22 s for |e decay, consistent      
+260BH4cL with dominant |a decay mode in experimental works of 2008Ne01 and      
+260BH5cL 1983OgZX                                                               
+260BH cL J$in theoretical calculations by 1997Mo25, 5/2- proton and 11/2-       
+260BH2cL neutron orbitals were specified, which would suggest J|p=3 to 8 with   
+260BH4cL positive parity                                                        
+260BH cL $No direct SF decay of {+260}Bh or from {+260}Sg (possible |e decay    
+260BH2cL of {+260}Bh) was observed. Only a limit of <18% is assigned at 84%     
+260BH3cL confidence level for SF and |e decay branches.                         
+260BH cL T$from 2008Ne01.                                                       
+260BH cL $Production cross section=59 pb {I+29-20} (2008Ne01)                   
+260BH dL $Fission barrier height was calculated by 1985Cw01 as 6.4 MeV.         
+260BH2dL For calculated deformation energy along the fission barrier as a       
+260BH3dL function of quadrupole deformation, see 1985Cw01.                      

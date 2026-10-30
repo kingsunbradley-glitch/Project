@@ -1,0 +1,63 @@
+218AC    222PA A DECAY (4.1 MS)        1970BO13,1979SC09,2019MI0819NDS    201911
+218AC  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Murray Martin et al.,$         
+218AC2 H CIT=NDS 160, 405 (2019)$CUT=30-Oct-2019$                               
+218AC c  1970Bo13: measured E|a, I|a, hindrance factors, half-life of decay     
+218AC2c  of {+222}Pa                                                            
+218AC c  1979Sc09: measured E|a, half-life of decay of {+222}Pa                 
+218AC c  2019Mi08: {+222}Pa activities obtained from the |a-decay               
+218AC2c  chains starting from {+226}Np or in {+181}Ta({+48}Ca,X),E=212, 217, 226
+218AC3c  MeV at the UNILAC accelerator of GSI facility. Evaporation residues    
+218AC4c  (ERs) were separated by the SHIP velocity filter and implanted into the
+218AC5c  COMPAct Spectroscopy Set-up (COMPASS), consisting of silicon detectors.
+218AC6c  Measured energy and time spectra of correlations between ERs and |a    
+218AC7c  particles from subsequent decays; deduced E|a and half-lives of decays 
+218AC8c  of {+222}Pa and {+218}Ac.                                              
+218AC d  Production cross section of production of {+222}Pa: 1990An19           
+218AC cA E$From 1970Bo13. Uncertainty is not given by the authors, but          
+218AC2cA expected to be |?20 keV, based on data for other isotopes in           
+218AC3cA the paper. Only one |a of 8210 keV was observed by 1979Sc09.           
+218AC4cA In 2019Mi08, two main peaks were reported at 8.63 and 8.47 MeV, and    
+218AC5cA a third one at 8.31 MeV. It appears that |a energies are about 100     
+218AC6cA keV higher in 2019Mi08, as compared to those in 1970Bo13. Note that    
+218AC7cA statistics are much weaker in 2019Mi08 as compared to those            
+218AC8cA in 1970Bo13                                                            
+218AC cA IA$From 1970Bo13.                                                      
+218AC cA HF$r{-0}({+218}Ac)=1.5515 {I79}, obtained using                        
+218AC2cA r{-0}({+218}Ra)=1.5571 {I17}, r{-0}({+216}Ra)=1.5664 {I65},            
+218AC3cA r{-0}({+220}Th)=1.5514 {I30}, and r{-0}({+218}Th)=1.529 {I15}          
+218AC cA E(A),IA(A),HF(A)$Complex peak in 1970Bo13, too broad to be a           
+218AC2cA single peak. Authors divide the peak in the three components.          
+218AC3cA Total multiplet intensity |?50 divided equally by the                  
+218AC4cA evaluators between the three |a groups.                                
+218AC cL E$Level energies are deduced from Q(|a)=8890 {I50} (syst, 2017Wa10)    
+218AC2cL and E|a values given here.                                             
+222PA  P 0.0                           4.1 MS    6              8890      SY    
+222PA cP T$Unweighted average of 4.5 ms {I3} (2019Mi08, time correlations       
+222PA2cP between {+222}Pa fragments and subsequent |a decays); 3.3 ms {I3}      
+222PA3cP (1995AnZY); 2.9 ms {I+6-4} (1979Sc09); 5.7 ms {I5} (1970Bo13). In      
+222PA4cP {+222}Pa Adopted Levels in the ENSDF database (March 2011 update),     
+222PA5cP value is adopted from 1979Sc09.                                        
+222PA cP QP$8890 {I50} (syst, 2017Wa10)                                         
+218AC  N                       1.0                                              
+218AC cN BR$Only |a decay has been observed for the decay of {+222}Pa.          
+218AC2cN Theoretical partial T{-1/2}=21.3 s for {+222}Pa |e decay               
+218AC5cN (2019Mo01) gives %|e+%|b{++}=0.02                                      
+218AC  L 0.0                                                                   S
+218AC  L 193       AP                                                           
+218AC  A 8540         30     AP   105  AP                                       
+218AC cA E$|a peak is mixed somewhat with |a lines emitted by {+214m}Fr         
+218AC2cA activity. Other: 8.63 MeV {I4} (2019Mi08)                              
+218AC  L 407       AP                                                           
+218AC  A 8330         20     AP   40   AP                                       
+218AC cA E$|a peak is strongly mixed somewhat with 8.36 MeV-|a line emitted     
+218AC2cA by {+214}Fr activity. Other: 8.47 MeV {I4} (2019Mi08)                  
+218AC  L 529       AP                                                           
+218AC  A 8210         17     AP   22   AP                                   A   
+218AC cA $I|a(8210|a+ 8180|a+ 8160|a)|?50 (1970Bo13). Other: 8.31 MeV {I4}      
+218AC2cA (2019Mi08), emitted from the decay of {+222}Pa, only when the activity 
+218AC3cA of {+222}Pa is produced directly in a reaction, not from the {+226}Np  
+218AC4cA |a-decay chain, which may suggest an isomer in {+222}Pa.               
+218AC  L 560       AP                                                           
+218AC  A 8180         17     AP   18   AP                                   A   
+218AC  L 580       AP                                                           
+218AC  A 8160         17     AP   16   AP                                   A   

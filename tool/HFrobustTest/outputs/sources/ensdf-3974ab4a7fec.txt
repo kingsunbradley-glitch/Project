@@ -1,0 +1,54 @@
+251NO    255RF A DECAY                 2006He27                  23NDS    202305
+251NO  H TYP=ERR$AUT=C. Morse$DAT=4-Dec-2023$COM=Fixed malformed comment.$      
+251NO  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251NO cA E$According to 2006He27, there is a systematic uncertainty of 15 keV   
+251NO2cA on the |a-decay energies, which the evaluator has added in quadrature  
+251NO3cA to the reported statistical uncertainties.                             
+251NO cG MR$If no value given it was assumed |d=1.00 for E2/M1, |d=1.00 for     
+251NO2cG E3/M2 and |d=0.10 for the other multipolarities                        
+251NO CL BAND(A)$7/2+[624]                                                      
+251NO c  $ 2006He27: {+255}Rf produced by the {+207}Pb({+50}Ti,2n) reaction at  
+251NO2c  E=4.85 MeV/nucleon. Reaction products were separated from the primary  
+251NO3c  beam by the SHIP velocity filter at GSI facility and implanted into a  
+251NO4c  position-sensitive 16-strip PIPS detector. Measured E{-|g}, I{-|g},    
+251NO5c  |g|g, |a-|g coincidence, conversion electrons, lifetimes with a        
+251NO6c  clover HPGe detector.                                                  
+251NO cA HF$From 2006He27.                                                      
+251NO c  $ See also 2001He35.                                                   
+251NO D  CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+255RF  P 0            (9/2-)            1.63 S    6              9055     4     
+255RF cP T$Weighted average of 1.4 s {I2} (1985He06), 1.64 s {I11} (2001He35),  
+255RF2cP 1.68 s {I9} (2006He27), and 1.54 s {I19} (2015An05).                   
+255RF cP QP$From 2021Wa16                                                       
+251NO  N                        0.49   2                                        
+251NO cN BR$Weighted average of 48 {I7} (1985He06), 55 {I6} (1997He29),         
+251NO2cN 48 {I6} (2001He35), and 48 {I3} (2015An05).  I|b normalization:        
+251NO3cN 1985He06, 1997He29, and 2001He35 give %SF, in which case it was        
+251NOxcN assumed %|a+%SF=100.                                                   
+251NO  A 8575      161.0     5 80                                               
+251NO  A 8646      161.5     5 90                                               
+251NO  A 8678      173       1 56                                               
+251NO  A 8906      172.5     101344                                             
+251NO cA HF$2006He27 note that the hindrance factor for this transition is      
+251NO2cA anomolously low compared to other N=151 isotones, and suggest that     
+251NO3cA the observed transition is partially due to summing of the 8716-keV    
+251NO4cA transition with conversion electrons.                                  
+251NO  L 0            (7/2+)            0.80 S    1                         A   
+251NO2 L %A=91 +9-22$%SF=0.0014 +31-12$CONF=7/2+[624] (2006He27)                
+251NO cL T$From 2006He27.                                                       
+251NO cL %SF$Estimated by 2006He27 from detection of one fission event          
+251NO2cL following |a decay of {+255}Rf.                                        
+251NO cL %A$From 2001He35.                                                      
+251NO  L 60.3      3  (9/2+)                                                A   
+251NO  G 60.3      3                                                           S
+251NO  L 203.6     2  (9/2-)                                                    
+251NO2 L CONF=9/2-[734] (2006He27)                                              
+251NO  G 143.3     2  51     6  E1                      0.0669                  
+251NO2 G ELC+EMC<0.25 (2006He27)                                                
+251NOS G LC=0.0499 8$MC=0.01248 18$NC=0.00348 5$OC=0.000905 13$PC=0.0001546 23$ 
+251NOS G QC=5.14E-6 8                                                           
+251NO  G 203.6     2  49     6  E1                      0.1143                  
+251NO2 G EKC<0.1 (2006He27)$ ELC+EMC<0.1 (2006He27)                             
+251NOS G KC=0.0857 13$LC=0.0213 3$MC=0.00530 8$NC=0.001482 21$OC=0.000388 6$    
+251NOS G PC=6.84E-5 10$QC=2.52E-6 4                                             
+251NO  A 8716      1692      5 2.4                                              

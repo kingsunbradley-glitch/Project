@@ -1,0 +1,113 @@
+221TH    ADOPTED LEVELS, GAMMAS                                  07NDS    200705
+221TH  H TYP=ERR$AUT=J. TULI$DAT=5-SEP-2012$ADDED DATA FROM 2000HE17$           
+221TH  H TYP=MOD$AUT=J. Tuli$DAT=5-Jun-2012$COM=updated T1/2 (gs)$              
+221TH  H TYP=FUL$AUT=Ashok Jain, Sukhjeet Singh, Suresh Kumar, Jagdish Tuli$    
+221TH2 H CIT=NDS 108, 883 (2007)$CUT=15-Jan-2007$                               
+221TH  Q -3.44E3   6 5802    244095    118626    4     2012WA38                 
+221TH cQ $Note: Current evaluation has used the following Q record              
+221TH2cQ -3440     50 {I5802}   24 {I4103}   17 {I8626}   4     2003Au03        
+221TH c  Assignment: parent of {+217}Ra, {+213}Rn (1970To07 and 1970Va13);      
+221TH2c  {+208}Pb({+16}O,3n) excit (1970To07 and 1970Va13);                     
+221TH3c  cross bombardments (1970Va13).                                         
+221TH c  See 1989De11 for calculations of B(E1)/B(E2) values.                   
+221TH cL           See 1988Le13 for theoretical interpretation of levels, and   
+221TH2cL level energy calculations by coupling states of a deformed shell model 
+221TH3cL to a reflection-asymmetric rotor core. The single-particle states were 
+221TH4cL obtained from a Woods-Saxon potential, including octupole deformation  
+221TH5cL (octupole deformation of 0.1) as well as quadrupole deformation.       
+221TH cL           See 1991Cw01 also for deformation,level energy calculations  
+221TH6cL based on the fit to the suggested parity doublet ground band.          
+221TH7cL A review of the reflection asymmetric shapes may be found in 1996Bu45. 
+221TH cL           Higher-order deformations up to |b{-7} were included by      
+221TH2cL 1989Cw03 in calculations of non-collective quasiparticle state         
+221TH3cL energies for odd-A thorium isotopes in the transitional region. These  
+221TH4cL higher-order equilibrium deformations lead to further                  
+221TH5cL fragmentation of single-particle                                       
+221TH6cL orbitals. For K=1/2 bandhead (at g.s.), |b{-2}=0.101, |b{-3}=0.090,    
+221TH7cL |b{-4}=0.065, |b{-5}=0.042, |b{-6}=0.020 and |b{-7}=0.027 were         
+221TH8cL obtained. See 1989Cw03 for calculated deformations and energies for    
+221THxcL the K=3/2 and 5/2 bandheads.                                           
+221TH cL E         1988Da15 suggested that the 250.9-keV transition, the        
+221TH2cL strongest |g seen in {+208}Pb({+16}O,3n|g) reaction, depopulates       
+221TH3cL either a 250.9-keV or possibly a 250.9+x keV level; x was estimated to 
+221TH4cL be less than 50 keV from the experimental limit for observations of    
+221TH5cL low-energy transitions. Therefore, as pointed out by 1988Da15, all     
+221TH6cL excited-state energies might be higher by an amount of E|<50 keV.      
+221TH cL J         Spins and parities of all excited states were deduced by     
+221TH2cL 1988Da15 from multipolarities of deexciting |g transitions observed    
+221TH3cL in {+208}Pb({+16}O,3n|g). If the 250.9|g feeds a low-lying level at    
+221TH4cL E|<50 keV with a spin and parity different from 7/2+, then J|p's given 
+221TH5cL here for all excited states would have to be changed by                
+221TH6cL [J|p(level populated by 250.9|g)-7/2+].                                
+221TH CL BAND(A)$K=1/2 GS band (1988Le13).                                      
+221TH2cL See 1988Da15 and 1988Le13 for discussions.                             
+221TH CL BAND(B)$K=1/2 parity doublet of GS band (1988Le13).                    
+221TH2cL See 1988Da15 and 1988Le13 for discussions.                             
+221TH cG E(D)      |g was doublet (1988Da15).                                   
+221TH  XA225U A DECAY                                                           
+221TH  XB208PB(16O,3NG) E=78-89 MEV                                             
+221TH  L  0.0        (7/2+)              1.74 MS 3                          A   
+221TH3 L XREF=AB                                                                
+221TH2 L  %A=100                                                                
+221TH cL           Only |a decay was observed. From gross |b{+-} decay theory of
+221TH2cL 1973Ta30 one estimates %|e+%|b{++}<1.0|*10{+-4}                        
+221TH cL           See 1985Po14 for calculated half-lives for decays by multiple
+221TH2cL heavy-ion emission; see 1973Ta30 for calculated T{-1/2}(|e decay).     
+221TH cL T$Weighted                                                             
+221TH2cL average of 1.68 ms {i6}, 1.8 ms {i3}, 1.9 ms {i1},                     
+221TH3cL 2.0 ms +3-2 and 1.73 ms {i3}, 2.3 ms 4 measured by 1970To07, 1970Va13, 
+221TH4cL 1993AnZS, 2000He17, 2001Ko07, and 2005Li17, respectively.              
+221TH cL J         suggested by 1988Le13 from analogy to {+219}Ra. Reflection-  
+221TH2cL asymmetric rotor core-particle coupling calculations of 1988Le13 showed
+221TH3cL that the |w=1/2 orbital (of i13/2 shell) at |b{-2}=|b{-3}=0.1          
+221TH4cL deformation reproduces a 7/2+ ground state when strong Coriolis        
+221TH5cL couplings between the K=1/2, 3/2 and 5/2 orbitals are considered, and  
+221TH6cL a large decoupling parameter (a|?-2) is used.                          
+221TH  L 47        20                                                          ?
+221TH2 L XREF=A                                                                 
+221TH  L 250.9     3 (11/2+)                                                A   
+221TH2 L XREF=AB                                                                
+221TH  G 250.9     3    100.0   E2                      0.304                   
+221TH  L 488.0     5 (13/2-)                                                B   
+221TH2 L XREF=B                                                                 
+221TH  G 237.1     3    100.0   E1                      0.0640                  
+221TH  L 572.8     5 (15/2+)                                                A   
+221TH2 L XREF=B                                                                 
+221TH  G 84.8      3       58 7 E1                      0.184                   
+221TH  G 321.9     3      100 5 E2                      0.139                   
+221TH  L 746.9     6 (17/2-)                                                B   
+221TH2 L XREF=B                                                                 
+221TH  G 174.1     3      100 4 E1                     0.132                    
+221TH  G 258.9     3      7.311[E2]                    0.274                   ?
+221TH  L 946.5     6 (19/2+)                                                A   
+221TH2 L XREF=B                                                                 
+221TH  G 199.6     3      100 6 E1                     0.0957                   
+221TH  G 373.6     5       27 9 E2                     0.0911                   
+221TH  L 1078.6    7 (21/2-)                                                B   
+221TH2 L XREF=B                                                                 
+221TH  G 132.1     3      100 3E1                      0.257                    
+221TH  G 332.1     3       36 6[E2]                    0.127                D   
+221TH  L 1356.0    8 (23/2+)                                                A   
+221TH2 L XREF=B                                                                 
+221TH  G 277.4     3      100 6E1                      0.0447                   
+221TH  G 409.5     3        9 4[E2]                    0.0713                  ?
+221TH  L 1472.0    9 (25/2-)                                                B   
+221TH2 L XREF=B                                                                 
+221TH  G 116.0     3      100 7E1                      0.352                    
+221TH  G 393.3     3       87 7E2                      0.0793                   
+221TH  L 1776.4    9 (27/2+)                                                A   
+221TH2 L XREF=B                                                                 
+221TH  G 304.4     3      100 9E1                      0.0363                   
+221TH  G 420.3     10   13.64LT [E2]                   0.0666                  ?
+221TH  L 1935.4    10(29/2-)                                                B   
+221TH2 L XREF=B                                                                 
+221TH  G 159.0     3       9315 E1                     0.165                    
+221TH  G 463.5     5      10015 E2                     0.0521                   
+221TH  L 2251.5    11(31/2+)                                                A   
+221TH2 L XREF=B                                                                 
+221TH  G 316.1     3      10017 E1                     0.0334                   
+221TH  G 475.0     11   16.67LT [E2]                   0.0491                  ?
+221TH  L 2421.5    11(33/2-)                                                B   
+221TH2 L XREF=B                                                                 
+221TH  G 170.4     3       26 4 [E1]                   0.1396                   
+221TH  G 485.7     3      10012 [E2]                   0.0465                   

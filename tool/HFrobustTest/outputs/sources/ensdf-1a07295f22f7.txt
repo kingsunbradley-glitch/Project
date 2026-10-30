@@ -1,0 +1,748 @@
+232TH    ADOPTED LEVELS, GAMMAS                                  06NDS    200610
+232TH  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 107, 2579 (2006)$CUT=1-Nov-2004$         
+232TH  Q -499      8 6440.1  117603    144081.6  14    2012WA38                 
+232TH cQ $Note: Current evaluation has used the following Q record              
+232TH2cQ -500      8  {I6440}.3 {I11} 776E1  10 {I4081}.6 {I14}    2003Au03     
+232TH c  Other reactions:                                                       
+232TH c  {+232}Th(n,Fission): E=1 eV- 20 keV, measured cross-section (1991Na03);
+232TH2c  E<20 MeV, calculated fission cross-section (2004Ma84).                 
+232TH c  {+232}Th(|g,Fission): E=68-264 MeV (2000Sa09); E=40-100 MeV (1996Ka16);
+232TH2c  E=4.75-6.5 MeV (1996Se07); E=6.44-13.15 MeV, deduced height of         
+232TH3c  fission barrier (1993Pi05); E=250-1200 MeV, measured fission           
+232TH4c  cross-section (1993Bi16); E=6.73-9.72 MeV, measured |g rays (1992Ge01).
+232TH c  {+232}Th(|g,f) E|g=4-7 MeV bremsstrahlung, quadrupole component in     
+232TH2c  photofission deduced (1979Zh01). Others: 1978Zh03, 1978Zh04, 1977Zh06. 
+232TH3c  {+232}Th(|g,f), isomer at |?3 MeV in third minimum decaying primarily  
+232TH4c  by |g emission suggested (1978As02).                                   
+232TH c  {+232}Th(pol |g,Fission): E=52 meV (1991Ta15); E=69 MeV (1991Ma22).    
+232TH c  232Th(e,Fission), E=4.54-6.64 MeV, measured cross-sections of fission  
+232TH2c  fragments (1994EnZZ).                                                  
+232TH c  {+232}Th(e,e'f) E(e)=20-120 MeV. Possible E2 component deduced         
+232TH2c  (1977Sh15) E(e)=10-40 MeV, possible E2 component at 22 MeV (1976Kn01)  
+232TH c  Fission following {+232}Th(|a,|a') studied at E(|a)=120 MeV. Small     
+232TH2c  fission probability found in the region of the giant-quadrupole        
+232TH3c  resonance (1980Va14). Fission mass asymmetry studied in                
+232TH4c  {+232}Th(|g,fission) for bremsstrahlung of 15-55 MeV (1980Gu12)        
+232TH c  Three-humped fission barrier proposed. Branching=2.5|*10{+-4} {i15}    
+232TH2c  for isomeric fission; E=2.4 MeV {i2} for excitation energy of the      
+232TH3c  fission shape isomer are deduced from {+232}Th(|g,f).                  
+232TH4c  E|g(bremsstrahlung)=3.25-5.75 MeV (1978Bo07,1979Be33).                 
+232TH c  {+232}Th(|g,n), (|g,2n), (|g,f) studied for E|g=5-18.3 MeV. Deduced    
+232TH2c  |b(2)=0.290, Q=9.8 {i4} from giant-dipole resonance parameters         
+232TH3c  (1980Ca08).                                                            
+232TH c  {+232}Th(p,p): 2002Ig01, 2000De61.                                     
+232TH c  {+232}Th(pol p,p): 1998Do16.                                           
+232TH c  {+232}Th(p-bar,x): anti-proton absorption                              
+232TH2c  (1993Ja09,1993Wy05,1998Lu05,2001Tr19,2001Tr23).                        
+232TH D  232TH(G,Fission): E=68-264 MeV (2000Sa09); E=40-100 MeV (1996Ka16);    
+232TH2D  E=4.75-6.5 MeV (1996Se07); E=6.44-13.15 MeV, deduced heigth of         
+232TH3D  fission barrier (1993Pi05); E=250-1200 MeV, measured fission           
+232TH4D  cross-section (1993Bi16); E=6.73-9.72 MeV, measured G rays (1992Ge01). 
+232TH D  232TH(pol G,Fission): E=52 meV (1991Ta15); E=69 MeV (1991Ma22).        
+232TH D  232TH(e,Fission), E=4.54-6.64 MeV, measured cross-sections of fission  
+232TH2D  fragments (1994EnZZ).                                                  
+232TH c  {+232}Th({+40}Ar,{+40}Ar), E=200 MeV (1993Ad01). Other: 1991An16.      
+232TH c  {+232}Th({+12}C,{+12}C) (1992An12).                                    
+232TH c  Optical-model parameters deduced from (d,d) (1974Ch27)                 
+232TH c  Cluster radioactivity:                                                 
+232TH c  {+232}Th {+26}Ne decay (1997Tr17,1997MiZP,1995Si05,1975ChZj,2002Sa55). 
+232TH c  {+232}Th {+24}Ne decay (1993Si26).                                     
+232TH c  {+232}Th Double beta decay with emission of two neutrinos              
+232TH2c  (2004Ra13,2002Tr04). Other: 2002Hi06.                                  
+232TH c  Isotope shifts measured by LASER spectroscopy, mean square             
+232TH2c  charge radii of Th isotopes determined (1989Ka29)                      
+232TH c  Deduced mean square charge radii of U and Pu isotopes                  
+232TH2c  from muonic x-rays relative to 232Th (1990Na22).                       
+232TH c  g-factors for g.s. band up to J|p=22+ studied by 1982Ha03              
+232TH cG E(XTY),RI(TY),M(Y)$From Coulomb Excitation: HI                         
+232TH cG E(WSP),RI(SP),M(P)$From Coulomb Excitation: Li                         
+232TH cG E(ABC),RI(BC),M(FC)$From {+232}Th(n,n'|g)                              
+232TH cG E(EF),RI(EF),M(F)$From {+232}Th(|g,|g')                                
+232TH cG E(G),RI(G),M(G)$From {+232}Ac |b{+-} decay                             
+232TH cG M$From |g(|q) and |g|g(|q) in light-ion and heavy-ion Coul. ex.,       
+232TH2cG unless otherwise specified.                                            
+232TH cL E$Deduced by evaluator from a least-squares fit to |g-ray energies,    
+232TH2cL unless given otherwise.                                                
+232TH cL J(A,Y,B,D,E,F)$From rotational band structure. Additional arguments    
+232TH2cL are given with individual levels.                                      
+232TH DL           For B(EL) values see Coul. ex., 232TH(d,d')                  
+232TH cL J(G)$From M1 excitation in {+232}Th(|g,|g') and {+232}Th(e,e')         
+232TH cL J(H)$Coulomb excited by light ions, |g(|q), and ratios of              
+232TH2cL |g-ray reduced transition probabilities (1993Mc07).                    
+232TH CL BAND(AYZ) K=0+ GS rotational band                                      
+232TH CL BAND(B)     KPI=0- Octupole vibrational band                           
+232TH CL BAND(D)     KPI=0+ Beta vibrational band                               
+232TH CL BAND(E)     KPI=2+ Gamma vibrational band                              
+232TH CL BAND(F)     KPI=4+ Two-phonon gamma vibrational band                   
+232TH  XA232AC B- DECAY                                                         
+232TH  XB232PA EC DECAY                                                         
+232TH  XC236U A DECAY                                                           
+232TH  XD230TH(T,P)                                                             
+232TH  XE232TH(G,G'), 232TH(E,E')                                               
+232TH  XN232TH(D,PNG)                                                           
+232TH  XFCOULOMB EXCITATION: HI                                                 
+232TH  XGCOULOMB EXCITATION: LI                                                 
+232TH  XHINELASTIC SCATTERING                                                   
+232TH  XIMUONIC ATOM                                                            
+232TH  XJ232TH(N,N'G)                                                           
+232TH  XK232TH(D,D')                                                            
+232TH  XL232TH(A,A'),(G,X) E=RESONANCE                                          
+232TH  L 0            0+               1.40E10 Y 1                          Z   
+232THX L XREF=ABCDEFGHJKN                                                       
+232TH cL           Deformation |b{-4}=0.050 {i5} from (p,p') (1972BrZK)         
+232TH DL           Deformation parameters deduced from (p,p')                   
+232TH2DL (1971Mo13,1980RoZZ,1986Ta12).                                          
+232TH cL           Q(0), giant-dipole resonance studied (1973Ve01)              
+232TH cL T         Evaluated and recommended in 1990Ho28. Weighted average of:  
+232TH2cL 1.39|*10{+10} y {I3} (1938Ko01, 1956Pi42), 1.42|*10{+10} y {I7}        
+232TH3cL (1956Se17), 1.45|*10{+10} y {I5} (1956Ma43), 1.41|*10{+10} y {I14}     
+232TH4cL (1960Fa07), and 1.40|*10{+10} y {I7} (1963Le21).                       
+232TH2 L %A=100 $ %SF=1.1E-09 4                                                 
+232TH cL %SF       From T{-1/2}(SF)=1.2|*10{+21} y {I4}, evaluated and          
+232TH2cL recommended in 2000Ho27, from: >0.0014|*10{+21} y (1952Se67),          
+232TH3cL >0.1|*10{+21} y (1955Po45), >1|*10{+21} y (1958Fl44), >1.0|*10{+21} y  
+232TH4cL {I3} (1967Sp12), >0.7|*10{+21} y (1975Em03), and 1.22 y {I43}          
+232TH5cL (1995Bo18). Others: 1997Ro12, 2004Ro01.                                
+232TH cL T$T{-1/2} {+12}C,{+16}O emissions >3|*10{+18} y (1975ChZJ).            
+232TH cL T$Measured T{-1/2} {+24}Ne-{+26}Ne emissions >5.06|*10{+21} y          
+232TH2cL (1995Bo18). Others: 1996Bo18, 1975ChZJ.                                
+232TH  L 49.369    9  2+               345 PS    15                         Y   
+232TH cL J$49.4|g E2 to 0+                                                      
+232THX L XREF=ABCDEFGHJKN                                                       
+232TH cL T$Delayed coincidence (1960Be25). Other values:                        
+232TH2cL 320 ps {i24} Mossbauer (1973Ca29),                                     
+232TH3cL 345 ps {i15} delayed coincidence (1960Be25),                           
+232TH4cL 315 ps {i3} from B(E2)=9.21 {i9} (1973Be44) and |a=332 (reducing       
+232TH5cL |a by 1.5% {i7} as recommended by 1987Ra01                             
+232TH6cL would give T{-1/2}=320 ps {i4}).                                       
+232TH  G 49.369    9  100       E2                       332                G   
+232THS G LC=244$MC=66.4                                                         
+232TH cG E         From {+232}Ac |b{+-} decay                                   
+232THB G BE2W=198 11                                                            
+232TH  L    162.12 2  4+               164 PS    13                         Y   
+232TH cL T$Doppler-shift recoil distance (1982Ow01)                             
+232TH cL J$112.7|g E2 to 2+                                                     
+232THX L XREF=ACDFGHJKN                                                         
+232TH cL T$The effect of charge-state of recoils on T{-1/2} is probably <20%.   
+232TH cL MOMM1     Studied for 4+,6+ levels by |g,|g precession in Fe (1971MuZN)
+232TH2 L           BE4=1.16 5 (1976Co08)                                        
+232TH  G 112.75    2  100       E2                       6.82               Y   
+232THS G KC=0.234$LC=4.78$MC=1.31$NC+=0.490                                     
+232TH3 G BE2W=286 24                                                            
+232TH  L     333.26 8 6+               62 PS     4                          Y   
+232TH cL T$Weighted average of 58.4 ps {I42} (1976Gu12) and 66.2 ps {I51}       
+232TH2cL (1975Jo07), Doppler-shift recoil distance.                             
+232TH cL J$171.2|g E2 to 4+                                                     
+232THX L XREF=CFGHJKN                                                           
+232TH  G 171.2     1  100       E2                       1.21               P   
+232THS G KC=0.208$LC=0.729$MC=0.199$NC+=0.0738                                  
+232THB G BE2W=326 22                                                            
+232TH  L     556.9 1  8+               24 PS     1                          Y   
+232TH cL T$Weighted average of 23.8 ps {I13} (Doppler-shift recoil distance,    
+232TH2cL 1976Gu12), 25.1 ps {I23} (Doppler-shift recoil distance, 1975Jo07),    
+232TH3cL and 20 ps {I3} (From B(E2)=4.0 {I2}, 1982Ow01).                        
+232TH cL J$226.3|g E2 to 6+                                                     
+232THX L XREF=FGHKN                                                             
+232TH  G 223.6     1  100       E2                      0.450               P   
+232THS G KC=0.131$LC=0.233$MC=0.0633$NC+=0.0234                                 
+232THB G BE2W=344 15                                                            
+232TH  L     714.42 9 1-                                                    B   
+232TH cL J$714.4|g (E1) to 0+, 665.0|g (E1) to 2+. |s in {+232}Th(d,d').        
+232THX L XREF=AEFGHJKN                                                          
+232TH  G 665.0     2  100    2   (E1)                                       Y   
+232THS G CC=0.00729$KC=0.00594$LC=0.00102                                       
+232TH  G 714.4     2  16     2   (E1)                                       Y   
+232THS G CC=0.00637$KC=0.00520$LC=0.00088                                       
+232TH  L     730.6 2  0+                                                    D   
+232TH cL J$730.0|g E0 to 0+                                                     
+232THX L XREF=FGJK                                                              
+232TH  G 681.1     3  100                                                   S   
+232TH  G 730.4     AP            E0                                         A   
+232TH  L     774.1514 2+               6 PS      2                          D   
+232TH cL J$724.7|g E0+E2 to 2+                                                  
+232THX L XREF=AE(*)FGJD(*)K                                                     
+232TH cL T         From B(E2)=0.086 {I14} (1993Mc07)                            
+232TH  G 612.0     3  43     AP   [E2]                  0.0273              G   
+232THS G KC=0.0187$LC=0.00646                                                   
+232THB G BE2W AP 3.3                                                            
+232TH  G 724.7     2  1.8    AP   E0+E2                                     G   
+232TH DG           E0/E2=17 {I6}                                                
+232TH DG           B(E2)(W.u.): the ratio of B(E2)'s to 0+ and 2+ of the g.s.   
+232TH2DG band is much larger than the Alaga ratio 0.70                          
+232THB G BE2W AP 0.52                                                           
+232TH  G 774.1     4  100       E2                      0.0167              G   
+232THS G KC=0.0122$LC=0.00339                                                   
+232THB G BE2W=2.8 12                                                            
+232TH  L     774.43 7 3-                                                    B   
+232TH cL J$612.3|g (E1) to 4+, 724.7|g (E1) to 2+. |s in {+232}Th(d,d').        
+232THX L XREF=AD(*)E(*)FGHJKN                                                   
+232TH  G 612.3     1  100       (E1)                                        G   
+232THS G CC=0.0085$KC=0.00694$LC=0.00120                                        
+232TH  G 724.7     5  9      AP (E1)                                        G   
+232THS G CC=0.00620$KC=0.00506$LC=0.00086                                       
+232TH DG           Other: RI=4.6 {I15} (1987Na05)                               
+232TH  L     785.25 8 2+               2.3 PS    3                          E   
+232TH cL J$785.3|g E2 to 0+.                                                    
+232THX L XREF=AEFGJK                                                            
+232TH cL T         From B(E2)=0.145 {I15} (1993Ko42)                            
+232TH  G 623.1     1  0.8    AP (E2)                    0.0262              P   
+232THS G KC=0.0181$LC=0.00613                                                   
+232THB G BE2W AP 0.13                                                           
+232TH  G 735.9     2  100    4  E2+M1     23     10     0.0186 3            P   
+232THS G KC=0.0134 2$LC=0.00389 4                                               
+232THB G BM1W=2.4E-5 22$BE2W=7.2 7                                              
+232TH  G 785.3     2  56     5  E2                      0.0162              P   
+232THS G KC=0.0118$LC=0.00327                                                   
+232TH DG           B(E2)(W.u.): the ratio of B(E2)'s to 0+ and 2+ of g.s. band  
+232TH2DG is only half as large as the Alaga ratio of 0.70; possibly due to      
+232TH3DG admixture with the 2+ level of the |b band at 774 keV.                 
+232THB G BE2W=2.9 4                                                             
+232TH  L     826.8 1  10+              10.3 PS   6                          Y   
+232TH cL J$Weighted average of 10.4 ps {I6} (Doppler-shift recoil distance,     
+232TH2cL 1976Gu12), 11.2 ps {I17} (Doppler-shift recoil distance, 1975Jo07),    
+232TH3cL and 9.5 ps {I11} (from B(E2)=3.9 {I2}, 1982Ow01).                      
+232TH cL J$269.8|g E2 to 8+                                                     
+232THX L XREF=FGHN                                                              
+232TH  G 269.8     1  100       E2                      0.240               P   
+232THS G KC=0.091$LC=0.109$MC=0.0293$NC+=0.0108                                 
+232THB G BE2W=363 21                                                            
+232TH  L     829.6 2  (3+)                                                  E   
+232TH cL J$780.2|g to 2+, 667.5|g to 4+.                                        
+232THX L XREF=FGJ                                                               
+232TH  G 667.5     4  25     6                                              B   
+232TH  G 780.2     2  100    6                                              B   
+232TH  L      873.0 3 4+                                                    D   
+232TH cL J$823.6|g E2 to 2+, possible 539.9|g to 6+.                            
+232THX L XREF=FGJ                                                               
+232TH  G 539.9     10 100                                                   Y  ?
+232TH cG           Not seen in {+232}Th(n,n'|g)                                 
+232TH  G 823.6     3            E2                      0.0147              W   
+232THS G KC=0.0109$LC=0.00289                                                   
+232TH  L     883.8 1  5-                                                    B   
+232TH cL J$550.4|g (E1) to 6+. |s in {+232}Th(d,d').                            
+232THX L XREF=FGHJKN                                                            
+232TH  G 550.4     5            (E1)                    0.0105              X   
+232THS G KC=0.0085$LC=0.00149                                                   
+232TH  G 722       AP           (E1)                                        X  ?
+232THS G CC=0.00625$KC=0.00510$LC=0.00087                                       
+232TH  L     890.1 2   4+                                                   E   
+232TH cL J$840.5|g E2 to 2+, 558.1|g E2 to 6+.                                  
+232THX L XREF=FGJ                                                               
+232TH  G 558.1     10 5.0    16 E2                      0.0335              Y  ?
+232THS G KC=0.0222$LC=0.0085                                                    
+232TH cG           Not seen in {+232}Th(n,n'|g)                                 
+232TH  G 728.0     2  100    4                                              Y   
+232TH  G 840.5     4  18     4  E2                      0.0141              Y   
+232THS G KC=0.0105$LC=0.00275                                                   
+232TH  L     960.2415 (5+)                                                  E   
+232TH cL J$627.2|g to 6+, 797.9|g to 4+.                                        
+232THX L XREF=FJ                                                                
+232TH  G 627.2     2  52     5                                              C   
+232TH  G 797.9     2  100    5                                              C   
+232TH  L    1023.3 1  6+                                                    D   
+232TH cL J$861.2|g E2 to 4+, 466.7|g E2 to 8+.                                  
+232THX L XREF=FG                                                                
+232TH  G 466.7     2  2.0    3 E2                       0.0512              P   
+232THS G KC=0.0311$LC=0.0148$MC=0.00386$NC+=0.00142                             
+232TH  G 690.0     1  30     5                                              S   
+232TH  G 861.2     10 100    17E2                       0.0135              P   
+232THS G KC=0.0100$LC=0.00258                                                   
+232TH  L    1042.9 1  7-                                                    B   
+232TH cL J$159.2|g E2 to 5-, 486.0|g to 8+.                                     
+232THX L XREF=FGHN                                                              
+232TH  G 159.2     1  100    14E2                        1.61               P   
+232THS G KC=0.230$LC=1.01$MC=0.275$NC+=0.102                                    
+232TH  G 486.0     1  65     10                                             S   
+232TH  G 710       AP 0.6    6                                                 ?
+232TH  L    1050.9 1  6+                                                    E   
+232TH cL J$492.3|g E2 to 8+, 888.4|g E2 to 4+.                                  
+232THX L XREF=FG                                                                
+232TH  G 492.3     10          E2                       0.0450              X   
+232THS G KC=0.0281$LC=0.0125$MC=0.00324$NC+=0.00119                             
+232TH  G 717.7     1  100    15                                             S   
+232TH  G 888.4     5  25     4 E2                       0.0127              P   
+232THS G KC=0.0095$LC=0.00239                                                   
+232TH  L    1053.9 1  (2+)                                                      
+232THX L XREF=FGJK                                                              
+232TH cL J$891.9|g (E2) to 4+, 1054.0|g (E2) to 0+.                             
+232TH  G 268.4        33     LT                                             S   
+232TH  G 279.5     3  81     29                                             S   
+232TH2 G FL=774.15                                                              
+232TH  G 323.2     2  100    14                                             S   
+232TH  G 891.9     3           (E2)                     0.0126              W   
+232THS G KC=0.0094$LC=0.00237                                                   
+232TH  G 1004.6    3           (M1+E2)   2.6     4      0.013311            W   
+232THS G KC=0.0103 9$LC=0.00222 15                                              
+232TH  G 1054.0    3           (E2)                                         W   
+232THS G CC=0.0091$KC=0.00702$LC=0.00159                                        
+232TH  L     1072.4 3 (2+)                                                  H   
+232THX L XREF=AGJ                                                               
+232TH DL J         from Coul. ex. light ions                                    
+232TH  G 1023.0    3  100                                                   P   
+232TH  L    1077.9 2 (1-)                                                   H   
+232THX L XREF=AD(*)FGJK(*)                                                      
+232TH cL J$Possible K|p=1- bandhead                                             
+232TH  G 1028.5    3                                                        W   
+232TH  G 1078.0    3                                                        W   
+232TH  L    1078.6 1 (0+)                                                       
+232THX L XREF=AD(*)EGJK(*)                                                      
+232TH cL J$From |g-ray deexcitation                                             
+232TH  G 364.2     1                                                        W   
+232TH  G 1029.2                                                             W   
+232TH  L    1094.4 2 (2)+                                                   H   
+232THX L XREF=EGJ                                                               
+232TH DL J$1045.0G M1+E2 to 2+, 932.3G to 4+.                                   
+232TH  G 932.3     3                                                        W   
+232TH  G 1045.0    3           M1+E2     -3.7    +34-17 0.011 20            P   
+232THS G KC=0.008 16$LC=0.002 3                                                 
+232TH  L    1105.7 1  3-                                                        
+232THX L XREF=AFGJK                                                             
+232TH cL J$1056|g E1 to 2+, 943|g E1 4+.                                        
+232TH2 L BE3=0.26 5                                                             
+232TH  G 331.3     1  38     6                                              S   
+232TH2 G FL=774.43                                                              
+232TH  G 391.3     3  5      1                                              S   
+232TH  G 943.5     1  100    15E1                                           P   
+232THS G CC=0.00384$KC=0.00315$LC=0.00052                                       
+232TH  G 1056.4    3           E1                                           W   
+232THS G CC=0.00315$KC=0.00258$LC=0.00043                                       
+232TH  L    1121.68 8 2+                                                        
+232THX L XREF=AFGJ                                                              
+232TH cL J$1122.0|g E2 to 0+                                                    
+232TH  G 347.2     1  30     5 E1                       0.0272              P   
+232THS G KC=0.0219$LC=0.00402$MC=0.00096$NC+=0.00034                            
+232TH  G 407.3     1  37     6                                              S   
+232TH  G 959.3     2  100    15E2                       0.0109              P   
+232THS G KC=0.00829$LC=0.00199                                                  
+232TH  G 1072.6    3           M1+E2     1.45    16     0.015611            W   
+232THS G KC=0.0123 9$LC=0.00245 16                                              
+232TH  G 1122.0    3           E2                                           W   
+232THS G CC=0.00812$KC=0.00629$LC=0.00138                                       
+232TH  L 1137.1    5   12+               5.5 PS  4                          Y   
+232TH cL T$Weighted average of 5.5 ps {I4} (Doppler-shift recoil distance,      
+232TH2cL 1976Gu12), and 5.8 ps {I7} (From B(E2)=3.6 {I2}, 1982Ow01).            
+232TH cL J$310.2|g E2 to 10+                                                    
+232THX L XREF=FHN                                                               
+232TH  G 310.2     5  100       E2                      0.155               Y   
+232THS G KC=0.0691$LC=0.0631$MC=0.0169$NC+=0.00625                              
+232THB G BE2W=3.7E+2 3                                                          
+232TH  L    1143.3 2  (4-)                                                      
+232THX L XREF=J                                                                 
+232TH cL J$981.2|g to 4+, rotational band structure (possibly K|p=2-)           
+232TH  G 981.2     2  100                                                   B   
+232TH  L     1146.315 (7+)                                                     ?
+232THX L XREF=F                                                                 
+232TH cL J$812.7|g to 6+                                                        
+232TH  G 812.7     10                                                       X  ?
+232TH  L    1148.3 2  (4+)                                                      
+232THX L XREF=F(*)JK                                                            
+232TH cL J$815.0|g to 6+, 986.3|g to 4+, rotational band structure,             
+232TH2cL (possibly K|p=0+).                                                     
+232TH  G 815.0     2  47     18                                             B   
+232TH  G 986.3     2  100    18                                             B   
+232TH  L    1182.6 2  3-                                                        
+232THX L XREF=FGJK                                                              
+232TH cL J$1020.5|g E1 to 4+, 1133.2|g E1 to 2+, (possibly K|p=3- band).        
+232TH  G 408.2     3           E1                       0.0192              W   
+232TH3 G FL=774.15                                                              
+232THS G KC=0.0155$LC=0.00280$MC=0.00067$NC+=0.00024                            
+232TH  G 1020.5    3           E1                                           W   
+232THS G CC=0.00335$KC=0.00274$LC=0.00045                                       
+232TH  G 1133.2    3           E1                                           W   
+232THS G CC=0.00279$KC=0.00229$LC=0.00038                                       
+232TH  L    1208.8 1 (5-)                                                       
+232THX L XREF=FGJK                                                              
+232TH cL J$434.3|g to 3-, 875.6|g to 6+, rotational band structure,             
+232TH2cL (possibly K|p=2-).                                                     
+232TH  G 325.0     1  9.6    15                                             S   
+232TH  G 434.3     2  3.4    11                                             S   
+232TH2 G FL=774.43                                                              
+232TH  G 875.6     2  1.9    6                                              S   
+232TH  G 1046.7    1  100    15                                             S   
+232TH  L     1218.1 3                                                           
+232THX L XREF=J                                                                 
+232TH  G 884.8     3 100                                                    B   
+232TH  L     1222.1 1 (8+)                                                  D   
+232TH cL J$888.8|g to 6+, possible 395|g to 10+.                                
+232THX L XREF=FG                                                                
+232TH  G 395.3     AP                                                       X   
+232TH  G 888.8     10                                                       X   
+232TH  L    1249.6 1  9-                                                    B   
+232TH cL J$206.8|g E2 to 7-, 422.7|g to 10+.                                    
+232THX L XREF=FGHN                                                              
+232TH DL J$from Coul. ex.                                                       
+232TH  G 206.8     1  71     12E2                       0.595               P   
+232THS G KC=0.151$LC=0.323$MC=0.088$NC+=0.0325                                  
+232TH  G 422.7     1  100    15                                             S   
+232TH  L 1258.7    10 (8+)                                                  E  ?
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     1293.0 3 (5-)                                                  H   
+232TH cL J$959.7|g to 6+.                                                       
+232THX L XREF=FGK                                                               
+232TH  G 959.7     3  100                                                   S   
+232TH  L     1303.2 6                                                           
+232THX L XREF=J                                                                 
+232TH  G 1303.2    6  100                                                   B   
+232TH  L     1322.3 3 2+                                                        
+232TH cL J$1322.3|g E2 to 0+                                                    
+232TH2 L BE2=0.00220 22                                                         
+232THX L XREF=F                                                                 
+232TH  G 1322.3    3  100      E2                                           B   
+232THS G CC=0.00598$KC=0.00470$LC=0.00096                                       
+232TH  L    1327.4 2  2+                                                        
+232TH cL J$1327.7|g E2 to 0+                                                    
+232THX L XREF=FGJK                                                              
+232TH2 L BE2=0.00113 13                                                         
+232TH  G 1165.1    3           E2                                           W   
+232THS G CC=0.00757$KC=0.00588$LC=0.00127                                       
+232TH  G 1277.8    3           (M1+E2)                  0.013  7            W   
+232THS G KC=0.010 6$LC=0.0019 9                                                 
+232TH  G 1327.7    3           E2                                           W   
+232THS G CC=0.00594$KC=0.00467$LC=0.00096                                       
+232TH  L    1352.2 1                                                            
+232THX L XREF=G                                                                 
+232TH  G 637.8     1  100                                                   S   
+232TH  L 1370      AP (9+)                                                  E   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L    1387.1 1  2+               0.4 PS    1                              
+232THX L XREF=GJ                                                                
+232TH cL J$1387.2|g E2 to 0+.                                                   
+232TH cL T$From B(E2)=0.0105 {I8} (1993Mc07) and adopted                        
+232THxcL Branching(1387|g)=0.075 {I23}.                                         
+232TH  G 612.7     3  100    21                                             S   
+232TH2 G FL=774.43                                                              
+232TH  G 656.7     11          E2                       0.0234              W  ?
+232THS G KC=0.0164$LC=0.00528                                                   
+232TH  G 672.6     1  55     8 E1                                           P   
+232THS G CC=0.00713$KC=0.00581$LC=0.00099                                       
+232THB G BE1W=0.00011 3                                                         
+232TH  G 1225.1    3  64     19E2                                           P   
+232THS G CC=0.00689$KC=0.00538$LC=0.00114                                       
+232THB G BE2W=0.51 18                                                           
+232TH  G 1337.8    3  40     8 M1+E2     -1.5    5      0.009221            W   
+232TH cG RI        From {+232}Th(n,n'|g)                                        
+232THS G KC=0.0073 18$LC=0.0014 3                                               
+232TH  G 1387.2    3  21     6 E2                                           W   
+232TH cG RI        From {+232}Th(n,n'|g)                                        
+232THS G CC=0.00548$KC=0.00432$LC=0.00087                                       
+232TH  L    1413.8 2  4+               2.2 PS    5                          F   
+232TH cL T$From Coulomb Excitation: HI (1995Ko15)                               
+232THX L XREF=FG                                                                
+232TH DL J$|g deexcitation, possibly two phonon K|p=4+ |g vibrational band      
+232TH cL J$584.2|g M1+E2 to 3+, 524|g M1+E2 to 4+, 628.5 E2 to 2+.              
+232TH  G 524       AP          M1+E2     1.4            0.092 AP            X   
+232THS G KC=0.0699$LC=0.0168                                                    
+232TH  G 584.2     2  29     5 M1+E2     5       LT      0.09  6            Y   
+232THS G KC=0.07 5$LC=0.015 7                                                   
+232THB G BM1W>0.00028$BE2W<12                                                   
+232TH  G 628.5     2  100    15 E2                      0.0257              Y   
+232THS G KC=0.0178$LC=0.00598                                                   
+232THB G BE2W=23 7                                                              
+232TH  L 1419      2                                                           ?
+232THX L XREF=K                                                                 
+232TH cL E$From {+232}Th(d,d'). Seen only at one angle.                         
+232TH  L    1450.3 2                                                            
+232THX L XREF=J                                                                 
+232TH  G 1400.9    2                                                            
+232TH  L    1466.4 1  4+                                                        
+232TH cL J$691.9|g to 3-, 1133.5|g to 6+.                                       
+232THX L XREF=G                                                                 
+232TH  G 582.6     1  87     13                                             W   
+232TH  G 691.9     2  34     5                                              W   
+232TH2 G FL=774.43                                                              
+232TH  G 1133.5    2  100    19                                             W   
+232TH  G 1304.3       85     LT                                             W  ?
+232TH  L 1469.3    AP (10+)                                                 D  ?
+232TH cL J$912.5|g to 8+.                                                       
+232THX L XREF=F                                                                 
+232TH  G 912.5     AP 100                                                   T  ?
+232TH  L    1477.0 2  2+                                                        
+232TH cL J$1477.0|g E2 to 0+                                                    
+232THX L XREF=G                                                                 
+232TH  G 702.6     3           M1+E2     2.0     5      0.034  8            W   
+232TH3 G FL=774.15                                                              
+232THS G KC=0.026 7$LC=0.0062 10                                                
+232TH  G 1427.6    3                                                        W   
+232TH  G 1477.0    3           E2                                           W   
+232THS G CC=0.00488$KC=0.00387$LC=0.00076                                       
+232TH  L    1480.1 2                                                            
+232THX L XREF=FJ                                                                
+232TH  G 1430.7    2  100                                                   B   
+232TH  L     1482.2 6 14+              3.1 PS    2                          Y   
+232TH cL T$Doppler-shift recoil distance (1976Gu12).                            
+232TH2cL Other value: 3.1 ps {I3} (From B(E2)=3.8 {I2}, 1982Ow01).              
+232TH cL J$345.2|g E2 to 12+                                                    
+232THX L XREF=FH                                                                
+232TH  G 345.2     5  100       E2                      0.114               Y   
+232THS G KC=0.0559$LC=0.0423$MC=0.0113$NC+=0.00417                              
+232THB G BE2W=3.9E+2 3                                                          
+232TH  L    1484.9 2  (5+)                                                      
+232THX L XREF=FJK                                                               
+232TH cL J$1323|g to 4+, 524|g to (5+); |s in 232Th(d,d').                      
+232TH  G 523.8     10                                                       A   
+232TH  G 1150.9    AP                                                       X   
+232TH  G 1322.8    2  100                                                   B   
+232TH  L     1489.4 4 (1,2+)                                                    
+232THX L XREF=J                                                                 
+232TH cL J$1489|g to 0+, 1440|g to 2+                                           
+232TH  G 530.3     16                                                       A   
+232TH  G 1440.0    5  100    13                                             B   
+232TH  G 1489.3    5  89     13                                             B   
+232TH  L 1490      AP (5+)                                                  F   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     1498.7 5 11-                                                   B   
+232TH cL J$249.2|g E2 to 9-, 361.6|g to 12+.                                    
+232THX L XREF=FHN                                                               
+232TH DL J$from Coul. ex.                                                       
+232TH  G 249.2     5            E2                      0.311               X   
+232THS G KC=0.106$LC=0.149$MC=0.0404$NC+=0.0149                                 
+232TH  G 361.6     5                                                        X   
+232TH  L 1511.9    AP (10+)                                                 E   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L    1519.8 2                                                            
+232THX L XREF=J                                                                 
+232TH  G 1470.4    2  100                                                   B   
+232TH  L    1553.8 1  2+               110 FS    10                             
+232TH cL T$From B(E2)=0.0279 {I20} (1993Mc07) and branching(1554|g) from Coulomb
+232TH2cL Excitation: Li.                                                        
+232THX L XREF=GJE                                                               
+232TH cL J$1554.0|g E2 to 0+                                                    
+232TH cL T         from B(E2)                                                   
+232TH  G 681.0     3           E2                       0.0217              W  ?
+232THS G KC=0.0153$LC=0.00478                                                   
+232TH  G 768.5     3           M1+E2     6       AP     0.0184AP            W  ?
+232THS G KC=0.0135$LC=0.00365                                                   
+232TH  G 779.6     3           M1+E2     2.5     5      0.024  4            W   
+232TH3 G FL=774.15                                                              
+232THS G KC=0.018 3$LC=0.0043 5                                                 
+232TH  G 823.5     3           E2                       0.0147              W  ?
+232THS G KC=0.0109$LC=0.00289                                                   
+232TH  G 839.4     1           E1                                           W   
+232THS G CC=0.00474$KC=0.00387$LC=0.00065                                       
+232TH  G 1391.9    3           E2                                           W  ?
+232THS G CC=0.00544$KC=0.00429$LC=0.00086                                       
+232TH  G 1504.6    3           M1+E2     -2.7    +26-12                     W  ?
+232THS G CC=0.004 6$KC=0.004 6                                                  
+232TH  G 1554.0    3           E2                                           W  ?
+232THS G CC=0.00354$KC=0.00354                                                  
+232TH  L     1561.4 5 (1,2+)                                                    
+232THX L XREF=KJ                                                                
+232TH cL J$1561.4|g to 0+                                                       
+232TH  G 1561.4    5  100                                                   B   
+232TH  L    1573.0 15 (1,2+)                                                    
+232THX L XREF=J                                                                 
+232TH cL J$1572.8|g to 0+, 1523.8|g to 2+.                                      
+232TH  G 1523.8    2  45     17                                             B   
+232TH  G 1572.8    2  100    17                                             B   
+232TH  L     1573.7 7 (6+)                                                  F   
+232TH cL J$614|g M1+E2 to (5+), 683|g (E2) to 4+, 550|g to 6+.                  
+232THX L XREF=F                                                                 
+232TH  G 550          32                                                    X   
+232TH  G 614          100      M1+E2     6       LT      0.08  5            Y   
+232THS G KC=0.06 5$LC=0.013 7                                                   
+232TH  G 683       AP 37       (E2)                     0.0216AP            Y   
+232THS G KC=0.0153$LC=0.00474                                                   
+232TH  L 1578.5    4  (2+)                                                      
+232THX L XREF=J                                                                 
+232TH cL J$1578.3|g to 0+, 1527.4|g to 2+, 1417.0|g to 4+.                      
+232TH  G 1417.0    5  100    17                                             B   
+232TH  G 1527.4    8  86     17                                             B   
+232TH  G 1578.3    14 92     17                                             B   
+232TH  L 1609.1    5                                                            
+232THX L XREF=J                                                                 
+232TH  G 1447.0    5  100                                                   B   
+232TH  L 1618.0    7                                                            
+232THX L XREF=JK                                                                
+232TH  G 1568.6    7  100                                                   B   
+232TH  L 1640      AP (11+)                                                 E  ?
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F(*)                                                              
+232TH  L 1647.6    8                                                            
+232THX L XREF=J                                                                 
+232TH  G 1485.5    8  100                                                   B   
+232TH  L 1690.9    10                                                           
+232THX L XREF=JK                                                                
+232TH  G 1641.5    10 100                                                   B   
+232TH  L     1727.6 7                                                           
+232THX L XREF=J                                                                 
+232TH  G 1679.1    15 100                                                   B   
+232TH  G 1727.3    8  61     20                                             B   
+232TH  L 1738.1    10 (1,2+)                                                    
+232THX L XREF=JK                                                                
+232TH cL J$1738|g to 0+                                                         
+232TH  G 1738.1    10  100                                                  B   
+232TH  L 1755      AP (12+)                                                 D   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     1783  1  (8)+                                                  F   
+232TH cL J$760|g E2 to 6+, 637|g to (7+).                                       
+232THX L XREF=F                                                                 
+232TH  G 637          100                                                   T   
+232TH2 G FL=1146.3                                                              
+232TH  G 760          59       E2                       0.0173              Y   
+232THS G KC=0.0126$LC=0.00356                                                   
+232TH  L     1784.7 6 13-                                                   B   
+232TH cL J$286.0|g E2 to 11-, 302.5|g to 14+.                                   
+232THX L XREF=FH                                                                
+232TH  G 286.0     5            E2                      0.199               X   
+232THS G KC=0.0812$LC=0.086$MC=0.0232$NC+=0.0086                                
+232TH  G 302.5     5                                                        X   
+232TH  L 1791      2                                                            
+232THX L XREF=K                                                                 
+232TH cL E$From {+232}Th(d,d'). |DE estimated by evaluator                      
+232TH  L 1801      AP (12+)                                                 E   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     1858.5 7 16+              2.3 PS    2                          Y   
+232TH cL T$Weighted average of 2.2 ps {I2} (Doppler-shift recoil distance,      
+232TH2cL 1976Gu12), and 2.7 ps {I6} (From B(E2)=3.5 {I2}, 1982Ow01).            
+232TH cL J$376.3|g E2 to 14+                                                    
+232THX L XREF=FH                                                                
+232TH  G 376.3     5  100       E2                      0.089               Y   
+232THS G KC=0.0472$LC=0.0310$MC=0.00819$NC+=0.00303                             
+232THB G BE2W=3.9E+2 4                                                          
+232TH  L     2043.215 1+               6.1 FS    4                          G   
+232TH cL T$From |b(M1)=1.48 {I9} and branching(2043|g)=0.650 {I8} in            
+232TH2cL {+232}Th(|g,|g') (1988He02).                                           
+232THX L XREF=E                                                                 
+232TH  G 1994      2  53     2                                              E   
+232TH  G 2043      2  100       M1                                          F   
+232THB G BM1W=0.2849 9                                                          
+232TH  L 2080      AP (14+)                                                 D   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     2101.6 7 15-                                                   B   
+232TH cL J$316.9|g E2 to 13-, 243.1|g to 16+.                                   
+232THX L XREF=FH                                                                
+232TH  G 243.1     5                                                        X   
+232TH  G 316.9     5            E2                      0.146               X   
+232TH3 G FL=1784.7                                                              
+232THS G KC=0.0662$LC=0.0582$MC=0.0156$NC+=0.00576                              
+232TH  L 2117      AP (14+)                                                 E   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     2248.215 1+               13 FS     2                          G   
+232TH cL T$From |b(M1)=0.55 {I7} and branching(2248|g)=0.70 {I12} in            
+232TH2cL {+232}Th(|g,|g') (1988He02).                                           
+232THX L XREF=E                                                                 
+232TH2 L BM1=0.55 7                                                             
+232TH  G 2199      2  42     7                                              E   
+232TH  G 2248      2  100       M1                                          F   
+232THB G BM1W=0.1107 3                                                          
+232TH  L     2262.4 9 18+              1.4 PS    2                          Y   
+232TH cL T$Weighted average of 1.3 ps {I2} (Doppler-shift recoil distance,      
+232TH2cL 1976Gu12), and 1.6 ps {I4} (From B(E2)=3.7 {I6}, 1980Ow01).            
+232TH cL J$403.9|g E2 to 16+                                                    
+232THX L XREF=FH                                                                
+232TH  G 403.9     5  100       E2                      0.0739              Y   
+232THS G KC=0.0411$LC=0.0241$MC=0.00635$NC+=0.00235                             
+232THB G BE2W=4.5E+2 7                                                          
+232TH  L       2274 4 1+               25 FS     6                          G   
+232TH cL T$From |b(M1)=0.25 {I3} and branching(2274|g)=0.62 {I12} in            
+232TH2cL {+232}Th(|g,|g') (1988He02).                                           
+232THX L XREF=E                                                                 
+232TH2 L BM1=0.25 3                                                             
+232TH  G 2225      5  62     13                                             E   
+232TH  G 2274      5  100       M1                                          F   
+232THB G BM1W=0.0431 3                                                          
+232TH  L       2296 4 1+               19 FS     9                          G   
+232TH cL T$From |b(M1)=0.31 {I6} and branching(2296|g)=0.59 {I25} in            
+232TH2cL {+232}Th(|g,|g') (1988He02).                                           
+232THX L XREF=E                                                                 
+232TH2 L BM1=0.32 6                                                             
+232TH  G 2247      5  69     29                                             E   
+232TH  G 2296      5  100       M1                                          F   
+232THB G BM1W=0.0590 4                                                          
+232TH  L 2441      AP (16+)                                                 D   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     2445.3 9 17-                                                   B   
+232TH cL J$343.7|g E2 to 15-.                                                   
+232THX L XREF=FH                                                                
+232TH  G 343.7     5  100       E2                      0.115               Y   
+232THS G KC=0.0564$LC=0.0430$MC=0.0114$NC+=0.00423                              
+232TH  L 2445.7       (16+)                                                 E   
+232THX L XREF=F                                                                 
+232TH cL J$From Coulomb excitation cross-section.                               
+232TH  L 2446      AP (16+)                                                 E   
+232THX L XREF=F                                                                 
+232TH  L     2691  1  20+                1.2 PS  2                          Y   
+232TH cL J$From B(E2)=3.4 {I4} (1982Ow01).                                      
+232TH cL J$428.9|g E2 to 18+                                                    
+232THX L XREF=FH                                                                
+232TH  G 428.9     5  100       E2                      0.0633              Y   
+232THS G KC=0.0366$LC=0.0197$MC=0.00515$NC+=0.00190                             
+232THB G BE2W=3.6E+2 6                                                          
+232TH  L 2767      AP (18+)                                                 E   
+232THX L XREF=F                                                                 
+232TH  L     2813  1  19-                                                   B   
+232TH cL J$367.8|g E2 to 17-                                                    
+232THX L XREF=FH                                                                
+232TH  G 367.8     10 100       E2                      0.095               Y   
+232TH3 G FL=2445.3                                                              
+232THS G KC=0.0493$LC=0.0336$MC=0.0089$NC+=0.00329                              
+232TH  L 2832      AP (18+)                                                 D   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     3144  1  22+                0.8 PS  1                          Y   
+232TH cL J$From B(E2)=3.9 {I6} (1982Ow01).                                      
+232TH cL J$452.7|g E2 to 20+                                                    
+232THX L XREF=FH                                                                
+232TH  G 452.7     5  100       E2                      0.0552              Y   
+232THS G KC=0.0330$LC=0.0164$MC=0.00428$NC+=0.00158                             
+232THB G BE2W=4.2E+2 11                                                         
+232TH  L     3204  2   21-                                                  B   
+232TH cL J$390.6|g E2 to 19-                                                    
+232THX L XREF=FH                                                                
+232TH  G 390.6     10 100       E2                      0.0808              Y   
+232THS G KC=0.0438$LC=0.0271$MC=0.00716$NC+=0.00265                             
+232TH  L 3249      AP (20+)                                                 D   
+232TH cL J$From Coulomb excitation cross-section.                               
+232THX L XREF=F                                                                 
+232TH  L     3616  2   23-                                                  B   
+232TH cL J$412.6|g E2 to 21-                                                    
+232THX L XREF=FH                                                                
+232TH  G 412.6     10 100       E2                      0.0699              Y   
+232THS G KC=0.0394$LC=0.0224$MC=0.00589$NC+=0.00218                             
+232TH  L     3620.015 24+                1.1 PS  3                          Y   
+232TH cL J$From B(E2)=2.1 {I7} (1982Ow01).                                      
+232TH cL J$476|g E2 to 22+                                                      
+232THX L XREF=F                                                                 
+232TH  G 476       1  100       E2                      0.0488              Y   
+232THS G KC=0.0300$LC=0.0139$MC=0.00362$NC+=0.00133                             
+232THB G BE2W=2.4E+2 7                                                          
+232TH  L     4050  2   25-                                                  B   
+232TH cL J$433.8|g E2 to 23-                                                    
+232THX L XREF=FH                                                                
+232TH  G 433.8     10 100       E2                      0.0615              Y   
+232TH3 G FL=3616                                                                
+232THS G KC=0.0358$LC=0.0189$MC=0.00495$NC+=0.00183                             
+232TH  L     4117  2  26+                0.6 PS  2                          Y   
+232TH cL J$From B(E2)=3.3 {I13} (1982Ow01).                                     
+232TH cL J$497|g E2 to 24+                                                      
+232THX L XREF=FH                                                                
+232TH  G 497       1  100       E2                      0.0440              Y   
+232TH3 G FL=3620.0                                                              
+232THS G KC=0.0276$LC=0.0121$MC=0.00314$NC+=0.00115                             
+232THB G BE2W=3.5E+2 12                                                         
+232TH  L 4506      3  27-                                                   B   
+232TH cL J$456|g E2 to 25-                                                      
+232THX L XREF=FH                                                                
+232TH  G 456       2 100        E2                      0.0543              Y   
+232THS G KC=0.0325$LC=0.0160$MC=0.00418$NC+=0.00154                             
+232TH  L     4633  2 (28+)               0.2 PS  AP                         Y   
+232TH cL J$From B(E2)|?7 (1982Ow01).                                            
+232TH cL J$516|g (E2) to 26+                                                    
+232THX L XREF=FH                                                                
+232TH  G 516       1 100       (E2)                     0.0401              Y   
+232THS G KC=0.0257$LC=0.0108                                                    
+232THB G BE2W AP 7.0E+2                                                         
+232TH  L       5164 3 (30+)                                                 A   
+232TH cL J$530.5|g (E2) to (28+)                                                
+232THX L XREF=FH                                                                
+232TH  G 530.5     20 100       (E2)                    0.0376              Y   
+232THS G KC=0.0244$LC=0.0099                                                    

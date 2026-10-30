@@ -1,0 +1,59 @@
+213AC    217PA A DECAY (3.8 MS)        2002HE29,2000HE17,1968VA1822NDS    202203
+213AC  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 181, 475 (2022)$CUT=1-Jan-2022$      
+213AC c  Others: 1998Ik01, 1996An21, 1979Sc09, and 2005YeZZ.                    
+213AC c  2002He29: {+217}Pa produced through {+181}Ta({+40}Ar,4n){+217}Pa,      
+213AC2c  Target: 99.988% natural tantalum; E=182 MeV; Detector: 16-strip        
+213AC3c  PIPS-detector, Ge-Clover detector of 4 crystals; Measured: E|a, I|a,   
+213AC4c  |a-|a coincidences.                                                    
+213AC c  2000He17: {+217}Pa produced through {+170}Er({+51}V,4n){+217}Pa;       
+213AC2c  E=214-286 MeV; Detector: 16-strip PIPS-detector, a HPGe detector;      
+213ACxc  Measured: E|a, I|a.                                                    
+213AC c  1968Va18: {+217}Pa produced through {+206}Pb({+20}Ne,p8n){+217}Pa and  
+213AC2c  {+208}Tl({+20}Ne,11n){+217}Pa; Detector: Semi; Measured: E|a.          
+213AC c  1998Ik01: {+217}Pa produced through {+194}Pt({+28}Si,p4n){+217}Pa;     
+213AC2c  E=163-MeV and 175-MeV; Detector: double sided position sensitive strip 
+213AC3c  detector; Measured: E|a, T{-1/2}.                                      
+213AC c  1996An21: {+217}Pa from {+170}Er({+51}V,4n){+217}Pa; E=28-87 MeV;      
+213AC2c  Detector: Er are separated in flight, 16-strip PIPS detector, a HPGe   
+213AC3c  detector; Measured: E|a, T{-1/2}.                                      
+213AC c  1979Sc09: {+181}Ta({+40}Ar,4n){+217}Pa; E=165-202 MeV; Measured: E|a,  
+213ACxc  T{-1/2}.                                                               
+213AC c  2005YeZZ: {+217}Pa from {+181}Ta({+40}Ar,4n){+217}Pa; Detector: array  
+213AC2c  of silicon strip, 7 HPGe, time-of-flight detectors; Measured E|a.      
+213AC cA HF        Using r{-0}({+213}Ac)=1.491 {I21}, unweighted average of     
+213AC2cA r{-0}({+212}Ra)=1.4695 {I14} and r{-0}({+214}Th)=1.512 {I14}           
+213AC3cA (2020Si16).                                                            
+213AC cA IA        From 2002He29.                                               
+213AC cG E         From 2002He29.                                               
+213AC cL E         From E|g. Values from the E|a and Q(|a) are listed in        
+213AC2cL comments.                                                              
+217PA  P 0.0           9/2-            3.8 MS    2                8489    4     
+217PA cP J$Based on favored |a-decay chain from {+217}Pa g.s. to                
+217PA2cP g.s. of {+213}Ac, J|p=9/2-, to g.s. of {+209}Fr, J|p=9/2- (firm        
+217PA3cP J|p=9/2-({+209}Fr) in 2015Ch30).                                       
+217PA cP T         From 2018Ko01 (A=217 evaluation)                             
+217PA cP QP        From 2021Wa16                                                
+213AC  N                        1.0                                             
+213AC  L 0             9/2-            738 MS    16                             
+213AC cL J,T       From Adopted Levels.                                         
+213AC  A 8336      4  99      1  1.72  15                                       
+213AC cA E         Weighted average of 8337 {I5} (2002He29), 8334 {I15}         
+213AC2cA (2000He17), 8330 {I50} (1998Ik01), 8330 {I10} (1996An21), 8334         
+213AC3cA {I15} (1979Sc09), and 8340 {I10} (1968Va18).                           
+213AC  L 466.1     20                                                           
+213AC cL E$Other: 468 {I6} from E|a and Q|a.                                    
+213AC  A 7873      5  0.4     2   18   9                                        
+213AC cA E         From 2002He29.                                               
+213AC  G 466.1     20                                                          ?
+213AC  L 612.5      8                                                           
+213AC cL E$Other: 616 {I6} from E|a and Q|a.                                    
+213AC  A 7728      5  0.3     2   8    6                                        
+213AC cA E         From 2002He29.                                               
+213AC  G 612.5     8                                                           ?
+213AC  L 634.3     11                                                           
+213AC cL E$Other: 634 {I6} from E|a and Q|a.                                    
+213AC cL J         In 2002He29, J|p=(13/2-) is presented for this level in the  
+213AC2cL tentative partial decay scheme of {+213}Ac.                            
+213AC  A 7710      5  0.3     2   7    5                                        
+213AC cA E         From 2002He29.                                               
+213AC  G 634.3     11                                                          ?

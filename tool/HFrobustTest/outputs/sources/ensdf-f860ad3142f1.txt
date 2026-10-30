@@ -1,0 +1,41 @@
+257LR    ADOPTED LEVELS                                          13NDS    201309
+257LR  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+257LR2 H CUT=1-Mar-2012$                                                        
+257LR D  Modified by E. Browne (April 5, 2012)                                  
+257LR  Q -3261     SY7211    SY2506    SY9008    SY    2012WA38                 
+257LR cQ $|DQ(|b{+-})=45 syst, |DS(n)=94 syst, |DS(p)=45 syst, |DQ(|a)=31       
+257LRxcQ (2012Wa38)                                                             
+257LR c                                                                         
+257LR c  Calculations, compilations:                                            
+257LR c  Favored |a decay: 1993Bu09                                             
+257LR c  g.s. properties: 1997Mo25, 1995Mo29                                    
+257LR c  Single-particle Nilsson levels: 2004Pa40, 1994Cw02                     
+257LR c  Q(|a), T{-1/2}: 2011Sa40, 2010Si27, 2009Do22, 2008Do12, 2008Ro06,      
+257LR2c  2007Zh41, 2002Re37, 2001Mo07.                                          
+257LR c  1994Cw02 calculate the following single-particle level sequence:       
+257LR2c  g.s. 7/2[514], 0.13 MeV {I9}/2[624], 0.13 MeV {I1}/2[521], 0.75 MeV    
+257LR3c  {I5}/2[512], 0.83 MeV {I7}/2[633]                                      
+257LR c                                                                         
+257LR c  Assignment: produced by {+249}Cf({+15}N,|a3n), {+250}Cf({+14}N,|a2n)   
+257LR2c  excit; parent of {+253}Md (1971Es01)                                   
+257LR  XA261DB A DECAY                                                          
+257LR  XB257RF EC DECAY (4.4 S)                                                 
+257LR  XC257RF EC DECAY (4.1 S)                                                 
+257LR  L 0                             4 S       AP                             
+257LRX L XREF=BC                                                                
+257LR2 L %A LE 100$%EC LT 15$%SF LT 0.033                                       
+257LR cL %EC+%B+   <15 (1971Es01) from absence of {+257}No |a's.                
+257LR cL %SF       From 1970Fl16, 2000Ho27. T{-1/2}(SF)>1|*10{+5} s (1971Fl02). 
+257LRxcL Calculated T{-1/2}(SF)|?30 s (1985Lo17)                                
+257LR cL J         favored |a decay to                                          
+257LR2cL {+253}Md feeds two levels separated by |?65 keV (65 {I40}); if this    
+257LR3cL indicates a rotational band then the band-head probably has            
+257LR4cL 5/2|<J|<11/2. The possible Nilsson assignments are:                    
+257LR5cL 9/2[624], 7/2[514] and 1/2[512] (see above for calculations by         
+257LR6cL 1994Cw01).                                                             
+257LR cL T$1997He29: 3.3 s {I+5-4} from 887|a(t), 4.3 s {I+13-8} 8810|a(t);     
+257LR2cL 4.1 s {I+24-13} (2009Qi04).                                            
+257LR2cL Others: 0.646 s {I25} from 1976BeYM, 0.6 s {I1} (1971Es01)             
+257LR  L  1.5E+2   10                                                           
+257LRX L XREF=ABC                                                               
+257LR cL E         from {+261}Db |a decay                                       

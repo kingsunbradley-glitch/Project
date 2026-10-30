@@ -1,0 +1,34 @@
+253MD    ADOPTED LEVELS                                          13NDS    201309
+253MD  H TYP=ERR$AUT=E. BROWNE$DAT=21-Apr-2014$COM=Fixed GS decay modes$        
+253MD  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+253MD2 H CUT=1-Mar-2012$                                                        
+253MD  Q -3185     SY 7407   SY 2932   SY 7573   8     2012WA38                 
+253MD cQ $2012Wa38: Estimated |DQ(|b{+-})=32, |DS(n)=134, |DS(p)=32             
+253MD c                                                                         
+253MD c  Calculations:                                                          
+253MD c  Ground state properties: 1997Mo25, 1995Mo29, 2004Pa40                  
+253MD c  Single-particle Nilsson levels: 1994Cw02, 2004Pa40                     
+253MD c  Half-lives for alpha and beta decay: 1997Mo25                          
+253MD c                                                                         
+253MD c  1994Cw02 have calculated the following single-particle level sequence: 
+253MD2c  g.s., 1/2[521]; 0.29 MeV, 7/2[514]; 0.44 MeV, 7/2[633];                
+253MD3c  0.51 MeV, 9/2[624]; 0.83 MeV, 3/2[521].                                
+253MD  XA257LR A DECAY                                                          
+253MD  XB253NO EC DECAY                                                         
+253MD cL E(A)      From {+257}Lr |a decay                                       
+253MD  L 0             (7/2-)            6 M     +12-3                          
+253MD2 L %EC+%B+ AP 99.3$ %A AP 0.7 (2005He27)                                  
+253MDX L XREF=AB                                                                
+253MD cL J$configuration=7/2[514] (2011An13) based on |e decay to {+253}Fm,     
+253MD2cL log| {Ift}|?5.3                                                        
+253MD cL %A        |a decay of {+253}Md not observed following: Es(|a,xn)       
+253MD2cL (1971Ho16); {+243}Am({+13}C,3n) ion chem (1992Ka08).                   
+253MD cL T$6.45 min {I+11.6-3.6}, the disintegration constant determined from   
+253MD2cL the growth of daughter, {+253}Fm (1992Ka08)                            
+253MD  L  60       30                                                       A   
+253MDX L XREF=A                                                                 
+253MD  L 1000      GE                                                           
+253MDX L XREF=B                                                                 
+253MD cL $ Strong |g rays are observed at 394.2 and 453.5 keV, in coin          
+253MD2cL with Md K x rays and conversion electrons between 40 to 400 keV.       
+253MD3cL The two |g rays are not in mutual coincidence (2011An13)               

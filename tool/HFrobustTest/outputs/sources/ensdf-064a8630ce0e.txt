@@ -1,0 +1,51 @@
+212RA    216TH A DECAY (26.0 MS)       2000HE17,2005Ku31         20NDS    202009
+212RA  H TYP=FUL$AUT=K. Auranen and E.A. McCutchan$CIT=NDS 168, 117 (2020)$     
+212RA2 H CUT=1-Aug-2020$                                                        
+212RA c  2000He17: {+216}Th activity from {+170}Er({+51}V,p4n){+216}Th and      
+212RA2c  {+170}Er({+50}Ti,4n){+216}Th reactions with E({+51}V)=214-286 MeV and  
+212RA3c  E({+50}Ti)=215-235 MeV. Recoil products separated with velocity        
+212RA4c  filter SHIP and implanted into a position sensitive PIPS detector.     
+212RA5c  Measured E|a, I|a, and recoil-|a.                                      
+212RA c  2005Ku31: the nuclei of interest were observed as the |a-decay         
+212RA2c  daughter of {+216}Th nuclei produced in the                            
+212RA3c  {+170}Er({+50}Ti,4n){+216}Th fusion evaporation reaction at GSI,       
+212RA4c  Germany. The 400-|mg/cm{+2} thick {+170}Eu targets were evaporated on  
+212RA5c  30-|mg/cm{+2} thick carbon foils. UNILAC provided the 217.5 MeV        
+212RA6c  {+50}Ti beam with an intensity of |?200 pnA. Residues were selected    
+212RA7c  with the velocity filter SHIP, and implanted into  a                   
+212RA8c  position-sensitive 16-strip PIPS silicon detector. E|a, E|g, I|g,      
+212RA9c  |a|g coin, recoil-|g-|a-|g correlations were measured. |g rays were    
+212RAac  detected, without a coincidence condition, with a Clover Ge detector   
+212RAbc  placed behind the PIPS.                                                
+212RA c  Others: 2019Zh54, 2014Ya19, 2005Li17, 2001Ha46, 2000Ni02, 1968Va18     
+212RA cL E$From E|g.                                                            
+212RA cL J$From the Adopted Levels.                                             
+212RA cA HF$r{-0}({+212}Ra)=1.4695 {I14} from HF(7921|a)=1.0.                   
+212RA cG M$From the Adopted Gammas                                              
+212RA D  CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+216TH  P 0.0          0+                26.0 MS   2              8072     4     
+216TH cP T$weighted average of 26.3 ms {I5} (2019Zh54), 26.0 ms {I2}            
+216TH2cP (2005Ku31), 25.4 ms {I8} (2001Ha46), and 28 ms {I2} (1968Va18).        
+216TH3cP Others: 29 ms {I+13-7} (2014Ya19), 30 ms {I9} (2005Li17), 22.0 ms      
+216TH4cP {I+16-14} (2000Ni02), 27.0 ms {I3}, 30 ms {I3} (2000He17) which is     
+216TH5cP assumed to be superseded by 2005Ku31                                   
+212RA  N 1                      1.0                                             
+212RA  L 0.0          0+                13.0 S    2                             
+212RA cL T$from the Adopted Levels.  Others: 9.9 s {I+46-24} (2014Ya19) and     
+212RA2cL 11.8 s {I+13-10} (2000Ni02).                                           
+212RA  A 7921      5 99.6    1 1.000                                            
+212RA cA E$weighted average of 7921 keV {I8} (1968Va18), 7919 keV {I6}          
+212RA2cA (2001Ha46), 7923 keV {I5} (2005Ku31), and 7919 keV {I15} (2019Zh54).   
+212RA3cA Others: 7921 keV {I23} (2014Ya19), 7920 keV {I44} (2005Li17), and      
+212RA4cA 7923 keV {I10} (2000He17) assumed to be superseded by 2005Ku31.        
+212RA cA IA$from 2005Ku31. Other 99.46 {I3} (2000He17)                          
+212RA  L 629.3     1  2+                                                        
+212RA  G 629.3     1  0.39   10 E2                      0.0230                  
+212RAS G KC=0.01624 23$LC=0.00504 7$MC=0.001273 18$NC=0.000336 5$OC=7.43E-5 11$ 
+212RAS G PC=1.208E-5 17$QC=5.78E-7 8                                            
+212RA cG E$from 2005Ku31. Other: 628.3 keV {I5} (2000He17).                     
+212RA cG RI$deduced by the evaluator based on reported |a feeding and           
+212RA2cG internal-conversion coefficient                                        
+212RA  A 7304      4 0.4     1 1.70    10                                       
+212RA cA E$from 2005Ku31. Other: 7302 keV {I15} (2000He17)                      
+212RA cA IA$from 2005Ku31. Other: 0.54 {I3} (2000He17)                          

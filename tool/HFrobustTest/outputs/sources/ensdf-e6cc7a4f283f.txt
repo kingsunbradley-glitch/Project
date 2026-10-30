@@ -1,0 +1,46 @@
+256LR    ADOPTED LEVELS                                          ENSDF    202006
+256LR  H TYP=UPD$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=04-JUN-2020$                    
+256LR  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256LR  Q -2480     80 6270   80 2350   80 8810   SY    2017WA10                 
+256LR cQ $Estimated uncertainty=100 for Q(|a) (2017Wa10)                        
+256LR cQ $S(2n)=14270 {I310}, S(2p)=6280 {I130} (syst,2017Wa10)                 
+256LR c  No new experimental references since the 2017 update (2017Si08) of     
+256LR2c  {+256}Lr. In the present update, an incorrect reference 2014Sa01 for   
+256LR3c  the half-life of the g.s. of {+256}Lr has been corrected to 2014Sa21,  
+256LR4c  and some other very minor changes have been made.                      
+256LR c  1965Do10: {+256}Lr produced and identified in {+243}Am({+18}O,5n),     
+256LR2c  E=96 MeV reaction, followed by the measurement of an |a-decay chain,   
+256LR3c  and half-life.                                                         
+256LR c  Later studies of {+256}Lr decay: 1968Fl08, 1970Dr08, 1971Es01,         
+256LR2c  1976BeZY, 2008An16, 2014Sa21.                                          
+256LR c  2012Mi27: mass measurement by time-of-flight ion-cyclotron-resonance   
+256LR2c  method using SHIPTRAP at GSI.                                          
+256LR c  Theoretical calculations: consult the Nuclear Science References (NSR) 
+256LR2c  database for 33 primary references, mostly dealing with half-life in   
+256LR3c  |a decay and cluster decays.                                           
+256LR d  2015Ja05: nuclear structure theory reference                           
+256LR  XA260DB A DECAY (1.52 S)                                                 
+256LR cL E$From {+260}Db |a decay, deduced from measured |a energies in         
+256LR2cL {+260}Db |a decay and Q(|a)({+260}Db)=9500 {I40} (syst,2017Wa10)       
+256LR  L 0.0                           27.9 S    10                             
+256LR2 L %A AP 85 10 $ %EC AP 15 10 $ %SF<0.03                                  
+256LR cL T$weighted average of 28 s {I1} (2014Sa21, earlier value was 25 s {I2} 
+256LR2cL in 2010SaZV), 25.9 s {I17} (1976BeZY), 31 s {I3} (1971Es01),           
+256LR3cL 35 s {I10} (1970Dr08), 45 s {I10} (1965Do10). Other: 24 s (1968Fl08)   
+256LR cL $The |a decay/|e decay ratio has been estimated approximately          
+256LR2cL only. The authors of 1968Fl08 deduced the |e branch as about 30%, if   
+256LR3cL the 8.42-MeV |a group in their spectrum is from the |e decay           
+256LR4cL daughter, {+256}No. Presumably, the 8.43-MeV |a of {+256}Lr was not    
+256LR5cL considered; therefore, this branching should be an upper limit.        
+256LR6cL In authors' other paper, 1968Fl01, the authors stated that it was      
+256LR7cL impossible to determine the branching from their data. The authors     
+256LR8cL of 1971Es01 set an upper limit of 20% for an |e branch. It was         
+256LR9cL established by 1976BeZY that {+256}Lr does decay by electron capture;  
+256LR2cL however, its branching was not determined. %|e=15 {I10}, %|a=85 {I10}  
+256LR3cL is recommended here.                                                   
+256LR  L 236       44                                                           
+256LRX L XREF=A                                                                 
+256LR  L 282       42                                                           
+256LRX L XREF=A                                                                 
+256LR  L 317       42                                                           
+256LRX L XREF=A                                                                 

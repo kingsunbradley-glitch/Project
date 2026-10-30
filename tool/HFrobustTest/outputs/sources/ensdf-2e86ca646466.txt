@@ -1,0 +1,891 @@
+241PU    ADOPTED LEVELS, GAMMAS                                  15NDS    201512
+241PU  H TYP=FUL$AUT=C.D. NESARAJA$CIT=NDS 130, 183 (2015)$CUT=30-Sep-2015$     
+241PU  Q 20.78     13 5241.52 3 6650   17 5140.0 5     2012WA38                 
+241PU cQ SN$From adjusted value of 1998Wh01. The authors' value of 5241.57 {I3} 
+241PU2cQ is corrected to 5241.52 {I3} by 2012Wa38 to take account of changes    
+241PU3cQ in calibration energies used by the authors                            
+241PU c                                                                         
+241PU c  Experimental Studies:                                                  
+241PU c  2013Ca16: Investigation of fission fragment yields from transfer       
+241PU2c  induced fission between {+238} U and {+12}C. Fission fragments         
+241PU3c  detected with VAMOS spectrometer in GANIL                              
+241PU c  2013Cr05: Reanalyzed the T{-1/2} from measured T{-1/2} by  2009We08    
+241PU c  2011Gu21: Study of Photon Strength Function by measuring |g cascade    
+241PU2c  from neutron capture on {+240}Pu at the n-tof facility at CERN using   
+241PU3c  the Total Absorption Calorimeter                                       
+241PU c  2011Ko21, 2010Lo14: Measured |b spectrum using a cryogenic detector.   
+241PU2c  2009We08: Determined T{-1/2} from 15 independent set of measurements   
+241PU3c  over |? 31 years using the thermal ionization mass spectrometry (TIMS) 
+241PU4c  on samples of Pu that have been chemically stripped of {+241}Am and    
+241PU5c  the double ratio method. The measurements were combined with           
+241PU6c  previous measured results and a t{-1/2} was recommended                
+241PU c  1999Dr13: Measured |b spectrum and deduced the upper limits for heavy  
+241PU2c  neutrino admixture                                                     
+241PU c  1989Pa21: Re-measurement of {+241}Pu half-life by gamma ray            
+241PU2c  spectrometry and the ratio method with statistical analysis.           
+241PU c  1985Ag02: Measurement of half-life by thermal ionization mass          
+241PU2c  spectrometry and isotope single and double ratio method                
+241PU c  1974Ba73: Measured the fission probability in {+239}Pu(t,p) and        
+241PU2c  deduced fission barrier parameters.                                    
+241PU c                                                                         
+241PU c  Theoretical/Systematical Studies:                                      
+241PU c  2015Er03: Calculation of fission probabilities with a dynamic          
+241PU2c  statistical approach                                                   
+241PU c  2014Ga18: Calculated spontaneous fission T{-1/2} in framework of the   
+241PU2c  generalized liquid drop model with new numerical method                
+241PU c  2013Is13: Prediction of spins from systematic studies of preformation  
+241PU2c  probability for |a decay and the neutron number of parent              
+241PU c  2013Bo29, 1986Ko28: Calculated (n,F) and (n,n'F) cross sections        
+241PU c  2012Ni16: |a decay branching ratio  and T{-1/2} for transitions from   
+241PU2c  ground state to favored rotational bands using                         
+241PU3c  Multichannel Cluster Model                                             
+241PU c  2012Sa31: Calculated cluster decay half-lives using the Coulomb and    
+241PU2c  Proximity Potential Model (CPPM)                                       
+241PU c  2011Ad11: One-quasiparticle levels using the microscopic-macroscopic   
+241PU2c  modified TCSM, QPM and the self-consistent SHFB approaches             
+241PU c  2011Zh36: Systematic analysis  of |a decay to members of favored bands 
+241PU2c  using the Geiger-Nutall law. Calculated the partial half-lives         
+241PU c  2011He12: Compilation of longest lived known in nuclides with Z|> 82   
+241PU2c  with half-life, spin, excitation energy, and primary reference         
+241PU c  2010Ni02: Systematics and calculations of T{-1/2} and relative         
+241PU2c  intensities of |a decay within the generalized density-dependent       
+241PU3c  cluster model.                                                         
+241PU c  2009Go05: Estimation of fission cross section with global              
+241PU2c  renormalization of the barrier height and the microscopic nuclear      
+241PU3c  level densities at the fission saddle points                           
+241PU c  2008ChZU: Decay data  evaluation project (DDEP) for {+241}Pu           
+241PU c  2006Sh19: Possible alternative parity bands using the                  
+241PU2c  cluster model features of reflection asymmetric states                 
+241PU c  2005Pa73: Calculated neutron one quasi-particle states of heaviest     
+241PU2c  nuclei within a macroscopic-microscopic approach.                      
+241PU c  2005Re16: Calculated spontaneous fission half-lives using              
+241PU2c  Swiatecki's formula, by its generalized form, and by a new             
+241PU3c  formula where the blocking effect of unpaired nucleon on the           
+241PU4c  half-lives has been taken into account with different mechanisms       
+241PU c  1996St28: Calculated branching ratios using WKB and couple channel     
+241PU2c  transmission matrices                                                  
+241PU c  1990Bh02, 1985Ig01, 1984Ku05, 1984Oh09, 1982Ku09, 1980Ku14, 1972We09:  
+241PU2c  Calculated fission barrier parameters                                  
+241PU c  1982Li02: Calculated energy band heads, magnetic moments, B(E2)        
+241PU2c  and B(M1) using the rotor plus quasiparticle approximation             
+241PU c  1971Ga20, 1976Ch22: Calculated energies and wave functions for         
+241PU2c  non-rotational single-particle states                                  
+241PU cG E$From (n,|g), except where noted otherwise. See (n,|g) for a listing  
+241PU2cG of unplaced transitions                                                
+241PU cG RI$Relative photon branching from each level. Data are from            
+241PU2cG (n,|g), except where noted otherwise                                   
+241PU cG E(A)$From |a decay                                                     
+241PU cG E(C),RI(C)$The authors report E=800.461 {I11} doubly placed from the   
+241PU2cG 800.44 and 800.48 levels. I|g/I|g(638.8|g)=0.688 {I28} and             
+241PU3cG I|g/I|g(629.5|g)= 0.498 {I20}, respectively, for these two placements. 
+241PU4cG These transitions are not included in the least-squares fit. For these 
+241PU5cG placements, the least-squares fit gives E|g=800.443 {I5} and           
+241PUxcG E|g=800.478 {I6}, respectively                                         
+241PU cG E(D),RI(D)$The authors report E=758.494 {I15} doubly placed from the   
+241PU2cG 800.44 and 800.48 levels. I|g/I|g(638.8|g)=0.349 {I16} and             
+241PU3cG I|g/I|g(629.5|g)= 0.253 {I11}, respectively for these two placements.  
+241PU4cG These transitions are not included in the least-squares fit. For these 
+241PU5cG placements, the least-squares fit gives E|g=758.470 {I6} and           
+241PUxcG E|g=758.506 {I6}, respectively                                         
+241PU cG RI(E)$Weighted average from (n,|g) and |a decay                        
+241PU cG RI(F)$From |a decay                                                    
+241PU cG M$From (n,|g), except where noted otherwise                            
+241PU cG M(B)$From |a decay                                                     
+241PU cG M(G)$|a(K)exp lies between the theory values for E1 and E2. Its        
+241PU2cG placement in the level scheme requires |D|p=yes. See footnote on J|p   
+241PU3cG for the 519 level                                                      
+241PU cG M(H)$|a(K)exp is larger than the E2 theory value; however,             
+241PU2cG placement in the level scheme requires |D|p=yes. See footnote          
+241PU3cG on J|p for the 561 level                                               
+241PU cG M(I)$|a(K)exp is consistent with the E2 theory value; however,         
+241PU2cG placement in the level scheme requires |D|p=yes. See footnote          
+241PU3cG on J|p for the 897.5 level                                             
+241PU DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+241PU cG MR$If no value given it was assumed |d=1.00 for E2/M1,                 
+241PU2cG |d=1.00 for E3/M2 and |d=0.10 for the other multipolarities            
+241PU cL E$For levels seen in (n,|g), the energies are from a least-squares     
+241PU2cL fit to the E|g values. An additional uncertainty of 20 ppm due         
+241PU3cL to the uncertainty in the E|g calibration must be added to get         
+241PU4cL absolute excitation energies                                           
+241PU cL J$1998Wh01 contains a thorough discussion of the spin-parity           
+241PU2cL assignments and the configurations based on their own work and         
+241PU3cL earlier work.                                                          
+241PU cL J$Assignments given as "Reaction data" are based on one or more of     
+241PU2cL the following pieces of data. Cross sections, cross section            
+241PU3cL ratios, measured L transfers, and on a comparison                      
+241PU4cL of the observed spectroscopic factors with calculated                  
+241PU5cL values. See 1998Wh01, 1972Br46, and 1971El02 for details               
+241PU cL J(F)$Levels at 495 {I10}, 520 {I10}, 560 {I10}, and 620 {I10} are      
+241PU2cL reported in (d,d') and suggested by the authors, 1972Br46, to be part  
+241PU3cL of a rotational band built on a vibrational state. Levels at 519 and   
+241PU4cL 561 are known from |b{+-} decay, and 1998Wh01, in (n,|g), propose that 
+241PU5cL these levels are the bandhead and first-excited state of a band        
+241PU6cL with configuration 5/2[622]~#0-. They further propose that the         
+241PU7cL 9/2- member of this band lies at 615 keV, deexciting via a 573|g.      
+241PU8cL No correspondence in (n,|g) with the 495 (d,d') level has been found.  
+241PU9cL These levels decay only to the g.s. 5/2[622] band and are expected     
+241PUAcL to have mult=E1; however, except for the 518.8|g, the |a(K)exp values  
+241PUBcL measured by 1998Wh01 in (n,|g)                                         
+241PUCcL are all larger than the theoretical E1 value and require some          
+241PUDcL M2 admixture. For the 561.44|g and 572.86|g, in fact, |a(K)exp is      
+241PUEcL larger than the E2 value. For consistency with the proposed            
+241PUFcL configuration, the mults for the 561 and 572|g's are assumed to        
+241PUGcL be E1+M2 rather than M1+E2. Note that if the 572|g is placed           
+241PUHcL elsewhere, then the energy for the possible 9/2- band member           
+241PUIcL would be 620 {I10}, the value from (d,d')                              
+241PU cL E(G),J(G)$1998Wh01 report a peak at 897 in their (d,p) and (d,t)       
+241PU2cL work that they assign as the 9/2+ member of the 1/2[620] band, in      
+241PU3cL agreement with the earlier assignment of 1972Br46. 1998Wh01 also       
+241PU4cL establish the 1/2- and 3/2- members of the of the                      
+241PU5cL 1/2[620]x0- + 1/2[631]x0- band at 842 and 851. Both of these           
+241PU6cL levels are seen in the authors' (d,p) and (d,t) work. They             
+241PU7cL further propose that the 5/2- member of this band                      
+241PU8cL is defined by the 726.562|g feeding the 3/2+ 171 level,                
+241PU9cL giving E(5/2-)=897.503 {I22}. The 898 level seen in reaction data      
+241PUAcL may thus be a doublet. The 726|g, however, has an |a(K)exp that is     
+241PUBcL consistent with E2, not with E1. If the placement is correct,          
+241PUCcL the transition must have an M2 component. From inertial parameters     
+241PU8cL derived from these levels, the authors then propose that               
+241PU9cL the 918 level, also seen in their reaction data, is the 7/2-           
+241PUAcL member of this band. See 1998Wh01 for a discussion of the              
+241PUBcL configuration of this proposed band                                    
+241PU CL BAND(A)   5/2+[622] BAND                                               
+241PU CL BAND(B)   1/2+[631] BAND                                               
+241PU CL BAND(C)   7/2+[624] BAND                                               
+241PU CL BAND(D)   7/2-[743] BAND                                               
+241PU CL BAND(E)   1/2+[620] BAND                                               
+241PU CL BAND(H)   3/2+[631] BAND                                               
+241PU CL BAND(I)   1/2-[501] BAND                                               
+241PU CL BAND(J)   5/2-[622]~#0- BAND                                           
+241PU CL BAND(K)   1/2[761] + 1/2[631]~#0-                                      
+241PU CL BAND(L)   1/2[620]~#0- + 1/2[631]~#0-                                  
+241PU  XA240PU(N,G) E=TH:SECONDARY G'S                                          
+241PU  XB240PU(N,G) E=TH:PRIMARY G'S                                            
+241PU  XC240PU(N,G) E=RES                                                       
+241PU  XD245CM A DECAY                                                          
+241PU  XE241NP B- DECAY                                                         
+241PU  XF240PU(D,P)                                                             
+241PU  XG242PU(D,T)                                                             
+241PU  XH242PU(3HE,A)                                                           
+241PU  XI241PU(D,D')                                                            
+241PU  XJ242PU(D,TG)                                                            
+241PU PN                                                                     6  
+241PU  L 0.0          5/2+             14.329 Y  29                             
+241PUX L XREF=ADEFG$FLAG=A$                                                     
+241PU2 L MOMM1=-0.683 15$MOME2=+6 2                                             
+241PU cL $|m measured by optical spectroscopy (1969Ge04).                       
+241PU2cL Compiled by 2014StZZ                                                   
+241PU cL MOMM1$Others: 1954Bl72, 1963Bl16. See 1982Li02                         
+241PU2cL for theoretical |m calculations.                                       
+241PU cL $Q measured by optical spectroscopy (1964Ch10) and recommended by      
+241PU2cL 2013StZZ. Compiled by 2014StZZ                                         
+241PU cL MOME2$Relative isotope shifts for plutonium isotopes                   
+241PU2cL were measured, and by using intrinsic Q values of even mass            
+241PU3cL plutonium nuclei, intrinsic Q({+241}Pu) was deduced by                 
+241PU4cL 1985Ge08 as 11.5 {I5} which yields Q({+241}Pu)=4.11 {I18}. See         
+241PU5cL 1982Li02 and 1983Ga20 for theoretical calculations of Q                
+241PU cL J$From paramagnetic resonance (1976Fu06 and 1968Ah01 and references    
+241PU2cL therein). The measured magnetic moment indicates a 5/2[622] orbital    
+241PU3cL assignments                                                            
+241PU2 L %B-=99.998 $ %A=2.47E-3  $ %SF<2.4E-14                                 
+241PU cL $|a/|b{+-}=2.45|*10{+-5} {I8} (1968Ah01), 2.45|*10{+-5} {I4}           
+241PU2cL from I|g(148|g)=1.855 {I16} photons per 1|*10{+6} {+241}Pu decays, as  
+241PU3cL measured by 1985Wi04, and I|g(148|g)=7.57 {I8} per 100 |a decays       
+241PU4cL (1985El03). Others: 1950Th54, 1958BiZZ, 1960Br15, 1961Sm03, 1963Iv01,  
+241PU5cL 1966Be24, 1976GuZN, 1978VaZC. % branching of |b, |a and SF from T{-1/2}
+241PU6cL and partial T{-1/2}(SF) |?6|*10{+16} y (1985Dr09) and                  
+241PU7cL T{-1/2}(|a)=5.8|*10{+5} y (1966Be24)                                   
+241PU cL T$From 2013Cr05 who reanalyzed the data of 2009We08 (thermal           
+241PU2cL ionization mass spectrometry (TIMS) and double ratio method) to        
+241PU3cL include assumptions from experimental uncertainties. The data          
+241PU4cL of 2009We08 with t{-1/2}=14.325 y {I24} agrees well with the value     
+241PU5cL by 2013Cr05                                                            
+241PU2cL Others: 14.290 y {I6} (1997De54),14.355 y {I40} (1989Pa21),            
+241PU3cL 14.57 y {I10} (1986Ti04), 14.38 y {I2} (double ratio method in         
+241PU4cL 1985Ag02), 14.38 y {I6} (1980Ma45).                                    
+241PU5cL For earlier measurements see 1978El02. See also 1987Ag03 for a         
+241PU6cL compilation of measured half-lives. Discrepancies in the               
+241PU7cL measurements were examined and explained by 1986Ha06 and 1987Ba84      
+241PU8cL in terms of chemical dependency of low-energy |b decay                 
+241PU cL $T{-1/2}(SF)|?6|*10{+16} y measured by 1985Dr09. See 1992Gr16          
+241PU2cL for calculation of T{-1/2}(SF) using a thermodynamic method.           
+241PU  L 41.9722    9 7/2+                                                      
+241PU2 L XREF=ADEG$FLAG=A$                                                      
+241PU cL J$M1+E2 |g to 5/2+ g.s. Reaction data                                  
+241PU  G 41.972    1  100      M1+E2     0.186   4     102.4  20                
+241PUS G  LC=76.2 15$MC=19.4 4                                                  
+241PUS G  NC=5.30 11$OC=1.294 25$PC=0.231 5$QC=0.01089 16                       
+241PU  L 95.7795   12 9/2+                                                      
+241PU2 L XREF=ADEFGH$FLAG=A$                                                    
+241PU cL J$E2 |g to 5/2+ g.s. Reaction data and band ass                        
+241PU  G 53.807    1  100      M1+E2     0.201   8     44.7   11                
+241PUS G  LC=33.3 8$MC=8.42 21                                                  
+241PUS G  NC=2.30 6$OC=0.563 14$PC=0.1021 22$QC=0.00520 8                       
+241PU  G 95.786     3 15      3 E2                      19.3                    
+241PUS G  LC=14.00 20$MC=3.92 6                                                 
+241PUS G  NC=1.078 15$OC=0.254 4$PC=0.0404 6$QC=0.0001375 20                    
+241PU  L 161.314    4 11/2+                                                     
+241PU2 L XREF=ADFGH$FLAG=A                                                      
+241PU cL J$M1 |g to 9/2+ 96 level. Energy fit to 5/2[622] band                  
+241PU  G 65.535     3 100       M1(+E2)  0.44    LE     27     8                
+241PUS G  LC=20 6$MC=5.2 17                                                     
+241PUS G  NC=1.4 5$OC=0.34 11$PC=0.061 16$QC=0.00281 20                         
+241PU  L 161.6853   9 1/2+               0.88 US  5                             
+241PU2 L XREF=ABCDEFGHJ$FLAG=B$                                                 
+241PU cL J$Strongly fed by primary |g in (n,|g) from 1/2+ capture state.        
+241PU2cL E2 |g to 5/2+. Energy fit to band                                      
+241PU cL T         by pulsed beam-|g delay coincidence                          
+241PU2cL in {+242}Pu(d,t|g) reaction (1975Ya03).                                
+241PU  G 161.685    1 100       E2                      1.96                    
+241PUS G  KC=0.190 3$LC=1.289 18$MC=0.360 5                                     
+241PUS G  NC=0.0989 14$OC=0.0234 4$PC=0.00378 6$QC=2.31E-5 4                    
+241PUB G BE2W=0.0221 13                                                         
+241PU  L 170.9399   9 3/2+                                                      
+241PU2 L XREF=ABFGH$FLAG=B$                                                     
+241PU cL J$M1 |g to 5/2+ g.s. Fed by primary |g in (n,|g) from 1/2+ capture     
+241PUxcL state                                                                  
+241PU  G 170.940   1  100       M1                      5.76                    
+241PUS G  KC=4.55 7$LC=0.912 13$MC=0.222 4                                      
+241PUS G  NC=0.0603 9$OC=0.01501 21$PC=0.00286 4$QC=0.000187 3                  
+241PU  L 175.0523  14 7/2+                                                      
+241PU2 L XREF=ADE$FLAG=C$                                                       
+241PU cL J$HF=1.0 for |a decay from 7/2+ [624] in {+245}Cm                      
+241PU  G 79.262    7  1.37   11M1+E2     0.65    +25-2222     6                 
+241PU2 G FLAG=E$                                                                
+241PUS G  LC=16 4$MC=4.3 12                                                     
+241PUS G  NC=1.2 4$OC=0.28 8$PC=0.047 11$QC=0.00129 22                          
+241PU  G 133.081   2  28.9    3M1+E2     0.222   9     11.36  17                
+241PU2 G FLAG=E$                                                                
+241PUS G  KC=8.80 13$LC=1.92 3$MC=0.473 7                                       
+241PUS G  NC=0.1287 19$OC=0.0319 5$PC=0.00599 9$QC=0.000367 6                   
+241PU  G 175.051   2  100.0  10M1+E2     0.217   19    5.21                     
+241PU2 G FLAG=E$                                                                
+241PUS G  KC=4.07 7$LC=0.855 12$MC=0.209 3                                      
+241PUS G  NC=0.0570 8$OC=0.01414 20$PC=0.00267 4$QC=0.000167 3                  
+241PU  L 222.9879  11 5/2+                                                      
+241PU2 L XREF=AGH$FLAG=B$                                                       
+241PU cL J$E2 |g to 1/2+. M1+E2 |g to 7/2+                                      
+241PU  G 52.048    2  21.6   24M1+E2     0.498   6     100.3  19                
+241PUS G  LC=73.6 14$MC=19.7 4                                                  
+241PUS G  NC=5.41 11$OC=1.293 24$PC=0.215 4$QC=0.00506 8                        
+241PU  G 61.303    1  36.4   12E2                      160.0                    
+241PUS G  LC=116.2 17$MC=32.5 5                                                 
+241PUS G  NC=8.92 13$OC=2.10 3$PC=0.330 5$QC=0.000831 12                        
+241PU  G 181.017   2  100.0  28M1+E2     0.19    4     4.77   9                 
+241PUS G  KC=3.74 8$LC=0.775 11$MC=0.189 3                                      
+241PUS G  NC=0.0516 8$OC=0.01281 18$PC=0.00242 4$QC=0.000154 3                  
+241PU  G 222.971   20 50.4   20M1+E2     0.609   23    2.14   5                 
+241PUS G  KC=1.61 4$LC=0.401 6$MC=0.1005 15                                     
+241PUS G  NC=0.0274 4$OC=0.00674 10$PC=0.001241 19$QC=6.66E-5 15                
+241PU  L 231.935    9 9/2+                                                      
+241PU2 L XREF=ADFG$FLAG=C$                                                      
+241PU cL J$M1+E2 |g's to 7/2+ and 9/2+. |a hindrance factor                     
+241PU  G 56.89     3  16.5   11M1+E2     0.68          92.4   14                
+241PU2 G FLAG=ABF$                                                              
+241PUS G  LC=67.6 10$MC=18.4 3                                                  
+241PUS G  NC=5.03 8$OC=1.198 17$PC=0.196 3$QC=0.00346 5                         
+241PU cG E,RI$Not seen in (n,|g) spectrum. Values are from {+245}Cm |a decay,   
+241PU2cG where I|g/I|g(190|g)=0.165 {I11}                                       
+241PU cG MR$From {+245}Cm |a decay                                              
+241PU  G 136.127   20 55.5   15M1+E2     0.63    21    9.0    10                
+241PU2 G FLAG=F$                                                                
+241PUS G  KC=6.3 12$LC=2.04 15$MC=0.53 5                                        
+241PUS G  NC=0.144 14$OC=0.035 3$PC=0.0062 4$QC=0.00027 5                       
+241PU cG RI$Taken from I|g/I|g(190|g)=0.555 {I16} in {+245}Cm |a decay.         
+241PU2cG since the measured I|g of 0.029 {I5} from1998Wh01 is too large and     
+241PU3cG apparently includes a contribution from a fission product |g -rays     
+241PU4cG according to the authors                                               
+241PU cG E$From ce spectrum in 1998Wh01                                         
+241PU  G 189.965   10 100.0  15M1+E2     0.63    +6-7  3.36   16                
+241PU2 G FLAG=F$                                                                
+241PUS G  KC=2.46 15$LC=0.665 10$MC=0.1680 25                                   
+241PUS G  NC=0.0459 7$OC=0.01125 16$PC=0.00205 3$QC=0.000103 6                  
+241PU  G 231.96    3  5.9     8[E2]                    0.497                    
+241PU2 G FLAG=AF                                                                
+241PUS G  KC=0.1200 17$LC=0.275 4$MC=0.0760 11                                  
+241PUS G  NC=0.0209 3$OC=0.00495 7$PC=0.000816 12$QC=8.41E-6 12                 
+241PU  L 235        4  (13/2+)                                                 ?
+241PU2 L XREF=H$FLAG=A$                                                         
+241PU cL E$Unresolved in ({+3}He,|a)                                            
+241PU cL J$Reaction data. Fit to 5/2[622] band                                  
+241PU  L 244.8895  13 7/2+                                                      
+241PU2 L XREF=AFGH$FLAG=B$                                                      
+241PU cL J$E2 |g to 3/2+. M1+E2 |g to 9/2+                                      
+241PU  G 73.950    1  100     6E2                      65.3                     
+241PUS G  LC=47.4 7$MC=13.27 19                                                 
+241PUS G  NC=3.65 6$OC=0.858 12$PC=0.1356 19$QC=0.000381 6                      
+241PU cG M$|a(L2)exp gives |d=1.8 {I+10-4}; however, placement in the level     
+241PU2cG scheme requires |DJ=2                                                  
+241PU  G 149.107   6  62      9M1                      8.48                     
+241PUS G  KC=6.69 10$LC=1.346 19$MC=0.327 5                                     
+241PUS G  NC=0.0891 13$OC=0.0222 4$PC=0.00422 6$QC=0.000276 4                   
+241PU  G 202.910   7  70     13M1+E2     0.66    3     2.72   7                 
+241PUS G  KC=2.00 6$LC=0.537 8$MC=0.1355 19                                     
+241PUS G  NC=0.0370 6$OC=0.00907 13$PC=0.001655 24$QC=8.35E-5 23                
+241PU  L 301.172   16 11/2+                                                     
+241PU2 L XREF=DFGH$FLAG=C                                                       
+241PU cL J$M1 |g to 231 {I9}/2+. |a hindrance factor. Reaction data             
+241PU  G 69.17     6  78     44M1(+E2)   1.2     LE    38     22                
+241PU2 G FLAG=ABF$                                                              
+241PUS G  LC=28 16$MC=8 5                                                       
+241PUS G  NC=2.1 13$OC=0.5 3$PC=0.08 5$QC=0.0020 6                              
+241PU cG CC$Symmetrized value. |d<1.1 gives |a=25 {I+35-11}                     
+241PU  G 126.09    4  78     22[E2]                    5.59                     
+241PU2 G FLAG=AF$                                                               
+241PUS G  KC=0.1705 24$LC=3.94 6$MC=1.101 16                                    
+241PUS G  NC=0.303 5$OC=0.0714 10$PC=0.01145 17$QC=5.13E-5 8                    
+241PU  G 139.87    4  89     11[M1,E2]                 7      4                 
+241PU2 G FLAG=AF$                                                               
+241PUS G  KC=4 4$LC=2.0 5$MC=0.54 15                                            
+241PUS G  NC=0.15 5$OC=0.036 9$PC=0.0061 11$QC=0.00018 15                       
+241PU  G 205.404   20 100    11[M1,E2]                 2.1    14                
+241PU2 G FLAG=AF$                                                               
+241PUS G  KC=1.4 13$LC=0.50 5$MC=0.129 3                                        
+241PUS G  NC=0.0354 7$OC=0.0086 4$PC=0.00152 18$QC=6.E-5 5                      
+241PU  L 337          1/2,3/2                                                   
+241PU2 L XREF=C$                                                                
+241PU cL J$Populated strongly in average resonance (n,|g)                       
+241PU  L 337.1363  23 9/2+                                                      
+241PU2 L XREF=AFGH$FLAG=B$                                                      
+241PU cL J$M1+E2 |g to 9/2+. E2 |g to 5/2+. Energy fit to band. Reaction data   
+241PU  G 114.148   2  100    5 E2                      8.55                     
+241PUS G  LC=6.21 9$MC=1.737 25                                                 
+241PUS G  NC=0.478 7$OC=0.1126 16$PC=0.0180 3$QC=7.24E-5 11                     
+241PU  G 241.381   17 54     6 M1+E2     1.8     3     0.85   13                
+241PUS G  KC=0.49 12$LC=0.259 9$MC=0.0689 17                                    
+241PUS G  NC=0.0189 5$OC=0.00454 13$PC=0.00078 3$QC=2.2E-5 5                    
+241PU  L 373        2 11/2+                                                     
+241PU2 L XREF=G$FLAG=B$                                                         
+241PU cL J$Energy fit to band                                                   
+241PU  L 376          1/2,3/2                                                   
+241PU2 L XREF=CD$                                                               
+241PU cL J$Populated strongly in average resonance (n,|g)                       
+241PU  L 385        3 (13/2+)                                                   
+241PU2 L XREF=DG$FLAG=C$                                                        
+241PU cL J$Fit to band                                                          
+241PU  L 404.4526  17 (9/2)-                                                    
+241PU2 L XREF=AE$FLAG=D$                                                        
+241PU cL J$E1 |g's to 7/2+ and 9/2+ from the 404 and 409 levels allow           
+241PU2cL J|p=7/2- or 9/2- for both levels. 1998Wh01 assign these two levels     
+241PU3cL as the 7/2- and 9/2- members of the 7/2[743] band whose 11/2 and       
+241PU4cL 15/2 members have been established by reaction data at 446 and 570     
+241PU5cL keV. 1998Wh01 point out that the Alaga branching                       
+241PU6cL ratios predict that the strongest branch in decay of the 7/2[743]      
+241PU7cL band head to the 5/2[622] band should be to the 5/2+ member of         
+241PU8cL that band. This is the case in {+239}Pu; however, this transition      
+241PU9cL is not observed here. 1998Wh01 suggest that Coriolis mixing            
+241PUacL with the unobserved, but expected, 9/2[734] band may depress           
+241PUbcL the 9/2 member of the 7/2[743] band below the 7/2                      
+241PUccL member, in which case the transition to the 5/2+ g.s., if present,     
+241PUdcL would be very weak                                                     
+241PU  G 308.674   2  39.6   6 E1                      0.0389                   
+241PUS G  KC=0.0308 5$LC=0.00610 9$MC=0.001478 21                               
+241PUS G  NC=0.000399 6$OC=9.76E-5 14$PC=1.762E-5 25$QC=9.23E-7 13              
+241PU  G 362.479   2  100    1 E1                      0.0276                   
+241PUS G  KC=0.0220 3$LC=0.00425 6$MC=0.001028 15                               
+241PUS G  NC=0.000278 4$OC=6.80E-5 10$PC=1.238E-5 18$QC=6.70E-7 10              
+241PU  G 405       AP                                                          ?
+241PU cG E$From |b{+-} decay                                                    
+241PU  L    408.899 3 (7/2)-                                                    
+241PU2 L XREF=A$FLAG=D$                                                         
+241PU cL J$See comment for 404 level                                            
+241PU  G 233.844   3  32.7   11E1                      0.0719                   
+241PUS G  KC=0.0563 8$LC=0.01169 17$MC=0.00284 4                                
+241PUS G  NC=0.000768 11$OC=0.000187 3$PC=3.33E-5 5$QC=1.637E-6 23              
+241PU  G 313.123   4  29.7   19E1                      0.0377                   
+241PUS G  KC=0.0299 5$LC=0.00590 9$MC=0.001431 20                               
+241PUS G  NC=0.000386 6$OC=9.45E-5 14$PC=1.707E-5 24$QC=8.97E-7 13              
+241PU  G 367.10    8  100     4E1                      0.0269                   
+241PUS G  KC=0.0214 3$LC=0.00413 6$MC=0.000999 14                               
+241PUS G  NC=0.000270 4$OC=6.62E-5 10$PC=1.204E-5 17$QC=6.54E-7 10              
+241PU  L 446       2   11/2-                                                    
+241PU2 L XREF=FGH$FLAG=D$                                                       
+241PU cL J$Reaction data                                                        
+241PU  L 473          (1/2,3/2)                                                 
+241PU2 L XREF=C$                                                                
+241PU cL J$Populated in average resonance (n,|g)                                
+241PU  L 495       10                                                           
+241PU2 L XREF=I$                                                                
+241PU cL J$Seen only in (d,d'). 1972Br46 suggest that this may be part of       
+241PU2cL a rotational band built on a vibrational state                         
+241PU  L 503       3  13/2+                                                     
+241PU2 L XREF=GH$FLAG=B$                                                        
+241PU cL J$Reaction data                                                        
+241PU  L 518.8121  25  5/2-                                                     
+241PU2 L XREF=AEI$FLAG=FJ$                                                      
+241PU cL J$E1 |g to 5/2+. E1+M2 to 7/2+. Agreement of branching ratios          
+241PU2cL with Alaga rules for assigned band                                     
+241PU  G 476.840   3  32.4   17E1+M2     0.104   +20-250.025  4                 
+241PU2 G FLAG=G$                                                                
+241PUS G  KC=0.020 3$LC=0.0042 8$MC=0.00104 20                                  
+241PUS G  NC=0.00028 6$OC=7.0E-5 14$PC=1.3E-5 3$QC=7.7E-7 16                    
+241PU  G 518.810   4  100      E1                      0.01340                  
+241PUS G  KC=0.01078 15$LC=0.00198 3$MC=0.000477 7                              
+241PUS G  NC=0.0001290 18$OC=3.17E-5 5$PC=5.86E-6 9$QC=3.38E-7 5                
+241PU  L 534.202   13 +                                                         
+241PU2 L XREF=A$                                                                
+241PU cL J$E2 |g to 7/2+                                                        
+241PU  G 359.149   13 100      E2                      0.1240                   
+241PUS G  KC=0.0559 8$LC=0.0498 7$MC=0.01350 19                                 
+241PUS G  NC=0.00370 6$OC=0.000885 13$PC=0.0001503 21$QC=2.91E-6 4              
+241PU cG M$|a(K)exp gives |d>5.2                                                
+241PU  L 561.421    5  7/2-                                                     
+241PU2 L XREF=AEI$FLAG=FJ$                                                      
+241PU cL J$E1+M2 |g's to 7/2+ and 9/2+. Agreement of branching ratios           
+241PU2cL with Alaga rules for the assigned configuration. Also, probable        
+241PU3cL E1+M2 |g to 5/2+                                                       
+241PU  G 465.646    5 54.4   21 E1+M2     0.088  +21-28 0.024  4                
+241PU2 G FLAG=G$                                                                
+241PUS G  KC=0.019 3$LC=0.0039 8$MC=0.00097 20                                  
+241PUS G  NC=0.00026 6$OC=6.5E-5 14$PC=1.2E-5 3$QC=7.1E-7 16                    
+241PU  G 519.433    8 100     7 E1+M2     0.24   +9-11  0.05   3                
+241PU2 G FLAG=G$                                                                
+241PUS G  KC=0.038 22$LC=0.009 6$MC=0.0023 15                                   
+241PUS G  NC=0.0006 4$OC=0.00016 10$PC=2.9E-5 19$QC=1.8E-6 12                   
+241PU  G 561.437   20 69      4(E1+M2)   0.27    4     0.048  11                
+241PU2 G FLAG=H$                                                                
+241PUS G  KC=0.036 8$LC=0.0086 21$MC=0.0022 6                                   
+241PUS G  NC=0.00059 14$OC=0.00015 4$PC=2.8E-5 7$QC=1.7E-6 4                    
+241PU  L 570        2 15/2-                                                     
+241PU2 L XREF=FGH$FLAG=D$                                                       
+241PU cL J$Reaction data                                                        
+241PU  L    614.836 9 (9/2-)                                                    
+241PU2 L XREF=AI$FLAG=FJ$                                                       
+241PU  G 572.863   9  100      (E1+M2)   0.18    5     0.027  10                
+241PU2 G FLAG=H$                                                                
+241PUS G  KC=0.021 7$LC=0.0046 19$MC=0.0012 5                                   
+241PUS G  NC=0.00031 13$OC=8.E-5 4$PC=1.5E-5 6$QC=9.E-7 4                       
+241PU  L 645        9                                                           
+241PU2 L XREF=H$                                                                
+241PU  L 681          (1/2,3/2)                                                 
+241PU2 L XREF=C$                                                                
+241PU cL J$Populated strongly in average resonance (n,|g)                       
+241PU  L 755.1743  21 1/2+                                                      
+241PU2 L XREF=ABCFGH$FLAG=E$                                                    
+241PU cL J$M1 |g to 1/2+. Reaction data                                         
+241PU  G 593.488   4  100    1 M1                      0.186                    
+241PUS G  KC=0.1478 21$LC=0.0289 4$MC=0.00701 10                                
+241PUS G  NC=0.00191 3$OC=0.000474 7$PC=9.02E-5 13$QC=5.88E-6 9                 
+241PU cG M$|a(K)exp gives |d<0.64                                               
+241PU  G 755.154   14 21.5   19 E2                      0.0214                  
+241PUS G  KC=0.01496 21$LC=0.00479 7$MC=0.001227 18                             
+241PUS G  NC=0.000335 5$OC=8.15E-5 12$PC=1.470E-5 21$QC=6.14E-7 9               
+241PU cG M$|a(K)exp gives |d>3.2                                                
+241PU  L 769.270    4 1/2-                                                      
+241PU2 L XREF=ABCG$FLAG=K$                                                      
+241PU cL J$E1 |g's to 1/2+ and 3/2+. Fit to a band                              
+241PU  G 598.328   6  100    2 E1                      0.01021                  
+241PUS G  KC=0.00823 12$LC=0.001490 21$MC=0.000358 5                            
+241PUS G  NC=9.67E-5 14$OC=2.38E-5 4$PC=4.42E-6 7$QC=2.61E-7 4                  
+241PU  G 607.580   5  62.5   16E1                      0.00992                  
+241PUS G  KC=0.00800 12$LC=0.001446 21$MC=0.000347 5                            
+241PUS G  NC=9.38E-5 14$OC=2.31E-5 4$PC=4.29E-6 6$QC=2.54E-7 4                  
+241PU  L 779.1502  21 3/2-                                                      
+241PU2 L XREF=ACG$FLAG=K$                                                       
+241PU cL J$E1 |g's to 1/2+ and 5/2+                                             
+241PU  G 556.164   3  100    17E1                      0.01172                  
+241PUS G  KC=0.00944 14$LC=0.001724 25$MC=0.000414 6                            
+241PUS G  NC=0.0001120 16$OC=2.76E-5 4$PC=5.10E-6 8$QC=2.98E-7 5                
+241PU  G 608.229   9  14.8    6E1                      0.00990                  
+241PUS G  KC=0.00798 12$LC=0.001443 21$MC=0.000346 5                            
+241PUS G  NC=9.36E-5 14$OC=2.31E-5 4$PC=4.28E-6 6$QC=2.53E-7 4                  
+241PU  G 617.457   5  73.6   11E1                      0.00962                  
+241PUS G  KC=0.00777 11$LC=0.001401 20$MC=0.000336 5                            
+241PUS G  NC=9.09E-5 13$OC=2.24E-5 4$PC=4.15E-6 6$QC=2.47E-7 4                  
+241PU  L 784.1524  25 3/2+                                                      
+241PU2 L XREF=AB$FLAG=E$                                                        
+241PU cL J$M1 |g's to 1/2+ and 5/2+                                             
+241PU  G 561.168    4 100.0  23 M1(+E2)  0.66    LE     0.19   3                
+241PUS G  KC=0.150 23$LC=0.030 4$MC=0.0074 8                                    
+241PUS G  NC=0.00200 22$OC=0.00050 6$PC=9.4E-5 11$QC=6.0E-6 9                   
+241PU  G 622.464   14 8.5     6M1(+E2)   0.71    LE    0.142  23                
+241PUS G  KC=0.112 19$LC=0.023 3$MC=0.0055 7                                    
+241PUS G  NC=0.00149 19$OC=0.00037 5$PC=7.0E-5 10$QC=4.5E-6 8                   
+241PU  G 784.153   16 23.0    7 E2                      0.0198                  
+241PUS G  KC=0.01401 20$LC=0.00434 6$MC=0.001107 16                             
+241PUS G  NC=0.000302 5$OC=7.36E-5 11$PC=1.331E-5 19$QC=5.71E-7 8               
+241PU cG M$|a(K)exp gives |d>3.1                                                
+241PU  L    800.443 5 3/2+                                                      
+241PU2 L XREF=ABCFG$FLAG=H$                                                     
+241PU cL J$M1+E2 |g to 1/2+                                                     
+241PU  G 638.757   5  100.0  23M1+E2     0.68    22    0.114  18                
+241PU2 G FL=161.6853$                                                           
+241PUS G  KC=0.089 15$LC=0.0186 23$MC=0.0046 6                                  
+241PUS G  NC=0.00124 15$OC=0.00031 4$PC=5.8E-5 8$QC=3.6E-6 6                    
+241PU  G 758.494      37     LE                                                 
+241PU2 G FLAG=D$                                                                
+241PU  G 800.461      71     LE                                                 
+241PU2 G FLAG=C$                                                                
+241PU  L    800.479 6 5/2+                                                      
+241PU2 L XREF=AFG$FLAG=E$                                                       
+241PU cL J$M1+E2 |g to 3/2+. E2 |g to 9/2+                                      
+241PU  G 629.539   6  100.0  20M1+E2     0.57    23    0.128  19                
+241PU2 G FL=170.9399$                                                           
+241PUS G  KC=0.100 16$LC=0.0205 25$MC=0.0050 6                                  
+241PUS G  NC=0.00136 16$OC=0.00034 4$PC=6.4E-5 8$QC=4.0E-6 6                    
+241PU  G 704.70    14 6.2    17E2                      0.0247                   
+241PUS G  KC=0.01687 24$LC=0.00578 8$MC=0.001487 21                             
+241PUS G  NC=0.000406 6$OC=9.87E-5 14$PC=1.770E-5 25$QC=7.03E-7 10              
+241PU cG M$|a(K)exp gives |d>4.5                                                
+241PU  G 758.494      27     LE                                                 
+241PU2 G FLAG=D$                                                                
+241PU  G 800.461      52     LE                                                 
+241PU2 G FLAG=C$                                                                
+241PU  L 810.946    4  5/2-                                                     
+241PU2 L XREF=AFG$FLAG=K$                                                       
+241PU cL J$E1 |g's to 3/2+ and 7/2+                                             
+241PU  G 566.057   4  100     4E1                      0.01134                  
+241PUS G  KC=0.00913 13$LC=0.001664 24$MC=0.000400 6                            
+241PUS G  NC=0.0001081 16$OC=2.66E-5 4$PC=4.92E-6 7$QC=2.89E-7 4                
+241PU  G 587.953   24 8.5     9[E1]                    0.01055                  
+241PUS G  KC=0.00851 12$LC=0.001543 22$MC=0.000370 6                            
+241PUS G  NC=0.0001001 14$OC=2.47E-5 4$PC=4.57E-6 7$QC=2.69E-7 4                
+241PU  G 640.001   6  94      3E1                      0.00900                  
+241PUS G  KC=0.00727 11$LC=0.001306 19$MC=0.000313 5                            
+241PUS G  NC=8.47E-5 12$OC=2.09E-5 3$PC=3.88E-6 6$QC=2.31E-7 4                  
+241PU  L 831.587    7  5/2+                                                     
+241PU2 L XREF=AFGH$FLAG=H$                                                      
+241PU cL J$M1 |g to 7/2+. M1+E2 |g to 3/2+                                      
+241PU  G 586.703   16 16.4   17M1(+E2)   0.32    LE    0.185  8                 
+241PUS G  KC=0.146 7$LC=0.0289 11$MC=0.00701 24                                 
+241PUS G  NC=0.00191 7$OC=0.000474 17$PC=9.0E-5 4$QC=5.83E-6 25                 
+241PU  G 608.608   10 63.9   20M1+E2     0.54    +23-260.142  22                
+241PUS G  KC=0.112 18$LC=0.023 3$MC=0.0056 7                                    
+241PUS G  NC=0.00152 18$OC=0.00038 5$PC=7.1E-5 9$QC=4.5E-6 7                    
+241PU  G 660.625   13 100     5 M1+E2     0.54   24     0.114 17                
+241PUS G  KC=0.090 14$LC=0.0183 23$MC=0.0045 6                                  
+241PUS G  NC=0.00121 15$OC=0.00030 4$PC=5.7E-5 8$QC=3.6E-6 6                    
+241PU  G 789.63    4  37      4M1+E2     0.6     3     0.069  13                
+241PUS G  KC=0.054 10$LC=0.0110 17$MC=0.0027 4                                  
+241PUS G  NC=0.00073 11$OC=0.00018 3$PC=3.4E-5 6$QC=2.2E-6 4                    
+241PU  L 833.34    10  7/2-                                                     
+241PU2 L XREF=AFG$FLAG=K$                                                       
+241PU cL J$E1 |g to 9/2+. Fit to band                                           
+241PU  G 496.2     1           E1                      0.01462                  
+241PU2 G FL=337.1363                                                            
+241PUS G  KC=0.01174 17$LC=0.00217 3$MC=0.000523 8                              
+241PUS G  NC=0.0001414 20$OC=3.48E-5 5$PC=6.41E-6 9$QC=3.68E-7 6                
+241PU  L 834.839   17 3/2+,5/2+,7/2+                                            
+241PU2 L XREF=AE$                                                               
+241PU cL J$M1+E2 |g to 5/2+                                                     
+241PU  G 834.837   17           M1+E2     0.94   +25-20 0.048  7                
+241PUS G  KC=0.037 6$LC=0.0079 10$MC=0.00192 22                                 
+241PUS G  NC=0.00052 6$OC=0.000129 15$PC=2.4E-5 3$QC=1.48E-6 22                 
+241PU  L 841.9574  22 1/2-                                                      
+241PU2 L XREF=ABFG$FLAG=L$                                                      
+241PU cL J$E1 |g's to 1/2+ and 3/2+. Fit to band                                
+241PU  G 57.806    2 17.6    27E1                      0.555                    
+241PUS G  LC=0.416 6$MC=0.1037 15                                               
+241PUS G  NC=0.0277 4$OC=0.00649 9$PC=0.001012 15$QC=3.26E-5 5                  
+241PU  G 86.783    1  35.6   16E1                      0.191                    
+241PUS G  LC=0.1436 21$MC=0.0354 5                                              
+241PUS G  NC=0.00951 14$OC=0.00226 4$PC=0.000372 6$QC=1.381E-5 20               
+241PU  G 671.007   9  81      4E1                      0.00824                  
+241PUS G  KC=0.00667 10$LC=0.001192 17$MC=0.000286 4                            
+241PUS G  NC=7.72E-5 11$OC=1.91E-5 3$PC=3.54E-6 5$QC=2.13E-7 3                  
+241PU  G 680.274   16 100.0  27(E1)                    0.00804                  
+241PU3 G FL=161.6853                                                            
+241PUS G  KC=0.00650 10$LC=0.001161 17$MC=0.000278 4                            
+241PUS G  NC=7.52E-5 11$OC=1.86E-5 3$PC=3.45E-6 5$QC=2.08E-7 3                  
+241PU  L 850.5394  21  3/2-                                                     
+241PU2 L XREF=ABCFG$FLAG=L$                                                     
+241PU cL J$E1 |g'a to 1/2+ and 5/2+                                             
+241PU  G 71.390    2  3.15   23M1+E2     0.10    +4-5  15.7   7                 
+241PUS G  LC=11.8 5$MC=2.88 13                                                  
+241PUS G  NC=0.79 4$OC=0.195 9$PC=0.0368 13$QC=0.00231 4                        
+241PU  G 95.365    1  5.8     3E1                      0.1495                   
+241PUS G  LC=0.1123 16$MC=0.0277 4                                              
+241PUS G  NC=0.00743 11$OC=0.001770 25$PC=0.000294 5$QC=1.128E-5 16             
+241PU  G 627.552   5  100.0  19E1                      0.00933                  
+241PUS G  KC=0.00754 11$LC=0.001357 19$MC=0.000325 5                            
+241PUS G  NC=8.80E-5 13$OC=2.17E-5 3$PC=4.03E-6 6$QC=2.40E-7 4                  
+241PU  G 688.851   14 50.8   18E1                      0.00785                  
+241PUS G  KC=0.00636 9$LC=0.001133 16$MC=0.000271 4                             
+241PUS G  NC=7.34E-5 11$OC=1.81E-5 3$PC=3.37E-6 5$QC=2.03E-7 3                  
+241PU  L 863        2                                                           
+241PU2 L XREF=FG$                                                               
+241PU  L 869.383    7  7/2+                                                     
+241PU2 L XREF=A$FLAG=E$                                                         
+241PU cL J$M1+E2 |g's to 5/2+ and 9/2+                                          
+241PU  G 68.904    2  15      3M1+E2     0.14    5     18.1   12                
+241PUS G  LC=13.6 9$MC=3.35 25                                                  
+241PUS G  NC=0.91 7$OC=0.226 16$PC=0.0423 25$QC=0.00255 5                       
+241PU  G 773.59    4  100    11M1+E2     1.2     +4-3  0.050  11                
+241PUS G  KC=0.038 9$LC=0.0084 14$MC=0.0021 4                                   
+241PUS G  NC=0.00057 9$OC=0.000140 23$PC=2.6E-5 5$QC=1.5E-6 4                   
+241PU  L 877        2 (7/2+)                                                    
+241PU2 L XREF=FH$FLAG=H$                                                        
+241PU cL J$Fit to band                                                          
+241PU  L 897.503   22 (5/2-)                                                   ?
+241PU2 L XREF=AFG$FLAG=GL$                                                      
+241PU  G 726.562   22          (E1+M2)   0.24    4     0.021  5                ?
+241PU2 G FLAG=I$                                                                
+241PUS G  KC=0.016 4$LC=0.0035 9$MC=0.00087 21                                  
+241PUS G  NC=0.00024 6$OC=5.9E-5 15$PC=1.1E-5 3$QC=6.9E-7 17                    
+241PU  L 898        2  (9/2+)                                                   
+241PU2 L XREF=FG$FLAG=E$                                                        
+241PU cL J$Fit to band. Reaction data. Not resolved from 5/2+ in (d,p) and      
+241PU2cL (d,t) datasets                                                         
+241PU  L 918        2 (7/2-)                                                    
+241PU2 L XREF=FG$FLAG=GL$                                                       
+241PU  L 929.70    20 3/2,5/2,7/2                                               
+241PU2 L XREF=E$                                                                
+241PU cL J$log| {Ift}=7.0 from 5/2+                                             
+241PU  G 929.7     2                                                            
+241PU cG E,RI$From |b{+-} decay                                                 
+241PU  L 931        2 (9/2+)                                                    
+241PU2 L XREF=FGH$FLAG=H$                                                       
+241PU cL J$Fit to band. Reaction data                                           
+241PU  L 937        2 (11/2-)                                                   
+241PU2 L XREF=FG$FLAG=K$                                                        
+241PU cL J$Fit to band                                                          
+241PU  L 940.311   10  3/2+                                                     
+241PU2 L XREF=ABC$                                                              
+241PU cL J$M1+E2 |g to 5/2+. Fed by primary from 1/2+ capture state             
+241PU  G 185.132   22 0.18    9                                                 
+241PU  G 765.23     3 9.6     7                                                 
+241PU  G 940.315   12 100     4 M1+E2     1.09   +28-21 0.032  5                
+241PUS G  KC=0.025 4$LC=0.0053 7$MC=0.00130 15                                  
+241PUS G  NC=0.00035 4$OC=8.8E-5 10$PC=1.65E-5 20$QC=1.00E-6 15                 
+241PU  L 942.584    5 3/2+                                                      
+241PU2 L XREF=AB$                                                               
+241PU cL J$M1+E2 |g to 1/2+                                                     
+241PU  G 187.414   6  2.2     5M1+E2     1.1     3     2.6    6                 
+241PUS G  KC=1.7 6$LC=0.688 11$MC=0.180 4                                       
+241PUS G  NC=0.0493 11$OC=0.01193 20$PC=0.00209 5$QC=7.3E-5 21                  
+241PU  G 771.64    4  8       5M1+E2     1.5     +52-7 0.043  22                
+241PUS G  KC=0.033 18$LC=0.008 3$MC=0.0019 7                                    
+241PUS G  NC=0.00051 19$OC=0.00013 5$PC=2.3E-5 10$QC=1.3E-6 7                   
+241PU  G 780.889    8 100.0  17 M1+E2     0.57   23     0.072 10                
+241PU3 G FL=161.6853                                                            
+241PUS G  KC=0.057 9$LC=0.0115 14$MC=0.0028 4                                   
+241PUS G  NC=0.00076 9$OC=0.000189 23$PC=3.6E-5 5$QC=2.3E-6 4                   
+241PU  G 942.58     4 26      3                                                 
+241PU  L 950        3                                                           
+241PU2 L XREF=FG$                                                               
+241PU  L 964.940   10  1/2-                                                     
+241PU2 L XREF=ABCFG$FLAG=I$                                                     
+241PU cL J$M1 |g to 1/2-. Fit to band. Reaction data                            
+241PU  G 195.669   10 3.5     5M1                      3.93                     
+241PUS G  KC=3.11 5$LC=0.621 9$MC=0.1511 22                                     
+241PUS G  NC=0.0411 6$OC=0.01023 15$PC=0.00195 3$QC=0.0001271 18                
+241PU  G 793.95    5  100     8[E1]                    0.00607                  
+241PUS G  KC=0.00493 7$LC=0.000866 13$MC=0.000207 3                             
+241PUS G  NC=5.60E-5 8$OC=1.384E-5 20$PC=2.58E-6 4$QC=1.588E-7 23               
+241PU  G 803.265   19 53.9   15E1                      0.00595                  
+241PU3 G FL=161.6853                                                            
+241PUS G  KC=0.00483 7$LC=0.000848 12$MC=0.000203 3                             
+241PUS G  NC=5.48E-5 8$OC=1.355E-5 19$PC=2.53E-6 4$QC=1.557E-7 22               
+241PU  L 974        2                                                           
+241PU2 L XREF=FG$                                                               
+241PU  L 994        3 (11/2+)                                                   
+241PU2 L XREF=FGH$FLAG=H$                                                       
+241PU cL J$Fit to band. Reaction data                                           
+241PU  L 995.603   11 3/2-                                                      
+241PU2 L XREF=ABCFG$FLAG=I$                                                     
+241PU cL J$E1 |g's to 1/2+ and 5/2+                                             
+241PU  G 772.645   21 60      6E1                      0.00638                  
+241PUS G  KC=0.00517 8$LC=0.000912 13$MC=0.000218 3                             
+241PUS G  NC=5.90E-5 9$OC=1.457E-5 21$PC=2.72E-6 4$QC=1.665E-7 24               
+241PU  G 833.904   13 100    4 E1                      0.00557                  
+241PUS G  KC=0.00452 7$LC=0.000791 11$MC=0.000189 3                             
+241PUS G  NC=5.11E-5 8$OC=1.264E-5 18$PC=2.36E-6 4$QC=1.460E-7 21               
+241PU  L 1009.438   7  3/2-                                                     
+241PU2 L XREF=ABG$                                                              
+241PU cL J$M1 |g's to 1/2- and 5/2-                                             
+241PU  G 240.167   12 8.2    10M1(+E2)   0.33    LE    2.13   10                
+241PUS G  KC=1.67 9$LC=0.343 8$MC=0.0838 15                                     
+241PUS G  NC=0.0228 4$OC=0.00567 11$PC=0.001073 24$QC=6.8E-5 4                  
+241PU  G 490.624    9 38      3 M1(+E2)   0.6    LE     0.28   4                
+241PUS G  KC=0.22 3$LC=0.044 5$MC=0.0108 10                                     
+241PUS G  NC=0.0029 3$OC=0.00073 7$PC=0.000138 14$QC=8.8E-6 12                  
+241PU  G 786.454   16 100     6[E1]                    0.00618                  
+241PUS G  KC=0.00501 7$LC=0.000882 13$MC=0.000211 3                             
+241PUS G  NC=5.70E-5 8$OC=1.409E-5 20$PC=2.63E-6 4$QC=1.614E-7 23               
+241PU  L 1020      3 (1/2,3/2)                                                  
+241PU2 L XREF=CF$                                                               
+241PU cL J$Average resonance capture to E(level)=1016. If different from        
+241PU2cL the 1020 (d,p) level, then there is a (1/2,3/2) level at 1016          
+241PU2cL and a level at 1020 with unknown J|p                                   
+241PU  L 1049        (1/2,3/2)                                                  
+241PU2 L XREF=C$                                                                
+241PU cL J$Populated strongly in average resonance (n,|g)                       
+241PU  L 1062       3                                                           
+241PU2 L XREF=G$                                                                
+241PU  L 1073         (1/2,3/2)                                                 
+241PU2 L XREF=CF$                                                               
+241PU cL J$Populated in average resonance (n,|g)                                
+241PU  L 1084       3                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1090.023   5 3/2-                                                      
+241PU2 L XREF=ABCGH$                                                            
+241PU cL J$M1+E2 |g to 1/2-                                                     
+241PU  G 239.493   8  72      7M1(+E2)   0.35    LE    2.13   11                
+241PUS G  KC=1.67 10$LC=0.346 8$MC=0.0844 16                                    
+241PUS G  NC=0.0230 5$OC=0.00571 12$PC=0.00108 3$QC=6.8E-5 4                    
+241PU  G 248.066   6  100     8M1+E2     0.28    5     1.90   5                 
+241PUS G  KC=1.49 5$LC=0.311 6$MC=0.0760 12                                     
+241PUS G  NC=0.0207 4$OC=0.00513 9$PC=0.000970 17$QC=6.08E-5 17                 
+241PU  G 320.746   7  74      5M1(+E2)   0.47    LE    0.92   8                 
+241PUS G  KC=0.72 7$LC=0.148 8$MC=0.0363 17                                     
+241PUS G  NC=0.0099 5$OC=0.00245 12$PC=0.000463 25$QC=2.9E-5 3                  
+241PU  L 1118       3                                                           
+241PU2 L XREF=G$                                                                
+241PU  L 1173         (1/2,3/2)                                                 
+241PU2 L XREF=C$                                                                
+241PU cL J$Populated in average resonance (n,|g)                                
+241PU  L 1179       2 (9/2+)                                                    
+241PU2 L XREF=GH$                                                               
+241PU cL J$From ({+3}He,|a)                                                     
+241PU  L 1196         (1/2,3/2)                                                 
+241PU2 L XREF=C                                                                 
+241PU cL J$Populated in average resonance (n,|g)                                
+241PU  L 1206       3                                                           
+241PU2 L XREF=FG$                                                               
+241PU  L 1223.841   9 1/2,3/2                                                   
+241PU2 L XREF=ABF$                                                              
+241PU cL J$Fed by primary from 1/2+ capture state. The two deexciting           
+241PU2cL transitions have mult=E1, but the 444|g feeds a 3/2- level and         
+241PU3cL the 1053|g feeds a 3/2+ level. One or both of these transitions        
+241PU4cL must belong elsewhere                                                  
+241PU  G 444.687   9  15.4   22E1                      0.0182                  ?
+241PUS G  KC=0.01454 21$LC=0.00273 4$MC=0.000659 10                             
+241PUS G  NC=0.0001781 25$OC=4.37E-5 7$PC=8.02E-6 12$QC=4.51E-7 7               
+241PU cG M$See comment on J|p(1224 level)                                       
+241PU  G 1052.93   3  100    5 E1                      0.00370                 ?
+241PUS G  KC=0.00302 5$LC=0.000519 8$MC=0.0001236 18                            
+241PUS G  NC=3.34E-5 5$OC=8.28E-6 12$PC=1.555E-6 22$QC=9.86E-8 14               
+241PU cG M$See comment on J|p(1224 level)                                       
+241PU  L 1244       3                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1253.792  13 1/2-,3/2-                                                 
+241PU2 L XREF=ABF                                                               
+241PU cL J$E1 |g's to 1/2+ and 3/2+                                             
+241PU  G 403.260   14 6.9    10M1+E2     2.9     +9-6  0.137  24                
+241PUS G  KC=0.085 20$LC=0.038 3$MC=0.0100 6                                    
+241PUS G  NC=0.00275 17$OC=0.00066 5$PC=0.000117 9$QC=3.8E-6 8                  
+241PU  G 1082.80   4  70      4E1                      0.00353                  
+241PUS G  KC=0.00288 4$LC=0.000493 7$MC=0.0001176 17                            
+241PUS G  NC=3.18E-5 5$OC=7.88E-6 11$PC=1.481E-6 21$QC=9.42E-8 14               
+241PU  G 1092.08   5  100     6E1                      0.00348                  
+241PUS G  KC=0.00284 4$LC=0.000486 7$MC=0.0001158 17                            
+241PUS G  NC=3.13E-5 5$OC=7.76E-6 11$PC=1.459E-6 21$QC=9.28E-8 13               
+241PU  L 1268.86    5 1/2,3/2                                                   
+241PU2 L XREF=B$                                                                
+241PU cL J$Fed by primary from 1/2+ capture state                               
+241PU  L 1277       4                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1288       4                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1296.70    5 3/2-                                                      
+241PU2 L XREF=ABF$                                                              
+241PU cL J$M1+E2 |g to 5/2-. Fed by primary from 1/2+ capture state             
+241PU  G 496.217      377    LE(E1)                    0.01462                  
+241PU2 G FL=800.443$                                                            
+241PUS G  KC=0.01174 17$LC=0.00217 3$MC=0.000523 8                              
+241PUS G  NC=0.0001414 20$OC=3.48E-5 5$PC=6.41E-6 9$QC=3.68E-7 6                
+241PU  G 777.89    5  100    10M1+E2     0.88    +30-240.060  11                
+241PUS G  KC=0.047 9$LC=0.0098 14$MC=0.0024 4                                   
+241PUS G  NC=0.00065 9$OC=0.000162 23$PC=3.0E-5 5$QC=1.9E-6 4                   
+241PU  L 1309       4                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1316.24   10 1/2,3/2                                                   
+241PU2 L XREF=B$                                                                
+241PU cL J$Fed by primary from 1/2+ capture state                               
+241PU  L 1347       3                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1351.60   20 1/2,3/2                                                   
+241PU2 L XREF=BF$                                                               
+241PU cL J$Fed by primary from 1/2+ capture state                               
+241PU  L 1357.682  22 1/2,3/2                                                   
+241PU2 L XREF=ABF$                                                              
+241PU cL J$Fed by primary from 1/2+ capture state. The two de-exciting          
+241PU2cL transitions have mult=M1 or M1+E2, but the 516|g feeds a 1/2- level    
+241PU3cL and the 603|g feeds a 1/2+ level. One or both of these transitions     
+241PU4cL must belong elsewhere                                                  
+241PU  G 515.70    3  46     9 M1+E2     1.0     +5-3  0.16   5                ?
+241PUS G  KC=0.12 4$LC=0.028 6$MC=0.0070 13                                     
+241PUS G  NC=0.0019 4$OC=0.00047 9$PC=8.8E-5 17$QC=5.0E-6 14                    
+241PU cG M$See comment on J|p(1358 level)                                       
+241PU  G 602.53    3  100    23M1(+E2)   0.82    LE    0.15   3                ?
+241PUS G  KC=0.118 25$LC=0.024 4$MC=0.0058 9                                    
+241PUS G  NC=0.00159 24$OC=0.00039 6$PC=7.5E-5 12$QC=4.7E-6 10                  
+241PU cG M$See comment on J|p(1358 level)                                       
+241PU  L 1362.83    8                                                           
+241PU2 L XREF=B$                                                                
+241PU  L 1384       3                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1390       6                                                           
+241PU2 L XREF=G$                                                                
+241PU  L 1441       4                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1452       5                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1472.08   12                                                           
+241PU2 L XREF=BG$                                                               
+241PU  L 1478.18   13                                                           
+241PU2 L XREF=B$                                                                
+241PU  L 1489       5                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1501.32   21                                                           
+241PU2 L XREF=B$                                                                
+241PU  L 1505.21   19                                                           
+241PU2 L XREF=B$                                                                
+241PU  L 1513.97   10                                                           
+241PU2 L XREF=B$                                                                
+241PU  L 1523.73    5                                                           
+241PU2 L XREF=B$                                                                
+241PU  L 1530.91   20                                                           
+241PU2 L XREF=B$                                                                
+241PU  L 1546       5                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1594                                                                   
+241PU2 L XREF=F$                                                                
+241PU  L 1611.02    3                                                           
+241PU2 L XREF=B$                                                                
+241PU  L 1762       3                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1801       4                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1826       4                                                           
+241PU2 L XREF=F$                                                                
+241PU  L 1868       5(15/2)-                                                    
+241PU2 L XREF=H$                                                                
+241PU cL J$L=7 in ({+3}He,|a). 1971El02 propose the configuration 15/2-,5/2[752]
+241PU  L 1944       5                                                           
+241PU2 L XREF=H$                                                                
+241PU  L 1991       4                                                           
+241PU2 L XREF=H$                                                                
+241PU  L 2045      AP                                                          ?
+241PU2 L XREF=H$                                                                
+241PU  L 2199        (1/2,3/2)                                                  
+241PU2 L XREF=C$                                                                
+241PU cL J$Populated strongly in average resonance (n,|g)                       
+241PU  L 2200      AP                  20.5 US   22                          M1 
+241PU DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+241PU2 L %SF=100                                                                
+241PU cL           Only SF decay has been observed.                             
+241PU cL           |G(|g)/|G(SF)<1 (no ce 161|g, 169|g observed) (1976BeZM)     
+241PU cL           Theoretical calculations by 1972We09 estimate                
+241PU2cL T{-1/2}(SF)/T{-1/2}(|g)=4.4|*10{+-6}/2.8|*10{+-4}.                     
+241PU cL $No |a with E>7 MeV and T{-1/2}=10 |ms - 0.01 s                        
+241PU2cL was observed (1973Be05).                                               
+241PU cL T$From 1981Gu04. Others: 23 |ms {I1} (1970Ga10), 27 |ms {I3} (1970Po01)
+241PU cL E$2.1 MeV (from spacings in neutron resonances, 1968Mi14),             
+241PU2cL 2.90 MeV {I15} (from excitation threshold, 1970Ga10),                  
+241PU3cL 2.6 MeV {I3} (deduced by from data of 1970Ga10),                       
+241PU4cL 2.0 MeV {I2} (from neutron resonance structure, 1973Br38).             
+241PU5cL See 1972We09 for calculated level energy.                              
+241PU cL           Assignment: {+242}Pu(|g,n) excit (1970Ga10);                 
+241PU2cL {+241}Pu(d,pn) excit; {+240}Pu(d,p) (1970Po01).                        
+241PU  L 2200+X                        32 NS     5                           M2 
+241PU DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+241PU2 L %SF=100                                                                
+241PU cL           Only SF activity has been observed.                          
+241PU cL T$Weighted mean from measured values of 30 ns {I5} (1969La14) and      
+241PU2cL 34 ns {I7} (1981Gu04).                                                 
+241PU cL E         the value of 'x' is not known. It could be a negative        
+241PU2cL number. Systematics of short-lived SF isomers in plutonium             
+241PU2cL isotopes suggest that x |?100 keV.                                     
+241PU cL           Assignment: {+240}Pu(13-MeV d,p) (1969La14);                 
+241PU2cL {+242}Pu(|g,n) (1981Gu04).                                             

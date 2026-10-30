@@ -1,0 +1,45 @@
+251BK    255ES A DECAY                 1966Rg01,1967Fi03,1970HoZN23NDS    202305
+251BK  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251BK cA E$From 1967Fi03 unless otherwise noted.                                
+251BK cL E$From least-squares fit to |g-ray energies, unless otherwise noted.   
+251BK cL E(A)$From |DE{-|a}.                                                    
+251BK cL J$From Adopted Levels.                                                 
+251BK cL J(B)$Inferred from K=7/2 rotational structure built on 35.7 keV level  
+251BK2cL (1967Fi03).                                                            
+251BK cA HF$The nuclear radius parameter r{-0}({+251}Bk)=1.508 {I14} is         
+251BK2cA deduced from interpolation (or unweighted average) of radius           
+251BK3cA parameters of the adjacent even-even nuclides (2020Si16).              
+251BK CL BAND(C)$7/2+ band (1967Fi03).                                          
+251BK cG E$From |a-|g coincidence (1978Lo13, citing 1970HoZN)                   
+255ES  P 0            (7/2+)            39.8 D    12             6436.3   13    
+255ES cP T$From 1966Rg01.                                                       
+255ES cP QP$From 2021Wa16                                                       
+251BK  N                        0.080  4                                        
+251BK cN BR$From %|a/%|b{+-}=0.087 {I4} and %|b{+-}/%SF=2.22|*10{+4} {I10}      
+251BK2cN (1967Fi03).                                                            
+251BK  L 0            (3/2-)                                                    
+251BK  A 6339      AP                                                           
+251BK cA E$From 1970HoZN                                                        
+251BK  L 32.6      10 (5/2-)                                                    
+251BK  G 32.6                                                                   
+251BK  L 35.5      14 (7/2+)            40 US     3                         C   
+251BKF L FLAG=B                                                                 
+251BK cL T$From |a-X-ray coincidence (1970HoZN)                                 
+251BK cL E$Stated in 1978Lo13, citing 1970HoZN                                  
+251BK  A 6306        87.7      1.8                                              
+251BK cA $1966Rg01 reports 6300 keV {I3} but not other |a decays. The           
+251BK2cA evaluator has opted to adopt the more complete set of |a-decay         
+251BK3cA energies, noting this measurement for reference.                       
+251BK  L 72           (9/2+)                                                C   
+251BKF L FLAG=AB                                                                
+251BK  A 6267        9.8       11                                               
+251BK  L 123          (11/2+)                                               C   
+251BKF L FLAG=AB                                                                
+251BK  A 6219        2.5       24                                               
+251BK  L 269.1     10 (5/2+)                                                    
+251BK  G 233.6                                                                  
+251BK  G 269.1                                                                  
+251BK  A 6070                                                                  S
+251BK cA E$1978Lo13 cites 1970HoZN in claiming the 269.1-keV |g ray is          
+251BK2cA observed in |a-|g coincidence, but does not provide the |a-particle    
+251BK3cA energy.                                                                

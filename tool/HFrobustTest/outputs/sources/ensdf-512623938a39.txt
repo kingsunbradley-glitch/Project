@@ -1,0 +1,72 @@
+211RA    215TH A DECAY                 2005KU31,2000HE17,1968VA1813NDS    201306
+211RA  H TYP=FUL$AUT=D. ABRIOLA, P. DEMETRIOU, M. HASSANVAND, M. HUSSAIN$       
+211RA2 H CIT=NDS 114, 661 (2013)$CUT=28-FEB-2013$                               
+211RA c  2005Ku31: {+215}Th recoils from the {+170}Er({+50}Ti,5n) reaction      
+211RA2c  were separated from the beam using a velocity filter SHIP at GSI and   
+211RA3c  implanted into a position-sensitive 16-strip PIPS semiconductor        
+211RA4c  detector. Measured (recoil)-|g-|a-|g coincidences-correlations and     
+211RA5c  |g-rays.  Ge-Clover detector was used for |g measurements. Measured    
+211RA6c  E|a, E|g, I|g.                                                         
+211RA c  2000He17: {+215}Th recoils from the {+170}Er({+51}V,p5n) reaction      
+211RA2c  were separated from the beam using a velocity filter and implanted     
+211RA3c  into a position-sensitive semiconductor detector. Measured E|a, E|g,   
+211RA4c  |a-|g coin. Detector: Ge for |g rays.                                  
+211RA c  1973Mi03: {+215}Th recoils from the {+182}W({+35}Cl,pn) reaction were  
+211RA2c  separated with the JAERI recoil separator and implanted into a PSSD.   
+211RA3c  Measured E|a, T{-1/2}.                                                 
+211RA c  1968Va18: Activity produced by {+206}Pb({+16}O,7n). Measured E|a,      
+211RA2c  I|a. Semiconductor detector.                                           
+211RA cA E$From weighted average of values from 2005Ku31, 2000He17, 1968Va18,   
+211RA2cA unless otherwise stated                                                
+211RA cA IA$From 1968Va18, unless otherwise stated                              
+211RA cA HF$Using r{-0}({+211}Ra)=1.479 {I11}; interpolated value deduced from  
+211RA2cA r{-0}({+212}Ra)=1.466 {I6} and r{-0}({+210}Ra)=1.492 {I16} (1998Ak04). 
+211RA cG E$From weighted average of values from 2005Ku31 and 2000He17, unless   
+211RA2cG otherwise stated                                                       
+211RA cG M$From comparison of |a(exp) and |a from BrIcc.                        
+211RA cG $|a(exp): determined from ratio of observed |a-|g coincidences and     
+211RA2cG calculated ones for a given |a line (2005Ku31)                         
+211RA cL E,J,T$From Adopted Levels                                              
+215TH  P 0.0          (1/2-)            1.2 S     2              7665     4     
+215TH cP QP$From 2012Wa38. From average E|a of |a feeding g.s. of {+211}Ra      
+215TH2cP evaluators obtain the same value                                       
+211RA  N 0.1404       0.1404    1.0                                             
+211RA cN BR$%|a=100 from Adopted Levels of {+215}Th in ENSDF database           
+211RA PN                                                                     3  
+211RA  L 0.0          5/2(-)            13 S      2                             
+211RA  A 7522      4 39.6    30  7.1   14                                       
+211RA cA E$weighted average of values from 1968Va18, 1997Mi03, 2000He17,        
+211RA2cA and 2005Ku31                                                           
+211RA cA $2005Ku31 were unable to measure I|a but determined that I|a<52        
+211RA  L 133.86    10 (1/2-)                                                    
+211RA  A 7392      3 51.5    30  1.9   4                                        
+211RA cA $2005Ku31 were unable to measure I|a but determined that I|a>41        
+211RA  G 133.88    10 100    3  E2                      2.78     378      11    
+211RA2 G ECC=2.5 5                                                              
+211RAS G KC=0.296 5$LC=1.82 3$MC=0.496 8$NC=0.1310 19$OC=0.0279 4$PC=0.00407 6$ 
+211RAS G QC=2.20E-5 4$NC+=0.1630 24                                             
+211RA cG $I(K| X ray)=77 {I7} relative to I|g(133.9)=100 {I3}                   
+211RA  L 194.54    13 (3/2-)                                                    
+211RA  A 7334      4 7.9     30   8    4                                        
+211RA cA $2005Ku31 were unable to measure I|a but determined that I|a>6         
+211RA  G 60.9      3  1.5    4  (M1,E2)                 57    44 87       23    
+211RAS G LC=47 37$MC=11 9$NC=3.0 24$OC=0.6 5$PC=0.09 7$QC=0.0012 8$NC+=4 3      
+211RA cG $|g observed only by 2005Ku31.                                         
+211RA cG RI$from I|g(60.9)/I|g(194.5)=11 {I4}/100 {I6}                          
+211RA  G 194.49    14 14     2  M1                      2.37     47       7     
+211RA2 G ECC=3.8 17                                                             
+211RAS G KC=1.90 3$LC=0.352 5$MC=0.0840 12$NC=0.0222 4$OC=0.00506 8$            
+211RAS G PC=0.000881 13$QC=6.91E-5 10$NC+=0.0282 4                              
+211RA  L 295.1     3  (3/2-)                                                    
+211RA  A 7236      7 1.0     4    28   13                                       
+211RA cA $|a decay measured only by 2005Ku31.                                   
+211RA  G 295.1     3  1.2    4  (M1)                    0.742    2.1      7     
+211RA2 G ECC=1.0 5                                                              
+211RAS G KC=0.597 9$LC=0.1096 16$MC=0.0262 4$NC=0.00690 10$OC=0.001574 23$      
+211RAS G PC=0.000275 4$QC=2.15E-5 3$NC+=0.00877 13                              
+211RA cG $|g observed only by 2005Ku31.                                         
+211RA cG M$from comparison of |a(exp) with |a(M1,theory)=0.742 and              
+211RA2cG |a{+E3}(theo)=1.1, M1 and E3 are possible;  Weisskopf half-life        
+211RA3cG estimates for M1 T{-1/2}=8.57|*10{+-7} |ms {I7} and E3 T{-1/2}=2.36 ms 
+211RA4cG {I4} rule out E3 since |g ray is observed to be prompt according to    
+211RA5cG 2005Ku31.                                                              

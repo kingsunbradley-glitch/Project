@@ -1,0 +1,37 @@
+242ES    ADOPTED LEVELS, GAMMAS                                  22NDS    202211
+242ES  H TYP=FUL$AUT=M.J. Martin, C.D. Nesaraja$CIT=NDS 186, 261 (2022)$        
+242ES2 H CUT=31-Dec-2021$                                                       
+242ES  Q -3600     SY 7160   SY 1810   SY 8160   20    2021WA16                 
+242ES cQ $|DQ(|b{+-})=480, |DS(n)=350, |DS(p)=310 (syst,2021Wa16)               
+242ES cQ $S(2n)=15570 {I450}, S(2p)=5440 {I300}, Q(|ep)=1530 {I310}             
+242ES2cQ (syst,2021Wa16)                                                        
+242ES c                                                                         
+242ES c  Assignment:                                                            
+242ES2c  1994La25:{+209}Bi(230-MeV {+40}Ar,3n){+246}Md(|a decay),               
+242ES3c           {+208}Pb(230-MeV {+37}Cl,3n), p {+242}Cf and {+238}Bk         
+242ES c  1996Ni09:{+209}Bi(191.2-,197.2-, 204.8-MeV {+40}Ar,3n)                 
+242ES c  2000Sh10:{+233}U(87-MeV {+14}N,5n), p {+242}Cf                         
+242ES c                                                                         
+242ES  XA246MD A DECAY (0.9 S)                                                  
+242ES  XB246MD A DECAY (4.4 S)                                                  
+242ES cG E(A)$The relative order of the 252 and 279 |g's has not been           
+242ES2cG established                                                            
+242ES  L 0.0                           17.8 S    16                             
+242ESX L XREF=AB$                                                               
+242ES2 L %A=57 3$%EC+%B+=43 3$                                                  
+242ES cL %EC$From 2010An08.                                                     
+242ES cL T$From 2010An08. Others: 11 s {I3} (2000Sh10), 16 s {I+6-4}            
+242ES2cL (1996Ni09)                                                             
+242ES cL $Probability of |e-delayed fission=1.3% {I+12-7} (2010An08),           
+242ES2cL 0.6% {I2} (2000Sh10)                                                   
+242ES  L 218       50                                                           
+242ESX L XREF=A$                                                                
+242ES  L 252.0                                                                 ?
+242ESX L XREF=B$                                                                
+242ES cL E$Or 279 depending on the order of the 252-279 cascade                 
+242ES  G 252.0                                                                  
+242ES2 G FLAG=A$                                                                
+242ES  L 531.0                                                                  
+242ESX L XREF=B$                                                                
+242ES  G 279.0                                                                  
+242ES2 G FLAG=A$                                                                

@@ -1,0 +1,132 @@
+225AC    ADOPTED LEVELS, GAMMAS                                  ENSDF    202207
+225AC  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=25-OCT-2019$                    
+225AC  Q -673      7 6668    6 4478    5 5935.1  14    2017WA10                 
+225AC cQ $S(2n)=12331 {I8}, S(2p)=11323 {I5} (2017Wa10)                         
+225AC c  1947En03, 1947Ha02: {+225}Ac identified from decay product of          
+225AC2c  {+233}U series.                                                        
+225AC c  1950Ha52: chemical separation of {+225}Ac.                             
+225AC c  1972Ku26: fission isomer not observed in {+226}Ra(d,3n),E=11.3 MeV     
+225AC c  1988Le13: level energies were calculated for a deformed shell model    
+225AC2c  (including octupole deformation) coupled to a reflection-asymmetric    
+225AC3c  rotor core. The quadrupole deformation of |b{-2}=0.144 was used in     
+225AC4c  calculations, and an octupole deformation of |b{-3}|?0.1               
+225AC5c  was suggested.                                                         
+225AC c  Theoretical studies: consult the NSR database at www.nndc.bnl.gov for  
+225AC2c  14 references dealing with theoretical calculations for structure      
+225AC3c  (levels, J|p, transition probabilities, etc.), and 62 for radioactive  
+225AC3c  decay modes, in particular about {+14}C cluster emission.              
+225AC d  Theoretical study on cluster radioactivity:                            
+225AC2d  2008Bh05, 2005Bh02, 2005Ku04, 2005Ku32, 2004Ad41, 2004Ba64,            
+225AC3d  2002Ba80, 2002Du16, 2002Sa55, 2002Ya04, 1999Mi09, 1998Mi30,            
+225AC4d  1997Ka11, 1995Si05, 1994Bu07, 1993Gu11, 1993Ka21, 1993Si26,            
+225AC5d  1990Bu13, 1989Ci03, 1988Sh29, 1987Sh04, 1987Po08, 1986Po15, 1985Po12.  
+225AC cG E,RI,M,MR$From {+229}Pa |a decay, unless otherwise stated.             
+225AC2cG Only the 40.09-keV transition is seen in {+225}Ra |b{+-} decay         
+225AC cG CC(y)$For |d=0.5 {I5} in analogy with the mixing ratio for 120.80|g    
+225AC cL E$From {+229}Pa |a decay                                               
+225AC cL J$From probable band assignments, in addition to some other arguments  
+225AC CL BAND(A)$|p3/2[532] band.                                               
+225AC CL BAND(B)$|p3/2[651] band.                                               
+225AC CL BAND(C)$|p5/2[523] band.                                               
+225AC CL BAND(D)$|p5/2[642] band.                                               
+225AC  XA225RA B- DECAY (14.9 D)                                                
+225AC  XB229PA A DECAY (1.50 D)                                                 
+225AC PN                                                                     6  
+225AC  L  0.0         (3/2-)           9.920 D   3                          A   
+225ACX L XREF=AB                                                                
+225AC2 L %A=100 $ %14C=5.3E-10 13 (2001Gu33,1993Bo26)                           
+225AC cL T$from 2012Po14 (from decay curves for |a counting using a planar      
+225AC2cL silicon detector at a defined solid angle and in a nearly 2|p geometry,
+225AC2cL 4|p|a+|b counting using a windowless CsI spectrometer, and a           
+225AC4cL pressurized proportional counter, gamma-ray counting with an HPGe      
+225AC5cL detector and a NaI(Tl) well detector, followed for 59-141 days; final  
+225AC6cL result is deduced from six detection methods, with consideration of    
+225AC7cL statistical and systematic uncertainties). Previous measurements:      
+225AC8cL 10.0 d {I1} (1950Ha52), 10 d (1947En03)                                
+225AC cL $2001Gu33: {+14}C decay mode measurement at the CERN-ISOLDE            
+225AC2cL mass-separator at CERN and nuclear track detector technique;           
+225AC3cL |l({+14}C)/|l(|a)=4.5|*10{+-12} {I14} or partial                       
+225AC4cL T{-1/2}({+14}C)=1.9|*10{+17} s {I6} (2001Gu33). 1993Bo26 measured      
+225AC5cL |l({+14}C)/|l(|a)=6.0|*10{+-10} {I13} at CERN-ISOLDE. Hindrance factor 
+225AC6cL as defined in 2001Gu33 is about unity for {+14}C decay of {+225}Ac,    
+225AC7cL much lower than typical hindrance factor of 10-100 for other known     
+225AC8cL cluster decays. This represents a case of a favored cluster decay.     
+225AC9cL Adopted value of %{+14}C decay is the average of the values from       
+225ACAcL 2001Gu33 and 1993Bo26, with corresponding partial                      
+225ACBcL T{-1/2}=1.6|*10{+17} s {I4}.                                           
+225AC cL J$from analogy with neighboring nuclei, expected low-lying             
+225AC2cL levels are 3/2[532] and 3/2[651]; negative parity from E1 character    
+225AC3cL of the 40.09|g from (3/2+) level                                       
+225AC  L 29.91      6 (5/2-)                                                A   
+225ACX L XREF=B                                                                 
+225AC cL J$|g to (3/2-); |g transitions from (5/2+) and (7/2+)                  
+225AC  G 30.0      2   100      [M1]                    117                     
+225AC cG E$from |a|g-coin (1973Ag01) in |a decay. Note that 1987Ah05 interpreted
+225AC2cG this |g-ray peak as an escape line in their |a|g-coin spectrum.        
+225AC  L 40.10      4(3/2+)            0.72 NS   3                          B   
+225ACX L XREF=AB                                                                
+225AC cL T$|b(ce for 40|g)(t) in {+225}Ra |b{+-} decay (1985Is03).              
+225AC cL J$115.55|g, M1 from (5/2+); systematics of Nilsson orbitals.           
+225AC  G 40.09     5 100       E1                      1.293                    
+225ACB G BE1W=0.00171 15                                                        
+225AC cG M$from L-subshell ratios in {+225}Ra |b{+-} decay.                     
+225AC  L 64.69      5 (5/2+)                                                B   
+225ACX L XREF=B                                                                 
+225AC cL J$gammas to (3/2-) and (5/2-); |g from (7/2+)                          
+225AC  G 24.6                                                                  ?
+225AC  G 34.8      1  5      AP[E1]                    1.88                 @   
+225AC  G 64.70     5  100    9 [E1]                    0.362                    
+225AC  L 77.13      9 (7/2-)                                                A   
+225ACX L XREF=B                                                                 
+225AC cL J$gammas from (7/2+) and (9/2+).                                       
+225AC  L 105.01     7 (7/2+)                                                B   
+225ACX L XREF=B                                                B                
+225AC cL J$gammas from (7/2+) and (9/2+).                                       
+225AC  G 75.12     5  100    9 [E1]                    0.243                    
+225AC  L 120.81     4(5/2-)                                                 C   
+225ACX L XREF=A(?)B                                                             
+225AC cL J$120.8|g, M1(+E2) to (3/2-) g.s.; systematics of Nilsson orbitals.    
+225AC  G 80.6      1  5.0    9 [E1]                    0.202                    
+225AC  G 120.80    5  100    9 M1(+E2)   0.5     5     8.9    16                
+225AC  L 144.96     9 (9/2+)                                                B   
+225ACX L XREF=B                                                                 
+225AC cL J$|g to (7/2-)                                                         
+225AC  G 67.80     5  100    9 [E1]                    0.319                    
+225AC  L 155.64     5(5/2+)                                                 D   
+225ACX L XREF=A(?)B                                                             
+225AC cL J$favored |a transition from (5/2+) {+229}Pa g.s.                      
+225AC  G 34.8      1  13     AP[E1]                    1.88                 @   
+225AC  G 115.55    5  100    8 M1                      11.28                    
+225AC  G 125.71    7  19.5   19[E1]                    0.281                    
+225AC  G 155.65    7  5      AP[E1]                    0.1680                   
+225AC  L 170.75     8 (7/2-)                                                C   
+225ACX L XREF=B                                                                 
+225AC cL J$|g transitions to (5/2-) and (7/2-)                                  
+225AC  G 93.6      1  47     7 [M1+E2]                 6.2    30            y   
+225AC  G 140.85    7  100    12[M1+E2]                 5.6    12            y   
+225AC  L 199.86     6 (7/2+)                                                D   
+225ACX L XREF=B                                                                 
+225AC cL J$|g to (5/2-), favored |a transition from (5/2+) parent state.        
+225AC  G 79.00     7  50     5 [E1]                    0.213                    
+225AC  G 94.86     7  62     7 [M1]                    4.00                     
+225AC  G 122.8     1  24     3 [E1]                    0.297                    
+225AC  G 135.20    7  100    10[M1]                    7.22                     
+225AC  G 169.9     1  56     7 [E1]                    0.1362                   
+225AC  L 221       7                                                            
+225ACX L XREF=B                                                                 
+225AC  L 235.53    13 (9/2-)                                                C   
+225ACX L XREF=B                                                                 
+225AC cL J$|g to (7/2-).                                                        
+225AC  G 158.4     1 100       [M1]                    4.61                     
+225AC  L 256.97     9 (9/2+)                                                D   
+225ACX L XREF=B                                                                 
+225AC cL J$gammas to (7/2-), (7/2+) and (9/2+); |a hindrance factor             
+225AC  G 111.9     1  100    17[M1]                    12.33                    
+225AC  G 152.0     1  92     17[M1]                    5.18                     
+225AC  G 179.9     1  67     17[E1]                    0.1187                   
+225AC  L 318       AP                                                          ?
+225ACX L XREF=B                                                                 
+225AC  L 327       7                                                            
+225ACX L XREF=B                                                                 
+225AC  L  421      7                                                           ?
+225ACX L XREF=B                                                                 

@@ -1,0 +1,92 @@
+253FM    ADOPTED LEVELS, GAMMAS                                  13NDS    201309
+253FM  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+253FM2 H CUT=1-Mar-2012$                                                        
+253FM DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+253FM  Q -1826     SY 5540   6  5235   50 7198   3     2012WA38                 
+253FM cQ $Estimated |DQ(|b{+-})=30 (2012Wa38)                                   
+253FM c  Calculations, compilations:                                            
+253FM c  |a decay: 1993Bu09, 1992Bu03                                           
+253FM c  Binding energies: 1997Pa22                                             
+253FM c  Deformation parameters: 1997Pa22, 2003Ga34                             
+253FM c  g.s. properties: 1997Mo25, 1995Mo29, 2005Pa73                          
+253FM c  Heavy ion emission: 1985Po11                                           
+253FM c  2005Re16: Predicted SF half-life=6.1|*10{+3} y                         
+253FM c  Single-particle Nilsson levels: 1994Cw02, 2005Pa73                     
+253FM c                                                                         
+253FM c  1994Cw02 have calculated the following single-particle level sequence: 
+253FM2c  g.s., 1/2[620]; 0.11 MeV, 3/2[622]; 0.24 MeV, 7/2[613];                
+253FM2c  0.33 MeV, 11/2[725];                                                   
+253FM3c  0.38 MeV, 9/2[734]; 0.75 MeV, 9/2[615]                                 
+253FM c  2005Pa73 have calculated the following single-particle level sequence: 
+253FM2c  g.s., 1/2[620]; 0.07 MeV, 3/2[622]; 0.25 MeV, 11/2[725];               
+253FM2c  0.26 MeV, 7/2[613];                                                    
+253FM3c  0.39 MeV, 9/2[734]                                                     
+253FM  XA257NO A DECAY                                                          
+253FM  XB253MD EC DECAY                                                         
+253FM CL BAND(A)$Band 1/2+[620]                                                 
+253FM CL BAND(B)$Band 3/2+[622] (tentative)                                     
+253FM CL BAND(C)$ 7/2+[613]                                                     
+253FM  L 0.0           1/2+            3.00 D    12                         A   
+253FM2 L %A=12 1$ %EC=88 1  (1967Ah02)                                          
+253FMX L XREF=AB                                                                
+253FM cL T$from 1967Ah02. Other: 3.0 d {I2} (1959Si88)                          
+253FM  L 22.3      1    (3/2+)                                              A   
+253FMX L XREF=AB(?)                                                             
+253FM  G 22.3                                                                  ?
+253FM  L 47.1      2    (5/2+)                                              A   
+253FMX L XREF=AB(?)                                                             
+253FM  G 24.8                                                                  ?
+253FM  G 47.1                                                                  ?
+253FM  L 124.1     1    3/2+                                                B   
+253FMX L XREF=AB                                                                
+253FM cL J$favored |a decay from 3/2[622] state, hence same configuration       
+253FM2cL expected here                                                          
+253FM  G 77.0      2  100    8 M1                      22.4                  C  
+253FMS G LC=16.8 3$MC=4.15 7$NC+=1.528 25                                       
+253FMS G NC=1.159 19$OC=0.306 5$PC=0.0595 10$QC=0.00335 6                       
+253FM  G 101.8     1  57     13(M1)                    9.97                  C  
+253FMS G LC=7.45 11$MC=1.84 3$NC+=0.678 10                                      
+253FMS G NC=0.514 8$OC=0.1360 20$PC=0.0264 4$QC=0.001484 22                     
+253FM  G 124.1     1  78     28M1                      5.63                  C  
+253FMS G LC=4.20 6$MC=1.039 15$NC+=0.383 6                                      
+253FMS G NC=0.290 5$OC=0.0767 11$PC=0.01488 22$QC=0.000836 12                   
+253FM  L X            7/2+                                                  C   
+253FMX L XREF=B                                                                 
+253FM cL E$X|?130-150 (estimated by 2011An13)                                   
+253FM cL J$Configuration=|n7/2[613] from syst of N=153 (2010St14)               
+253FM  L 158.7     2    (5/2+)                                              B   
+253FMX L XREF=AB(?)                                                             
+253FM  G 136.4     2  100      (M1)                    4.29                  C  
+253FMS G LC=3.20 5$MC=0.792 12$NC+=0.292 5                                      
+253FMS G NC=0.221 4$OC=0.0584 9$PC=0.01134 17$QC=0.000636 10                    
+253FM  L 60+X         9/2+                                                  C   
+253FMX L XREF=B                                                                 
+253FM  L 135+X        11/2+                                                 C   
+253FMX L XREF=B                                                                 
+253FM  L 211+X        11/2-            0.56 US   6                           M  
+253FMX L XREF=B                                                                 
+253FM cL T$ obtained by fitting the (ce)|g coin decay curve by an exponential   
+253FM2cL function (2011An13). Other: 0.5 |ms {I3} (2010St14)                    
+253FM cL J$Configuration=|n11/2[725] from syst of N=153 (2010St14)              
+253FM  G 76.8                  (E1)                    0.307                    
+253FMS G LC=0.229 4$MC=0.0576 8$NC+=0.0206 3                                    
+253FMS G NC=0.01592 23$OC=0.00400 6$PC=0.000638 9$QC=1.84E-5 3                  
+253FM cG M$ from estimated low conversion electron intensity                    
+253FM cG $ From |g|g coin, 76.8|g and 150.5|g are parallel                      
+253FM  G 150.5     5           (E1)                    0.215  4                 
+253FMS G KC=0.1596 25$LC=0.0417 7$MC=0.01037 17$NC+=0.00374 6                   
+253FMS G NC=0.00287 5$OC=0.000735 12$PC=0.0001268 21$QC=4.55E-6 8               
+253FM cG M$|a(K)exp<0.6 gives E1 or E2. E1 is preferred from intensity          
+253FM2cG arguments. E3 is excluded from lifetime arguments                      
+253FM  L 398+X        9/2+                                                      
+253FMX L XREF=B                                                                 
+253FM cL $ Configuration=|n9/2[615]                                             
+253FM  G 188.0     5           (E1)                    0.1317 20                
+253FMS G KC=0.0994 15$LC=0.0242 4$MC=0.00600 10$NC+=0.00217 4                   
+253FMS G NC=0.00166 3$OC=0.000427 7$PC=7.51E-5 12$QC=2.87E-6 5                  
+253FM cG $ 188.0|g is in coin cascade with both 76.8|g and 150.5|g. None        
+253FM2cG of the three |g rays is in coin with 338.2|g or 398.2|g                
+253FM cG M$|a(K)exp<0.87 gives E1 or E2. E1 is preferred from intensity         
+253FM2cG arguments. E3 is excluded from lifetime arguments                      
+253FM  G 338.2     5                                                            
+253FM  G 398.2                                                                 ?

@@ -1,0 +1,32 @@
+252CF    256FM A DECAY                 1968Ho13                  21NDS    202103
+252CF  H TYP=FUL$AUT=A.M. MATTERA, S. ZHU, A.B. HAYES, E.A. MCCUTCHAN$          
+252CF2 H CIT=NDS 172, 543 (2021)$CUT=1-Jan-2021$                                
+252CF c  1968Ho13: {+256}Fm was directly produced in reactions of               
+252CF2c  {+253}Es(|a,p), or as the |e-decay daughter of {+256}Md produced in    
+252CF3c  reactions of {+253}Es(|a,n) using a 38-MeV {+4}He beam at the Heavy    
+252CF4c  Ion Linear Accelerator in Berkeley. The isotopic purity of {+256}Fm    
+252CF5c  was achieved by using an isotope separator after both {+256}Fm and     
+252CF6c  {+256}Md were collected on beryllium foils for chemical purification.  
+252CF c  T{-1/2}({+256}Fm): weighted average of 150 min {I4} (1981Lo15), 157.6  
+252CF2c  min {I13} (1972Fl04), 157 min {I2} (1968Ho13), 162 min {I6}            
+252CF3c  (1965Si14), 160 min {I10} (1958Ph40).                                  
+252CF c  Q(|a)({+256}Fm)=7027 keV {I5} derived from E|a=6917 keV {I5}           
+252CF2c  (2017Wa10). Using E|a=6915 keV {I2} as adopted here would result in    
+252CF3c  Q(|a)({+256}Fm)=7025 keV {I2}.                                         
+252CF cA HF$r{-0}({+252}Cf)=1.499 {I3} is calculated from HF(6915|a)=1.0 and    
+252CF2cA |a/(|a+SF)=0.081 {I3}.                                                 
+252CF cA IA$From 1970Fi12.                                                      
+256FM  P 0.0          0+                157.1 M   10             7027     5     
+252CF  N                        0.081  3                                        
+252CF  L 0.0          0+                                                        
+252CF  A 6915      2 86      2 1.000                                            
+252CF cA E$measured by 2019Ah04 with adopted E|a standards in 1991Ry01. Other:  
+252CF2cA 6911 keV {I5} (1970Fi12); 6925 keV {I5} (1968Ho13),  which is          
+252CF3cA adjusted to 6917 keV {I5} by 1991Ry01 due to changes in E|a            
+252CF4cA calibration standards; 6918 keV {I2} (1993Mo18), which used the        
+252CF5cA 1973Ry07 E|a standards.                                                
+252CF  L 45.72     5  2+                92 PS     6                             
+252CF cL E,J,T$From the Adopted Levels.                                         
+252CF  A 6870      2 14      2 3.9     6                                        
+252CF cA E$deduced by evaluator taking E|a=6915 keV {I2} to ground state and    
+252CF2cA adopted E=45.72 keV for level 2+. Measured: 6868 keV (1970Fi12).       

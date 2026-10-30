@@ -1,0 +1,42 @@
+267HS    ADOPTED LEVELS                                          22NDS    202205
+267HS  H TYP=FUL$AUT=C. Morse$CIT=NDS 182, 130 (2022).$CUT=14-Sep-2021$         
+267HS  Q -5133     SY 6553   SY 2736   SY 10038   13   2021WA16                 
+267HS cQ $|DQ(|b{+-})=512, |DS(n)=99, |DS(p)=189 (2021Wa16)                     
+267HS cQ $S(2n)=14385 syst {I98},  S(2p)=4714 syst {I169},  Q(|ep)=1751 syst    
+267HS2cQ {I263} (2021Wa16)                                                      
+267HS c  $ {+267}Hs has been observed in the {+238}U({+34}S,5n) reaction at     
+267HS2c  JINR (1995La20) and GSI (2010Ni14), and as the |a-decay daughter of    
+267HS3c  {+271}Ds at GSI (1998Ho13,2011Ho10), LBNL (2003Gi05,2004Fo08), and     
+267HS4c  RIKEN (2004Mo40).  Events were identified based on the observation of  
+267HS5c  chains of |a-decaying nuclei.  The properties of these chains, when    
+267HS6c  compared to the literature, allowed individual decays to be assigned   
+267HS7c  to specific nuclei.                                                    
+267HS c  $ Identification of the |a-decay energies originating from {+271}Ds    
+267HS2c  (which determine the level energies in {+267}Hs) has been claimed in   
+267HS3c  various works, but not uniformly.  1998Ho13 identifies E{-|a}=10.738   
+267HS4c  and E{-|a}=10.681, but 2011Ho10 indicates that only 10.738 was         
+267HS5c  observed. 2004Mo40 identifies E{-|a}=10.73 and E{-|a}=10.45, but not   
+267HS6c  10.681. 2004Fo08 identifies E{-|a}=10.738, as well as one event which  
+267HS7c  could be assigned to E{-|a}=10.681 or 10.738, but none at              
+267HS8c  E{-|a}=10.45. The present evaluation represents the evaluator's        
+267HS9c  attempt to reconcile the available data.                               
+267HS c  $ Half-lives, branching ratios, and |a-decay energies in this          
+267HS2c  evaluation have been computed from the individual events listed in     
+267HS3c  the references above.  Half-life uncertainties have been computed      
+267HS4c  according to the method of 1984Sc13.  An additional 10 keV systematic  
+267HS5c  uncertainty is assumed for the |a-decay energies, which is added in    
+267HS6c  quadrature to the averaged statistical uncertainty.                    
+267HS  XA271DS A DECAY (1.6 MS)                                                 
+267HS  L 0                              43 MS     +9-6                          
+267HSX L XREF=A                                                                 
+267HS2 L %A=100                                                                 
+267HS cL E$Assumed ground state.                                                
+267HS cL T$From 37 events.                                                      
+267HS  L 8E1       2                                                            
+267HSX L XREF=A                                                                 
+267HS cL E$From |DE{-|a}.                                                       
+267HS  L 3.2E2     2                                                            
+267HSX L XREF=A                                                                 
+267HS cL E$From |DE{-|a}.                                                       
+267HS  L X                              0.8 S     +40-4                         
+267HS cL T$From one event (2004Mo40).                                           

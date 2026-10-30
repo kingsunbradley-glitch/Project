@@ -1,0 +1,43 @@
+231NP    ADOPTED LEVELS                                          22NDS    202210
+231NP  H TYP=FUL$AUT=Balraj Singh, Jagdish K. Tuli, and Edgardo Browne$         
+231NP2 H CIT=NDS 185, 560 (2022)$CUT=31-Aug-2022$                               
+231NP  Q -2680     60 7680   80 3280   50 6370   50    2021WA16                 
+231NP cQ $S(2n)=14320 {I110}, S(2p)=8850 {I50}, Q(|e)=1820 {I50}                
+231NP2cQ (2021Wa16)                                                             
+231NP c  1950Ma14: {+231}Np produced and identified in {+235}U(d,6n),E=45-100   
+231NP2c  MeV at Berkeley, followed by chemical separation. From observation of  
+231NP3c  |a spectra from {+231}Np decay, parent-daughter correlation of {+231}Np
+231NP4c  and {+227}Pa was established. Measured half-life of the decay          
+231NP5c  of {+231}Np                                                            
+231NP c  1973We08: {+231}Np produced in {+233}U(d,4n). Measured E|g, I|g,       
+231NP2c  half-life of the decay of {+231}Np                                     
+231NP c  Theoretical calculations: consult the NSR database                     
+231NP2c  (www.nndc.bnl.gov/nsr/) for 23 primary references for the decay        
+231NP3c  characteristics of {+231}Np, and two for nuclear structure. These      
+231NP4c  references are listed in 'document' records, which can be accessed     
+231NP5c  through on-line ENSDF database at www.nndc.bnl.gov/ensdf/              
+231NP d  Theory (decay): 2022Pr04, 2022Sr01, 2021Ma20, 2021Sa52, 2021Sr02,      
+231NP2d  2021Zo02, 2020De37, 2020Zh36, 2019Sa33, 2019Sr04, 2017Ni01, 2017Su06,  
+231NP3d  2016Na19, 2015Se14, 2014Ib02, 2014Za07, 2013Zd01, 2012Ba35,            
+231NP4d  2012Ku29, 2012Sa31, 2011Sa40, 2011Sh13, 2010Ni13.                      
+231NP d  Theory (structure): 2004Pa40, 1984Ku05.                                
+231NP  XA235AM A DECAY (10.3 M)                                                 
+231NP  L 0            (5/2-)           48.8 M    2                              
+231NPX L XREF=A                                                                 
+231NP2 L %A AP 2$ %EC+%B+ AP 98                                                 
+231NP cL $%|a=2.0 if |a to g.s. of {+227}Pa is favored. Measurements of 1950Ma14
+231NP2cL established the |a-decay mode, but only %|e/%|a<100 (implying %|a>1%)  
+231NP3cL could be determined in their experiment. Systematics suggest %|a<10.   
+231NP4cL Theoretical calculations of T{-1/2}(|b)>100 s and                      
+231NP5cL T{-1/2}(|a)=7.4|*10{+5}s (2019Mo01) suggest dominant |e+|b{++}         
+231NP6cL decay mode.                                                            
+231NP cL E$in {+235}Am |a decay, this level may be the ground state. However,   
+231NP2cL 2004As12 set an upper limit of 15 keV for this level energy based upon 
+231NP3cL detection efficiency for low-energy |g-rays and internal conversion    
+231NP4cL coefficient of a corresponding E1 |g-ray transitions                   
+231NP cL J$favored alpha decay from {+235}Am (J|p=5/2-), assuming that this     
+231NP2cL alpha transition feeds the ground state. Likely configuration is       
+231NP3cL |p5/2[523] (2004As12,2004Sa05). See {+235}Am |a decay. Other: 5/2+     
+231NP4cL from systematics (2021Ko07)                                            
+231NP cL T$from decay curves for 370.9- and 348.4-keV |g rays (1973We08).       
+231NP2cL Other: 50 min {I3} (1950Ma14) from |a decay is in agreement.           

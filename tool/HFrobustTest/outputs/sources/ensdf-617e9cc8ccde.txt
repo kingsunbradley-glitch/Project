@@ -1,0 +1,395 @@
+250CF    ADOPTED LEVELS, GAMMAS                                  01NDS    200112
+250CF  H TYP=FMT$AUT=J. Tuli$DAT=22-APR-2005$COM=Fixed Fmt/Typo$                
+250CF  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94,131 (2001)$CUT=1-Aug-2001$           
+250CF  Q -2.06E3   SY6625.3  175967.6  226128.44 19    2012WA38                 
+250CF cQ $Note: Current evaluation has used the following Q record              
+250CF2cQ -2100     syst 6624.6 {I23} 5966.2 {I27} 6128.4419    1995Au04         
+250CF PN                                                                     6  
+250CF c                                                                         
+250CF c  Theoretical studies:                                                   
+250CF c  1998Co23 calculated level energies of K=2+ |g-band, K=0-, K=1- and     
+250CF2c  K=2- octupole-vibrational band; and B(E3; 0+ to 3-)  strengths.        
+250CF3c  The interacting boson approximation was utilized. See also 1990Co26    
+250CF4c  for analysis of level structure and octupole state fragmentation       
+250CF5c  dependence on |b(2) deformation.                                       
+250CF c  See 1992So22 for the calculated B(E3) octupole strengths and           
+250CF2c  energies of K,J|p=0,3- and 1,3- states.                                
+250CF c  Energies, B(EL) values and structures were calculated by 1991So15 for  
+250CF2c  low-energy nonrotational states in the framework of a                  
+250CF3c  quasiparticle-phonon model. See also earlier calculations in 1976Iv04  
+250CF4c  and 1973Iv01, 1971Ko31, 1970Ne08, 1969Pa08, 1965So04.                  
+250CF c  Ground-state deformations were calculated by 1995Mo29 based on the     
+250CF2c  finite-range droplet macroscopic model and the folded YUKAWA           
+250CF3c  single-particle microscopic model. Their calculations yielded          
+250CF4c  |b(2)=0.245, |b(4)=0.026, |b(6)=-0.038.                                
+250CF c  The equilibrium deformations and the static electric moment were       
+250CF2c  calculated by 1983Bo15 with use of dynamic model.                      
+250CF c  The quadrupole moment for various proton and neutron states were       
+250CF2c  calculated by 1992Bh04 by using WOODS-Saxon and Nilsson models. The    
+250CF3c  fermion dynamical symmetry and pseudo su(3) models were used also      
+250CF4c  to calculate the B(E2; 0+ to 2+)  values, and comparisons were made.   
+250CF c  The static electric quadrupole and hexadecapole moments were           
+250CF2c  calculated by 1978Ne13 by using Strunsky shell-correction method.      
+250CF c  Properties of the |g-vibrational state was studied and B(E2) value     
+250CF2c  was calculated by 1965Be40.                                            
+250CF c  Systematics of E(first 2+ levels) and B(E2; 0+ to 2+) were studied by  
+250CF2c  1993Sa05 as a function of N(n)N(p), products of valence proton and     
+250CF3c  neutron numbers.                                                       
+250CF c  From a correlation plot of known B(E2; 2+ to 0+)'s with N(n)N(p),      
+250CF2c  the products of valence proton and neutron numbers, 1995Za10 deduced   
+250CF3c  a range for the hexadecapole deformation for {+250}Cf as               
+250CF4c  |b(4)|?-0.05 to -0.10.                                                 
+250CF c  The average neutron and proton pairing gaps were calculated by         
+250CF2c  1988Ma04.                                                              
+250CF c  The energies of the ground-state band were calculated by 1988Ri07      
+250CF2c  by using the interacting boson model, and by 1978To13 by using the     
+250CF3c  collective HAMILTONIAN with |b-vibration plus rotation.                
+250CF c  For calculation of partial |a half-life, see, for example,             
+250CF2c  1997Mo25, 1979Po23, 1976Ra02.                                          
+250CF c  Potential energy surface and shape of the fissioning nucleus were      
+250CF2c  calculated by 1996Py02. Analysis were made by considering heavy-ion    
+250CF3c  clustering. See 1976Iw02, 1971Sc03 also for calculations of potential  
+250CF4c  energy surface for fission.                                            
+250CF c  For calculations and systematics of T{-1/2}(SF), see,                  
+250CF2c  1992Bh03, 1989St20, 1988Io03, 1978Po09.                                
+250CF c  For calculated fission barriers, see 1992Bh03, 1987Gu03, 1984Ku05,     
+250CF2c  1980Ku14, 1977Pr10, 1973Ba19, 1972Ma11.                                
+250CF c  Average total kinetic energy of fission fragments was calculated by    
+250CF2c  1995Ef04.                                                              
+250CF c  Yield for {+40}S in spontaneous fission relative to yield for |a decay 
+250CF2c  was calculated by 1993Gr15.                                            
+250CF c  Partial half-life for decay by pion emission was calculated by         
+250CF2c  1988Io02.                                                              
+250CF c  Emission probabilities for decay by heavy-ion were calculated by       
+250CF2c  1980Sa36.                                                              
+250CF  XA254FM A DECAY                                                          
+250CF  XB250BK B- DECAY                                                         
+250CF  XE250ES EC DECAY (2.22 H)                                                
+250CF  XF250ES EC DECAY (8.6 H)                                                 
+250CF  XD250CF(D,D')                                                            
+250CF  XP249CF(D,P)                                                             
+250CF  XT249BK(A,T)                                                             
+250CF CL BAND(A)   K=0+ GS BAND.                                                
+250CF2cL Spin and parities of band members are based on multipolarities of      
+250CF3cL intraband transitions, |a hindrance factors, and on energy fit         
+250CF4cL to the rotational band.                                                
+250CF CL BAND(B)   K=2- OCTUPOLE-VIBRATIONAL BAND.                              
+250CF2cL Assignment of levels to this band was based on the multipolarities     
+250CF3cL of intraband transitions, and on level spacings. The large (d,d')      
+250CF4cL cross section in population of the 3- member suggests                  
+250CF5cL octupole-vibrational state. The band was populated in (|a,t) reaction  
+250CF6cL through its two-proton component, (p 3/2[521],p 7/2[633]), and         
+250CF7cL it was not seen in (d,p)                                               
+250CF CL BAND(D)   K=2+ GAMMA-VIBRATIONAL BAND.                                 
+250CF CL BAND(K)   K=0+ BAND                                                    
+250CF2cL 1980Ah01 pointed out that similar energies of the first 0+ states      
+250CF3cL in {+248}Cm (at 1084 keV) and in {+250}Cf (1154 keV) may suggest       
+250CF4cL predominantly neutron configurations for them, and that neutron pair   
+250CF5cL vibration character was deduced by 1977Fl06 for the 1084-keV level     
+250CF6cL in {+248}Cm from (t,p) reaction.                                       
+250CF CL BAND(E)   K=1- OCTUPOLE-VIBRATIONAL BAND.                              
+250CF2cL 1980Ah01 suggested that the major components of this band are          
+250CF3cL probably the (n 9/2[734], n 7/2[613])  and                             
+250CF4cL (n 9/2[734], n 7/2[624]) configurations, and that the Coriolis         
+250CF5cL interaction with the K=2- band at 1209.97 would take place through     
+250CF6cL the n 7/2[613] state of this band and the n 5/2[622] state of the      
+250CF7cL K=2- band. See 1980Ah01 for further discussions.                       
+250CF CL BAND(M)   K=2-? BAND                                                   
+250CF CL BAND(F)   K=4- BAND.                                                   
+250CF2cL The two-neutron structure,4-, (n 9/2[734],n 1/2[620]), was proposed    
+250CF3cL by 1976Ya02 from (d,p) data. See 1976Ya02 for a discussion on          
+250CF4cL Coriolis interaction with the K=5- bands.                              
+250CF CL BAND(L)   K=0+ BAND                                                    
+250CF CL BAND(G)   K=5- BAND.                                                   
+250CF2cL (p 3/2[521],p 7/2[633]) + (n 9/2[734],n 1/2[620]) structure was        
+250CF3cL deduced by 1976Ya02 from observation of this band in (d,p) reaction.   
+250CF4cL This admixture explain also the strong |g transitions to the           
+250CF5cL K=4- (n 9/2[734],n 1/2[620]) band and gammas from the                  
+250CF6cL K=5- (n 9/2[734],n 1/2[620]) band.                                     
+250CF CL BAND(H)   K=5- (n 9/2[734],n 1/2[620]) BAND.                           
+250CF2cL See also the note for K=5- (p 3/2[521],p 7/2[633]) band.               
+250CF CL BAND(I)   K=6- (n 9/2[734],n 3/2[622]) BAND                            
+250CF CL BAND(J)   K=3?                                                         
+250CF CL BAND(P)   K=2+ BAND?                                                   
+250CF cG E,M       From {+250}Bk |b{+-} decay and 8.6-h, 2.22-h {+250}Es |e     
+250CFxcG decays                                                                 
+250CF cG RI        Relative intensities deexciting each level, adopted          
+250CF2cG from {+250}Bk |b{+-} and {+250}Es |e decays.                           
+250CF  L 0.0          0+               13.08 Y   9                          A   
+250CFX L XREF=ABDEFT                                                            
+250CF cL T         measurement of 1969Me01. Other measurement: 10.9 y {I8}      
+250CF2cL (1957Ea01).                                                            
+250CF2 L %A=99.923 3 $ %SF=0.077 3 $                                            
+250CF cL           Branchings are from unweighted average of the measured       
+250CF2cL |a/SF=1330 {I45} (1963Ph01), 1260 {I40} (1965Me02).                    
+250CF cL           Cross sections for |a, t, and p emission following           
+250CF2cL fission were measured by 1985Wi10.                                     
+250CF cL           Cross sections of fission fragments in {+238}U({+12}C,F) were
+250CF2cL measured and effective moment of inertia at saddle point was deduced   
+250CF3cL by 1990Li26. The angular distribution of fission fragments in          
+250CF4cL {+238}U({+12}C,F) were measured by 1986Ka12 and 1985Ja14.              
+250CF cL           Neutron multiplicity was measured by 1980Ho01 from           
+250CF2cL fragment-neutron coincidences. Average number of neutron emitted in    
+250CF3cL SF decay was measured by 1971Or03.                                     
+250CF cL           Fission-fragment kinetic energy distribution was measured    
+250CF2cL by 1973Ho02.                                                           
+250CF  L 42.721    5 2+                96 PS     10                         A   
+250CFX L XREF=ABDEFT                                                            
+250CF cL T         calculated from B(E2)=16.0 {I16}, deduced in (d,d').         
+250CF  G 42.721    5            E2                      1293                    
+250CFB G BE2W=3.4E+2 4                                                          
+250CF  L 141.875   10 4+                                                    A   
+250CFX L XREF=ABDEFT                                                            
+250CF  G 99.160    10           E2                      23.8                    
+250CF  L 296.22    6  6+                                                    A   
+250CFX L XREF=ADFT                                                              
+250CF  G 154.35    6            E2                      3.33                    
+250CF  L 500       AP 8+                                                    A   
+250CFX L XREF=T                                                                 
+250CF cL J         energy fit to g.s. band.                                     
+250CF  L 871.57    3  2-                                                    B   
+250CFX L XREF=BEFT                                                              
+250CF cL J         E1 transition to 2+ of g.s. band, no gammas to the 0+ or 4+. 
+250CF  G 828.81    3            E1                     0.00657                  
+250CF  L 905.89    2  3-                                                    B   
+250CFX L XREF=BDFT                                                              
+250CF cL J         E1 transitions to 2+, 4+ levels.                             
+250CF2 L BE3=20.2 20                                                            
+250CF  G 34.325    5  1.3    2  M1+E2     0.42   5     7.4E+2 11                
+250CF  G 764.2     1  78     4  E1                     0.00758                  
+250CF  G 863.2     1  100    6  E1                     0.00613                  
+250CF  L 951.98    2 4-                                                     B   
+250CFX L XREF=BFT                                                               
+250CF cL J         M1+E2 and E2 to 3- and 2- members of the K=2- band,          
+250CF2cL respectively; E1 transition to 4+ state.                               
+250CF  G 46.093    5  2.1    3  M1+E2     0.40   2      200   10                
+250CF  G 80.412    10 3.2    4  E2                      63.3                    
+250CF  G 810.2     1  100    6  E1                     0.00684                  
+250CF  L 1008.51   2  5-                                                    B   
+250CFX L XREF=DFT                                                               
+250CF cL J         M1+E2 and E2 transitions to 4- and 3- members of the band,   
+250CF2cL respectively.                                                          
+250CF  G 56.527    13 6.7    8  M1+E2     0.37   +20-10 80    40                
+250CF  G 102.623   10 15.7   23 E2                      20.28                   
+250CF  G 712.3     1  100    7  [E1]                   0.00859                  
+250CF  G 866.7     1  97     8  [E1]                   0.00608                  
+250CF  L 1031.852  21 2+               0.94 PS   10                         D   
+250CFX L XREF=BED                                                               
+250CF cL J         E2 transition to 0+ g.s.                                     
+250CF cL T         calculated from B(E2)=0.11 {I1}, deduced in (d,d'), and      
+250CF2cL adopted |g branchings from the level.                                  
+250CF  G 126.01    3  0.0140 12 [E1]                   0.0834                   
+250CFB G BE1W=6.8E-6 10                                                         
+250CF  G 160.26    4  0.063  4  [E1]                   0.1859                   
+250CFB G BE1W=1.50E-5 19                                                        
+250CF  G 889.956   22 3.40   5  [E2]                   0.01961                  
+250CFB G BE2W=0.211 23                                                          
+250CF  G 989.125   21 100       E2                     0.01603                  
+250CFB G BE2W=3.7 4                                                             
+250CF  G 1031.852  21 79.1   12 E2                     0.01480                  
+250CFB G BE2W=2.3 3                                                             
+250CF  L 1070      AP (6-)                                                  B   
+250CFX L XREF=T                                                                 
+250CF cL J         energy fit to the 2- octupole-vibrational band.              
+250CF  L 1071.37   2  3+                                                    D   
+250CFX L XREF=BEF                                                               
+250CF cL J         M1 transition from 2+ state at 1658 keV; |g to 4-.           
+250CF  G 119.4     3  0.014  5  [E1]                    0.0956                  
+250CF  G 165.44    15 0.028  4  [E1]                    0.1726                  
+250CF  G 199.72    20 0.022  3  [E1]                    0.1127                  
+250CF  G 929.468   22 25.1   4  [E2]                    0.0180                  
+250CF  G 1028.654  25 100    3  (E2)                    0.01489                 
+250CF  L 1123      1  (4+)                                                  D   
+250CFX L XREF=D                                                                 
+250CF cL J         from (d,d') data.                                            
+250CF  L 1154.24   10 0+                                                    K   
+250CFX L XREF=BE                                                                
+250CF cL J         E0 transition to 0+ g.s.                                     
+250CF  G 1111.50   10 100       [E2]                    0.0129                  
+250CF  G 1154.3    2            E0                                              
+250CF cG TI        I|g(1111.5|g)/total Ice(1154.3 transition)=2.5 {I5}.         
+250CF  L 1175.52   3  1-                                                    E   
+250CFX L XREF=BED                                                               
+250CF cL J         E1 to 0+ g.s.                                                
+250CF  G 303.95    20 11.9   14 [M1,E2]                 1.0   8                 
+250CF  G 1132.80   3 100     6  [E1]                   0.00385                  
+250CF  G 1175.5    2 200     20 E1                     0.00362                  
+250CF  L 1189.39   3 2+                                                     K   
+250CFX L XREF=BE                                                                
+250CF cL J         E0+E2 transition to 2+.                                      
+250CF  G 1047.51   6  18.0   13 [E2]                    0.0144                  
+250CF  G 1146.67   3  100    5  E0+E2                   0.10  3                 
+250CF  L 1209.97   4 (2)-                                                   M   
+250CFX L XREF=BEP                                                               
+250CF cL J         E1 to 2+; no 1210|g to g.s.; |e decay from 1(-) {+250}Es     
+250CF2cL suggests J|p Ne 3-.                                                    
+250CF cL           Almost pure 2-,(n 9/2[734]-n 5/2[622]) configuration         
+250CF2cL was suggested in 1980Ah01. The |e decay transition from the            
+250CF3cL 1-,(n 7/2[633]-n 9/2[734]) {+250}Es parent could Be via                
+250CF4cL the p 7/2[633] to p 5/2[622] transition. The n 5/2[622] state is       
+250CF5cL a hole state, close to the 9/2[734] state; some admixture of           
+250CF6cL 1-,(n 9/2[734]-n 5/2[622]) configuration in 2.22-h {+250}Es can explain
+250CF7cL this |e transition.                                                    
+250CF cL           The decay from the 2-,(p 3/2[521]+n 1/2[620]) {+250}Bk g.s., 
+250CF2cL however, is not consistent with a |b transition to an almost           
+250CF3cL pure 2-,(n 9/2[734]-n 5/2[622]) state;  this |b branch requires        
+250CF4cL configuration admixtures in {+250}Bk g.s. or in this 1209.97-keV       
+250CF5cL level, or both. The log| {Ift} of 9.30 for this 2- to 2- |b transition 
+250CF6cL and population of the same level in 1(-) {+250}Es |e decay with a      
+250CF7cL log| {Ift} oF 7.36 would only Be consistent with some admixture.       
+250CF8cL Therefore, its structure should Be quite mixed, not almost pure        
+250CF9cL two-neutron state as proposed.                                         
+250CF cL           If the 1209.97 level is indeed a mixed state,                
+250CF2cL the level at 1210 keV, seen in (|a,t) reaction (which                  
+250CF3cL populates two proton states), could also Be the same level. Because    
+250CF4cL of insufficient data, the level populated in (|a,t) is listed here     
+250CF5cL with the level seen in (d,d') at 1211 keV.                             
+250CF  G 1167.25   4            E1                     0.00366              *   
+250CF cG           If the 1209.97 level belongs to K=2 band, the 1167.25|g is   
+250CF2cG a K-forbidden transition.                                              
+250CF  L 1211      1 (3-)                                                   E   
+250CFX L XREF=BDT                                                               
+250CF cL J         from (d,d'); large B(E3) suggests octupole vibration         
+250CF2 L BE3=19.3 19                                                            
+250CF cL           The level observed in (|a,t) is assumed to populate a        
+250CF2cL two-proton component of this collective state.                         
+250CF cL           Population of this level in {+250}Bk |b{+-} decay is not     
+250CF2cL established.                                                           
+250CF  G 1068.27   17                                                          ?
+250CF cG           Existence of this transition is not certain.                 
+250CF  G 1167.25   4                                                        *  ?
+250CF  L 1218.2    AP                                                          ?
+250CFX L XREF=B                                                                 
+250CF  G 1175.5    AP                                                          ?
+250CF  L 1244.50   8  2+                                                        
+250CFX L XREF=BE                                                                
+250CF cL J         |g transitions to 0+, 2+, 4+ states.                         
+250CF  G 1103.0    3  7.2    24 [E2]                   0.01306                  
+250CF  G 1201.79   4  100    6 [M1,E2]                 0.027  16                
+250CF  G 1244.42   8  25     3 [E2]                    0.01045                  
+250CF  L 1247      2  (3-)                                                  M   
+250CFX L XREF=D                                                                 
+250CF cL J         from (d,d') data, 1980Ah01 suggested that this level is the  
+250CF2cL 3- member of a K=2 band, based at 1209.97 keV level.                   
+250CF  L 1255.39   4 4-                                                     F   
+250CFX L XREF=FPT                                                               
+250CF cL J         M1+E2 transitions to 3-, 5- states.                          
+250CF  G 184.2     2  2.1    4  [E1]                    0.1352                  
+250CF  G 246.92    6  17.0   9  M1+E2     1.00   6      1.86  9                 
+250CF  G 303.41    3  100    5  M1+E2     0.92   7      1.09  10                
+250CF  G 349.4     1  91     5  E2+M1     4.6    5      0.223 12                
+250CF  G 383.7     1  63     4  E2                      0.135                   
+250CF  L 1266.6    2  0+                                                    L   
+250CFX L XREF=BE                                                                
+250CF cL J         E0 to g.s. Configuration of (n 7/2[624],n 7/2[613])          
+250CF2cL was assigned by 1979Ah02.                                              
+250CF  G 1223.8    2            [E2]                   0.0108   101       10    
+250CF  G 1266.6    2            E0                                              
+250CF cG           Total Ice(1266.6 transition)/I|g(1223.8|g)=188 {I10}/100     
+250CFxcG {I10}.                                                                 
+250CF  L 1272      2                                                            
+250CFX L XREF=D                                                                 
+250CF  L 1296.60   4 2+                                                     L   
+250CFX L XREF=BDE                                                               
+250CF cL J         1253.84|g to 2+ is E0+E2.                                    
+250CF  G 1154.77   3  100    5  [E2]                   0.0120                   
+250CF  G 1253.82   7  23.3   19 E0+E2                           177       43    
+250CF  G 1296.54   13 9.4    13 [E2]                   0.00969                  
+250CF  L 1311.00   4 5-                                                     F   
+250CFX L XREF=FP                                                                
+250CF cL J         55.6|g to 4- state is M1+E2; band parameter; (d,p) data.     
+250CF  G 55.602    5            M1+E2     0.59   5      133   9                 
+250CF  L 1313      2 (5-)                                                   E   
+250CFX L XREF=D                                                                 
+250CF  L 1335      2 (3-)                                                       
+250CFX L XREF=D                                                                 
+250CF cL J         K,J|p=0,3- was tentatively assigned by 1980Ah01 from         
+250CF2cL their (d,d') work.                                                     
+250CF2 L BE3=4.6 5                                                              
+250CF  L 1377.76   4   6-                                                   F   
+250CFX L XREF=FPT                                                               
+250CF cL J         M1(+E2) transition to the 5- member of the 4- band; energy   
+250CF2cL fit to band; (d,p) data.                                               
+250CF  G 66.759    10           M1(+E2)   0.5    LE    37     7                 
+250CFP G FL=1311.00                                                             
+250CF  L 1385.50   10 1,2+                                                      
+250CFX L XREF=B                                                                 
+250CF cL J         |g's to 0+, 2+ states.                                       
+250CF  G 1342.87   8  93     7                                                  
+250CF  G 1385.42   6  100    7                                                  
+250CF  L 1396.09   7 (5)-                                                   G   
+250CFX L XREF=FPT                                                               
+250CF cL J         M1 transitions to the 4-, 5- levels; (|a,t)                  
+250CF2cL and (d,p) reactions.                                                   
+250CF  G 85.086    7  22.8   20 M1(+E2)   0.27   LE     15.4  16                
+250CF2 G FL=1311.00                                                             
+250CF  G 140.694   10 100    7  M1(+E2)   0.1    LT     15.6                    
+250CF  L 1411.33   6 (1,2+)                                                     
+250CFX L XREF=B                                                                 
+250CF cL J         1368.62|g to 2+ state; 1411.6|g probably goes to 0+ g.s.     
+250CF  G 1368.61   6  100    8                                                  
+250CF  G 1411.6    4  19     5                                                 ?
+250CF  L 1426.86   12 (3-)                                                  J   
+250CFX L XREF=BD                                                                
+250CF cL J         from (d,d'). Large B(E3) suggests octupole vibration         
+250CF2 L BE3=13.3 13                                                            
+250CF  G 555.22    10                                                          ?
+250CF  L 1457.76   4 (6)-                                                   G   
+250CFX L XREF=FPT                                                               
+250CF cL J         146.9 and 80.00 M1 transitions to the 5- and (6)- states of  
+250CF2cL 4- band; band parameter.                                               
+250CF  G 61.667    5  100    9  M1+E2     0.20   3      45.1  16                
+250CF  G 80.00     3  13     4  M1(+E2)   0.3    LT     18.7  11                
+250CF  G 146.9     1  26     8  M1(+E2)   0.6    LT     13.0  18                
+250CF2 G FL=1311.00                                                             
+250CF  L 1478.37   4 (5)-                                                   H   
+250CFX L XREF=FPT                                                               
+250CF cL J         M1 transitions to 4-, (5)- states; (d,p), (|a,t) data.       
+250CF  G 82.282    6  100    8  M1(+E2)   0.06   LT     16.33 11                
+250CF  G 222.993   20 71     5  M1+E2     0.42   7      3.71  15                
+250CF  L 1499.53   4 (6)-                                                   I   
+250CFX L XREF=FP                                                                
+250CF cL J         M1 transitions to (5)-, (6)- states; (d,p) data.             
+250CF  G 41.775    5  41     4  M1(+E2)   0.14   +7-14  144   30                
+250CF  G 103.440   10 100    9  M1(+E2)   0.25   +15-10 9.1   9                 
+250CF  L 1530      AP (7-)                                                  G   
+250CFX L XREF=PT                                                                
+250CF cL J         (d,p) and (|a,t) data.                                       
+250CF  L 1541      2  (5-)                                                  J   
+250CFX L XREF=D                                                                 
+250CF  L 1550      AP (6-)                                                  H   
+250CFX L XREF=PT                                                                
+250CF cL J         (d,p) data.                                                  
+250CF  L 1570      2                                                            
+250CFX L XREF=D                                                                 
+250CF  L 1575      AP(7-)                                                   I   
+250CFX L XREF=P                                                                 
+250CF cL J         (d,p) data.                                                  
+250CF  L 1600      AP (6-)                                                      
+250CFX L XREF=P                                                                 
+250CF cL           K=6, two-neutron state was assigned by 1976Ya02.             
+250CF  L 1626      3                                                            
+250CFX L XREF=D                                                                 
+250CF  L 1658.00   4  2+                                                    P   
+250CFX L XREF=BE                                                                
+250CF cL J         E2 to g.s. From the absence of any 0+ and 1+ levels in the   
+250CF2cL vicinity of this level, 1980Ah03 suggested K=2 for this state.         
+250CF  G 586.43    7  14     2  M1(+E2)                 0.24  1                 
+250CF  G 626.11    4  54     6  M1(+E2)                 0.24  1                 
+250CF  G 786.26    14 11     2  [E1]                   0.00721                  
+250CF  G 1516.22   7  2.6    2  [E2]                   0.00727                  
+250CF  G 1615.29   4  100    5  E2                     0.00498                  
+250CF  G 1658.00   4  59     3  E2                                              
+250CF  L 1695.15   10(3+)                                                   P   
+250CFX L XREF=B                                                                 
+250CF cL J         |g's to 2+, 4+; |b feeding from 2- {+250}Bk. The tentative   
+250CF2cL assignment of this level to K=2 rotational band is based on its        
+250CF3cL energy difference with the 1658-keV level.                             
+250CF  G 1553.37   18 55     14                                                 
+250CF  G 1652.40   10 100    9                                                  
+250CF  L 1735      2                                                            
+250CFX L XREF=D                                                                 
+250CF  L 1915      3                                                            
+250CFX L XREF=D                                                                 
+250CF  L 2015      3                                                            
+250CFX L XREF=D                                                                 

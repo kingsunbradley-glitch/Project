@@ -1,0 +1,214 @@
+251ES    ADOPTED LEVELS, GAMMAS                                  23NDS    202305
+251ES  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251ES  Q -1447     15 6785   SY 3948   5  6597.1  10   2021Wa16                 
+251ES cQ $|DS(n)=100 (2021Wa16)                                                 
+251ES cQ $S(2n)=12806 syst {I31},  S(2p)=9913 {I5} (2021Wa16)                   
+251ES CL BAND(A)$|p3/2-[521]                                                    
+251ES CL BAND(B)$|p7/2+[633]                                                    
+251ES CL BAND(C)$|p1/2-[521]                                                    
+251ES CL BAND(D)$|p7/2-[514]                                                    
+251ES CL BAND(E)$|[|p7/2+[633]~#2{++}|]11/2+ |g-vibrational band                
+251ES cG MR$If no value given it was assumed |d=1.00 for E2/M1, |d=1.00 for     
+251ES2cG E3/M2 and |d=0.10 for the other multipolarities                        
+251ES cL E$Determined by least-squares fit to the |g-ray energies, and          
+251ES2cL assuming that the 5/2- member of the |p3/2-[521] band decays to the    
+251ES3cL ground state by a 31.7 {I2} keV transition (c.f. {+251}Fm |e decay),   
+251ES4cL unless otherwise noted.                                                
+251ES cL E(F)$From {+250}Cf(|a,t).                                              
+251ES CL BAND(G)$|p9/2+[624]                                                    
+251ES DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.    
+251ES  XA251FM EC DECAY                                                         
+251ES  XB255MD A DECAY                                                          
+251ES  XC250CF(A,T)                                                             
+251ES  L 0            3/2-              33 H      1                         A   
+251ESX L XREF=ABC                                                               
+251ES2 L %A=0.5 1$%EC=99.5 1$CONF=|p3/2-[521] (1978Ah02)                        
+251ES cL T$From 1970Ah01.  Other: 1.5 days (1956Ha80).                          
+251ES cL %A$Deduced by evaluator from the observed ratio of |a-decay to K       
+251ES2cL x-rays I(|a)/I(X{-K})=0.008 {I2} (1970Ah01) and K x-rays per electron  
+251ES3cL capture I(X{-K})/I(|e)=0.64 {I5} (2005Ah09).                           
+251ES cL J$Favored |a decay to 3/2{+-} ground state of {+247}Bk (1979Ah03).     
+251ES2cL Further evidence comes from population of the 3/2{+-}[521] band but    
+251ES3cL not the 7/2{++}[633] band in electron-capture decay to {+251}Cf        
+251ES4cL (1970Ah01). Spectroscopic factors measured in {+250}Cf(|a,t) support   
+251ES5cL this assignment.                                                       
+251ES  L 8.34      23 (7/2)+                                                B   
+251ESX L XREF=AB                                                                
+251ES2 L CONF=|p7/2+[633]                                                       
+251ES cL J$log| {Ift}=6.75 from (9/2-) {+251}Fm limits J to 7/2, 9/2, 11/2;     
+251ES2cL Nilsson model gives 7/2{++}[633] as expected low-energy level.         
+251ES3cL Positive parity based on known M1+E2 transition from 7/2{+-}[514]      
+251ES4cL level.                                                                 
+251ES  L 31.70     20 5/2-                                                  A   
+251ESX L XREF=ABC                                                               
+251ES  L 55.85     23 (9/2)+                                                B   
+251ESX L XREF=AB                                                                
+251ES  G 47.48     6  100       M1+E2     0.243  +25-27 125   9                 
+251ESS G LC=92 7$MC=24.1 18$NC=6.7 5$OC=1.73 13$PC=0.311 20$QC=0.01213 20       
+251ES  L 76.1      3  7/2-                                                  A   
+251ESX L XREF=ABC                                                               
+251ES  L 114.08    24 (11/2+)                                               B   
+251ESX L XREF=A                                                                 
+251ES  L 182.6     3  (13/2+)                                               B   
+251ESX L XREF=AC                                                                
+251ES  L 263.0     4  (15/2+)                                               B   
+251ESX L XREF=A                                                                 
+251ES  L 411       2  (1/2-)                                                C   
+251ESX L XREF=C                                                                 
+251ESF L FLAG=F                                                                 
+251ES2 L CONF=|p1/2-[521]                                                       
+251ES  L 452       2  (5/2-)                                                C   
+251ESX L XREF=C                                                                 
+251ESF L FLAG=F                                                                 
+251ES  L 461.40    22 7/2-                                                  D   
+251ESX L XREF=AB                                                                
+251ES2 L CONF=7/2-[514]                                                         
+251ES cL J$Favored |a decay from 7/2{+-} {+255}Md, E1 component of 405.6-keV    
+251ES2cL |g to 9/2{++} state and M1 component of 429.7-keV |g to 5/2{+-} state  
+251ES3cL constrain spin to be 7/2{+-}.                                          
+251ES  G 385.3     2  2.1    2  (M1+E2)                 0.54  40                
+251ESS G KC=0.39 34$LC=0.107 48$MC=0.027 11$NC=0.0076 30$OC=0.00197 81$         
+251ESS G PC=3.7E-4 17$QC=1.7E-5 14                                              
+251ES  G 405.55    9  68.2   34 E1+M2     0.179  9      0.091 7                 
+251ESS G KC=0.066 5$LC=0.0187 15$MC=0.0048 4$NC=0.00136 11$OC=0.00035 3$        
+251ESS G PC=6.7E-5 6$QC=3.5E-6 3                                                
+251ES cG E$Weighted average of 405.6 {I1} keV (1978Ah02), 405.5 {I3} keV        
+251ES2cG (2000Ah02), and 405.2 {I3} keV (2005He27).                             
+251ES  G 429.7     1  5.7    5  (M1+E2)                 0.40  30                
+251ESS G KC=0.29 25$LC=0.078 38$MC=0.0196 86$NC=0.0055 24$OC=0.00142 64$        
+251ESS G PC=2.7E-4 13$QC=1.3E-5 10                                              
+251ES  G 453.06    9  100       E1+M2     0.236  +17-18 0.100 12                
+251ESS G KC=0.072 8$LC=0.0204 25$MC=0.0053 7$NC=0.00147 18$OC=0.00039 5$        
+251ESS G PC=7.3E-5 9$QC=3.9E-6 5                                                
+251ES cG E$Weighted average of 453.1 {I1} keV (1978Ah02), 453.0 {I3} keV        
+251ES2cG (2000Ah02), and 452.8 {I3} keV (2005He27).                             
+251ES  L 523       2  (9/2-)                                                D   
+251ESX L XREF=BC                                                                
+251ESF L FLAG=F                                                                 
+251ES  L 548       2  (7/2-)                                                C   
+251ESX L XREF=C                                                                 
+251ESF L FLAG=F                                                                 
+251ES  L 548       2  (9/2-)                                                C   
+251ESX L XREF=C                                                                 
+251ESF L FLAG=F                                                                 
+251ES  L 661       3  (1/2+)                                                F   
+251ESX L XREF=C                                                                 
+251ES2 L CONF=|p1/2+[400]                                                       
+251ES cL J$Based on spectroscopic factor in {+250}Cf(|a,t).                     
+251ES  L 777.94    24 (9/2)+                                                G   
+251ESX L XREF=A                                                                 
+251ES2 L CONF=|p9/2+[624]                                                       
+251ES cL J$M1 |g to 7/2{++} state and M1+E2 |g to 11/2{++} state require        
+251ES2cL 9/2{++}.                                                               
+251ES  G 664.0     3  4.3    8  (M1+E2)                 0.125 88                
+251ESS G KC=0.095 72$LC=0.023 13$MC=0.0056 30$NC=0.00157 82$OC=4.1E-4 22$       
+251ESS G PC=7.8E-5 43$QC=4.0E-6 29                                              
+251ES  G 722.1     2  21     2  M1+E2     0.50   +28-35 0.142 25                
+251ESS G KC=0.110 21$LC=0.024 4$MC=0.0059 9$NC=0.00163 24$OC=0.00043 7$         
+251ESS G PC=8.2E-5 13$QC=4.6E-6 9                                               
+251ES  G 769.6     1  100       M1                      0.1429                  
+251ESS G KC=0.1117 16$LC=0.0234 4$MC=0.00573 8$NC=0.001592 23$OC=0.000417 6$    
+251ESS G PC=8.07E-5 12$QC=4.60E-6 7                                             
+251ES  L 889.10    24 (11/2)+                                               E   
+251ESX L XREF=A                                                                 
+251ES2 L CONF=|[|p7/2+[633]~#2{++}|]11/2+                                       
+251ES cL J$E2 |g to (7/2{++}) and |g with M1 component to (13/2{++}) require    
+251ES2cL 11/2{++}.  Positive parity due to E2 decay to (7/2){++} level.         
+251ES  G 706.3     2  1.1    1  (M1+E2)                 0.106 74                
+251ESS G KC=0.081 60$LC=0.019 11$MC=0.0047 25$NC=0.00132 69$OC=3.4E-4 19$       
+251ESS G PC=6.6E-5 37$QC=3.4E-6 25                                              
+251ES  G 775.0     1  3.9    AP (M1+E2)                 0.084 57             @  
+251ESS G KC=0.064 46$LC=0.0148 82$MC=0.0037 20$NC=1.02E-3 54$OC=2.7E-4 15$      
+251ESS G PC=5.1E-5 29$QC=2.7E-6 19                                              
+251ES  G 833.3     1  29     2  M1+E2     2.21   +40-28 0.039 4                 
+251ESS G KC=0.028 4$LC=0.0078 6$MC=0.00197 14$NC=0.00055 4$OC=0.000142 10$      
+251ESS G PC=2.66E-5 20$QC=1.21E-6 13                                            
+251ES  G 880.8     1  100       E2                      0.0209                  
+251ESS G KC=0.01447 21$LC=0.00476 7$MC=0.001231 18$NC=0.000344 5$OC=8.86E-5 13$ 
+251ESS G PC=1.627E-5 23$QC=6.28E-7 9                                            
+251ES  L 942       4  (13/2)+                                               G   
+251ESX L XREF=C                                                                 
+251ESF L FLAG=F                                                                 
+251ES  L 957.52    24 (13/2)+                                               E   
+251ESX L XREF=AC                                                                
+251ES cL J$M1+E2 |g decays to 11/2{++}, 13/2{++}, and 15/2{++} requires         
+251ES2cL 13/2{++}.  E2 to (9/2){++} state requires positive parity.             
+251ES  G 694.5     3  12     2  (M1+E2)                 0.111 78                
+251ESS G KC=0.084 63$LC=0.020 11$MC=0.0050 26$NC=0.00138 73$OC=3.6E-4 19$       
+251ESS G PC=6.9E-5 38$QC=3.5E-6 26                                              
+251ES  G 775.0     1  32     AP (M1+E2)                 0.084 57             @  
+251ESS G KC=0.064 46$LC=0.0148 82$MC=0.0037 20$NC=1.02E-3 54$OC=2.7E-4 15$      
+251ESS G PC=5.1E-5 29$QC=2.7E-6 19                                              
+251ES  G 843.4     1  92     8  M1+E2     0.72   +22-20 0.081 12                
+251ESS G KC=0.063 10$LC=0.0138 17$MC=0.0034 4$NC=0.00095 11$OC=0.00025 3$       
+251ESS G PC=4.8E-5 6$QC=2.6E-6 4                                                
+251ES  G 901.6     1  100       E2                      0.0200                  
+251ESS G KC=0.01392 20$LC=0.00449 7$MC=0.001158 17$NC=0.000323 5$OC=8.34E-5 12$ 
+251ESS G PC=1.533E-5 22$QC=6.00E-7 9                                            
+251ES  L 1238.95   24 (11/2)+                                                   
+251ESX L XREF=A                                                                 
+251ES2 L CONF=|[|n9/2-[734]~#|n1/2+[620]~#|p3/2-[521]|]11/2+                    
+251ES cL J$M1 |g to 13/2{++} and E2 |g to 7/2{++} requires 11/2{++}.            
+251ES  G 281.4     1  8.6    6  M1                      2.24                    
+251ESS G KC=1.741 25$LC=0.371 6$MC=0.0914 13$NC=0.0254 4$OC=0.00666 10$         
+251ESS G PC=0.001288 18$QC=7.36E-5 11                                           
+251ES  G 349.9     1  100       M1                      1.223                   
+251ESS G KC=0.953 14$LC=0.202 3$MC=0.0498 7$NC=0.01384 20$OC=0.00363 5$         
+251ESS G PC=0.000702 10$QC=4.00E-5 6                                            
+251ES  G 461.0     1  11     1  (M1+E2)                 0.33  25                
+251ESS G KC=0.24 21$LC=0.063 32$MC=0.0160 73$NC=0.0044 21$OC=0.00116 54$        
+251ESS G PC=2.2E-4 11$QC=1.05E-5 82                                             
+251ES  G 1056.2    4  0.7    1  (M1+E2)                 0.038 23                
+251ESS G KC=0.029 19$LC=0.0065 35$MC=0.00160 83$NC=4.4E-4 23$OC=1.16E-4 61$     
+251ESS G PC=2.2E-5 12$QC=1.20E-6 76                                             
+251ES  G 1124.9    2  3.3    4  (M1+E2)                 0.032 19                
+251ESS G KC=0.025 16$LC=0.0055 29$MC=0.00135 69$NC=3.8E-4 19$OC=9.8E-5 51$      
+251ESS G PC=1.89E-5 99$QC=1.02E-6 63                                            
+251ES  G 1183.0    2  8.8    6  (M1+E2)                 0.028 17                
+251ESS G KC=0.022 13$LC=0.0048 25$MC=0.00119 60$NC=3.3E-4 17$OC=8.6E-5 44$      
+251ESS G PC=1.65E-5 86$QC=9.0E-7 54                                             
+251ES  G 1230.6    2  16     1  E2                     0.01111                  
+251ESS G KC=0.00823 12$LC=0.00214 3$MC=0.000539 8$NC=0.0001502 21$OC=3.89E-5 6$ 
+251ESS G PC=7.29E-6 11$QC=3.34E-7 5                                             
+251ES  L 1264.94   24 (11/2)+                                                   
+251ESX L XREF=A                                                                 
+251ES cL $Interpreted as a three-quasiparticle state, but a configuration       
+251ES2cL could not be definitively assigned.  See {+251}Fm |e decay.            
+251ES cL J$M1 component of |g to 13/2{++} and E2 |g to 7/2{++} requires         
+251ES2cL 11/2{++}.                                                              
+251ES  G 307.4     1  9.7    8  (M1+E2)                 1.01  74                
+251ESS G KC=0.72 65$LC=0.214 77$MC=0.055 17$NC=0.0153 46$OC=0.0040 13$          
+251ESS G PC=7.3E-4 28$QC=3.2E-5 26                                              
+251ES  G 375.8     1  100       M1                      1.005                   
+251ESS G KC=0.783 11$LC=0.1661 24$MC=0.0408 6$NC=0.01136 16$OC=0.00297 5$       
+251ESS G PC=0.000575 8$QC=3.28E-5 5                                             
+251ES  G 487.1     2  3.0    5  (M1+E2)                 0.28  21                
+251ESS G KC=0.21 18$LC=0.054 28$MC=0.0136 64$NC=0.0038 18$OC=9.8E-4 47$         
+251ESS G PC=1.86E-4 96$QC=9.1E-6 70                                             
+251ES  G 1151.0    2  4.1    5  (M1+E2)                 0.030 18                
+251ESS G KC=0.023 15$LC=0.0052 27$MC=0.00127 65$NC=3.5E-4 18$OC=9.3E-5 47$      
+251ESS G PC=1.78E-5 93$QC=9.6E-7 59                                             
+251ES  G 1209.1    2  9.5    8  (M1+E2)                 0.027 16                
+251ESS G KC=0.021 13$LC=0.0045 23$MC=0.00112 56$NC=3.1E-4 16$OC=8.1E-5 41$      
+251ESS G PC=1.56E-5 81$QC=8.5E-7 51                                             
+251ES  G 1256.6    2  18     1  E2                     0.01069                  
+251ESS G KC=0.00794 12$LC=0.00204 3$MC=0.000514 8$NC=0.0001431 20$OC=3.71E-5 6$ 
+251ESS G PC=6.96E-6 10$QC=3.21E-7 5                                             
+251ES  L 1301.4    3  (7/2+,9/2,11/2)                                           
+251ESX L XREF=A                                                                 
+251ES cL J$|g rays to (9/2+), (11/2+) levels; log| {Ift}=7.6,                   
+251ES2cL log|{If{+1u}t}=7.1 from (9/2-) {+251}Fm.                               
+251ES  G 1245.6    4  16     2                                                  
+251ES  G 1293.0    3  100                                                       
+251ES  L 1307.1    3  (7/2+,9/2,11/2+)                                          
+251ESX L XREF=A                                                                 
+251ES cL J$|g rays to (7/2+) and (11/2+) levels.                                
+251ES  G 1193.0    2  21     2                                                  
+251ES  G 1251.2    2  45     4                                                  
+251ES  G 1298.8    3  100                                                       
+251ES  L 1357.0    3  (7/2+,9/2,11/2+)                                          
+251ESX L XREF=A                                                                 
+251ES cL J$|g rays to (7/2+) and (11/2+) levels.                                
+251ES  G 1242.8    4  52     5                                                  
+251ES  G 1301.2    3  100    1                                                  
+251ES  G 1348.6    3  33     3                                                  

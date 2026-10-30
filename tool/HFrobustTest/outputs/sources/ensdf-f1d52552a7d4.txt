@@ -1,0 +1,72 @@
+258DB    262BH A DECAY (16 MS)         2009HE20,2006FO02         17NDS    201709
+258DB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 144, 297 (2017)$CUT=25-Aug-2017$      
+258DB c  All the reported measurements related to the production cross sections,
+258DB2c  E|a, half-life and decay modes of {+262}Bh isomer are from the GSI     
+258DB3c  and LBNL accelerator laboratories.                                     
+258DB c  2009He20: {+262}Bh produced in the {+209}Bi({+54}Cr,n) reaction,       
+258DB2c  the {+54}Cr beam delivered by the charge state injector of the UNILAC  
+258DB3c  accelerator at GSI Darmstadt. Evaporation residues were separated by   
+258DB4c  the velocity filter SHIP and implanted into a 16-strip Si PIPS         
+258DB5c  detector. A box of six Si-wafers was used to measure escaping          
+258DB6c  |a-particles. A Ge clover detector consisting of four crystals was used
+258DB7c  to measure |g rays in coincidence with particles. Measured E|a, E|g,   
+258DB8c  |a|g coin, half-lives, |s. Multiple events detected                    
+258DB c  2008Ne08: {+262}Bh produced in {+208}Pb({+55}Mn,n),E=273-283 MeV; and  
+258DB2c  {+209}Bi({+54}Cr,n), E=253.5-272.3 MeV; measured excitation functions, 
+258DB3c  E|a, |s, T{-1/2} of {+262}Bh decay. Single events detected             
+258DB c  2006Fo02: {+262}Bh produced in {+208}Pb({+55}Mn,n),E=260,264,268 MeV;  
+258DB2c  measured E|a, (evaporation residues)|a|a-correlations, excitation      
+258DB3c  functions, T{-1/2} of {+262}Bh decay                                   
+258DB c  1997Ho14: {+262}Bh source from |a-decay of {+266}Mt, measured E|a.     
+258DB2c  Single events detected                                                 
+258DB c  1989Mu09: {+262}Bh from {+209}Bi({+54}Cr,n),E=4.87-5.07 MeV/nucleon,   
+258DB2c  measured E|a, (evaporation residues)|a|a-correlations, T{-1/2}.        
+258DB3c  deduced no evidence for SF-decay of {+262}Bh                           
+258DB c  1981Mu06: {+262}Bh produced in {+209}Bi({+54}Cr,n),E=4.85 MeV/nucleon, 
+258DB2c  measured E|a, T{-1/2}                                                  
+258DB cA $1997Ho14 report separate half-lives for different observed |a groups  
+258DB2cA as follows: T{-1/2}=15.5 ms for E|a=1100 keV (escape); 4.8 ms for      
+258DB3cA E|a=6400 keV (escape); 14.6 ms for E|a=9803; 9.8 ms for E|a=9834;      
+258DB4cA 5.2 ms for E|a=9902; 31 ms for E|a=10001; 9.1 ms for E|a=10210;        
+258DB5cA 8.0 ms for E|a=10213; 12.0 ms for E|a=10372; 11.6 ms for E|a=10379;    
+258DB6cA 12.7 ms for E|a=10443.                                                 
+258DB cA $T{-1/2}(10.37 MeV |a)=4.7 ms {I+25-12}, T{-1/2}(10.24 MeV |a)=12.4 ms 
+258DB2cA {I+81-35} were measured, and T{-1/2}({+262}Bh parent state)=8.0 ms     
+258DB3cA {I21} assigned by 1989Mu09.                                            
+258DB cA $The 9902|a and 10001|a, both with single events from 1997Ho14 are not 
+258DB2cA adopted here. These could belong to the decay of the g.s. or the isomer
+258DB cA E$The |a energies were measured by 1981Mu06, 1989Mu09, 1997Ho14 and    
+258DB2cA 2009He20. The |a particles were detected following {+266}Mt |a decay.  
+258DB3cA All the |a transitions were observed to be correlated with the decays  
+258DB4cA of {+258}Db, {+254}Lr, {+254}No and {+250}Fm.                          
+258DB cA IA$Because of low |a counts, no I|a values are adopted.                
+262BH  P 210       50                   16 MS    6              10319     15    
+262BH cP E$Deduced by 2017Au03 from measured alpha-energy differences           
+262BH cP T$From unweighted average of 22 ms {I4} (2009He20) and 9.6 ms {I+36-24}
+262BH2cP (2006Fo02). Others: 16 ms {I+14-5} (2008Ne08, same laboratory (LBNL)   
+262BH3cP as 2006Fo02), 8.0 ms {I21} (1989Mu09), 8.2 ms {I22} (1988Mu15),        
+262BH4cP 4.7 ms {I+23-16} (1981Mu06). 1989Mu09, 1988Mu15 and 1981Mu06 are from  
+262BH5cP the same laboratory (GSI) as 2009He20. Weighted average of the two     
+262BH6cP values is 14 ms {I6} but with reduced |h{+2}=6.1 as compared to        
+262BH7cP critical |h{+2}=3.8. In 2001Ak11 evaluation, T{-1/2}=8.0 ms {I21}      
+262BH cP QP$From 2017Wa10, deduced from E|a=10008 {I26} (2009He20) based on     
+262BH2cP 156.5 level for the decay of the ground state of {+262}Bh              
+258DB  N                       1       AP                                       
+258DB cN BR$%|a |? 100. No evidence was found by 2006Fo02 and 1989Mu09 for      
+258DB2cN fission decay mode of {+262}Bh, 2006Fo02 give an upper limit of 24%    
+258DB3cN and 1989Mu09 suggest an upper limit of 10% for SF decay mode           
+258DB  G 102.4     5                                                            
+258DB cG E$|g observed by 2009He20 in coin with 9826|a group                    
+258DB  L 0+Z                                                                    
+258DB  A 10373     15                                                           
+258DB cA E$from 2009He20. Others: 10383 (2008Ne08), 10348 (2006Fo02),           
+258DB2cA 10372, 10379, 10443 (1997Ho14), 10370 {I25} (1989Mu09),                
+258DB3cA 10376 {I35} (1981Mu06)                                                 
+258DB  L 184+Z     50                                                           
+258DB  A 10197     15                                                           
+258DB cA E$from 2009He20. Others: 10067 (2008Ne08), 10231 {I25} (2006Fo02),     
+258DB2cA 10213 (1997Ho14), 10240 {I25} (1989Mu09), 10230 {I30} (1988Mu15)       
+258DB  L 561+Z     50                                                           
+258DB  A 9826      15                                                           
+258DB cA E$from 2009He20. Other: 9834, 9803 (1997Ho14)                          
+258DB cA $102.4 {I5} |g observed by 2009He20 in coin with 9826|a group          

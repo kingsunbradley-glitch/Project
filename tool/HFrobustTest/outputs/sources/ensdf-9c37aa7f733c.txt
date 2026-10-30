@@ -1,0 +1,379 @@
+213FR    ADOPTED LEVELS, GAMMAS                                  22NDS    202203
+213FR  H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 181, 475 (2022)$CUT=1-Jan-2022$      
+213FR  Q -3900     118110    102184    6 6904.7  13    2021WA16                 
+213FR c  2015Ba20: {+136}Xe + {+208}Pb, E(c.m.)=450 MeV, measured multi-nucleon 
+213FR2c  transfer reaction cross section |s{-cumulative yield}=0.0402 mb {I80} a
+213FR3c  |s{-independent yield}=0.0402 mb {I80} for {+213}Fr.                   
+213FR c  1986Hi01,1988Ne03: {+197}Au({+16}O,F), E=95-124 MeV, measured neutron  
+213FR2c  fission-fragment angular correlations for the compound nuclei. 1988Ne03
+213FR3c  measured average number of neutrons preceding fission.                 
+213FR c  2009Pa49: {+238}U(p,X), E=1 GeV; measured fission and spallation yields
+213FR2c  from different mass targets.                                           
+213FR c  2014Si03: {+194}Pt({+19}F,X), E=96.2-137.3 MeV; measured spectra and   
+213FR2c  angular distribution of evaporation residues (Er), |s(Er, E).          
+213FR c  1972Le23: {+205}Tl({+12}C,4n), E=60-90 MeV, measured |s(E).            
+213FR cG           All |g properties are from (HI,xn|g) data.                   
+213FR cG E(S)      Transition expected, but not observed.                       
+213FR cL E         Deduced by the evaluator from a least squares fit to the     
+213FR2cL |g-ray energies. E|g related to uncertain placement and expected ones  
+213FR3cL were ignored.                                                          
+213FR cL J         Spins and parities for levels above 1188 keV are from        
+213FR2cL (HI,xn|g) data. These assignments are based on |g angular distribution,
+213FR3cL linear polarization, conversion electron measurements, and             
+213FR4cL transition strengths.                                                  
+213FR cL T         All excited states' half-lives are from (HI,xn|g) data.      
+213FR  XE213RA EC DECAY (2.73 M)                                                
+213FR  XA217AC A DECAY (69 NS)                                                  
+213FR  XC217AC A DECAY: E=1.15 MEV                                              
+213FR  XD217AC A DECAY (8 NS)                                                   
+213FR  XB217AC A DECAY (740 NS)                                                 
+213FR  XH(HI,XNG)                                                               
+213FR DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+213FR PN                                                                     6  
+213FR  L 0.0          9/2-             34.17 S   6                              
+213FR4 L XREF=ABCDH                                                             
+213FR8 L %A=99.44 5$ %EC+%B+=0.56 5                                             
+213FR cL J         Measured by Atomic Beam Magnetic Resonance (ABMR)            
+213FR2cL technique (1978Ek02, 1978Ek05); configuration: |p (h{-9/2}{++1}) from  
+213FRxcL |m and shell model.                                                    
+213FR cL T$Weighted average of 34.6 s {I3} (1974Ho27), 34.7 s {I3} (1967Va20),  
+213FR2cL 33.7 s {I15} (1964Gr04), 34.14 s {I6} (2013Fi08), 33.2 s {I20}         
+213FR3cL (2016Pr08 - 605.9-keV conversion electron (t) (corresponding to the    
+213FR4cL 704.3 keV |g ray ).  28.4 s {I35} (2016Pr08 - from 577.0|g(t) of       
+213FR5cL {+209}At following the |a decay of {+213}Fr), 34.1 s {I7} and 34 s     
+213FR6cL {I6} (2012No08 - the latter value was measured for {+213}Fr{++86} at   
+213FR7cL rest and both from |a(t)), 16 s {I+37-13} (2015De22), 20 s {I+48-8}    
+213FR8cL (2019Mi08). Others: 35.0 s {I2} (1982Bo04  - possibly contribution     
+213FR9cL from {+213}Ra, {+211}Po contaminations not discussed), 34 s (1961Gr42 -
+213FRacL from 6770|a(t)).                                                       
+213FR cL $%|a: Weighted average of %|a=99.1 {I1}, %(|e+|b{++})=0.9 {I1}         
+213FR2cL (1974Ho27), %|a=99.48 {I3}, %(|e+|b{++})=0.52 {I3} (1964Gr04) and      
+213FR3cL %|a=99.43 {I3}, %(|e+|b{++})=0.57 {I3} (1967Va20). |h{+2}=6.7 cf.      
+213FR4cL |h{+2}{-crit}=3.0. Other: %|a=99.75 {I15}, %(|e+|b{++})=0.25 {I15}     
+213FR5cL (2017Lo13 - possible escape of {+213}Rn). (|e+|b{++}) branching was    
+213FR6cL deduced from comparison of {+213}Fr and {+213}Rn |a's in by 1964Gr04,  
+213FR7cL 1967Va20, 1974Ho27, and 2017Lo13. Weighted average of all values is the
+213FR8cL same as above with |h{+2}=5.9 cf. |h{+2}{-crit}=2.6 and unweighted     
+213FR9cL average: %|a=99.44 {I13}, %(|e+|b{++})=0.56 {I13}.                     
+213FR3 L MOMM1=+4.02 8$ MOME2=-0.14 2                                           
+213FR cL MOMM1     From 2019StZV, (1985Co24 and 1986Ek02 - by LASER induced     
+213FR2cL optical pumping). Other: 3.996 {I14} (1980Li22 - deduced from g{-l}    
+213FR3cL value).                                                                
+213FR cL MOME2$From 2016St14, 1985Co24                                          
+213FR cL $ |d<r{+2}>({+212}Fr,{+213}Fr)=0.06829 fm{+2} {I8} (1987Co19) and      
+213FR2cL 0.02780 {I3} (1985Co24). Same first author for both. Uncertainty is    
+213FR3cL statistical only, 1987Co19 noted the systematic uncertainty to be a few
+213FR4cL percent. Isotope shift measurement - 2014Co18.                         
+213FR  L 498.0     10(7/2-)                                                     
+213FR2 L XREF=B                                                                 
+213FR cL J         From dominant I{-|a}=11 with respect to I{-|a}(10540)=100 in 
+213FR2cL {+217}Ac |a decay (740 ns).                                            
+213FR  G 498          100                                                       
+213FR  L 1105.0    10(13/2)+                                                    
+213FR2 L XREF=B                                                                 
+213FR cL J         1105|g M2 to 9/2- g.s. and I{-|a}(10540)=90 {I6} branching in
+213FR2cL {+217}Ac |a decay (740 ns).                                            
+213FR  G 1105         100      M2                      0.0479  7                
+213FRS G  KC=0.0380 5$LC=0.00747 10$MC=0.001800 25                              
+213FRS G  NC=0.000473 7$OC=0.0001056 15$PC=1.688E-5 24$QC=9.26E-7 13            
+213FRS G  IPC=5.71E-8 8                                                         
+213FR cG M         from ce in {+217}Ac |a decay (740 ns) (1985De14).            
+213FR  L 1188.80   10 13/2-            2.1 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J$1188.8|g E2 to 9/2- state. Configuration: |p (h{-9/2}{++1})~#2{++}   
+213FR  G 1188.8    1  100      E2                      0.00616 9                
+213FRS G  KC=0.00487 7$LC=0.000976 14$MC=0.0002354 33                           
+213FRS G  NC=6.16E-5 9$OC=1.360E-5 19$PC=2.119E-6 30$QC=1.025E-7 14             
+213FRS G  IPC=2.65E-6 4                                                         
+213FR  L 1411.00   15 17/2-            18 NS     1                              
+213FR3 L XREF=H                                                                 
+213FR2 L MOMM1=7.5 14 (1986By01,2020StZV)                                       
+213FR cL J         222.2|g E2 to 13/2- state. g=0.88 {I16} by |g(H,|q,t) in     
+213FR2cL (HI,xn|g) (1986By01). Configuration: |p (h{-9/2}{++1})~#4{++}          
+213FR  G 222.2     1  100      E2                      0.382   5                
+213FRB G BE2W=0.556 +33-30                                                      
+213FRS G  KC=0.1318 18$LC=0.1845 26$MC=0.0494 7                                 
+213FRS G  NC=0.01295 18$OC=0.00271 4$PC=0.000362 5$QC=3.43E-6 5                 
+213FR  L 1590.40   18 21/2-            505 NS    14                             
+213FR3 L XREF=H                                                                 
+213FR2 L MOMM1=9.28 3 (2020StZV)                                                
+213FR cL J         179.4|g E2 to 17/2- state. Measurements: g=0.888 {I3}        
+213FR2cL (1977Be56, 1976Ha37); 0.888 {I4} (1979Ho06); 0.89 {I2} (1986By01) by   
+213FR3cL |g(H,|q,t) in (HI,xn|g); 0.888 {I3} (1978Ha50). Configuration:         
+213FR4cL |p (h{-9/2}{++1})~#6{++}                                               
+213FR  G 179.4     1  100      E2                      0.823  12                
+213FRB G BE2W=0.0438 13                                                         
+213FRS G  KC=0.2013 28$LC=0.458 7$MC=0.1234 18                                  
+213FRS G  NC=0.0324 5$OC=0.00675 10$PC=0.000890 13$QC=5.84E-6 8                 
+213FR  L 1856.30   20  23/2-           1.4 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         265.9|g M1+E2 to 21/2- state. Configuration:                 
+213FRxcL |p (h{-9/2}{++2},f{-7/2}{++1})                                         
+213FR  G 265.9     1  100      M1+E2     0.9     +11-9 0.60   31                
+213FRS G  NC=0.0074 9$OC=0.00161 25$PC=0.00024 5$QC=1.0E-5 6                    
+213FRS G  KC=0.45 29$LC=0.113 20$MC=0.028 4                                     
+213FR  L 2537.61   23  29/2+           238 NS    6                              
+213FR3 L XREF=H                                                                 
+213FR cL J         681.3|g E3 to 23/2- state. Main configuration:               
+213FRxcL |p (h{-9/2}{++2},i{-13/2}{++1})                                        
+213FR cL T         Other: 243 ns {I21} (1986By01).                              
+213FR2 L MOMM1=15.15 5 $ MOME2=-0.70 7                                          
+213FR cL MOMM1     From 2020StZV, 1977Be56. g factor measurements by |g(H,|q,t),
+213FR2cL corrected for Knight shift: g=1.055 {I5} (1989By01), 1.049 {I2}        
+213FR3cL (1979Ho06), 1.0494 {I18} (1977Be56,1976Ha37,1978Ha50), 1.04 {I2}       
+213FR4cL (1974Re09), and 1.05 {I3} (1973ReZP).                                  
+213FR cL MOME2     From 1990By03, 2016St14. Deduced value using                 
+213FR2cL B(E2) for the 8+ to 6+ transition in {+212}Rn and an effective         
+213FR3cL charge of 1.5e. See also 1991Ha02 for calculations. Q=0.81 {I4}        
+213FR4cL in 1990Ha30 from level mixing spectroscopy.                            
+213FR  G 681.3     1  100      E3                      0.0529  7                
+213FRB G BE3W=26.4 7                                                            
+213FRS G  KC=0.0317 4$LC=0.01579 22$MC=0.00412 6                                
+213FRS G  NC=0.001086 15$OC=0.0002336 33$PC=3.38E-5 5$QC=9.27E-7 13             
+213FR  L 2740.2     3 27/2-            7 NS      LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         884|g E2 to 23/2- state.                                     
+213FRxcL Configuration: |p (h{-9/2}{++2},f{-7/2}{++1})~#2{++}                   
+213FR  G 202.8     4                                                           ?
+213FR  G 884.0     3  100    16E2                      0.0108715                
+213FRS G  KC=0.00831 12$LC=0.001929 27$MC=0.000473 7                            
+213FRS G  NC=0.0001238 17$OC=2.71E-5 4$PC=4.14E-6 6$QC=1.787E-7 25              
+213FR  L 2950.5     3  31/2-           2.1 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         413.0|g E1 to 29/2+ state, 210.4|g (E2) to 27/2- state.      
+213FR2cL Configuration: |p (h{-9/2}{++2},f{-7/2}{++1})~#4{++}                   
+213FR  G 210.4     3  33     LT(E2)                    0.462   7                
+213FRS G  KC=0.1474 21$LC=0.2319 35$MC=0.0622 9                                 
+213FRS G  NC=0.01631 25$OC=0.00341 5$PC=0.000454 7$QC=3.92E-6 6                 
+213FR  G 413.0     2  100    2 E1                      0.0169524                
+213FRS G  KC=0.01381 19$LC=0.002396 34$MC=0.000567 8                            
+213FRS G  NC=0.0001475 21$OC=3.25E-5 5$PC=5.03E-6 7$QC=2.474E-7 35              
+213FR  L 3427.34   24 33/2+            2.1 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         476.9|g E1 to 31/2- state, 889.7|g E2 to 29/2+ state.        
+213FR2cL Configuration: |p (h{-9/2}{++2},i{-13/2}{++1})~#2{++}                  
+213FR  G 476.9     2  45.7   20E1                      0.0125518                
+213FRS G  KC=0.01025 14$LC=0.001751 25$MC=0.000413 6                            
+213FRS G  NC=0.0001077 15$OC=2.376E-5 33$PC=3.70E-6 5$QC=1.858E-7 26            
+213FR  G 889.7     1  100    4 E2                      0.0107315                
+213FRS G  KC=0.00822 12$LC=0.001899 27$MC=0.000465 7                            
+213FRS G  NC=0.0001219 17$OC=2.67E-5 4$PC=4.08E-6 6$QC=1.765E-7 25              
+213FR  L 3489.2     4 (33/2)                                                    
+213FR2 L XREF=H                                                                 
+213FR cL J         538.7|g (D) to 31/2- state.                                  
+213FR  G 538.7     3  100      (D)                                              
+213FR  L 3655.4     4  37/2+           2.4 NS    7                              
+213FR2 L XREF=H                                                                 
+213FR cL J         228.1|g E2 to 33/2+ state. Configuration:                    
+213FRxcL |p (h{-9/2}{++2},i{-13/2}{++1})~#4{++}                                 
+213FR  G 228.1     2  100      E2                      0.349   5                
+213FRB G BE2W=3.8 +16-8                                                         
+213FRS G  KC=0.1248 18$LC=0.1655 24$MC=0.0443 6                                 
+213FRS G  NC=0.01161 17$OC=0.002433 35$PC=0.000325 5$QC=3.22E-6 5               
+213FR  L 4029.2     5                                                           
+213FR2 L XREF=H                                                                 
+213FR  G 540.0     3  100                                                       
+213FR  L 4082.9    4   39/2+           1.4 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         427.5|g M1+E2 to 37/2+ state.                                
+213FR  G 427.5     1  100      M1+E2     0.10    3     0.246   4                
+213FRS G  KC=0.1992 30$LC=0.0359 5$MC=0.00854 12                                
+213FRS G  NC=0.002237 32$OC=0.000500 7$PC=8.02E-5 12$QC=4.47E-6 7               
+213FR  L 4653.6    11                                                          ?
+213FR2 L XREF=H                                                                 
+213FR  G 624.2     5  100                                                      ?
+213FR  L 4675.4     4                  2.1 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL           Two cascading gammas combining the level with 47/2-, three   
+213FR2cL cascading gammas from 49/2+ state, and probable M1 character of the    
+213FR3cL 592.5|g to 39/2+ suggest (41/2+).                                      
+213FR  G 592.5     3  100    7                                                  
+213FR  L 4695.9     4 39/2-            2.1 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         1040.3|g E1 to 37/2+ state.                                  
+213FR  G 42.3                                                               S  S
+213FR  G 665                                                                   ?
+213FR  G 1040.3    3  100    10E1                      0.00286 4                
+213FRS G  KC=0.002364 33$LC=0.000377 5$MC=8.83E-5 12                            
+213FRS G  NC=2.304E-5 32$OC=5.13E-6 7$PC=8.15E-7 11$QC=4.46E-8 6                
+213FR cG           Other probable gammas from the level are ignored             
+213FR  L 4898.5     4  41/2-           2.8 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         815.6|g E1 to 39/2+ state.                                   
+213FR  G 815.6     2  100      E1                      0.00443 6                
+213FRS G  KC=0.00365 5$LC=0.000593 8$MC=0.0001392 19                            
+213FRS G  NC=3.63E-5 5$OC=8.06E-6 11$PC=1.274E-6 18$QC=6.82E-8 10               
+213FR  L 4982.0     6                                                           
+213FR2 L XREF=H                                                                 
+213FR cL           If 306.5|g to 4675.4-keV level is E1, as implied by intensity
+213FR2cL balance at 4675.4-keV level, and if J|p(4675.4-keV level) is           
+213FR3cL (41/2+), J|p(4982.0-keV level)=(43/2-) is consistent with being        
+213FR4cL populated from 49/2+ state through three cascading |g transitions.     
+213FR  G 306.5     4  100                                                       
+213FR  L 4992.7    4   45/2-           13 NS     2                              
+213FR3 L XREF=H                                                                 
+213FR2 L MOMM1=23.2 7                                                           
+213FR cL J         909.8|g E3 to 39/2+ state, 94.4|g E2 to 41/2- state.         
+213FR2cL Measurements: g=0.990 {I25} (1979Ho06); 1.03 {I3} (1986By01) by        
+213FR3cL |g(H,|q,t) in (HI,xn|g).                                               
+213FR cL $ Configuration: |p (h{-9/2}{++3},i{-13/2}{++2})                       
+213FR cL MOMM1     From 2020StZV, 1986By01 from time-differential               
+213FR2cL perturbed angular distribution (TDPAD) measurements.                   
+213FR  G 94.4      3  3.4    9 E2                      11.49  24                
+213FRB G BE2W=1.80 +48-43                                                       
+213FRS G  LC=8.46 17$MC=2.29 5                                                  
+213FRS G  NC=0.601 12$OC=0.1244 26$PC=0.01601 33$QC=3.84E-5 7                   
+213FR  G 909.8     2  100    8 E3                      0.0255  4                
+213FRB G BE3W=46 +10-7                                                          
+213FRS G  KC=0.01750 25$LC=0.00601 8$MC=0.001530 21                             
+213FRS G  NC=0.000403 6$OC=8.75E-5 12$PC=1.303E-5 18$QC=4.59E-7 6               
+213FR  L 5001.9     5                                                           
+213FR2 L XREF=H                                                                 
+213FR cL           784.0|g from 47/2- state and two cascading |g transitions    
+213FR3cL to 39/2+ state (326.3|g (D) and 592.5|g (D)) suggest J|p=(43/2-).      
+213FR  G 326.3     4  100      (D)                                              
+213FR  L 5220.2     5                                                           
+213FR2 L XREF=H                                                                 
+213FR  G 227.5                                                              S  S
+213FR  G 238                                                                    
+213FR  G 545.1     5  100                                                       
+213FR  L 5506.3     4 43/2-            2.1 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         810.2|g E2 to 39/2- state.                                   
+213FR  G 810.2     3  100      E2                      0.0129318                
+213FRS G  KC=0.00975 14$LC=0.002392 34$MC=0.000590 8                            
+213FRS G  NC=0.0001545 22$OC=3.38E-5 5$PC=5.12E-6 7$QC=2.112E-7 30              
+213FR  L 5785.9     4  47/2-           1.4 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         793.2|g M1 to 45/2- state. 279.6|g E2 to 43/2- state.        
+213FR  G 279.6     2  46     4 E2                      0.1797 25                
+213FRS G  KC=0.0812 11$LC=0.0729 10$MC=0.01932 28                               
+213FRS G  NC=0.00507 7$OC=0.001068 15$PC=0.0001452 21$QC=1.989E-6 28            
+213FR  G 784.0     4  2.3    8                                                  
+213FR  G 793.2     3  100    16 M1                     0.0481                   
+213FRS G  KC=0.0391 6$LC=0.00690 10$MC=0.001638 23                              
+213FRS G  NC=0.000429 6$OC=9.60E-5 14$PC=1.541E-5 22$QC=8.66E-7 13              
+213FR  L 5814.8     5(45/2+)                                                    
+213FR2 L XREF=H                                                                 
+213FR cL J         308.3|g (E1) to 43/2- state.                                 
+213FR  G 308.3     3  60     20(E1)                    0.0322  5                
+213FRS G  NC=0.000288 4$OC=6.32E-5 9$PC=9.66E-6 14$QC=4.53E-7 6                 
+213FRS G  KC=0.0260 4$LC=0.00467 7$MC=0.001109 16                               
+213FR  G 594.7     4  100    20                                                 
+213FR  L 5951.5     5                                                           
+213FR2 L XREF=H                                                                 
+213FR  G 949.4     3  91     36                                                 
+213FR  G 959.0     3  100    27                                                 
+213FR  L 6102.7     6 (49/2-)                                                   
+213FR2 L XREF=H                                                                 
+213FR cL J         316.8|g (M1+E2) to 47/2- state.                              
+213FR  G 316.8     4  100      (M1+E2)                 0.34   22                
+213FRS G  KC=0.26 20$LC=0.064 18$MC=0.016 4                                     
+213FRS G  NC=0.00411 99$OC=9.0E-4 24$PC=1.4E-4 5$QC=6.E-6 4                     
+213FR  L 6334.1     5                                                           
+213FR2 L XREF=H                                                                 
+213FR  G 382.7     3  100                                                       
+213FR  L 6572.9     4 49/2+            2.1 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         786.9|g E1 to 47/2- state.                                   
+213FR  G 239.0     4  9      5                                                  
+213FR  G 469.7     4                                                           ?
+213FR  G 758.0     4  16     3                                                  
+213FR  G 786.9     1  100    9 E1                      0.00473 7                
+213FRS G  KC=0.00390 5$LC=0.000635 9$MC=0.0001491 21                            
+213FRS G  NC=3.89E-5 5$OC=8.63E-6 12$PC=1.363E-6 19$QC=7.27E-8 10               
+213FR  L 6715.3     5 53/2+            6.2 NS    14                             
+213FR2 L XREF=H                                                                 
+213FR cL J         142.3|g E2 to 49/2+ state, 929.5|g E3 to 47/2- state.        
+213FR2cL Configuration: |p ([h{-9/2}{++4},i{-13/2}{++1}]{-37/2{++}})            
+213FR3cL |n ([p{-1/2}{+-1},j{-15/2}{++1}]{-8{++}})                              
+213FR  G 142.3     3  71     9 E2                      2.027  33                
+213FRB G BE2W=4.6 +15-9                                                         
+213FRS G  KC=0.292 4$LC=1.278 22$MC=0.345 6                                     
+213FRS G  NC=0.0906 15$OC=0.01883 32$PC=0.00245 4$QC=1.083E-5 16                
+213FR  G 929.5     3  100    20E3                      0.0242834                
+213FRB G BE3W=38 +13-9                                                          
+213FRS G  KC=0.01676 23$LC=0.00563 8$MC=0.001429 20                             
+213FRS G  NC=0.000376 5$OC=8.18E-5 11$PC=1.221E-5 17$QC=4.37E-7 6               
+213FR  L 6724.5     7(55/2+)                                                    
+213FR2 L XREF=H                                                                 
+213FR cL J         621.8|g to (49/2-) state presumably an E3, since of the      
+213FR2cL cascading 621.8|g and 316.8|g (from 49/2- state) later one is (M1+E2). 
+213FR  G 9.2                                                                S  S
+213FR  G 621.8     3  100    33[E3]                    0.0681 10                
+213FRS G  KC=0.0384 5$LC=0.02205 31$MC=0.00580 8                                
+213FRS G  NC=0.001529 22$OC=0.000328 5$PC=4.70E-5 7$QC=1.171E-6 16              
+213FR  L 6803.0     8  (55/2)                                                   
+213FR2 L XREF=H                                                                 
+213FR cL J         Assuming the 738.8|g from the 7541 level is dipole;          
+213FR2cL no |g from (59/2+).                                                    
+213FR  G 78.4         100                                                   S  S
+213FR  L 6812.8     6                                                           
+213FR2 L XREF=H                                                                 
+213FR  G 478.7     3  100                                                       
+213FR  L 7135.0     8                                                           
+213FR2 L XREF=H                                                                 
+213FR  G 322.2     5  100                                                       
+213FR  L 7247.5     8                                                           
+213FR2 L XREF=H                                                                 
+213FR  G 112.2        100                                                   S  S
+213FR  L 7288.0     7(57/2+)           2.1 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         563.3|g M1 to (55/2+) state.                                 
+213FR  G 563.3     3  100      M1                      0.1187 17                
+213FRS G  KC=0.0961 14$LC=0.01716 24$MC=0.00408 6                               
+213FRS G  NC=0.001068 15$OC=0.0002388 34$PC=3.83E-5 5$QC=2.146E-6 30            
+213FR  L 7374.4     8 (57/2,59/2)                                               
+213FR2 L XREF=H                                                                 
+213FR cL J         349.5|g from (59/2+) state at 7723 keV is probably dipole;   
+213FR2cL possible |g to (57/2+); level decays through six cascading gammas to   
+213FR3cL 45/2- level. If 349.5|g is E1, then |p=(-).                            
+213FR  G 86.3                                                               S  S
+213FR  G 127.2     4  100    19                                                 
+213FR  L 7541.8     7 (57/2)                                                    
+213FR2 L XREF=H                                                                 
+213FR cL J         182.0|g from (59/2+) state at 7723 keV is dipole; 817.7|g to 
+213FR2cL (55/2+) state. If 182.0|g is M1, as suggested by the intensity balance 
+213FR3cL at the 7723.3 level, then J|p=(57/2+).                                 
+213FR  G 253.6     4  100    7                                                  
+213FR  G 294.1     3  13     3                                                  
+213FR  G 738.8     3  12.8   15 D                                               
+213FR  G 817.7     3  15     5                                                  
+213FR  L 7723.7     7 (59/2+)                                                   
+213FR2 L XREF=H                                                                 
+213FR cL J         182|g D to (57/2), 349.5|g D to (57/2,59/2).                 
+213FR2cL Configuration: |p ([h{-9/2}{++3},i{-13/2}{++1},f{-7/2}]{-39/2{++}})    
+213FR3cL |n ([p{-1/2}{+-2},g{-9/2},i{-11/2}]{-10{++}})                          
+213FR  G 182.0     3  56     11 D                                               
+213FR  G 349.5     3  100    6  D                                               
+213FR  G 435.6     4  11     3                                                  
+213FR  G 998.9     3  16     5                                                  
+213FR  L 7983.6     7(61/2-)           3.5 NS    LT                             
+213FR2 L XREF=H                                                                 
+213FR cL J         1259|g E3 to (55/2+),                                        
+213FR2cL Possible configuration: |p([h{-9/2}{++3},i{-13/2}{++2}]{-45/2{+-}})    
+213FR3cL |n ([p{-1/2}{+-1},j{-15/2}{++1}]{-8{++}}).                             
+213FR  G 695                                                                    
+213FR  G 1259.1    3  100    5 E3                      0.0122917                
+213FRS G  KC=0.00916 13$LC=0.002352 33$MC=0.000583 8                            
+213FRS G  NC=0.0001532 21$OC=3.36E-5 5$PC=5.15E-6 7$QC=2.204E-7 31              
+213FRS G  IPC=3.31E-6 5                                                         
+213FR  L 8094.9     7(65/2-)           3.1 US    2                              
+213FR2 L XREF=H                                                                 
+213FR cL J         371.2|g (E3) to (59/2+) state.                               
+213FR2cL Configuration: |p ([h{-9/2}{++3},i{-13/2}{++2}]{-45/2{+-}})            
+213FR3cL |n ([p{-1/2}{+-2},g{-9/2},i{-11/2}]{-10{++}})                          
+213FR2 L MOMM1=22.5 2 $ MOME2=-2.19 53                                          
+213FR cL MOMM1     From 2020StZV, 1989By01 from time-differential               
+213FR2cL perturbed angular distribution (TDPAD) measurements.                   
+213FR cL MOME2     From 1991Ha02 (not given in 2016St14), if Q(29/2+ state)     
+213FR2cL =-0.70 {I7}. In 1990Ha30, Q=2.51 {I51} was obtained by level mixing    
+213FR2cL spectroscopy, a g-factor of 0.695 {I7} was used.                       
+213FR  G 111.3     2  64.0   19(E2)                    5.66    9                
+213FRB G BE2W=0.0162 11                                                         
+213FRS G  KC=0.329 5$LC=3.92 6$MC=1.063 17                                      
+213FRS G  NC=0.279 5$OC=0.0578 9$PC=0.00747 12$QC=2.235E-5 34                   
+213FR  G 371.2     2  100    8 (E3)                    0.372   5                
+213FRB G BE3W=26.6 24                                                           
+213FRS G  KC=0.1160 16$LC=0.1879 27$MC=0.0513 7                                 
+213FRS G  NC=0.01356 19$OC=0.00286 4$PC=0.000392 6$QC=4.99E-6 7                 

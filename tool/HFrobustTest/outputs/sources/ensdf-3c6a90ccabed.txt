@@ -1,0 +1,55 @@
+220TH    224U A DECAY                  2014LO10                  26NDS    202609
+220TH  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220TH2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220TH dA HF$Hindrance Factor is calculated by AlphaHF (version 10-Jan-2025)     
+220TH dL E$Least-squares fitting is done by GLSC (version 19-Aug-2025)          
+220TH c  2014Lo10: {+224}U produced using the fusion evaporation reaction       
+220TH2c  {+206}Pb({+22}Ne,4n), with 119 MeV {+22}Ne beam produced at FLNR       
+220TH3c  facility (Dubna). Evaporation residue (Er) was separated using SHELS   
+220TH4c  separator and then passed through a tof system and implanted into a    
+220TH5c  DSSD in front of a HPGe. Position and time-correlated |a decays were   
+220TH6c  used to identify Er. Measured E|a, I|a, E|g, I|g, |a|g-coin,           
+220TH7c  (Er)|a-coin and T{-1/2} of {+224}U g.s. Cross section with lower limit 
+220TH8c  of 600 nb {I100} was obtained.                                         
+220TH c  2019Pa45: {+220}Th activity produced as |a decay daughter of {+224}U.  
+220TH2c  The {+224}U activity was produced in the {+20}Ne+{+208}Pb experiment   
+220TH3c  with E=109 MeV at the Acceleratory Laboratory at the University of     
+220TH4c  Jyvaskyla. Recoils separated in the RITU gas-filled separator and      
+220TH5c  implanted into focal plane. Measured E|a, |a(t), using a suite of two  
+220TH6c  DSSDs and 28 pin diode detectors.                                      
+220TH cA HF$The nuclear radius parameter r{-0}({+220}Th)=1.5514 {I29} is deduced
+220TH2cA from assumed HF=1.0 for the ground-state to ground-state alpha decay   
+220TH3cA branch                                                                 
+220TH cA IA$Deduced by evaluators using I(8095|a)/I(8479|a)=0.035 {I8} measured 
+220TH2cA in 2014Lo10                                                            
+220TH dG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+224U   P 0.0           0+              396 US    17               8628    7     
+224U  cP QP$From 2021Wa16                                                       
+224U  cP T$From {+224}U Adopted Levels based on evaporation residue             
+224U 2cP (Er)-8479|a(t) correlations (2014Lo10). T{-1/2}=561 |ms {I132} from    
+224U 3cP (Er)-8095|a correlated events (2014Lo10). Others: T{-1/2}({+224}U)=0.7 
+224U 4cP ms {I+5-2}, measured by 1991An13; 1.0 ms {i4}, measured by 1992To02.   
+220TH  N                       1.0                                              
+220TH cN BR$%|a=100 from Adopted Levels of {+224}U                              
+220TH  L 0.0          0+               10.2 US   4                              
+220TH cL T$From Adopted Levels                                                  
+220TH  A 8479      8  96.6   8 1.0                                              
+220TH cA E$From 2014Lo10. Others: 8790 {i20} (1973Ha32), 8818 {i13} (2019Pa45). 
+220TH2cA Evaluators deduce 8474 {i7} from Q|a.                                  
+220TH  L 386.50    10 2+                                                        
+220TH cL E$from Adopted Levels. E|a=8095 {I11} feeding this level gives level   
+220TH2cL energy of 386 {I13}. The energies of the 2+ to 0+ and 4+ to 2+         
+220TH3cL transitions in {+220}Th were previously assigned as 373.3 keV {I1} and 
+220TH4cL 386.5 keV {I1} (2006Re15), respectively. Based on the observation of   
+220TH5cL (8095|a)(386.5|g)-coin, and on the energy of 8095|a group relative to  
+220TH6cL that of 8479|a, 2014Lo10 suggest that previous assignment is incorrect,
+220TH7cL and that the ordering of the 373.3- and 386.5-keV transitions should be
+220TH8cL reversed, thus defining 386.5 keV as the first excited 2+ state in     
+220TH9cL {+220}Th                                                               
+220TH  A 8095      11 3.4    8 2.2     7                                    C   
+220TH  G 386.5     1           E2                      0.0817 11             C  
+220THS G  KC=0.0442 6$LC=0.0276 4$MC=0.00731 10                                 
+220THS G  NC=0.001956 27$OC=0.000444 6$PC=7.79E-5 11$QC=2.57E-6 4               
+220TH cG E$from Adopted Gammas, where it is taken from 2006Re15. Authors in     
+220TH2cG 2014Lo10 measured 386.7 {I18}, where large uncertainty is due to poor  
+220TH3cG statistics                                                             

@@ -1,0 +1,49 @@
+255NO    ADOPTED LEVELS                                          13NDS    201309
+255NO  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+255NO2 H CUT=1-Nov-2011$                                                        
+255NO D  Modified by E. Browne (Dec. 19, 2011)                                  
+255NO  Q -3140     23 5989   18 3936   SY 8428   3     2012WA38                 
+255NO cQ           Estimated |DS(p)=101 (2012Wa38)                              
+255NO c                                                                         
+255NO c  Calculations, compilations:                                            
+255NO c  |a decay: 1993Bu09, 1992Bu03                                           
+255NO c  g.s. properties: 1997Mo25, 1995Mo29                                    
+255NO c  half-life, Q(|a): 2010Si27, 2009Do22, 2009Sa25, 2008Do12, 2008Ro06,    
+255NO2c  2006Pa12, 2003Re32                                                     
+255NO c  {+208}Pb({+48}Ca,n) reaction, calculated |s: 2010Fe06, 2010Li32,       
+255NO2c  2008Za07, 2007Fe17, 2007Og05, 2006Fe05, 2006KaZT, 2006Si07,            
+255NO3c  2006SiZY, 2005Zu02, 2004Ch31, 2004Ch67, 2003Ab34, 2003Sw01,            
+255NO4c  2001Sm06, 2001Za10, 1999Ch42, 1999ChZT, 1999Sm02.                      
+255NO c  {+238}U({+22}Ne,5n) reaction, measured T{-1/2} (2008HaZU).             
+255NO c  Heavy ion emission: 1986Po15, 1985Po11                                 
+255NO c  Single-particle Nilsson levels: 2006Pa12, 2011Ad15, 2005Pa73,          
+255NO2c  and 1994Cw02.                                                          
+255NO c  Rotational bands: 2003Be41                                             
+255NO c                                                                         
+255NO c  1994Cw02 have calculated the following single-particle level sequence: 
+255NO2c  g.s. 1/2[620], 0.10 MeV, 3/2[622]; 0.28 MeV, 11/2[725]; 0.29 MeV,      
+255NO3c  7/2[613]; 0.44 MeV, 9/2[734]; 0.74 MeV, 9/2[615].                      
+255NO  XA259RF A DECAY                                                          
+255NO  XB208PB(48CA,N)                                                          
+255NO cL E         From {+259}Rf |a decay                                       
+255NO  L 0.0         (1/2+)            3.52 M    21                             
+255NOX L XREF=B                                                                 
+255NO2 L %A=30 5$ %EC+%B+=70 5 (2011As03)                                       
+255NO cL J$From |a-decay hindrance factor systematics and                       
+255NO2cL analogy with N=153 nuclei ({+249}Cm, {+251}Cf) suggests                
+255NO2cL g.s. configuration=(|n 1/2[620]).                                      
+255NO cL T         Weighted average of 3.52 min {I32}, from |a fine structure   
+255NO2cL measurement, and 3.52 min {I21}, from |a|g coincidence measurements    
+255NO3cL (2011As03). Other values: 3.1 min {I3} (1967Gh01), 3.0 min {I2}        
+255NO4cL (1968Fl08,1967Fl05), 3.3 min {I2} (1970Es02).                          
+255NO5cL Others: 2006Gr24, 2004Mo27, 2004Mo40.                                  
+255NO cL %A$From 2011As03. %|a=61 {I3} (1976SiZS) is based on %|e+%|b{++}=39    
+255NO2cL {I3} (1976SiZS), possibly affected by an impurity of {+254}No          
+255NO3cL in their source.                                                       
+255NO cL           Calculated T{-1/2}(SF)|?3 min (1985Lo17)                     
+255NO  L     0+X                                                                
+255NOX L XREF=A                                                                 
+255NO cL E         x=121 {I74} from {+259}Rf |a decay.                          
+255NO  L   101+X   30                                                           
+255NOX L XREF=A                                                                 
+255NO cL E         |DE given does not include |DE in x.                         

@@ -1,0 +1,71 @@
+217RA    221TH A DECAY                 1970Va13,1970To07,1990An1918NDS    201802
+217RA  H TYP=FUL$AUT=E.A. MCCUTCHAN, S.K. RATHI, S. GARG$                       
+217RA2 H CIT=NDS 147, 382 (2018)$CUT=1-DEC-2017$                                
+217RA c  1990An19: {+221}Th activity from {+20}Ne on {+208}Pb followed by       
+217RA2c  separation using the VASSILISSA kinematic separator. Measured E|a, I|a 
+217RA3c  using 7 surface barrier detectors. Secondary reports by same group     
+217RA4c  include 1990AnZU and 1993AnZS.                                         
+217RA c  1970Va13: {+221}Th activity from {+20}Ne on {+208}Pb and He gas jet    
+217RA2c  system. Measured E|a, I|a using Si surface-barrier detectors.          
+217RA c  1970To07: {+221}Th activity from {+16}O on {+208}Pb and He gas jet     
+217RA2c  system. Measured E|a, I|a using Si(Au) surface-barrier detector.       
+217RA cA E$From weighted average of measured energies, as listed for each alpha.
+217RA2cA One additional |a with energy 8375 keV is listed by 1990An19 and       
+217RA3cA 1993AnZS. This |a is not included here because its assignment has      
+217RA4cA not been confirmed in later works. Note that E{-|a}'s of 1970Va13      
+217RA5cA quoted here are those given in their paper as their best values, and   
+217RA6cA these values are slightly different than those listed in table iv.     
+217RA cA IA$Weighted average of intensities measured by 1970Va13,               
+217RA2cA 1993AnZS and 2000He17. Relative intensities quoted here are normalized 
+217RA3cA such that the sum of alpha intensities is 100 %. The re-normalization  
+217RA4cA is done by excluding 8375 {I10} (1990An19) and 8375 {I15} (1990AnZU)   
+217RA5cA because these are not confirmed in later works. Before taking the      
+217RA6cA weighted average of I{-|a}'s, the intensity given by 1990An19 and      
+217RA7cA 1993AnZS are re-normalized by the evaluators by excluding the |a's     
+217RA8cA seen only by them. Note that I{-|a}'s of 1970Va13 quoted here are      
+217RA9cA those given in their paper as their best values and these values are   
+217RABcA slightly different than those listed in Table IV.                      
+217RA cA HF$The nuclear radius parameter r{-0}({+217}Ra)=1.5525 {I85}           
+217RA2cA is deduced from interpolation (or unweighted average) of radius        
+217RA3cA parameters of the adjacent even-even nuclides.                         
+217RA cL E$Deduced by evaluators from |a energies.                              
+217RA cL J$From adopted dataset                                                 
+221TH  P  0.0        (7/2+)              1.75 MS 3               8626     4     
+221TH cP T$The adopted half-life of the parent {+221}Th is the weighted         
+221TH2cP average of 1.68 ms {I6} (1970To07), 1.8 ms {I3} (1970Va13), 1.9 ms {I1}
+221TH3cP (1993AnZS), 2.0 ms {I+3-2} (2000He17), 1.73 ms {I3} (2001Ko07), and    
+221TH4cP 1.78 ms {I3} (2014Lo10)                                                
+217RA  N                       1.0                                              
+217RA  L  0.0        (9/2+)            1.6 US    2                              
+217RA cL T$from 1970Va13. Others: 1.7 |ms {I3}                                  
+217RA2cL (1990An19), 4 |ms {I2} (1970To07), 1.7 |ms {I1} (1990AnZU),            
+217RA2cL 1.9 |ms {I1} (1993AnZS).                                               
+217RA  A  8469     4  37     2    53   4                                        
+217RA cA E$weighted average of 8470 {I8} (1970Va13), 8472 {I5} (1970To07),      
+217RA2cA 8470 {I10} (1990An19,1993AnZS), 8458 {I10} (2000He17), 8469 {I4}       
+217RA3cA (2001Ku07).                                                            
+217RA cA IA$weighted average of 39 {I2} (1970Va13), 37 {I5} (1993AnZS) and      
+217RA2cA 48 {I9} (2000He17). Others  31 (1990An19), 21 (2001Ku07) and           
+217RA3cA 31.6 (1970To07).                                                       
+217RA  L 209       11                                                          ?
+217RA  A 8265      10 4          131                                            
+217RA cA E$from 1990An19. Included here because of an |a peak observed          
+217RA2cA at 8243 keV (2014Lo10), however, marked as questionable since          
+217RA3cA 1993AnZS do not report this peak.                                      
+217RA cA IA$from 1990An19.                                                      
+217RA  L 333       5 (11/2+)                                                    
+217RA cL E         330.8 {I2} from (HI,xn|g) data.                              
+217RA  A 8143      3  53     3   4.4   3                                        
+217RA cA E$weighted average of 8145 {I10} (1970Va13), 8146 {I5}                 
+217RA2cA (1970To07), 8150 {I10} (1990An19,1993AnZS), 8135 {I10} (2000He17),     
+217RA3cA 8142 {I3} (2001Ku07).                                                  
+217RA cA IA$weighted average of 56 {I3} (1970Va13), 57 {I6} (1993AnZS) and      
+217RA2cA 48 {I9} (2000He17). Others 62.4 (1970To07), 62 (1990An19),             
+217RA3cA 72 (2001Ku07).                                                         
+217RA  L 752       6  (7/2+)                                                    
+217RA  A 7731      4  6      1   2.1   4                                        
+217RA cA E$weighted average of 7725 {I10} (1970Va13), 7733 {I8} (1970To07),     
+217RA2cA 7730 {I10} (1990An19,1993AnZS), 7732 {I15} (2000He17),                 
+217RA3cA 7732 {I4} (2001Ku07).                                                  
+217RA cA IA$weighted average of 6 {I1} (1970Va13), 6 {I2} (1993AnZS) and 4 {I3} 
+217RA2cA (2000He17). Others 6.0 (1970To07), 7 (1990An19) and 7 (2001Ku07).      

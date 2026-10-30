@@ -1,0 +1,126 @@
+256RF    ADOPTED LEVELS, GAMMAS                                  17NDS    201704
+256RF  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256RF  Q -6280     SY 8180   SY 3014   25 8926   15    2017WA10                 
+256RF cQ $Estimated |DQ(|b{+-})=240, |DS(n)=120 (2017Wa10)                      
+256RF cQ $S(2n)=15120 {I280} (syst), S(2p)=5079 {I20}, Q(|ep)=126 {I23}         
+256RFxcQ (2017Wa10)                                                             
+256RF c  Isotopic identification and assignment:                                
+256RF c  1975Og01: {+208}Pb({+50}Ti,2n) excitation function                     
+256RF c  1984Og02: {+208}Pb({+50}Ti,2n); {+208}Pb({+49}Ti,n) SF observed        
+256RF c  1984Og02, 1985Mu11: daughter of {+260}Sg                               
+256RF c  1985He06: {+208}Pb({+50}Ti,2n),E=4.75-5.15 MeV/nucleon;                
+256RF2c  {+207}Pb({+50}Ti,n),E=4.85 MeV/nucleon; parent of {+252}No (8410|a)    
+256RF c  1985So03: {+249}Cf({+12}C,5n),E=85 MeV, SF observed                    
+256RF c  Theoretical calculations: consult the Nuclear Science References (NSR) 
+256RF2c  database for about 125 theory references.                              
+256RF c  2014Li15, 2012Jo05: nuclear structure theory references                
+256RF cG E(X)$ Calculated value from Harris fit in a rotational band            
+256RF cG CC$Theoretical values from BrIcc code (2008Ki07) using "Frozen orbital"
+256RF2cG approximation                                                          
+256RF cL E$ From E|g data in 2012Gr12, unless otherwise stated                  
+256RF cL E(B),T(B)$ From 2009Je01. Level energy deduced from (electron)(900|g)  
+256RF2cL coin. Half-life from recoil-electron-electron-electron-fission(t).     
+256RF3cL Isomers at |?1120 and |?1400 keV interpreted by 2009Je01 as possible   
+256RF4cL 2-qp states, while the one at >2000 keV is interpreted as possible     
+256RF5cL 4-qp state. See also 2011Ro20 where only one isomer of 17 |ms {I5} was 
+256RF6cL seen and interpreted as possible 4-qp state.                           
+256RF CL BAND(A)$K|p=0+ band.                                                   
+256RF2cL Band assignment from 2012Gr12                                          
+256RF  XA260SG A DECAY (4.95 MS)                                                
+256RF  XB208PB(50TI,2NG)                                                        
+256RF PN                                                                     6  
+256RF  L 0.0          0+               6.67 MS   10                         A   
+256RF2 L %A=0.32 17 (1997He29) $ %SF=99.68 17                                   
+256RFX L XREF=AB                                                                
+256RF cL T$weighted average of 6.9 ms {I2} (2013Ri07, 2012Gr12 from time        
+256RF2cL difference between recoil and fission events), 6.9 ms {I4} (2011Ro20,  
+256RF3cL from time distribution of fission events in SF decay of 783 events),   
+256RF4cL 6.70 ms {I9} (2008Dr05), 6.2 ms {I2} (1997He29), 6.7 ms {I2}           
+256RF5cL (1984Og02). Other measurements: 5 ms (from SF activity, 1975Og01);     
+256RF6cL 7.4 ms {I+9-7} (from SF activity, 1985He06);                           
+256RF7cL 10 ms {I+47-4} (from |a activity, 1985He06);                           
+256RF8cL 6.3 ms {I+27-14} (from SF activity following {+260}Sg |a decay,        
+256RF9cL 1985Mu11); 9 ms {I2} (from SF activity, 1985So03).                     
+256RF cL $The |a branching was determined by 1997He29 as (0.32|+0.17)%.         
+256RF2cL Authors' earlier measurement: (2.2 +7.3-1.8)% (1985He06).              
+256RF  L 44        1  (2+)                                                  A   
+256RFX L XREF=AB                                                                
+256RF cL E$deduced from Harris fit of rotational band members (2012Gr12).       
+256RF2cL Others: |?46 (2009Je01), 51 {I35} from {+260}Sg |a decay               
+256RF cL J$ |a hindrance factor; systematics of first excited-state             
+256RF2cL energies of even-even nuclei.                                          
+256RF  G 44        1  100      [E2]                    1.83E3 22            X  S
+256RFS G  LC=1.30E3 16$MC=3.8E2 5                                               
+256RFS G  NC=111 14$OC=29 4$PC=4.9 6$QC=0.0157 16                               
+256RF  L 148       2  (4+)                                                  A   
+256RFX L XREF=B                                                                 
+256RF cL E$deduced from Harris fit of rotational band members (2012Gr12).       
+256RF  G 104       1  100      [E2]                    31.5   15            X  S
+256RFS G  LC=22.4 11$MC=6.6 4                                                   
+256RFS G  NC=1.91 9$OC=0.502 24$PC=0.086 4$QC=0.000476 20                       
+256RF  L 309       2  (6+)                                                  A   
+256RFX L XREF=B                                                                 
+256RF  G 161       1  100      [E2]                    4.51   14                
+256RFS G  KC=0.093 3$LC=3.15 10$MC=0.92 3                                       
+256RFS G  NC=0.266 9$OC=0.0701 22$PC=0.0121 4$QC=9.78E-5 25                     
+256RF  L 527       2  (8+)                                                  A   
+256RFX L XREF=B                                                                 
+256RF  G 218       1  100      [E2]                    1.33   3                 
+256RFS G  KC=0.1204 17$LC=0.861 21$MC=0.249 6                                   
+256RFS G  NC=0.0721 18$OC=0.0190 5$PC=0.00334 8$QC=3.68E-5 8                    
+256RF  L 799       2  (10+)                                                 A   
+256RFX L XREF=B                                                                 
+256RF  G 272       1  100      [E2]                    0.589  12                
+256RFS G  KC=0.1016 15$LC=0.349 8$MC=0.1003 21                                  
+256RFS G  NC=0.0290 6$OC=0.00767 16$PC=0.00136 3$QC=1.93E-5 4                   
+256RF  L 946       AP (3-)                                                      
+256RFX L XREF=B                                                                 
+256RF cL E,J$ from (electron)(900|g) (2009Je01), possible member of K|p=2- band 
+256RF  G 900       1                                                            
+256RF cG E$ from 2009Je01                                                       
+256RF  L 1120      AP (5-)             25 US     2                          BM1 
+256RF2 L %IT=? $ %SF=?                                                          
+256RFX L XREF=B                                                                 
+256RF cL J$assigned by 2013Ri07 as K|p=(5-) with                                
+256RF2cL possible 2-qp configuration=(|p1/2[521]~#|p9/2[624]){-5-}              
+256RF cL T$2011Ro20 state that their observed isomer of 17 |ms {I5} (half-life  
+256RF2cL from time distribution of conversion electrons and maximum likelihood  
+256RF3cL method) may correspond to the 25-|ms {I2} isomer in 2009Je01, although,
+256RF4cL the isomer population ratio of |?5% {I2} (with respect to that of      
+256RF5cL {+256}Rf g.s.) is much smaller than |?27% deduced by 2011Ro20 from data
+256RF6cL in 2009Je01. Due to its low population and several other               
+256RF7cL arguments against its assignment as a 2-qp isomer, 2011Ro20 suggest    
+256RF8cL that their observed 17-|ms isomer is more likely a 4-qp state          
+256RF  L 1122      3  (12+)                                                 A   
+256RFX L XREF=B                                                                 
+256RF  G 323       1  100      [E2]                    0.333  6                 
+256RFS G  KC=0.0832 12$LC=0.179 4$MC=0.0510 10                                  
+256RFS G  NC=0.0147 3$OC=0.00390 8$PC=0.000701 13$QC=1.213E-5 20                
+256RF  L 1400      AP  (8-)            17 US     2                          BM2 
+256RF2 L %IT=? $ %SF=?                                                          
+256RFX L XREF=B                                                                 
+256RF cL E$isomer not found in 2011Ro20, perhaps due to low statistics          
+256RF cL J$assigned by 2013Ri07 as K|p=(8-) with                                
+256RF2cL possible 2-qp configuration=(|p7/2[514]~#|p9/2[624]){-8-}              
+256RF cL T$ other: 13.2 |ms {I33} (2010Be16)                                    
+256RF  L 1493       3 (14+)                                                 A   
+256RFX L XREF=B                                                                 
+256RF  G 371       1  100      [E2]                    0.218  4                 
+256RFF G FL=1122                                                                
+256RFS G  KC=0.0692 10$LC=0.1069 19$MC=0.0302 6                                 
+256RFS G  NC=0.00870 15$OC=0.00231 4$PC=0.000419 8$QC=8.51E-6 14                
+256RF  L 1910       4 (16+)                                                 A   
+256RFX L XREF=B                                                                 
+256RF  G 417       2  100                                                       
+256RF  L 2200      GT                  27 US     5                          BM3 
+256RF2 L %IT=? $ %SF=?                                                          
+256RFX L XREF=B                                                                 
+256RF cL E$isomer not found in 2011Ro20, perhaps due to low statistics          
+256RF cL T$ other: 36.5 |ms {I86} (2010Be16)                                    
+256RF cL $Possible 4-qp state (2009Je01,2013Ri07)                               
+256RF  L 2369       4 (18+)                                                 A   
+256RFX L XREF=B                                                                 
+256RF  G 459       2  100                                                       
+256RF  L 2868       5 (20+)                                                 A   
+256RFX L XREF=B                                                                 
+256RF  G 499       2  100                                                       

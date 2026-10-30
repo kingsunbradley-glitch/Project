@@ -1,0 +1,55 @@
+247FM    ADOPTED LEVELS                                          15NDS    201503
+247FM  H TYP=ERR$AUT=J. Tuli$DAT=28-Jul-2015$COM=FIXED decay mode for isomer$   
+247FM  H TYP=FUL$AUT=C. D. NESARAJA$CIT=NDS 125, 395 (2015)$CUT=31-Mar-2014$    
+247FM  Q -4260     SY6590    SY3520    SY8258    10    2012Wa38                 
+247FM cQ $|DQ(|b{+-})=240, |DS(n)=120, |DS(p)=250                               
+247FM2cQ (syst, 2012Wa38)                                                       
+247FM c                                                                         
+247FM c  Identification:                                                        
+247FM c  1967Fl15: Synthesized from {+239}Pu({+12}C,{+4}N). Identified by       
+247FM2c  emitted |a energies, T{-1/2} and excitation functions.                 
+247FM c                                                                         
+247FM c  Theoretical studies:                                                   
+247FM c  2012Zh01: Comparison of the low-lying one-quasineutron band for N=147  
+247FM2c  isotones between the experimental values and calculated values using   
+247FM3c  the cranked shell model (CSM) with pairing correlations                
+247FM c  2011Ad15: One-quasiparticle levels for N=147 nuclei using the          
+247FM2c  microscopic-macroscopic modified TCSM, QPM and the self-consistent     
+247FM3c  SHFB approaches                                                        
+247FM c  2009Sa25:Calculated |a decay T{-1/2} using semi-empirical formulas,    
+247FM2c  and compared with experimental values and systematics                  
+247FM c  2006Sh19: Calculated energy levels of ground-state rotational band     
+247FM2c  in N=147 isotones                                                      
+247FM c  2005Pa73: Calculated neutron one-quasiparticle states of heaviest      
+247FM2c  nuclei within a macroscopic-microscopic approach.                      
+247FM c  2002Du16: Calculated partial half-lives for |a and cluster decays      
+247FM c  1997Mo25: Calculated ground-state binding energy, proton and           
+247FM2c  neutron pairing gaps, neutron and proton separation energies, Q values 
+247FM c  1995Mo29, 1980Ho32: Calculated ground-state masses and nuclear ground  
+247FM2c  state deformations                                                     
+247FM c  1993Bu09: Calculated partial |a decay half-life, |a branching,         
+247FM2c  nuclear radius using the cluster model predictions                     
+247FM c  1985Cw01: Calculated fission barrier                                   
+247FM c  1981Mo24: Calculated ground-state electric multipole moments Q{-2},    
+247FM2c  Q{-4} and masses                                                       
+247FM c  1980Ho32: Calculated mass excess, S(n), S(p), Q(|b), Q(|a),            
+247FM2c  fission-barrier heights, deformation and energy at saddle-point        
+247FM c                                                                         
+247FM  XA251NO A DECAY (0.80 S)                                                 
+247FM  XB251NO A DECAY (1.02 S)                                                 
+247FM  L 0.0         (7/2+)            31 S      1                              
+247FMX L XREF=+                                                                 
+247FM2 L %A=64$%EC+%B+=36$                                                      
+247FM cL T$From 2006He27. Others: 57 s {I+30-17} (2009Fo02), 29 s {I1}          
+247FM2cL (2004He28), 37 s {I+21-10} (1989He03), 35 s {I4} (1967Fl15)            
+247FM cL J$From favoured alpha transition (HF|?0.68) from g.s level in {+251}No 
+247FM2cL and proposed configuration=7/2[624] (2006He27,2004He28)                
+247FM  L 45        7  (1/2+)           5.1 S     2                           M  
+247FMX L XREF=+                                                                 
+247FM2 L %IT=12 2 (2006He27)$%A=88 2                                            
+247FM cL J$From favoured alpha transition (HF|?1.1) from 106-keV level          
+247FM2cL in {+251}No and proposed configuration=1/2[631] (2006He27,2004He28)    
+247FM cL T$From 2006He27. Other: 4.3 s {I4} (2004He28)                          
+247FM cL E$From 2006He27 based on the mean value derived from the |a energy     
+247FM2cL in the |aK x-ray measurement and the difference in measured Q(|a)      
+247FM3cL values for decays from g.s. to g.s and g.s to isomeric states.         

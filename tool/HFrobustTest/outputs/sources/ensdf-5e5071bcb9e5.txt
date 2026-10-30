@@ -1,0 +1,368 @@
+247CM    ADOPTED LEVELS, GAMMAS                                  15NDS    201503
+247CM  H TYP=FUL$AUT=C. D. NESARAJA$CIT=NDS 125, 395 (2015)$CUT=31-Mar-2014$    
+247CM  Q 44        7 5155    4 6750    SY 5354   3     2012WA38                 
+247CM cQ $|DS(p)=18, |DQ(|a)=450                                                
+247CM2cQ (syst, 2012Wa38)                                                       
+247CM c                                                                         
+247CM c  Identification:                                                        
+247CM c  1954St33: {+247}Cm produced by irradiating Pu samples with neutrons    
+247CM2c  followed by chemical purification and mass separation. Half-life       
+247CM3c  determined by 1971Fi01, 1968Fi03, 1963Fi08                             
+247CM c                                                                         
+247CM c  Theoretical studies:                                                   
+247CM c  2012Ni16: |a decay T{-1/2} for transitions from ground-state to        
+247CM2c  favored rotational bands using Multichannel Cluster Model              
+247CM c  2011Ad15: Studied one-quasiparticle levels using the                   
+247CM2c  microscopic-macroscopic modified TCSM, QPM and the self-consistent     
+247CM3c  SHFB approaches                                                        
+247CM c  2011Zh36: Systematics and calculated partial half-life of |a decay to  
+247CM2c  members of favored band. Accurate expressions are proposed for the     
+247CM3c  evaluation of partial half-lives of these transitions based on         
+247CM4c  microscopic quantum tunneling theory.                                  
+247CM c  2002Du16: Calculated half-lives and Q(|b{+-})values of spontaneous     
+247CM2c  nuclear decay processes in the framework of the effective liquid drop  
+247CM3c  model (ELDM)                                                           
+247CM c  1997Mo25: Calculated ground-state binding energy, proton and neutron   
+247CM2c  pairing gaps, neutron and proton separation energies, Q values and     
+247CM3c  partial half-lives for |a and |b decays                                
+247CM c  1995Mo29: Calculated ground-state mass and deformations                
+247CM c  1993Bu09: Calculated partial |a decay half-life, |a branching, and     
+247CM2c  nuclear radius using the cluster model predictions                     
+247CM c  1981Mo24: Calculated electric multipole moments, Q2 and Q4             
+247CM2c  using macroscopic-microscopic model                                    
+247CM c  1980Ho32: Calculated ground-state mass excess using                    
+247CM2c  macroscopic-microscopic model.Fission-barrier heights, deformation     
+247CM3c  and energy at saddle-point were also calculated                        
+247CM c  1971Ga20: Calculated fission barriers, ground-state masses and         
+247CM2c  particle separation energies                                           
+247CM c                                                                         
+247CM c  Systematic studies:                                                    
+247CM c  2013Af01: Systematic study of pairing and rotational properties of     
+247CM2c  actinides using the covariant density functional theory (CDFT) and     
+247CM3c  the density functional theory framework, respectively.                 
+247CM c  2012Zh01: Comparison of the low lying one-quasineutron band for N=151  
+247CM2c  isotones between the experimental values and calculated values using   
+247CM3c  the cranked shell model (CSM) with pairing correlations                
+247CM c  2011As03: Calculated ground-state deformation and energies of neutron  
+247CM2c  one-quasiparticle states in the N=151 isotones  using a                
+247CM3c  macroscopic-microscopic model. Energy systematics discussed in terms   
+247CM4c  of evolution of nuclear deformation                                    
+247CM c  2007Ma82: Comparison with experimental results of {+245}Pu and         
+247CM2c  systematics of neutron single-particle levels in N=151 isotones        
+247CM3c  ({+247}Cm, {+249}Cf, {+251}Fm and {+253}No)                            
+247CM c  2006Sh19: Calculated energy levels of ground-state rotational band     
+247CM2c  in N=151 isotones                                                      
+247CM c  2005Pa73: Calculated neutron one quasi-particle states of heaviest     
+247CM2c  nuclei within a macroscopic-microscopic approach.                      
+247CM c  1977Ch27,1976Ch22: Extracted neutron single particle states with       
+247CM2c  constant pairing elements                                              
+247CM cG E$From {+251}Cf |a decay and {+248}Cm({+209}B,{+210}Bi|g) data         
+247CM cG RI$Relative photon intensities de-exciting each level, adopted         
+247CM2cG from {+251}Cf |a decay.                                                
+247CM cG M,MR$Determined in {+251}Cf |a decay and {+247}Am |b{+-} decay.        
+247CM2cG The multipolarities in square brackets are from the level scheme;      
+247CM3cG they have not been determined experimentally.                          
+247CM cL E$From {+251}Cf |a decay, (d,p), (d,t) and {+248}Cm({+209}B,{+210}Bi|g)
+247CM2cL data                                                                   
+247CM cL J$From band assignments. Spin and parities for some of the bandheads   
+247CM2cL are explained in comments for those levels. Arguments for band members 
+247CM3cL are given with each band assignment. Nilsson state and band assignments
+247CM4cL were tentatively proposed to some levels above 600 keV by 1971Br27 from
+247CM5cL (d,p) and (d,t) data.                                                  
+247CM CL BAND(A)$9/2[734] band.                                                 
+247CM2cL A=5.6.                                                                 
+247CM3cL Band assignment from alpha hindrance factors, |g decays,               
+247CM4cL and (d,p), (d,t) data.                                                 
+247CM CL BAND(B)$5/2[622] band.                                                 
+247CM2cL A=5.7.                                                                 
+247CM3cL Band assignment from (d,p), (d,t) data and alpha hindrance factors.    
+247CM CL BAND(D)$7/2[624] band.                                                 
+247CM2cL Band assignment from (d,p), (d,t) data and alpha hindrance factors.    
+247CM CL BAND(E)$1/2[620] band.                                                 
+247CM2cL A=7.1                                                                  
+247CM3cL Band assignment from (d,p), (d,t) data and alpha hindrance factors.    
+247CM CL BAND(G)$1/2[631] band.                                                 
+247CM2cL A=7.0.                                                                 
+247CM3cL Band assignment from (d,t), (d,p) data.                                
+247CM CL BAND(H)$1/2[501] band.                                                 
+247CM2cL Band assignment from (d,t), (d,p) data.                                
+247CM  XA251CF A DECAY                                                          
+247CM  XB247AM B- DECAY                                                         
+247CM  XD246CM(D,P), 248CM(D,T)                                                 
+247CM  XE248CM(209BI,210BIG)                                                    
+247CM DG CC$FROM BrIcc v2.3a (30-Jun-2013) 2008Ki07, "Frozen Orbitals" appr.    
+247CM PN                                                                     6  
+247CM  L 0.0          9/2-             1.56E+7 Y 5                          A   
+247CM2 L %A=100                                                                 
+247CM2 L MOMM1=0.36 7 (1973Ab03,2011StZZ)                                       
+247CM cL MOMM1$From electron paramagnetic resonance measurement (1973Ab03).     
+247CM2cL Compiled by 2011StZZ.                                                  
+247CMX L XREF=ABDE                                                              
+247CM cL J$Spin measured by 1973Ab03 (electron paramagnetic resonance)          
+247CM2cL and parity determined from the measured magnetic dipole moment         
+247CM3cL and Nilsson diagram.                                                   
+247CM cL T$Measured by 1971Fi01. This half-life is recommended by               
+247CM2cL 1989Ho24. Earlier measurement: 1.64|*10{+7} y {i24} (1963Fi08).        
+247CM  L 61.67      4 11/2-                                                 A   
+247CMX L XREF=AB(?)DE                                                           
+247CM  G 61.67     5           M1+E2     0.25    3     37.5   23                
+247CMS G  LC=27.8 16$MC=7.1 5                                                   
+247CMS G  NC=1.96 13$OC=0.49 3$PC=0.092 5$QC=0.00493 9                          
+247CM  L 134.66     6 13/2-                                                 A   
+247CMX L XREF=ADE                                                               
+247CM  G 73.00     8 35      8 [M1+E2]   0.7     3     39     13                
+247CMS G  LC=28 9$MC=8 3                                                        
+247CMS G  NC=2.1 8$OC=0.52 18$PC=0.09 3$QC=0.0023 5                             
+247CM  G 134.65    8   100   13[E2]                    4.94                     
+247CMS G  KC=0.1531 22$LC=3.46 5$MC=0.976 14                                    
+247CMS G  NC=0.272 4$OC=0.0659 10$PC=0.01104 16$QC=6.08E-5 9                    
+247CM  L 219.02     7 15/2-                                                 A   
+247CMX L XREF=ADE                                                               
+247CM  G 84.35     8 100     13 [M1+E2]                26     15                
+247CMS G  LC=19 11$MC=5 4                                                       
+247CMS G  NC=1.5 9$OC=0.36 22$PC=0.06 4$QC=0.0012 9                             
+247CM  G 157.35    8 50      10[E2]                    2.56                     
+247CMS G  KC=0.1741 25$LC=1.723 25$MC=0.485 7                                   
+247CMS G  NC=0.1350 20$OC=0.0328 5$PC=0.00552 8$QC=3.65E-5 6                    
+247CM  L 227.38    19 5/2+             26.3 US   3                          B   
+247CMX L XREF=ABD                                                               
+247CM cL T$From {+251}Cf |a decay (2003Ah07).                                   
+247CM2cL Other: 25 |ms {I3} (1968Ch03).                                         
+247CM  G 165.70    5 1.76    15E3                      30.4                     
+247CMB G BE3W=5.5 6                                                             
+247CMS G  KC=0.235 4$LC=21.3 3$MC=6.47 10                                       
+247CMS G  NC=1.83 3$OC=0.445 7$PC=0.0750 11$QC=0.000469 7                       
+247CM  G 227.38    2 100     4  M2+E3    0.52    +9-8   10.3   4                
+247CMB G BM2W=0.0033 4$BE3W=7.3 21                                              
+247CMS G  KC=6.0 5$LC=3.15 9$MC=0.87 3                                          
+247CMS G  NC=0.242 9$OC=0.0609 20$PC=0.0113 3$QC=0.00056 4                      
+247CM  L 265.86     4(7/2+)                                                 B   
+247CMX L XREF=A                                                                 
+247CM  G 38.48     5 8.8     14(M1+E2)   0.21    5     1.8E2  4                 
+247CMS G  LC=1.4E2 3$MC=35 8                                                    
+247CMS G  NC=9.8 21$OC=2.4 5$PC=0.44 8$QC=0.0202 4                              
+247CM  G 265.86    8 100     7 [E1]                    0.0565                   
+247CMS G  KC=0.0442 7$LC=0.00927 13$MC=0.00226 4                                
+247CMS G  NC=0.000617 9$OC=0.0001540 22$PC=2.86E-5 4$QC=1.559E-6 22             
+247CM  L 285.41     5(7/2+)                                                 D   
+247CMX L XREF=ABD                                                               
+247CM  G 58.03     5 2.1     4 (M1+E2)   0.53    11    80     16                
+247CMS G  LC=59 11$MC=16 4                                                      
+247CMS G  NC=4.4 9$OC=1.08 21$PC=0.19 4$QC=0.0052 4                             
+247CM  G 285.41    8 100     8 [E1]                    0.0484                   
+247CMS G  KC=0.0380 6$LC=0.00787 11$MC=0.00192 3                                
+247CMS G  NC=0.000523 8$OC=0.0001308 19$PC=2.44E-5 4$QC=1.350E-6 19             
+247CM  L 309       3                                                            
+247CMX L XREF=D                                                                 
+247CM  L 314.7      917/2-                                                  A   
+247CMX L XREF=E                                                                 
+247CM  G 180       1                                                            
+247CM  L 318.31     5 9/2+                                                  B   
+247CMX L XREF=AD                                                                
+247CM  G 52.45     5 37      4 (M1+E2)   0.27    6     70     11                
+247CMS G  LC=51 8$MC=13.3 23                                                    
+247CMS G  NC=3.7 7$OC=0.92 15$PC=0.169 24$QC=0.00792 21                         
+247CM  G 256.65    8 100     8 [E1]                    0.0611                   
+247CMS G  KC=0.0477 7$LC=0.01007 15$MC=0.00246 4                                
+247CMS G  NC=0.000670 10$OC=0.0001672 24$PC=3.10E-5 5$QC=1.675E-6 24            
+247CM  G 318.3     1 38      4 [E1]                    0.0384                   
+247CMS G  KC=0.0302 5$LC=0.00614 9$MC=0.001495 21                               
+247CMS G  NC=0.000408 6$OC=0.0001021 15$PC=1.91E-5 3$QC=1.086E-6 16             
+247CM  L 336       5                                                            
+247CMX L XREF=D                                                                 
+247CM  L 345.89     6(9/2+)                                                 D   
+247CMX L XREF=AD                                                                
+247CM  G 60.5      1 8.3     25(M1+E2)   0.48    16    62     18                
+247CMS G  LC=46 13$MC=12 4                                                      
+247CMS G  NC=3.4 11$OC=0.83 25$PC=0.15 4$QC=0.0047 5                            
+247CM  G 284.2     1 100     8 [E1]                    0.0489                   
+247CMS G  KC=0.0383 6$LC=0.00794 12$MC=0.00194 3                                
+247CMS G  NC=0.000528 8$OC=0.0001320 19$PC=2.46E-5 4$QC=1.362E-6 19             
+247CM  G 345.9     1 36      3 [E1]                    0.0322                   
+247CMS G  KC=0.0254 4$LC=0.00510 8$MC=0.001240 18                               
+247CMS G  NC=0.000338 5$OC=8.48E-5 12$PC=1.593E-5 23$QC=9.22E-7 13              
+247CM  L 370       5                                                           ?
+247CMX L XREF=D                                                                 
+247CM  L 381       5 (11/2+)                                                B   
+247CMX L XREF=D                                                                 
+247CM  L 398       4                                                            
+247CMX L XREF=D                                                                 
+247CM cL J$11/2+,7/2[624] state was tentatively suggested by 1971Br27 from      
+247CM2cL (d,t) data.                                                            
+247CM  L 404.90    3  1/2+             100.6 NS  6                          E   
+247CMX L XREF=AD                                                                
+247CM cL J,T$From {+251}Cf |a decay (2003Ah07)                                  
+247CM  G 177.52    2           E2                      1.567                    
+247CMS G  KC=0.1643 23$LC=1.015 15$MC=0.285 4                                   
+247CMS G  NC=0.0794 12$OC=0.0193 3$PC=0.00327 5$QC=2.52E-5 4                    
+247CMB G BE2W=0.1350 14                                                         
+247CM  L 417       6                                                           ?
+247CMX L XREF=D                                                                 
+247CM cL J$3/2+,1/2[620] state was tentatively assigned by 1971Br27 from (d,t)  
+247CM2cL data. This state was observed at 433 keV in {+251}Cf |a decay.         
+247CM  L 421.0     9 19/2-                                                  A   
+247CMX L XREF=E                                                                 
+247CM  G 202       1                                                            
+247CM  L 433       2 (3/2+)                                                 E   
+247CMX L XREF=A                                                                 
+247CM  L 439       3                                                            
+247CMX L XREF=D                                                                 
+247CM cL J$9/2+,7/2[613] assignment was tentatively suggested by 1971Br27.      
+247CM  L 448       2 (5/2+)                                                 E   
+247CMX L XREF=AD                                                                
+247CM  L 506       3 (1/2+)                                                 G   
+247CMX L XREF=D                                                                 
+247CM  L 516.68    11 (7/2+)                                                E   
+247CMX L XREF=AD                                                                
+247CM  G 289.3     1           [M1+E2]                 0.9    7                 
+247CMS G  KC=0.7 6$LC=0.19 6$MC=0.049 13                                        
+247CMS G  NC=0.014 4$OC=0.0034 9$PC=0.00064 21$QC=3.E-5 3                       
+247CM  L 518.59     7(3/2+)                                                 G   
+247CMX L XREF=AD                                                                
+247CM  G 113.7     1 8.0     17[M1+E2]                 8      3                 
+247CMS G  LC=5.5 20$MC=1.5 7                                                    
+247CMS G  NC=0.41 18$OC=0.10 4$PC=0.018 6$QC=0.0005 4                           
+247CM  G 291.20    8 100     10[M1+E2]                 0.9    7                 
+247CMS G  KC=0.7 6$LC=0.19 6$MC=0.048 13                                        
+247CMS G  NC=0.013 4$OC=0.0033 9$PC=0.00063 21$QC=3.E-5 3                       
+247CM  L 539.8     1221/2-                                                  A   
+247CMX L XREF=E                                                                 
+247CM  G 225       1                                                            
+247CM  L 550       2 (9/2+)                                                 E   
+247CMX L XREF=D                                                                 
+247CM  L 581.67     8(5/2+)                                                 G   
+247CMX L XREF=AD                                                                
+247CM  G 315.8     1 100     13[M1+E2]                 0.7    6                 
+247CMS G  KC=0.5 5$LC=0.15 6$MC=0.037 12                                        
+247CMS G  NC=0.010 3$OC=0.0026 8$PC=0.00049 18$QC=2.6E-5 21                     
+247CM  G 354.3     1 54      8 [M1+E2]                 0.5    4                 
+247CMS G  KC=0.4 4$LC=0.10 5$MC=0.026 10                                        
+247CMS G  NC=0.0072 25$OC=0.0018 7$PC=0.00034 14$QC=1.9E-5 16                   
+247CM  L 592       2                                                            
+247CMX L XREF=D                                                                 
+247CM  L 604       3 (7/2+)                                                 G   
+247CMX L XREF=D                                                                 
+247CM  L 667.9     1223/2-                                                  A   
+247CMX L XREF=E                                                                 
+247CM  G 247       1                                                            
+247CM2 G FL=421.0                                                               
+247CM  L 668       5 (3/2+)                                                     
+247CMX L XREF=D                                                                 
+247CM  L 687       5 (11/2+)                                                    
+247CMX L XREF=D                                                                 
+247CM  L 699       2 (9/2+)                                                 G   
+247CMX L XREF=D                                                                 
+247CM cL $Level was assumed doublet in the (d,p),(d,t)                          
+247CM2cL reactions, and the other  member was assigned to the                   
+247CM3cL 5/2+,3/2[622] state by 1971Br27.                                       
+247CM  L 749       5 (7/2+)                                                     
+247CMX L XREF=D                                                                 
+247CM  L 784       4 (3/2-)                                                     
+247CMX L XREF=D                                                                 
+247CM  L 803       5                                                            
+247CMX L XREF=D                                                                 
+247CM  L 807.9     1225/2-                                                  A   
+247CM2 L XREF=E                                                                 
+247CM  G 140       1                                                            
+247CM2 G FL=667.9                                                               
+247CM  G 268       1                                                            
+247CM  L 819       4 (7/2-)                                                     
+247CMX L XREF=D                                                                 
+247CM  L 819       4 (9/2+)                                                     
+247CMX L XREF=D                                                                 
+247CM  L 856       5                                                            
+247CMX L XREF=D                                                                 
+247CM  L 897       5 (11/2-)                                                    
+247CMX L XREF=D                                                                 
+247CM  L 947       2                                                            
+247CMX L XREF=D                                                                 
+247CM  L 957       2 (1/2-)                                                 H   
+247CMX L XREF=D                                                                 
+247CM  L 957.9     1327/2-                                                  A   
+247CMX L XREF=E                                                                 
+247CM  G 150                                                                    
+247CM2 G FL=807.9                                                               
+247CM  G 290                                                                    
+247CM2 G FL=667.9                                                               
+247CM  L 988       5                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1001      2 (3/2-,5/2-)                                            H   
+247CMX L XREF=D                                                                 
+247CM  L 1044      3                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1064      3                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1079      3 (5/2+)                                                     
+247CMX L XREF=D                                                                 
+247CM  L 1091      3                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1118.9    1429/2-                                                  A   
+247CMX L XREF=E                                                                 
+247CM  G 161                                                                    
+247CM2 G FL=957.9                                                               
+247CM  G 311                                                                    
+247CM2 G FL=807.9                                                               
+247CM  L 1159      3                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1182      3 (9/2+)                                                     
+247CMX L XREF=D                                                                 
+247CM  L 1199      4                                                           ?
+247CMX L XREF=D                                                                 
+247CM  L 1239      5                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1247      5                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1271      3                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1283      3 (5/2-)                                                     
+247CMX L XREF=D                                                                 
+247CM  L 1287.9    1531/2-                                                  A   
+247CMX L XREF=E                                                                 
+247CM  G 169                                                                    
+247CM  G 330                                                                    
+247CM2 G FL=957.9                                                               
+247CM  L 1317      3                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1356      3                                                           ?
+247CMX L XREF=D                                                                 
+247CM  L 1364      4                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1372      4                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1467.9    1633/2-                                                  A   
+247CMX L XREF=E                                                                 
+247CM  G 180                                                                   ?
+247CM2 G FL=1287.9                                                              
+247CM  G 349                                                                    
+247CM  L 1512      6                                                            
+247CMX L XREF=D                                                                 
+247CM  L 1655.9    16   35/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 188                                                                    
+247CM  G 368                                                                    
+247CM2 G FL=1287.9                                                              
+247CM  L 1853.9    17   37/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 198                                                                    
+247CM  G 386                                                                    
+247CM  L 2056.9    19   39/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 401                                                                    
+247CM  L 2271.9    20   41/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 418                                                                    
+247CM  L 2487.9    22   43/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 431                                                                    
+247CM  L 2717.9    22   45/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 446                                                                    
+247CM  L 2945.9    24   47/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 458                                                                    
+247CM  L 3187.9    24   49/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 470                                                                    
+247CM  L 3427       3   51/2-                                               A   
+247CMX L XREF=E                                                                 
+247CM  G 481                                                                    

@@ -1,0 +1,214 @@
+255LR    ADOPTED LEVELS, GAMMAS                                  13NDS    201309
+255LR  H TYP=ERR$AUT=J. Tuli$DAT=28-Jul-2015$COM=FIXED decay mode for isomer$   
+255LR  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+255LR2 H CUT=1-Nov-2011$                                                        
+255LR D  Modified by E. Browne (October 18, 2011).                              
+255LR  Q -4383     SY 7997   SY 2066   208556    7     2012WA38                 
+255LR cQ           Estimated |DQ(|b{+-})=116, |DS(n)=302 (2012Wa38).            
+255LR c                                                                         
+255LR c  Calculations, compilation:                                             
+255LR c  |a decay: 1993Bu09                                                     
+255LR c  g.s. properties: 1997Mo25, 1995Mo29                                    
+255LR c  Single-particle Nilsson levels: 2010Ad19, 2004Pa40, 2004HeZZ, 2003Be41,
+255LR2c  1994Cw02.                                                              
+255LR c  1994Cw02 have calculated the following single-particle level sequence: 
+255LR2c  g.s., 7/2[514]; 0.14 MeV, 9/2[624]; 0.15 MeV, 1/2[521]; 0.73 MeV,      
+255LR3c  5/2[512]; 0.87 MeV, 7/2[633].                                          
+255LR c  Q(|a) and T{-1/2}: 2011Sa40, 2010Si27, 2009Do22, 2008Do12, 2002Lo05.   
+255LR c                                                                         
+255LR c  Assignment: {+249}Cf({+10}B,4n), {+249}Cf({+11}B,5n),                  
+255LR2c  {+243}Am({+16}O,4n) excit (1971Es01)                                   
+255LR cL J         Based on rotational band structure and |g-ray decay patterns,
+255LR2cL unless otherwise specified.                                            
+255LR CL BAND(A)$1/2[521] BAND                                                  
+255LR CL BAND(B)$7/2[514] BAND                                                  
+255LR CL BAND(X)$9/2[624] BAND                                                  
+255LR CL BAND(Y)$K=(19/2-) BAND                                                 
+255LR CL BAND(Z)$K=(15/2+) BAND                                                 
+255LR cL E(D)$From 2009Ke02 in {+209}Bi({+48}Ca,2n|g).                          
+255LR cL E(E)$From 2009Je02 in {+209}Bi({+48}Ca,2n|g).                          
+255LR cL E$Deduced by evaluators from least-squares fit to |g-ray energies.     
+255LR cG E(D)      From 2009Ke02, assumed E2.                                   
+255LR cG E(E),RI(E)$From 2009Je02 in {+209}Bi({+48}Ca,2n|g).                    
+255LR  XA209BI(48CA,2NG)                                                        
+255LR  XB255LR IT DECAY (2.54 S)                                                
+255LR  XC259DB A DECAY                                                          
+255LR  XD255LR IT DECAY (1.70 MS)                                               
+255LR  L 0.0           [1/2-]          31.1 S    11                             
+255LRX L XREF=ABCD                                                              
+255LR2 L %A=99.7 1$%EC=0.3 1$%SF<0.1                                            
+255LR cL $%|a Deduced by evaluators from data in 2008Ha31.                      
+255LR2cL Other values: %|a=85 {I15}; %|e+%|b{++}<30; %SF<0.1,                   
+255LR3cL from 1971Es01. Upper limit deduced from comparison                     
+255LR4cL of possible {+255}No (|e daughter) |a's to {+255}Lr |a's.              
+255LR5cL %SF from T{-1/2}(SF)>6 h (1976Og02,2000Ho27) and T{-1/2}=31.1 s.       
+255LR cL J         Expected from theory (2002Lo05). Other: 2008KeZY.            
+255LR cL T         Weighted average of 31 s {I2} (2008Ha31) and                 
+255LR2cL 31.1 s {I13} (2006Ch52). Other values: 22 s {i5} (1971Es01),           
+255LR3cL 21.5 s {i50} (1976BeYM), and >19.1 s (2008An16),                       
+255LR4cL 21 s {I8} (2001Ga20).                                                  
+255LR  L 38        10 [7/2-]           2.54 S    5                          BM1 
+255LR2 L %A AP 40 (2006Ch52)$%IT AP 60                                          
+255LRX L XREF=ABD                                                               
+255LR2 L FLAG=D                                                                 
+255LR cL J         Expected from theory (2002Lo05). Other: 2008KeZY.            
+255LR cL T         Weighted average of 2.6 s {I1} (2008Ha31),                   
+255LR2cL 2.53 s {I13} (2006Ch52), and 2.53 s {I5} (2008An16).                   
+255LR  L 38+X         (9/2-)                                                B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  L Y            (9/2+)                                                X   
+255LRX L XREF=A                                                                 
+255LR  L 69.5+Y    4  (11/2+)                                               X   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 69.5      4  100      [M1]                    41.7   10            E   
+255LRS G LC=31.1 7$MC=7.75 17$NC+=2.91 7                                        
+255LRS G NC=2.19 5$OC=0.593 13$PC=0.118 3$QC=0.00765 17                         
+255LR  L 151.8+Y   5  (13/2+)                                               X   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 82.3      3  100      [M1]                    25.5   5             E   
+255LRS G LC=19.0 4$MC=4.73 9$NC+=1.77 4                                         
+255LRS G NC=1.336 24$OC=0.362 7$PC=0.0723 13$QC=0.00466 9                       
+255LR  L 196.6     5  5/2-                                                  A   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 196.6     5  100                                                   D   
+255LR2 G FL=0.0                                                                 
+255LR  L 227.0+X   10 (11/2-)                                               B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 189       1  100                                                   D   
+255LR3 G FL=38                                                                  
+255LR  L 253.0+X   10 (13/2-)                                               B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 215       1  100                                                   D   
+255LR3 G FL=38+X                                                                
+255LR  L 246.5+Y   5  (15/2+)                                               X   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 94.7      3  100      [M1]                    16.9   3             E   
+255LRS G LC=12.62 22$MC=3.14 6$NC+=1.180 20                                     
+255LRS G NC=0.888 15$OC=0.241 4$PC=0.0481 8$QC=0.00310 6                        
+255LR  G 177.0     4  33     11[E2]                    2.79   5             E   
+255LRS G KC=0.1218 18$LC=1.91 4$MC=0.552 10$NC+=0.208 4                         
+255LRS G NC=0.159 3$OC=0.0416 8$PC=0.00701 12$QC=5.54E-5 9                      
+255LR  L 353.4+Y   6 (17/2+)                                                X   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 107          100                                                       
+255LR cG E         From Fig. 2 in 2009Je02.                                     
+255LR  L 443.8     7 9/2-                                                   A   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 247.2     5  100                                                   D   
+255LR  L 466.0     15 (15/2-)                                               B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 239       1  100                                                   D   
+255LR  L 517.6+X   12 (17/2-)                                               B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 264.6     5  100                                                   D   
+255LR  L 740.0     9  (13/2-)                                               A   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 296.2     5  100                                                   D   
+255LR  L 754.4+X   15(19/2-)                                                B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 288.4     4  100                                                   D   
+255LR  L 740.0+Y   5 (15/2+)           1 US      LT                         Z   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR cL T$From 2009Je02                                                        
+255LR  G 386.6     4 23      8 [M1]                    1.341                E   
+255LRS G KC=1.030 15$LC=0.232 4$MC=0.0576 9$NC+=0.0216 3                        
+255LRS G NC=0.01625 24$OC=0.00440 7$PC=0.000877 13$QC=5.58E-5 8                 
+255LR  G 493.5     3 100     14[M1]                    0.685                E   
+255LRS G KC=0.526 8$LC=0.1181 17$MC=0.0293 5$NC+=0.01098 16                     
+255LRS G NC=0.00827 12$OC=0.00224 4$PC=0.000446 7$QC=2.83E-5 4                  
+255LR  G 588.1     3 91      15[M1]                    0.424                E   
+255LRS G KC=0.326 5$LC=0.0729 11$MC=0.0181 3$NC+=0.00677 10                     
+255LRS G NC=0.00510 8$OC=0.001380 20$PC=0.000275 4$QC=1.746E-5 25               
+255LR  L 831.6+X     (21/2-)                                                B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 314.0     5  100                                                   D   
+255LR  L 850.4+Y   6 (17/2+)                                                Z   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 110.4     3  100      [M1]                    10.86  18            E   
+255LRS G LC=8.09 13$MC=2.02 4$NC+=0.756 13                                      
+255LRS G NC=0.569 10$OC=0.1542 25$PC=0.0308 5$QC=0.00198 4                      
+255LR  L 878.8+Y   10(19/2-)           10 NS     GE                         Y   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR cL T$From 2009Je02                                                        
+255LR  G 28           100      [E1]                    2.68                    S
+255LRS G LC=1.516 22$MC=0.856 12$NC+=0.306 5                                    
+255LRS G NC=0.239 4$OC=0.0585 9$PC=0.00763 11$QC=0.0001590 23                   
+255LR  L 972.9+Y     (19/2+)                                                Z   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 123       1 100       [M1]                    7.95   22            E   
+255LRS G LC=5.92 17$MC=1.48 4$NC+=0.554 16                                      
+255LRS G NC=0.417 12$OC=0.113 4$PC=0.0225 7$QC=0.00145 4                        
+255LR  L 1016.3+Y  10(21/2-)                                                Y   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 137.4     4 100       [M1]                    5.78   10            E   
+255LRS G LC=4.31 7$MC=1.073 18$NC+=0.402 7                                      
+255LRS G NC=0.303 5$OC=0.0821 14$PC=0.0164 3$QC=0.001051 18                     
+255LR  L 1082.9    10 (17/2-)                                               A   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 342.9      5 100                                                   D   
+255LR2 G FL=740.0                                                               
+255LR  L 1092.4+X  18(23/2-)                                                B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 338       1  100                                                   D   
+255LR  L 1108.0+Y  10(21/2+)                                                Z   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 135.2     3 100       [M1]                    6.06                 E   
+255LRS G LC=4.51 7$MC=1.123 18$NC+=0.422 7                                      
+255LRS G NC=0.317 5$OC=0.0860 14$PC=0.0172 3$QC=0.001101 17                     
+255LR  L 1191.6+X  16(25/2-)                                                B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 360       1  100                                                   D   
+255LR  L 1164.7+Y  10(23/2-)                                                Y   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=E                                                                 
+255LR  G 148.3     4 100       [M1]                    4.64   8             E   
+255LRS G LC=3.46 6$MC=0.861 14$NC+=0.323 6                                      
+255LRS G NC=0.243 4$OC=0.0659 11$PC=0.01315 21$QC=0.000843 14                   
+255LR  L 1408.6+Y  10(25/2+)           1.70 MS   3                           M2 
+255LR2 L %A LT 0.15 (2008An16)$%IT GT 99.85                                     
+255LRX L XREF=AD                                                                
+255LR2 L FLAG=E                                                                 
+255LR cL T         Other value: 1.4 ms {I1}, from 100-keV conversion electrons  
+255LR2cL observed in coincidence with 588-keV |g ray (2008Ha31);                
+255LR3cL 1.81 ms {I2} (2008An16).                                               
+255LR  G 243.9     3 61      15[E1]                    0.0790               E   
+255LRS G KC=0.0596 9$LC=0.01446 21$MC=0.00360 6$NC+=0.001328 19                 
+255LRS G NC=0.001009 15$OC=0.000267 4$PC=4.92E-5 7$QC=2.25E-6 4                 
+255LR  G 300.6     3 100     12[E2]                    0.389                E   
+255LRS G KC=0.0893 13$LC=0.215 4$MC=0.0612 9$NC+=0.0230 4                       
+255LRS G NC=0.0176 3$OC=0.00462 7$PC=0.000802 12$QC=1.159E-5 17                 
+255LR  L 1469.9    15(21/2-)                                                A   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 387       1  100                                                   D   
+255LR  L 1476.4    21(27/2-)                                                B   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 384       1  100                                                   D   
+255LR  L 1899.9    18(25/2-)                                                A   
+255LRX L XREF=A                                                                 
+255LR2 L FLAG=D                                                                 
+255LR  G 430       1  100                                                   D   

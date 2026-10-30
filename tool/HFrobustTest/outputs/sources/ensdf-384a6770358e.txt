@@ -1,0 +1,59 @@
+207FR    ADOPTED LEVELS, GAMMAS                                  11NDS    201102
+207FR  H TYP=FUL$AUT=F.G. KONDEV, S. LALKOVSKI$CIT=NDS 112, 707 (2011)$         
+207FR2 H CUT=1-Aug-2010$                                                        
+207FR  Q -6.38E3   6 9.67E3  4 1018    236893    20    2012WA38                 
+207FR cQ $Note: Current evaluation has used the following Q record              
+207FR2cQ -6380  {I80} {I9}.67|*10{+3}  {I6} 1020 {I50} 6900 {I50}    2003Au03   
+207FR c  SF isomer with T{-1/2}>8 ns was reported by 1969Ru08, but not          
+207FR2c  confirmed by 1970Bj02                                                  
+207FR  XA211AC A DECAY                                                          
+207FR  XB181TA(30SI,4NG)                                                        
+207FR cL E$From a least-squares fit to E|g                                      
+207FR cG E,RI,M$From 2008Ha39. The uncertainties in E|g were estimated by the   
+207FR2cG evaluator. The Mult. assignment is based on |g(|q) analysis with A{-4} 
+207FR3cG term set to zero                                                       
+207FR CL BAND(A)$Weakly collective structure based on the (|p h{-9/2}){++1}     
+207FR2cL configuration                                                          
+207FR  L 0            9/2-             14.8 S    1                          A   
+207FRX L XREF=AB                                                                
+207FR2 L %A=95 2$ %EC+%B+=5 2$                                                  
+207FR cL %A$Weighted average of 93% {I3} (1974Ho27) and 97% {I3} (1981Ri04).    
+207FR2cL %|e+%|b{++} decay has not been observed                                
+207FR cL J$Hyperfine structure, atomic beam (1986Ek02). Favored |a decay        
+207FR2cL (HF=1.2) to the daughter nuclide ({+203}At) g.s. (J|p=9/2-)            
+207FR cL T$Weighted average of 14.7 s {I3} (1967Va20), 14.8 s {I1} (1974Ho27),  
+207FR2cL and 14.9 s {I1} (1981Ri04). Other: 18.7 s {I8} (1964Gr04)              
+207FR3 L MOMM1=+3.89 8 (1985Co24,2005St24)$                                     
+207FR4 L MOME2=-0.16 5 (1985Co24,2005St24)$                                     
+207FR cL MOMM1,MOME2$Deduced using the atomic beam laser spectroscopy technique 
+207FR2cL (1985Co24).                                                            
+207FR cL $|D<r{+2}>=-0.21794 {I16} relative to {+212}Fr (1987Co19, supersedes   
+207FR2cL 1985Co24). The uncertainty is statistical only. Uncertainty in         
+207FR3cL density and calibration add a few percent (1987Co19).                  
+207FR cL $Configuration=(|p h{-9/2}){++1}                                       
+207FR cL $E|a=6768 keV {I3} is recommended by 1991Ry01. Measured values are     
+207FR2cL 6773 keV 5 (1967Va20), 6761 keV {I5} (1974Ho27), 6766 keV {I5}         
+207FR3cL (1981Ri04) and 6900 keV 20 (1964Gr04).                                 
+207FR  L 599.6      5   (13/2-)                                             A   
+207FRX L XREF=B                                                                 
+207FR cL J$599.6|g to 9/2-; 599.6|g is assigned E2 multipolarity in 2008Ha39,   
+207FR2cL but the measured A{-2} value is inconsistent with such an assignment   
+207FR3cL presumably due to a contamination from a transition of similar energy  
+207FR4cL in {+204}At                                                            
+207FR  G 599.6     5  100      [E2]                                             
+207FR cG M$A{-2}=-0.04 {I4} (2008Ha39). The A{-2} value is inconsistent with    
+207FR2cG the proposed stretched E2 assignment in 2008Ha39, where a possible     
+207FR3cG contamination from a transition of similar energy in {+204}At is       
+207FRxcG suggested                                                              
+207FR  L 1154.8     7 (17/2-)                                               A   
+207FRX L XREF=B                                                                 
+207FR cL J$555.2|g (E2) to (13/2-)                                              
+207FR  G 555.2     5  100      (E2)                                             
+207FR cG M$A{-2}=+0.67 {I12} (2008Ha39).                                        
+207FR  L 1808.5     9 (21/2-)                                               A   
+207FRX L XREF=B                                                                 
+207FR cL J$653.7|g to (17/2-); weakly collective band structure                 
+207FR  G 653.7     5  100                                                       
+207FR  L 1885.2     9                                                           
+207FRX L XREF=B                                                                 
+207FR  G 730.4     5  100                                                       

@@ -1,0 +1,26 @@
+268DB    272BH A DECAY (10.5 S)        2004OG03,2013RU11,2013OG0119NDS    201902
+268DB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 148 (2019)$CUT=31-Jan-2019$      
+268DB c  {+272}Bh produced in |a-decay chain:                                   
+268DB2c  {+288}Mc -> {+284}Nh -> {+280}Rg -> {+276}Mt -> {+272}Bh,              
+268DB3c  where {+288}Mc produced in {+243}Am({+48}Ca,3n)                        
+268DB c  See {+272}Bh Adopted Levels for details of production and half-life of 
+268DB2c  the isotope.                                                           
+268DB cA E,IA$From 2013Ru11                                                     
+272BH  P 0                             10.5 S    +15-11         9300      50    
+272BH cP T$From {+272}Bh Adopted Levels                                         
+272BH cP QP$From 2017Wa10                                                       
+268DB  N                       1.0     AP                                       
+268DB cN BR$Assumed %|a=100 for {+272}Bh decay                                  
+268DB  L 0                               28 H    3                              
+268DB cL T$from Adopted Levels                                                  
+268DB  A 9.07E3    1 75                                                         
+268DB cA E$other: 9.02 MeV {I6} (2004Og03). Assumed as g.s. to g.s.             
+268DB2cA |a transition                                                          
+268DB  L 140       AP                                                           
+268DB  A 8.93E3    1 25                                                         
+268DB  G 140       AP                                                           
+268DB cG E$from 2013Ru11, based on E|a values. Authors mention that the         
+268DB2cG simulated |g-ray yield is marginal and consistent with an empty        
+268DB3cG spectrum from the Ge detector.                                         
+268DB cG M$M1 or E2 suggested by 2013Ru11, but no arguments are provided. It is 
+268DB2cG that the |g-ray would have been seen clearly if it were E1.            

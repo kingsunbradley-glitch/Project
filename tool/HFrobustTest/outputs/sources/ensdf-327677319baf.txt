@@ -1,0 +1,39 @@
+236BK    240ES A DECAY                 2017Ko02                  22NDS    202205
+236BK  H TYP=FUL$AUT=Shaofei Zhu$CIT=NDS 182, 2 (2022).$CUT=1-Apr-2022$         
+236BK c  2017Ko02: {+240}Es was produced in the {+209}Bi({+34}S,3n) reaction    
+236BK2c  with a beam at 186 MeV; evaporation residues (Er) were separated       
+236BK3c  in-flight by the RITU gas-filled separator and implanted into two      
+236BK4c  DSSD silicon detectors at the focal plane, surrounded by three         
+236BK5c  Clover-type HPGe detectors and a planer HPGe detector. Measured E|a,   
+236BK6c  E|g, Er-|a-|a, Er-fission, Er-|a-fission and Er-|a-|g time and         
+236BK7c  position correlations.                                                 
+236BK cL J$From Adopted levels                                                  
+236BK cG E$From 2017Ko02                                                        
+236BK cG E(a)$Energy close to the Bk K x-ray line.                              
+236BK cA IA$From the reported 60 Er-8090|a events and 27 Er-8190|a events       
+236BK2cA correlated within a 30 s Er-|a correlation time window in 2017Ko02.    
+236BK cA HF$r{-0}({+236}Bk)=1.5027 {I17}, from r{-0}({+236}Cm) in 2020Si16.     
+240ES  P 0            (1+)              6 S       2              8.26E+3  6     
+240ES cP T$From 2017Ko02; other: 8 s {I+6-2} (2020Kh08) and 4.7 s {I+38-14}     
+240ES2cP (2020Po07).                                                            
+240ES cP E,J$From Adopted Levels of {+240}Es in the ENSDF database.             
+240ES cP QP$From 2021Wa16.                                                      
+236BK  N 1                      0.70   10                                       
+236BK cN BR$From 2017Ko02                                                       
+236BK  G 67        3                                                            
+236BK  G 89        3                                                            
+236BK  G 112       3                                                            
+236BKF G FLAG=a                                                                 
+236BK  G 125       3                                                            
+236BKF G FLAG=a                                                                 
+236BK cG E$relative intensities between the 125|g and 112|g suggesting the      
+236BK2cG 125|g is not a pure K x-ray line (2017Ko02)                            
+236BK  L 0.0          (4+,6-)           22 S      +13-6                         
+236BK cL T$from Er-8090|a-fission(t) in 2017Ko02.                               
+236BK  A 8190      3031      AP9.5     AP                                       
+236BK cA E$from 2017Ko02; others: 8120 {I77}, possible doublets (2020Po07);     
+236BK2cA 8050 {I30}, final state not determined with only one decay event       
+236BK3cA observed (2020Kh08);                                                   
+236BK  L 102       43 (1)                                                       
+236BK  A 8090      3069      AP2       AP                                       
+236BK cA E$from 2017Ko02;                                                       

@@ -1,0 +1,173 @@
+206FR    ADOPTED LEVELS, GAMMAS                                  25NDS    202503
+206FR  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 201, 346 (2025)$CUT=21-Jan-2025$       
+206FR  Q -4810     30 8008   29 826    28 6923   3     2021WA16                 
+206FR cQ $S(2n)=18000 {I40}, S(2p)=3950 {I40}, Q(|e)=7886 {I29}, Q(|ep)=4450    
+206FR2cQ {I30} (2021Wa16)                                                       
+206FR cG E,RI,M$From 2008Ha39, unless otherwise stated                          
+206FR  XA210AC A DECAY                                                          
+206FR  XB181TA(30SI,5NG)                                                        
+206FR DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+206FR PN                                                                     6  
+206FR  L  0              3+            16 S      AP                             
+206FRX L XREF=A                                                                 
+206FR2 L %A=88.4 33$ %EC+%B+=11.6 33                                            
+206FR2 L MOMM1=+3.97 5 $ MOME2=-0.359 8                                         
+206FR cL %A$From 2016Ly01. Others (assigned to both the 3+ and 7+ states):      
+206FR2cL 84% {I2} (1992Hu04), 85% {I3} (1974Ho27) and 93% {I4} (1981Ri04).      
+206FR cL J$From hyperfine structure analysis in 2013Vo10, 2015Vo15, 2014Ly01,   
+206FR2cL 2016Ly01 and 2015Zh20. |p from |m and values expected for              
+206FR3cL configurations involving |ph{-9/2} and |np{-3/2}, |nf{-5/2} and        
+206FR4cL |ni{-13/2}                                                             
+206FR cL MOMM1$From 2016Ly01,2019StZV using collinear laser spectroscopy;       
+206FR2cL Others: +3.97 {I6} (2013Vo10), +3.91 {I3} (2015Vo15),                  
+206FR3cL +3.99 {I5} (2014Ly01)                                                  
+206FR cL MOME2$From 2016Ly01,2021StZZ using collinear laser spectroscopy;       
+206FR2cL Others: -0.355 {I10} (2013Vo10) and -0.253 {I18} (2015Vo15)            
+206FR cL $|d<r{+2}>({+206}Fr,{+208}Fr)=-0.1018 fm{+2} {I4} (2013Vo10) and       
+206FR2cL -0.0998 fm{+2} {I1} (2015Vo15);                                        
+206FR3cL |d<r{+2}>({+221}Fr,{+206}Fr)=-1.465 fm{+2} {I6} (stat)                 
+206FR4cL {I16} (syst) (2014Ly01) and -1.4851 fm{+2} {I1} (stat)                 
+206FR5cL {I162} (syst) (2016Ly01)                                               
+206FR cL T$Approximate value assigned to both the 3+ and 7+ states.             
+206FR2cL Individually reported values are 15.8 s {I4} (1961Gr42,1964Gr04),      
+206FR3cL 15.7 s {I3} (1967Va20), 16.0 s {I1} (1974Ho27) and 15.9 s {I3}         
+206FRxcL (1981Ri04).                                                            
+206FR cL $E|a=6792 keV {I5} (1992Hu04), a doublet with E|a depopulating the     
+206FR2cL 7+ state. Others: 6802 keV {I7} (2015Ma63), 6790 keV {I5} (1981Ri04),  
+206FR3cL 6785 keV {I5} (1974Ho27), 6792 keV {I5} (1967Va20), 6.92 MeV {I2}      
+206FR4cL (1964Gr04) and 6.74 MeV (1961Gr42)                                     
+206FR cL $Configuration=[|p(h{-9/2}{++1})~#|n(p{-3/2}{+-1})]{-3+}               
+206FR  L 0.0+X              7+         16 S      AP                          M1 
+206FR DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+206FRX L XREF=AB                                                                
+206FR2 L %A=84.7 15$%EC+%B+=15.3 15                                             
+206FR2 L MOMM1=+4.70 5 $ MOME2=-0.143 11                                        
+206FR cL E$x=200 keV {I40} in 2021Ko07                                          
+206FR cL %A$From 2016Ly01. Others (assigned to both the 3+ and 7+ states):      
+206FR2cL 84% {I2} (1992Hu04), 85% {I3} (1974Ho27) and 93% {I4} (1981Ri04).      
+206FR cL J$From hyperfine structure analysis in 2015Vo15, 2014Ly01,             
+206FR2cL 2016Ly01 and 2015Zh20. |p from |m and values expected for              
+206FR3cL configurations involving |ph{-9/2} and |np{-3/2}, |nf{-5/2} and        
+206FR4cL |ni{-13/2}                                                             
+206FR cL MOMM1$From 2016Ly01,2019StZV using collinear laser spectroscopy;       
+206FR2cL Others: +4.68 {I4} (2015Vo15) and +4.69 {I6} (2014Ly01)                
+206FR cL MOME2$From 2016Ly01,2021StZZ using collinear laser spectroscopy;       
+206FR2cL Other: -0.138 {I17} (2015Vo15)                                         
+206FR cL $|d<r{+2}>({+206m1}Fr,{+208}Fr)=-0.1022 fm{+2} {I1} (2015Vo15);        
+206FR2cL |d<r{+2}>({+221}Fr,{+206m1}Fr)=-1.4870 fm{+2} {I1} (stat) {I162}       
+206FR3cL (syst) (2016Ly01) and -1.475 fm{+2} {I8} (stat) {I16} (syst)           
+206FR4cL (2014Ly01)                                                             
+206FR cL T$Approximate value assigned to both the 3+ and 7+ states.             
+206FR2cL Individually reported values are 15.8 s {I4} (1961Gr42,1964Gr04),      
+206FR3cL 15.7 s {I3} (1967Va20), 16.0 s {I1} (1974Ho27) and 15.9 s {I3}         
+206FRxcL (1981Ri04).                                                            
+206FR cL $E|a=6792 keV {I5} (1992Hu04), a doublet with E|a depopulating the     
+206FR2cL 3+ state. Others: 6802 keV {I7} (2015Ma63), 6790 keV {I5} (1981Ri04),  
+206FR3cL 6785 keV {I5} (1974Ho27), 6792 keV {I5} (1967Va20), 6.92 MeV {I2}      
+206FR4cL (1964Gr04) and 6.74 MeV (1961Gr42)                                     
+206FR cL $Configuration=[|p(h{-9/2}{++1})~#|n(f{-5/2}{+-1})]{-7+}               
+206FR  L 531.0+X   10     10-          0.7 S     1                           M2 
+206FRX L XREF=AB                                                                
+206FR2 L %A=13 2$%IT=87 2                                                       
+206FR2 L MOMM1=+2.45 3 $ MOME2=+1.255 28                                        
+206FR cL %A$From 2016Ly01. Other: %|a=0.3 {I1} in 1981Ri04, but this value      
+206FR2cL results in HF=60, an unprecedented value for a favored |a-decay        
+206FR3cL transition; 1992Hu04 indicated that the value of 1981Ri04 is based on  
+206FR4cL an incorrect analysis.                                                 
+206FR cL J$From hyperfine structure analysis in 2015Vo15, 2014Ly01, and         
+206FR2cL 2016Ly01. |p from |m and values expected for configurations            
+206FR3cL involving |ph{-9/2} and |np{-3/2}, |nf{-5/2} and |ni{-13/2}            
+206FR cL MOMM1$From 2016Ly01,2019StZV using collinear laser spectroscopy;       
+206FR2cL Others: +3.55 {I5} (2014Ly01) and +2.44 {I2} (2015Vo15)                
+206FR cL MOME2$From 2016Ly01,2021StZZ using collinear laser spectroscopy;       
+206FR2cL Other: +1.307 {I9} (2015Vo15)                                          
+206FR cL $|d<r{+2}>({+206m2}Fr,{+208}Fr)=-0.0298 fm{+2} {I1} (2015Vo15);        
+206FR2cL |d<r{+2}>({+211}Fr,{+206m2}Fr)=-1.4154 fm{+2} {I1} (stat) {I155}       
+206FR3cL (syst) (2016Ly01) and -1.153 fm{+2} {I14} (2014Ly01)                   
+206FR cL T$From 1981Ri04                                                        
+206FR cL $E|a=6930 keV {I5} (1981Ri04,1992Hu04)                                 
+206FR cL $Configuration=[|p(h{-9/2}{++1})~#|n(i{-13/2}{+-1})]{-10-}             
+206FR  G 531       1 100       [E3]                    0.1086 16                
+206FR cG E$From 1981Ri04. Uncertainty estimated by the evaluator from comparison
+206FR2cG of 391|g in {+202}At: E|g=391 keV in 1981Ri04 and 391.7 {I2} keV in    
+206FR3cG 1992Hu04 (adopted in 2008Zh05)                                         
+206FRB G BE3W=4.5E-5 7                                                          
+206FRS G  KC=0.0536 8$LC=0.0406 6$MC=0.01081 17                                 
+206FRS G  NC=0.00285 5$OC=0.000608 10$PC=8.59E-5 14$QC=1.779E-6 27              
+206FR  L 574.4+X   12                                                           
+206FRX L XREF=B                                                                 
+206FR  L 655.6+X   12                                                           
+206FRX L XREF=B                                                                 
+206FR  L 1098.1+X  11   (11)                                                    
+206FRX L XREF=B                                                                 
+206FR cL J$From 2008Ha39                                                        
+206FR  G 523.7     5  57     6                                                  
+206FR cG $A{-2}=-0.08 {I10}                                                     
+206FR  G 567.1     5  100    AP                                                 
+206FR cG $A{-2}=-0.12 {I8}                                                      
+206FR  L 1208.7+X  11   (11)                                                    
+206FRX L XREF=B                                                                 
+206FR cL J$From 2008Ha39                                                        
+206FR  G 553.1     5  100    AP                                                 
+206FR cG $A{-2}=-0.71 {I20}                                                     
+206FR  G 634.4     5  54     4                                                  
+206FR  G 677.7     5  63     6                                                  
+206FR cG $A{-2}=-0.24 {I14}                                                     
+206FR  L 1592.3+X  12                                                           
+206FRX L XREF=B                                                                 
+206FR  G 383.5     5  100                                                       
+206FR cG $A{-2}=-0.04 {I9}                                                      
+206FR  G 494.2     5  40     6                                                  
+206FR  L Y             J                                                        
+206FR DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+206FRX L XREF=B                                                                 
+206FR  L 140.4+Y    5  J+1                                                      
+206FRX L XREF=B                                                                 
+206FR  G 140.4     5   100      (M1)                   5.45    9                
+206FRS G  KC=4.39 8$LC=0.806 14$MC=0.1922 33                                    
+206FRS G  NC=0.0504 9$OC=0.01126 20$PC=0.001807 31$QC=0.0001009 18              
+206FR  L 407.9+Y    7  J+2                                                      
+206FRX L XREF=B                                                                 
+206FR  G 267.5     5   100      (M1)                   0.893  13                
+206FR cG $A{-2}=-0.40 {I5}                                                      
+206FRS G  KC=0.720 11$LC=0.1309 20$MC=0.0311 5                                  
+206FRS G  NC=0.00817 12$OC=0.001825 27$PC=0.000293 4$QC=1.634E-5 24             
+206FR  L 670.3+Y    9  J+3                                                      
+206FRX L XREF=B                                                                 
+206FR  G 262.4     5   100      (M1)                   0.942  14                
+206FR cG $A{-2}=-0.41 {I6}                                                      
+206FRS G  KC=0.760 11$LC=0.1380 21$MC=0.0329 5                                  
+206FRS G  NC=0.00862 13$OC=0.001926 29$PC=0.000309 5$QC=1.724E-5 26             
+206FR  L 964.4+Y   10  J+4                                                      
+206FRX L XREF=B                                                                 
+206FR  G 294.1     5   100      (M1)                   0.687  10                
+206FR cG $A{-2}=-0.44 {I5}                                                      
+206FRS G  KC=0.555 8$LC=0.1006 15$MC=0.02394 35                                 
+206FRS G  NC=0.00628 9$OC=0.001403 21$PC=0.0002251 33$QC=1.256E-5 19            
+206FR  L 1212.7+Y  10                                                           
+206FRX L XREF=B                                                                 
+206FR  G 542.4     5   100                                                      
+206FR  L 1242.0+Y  12  J+5                                                      
+206FRX L XREF=B                                                                 
+206FR  G 277.6     5   100      (M1)                   0.806  12                
+206FR cG $A{-2}=-0.29 {I12}                                                     
+206FRS G  KC=0.650 10$LC=0.1181 18$MC=0.0281 4                                  
+206FRS G  NC=0.00737 11$OC=0.001647 24$PC=0.000264 4$QC=1.474E-5 22             
+206FR  L 1484.6+Y  13  J+6                                                      
+206FRX L XREF=B                                                                 
+206FR  G 242.6     5   100      (M1)                   1.170  18                
+206FR cG $A{-2}=-0.30 {I12}                                                     
+206FRS G  KC=0.944 14$LC=0.1718 26$MC=0.0409 6                                  
+206FRS G  NC=0.01072 16$OC=0.00240 4$PC=0.000384 6$QC=2.145E-5 32               
+206FR  L 1683.1+Y  14  J+7                                                      
+206FRX L XREF=B                                                                 
+206FR  G 198.5     5   100      (M1)                   2.049  32                
+206FR cG $A{-2}=-0.76 {I21}                                                     
+206FRS G  KC=1.652 26$LC=0.302 5$MC=0.0718 11                                   
+206FRS G  NC=0.01884 30$OC=0.00421 7$PC=0.000675 11$QC=3.77E-5 6                
+206FR  L 1909.7+Y  15  J+8                                                      
+206FRX L XREF=B                                                                 
+206FR  G 226.6     5   100                                                      
+206FR  L 2214.1+Y  15  J+9                                                      
+206FRX L XREF=B                                                                 
+206FR  G 304.4     5   100                                                      

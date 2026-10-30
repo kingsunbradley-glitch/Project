@@ -1,0 +1,494 @@
+251CF    255FM A DECAY                 2005Ah09                  23NDS    202305
+251CF  H TYP=FUL$AUT=C. Morse$CIT=NDS 189, 111 (2023)$CUT=23-Sep-2022$          
+251CF c  2006Ah09, 2005Ah09, 2000Ah09, 2002Ah06: source from {+255}Es |b{+-},   
+251CF2c  chem, measured |g, X|g, Ge, LEPS; |g|g, gammasphere array of 101 Ge    
+251CF3c  detectors.                                                             
+251CF c  1975Ah01: source from {+255}Es |b{+-}, ms. Measured: E|a, I|a          
+251CF c  1971Ah01: source from {+255}Es |b{+-}, chem. Measured: |a, |g, ce,     
+251CF2c  |a|g, |g|g, |a|g(t); semi, Ge(Li), mag spect, Si(Li)                   
+251CF c  1974So10, 2009Se09: |a angular distribution from oriented nuclei       
+251CF c  1990Po14: Measured relative M- and L- x-ray intensities                
+251CF c  Others: 2011Zh36, 2006Ah09, 2005Gu40, 2005St14, 1964As01, 1991Po17.    
+251CF cL $The level scheme and rotational bands are from 2005Ah09, 1975Ah01,    
+251CF2cL 1971Ah01 and agree with some earlier assignments by 1964As01. There    
+251CF3cL is intensity imbalance at some levels. This might be due to either     
+251CF4cL missing low energy |g rays, or undetermined multipolarities being      
+251CF5cL M1+E2 rather than M1 as assumed.                                       
+251CF cL E$From least-squares fit to |g-ray energies.                           
+251CF cL J$From adopted levels                                                  
+251CF CL BAND(A)$|n1/2+[620]                                                    
+251CF CL BAND(B)$|n7/2+[613]                                                    
+251CF CL BAND(C)$|n3/2+[622]                                                    
+251CF CL BAND(D)$|n5/2+[622]                                                    
+251CF CL BAND(E)$|n1/2-[750]                                                    
+251CF CL BAND(F)$|[|n7/2+[613]~#2{+-}|]3/2-                                     
+251CF cA IA$From 1975Ah01 unless otherwise noted.                               
+251CF cA E(A),IA(A)$Existence of this branch is based on observation of |g      
+251CF2cA rays from the associated level in 2005Ah09.  E{-|a} based on           
+251CF3cA level-energy differences, I{-|a} based on |g-ray intensity balance.    
+251CF cA $1975Ah01 identifies an |a with E{-|a}=6621 keV {I3} and               
+251CF2cA I{-|a}=2.2|*10{+-3}% {I5}.  However, this |a was not identified in     
+251CF3cA the more sensitive study of 2005Ah09.                                  
+251CF cA HF$The nuclear radius parameter r{-0}({+251}Cf)=1.4938 {I22} is        
+251CF2cA deduced from interpolation (or unweighted average) of radius           
+251CF3cA parameters of the adjacent even-even nuclides (2020Si16).              
+251CF cG $K|a| x ray=0.048 {I3}, K|b| x ray=0.015 {I2} (1971Ah01)               
+251CF cG $Measured relative Cf M- and L- x-ray intensities (1990Po14)           
+251CF cG E$From 2005Ah09, unless otherwise noted.                               
+251CF cG E(A)$From 1971Ah01.                                                    
+251CF cG TI$From ce+|g of 1971Ah01. The uncertainty of the individual ce        
+251CF2cG intensity is 20%                                                       
+251CF cG M(E)$K| x ray/(153|g+178|g)=6 {I2} from |a|g experiment, suggesting    
+251CF2cG that both both 152.8|g and 177.7|g are mainly M1.                      
+251CF DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+251CF tG $ Cf x-ray (2005Ah09):                                                 
+251CF tG                       x-ray       E           I(%)                     
+251CF tG                        K|a2      109.83 {I5}    0.0180 {I15}           
+251CF tG                        K|a1      115.05 {I5}    0.028 {I2}             
+251CF tG                        K|b3      128.58 {I5}    0.0033 {I3}            
+251CF tG                        K|b1      129.81 {I5}    0.0087 {I7}            
+251CF tG                        K|b2+K|b4  133.73 {I5}    0.0020 {I2}           
+251CF tG                        Ko2,3    134.68 {I5}    0.00075 {I7}            
+255FM  P 0.0          7/2+              20.07 H   7              7240.6   5     
+255FM cP T$From 1964As01.                                                       
+255FM cP QP$From 2021Wa16                                                       
+251CF  N 1.           1.        1.0                                             
+251CF PN                                                                     3  
+251CF  G 404.0     3  2.0E-6 3                                                  
+251CF  G 416.9     3  3.2E-6 5                                                  
+251CF  G 463.2     3  7.8E-6 9                                                  
+251CF  G 556.0     3  3.8E-6 6                                                  
+251CF  G 579.1     4  1.1E-6 2                                                  
+251CF  G 583.0     4  2.8E-6 3                                                  
+251CF  G 637.0     3  2.0E-6 2                                                  
+251CF  G 747.8     4  8.7E-6 8                                                  
+251CF  G 754.6     4  3.3E-6 3                                                  
+251CF  G 774.0     2  3.8E-5 3                                                  
+251CF  G 778.9     4  5.4E-7 6                                                  
+251CF  G 789.2     4  1.10E-614                                                 
+251CF  G 794.1     4  6.7E-7 9                                                  
+251CF  G 851.7     3  5.6E-6 5                                                  
+251CF  G 890.8     5  1.2E-6 4                                                  
+251CF  G 900.3     4  1.2E-6 3                                                  
+251CF  L 0.0          1/2+                                                  A   
+251CF2 L CONF=|n1/2+[620] (2005Ah09)                                            
+251CF  A 7127.0    180.070   7 4.82E3  49                                       
+251CF cA E$Weighted average of 7127 keV {I4} (1971Ah01) and 7127 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 24.826    12 3/2+                                                  A   
+251CF  G 24.824    15           M1+E2     0.27   4      8.8E2 22 81       7     
+251CFF G FLAG=A                                                                 
+251CFX G L/T=0.47 12$M/T=0.39 10$N/T=0.108 34$O/T=0.027 9$P/T=0.0045 14$        
+251CFX G Q/T=8.8E-5 22                                                          
+251CFS G LC=4.2E+2 12$MC=3.4E2 7$NC=95 20$OC=24 5$PC=3.9 8$QC=0.0770 11         
+251CF cG M$M1:M2:M3:M4:M5=24:11: 16: 14: 0.4 {I2}: 0.4 {I4}, N12:N3:O123= 8:    
+251CF2cG 3.7: 3.5, L3:M1=24:11 (1971Ah01).                                      
+251CF  A 7102.8    180.090   9 2.98E3  30                                       
+251CF cA E$Weighted average of 7102 keV {I4} (1971Ah01) and 7103 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 47.832    14 5/2+                                                  A   
+251CF  G 23.001    17           (M1+E2)   0.04   LT     176   13 24       4     
+251CFF G FLAG=A                                                                 
+251CFX G L/T=0.05 4$M/T=0.69 5$N/T=0.192 15$O/T=0.050 4$P/T=0.0095 8$           
+251CFX G Q/T=0.00055 4                                                          
+251CFS G LC=9 7$MC=122 5$NC=33.9 13$OC=8.78 32$PC=1.69 5$QC=0.0976 14           
+251CF cG M$M1:M2:N1=17: 2.2: 5 (1971Ah01).                                      
+251CF  G 47.84     2  0.025  3  E2                      737   10 17.6     20    
+251CFX G L/T=0.720 8$M/T=0.205 4$N/T=0.0576 11$O/T=0.01423 28$P/T=0.00223 4$    
+251CFX G Q/T=5.24E-6 10                                                         
+251CFS G LC=531 8$MC=151.2 21$NC=42.5 6$OC=10.50 15$PC=1.647 23$QC=0.00386 5    
+251CF cG M$L1:L2:L3=0.51: 8.0: 5.1, M1:M2:M3=0.10 {I5}: 1.6: 1.4,               
+251CF2cG N2:N3:O23=0.29: 0.34: 0.31 (1971Ah01).                                 
+251CF  A 7080.0    180.40    3 540     41                                       
+251CF cA E$Weighted average of 7080 keV {I4} (1971Ah01) and 7080 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 105.738   20 7/2+                                                  A   
+251CF  G 57.92     3  0.16   2  (M1+E2)   0.23   LT     48    6  5.2      10    
+251CFX G L/T=0.73 7$M/T=0.184 32$N/T=0.051 10$O/T=0.0132 25$P/T=0.0025 4$       
+251CFX G Q/T=0.000127 17                                                        
+251CFS G LC=36 5$MC=9.0 13$NC=2.5 4$OC=0.65 9$PC=0.121 14$QC=0.00624 15         
+251CF cG M$L1:L3:M1=4.0: 0.5: 0.6 {I2} (1971Ah01).                              
+251CF  G 80.92     5  0.23   2  E2                      59.9  9  12.5     25    
+251CFX G L/T=0.708 8$M/T=0.202 4$N/T=0.0569 11$O/T=0.01406 28$P/T=0.00223 4$    
+251CFX G Q/T=7.09E-6 14                                                         
+251CFS G LC=43.1 6$MC=12.30 18$NC=3.46 5$OC=0.856 12$PC=0.1359 19$QC=0.000432 6 
+251CF cG M$L2:L3:M3=4.5: 3.6: 1.1 (1971Ah01).                                   
+251CF  L 106.309   18 7/2+              38 NS     2                         B   
+251CF2 L CONF=|n7/2+[613] (2005Ah09) $G=0.66 5 (2005Ah09)                       
+251CF cL T$from |a|g(t) (1971Ah01); other 37 ns {I2} |a|g(t) (1964As01)         
+251CF  G 0.57                                                    19.1     20   ?
+251CF cG TI$from intensity balance at 105 level                                 
+251CF  G 58.48     2  0.80   6  M1(+E2)   0.12   LT     42.4  18 34.2     68    
+251CFX G L/T=0.730 23$M/T=0.181 10$N/T=0.0502 31$O/T=0.0130 8$P/T=0.00249 14$   
+251CFX G Q/T=0.000142 6                                                         
+251CFS G LC=31.7 13$MC=7.9 4$NC=2.18 10$OC=0.565 26$PC=0.108 4$QC=0.00615 9     
+251CFB G BE2W=0.029 LT$BM1W=2.0E-5 GT                                           
+251CF cG $ce(Q)/(|g+ce)=0.00014 {I2}                                            
+251CF cG M$L1:L2:L3:M12=23: 3.5: 1.0: 6.0 (1971Ah01).                           
+251CF  G 81.48     2  1.00   8  E2                      58.0  8  49.3     99    
+251CFX G L/T=0.708 7$M/T=0.2019 35$N/T=0.0568 11$O/T=0.01405 27$P/T=0.00223 4$  
+251CFX G Q/T=7.12E-6 14                                                         
+251CFS G LC=41.7 6$MC=11.91 17$NC=3.35 5$OC=0.828 12$PC=0.1316 18$QC=0.000420 6 
+251CF cG M$L2:L3=20:13, M2:M3:O23=5.8: 3.9: 0.8.                                
+251CF  A 7022.3    1793.4    3 1.332   12                                       
+251CF cA E$Weighted average of 7023 keV {I3} (1971Ah01) and 7022 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 146.729   21 9/2+                                                  A   
+251CF  G 41.0      1  1.5E-3 4  [M1+E2]                 8E+2  7                 
+251CFS G LC=6E+2 5$MC=1.7E+2 15$NC=5.E1 4$OC=12 10$PC=1.9 16$QC=0.013 5         
+251CF  G 98.88     2  2.8E-3 3  [E2]                    23.44 33                
+251CFS G LC=16.88 24$MC=4.81 7$NC=1.355 19$OC=0.335 5$PC=0.0536 8$              
+251CFS G QC=0.0001967 28                                                        
+251CF  A 6983      2 0.13    1 651     51                                       
+251CF cA E$From 1975Ah01                                                        
+251CF  L 166.303   23 9/2+                                                  B   
+251CF  G 60.00     2  0.140  15 M1(+E2)   0.25   LT     44    6  7.1      14    
+251CFX G L/T=0.73 8$M/T=0.184 34$N/T=0.051 10$O/T=0.0131 27$P/T=0.0025 5$       
+251CFX G Q/T=0.000125 18                                                        
+251CFS G LC=33 4$MC=8.3 13$NC=2.3 4$OC=0.59 9$PC=0.110 14$QC=0.00561 15         
+251CF cG M$|a(L1)exp=28 {I7}, L1:L2:L3:M12=3.2: 1.0: 0.5: 1.5.                  
+251CF  A 6963.6    175.04    6 13.92   20                                       
+251CF cA E$Weighted average of 6965 keV {I3} (1971Ah01) and 6963 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 177.602   19 3/2+                                                  C   
+251CF2 L CONF=|n3/2+[622] (2005Ah09)                                            
+251CF cL $Deexcitation intensity is larger than the known feeding.              
+251CF  G 152.78    2  1.80E-314 M1                      11.36 16            &   
+251CFF G FLAG=E                                                                 
+251CFS G KC=8.85 12$LC=1.884 26$MC=0.463 6$NC=0.1283 18$OC=0.0333 5$            
+251CFS G PC=0.00644 9$QC=0.000378 5                                             
+251CF  G 177.59    3  4.5E-3 3  M1+E2     0.39          6.69  9                 
+251CFF G FLAG=E                                                                 
+251CFS G KC=5.04 7$LC=1.224 17$MC=0.307 4$NC=0.0852 12$OC=0.02196 31$           
+251CFS G PC=0.00415 6$QC=0.0002169 30                                           
+251CF cG M,MR$from 2005Ah09                                                     
+251CF  A 6953.0    240.022   4 2.86E3  52                                       
+251CF cA E$Weighted average of 6953 keV {I4} (1971Ah01) and 6953 keV {I3}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 211.530   20 5/2+                                                  C   
+251CF  G 163.69    2  2.00E-315 M1                      9.35  13                
+251CFS G KC=7.28 10$LC=1.547 22$MC=0.380 5$NC=0.1054 15$OC=0.0273 4$            
+251CFS G PC=0.00528 7$QC=0.000311 4                                             
+251CF  G 186.66    5  1.10E-415 [M1]                    6.45  9                 
+251CFS G KC=5.03 7$LC=1.065 15$MC=0.262 4$NC=0.0725 10$OC=0.01881 26$           
+251CFS G PC=0.00363 5$QC=0.0002134 30                                           
+251CF  G 211.55    5  1.3E-4 2                                                  
+251CF  A 6917.8    180.017   2 2.66E3  32                                       
+251CF cA E$Weighted average of 6917 keV {I4} (1971Ah01) and 6918 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 237.71    4  (11/2+)                                               A   
+251CF  G 91.00     5  3.2E-4 5  [M1+E2]                 23    12                
+251CFS G LC=17 8$MC=4.6 25$NC=1.3 7$OC=0.32 17$PC=0.054 25$QC=1.0E-3 7          
+251CF  G 131.95    5  1.7E-3 2  (E2)                    6.24  9  0.0021   4     
+251CFX G L/T=0.621 6$M/T=0.1769 29$N/T=0.0498 9$O/T=0.01233 23$P/T=0.00199 4$   
+251CFX G Q/T=9.46E-6 18                                                         
+251CFS G LC=4.50 6$MC=1.281 18$NC=0.360 5$OC=0.0893 13$PC=0.01440 20$           
+251CFS G QC=6.85E-5 10                                                          
+251CF cG M$|a(L2)exp=2.2, L2:L3=0.47: 0.26 {I9}.                                
+251CF  L 239.33    3  11/2+                                                 B   
+251CF  G 73.05     2  0.028  3  M1(+E2)   0.2    LT     22.7  15 0.46     9     
+251CFX G L/T=0.715 34$M/T=0.178 15$N/T=0.049 5$O/T=0.0128 12$P/T=0.00243 21$    
+251CFX G Q/T=0.000134 9                                                         
+251CFS G LC=16.9 11$MC=4.22 31$NC=1.17 9$OC=0.303 22$PC=0.0576 33$QC=0.00317 7  
+251CF cG M$L1:M1:M2:N1=30: 11: <2.5: 2.2.                                       
+251CF  G 133.04    5  6.8E-3 7  (E2)                    6.01  8                 
+251CFS G LC=4.33 6$MC=1.234 17$NC=0.347 5$OC=0.0860 12$PC=0.01388 20$           
+251CFS G QC=6.66E-5 9                                                           
+251CF cG M$L2:L3:M2=1.8: 0.91: 0.67 {I20}.                                      
+251CF  A 6892.3    170.62    1 55.7    10                                       
+251CF cA E$Weighted average of 6893 keV {I3} (1971Ah01) and 6892 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 258.514   18 7/2+                                                  C   
+251CF  G 111.78    5  4.6E-4 7  [M1+E2]                 10    4                 
+251CFS G LC=7.1 25$MC=1.9 8$NC=0.54 23$OC=0.14 5$PC=0.023 7$QC=5.E-4 4          
+251CF  G 152.78    2  1.80E-314 [M1]                    11.36 16            &   
+251CFS G KC=8.85 12$LC=1.884 26$MC=0.463 6$NC=0.1283 18$OC=0.0333 5$            
+251CFS G PC=0.00644 9$QC=0.000378 5                                             
+251CF  G 210.70    4  2.8E-4 4  [M1]                    4.59  6                 
+251CFS G KC=3.58 5$LC=0.755 11$MC=0.1856 26$NC=0.0514 7$OC=0.01334 19$          
+251CFS G PC=0.00258 4$QC=0.0001512 21                                           
+251CF  G 233.69    2  3.50E-425 [E2]                    0.639 9                 
+251CFS G KC=0.1179 17$LC=0.376 5$MC=0.1059 15$NC=0.0298 4$OC=0.00741 10$        
+251CFS G PC=0.001229 17$QC=1.161E-5 16                                          
+251CF  A 6873.0    180.008   1 3.58E3  45                                       
+251CF cA E$Weighted average of 6873 keV {I4} (1971Ah01) and 6873 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 295.97    3  (13/2+)                                               A   
+251CF  G 149.24    2  6.0E-4 4  [E2]                    3.74  5                 
+251CFS G KC=0.1473 21$LC=2.59 4$MC=0.736 10$NC=0.2071 29$OC=0.0514 7$           
+251CFS G PC=0.00833 12$QC=4.51E-5 6                                             
+251CF  A 6836      2 0.008   1 2.47E3  31                                       
+251CF cA E$From 1975Ah01.                                                       
+251CF  L 319.643   25 9/2+                                                  C   
+251CF  G 172.88    3  2.5E-4 3  [M1]                    8.01  11                
+251CFS G KC=6.24 9$LC=1.324 19$MC=0.325 5$NC=0.0902 13$OC=0.02340 33$           
+251CFS G PC=0.00452 6$QC=0.000266 4                                             
+251CF  G 213.90    5  1.18E-412 [M1]                    4.40  6                 
+251CFS G KC=3.43 5$LC=0.724 10$MC=0.1779 25$NC=0.0493 7$OC=0.01279 18$          
+251CFS G PC=0.002470 35$QC=0.0001449 20                                         
+251CF  G 271.88    5  3E-5   AP                                                 
+251CF  A 6814.7    240.0020  5 7.8E3   20                                       
+251CF cA E$Weighted average of 6816 keV {I4} (1971Ah01) and 6814 keV {I3}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 325.29    3  (13/2+)                                               B   
+251CF  G 85.98     2  7.5E-3 8  (M1)                    13.21 19                
+251CFS G LC=9.89 14$MC=2.434 34$NC=0.674 9$OC=0.1751 25$PC=0.0338 5$            
+251CFS G QC=0.001999 28                                                         
+251CF cG M$|a|?15 from intensity balance at the 325.3 level.                    
+251CF  G 158.96    2  4.2E-3 3  [E2]                    2.87  4                 
+251CFS G KC=0.1545 22$LC=1.957 27$MC=0.556 8$NC=0.1564 22$OC=0.0388 5$          
+251CFS G PC=0.00631 9$QC=3.67E-5 5                                              
+251CF  A 6807.0    170.110   6 134     8                                        
+251CF cA E$Weighted average of 6807 keV {I3} (1971Ah01) and 6807 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 370.47    3  11/2-             1.3 US    1                             
+251CF2 L CONF=|n11/2-[725] (2005Ah09)                                           
+251CF cL T$from |a|g(t) (1971Ah01)                                              
+251CF  G 45.2      1  9E-4   2  [E1]                    1.155 17                
+251CFS G LC=0.859 13$MC=0.2196 33$NC=0.0599 9$OC=0.01447 22$PC=0.002120 32$     
+251CFS G QC=5.36E-5 8                                                           
+251CF  G 131.13    5  0.027  3  E1                      0.074110                
+251CFS G LC=0.0555 8$MC=0.01375 19$NC=0.00377 5$OC=0.000946 13$PC=0.0001619 23$ 
+251CFS G QC=5.94E-6 8                                                           
+251CF cG M$|a(L)exp|<0.05.                                                      
+251CF  G 204.17    2  0.0240 18 E1                      0.105915                
+251CFS G KC=0.0811 11$LC=0.01857 26$MC=0.00458 6$NC=0.001258 18$OC=0.000318 4$  
+251CFS G PC=5.65E-5 8$QC=2.350E-6 33                                            
+251CF cG M$|a(L12)exp<0.17.                                                     
+251CF  G 264.15    3  1.04E-38  [M2]                    7.97  11                
+251CFS G KC=5.28 7$LC=1.973 28$MC=0.526 7$NC=0.1483 21$OC=0.0384 5$             
+251CFS G PC=0.00724 10$QC=0.000393 6                                            
+251CF cG M$|a(K)exp<6, (|a(L12)exp or |a(L3)exp)<6.                             
+251CF  A 6763.4    180.016   2 587     74                                       
+251CF cA E$Weighted average of 6765 keV {I4} (1971Ah01) and 6763 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 392.33    5  (11/2+)                                               C   
+251CF  G 245.7     4  7E-6   2                                                  
+251CF  G 286.65    5  5.4E-5 5                                                  
+251CF  A 6741      3 0.0012  4 6.3E3   21                                       
+251CF cA $From 1975Ah01                                                         
+251CF  L 420.0                                                                 ?
+251CF  G 182.3     3  6E-5   AP                                                ?
+251CF  L 423.92    4  (15/2+)                                               B   
+251CF  G 184.59    3  8.7E-4 7  [E2]                    1.563 22                
+251CFS G KC=0.1501 21$LC=1.019 14$MC=0.289 4$NC=0.0812 11$OC=0.02017 28$        
+251CFS G PC=0.00330 5$QC=2.296E-5 32                                            
+251CF  A 6710.6    180.013   1 420     33                                       
+251CF cA E$Weighted average of 6713 keV {I4} (1971Ah01) and 6710 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 433.90    4  9/2-                                                      
+251CF2 L CONF=|n9/2-[734] (2005Ah09)                                            
+251CF  G 63.4      1  1.0E-3 3  (M1)                    32.1  5                 
+251CFS G LC=24.05 35$MC=5.92 9$NC=1.641 24$OC=0.426 6$PC=0.0824 12$QC=0.00487 7 
+251CF cG M$|a=44 {I17} from the intensity balance at the 434 level and          
+251CF2cG I(63.8|g)=0.08 {I3} (1970Ah01).                                        
+251CF  G 194.6     4  3.4E-5 5  [E1]                    0.117917                
+251CFS G KC=0.0901 13$LC=0.02086 31$MC=0.00514 8$NC=0.001413 21$OC=0.000357 5$  
+251CFS G PC=6.32E-5 9$QC=2.60E-6 4                                              
+251CF cG RI$includes 204.1 escape peak                                          
+251CF  G 267.61    4  1.52E-415 [E1]                    0.05848                 
+251CFS G KC=0.0453 6$LC=0.00981 14$MC=0.002408 34$NC=0.000662 9$                
+251CFS G OC=0.0001684 24$PC=3.04E-5 4$QC=1.354E-6 19                            
+251CF  G 327.58    4  2.1E-4 2  [E1]                    0.03805                 
+251CFS G KC=0.0297 4$LC=0.00621 9$MC=0.001520 21$NC=0.000418 6$OC=0.0001066 15$ 
+251CFS G PC=1.946E-5 27$QC=9.09E-7 13                                           
+251CF  A 6699.4    180.036   2 137     8                                        
+251CF cA E$Weighted average of 6701 keV {I4} (1971Ah01) and 6699 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 535.0                                                                 ?
+251CF  G 209.7     2  5E-5   AP                                                ?
+251CF  L 543.99    3  5/2+                                                  D   
+251CF2 L CONF=|n5/2+[622] (2005Ah09)                                            
+251CF  G 285.49    3  3.7E-4 4  [M1]                    1.961 27                
+251CFS G KC=1.531 21$LC=0.322 5$MC=0.0790 11$NC=0.02188 31$OC=0.00568 8$        
+251CFS G PC=0.001096 15$QC=6.42E-5 9                                            
+251CF  G 332.43    4  2.5E-3 2  (M1)                    1.286 18                
+251CFS G KC=1.005 14$LC=0.2106 29$MC=0.0517 7$NC=0.01431 20$OC=0.00371 5$       
+251CFS G PC=0.000717 10$QC=4.20E-5 6                                            
+251CF cG M$|a(K)exp=1.1 {I3}.                                                   
+251CF  G 366.4     1  5.7E-3 4  (M1)                    0.984 14                
+251CFS G KC=0.769 11$LC=0.1608 23$MC=0.0395 6$NC=0.01093 15$OC=0.00284 4$       
+251CFS G PC=0.000548 8$QC=3.20E-5 4                                             
+251CF cG M$|a(K)exp=0.9 {I3}.                                                   
+251CF  G 397.5     2  2.5E-6 5                                                  
+251CF  G 437.7     1  1.65E-312 [M1]                    0.604 8                 
+251CFS G KC=0.473 7$LC=0.0985 14$MC=0.02416 34$NC=0.00669 9$OC=0.001735 24$     
+251CFS G PC=0.000335 5$QC=1.959E-5 27                                           
+251CF  G 496.2     2  2.00E-415 [M1]                    0.429 6                 
+251CFS G KC=0.336 5$LC=0.0698 10$MC=0.01712 24$NC=0.00474 7$OC=0.001229 17$     
+251CFS G PC=0.0002374 33$QC=1.388E-5 19                                         
+251CF  G 519.2     2  2.20E-417 [M1]                    0.379 5                 
+251CFS G KC=0.297 4$LC=0.0617 9$MC=0.01512 21$NC=0.00418 6$OC=0.001086 15$      
+251CFS G PC=0.0002097 29$QC=1.226E-5 17                                         
+251CF  G 543.9     2  2.0E-4 2  [E2]                    0.05438                 
+251CFS G KC=0.0310 4$LC=0.01709 24$MC=0.00458 6$NC=0.001279 18$OC=0.000323 5$   
+251CFS G PC=5.71E-5 8$QC=1.546E-6 22                                            
+251CF  A 6591.8    180.017   2 93      11                                       
+251CF cA E$Weighted average of 6591 keV {I4} (1971Ah01) and 6592 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 590.01    3  (7/2+)                                                D   
+251CF  G 197.4     4  7E-6   2  [E2]                    1.201 19                
+251CFS G KC=0.1424 20$LC=0.764 13$MC=0.216 4$NC=0.0608 10$OC=0.01511 25$        
+251CFS G PC=0.00248 4$QC=1.878E-5 29                                            
+251CF  G 270.37    3  3.5E-4 3  [M1]                    2.282 32                
+251CFS G KC=1.781 25$LC=0.375 5$MC=0.0920 13$NC=0.0255 4$OC=0.00661 9$          
+251CFS G PC=0.001277 18$QC=7.48E-5 10                                           
+251CF  G 331.52    4  1.8E-3 2  [M1]                    1.296 18                
+251CFS G KC=1.013 14$LC=0.2122 30$MC=0.0521 7$NC=0.01442 20$OC=0.00374 5$       
+251CFS G PC=0.000723 10$QC=4.23E-5 6                                            
+251CF  G 350.6     2  8E-6   1                                                  
+251CF  G 378.5     1  2.60E-319 (M1)                    0.900 13                
+251CFS G KC=0.703 10$LC=0.1470 21$MC=0.0361 5$NC=0.00999 14$OC=0.00259 4$       
+251CFS G PC=0.000500 7$QC=2.93E-5 4                                             
+251CF cG M$|a(K)exp=0.8 {I3}.                                                   
+251CF  G 412.2     2  3.3E-5 3                                                  
+251CF  G 423.7     1  7.1E-4 5  [M1]                    0.660 9                 
+251CFS G KC=0.516 7$LC=0.1077 15$MC=0.0264 4$NC=0.00731 10$OC=0.001898 27$      
+251CFS G PC=0.000366 5$QC=2.143E-5 30                                           
+251CF  G 443.2     1  6.4E-5 5  [M1]                    0.584 8                 
+251CFS G KC=0.457 6$LC=0.0952 13$MC=0.02334 33$NC=0.00646 9$OC=0.001676 23$     
+251CFS G PC=0.000324 5$QC=1.893E-5 27                                           
+251CF  G 483.7     2  3.60E-424 [M1]                    0.460 6                 
+251CFS G KC=0.360 5$LC=0.0749 11$MC=0.01836 26$NC=0.00508 7$OC=0.001318 19$     
+251CFS G PC=0.000255 4$QC=1.488E-5 21                                           
+251CF  G 542.2     2  2.8E-4 3                                                  
+251CF  G 565.2     2  6.5E-5 5                                                  
+251CF  A 6546.0    180.014   2 69      10                                       
+251CF cA E$Weighted average of 6546 keV {I4} (1971Ah01) and 6546 keV {I2}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 601.04    12 3/2-                                                  E   
+251CF2 L CONF=|n1/2-[750] (2005Ah09)                                            
+251CF  G 553.0     2  3.5E-6 6                                                  
+251CF  G 577.5     3  3.5E-6 4                                              &   
+251CFL G FL=24.826                                                              
+251CF  G 601.0     4  2E-6   AP                                                 
+251CF cG E$seen only in coin                                                    
+251CF  A 6535        4E-6    AP216066  AP                                   A  S
+251CF  L 625.12    17 7/2-                                                  E   
+251CF  G 478.3     2  8E-7   1                                                  
+251CF  G 577.5     3  3.5E-6 4                                              &   
+251CF  A 6512        4E-6    AP167148  AP                                   A  S
+251CF  L 632.02    14 1/2-                                                  E   
+251CF  G 454.4     3  5E-7   AP                                                 
+251CF  G 607.1     4  1.3E-6 2                                                  
+251CF  G 632.1     2  2.1E-6 2                                                  
+251CF  A 6505        3E-6    AP207004  AP                                   A  S
+251CF  L 648.94    4  (9/2+)                                                D   
+251CF  G 256.67    5  8.6E-5 8                                                  
+251CF  G 329.27    4  4.4E-4 4  [M1]                    1.320 18                
+251CFS G KC=1.032 14$LC=0.2163 30$MC=0.0531 7$NC=0.01470 21$OC=0.00381 5$       
+251CFS G PC=0.000737 10$QC=4.31E-5 6                                            
+251CF  G 390.4     1  4.5E-4 3  [M1]                    0.826 12                
+251CFS G KC=0.646 9$LC=0.1350 19$MC=0.0331 5$NC=0.00917 13$OC=0.002379 33$      
+251CFS G PC=0.000459 6$QC=2.69E-5 4                                             
+251CF  G 409.6     1  1.25E-412 [M1]                    0.724 10                
+251CFS G KC=0.567 8$LC=0.1182 17$MC=0.0290 4$NC=0.00803 11$OC=0.002083 29$      
+251CFS G PC=0.000402 6$QC=2.352E-5 33                                           
+251CF  G 482.5     3  5.7E-5 6                                                  
+251CF  G 502.1     2  7.5E-5 6  [M1]                    0.415 6                 
+251CFS G KC=0.325 5$LC=0.0676 9$MC=0.01657 23$NC=0.00459 6$OC=0.001190 17$      
+251CFS G PC=0.0002298 32$QC=1.343E-5 19                                         
+251CF  G 601.0     2  1.70E-515                                                 
+251CF  A 6487.6    240.0030  5 173     29                                       
+251CF cA E$Weighted average of 6487 keV {I4} (1971Ah01) and 6488 keV {I3}       
+251CF2cA (1975Ah01).                                                            
+251CF  L 708.05    14 5/2-                                                  E   
+251CF  G 530.4     4  5E-7   AP                                                 
+251CF  G 660.2     2  5.1E-6 4                                                  
+251CF  G 683.2     3  1.5E-6 3                                                  
+251CF  A 6430        6E-6    AP45515   AP                                   A  S
+251CF  L 720.50    12 (11/2+)                                               D   
+251CF  G 395.3     2  7E-6   1                                                  
+251CF  G 400.9     2  2.9E-5 4                                                  
+251CF  G 573.7     2  6.7E-6 6                                                  
+251CF  G 614.5     4  1.6E-6 2                                                  
+251CFL G FL=105.738                                                             
+251CF  L 774          (3/2+)                                                   ?
+251CF cL J$configuration=1/2[631]                                               
+251CF  G 774                                                                   ?
+251CF  A 6365        3.8E-5    3481                                         A  S
+251CF  L 942.48    13 (5/2-)                                                    
+251CF2 L CONF=|[|n7/2+[613]~#1{+-}|]5/2-                                        
+251CF  G 731.0     2  2.8E-6 3                                                  
+251CF  G 764.7     3  4.9E-6 5                                                  
+251CF  G 836.2     2  2.8E-5 2                                                  
+251CF  A 6199        3.6E-5    547                                          A  S
+251CF  L 973.98    12 (9/2+)                                                    
+251CF cL J$configuration=9/2[604] (2000Ah09)                                    
+251CF  G 734.5     2  1.9E-6 2                                                  
+251CF  G 807.7     2  1.10E-58                                                  
+251CF  G 867.8     2  1.00E-58                                                  
+251CF  A 6168        2.3E-5    594                                          A  S
+251CF  L 981.51    10 (3/2-)                                                F   
+251CF2 L CONF=|[|n7/2+[613]~#2{+-}|]3/2- (2000Ah09)                             
+251CF  G 349.6     3  1E-6   AP (M1)                    1.119 16                
+251CFS G KC=0.875 12$LC=0.1832 26$MC=0.0449 6$NC=0.01244 18$OC=0.00323 5$       
+251CFS G PC=0.000624 9$QC=3.65E-5 5                                             
+251CF cG M$from I(K| x ray)/I|g|?1 (2000Ah09)                                   
+251CF cG E$seen only in coin                                                    
+251CF  G 381.0     3  2E-6   AP                                                 
+251CF cG E$seen only in coin                                                    
+251CF  G 770.0     4  8E-6   1                                                  
+251CF  G 803.8     2  1.10E-58                                                  
+251CF  G 956.6     2  2.9E-6 3                                                  
+251CF  G 981.4     2  1.50E-515                                                 
+251CF  A 6161        4.1E-5    305                                          A  S
+251CF  L 1009.13   8  (5/2-)                                                F   
+251CF  G 301.0     3  5E-7   AP                                                 
+251CF cG E$seen only in coin                                                    
+251CF  G 408.2     2  2E-6   AP                                                 
+251CF cG E$seen only in coin                                                    
+251CF  G 750.5     2  4.3E-6 4                                                  
+251CF  G 797.6     2  9.4E-6 7                                                  
+251CF  G 831.9     2  6.0E-6 5                                              &   
+251CF  G 903.1     3  1.4E-6 2                                                  
+251CFL G FL=106.309                                                             
+251CF  G 961.2     2  4.6E-6 4                                                  
+251CF  G 984.2     2  1.10E-512                                                 
+251CF  A 6134        3.7E-5    245                                          A  S
+251CF  L 1043.77   11 (7/2-)                                                F   
+251CF  G 724.1     4  4.9E-6 5                                                  
+251CF  G 785.4     2  9E-7   1                                                  
+251CF  G 831.9     2  6.0E-6 5                                              &   
+251CF  G 938.1     3  1.6E-6 2                                                  
+251CF  G 996.1     2  1.10E-58                                                  
+251CF  A 6099        2.2E-5    274                                          A  S
+251CF  L 1077.56   7  (9/2)                                                     
+251CF  G 643.6     3  1E-6   AP                                                 
+251CF  G 707.0     3  3.0E-6 6                                                  
+251CF  G 838.4     3  2E-6   AP                                                 
+251CF  G 911.3     1  1.20E-510                                                 
+251CF  G 971.2     1  2.90E-522                                                 
+251CF  A 6066        4.7E-5    86                                           A  S
+251CF  L 1086.46   14 (9/2-)                                                    
+251CF2 L CONF=|[|n7/2+[613]~#1{+-}|]9/2- (2005Ah09)                             
+251CF  G 652.5     2  3.6E-6 3                                                  
+251CF  G 715.8     4  2.4E-6 4                                                  
+251CF  G 847.0     3  2.2E-6 3                                                  
+251CF  G 920.5     3  2.1E-6 4                                                  
+251CF  A 6057        1.0E-5    362                                          A  S
+251CF  L 1094.57   18 9/2-                                                  F   
+251CF  G 702.3     3  1.4E-6 3                                                  
+251CF  G 947.8     3  1.6E-6 2                                                  
+251CF  G 988.8     3  3.3E-6 5                                                  
+251CF  A 6049        6.3E-6    522                                          A  S
+251CF  L 1155.80   19 11/2-                                                 F   
+251CF  G 763.5     4  2E-6   AP                                                 
+251CF  G 859.8     3  1.8E-6 3                                                  
+251CF  G 918.1     3  1.0E-6 AP                                                 
+251CF  A 5989        4E-6    AP392     AP                                   A  S
+251CF  L 1185.50   18 (5/2,7/2)                                                 
+251CF  G 641.6     3  1E-6   AP                                                 
+251CF  G 1019.2    3  1.0E-6 3                                                  
+251CF  G 1079.1    3  3.8E-6 5                                                  
+251CF  A 5961        5.8E-6    188                                          A  S
+251CF  L 1249.98   13 (7/2+)                                                    
+251CF2 L CONF=|[|n7/2+[613]~#0{++}|]7/2+ (2005Ah09)                             
+251CF  G 816.1     3  3.5E-6 4                                                  
+251CF  G 991.6     3  2.3E-6 4                                                  
+251CF  G 1038.3    3  2.2E-6 5                                                  
+251CF  G 1072.3    3  5.0E-6 7                                                  
+251CF  G 1083.9    3  5.5E-6 7                                                  
+251CF  G 1144.0    4  7E-7   AP                                                 
+251CFL G FL=105.738                                                             
+251CF  A 5897        1.9E-5    26                                           A  S

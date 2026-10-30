@@ -1,0 +1,45 @@
+246CF    ADOPTED LEVELS                                          24NDS    202410
+246CF  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 198, 449 (2024)$CUT=31-Jul-2022$     
+246CF  Q -3730     90 7366.2 24 5012.5 18 6861.6 10    2021WA16                 
+246CF cQ $S(2n)=13530.5 {I27}, S(2p)=8939.5 {I11} (2021Wa16)                    
+246CF c                                                                         
+246CF c  Theoretical structure calculations:                                    
+246CF c  Q(|a), T{-1/2}(|a) and T{-1/2}(SF).:                                   
+246CF c  2022Wa06,2022Xu04,2021Ch44,2021El09,2021He09,2021Gh10,2021Ko21,        
+246CF2c  2021Pa24,2021He09,2020Ca10,2019So15,2019Sr04,2018Po05,2015Ba24,        
+246CF3c  2016Su09,2013Ra05,2013Se17,2010Sa09,2010Is01,2010Ko36,2010Ni09,        
+246CF4c  2010Wa23,2010Wa31,2010Ye05,2009Mo18,2009De32,2009Ma07,2009Ni06,        
+246CF5c  2009Sa25,2009Wa01,2009Zh39,2008Xu06,2007Pe30,2007Po01,2006De23,        
+246CF6c  2006Xu08,2005Xu01,2005Zh24,2005Do19,2004Ro01,2003Re32,2001Mo13,        
+246CF7c  2000Ho27,1993Bu09,1992Bh03,1991Bu05,1983Ga05                           
+246CF c  Bound state |b- decay:                                                 
+246CF c  2021Li41,                                                              
+246CF c  Fission barrier heights:                                               
+246CF c  2021Po06,2018Po05:                                                     
+246CF c  Excited levels:                                                        
+246CF c  2016Li37,2009Al09,2006Sh19                                             
+246CF c  Deformation parameters:                                                
+246CF c  2002Re31,1991Pa11                                                      
+246CF c  Prompt neutron emission:                                               
+246CF c  2008Sa24.                                                              
+246CF c  Alpha decay of high-spin isomers:                                      
+246CF c  2007De53                                                               
+246CF  XA250FM A DECAY                                                          
+246CF  L 0            0+               35.7 H    5                              
+246CFX L XREF=A                                                                 
+246CF2 L %A LT 100$ %SF=2.3E-4 7$ %EC=?                                         
+246CF cL T$From 1951Hu39. Other: 1951Gh23                                       
+246CF cL %SF$From T{-1/2}(SF)=1810 y {I240}: unweighted average of 2000 y       
+246CF2cL {I200} (1968Sk01), 1340 y {I160} (1963Fr04), 2100 y {I300} (1953Hu85). 
+246CF3cL Other: T{-1/2}(SF)=1800 y {I600}, recommended in 2000Ho27.             
+246CF  L 41        15   (2+)                                                    
+246CFX L XREF=A                                                                 
+246CF cL J$From systematics of even-even nuclei                                 
+246CF  L 2500      AP                  45 NS     10                          M  
+246CF2 L %SF LE 100                                                             
+246CF cL T$From fission fragment distribution along the flight path and fitting 
+246CF2cL (1968Ga04).                                                            
+246CF cL $SF isomer produced by {+238}U({+12}C,4n) (1968Ga04).                  
+246CF2cL Energy from difference between ground and isomer threshold energies    
+246CF3cL as estimated by 1968Ga04                                               
+246CF cL $See |e delayed fission from {+246}Es (2001Sh09,1980Ga07)              

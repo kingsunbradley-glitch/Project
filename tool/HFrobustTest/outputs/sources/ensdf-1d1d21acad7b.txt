@@ -1,0 +1,33 @@
+262RF    266SG A DECAY                                           01NDS    200112
+262RF  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94, 131 (2001)$CUT=1-Aug-2001$          
+266SG  P 0.0                           21 S      +20-12         8762      51    
+262RF  N                       0.18    GE                                       
+262RF c                                                                         
+262RF c  T{-1/2}({+266}Sg)=21 s {I+20-12} is the measurement of 1998Tu01.       
+262RF c  The |a branching was determined as 15|<%|a|<50 and as 18|<%|a          
+262RF2c  by 1994La22 and 1998Tu01, respectively.                                
+262RF c  Q(|a)({+266}Sg)=8762 {I51}, listed in 1995Au04 was calculated from     
+262RF2c  E|a=8630 measured by 1994La22.                                         
+262RF c  The adopted |a energy, E|a(to {+262}Rf g.s.)=8770 {I40}, yields        
+262RF2c  Q(|a)({+266}Sg)=8903 {I40}.                                            
+262RF  L 0.0         0+                                                         
+262RF  A 8770      40          1.0                                              
+262RF cA E         Measurements of 1998Tu01. The authors of 1994La22 assigned   
+262RF2cA only one alpha at 8.63 {I5} MeV to {+266}Sg alpha decay. See also      
+262RFxcA 1995Og02.                                                              
+262RF cA IA        The alpha intensities were measured by 1998Tu01 as           
+262RF2cA I|a(8770|a)/I|a(8520|a)=66/33. When these intensities are used in      
+262RF3cA hindrance-factor calculations, together with the half-life of 21 s     
+262RF4cA and the alpha branching of 18|<%|a|<50, the calculations yield         
+262RF5cA 1.35 {I8}|<r0|<1.39 {I8}, and HF(8520|a)/HF(8770|a)=0.3. One would     
+262RF6cA expect r0=1.45 {I5} and HF(8520|a)>HF(8770|a). For %|a=50,             
+262RF7cA I|a(8770|a)=100 per 100 alpha decays, the calculations give r0=1.40;   
+262RF8cA if E|a=8630, measured by 1994La22 (together with %|a=50, I|a=100) is   
+262RFxcA used, then r0=1.44 {I8}.                                               
+262RF  L 254       50                                                          ?
+262RF cL           The level energy is calculated by the evaluator from E|a=8520
+262RF2cL and E|a(to gs)=8770. If E|a(to gs)=8630, then E(level)=112 {I50}.      
+262RF  A 8520      30                                                          ?
+262RF cA           Measurements of 1998Tu01. The calculated hindrance factor    
+262RF2cA of 0.3, if I|a=33% of alpha decay, may suggest the existence of        
+262RF3cA a contaminant under this alpha peak.                                   

@@ -1,0 +1,49 @@
+221U     ADOPTED LEVELS                                          ENSDF    201512
+221U   H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=18-DEC-2015$                    
+221U   H TYP=FUL$AUT=Ashok Jain, Sukhjeet Singh, Suresh Kumar, Jagdish Tuli$    
+221U 2 H CIT=NDS 108, 883 (2007)$CUT=15-Jan-2007$                               
+221U   Q -5360     SY 6520   SY 3020   SY 9840   SY    2012WA38                 
+221U  cQ $Estimated uncertainties (2012Wa38): 220 for Q(|b{+-}), 140 for S(n),  
+221U 2cQ 120 for S(p), 100 for Q(|a)                                            
+221U  cQ $S(2n)=14950 {I110}, S(2p)=4570 {I110}, Q(|ep)=2530 {I110} (2012Wa38); 
+221U 2cQ all values from systematic trend                                       
+221U  c  2015Kh09: {+221}U produced in {+176}Yb({+50}Ti,5n),E({+50}Ti{+12+}=    
+221U 2c  231-255 MeV reaction. The {+50}Ti{+12+} pulsed beam produced by the    
+221U 3c  UNILAC at GSI. Target=0.45 mg/cm{+2} {I5} thick {+176}YbF{-3} mounted  
+221U 4c  on a rotating wheel, synchronized with the beam pulses. Evaporation    
+221U 5c  residues (Er), separated by using gas-filled TransActinide Separator   
+221U 6c  and Chemistry Apparatus (TASCA) with flight time of 0.53 |ms {I6}      
+221U 7c  through the separator, were implanted in a double-sided silicon strip  
+221U 8c  detector. The events due to radioactive decays of implanted residues   
+221U 9c  were selected from the events related to beam using a multiwire        
+221U Ac  proportional counter (MWPC). Measured E|a, I|a, Er-|a correlated       
+221U Bc  events from subsequent |a-decay chains, half-lives of parent nuclei    
+221U Cc  corresponding to the evaporation residues, and successive |a-decay     
+221U Dc  daughters, the latter identified by their known characteristics in     
+221U Ec  literature. The identification of {+221}U was made based               
+221U Fc  on observed Er-|a, two- or three-signal correlated events using        
+221U Fc  a fast data acquisition and combined analog and digital (CANDI) readout
+221U Gc  system. A total of 26 Er traces were recorded for {+221}U and analyzed 
+221U Hc  with subsequent |a decay chain: {+221}U -> {+217}Th -> {+213}Ra.       
+221U Ic  FWHM|?40 keV for 8.7 MeV |a particles, recorded as single events,      
+221U Jc  |?110 keV and |?180 keV for multiple |a events stored in a single trace
+221U Kc  with time differences of 1 |ms and 0.17 |ms, respectively. Deduced     
+221U Lc  |a-decay reduced widths                                                
+221U  c  Other: 2001Ni06: tentative formation in the {+221}U+{+217}Th channel in
+221U 2c  Ce({+82}Se,X),E(c.m.)=215-253 MeV reaction, with evaporation residue   
+221U 3c  cross-section of 17 to 21.6 nb at energies of 215 to 238 MeV           
+221U  c  Theoretical structure calculations: 2013To12, 2010To07, 2008Ad04       
+221U   L  0            (9/2+)            0.66 US 14                             
+221U 2 L %A AP 100                                                              
+221U  cL $Only the |a decay observed by 2015Kh09. Decay mode %|a|?100 is        
+221U 2cL based on theoretical half-lives of 1.3 |ms for |a decay and >100 s for 
+221U 3cL |b{+-} decay (1997Mo25)                                                
+221U  cL E$it is assumed that the 0.66-|ms activity corresponds to the ground   
+221U 2cL state of {+221}U                                                       
+221U  cL J$assignment proposed by 2015Kh09 based on systematics, and            
+221U 2cL favored |a transitions involving |n2g{-9/2} orbital for N=129          
+221U 3cL nuclei                                                                 
+221U  cL T$from fitting of the Er-|a decay correlated curve for the 9710|a peak 
+221U 2cL from {+221}U decay to a single exponential (2015Kh09)                  
+221U  cL $Measured E|a=9.71 MeV {I5} from the decay of {+221}U to {+217}Th      
+221U 2cL (2015Kh09)                                                             

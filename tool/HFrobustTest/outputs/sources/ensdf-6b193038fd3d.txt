@@ -1,0 +1,514 @@
+222RA    ADOPTED LEVELS, GAMMAS                                  23NDS    202310
+222RA  H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Jun Chen et al.,$              
+222RA2 H CIT=NDS 192, 315 (2023)$CUT=25-Sep-2023$                               
+222RA c  Dataset by Balraj Singh, Jun Chen, and IAEA-ICTP-workshop              
+222RA2c  participants: Diwanshu, S. Leblond, A. Rathi, P.S. Rawat, B. Rohila,   
+222RA3c  and V. Vallet.                                                         
+222RA  Q -2302     6 6715    6 6246    6 6678    4     2021WA16                 
+222RA cQ $S(2n)=12095 {I9}, S(2p)=10870 {I5} (2021Wa16)                         
+222RA c  1948St42: {+222}Rn identified in {+230}U |) {+226}Th |){+222}Rn        
+222RA2c  |a-decay chain; {+230}U produced in the bombardment of Th with         
+222RA3c  19-MeV deuterons and 38-MeV He ions at the Berkeley cyclotron          
+222RA4c  facility. Measured half-life of the decay of {+222}Rn from |a decay.   
+222RA5c  Later works on the study of {+222}Rn decay: 1956As38 (also at Berkeley)
+222RA6c  and 1958To25 (at Gustaf Werner cyclotron facility in Uppsala).         
+222RA c  Theoretical structure calculations:                                    
+222RA c  2023Zh13: calculated T{-1/2} and branching ratios for |a, 2|a, and     
+222RA2c  {+14}C cluster decays, quadrupole, octupole and hexadecupole           
+222RA3c  deformation-energy surfaces using relativistic Hartree-Bogoliubov model
+222RA4c  with the DD-PC1 functional and a separable pairing force.              
+222RA c  2022Ta16: calculated neutron and proton energy gaps, quadrupole and    
+222RA2c  octupole deformation parameters using Hartree-Fock-Bogolyubov          
+222RA3c  approximation with Skyrme forces.                                      
+222RA c  2022Uz01: calculated quadrupole and octupole deformation parameters,   
+222RA2c  rms proton matter radii, the total energy, and {+14}C cluster decay    
+222RA3c  rate using Skyrme Hartree-Fock+BCS theory with SLy4 and SkM*           
+222RA4c  interactions.                                                          
+222RA c  2021Ku31: calculated energy differences, neutron and proton energy     
+222RA2c  gaps, deformation parameters using Hartree-Fock-Bogoliubov             
+222RA3c  theory with an effective Skyrme interaction.                           
+222RA c  2020No13: calculated potential energy surfaces in (|b{-2},|b{-3}) plane
+222RA2c  using self-consistent mean-field (SCMF), and interacting boson model   
+222RA3c  (IBM), energies of yrast positive-parity and negative-parity states,   
+222RA4c  and relative energy splitting between positive- and negative-parity    
+222RA5c  yrast bands, B(E1), B(E2), B(E3), transition quadrupole and octupole   
+222RA6c  moments using Hartree-Fock-Bogoliubov approximation, based on          
+222RA7c  Gogny-D1M energy density functional, and {Isdf} interacting boson model
+222RA8c  (IBM) Hamiltonian for quadrupole-octupole coupling and collective      
+222RA9c  excitations                                                            
+222RA c  2019Zh50: calculated empirical proton-neutron interaction, B(E2),      
+222RA2c  B(E3), binding energy, contour plot of total energy in (|b{-2},|b{-3}) 
+222RA3c  plane, neutron and proton single-particle levels by using the covariant
+222RA4c  density functional theory and the quadrupole-octupole collective       
+222RA5c  Hamiltonian approach.                                                  
+222RA c  2015Bo05: calculated levels, J|p, B(E1), Be(2), B(E3) using analytic   
+222RA2c  quadrupole octupole axially (AQOA) symmetric model using Davidson      
+222RA3c  potential. Bohr collective Hamiltonian, and quadrupole plus octupole   
+222RA4c  deformation.                                                           
+222RA c  2013De12: calculated |b{-2} and deformation parameter, CSM parameter,  
+222RA2c  |a-core QQ coupling parameter, I|a to 2+, 4+ and 6+ states from        
+222RA3c  {+222}Ra decay in daughter nuclei, B(E2), rigidity parameter,          
+222RA4c  E(4+)/E(2+) and E(6+)/E(4+) ratios, effective charge, hindrance factors
+222RA5c  using coherent state model.                                            
+222RA c  2001Ch02: calculated rotational bands energy vs spin using             
+222RA2c  reflection-asymmetric shell model for octupole-deformed nuclei.        
+222RA c  1998Ra05: calculated high-spin levels, J|p, ground state and K|p=0-    
+222RA2c  bands using phenomenological model.                                    
+222RA c  1997Bu07, 1997Bu28: calculated levels, J|p, B(|l), deformation         
+222RA2c  parameters, using mixed Saxon-Woods plus cubed                         
+222RA3c  Saxon-Woods cluster-core interaction.                                  
+222RA c  1993Yo02, 1986Le05: calculations of B(E1)/B(E2) transition             
+222RA2c  probabilities from the K|p=0- band.                                    
+222RA c  1989Eg02: calculated octupole barrier energies, pairing energy,        
+222RA2c  deformation parameters |b{-2}, |b{-4} and |b{-6}, dipole moment vs     
+222RA3c  constrained quadrupole moment using microscopic model.                 
+222RA c  1988Ro02, 1987Ro08: calculated E1, E3 transition probabilities and     
+222RA2c  the 0+, 1- energy splitting, barrier heights, single particle and      
+222RA3c  pairing energies vs octupole deformation, dipole vs octupole moments,  
+222RA4c  B(E1)/B(E2) using constrained HF plus BCS method.                      
+222RA c  1988Ba48: calculated rotational band wave functions, quadrupole,       
+222RA2c  and octupole deformations, energy splitting between the even- and      
+222RA3c  odd-parity rotational bands using a collective Hamiltonian.            
+222RA c  1987Na10: calculated levels, J|p, routhians, rotational bands,         
+222RA2c  B(E1)/B(E2) ratios, shape dependence using cranking model.             
+222RA c  1986Bo19: calculated quadrupole-octupole deformation energy surface,   
+222RA2c  nonzero octupole moment using self-consistent Hartree-Fock plus        
+222RA3c  BCS calculations.                                                      
+222RA c  Theoretical calculations for decay characteristics:                    
+222RA c  2023Zh13: calculated T{-1/2} and branching ratios for |a, 2|a and      
+222RA2c  {+14}C cluster decays using relativistic Hartree-Bogoliubov model      
+222RA3c  with the DD-PC1 functional and a separable pairing force, and          
+222RA4c  proximity potential model for deformed nuclei.                         
+222RA c  2022Ka09: calculated T{-1/2} for bare nuclei and He-like ions using    
+222RA2c  adiabatic approach.                                                    
+222RA c  2020Ni01: calculated |a-branching ratio to vibrational states,         
+222RA2c  and |a-decay half-life using multichannel cluster model.               
+222RA c  2010Ro08: calculated HFB mean-field energies and octupole collective   
+222RA2c  inertial parameters as function of octupole moment, particle-particle  
+222RA3c  correlation energies, B(E1) and B(E3) probabilities, and dipole moments
+222RA4c  using Hartree-Fock-Bogoliubov approximation, and                       
+222RA5c  Barcelona-Catania-Paris energy density functionals.                    
+222RA d  Other theory references for structure: 2023Da09, 2022Ya11, 2021Ch14,   
+222RA2d  2021Ji12, 2021No02, 2020Ca18, 2020Jo08, 2019Su22, 2018Ka42, 2018Li28,  
+222RA3d  2018Li29, 2018Ma67, 2018Yo12, 2018Zh52, 2017Eb01, 2017Ne03, 2017Xi15,  
+222RA4d  2016Ag06, 2016Zh17, 2015Bu11, 2015Jo13, 2015Sa07, 2014Ad23, 2014No01,  
+222RA5d  2013Mh01, 2013Ni02, 2013Qi04, 2013Ro30, 2012Ib02, 2011Bu09, 2011Ib03,  
+222RA6d  2010Bu02, 2010De27, 2009Br02, 2008Bi03, 2008Ch15, 2007He04, 2007Pa30,  
+222RA7d  2006Le09, 2006Sa53, 2006Xu15, 2005Bh02, 2005Bo18, 2005Bu38, 2005En06,  
+222RA8d  2005Za02, 2004Ad15, 2003Ad31, 2003Ad32, 2003Bu11, 2003Bu27, 2003Sh02,  
+222RA9d  2002Ts01, 2001Za04, 2001Za09, 2000Bo34, 2000Bu02, 2000Bu32, 2000Du06,  
+222RAAd  1999Jo17, 1998Bu18, 1997Bu05, 1996Bu05, 1995De13, 1995Na13, 1995Ru10,  
+222RABd  1994Cw01, 1992Bh04, 1992Ch20, 1992De46, 1992So10, 1991Eg01, 1991Ra15,  
+222RACd  1991Sk01, 1990Mo11, 1990Pa20, 1989De11, 1989Pi03, 1988Ga23, 1988Ro05,  
+222RADd  1988So08, 1987En05, 1986Ch23, 1986Da03, 1985Na07, 1984Da24, 1984Na22,  
+222RAEd  1983Da28, 1983Ia01, 1983Pi04, 1983Ro14, 1982Du16, 1982Le19, 1981Gy03,  
+222RAFd  1981Pe09, 1980Sh07, 1978Go23, 1971Oh07, 1970Ne08.                      
+222RA d  Theory references for |a, 2|a, {+14}C and other cluster decays:        
+222RA2d  2023Qi05, 2023Qi06, 2023Xi06, 2023Li45, 2023Sa35,                      
+222RA2d  2023Ho03, 2023Ja02, 2023Mo08, 2023Qi01, 2023Va02, 2022Ak06,            
+222RA3d  2022Ch47, 2022Da18, 2022De14, 2022De15, 2022De22, 2022De31, 2022Du04,  
+222RA4d  2022Is03, 2022Is09, 2022Ma67, 2022Na09, 2022Ou01, 2022Pa13, 2022Pa23,  
+222RA5d  2022Pr04, 2022Pr07, 2022Ra25, 2022Ro05, 2022Ro06, 2022Ro18, 2022Uz01,  
+222RA6d  2022Wa06, 2022Xu04, 2022Ya08, 2022Ya12, 2021Bu02, 2021Ch44, 2021Do01,  
+222RA7d  2021Eb01, 2021El09, 2021Ko21, 2021Li67, 2021Na03, 2021Na21, 2021Pa24,  
+222RA8d  2021Sa52, 2021So16, 2021Va09, 2021Wa29, 2020Bu17, 2020Ca10, 2020Cl01,  
+222RA9d  2020De37, 2020Is09, 2020Mo37, 2020Pa29, 2020Po09, 2020We11, 2020Zh36,  
+222RAAd  2019Ho06, 2019Li58, 2019Sa33, 2019So15, 2018Ba21, 2018Bh03, 2018Ho01,  
+222RABd  2018Ka42, 2018Sh01, 2018Su09, 2018Sw01, 2018Zh35, 2017Ad03, 2017Is15,  
+222RACd  2017Ph01, 2017Sa62, 2017Sa39, 2017Wa41, 2017We10, 2017Zh03, 2016Gh04,  
+222RADd  2016Is08, 2016Qi03, 2016Qi07, 2016Sa16, 2016Su09, 2015Ad15, 2015Bh14,  
+222RAEd  2015Ni12, 2015So05, 2014Ba09, 2014Ba23, 2014De43, 2014Xu13, 2013De12,  
+222RAFd  2013Is13, 2013Na25, 2013Qi04, 2013Ra05, 2013Se17, 2013Zd01, 2013Zd02,  
+222RAGd  2012Ba35, 2012Is07, 2012Is08, 2012Ku16, 2012Ku23, 2012Ku29, 2012Qi01,  
+222RAHd  2012Re06, 2012Sa16, 2012Sa31, 2012Si01, 2012So15, 2011Po08, 2011Qi06,  
+222RAId  2011Sa28, 2011Sh13, 2011Si13, 2011Si14, 2011Wa30, 2010Ni13, 2010Sa29,  
+222RAJd  2010Si12, 2010Wa31, 2010Zh51, 2009Ar05, 2009Ar11, 2009De32, 2009Mo37,  
+222RAKd  2009Ni06, 2009Qi07, 2009Ro16, 2009Zh28, 2008Bh05, 2008Ni12, 2008Zh12,  
+222RALd  2007Pe30, 2006Po02, 2006Xu04, 2006Xu15, 2005Bu38, 2005Ku04, 2005Ku32,  
+222RAMd  2005Sh42, 2004Ba64, 2004He16, 2004Re22, 2003Ba64, 2003Mi28, 2002Ba80,  
+222RANd  2002Du16, 2002Sa55, 2001Ku27, 2001St29, 1999De51, 1998Ro11, 1997Bu07,  
+222RAOd  1997Bu28, 1997De16, 1997Ma29, 1997Ro24, 1997Tr17, 1996Bu05, 1996De19,  
+222RAPd  1996Fl04, 1996Si20, 1995Ar33, 1995Fl06, 1995Ko54, 1995Si05, 1994Bu07,  
+222RAQd  1994De38, 1994Hu13, 1993Bu05, 1993De38, 1993Go18, 1993Gr15, 1993Gu11,  
+222RARd  1993Ka21, 1993Si26, 1992Ar02, 1992De44, 1992Gu10, 1992Lu07, 1992Sa30,  
+222RASd  1991Bu01, 1991Ga28, 1991Ho24, 1991In01, 1991Ro03, 1990Ba20, 1990Bu09,  
+222RATd  1990Bu13, 1990Bu30, 1990Hu07, 1990Ka15, 1990Sh01, 1989Bu06, 1989Ci03,  
+222RAUd  1989Ma21, 1989Ma43, 1989Sh37, 1988Ba01, 1988Bl11, 1988Iv02, 1988Sh29,  
+222RAVd  1988Ta25, 1987Bl04, 1987Gu04, 1987Gu15, 1987Iv01, 1987Po06, 1987Po08,  
+222RAWd  1987Sh04, 1986Ch36, 1986De32, 1986Gr20, 1986Ir01, 1986Ka46, 1986La01,  
+222RAXd  1986Pi11, 1986Po15, 1986Ru11, 1985Po11, 1985Sh01, 1985Sh07, 1984Po08,  
+222RAYd  1979Po23, 1977Ba70.                                                    
+222RA c  Consult the NSR database for about 120 references for theoretical      
+222RA2c  structure calculations, and about 230 theory references for |a, 2|a and
+222RA3c  {+14}C decays, and other cluster decay characteristics of {+222}Ra.    
+222RA d  2006Sa53, 2005Za02, 2003Sh02, 2001Za04, 2001Za09, 1998Bu18, 1998Ra05,  
+222RA2d  1997Bu07, 1997Bu28, 1995De13, 1987En05, 1986Da03, 1985Na07, 1983Pi04,  
+222RA3d  1983Ia01, 1980Sh07, 1970Ne08: calculations of level energies by various
+222RA4d  methods, some including deformations of order higher than |b(2), and   
+222RA5d  for discussions on level structures.                                   
+222RA d  1994Cw01, 1991Sk01, 1988So08, 1986Bo19, 1986Le05, 1984Na22, 1983Ro14,  
+222RA2d  1982Le19, 1982Du16 and 1981Gy03: theoretical calculations of           
+222RA3d  equilibrium deformations and deformation energies.                     
+222RA d  2001Ch02, 1994Cw01, 1992Ch20, 1992SkZZ, 1989De11, 1989Eg02, 1988Ba48,  
+222RA2d  1988Ro05, 1988So08, 1987Na10, 1987Ro08, 1986Bo19, 1986Ch23, 1984Na22:  
+222RA3d  calculated exotic nuclear shapes, including super-deformation,         
+222RA4d  hyper-deformation and octupole shapes.                                 
+222RA d  2004Ad15, 2003Ad32, 1991Eg01, 1991Bu10, 1989De11, 1986Le05:            
+222RA2d  calculations of electric-dipole moment, and for discussions on the     
+222RA3d  strong octupole effects and octupole deformation, as well as higher    
+222RA4d  order of deformations.                                                 
+222RA cG E(D)$Poor fit; uncertainty multiplied by a factor in the fitting       
+222RA cG E,RI$From {+222}Fr |b{+-} decay, unless otherwise noted.               
+222RA cG M$From ce data in {+226}Th |a decay, unless otherwise noted            
+222RA cG E(X,Y),RI(X)$From {+232}Th({+136}Xe,X|g)                               
+222RA cL $B(E1)(W.u.) and B(E2)(W.u.) deduced by evaluators from measured       
+222RA2cL matrix elements in Coulomb excitation, except as noted                 
+222RA cL $The K|p=0+ g.s. band and the K|p=0- band at 242.11 keV have been      
+222RA3cL interpreted as octupole parity-doublet bands.                          
+222RA cL E$From a least-squares fit to E|g values. Uncertainties of some E|g    
+222RA2cL values have been increased (as specified under comment at each |g) in  
+222RA3cL the fitting due to poor fit and the resulting reduced |h{+2}=2.2,      
+222RA4cL compared to 4.9 without those |DE|g adjustments.                       
+222RA cL T$For levels above 111.1, half-lives have been deduced by evaluators   
+222RA2cL from measured matrix elements in Coulomb excitation, and adopted       
+222RA3cL |g-ray branching ratios                                                
+222RA CL BAND(A)$K|p=0+ g.s. band.                                              
+222RA CL BAND(B)$K|p=0- octupole vibrational band.                              
+222RA2cL Weighted averaged of D{-0}/Q{-0}=0.00402 b{+1/2} {I11} (1999Co02).     
+222RA3cL Average electric dipole moment D{-0}=0.027 eb{+1/2} {I4} from J=7-15   
+222RA4cL (1999Co02)                                                             
+222RA CL BAND(C)$K|p=(0+) band.                                                 
+222RA  XA222FR B- DECAY (14.2 M)                                                
+222RA  XB226TH A DECAY (30.72 M)                                                
+222RA  XC232TH(136XE,XG)                                                        
+222RA  XDCOULOMB EXCITATION                                                     
+222RA PN                                                                     6  
+222RA  L 0.0          0+                33.6 S   4                          A   
+222RA2 L %A=100 $ %14C=3.0E-8 10                                                
+222RAX L XREF=ABCD                                                              
+222RA cL $Evaluated rms charge radius <r{+2}>{+1/2}=5.687 fm {I24} (2013An02).  
+222RA cL $Evaluated |d<r{+2}>({+222}Ra-{+214}Ra)=+0.8950 fm{+2} {I2} (2013An02).
+222RA cL T$from 2012Po13, from analysis of 42 |a-decay curves, and with         
+222RA2cL detailed discussion of uncertainties. Others: 36.17 s {I10} (1995Ko54);
+222RA3cL 43 s {I4} (1982Bo04); 39 s {I4} (1958To25); 37.5 s {I5} (1956As38);    
+222RA4cL 38.0 s (1948St42)                                                      
+222RA cL ${+14}C branching from measured values of I({+14}C)/I(|a)=             
+222RA2cL 3.7|*10{+-10} {I6} (1985Pr01), 3.1|*10{+-10} {I10}(1985Ho21), and      
+222RA3cL 2.3|*10{+-10} {I3} (1991Hu02). 1991Hu02 searched also for any {+14}C   
+222RA4cL branching to the 3- state in {+208}Pb at 2614 keV and deduced an       
+222RA5cL upper limit of 2|*10{+-10}% for its branch.                            
+222RA cL $Measured change in rms radius: |d<r{+2}>({+214}Ra,{+222}Ra)=+1.0449   
+222RA2cL fm{+2} {I2}(stat) {I524}(syst) (2018Ly01)                              
+222RA cL $Measured isotope shifts: |d|n({+214}Ra,{+222}Ra)=-29260 MHz {I4};     
+222RA2cL |d|n({+226}Ra,{+222}Ra)=+12483 MHz {I3} (2018Ly01)                     
+222RA cL $Isotope shifts and change in rms charge radius deduced from the       
+222RA2cL measurement of hyperfine-structure spectra of the                      
+222RA3cL 7s{+2}S{+0}|)7s7p{+3}P{-1} atomic transition using Collinear           
+222RA4cL Resonance Ionization Spectroscopy at ISOLDE-CERN (2018Ly01)            
+222RA cL $The isotope shift relative to {+214}Ra was measured by 1988Ah02;      
+222RA2cL the change in the nuclear mean square charge radius and the            
+222RA4cL change in the quadrupole deformation parameter were deduced as         
+222RA5cL |D<r{+2}>=-0.198, and |D<|b{+2}>{+1/2}=0.191. See also 1987We03,       
+222RA6cL 1985Ne09.                                                              
+222RA  L 111.137   20 2+               0.52 NS   4                          A   
+222RAX L XREF=ABCD                                                              
+222RA2 L MOME2=-0.75 29                                                         
+222RA cL J$E2 |g to 0+                                                          
+222RA cL T$from (|a)(ce 111|g)(t) in {+226}Th |a decay.                         
+222RA cL MOME2$from diagonal E2 matrix element (111,2+ |) 111,2+)=-1.3 {I5}     
+222RA2cL (2020Bu01) in Coulomb excitation.                                      
+222RA  G 111.15    3  100       E2                     6.12    9                
+222RAB G BE2W=112.8 +96-82                                                      
+222RA cG E$unweighted average of 111.11 {I1} from {+222}Fr |b{+-} decay, 111.15 
+222RA2cG {I1} from {+226}Th |a decay, and 111.2 {I2} from ({+136}Xe,X|g)        
+222RA  L 242.157   17 1-                9.5 PS   +21-16                     B   
+222RAX L XREF=ABD                                                               
+222RA cL J$E1 |g to 0+                                                          
+222RA cL T$other: <1.2 ns from (|a)(242|g)(t) in {+226}Th |a decay.             
+222RA  G 131.01    3  31.2   15 (E1)                   0.2500 35                
+222RAB G BE1W=0.00186 +40-34                                                    
+222RA cG E$unweighted average of 130.98 {I1} from {+222}Fr |b{+-} decay and     
+222RA2cG 131.04 {I1} from {+226}Th |a decay                                     
+222RA cG RI$from {+226}Th |a decay. Other: 31.8 {I31} from {+222}Fr |b{+-} decay
+222RA cG M$from intensity balance in {+226}Th |a decay                          
+222RA  G 242.13    2  100.0  30 E1                     0.0575  8                
+222RAB G BE1W=0.00095 +19-17                                                    
+222RA cG E$unweighted average of 242.11 {I1} from {+222}Fr |b{+-} decay and     
+222RA2cG 242.14 {I1} from {+226}Th |a decay                                     
+222RA cG RI$from {+226}Th |a decay. Other: 100 {I10} from {+222}Fr |b{+-} decay 
+222RA  L 301.495   34 4+                135 PS   +17-14                     A   
+222RA2 L MOME2=-1.59 29                                                         
+222RAX L XREF=ABCD                                                              
+222RA cL J$E2 |g to 2+; band member                                             
+222RA cL T$other: <1.4 ns from (|a)(190|g)(t) in {+226}Th |a decay.             
+222RA cL MOME2$from diagonal E2 matrix element (301,4+ |) 301,4+)=-1.3 {I5}     
+222RA2cL (2020Bu01) in Coulomb excitation.                                      
+222RA  G 190.42    14    100    E2                     0.700  10                
+222RAB G BE2W=123 14                                                            
+222RA cG E$unweighted average of 190.24 {I2} from {+222}Fr |b{+-} decay, 190.31 
+222RA2cG {I1} from {+226}Th |a decay, and 190.7 {I2} from ({+136}Xe,X|g)        
+222RA  L 317.330   22 (3)-              4.7 PS   +26-14                     B   
+222RAX L XREF=ABD                                                               
+222RA cL J$E1 206|g to 2+; 75|g to 1-; band member                              
+222RA cL $The nuclear electric dipole moment was deduced by 1992Ru01            
+222RA2cL as 0.036 {I6} fm from the branching ratio for E1, E2 transitions       
+222RA3cL deexciting the level. The electric quadrupole moment of 6.74 b {I28}   
+222RA4cL for both the g.s. and the K|p=0- band was assumed.                     
+222RA  G 75.13     2  0.017  4  [E2]                   36.8    5                
+222RAB G BE2W=98 +49-40                                                         
+222RA  G 206.22    4  100.0  32 E1                     0.0839 12                
+222RAB G BE1W=0.0041 +17-14                                                     
+222RA cG E$unweighted average of 206.18 {I2} from {+222}Fr |b{+-} decay and     
+222RA2cG 206.25 {I1} from {+226}Th |a decay                                     
+222RA cG RI$from {+226}Th |a decay. Other: 100 {I10} from {+222}Fr |b{+-} decay 
+222RA  L 473.87    4  (5-)              24 PS    +5-9                       B   
+222RAX L XREF=ABCD                                                              
+222RA cL J$|g to 4+; no |b feeding from 2- parent; band member                  
+222RA  G 156.5     1  4.3    23 [E2]                   1.480  21               S
+222RA cG E$from level-energy difference.                                        
+222RA cG RI$from B(E2,157|g)/B(E1,172|g) ratio in Coulomb excitation; this |g   
+222RA2cG has not been observed.                                                 
+222RAB G BE2W=109 +30-26                                                        
+222RA  G 172.37    2  100       [E1]                   0.1288 18                
+222RAB G BE1W=0.00123 +60-24                                                    
+222RA cG E$others: 172.3 {I2} from {+226}Th |a decay and 172.2 {I5} from        
+222RA2cG ({+136}Xe,X|g)                                                         
+222RA  L 549.97    19 (6+)              34 PS    +6-5                       A   
+222RAX L XREF=CD                                                                
+222RA cL J$gammas to 4+ and (5-); band member                                   
+222RA  G 77            29    4  [E1]                   0.2211 31                
+222RA cG E,RI$from Coulomb excitation                                           
+222RAB G BE1W=0.00211 +44-40                                                    
+222RA  G 248.4     2   100      [E2]                   0.276   4            Y   
+222RAB G BE2W=135 +24-21                                                        
+222RA cG RI$from Coulomb excitation                                             
+222RA  L 702.92    27 (7-)              15 PS    5                          B   
+222RAX L XREF=CD                                                                
+222RA cL J$gammas to (6+) and (5-); band member                                 
+222RA  G 153.1     5     100 32 [E1]                   0.1715 28            X   
+222RAB G BE1W=0.0024 +12-7                                                      
+222RA  G 229.3     5      18 6  [E2]                   0.362   6            X   
+222RAB G BE2W=95 +74-38                                                         
+222RA  L 842.93    25 (8+)              11.1 PS  +31-24                     A   
+222RAX L XREF=CD                                                                
+222RA cL J$gammas to (6+) and (7-); band member                                 
+222RA  G 140.1     2    100  18 [E1]                   0.2126 31            X   
+222RAB G BE1W=0.00265 +75-66                                                    
+222RA  G 292.9     2    92   8  [E2]                   0.1636 23            X   
+222RAB G BE2W=119 +36-28                                                        
+222RA  L 914.174   26(0+)                                                   C   
+222RAX L XREF=B                                                                 
+222RA cL J$gammas to 2+ and 1-; analogy to the 916, 0+ level in {+224}Ra.       
+222RA  G 672.02    2  100    7                                                  
+222RA  G 802.7     1  13     8                                              D   
+222RAF G FL=111.137                                                             
+222RA cG E$uncertainty multiplied by a factor of 2 in the fitting; level-energy 
+222RA2cG difference=803.036                                                     
+222RA  L 992.12    33 (9-)              5.1 PS   +17-13                     B   
+222RAX L XREF=CD                                                                
+222RA cL J$gammas to (8+) and (7-); band member                                 
+222RA  G 149.3     5    100  16 [E1]                   0.1822 30            X   
+222RAB G BE1W=0.0049 +18-14                                                     
+222RA  G 289.0     5    88   10 [E2]                   0.1705 26            X   
+222RAB G BE2W=2.7E2 +10-7                                                       
+222RA  L 1024.920  23 (2+)                                                  C   
+222RAX L XREF=AB                                                                
+222RA cL J$gammas to 0+ and 4+.                                                 
+222RA  G 707.54    3  100    5                                                  
+222RA cG E$other: 707.52 {I9} from {+226}Th |a decay                            
+222RA cG RI$other: 100 {I9} from {+226}Th |a decay                              
+222RA  G 723.45    6  3.4    5                                                  
+222RA cG E$weighted average of 723.45 {I4} from {+222}Fr |b{+-} decay and 722.9 
+222RA2cG {I4} from {+226}Th |a decay                                            
+222RA cG RI$other: 15 {I6} from {+226}Th |a decay is discrepant                 
+222RA  G 782.77    3  98     9                                                  
+222RA cG E$other: 783.0 {I5} from {+226}Th |a decay                             
+222RA cG RI$other: 112 {I25} from {+226}Th |a decay                             
+222RA  G 913.69    5  16.9   23                                                 
+222RA cG E$other: 913.9 {I4} from {+226}Th |a decay                             
+222RA cG RI$other: 66 {I33} from {+226}Th |a decay is discrepant                
+222RA  G 1025.02   8  6.7    11                                                 
+222RA  L 1170.99   4  (3-,4+)                                                   
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to (3)-, 4+ and (5-); log| {Ift}=8.25 {I+39-22} from 2- parent
+222RA  G 696.88    5  29     5                                              D   
+222RAF G FL=473.87                                                              
+222RA cG E$uncertainty multiplied by a factor of 2 in the fitting; level-energy 
+222RA2cG difference=697.13                                                      
+222RA  G 853.78    8  100    6                                                  
+222RA  G 869.6     2  81     25                                                 
+222RA  L 1171.55   4  (1,2+)                                                    
+222RAX L XREF=A                                                                 
+222RA cL J$|g to 0+                                                             
+222RA  G 929.47    8  15     2                                                  
+222RA  G 1060.33   5  100    8                                                  
+222RA  G 1171.69   8  53     6                                                  
+222RA  L 1173.02   30 (10+)             5.0 PS   +24-17                     A   
+222RAX L XREF=CD                                                                
+222RA cL J$gammas to (8+) and (9-); band member                                 
+222RA  G 180.9     2    100  23 [E1]                   0.1147 16            X   
+222RAB G BE1W=0.0032 +16-11                                                     
+222RA  G 330.1     2    75   7  [E2]                   0.1147 16            X   
+222RAB G BE2W=139 +76-48                                                        
+222RA  L 1225.23   5  (1,2+)                                                    
+222RAX L XREF=A                                                                 
+222RA cL J$|g to 0+                                                             
+222RA  G 982.90    8   97    19                                                 
+222RA  G 1114.26   8   100   19                                                 
+222RA  G 1225.24   8   38    7                                                  
+222RA  L 1265.05   4 (2+,3)                                                     
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 2+ and 4+; log| {Ift}=7.40 {I9} from 2- parent             
+222RA  G 963.61    6  26     4                                                  
+222RA  G 1153.87   5  100    10                                                 
+222RA  L 1310.24   8  (0+,1,2,3-)                                               
+222RAX L XREF=A                                                                 
+222RA cL J$gamma to 1-; log| {Ift}=8.52 {I13} from 2- parent                    
+222RA  G 1068.08   8                                                            
+222RA  L 1330.5    4 (11-)              3.6 PS   +18-12                     B   
+222RAX L XREF=CD                                                                
+222RA cL J$gammas to (10+) and (9-); band member                                
+222RA  G 157.4     5    64   10 [E1]                   0.1604 26            X   
+222RAB G BE1W=0.0046 +24-16                                                     
+222RA  G 338.3     5    100  10 [E2]                   0.1069 16            X   
+222RAB G BE2W=2.4E2 +13-8                                                       
+222RA  L 1360.88   9  (1-,2,3)                                                  
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 2+ and (3)-; log| {Ift}=8.03 {I10} from 2- parent          
+222RA  G 1043.60   9  100    12                                                 
+222RA  G 1249.1    1  60     11                                             D   
+222RAF G FL=111.137                                                             
+222RA cG E$uncertainty multiplied by a factor of 3 in the fitting; level-energy 
+222RA2cG difference=1249.74                                                     
+222RA  L 1375.77   8  (1,2,3-)                                                  
+222RAX L XREF=A                                                                 
+222RA cL J$gamma to 1-; log| {Ift}=8.15 {I11} from 2- parent                    
+222RA  G 1133.61   8                                                            
+222RA  L 1402.596  31 (2+,3-)                                                   
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 1- and 4+                                                  
+222RA  G 231.7     2  15.2   16                                                 
+222RAF G FL=1170.99                                                             
+222RA  G 377.64    4  24     2                                                  
+222RA  G 1085.20   5  92     12                                                 
+222RA  G 1101.09   5  100    10                                                 
+222RA  G 1160.52   8  14.4   14                                                 
+222RA  G 1291.61   8  9.6    16                                                 
+222RA  L 1432.73   6 (1,2,3-)                                                   
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 2+ and 1-; log| {Ift}=7.42 {I9} from 2- parent             
+222RA  G 1190.4    1  8.5    15                                                 
+222RA  G 1321.65   6  100    8                                                  
+222RA  L 1439.994  34(3-)                                                       
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 1- and (5-); log| {Ift}=7.05 {I10} from 2- parent          
+222RA  G 268.99    4  13     3                                                  
+222RAF G FL=1170.99                                                             
+222RA  G 415.05    4  11     2                                                  
+222RA  G 966.24    9  23     5                                                  
+222RA  G 1122.41   9  40     7                                              D   
+222RA cG E$uncertainty multiplied by a factor of 2 in the fitting; level-energy 
+222RA2cG difference=1122.661                                                    
+222RA  G 1138.47   5  100    10                                                 
+222RA  G 1197.99   8  30     5                                                  
+222RA  L 1499.49   5  (1-,2,3-)                                                 
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 1- and (3)-; log| {Ift}=7.34 {I9} from 2- parent           
+222RA  G 474.45    9  100    10                                                 
+222RA  G 1182.05   8  87     10                                                 
+222RA  G 1257.5    1  33     6                                                  
+222RA  G 1388.5    1  76     10                                                 
+222RA  L 1536.8    5  (12+)             4.6 PS   +26-16                     A   
+222RAX L XREF=CD                                                                
+222RA cL J$gammas to (10+) and (11-); band member                               
+222RA  G 206.2     5     64  12 [E1]                   0.0839 13            X   
+222RAB G BE1W=0.00164 +93-62                                                    
+222RA  G 363.9     5     100 10 [E2]                   0.0871 13            X   
+222RAB G BE2W=136 +78-48                                                        
+222RA  L 1556.04   7   (2+)                                                     
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 0+ and 4+.                                                 
+222RA  G 1238.60   8  100    13                                                 
+222RA  G 1254.4    2  26     3                                                  
+222RA  G 1445.2    2  69     11                                                 
+222RA  G 1556.5    2  59     11                                                 
+222RA  L 1619.62   9  (1,2,3-)                                                  
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 2+ and 1-; log| {Ift}=7.38 {I12} from 2- parent            
+222RA  G 1377.4    1  100    15                                                 
+222RA  G 1508.7    2  24     7                                                  
+222RA  L 1644.88   4  (2+,3-)                                                   
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 1- and 4+; log| {Ift}=6.91 {I+34-22} from 2- parent        
+222RA  G 619.95    4  31     4                                                  
+222RA  G 1327.58   6  100    9                                                  
+222RA  G 1343.3    1  10.4   17                                                 
+222RA  G 1402.5    2  27     3                                                  
+222RA  G 1534.1    2  17     3                                                  
+222RA  L 1710.0    5 (13-)                                                  B   
+222RAX L XREF=C                                                                 
+222RA cL J$gammas to (12+) and (11-); band member                               
+222RA  G 173.1     5    82   12 [E1]                   0.1275 20            X   
+222RA  G 379.6     5    100  9  [E2]                   0.0776 11            X   
+222RA  L 1754.36   5   (3-)                                                     
+222RAX L XREF=A                                                                 
+222RA cL J$gammas to 2+, 4+, and (5-); log| {Ift}=6.55 {I12} from 2- parent     
+222RA  G 351.75    4  52     11                                                 
+222RA  G 1280.99   9  34     7                                              D   
+222RAF G FL=473.87                                                              
+222RA cG E$uncertainty multiplied by a factor of 3 in the fitting; level-energy 
+222RA2cG difference=1280.49                                                     
+222RA  G 1436.4    1  100    10                                             D   
+222RAF G FL=317.330                                                             
+222RA cG E$uncertainty multiplied by a factor of 3 in the fitting; level-energy 
+222RA2cG difference=1437.03                                                     
+222RA  G 1453.4    1  45     9                                              D   
+222RAF G FL=301.495                                                             
+222RA cG E$uncertainty multiplied by a factor of 3 in the fitting; level-energy 
+222RA2cG difference=1452.86                                                     
+222RA  G 1643.9    2  44     11                                             D   
+222RAF G FL=111.137                                                             
+222RA cG E$uncertainty multiplied by a factor of 2 in the fitting; level-energy 
+222RA2cG difference=1643.22                                                     
+222RA  L 1821.56   20  (1,2,3-)                                                 
+222RAX L XREF=A                                                                 
+222RA cL J$|g to 1-; log| {Ift}=7.0 {I+19-16} from 2- parent                    
+222RA  G 1579.4    2  100                                                       
+222RA  L 1841.20   6   (1,2,3-)                                                 
+222RAX L XREF=A                                                                 
+222RA cL J$|g to 1-; log| {Ift}=6.09 {I+37-25} from 2- parent.                  
+222RA2cL If J|p(1645 level)=3-, then J|p(1841)|=1+.                             
+222RA  G 196.31    4  100    13                                                 
+222RA  G 1599.6    2  16     5                                              D   
+222RA cG E$uncertainty multiplied by a factor of 2 in the fitting; level-energy 
+222RA2cG difference=1599.04                                                     
+222RA  L 1932.9    6 (14+)                                                  A   
+222RAX L XREF=C                                                                 
+222RA cL J$gamma to (12+); band member                                          
+222RA  G 396.0     5    100     [E2]                   0.0693 10            Y   
+222RA  L 2125.0    6 (15-)                                                  B   
+222RAX L XREF=C                                                                 
+222RA cL J$gammas to (14+) and (13-); band member                               
+222RA  G 192.1     5    68   30 [E1]                   0.0993 15            X   
+222RA  G 415.0     5    100  12 [E2]                   0.0613  9            X   
+222RA  L 2358.4    7 (16+)                                                  A   
+222RAX L XREF=C                                                                 
+222RA cL J$gamma to (14+); band member                                          
+222RA  G 425.5     5    100     [E2]                   0.0575  8            Y   
+222RA  L 2569.8    7 (17-)                                                  B   
+222RAX L XREF=C                                                                 
+222RA cL J$gammas to (16+) and (15-); band member                               
+222RA  G 211.4     5                                                        Y   
+222RA  G 444.8     5    100     [E2]                   0.0514  7            X   
+222RA  L 2810.7    9 (18+)                                                  A   
+222RAX L XREF=C                                                                 
+222RA cL J$gamma to (16+); band member                                          
+222RA  G 452.3     5    100     [E2]                   0.0493  7            Y   
+222RA  L 3040.6    9 (19-)                                                  B   
+222RAX L XREF=C                                                                 
+222RA cL J$gamma to (17-); band member                                          
+222RA  G 470.8     5    100     [E2]                   0.0447  6            Y   
+222RA  L 3287.4    10 (20+)                                                 A   
+222RAX L XREF=C                                                                 
+222RA cL J$gamma to (18+); band member                                          
+222RA  G 476.7     5    100     [E2]                   0.0434  6            Y   

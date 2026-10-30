@@ -1,0 +1,60 @@
+253ES    257MD A DECAY                 1993MO18                  13NDS    201309
+253ES  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+253ES2 H CUT=1-Mar-2012$                                                        
+253ES DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+257MD  P 0.0         (7/2-)            5.52 H    5              7557.6    10    
+253ES  N   0.95    5            0.15   3                                        
+253ES cN BR$from %|e of {+257}Md determined by the ingrowth of {+257}Fm         
+253ES2cN |a group (1993Mo18)                                                    
+253ES PN                                                                     3  
+253ES c  1993Mo18: {+254}Es+{+18}O E({+18}O)=105 MeV, {+254}Es+{+22}Ne          
+253ES2c  E({+22}Ne)=126 MeV, ms ion chem. Measured |a, |g, SF, |a|g             
+253ES c  Others: 1970Fi12, 1971Ho16                                             
+253ES cL $The level scheme is that proposed by 1993Mo18                         
+253ES cL E,J$From 1993Mo18                                                      
+253ES CL BAND(A)$Band 7/2+[633]                                                 
+253ES CL BAND(B)$Band 3/2-[521]                                                 
+253ES CL BAND(C)$Band 7/2-[514]                                                 
+253ES cA $All data are from 1993Mo18                                            
+253ES cA IA$Intensity per 100 |a decays                                         
+253ES cA HF        r{-0}({+253}Es)=1.495                                        
+253ES cG $All data are from 1993Mo18                                            
+253ES cG $K| x ray(Es):                                                         
+253ES2cG I(K|a{-2}| x ray)/I(7074|a)=0.034 {I5},                                
+253ES2cG I(K|a{-1}| x ray)/I(7074|a)=0.055 {I7},                                
+253ES2cG I(K|b{-13} x ray)/I(7074|a)=0.026 {I6} (1993Mo18).                     
+253ES3cG From level scheme I(K| x ray)/I(7074|a)=0.028, not in                  
+253ES4cG agreement with measured I(K| x ray) (evaluators).                      
+253ES cG RI$Relative to I(7074|a)=100 {I5}                                      
+253ES  L     0.0     7/2+                                                   A   
+253ES  A  7440     2    0.36 6  1.29E4 34                                       
+253ES  L    46.3   3  (9/2+)                                                A   
+253ES  A  7403     6    0.25 19 1.2E4  10                                       
+253ES  L    80     8  (11/2+)                                               A   
+253ES  A  7361     7    0.10 10 2.3E4  24                                       
+253ES  L   106     4                                                            
+253ES cL           Conversion electrons from |g-ray decay to the ground state   
+253ES2cL of {+253}Es have not been observed in {+253}Fm |e decay. Thus,         
+253ES3cL a 3/2-3/2[521] Nilsson state assignment (1993Mo18) to this level       
+253ES4cL could not be confirmed.                                                
+253ES  A  7336     3    0.13 9  1.4E4  10                                       
+253ES  L   139     3   (5/2-)                                               B   
+253ES  A  7303     2    0.25 5  5.4E3  16                                       
+253ES  L   181.3   5   (7/2-)                                               B   
+253ES  A  7260     2    0.20 5  4.6E3  15                                       
+253ES  G 181.3     5   2.9   8 [E1]                    0.1405 22                
+253ESS G KC=0.1063 17$LC=0.0256 4$MC=0.00633 10$NC+=0.00227 4                   
+253ESS G NC=0.00175 3$OC=0.000445 7$PC=7.82E-5 12$QC=3.05E-6 5                  
+253ES  L   371.4   1   (7/2-)                                               C   
+253ES  A  7074     1   95.4      1.6                                            
+253ES  G 325.1     2  17.5   21[E1]                    0.0396                   
+253ESS G KC=0.0309 5$LC=0.00656 10$MC=0.001609 23$NC+=0.000581 9                
+253ESS G NC=0.000445 7$OC=0.0001144 16$PC=2.09E-5 3$QC=9.45E-7 14               
+253ES  G 371.4     1  82     4 [E1]                    0.0302                   
+253ESS G KC=0.0237 4$LC=0.00491 7$MC=0.001202 17$NC+=0.000434 6                 
+253ESS G NC=0.000332 5$OC=8.56E-5 12$PC=1.572E-5 22$QC=7.33E-7 11               
+253ES  L   435     2   (9/2-)                                               C   
+253ES  A  7014     6    3.3  AP   26   AP                                       
+253ES  G 388.5     15   0.5  AP[E1]                    0.0276 5                 
+253ESS G KC=0.0217 4$LC=0.00446 8$MC=0.001091 18$NC+=0.000394 7                 
+253ESS G NC=0.000301 5$OC=7.77E-5 13$PC=1.431E-5 24$QC=6.74E-7 11               

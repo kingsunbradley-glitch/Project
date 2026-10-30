@@ -1,0 +1,200 @@
+237U     241PU A DECAY                 1976GUZN,1968AH01,1965BA2606NDS    200608
+237U   H TYP=ERR$AUT=J. Tuli$DAT=11-Jul-2014$COM=corrected NR to agree with PN$ 
+237U   H TYP=FUL$AUT=M. S. Basunia$CIT=NDS 107, 2323 (2006)$CUT=15-Mar-2006$    
+237U  c  Other measurements: 1953As40, 1964Dz03.                                
+237U  c  1976GuZN: High isotopic purity {+241}Pu source (preparation not        
+237U 2c  described) was counted using variety of Ge detectors and alpha counter;
+237U 3c  Measured: E|g, I|g, |a-|g coin, |a branching.                          
+237U  c  1968Ah01: 99.9% chemically pure {+241}Pu was measured; Detectors:      
+237U 2c  silicon surface barrier detector, NAI, and Ge(Li); Measured: E|a, I|a, 
+237U 3c  E|g, I|g, |g|g coin, |a-|g |g-|a coin, |a branching.                   
+237U  c  1965Ba26: Enriched {+241}Pu source was prepared from vacuum            
+237U 2c  evaporation of plutonium solution; spectra were taken with magnetic    
+237U 3c  spectrograph; Measured: E|a, I|a.                                      
+237U  c  %|a=2.45|*10{+-3} {I2}.                                                
+237U  cA E         From 1968Ah01, except otherwise noted. E|a reported both in  
+237U 2cA 1968Ah01 and 1965Ba26. In 1991Ry01 the original E|a energies of        
+237U 3cA 1965Ba26, 1968Ba25 have been increased by 0.4 keV, and energies of     
+237U 4cA 1968Ah01 have been increased by 0.6 keV because of changes in          
+237U 5cA calibration energies.                                                  
+237U  cA IA        From 1968Ah01, except otherwise noted. |a intensity per      
+237U 2cA 100 |a decays.                                                         
+237U  cA HF        r{-0}({+237}U)=1.5156 {I9}, average of r{-0}({+238}U)=1.5143 
+237U 2cA {I9} and r{-0}({+236}U) =1.5168 {I3} (1998Ak04), is used in            
+237U 3cA calculations. See 1969Po05 and 1976Du03 for theoretical calculations   
+237U xcA of hindrance factors.                                                  
+237U  tG           X rays( uranium):                                    1976GuZN
+237U 2tG                                                                        
+237U 3tG             E|g      I|g/100|a                                         
+237U 4tG          ---------  -------                                            
+237U 5tG           94.658 {I5}   12.3      K|a{-2}| x ray                       
+237U 6tG           98.442 {I5}   19.7      K|a{-1}| x ray                       
+237U 7tG          110.421      2.40     K|b{-3} x ray                           
+237U 8tG          111.300      4.44     K|b{-1} x ray                           
+237U 9tG          111.89       0.13     K|b{-5} x ray                           
+237U 2tG          114.34       0.65     K|b{-2} x ray                           
+237U 3tG          114.56       1.48     K|b{-4} x ray                           
+237U 4tG          115.40       0.54     KO{-23} x ray                           
+237U 5tG                                                                        
+237U  cG E         From 1976GuZn, except noted otherwise. Measurements of       
+237U 2cG 1968Ah01, 1976GuZN, 1985He02, and 1985Wi04 are in good agreement.      
+237U 3cG Other measurements: 1952Fr25, 1965Ba35, 1976Um01,                      
+237U 4cG 1979Ce04, 1993Dr05.                                                    
+237U  cG E(Z)      Measurement of 1968Ah01. Assignment to {+241}Pu |a decay has 
+237U 2cG not been established. If they belong to {+241}Pu |a decay, they could  
+237U 3cG be identical to the 641.34- and 686.29-keV |g's seen in (n,|g),        
+237U 4cG deexciting the 5/2+,3/2[631] state. Since I|g's were not given,        
+237U 5cG a positive assignment could not be made. Note also that the |g's       
+237U 6cG deexciting the 3/2+ state of this band have not been reported          
+237U 7cG in {+241}Pu |a decay either.                                           
+237U  cG RI        From 1976GuZN, except otherwise noted. Absolute photon       
+237U 2cG intensity per 100 |a decays. I|g values are in |g/dis (1976GuZn)       
+237U 3cG converted to absolute photon intensity per 100 |a decays by evaluator  
+237U 4cG using %|a=0.00245 {I1}.                                                
+237U  cG RI(Y)     Weighted average of 1985He02 and 1985Wi04. The intensities in
+237U 3cG 1985He02 and 1985Wi04 are listed as absolute photon intensities per    
+237U 4cG 1|*10{+6} {+241}Pu decays. These intensities are converted to I|g's    
+237U 5cG per 100 a decays by using %|a=0.00245 {I1}. For |g's not listed in     
+237U 7cG 1985He02 and 1985Wi04, the measured intensities in 1968Ah01 and        
+237U 8cG 1976GuZN are in fair agreement.                                        
+237U  cL E         From a least-squares fit to the |g-ray energies, except      
+237U 2cL otherwise noted, assuming |DE=1 keV for |g-rays with no uncertainty.   
+237U  cL J         From adopted levels.                                         
+237U  cL E(D)      Deduced from the E|a and Q(|a)=5140.0 {I5} values by the     
+237U xcL evaluator.                                                             
+237U  cL E(A)      1/2[631] band                                                
+237U  cL E(B)      5/2[622] band                                                
+237U  cL E(C)      7/2[743] band                                                
+241PU  P 0.0         5/2+              14.290 Y  6              5140.0    5     
+237U   N 1.0         1.0       2.45E-5 1                                        
+237U  cN           |a branching is from weighted average of |a/|b{+-}           
+237U 2cN =2.45|*10{+-5} {I8} (1968Ah01), 2.46|*10{+-5} {I1} (1976GuZN), and     
+237U 3cN 2.42|*10{+-5} {I2} (1977VaYR). Other measurements: 1950Th54, 1960Br15, 
+237U xcN 1961Sm03, 1963Iv01, 1966Be24.                                          
+237U  PN                                                                     2  
+237U   G 641       2                                                        Z   
+237U   G 687       2                                                        Z   
+237U   L 0.0          1/2+             6.75 D    1                          A   
+237U  cL T         From adopted levels.                                         
+237U   A 5055      5  0.35       3533                                           
+237U  cA IA$From 1965Ba26. I|a=1.5 {I1} together for 5055|a and 5042|a in       
+237U xcA 1968Ah01                                                               
+237U   L 11.5       6 3/2+                                                  A   
+237U   A 5042      3  1.02       1022                                           
+237U  cA IA$From 1965Ba26. I|a=1.5 {I1} together for 5055|a and 5042|a in       
+237U xcA 1968Ah01                                                               
+237U   G 11.39                                                                  
+237U  cG E         From 1971GuZY.                                               
+237U   L 56.3       6 5/2+                                                  A   
+237U   A 4999      4  0.41   5  1.30E3 16                                       
+237U   G 44.86       0.034     [M1+E2]   0.50    20    166    65                
+237U  cG           The intensity balance at the 56.28-keV level yields          
+237U 2cG |d=0.50 {I14}. An |d=0.62 was obtained by evaluator from calculation   
+237U 3cG using the Alaga rule on 44.86|g and 56.32|g. Alaga rule yields         
+237U 4cG I|g(44.86|g; E2 part)/I|g(56.32|g)=0.0916, from which                  
+237U 4cG E2/M1(44.86|g)=0.27 (|d=0.62) is obtained.                             
+237U 5cG The 45.724|g in {+237}Pu which connects the 5/2+ and 3/2+ states of    
+237U 6cG the 1/2[631] band, the mixing ratio was determined to be |d=0.47 {I13}.
+237U S G LC=122 54 $ MC=33 15                                                   
+237U   G 56.32       0.102     [E2]                    208.4                    
+237U S G LC=151.2 $ MC=41.7 $ NC+=15.5                                          
+237U   L 83.0       8 7/2+                                                  A   
+237U   A 4972      3  1.3    1   274   22                                       
+237U   G 26.7                                                   3.9       14   S
+237U  cG TI        transition not observed. Highly converted M1+E2 transition   
+237U 2cG with total transition intensity of 3.9% {I14} of |a decay is expected  
+237U 3cG from intensity balance at the 82.89-keV level.                         
+237U   G 71.6        0.117   4  [E2]                   65.9                     
+237U S G LC=47.7 $ MC=13.2 $ NC+=4.91                                           
+237U   L 160.0      6 5/2+             3.1 NS    1                          B   
+237U  cL T         From (|a)(148.5|g, K x-rays)(t) in 1968Ah01.                 
+237U   A 4895.9    11 83.2   5  1.311  13                                       
+237U  cA E$Weighted average of 4896 {I3} (1968Ah01) and 4895.9 {I1}.2           
+237U xcA (1968Ba25).                                                            
+237U   G 77.10        0.84   2 [M1]                                         Y   
+237U S G LC=7.90 $ MC=1.92 $ NC+=0.698                                          
+237U  cG RI        Weighted average of 0.90 {I3} (1976GuZN), 0.861 {I22}        
+237U 2cG (1985He02), 0.829 {I18} (1985Wi04).                                    
+237U 3cG I|g=0.207|*10{+-6} {I4}/{+237}U decay which corresponds to 0.845 {I18} 
+237U 4cG per 100 |a decays is recommended in 1986LoZT from I|g's of 1985He02    
+237U xcG and 1985Wi04.                                                          
+237U  cG CC        E2 admixture is calculated to be small, E2/M1=0.00159, using 
+237U 2cG Alaga rule on 77.1|g and 159.9|g and their corresponding I|g. E2/M1    
+237U 3cG value yields |d=0.04 and |a=10.7.                                      
+237U B G BM1W=0.000147 9                                                        
+237U   G 103.680   5 4.13    2 [M1+E2]   0.069          4.49  4                 
+237U  cG RI        Weighted average of: 4.12 {I2} (1976GuZN), 4.16 {I12}        
+237U 2cG (1985He02), and 4.21 {I5} (1985Wi04). 1986LoZT recommend               
+237U 3cG I|g=1.02|*10{+-6} {I2} per {+237}U decay which is equal to 4.16 {I9}   
+237U 3cG per 100 |a decays. Other values: 4.5 {I5} (1968Ah01), 4.24 {I20}       
+237U xcG (1978DiZU).                                                            
+237U  cG M         E2/M1=0.00479 is obtained from                               
+237U 2cG I|g(103.68|g; E2 part)/I|g(159.955|g)=0.0735, calculated by the        
+237U 3cG evaluator using the Alaga rule, I|g(103|g)=4.15 {I5}, and              
+237U xcG I|g(159|g)=0.267 {I6}.                                                 
+237U  cG CC        for pure M1, |a=4.45.                                        
+237U S G LC=3.37 4 $ MC=0.816 7 $ NC+= 0.300 3                                  
+237U B G BM1W=0.000295 16$BE2W=0.0386 21                                        
+237U   G 148.567   10 7.59   5 [M1+E2]   0.169   +3-2  7.50   14                
+237U  cG RI        Weighted average of 7.63 {I12} (1976GuZN),                   
+237U 2cG 7.60 {I7} (1985He02), 7.57 {I7} (1985Wi04). I|g=1.859|*10{+-6} {I16}   
+237U 3cG per {+237}U decay, corresponding to 7.59 {I9} per 100 |a decays, is    
+237U 4cG recommended in 1986LoZT. Other values: 7.56 {I28} (1978DiZU), 9.0 {I9} 
+237U xcG (1968Ah01).                                                            
+237U  cG M         E2/M1=0.0281 {I8} (|d=0.170) is obtained from                
+237U 2cG I|g(148|g; E2 part)/I|g(159|g)=0.790, calculated by the evaluator using
+237U 3cG the Alaga rule, I|g(148|g)=7.59, and I|g(159|g)=0.270.                 
+237U  cG CC        for pure M1, |a=7.64.                                        
+237U S G KC=5.90 16 $ LC=1.20 2 $ MC=0.292 5 $ NC+=0.107 2                      
+237U B G BM1W=0.000180 11$BE2W=0.069 5                                          
+237U   G 159.955      0.267  3 [E2]                    1.82                 Y   
+237U S G KC=0.212 $ LC=1.16 $ MC=0.322 $ NC+=0.120                              
+237U  cG RI        I|g=0.0658|*10{+-6} {I9} per {+237}U decay,                  
+237U 3cG corresponding to 0.269 {I5} per 100 |a decays, is recommended in       
+237U xcG 1986LoZT.                                                              
+237U B G BE2W=0.060 4                                                           
+237U   L 204.3      9 7/2+                                                  B   
+237U   A 4852.9    11 12.1   2   4.51  9                                        
+237U  cA E$Weighted average of 4853 {I3} (1968Ah01) and 4852.9 {I1}.2           
+237U xcA (1968Ba25).                                                            
+237U   G 44.20        0.17     (M1+E2)   0.194   13    75.2   28                
+237U S G LC=56.3 22 $ MC=14.2 6                                                 
+237U  cG M,MR      from total conversion coefficient of |a=75.2 {I28}.          
+237U  cG CC        obtained from intensity balance at the 204.15-keV level.     
+237U 2cG For the 40.748-keV 7/2+ to 5/2+, 5/2[622] intraband                    
+237U 3cG transition in {+237}Pu, |d=0.194 {I30} was deduced in {+237}Am |e      
+237U xcG decay.                                                                 
+237U   G 121.2        0.028    [M1]                    13.7                     
+237U S G KC=10.8 $ LC=2.13 $ MC=0.515 $ NC+=0.189                               
+237U   L 261.0     10 9/2+                                                  B   
+237U   A 4797      3 1.4     1   15.8  12                                       
+237U  cA IA        1.18 in 1965Ba26.                                            
+237U   G 56.76        0.04      [M1+E2]  0.11    +8-11 28     4                 
+237U S G LC=21 5 $ MC=5.0 17 $ NC+=1.87 17                                      
+237U  cG CC        from intensity balance at the 261.0-keV level.               
+237U  cG MR        from the total conversion coefficient of |a=28 {I4}.         
+237U   G 101.0       0.0029  AP[E2]                    13.0                    S
+237U S G LC=9.44 $ MC=2.62 $ NC+=0.986                                          
+237U  cG E         from level scheme. Transition was not observed; it would     
+237U 3cG be obscured by the K x-rays.                                           
+237U  cG RI        Estimated using Alaga rule on (101|g) and 56.76|g by the     
+237U 2cG evaluator, using I|g(56.76|g)=0.040 {I4} and |d(56.76|g)=0.11 {I+8-11}.
+237U   L 274.0     12(7/2)-            155 NS    6                          C   
+237U  cL T         From (4600-4850 a)(114|g)(t) in 1968Ah01.                    
+237U   A 4783      5  0.2    1    90   45                                       
+237U   G 114.0        3.3    3  E1                     0.090                    
+237U S G LC=0.0676 $ MC=0.0164 $ NC+=0.00582                                    
+237U  cG E,RI      From |g|g coincidence in 1968Ah01.                           
+237U  cG M         from intensity balance at the 274.0-keV level:               
+237U 2cG |a(E2)=7.42, |a(M1)=3.38.                                              
+237U B G BE1W=7.1E-7 4                                                          
+237U   L 318.3     5 (9/2-)                                                 C   
+237U 5 L FLAG=D                                                                 
+237U   A 4742      5  0.07   AP  125   AP                                       
+237U   L 328.5     AP 11/2+                                                 B   
+237U 5 L FLAG=D                                                                 
+237U   A 4732      AP 0.03   AP  247   AP                                       
+237U  cA E         Reported only in 1965Ba26.                                   
+237U   L 368.8     6 (11/2-)                                                C   
+237U 5 L FLAG=D                                                                 
+237U   A 4692      6  0.03   AP  127   AP                                       

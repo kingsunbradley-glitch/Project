@@ -1,0 +1,144 @@
+248BK    ADOPTED LEVELS, GAMMAS                                  25NDS    202507
+248BK  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 204, 374 (2025)$CUT=30-Jun-2024$     
+248BK dG $Transition strength is calculated by Java-RULER (version 08-Feb-2024) 
+248BK dL E$Least-squares fitting is done by GLSC (version 17-Jan-2025)          
+248BK  Q 890       50 5430   50 4690   50 5830   50    2021WA16                 
+248BK cQ $S(2n)=11980 {I80}, S(2p)=11440 {I50} (syst), Q(|e)=740 {I50}          
+248BK2cQ (2021Wa16)                                                             
+248BK c  Previous evaluator (2014Ma86) has used systematics of hindrance factors
+248BK2c  and configurations to partly justify J|p assignments. These arguments  
+248BK3c  are now placed in the documentation record.                            
+248BK  XA252ES A DECAY                                                          
+248BK cL $Assignment: {+246}Cm(|a,pn) (1965Mi08).                               
+248BK cG $All data are from {+252}Es |a decay                                   
+248BK CL BAND(A)   KPI=6+, |p3/2[521]~#|n9/2[734] BAND                          
+248BK CL BAND(C)   KPI=7+, |p7/2[633]~#|n7/2[613] BAND                          
+248BK DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+248BK PN                                                                     6  
+248BK  L 0.0          (6+)             9 Y       GT                         A   
+248BKX L XREF=A                                                                 
+248BK2 L %A=? $ %EC=?                                                           
+248BK cL E$From E|a=6632 {I3} in {+252}Es |a decay (1973Fi06)                   
+248BK2cL and Q(|a)=6738.6 {I5} as given in 2021Wa16                             
+248BK cL J$from the ratio of energy spacings, K=6 was assigned by               
+248BK2cL 1973Fi06 for the rotational band based on this level, and a            
+248BK3cL |p3/2[521]~#|n9/2[734] configuration was proposed.                     
+248BK dL J$The |a hindrance factor for the |a transition from {+252}Es is       
+248BK2dL consistent with this configuration (2014Ma86).                         
+248BK cL T$Deduced by 1965Mi08 from observation of no change in                 
+248BK2cL {+248}Bk/{+247}Bk mass ratio of their sample for a period              
+248BK3cL of ten months within the limits of analysis.                           
+248BK4cL T{-1/2}(|b{+-})>1|*10{+4} y was deduced by 1965Mi08 from               
+248BK3cL nonobservation of {+248}Cf |a activities                               
+248BK  L 0.0+X        1(-)             23.7 H    2                           M  
+248BK2 L %B-=70 5$ %EC=30 5                                                     
+248BK cL $The ratio of |e decay/|b{+-} decay was determined by 1978Gr10         
+248BK2cL from measured I(Curium K| x ray from |e decay)/I(550.7|g from |b{+-}   
+248BK3cL decay)= 4.25 {I28} and I(550.7|g)=7.1 {I5} per 100 |b{+-} decays.      
+248BK cL T$from 1978Gr10. Others: 16 h {I3} (1956Ch77), and 23 h {I5} (1956Hu27)
+248BK cL J$log| {Ift}=7.8 to 2+ and 7.3 to 0+ in |e decay (7.8 to 2+ and 7.3 to 
+248BK2cL 0+ in |b{+-} decay) give J=1. Probable configuration of                
+248BK3cL |p7/2[633]~#|n9/2[734] gives |p=-                                      
+248BK  L 70.64     5 (7+)                                                   A   
+248BKX L XREF=A                                                                 
+248BK cL J$M1+E2 |g to 6+. Member of the K|p=6+ band.                           
+248BK dL J$The |a hindrance factor is consistent with this assignment (2014Ma86)
+248BK  G 70.65     5  100       M1+E2    3.4     21    98     24                
+248BKS G  LC=71 17$MC=20 5                                                      
+248BKS G  NC=5.6 14$OC=1.37 35$PC=0.23 5$QC=1.0E-3 9                            
+248BK  L 135.06    7 (8-)                                                       
+248BKX L XREF=A                                                                 
+248BK cL J$1973Fi06 suggest the configuration K|p=8-,                           
+248BK2cL |p7/2[633]~#|n9/2[734]                                                 
+248BK dL J$This configuration is not consistent with the |a hindrance factor    
+248BK2dL of 2700. The transition would require changes in both the neutron and  
+248BK3dL proton orbitals, and  hindrance factors for such transitions           
+248BK4dL are typically much larger                                              
+248BK  G 64.42     5  100       [E1]                   0.450   6                
+248BKS G  LC=0.336 5$MC=0.0843 12                                               
+248BKS G  NC=0.02294 32$OC=0.00559 8$PC=0.000920 13$QC=3.14E-5 4                
+248BK  L 145       3                                                            
+248BK DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+248BKX L XREF=A                                                                 
+248BK  L 151.32    8 (8+)                                                   A   
+248BKX L XREF=A                                                                 
+248BK cL J$M1+E2 80.7|g to (7+) 70.6-keV level. Member of the K|p=6+ band.      
+248BK dL J$The |a hindrance factor is consistent with this assignment (2014Ma86)
+248BK  G 80.7      1  44     7  M1+E2    1.3     +25-6 40     13                
+248BKS G  LC=29 9$MC=8.1 27                                                     
+248BKS G  NC=2.3 8$OC=0.56 18$PC=0.095 28$QC=0.0013 7                           
+248BK  G 151.3     1  100    9   [E2]                  3.26    5                
+248BKS G  KC=0.1614 23$LC=2.235 32$MC=0.633 9                                   
+248BKS G  NC=0.1770 25$OC=0.0435 6$PC=0.00732 10$QC=4.63E-5 7                   
+248BK  L 171.5     8  (3+,4+,5+)                                                
+248BKX L XREF=A                                                                 
+248BK cL J$M1 418.5|g from (4+) 590-keV level. The authors of 1973Fi06          
+248BK2cL propose J|p=4-.                                                        
+248BK dL $Although a probable configuration of                                  
+248BK2dL K=4, |p3/2[521]~#|n5/2[622] is consistent with the M1 transition       
+248BK3dL from the 5-, |p3/2[521]~#|n7/2[613] state, the hindrance factor for    
+248BK4dL the |a from {+252}Es is not. One would expect the HF to be about       
+248BK5dL a factor of hundred less than the experimental value of 2250.          
+248BK  L 179.5     4                                                            
+248BKX L XREF=A                                                                 
+248BK  L 212.6     8  (3+,4+,5+)                                                
+248BKX L XREF=A                                                                 
+248BK cL J$M1 377.4|g from (4+) 590-keV level. The authors of 1973Fi06          
+248BK2cL propose that it may be the J|p=5- member of a band based on the        
+248BK3cL 171.5 level                                                            
+248BK  L 262       6                                                            
+248BKX L XREF=A                                                                 
+248BK  L 339       6                                                            
+248BKX L XREF=A                                                                 
+248BK  L 373.0     4                                                            
+248BKX L XREF=A                                                                 
+248BK  G 193.5     1 100     12 M1                     5.33    7                
+248BK3 G FL=179.5                                                               
+248BKS G  KC=4.17 6$LC=0.869 12$MC=0.2130 30                                    
+248BKS G  NC=0.0587 8$OC=0.01512 21$PC=0.00298 4$QC=0.0002092 29                
+248BK  G 228.0     4  53     9  M1                     3.36    5                
+248BK3 G FL=145                                                                 
+248BKS G  KC=2.63 4$LC=0.547 8$MC=0.1339 20                                     
+248BKS G  NC=0.0369 5$OC=0.00950 14$PC=0.001876 28$QC=0.0001313 20              
+248BK  L 399.7     3 (5+)                                                       
+248BKX L XREF=A                                                                 
+248BK cL J$M1 399.7|g to (6+) g.s. but not to (7+) or (8+) members of the       
+248BK2cL proposed K|p=6+ band                                                   
+248BK  G 399.7     3            M1                     0.709  10                
+248BKS G  KC=0.556 8$LC=0.1145 16$MC=0.0280 4                                   
+248BKS G  NC=0.00772 11$OC=0.001987 28$PC=0.000392 6$QC=2.74E-5 4               
+248BK  L 424       6                                                            
+248BKX L XREF=A                                                                 
+248BK  L 458       6                                                            
+248BKX L XREF=A                                                                 
+248BK  L 483       6                                                            
+248BKX L XREF=A                                                                 
+248BK  L 529.1     7                                                            
+248BKX L XREF=A                                                                 
+248BK  G 529.1     7                                                            
+248BK  L 590.0     7 (4+)                                                       
+248BKX L XREF=A                                                                 
+248BK cL J$HF=5.1 {I5} from (4+) suggests probable configuration                
+248BK3cL |p7/2[633]~#|n1/2[620], the same as that of the {+252}Es g.s.          
+248BK4cL Note in the current ENSDF database (15 April, 2025),                   
+248BK5cL J|p({+252}Es)=(5-) (2021Ma19)                                          
+248BK  G 377.4     3  55     7  M1                     0.830  12                
+248BKS G  KC=0.651 9$LC=0.1341 19$MC=0.0328 5                                   
+248BKS G  NC=0.00905 13$OC=0.002328 33$PC=0.000459 7$QC=3.21E-5 5               
+248BK  G 418.5     3  100    10 M1                     0.625   9                
+248BKS G  KC=0.491 7$LC=0.1009 14$MC=0.02468 35                                 
+248BKS G  NC=0.00680 10$OC=0.001751 25$PC=0.000345 5$QC=2.413E-5 34             
+248BK  G 590.0     7  38     3                                                  
+248BK  L 624       5 (7+)                                                   C   
+248BKX L XREF=A                                                                 
+248BK cL J$A K|p=7+, |p7/2[633]~#|n1/2[613] configuration is suggested          
+248BK2cL by 1973Fi06.                                                           
+248BK dL J$The |a hindrance factor is consistent with this assignment           
+248BK2dL (2014Ma86)                                                             
+248BK  L 657       5                                                            
+248BKX L XREF=A                                                                 
+248BK  L 700       5 (8+)                                                   C   
+248BKX L XREF=A                                                                 
+248BK cL J$The energy spacing suggests that                                     
+248BK2cL the level is the 8+ member of a rotational band built on the           
+248BK3cL 624 level                                                              

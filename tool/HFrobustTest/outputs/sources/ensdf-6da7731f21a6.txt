@@ -1,0 +1,51 @@
+255RF    259SG A DECAY                 2009HE20,2009FO02         13NDS    201309
+255RF  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+255RF2 H CUT=1-Nov-2011$                                                        
+255RF D  New data set.  E. Browne (October 28, 2011)                            
+255RF c  2009He20: {+259}Sg activity produced by {+207}Pb({+54}Cr,2n).          
+255RF2c  Evaporation residues with energies of 35 to 60 MeV were separated from 
+255RF3c  the primary beam by the velocity filter ship. Measured gamma rays using
+255RF4c  a Ge clover detector, emitted in prompt or delayed coincidence.        
+255RF5c  Alpha particles were detected with position-sensitive Silicon          
+255RF6c  detectors.                                                             
+255RF c  2009Fo02: {+259}Sg activity produced by {+208}Pb({+52}Cr,n).           
+255RF2c  Evaporation residues were identified using the                         
+255RF3c  Berkeley Gas-filled Separator (bgs).                                   
+255RF4c  Alpha particles were detected with position-sensitive Silicon          
+255RF5c  detectors.                                                             
+255RF c  1985Mu11: From {+207}Pb({+54}Cr,2n), E=4.90 MeV/nucleon; a total of 9  
+255RF2c  alpha-particle events were measured with position-sensitive Silicon    
+255RF3c  surface barrier detectors, FWHM=32 keV.                                
+255RF cA E         From 2009He20.                                               
+255RF cA HF        r{-0}=1.46 (estimated by evaluators from 1998Ak04).          
+259SG  P 0.0                           0.29 S    5              9821      10    
+259SG cP QP        From 2011AuZZ.                                               
+259SG cP T         From Adopted Levels.                                         
+259SG cP           J|p=(1/2+) or (11/2-), from Adopted Levels.                  
+259SG2cP Analogy with {+249}Cm and {+251}Cf (N=153 nuclei) suggests             
+259SG3cP 1/2+ 1/2[620] Nilsson single-particle state for {+259}Sg g.s.          
+259SG4cP However, a calculated energy (theory,1994Cw02) for the 11/2- 11/2[725] 
+259SG5cP Nilsson single-particle state suggests this state as the g.s. in       
+259SGxcP {+259}Sg.                                                              
+255RF  N                       0.9     1                                        
+255RF cN BR        From 2009Fo02, 1985Mu11. %SF<20 (1985Mu11). Other: 1984De07. 
+255RF cA           Total number of alpha particle detected is 33 (estimated by  
+255RF2cA evaluators from Fig. 5 in 2009He20).                                   
+255RF cA IA        About 39% of I|a have energies between 9100 and 9550 keV.    
+255RF cL E$Deduced from alpha-particle energies (2009He20) and Q(|a)=9821 keV   
+255RFxcL 10.                                                                    
+255RF  L 63        AP                                                           
+255RF  A 9607         24     AP   29   AP                                       
+255RF cA IA        From 8 x 100/33=24 (See Fig. 5 in 2009He20)                  
+255RF cA E         E|a=9620 keV 30, I|a=78 {I30} from 7 events observed         
+255RFxcA (1985Mu11).                                                            
+255RF  L 121       AP                                                           
+255RF  A 9550         27     AP   18   AP                                       
+255RF cA IA        From 9 x 100/33=27 (See Fig. 5 in 2009He20)                  
+255RF cA E         E|a=9360 keV, I|a|?11 from one event observed (1985Mu11).    
+255RF  L 656       AP                                                           
+255RF  A 9050         6      AP  2.5   AP                                       
+255RF cA IA        From 2 x 100/33=6 (See Fig. 5 in 2009He20)                   
+255RF cA E         E|a=9030 keV, I|a|?11 from one event observed (1985Mu11).    
+255RF  G 593                                                                    
+255RF cG           Measured in prompt coincidence with 9050|a (2009He20).       

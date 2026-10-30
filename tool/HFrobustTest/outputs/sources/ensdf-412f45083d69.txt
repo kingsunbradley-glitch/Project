@@ -1,0 +1,928 @@
+235U     239PU A DECAY                 1993SC22                  14NDS    201411
+235U   H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 122, 205 (2014)$             
+235U 2 H CUT=1-Feb-2014$                                                        
+235U  D  Modified by E. Browne, BRICC conversion coefficients, IA from G-ray    
+235U 2D  transition-intensity balances, new alpha hindrance factors             
+235U 3D  (Dec. 11, 2013).                                                       
+235U  c  The decay scheme is given as presented in 1993Sc22.                    
+235U  c  For coincidence measurements information see 1971Ar47.                 
+235U  cA HF$Using r{-0}({+235}U)=1.5122, average of r{-0}({+234}U)=1.5075       
+235U 2cA and r{-0}({+236}U)=1.5168 (1998Ak04).                                  
+235U  cA           Others: 2013Fe03, 2012Ni16,1996Vi07, 1996Ra09,               
+235U 2cA 1996Pa22, 1996Ga19, 1996Co28, 1996Bu50, 1996Bo19, 1995Bo32, 1994Ra27,  
+235U 3cA 1994Sa63, 1993Ya17, 1993Ha30, 1992Ma04, 1992Ga25.                      
+235U  cA E$From 1968Ba25, 1971Ar47, 1981AhZV, unless otherwise                  
+235U 2cA specified (E|a values in parentheses have been calculated from Q(|a)   
+235U 3cA and level energies). Other: 1999Sa15.                                  
+235U  cA E(R)$Evaluated alpha-particle energies from 1991Ry01.                  
+235U  cA IA(X)$From 1993Ga28: values are combined results from measurements     
+235U 2cA at CIEMAT (Spain) and IRMN (Belgium).                                  
+235U  cA IA        From 1976BaZZ and 1971Ar47, unless otherwise specified.      
+235U  DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+235U  cG           K|a{-2}| x ray=0.00417% {I4}, K|a{-1}| x                     
+235U 2cG ray=0.00652% {I9}, K|b{-1}'| x ray=0.002387% {I17}, K|b{-2}'| x        
+235U xcG ray=0.000216% {I15}, L{-{Sl}} x ray=0.0996% {I11}, L{-|a} x            
+235U 3cG ray=1.649% {I18}, L{-|c} x ray=0.0566% {I10}, L{-|b} x                 
+235U xcG ray=2.30% {I2}, L{-|g} x ray=0.568% {I6}, L| x ray=4.67% {I5}          
+235U xcG (1992Bl07,1994Mo36).                                                   
+235U  cG           L{-{Sl}} x ray=0.1016% {I17}, L{-|a} x                       
+235U 2cG ray=1.648% {I36}, L{-|c} x ray=0.0544% {I9}, L{-|b} x                  
+235U xcG ray=2.28% {I5}, L{-|g} x ray=0.579% {I14}, L| x                        
+235U xcG ray=4.66% {I6} (1994Le37).                                             
+235U  cG           K|a{-2}| x ray=0.00422% {I1}, K|a{-1}| x                     
+235U 2cG ray=0.00676% {I2} (1976GuZN); L| x ray=6.7% {I10} (1966Ah02).          
+235U  cG           |g rays at 313.5 and 1057.3 keV were reported in 1971GuZY    
+235U 2cG but not in 1976GuZN                                                    
+235U  cG E$E|g from (n,|g) (1979Al03) above 600 keV are                         
+235U 2cG |?0.1 keV systematically higher than E|g from 1976GuZN.                
+235U 3cG Some |DE of multiply placed |g rays have been estimated by evaluators  
+235U 2cG on the basis of (n,|g) results.                                        
+235U  cG E$From 1968Cl02, 1971GuZY, 1976GuZN, 1982He02, 1992Bl07.               
+235U  cG RI$From 1976GuZN, unless otherwise                                     
+235U 3cG specified. Other measurements: 1966Ah02, 1966Ho09, 1968Cl02, 1971GuZY, 
+235U 4cG 1981UmZZ, 1982He02, 1984Iw02, 1992Ba08, 1997Bu23, 1992Co10, 1997Ko52.  
+235U  cG RI(L)$From 1986LoZT                                                    
+235U  cG M,MR$From ce data in 1965Tr03 and adopted I|g, unless otherwise        
+235U 2cG specified. Some |d were deduced from |g-ray intensity balances using   
+235U 3cG experimental |a-particle intensities.                                  
+235U  cG M(M)      From (n,|g) results in 1979Al03                              
+235U  cG M(I)      From intensity balance                                       
+235U  cG M(C)$From Coul. ex.                                                    
+235U  cG E(E)      |g placed more than once in the decay scheme                 
+235U  cG RI(X)     Absolute |g-ray intensity measurement (1994Mo36).            
+235U  cG E(Y)      From (1994Mo36).                                             
+235U  cG E(Q)      Assignment to {+239}Pu |a decay is uncertain.                
+235U  cL E$From a least-squares fit to |g-ray energies from {+239}Pu |a decay.  
+239PU  P 0            1/2+             24110 Y   30             5244.50   21    
+235U   N 1.00E-6     1.00E-6    1                                               
+235U  PN                                                                     3  
+235U  cN NR        Based on measurements in 1994Mo36.                           
+235U   G 14.22     3 5.5E3   4                                              X   
+235U 3 G FLAG=Y                                                                 
+235U  cG           Reported only in 1994Mo36                                    
+235U   G 40.41     5 162     16                                             Q   
+235U  cG           Reported only in 1976GuZN                                    
+235U   G 74.96     10 38     6                                              Q   
+235U  cG           From 1971GuZY. A 74.88 {I7} |g ray was reported in Coul.     
+235U 2cG ex. deexciting the 608.1 {I11}/2+ state; however, no strong |a         
+235U 3cG intensity from {+239}Pu decay to this level was detected.              
+235U   G 184.55    5  2.1    7 [M1]                    3.89                     
+235U S G KC=3.09 5$LC=0.602 9$MC=0.1455 21$NC+=0.0507 8                         
+235U S G NC=0.0392 6$OC=0.00954 14$PC=0.00184 3$QC=0.0001468 21                 
+235U   G 193.13    12 8.9    9                                                  
+235U   G 196.87    5  3.7    4                                                  
+235U   G 350.8     3  1.8    4                                                  
+235U   G 446.82    20 0.84   20                                                 
+235U   G 497.0     5  0.046  23                                                 
+235U   G 538.8     2  0.30   2                                                  
+235U   G 557.3     5  0.038  19                                                 
+235U   G 608.9     2  0.116  12                                                 
+235U   G 650.529   60 0.27   4                                                  
+235U   G 685.97    11 0.87   3 E1                                           M   
+235U S G CC=0.00736 11$KC=0.00599 9$LC=0.001043 15$MC=0.000248 4$NC+=8.59E-5 12 
+235U S G NC=6.66E-5 10$OC=1.606E-5 23$PC=3.04E-6 5$QC=2.25E-7 4                 
+235U   G 688.1     3  0.111  11                                                 
+235U   G 693.2     5  0.03   1                                              @   
+235U   G 699.6     5  0.079  16                                                 
+235U   G 712.96    5  0.052  6                                                  
+235U   G 742.7     5  0.038  13                                                 
+235U   G 777.1     3  0.028  7                                                  
+235U   G 786.9     2  0.086  9 E2                      0.01771              M   
+235U S G KC=0.01275 18$LC=0.00370 6$MC=0.000935 14$NC+=0.000324 5               
+235U S G NC=0.000252 4$OC=6.01E-5 9$PC=1.104E-5 16$QC=5.94E-7 9                 
+235U   G 788.5     3  0.035  7                                                  
+235U   G 796.9     3  0.015  3                                                  
+235U   G 803.2     2  0.064  5                                                  
+235U   G 826.8     3  0.018  6                                                  
+235U   G 828.9     2  0.133  8                                                  
+235U   G 837.3     2  0.019  4                                                  
+235U   G 895.4     3  0.0075 25                                                 
+235U   G 898.1     3  0.018  4                                                  
+235U   G 905.5     3  0.0075 25                                                 
+235U   G 911.7     3  0.014  4                                                  
+235U   G 931.9     3  0.013  4                                                  
+235U   G 982.7     3  0.011  3                                                  
+235U   G 1009.4    3  0.014  3                                                  
+235U   L 0            7/2-             7.04E+8 Y 1                              
+235U   A 5156.7       0.03   SY  6500  SY                                      S
+235U  cA HF$alpha particles to g.s. were not detected. HF=6500 is based         
+235U 2cA on analogy with {+241}Cm |a decay.                                     
+235U  cA IA$based on HF=6500 from {+241}Cm |a decay.                            
+235U   L     0.0765 4 1/2+             26 M      AP                          M  
+235U  cL E$from Adopted Levels. 1971CuZU reported E=0.572 {I33}                 
+235U 2cL (calorimetry); This result does not agree with the value adopted here. 
+235U   A 5156.59   14 70.77  14 2.76                                        R   
+235U 2 A FLAG=X                                                                 
+235U  cA E$other value: 5155.36 keV {I19}, time-of-flight method (1992Fr04).    
+235U  cA IA$other values: 70.73% {I46} (1992Bl13); 73.3% {I8} (1991Ry01).       
+235U  cA IA$73.0% {I4}, deduced by evaluator from |g-ray transition             
+235U 2cA intensity balance.                                                     
+235U   G 0.0765    4            E3                     1E10   AP 99.9E+6        
+235U  cG TI        from |g-ray transition intensity balance                     
+235U  cG E         from Adopted Gammas.                                         
+235U   L 13.0401   21 3/2+             0.50 NS   3                              
+235U  cL T$from 1970Ho02                                                        
+235U   A 5144.3    8  17.11  14  9.49                                       R   
+235U 2 A FLAG=X                                                                 
+235U  cA IA$other values: 17.56% {I28} (1992Bl13); 11.5% {I8} (1991Ry01).       
+235U  cA IA$15.2% {I4}, deduced by evaluator from |g-ray transition             
+235U 2cA intensity balance.                                                     
+235U   G 12.975    10 3.41E049 M1+E2     0.02          497      18.4E+6   3 I   
+235U S G M/T=0.740 8$N+/T=0.258 5                                               
+235U S G N/T=0.200 4$O/T=0.0484 10$P/T=0.00925 19$Q/T=0.000710 15               
+235U  cG RI$absolute intensity measurement (1994Mo36,1992Bl07).                 
+235U  cG CC$deduced by evaluator from |g-ray transition intensity balance at    
+235U 2cG 13.0-keV level and I|g=0.0341% {I9} (1992Bl07,1994Mo36).               
+235U  cG M,MR$deduced by evaluator from |a(exp)=538.6,                          
+235U 2cG using |a(exp)(Theory, M1)=513.7 and |a(exp)(Theory, E2)=76830 from     
+235U xcG 1978Ro22.                                                              
+235U   L     46.20710 9/2-                                                      
+235U   A 5111         0.02   LT  5010                                          ?
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 46.21     5 72.1    11M1(+E2)   0.14    14    5.E1   3             I   
+235U 3 G FLAG=X                                                                 
+235U S G LC=40 19$MC=10 6$NC+=3.5 19                                            
+235U S G NC=2.7 15$OC=0.6 4$PC=0.12 6$QC=0.0081 4                               
+235U  cG RI$other value: I|g=737 {I14} (1976GuZN).                              
+235U   L 51.7008   11 5/2+             191 PS    5                              
+235U  cL T$from 1970ToZZ. Other: 200 ps {I20} (1970Ho02)                        
+235U   A 5105.5    8  11.94  7   7.76                                       R   
+235U 2 A FLAG=X                                                                 
+235U  cA IA$other values: 11.80% {I19} (1992Bl13); 11.5% {I8} (1991Ry01).       
+235U  cA IA$11.5% {I3}, deduced by evaluator from |g-ray transition             
+235U 2cA intensity balance.                                                     
+235U   G 38.661    2  10.44E313M1+E2     0.48    3     298    24            I   
+235U 3 G FLAG=X                                                                 
+235U S G LC=219 17$MC=59 5$NC+=20.2 16                                          
+235U S G NC=15.9 13$OC=3.7 3$PC=0.62 5$QC=0.01231 24                            
+235U  cG RI$other value: I|g=10460 {I150} (1992Bl07).                           
+235U   G 51.624    1  27.22E322E2                      310                  X   
+235U S G LC=226 4$MC=62.6 9$NC+=21.5 3                                          
+235U S G NC=16.97 24$OC=3.89 6$PC=0.630 9$QC=0.001600 23                        
+235U  cG RI$other value: I|g=27360 {I38} (1992Bl07).                            
+235U   L     81.741 4 7/2+                                                      
+235U   A  5076     5  0.078  8   765                                        X   
+235U  cA IA$other values: 0.03% {I1} (1992Bl13); 0.036% {I3}                    
+235U xcA (1976BaZZ,1971Ar47).                                                   
+235U  cA IA$0.051% {I9}, deduced by evaluator from |g-ray transition            
+235U 2cA intensity balance.                                                     
+235U   G 30.04     2 217     6 (M1)                    156.7                I   
+235U S G LC=118.0 17$MC=28.7 4$NC+=10.00 15                                     
+235U S G NC=7.73 11$OC=1.88 3$PC=0.363 6$QC=0.0292 5                            
+235U  cG           Other value: E|g=30.03 keV {I10}, I|g=280 {I80}              
+235U xcG (1994Mo36).                                                            
+235U   G 68.696    6  3.6E2  10E2                      78.6                 @   
+235U 3 G FLAG=X                                                                 
+235U S G LC=57.2 8$MC=15.86 23$NC+=5.45 8                                       
+235U S G NC=4.30 6$OC=0.987 14$PC=0.1605 23$QC=0.000475 7                       
+235U   L 103.036   10 11/2-                                                     
+235U   A 5054      5  0.047  13 9.3E2                                       X   
+235U  cA IA$other value: 0.025% {I5} (1976BaZZ,1971Ar47).                       
+235U  cA IA$0.038% {I2}, deduced by evaluator from |g-ray transition            
+235U 2cA intensity balance.                                                     
+235U   G 56.828    3  1152   13M1+E2     0.23    2     32.6   16            X   
+235U S G LC=24.3 12$MC=6.1 4$NC+=2.13 11                                        
+235U S G NC=1.66 9$OC=0.396 20$PC=0.073 4$QC=0.00427 7                          
+235U  cG RI$other value: I|g=1130 {I25} (1976GuZN).                             
+235U  cG MR$from muonic {+235}U atom                                            
+235U   G 103.060   30 215.6  54E2                      11.58                X   
+235U S G LC=8.44 12$MC=2.34 4$NC+=0.805 12                                      
+235U S G NC=0.635 9$OC=0.1460 21$PC=0.0239 4$QC=9.80E-5 14                      
+235U  cG RI$other value: I|g=230 {I12} (1976GuZN).                              
+235U   L   129.296110 5/2+                                                      
+235U   A 5028      3  0.009  3  3.3E3                                       X   
+235U  cA IA$other value: 0.005% {I1} (1976BaZZ,1971Ar47).                       
+235U  cA IA$0.012% {I7}, deduced by evaluator from |g-ray transition            
+235U 2cA intensity balance.                                                     
+235U   G 47.60     3  62.5   25(M1)                    40.4                 I  S
+235U 3 G FLAG=XY                                                                
+235U S G LC=30.4 5$MC=7.37 11$NC+=2.57 4                                        
+235U S G NC=1.99 3$OC=0.483 7$PC=0.0932 14$QC=0.00749 11                        
+235U   G 77.592    14 380    5   M1(+E2)  0.5    5        17  11            X   
+235U S G LC=12 8$MC=3.2 22$NC+=1.1 8                                            
+235U S G NC=0.9 6$OC=0.20 14$PC=0.036 21$QC=0.0015 5                            
+235U  cG RI$other value: I|g=410 {I20} (1976GuZN).                              
+235U   G 116.26    2  567    11 M1(+E2)   0.56   56      14    3                
+235U 3 G FLAG=X                                                                 
+235U  cG RI$other value: I|g=597 {I9} (1976GuZN).                               
+235U S G KC=10 2  $LC=    3.0  8$MC=   0.77 25$NC+=   0.28 10                   
+235U   G 129.296   1  6310   40E1                      0.275                X   
+235U S G KC=0.211 3$LC=0.0482 7$MC=0.01173 17$NC+=0.00400 6                     
+235U S G NC=0.00313 5$OC=0.000734 11$PC=0.0001295 19$QC=6.71E-6 10              
+235U  cG RI$other value: I|g=6310 {I60} (1986LoZT).                             
+235U   L    150.46715 9/2+                                                      
+235U   A 5006      5  0.017  2  1.26E3                                      X   
+235U  cA IA$other value: 0.013% {I5} (1976BaZZ,1971Ar47).                       
+235U  cA IA$0.023% {I2}, deduced by evaluator from |g-ray transition            
+235U 2cA intensity balance.                                                     
+235U   G 68.74     CA 130    60 (M1+E2)   0.5    SY      30                 @   
+235U 3 G FLAG=X                                                                 
+235U S G LC=20.45 $MC=5.35 $NC+=1.972                                           
+235U  cG RI        comparison with (n,|g) suggests that most of the intensity   
+235U 2cG de-excites the 81.8 level. I|g=485 {I6} for doublet (1994Mo36).        
+235U 3cG Other value: I|g=410 {I5} (1976GuZN)                                   
+235U   G 98.780    20 1465   68E2                      14.11                X   
+235U S G LC=10.28 15$MC=2.85 4$NC+=0.981 14                                     
+235U S G NC=0.774 11$OC=0.1779 25$PC=0.0291 4$QC=0.0001143 16                   
+235U  cG RI$other value: 1220 {I40} (1976GuZN).                                 
+235U   L    170.70814 13/2-                                                     
+235U   G 67.674    12 151.7  23M1+E2     0.194   3     16.93  25            X   
+235U S G LC=12.68 19$MC=3.15 5$NC+=1.095 17                                     
+235U S G NC=0.850 13$OC=0.204 3$PC=0.0383 6$QC=0.00258 4                        
+235U  cG RI$other value: 164 {I3} (1976GuZN).                                   
+235U  cG MR$from muonic {+235}U atom                                            
+235U   G 124.51    3  68.1   18E2                      5.06                 X   
+235U S G KC=0.214 3$LC=3.53 5$MC=0.978 14$NC+=0.337 5                           
+235U S G NC=0.266 4$OC=0.0611 9$PC=0.01005 15$QC=5.11E-5 8                      
+235U  cG RI$other values: 61.3 {I25} (1976GuZN).                                
+235U   L    171.388 5 7/2+                                                      
+235U   A 4987      3  0.013  2  1.21E3                                      X   
+235U  cA IA$other value: 0.007% {I2} (1976BaZZ,1971Ar47).                       
+235U  cA IA        I|a(170.7 + 171.4) (1966Ah02)                                
+235U  cA IA$0.004% {I5}, deduced by evaluator from |g-ray transition            
+235U 2cA intensity balance.                                                     
+235U   G 41.93     5 146     15M1+E2     0.14    10    7.E1   3             I   
+235U F G FL=129.2961                                                            
+235U 3 G FLAG=XY                                                                
+235U S G LC=55 21$MC=14 6$NC+=4.8 20                                            
+235U S G NC=3.7 16$OC=0.9 4$PC=0.17 6$QC=0.0107 3                               
+235U  cG           Other value: E|g=42.06 keV {I3}, I|g=165 {I5}                
+235U xcG (1976GuZN).                                                            
+235U   G 89.64     3  27     2 (M1+E2)                 14     8             @   
+235U 3 G FLAG=XY                                                                
+235U S G LC=10 6$MC=2.8 17$NC+=1.0 6                                            
+235U S G NC=0.8 5$OC=0.18 11$PC=0.030 16$QC=0.0007 5                            
+235U  cG           Other value: E|g=89.73 keV {I4}, I|g=30 {I6}                 
+235U xcG (1976GuZN).                                                            
+235U   G 119.70    3  21     10 (M1+E2)                 10    4             @   
+235U 3 G FLAG=XY                                                                
+235U S G KC=5 6$LC=3.1 11$MC=0.8 4$NC+=0.29 12                                  
+235U S G NC=0.23 10$OC=0.053 21$PC=0.009 3$QC=0.00028 23                        
+235U  cG           Other value; E|g=119.72 keV {I3}, I|g=22 {I10}               
+235U xcG (1976GuZN).                                                            
+235U   G 125.21    10 56.3   15[E1]                    0.296                X   
+235U S G KC=0.227 4$LC=0.0523 8$MC=0.01275 18$NC+=0.00434 7                     
+235U S G NC=0.00340 5$OC=0.000797 12$PC=0.0001403 20$QC=7.20E-6 11              
+235U  cG RI$other values: 71.1 {I20} (1976GuZN).                                
+235U   G 158.1     3  1.0    1 [E2]                    1.86                     
+235U S G KC=0.211 3$LC=1.204 20$MC=0.333 6$NC+=0.1147 19                        
+235U S G NC=0.0904 15$OC=0.0208 4$PC=0.00345 6$QC=2.42E-5 4                     
+235U   G 171.393   6  110    2 [E1]                    0.1414               L   
+235U S G KC=0.1103 16$LC=0.0235 4$MC=0.00570 8$NC+=0.00195 3                    
+235U S G NC=0.001520 22$OC=0.000359 5$PC=6.45E-5 9$QC=3.62E-6 5                 
+235U   L    197.11914 11/2+                                                     
+235U   A  4960     5  0.007  1  1.52E3                                      X   
+235U  cA IA$other value: 0.006% {I3} (1976BaZZ,1971Ar47).                       
+235U  cA IA$0.0048% {I7}, deduced by evaluator from |g-ray transition           
+235U 2cA intensity balance.                                                     
+235U   G 46.68     3  46.5   25(M1)                    42.7                 I   
+235U 3 G FLAG=XY                                                                
+235U S G LC=32.2 5$MC=7.81 11$NC+=2.72 4                                        
+235U S G NC=2.10 3$OC=0.512 8$PC=0.0988 14$QC=0.00793 12                        
+235U  cG           Other value: E|g=46.69 keV, I|g=58 {I4} (1976GuZN).          
+235U  cG M$for pure M1 I|g<100 from |g-ray transition intensity balance.        
+235U   G 115.38    5  462    50E2                      6.87                     
+235U S G LC=5.00 7$MC=1.388 20$NC+=0.478 7                                      
+235U S G NC=0.377 6$OC=0.0866 13$PC=0.01422 21$QC=6.60E-5 10                    
+235U  cG RI        from 1976GuZN and corrected for x-ray component              
+235U   L 225.422    8 9/2+                                                      
+235U   A 4934      3  0.0060 10 1.15E3                                      X   
+235U  cA IA$other value: 0.0040% {I10} (1976BaZZ,1971Ar47).                     
+235U  cA IA$0.005% {I2}, deduced by evaluator from |g-ray transition            
+235U 2cA intensity balance.                                                     
+235U   G 54.039    8  194.4  25M1(+E2)   0.1     1     30     7             I   
+235U 3 G FLAG=X                                                                 
+235U S G LC=23 5$MC=5.5 13$NC+=1.9 5                                            
+235U S G NC=1.5 4$OC=0.36 8$PC=0.069 13$QC=0.00512 14                           
+235U  cG RI$other value: I|g=197 {I3} (1976GuZN).                               
+235U   G 96.14     3 37.9    18[E2]                    16.02                X   
+235U 3 G FLAG=XY                                                                
+235U S G LC=11.67 17$MC=3.24 5$NC+=1.114 16                                     
+235U S G NC=0.879 13$OC=0.202 3$PC=0.0330 5$QC=0.0001264 18                     
+235U  cG           Other value: E|g=96.13 keV {I5}, I|g=22.3 {I40}              
+235U xcG (1976GuZN).                                                            
+235U   G 122.35    12 0.95   12[E1]                    0.312                X  ?
+235U S G KC=0.238 4$LC=0.0555 8$MC=0.01354 20$NC+=0.00461 7                     
+235U S G NC=0.00361 6$OC=0.000846 12$PC=0.0001486 22$QC=7.57E-6 11              
+235U  cG RI$other value: I|g=3 {I2} (1976GuZN).                                 
+235U  cG           From 1968Cl02                                                
+235U   G 143.35    20 17.3   7 [M1+E2]                 5      3                 
+235U S G KC=3 3$LC=1.5 4$MC=0.41 11$NC+=0.14 4                                  
+235U S G NC=0.11 3$OC=0.026 7$PC=0.0046 8$QC=0.00017 14                         
+235U   G 173.70    5  3.1    8 [E2]                    1.280                    
+235U S G KC=0.190 3$LC=0.795 12$MC=0.220 3$NC+=0.0757 11                        
+235U S G NC=0.0596 9$OC=0.01375 20$PC=0.00229 4$QC=1.85E-5 3                    
+235U   G 179.220   12 66     1 [E1]                    0.1273               L   
+235U S G KC=0.0995 14$LC=0.0210 3$MC=0.00509 8$NC+=0.001741 25                  
+235U S G NC=0.001359 19$OC=0.000321 5$PC=5.78E-5 8$QC=3.28E-6 5                 
+235U   G 225.42    4  15.1   5 [E1]                    0.0747                   
+235U S G KC=0.0589 9$LC=0.01191 17$MC=0.00288 4$NC+=0.000988 14                 
+235U S G NC=0.000770 11$OC=0.000183 3$PC=3.33E-5 5$QC=2.00E-6 3                 
+235U   L    249.13012 15/2-                                                     
+235U   A 4912      5  0.0024 9  1.99E3                                      X   
+235U  cA IA$other value: 0.0005% {I3} (1976BaZZ,1971Ar47).                      
+235U  cA IA$0.0030% {I16}, deduced by evaluator from |g-ray transition          
+235U 2cA intensity balance.                                                     
+235U   G 78.43     2  154.2  22M1(+E2)   0.5     5     16     10            X   
+235U S G LC=12 7$MC=3.1 21$NC+=1.1 7                                            
+235U S G NC=0.8 6$OC=0.19 13$PC=0.034 20$QC=0.0014 5                            
+235U  cG RI$other value: I|g=141 {I6} (1976GuZN).                               
+235U   G 146.094   6  119    3 E2                      2.57                 L   
+235U S G KC=0.223 4$LC=1.712 24$MC=0.474 7$NC+=0.1632 23                        
+235U S G NC=0.1287 18$OC=0.0296 5$PC=0.00489 7$QC=3.07E-5 5                     
+235U   L    291.14419 11/2+                                                     
+235U   A 4871      5  0.0007 3  3.5E3                                           
+235U  cA IA$0.0008% {I5}, deduced by evaluator from |g-ray transition           
+235U 2cA intensity balance.                                                     
+235U   G 65.708    30 52.0   34M1(+E2)   0.23    20    20     9             I   
+235U 3 G FLAG=X                                                                 
+235U S G LC=15 7$MC=3.7 18$NC+=1.3 6                                            
+235U S G NC=1.0 5$OC=0.24 11$PC=0.044 18$QC=0.00279 25                          
+235U   G 119.7     AP 9.5    AP[E2]                    6.00                 @  ?
+235U S G KC AP 0.199$LC AP 4.23$MC AP 1.172$NC+ AP 0.403                        
+235U S G NC AP 0.318$OC AP 0.0732$PC AP 0.01202$QC AP 5.82E-5                   
+235U  cG RI$I|g=30.2 {I18} for the doublet (1994Mo36). Intensity split          
+235U 2cG based on (n,|g). Other value: I|g=32 {I2} (1976GuZN).                  
+235U   G 188.23    10 10.9   11[E1]                    0.1135                   
+235U S G KC=0.0889 13$LC=0.0186 3$MC=0.00450 7$NC+=0.001540 22                  
+235U S G NC=0.001202 17$OC=0.000285 4$PC=5.13E-5 8$QC=2.95E-6 5                 
+235U   G 244.92    5  5.1    5 [E1]                    0.0618                   
+235U S G KC=0.0489 7$LC=0.00974 14$MC=0.00236 4$NC+=0.000808 12                 
+235U S G NC=0.000629 9$OC=0.0001498 21$PC=2.74E-5 4$QC=1.676E-6 24              
+235U   L 294.668   15 13/2+                                                     
+235U   A 4866      5  0.0019 7  1.24E3                                      X  ?
+235U  cA IA$other value: 0.02% {I2} (1976BaZZ,1971Ar47).                        
+235U  cA IA$0.0017% {I5}, deduced by evaluator from |g-ray transition           
+235U 2cA intensity balance.                                                     
+235U   G 97.6      3           M1+E2     0.5     3     7.0    19 7E2      5     
+235U S G L/T=0.65 13$M/T=0.17 6$N+/T=0.058 22                                   
+235U S G N/T=0.045 17$O/T=0.011 4$P/T=0.0019 7$Q/T=0.00010 3                    
+235U  cG           Seen in ce only (1965Tr03)                                   
+235U   G 144.201   3  283    6 E2                      2.71                     
+235U S G KC=0.225 4$LC=1.81 3$MC=0.502 7$NC+=0.1731 25                          
+235U S G NC=0.1364 19$OC=0.0314 5$PC=0.00519 8$QC=3.20E-5 5                     
+235U   L    332.845 4 5/2+                                                      
+235U   A 4828      3  0.0024 7  5.4E2                                       X   
+235U  cA IA$other value: 0.0025% {I6} (1971Ar47).                               
+235U  cA IA$0.00359% {I4}, deduced by evaluator from |g-ray transition          
+235U 2cA intensity balance.                                                     
+235U   G 161.450   15 123    2 (M1)                    5.67                 L   
+235U S G KC=4.51 7$LC=0.880 13$MC=0.213 3$NC+=0.0742 11                         
+235U S G NC=0.0574 8$OC=0.01395 20$PC=0.00269 4$QC=0.000215 3                   
+235U   G 203.550   5  569    3 M1                      2.95                 L   
+235U S G KC=2.35 4$LC=0.456 7$MC=0.1103 16$NC+=0.0385 6                         
+235U S G NC=0.0297 5$OC=0.00723 11$PC=0.001394 20$QC=0.0001112 16               
+235U   G 281.2     2  2.1    3 [M1+E2]                 0.7    5                 
+235U S G KC=0.5 5$LC=0.15 4$MC=0.037 8$NC+=0.013 3                              
+235U S G NC=0.0099 21$OC=0.0024 6$PC=0.00044 13$QC=2.5E-5 20                    
+235U   G 319.68    10 4.8    5 [M1+E2]                 0.5    4                 
+235U S G KC=0.4 3$LC=0.10 4$MC=0.024 7$NC+=0.0085 24                            
+235U S G NC=0.0066 19$OC=0.0016 5$PC=0.00029 11$QC=1.8E-5 14                    
+235U   G 332.845   5  494    3 E1                      0.0313               L   
+235U S G KC=0.0250 4$LC=0.00476 7$MC=0.001145 16$NC+=0.000394 6                 
+235U S G NC=0.000306 5$OC=7.33E-5 11$PC=1.356E-5 19$QC=8.87E-7 13               
+235U   L     338.52 6 17/2-                                                     
+235U   A 4824         22E-6  2  5.34E4                                         S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 89.7      AP 2      SY[M1]                    6.33                 @   
+235U S G LC AP 4.77$MC AP 1.156$NC+ AP 0.403                                    
+235U S G NC AP 0.312$OC AP 0.0758$PC AP 0.01462$QC AP 0.001170                  
+235U   G 167.81    5  2.9    7 [E2]                    1.467                    
+235U S G KC=0.198 3$LC=0.925 13$MC=0.256 4$NC+=0.0881 13                        
+235U S G NC=0.0694 10$OC=0.01600 23$PC=0.00266 4$QC=2.04E-5 3                   
+235U   L     357.30 6  15/2+                                                   ?
+235U   G 160.19    5  6.2    12[E2]                    1.766                   ?
+235U S G KC=0.208 3$LC=1.136 16$MC=0.314 5$NC+=0.1082 16                        
+235U S G NC=0.0853 12$OC=0.0196 3$PC=0.00326 5$QC=2.33E-5 4                     
+235U  cG E         from Coul. ex. E|g=161.9 {I5} deexciting the                 
+235U xcG 359.0 {I15}/2+ level                                                   
+235U   L    367.069 8 7/2+                                                      
+235U   A 4795      4  0.0012 6  6.2E2                                       X   
+235U  cA IA$other value: 0.0007% {I2} (1976BaZZ,1971Ar47).                      
+235U  cA IA$0.00095% {I1}, deduced by evaluator from |g-ray transition          
+235U 2cA intensity balance.                                                     
+235U   G 141.657   20 32.0   7 [M1]                    8.22                     
+235U S G KC=6.52 10$LC=1.279 18$MC=0.309 5$NC+=0.1079 16                        
+235U S G NC=0.0834 12$OC=0.0203 3$PC=0.00391 6$QC=0.000312 5                    
+235U   G 195.679   8  107    1 M1                      3.30                 L   
+235U 3 G FLAG=M                                                                 
+235U S G KC=2.62 4$LC=0.510 8$MC=0.1233 18$NC+=0.0430 6                         
+235U S G NC=0.0332 5$OC=0.00808 12$PC=0.001558 22$QC=0.0001244 18               
+235U   G 237.77    10 14.4   6 [M1]                    1.91                     
+235U S G KC=1.519 22$LC=0.295 5$MC=0.0712 10$NC+=0.0248 4                       
+235U S G NC=0.0192 3$OC=0.00467 7$PC=0.000900 13$QC=7.18E-5 10                  
+235U  cG E         from 1971GuZY, 1979Al03                                      
+235U   G 285.3     2  1.9    4    [M1+E2]               0.7   5                 
+235U S G KC=0.5 5$LC=0.14 4$MC=0.035 8$NC+=0.012 3                              
+235U S G NC=0.0095 21$OC=0.0023 6$PC=0.00042 13$QC=2.4E-5 19                    
+235U   G 320.862   20 54.2   7 [E1]                    0.0339                   
+235U S G KC=0.0270 4$LC=0.00517 8$MC=0.001246 18$NC+=0.000429 6                 
+235U S G NC=0.000333 5$OC=7.96E-5 12$PC=1.472E-5 21$QC=9.56E-7 14               
+235U   G 354.0     5  0.73   30[E2]                    0.1155                   
+235U S G KC=0.0549 8$LC=0.0445 7$MC=0.01195 18$NC+=0.00413 7                    
+235U S G NC=0.00324 5$OC=0.000756 12$PC=0.0001306 20$QC=3.11E-6 5               
+235U   G 367.073   25 89     2 [E1]                    0.0254                   
+235U S G KC=0.0203 3$LC=0.00382 6$MC=0.000918 13$NC+=0.000316 5                 
+235U S G NC=0.000246 4$OC=5.88E-5 9$PC=1.093E-5 16$QC=7.29E-7 11                
+235U   L    393.225 6 3/2+                                                      
+235U   A 4769      5  0.0015 6  3.3E2                                       X   
+235U  cA IA$other value: 0.0008% {I3} (1976BaZZ,1971Ar47)                       
+235U  cA IA$0.00115% {I5}, deduced by evaluator from |g-ray transition          
+235U 2cA intensity balance.                                                     
+235U   G 263.95    3  26.5   10M1                      1.428                M   
+235U S G KC=1.136 16$LC=0.220 3$MC=0.0531 8$NC+=0.0185 3                        
+235U S G NC=0.01432 20$OC=0.00348 5$PC=0.000672 10$QC=5.35E-5 8                 
+235U   G 341.506   10 66.2   14M1                      0.701                    
+235U S G KC=0.559 8$LC=0.1076 15$MC=0.0260 4$NC+=0.00906 13                     
+235U S G NC=0.00700 10$OC=0.001703 24$PC=0.000328 5$QC=2.62E-5 4                
+235U   G 380.191   6  305    6 M1                      0.523                M   
+235U 3 G FLAG=L$                                                                
+235U S G KC=0.417 6$LC=0.0801 12$MC=0.0193 3$NC+=0.00674 10                     
+235U S G NC=0.00521 8$OC=0.001267 18$PC=0.000244 4$QC=1.95E-5 3                 
+235U   G 393.14    3  348    30M1                      0.477                M   
+235U S G KC=0.380 6$LC=0.0731 11$MC=0.01764 25$NC+=0.00615 9                    
+235U S G NC=0.00475 7$OC=0.001155 17$PC=0.000223 4$QC=1.776E-5 25               
+235U  cG RI$from I(392|g+393|g)=552.7 {I11} (1976GuZN) and                      
+235U 2cG I(392|g)/I(393|g)=0.59 from (n,|g) of 1979Al03.                        
+235U   L    414.77911  9/2+                                                     
+235U   A 4749      5  0.0006 AP  573                                            
+235U  cA IA$0.00075% {I12}, deduced by evaluator from |g-ray transition         
+235U 2cA intensity balance.                                                     
+235U   G 123.62    5  23.7   9 [M1]                    12.08                X   
+235U S G KC=9.57 14$LC=1.89 3$MC=0.457 7$NC+=0.1595 23                          
+235U S G NC=0.1232 18$OC=0.0300 5$PC=0.00578 9$QC=0.000462 7                    
+235U  cG RI$other value: I|g=19.7 {I12} (1976GuZN).                             
+235U   G 189.360   10 83     1 [M1+E2]                 2.3    14            L   
+235U S G KC=1.5 14$LC=0.553 10$MC=0.143 8$NC+=0.0496 25                         
+235U S G NC=0.0387 23$OC=0.0092 4$PC=0.00164 8$QC=8.E-5 6                       
+235U   G 218.0     5  1.2    10                                                ?
+235U  cG E,RI$from 1965Tr03, 1981UmZZ                                           
+235U   G 243.38    3  25.3   5 [M1+E2]                 1.1    7                 
+235U S G KC=0.8 7$LC=0.23 5$MC=0.059 8$NC+=0.021 3                              
+235U S G NC=0.0161 20$OC=0.0038 6$PC=0.00070 15$QC=4.E-5 3                      
+235U   G 311.78    4  25.8   7 [E1]                    0.0361               L   
+235U S G KC=0.0287 4$LC=0.00552 8$MC=0.001331 19$NC+=0.000458 7                 
+235U S G NC=0.000356 5$OC=8.51E-5 12$PC=1.570E-5 22$QC=1.014E-6 15              
+235U   G 368.554   20 88     2 [E1]                    0.0252                   
+235U S G KC=0.0202 3$LC=0.00378 6$MC=0.000910 13$NC+=0.000313 5                 
+235U S G NC=0.000243 4$OC=5.83E-5 9$PC=1.083E-5 16$QC=7.23E-7 11                
+235U   L    426.755 3 5/2+                                                      
+235U   A 4736      3  0.0051 8    55                                        X   
+235U  cA IA$other value: 0.0045% {I10} (1976BaZZ,1971Ar47).                     
+235U  cA IA$0.00587% {I5}, deduced by evaluator from |g-ray transition          
+235U 2cA intensity balance.                                                     
+235U   G 255.384   15 80     1 [M1]                    1.565                L   
+235U S G KC=1.245 18$LC=0.241 4$MC=0.0583 9$NC+=0.0203 3                        
+235U S G NC=0.01570 22$OC=0.00382 6$PC=0.000737 11$QC=5.87E-5 9                 
+235U   G 297.46    3  49.8   8 [M1]                    1.025                L   
+235U S G KC=0.816 12$LC=0.1577 22$MC=0.0381 6$NC+=0.01328 19                    
+235U S G NC=0.01026 15$OC=0.00250 4$PC=0.000481 7$QC=3.84E-5 6                  
+235U   G 345.013   4  556    5 M1                      0.682                L   
+235U 3 G FLAG=M                                                                 
+235U S G KC=0.543 8$LC=0.1046 15$MC=0.0253 4$NC+=0.00881 13                     
+235U S G NC=0.00681 10$OC=0.001655 24$PC=0.000319 5$QC=2.54E-5 4                
+235U   G 375.054   3  1554   9 M1                      0.543                L   
+235U 3 G FLAG=M                                                                 
+235U S G KC=0.432 6$LC=0.0832 12$MC=0.0201 3$NC+=0.00700 10                     
+235U S G NC=0.00541 8$OC=0.001315 19$PC=0.000254 4$QC=2.02E-5 3                 
+235U   G 413.713   5  1466   11M1                      0.415                L   
+235U 3 G FLAG=M                                                                 
+235U S G KC=0.331 5$LC=0.0636 9$MC=0.01534 22$NC+=0.00535 8                     
+235U S G NC=0.00413 6$OC=0.001005 14$PC=0.000194 3$QC=1.544E-5 22               
+235U   G 426.68    3  23.3   6 [E2]                    0.0699                   
+235U S G KC=0.0387 6$LC=0.0230 4$MC=0.00610 9$NC+=0.00211 3                     
+235U S G NC=0.001653 24$OC=0.000387 6$PC=6.79E-5 10$QC=2.06E-6 3                
+235U   L    445.71620 7/2+                                                      
+235U   A 4718.5       40E-6  1  5.18E3                                         S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 316.41    3  13.2   4 M1                      0.865                M   
+235U S G KC=0.689 10$LC=0.1329 19$MC=0.0321 5$NC+=0.01119 16                    
+235U S G NC=0.00865 13$OC=0.00210 3$PC=0.000406 6$QC=3.23E-5 5                  
+235U   G 399.53    6  5.9    3 [E1]                    0.0213                   
+235U S G KC=0.01706 24$LC=0.00317 5$MC=0.000761 11$NC+=0.000262 4               
+235U S G NC=0.000204 3$OC=4.88E-5 7$PC=9.10E-6 13$QC=6.16E-7 9                  
+235U   G 445.72    3  8.8    6 E1                      0.01698              L   
+235U 3 G FLAG=M                                                                 
+235U S G KC=0.01367 20$LC=0.00250 4$MC=0.000600 9$NC+=0.000207 3                
+235U S G NC=0.0001606 23$OC=3.86E-5 6$PC=7.21E-6 10$QC=4.98E-7 7                
+235U   L    474.29713 7/2+                                                      
+235U   A 4691      3  0.0005 2  2.6E2                                           
+235U  cA IA        from 1966Ah02.                                               
+235U  cA IA$0.00060% {I3}, deduced by evaluator from |g-ray transition          
+235U 2cA intensity balance.                                                     
+235U   G 248.95    5  7.2    7 [M1]                    1.680                    
+235U S G KC=1.337 19$LC=0.259 4$MC=0.0626 9$NC+=0.0218 3                        
+235U S G NC=0.01687 24$OC=0.00410 6$PC=0.000791 11$QC=6.31E-5 9                 
+235U   G 302.87    5  5.1    4 [M1]                    0.976                    
+235U S G KC=0.777 11$LC=0.1500 21$MC=0.0362 5$NC+=0.01263 18                    
+235U S G NC=0.00976 14$OC=0.00237 4$PC=0.000458 7$QC=3.65E-5 6                  
+235U   G 323.84    3  53.9   7 M1                      0.811                M   
+235U S G KC=0.646 9$LC=0.1246 18$MC=0.0301 5$NC+=0.01049 15                     
+235U S G NC=0.00811 12$OC=0.00197 3$PC=0.000380 6$QC=3.03E-5 5                  
+235U   G 345.014   30 50     LT(M1)                    0.682                   ?
+235U S G KC=0.543 8$LC=0.1046 15$MC=0.0253 4$NC+=0.00881 13                     
+235U S G NC=0.00681 10$OC=0.001655 24$PC=0.000319 5$QC=2.54E-5 4                
+235U   G 392.53    3  205    20M1                      0.479                M   
+235U S G KC=0.382 6$LC=0.0734 11$MC=0.01772 25$NC+=0.00617 9                    
+235U S G NC=0.00477 7$OC=0.001160 17$PC=0.000224 4$QC=1.784E-5 25               
+235U   G 422.598   19 122    2 M1                      0.392                L   
+235U 3 G FLAG=M                                                                 
+235U S G KC=0.313 5$LC=0.0600 9$MC=0.01447 21$NC+=0.00504 7                     
+235U S G NC=0.00390 6$OC=0.000948 14$PC=0.000183 3$QC=1.457E-5 21               
+235U   G 428.4     3  1.00   10[E1]                    0.0184                   
+235U S G KC=0.01481 21$LC=0.00272 4$MC=0.000653 10$NC+=0.000225 4               
+235U S G NC=0.0001749 25$OC=4.20E-5 6$PC=7.84E-6 11$QC=5.38E-7 8                
+235U   G 461.25    5  2.27   2 [E2]                    0.0575                   
+235U S G KC=0.0334 5$LC=0.01772 25$MC=0.00467 7$NC+=0.001617 23                 
+235U S G NC=0.001265 18$OC=0.000297 5$PC=5.24E-5 8$QC=1.743E-6 25               
+235U   G 473.9     5  0.054  27[E1]                    0.01501                  
+235U F G FL=0                                                                   
+235U S G KC=0.01210 18$LC=0.00220 4$MC=0.000526 8$NC+=0.000182 3                
+235U S G NC=0.0001409 20$OC=3.39E-5 5$PC=6.35E-6 9$QC=4.43E-7 7                 
+235U   L     509.9217 (9/2+)                                                    
+235U   A 4655         2.8E-6 6  2.54E4                                         S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 406.8     2  2.5    5 [E1]                    0.0205                   
+235U S G KC=0.01645 23$LC=0.00305 5$MC=0.000731 11$NC+=0.000252 4               
+235U S G NC=0.000196 3$OC=4.69E-5 7$PC=8.75E-6 13$QC=5.95E-7 9                  
+235U  cG E$not reported by 1971GuZY, not detected in Coul. ex.                  
+235U   G 463.9     3  0.28   3 [E1]                    0.01566                  
+235U S G KC=0.01262 18$LC=0.00230 4$MC=0.000551 8$NC+=0.000190 3                
+235U S G NC=0.0001475 21$OC=3.54E-5 5$PC=6.63E-6 10$QC=4.62E-7 7                
+235U   L    533.22810 9/2+                                                      
+235U   A 4632      3  0.0007 2    69                                            
+235U  cA IA        from 1966Ah02.                                               
+235U  cA IA$0.00087% {I3}, deduced by evaluator from |g-ray transition          
+235U 2cA intensity balance.                                                     
+235U   G 242.08    3  7.3    5 [M1]                    1.82                     
+235U S G KC=1.445 21$LC=0.280 4$MC=0.0677 10$NC+=0.0236 4                       
+235U S G NC=0.0182 3$OC=0.00444 7$PC=0.000856 12$QC=6.82E-5 10                  
+235U   G 307.85    5  5.5    4 [M1]                    0.933                    
+235U S G KC=0.743 11$LC=0.1434 20$MC=0.0346 5$NC+=0.01207 17                    
+235U S G NC=0.00933 13$OC=0.00227 4$PC=0.000438 7$QC=3.49E-5 5                  
+235U   G 336.113   12 112    2 M1                      0.733                    
+235U S G KC=0.583 9$LC=0.1125 16$MC=0.0272 4$NC+=0.00947 14                     
+235U S G NC=0.00732 11$OC=0.001779 25$PC=0.000343 5$QC=2.73E-5 4                
+235U   G 361.89    5  12.2   6 [M1]                    0.598                    
+235U S G KC=0.477 7$LC=0.0918 13$MC=0.0222 4$NC+=0.00772 11                     
+235U S G NC=0.00597 9$OC=0.001451 21$PC=0.000280 4$QC=2.23E-5 4                 
+235U   G 382.75    5  259    5 M1                      0.513                L   
+235U S G KC=0.409 6$LC=0.0787 11$MC=0.0190 3$NC+=0.00662 10                     
+235U S G NC=0.00511 8$OC=0.001244 18$PC=0.000240 4$QC=1.91E-5 3                 
+235U   G 430.08    10 4.30   13[E1]                    0.0183                   
+235U S G KC=0.01469 21$LC=0.00270 4$MC=0.000648 9$NC+=0.000223 4                
+235U S G NC=0.0001734 25$OC=4.16E-5 6$PC=7.77E-6 11$QC=5.34E-7 8                
+235U   G 451.481   10 189.4  16M1(+E2)   1.0     10    0.19   14            L   
+235U S G KC=0.15 12$LC=0.035 16$MC=0.009 4$NC+=0.0030 13                        
+235U S G NC=0.0023 10$OC=0.00056 24$PC=0.00010 5$QC=7.E-6 6                     
+235U   G 481.66    12 4.6    2 [E2]                    0.0517               L   
+235U S G KC=0.0309 5$LC=0.01538 22$MC=0.00404 6$NC+=0.001399 20                 
+235U S G NC=0.001095 16$OC=0.000257 4$PC=4.55E-5 7$QC=1.590E-6 23               
+235U   G 487.06    10 0.265  21[E1]                    0.01421                  
+235U S G KC=0.01147 16$LC=0.00208 3$MC=0.000497 7$NC+=0.0001714 24              
+235U S G NC=0.0001330 19$OC=3.20E-5 5$PC=6.00E-6 9$QC=4.21E-7 6                 
+235U   L 608.09     5  11/2+                                                    
+235U   A 4559         12E-6  5  1.11E3                                         S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 411.2     3  6.8    34[M1]                    0.422                    
+235U S G KC=0.337 5$LC=0.0646 10$MC=0.01560 22$NC+=0.00544 8                    
+235U S G NC=0.00420 6$OC=0.001022 15$PC=0.000197 3$QC=1.570E-5 23               
+235U   G 457.61    5  1.49   2 [M1]                    0.316                    
+235U S G KC=0.252 4$LC=0.0483 7$MC=0.01165 17$NC+=0.00406 6                     
+235U S G NC=0.00314 5$OC=0.000763 11$PC=0.0001471 21$QC=1.173E-5 17             
+235U   G 526.4     4  0.057  19[E2]                    0.0419                   
+235U S G KC=0.0262 4$LC=0.01160 17$MC=0.00303 5$NC+=0.001048 15                 
+235U S G NC=0.000819 12$OC=0.000193 3$PC=3.44E-5 5$QC=1.322E-6 19               
+235U   L     633.17 6 (5/2)-                                                    
+235U   A 4534        2.82E-6 5   3047                                          S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 633.15    6  2.53   3 M1(+E2)   0.5     LT    0.122  11            M   
+235U F G FL=0                                                                   
+235U S G KC=0.097 9$LC=0.0187 14$MC=0.0045 4$NC+=0.00157 12                     
+235U S G NC=0.00122 9$OC=0.000296 21$PC=5.7E-5 5$QC=4.5E-6 4                    
+235U   L 637.82     5 3/2-                                                      
+235U   A 4529.6       3.19E-63   2483                                          S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 586.3     3  0.153  15[E1]                                             
+235U S G CC=0.00990 14$KC=0.00802 12$LC=0.001420 20$MC=0.000339 5$NC+=0.0001171 
+235U S G NC=9.08E-5 13$OC=2.19E-5 3$PC=4.13E-6 6$QC=2.98E-7 5                   
+235U   G 624.78    5  0.437  20[E1]                                         &   
+235U S G CC=0.00877 13$KC=0.00712 10$LC=0.001252 18$MC=0.000299 5$NC+=0.0001032 
+235U S G NC=8.00E-5 12$OC=1.93E-5 3$PC=3.64E-6 5$QC=2.66E-7 4                   
+235U  cG           Doublet                                                      
+235U   G 637.7        2.56   3 [E1]                                         &   
+235U F G FL=0.0765                                                              
+235U S G CC=0.00844 12$KC=0.00685 10$LC=0.001202 17$MC=0.000287 4$NC+=9.91E-5 14
+235U S G NC=7.68E-5 11$OC=1.85E-5 3$PC=3.50E-6 5$QC=2.56E-7 4                   
+235U  cG           Doublet                                                      
+235U   G 637.8        2.56   3 E2                      0.0273               &   
+235U 2 G FLAG=M                                                                 
+235U F G FL=0                                                                   
+235U S G KC=0.0185 3$LC=0.00655 10$MC=0.001683 24$NC+=0.000583 9                
+235U S G NC=0.000455 7$OC=0.0001078 15$PC=1.95E-5 3$QC=8.96E-7 13               
+235U  cG           Doublet                                                      
+235U   L     658.97 4  1/2-                                                     
+235U   A 4510      20 0.000083    68                                            
+235U  cA IA$0.0000266% {I5}, deduced by evaluator from |g-ray transition        
+235U 2cA intensity balance.                                                     
+235U   G 265.7     3  1.6    3 [E1]                    0.0514                   
+235U S G KC=0.0408 6$LC=0.00802 12$MC=0.00194 3$NC+=0.000665 10                 
+235U S G NC=0.000518 8$OC=0.0001234 18$PC=2.26E-5 4$QC=1.412E-6 20              
+235U   G 645.94    4  15.2   3 E1                                           M   
+235U S G CC=0.00824 12$KC=0.00669 10$LC=0.001172 17$MC=0.000280 4$NC+=9.66E-5 14
+235U S G NC=7.49E-5 11$OC=1.81E-5 3$PC=3.41E-6 5$QC=2.50E-7 4                   
+235U   G 658.86    6  9.7    2 E1                                           M   
+235U S G CC=0.00794 12$KC=0.00645 9$LC=0.001128 16$MC=0.000269 4$NC+=9.29E-5 13 
+235U S G NC=7.20E-5 10$OC=1.737E-5 25$PC=3.29E-6 5$QC=2.41E-7 4                 
+235U   L    664.54123 (5/2)-                                                    
+235U   A 4503         5.37E-6 9  921                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 493.08    5  0.87   3                                                 ?
+235U   G 582.89    10 0.615  18[E1]                    0.01001                  
+235U S G KC=0.00811 12$LC=0.001437 21$MC=0.000343 5$NC+=0.0001185 17            
+235U S G NC=9.19E-5 13$OC=2.21E-5 4$PC=4.17E-6 6$QC=3.01E-7 5                   
+235U   G 612.83    3  0.95   5 E1                                           M   
+235U S G CC=0.00910 13$KC=0.00738 11$LC=0.001300 19$MC=0.000310 5$NC+=0.0001072 
+235U S G NC=8.31E-5 12$OC=2.00E-5 3$PC=3.78E-6 6$QC=2.75E-7 4                   
+235U   G 618.28    6  2.04   6 (E2)                    0.0292               M   
+235U S G KC=0.0196 3$LC=0.00716 10$MC=0.00184 3$NC+=0.000639 9                  
+235U S G NC=0.000499 7$OC=0.0001180 17$PC=2.13E-5 3$QC=9.53E-7 14               
+235U   G 664.58    5  1.66   3 E2                      0.0251               M   
+235U S G KC=0.01721 25$LC=0.00583 9$MC=0.001493 21$NC+=0.000517 8               
+235U S G NC=0.000403 6$OC=9.57E-5 14$PC=1.736E-5 25$QC=8.25E-7 12               
+235U   L     670.99 4 (7/2)-                                                    
+235U   A 4497         3E-8   LE 1.47E5                                         S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 624.78    3 0.437   20(M1)                    0.1369               &  ?
+235U S G KC=0.1094 16$LC=0.0208 3$MC=0.00501 7$NC+=0.001745 25                  
+235U S G NC=0.001349 19$OC=0.000328 5$PC=6.33E-5 9$QC=5.05E-6 7                 
+235U  cG           Doublet                                                      
+235U   G 670.99    4  0.009       [M1+E2]               0.07  5             &  ?
+235U 2 G FLAG=E                                                                 
+235U F G FL=0                                                                   
+235U S G KC=0.05 4$LC=0.011 6$MC=0.0028 14$NC+=0.0010 5                         
+235U S G NC=0.0008 4$OC=0.00018 9$PC=3.5E-5 18$QC=2.5E-6 17                     
+235U  cG           Doublet                                                      
+235U   L     701.02 3 (7/2)-                                                    
+235U   A 4467.4       6.9E-6 1   375                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 550.5     2  0.42   3 [E1]                    0.01117                  
+235U S G KC=0.00904 13$LC=0.001613 23$MC=0.000385 6$NC+=0.0001331 19            
+235U S G NC=0.0001032 15$OC=2.48E-5 4$PC=4.68E-6 7$QC=3.35E-7 5                 
+235U   G 597.99    5  1.67   5 [E2]                    0.0314                   
+235U S G KC=0.0208 3$LC=0.00789 11$MC=0.00204 3$NC+=0.000706 10                 
+235U S G NC=0.000551 8$OC=0.0001304 19$PC=2.35E-5 4$QC=1.019E-6 15              
+235U   G 619.21    6  1.21   8 [E1]                                             
+235U S G CC=0.00892 13$KC=0.00724 11$LC=0.001274 18$MC=0.000304 5$NC+=0.0001050 
+235U S G NC=8.14E-5 12$OC=1.96E-5 3$PC=3.71E-6 6$QC=2.70E-7 4                   
+235U   G 649.32    6  0.71   5 [E1]                                             
+235U S G CC=0.00816 12$KC=0.00662 10$LC=0.001160 17$MC=0.000277 4$NC+=9.56E-5 14
+235U S G NC=7.41E-5 11$OC=1.79E-5 3$PC=3.38E-6 5$QC=2.48E-7 4                   
+235U   G 654.88    8  2.25   3 (E2)                    0.0258               C   
+235U S G KC=0.01767 25$LC=0.00607 9$MC=0.001558 22$NC+=0.000540 8               
+235U S G NC=0.000421 6$OC=9.98E-5 14$PC=1.81E-5 3$QC=8.50E-7 12                 
+235U   G 701.1     2  0.512  16 [M1+E2]                 0.06  4                 
+235U F G FL=0                                                                   
+235U S G KC=0.05 4$LC=0.010 6$MC=0.0025 12$NC+=0.0009 5                         
+235U S G NC=0.0007 4$OC=0.00016 8$PC=3.1E-5 16$QC=2.2E-6 15                     
+235U   L 703.758   19 3/2-                                                      
+235U   A 4464.7       115E-7 4   214                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 652.05    2  6.6    2 E1                                           M   
+235U 3 G FLAG=L                                                                 
+235U S G CC=0.00809 12$KC=0.00657 10$LC=0.001151 17$MC=0.000274 4$NC+=9.48E-5 14
+235U S G NC=7.35E-5 11$OC=1.773E-5 25$PC=3.35E-6 5$QC=2.46E-7 4                 
+235U   G 690.81    8  0.90   25E1                                           M   
+235U S G CC=0.00727 11$KC=0.00591 9$LC=0.001029 15$MC=0.000245 4$NC+=8.47E-5 12 
+235U S G NC=6.57E-5 10$OC=1.584E-5 23$PC=3.00E-6 5$QC=2.22E-7 4                 
+235U  cG RI        from 1981UmZZ                                                
+235U   G 703.68    5  3.95   2 E1                                           M   
+235U S G CC=0.00702 10$KC=0.00571 8$LC=0.000993 14$MC=0.000236 4$NC+=8.17E-5 12 
+235U S G NC=6.33E-5 9$OC=1.529E-5 22$PC=2.90E-6 4$QC=2.15E-7 3                  
+235U   L     720.25 3 (9/2)-                                                    
+235U   A 4448.5       2.13E-6 9  859                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 617.10    10 1.34   7 [M1]                    0.1415                   
+235U S G KC=0.1130 16$LC=0.0215 3$MC=0.00518 8$NC+=0.00180 3                    
+235U S G NC=0.001394 20$OC=0.000339 5$PC=6.54E-5 10$QC=5.22E-6 8                
+235U   G 674.05    3  0.515  16[M1]                    0.1118                   
+235U S G KC=0.0893 13$LC=0.01694 24$MC=0.00408 6$NC+=0.001422 20                
+235U S G NC=0.001099 16$OC=0.000267 4$PC=5.16E-5 8$QC=4.12E-6 6                 
+235U  cG           Doublet                                                      
+235U   G 720.3     5  0.0285 CA                                             @   
+235U F G FL=0                                                                   
+235U  cG RI$from 1976GuZN I|g(720.3)=0.0485 and using Branching for 891 level   
+235U xcG in (n,|g)                                                              
+235U   L 750.07    16  (9/2-)                                                   
+235U   A 4419         33E-8  3  3.23E3                                         S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 579.4     3  0.086  17[E2]                    0.0337                   
+235U S G KC=0.0220 3$LC=0.00866 13$MC=0.00224 4$NC+=0.000777 11                 
+235U S G NC=0.000607 9$OC=0.0001434 21$PC=2.57E-5 4$QC=1.086E-6 16              
+235U   G 599.6     2  0.20   2   [E1]                                           
+235U S G CC=0.00948 14$KC=0.00769 11$LC=0.001358 19$MC=0.000324 5$NC+=0.0001120 
+235U S G NC=8.68E-5 13$OC=2.09E-5 3$PC=3.95E-6 6$QC=2.86E-7 4                   
+235U   G 668.2     5  0.039  13  [E1]                                           
+235U S G CC=0.00773 11$KC=0.00628 9$LC=0.001097 16$MC=0.000262 4$NC+=9.04E-5 13 
+235U S G NC=7.01E-5 10$OC=1.690E-5 24$PC=3.20E-6 5$QC=2.35E-7 4                 
+235U   L 761.05     5 (1/2)-                                                    
+235U   A 4408         10E-8  2  8.7E3                                          S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 123.228   5  0.0016 4 [M1]                    12.19                   S
+235U S G KC=9.66 14$LC=1.91 3$MC=0.461 7$NC+=0.1609 23                          
+235U S G NC=0.1244 18$OC=0.0303 5$PC=0.00584 9$QC=0.000467 7                    
+235U  cG RI        from (n,|g)                                                  
+235U   G 747.4     5  0.081  16E1                                               
+235U S G CC=0.00629 9$KC=0.00512 8$LC=0.000885 13$MC=0.000211 3$NC+=7.28E-5 11  
+235U S G NC=5.64E-5 8$OC=1.362E-5 20$PC=2.58E-6 4$QC=1.93E-7 3                  
+235U   L     769.27 6 1/2+                                                      
+235U   A 4380      AP 25E-6  8    30                                            
+235U  cA IA        from 1963Bj03.                                               
+235U  cA IA$27|*10{+-6}% {I4}, deduced by evaluator from |g-ray transition      
+235U 2cA intensity balance.                                                     
+235U   G 639.99    10 8.7    2 [E2]                    0.0271               L   
+235U S G KC=0.0184 3$LC=0.00648 9$MC=0.001666 24$NC+=0.000577 8                 
+235U S G NC=0.000450 7$OC=0.0001067 15$PC=1.93E-5 3$QC=8.90E-7 13               
+235U   G 756.4     2  2.8    5 [M1+E2]                 0.05   4             @   
+235U S G KC=0.04 3$LC=0.008 5$MC=0.0020 10$NC+=0.0007 4                         
+235U S G NC=0.0005 3$OC=0.00013 7$PC=2.5E-5 13$QC=1.8E-6 12                     
+235U  cG           The I|g has been split based on the (n,|g) decay scheme. The 
+235U 2cG measured intensity of the doublet is 3.47 with 0.4% uncertainty.       
+235U   G 769.15    8  5.1    10    M1+E0                2.0   2                 
+235U F G FL=0.0765                                                              
+235U S G KC=1.6 2$ LC=0.4 1                                                     
+235U  cG           E and |a are from (n,|g).                                    
+235U 2cG I|g(769.37)=11.9 {I2} is from {+239}Pu |a decay(1986LoZT) and          
+235U 3cG |g-ray branchings in (n,|g).                                           
+235U   L 769.5     3   3/2-                                                     
+235U   A 4400.3       10.3E-613   73                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 718.0     5  2.8    2 E1                                           L   
+235U 3 G FLAG=M                                                                 
+235U S G CC=0.00677 10$KC=0.00551 8$LC=0.000955 14$MC=0.000227 4$NC+=7.86E-5 11 
+235U S G NC=6.09E-5 9$OC=1.471E-5 21$PC=2.79E-6 4$QC=2.07E-7 3                  
+235U   G 756.4     4  0.67   20[E1]                                         @   
+235U S G CC=0.00615 9$KC=0.00501 7$LC=0.000865 13$MC=0.000206 3$NC+=7.12E-5 10  
+235U S G NC=5.51E-5 8$OC=1.331E-5 19$PC=2.53E-6 4$QC=1.89E-7 3                  
+235U   G 769.37    50 6.8    12E1                                               
+235U F G FL=0.0765                                                              
+235U 3 G FLAG=M                                                                 
+235U S G CC=0.00596 9$KC=0.00486 7$LC=0.000837 12$MC=0.000199 3$NC+=6.89E-5 10  
+235U S G NC=5.34E-5 8$OC=1.289E-5 19$PC=2.45E-6 4$QC=1.83E-7 3                  
+235U  cG           The intensities are split based on the (n,|g) level scheme;  
+235U 2cG I|g of doublet is 11.9 {I2} (1986LoZT)                                 
+235U   L     777.5919 (11/2)-                                                   
+235U   A 4392        7.07E-7 23  912                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 606.9     2  0.120  12  M1(+E2)  1      LT      0.12  3            C   
+235U S G KC=0.094 25$LC=0.019 4$MC=0.0045 9$NC+=0.0016 3                        
+235U S G NC=0.00123 24$OC=0.00030 6$PC=5.7E-5 12$QC=4.3E-6 12                   
+235U   G 674.4     5  0.515  16(M1)                    0.1116                   
+235U S G KC=0.0892 13$LC=0.01692 24$MC=0.00408 6$NC+=0.001420 20                
+235U S G NC=0.001098 16$OC=0.000267 4$PC=5.15E-5 8$QC=4.11E-6 6                 
+235U  cG           Doublet                                                      
+235U   L     779.51 3 3/2+                                                      
+235U   A 4390         1.0E-6 1   622                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 697.8     5  0.074  15                                                 
+235U   G 727.9     2  0.124  6 M1                      0.0911               M   
+235U S G KC=0.0728 11$LC=0.01379 20$MC=0.00332 5$NC+=0.001157 17                
+235U S G NC=0.000894 13$OC=0.000217 3$PC=4.20E-5 6$QC=3.35E-6 5                 
+235U   G 766.47    3  0.13   2  E0+M1                   4.0   4                 
+235U 2 G FLAG=M                                                                 
+235U  cG           Doublet                                                      
+235U  cG RI$from (n,|g). I|g(doublet)=0.275 in {+239}Pu |a decay.               
+235U S G KC=3.0 3$ LC=0.6 2                                                     
+235U   G 779.4        0.136  8 M1                      0.0760               M   
+235U F G FL=0.0765                                                              
+235U S G KC=0.0607 9$LC=0.01148 16$MC=0.00276 4$NC+=0.000963 14                 
+235U S G NC=0.000744 11$OC=0.000181 3$PC=3.49E-5 5$QC=2.79E-6 4                 
+235U  cG E         from (n,|g). Reported as 779.61 by 1976GuZN                  
+235U   L 805.73     6  3/2-                                                     
+235U   A 4364.5       83E-9  6  4.62E3                                         S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 172.560   8  0.003  CAM1                      4.70                    S
+235U S G KC=3.73 6$LC=0.728 11$MC=0.1761 25$NC+=0.0614 9                        
+235U S G NC=0.0475 7$OC=0.01155 17$PC=0.00223 4$QC=0.0001777 25                 
+235U  cG E         from (n,|g).                                                 
+235U  cG           From (n,|g)                                                  
+235U   G 412.3     CA 0.018      [E1]                  0.02006                 S
+235U S G KC=0.01611 $LC=0.00298 $MC=0.00071 $NC+=0.00025                        
+235U   G 792.9     3  0.020  4 (E1)                                         M   
+235U S G CC=0.00565 8$KC=0.00460 7$LC=0.000791 11$MC=0.000188 3$NC+=6.51E-5 10  
+235U S G NC=5.04E-5 7$OC=1.218E-5 17$PC=2.31E-6 4$QC=1.741E-7 25                
+235U   G 805.9     3  0.027  4 E2                      0.01688              M   
+235U F G FL=0                                                                   
+235U S G KC=0.01223 18$LC=0.00348 5$MC=0.000877 13$NC+=0.000304 5               
+235U S G NC=0.000237 4$OC=5.65E-5 8$PC=1.038E-5 15$QC=5.67E-7 8                 
+235U   L     821.25 4 5/2+                                                      
+235U   A 4349        3.0E-7  4  9.6E2                                          S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 596.0     5  0.039  20[E2]                    0.0317                   
+235U S G KC=0.0209 3$LC=0.00797 12$MC=0.00206 3$NC+=0.000713 11                 
+235U S G NC=0.000557 8$OC=0.0001317 19$PC=2.37E-5 4$QC=1.026E-6 15              
+235U   G 670.8     5  0.009                                                 &  ?
+235U 2 G FLAG=E                                                                 
+235U  cG           Doublet                                                      
+235U   G 769.54    4            (E0)                             0.08     2 M  S
+235U S G K/T=0.8$ L/T=0.15                                                      
+235U   G 808.4     2  0.121  6 M1                      0.0689               M   
+235U S G KC=0.0551 8$LC=0.01041 15$MC=0.00251 4$NC+=0.000873 13                 
+235U S G NC=0.000675 10$OC=0.0001642 23$PC=3.17E-5 5$QC=2.53E-6 4               
+235U   G 821.3     2  0.050  11                                             @   
+235U  cG           Possible doublet                                             
+235U F G FL=0                                                                   
+235U   L    843.85910 (1/2)+                                                    
+235U   A 4327         23E-8  1   818                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 714.71    14 0.079  8 E2                      0.0215               M   
+235U S G KC=0.01512 22$LC=0.00477 7$MC=0.001215 17$NC+=0.000421 6               
+235U S G NC=0.000328 5$OC=7.80E-5 11$PC=1.423E-5 20$QC=7.15E-7 10               
+235U   G 843.780   10 0.134  7  M1(+E0)                 0.09  1             M   
+235U S G KC=0.075 10$ LC=0.015 2                                                
+235U  cG E         from (n,|g). Reported as 844.0 by 1976GuZN                   
+235U   L      845.310(7/2+)                                                    ?
+235U   A 4326         4.18E-8 3  4379                                          S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 763.6     CA 0.022  CA E0(+M1)                 0.9   GT                
+235U  cG RI        from 1976GuZN I|g(763.7)=0.032 and from Branching from 892   
+235U 2cG level in (n,|g)                                                        
+235U 3 G FLAG=M                                                                 
+235U   L     865.3518 3/2+                                                      
+235U   A 4306         10E-8  1  1.25E3                                         S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 693.2     5  0.02   CA(E2)                    0.0229               @   
+235U S G KC=0.01597 23$LC=0.00518 8$MC=0.001324 19$NC+=0.000459 7               
+235U S G NC=0.000358 5$OC=8.49E-5 12$PC=1.546E-5 22$QC=7.60E-7 11               
+235U  cG RI        from (n,|g)                                                  
+235U   G 736.5     5  0.030  10M1+E2     1.2     2     0.048  7             M   
+235U S G KC=0.037 5$LC=0.0081 9$MC=0.00198 20$NC+=0.00069 7                     
+235U S G NC=0.00053 6$OC=0.000129 13$PC=2.4E-5 3$QC=1.73E-6 24                  
+235U   G 813.7     2  0.045  5 M1                      0.0677               M   
+235U S G KC=0.0542 8$LC=0.01023 15$MC=0.00246 4$NC+=0.000858 12                 
+235U S G NC=0.000663 10$OC=0.0001613 23$PC=3.11E-5 5$QC=2.49E-6 4               
+235U   L     891.8915 5/2+                                                      
+235U   A 4280         19E-8  1   398                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 720.3     CA 0.020  CA                                             @   
+235U  cG RI        from (n,|g)                                                  
+235U   G 762.6     CA 0.010  CA                                                 
+235U  cG RI        from (n,|g)                                                  
+235U   G 840.4     2  0.048  5  M1(+E0)                 0.14  2             M   
+235U S G KC=0.11 2$ LC=0.025                                                    
+235U   G 879.2     3  0.036  4 [M1+E2]                 0.035  21                
+235U S G KC=0.027 17$LC=0.006 3$MC=0.0014 7$NC+=0.00047 23                      
+235U S G NC=0.00036 18$OC=9.E-5 5$PC=1.7E-5 9$QC=1.3E-6 8                       
+235U   G 891.0     3  0.075  8 [E2]                    0.01385                  
+235U S G KC=0.01024 15$LC=0.00270 4$MC=0.000677 10$NC+=0.000235 4               
+235U S G NC=0.000182 3$OC=4.36E-5 7$PC=8.07E-6 12$QC=4.68E-7 7                  
+235U   L    968.45120  3/2+                                                     
+235U   A 4204.5       61E-9  4   281                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 955.6     2  0.031  3 M1+E2     0.6     2     0.036  5             M   
+235U S G KC=0.028 4$LC=0.0055 6$MC=0.00133 14$NC+=0.00046 5                     
+235U S G NC=0.00036 4$OC=8.7E-5 9$PC=1.67E-5 18$QC=1.30E-6 16                   
+235U   G 968.37    2  0.028  CAM1+E2     0.6     3     0.035  6             M  S
+235U S G KC=0.027 5$LC=0.0053 8$MC=0.00128 19$NC+=0.00045 7                     
+235U S G NC=0.00035 5$OC=8.4E-5 12$PC=1.61E-5 24$QC=1.26E-6 22                  
+235U   L     970.5222 (5/2,7/2)                                                ?
+235U   A 4202         4.0E-8 5   412                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 918.7     3  0.0084 30                                                 
+235U   G 957.6     3  0.032  3                                                  
+235U   L 986.65    17  (13/2-)                                                  
+235U   A 4187         7.6E-8 7   158                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 816.0     2  0.024  4 [M1+E2]                 0.04   3                 
+235U S G KC=0.033 21$LC=0.007 4$MC=0.0016 8$NC+=0.0006 3                        
+235U S G NC=0.00044 22$OC=0.00011 6$PC=2.0E-5 11$QC=1.5E-6 10                   
+235U   G 940.3     3  0.050  5 [E2]                    0.01248                  
+235U S G KC=0.00932 13$LC=0.00237 4$MC=0.000591 9$NC+=0.000205 3                
+235U S G NC=0.0001594 23$OC=3.82E-5 6$PC=7.08E-6 10$QC=4.23E-7 6                
+235U   L     992.7222 (5/2+)                                                    
+235U   A 4181         56E-9  7   190                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U 2cA I|a does not include possible contribution from 767and 821 |g rays.    
+235U   G 767.29    4  0.14   AP                                             @  ?
+235U  cG           Doublet                                                      
+235U  cG RI$from (n,|g). I|g(doublet)=0.275 in {+239}Pu |a decay.               
+235U   G 821.3     2  0.01   LT                                             @  ?
+235U  cG           Possible doublet                                             
+235U   G 979.7     3  0.028  5 [M1+E2]                 0.026  15                
+235U S G KC=0.021 13$LC=0.0042 21$MC=0.0010 5$NC+=0.00035 17                    
+235U S G NC=0.00027 13$OC=7.E-5 4$PC=1.3E-5 7$QC=1.0E-6 6                       
+235U   G 992.7     3  0.027  4                                                  
+235U F G FL=0                                                                   
+235U   L    1057.5813 (7/2)                                                     
+235U   A 4117         93E-9  8    31                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 832.5     2  0.0296 23                                                 
+235U   G 1005.7    3  0.018  3                                                  
+235U   G 1057.3    2    0.0457                                                  
+235U F G FL=0                                                                   
+235U   L    1116.2020 (5/2-)                                                   ?
+235U   A 4059         21E-9  4    41                                           S
+235U  cA IA$deduced by evaluator from |g-ray transition intensity balance.      
+235U   G 986.9     2  0.021  4 E1                                           M   
+235U S G CC=0.00383 6$KC=0.00313 5$LC=0.000529 8$MC=0.0001255 18$NC+=4.34E-5 6  
+235U S G NC=3.36E-5 5$OC=8.14E-6 12$PC=1.552E-6 22$QC=1.196E-7 17               

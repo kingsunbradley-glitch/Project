@@ -1,0 +1,24 @@
+224U     228PU A DECAY (1.1 S)         2003NI10,1994AN02         ENSDF    202205
+224U   H TYP=FUL$AUT=Balraj Singh, Sukhjeet Singh$CIT=ENSDF$CUT=08-Mar-2022$    
+224U   H TYP=FUL$AUT=SUKHJEET SINGH, BALRAJ SINGH$CIT=NDS 130, 127 (2015)$      
+224U 2 H CUT=15-Oct-2015$                                                       
+224U  c  2003Ni10: {+228}Pu produced in {+198}Pt({+34}S,4n),E=170,172 MeV;      
+224U 2c  measured E|a, T{-1/2}.                                                 
+224U  c  1994An02, 1994Ye08: {+208}Pb({+24}Mg,4n) at beam energy                
+224U 2c  E=5.50 MeV/nucleon, genetic correlations with the |a decay of          
+224U 3c  {+224}U and its daughter products; measured E|a. Half-life could not   
+224U 4c  be measured in this work                                               
+224U  cA HF$For HF(7810|a)=1.0, deduced r{-0}=1.480 fm {I6} for T{-1/2}=1.1 s,  
+224U 2cA 1.435 fm {I6} for T{-1/2}=3.1 s, 1.506 fm {I6} for T{-1/2}=0.6 s; with 
+224U 3cA an average r{-0}=1.474 {I20} for {+224}U. In 2020Si16 evaluation,      
+224U 4cA r{-0}=1.480 {I42}                                                      
+228PU  P 0             0+                1.1 S   +20-5          7940      18    
+228PU cP T$From {+228}Pu Adopted Levels in the ENSDF database (Dec 2012 update, 
+228PU2cP value taken from 2003Ni10, no new references after this evaluation)    
+228PU cP QP$From 2021Wa16                                                       
+224U   N                        1.0                                             
+224U  cN BR$%|a=100, based on %|e+%|b{++}<0.5 from Gross theory of |b decay     
+224U 2cN (1973Ta30); <0.03% from theoretical calculations in 2019Mo01           
+224U   L 0            0+                                                        
+224U   A 7810      20             1.0                                           
+224U  cA E$ from 1994An02. Other: 7772 {I35} (2003Ni10)                         

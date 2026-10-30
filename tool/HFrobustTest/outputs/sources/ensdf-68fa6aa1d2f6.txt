@@ -1,0 +1,569 @@
+233PA    ADOPTED LEVELS, GAMMAS                                  20NDS    202012
+233PA  H TYP=FUL$AUT=B. Singh, J. K. Tuli,  E. Browne$CIT=NDS 170, 499 (2020)$  
+233PA2 H CUT=8-Oct-2020$                                                        
+233PA  Q 570.3     20 6528   8 5246.3  11 4375   12    2017WA10                 
+233PA cQ $S(2n)=12077.6 {I17}, S(2p)=12851 {I13} (2017Wa10)                     
+233PA c  See {+232}Pa(n,|g),(n,n):resonances dataset for 28 neutron             
+233PA2c  resonances in the energy range of 0.33 eV to 20.63 eV.                 
+233PA c  Other reaction:                                                        
+233PA c  1998Er01, 1995Er02, 1993Er01: {+232}Th(d,nF),E=7.5-15.6 MeV;           
+233PA2c  measured fission fragment |s(|q) using single-crystal targets,         
+233PA3c  and blocking technique. Deduced deduced mean fission lifetimes vs      
+233PA4c  excitation energy, and level densities in second potential well.       
+233PA c  Theoretical studies: consult the NSR database at www.nndc.bnl.gov for  
+233PA2c  16 references dealing with theoretical structure calculations, and     
+233PA3c  seven related to decay modes and half-lives                            
+233PA cG E,RI,M,MR$From {+237}Np |a decay and {+233}Th |b{+-} decay.            
+233PA2cG Recommended values represent weighted averages of E|g and I|g when     
+233PA3cG |g-ray data for a level are available from both the studies.           
+233PA4cG Exceptions are noted. The gamma-ray data from levels of high spins     
+233PA5cG (J>11/2) are available only from ({+209}Bi,{+208}Pb|g)                 
+233PA cL $Uncertain levels at 219 and 283 keV deduced from questionable         
+233PA2cL |a transitions are not included here.                                  
+233PA cL $Level energies for various configurations were calculated by          
+233PA2cL 1974Mo18 and 1975Iv06.                                                 
+233PA cL E$From least-squares fit to E|g values, assuming 0.3 keV uncertainty   
+233PA2cL for E|g when not stated. For levels populated only in                  
+233PA3cL the particle-transfer reactions, averages were taken of available data 
+233PA cL J$For low-spin states, see {+232}Th({+3}He,d),(|a,t) and               
+233PA2cL {+234}U(t,|a),(pol t,|a) datasets for methods of determining J|p       
+233PA3cL and Nilsson assignments based on vector analyzing power measurements   
+233PA4cL in (pol t,|a), and comparison of experimental and theoretical          
+233PA5cL cross sections for Nilsson orbital assignments. Assignments for        
+233PA6cL high-spin (J>11/2) states are based on probable rotational bands and   
+233PA7cL yrast population pattern in heavy-ion reactions. Additional J|p        
+233PA8cL arguments are given for individual levels.                             
+233PA CL BAND(A)$|p1/2[530],|a=+1/2.                                            
+233PA CL BAND(a)$|p1/2[530],|a=-1/2.                                            
+233PA CL BAND(B)$|p3/2[651].                                                    
+233PA2cL Perturbed by strong Coriolis interaction with |p5/2[642] and |p1/2[660]
+233PA3cL bands. See 1969BrZV, 1969Ho04, 1975El03 for discussions.               
+233PA CL BAND(C)$K|p=1/2+.                                                      
+233PA2cL Possibly mixed |p1/2[400] + |p1/2[660]                                 
+233PA3cL Strongly Coriolis coupled with |p3/2[651] and |p5/2[642] bands.        
+233PA CL BAND(D)$|p5/2[642].                                                    
+233PA2cL Strongly Coriolis coupled with |p3/2[651] band.                        
+233PA CL BAND(E)$|p5/2[523].                                                    
+233PA2cL A=6.0                                                                  
+233PA CL BAND(F)$|p3/2[521].                                                    
+233PA2cL A=6.4 {I4}                                                             
+233PA CL BAND(G)$|p3/2[402].                                                    
+233PA  XB233TH B- DECAY (21.83 M)                                               
+233PA  XA237NP A DECAY (2.144E+6 Y)                                             
+233PA  XH232TH(3HE,D),(A,T)                                                     
+233PA  XR232PA(N,G),(N,N):RESONANCES                                            
+233PA  XT234U(T,A),(POL T,A)                                                    
+233PA  XU232TH(209BI,208PBG)                                                    
+233PA PN                                                                     6  
+233PA  L 0.0          3/2-             26.975 D  13                         a   
+233PA2 L %B-=100                                                                
+233PAX L XREF=ABHTU                                                             
+233PA2 L MOMM1=4.0 7 (1989Ra17,2019StZV)                                        
+233PA2 L MOME2=-3.0 4 (1961Ma42,2016St14)                                       
+233PA cL MOMM1,MOME2$from low-temperature nuclear orientation (quoted in        
+233PA2cL 1989Ra17 compilation from Annual report of the Institute Srahlen und   
+233PA3cL Kernphysik, Universitat Bonn, p152, 1983-84); also adopted in 2019StZV 
+233PA4cL evaluation. Other: +3.4 {I8} (1961Ma42, atomic beam)                   
+233PA cL J$spin measured by atomic beam (1961Ma42). Spin and parity from        
+233PA2cL analyzing power A{-y}(|q) in (pol t,|a).                               
+233PA cL T$from 2000Us01 evaluation. Measured values: 27.02 d {I3} (2000Us01,   
+233PA2cL from |g-decay curves for eight |g rays, followed for five half-lives); 
+233PA3cL 26.9 d {I1} (1999Po33, |g-decay curve), 26.967 d {I2} (1986Jo08,       
+233PA4cL ionization chamber), 26.95 d {I6} (1957Wr37, ionization chamber and    
+233PA5cL proportional counter), 27.0 d {I1} (1956Mc60, ionization chamber and   
+233PA6cL proportional counter). Others: 27.46 d {I18} (2002Ab03, |g-decay       
+233PA7cL curve), 27 d (1947Le01), 27.4 d {I4} (1941Gr03), 25 d (1941Se09),      
+233PA8cL 27 d (E. Haggstrom: Phys. Rev. 59, 322 (1941), from conversion lines), 
+233PA9cL |?25 d (1938Me04).                                                     
+233PA  L 6.677     12 1/2-                                                  A   
+233PAX L XREF=ABU                                                               
+233PA cL J$194.9, E1 |g from 3/2+; fit to a band.                               
+233PA  G 6.68      5  100      (M1)                    3.04E3 8                 
+233PA  L 57.111    10 7/2-                                                  a   
+233PAX L XREF=ABHTU                                                             
+233PA cL J$57.1, E2 |g to 3/2-; |g from 5/2+; analyzing power A{-y}(|q)         
+233PA2cL in (pol t,|a)                                                          
+233PA  G 57.116    20 100      E2                      175.5  25                
+233PA  L 70.546    19 5/2-                                                  A   
+233PAX L XREF=ABU                                                               
+233PA cL J$131.1, E1 |g from 3/2+; |g from 7/2+ and to 1/2-                     
+233PA  G 63.94     6  100    4 (E2)                    102.0                    
+233PA  G 70.49     10 100    4 [M1+E2]                 38     27                
+233PA  L 86.481     8 5/2+             36.5 NS   4                          B   
+233PAX L XREF=AB                                                                
+233PA cL J$86.48, E1 |g to 3/2-; 29.37, E1 |g to 7/2-                           
+233PA cL T$from |a|g(t) in |a decay. Weighted average of                        
+233PA2cL 35.7 ns {I4} (1972Mc12), 36.4 ns {I5} (1972Mc29), 35.7 ns {I5}         
+233PA3cL (1972Wi11), 35.4 ns {I8} (|a(29.6|g)(t),1972Wi11), 37.4 ns {I4}        
+233PA4cL (|a(65-105 |a)(t),1971Ga16), 36.8 ns {I16} (|a(70-90 |g)(t),1968Ob02), 
+233PA5cL 36.9 ns {I5} (1961Ma10), 36.9 ns {I4} (|a(ce, <100 keV)(t),1954En11).  
+233PA  G 29.373    10 100    3  E1                     3.07                     
+233PAB G BE1W=3.15E-5 14                                                        
+233PA  G 86.485    10 84.8   9  E1                     1.43   8                 
+233PA cG CC$experimental conversion coefficient measured by 1972SeZI. Transition
+233PA2cG is anomalous, the total conversion coefficient is much enhanced as     
+233PA3cG compared to the theoretical value of 0.177.                            
+233PAB G BE1W=1.05E-6 6                                                         
+233PA  L 94.660    11 3/2+                                                  B   
+233PAX L XREF=AB                                                                
+233PA cL J$94.68, E1 |g to 3/2-; 143.2, M1+E2 |g from 5/2+; |g to 1/2-          
+233PA  G 8.22      5    1.0  AP (M1)                   1.64E3 4                 
+233PA  G 87.99     3    22.0 4 [E1]                    0.1694                   
+233PA  G 94.67     5   100.0 10 E1                     0.1398                   
+233PA  L 103.656   18 7/2+                                                  B   
+233PAX L XREF=ABH(*)T(*107)                                                     
+233PA cL J$L+1/2 from analyzing power A{-y}(|q) in (pol t,|a) for 107 {I2}      
+233PA2cL doublet gives 7/2+ for one and 9/2+ for the other; 108.7|g, M1+E2      
+233PA3cL from 5/2+; |g to 7/2-; |g branching from 9/2+, band assignment.        
+233PA  G  9.0                   [E2]                   4.2E5                   S
+233PA  G 17.40     5            [M1+E2]                8.0E3  78                
+233PAF G FL=86.481                                                              
+233PA cG E$poor fit, level-energy difference=17.18 {I2}                         
+233PA  G  46.53    4            [E1]                   0.91                     
+233PA  L 109.05     3 9/2+                                                  B   
+233PAX L XREF=AH(*)T(*107)                                                      
+233PA cL J$analyzing power and cross section in (pol t,|a) for 107 {I2} doublet 
+233PA2cL gives 7/2+ for one and 9/2+ for the other; band assignment             
+233PA  G  5.18                                                                 S
+233PA  G  22.6                                                                  
+233PA  L 133.2     2 (11/2+)                                                B   
+233PAX L XREF=A                                                                 
+233PA cL J$|g to 9/2+ member of the band; energy fit to band.                   
+233PA  G 24.14     10                                                          ?
+233PA  L 163.26     5(11/2-)                                                a   
+233PAX L XREF=AU                                                                
+233PA cL J$|g to 7/2-; |g from 9/2+; energy fit to band.                        
+233PA  G 54.40     10                                                           
+233PA  G 106.12    5            [E2]                    9.3                     
+233PA  L 169.169    9 1/2+                                                  C   
+233PAX L XREF=ABT(*171)                                                         
+233PA cL J$gammas to 1/2-, 3/2-, and 3/2+; analyzing power A{-y}(|q) in         
+233PA2cL (pol t,|a) for 171 doublet giving 1/2+ for one and 13/2+ for the other 
+233PA  G 74.57     10  16.1  7 [M1+E2]                 29     20                
+233PA  G 162.505   12  49.9  26 (E1)                   0.1574                   
+233PA cG RI$unweighted average from |b{+-} and |a decays                        
+233PA  G 169.161   10  100.0 10[E1]                    0.1431                   
+233PA  L 173       1  13/2+                                                 B   
+233PAX L XREF=HT(*171)                                                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a) for 171 doublet giving 1/2+  
+233PA2cL for one level and 13/2+ for the other                                  
+233PA  L 179.1      4(9/2-)                                                 A   
+233PAX L XREF=AU                                                                
+233PA cL J$energy fit to band; |a hindrance factor; probable |g                 
+233PA2cL to the 5/2- member of the band.                                        
+233PA  G 109.10    10                                                          ?
+233PA  L 201.645   16 3/2+                                                  C   
+233PAX L XREF=ABT(205)                                                          
+233PA cL J$201.62|g, E1 to 3/2-; |g to 5/2+; L-1/2 from analyzing power         
+233PA2cL A{-y}(|q) in (pol t,|a)                                                
+233PA  G 32.46                                                                 S
+233PA  G 115.44    20   1.1  5 [M1+E2]                 10.0   35                
+233PA  G 131.093   20  47.2  9 E1                      0.262                    
+233PA  G 194.95    2  100.0  13 E1                     0.1024                   
+233PA  G 201.673   25  21.3  5 E1                      0.0946                   
+233PA  L 212.348   13 5/2+                                                  C   
+233PAX L XREF=AB                                                                
+233PA cL J$155.24|g, E1 to 7/2-; 212.29|g, E1 to 3/2-                           
+233PA  G 108.7         41.8  18 M1(+E2)  0.9     LT    4.4    12                
+233PA cG RI$from |a decay, |g not observed in |b{+-} decay                      
+233PA  G 117.703   20  100.0 24 M1+E2    0.46    +22-13 11.5  10                
+233PA  G 141.74    10                                                          ?
+233PA  G 155.242   20   52.2 11 E1                     0.1755                   
+233PA cG RI$from |a decay. Other: 79 {I10} from |b{+-} decay                    
+233PA  G 212.32    2    89.4 18 E1                     0.0839                   
+233PA cG RI$from |a decay. Other: 224 {I21} from |b{+-} decay is in             
+233PA2cG severe disagreement. The intensities of the 117.7 and                  
+233PA3cG 212.3 |g rays given in 2008De31 measurement seem problematic.          
+233PA4cG Evaluators recommend |g-branching ratios for the 212-keV level from |a 
+233PA5cG decay, as the level is more strongly populated in this decay as        
+233PA6cG compared to that in |b{+-} decay.                                      
+233PA  L 237.904   11 5/2+                                                  D   
+233PAX L XREF=AB                                                                
+233PA cL J$favored |a decay (HF=2.86) from 5/2+ g.s. decay of {+237}Np;         
+233PA2cL 151.4|g, M1+E2 to 5/2+; 143.2|g, M1+E2 to 3/2+;                        
+233PA3cL |g rays to 7/2+ and 7/2-                                               
+233PA  G 36.24     10  1.20  24 M1+E2     0.31   9      2.1E+2 8                
+233PA cG E,RI$from |a decay. Transition not observed in |b{+-} decay            
+233PA  G 134.276   20  17.3  7 [M1+E2]   0.4     AP    8.0    AP                
+233PA  G 143.248   10  100.0 26 M1+E2    0.69    19    5.8    6                 
+233PA  G 151.408   15  58.7  7 M1+E2     0.28    12    5.9    3                 
+233PA  G 180.79    5   3.75  24 [E1]                   0.1223                   
+233PA cG E,RI$from |a decay. Other: 9.7 {I26} in |b{+-} decay                   
+233PA  G 237.884   24  13.76 22 [E1]                   0.0645                   
+233PA  L 257.173   14 5/2-                                                  E   
+233PAX L XREF=AB                                                                
+233PA cL J$257.37|g, M1+E2 to 3/2-; 186.8|g, M1+E2 to 5/2-; |g to 7/2+          
+233PA  G 153.5     1   77.7  12[E1]                    0.180                    
+233PA cG $All |g data from 257 level are from |b{+-} decay. This level may be   
+233PA2cG weakly populated in |a decay                                           
+233PA  G 162.504   12  70    10[E1]                    0.1574                   
+233PA  G 170.9     3   96.8  12[E1]                    0.1397                   
+233PA  G 186.8     1   39.9  14 M1+E2     0.8    3     2.5    5                 
+233PA  G 250.5     3   9.0   6 [E2]                    0.317                    
+233PA  G 257.37    15 100.0  21 M1+E2     1.1    2     0.80   12                
+233PA  L 279.727   21(7/2+)                                                 C   
+233PAX L XREF=A                                                                 
+233PA cL J$gammas to 5/2+, 5/2- and 9/2+; pattern of |g decays to 1/2[501]      
+233PA2cL and 3/2[651] bands.                                                    
+233PA  G 170.62    5  46     9  [M1+E2]   0.4    AP    4.0    AP                
+233PA  G 176.09    5  37     9  [M1+E2]   0.4    AP    3.67   AP                
+233PA  G 193.24    3  100    4  [M1+E2]   0.4    AP    2.8    AP                
+233PA  G 209.20    3  32.5   21 [E1]                   0.087                    
+233PA  G 222.6     2  4.6    23 [E1]                   0.075                    
+233PA  L 296          (5/2+,11/2-)                                              
+233PAX L XREF=T                                                                 
+233PA cL E$298 {I3} in ({+3}He,d),(|a,t) agrees in energy with that from        
+233PA2cL (pol t,|a), but a doublet with L=(4+3) and 7/2+ and 7/2- is            
+233PA3cL proposed in ({+3}He,d),(|a,t)                                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 300.489   25 7/2+                                                  D   
+233PAX L XREF=AH(*298)                                                          
+233PA cL E$298 {I3} in ({+3}He,d),(|a,t) with L-(4+3) and 7/2+ and 7/2- is      
+233PA2cL proposed                                                               
+233PA cL J$62.6|g to 5/2+ member of the band; pattern of |g transitions to      
+233PA2cL 3/2[651] band; ({+3}He,d),(|a,t) data                                  
+233PA  G 62.59     10 17     6  [M1+E2]                 65    49                
+233PA  G 191.43    3  52     4  [M1+E2]                 2.0   12                
+233PA  G 196.85    5  59     3  [M1+E2]   0.4    AP     2.67  AP                
+233PA  G 214.01    4  100    3  [M1+E2]   0.4    AP     2.1   AP                
+233PA  G 229.94    5  31     8  [E1]                    0.0697                  
+233PA  L 303.62     6(9/2+)                                                 C   
+233PAX L XREF=A                                                                 
+233PA cL J$|g to 7/2+,3/2[651] state; band assignment. Unfavored |a decay       
+233PA2cL (HF=127) from 5/2+ ground state of {+237}Np supports the assignment    
+233PA  G 139.9     1  13.9   12 [E1]                    0.225                  ?
+233PAF G FL=163.26                                                              
+233PA  G 194.67    20 100    24 [M1+E2]                 1.9   12                
+233PA  G 199.95    6   16.1  24 [M1+E2]                 1.8   11                
+233PA  L 306.04    10 (7/2-)                                                E   
+233PAX L XREF=AH(*298)                                                          
+233PA cL E$298 {I3} in ({+3}He,d),(|a,t) with L=(4+3) and 7/2+ and 7/2- is      
+233PA2cL proposed                                                               
+233PA cL J$|g to 5/2- member of the band, gammas to 5/2+ and 7/2-               
+233PA2cL levels; ({+3}He,d) and (|a,t) data; energy fit to band.                
+233PA  G 48.96     10           [M1+E2]                2.0E2  17               ?
+233PA  G 219.8                  [E1]                   0.0774                  ?
+233PA  G 248.93    10           [M1+E2]                0.9    6                 
+233PA  L 323.6      3 (15/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 160.3                                                                  
+233PA  L 330.9      5 (13/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 151.8                                                                  
+233PA  L 355          3/2+                                                      
+233PAX L XREF=T                                                                 
+233PA cL E$the levels in (pol t,|a) and ({+3}He,d),(|a,t) are at the same       
+233PA2cL energy, but different J|p values are proposed                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 355       2  (9/2-)                                                E   
+233PAX L XREF=H                                                                 
+233PA cL E$see comment for 355, 3/2+ level                                      
+233PA cL J$L=(5) from |s({+3}He,d))/|s(|a,t); band assignment                   
+233PA  L 365.94     7 9/2+                                                  D   
+233PAX L XREF=A                                                                 
+233PA cL J$|g branchings to 5/2+, 9/2+ and (11/2-) levels; band assignment.     
+233PA2cL Unfavored |a decay (HF=59) from 5/2+ ground state of {+237}Np supports 
+233PA3cL the assignment                                                         
+233PA  G 153.37    10  56    10 [E2]                    1.96                    
+233PA  G 186.86    35  28    28 [E1]                    0.113                   
+233PA  G 202.9     2   44    18 [E1]                    0.093                   
+233PA  G 257.09    20  59    13 [M1+E2]                 0.9   6             *   
+233PA  G 262.44    15  43.1  18 [M1+E2]                 0.8   6                 
+233PA  G 279.65    20  100   4  [E2]                    0.222                   
+233PA  L 421       4  (11/2-)                                               E  ?
+233PAX L XREF=HT(411)                                                           
+233PA cL J$L=(5) from |s({+3}He,d))/|s(|a,t); band assignment                   
+233PA  L 447.731   14  3/2-                                                     
+233PAX L XREF=BH(*)                                                             
+233PA cL J$190.55|g, M1+E2 to 5/2-; 440.9|g, M1(+E2) to 1/2-.                   
+233PA2cL Configuration=|p3/2[532] suggested by 1970Se06.                        
+233PA  G 190.552   14  45.0  7 M1(+E2)    0.5    LT    2.8    5                 
+233PA  G 210.6     2    9.3  6  [E1]                   0.0855                   
+233PAF G FL=237.904                                                             
+233PA  G 246.0     3    2.1  3  [E1]                   0.0597                   
+233PA  G 278.7     4    2.5  3  [E1]                   0.045                    
+233PA  G 361.4     2    11.4 3  [E1]                   0.0255                   
+233PA  G 377.2     2    14.4 5 [M1+E2]                 0.29   20                
+233PA  G 440.94    4  100.0  12 M1(+E2)  0.7     LT    0.28   5                 
+233PA  G 447.762   20  54.6  8  M1(+E2)  0.6     LT    0.28   4                 
+233PA  L 454.42     4 3/2+                                                  G   
+233PAX L XREF=BH(*)T                                                            
+233PA cL J$359.7|g, M1(+E2) to 3/2+; 285.5|g, M1(+E2) to 1/2+; |g rays          
+233PA2cL to 5/2+ and 5/2-; analyzing power A{-y}(|q) in (pol t,|a)              
+233PA  G 216.7     2   15.0  8 [M1+E2]                 1.4    9                 
+233PA  G 242.3          3.3  7  [M1+E2]                1.0    7                 
+233PA  G 252.9     3    7.6  4 [M1+E2]                 0.9    6                 
+233PA  G 285.5     3   17.7  10 M1(+E2)   0.7    LT    0.92   14                
+233PA  G 359.74    4   100.0 13 M1(+E2)   0.23   LT    0.54   3                 
+233PA  G 368.0     3    4.3  88[M1+E2]                 0.31   22                
+233PA  G 383.5          2.2  7  [E1]                   0.0225                   
+233PA  L 488           (5/2+)                                               G   
+233PAX L XREF=T                                                                 
+233PA cL J$from cross section data and band assignment in (t,|a)                
+233PA  L 517.7      6 (17/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 186.8                                                                  
+233PA  L 528.8      5 (19/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 205.2                                                                  
+233PAF G FL=323.6                                                               
+233PA  L 529       2  (13/2+)                                                   
+233PAX L XREF=HT(523)                                                           
+233PA cL J$L=(6) in ({+3}He,d),(|a,t) and proposed 13/2+ member of              
+233PA2cL configuration=|p1/2[660]                                               
+233PA  L 553.883   13 1/2+,3/2+                                                 
+233PAX L XREF=B                                                                 
+233PA cL J$459.2, M1(+E2) |g to 3/2+; |b feeding from 1/2+ parent,              
+233PA2cL log| {Ift}=6.8                                                         
+233PA  G 316.1        0.37   4  [M1,E2]                0.47   33                
+233PA  G 459.222   7  100.0  10 M1(+E2)   0.6    LT    0.26   4                 
+233PA  G 467.6     3   1.46  4 [M1,E2]                 0.16   11                
+233PA  G 497.1     4   1.29  4                                                 ?
+233PA cG $Placement considered uncertain as it involves transition from         
+233PA2cG 1/2+,3/2+ level to 7/2-, 57 level                                      
+233PA  G 553.7         0.30  3                                                  
+233PA  L 555           11/2+                                                    
+233PAX L XREF=T                                                                 
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 585.48     3 3/2+                                                      
+233PAX L XREF=B                                                                 
+233PA cL J$499.0, M1(+E2) |g to 5/2+; 490.8, M1 |g to 3/2+;                     
+233PA2cL |b feeding from 1/2+ parent, log| {Ift}=7.6                            
+233PA  G 347.4     3    9.2  5 [M1+E2]                 0.37   25                
+233PA  G 490.80    6   68.4  10 M1(+E2)   0.6    LT    0.21   3                 
+233PA  G 499.02    4  100.0  11 M1(+E2)   0.8    LT    0.19   4                 
+233PA  G 578.7         1.08  32                                                 
+233PA  L 586           7/2+                                                     
+233PAX L XREF=T                                                                 
+233PA cL E$586 in (t,|a) and 589 {I4} in ({+3}He,d),(|a,t) agree in             
+233PA2cL energy, but different J|p values are proposed                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 589       4  (13/2+)                                               D   
+233PAX L XREF=H                                                                 
+233PA cL E$see comment for 586 level                                            
+233PA cL J$L=(6) in ({+3}He,d),(|a,t), and proposed 13/2+ member of             
+233PA2cL 5/2[642]                                                               
+233PA  L 669.88     3 3/2-                                                  F   
+233PAX L XREF=BH                                                                
+233PA cL J$412.5, M1+E2 |g to 5/2-; L=(1) in ({+3}He,d),(|a,t) and              
+233PA2cL proposed bandhead of 3/2[521] configuration                            
+233PA  G 412.5     5    100  9  M1+E2     1.0    3     0.23   6                 
+233PA  G 583.2           19  6                                                  
+233PA  G 663.3     5     45  6 [M1+E2]                 0.07   4                 
+233PA  G 669.885   28    17  AP [M1+E2]                0.06   4             @   
+233PA  L 703          (3/2-)                                                    
+233PAX L XREF=T                                                                 
+233PA cL E$703 in (t,|a) and 704 {I3} in ({+3}He,d),(|a,t) agree in             
+233PA2cL energy, but different J|p values are proposed                          
+233PA cL J$analyzing power A{-y} in (pol t,|a)                                  
+233PA  L 704       3   (5/2-)                                               F   
+233PAX L XREF=H                                                                 
+233PA cL J$L=(3) in ({+3}He,d),(|a,t), and proposed 5/2- member of 3/2[521]     
+233PA2cL configuration                                                          
+233PA  L 739.3      7 (21/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 221.6                                                                  
+233PA  L 749       1 (7/2-)                                                 F   
+233PAX L XREF=HT(742)                                                           
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a); also L=(3) in ({+3}He,d),   
+233PA2cL (|a,t) and proposed 7/2- member of 3/2[521] configuration              
+233PA  L 764.54     3 1/2+,3/2+                                                 
+233PAX L XREF=B                                                                 
+233PA cL J$595.2|g, M1(+E2) |g to 1/2+                                          
+233PA  G 179.1     1  5.53   10 M1(+E2)  0.7     LT    3.4    5                 
+233PA  G 211.3     2  4.02   18 M1+E2    1.0     3     1.5    4                 
+233PAF G FL=553.883                                                             
+233PA  G 309.9        0.64   6 [M1+E2]                 0.50   34                
+233PA  G 526.5     2  9.22   20[M1,E2]                 0.12   8                 
+233PA  G 552.2     2  3.28   10[M1,E2]                 0.11   7                 
+233PA  G 562.6     2  10.85  22[M1+E2]                 0.10   7                 
+233PA  G 595.2     2  23.45  28 M1(+E2)   0.9    LT    0.12   3                 
+233PA  G 669.885   28 100.0  10 M1(+E2)   0.5    LT    0.097  9             @   
+233PA  G 678.04    10 12.88  18[M1,E2]                 0.06   4                 
+233PA  G 757.6     2  6.45   14                                                 
+233PA  G 764.3     2  17.73  22                                                 
+233PA  L 776.7      6 (23/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 247.9                                                                  
+233PAF G FL=528.8                                                               
+233PA  L 803       4 (9/2-)                                                 F   
+233PAX L XREF=H(?)T(800)                                                        
+233PA cL J$L=(5) in ({+3}He,d),(|a,t) and proposed 9/2- member of 3/2[521]      
+233PA2cL configuration                                                          
+233PA  L 811.61     6  3/2+                                                     
+233PAX L XREF=B                                                                 
+233PA cL J$226.3, M1+E2 |g to 3/2+; 725.0|g, M1(+E2) to 5/2+;                   
+233PA2cL |b feeding from 1/2+ parent, log| {Ift}=6.6                            
+233PA  G 226.3     1   27.0  11 M1+E2     0.7    3      1.5    3                
+233PAF G FL=585.48                                                              
+233PA  G 257.30    15           [M1+E2]                 0.8    6            *   
+233PAF G FL=553.883                                                             
+233PA  G 573.6     3   52.5  14[M1+E2]                 0.10    6                
+233PA  G 599.3     2   46.5  8 [M1+E2]                 0.09    6                
+233PA  G 610.0     3   89.6  18[M1+E2]                 0.08    5                
+233PA  G 642.5     2   31.9  8 [M1+E2]                 0.07    5                
+233PA  G 707.9     5   14.4  8 [E2]                    0.0209                   
+233PA  G 716.9     4   66.5  13[M1+E2]                 0.054  34                
+233PA  G 725.0     4  100.0  14 M1(+E2)   0.5    LT    0.078   7                
+233PA  G 740.9     2   37.3  8                                                  
+233PA  G 805.2     2   33.8  10                                                 
+233PA  G 811.4     7    9.5  3                                                  
+233PA  L 852       4                                                            
+233PAX L XREF=HT(833)                                                           
+233PA  L 871       2   (11/2-)                                              F   
+233PAX L XREF=H                                                                 
+233PA cL E$871 {I2} in ({+3}He,d),(|a,t) and 872 in (pol t,|a) agree in         
+233PA2cL energy, but different J|p values are proposed in the two studies       
+233PA cL J$L=(5) in ({+3}He,d),(|a,t) and proposed 11/2- member of 3/2[521]     
+233PA2cL configuration                                                          
+233PA  L 872         (3/2-)                                                     
+233PAX L XREF=T                                                                 
+233PA cL E$see comment for 871 level                                            
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 941.97    22  (3/2)                                                    
+233PAX L XREF=BT(942)                                                           
+233PA cL J$|b feeding from 1/2+ parent with log| {Ift}=6.95;                    
+233PA2cL |g rays to 5/2- and 5/2+                                               
+233PA  G 703.6     5   24.7  14                                                 
+233PA  G 870.7     7    8.4  6                                                  
+233PA  G 935.5     3  100.0  19                                                 
+233PA  G 942.2     5   13.0  8                                                  
+233PA  L 968.6      3  (1/2,3/2)                                                
+233PAX L XREF=B                                                                 
+233PA cL J$|b feeding from 1/2+ parent with log| {Ift}=7.2                      
+233PA  G 873.9     3  100.0  25                                                 
+233PA  G 962.8     9   12.5  17                                                 
+233PA  G 968.6     10  69.2  25                                                 
+233PA  L 984.78    11 (3/2)+                                                    
+233PAX L XREF=BH(*)                                                             
+233PA cL J$431.4, M1(+E2) |g to 1/2+,3/2+; gammas to 1/2- and 7/2+.             
+233PA  G 398.8     2     10.6 7[M1+E2]                 0.25   18                
+233PAF G FL=585.48                                                              
+233PA  G 431.4     5     16.9 4 M1(+E2)   0.5    LT    0.31   3                 
+233PAF G FL=553.883                                                             
+233PA  G 727.8         2.76  19                                                 
+233PA  G 783.3     4   5.3   3 [M1+E2]                 0.043  26                
+233PA  G 816.1     2   18.5  6 [M1+E2]                 0.039  24                
+233PA  G 880.7     3    9.2  4 [E2]                    0.01345                  
+233PA  G 890.0     3  100.0  13[M1+E2]                 0.031  18                
+233PA  G 898.4     8    2.1  4 [M1+E2]                 0.030  18                
+233PA  G 978.6     8    5.5  3                                                  
+233PA  G 985.0     8    9.7  3                                                  
+233PA  L 992.9      7 (25/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 253.6                                                                  
+233PAF G FL=739.3                                                               
+233PA  L 998          (9/2+)                                                    
+233PAX L XREF=H(*)T                                                             
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a); 9/2+, 1/2[660]              
+233PA2cL configuration proposed by 1979Fl02; but 1977Th04 also proposed         
+233PA3cL tentative 11/2-, 9/2[514], both in (t,|a)                              
+233PA  L 1018.63   19 (3/2)                                                     
+233PAX L XREF=B                                                                 
+233PA cL J$|g rays to 5/2+, 5/2-, 1/2+ and 1/2- levels; log| {Ift}=6.6 from     
+233PA2cL 1/2+ parent                                                            
+233PA  G 433.2     4     95  3                                                  
+233PAF G FL=585.48                                                              
+233PA  G 464.8          21.1 25                                                 
+233PAF G FL=553.883                                                             
+233PA  G 806.4     5    100  4                                                  
+233PA  G 817.0     6     77  4                                                  
+233PA  G 849.3     7    31.7 25                                                 
+233PA  G 948.0     8    48.8 25                                                 
+233PA  G 1011      1    15.5 16                                                 
+233PA  L 1044      12                                                           
+233PAX L XREF=T                                                                 
+233PA  L 1062.9     6 (27/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 286.2                                                                  
+233PA  L 1064.5     6  (3/2)                                                    
+233PAX L XREF=B                                                                 
+233PA cL J$|b feeding from 1/2+ parent, log| {Ift}=7.2. J|p=3/2+                
+233PA2cL from 960.8|g to 7/2+, but 3/2- from 1007|g to 7/2-, suggesting         
+233PA3cL that one of these placements is questionable. The weak                 
+233PA4cL 994.3|g to 5/2- is consistent with both the assignments.               
+233PA  G 960.8     8   100   5                                                  
+233PA  G 994.3     10  14.6  25                                                 
+233PA  G 1007      1    34   5                                                  
+233PA  L 1073          5/2+                                                     
+233PAX L XREF=T                                                                 
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 1138.94   22  (1/2,3/2)                                                
+233PAX L XREF=B                                                                 
+233PA cL J$|b feeding from 1/2+ parent with log| {Ift}=7.3                      
+233PA  G 1132.1      100     33                                                 
+233PA  G 1139.1      67      17                                                 
+233PA  L 1143      3                                                            
+233PAX L XREF=H                                                                 
+233PA  L 1179      3  1/2+                                                      
+233PAX L XREF=HT(1176)                                                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 1240      3  (1/2+,3/2-)                                               
+233PAX L XREF=HT(1233)                                                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 1274       5  1/2+                                                     
+233PAX L XREF=HT(1267)                                                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 1276.5     8 (29/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 283.6                                                                  
+233PAF G FL=992.9                                                               
+233PA  L 1318      4  1/2+                                                      
+233PAX L XREF=HT(1308)                                                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 1358      4                                                            
+233PAX L XREF=H                                                                 
+233PA  L 1384.7     7 (31/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 321.8                                                                  
+233PAF G FL=1062.9                                                              
+233PA  L 1386        5/2+                                                       
+233PAX L XREF=T                                                                 
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 1403      3  5/2+                                                      
+233PAX L XREF=HT(1417)                                                          
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 1486         (5/2+,11/2-)                                              
+233PAX L XREF=T                                                                 
+233PA cL J$analyzing power A{-y}(|q) in (pol t,|a)                              
+233PA  L 1557                                                                   
+233PAX L XREF=T                                                                 
+233PA  L 1588.6     9 (33/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 312.1                                                                  
+233PAF G FL=1276.5                                                              
+233PA  L 1625                                                                   
+233PAX L XREF=T                                                                 
+233PA  L 1680                                                                   
+233PAX L XREF=T                                                                 
+233PA  L 1738.4     8 (35/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 353.7                                                                  
+233PAF G FL=1384.7                                                              
+233PA  L 1928.8     9 (37/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 340.2                                                                  
+233PA  L 2121.5     8 (39/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 383.1                                                                  
+233PA  L 2297.4    10 (41/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 368.6                                                                  
+233PA  L 2533.0    10 (43/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 411.5                                                                  
+233PA  L 2692.7    10 (45/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 395.3                                                                  
+233PA  L 2973.0    10 (47/2-)                                               a   
+233PAX L XREF=U                                                                 
+233PA  G 440.0                                                                  
+233PA  L 3115.3    11 (49/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 422.6                                                                  
+233PA  L 3569.6    11 (53/2-)                                               A   
+233PAX L XREF=U                                                                 
+233PA  G 454.3                                                                  
+233PA  L 4050.9    11 (57/2)                                                A   
+233PAX L XREF=U                                                                 
+233PA  G 481.3                                                                 ?

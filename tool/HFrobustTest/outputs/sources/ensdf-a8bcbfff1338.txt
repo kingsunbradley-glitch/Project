@@ -1,0 +1,35 @@
+256RF    260SG A DECAY (4.95 MS)       2009HE20,1985MU11         17NDS    201704
+256RF  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 141, 327 (2017)$CUT=22-Mar-2017$      
+256RF c  {+260}Sg assignment: {+207}Pb({+54}Cr,n), {+208}Pb({+54}Cr,2n); parent 
+256RF2c  of {+256}Rf (1984De07,1984Og03,1985Mu11)                               
+256RF c  1985Mu11: measured E|a, I|a, half-life                                 
+256RF c  2009He20: {+260}Sg produced in the {+208}Pb({+54}Cr,2n) and            
+256RF2c  {+207}Pb({+54}Cr,n) reactions with the {+54}Cr beam delivered by the   
+256RF3c  charge state injector of the UNILAC accelerator at GSI Darmstadt.      
+256RF4c  Evaporation residues were separated by the velocity filter SHIP and    
+256RF5c  implanted into a 16-strip Si PIPS detector. A box of six Si-wafers was 
+256RF6c  used to measure escaping |a-particles. A Ge clover detector consisting 
+256RF7c  of four crystals was used to measure |g rays in coincidence with       
+256RF8c  particles. Measured E|a, E|g, half-lives, |s.                          
+256RF cA IA$|a intensity per 100 |a decays, measured by 1985Mu11.               
+256RF cA $r{-0}({+256}Rf)=1.456 fm {I8} from assumption of HF=1.0 for           
+256RF2cA g.s. to g.s. |a transition                                             
+256RF cL J,T$From Adopted Levels                                                
+260SG  P 0.0          0+               4.95 MS   33              9901     10    
+260SG cP T$Measured by 2009He20. Others: 3.6 ms {I+9-6} (1985Mu11,from          
+260SG2cP |a decay curves); 2.5 ms {I15} was deduced by 1984De07                 
+260SG3cP from fission counts (T{-1/2}(SF)=6 ms {I+2-1} was measured from SF     
+260SG4cP activities, and the time distribution of fission fragments were        
+260SG5cP utilized in calculation of the half-life by subtracting the SF         
+260SG6cP activities of {+256}Rf, the |a daughter; %|a>80 was assumed).          
+260SG cP QP$From 2017Wa10                                                       
+256RF  N                       0.29    3                                        
+256RF cN BR$%|a=29 {I3}, %SF=71 {I3} (2009He20). Other: %|a=50 {I+20-30}        
+256RF2cN (1985Mu11)                                                             
+256RF  L 0.0          0+                6.67 MS  10                             
+256RF  A 9750      10 83     10 1.0                                             
+256RF cA E$weighted average of 9770 {I30} (1985Mu11) and 9748 {I10} (2009He20)  
+256RF  L 51        35 (2+)                                                      
+256RF  A 9720      30 17     10 3.6    22                                       
+256RF cA HF$deduced using r{-0}({+256}Rf)=1.456 fm {I8}                         
+256RF cA E$from 1985Mu11.                                                       

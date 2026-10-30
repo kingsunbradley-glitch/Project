@@ -1,0 +1,43 @@
+259LR    ADOPTED LEVELS                                          13NDS    201309
+259LR  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+259LR2 H CUT=1-Aug-2011$                                                        
+259LR D  Modified by E. Browne (October 4, 2011).                               
+259LR  Q -2509     SY 7002   SY 2915   SY 8584   SY    2012WA38                 
+259LR cQ $Estimated |DQ(|b{+-})=101, |DS(n)=124, |DS(p)=123,                    
+259LRxcQ |DQ(|a)=71 (2012Wa38)                                                  
+259LR c                                                                         
+259LR c  Calculations, compilations:                                            
+259LR c  Favored |a decay: 1993Bu09                                             
+259LR c  g.s. properties: 2009Do22, 2008Do12, 1997Mo25, 1995Mo29                
+259LR c  Pion decay: 1988Io05                                                   
+259LR c  Single-particle Nilsson levels: 1994Cw02, 2004Pa40                     
+259LR c  Fission: 1999Zh10                                                      
+259LR c  Nuclear reactions: {+248}Cm({+15}N,4n) (2010AsZY, 2004Wa10)            
+259LR c  Calculated half-life: 2010Si27, 2008Do12                               
+259LR c  Calculated fission half-life: 2005Re16, 2000Ho27.                      
+259LR c                                                                         
+259LR c  1994Cw02 calculates the following single particle level sequence:      
+259LR2c  g.s. 7/2[514], 0.08 MeV {I1}/2[521], 0.13 MeV {I9}/2[624], 0.73 MeV    
+259LR3c  {I5}/2[642], 0.83 MeV {I7}/2[633]                                      
+259LR c                                                                         
+259LR c  Assignment: {+248}Cm({+15}N,4n), excit (1971Es01).                     
+259LR2c  {+248}Cm({+15}N,4n), parent of {+255}Md (|a-|a correlation),           
+259LR3c  grandparent of {+255}Fm (1992Gr02)                                     
+259LR c  SF mass distribution broadly symmetric with total kinetic energy       
+259LR2c  200 {I10} (1992Gr02), 216 {I3} (1992Ha22)                              
+259LR  XA263DB A DECAY                                                          
+259LR  XB259RF EC DECAY                                                         
+259LR  L 0.0                             6.2 S   3                              
+259LRX L XREF=B                                                                 
+259LR2 L %A=78 2$ %SF=22 2$                                                     
+259LR cL T         weighted average of 6.14 s {I36} (1992Ha22), 6.34 s {I+46-42}
+259LR2cL (1992Gr02). Other: 5.4 s {I8} (1971Es01)                               
+259LR cL %SF$average of SF/|a=0.25 {I3} (1992Ha22) and 0.30 {I3} (1992Gr02).    
+259LR dL           SF hindrance factor 6|*10{+3} (1992Gr02,1992Ha22).??         
+259LR cL %EC+%B+   not observed. T{-1/2}(|e+|b{++})|?1|*10{+3} s from log|      
+259LRxcL {Ift}|?5.7                                                             
+259LR cL J         favored |a decay to {+255}Md indicates same configuration    
+259LR2cL as the daughter. See {+255}Md Adopted Levels.                          
+259LR  L   0.0+X                                                                
+259LRX L XREF=A                                                                 
+259LR cL E         x=350 {I150} from {+263}Db |a decay                          

@@ -1,0 +1,60 @@
+248FM    ADOPTED LEVELS, GAMMAS                                  25NDS    202507
+248FM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 204, 374 (2025)$CUT=30-Jun-2024$     
+248FM  Q -5050     SY 7850   SY 3970   21 7995   8     2021WA16                 
+248FM cQ $|DQ(|b{+-})=180, |DS(n)=180 (syst,2021Wa16)                           
+248FM cQ $S(2n)=14436 {I16}, S(2p)=6770 {I9}, Q(|e)=1600 {I50} (syst) (2021Wa16)
+248FM CL BAND(A)   KPI=0+ GS BAND.                                              
+248FM  XA252NO A DECAY                                                          
+248FM  XB202HG(48CA,2NG)                                                        
+248FM cG E$From {+202}Hg({+48}Ca,2n|g). The 46 and 106 transitions are not      
+248FM2cG observed in that reaction. The energies are from a fit to a            
+248FM3cG rotational band formula.                                               
+248FM cL E$From the E|g data                                                    
+248FM cL J$Member of the g.s. rotational band                                   
+248FM PN                                                                     6  
+248FM  L 0.0          0+               34.5 S    12                         A   
+248FMX L XREF=AB                                                                
+248FM3 L %A<100 $ %SF=0.10 5 $ %EC<7                                            
+248FM cL %SF$from T{-1/2}(SF)=10 h {I5} (1967Nu01)                              
+248FM cL %A$Measured by 1993An10                                                
+248FM cL T$weighted average of 32.3 s {I15} from decay curve measurement        
+248FM2cL (2010KeZY) and 35.1 s {I8} from evaporation residual-|a|a correlations 
+248FM3cL measurement (2011Ga19)                                                 
+248FM  L 46        1  (2+)                                                  A   
+248FMX L XREF=AB                                                                
+248FM  G 46        1                                                           S
+248FM  L 152       2  (4+)                                                  A   
+248FMX L XREF=B                                                                 
+248FM  G 106       1                                                           S
+248FM  L 317.2     3  (6+)                                                  A   
+248FMX L XREF=B                                                                 
+248FM  G 165.2     3 100                                                        
+248FM  L 538.6     4  (8+)                                                  A   
+248FMX L XREF=B                                                                 
+248FM  G 221.4     4 100                                                        
+248FM  L 813.3     5  (10+)                                                 A   
+248FMX L XREF=B                                                                 
+248FM  G 274.7     3 100                                                        
+248FM  L 1080      AP                  10.1 MS   6                           M ?
+248FM cL E$Firm assignment of this isomer was not possible due to low statistics
+248FM2cL which did not allow construction of its decay path (2010KeZY).         
+248FM cL E$From the unplaced 904|g in 2010KeZY which is assumed to follow the   
+248FM2cL decay of the 10.1-ms isomer. This transition is in coincidence with    
+248FM3cL electrons with energy up to |?180 keV.                                 
+248FM cL $No definitive configuration assignment can be made. See               
+248FM2cL 2010KeZY for a discussion of several possibilities                     
+248FMX L XREF=B                                                                 
+248FM3 L %IT=? $ %A=? $ %EC=?                                                   
+248FM cL T$From 2010KeZY in {+202}Hg({+48}Ca,2n|g)                              
+248FM  L 1137.3    6  (12+)                                                 A   
+248FMX L XREF=B                                                                 
+248FM  G 324.0     3 100                                                        
+248FM  L 1507.7    7  (14+)                                                 A   
+248FMX L XREF=B                                                                 
+248FM  G 370.4     3 100                                                        
+248FM  L 1921      2  (16+)                                                 A   
+248FMX L XREF=B                                                                 
+248FM  G 413       1 100                                                        
+248FM  L 2372      2  (18+)                                                 A   
+248FMX L XREF=B                                                                 
+248FM  G 451       1 100                                                        

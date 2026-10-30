@@ -1,0 +1,31 @@
+257FM    ADOPTED LEVELS                                          13NDS    201309
+257FM  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+257FM2 H CUT=1-Mar-2012$                                                        
+257FM D  Modified by E. Browne (March 19, 2012)                                 
+257FM  Q -406      7  4968   6  5886   SY 6863.6 14    2012WA38                 
+257FM cQ           Estimated |DS(p)=100 (2012Wa38)                              
+257FM c                                                                         
+257FM c  Calculations, compilations:                                            
+257FM c  |a decay: 1993Bu09, 2003De17                                           
+257FM c  Spontaneous Fission: 2009Zh36, 2008Sa24, 2005Ka42, 2005Re16,           
+257FM2c  2004Ro01, 2001Ng04                                                     
+257FM c  Ground state properties: 1997Mo25, 1995Mo29                            
+257FM c  Heavy cluster spontaneous emission: 1986Po15                           
+257FM c  Pion decay: 1988Io05                                                   
+257FM c  Single-particle Nilsson levels: 1994Cw02, 2005Pa73, 2000Pa12           
+257FM c  Q(|a), T{-1/2}: 2011Zh36, 2010Ni02, 2009Sa25, 2008Do12, 2005GuZU       
+257FM c  Calculated neutron-separation energy: 2004Pa31.                        
+257FM c                                                                         
+257FM c  1994Cw02 calculate the following single-particle level sequence:       
+257FM2c  g.s., 7 /2[613]; 0.00 MeV, 11/2[725]; 0.02 MeV, 3/2[622]; 0.07 MeV,    
+257FM3c  1/2[620]; 0.20 MeV, 9/2[615].                                          
+257FM  XA257MD EC DECAY                                                         
+257FM  L 0.0         (9/2+)            100.5 D   2                              
+257FMX L XREF=A                                                                 
+257FM2 L %A=99.790 4$%SF=0.210 4                                                
+257FM cL J         from favored |a HF to (9/2+) in {+253}Cf, configuration=(|n  
+257FMxcL 9/2[615])                                                              
+257FM cL T         from 1973Wi03. Others: 85 d {I25} (1967As02), 94 d {I10}     
+257FM2cL (1966Rg01), 80 d {I5} (1965Si14), 79 d {I8} (1964Hu02)                 
+257FM cL %SF$From |a/SF=475 {i10} (1973Wi03,2000Ho27); others: 1967As02,        
+257FM2cL 1966Rg01, 1964Hu02, 1965Si14. Nucleus is |b{+-}, |e stable.            

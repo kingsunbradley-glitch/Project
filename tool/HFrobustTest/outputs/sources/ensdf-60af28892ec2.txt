@@ -1,0 +1,61 @@
+219AC    223PA A DECAY (4.9 MS)        1970BO13,1995ANZY,1999HO2821NDS    202106
+219AC  H TYP=FUL$AUT=Balraj Singh et al.,$CIT=NDS 175, 1 (2021)$CUT=19-May-2021$
+219AC c  1970Bo13: {+223}Pa activity produced in {+205}Tl({+22}Ne,4n),          
+219AC2c  {+208}Pb({+19}F,4n) and {+209}Bi({+20}Ne,|a2n) reactions. Experiments  
+219AC3c  were carried out using the heavy-ion beams from the Berkeley           
+219AC4c  heavy-ion linear accelerator (HILAC). The reaction products were       
+219AC5c  transported from the reaction cell by the helium-jet technique and     
+219AC6c  their decay was measured with a semiconductor detector.                
+219AC7c  Measured E|a, I|a, excitation functions, half-lives                    
+219AC c  1993AnZS, 1995AnZY: activity produced by fusion reactions and          
+219AC2c  separated using the electrostatic mass separator VASSILISSA. Measured  
+219AC3c  Ea, I|a, T{-1/2}. Semi conductor detector was used.                    
+219AC c  2019Mi08: {+233}Pa produced in {+181}Ta({+48}Ca,|a2n),E=212,226 MeV    
+219AC2c  reaction followed by separation of products using SHIP separator at    
+219AC3c  the UNILAC accelerator facility of GSI. The evaporation residues       
+219AC4c  (Er) and |a correlations were measured using DSSD detectors at the     
+219AC5c  COMPASS decay spectroscopy station. Measured E|a and half-life of      
+219AC6c  {+223}Pa decay from (Er)-|a{-1}-|a{-2}-|a{-3} correlations in 27       
+219AC7c  decay chains: {+223}Pa|){+219}Ac|){+215}Fr.                            
+219AC cA E$Original values from 1970Bo13 have been increased by 1 keV           
+219AC2cA because of a change in the calibration energies of the {+215}Po and    
+219AC3cA {+212}Po standard sources (1971Gr17,1977Ma31).                         
+219AC cA HF$Using r{-0}({+219}Ac)=1.5543 {I24}, interpolation of                
+219AC2cA r{-0}({+218}Ra)=1.5571 {I17} and r{-0}({+220}Th)=1.5514 {I30};         
+219AC3cA values of r{-0} taken from 2020Si16                                    
+223PA  P 0            (9/2-)           4.9 MS    4              8327      6     
+223PA cP T$From 1999Ho28 (|a decay curve). Others: 7 ms {I1} (2019Mi08, 27      
+223PA2cP (Er)-|a correlated decay chains); 5 ms {I1} (1995AnZY, 7.5 ms {I15}    
+223PA3cP in an earlier report 1993AnZS); 6.5 ms {I10} (1970Bo13, |a-decay).     
+223PA4cP Value from 1999Ho28 is preferred as this has the highest statistics.   
+223PA5cP Value from 2019Mi08 is based on only 27 events. In 1970Bo13, the |a    
+223PA6cP peaks from the decay of {+223}Pa seem statistically weak in spectral   
+223PA7cP Figs. 10 and 16. Weighted average of all the five values is            
+223PA8cP 5.3 ms {I4}.                                                           
+223PA cP J$2021Ko07 assign 9/2- based on favored |a decay to 9/2- g.s. in       
+223PA2cP {+219}Ac. However, with HF=7.6 {I21}, favored nature of |a decay       
+223PA3cP is not obvious, thus evaluators assign tentative (9/2-)                
+223PA cP QP$Deduced by evaluators from E|a=8178 {I6} to the g.s.                
+223PA2cP 2021Wa16 give 8340 {I60}, larger uncertainty assigned if 8178|a        
+223PA3cP feeds a level in 60-keV vicinity of the g.s.                           
+219AC  N                       1.0                                              
+219AC cN BR$%|a=100 for {+223}Pa |a decay                                       
+219AC  L 0              9/2-           11.8 US   15                             
+219AC cL J,T$from the Adopted Levels                                            
+219AC  A 8178       6  67    2  5.9    6                                        
+219AC cA E$weighted average of 8196 keV {I10} (1970Bo13), 8190 keV {I15}        
+219AC2cA (1995AnZY,1993AnZS), 8172 keV {I5} (1999Ho28), and 8220 {I40}          
+219AC3cA (2019Mi08)                                                             
+219AC cA IA$from 1999Ho28. Others: 43% {I3} (1995AnZY), 45% {I5} (1970Bo13)     
+219AC2cA are in disagreement. Value from 1999Ho28 is preferred due to           
+219AC3cA high resolution of the |a spectrum in their Fig. 2                     
+219AC  L 169        8                                                           
+219AC cL E$from difference of E|a to the g.s. and this level, corrected for     
+219AC2cL recoil                                                                 
+219AC  A 8012       5  33    2  3.8    5                                        
+219AC cA E$weighted average of 8006 keV {I10} (1970Bo13), 8000 keV {I15}        
+219AC2cA (1995AnZY,1993AnZS), 8014 keV {I5} (1999Ho28), and 8030 {I40}          
+219AC3cA (2019Mi08)                                                             
+219AC cA IA$from 1999Ho28. Others: 55% {I5} (1970Bo13), 57% {I3} (1995AnZY),    
+219AC2cA are in disagreement. Value from 1999Ho28 is preferred due to           
+219AC3cA high resolution of the |a spectrum in their Fig. 2                     

@@ -1,0 +1,34 @@
+250MD    ADOPTED LEVELS                                          01NDS    200112
+250MD  H TYP=FUL$AUT=Y. Akovali$CIT=NDS 94,131 (2001)$CUT=1-Aug-2001$           
+250MD  Q -2.9E3    SY6.7E3   SY2.2E3   SY8.31E3  SY    2012WA38                 
+250MD cQ $Note: Current evaluation has used the following Q record              
+250MD2cQ -2800     syst 6690   syst 2200   syst 8310   syst    1995Au04         
+250MD t  Assignment:                                                            
+250MD t           {+238}U({+19}F,7n)  excitation function, parent of {+250}Fm (1
+250MD+t  965Do09)                                                               
+250MD t           {+243}Am({+12}C,5n), {+243}Am({+13}C,6n)  excitation functions
+250MD+t   (1973Es01)                                                            
+250MD c                                                                         
+250MD c  For calculations of fission barriers, see 1985Cw01.                    
+250MD c  Partial half-life for SF decay was calculated by 1985Lo17.             
+250MD c  For calculations of levels and configurations, see 2000So15.           
+250MD  XA254LR A DECAY                                                          
+250MD  L 0.0                           52 S      6                              
+250MDX L XREF=A                                                                 
+250MD cL T         measurement by 1973Es01. Other measurement:                  
+250MD2cL 40 s {I+37-13} (1985He22).                                             
+250MD2 L %EC=93 3$ %A=7 3                                                       
+250MD cL           %|a and %|e are obtained from |e/(|a+|e)=0.94 {I3},          
+250MD2cL determined by 1973Es01 from comparison of {+250}Fm (|e daughter) |a    
+250MD3cL counts and {+250}Md |a counts. Other measurement:%|a=13 {I10}          
+250MDxcL (1985He22).                                                            
+250MD cL           |e-delayed fission was measured, and branching of            
+250MD2cL 0.02 {I+2-1} per 100 |e decays was determined by 1980Ga07.             
+250MD cL           Analogy to {+255}Md, {+257}Md ground states for the 101st    
+250MD2cL proton orbital and analogy to {+245}Cm, {+247}Cf for the 149th         
+250MD3cL neutron, the {+250}Md g.s. possibly has the 7-,(p 7/2[514],n 7/2[624]) 
+250MDxcL configuration.                                                         
+250MD  L 250       AP                                                           
+250MDX L XREF=A                                                                 
+250MD  L 310       AP                                                           
+250MDX L XREF=A                                                                 

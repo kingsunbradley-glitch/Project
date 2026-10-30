@@ -1,0 +1,623 @@
+237NP    ADOPTED LEVELS, GAMMAS                                  06NDS    200608
+237NP  H TYP=MOD$AUT=M.S. BASUNIA$DAT=27-Jun-2012$COM=updated T (59.5 Level)$   
+237NP  H TYP=FUL$AUT=M.S. Basunia$CIT=NDS 107, 2323 (2006)$CUT=15-Mar-2006$     
+237NP  Q -220.0    136.58E3  5 4862.02 234958.5  11    2012WA38                 
+237NP cQ $Note: Current evaluation has used the following Q record              
+237NP2cQ -220.0    13 {I6580}   50 {I4862}.0223 {I4958}.3 {I12}    2003Au03     
+237NP c  Energies and structures of various states were calculated in 1971Ga20. 
+237NP2c  See also 1976Ch22 and 1972Be91 for calculated energies.                
+237NP c  Quadrupole and hexadecapole deformations were calculated from          
+237NP2c  single-particle energies in 1976Ch22.                                  
+237NP3c                                                                         
+237NP cG E,RI      From {+241}Am |a decay, except otherwise noted.              
+237NP cG E(X),RI(X)$From {+237}Np({+209}Bi,|g).                                 
+237NP cG E(W)      From {+237}U |b{+-} decay.                                   
+237NP cG RI(U)     From {+237}U |b{+-} decay.                                   
+237NP cG E(V),RI(V)$From {+238}U(p,2n|g).                                       
+237NP cG E(T)      From {+237}Pu |e decay.                                      
+237NP cG M,MR      Multipolarities and mixings are from {+241}Am, {+237}U, and  
+237NP2cG {+237}Pu decays.                                                       
+237NP cG CC(Z)     Experimental value; transition is anomalously converted.     
+237NP cG RI(Y)     Total observed intensity is assigned to the strong           
+237NP2cG component. The relative branching of the other component could not     
+237NP3cG be estimated.                                                          
+237NP cL E         From a least squares fit to the adopted |g-ray energies.     
+237NP cL J         The assignments are based on rotational band structure;      
+237NP2cL comparison of experimental spectroscopic factors with theory in        
+237NP3cL ({+3}He,d) and (|a,t); and the relative cross sections in (d,d')       
+237NP4cL studies. Additional arguments in the comment section.                  
+237NP cL J(A,G,B,H)$Assignments for 9/2+<J|p>59/2+ are also based on Coulomb    
+237NP2cL excitation, intraband transitions, and fit to the band, except         
+237NP3cL J|p 59/2+ and J|p 61/2+.                                               
+237NP CL BAND(A)   5/2[642] BAND: |a=+1/2                                       
+237NP2cL Small rotational band parameter of A=4.7 indicate that this band is    
+237NP3cL probably mixed with the 7/2[633] and 3/2[651] bands.                   
+237NP CL BAND(I)   5/2[642] BAND: |a=-1/2                                       
+237NP2cL Small rotational band parameter of A=4.7 indicate that this band is    
+237NP3cL probably mixed with the 7/2[633] and 3/2[651] bands.                   
+237NP CL BAND(B)   5/2[523] BAND: |a=+1/2                                       
+237NP CL BAND(H)   5/2[523] BAND: |a=-1/2                                       
+237NP CL BAND(D)   1/2[530] BAND                                                
+237NP CL BAND(E)   1/2[400] BAND                                                
+237NP CL BAND(G)   3/2[521] BAND                                                
+237NP CL BAND(F)   KPI=5/2- BAND                                                
+237NP2cL Low hindrance factor for the |a transitions from {+241}Am and strong   
+237NP3cL E0+E2+M1 (662|g) from 5/2- state to 5/2-[523] state, 653|g from 7/2- to
+237NP4cL 7/2-,5/2[523] state suggest that this is a |b-vibrational band         
+237NP5cL built on 5/2[523] state. However, levels                               
+237NP6cL are also seen in (d,d') reaction where |b-vibrational                  
+237NP7cL band is not expected to be populated strongly. The relative            
+237NP8cL cross sections indicate that the levels are populated in L=3           
+237NP9cL transfer. It is suggested in 1976Th01 that an octupole (K=0-)          
+237NPAcL vibrational band built on 5/2[642] state. Possibly it is a mixture of  
+237NPBcL both collectivity.                                                     
+237NP  XA241AM A DECAY                                                          
+237NP  XB237U B- DECAY                                                          
+237NP  XE237PU EC DECAY                                                         
+237NP  XCCOULOMB EXCITATION                                                     
+237NP  XH236U(3HE,D), 236U(A,T)                                                 
+237NP  XD237NP(D,D')                                                            
+237NP  XP238U(P,2NG)                                                            
+237NP  XG237NP(G,X),(E,X),(MU,X)                                                
+237NP  XF237NP(209BI,G)                                                         
+237NP PN                                                                     6  
+237NP  L 0.0          5/2+             2.144E+6 Y 7                         A   
+237NP2 L %A=100$ %SF LE 2E-10                                                   
+237NP3 L XREF=ABECDPF                                                           
+237NP cL J         spin measured (see 1976Fu06, 1989Ra17 for references).       
+237NP2cL Orbital assignment from J and |m. See 1972El21, 1976Ch22 and           
+237NP3cL 1982Li02 for calculated |m values.                                     
+237NP4 L MOMM1=+3.14 4$ MOME2=+3.886 6 (1989Ra17)                               
+237NP cL T         From 1992Lo03 (specific activity). Earlier                   
+237NP2cL measurements: 2.20|*10{+6} y {I11} (1949Ma01), 2.14|*10{+6} y {I1}     
+237NPxcL (1960Br12).                                                            
+237NP cL           T{-1/2}(SF)|>1.|*10{+18} y (1961Dr04).                       
+237NP cL           1988Io05 and 1992Gr16 calculate T{-1/2}(SF) to be about      
+237NP2cL 10{+18} y and 10{+14} y, respectively. Decay by pion emission was also 
+237NP3cL studied and branching relative to spontaneous fission was calculated   
+237NP4cL in 1988Io05.                                                           
+237NP cL           From nonobservation of any cluster decays, 1992Mo03 deduced  
+237NP2cL that branching for ({+30}Mg or {+32}Si) decay/branching for |a         
+237NP3cL decay<1.8|*10{+-14}. Similarly, 1985TrZY obtained (%cluster            
+237NPxcL decay/%alpha decay)<8|*10{+-14}.                                       
+237NP cL           Decays by heavy particle emissions have been studied and     
+237NP2cL partial half-lives have been calculated by various groups by using     
+237NP3cL various models. See, for example, 1984Po08, 1985Po12, 1985Pr01,        
+237NP4cL 1986Ir01, 1986Po15, 1987Po08, 1987Sh04, 1988Bl11, 1988Iv02, 1989Bu06,  
+237NP5cL 1989Si13, 1989Ma43, 1989Sh37, 1989Si13, 1990Ba20, 1990Bu09, 1990Sh01,  
+237NPxcL 1992Gu10, 1993Go18 and 1993Gr15.                                       
+237NP  L 33.19629  22 7/2+               54 PS   24                         I   
+237NP cL J         33.196|g M1+E2 to 5/2+ state; Coulomb excitation.            
+237NP cL T         From Coulomb exitation using B(E2)=3.1 {I8} and adopted      
+237NP2cL |g-properties.                                                         
+237NP3 L XREF=ABECDHPF                                                          
+237NP  G 33.196    1  100      M1+E2     0.13    3     185    23                
+237NPB G BM1W=0.06 3$BE2W=2.7E+2 18                                             
+237NP  L 59.54092  10 5/2-             67.2 NS   7                          B   
+237NP2 L MOMM1=+1.68 3  $ MOME2=+3.85 4 (1989Ra17)                              
+237NP3 L XREF=ABEPF                                                             
+237NP cL           See 1972El21, 1982Li02 for calculated |m values.             
+237NP cL J         favored |a decay from {+241}Am.                              
+237NP cL T         From |a|g(t) in {+241}Am |a decay. T{-1/2}=63 ns {I5} was    
+237NP2cL measured in {+237}U |b{+-} decay.                                      
+237NP  G 26.3446   2  6.69   6  E1                     8      2             Z   
+237NP3 G FLAG=T                                                                 
+237NPB G BE1W=3.5E-6 12                                                         
+237NP  G 59.5409   1  100    11 E1                     1.16   7             Z   
+237NP3 G FLAG=T                                                                 
+237NPB G BE1W=4.5E-6 8                                                          
+237NP  L 75.899     5 9/2+               28 PS   AP                         A   
+237NP2 L XREF=ABECDHPF                                                          
+237NP cL T         From Coulomb exitation.                                      
+237NP  G 42.704    5  100    20 (M1+E2)  0.13    AP    80     AP                
+237NP  G 75.8      2  11     AP                                                 
+237NP  L 102.959    3 7/2-             80 PS     40                         H   
+237NP2 L XREF=ABEDPFH                                                           
+237NP cL J         43.423|g M1+E2 to 5/2- state; |a hindrance factor;           
+237NP2cL intensities of 69.76|g (E1) and 102.98|g E1 transitions to             
+237NP3cL the 7/2+ and 5/2+ states, respectively.                                
+237NP cL T         From Doppler shift of ce(L3) 43.4|g (1965Wo02).              
+237NP  G 27.020    7                                                           ?
+237NP2 G FL=75.899                                                              
+237NP  G 43.420    3  100    11 M1+E2    0.41    2     167    9                 
+237NPB G BM1W=0.017 10 $ BE2W=4.5E+2 25                                         
+237NP  G 69.76     3  4.0    5 (E1)                    0.336                    
+237NPB G BE1W=1.5E-6 9                                                          
+237NP  G 102.98    2  27     3  E1                     0.121                    
+237NPB G BE1W=3.2E-6 18                                                         
+237NP  L 129.99     3 11/2+                                                 I   
+237NP2 L XREF=ACDHPF                                                            
+237NP  G 54.0                                                                   
+237NP cG E         From {+238}U(p,2n|g).                                        
+237NP  G 97.1      5                                                            
+237NP cG E         From {+237}Np({+209}Bi,|g).                                  
+237NP  L 158.497   11 9/2-                                                  B   
+237NP2 L XREF=AEDHPF                                                            
+237NP cL J         55.56|g M1+E2 to 7/2- state, 98.97|g E2 to 5/2- state; |a    
+237NP2cL hindrance factor.                                                      
+237NP  G 55.56     2  89     9  M1+E2    0.46    4     67     6                 
+237NP  G 98.97     2  100    2  E2                     15.6                     
+237NP  G 125.30    2  20.1   4                                                  
+237NP  L 191.53     6 13/2+                                                 A   
+237NP2 L XREF=ACDHPF                                                            
+237NP  G 115.5     4  100                                                       
+237NP  L 225.957   16 11/2-                                                 H   
+237NP2 L XREF=ADPF                                                              
+237NP cL J         123.01|g E2 to 7/2- state, 67.45|g (M1+E2) to 9/2- state;    
+237NP2cL energy fit to the rotational band.                                     
+237NP  G 67.45     5  42     10(M1+E2)    0.46   12    31     6                 
+237NP  G 123.01    2  100    3  E2                     5.90                     
+237NP  G 150.04    3  7.40   21                                                 
+237NP  L 267.556   12 3/2-             5.2 NS    2                          D   
+237NP2 L XREF=ABH(*)                                                            
+237NP cL J         164.6|g E2 to 7/2- state; log| {Ift}=6.53 for the |b{+-}     
+237NP2cL feeding from 1/2+ {+237}U parent.                                      
+237NP cL T         From |b|g(t) (see {+237}U |b{+-} decay).                     
+237NP  G 164.61    2  8.6    2  E2                     1.74                 W   
+237NPB G BE2W=0.198 12                                                          
+237NP  G 208.005   23 100    2  M1+E2    +0.156  5     3.18                 W   
+237NPB G BM1W=0.000102 7$BE2W=0.0170 15                                         
+237NP  G 234.40    4  0.083  3  M2                     8.66                 W   
+237NPB G BM2W=0.041 3                                                           
+237NP  G 267.54    4  3.32   10 E1+M2     0.490  15    1.11   6             W   
+237NPB G BE1W=1.06E-8 8$BM2W=0.163 15                                           
+237NP  L 268.80    16 15/2+                                                 I   
+237NP2 L XREF=CDPF                                                              
+237NP  G 138.7     2  100                                                   X   
+237NP  L 281.356   18 1/2-                                                  D   
+237NP2 L XREF=ABH(*)                                                            
+237NP cL J         13.81|g M1+E2 to 3/2- state, 221.80|g E2 to 5/2- state.      
+237NP2cL Local trend of the 1/2[530] orbital and nonobservation of direct       
+237NP3cL |a feeding are consistent with the assignment.                         
+237NP  G 13.81     2  21.4   7  M1+E2    0.0321  10    518    16            W   
+237NP  G 221.80    4  100    4  E2                     0.560                W   
+237NP  L 305.05     3 13/2-                                                 B   
+237NP2 L XREF=APF                                                               
+237NP cL J         146.55|g E2 to 9/2-; energy fit to the band.                 
+237NP  G 146.55    3  100.0  24 E2                     2.80                     
+237NP  G 175.07    4  3.9    2                                                  
+237NP  L 316.80    20                                                          ?
+237NP2 L XREF=A                                                                 
+237NP  G 316.8     2  100                                                      ?
+237NP  L 324.420   23(7/2-)                                                 D   
+237NP2 L XREF=ADH                                                               
+237NP cL J         gammas to 9/2+, 9/2-, 5/2- levels; (|a,t), ({+3}He,d) data.  
+237NP  G 165.81    6  54.7   25                                                 
+237NP  G 221.46    3  100.0  24                                                 
+237NP  G 249.00    15 1.3                                                       
+237NP2 G FL=75.899                                                              
+237NP  G 264.89    6  21.2   10                                             Y   
+237NP  G 291.30    20 7.3    7                                                  
+237NP  L 332.376   16 1/2+             1.0 NS    LE                         E   
+237NP2 L XREF=AB                                                                
+237NP cL J         51.01|g and 64.83|g to 1/2- and 3/2- state are E1,           
+237NP2cL 332.36|g E2 to 5/2+ state.                                             
+237NP cL T         From |b|g(t) in {+237}U |b{+-} decay (1960Un01).             
+237NP  G 51.01     3  26.5   8  E1                     0.767                W   
+237NP5 G FLAG=U                                                                 
+237NPB G BE1W=0.0001194 16                                                      
+237NP  G 64.83     2  100    1  E1                     0.408                W   
+237NP5 G FLAG=U                                                                 
+237NPB G BE1W=0.0002195 20                                                      
+237NP  G 332.35    3  93.6   12 E2                     0.150                U   
+237NPB G BE2W=0.5078 20                                                         
+237NP  L 347.62    18 17/2+                                                 A   
+237NP2 L XREF=CDHF                                                              
+237NP  G 156.0     2  100                                                   X   
+237NP  L 359.7     1 (5/2-)                                                 D   
+237NP2 L XREF=AH(365)                                                           
+237NP cL J         energy fit to the rotational band.                           
+237NP  G 300.13    6  100                                                      ?
+237NP  L 368.602   20 5/2+                                                  E   
+237NP2 L XREF=AB                                                                
+237NP cL J         335.37|g and 368.65|g to 7/2+ and 5/2+ states are M1+E2;     
+237NP2cL intensities of |g's to the 5/2[642] band and the |a hindrance          
+237NP3cL factor are consistent with the assignment.                             
+237NP  G 292.77    6  2.86   10                                                 
+237NP  G 309.1     3  0.28                                                      
+237NP  G 335.37    3  100    2  M1+E2     0.46   17    0.74   8                 
+237NP  G 368.62    3  43.8   10 M1(+E2)   0.31   LT    0.64   2                 
+237NP cG E         Weighted average of 368.65 {I3} ({+241}Am |a decay) and      
+237NP2cG 368.59 {I4} ({+237}U |b{+-} decay).                                    
+237NP  L 370.928   23 3/2+                                                  E   
+237NP2 L XREF=AB                                                                
+237NP cL J         370.94|g M1+E2 to 5/2+ state; log| {Ift}|?7.5 for the |b{+-} 
+237NP2cL feeding from 1/2+ {+237}U parent.                                      
+237NP  G 38.54     3           (M1+E2)    0.65   GT    492    GT            W   
+237NP cG           I(|g+ce)|?17% comparing I(|g+ce)(38.5|g)/I(|g+ce)(370.9|g)=40
+237NP2cG \/15.3=2.6, from {+237}U |b{+-} decay, to I(|g+ce)(370.|g)=7.5 in      
+237NPxcG {+241}Am |a decay.                                                     
+237NP  G 337.7     2  8.2    4 (E2)                    0.143                W   
+237NP  G 370.94    3  100.0  23 M1+E2    0.43    +7-21 0.57   6                 
+237NP  L 395.53     4 15/2-                                                 H   
+237NP2 L XREF=AF                                                                
+237NP cL J         169.56|g to 11/2- is E2; energy fit to the band.             
+237NP  G 169.56    3  100.0  23 E2                     1.55                     
+237NP  G 204.06    6  1.68   11                                                 
+237NP  L 418.2     1                                                           ?
+237NP2 L XREF=A                                                                 
+237NP  L 434.12     5(11/2-)                                                D   
+237NP2 L XREF=AH                                                                
+237NP cL J         gammas to 7/2-, 13/2- levels; ({+3}He,d), (|a,t) data;       
+237NP2cL energy fit to the rotational band.                                     
+237NP  G 109.70    7  74                                                        
+237NP  G 129.2                                                                  
+237NP  G 275.77    8  100    6                                                  
+237NP  G 304.21    20 15     3                                                  
+237NP  G 358.25    20 18     4                                                  
+237NP  L 444.78    10                                                          ?
+237NP2 L XREF=A                                                                 
+237NP  G 120.36    8 100                                                       ?
+237NP  L 452.52    20 19/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 105.0     2 100     27                                             X   
+237NP  G 183.8     2  34      7                                             X   
+237NP  L 452.545   22 9/2+                                                  E   
+237NP2 L XREF=AD                                                                
+237NP cL J         gammas to 5/2+ and 13/2+ states. Band member.                
+237NP  G 260.80    15 0.87   14                                             Y   
+237NP  G 322.52    3  110    2 (M1+E2)    0.6    AP    0.75   21            Y   
+237NP  G 376.65    3  100    1 (M1)                    0.627                    
+237NP  G 419.33    4  20.8   6                                                  
+237NP  G 452.6     2  1.74   18                                                 
+237NP  L 459.693   24 7/2+                                                  E   
+237NP2 L XREF=AH(466)                                                           
+237NP cL J         intensities of gammas to 5/2+, 7/2+, 9/2+ states;            
+237NP2cL energy fit to the band.                                                
+237NP  G 135.3                                                                  
+237NP  G 383.81    3 100.0   24                                                 
+237NP  G 426.47    4 87.2    25                                                 
+237NP  G 459.68    1012.9    10                                                 
+237NP  L 486.21     9(9/2-)                                                 D   
+237NP2 L XREF=AH                                                                
+237NP cL J         gammas to (7/2-), 11/2- states; energy fit to the rotational 
+237NP2cL band; ({+3}He,d) reaction data.                                        
+237NP  G 161.54    10 100                                                       
+237NP  G 260.80    15                                                       Y   
+237NP2 G FL=225.957                                                             
+237NP  L 497.01     517/2-                                                  B   
+237NP2 L XREF=AF                                                                
+237NP cL J         |g to the 13/2- member of the band; energy fit to the        
+237NP2cL rotational band.                                                       
+237NP  G 101.4     5   20    LE                                             X   
+237NP  G 191.96    4  100    20                                             X   
+237NP  L 514.19     4(3/2-)                                                 G   
+237NP2 L XREF=ADH                                                               
+237NP cL J         gammas to the 1/2-, 3/2-, 5/2-, 5/2+ levels; ({+3}He,d) and  
+237NP2cL (d,d') reaction data.                                                  
+237NP  G 154.27    20 11.6                                                     ?
+237NP  G 232.81    5  100    6                                                  
+237NP  G 246.73    10 52     5                                                  
+237NP  G 454.66    8  209    9                                              Y   
+237NP  G 514.0     5  56     6                                                  
+237NP  L 544.80    23 21/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 197.0     2  100                                                       
+237NP  L 546.12     6(5/2-)                                                 G   
+237NP2 L XREF=ADH                                                               
+237NP cL J         gammas to the 5/2+, 7/2+, 3/2-, and 1/2- states;             
+237NP2cL ({+3}He,d), (|a,t), and (d,d') data.                                   
+237NP  G 264.89    6                                                        Y   
+237NP2 G FL=281.356                                                             
+237NP  G 278.04    15 38                                                        
+237NP2 G FL=267.556                                                             
+237NP  G 512.5     3  100    20                                                 
+237NP  G 545.4     3  64                                                        
+237NP  L 590.09     4(7/2-)                                                 G   
+237NP2 L XREF=ADH                                                               
+237NP cL J         ({+3}He,d), (|a,t) and (d,d') data.                          
+237NP  G 322.52    3                                                        Y   
+237NP  G 487.3     3  15.4                                                  Y   
+237NP  G 590.28    15 100    7                                              Y   
+237NP  L 592.33     7 13/2+                                                 E   
+237NP2 L XREF=A                                                                 
+237NP cL           Uncertainty of the level energy is increased because of      
+237NP2cL poor least-square fit of |g energies.                                  
+237NP cL J         gammas to the 9/2+, 11/2+, 13/2+, and 15/2- states; level    
+237NP2cL energy fit to the band.                                                
+237NP  G 139.44    8  100    21                                                 
+237NP2 G FL=452.545                                                             
+237NP  G 159.26    20 26     10                                                 
+237NP2 G FL=434.12                                                              
+237NP  G 197.0     2  9.2                                                       
+237NP  G 401       3  9.2                                                       
+237NP  G 463.22    20 18.9                                                      
+237NP2 G FL=129.99                                                              
+237NP  L 597.99     9 11/2+                                                 E   
+237NP2 L XREF=A                                                                 
+237NP cL J         gammas to the 7/2+, 9/2+, 11/2+, and 13/2+ states; level     
+237NP2cL energy fit to the band.                                                
+237NP  G 138.5                                                                  
+237NP  G 406.35    15 50     8                                                  
+237NP  G 468.12    15 100    7                                                  
+237NP  G 522.06    15 30     10                                                 
+237NP  L 609.3      3 19/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP cL J         Band member.                                                 
+237NP  G 112.6     5   50    13                                             X   
+237NP  G 213.6     5   100   21                                             X   
+237NP  L 618       2                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 646.03    17(9/2-)                                                 G   
+237NP2 L XREF=AD                                                                
+237NP cL J         (d,d') data; gammas to the 5/2-, 9/2- states; level energy   
+237NP2cL fit to the band.                                                       
+237NP  G 487.3     3                                                        Y   
+237NP cG RI        Not reported.                                                
+237NP  G 586.59    20 100                                                       
+237NP  L 666.19    10(5/2+,7/2-)                                                
+237NP2 L XREF=AD                                                                
+237NP cL J         gammas to 5/2+, 7/2+, 9/2+ and probably 3/2- states.         
+237NP  G 398.64    15 159                                                      ?
+237NP  G 590.28    15                                                       Y   
+237NP cG RI        Not reported.                                                
+237NP  G 632.93    15 100    15                                                 
+237NP  G 666.5     3  39                                                        
+237NP  L 681.63    24 23/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 136.7     2   100   12                                             X   
+237NP  G 229.3     2   18    22                                             X   
+237NP2 G FL=452.52                                                              
+237NP  L 709       3 (11/2-)                                                G   
+237NP2 L XREF=DH                                                                
+237NP cL J         (d,d'),(|a,t) and ({+3}He,d) data; fit to band.              
+237NP  L 721.961   13 5/2-                                                  F   
+237NP2 L XREF=AD                                                                
+237NP cL J         662.42|g E0+E2+M1 to 5/2- state.                             
+237NP  G 454.66    8                                                        Y  ?
+237NP  G 563.1     3 0.20                                                       
+237NP  G 619.01    2 16.3    2                                                  
+237NP  G 662.40    2 100.0   22 E0+M1+E2                                        
+237NP  G 688.72    4 8.9     2                                                  
+237NP  G 722.01    3 53.8    11                                             Y   
+237NP  L 731.7      4 21/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP cL J         Band member.                                                 
+237NP  G 122.7     5  37     LE                                             X   
+237NP  G 234.6     5  100    21                                             X   
+237NP  L 755.685   19 7/2-                                                  F   
+237NP2 L XREF=AD                                                                
+237NP cL J         |g's to 5/2-,7/2-,9/2-,5/2+,7/2+ levels;                     
+237NP2cL |a hindrance factor; (d,d') data.                                      
+237NP  G 597.48    8  19.7   9                                                  
+237NP2 G FL=158.497                                                             
+237NP  G 653.02    4  100    3                                                  
+237NP2 G FL=102.959                                                             
+237NP  G 680.10    10 8      5                                                  
+237NP  G 696.60    5  14.2   5                                              Y   
+237NP2 G FL=59.54092                                                            
+237NP  G 722.01    3                                                        Y   
+237NP cG RI        Not reported.                                                
+237NP2 G FL=33.19629                                                            
+237NP  G 755.90    5  20.2   7                                                  
+237NP  L 758       6                                                            
+237NP2 L XREF=H                                                                 
+237NP  L 770.57    5                                                            
+237NP2 L XREF=AD                                                                
+237NP  G 446.43    15 6.1    2                                                  
+237NP  G 737.34    5  100    3                                                  
+237NP  G 770.57    10 59     3                                                  
+237NP  L 784.1      3 25/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 239.3     2  100                                                   X   
+237NP  L 799.82     4 9/2-                                                  F   
+237NP2 L XREF=AD                                                                
+237NP cL J         (d,d') data; gammas to 7/2, 11/2 states; energy fit          
+237NP2cL to the rotational band; |a hindrance factor.                           
+237NP  G 573.94    20 18     3                                                  
+237NP  G 641.47    5 100     4                                                  
+237NP  G 669.83    20 5.4    17                                                 
+237NP  G 696.60    5                                                        Y   
+237NP2 G FL=102.959                                                             
+237NP  G 767.00    10 70.4   25                                                 
+237NP2 G FL=33.19629                                                            
+237NP  L 805.77    12(7/2+,9/2+)                                                
+237NP2 L XREF=A                                                                 
+237NP cL J         gammas to the 5/2+ - 11/2+ states of g.s. band.              
+237NP  G 676.03    30 24     5                                                  
+237NP  G 729.72    15 50     5                                                  
+237NP  G 772.4     3  100    6                                                  
+237NP  G 806.3     3  11.7                                                      
+237NP  L 823       3                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 853.36    15 11/2-                                                 F   
+237NP2 L XREF=AD                                                                
+237NP cL J         (d,d') data; energy fit to the rotational band.              
+237NP  G 529.17    20 82                                                        
+237NP  G 627.18    20 100    30                                                 
+237NP  L 861.65    19(5/2+,7/2)                                                 
+237NP2 L XREF=AD                                                                
+237NP cL J         |g's to 5/2+, 5/2- and possibly 9/2+ states.                 
+237NP  G 786.00    15 46                                                       ?
+237NP  G 801.94    20 100    10                                                 
+237NP  G 828.5        18     4                                                  
+237NP  G 862.7     5  39     4                                                  
+237NP  L 863.0      4 23/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 131.8     2   100   24                                             X   
+237NP  G 253.4     5   18    3                                              X   
+237NP  L 906       2                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 914       4                                                            
+237NP2 L XREF=H                                                                 
+237NP  L 920.88    20                                                           
+237NP2 L XREF=AD                                                                
+237NP  G 860.7     5  37     11                                                 
+237NP  G 887.3     3  100    23                                                 
+237NP  G 921.5     3  86     18                                                 
+237NP  L 945.20    10 11/2,13/2        0.71 US   4                              
+237NP2 L XREF=P                                                                 
+237NP3 L %IT=100                                                                
+237NP cL J         |g's to 9/2-, 15/2+ levels.                                  
+237NP cL T         From {+238}U(p,2n|g) in 1990St29.                            
+237NP cL           See {+238}U(p,2n|g) section for the configurations proposed  
+237NP2cL in 1990St29.                                                           
+237NP  G 640.4     3 33      7                                              V   
+237NP  G 675.6     4 5.4     11                                             V   
+237NP  G 719.2     2 41      8                                              V   
+237NP  G 753.6     2 48      10                                             V   
+237NP  G 786.8     2 45      9                                              V   
+237NP  G 815.3     2 100     20                                             V   
+237NP  L 946       2                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 955.9      3 27/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 171.8     2   100   6                                              X   
+237NP  G 274.3     2    38   20                                             X   
+237NP  L 961       3                                                            
+237NP2 L XREF=H                                                                 
+237NP  L 963       2                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 984       2                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 1004.9     4 25/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP  G 142.7     5  28     19                                             X   
+237NP2 G FL=863.0                                                               
+237NP  G 272.9     2   100   23                                             X   
+237NP  L 1013      3                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 1020      3                                                            
+237NP2 L XREF=H                                                                 
+237NP  L 1030      3                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 1040      4                                                            
+237NP2 L XREF=DH(1046)                                                          
+237NP  L 1064.6     3 29/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 280.3     2  100                                                   X   
+237NP  L 1066      3                                                            
+237NP2 L XREF=D                                                                 
+237NP  L 1072      6                                                            
+237NP2 L XREF=H                                                                 
+237NP  L 1112      4                                                            
+237NP2 L XREF=H                                                                 
+237NP  L 1137                                                                  ?
+237NP2 L XREF=H                                                                 
+237NP  L 1151.3     5 27/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 146.0     2  100    8                                              X   
+237NP  G 289.8     5  14     4                                              X   
+237NP2 G FL=863.0                                                               
+237NP  L 1274.4     3 31/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 209.7     2  96     89                                             X   
+237NP  G 318.6     2   100   91                                             X   
+237NP  L 1312.7     5 29/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP  G 160.5     5  30     11                                             X   
+237NP  G 308.8     5  100    23                                             X   
+237NP  L 1384.3     4 33/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 319.8     2  100                                                   X   
+237NP  L 1473.7     6 31/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 161.0     2  468    LE                                             X   
+237NP  G 322.2     5  100    26                                             X   
+237NP  L 1634.2     5 35/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 249.6     5  70     64                                             X   
+237NP  G 359.7     5  100    90                                             X   
+237NP  L 1653.4     6 33/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP  G 179.6     5  34     14                                             X   
+237NP  G 341.0     5  100    23                                             X   
+237NP  L 1743.8     4 37/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 359.5     2  100                                                   X   
+237NP  L 1824.5     7 35/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 350.6     5  100                                                   X   
+237NP  L 2024.0     7 37/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP  G 199.3     5  47     LE                                             X   
+237NP  G 370.8     5  100    21                                             X   
+237NP  L 2034.8     5 39/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 291.1     5   36    10                                             X   
+237NP  G 400.3     5  100    21                                             X   
+237NP  L 2139.9     5 41/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 396.1     2  100                                                   X   
+237NP  L 2200.9     9 39/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 376.4     5  100                                                   X   
+237NP  L 2422.9     9 41/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP  G 398.9     5  100                                                   X   
+237NP  L 2473.4     6 43/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 333.9     5   22    19                                             X   
+237NP  G 438.5     5  100    22                                             X   
+237NP  L 2571.4     6 45/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 431.4     5   100                                                  X   
+237NP  L 2601.9    10 43/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 401.0     5   100                                                  X   
+237NP  L 2.8E+3    4                     45 NS   5                              
+237NP2 L %SF LE 100                                                             
+237NP cL           Only SF decay observed                                       
+237NP cL           %SF/(%SF+%IT)=1.9|*10{+-3} was deduced in 1977Mi09 and       
+237NP2cL 6.9|*10{+-4} in 1973Wo03 from analyses of delay-to-prompt fission      
+237NPxcL cross-section ratios.                                                  
+237NP cL E         2700 {I300} and 2850 {I400} were deduced in 1973Wo03 and     
+237NP2cL 1977Mi09, respectively, from the delayed-to-prompt fission ratios in   
+237NP3cL {+238}U(p,2n) reactions by using an evaporation model and the          
+237NP4cL statistical model calculations.                                        
+237NP cL T         40 ns {I12} (1973Wo03), 45 ns {I5} (1977Mi09).               
+237NP cL           See 1972We09, for example, for calculations of E(level),     
+237NP2cL T{-1/2}(SF) and T{-1/2}(|g).                                           
+237NP cL           For calculated fission-barrier parameters, see 1972We09,     
+237NP2cL 1974Ba73, 1976Ga11, 1980Ku14, 1981Re06, 1984Ku05, 1990Bh02, 1993Oh03,  
+237NPxcL for example.                                                           
+237NP  L 2848.8    10 45/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP  G 425.9     5   100                                                  X   
+237NP  L 2947.7     7 47/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 376.1     5  62.5   LE                                             X   
+237NP  G 474.4     5   100   38                                             X   
+237NP  L 3028.6    11 47/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 426.7     5   100                                                  X   
+237NP  L 3036.1     8 49/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 464.7     5   100                                                  X   
+237NP  L 3301.2    11 49/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP  G 452.4     5  100                                                   X   
+237NP  L 3455.7     8 51/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 421.7     5   80    LE                                             X  ?
+237NP  G 508.0     5   100   42                                             X   
+237NP  L 3481.4    12 51/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 452.8     5   100                                                  X   
+237NP  L 3532.6    10 53/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 496.5     5   100                                                  X   
+237NP  L 3780.1    13 53/2-                                                 B   
+237NP2 L XREF=F                                                                 
+237NP  G 478.9     5  100                                                   X   
+237NP  L 3961.6    13 55/2-                                                 H   
+237NP2 L XREF=F                                                                 
+237NP  G 480.2     5  100                                                   X   
+237NP  L 3994.4    10 55/2+                                                 I   
+237NP2 L XREF=CF                                                                
+237NP  G 538.7     5   100                                                  X   
+237NP  L 4059.2    11 57/2+                                                 A   
+237NP2 L XREF=CF                                                                
+237NP  G 526.6     5   100                                                  X   
+237NP  L 4287.8       (57/2-)                                               B   
+237NP2 L XREF=F                                                                 
+237NP  G 507.4     5   100                                                  X  ?
+237NP  L 4469.6       (59/2-)                                               H   
+237NP2 L XREF=F                                                                 
+237NP  G 508.5     5   100                                                  X  ?
+237NP  L 4564.5    11 59/2+                                                 I   
+237NP2 L XREF=F                                                                 
+237NP  G 570.1     5   100                                                  X   
+237NP  L 4614.6    12 61/2+                                                 A   
+237NP2 L XREF=F                                                                 
+237NP  G 555.4     5   100                                                  X   

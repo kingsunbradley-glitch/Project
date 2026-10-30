@@ -1,0 +1,37 @@
+230PU    234CM A DECAY                 2002CAZU,2016KA13         24NDS    202408
+230PU  H TYP=FUL$AUT=C. Morse$CIT=NDS 197, 259 (2024).$CUT=26-Sep-2023$         
+230PU cA HF$The nuclear radius parameter r{-0}({+230}Pu)=1.381 {I11} is         
+230PU2cA deduced by assuming HF=1.0 for the ground-state to ground-state alpha  
+230PU3cA decay branch.                                                          
+230PU c  $ 2002CaZU: First observation of {+234}Cm using {+198}Pt({+40}Ar,4n)   
+230PU2c  reaction at GSI for several bombarding energies.  Determined decay     
+230PU3c  properties by analysis of correlated |a-decay chains.  Measured        
+230PU4c  E{-|a}, |a(t), |a|a.                                                   
+230PU c  $ 2016Ka13: {+230}Pu produced through various decay paths originating  
+230PU2c  with {+234}Bk produced at RIKEN through the {+197}Au({+40}Ar,3n)       
+230PU3c  reaction.  Reaction products were attached to KCl aerosols and flowed  
+230PU4c  through a gas-handling system, then deposited on a rotating detector   
+230PU5c  apparatus to measure decay products.  Measured E{-|a}, |a|a and |a-SF  
+230PU6c  coincidence, time distribution between decay generations.              
+230PU cL J$From Adopted Levels                                                  
+234CM  P 0.0                            49 S      +15-9          7365     9     
+234CM cP T$From 2016Ka13.  Other: 51 s {I12} (2002CaZU)                         
+234CM cP QP$From 2021Wa16                                                       
+230PU  N                        0.40   AP                                       
+230PU cN BR$From 2002CaZU.                                                      
+230PU cN BR$2002CaZU gives the measured ratio for |a/spontaneous-fission decay  
+230PU2cN of {+234}Cm as 94 {I9}/6 {I2}, but also assumes a 50%                  
+230PU3cN electron-capture branch.  The evaluator has chosen to approximate the  
+230PU4cN |a-branching as |?40%.                                                 
+230PU  L 0.0          0+                                                        
+230PU2 L %A=100 AP$%EC=27 LT                                                    
+230PU cL %EC$Estimated from balance of |a decays populating and depopulating    
+230PU2cL {+230}Pu in 2002CaZU.                                                  
+230PU  A 7239      9 85        1                                                
+230PU cA E$Weighted average of 7239 keV {I10} (2002CaZU) and 7240 keV {I20}     
+230PU2cA (2016Ka13)                                                             
+230PU cA IA$From 2016Ka13                                                       
+230PU  L 99        22 (2+)                                                      
+230PU cL E$From |DE{-|a}                                                        
+230PU  A 7140      2015        2.3                                              
+230PU cA E,IA$From 2016Ka13                                                     

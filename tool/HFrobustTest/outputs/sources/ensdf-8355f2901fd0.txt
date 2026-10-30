@@ -1,0 +1,59 @@
+249MD    253LR A DECAY (1.61 S)        2022HU21,2009HE20,2008GA2524NDS    202403
+249MD  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249MD c  2022Hu21: {+253}Lr produced in the {+205}Tl({+50}Ti,2n) at the ATLAS   
+249MD2c  linear accelerator at Argonne National Laboratory. The {+253}Lr        
+249MD3c  was separated in the Argonne Gas-Filled Analyzer (AGFA) and then       
+249MD4c  passed through a parallel grid avalanche counter (PGAC). It was        
+249MD5c  then implanted into doublesided Si strip detector (DSSD). Alphas       
+249MD5c  escaping the DSSD were deposited into an array of single-sided Si strip
+249MD6c  detectors (SSSD). Measured E|a, t{-1/2} and |a branching ratio.        
+249MD c  2010He11: |a decay from the {+253}Lr which was produced                
+249MD2c  from the |a decay of {+257}Db was measured at the UNILAC accelerator   
+249MD3c  at GSI, Darmstadt. {+257}Db, the evaporated residue was separated by   
+249MD4c  the velocity filter SHIP and implanted into a 16-strip Si PIPS         
+249MD5c  detector. Six Si detectors were used to measure escaping |a-particles  
+249MD6c  from the decay of the {+253}Lr.                                        
+249MD c  2009He20: {+253}Lr produced in the {+209}Bi({+48}Ti,4n) reaction and   
+249MD2c  from the |a decay of {+257}Db at the UNILAC accelerator at GSI         
+249MD3c  Darmstadt. Evaporation residues were separated by the velocity filter  
+249MD4c  SHIP and implanted into a 16-strip Si PIPS detector. A box of six      
+249MD5c  Si wafers was used to measure escaping |a particles. A Ge clover       
+249MD6c  detector consisting of four crystals was used to measure gammas in     
+249MD7c  coincidence with particles. Measured E|a and half-life.                
+249MD c  2008Ga25: The {+257}Db isotope produced in {+209}Bi({+50}Ti,2n) and    
+249MD2c  {+208}Pb({+51}V,2n) reactions at 4.7-5.1 MeV/nucleon beams of          
+249MD3c  {+51}V and {+50}Ti provided by 88-Inch Cyclotron at                    
+249MD4c  LBNL. Detected |a particles using silicon implantation detectors.      
+249MD c  2001He35: |a decay from the {+253}Lr which was produced                
+249MD2c  from the |a decay of {+257}Db was measured at the UNILAC accelerator   
+249MD3c  at GSI, Darmstadt. {+257}Db. The evaporated residue was separated by   
+249MD4c  the velocity filter SHIP and implanted into a 16-strip Si PIPS         
+249MD5c  detector. Six Si detectors were used to measure escaping |a-particles  
+249MD6c  from the decay of the {+253}Lr. The observed |a-spectra revealed       
+249MD7c  the existence of an isomeric state.                                    
+249MD c  1986He28,1985He22: {+253}Lr was produced from heavy-ion fusion reaction
+249MD2c  of {+50}Ti and {+209}Bi. It was separated from the projectile beam     
+249MD3c  by the velocity filter SHIP and identified after implantation into an  
+249MD4c  array of position-sensitive surface-barrier detectors by analyzing     
+249MD5c  the |a-decay chains. Measured E|a, t{-1/2} and |a branching ratio.     
+249MD c  Other: 1999He11                                                        
+249MD cA HF$The nuclear radius parameter r{-0}({+249}Md)=1.478 {I29} is deduced 
+249MD2cA from interpolation of radius parameters of the adjacent even-even      
+249MD3cA nuclides in 2020Si16                                                   
+249MD cA IA$I(8715|a)=27 {I13} (2022Hu21) has been normalized to 100            
+249MD cL J,T$From Adopted Levels                                                
+253LR  P 0.0+X       (1/2-)            1.61 S    22             8918      20    
+253LR cP QP$From 2021Wa16                                                       
+253LR cP T$From unweighted average of 2.46 s {I5} (2022Hu21),                   
+253LR2cP 1.2 s {I+7-4} (2010He11), 1.32 s {I14} (2009He20), 1.60 s {I+24-18}    
+253LR3cP (2008Ga25) and 1.49 s {I+30-21} (2001He35).                            
+253LR4cP T{-1/2} for {+253}Lr prior to 2022Hu21 is 0.57 s {I+7-6} (2013Br09)    
+253LR cP J$From Adopted Levels of {+253}Lr in ENSDF database (2013Br09)         
+249MD  N                        0.920  5                                        
+249MD cN BR$From %SF=8.0 {I5} (2017He08).                                       
+249MD2cN %|a for {+253}Lr prior to 2017He08 is |?98.7 (2013Br09)                
+249MD  L  0.0        (7/2-)            24.8 S    10                             
+249MD cL $Configuration=7/2-[514] (2022Hu21)                                    
+249MD  L 0.0+X       (1/2-)            1.5 S     +12-5                       M  
+249MD  A  8715     20100       2.2     17                                       
+249MD cA E$From 2022Hu21.                                                       

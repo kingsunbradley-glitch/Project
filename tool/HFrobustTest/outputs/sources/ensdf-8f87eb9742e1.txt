@@ -1,0 +1,69 @@
+257DB    ADOPTED LEVELS, GAMMAS                                  13NDS    201309
+257DB  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+257DB2 H CUT=1-Mar-2012$                                                        
+257DB D  Modified by E. Browne (April, 2012)                                    
+257DB  Q             8362    SY1303    SY9206    20    2012WA38                 
+257DB cQ           |DS(n)=314, |DS(p)=204 (2012Wa38)                            
+257DB c  Calculations, compilations:                                            
+257DB c  Calculated T{-1/2}: 2012Po01, 2011Qi12, 2011He12, 2010Do08, 2010Sa36,  
+257DB2c  2010Si27.                                                              
+257DB c  Favored |a decay: 1993Bu09                                             
+257DB c  g.s. properties: 1997Mo25, 1995Mo29                                    
+257DB c  Calculated Q(|a): 2011Sa40, 2010Ad19, 2009Do22, 2008Do12, 2008Ro06,    
+257DB2c  2007Zh41.                                                              
+257DB c  Single-particle Nilsson levels: 2004Pa40, 2004HeZZ, 1994Cw02.          
+257DB c                                                                         
+257DB c  1994Cw02 calculate the following single-particle Nilsson level         
+257DB2c  sequence: g.s., 9/2[624]; 0.23 MeV, 7/2[514]; 0.29 MeV, 5/2[512];      
+257DBxc  0.46 MeV, 1/2[521].                                                    
+257DB c                                                                         
+257DB c  Spontaneous fission: 2004Pe23.                                         
+257DB c  Assignment: {+209}Bi({+50}Ti,2n), parent of {+253}Lr                   
+257DB2c  (1985He22,1986He28,2001He35,2008Ga25), measured |s                     
+257DB3c  (2012Ca06,2005Zu02,2004Ad32). {+236}U({+27}Al,6n), parent of {+253}Lr  
+257DBxc  (1992An16)                                                             
+257DB c  The 5-s activity assigned to {+257}Db by 1976Og02 was                  
+257DB2c  reassigned to {+258}Rf and {+258}Db by 1986He28                        
+257DB  XA261BH A DECAY                                                          
+257DB cL E(A)      %|a, %SF, %|e+%|b{++}: 1999He11, 2001He35 determined %SF|<6  
+257DB2cL for presumably combined decay of two isomers.                          
+257DB3cL 1985He22, 1986He28, 2000Ho27 determined %|a=83 {I11} and               
+257DB4cL %SF=17 {I11} for the combined decay of the 2.3 s and 0.67 s isomers.   
+257DB5cL %SF|?20 (1976Og02)                                                     
+257DB5cL From log| {Ift}|?6 and Q(|e)|?4500 T{-1/2}(|e+|b{++})|?200 s.          
+257DB6cL Therefore, %|e+%|b{++} is expected to be small.                        
+257DB  L    0.0       (9/2+)           2.3 S     2                          A   
+257DB2 L XREF=A                                                                 
+257DB cL J         Predicted configuration=9/2+[624]                            
+257DB cL T$From 2009He20                                                        
+257DB2 L %A GE 94$ %SF LE 6                                                     
+257DB cL %A,%SF    From 2001He35                                                
+257DB cL $Emitted alpha particles: 9063 keV {i20}, 8956 keV {i20} (2010He11);   
+257DB2cL 9066 keV {i20}, 8965 keV {i20}, 8874 keV {i20}? (2009He20);            
+257DB3cL 9074 keV {i10}, 8967 keV {i15} (2001He35).                             
+257DB4cL Others: 1999He07, 1986He28, 1985He22.                                  
+257DB  L 250       AP (7/2-)                                                    
+257DB2 L XREF=A                                                                 
+257DB cL J         Predicted configuration=7/2-[514]                            
+257DB cL E         E|g=225.3 keV observed in |a|g coin measurement (2010He11).  
+257DB  L 370       AP (1/2-)           0.67 S    6                           M  
+257DB2 L %A GE 87$ %SF LE 13                                                    
+257DB cL %A,%SF    From 2001He35                                                
+257DB2 L XREF=A                                                                 
+257DB cL J         Predicted configuration=1/2-[521]                            
+257DB cL T         From 2009He20. See {+261}Bh |a decay for other values.       
+257DB cL           Emitted alpha particles: 9168 keV {i20} (2010He11);          
+257DB2cL 9155 keV {i20} (2009He20); 9163 keV {i10} (2001He35).                  
+257DB3cL Others: 1999He07, 1986He28, 1985He22.                                  
+257DB  L 470       AP [3/2-]                                                    
+257DB2 L XREF=A                                                                 
+257DB cL J         Expected 3/2 member of 1/2-[521] rotational band.            
+257DB  G 100       AP                                                          S
+257DB  L 600       AP (5/2-)                                                    
+257DB2 L XREF=A                                                                 
+257DB cL J         Predicted configuration=5/2-[512]                            
+257DB cL           Emitted alpha particles: 10000 keV (I|a=100%)(2010He11).     
+257DB  G 160       AP          [M1]                                            S
+257DB2 G FL=470                                                                 
+257DB  G 230       AP          [E2]                                            S
+257DB  G 350       AP          [M1]                                            S

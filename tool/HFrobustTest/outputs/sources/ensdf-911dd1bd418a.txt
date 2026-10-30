@@ -1,0 +1,406 @@
+223FR    ADOPTED LEVELS, GAMMAS                                  01NDS    200110
+223FR  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 846 (2001)$CUT=1-May-2001$           
+223FR  Q 1149.2    9 6037    225279.0  235562    3     2012WA38                 
+223FR cQ $Note: Current evaluation has used the following Q record              
+223FR2cQ 1149.1    9 {I6034}    215276.7  {I245430}    80    1995Au04           
+223FR cL E$From {+223}Rn |b{+-} decay, unless otherwise specified.              
+223FR cG E,RI,M,MR$From {+223}Rn |b{+-} decay, unless otherwise specified.      
+223FR CL BAND(A)   KPI=3/2- PARITY DOUBLET BAND - 3/2[523]                      
+223FR CL BAND(a)   KPI=3/2+ PARITY DOUBLET BAND - 3/2[402]                      
+223FR CL BAND(B)   KPI=1/2- PARITY DOUBLET BAND - 1/2[541]                      
+223FR CL BAND(b)   KPI=1/2+ PARITY DOUBLET BAND - 1/2[411]                      
+223FR CL BAND(D)   KPI=3/2+ PARITY DOUBLET BAND - 3/2[651]                      
+223FR CL BAND(d)   KPI=3/2- PARITY DOUBLET BAND - 3/2[521]                      
+223FR CL BAND(E)   KPI=5/2- PARITY DOUBLET BAND - 5/2[523]                      
+223FR cL J$J|p assignments are based on |g-ray multipolarities and              
+223FR2cL decay patterns. These assignments have been complemented               
+223FR3cL with rotational band arguments for those levels that belong to         
+223FR4cL parity doublet bands.                                                  
+223FR cG E(X),RI(X)$From {+227}Ac |a decay.                                     
+223FR  XA223RN B- DECAY                                                         
+223FR  XB227AC A DECAY                                                          
+223FR  L 0.0          3/2(-)           22.00 M   7                          A   
+223FRX L XREF=AB                                                                
+223FR cL T         weighted average of 22.00 min {I7} (1993Ab01)                
+223FR2cL and 21.8 min {I4} (1967Li17). Other value: 22 min {I1}                 
+223FR3cL (1955Ad10,1956Pe27). Other: 1939Pe01.                                  
+223FR cL J         J=3/2, atomic beam (laser optical pumping) (1985Co24).       
+223FR2cL Low |a hindrance factor (HF=6.8) from {+227}Ac |a decay suggests       
+223FR3cL same spin and parity (J|p=3/2-). Single particle configuration has not 
+223FR4cL been established. However, the similarity between the magnetic and     
+223FR5cL quadrupole moments of {+227}Ac and {+223}Fr, respectively, suggest     
+223FR6cL that the g.s. of {+223}Fr has a significant component of 3/2[532], the 
+223FR7cL single particle configuration of {+227}Ac g.s. (1988Le13). See also    
+223FRxcL 1986Ek02.                                                              
+223FR2 L MOMM1=+1.17 2$MOME2=+1.17 1                                            
+223FR cL MOMM1,MOME2$atomic beam                                                
+223FR2cL (laser optical pumping) (1989Ra17,1985Co24).                           
+223FR3cL measured isotope shift (1987Co19).                                     
+223FR3 L %B-=99.994$%A=0.006                                                    
+223FR cL           %|a: from 1955Ad10, 1956Pe27. Other value: %|a|?0.004        
+223FRxcL (1953Hy83).                                                            
+223FR  L     12.88222 (5/2-)                                                A   
+223FR cL J         12.9|g (E2) to 3/2(-).                                       
+223FRX L XREF=AB                                                                
+223FR  G 12.90          100.0     (E2)                 5.11E4                   
+223FR cG M$from ce(M1)+ce(M2):ce(M3):ce(N) exp=130:130:180 in {+227}Ac |a decay.
+223FR  L      54.98 4 1/2(-)                                                B   
+223FR cL J         55.0|g M1+E2 to 3/2(-).                                      
+223FRX L XREF=AB                                                                
+223FR  G 55.00      5   100.0   M1+E2    0.05    4       17.4  8                
+223FR  L     82.12921 (7/2-)                                                A   
+223FR cL J         69.2|g M1+E2 to (5/2-).                                      
+223FRX L XREF=AB                                                                
+223FR  G 69.21      5     100 6  M1+E2   0.42    8       15.0 22                
+223FR  G 82.10      5    23.512  E2                      22.6                   
+223FR  L      99.53 3 (3/2-)                                                B   
+223FR cL J         99.5|g M1 to 3/2(-).                                         
+223FRX L XREF=AB                                                                
+223FR  G 44.7       1   2.2   5                                             X   
+223FR  G 86.7       3   48   AP                                                 
+223FR  G 99.55      5     10020  M1                      3.02                   
+223FR  L    100.99924 (5/2-)                                                B   
+223FR cL J         101.0|g M1 to 3/2(-).                                        
+223FRX L XREF=AB                                                                
+223FR  G 45.95         0.55  AP                                                 
+223FR  G 88.0       1   66   AP                                             @   
+223FR  G 100.95     5     100 6  M1                      2.90                   
+223FR  L     134.48 4 (3/2+)                                                b   
+223FR cL J         79.5|g E1 to 1/2(-), 121.6|g E1 to (5/2-).                   
+223FRX L XREF=AB                                                                
+223FR  G 33.5       1     10  3                                             X   
+223FR  G 35.0       2    2.5 13                                             X   
+223FR  G 79.50     10     10017  E1                                             
+223FR cG M$from {+227}Ac |a decay.                                              
+223FR  G 121.58     5      83 4  E1                     0.299                   
+223FR  G 134.50     5      39 4  E1                     0.233                   
+223FR  L     160.43 3 (3/2+)                                                a   
+223FR cL J         147.5|g E1 to (5/2-), 160.5|g E1 to 3/2(-).                  
+223FRX L XREF=AB                                                                
+223FR  G 25.95        0.012  AP                                                 
+223FR  G 59.4       2    0.9  3                                             X   
+223FR  G 60.6       3    0.9  3                                             X   
+223FR  G 147.52     5    49.720  E1                                             
+223FR cG M$from {+227}Ac |a decay.                                              
+223FR  G 160.45     5     100 4  E1                     0.152                   
+223FR  L    171.96325 (5/2+)                                                a   
+223FR cL J         172.0|g E1 to 3/2(-), 89.9|g to (7/2-).                      
+223FRX L XREF=AB                                                                
+223FR  G 37.47         0.28  AP                                                 
+223FR  G 72.4       2     6.713                                                 
+223FR  G 89.90      5    17.415                                                 
+223FR  G 159.08     5    57.021                                                 
+223FR  G 171.95     5   100.0    E1                     0.128                   
+223FR  L     187.07 3 (5/2-)                                                E   
+223FR cL J         104.9|g M1 to (7/2-), 52.3|g to (3/2+).                      
+223FRX L XREF=AB                                                                
+223FR  G 52.32          31   AP                                                 
+223FR  G 86.1       1     10011                                                 
+223FR  G 104.87     5      73 5  M1                      13.3                   
+223FR  G 174.15     5    52.121                                                 
+223FR  L     188.92 3 (7/2-)                                                B   
+223FR cL J         106.8|g M1 to (7/2-), 176.1|g M1,E2 to (5/2-).               
+223FRX L XREF=AB                                                                
+223FR  G 88.0       1      22 3                                             @   
+223FR  G 106.80     5     100 6  M1                      12.6                   
+223FR  G 176.10     5    32.012  M1,E2                   2.0  11                
+223FR  L     219.53 3 (7/2+)                                                b   
+223FR cL J         206.6|g E1 to (5/2-), 85.0|g to (3/2+).                      
+223FRX L XREF=AB                                                                
+223FR  G 85.0       5   1.2  AP                                                 
+223FR  G 118.58    10     3.3 8                                                 
+223FR  G 137.35     5    43.618                                                 
+223FR  G 206.65     5     100 4  E1                     0.0822                  
+223FR  L     222.98 4 (7/2+)                                                a   
+223FR cL J         140.9|g E1 to (7/2-), 88.5|g to (3/2+).                      
+223FRX L XREF=AB                                                                
+223FR  G 51.06         0.14  AP                                                 
+223FR  G 88.5       5  0.47  AP                                                 
+223FR  G 140.93     5     100 4  E1                     0.208                   
+223FR  L     242.45 4 (5/2)                                                     
+223FR cL J         242.4|g to 3/2(-), 53.3|g to (7/2-), 108.0|g to (3/2+).      
+223FR cL J         interpreted as J|p=5/2+ member of K|p=1/2+ parity            
+223FR2cL doublet band (1995Sh03).                                               
+223FRX L XREF=AB                                                                
+223FR  G 53.3       3     35 AP                                                 
+223FR  G 70.60     10      43 6                                                 
+223FR  G 108.0      3      10 3                                             X   
+223FR  G 229.60     5     100 5                                                 
+223FR  G 242.41     5      77 5                                                 
+223FR  L     243.57 4 (5/2)                                                     
+223FR cL J         243.7|g to 3/2(-), 161.4|g to (7/2-), 83.0|g to (3/2+).      
+223FR cL J         interpreted as J|p=5/2+ member of K|p=1/2+ parity            
+223FR2cL doublet band (1992Ku03).                                               
+223FRX L XREF=AB                                                                
+223FR  G 83.0       1   6    AP                                                 
+223FR  G 161.38     5    60.624                                                 
+223FR  G 243.69     5     100 5                                                 
+223FR  L    244.67425 (7/2-)                                                E   
+223FR cL J         143.6|g M1 to (5/2-), 231.8|g M1,E2 to (7/2-).               
+223FRX L XREF=AB                                                                
+223FR  G 55.80      5     6.9 8                                                 
+223FR  G 57.56      5     5.7 8  M1                      14.9                   
+223FR  G 143.65     5    47.119  M1                      5.38                   
+223FR  G 162.50     5     100 4  M1,E2                   2.5  13                
+223FR  G 231.79     5    13.1 8                                                 
+223FR  L      298.7 3   (9/2-)                                              E   
+223FR cL J         216.6|g to (7/2-).                                           
+223FRX L XREF=B                                                                 
+223FR  G 216.6      3   100                                                     
+223FR  L     365.65 5                                                           
+223FRX L XREF=AB                                                                
+223FR  G 142.74     5      85 4                                                 
+223FR  G 146.0      2      16 6                                                 
+223FR  G 283.45     5     100 5                                                 
+223FR  L        371 4                                                           
+223FRX L XREF=B                                                                 
+223FR  L        379 7                                                           
+223FRX L XREF=B                                                                 
+223FR  L        449 5                                                           
+223FR cL           Tentatively assigned as J|p=3/2+ bandhead of a               
+223FR2cL K|p=3/2+ parity doublet band (1992Ku03).                               
+223FRX L XREF=B                                                                 
+223FR  L        503 7                                                           
+223FRX L XREF=B                                                                 
+223FR  L     515.2022 3/2-                                                  d   
+223FR cL J         favored |a decay (HF=2.1) from {+227}Ac(J|p=3/2-).           
+223FRX L XREF=A                                                                 
+223FR  G 415.6      3   100  25                                             X   
+223FR  G 460.2      3   100  25                                             X   
+223FR  L     540.53 3 (5/2+)                                                D   
+223FR cL J         540.|g to 3/2(-), 351.8|g to (7/2-).                         
+223FRX L XREF=AB                                                                
+223FR  G 351.8      5      22 9                                                 
+223FR  G 439.60     5      49 3                                                 
+223FR  G 441.08     5      78 4                                                 
+223FR  G 527.60    10    40.023                                                 
+223FR  G 540.40     5   1.0E2 4                                             @   
+223FR  L     605.40 3 (5/2-)                                                d   
+223FR cL J         416.5|g M1 to (7/2-), 592.6|g M1+E2 to (5/2-).               
+223FRX L XREF=AB                                                                
+223FR  G 360.73     5    5.8724  M1                     0.414                   
+223FR  G 382.0      5    0.3611                                                 
+223FR  G 416.52     5      64 3  M1                     0.281                   
+223FR  G 504.35    10    0.47 4                                                 
+223FR  G 505.85     5    4.5624                                                 
+223FR  G 523.26     5    13.1 6  M1                     0.153                   
+223FR  G 592.55     5     100 5  M1+E2   0.60    15     0.088  9                
+223FR  G 605.40    10    1.66 9  (E2)                   0.0241                  
+223FR  L     647.58 3 (5/2-,7/2-)                                               
+223FR cL J         546.5|g M1 to (5/2-), 565.5|g M1+E2 to (7/2-).               
+223FRX L XREF=A                                                                 
+223FR  G 402.80     5    23.511  M1                     0.307                   
+223FR  G 424.76    10     3.5 5                                                 
+223FR  G 458.65     5    49.719  M1                     0.217                   
+223FR  G 546.53     5     100 4  M1                     0.136                   
+223FR  G 565.52     5      68 3  M1+E2   1.1     6       0.07  4                
+223FR  G 634.65    10      55 6  M1(+E2)                                        
+223FR  G 647.75    10     7.9 5                                                 
+223FR  L     649.66 3 (5/2-)                                                    
+223FR cL J         649.7|g M1 to 3/2(-), 567.6|g M1+E2 to (7/2-).               
+223FRX L XREF=A                                                                 
+223FR  G 404.7      5     2.2 8                                                 
+223FR  G 460.85    10     8.0 4  M1                     0.214                   
+223FR  G 477.8      3     2.4 5                                                 
+223FR  G 548.55     5    19.316                                                 
+223FR  G 550.10     5    10.6 6                                                 
+223FR  G 567.60     5    14.0 8  M1+E2   0.9     5       0.08  3                
+223FR  G 636.75    10    40.922                                                 
+223FR  G 649.73     5     100 4  M1                     0.086                   
+223FR  L     684.80 6 (7/2+)                                                D   
+223FR cL J         461.8|g M1 to (7/2+).                                        
+223FRX L XREF=A                                                                 
+223FR  G 319.5      5   13   AP                                                 
+223FR  G 461.81     5     100 4  M1                     0.213                   
+223FR  L     698.62 7                                                           
+223FRX L XREF=A                                                                 
+223FR  G 509.75    10     100 5                                                 
+223FR  G 526.52    10      60 4                                                 
+223FR  G 698.90    20    14.917                                                 
+223FR  L     736.88 4 (7/2-)                                                d   
+223FR cL J         635.8|g M1(+E2) to (5/2-), 492.2|g M1 to (7/2-),             
+223FR2cL 736.8|g to 3/2(-).                                                     
+223FRX L XREF=A                                                                 
+223FR  G 492.21     5    35.010  M1                     0.180                   
+223FR  G 493.3      3   3    AP                                                 
+223FR  G 514.3      5     0.9 4                                                 
+223FR  G 517.8      5     1.3 4                                                 
+223FR  G 548.0      3     3.810                                                 
+223FR  G 635.80    10     100 4  M1(+E2)                                        
+223FR  G 654.78     5      79 4  M1                     0.084                   
+223FR  G 724.00     5    44.119  M1+E2   0.75    25     0.047  8                
+223FR  G 736.75    10    6.1325                                                 
+223FR  L     763.21 4                                                           
+223FRX L XREF=A                                                                 
+223FR  G 397.8      5   16   AP                                                 
+223FR  G 520.75     5    34.621                                                 
+223FR  G 540.4      5      3111                                             @   
+223FR  G 543.70    10    14.711                                                 
+223FR  G 576.10     5     100 6                                                 
+223FR  G 591.3      5      2611                                                 
+223FR  G 750.80    20     7.311                                                 
+223FR  L     782.66 4 (3/2+,5/2+)                                               
+223FR cL J         622.2|g M1(+E2) to (3/2+), 563.1|g to (7/2+).                
+223FRX L XREF=A                                                                 
+223FR  G 540.4      5     6.923                                             @   
+223FR  G 563.10    10     6.2 4                                                 
+223FR  G 610.65     5    22.410                                                 
+223FR  G 622.25     5     100 4  M1(+E2) 0.5     3      0.082 14                
+223FR  G 648.1      5     4.312                                                 
+223FR  G 782.60    10     4.5 5                                                 
+223FR  L     834.54 5                                                           
+223FRX L XREF=A                                                                 
+223FR  G 590.1      3      32 8                                                 
+223FR  G 590.9      3   40   AP                                                 
+223FR  G 674.25    20    11.616                                                 
+223FR  G 752.40     5     10010                                                 
+223FR  G 821.65    20    10.8 8                                                 
+223FR  L     839.30 5                                                           
+223FRX L XREF=A                                                                 
+223FR  G 595.80    10      64 7                                                 
+223FR  G 619.65    10      78 5                                                 
+223FR  G 667.35     5     100 6                                                 
+223FR  L     892.68 4                                                           
+223FRX L XREF=A                                                                 
+223FR  G 669.70     5    58.723                                                 
+223FR  G 673.20     5     100 5                                                 
+223FR  G 705.44    10    16.114                                                 
+223FR  G 791.30    20     7.6 9                                                 
+223FR  G 810.60    20     5.4 9                                                 
+223FR  G 892.80    20     9.0 9                                                 
+223FR  L     921.6311                                                           
+223FRX L XREF=A                                                                 
+223FR  G 734.55    10   100.0                                                   
+223FR  L     987.7311                                                           
+223FRX L XREF=A                                                                 
+223FR  G 744.15    10   100.0                                                   
+223FR  L     995.61 7                                                           
+223FRX L XREF=A                                                                 
+223FR  G 835.20    20      33 3                                                 
+223FR  G 894.60    10     100 4                                                 
+223FR  G 982.70    10      24 3                                                 
+223FR  G 995.70    20      14 3                                                 
+223FR  L     999.12 6                                                           
+223FRX L XREF=A                                                                 
+223FR  G 216.40     5     100 5                                                 
+223FR  G 827.40    20    12.116                                                 
+223FR  G 944.30    10    38.921                                                 
+223FR  L    1001.94 7                                                           
+223FRX L XREF=A                                                                 
+223FR  G 830.00    10      46 4                                                 
+223FR  G 841.50    10     100 5                                                 
+223FR  G 867.45    10      61 6                                                 
+223FR  L    1035.28 6                                                           
+223FRX L XREF=A                                                                 
+223FR  G 812.50    20      25 5                                                 
+223FR  G 815.55    10     100 7                                                 
+223FR  G 863.45    10      69 7                                                 
+223FR  G 900.80    10      73 7                                                 
+223FR  L    1042.2810                                                           
+223FRX L XREF=A                                                                 
+223FR  G 800.00    20      46 6                                                 
+223FR  G 881.80    10     100 7                                                 
+223FR  L    1070.11 5                                                           
+223FRX L XREF=A                                                                 
+223FR  G 385.32    10    35.217                                                 
+223FR  G 847.05    10     100 4                                                 
+223FR  G 850.65    10    36.925                                                 
+223FR  G 883.05    10      9817                                                 
+223FR  G 898.10    10      86 4                                                 
+223FR  L    1102.81 5                                                           
+223FRX L XREF=A                                                                 
+223FR  G 858.50    10      29 3                                                ?
+223FR  G 883.0      5      25 9                                                 
+223FR  G 913.75    10      50 3                                                 
+223FR  G 915.75    10      48 3                                                 
+223FR  G 942.40    10     100 5                                                 
+223FR  G 1001.85   10      63 4                                                 
+223FR  G 1090.00   10      41 3                                                 
+223FR  G 1102.80   20    13.417                                                 
+223FR  L    1120.24 6                                                           
+223FRX L XREF=A                                                                 
+223FR  G 931.30    10    16.314                                                 
+223FR  G 948.45    10     100 5                                                 
+223FR  G 959.85    10    25.311                                                 
+223FR  G 1037.90   10    16.311                                                 
+223FR  G 1107.30   20     6.3 7                                                 
+223FR  L    1221.10 7                                                           
+223FRX L XREF=A                                                                 
+223FR  G 977.40    20      25 4                                                 
+223FR  G 998.15    10     100 6                                                 
+223FR  G 1208.20   10      70 6                                                 
+223FR  L    1322.17 5                                                           
+223FRX L XREF=A                                                                 
+223FR  G 781.70    10      41 3                                                 
+223FR  G 1077.40   10    25.321                                                 
+223FR  G 1099.30   10    28.121                                                 
+223FR  G 1221.10   10    16.421                                                 
+223FR  G 1239.95   10     100 6                                                 
+223FR  G 1309.50   20    12.321                                                 
+223FR  L    1359.12 5                                                           
+223FRX L XREF=A                                                                 
+223FR  G 753.75    10    44.722                                                 
+223FR  G 818.60    10     100 4                                                 
+223FR  G 1139.50   10     9.811                                                 
+223FR  G 1170.15   10    10.911                                                 
+223FR  G 1187.10   10    18.911                                                 
+223FR  G 1258.20   10    11.611                                                 
+223FR  G 1277.30   20     9.511                                                 
+223FR  G 1358.90   20     5.5 8                                                 
+223FR  L    1398.29 9                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1175.30   10     100 9                                                 
+223FR  G 1315.90   20      69 9                                                 
+223FR  G 1385.70   20      72 9                                                 
+223FR  L    1399.17 6                                                           
+223FRX L XREF=A                                                                 
+223FR  G 793.80    20    22.622                                                 
+223FR  G 1154.50   10      57 4                                                 
+223FR  G 1156.70   10      47 4                                                 
+223FR  G 1210.20   10      46 4                                                 
+223FR  G 1298.20   10     100 6                                                 
+223FR  L    1512.4010                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1268.85   10     100 5                                                 
+223FR  L    1540.74 6                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1296.20   10      81 5                                                 
+223FR  G 1317.60   10     100 6                                                 
+223FR  G 1368.7     5      17 6                                                 
+223FR  G 1439.80   10      34 3                                                 
+223FR  G 1540.50   20    27.321                                                 
+223FR  L    1552.11 6                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1307.50   10      98 6                                                 
+223FR  G 1329.10   10      89 5                                                 
+223FR  G 1332.60   10     100 5                                                 
+223FR  G 1379.70   20      28 4                                                 
+223FR  G 1451.30   20      33 4                                                 
+223FR  L    1566.5618                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1394.8     5      22 7                                                 
+223FR  G 1406.20   20     100 7                                                 
+223FR  G 1565.9     5      15 3                                                 
+223FR  L    1573.7810                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1350.80   10     100 9                                                 
+223FR  G 1472.8     5      40 9                                                 
+223FR  G 1491.60   20      83 9                                                 
+223FR  L    1590.4910                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1367.4     5      27 9                                                 
+223FR  G 1402.0     5      28 5                                                 
+223FR  G 1403.40   10     100 6                                                 
+223FR  L    1595.05 8                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1371.40   20      39 5                                                 
+223FR  G 1375.40   20      57 6                                                 
+223FR  G 1423.25   10     100 8                                                 
+223FR  G 1513.00   20      24 3                                                 
+223FR  L    1629.3010                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1409.70   10     100 6                                                 
+223FR  G 1547.40   20    18.818                                                 
+223FR  L    1695.4321                                                           
+223FRX L XREF=A                                                                 
+223FR  G 1535.00   20   100.0                                                   

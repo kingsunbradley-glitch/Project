@@ -1,0 +1,67 @@
+268DB    ADOPTED LEVELS, GAMMAS                                  19NDS    201902
+268DB  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 148 (2019)$CUT=31-Jan-2019$      
+268DB  Q  260      SY 5080   SY 3670   SY  8260  SY    2017WA10                 
+268DB cQ $Estimated uncertainties (2017Wa10): |DQ(|b{+-})=710, |DS(n)=670,      
+268DB2cQ |DS(p)=780, |DQ(|a)=300                                                
+268DB cQ $S(2n)=11820 {I600}, S(2p)=9140 {I790} (syst,2017Wa10)                 
+268DB c  The {+268}Db nuclide is produced in about 100 (or 113) correlated decay
+268DB2c  chains observed at Dubna, GSI and Berkeley, starting from {+288}Mc and 
+268DB3c  ending in {+268}Db, which decays by SF. Main references for production 
+268DB4c  of {+288}Mc: 2004Og03, 2005Og02, 2005Dm03, 2012Og02, 2013Ru11,         
+268DB5c  2015Ru11, 2013Og01, 2015Ga24, 2016Fo10. See {+288}Mc Adopted Levels    
+268DB6c  for details.                                                           
+268DB c                                                                         
+268DB c  2005Dm03: {+243}Am({+48}Ca,3n),E=247 MeV by the FLNR-JINR-Dubna U-400  
+268DB2c  cyclotron. The beam bombarded a {+243}Am target backed by Ti foils     
+268DB3c  and including Cu as a catcher material. Reaction products, including   
+268DB4c  products of the Cu({+48}Ca,X) reaction were dissolved in concentrated  
+268DB5c  HNO{-3}. Group V elements were separated from the solution by          
+268DB6c  separating the reaction products from Cu via co-precipitation with     
+268DB7c  lanthanum hydroxide and separating Group V elements from lanthanum and 
+268DB8c  actinides via sorption from nitric acid. The |a and spontaneous fission
+268DB9c  fragments were detected by a module with four identical chambers, each 
+268DBAc  containing two semiconductor detectors. The four chambers were         
+268DBBc  positioned inside a neutron detector containing 72 {+3}He counters     
+268DBCc  positioned in a polyethylene moderator. A similar experiment was also  
+268DBDc  performed, involving the same reaction but the reaction products were  
+268DBEc  not separated. The detectors were exposed for 72 days, during which    
+268DBFc  they were changed at intervals and subjected to physico-chemical       
+268DBGc  treatment to develop latent tracks of spontaneous fission fragments.   
+268DBHc  Deduced that all spontaneous fission events detected in the            
+268DBIc  {+243}Am({+48}Ca,X) reaction were attributable to the decay chain of   
+268DBJc  the element 115.                                                       
+268DB c                                                                         
+268DB c  2007St18: chemical identification of long-lived isotope of Db, a       
+268DB2c  descendant of {+288}Mc, produced in {+243}Am({+48}Ca,3n) with a        
+268DB3c  beam energy of 247 MeV. The chemical experiments provided evidence     
+268DB4c  that the element was a +5 element, thus supporting the assignment      
+268DB5c  as {+268}Db. Measured half-life of {+268}Db from all the events.       
+268DB c  For theoretical studies, consult Nuclear Science References (NSR)      
+268DB2c  database at NNDC, BNL for 51 primary references dealing with the       
+268DB3c  half-lives and other aspects of nuclear structure in this mass region  
+268DB  XA272BH A DECAY (10.5 S)                                                 
+268DB  L 0                               28 H    3                              
+268DB2 L %SF AP 100 $ %A=? $ %EC+%B+=?                                          
+268DBX L XREF=A                                                                 
+268DB cL $Only the SF decay mode has been observed, however, 2015Og05 (also     
+268DB2cL 2015Og01) review article states that |a or |e/|b{++} decay mode is     
+268DB3cL not excluded                                                           
+268DB cL E$the reported activity is assumed to belong to the g.s. of {+268}Db   
+268DB cL J$6-,7- from |W(proton)=1/2-; |W(neutron)=13/2+ (1997Mo25, theory)     
+268DB cL T$from 2016Fo10, based on detailed statistical analysis of 96 observed 
+268DB2cL correlated events, starting from {+288}Mc, in three laboratories       
+268DB3cL (FLNR-JINR-Dubna, GSI and Berkeley). Others: 28.3 h {I+33-26} (2017Og01
+268DB4cL review; 26 h {I+4-3} 2015Og05 review). Measurements:                   
+268DB5cL 16 h {I+19-6} (2004Og03,2005Og02, from three correlated events);       
+268DB6cL 32 h {I+11-7} (2005Dm03, from 15 events); 28 h {I+11-4} (2007St18, from
+268DB7cL 23 events); 27 h {I+5-4} (2013Ru11, from all the known decay chains;   
+268DB8cL 25 h {I+4-3} in 2015Ru11); 25.9 h {I+62-42} (2013Og01, update of       
+268DB9cL 27.9 h {I+78-50} in 2012Og02 and 29 h {I+9-6} in 2011Og07 review).     
+268DB  L 140       AP                                                           
+268DBX L XREF=A                                                                 
+268DB  G 140       AP                                                           
+268DB cG E$from 2013Ru11, based on E|a values. Authors mention that the         
+268DB2cG simulated |g-ray yield is marginal and consistent with an empty        
+268DB3cG spectrum from the Ge detector.                                         
+268DB cG M$M1 or E2 suggested by 2013Ru11, but no arguments are provided. It is 
+268DB2cG that the |g-ray would have been seen clearly if it were E1.            

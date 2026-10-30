@@ -1,0 +1,292 @@
+219FR    ADOPTED LEVELS, GAMMAS                                  21NDS    202106
+219FR  H TYP=FUL$AUT=Balraj Singh et al.,$CIT=NDS 175, 1 (2021)$CUT=19-May-2021$
+219FR  Q -777      10 6514   8 3889    7 7448.6  18    2021WA16                 
+219FR cQ $S(2n)=11840 {I9}, S(2p)=10356 {I8} (2021Wa16)                         
+219FR d  {+219}Fr evaluated by B. Singh, G. Mukherjee, S.K. Basu,               
+219FR2d  Srijit Bhattacharya, A.K. De.                                          
+219FR c  1948Gh01: {+219}Fr identified in |a decay chain:                       
+219FR2c  {+227}Pa|){+223}Ac|){+219}Fr, where {+227}Pa was produced at the       
+219FR3c  184-inch Berkeley cyclotron. Short half-life for the decay of          
+219FR4c  {+219}Fr was deduced. Later studies at Berkeley by 1951Me10, 1963Su10  
+219FR5c  and 1964Hy02 measured a more definite half-life of {+219}Fr decay      
+219FR c  2014Bu06, 2015De28: measured hyperfine spectra, magnetic dipole        
+219FR2c  moment, electric quadrupole moment and rms charge radius by Collinear  
+219FR3c  Resonance Ionization Spectroscopy (CRIS) using HRS mass separator,     
+219FR4c  ISCOOL gas-filled segmented linear Paul trap, and RILIS at ISOLDE-CERN 
+219FR5c  facility. Both the measurements are for the ground state               
+219FR d  2009Pa49: {+238}U(p,X),E=1 GeV; measured yield of {+219}Fr             
+219FR c  Some aspects of the level scheme and band assignments as proposed by   
+219FR2c  1991Li19 (see also 1992Kv03, 2002Sh19) should be considered as         
+219FR3c  tentative, as the J|p values are mostly based on band assignments,     
+219FR4c  and theoretical calculations, without a clear evidence of association  
+219FR5c  of some of the levels to particular bands, especially for closely      
+219FR6c  spaced levels.                                                         
+219FR c  Theoretical calculations: 27 primary references in the NSR             
+219FR2c  database (www.nndc.bnl.gov/nsr), eight related to structure            
+219FR3c  calculations, and 19 to radioactivity                                  
+219FR d  Theoretical calculations:                                              
+219FR d  Structure calculations: 2013Fu02, 2009Br02, 2009Mi02, 2007Mi30,        
+219FR2d  2005Si05, 1995De13, 1991Cw01.                                          
+219FR d  Radioactivity, |a-decay half-life and Q values: 19 references.         
+219FR cG E,RI,M,MR$From {+223}Ac |a decay.                                      
+219FR cL E$From {+223}Ac |a decay.                                              
+219FR cL E(w)$Weakly populated level by |a branch, the gamma transition         
+219FR2cL is either not confirmed or not observed                                
+219FR cL J${+219}Fr lies in the transitional region between quadrupole          
+219FR2cL deformation and spherical shape (|j{-2}=|j{-3}=0.08).                  
+219FR3cL For some reason, however, this nucleus                                 
+219FR4cL presents the typical structure of parity doublet bands                 
+219FR5cL (1990Li33,1991Li19). Most of the assigned spins and parities           
+219FR6cL are based mainly on rotational band structure, |g-ray                  
+219FR7cL multipolarities and decay patterns, favored |a decay from {+223}Ac     
+219FR8cL and to {+215}At, and on a comparison with similar band structures      
+219FR9cL observed in {+221}Fr. See also 2002Sh19 for configurations.            
+219FRAcL Assignments for the excited states are considered as tentative.        
+219FR cL $Configuration and band assignments are from 1991Li19 (see             
+219FR2cL also 2002Sh19)                                                         
+219FR cL E(F)$Possible configuration=|p5/2[523]+|p5/2[512]+(|p1/2[541]+Q{-30})  
+219FR CL BAND(A)$K|p=1/2-,|p1/2[541], parity doublet band                       
+219FR CL BAND(a)$K|p=1/2+, parity doublet band.                                 
+219FR2cL Configuration=|p1/2[411]+(|p1/2[541]+Q{-30})                           
+219FR CL BAND(B)$K|p=3/2-, parity doublet band.                                 
+219FR2cL Configuration=|p3/2[532]+(|p3/2[402]+Q{-30})                           
+219FR CL BAND(b)$K|p=3/2+, parity doublet band.                                 
+219FR2cL Configuration=|p3/2[402]+(|p3/2[532]+Q{-30})                           
+219FR CL BAND(D)$K|p=5/2-, parity doublet band.                                 
+219FR2cL Configuration=|p5/2[512]+|p5/2[523]+(|p1/2[660]+Q{-30})                
+219FR CL BAND(d)$K|p=5/2+, parity doublet band.                                 
+219FR2cL Configuration=|p5/2[402]+(|p5/2[523]+Q{-30})                           
+219FR  XA223AC A DECAY (2.10 M)                                                 
+219FR PN                                                                     6  
+219FR  L        0.0    9/2-             24 MS    4                          A   
+219FR2 L %A=100                                                                 
+219FR2 L MOMM1=+3.13 4 (2015De28,2014Bu06)                                      
+219FR2 L MOME2=-1.21 2 (2015De28)                                               
+219FRX L XREF=A                                                                 
+219FR cL $|d<r{+2}>({+219}Fr,{+221}Fr)=-0.272 fm{+2} {I6} (2014Bu06)            
+219FR cL $isotope shift |d|n({+219}Fr,{+221}Fr)=+5.59 GHz {I10} (2014Bu06)      
+219FR cL MOMM1,MOME2$measured by 2015De28, Collinear Resonance Ionization       
+219FR2cL Spectroscopy. Values are relative to the magnetic dipole moment of     
+219FR3cL +1.57 {I2} and electric quadrupole moment of -1.00 {I1} for the ground 
+219FR4cL state of {+221}Fr taken from literature. Other: |m=+3.11 {I4}          
+219FR5cL (2014Bu06, same group as 2015De28). Values are not available in        
+219FR6cL 2014StZZ and 2016St14 evaluations                                      
+219FR cL J$favored |a decay (HF=1.1) to {+215}At g.s. (J|p=9/2-).               
+219FR cL T$unweighted average of 28 ms {I3} (2018Sa45) and 20 ms {I2}           
+219FR2cL (1951Me10). Others: 21.5 ms (1963Su10,1964Hy02); |?0.1 ms (1948Gh01)   
+219FR  L       15.0 1 (5/2-)                                                A   
+219FRX L XREF=A                                                                 
+219FR  G 15.0          100      [E2]                   2.36E4                  S
+219FRS G  MC=1.786E4 25                                                         
+219FRS G  NC=4.66E3 7$OC=959 14$PC=120.9 17$QC=0.1125 16                        
+219FR  L       56.1 1 (3/2-)                                                B   
+219FRX L XREF=A                                                                 
+219FR  G 41.15     10  100     (M1+E2)   1.0     2     3.3E2  7                 
+219FRS G  LC=2.4E2 5$MC=65 13                                                   
+219FRS G  NC=17 4$OC=3.5 7$PC=0.46 9$QC=0.0024 3                                
+219FR  L         73 1 (13/2-)                                               A  ?
+219FRX L XREF=A                                                                 
+219FR  G 72.8          100      [E2]                   39.4                 *  ?
+219FRS G  LC=29.0 4$MC=7.84 11                                                  
+219FRS G  NC=2.05 3$OC=0.425 6$PC=0.0544 8$QC=0.0001003 14                      
+219FR  L       81.0 5  (1/2-)                                               A   
+219FRX L XREF=A                                                                 
+219FR  G 66.0      5    100     [E2]                   63     3                ?
+219FRS G  LC=46.4 19$MC=12.5 5                                                  
+219FRS G  NC=3.28 13$OC=0.68 3$PC=0.087 4$QC=0.000149 6                         
+219FR  L      98.58 5 (7/2-)                                                B   
+219FRX L XREF=A                                                                 
+219FR cL J$parity from 98.6, (M1) |g to 9/2- g.s.                               
+219FR  G 42.4      1    1.4  3 (E2)                    538    10                
+219FRS G  LC=397 8$MC=106.8 20                                                  
+219FRS G  NC=27.9 5$OC=5.76 11$PC=0.733 14$QC=0.001019 18                       
+219FR  G 83.55     10    64  4  (M1)                   4.75                     
+219FRS G  LC=3.60 6$MC=0.859 13                                                 
+219FRS G  NC=0.225 4$OC=0.0504 8$PC=0.00808 12$QC=0.000452 7                    
+219FR  G 98.58     5   100.0 22 (M1)                   2.94                     
+219FRS G  LC=2.23 4$MC=0.532 8                                                  
+219FRS G  NC=0.1395 20$OC=0.0312 5$PC=0.00500 7$QC=0.000279 4                   
+219FR  L      134.4 1 (5/2-)                                                B   
+219FRX L XREF=A                                                                 
+219FR cL J$parity from 35.7, (M1) |g to (7/2-), 98.6 level                      
+219FR  G 35.7      1    25   4  (M1)                   57.5   10                
+219FRS G  LC=43.6 8$MC=10.41 17                                                 
+219FRS G  NC=2.73 5$OC=0.611 10$PC=0.0979 16$QC=0.00549 9                       
+219FR  G 78.25     10  50    6  [M1]                   5.75                     
+219FRS G  LC=4.36 7$MC=1.040 15                                                 
+219FRS G  NC=0.273 4$OC=0.0610 9$PC=0.00978 15$QC=0.000547 8                    
+219FR  G 119.4     1   100   9  (M1)                   8.65                     
+219FRS G  KC=6.96 10$LC=1.283 19$MC=0.306 5                                     
+219FRS G  NC=0.0802 12$OC=0.0179 3$PC=0.00288 4$QC=0.0001607 23                 
+219FR  L      139.8 1 (3/2-)                                                A   
+219FRX L XREF=A                                                                 
+219FR  G 124.8     1   100      (M1)                   7.63                     
+219FRS G  KC=6.14 9$LC=1.130 16$MC=0.269 4                                      
+219FRS G  NC=0.0706 10$OC=0.01579 23$PC=0.00253 4$QC=0.0001414 20               
+219FR  L     191.29 6 (7/2+)                                                a   
+219FRX L XREF=A                                                                 
+219FR cL J$|g to (7/2-), 98.6 level, possible band member                       
+219FR  G 56.95     20   6.4  10 [E1]                   0.481  9                 
+219FRS G  LC=0.365 7$MC=0.0886 15                                               
+219FRS G  NC=0.0227 4$OC=0.00473 8$PC=0.000634 11$QC=1.93E-5 3                  
+219FR  G 92.71     5    66   3  [E1]                   0.1309                   
+219FRS G  LC=0.0993 14$MC=0.0239 4                                              
+219FRS G  NC=0.00616 9$OC=0.001310 19$PC=0.000185 3$QC=6.59E-6 10               
+219FR  G 176.3     2    19   3 [E1]                    0.1194                   
+219FRS G KC=0.0951 14$LC=0.0185 3$MC=0.00441 7                                  
+219FRS G NC=0.001145 17$ OC=0.000248 4$PC=3.68E-5 6$QC=1.545E-6 22              
+219FR  G 191.3     1    100  7 [E1]                    0.098                    
+219FRS G KC=0.0783 11$LC=0.0150 2$MC=0.00358 5                                  
+219FRS G NC=0.000930 13$OC=0.000202 3$PC=3.01E-5 5$QC=1.287E-6 18               
+219FR  L      210.4 2 (3/2+)                                                a   
+219FRX L XREF=A                                                                 
+219FR  G 195.4     2   100      (E1)                   0.0932                   
+219FRS G  KC=0.0745 11$LC=0.01424 21$MC=0.00340 5                               
+219FRS G  NC=0.000881 13$OC=0.000191 3$PC=2.86E-5 4$QC=1.227E-6 18              
+219FR  L      216.0 1 (11/2+)                                               a   
+219FRX L XREF=A                                                                 
+219FR  G 216.0     1   100      [E1]                   0.0734                   
+219FRS G  KC=0.0588 9$LC=0.01107 16$MC=0.00264 4                                
+219FRS G  NC=0.000685 10$OC=0.0001491 21$PC=2.24E-5 4$QC=9.82E-7 14             
+219FR  L      269.2 1 (7/2-)                                                A   
+219FRX L XREF=A                                                                 
+219FR  G 134.6     3    10   AP [M1+E2]                4.3    18                
+219FRS G  KC=2.6 24$LC=1.28 37$MC=0.33 12                                       
+219FRS G  NC=0.087 30$OC=0.0185 58$PC=0.0026 6$QC=6.3E-5 51                     
+219FR  G 254.4     3    70   20 [M1+E2]                0.63   40                
+219FRS G  KC=0.46 37$LC=0.128 23$MC=0.032 4                                     
+219FRS G  NC=0.0084 10$OC=0.0018 3$PC=0.00027 7$QC=1.06E-5 82                   
+219FR  G 269.2     1  100    20 [M1+E2]                0.54   34                
+219FRS G  KC=0.40 31$LC=0.107 22$MC=0.027 4                                     
+219FRS G  NC=0.0070 11$OC=0.0015 3$PC=2.28E-4 60$QC=9.1E-6 70                   
+219FR  L      305.5 1 (9/2-)                                                B   
+219FRX L XREF=A                                                                 
+219FR  G 89.6      2    26   5  [E1]                   0.1433 22                
+219FRS G  LC=0.1087 17$MC=0.0262 4                                              
+219FRS G  NC=0.00675 11$OC=0.001433 22$PC=0.000202 3$QC=7.11E-6 11              
+219FR  G 207.0     2    100  21 [M1+E2]                1.2    7                 
+219FRS G  KC=0.8 7$LC=0.258 11$MC=0.0652 17                                     
+219FRS G  NC=0.0171 5$OC=0.00370 7$PC=0.00054 6$QC=1.9E-5 15                    
+219FR  G 305.5     1    95   11 [M1+E2]                0.38   25                
+219FRS G  KC=0.28 22$LC=0.071 20$MC=0.018 4                                     
+219FRS G  NC=0.0046 11$OC=1.01E-3 26$PC=1.53E-4 50$QC=6.5E-6 49                 
+219FR  L        325 2                                                       F  ?
+219FRX L XREF=A                                                                 
+219FRF L FLAG=w                                                                 
+219FR cL J$possible (5/2-)                                                      
+219FR  L      333.5 1 (11/2-)                                               A   
+219FRX L XREF=A                                                                 
+219FR  G 64.4      3    18   AP [E2]                   70.8   19                
+219FRS G  LC=52.2 14$MC=14.1 4                                                  
+219FRS G  NC=3.69 10$OC=0.764 21$PC=0.098 3$QC=0.000164 4                       
+219FR  G 333.5     1    100  36 [M1+E2]                0.30   19                
+219FRS G  KC=0.22 17$LC=0.054 17$MC=0.0133 36                                   
+219FRS G  NC=0.00350 94$OC=7.7E-4 23$PC=1.17E-4 42$QC=5.1E-6 38                 
+219FR  L      340.3 1  (5/2+)                                               b   
+219FRX L XREF=A                                                                 
+219FR  G 205.7     3     20  10 [E1]                   0.0824                   
+219FRS G  KC=0.0659 10$LC=0.01251 19$MC=0.00298 5                               
+219FRS G  NC=0.000774 12$OC=0.0001683 25$PC=2.52E-5 4$QC=1.095E-6 16            
+219FR  G 241.7     2     90  10 [E1]                   0.0563                   
+219FRS G  KC=0.0452 7$LC=0.00839 12$MC=0.00200 3                                
+219FRS G  NC=0.000519 8$OC=0.0001131 16$PC=1.709E-5 25$QC=7.67E-7 11            
+219FR  G 284.2     1     100 10 [E1]                   0.0387                   
+219FRS G  KC=0.0312 5$LC=0.00567 8$MC=0.001346 19                               
+219FRS G  NC=0.000350 5$OC=7.66E-5 11$PC=1.167E-5 17$QC=5.39E-7 8               
+219FR  G 325.3     1     25  10 [E1]                   0.0285                   
+219FRS G  KC=0.0231 4$LC=0.00412 6$MC=0.000977 14                               
+219FRS G  NC=0.000254 4$OC=5.58E-5 8$PC=8.55E-6 12$QC=4.05E-7 6                 
+219FR  L      369.5 2  (3/2+)                                               b   
+219FRX L XREF=A                                                                 
+219FR cL J$1991Li19 assign |p=+ or -, band association favors positive parity   
+219FR  G 229.7     2   100      [E1]                   0.0634                   
+219FRS G  KC=0.0509 8$LC=0.00951 14$MC=0.00226 4                                
+219FRS G  NC=0.000588 9$OC=0.0001281 19$PC=1.93E-5 3$QC=8.57E-7 13              
+219FR  L      372.4 1  (7/2+)                                               b   
+219FRX L XREF=A                                                                 
+219FR  G 238.1     2     39  6  [E1]                   0.0583                   
+219FRS G  KC=0.0468 7$LC=0.00870 13$MC=0.00207 3                                
+219FRS G  NC=0.000538 8$OC=0.0001173 17$PC=1.77E-5 3$QC=7.92E-7 12              
+219FR  G 274.0     2     28  6  [E1]                   0.0421                   
+219FRS G  KC=0.0339 5$LC=0.00618 9$MC=0.001470 21                               
+219FRS G  NC=0.000382 6$OC=8.35E-5 12$PC=1.271E-5 18$QC=5.84E-7 9               
+219FR  G 357.4     1    100  17 [E1]                   0.0232                   
+219FRS G  KC=0.0188 3$LC=0.00332 5$MC=0.000786 11                               
+219FRS G  NC=0.000204 3$OC=4.49E-5 7$PC=6.91E-6 10$QC=3.33E-7 5                 
+219FR  G 372.4     1    89   17 [E1]                   0.0212                   
+219FRS G  KC=0.01720 25$LC=0.00302 5$MC=0.000715 10                             
+219FRS G  NC=0.000186 3$OC=4.09E-5 6$PC=6.31E-6 9$QC=3.05E-7 5                  
+219FR  L      374.8 2  (7/2)                                                F   
+219FRX L XREF=A                                                                 
+219FR cL J$possible negative parity                                             
+219FR  G 374.8     2   100      [D,E2]                 0.19   17                
+219FR  L      384.3 1  (5/2+)                                               a   
+219FRX L XREF=A                                                                 
+219FR  G 285.7     1   100      [E1]                   0.0382                   
+219FRS G  KC=0.0309 5$LC=0.00560 8$MC=0.001329 19                               
+219FRS G  NC=0.000346 5$OC=7.56E-5 11$PC=1.152E-5 17$QC=5.33E-7 8               
+219FR  L      432.0 2  (9/2)                                                F   
+219FRX L XREF=A                                                                 
+219FR cL J$possible negative parity                                             
+219FR  G 126.4     2   25    AP [D,E2]                 3.8    35                
+219FR  G 216.1     2   100   50 [D,E2]                 0.84   77                
+219FR  L        445 4                                                       w  ?
+219FRX L XREF=A                                                                 
+219FR  L      462.2 5 (9/2+)                                                b   
+219FRX L XREF=A                                                                 
+219FR cL J$1991Li19 assign |p=+ or -, band association favors positive parity   
+219FR  G 462.2     5   100      [E1]                   0.01339                  
+219FRS G  KC=0.01093 16$LC=0.00187 3$MC=0.000442 7                              
+219FRS G  NC=0.0001152 17$OC=2.54E-5 4$PC=3.95E-6 6$QC=1.98E-7 3                
+219FR  L      490.3 1 (5/2-)                                                D   
+219FRX L XREF=A                                                                 
+219FR  G 279.8     3    5.7  19 [E1]                   0.0401                ?  
+219FRS G  KC=0.0323 5$LC=0.00588 9$MC=0.001398 20                               
+219FRS G  NC=0.000363 6$OC=7.95E-5 12$PC=1.210E-5 18$QC=5.58E-7 8               
+219FR  G 299.1     2    5.7  19 [E1]                   0.0344                   
+219FRS G  KC=0.0278 4$LC=0.00502 7$MC=0.001191 17                               
+219FRS G  NC=0.000310 5$OC=6.78E-5 10$PC=1.036E-5 15$QC=4.84E-7 7               
+219FR  G 434.2     1    100  9  [M1+E2]                0.145  93                
+219FRS G  KC=0.112 81$LC=0.025 10$MC=0.0060 23                                  
+219FRS G  NC=0.00158 59$OC=3.5E-4 14$PC=5.4E-5 24$QC=2.5E-6 18                  
+219FR  G 475.2     1     51  8  [M1+E2]                0.114  73                
+219FRS G  KC=0.089 63$LC=0.0190 81$MC=0.0046 19                                 
+219FRS G  NC=0.00121 48$OC=2.7E-4 11$PC=4.2E-5 19$QC=2.0E-6 14                  
+219FR  L      506.5 3  (9/2+)                                               a   
+219FRX L XREF=A                                                                 
+219FR  G 315.2     3    33     [M1+E2]                 0.35   23                
+219FRS G  KC=0.26 20$LC=0.065 19$MC=0.016 4                                     
+219FRS G  NC=0.0042 10$OC=9.1E-4 25$PC=1.39E-4 47$QC=5.9E-6 45                  
+219FR  G 506.6     5    100  67 [E1]                   0.0111                   
+219FRS G  KC=0.00907 13$LC=0.001540 22$MC=0.000363 6                            
+219FRS G  NC=9.46E-5 14$OC=2.09E-5 3$PC=3.26E-6 5$QC=1.651E-7 24                
+219FR  L      530.0 5(11/2+)                                                b   
+219FRX L XREF=A                                                                 
+219FR  G 530.0     5   100      [E1]                   0.01013                  
+219FRS G  KC=0.00829 12$LC=0.001401 20$MC=0.000330 5                            
+219FRS G  NC=8.60E-5 13$OC=1.90E-5 3$PC=2.97E-6 5$QC=1.513E-7 22                
+219FR  L      533.8 4 (7/2-)                                                D   
+219FRX L XREF=A                                                                 
+219FR  G 518.8     4   100      [M1+E2]                0.091  57                
+219FRS G  KC=0.071 49$LC=0.0148 66$MC=0.0036 15                                 
+219FRS G  NC=9.4E-4 39$OC=2.09E-4 90$PC=3.3E-5 16$QC=1.6E-6 11                  
+219FR  L        589 1 (9/2-)                                                D   
+219FRX L XREF=A                                                                 
+219FR  G 82.4          100      [E1]                   0.179                   ?
+219FRS G  LC=0.1359 19$MC=0.0328 5                                              
+219FRS G  NC=0.00844 12$OC=0.00179 3$PC=0.000250 4$QC=8.57E-6 12                
+219FR  L        650 3      (11/2-)                                          D   
+219FRX L XREF=A                                                                 
+219FRF L FLAG=w                                                                 
+219FR  L      705.5 5  (5/2+)                                               d   
+219FRX L XREF=A                                                                 
+219FR  G 171.7     3    100  50 [E1]                   0.1273                   
+219FRS G  KC=0.1013 15$LC=0.0198 3$MC=0.00472 7                                 
+219FRS G  NC=0.001225 18$OC=0.000265 4$PC=3.93E-5 6$QC=1.640E-6 24              
+219FR  G 199.3     4    15E1 10  [E2]                  0.560  9                ?
+219FR  L        778 1  (7/2+)                                               d   
+219FRX L XREF=A                                                                 
+219FRF L FLAG=w                                                                 
+219FR  G 72.8           100     [M1+E2]                23     17            *  ?
+219FRS G  LC=17 12$MC=4.6 33                                                    
+219FRS G  NC=1.20 86$OC=0.25 18$PC=0.033 22$QC=3.9E-4 29                        

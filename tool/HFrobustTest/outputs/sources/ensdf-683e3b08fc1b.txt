@@ -1,0 +1,206 @@
+211FR    ADOPTED LEVELS, GAMMAS                                  13NDS    201306
+211FR  H TYP=FUL$AUT=A. Sonzogni, G. Mukherjee, H. Huang, A. Tarazaga, J. Wang$ 
+211FR2 H CIT=NDS 114, 661 (2013)$CUT=28-FEB-2013 $                              
+211FR  Q -4972     14 8879   19 1824   13 6662    3    2012WA38                 
+211FR cQ $S(2n)=16514 {I19}, S(2p)=5835 {I13}, Q(|ep)=543 {I14} (2012Wa38)      
+211FR c                                                                         
+211FR c  {B{+211}Fr evaluated by A. Sonzogni, G. Mukherjee, H. Huang,}          
+211FRxc  {|b|a. Tarazaga, J. Wang}                                              
+211FR c                                                                         
+211FR DG CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+211FR cG MR$From {+203}Tl({+13}C,5n|g),{+205}Tl({+12}C,6n|g)                    
+211FR cL E$From a least squares fit to E|g.                                     
+211FR cL J$ Spin and parity assignments for the high-spin excited               
+211FR2cL states are based on |g-ray multipolarities, angular distributions and  
+211FR3cL transition strengths (1986By01).   The low-spin values are from        
+211FR4cL Hindrance Factors.                                                     
+211FR cL T$From {+203}Tl({+13}C,5n|g),{+205}Tl({+12}C,6n|g) for excited states  
+211FR  XA215AC A DECAY                                                          
+211FR  XB203TL(13C,5NG),205TL(12C,6NG)                                          
+211FR PN                                                                     6  
+211FR  L 0.0          9/2-              3.10 M    2                             
+211FRX L XREF=AB                                                                
+211FR2 L %A>80$%EC<20$                                                          
+211FR2 L MOMM1=+4.00 8 (1986Ek02,1989Ra17,2011StZZ)                             
+211FR2 L MOME2=-0.19 3 (1985Co24,1989Ra17,2011StZZ)                             
+211FR cL $ Evaluated nuclear rms charge radius <r{+2}>{+1/2}=5.588 fm {I18}     
+211FR2cL (2008 update of 2004An14 work available on http://cdfe.sinp.msu.ru).   
+211FR3cL See also 2009An12 for trends of nuclear radii                          
+211FR cL $Isotope Shift: 2000Gr20, 1999Gr15.                                    
+211FR cL J$J=9/2 from atomic beam (1978Ek02); |p=- from HF=1.3 for the |a       
+211FR2cL branch to the 9/2- {+207}At g.s.                                       
+211FR cL T$weighted average of 3.10 min {I2} (1971ReZE), 3.06 min {I6}          
+211FR2cL (1967Va20), 3.10 min {I7} (1964Gr04).                                  
+211FR cL %EC,%A$based on the assumption that log| {Ift}>5.8 for |e decay to     
+211FR2cL any of the {+211}Rn levels which might be expected to be fed on the    
+211FR3cL basis of the proposed decay scheme.                                    
+211FR cL MOMM1$ atomic-beam magnetic resonance (1986Ek02)                       
+211FR cL MOME2$ atomic-beam laser spectroscopy (1985Co24)                       
+211FR  L 395.82    9  (7/2-)                                                    
+211FRX L XREF=A                                                                 
+211FR  G 395.8     1  100                                                       
+211FR  L 505.90    18 (5/2-)                                                    
+211FRX L XREF=A                                                                 
+211FR  G 110.1     4  15     8  (M1)                    10.88 19                
+211FRS G KC=8.74 16$LC=1.62 3$MC=0.386 7$NC=0.1013 18$OC=0.0227 4$PC=0.00363 7$ 
+211FRS G QC=0.000203 4$                                                         
+211FR  G 505.9     2  100    27                                                 
+211FR  L 583.28    10 (11/2-)                                                   
+211FRX L XREF=AB                                                                
+211FR  G 583.3     1  100       M1+E2     0.84   32     0.074 17                
+211FRS G KC=0.059 14$LC=0.0116 20$MC=0.0028 5$NC=0.00073 12$OC=0.00016 3$       
+211FRS G PC=2.6E-5 5$QC=1.3E-6 4$                                               
+211FR cG E$from {+215}Ac |a decay                                               
+211FR  L 633.09    18 (5/2-)                                                    
+211FRX L XREF=A                                                                 
+211FR  G 237.2     4  40     40                                                 
+211FR  G 633.1     2  100    60                                                 
+211FR  L 652.62    10 (13/2-)           1 NS      LT                            
+211FRX L XREF=AB                                                                
+211FR  G 69.5      3            (M1)                    8.12  16                
+211FRS G LC=6.16 12$MC=1.47 3$NC=0.385 8$OC=0.0862 17$PC=0.0138 3$              
+211FRS G QC=0.000773 15$                                                        
+211FR cG E$Not observed in alpha decay                                          
+211FR  G 652.6     1  100       E2                      0.0202                  
+211FRB G BE2W>0.063                                                             
+211FRS G KC=0.01459 21$LC=0.00424 6$MC=0.001061 15$NC=0.000278 4$OC=6.03E-5 9$  
+211FRS G PC=8.96E-6 13$QC=3.23E-7 5$                                            
+211FR cG E$From {+203}Tl({+13}C,5n|g),{+205}Tl({+12}C,6n|g)                     
+211FR  L 738.9     3  (7/2-)                                                    
+211FRX L XREF=A                                                                 
+211FR  G 342.6     5  100    67                                                 
+211FR  G 739.2     4  73     53                                                 
+211FR  L 1026.6    4                                                            
+211FRX L XREF=B                                                                 
+211FR  G 374.0     4  100                                                       
+211FR  L 1452.92   14 (17/2-)           2 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 800.3     1  100       E2                     0.01325                  
+211FRB G BE2W>0.011                                                             
+211FRS G KC=0.00997 14$LC=0.00247 4$MC=0.000609 9$NC=0.0001595 23$OC=3.49E-5 5$ 
+211FRS G PC=5.28E-6 8$QC=2.16E-7 3$                                             
+211FR  L 1686.32   17 (21/2-)           2.1 NS    2                             
+211FRX L XREF=B                                                                 
+211FR  G 233.4     1  100       E2                      0.323                   
+211FRS G KC=0.1189 17$LC=0.1506 22$MC=0.0402 6$NC=0.01055 15$OC=0.00221 4$      
+211FRS G PC=0.000296 5$QC=3.04E-6 5$                                            
+211FRB G BE2W=3.9 4                                                             
+211FR  L 1860.02   20 (23/2-)           2 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 173.7     1  100       M1                      2.98                    
+211FRS G KC=2.40 4$LC=0.440 7$MC=0.1048 15$NC=0.0275 4$OC=0.00614 9$            
+211FRS G PC=0.000985 14$QC=5.50E-5 8$                                           
+211FR  L 2242.4    4                                                            
+211FRX L XREF=B                                                                 
+211FR  G 382.4     4  100                                                       
+211FR  L 2310.24   22 (25/2+)           2 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 450.2     1  100       (E1)                   0.01414                  
+211FRB G BE1W>1.0E-6                                                            
+211FRS G KC=0.01154 17$LC=0.00198 3$MC=0.000469 7$NC=0.0001220 17$OC=2.69E-5 4$ 
+211FRS G PC=4.18E-6 6$QC=2.08E-7 3$                                             
+211FR  L 2423.16   24 (29/2+)           146 NS    14                         M1 
+211FRX L XREF=B                                                                 
+211FR2 L %IT=100                                                                
+211FR2 L MOMM1=15.37 15 (1986By01,1989Ra17,2011StZZ) $                          
+211FR2 L MOME2=-1.1 2 (1991Ha02,2011StZZ)$                                      
+211FR cL MOMM1$ for J=29/2, and g-factor=1.06 {I1} from TDPAD method (1986By01) 
+211FR cL MOME2$ level mixing resonance technique (LEMS) (1991Ha02). Other:      
+211FR2cL 1990Ha30 (from the same group as 1991Ha02) give 1.24 {I17}             
+211FR  G 112.9     1  93     12 (E2)                    5.32                    
+211FRS G KC=0.332 5$LC=3.67 6$MC=0.995 15$NC=0.261 4$OC=0.0541 8$PC=0.00700 11$ 
+211FRS G QC=2.14E-5 3$                                                          
+211FRB G BE2W=0.38 8                                                            
+211FR  G 563.3     3  100    10 (E3)                    0.0907                  
+211FRS G KC=0.0473 7$LC=0.0321 5$MC=0.00852 12$NC=0.00225 4$OC=0.000480 7$      
+211FRS G PC=6.83E-5 10$QC=1.518E-6 22$                                          
+211FRB G BE3W=25 5                                                              
+211FR  L 2980.0    3  (31/2+)           2 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 556.8     2  100       M1(+E2)   -0.1   +1-6   0.12  3                 
+211FRS G KC=0.10 3$LC=0.018 4$MC=0.0042 8$NC=0.00110 21$OC=0.00024 5$           
+211FRS G PC=3.9E-5 9$QC=2.2E-6 6$                                               
+211FR  L 3244.0    3  (33/2+)           2 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 264.0     2  34.9   13 (M1+E2)   1      1      0.6   4              C  
+211FRS G KC=0.4 4$LC=0.114 23$MC=0.028 4$NC=0.0074 11$OC=0.0016 3$PC=0.00024 7$ 
+211FRS G QC=1.0E-5 8$NC+=0.0093 14                                              
+211FR  G 820.9     2  100.0  20 E2                     0.01259                  
+211FRS G KC=0.00952 14$LC=0.00231 4$MC=0.000570 8$NC=0.0001494 21$OC=3.27E-5 5$ 
+211FRS G PC=4.96E-6 7$QC=2.06E-7 3$                                             
+211FR  L 3601.6    3  (37/2+)           2 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 357.6     1  100       (E2)                    0.0871                  
+211FRB G BE2W>0.60                                                              
+211FRS G KC=0.0483 7$LC=0.0289 4$MC=0.00754 11$NC=0.00198 3$OC=0.000420 6$      
+211FRS G PC=5.85E-5 9$QC=1.139E-6 16$                                           
+211FR  L 3928.9    3  (39/2+)           2 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 327.3     1  100       M1(+E2)   0.6    6      0.41  13             C  
+211FRS G KC=0.32 12$LC=0.066 12$MC=0.0159 24$NC=0.0042 7$OC=0.00092 15$         
+211FRS G PC=0.00014 3$QC=7.E-6 3$                                               
+211FR  L 4369.0    4                                                            
+211FRX L XREF=B                                                                 
+211FR  G 440.1     2  100                                                    C  
+211FR  L 4657.3    4  (45/2-)           123 NS    14                         M2 
+211FR2 L %IT=100                                                                
+211FRX L XREF=B                                                                 
+211FR2 L MOMM1=24.30 23 (1986By01,1989Ra17,2011StZZ) $                          
+211FR2 L MOME2=-2.0 6 (1991Ha02,2011StZZ)$                                      
+211FR cL MOMM1$ for J=45/2, and g-factor=1.08 {I1} from TDPAD method (1986By01) 
+211FR cL MOME2$ level mixing resonance technique (LEMS) (1991Ha02). Other:      
+211FR2cL 1990Ha30 (from the same group as 1991Ha02) give 2.3 {I6}               
+211FR  G 728.4     2  100       E3                      0.0444                  
+211FRS G KC=0.0276 4$LC=0.01248 18$MC=0.00324 5$NC=0.000853 12$OC=0.000184 3$   
+211FRS G PC=2.68E-5 4$QC=7.84E-7 11$                                            
+211FRB G BE3W=33 4                                                              
+211FR  L 5196.0    5                                                            
+211FRX L XREF=B                                                                 
+211FR  G 827.0     4  100                                                    C  
+211FR  L 5303.3    6                                                            
+211FRX L XREF=B                                                                 
+211FR  G 934.3     5  100                                                       
+211FR  L 5556.4    5  (47/2-)           7 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 899.0     3  100       M1+E2     0.8    4      0.025 7                 
+211FRS G KC=0.020 5$LC=0.0037 8$MC=0.00089 19$NC=0.00023 5$OC=5.2E-5 11$        
+211FRS G PC=8.3E-6 18$QC=4.5E-7 12$                                             
+211FR  L 5785.9    4  (-)                                                       
+211FRX L XREF=B                                                                 
+211FR cL J$1128.4|g (M1) to (45/2-)                                             
+211FR  G 1128.4    3  100       (M1)                    0.0192                  
+211FRS G KC=0.01559 22$LC=0.00273 4$MC=0.000647 9$NC=0.0001694 24$OC=3.79E-5 6$ 
+211FRS G PC=6.09E-6 9$QC=3.43E-7 5$                                             
+211FR  L 6023.8    4                                                            
+211FRX L XREF=B                                                                 
+211FR  G 237.9     2  25     9                                                  
+211FR  G 1366.6    3  100    9                                                  
+211FR  L 6182.5    5  (49/2-)           7 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR  G 626.1     2  100    11 M1+E2     1.4    +7-4   0.045 11                
+211FRS G KC=0.035 10$LC=0.0075 14$MC=0.0018 3$NC=0.00048 8$OC=0.000106 19$      
+211FRS G PC=1.6E-5 3$QC=7.8E-7 21$                                              
+211FR  G 1525.2    4  31     6                                                  
+211FR  L 6259.4    5  (-)               7 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR cL J$703.0|g (M1) to (47/2-); 76.9|g to (49/2-)                           
+211FR  G 76.9      5                                                            
+211FR  G 703.0     3  100    25 (M1)                    0.0661                  
+211FRS G KC=0.0536 8$LC=0.00951 14$MC=0.00226 4$NC=0.000591 9$OC=0.0001322 19$  
+211FRS G PC=2.12E-5 3$QC=1.191E-6 17$                                           
+211FR  L 6560.1    5  (-)               7 NS      LT                            
+211FRX L XREF=B                                                                 
+211FR cL J$377.6|g (M1) to (49/2-)                                              
+211FR  G 300.7     5  0      AP                                                 
+211FR  G 377.6     3  100    18 (M1)                    0.347                   
+211FRS G KC=0.281 4$LC=0.0506 8$MC=0.01204 17$NC=0.00316 5$OC=0.000705 10$      
+211FRS G PC=0.0001132 16$QC=6.32E-6 9$                                          
+211FR  L 7031.1    6                                                           ?
+211FRX L XREF=B                                                                 
+211FR  G 471.0     2  100                                                       
+211FR  L 7822.1    6                                                           ?
+211FRX L XREF=B                                                                 
+211FR  G 791.0     3  100                                                       
+211FR  L 8230.0    7                                                           ?
+211FRX L XREF=B                                                                 
+211FR  G 407.9     3  100                                                       

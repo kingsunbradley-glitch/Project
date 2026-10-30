@@ -1,0 +1,425 @@
+221FR    ADOPTED LEVELS, GAMMAS                                  07NDS    200705
+221FR  H TYP=FUL$AUT=Ashok Jain, Sukhjeet Singh, Suresh Kumar, Jagdish Tuli$    
+221FR2 H CIT=NDS 108, 883 (2007)$CUT=15-Jan-2007$                               
+221FR  Q 314       7 6276    7 4624    5 6457.8  14    2012WA38                 
+221FR cQ $Note: Current evaluation has used the following Q record              
+221FR2cQ 314       6  {I6276}   6  {I4624}   5  {I6457}.8 {I14}    2003Au03     
+221FR  XA225AC A DECAY                                                          
+221FR  XB221RN B- DECAY                                                         
+221FR cG E         From {+225}Ac |a decay and {+221}Rn |b{+-} decay.            
+221FR cG RI        Relative photon intensity deexciting each level, adopted from
+221FR2cG {+225}Ac |a decay and {+221}Rn |b{+-} decay.                           
+221FR cG M,MR      From ce data taken in {+225}Ac |a decay and {+221}Rn |b{+-}  
+221FR2cG decay. Multipolarities in brackets are from decay scheme; they are     
+221FR3cG added with the purpose of calculating |g transition probabilities,     
+221FR4cG when the level's half-life is known.                                   
+221FR cL J$From band assignments, model calculations (1992Kv03),                
+221FR2cL and alpha decay (2003Ku44), unless given explicitly.                   
+221FR cL $1977LiYX and 1990Li46 suggest strong coriolis coupling                
+221FR2cL among parity doublet bands, K|p=1/2|+ and 3/2|+.                       
+221FR3cL See 1977LiYX for levels calculated including couplings                 
+221FR4cL between 1/2[541], 3/2[521] and 3/2[532] bands, and for amplitudes of   
+221FR5cL each state in these bands. See 1988Le13 for energies of states         
+221FR6cL calculated in a model by coupling a deformed shell model including     
+221FR7cL octupole deformation to a reflection-asymmetric rotor core. See        
+221FR8cL 1992Kv03 for intrepretation of levels in terms of quasipartice plus    
+221FR9cL phonon model.                                                          
+221FR CL BAND(A)$ K|p=1/2-, 1/2[541] (1992Kv03).                                
+221FR2cL Assignment was suggested by 1977LiYX, 1988Sh12 and 1992Kv03.           
+221FR3cL The band was interpreted by                                            
+221FR4cL 1988Sh12 in terms of the 1/2- octupole deformed band.                  
+221FR CL BAND(C)$ K|p=1/2+, 1/2[411]+(1/2[541]+Q{-30}) (1992Kv03).              
+221FR2cL Aassignment was suggested by 1992Kv03 and 1990Li46.                    
+221FR CL BAND(B)$ K|p=3/2-, 3/2[532]+(3/2[402]+Q{-30})(1992Kv03).               
+221FR3cL Assignment was suggested by 1988Sh12 and 1992Kv03.                     
+221FR5cL Strongly coriolis mixed with 5/2|+ parity                              
+221FR6cL doublets (1990Li46).                                                   
+221FR CL BAND(D)$ K|p=3/2+, 3/2[402]+(3/2[532]+Q{-30}) (1992Kv03)               
+221FR2cL Assignment was                                                         
+221FR3cL suggested by 1992Kv03 and 1990Li46.                                    
+221FR cL J(F)$Configuration 5/2[523] +(1/2[541]+Q{-22}) suggested by 1992Kv03   
+221FR cL J(G)$Configuration 5/2[402]+(5/2[523]+Q{-30}) suggested by 1992Kv03.   
+221FR cL J(H)$Configuration 3/2[521]+(7/2[514]+Q{-22}) suggested by 1992Kv03.   
+221FR  L  0.0        5/2-                4.9 M   2                          A   
+221FR2 L  %A=100$ %B- LT 0.1                                                    
+221FR2 L XREF=AB                                                                
+221FR cL           Limit on %|b{+-} was determined from absence of {+221}Ra |a  
+221FR2cL groups in the decay of {+221}Fr (1964Va20).                            
+221FR3cL           {+14}C decay observed by 1994Bo28,                           
+221FR2cL 1986Ba26,1985Pr01. See 1989Ci03, 1988Sh29, 1988Bl11, 1987Sh04,         
+221FR3cL 1987Po08, 1986Ir01,1986Gr20 and 1990Sh01 for calculations of partial   
+221FR4cL T{-1/2}({+14}C); see 1986Po06 for calculations of decay rates by       
+221FRxcL {+14}C, {+12}C, {+8}Be, {+15}N, {+13}C, {+11}B, {+16}O and {+15}C      
+221FRxcL emission.                                                              
+221FR3 L MOMM1=+1.58 3 (1985Co24,1987Du13,2005St24)$                            
+221FR4 L MOME2=-0.98 6 (1985Co24,2005St24)                                      
+221FR cL MOMM1$For calculated values, see 1986Ek02 and 1988Le13.                
+221FR cL MOME2$LASER spectroscopy                                               
+221FR cL J         spin measured by 1978Ek02 (atomic-beam magnetic resonance).  
+221FR2cL Parity from magnetic moment.                                           
+221FR cL $See 1986Ek02 and 1987Co19 for deduced deformation parameters.         
+221FR cL $Isotope shift relative to {+212}Fr (d2 line):                         
+221FR2cL -23570 {I2} MHZ (1986Ba45), -23569 {I8} MHZ (1987Co19).                
+221FR cL T$from 1967LoZZ. Other values: 5 min (1947En03), 4.8 min               
+221FRxcL (1950Ha52).                                                            
+221FR  L 26.00      4(1/2)-                                                 A   
+221FR2 L XREF=AB                                                                
+221FR cL J         parity from E1 character of 73.9|g from 99.85-keV level.     
+221FR2cL The 526.09|g from (3/2-) state at 552.05 keV rules out                 
+221FR3cL 9/2- assignment.                                                       
+221FR4cL The 74.6-keV transition from 100.89-keV level is (M1+E2) in conflict   
+221FR5cL with |D' (J).                                                          
+221FR  G 26.0      1  100    33(E2)                    5.94E3 15                
+221FRS G LC=4.39E3 11$MC=1.18E3 3$NC+=378 9                                     
+221FRS G NC=307 8$OC=63.3 15$PC=8.01 19$QC=0.00946 22                           
+221FR  L 36.64      4(3/2)-              1.5 NS  2                          B   
+221FR2 L XREF=AB                                                                
+221FR cL T         from (|a)(ce)(t) data of 1978LiZN.                           
+221FR  G 10.642    2                                            5.2E+4    12    
+221FR cG TI$from I(|g+ce)(10.642|g)/I(|g+ce)(36.7|g)=0.47 {I11}.                
+221FR  G 36.7      1 100     9   E2(+M1)               6.E2   6                 
+221FRB G BE2W=44 7                                                              
+221FRS G LC=4.E2 4$MC=1.1E2 11$NC+=4.E1 4                                       
+221FRS G NC=3.E1 3$OC=6 6$PC=0.8 7$QC=0.0035 16                                 
+221FR cG M$M1 admixture <10% (2003Ku44)                                         
+221FR  L 38.54      6(9/2)-                                                 A   
+221FR2 L XREF=AB                                                                
+221FR cL J         38.5 E2 |g to 5/2- g.s. and the log| {Ift} value of 7.4 for  
+221FR2cL the |b branch from 7/2(+) {+221}Rn limit J|p to 5/2-, 7/2-, 9/2-.      
+221FR3cL J(38.5 level)=9/2 deduced by 1975PeZO from their (|a)(|g)(|q) data     
+221FR4cL (not given in the report) is also consistent with |a|g coin            
+221FR5cL measurements of 2003Ku44.                                              
+221FR  G 38.5      1 100     9 E2                      863    17                
+221FRS G LC=637 12$MC=171 4$NC+=55.1 11                                         
+221FRS G NC=44.7 9$OC=9.23 18$PC=1.173 23$QC=0.00158 3                          
+221FR  L 99.62      5(3/2)-               80 PS   30                        A   
+221FR2 L XREF=AB                                                                
+221FR cL T         determined by 1978AgZX (Doppler-shift method).               
+221FR cL J         134.86 |g from (5/2)+ state at 234.51 keV is E1(2003Ku44).   
+221FR  G 62.9      1  61.4   29M1                      10.87                    
+221FRS G LC=8.25 13$MC=1.97 3$NC+=0.651 10                                      
+221FRS G NC=0.516 8$OC=0.1154 17$PC=0.0185 3$QC=0.001035 16                     
+221FRB G BM1W=0.056 22                                                          
+221FR  G 73.5      1  3.6    10   E2+M1                22     16                
+221FRB G BE2W=48 22                                                             
+221FRS G LC=16 12$MC=4 4$NC+=1.4 10                                             
+221FRS G NC=1.1 9$OC=0.24 17$PC=0.032 21$QC=0.0004 3                            
+221FR  G 99.6      5  100    9 M1+E2     0.18    5     3.04   14                
+221FRS G LC=2.30 10$MC=0.56 3$NC+=0.183 9                                       
+221FRS G NC=0.146 7$OC=0.0323 15$PC=0.00509 18$QC=0.000264 7                    
+221FRB G BM1W=0.022 9$BE2W=23 16                                                
+221FR  L 99.85      7(3/2)+              160 PS   30                        C   
+221FR2 L XREF=AB                                                                
+221FR cL T         determined by 1978AgZX (Doppler-shift method).               
+221FR cL J         99.8|g to 5/2- g.s. is E1; |b branch from 7/2(+) {+221}Rn    
+221FR2cL suggests J|p|=3/2+.                                                    
+221FR  G 73.9      1  26.4   17   E1                   0.240                    
+221FRS G LC=0.182 3$MC=0.0439 7$NC+=0.01401 21                                  
+221FRS G NC=0.01129 17$OC=0.00238 4$PC=0.000329 5$QC=1.091E-5 16                
+221FRB G BE1W=0.00053 12                                                        
+221FR  G 99.8      1  100    11E1(+M2)                 0.1076                   
+221FRS G LC=0.0816 12$MC=0.0196 3$NC+=0.00631 9                                 
+221FRS G NC=0.00507 8$OC=0.001080 16$PC=0.0001538 22$QC=5.58E-6 8               
+221FRB G BE1W=0.00081 19                                                        
+221FR  L 100.89     5 (5/2)-                                                B   
+221FR2 L XREF=AB                                                                
+221FR cL J         parity is from 64.3 keV, M1+E2 transition to 36.64 keV level.
+221FR2cL The 100.8|g M1+(E2) to 5/2- g.s. and log| {Ift} for |b branch from     
+221FR3cL 7/2(+) {+221}Rn limit spin to 5/2 and 7/2. J|p=5/2-, since J|p(36.6    
+221FRxcL level)=3/2- (2003Ku44).                                                
+221FR  G 64.3      1  47     5 M1+E2     0.45    13    20     6                 
+221FRS G LC=15 4$MC=3.9 11$NC+=1.3 4                                            
+221FRS G NC=1.0 3$OC=0.22 6$PC=0.031 7$QC=0.00084 7                             
+221FR  G 74.6      4  29     9 (E2)                    35.0   11                
+221FRS G LC=25.8 8$MC=6.98 21$NC+=2.26 7                                        
+221FRS G NC=1.83 6$OC=0.378 12$PC=0.0485 15$QC=9.11E-5 24                       
+221FR cG M$Adopted from |D' (J|p). Measured M1+E2                               
+221FR  G 100.8     2  100    8 M1+(E2)                 6      3                 
+221FRS G LC=4.2 21$MC=1.1 6$NC+=0.36 19                                         
+221FRS G NC=0.29 16$OC=0.06 4$PC=0.008 4$QC=0.00015 12                          
+221FR  L 108.41     5 (7/2)-             280 PS   AP                        B   
+221FR2 L XREF=AB                                                                
+221FR cL T         determined by 1978AgZX (Doppler-shift method).               
+221FR cL J         108.4|g to g.s. is M1+E2; log| {Ift} for the |b{+-} feeding  
+221FRxcL from {+221}Rn. 126.15 keV |g from 234.51 keV level at (5/2)+ to this   
+221FR3cL level is (E1)                                                          
+221FR  G 69.87     5  1.9    5 E2+M1                   28     20                
+221FRB G BE2W AP 49                                                             
+221FRS G LC=21 15$MC=5 4$NC+=1.8 13                                             
+221FRS G NC=1.4 11$OC=0.30 22$PC=0.04 3$QC=0.0004 4                             
+221FR  G 71.4      3  5.8    12(E2)                    43.2   11                
+221FRS G LC=31.8 8$MC=8.60 22$NC+=2.78 7                                        
+221FRS G NC=2.25 6$OC=0.466 12$PC=0.0597 15$QC=0.0001083 24                     
+221FR cG M$Adopted from |D' (J|p). Measured M1+E2                               
+221FRB G BE2W AP 55                                                             
+221FR  G 108.4     1  100    5 M1+E2     0.53    13    10.3   5                 
+221FRS G KC=7.2 8$LC=2.30 24$MC=0.58 7$NC+=0.190 22                             
+221FRS G NC=0.152 18$OC=0.033 4$PC=0.0048 4$QC=0.000171 16                      
+221FRB G BM1W AP 0.0033$BE2W AP 26                                              
+221FR  L 145.91     8(1/2)+                                                 C   
+221FR2 L XREF=A                                                                 
+221FR  G 46.2      2  5.9    9                         0.841                    
+221FR  G 119.9     1  100    5                         0.305                    
+221FR  L 150.07     6(7/2)+               80 PS   20                        C   
+221FR2 L XREF=AB                                                                
+221FR cL T         determined by 1978AgZX (Doppler-shift method).               
+221FR cL J         150.1|g to g.s. is E1; 111.5|g to (9/2)- state. Spin and     
+221FR2cL parity assignments are consistent with |a|g coin measurements of       
+221FR3cL 2003Ku44.                                                              
+221FR  G 49.1      2  1.1    1 (E1)                    0.716  13                
+221FRS G LC=0.542 10$MC=0.1322 24$NC+=0.0418 8                                  
+221FRS G NC=0.0338 6$OC=0.00699 13$PC=0.000918 16$QC=2.65E-5 5                  
+221FRB G BE1W=0.00012 4                                                         
+221FR  G 111.5     1  44     2 (E1)                    0.363                    
+221FRS G KC=0.283 4$LC=0.0609 9$MC=0.01462 21$NC+=0.00470 7                     
+221FRS G NC=0.00378 6$OC=0.000808 12$PC=0.0001162 17$QC=4.35E-6 7               
+221FRB G BE1W=0.00041 11                                                        
+221FR  G 150.1     1  100    5 E1                      0.1764                   
+221FRS G KC=0.1396 20$LC=0.0280 4$MC=0.00669 10$NC+=0.00216 3                   
+221FRS G NC=0.001733 25$OC=0.000374 6$PC=5.49E-5 8$QC=2.22E-6 4                 
+221FRB G BE1W=0.00038 10                                                        
+221FR  L 195.77     7(7/2)-            20 PS     5                          A   
+221FR2 L XREF=AB                                                                
+221FR cL T         determined by 1978AgZX (Doppler-shift method).               
+221FR cL J         195.8|g to 5/2- g.s. and 157.3|g to (9/2)-, 38.54 keV level  
+221FR2cL are M1+E2.                                                             
+221FR  G 87.4      1  70.6   41M1                      4.17                     
+221FRB G BM1W=0.10 3                                                            
+221FRS G LC=3.16 5$MC=0.754 11$NC+=0.249 4                                      
+221FRS G NC=0.198 3$OC=0.0442 7$PC=0.00709 11$QC=0.000396 6                     
+221FR  G 94.9      1  26.3   25M1(+E2)                 7      4                 
+221FRB G BM1W=0.028 8                                                           
+221FRS G LC=5 3$MC=1.4 9$NC+=0.5 3                                              
+221FRS G NC=0.37 22$OC=0.08 5$PC=0.011 5$QC=0.00017 14                          
+221FR  G 96.7      5  8.8    16(E2)                    10.3   3                 
+221FRS G LC=7.55 22$MC=2.05 6$NC+=0.662 19                                      
+221FRS G NC=0.536 16$OC=0.111 4$PC=0.0143 4$QC=3.54E-5 8                        
+221FR cG M$Adopted from |D' (J|p). Measured M1+E2, |d=0.69 {I27}, |a=6.0 {I14}  
+221FR cG           This |g was interpreted by 1988Sh12 to be doublet with       
+221FR2cG about 85% E2 and 15% M2 transitions decaying to the 99.62 and 99.85 keV
+221FR3cG levels, respectively. The assumed M2 part would be highly enhanced,    
+221FR4cG having a B(M2)(W.u.) value of about 3200 which rules out this          
+221FRxcG assumption.                                                            
+221FRB G BE2W=3.2E+2 12                                                         
+221FR  G 157.3     2  100    6 M1+E2                   2.7    13                
+221FRB G BM1W=0.023 7 $ BE2W LE 13                                              
+221FRS G KC=1.7 15$LC=0.70 12$MC=0.18 4$NC+=0.059 13                            
+221FRS G NC=0.047 11$OC=0.0101 20$PC=0.00144 14$QC=4.E-5 4                      
+221FR  G 169.9        3.8    3                                                  
+221FR  G 195.8     2  38.4   19M1+E2     0.8     2     1.53   20                
+221FRS G KC=1.11 20$LC=0.314 5$MC=0.0785 17$NC+=0.0258 5                        
+221FRS G NC=0.0206 5$OC=0.00448 8$PC=0.000667 15$QC=2.6E-5 5                    
+221FR cG BE2W$B(E2)(W.u.)<|?47                                                  
+221FRB G BM1W=0.0030 12$BE2W=16 8                                               
+221FR  L 224.64     6(3/2)+            35 PS      10                        D   
+221FR2 L XREF=AB                                                                
+221FR cL T         determined by 1978AgZX (Doppler-shift method).               
+221FR cL J$E1 188.0|g to (3/2)-; M1 78.8|g to (1/2)+                            
+221FR  G  78.8        2.4    3  M1                     5.63                     
+221FRS G LC=4.27 6$MC=1.019 15$NC+=0.337 5                                      
+221FRS G NC=0.267 4$OC=0.0597 9$PC=0.00958 14$QC=0.000536 8                     
+221FRB G BM1W=0.015 5                                                           
+221FR  G 123.8     1  16.0   9  [E1]                   0.282                    
+221FRS G KC=0.221 4$LC=0.0462 7$MC=0.01108 16$NC+=0.00357 5                     
+221FRS G NC=0.00287 4$OC=0.000615 9$PC=8.92E-5 13$QC=3.43E-6 5                  
+221FRB G BE1W=0.00021 7                                                         
+221FR  G 124.8     1  5.33   22M1+E2                   5.6    21                
+221FRB G BM1W AP 0.005 $ BE2W AP 68                                             
+221FRS G KC=3 3$LC=1.7 6$MC=0.45 18$NC+=0.15 6                                  
+221FRS G NC=0.12 5$OC=0.025 10$PC=0.0035 10$QC=8.E-5 7                          
+221FR  G 186.1        2.44   22                                                 
+221FR  G 188.0     1  100    4  E1                     0.1023                   
+221FRS G KC=0.0816 12$LC=0.01570 22$MC=0.00375 6$NC+=0.001216 17                
+221FRS G NC=0.000972 14$OC=0.000211 3$PC=3.14E-5 5$QC=1.338E-6 19               
+221FRB G BE1W=0.00038 11                                                        
+221FR  G 198.4     3  3.78   22[E1]                    0.0899                   
+221FRS G KC=0.0718 11$LC=0.01370 20$MC=0.00327 5$NC+=0.001061 16                
+221FRS G NC=0.000848 13$OC=0.000184 3$PC=2.75E-5 4$QC=1.186E-6 17               
+221FRB G BE1W=1.2E-5 4                                                          
+221FR  G 224.7     1  21.8   11 [E1]                   0.0668                   
+221FRS G KC=0.0536 8$LC=0.01004 14$MC=0.00239 4$NC+=0.000777 11                 
+221FRS G NC=0.000621 9$OC=0.0001352 19$PC=2.04E-5 3$QC=9.00E-7 13               
+221FRB G BE1W=4.8E-5 15                                                         
+221FR  L 234.51     6 (5/2)+                                                C   
+221FR2 L XREF=AB                                                                
+221FR cL J         134.86 and 126.15 |g's to (3/2)- state at 99.62 and          
+221FR2cL (7/2)- state at 108.41 keV are (E1).                                   
+221FR  G 126.15    10 21.2   61 (E1)                   0.269                    
+221FRS G KC=0.211 3$LC=0.0440 7$MC=0.01055 15$NC+=0.00340 5                     
+221FRS G NC=0.00273 4$OC=0.000586 9$PC=8.50E-5 12$QC=3.29E-6 5                  
+221FR  G 133.64    5  39.4   61 (E1)                   0.234                    
+221FRS G KC=0.184 3$LC=0.0378 6$MC=0.00906 13$NC+=0.00293 5                     
+221FRS G NC=0.00235 4$OC=0.000504 7$PC=7.35E-5 11$QC=2.89E-6 4                  
+221FR  G 134.86    5  84.8   9  (E1)                   0.229                    
+221FRS G KC=0.180 3$LC=0.0369 6$MC=0.00885 13$NC+=0.00286 4                     
+221FRS G NC=0.00229 4$OC=0.000493 7$PC=7.19E-5 10$QC=2.83E-6 4                  
+221FR  G 197.9        100    9                                                  
+221FR  L 253.56     4 (5/2)+              35 PS   15                        D   
+221FR2 L XREF=AB                                                                
+221FR cL T         determined by 1978AgZX (Doppler-shift method).               
+221FR cL J         parity from (E1) transitions to negative parity levels;      
+221FR2cL 253.54|g to 5/2- g.s. and the log| {Ift} value for the |b branch from  
+221FR3cL 7/2(+) {+221}Rn limit J|p to 5/2+, 7/2+. Since J|p(36.64 level)=3/2-,  
+221FR4cL J|p(253.56 level)=5/2+.                                                
+221FR  G 57.8      2  1.4    3 [E1]                    0.463  8                 
+221FRS G LC=0.350 6$MC=0.0851 15$NC+=0.0270 5                                   
+221FRS G NC=0.0218 4$OC=0.00455 8$PC=0.000611 10$QC=1.87E-5 3                   
+221FRB G BE1W=0.00012 7                                                         
+221FR  G 103.6     2  0.9    2  [M1+E2]                10     3                 
+221FRS G KC=5 5$LC=3.7 18$MC=1.0 6$NC+=0.32 17                                  
+221FRS G NC=0.25 14$OC=0.05 3$PC=0.007 3$QC=0.00014 11                          
+221FR  G 145.2     1  46.5   22 (E1)                   0.191                    
+221FRS G KC=0.1512 22$LC=0.0305 5$MC=0.00729 11$NC+=0.00236 4                   
+221FRS G NC=0.00189 3$OC=0.000407 6$PC=5.97E-5 9$QC=2.39E-6 4                   
+221FRB G BE1W=0.00026 13                                                        
+221FR  G 152.6     2  7.0    4 [E1]                    0.1695                   
+221FRS G KC=0.1342 20$LC=0.0268 4$MC=0.00641 10$NC+=0.00207 3                   
+221FRS G NC=0.001660 24$OC=0.000358 6$PC=5.27E-5 8$QC=2.14E-6 3                 
+221FRB G BE1W=3.4E-5 16                                                         
+221FR  G 153.9     1  67.2   33  E1                    0.1660                   
+221FRS G KC=0.1315 19$LC=0.0262 4$MC=0.00627 9$NC+=0.00203 3                    
+221FRS G NC=0.001624 23$OC=0.000351 5$PC=5.16E-5 8$QC=2.10E-6 3                 
+221FRB G BE1W=0.00032 15                                                        
+221FR  G 216.9     2  100    52 (E1)                   0.0726                   
+221FRS G KC=0.0582 9$LC=0.01096 16$MC=0.00261 4$NC+=0.000849 12                 
+221FRS G NC=0.000678 10$OC=0.0001475 21$PC=2.22E-5 4$QC=9.73E-7 14              
+221FRB G BE1W=0.00017 12                                                        
+221FR  G 228.2     4  1.5    4                                                  
+221FR  G 253.54    5  42.8   22 [E1]                   0.0503                   
+221FRS G KC=0.0405 6$LC=0.00746 11$MC=0.001775 25$NC+=0.000578 8                
+221FRS G NC=0.000461 7$OC=0.0001007 15$PC=1.526E-5 22$QC=6.91E-7 10             
+221FRB G BE1W=4.5E-5 22                                                         
+221FR  L 272.6      6(7/2-,9/2-)                                                
+221FR2 L XREF=A                                                                 
+221FR  G 236.0     6  100    13                                                 
+221FR  L 279.21    10 (7/2)+                                                D   
+221FR2 L XREF=AB                                                                
+221FR cL J         parity from E1 character of 178.3|g to 100.89-keV level;     
+221FR2cL 279.3|g to 5/2- g.s. and 240.7|g to (9/2)- state at 38.54 keV          
+221FR3cL limit J|p to 7/2+.                                                     
+221FR  G 129.2     2  8.8    16                        5.0    20                
+221FR  G 170.7     2  68     4 (E1)                    0.1291                   
+221FRS G KC=0.1027 15$LC=0.0201 3$MC=0.00480 7$NC+=0.001554 23                  
+221FRS G NC=0.001244 18$OC=0.000269 4$PC=3.99E-5 6$QC=1.662E-6 24               
+221FR  G 178.3     2  56     4 E1                      0.1162                   
+221FRS G KC=0.0925 14$LC=0.0180 3$MC=0.00429 7$NC+=0.001391 20                  
+221FRS G NC=0.001112 16$OC=0.000241 4$PC=3.58E-5 6$QC=1.507E-6 22               
+221FR  G 240.7     2  40     4                         0.0568                   
+221FR  G 279.3     3  100    8 E1                      0.0402                   
+221FRS G KC=0.0325 5$LC=0.00591 9$MC=0.001404 20$NC+=0.000457 7                 
+221FRS G NC=0.000365 6$OC=7.98E-5 12$PC=1.215E-5 18$QC=5.60E-7 8                
+221FR  L 288.08    16 (9/2)-                                                    
+221FR2 L XREF=A                                                                 
+221FR  G 179.8     3  78.3   49                        1.8    10                
+221FR  G 187.2        74.2   25                                                 
+221FR  G 249.6     2  100    8                         1.083                    
+221FR  L 294.66    14(9/2)+                                                 D   
+221FR2 L XREF=AB                                                                
+221FR cL J         186.3|g to 108.41 level is E1; 144.7-keV, (M1+E2) transition 
+221FR2cL to (7/2)+ 150.07 level and 256.0-keV transition to (9/2)- state at     
+221FR3cL 38.54 keV limit J|p to 7/2+,9/2+. 1977Vy02 suggest J|p=9/2+ from       
+221FR4cL absence of transition to g.s which is consistent with |a|g coin        
+221FR4cL measurements of 2003Ku44.                                              
+221FR  G 144.7     2  11.1   28M1+E2                   3.5    16                
+221FRS G KC=2.2 19$LC=0.96 23$MC=0.25 8$NC+=0.081 23                            
+221FRS G NC=0.065 19$OC=0.014 4$PC=0.0020 4$QC=5.E-5 5                          
+221FR  G 186.3     4  100    8 E1                      0.1045 16                
+221FRS G KC=0.0834 13$LC=0.01607 25$MC=0.00383 6$NC+=0.001244 19                
+221FRS G NC=0.000995 15$OC=0.000216 4$PC=3.21E-5 5$QC=1.365E-6 21               
+221FR  G 256.0     2  16.7   56                        0.0492                   
+221FR  L 393.35     7(5/2,7/2)+                                                 
+221FR2 L XREF=AB                                                                
+221FR cL J         197.77|g to (7/2)- state at 195.77 keV is (E1); Spin and     
+221FR2cL parity assignments are consistent with |a|g coin measurements          
+221FR3cL of 2003Ku44.                                                           
+221FR  G 114           3.3   4  M1                     9.86                     
+221FRS G KC=7.93 12$LC=1.466 21$MC=0.350 5$NC+=0.1156 17                        
+221FRS G NC=0.0917 13$OC=0.0205 3$PC=0.00329 5$QC=0.000184 3                    
+221FR  G 139.6         5.2   9  M1+E2                  3.9    17                
+221FRS G KC=2.4 21$LC=1.1 3$MC=0.29 9$NC+=0.09 3                                
+221FRS G NC=0.075 24$OC=0.016 5$PC=0.0023 5$QC=6.E-5 5                          
+221FR  G 168.86    13  30    4                         2.1    11                
+221FR  G 197.77    12  100   9 E1                      0.0905                   
+221FRS G KC=0.0724 11$LC=0.01381 20$MC=0.00329 5$NC+=0.001070 15                
+221FRS G NC=0.000855 12$OC=0.000186 3$PC=2.78E-5 4$QC=1.195E-6 17               
+221FR  G 243.2     1   13.0  13                        1.162                    
+221FR  G 284.8     1   27.4  22                        0.0385                   
+221FR  G 354.8     2   10.0  13                        0.0235                   
+221FR  L 400.75    19(7/2-)                                                     
+221FR2 L XREF=A                                                                 
+221FR  G 112.8     2  42.9   48                        10.16                    
+221FR  G 204.7     3  26.2   95                                                 
+221FR  G 362.2     4  100    10                        0.388                    
+221FR  L 410.2     12                                                           
+221FR2 L XREF=A                                                                 
+221FR  G 137.6       100                                                        
+221FR  L 497.3      4                                                           
+221FR2 L XREF=A                                                                 
+221FR  G 458.8     4 100     38                                                 
+221FR  L 517.81    12(5/2+)                                                 G   
+221FR2 L XREF=A                                                                 
+221FR  G 321.8     4  10.3   14                                                 
+221FR  G 368.3     6  2.1    7                                                  
+221FR  G 417.9     3  16.6   14                                                 
+221FRF G FL=99.62                                                               
+221FR  G 481.1     2  100    7                                                  
+221FR  G 492.6     6  0.7    4                                                  
+221FRF G FL=26.00                                                               
+221FR  G 517.9     2  52     4                                                  
+221FR  L 552.05     5(3/2)-                                                 H   
+221FR2 L XREF=A                                                                 
+221FR cL J         favored |a decay from (3/2-) {+225}Ac rules out the          
+221FR2cL possibility of 5/2- assignment of 2003Ku44.                            
+221FR  G  298.6    3  2.0    6                                                  
+221FR  G 317.4        0.11   GT                                             *   
+221FR  G  356.6       0.26   11                                                 
+221FR  G 406.1     1  7.5    5                         0.01757                  
+221FR  G 450.1     7  3.6    9                                                  
+221FR  G 452.4     1 100     6                         0.213                    
+221FR  G 512.5     7  0.56   22                                                 
+221FR  G 515.40    5  21.4   11                        0.1504                   
+221FR  G 526.09    5  37.1   23                        0.1424                   
+221FR  G 552.0     1  6.3    5                         0.1253                   
+221FR  L 570.81    16(5/2+,7/2+)                                            G   
+221FR2 L XREF=A                                                                 
+221FR  G 317.4       3.12    5                                              *   
+221FR  G 375.0     7 53      13                                                 
+221FR  G 462.4     6 25      9                                                  
+221FR  G 469.5     3 88      9                                                  
+221FR  G 571.0     2 100     16                                                 
+221FR  L 602.2      7(5/2-)                                                     
+221FR2 L XREF=A                                                                 
+221FR  G 565.6     7 100                                                        
+221FR  L 630.71    13(5/2+)                                                 F   
+221FR2 L XREF=A                                                                 
+221FR  G 435.0     3  34     4                                                  
+221FR  G 522.1     2  25     4                                                  
+221FR  G 529.7     3  100    10                                                 
+221FR  G 531.2     3  56     7                                                  
+221FR  G 591.4     7  10     3                                                  
+221FR  G 594.6     3  39     8                                                  
+221FR  L 637.72    10                                                           
+221FR2 L XREF=A                                                                 
+221FR  G 403.4     3  5      3                                                  
+221FR  G 538.1     1  27     AP                                                 
+221FRF G FL=99.62                                                               
+221FR  G 601.0     3  100    24                                                 
+221FR  G 637.1     7  2.7    AP                                                 
+221FR  L 712       5                                                            
+221FR2 L XREF=A                                                                 
+221FR  L 714.2      6                                                           
+221FR2 L XREF=A                                                                 
+221FR  G  568.3    6  100                                                       
+221FR  L 749.16    20                                                           
+221FR2 L XREF=A                                                                 
+221FR  G 603.5     5 100     25                                                 
+221FR  G 649.5     2 75      19                                                 
+221FR  L 780.2      4                                                           
+221FR2 L XREF=A                                                                 
+221FR  G  545.8    6  84     17                                                 
+221FR  G  629.9    7  50     17                                                 
+221FR  G 680.4     6  100    33                                                 
+221FR  G 780.6     6                                                            
+221FR  L 824.2      7                                                           
+221FR2 L XREF=A                                                                 
+221FR  G  824.2    7 100                                                        

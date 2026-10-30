@@ -1,0 +1,206 @@
+249FM    253NO A DECAY                 2012HE09,2006LO12,2004HE2824NDS    202403
+249FM  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 195, 718 (2024)$CUT=12-Oct-2023$     
+249FM c  2012He09: {+253}No was produced in {+207}Pb({+48}Ca,2n) reaction.      
+249FM2c  The {+48}Ca beam at E=218.4 MeV from the UNILAC accelerator at GSI     
+249FM3c  bombarded a 98.9% enriched {+207}Pb target. Evaporation                
+249FM4c  residues were separated using the velocity filter SHIP. They were      
+249FM5c  then implanted into a position-sensitive 16-strip PIPS detector        
+249FM6c  at the focal plane The PIPS detector was used to measure |a            
+249FM7c  decay energy of the implanted nuclei and their daughter products.      
+249FM8c  It was surrounded in backward hemisphere by a box of silicon           
+249FM9c  detectors to stop |a particles. Gamma rays were detected               
+249FMac  using a four crystal Ge-clover detector shielded with Cu, Cd, Pb       
+249FMdc  (Expt.1), and VEGA-type detector without shielding (Expt.2)            
+249FMec  FWHM=1.7 keV (Expt.1) and FWHM=2.5 keV (Expt.2) for the 279.5 keV      
+249FMec  |g-rays. Measured E|g, I|g, E{-|a}, I{-|a}, |a|g coin (|Dt|<|+0.4 |ms).
+249FMfc  Deduced level scheme, J|p, and simulated the sum energy (E{-|a}+E{-ce})
+249FMgc  spectra as a function of the implantation depth of {+253}No by GEANT4  
+249FMhc  code.                                                                  
+249FM c  2004He28,2004He04,1997He29 (same group as 2012He09):                   
+249FM2c  {+253}No produced in {+207}Pb({+48}Ca,2n)                              
+249FM2c  Residues separated by SHIP velocity filter and                         
+249FM3c  implanted into PIPS of GSI. Measured |a, |g, |g|g coin,                
+249FM4c  |a|g coin. Prompt and delayed spectra following |a decay of {+253}No.  
+249FM c  2011Lo06: (The same group as 2006Lo12 at FLNR, JINR. However, 2011Lo06 
+249FM2c  did the measurements with increased efficiency of their detector       
+249FM3c  system and revisited the decay scheme). {+253}No was produced in       
+249FM2c  {+207}Pb({+48}Ca,2n). The residues were separated by VASSILISSA        
+249FM3c  recoil separator and implanted into the GABRIELA detection system at   
+249FM4c  focal plane. The detectors consisted of 48x48 strip                    
+249FM5c  Double-Sided-Silicon strip Detector (DSSD), 32-strip silicon detector  
+249FM6c  upstream and a Ge detector. The efficiency for |g ray detection was    
+249FM7c  increased to 16.4% for 100-keV photon and 3.4% at 1332 keV.            
+249FM8c  Measured |a, |g, |g|g coin, |a|g coin, conversion                      
+249FM9c  electrons and |a(ce) coin and prompt and delayed spectra following     
+249FMac  |a decay of {+253}No. Confirmed the work of 2006Lo12 and observed      
+249FMbc  a new |a-group to a (7/2-) state at 669 keV                            
+249FM c  2006Lo12 and 2006Po10: (Same group as 2011Lo06 but used the position   
+249FM2c  sensitive 16-strip silicon detector.) {+253}No was produced in         
+249FM3c  {+207}Pb({+48}Ca,2n). The residues were separated by VASSILISSA        
+249FM4c  recoil separator and implanted into GABRIELA detection system at       
+249FM5c  FLNR, JINR. The detectors consisted of 16-strip silicon detectors      
+249FM6c  at the focal plane, 4-strip silicon detectors upstream and the Ge      
+249FM7c  detector. The source was mixed with                                    
+249FM5c  {+254}No which made it impossible to determine the absolute |a decay   
+249FM6c  branching ratios. Measured |a, |g, |g|g coin, |a|g coin, conversion    
+249FM7c  electrons and |a(ce) coin. Prompt and delayed spectra following        
+249FM8c  |a decay of {+253}No.                                                  
+249FM c  1997He29: |a decay chain {+257}Rf|){+253}No was studied at the UNILAC  
+249FM2c  accelerator at GSI, Germany. The evaporation residue (Er) from the     
+249FM3c  {+208}Pb({+50}Ti,n) were separated in the SHIP velocity fiter and then 
+249FM4c  passed through a tof system and finally implanted into a position      
+249FM5c  sensitive 16-strip silicon wafer. Measured E|a, |a|a correlations and  
+249FM6c  excitation functions, and half-lives. There may be some indication that
+249FM7c  the {+253}No |a decay involves the decay of two isomers. Possibly the  
+249FM8c  8063 |a are correlated with the |a's from 3.9 s {+257}Rf, however      
+249FM9c  no final conclusion was made                                           
+249FM c                                                                         
+249FM cA E(G)$Broad distribution of alpha particles was observed by 2012He09.   
+249FM2cA The shape analysis of the measured |a spectra was compared to          
+249FM2cA GEANT simulations that lead to evidence for weak                       
+249FM3cA |a decay branches of {+253}No into g.s. of {+249}Fm or the             
+249FM4cA ground-state rotational band. In the simulations, by GEANT4 code,      
+249FM5cA (E{-|a}+E{-ce}) and a total of 0.7% |a decay branch to the g.s.        
+249FM6cA rotational band were considered                                        
+249FM cG M$From the experimental internal conversion data. The numerical values 
+249FM2cG of the conversion coefficients data from 2006Lo12 listed in the        
+249FM3cG comments were read from Figure 6 of 2006Lo12                           
+249FM cL E$From least-squares fit to E|g data except as noted                   
+249FM cL J$From Adopted levels                                                  
+249FM CL BAND(A)$ 7/2[624]                                                      
+249FM c                                                                         
+249FM#t                                                                         
+249FM#t                 Fm K-x rays (keV) (measured by 2012He09)                
+249FM#t              -------------------------------------------                
+249FM#t                  115.3 {I2}                 K{-|a2}                     
+249FM#t                  121.1 {I2}                 K{-|a1}                     
+249FM#t                  136.4 {I2}                 K{-|b1}                     
+249FM#t                  140.6 {I2}                 K{-|b2}                     
+249FM#t              -------------------------------------------                
+249FM#t                                                                         
+249FM c                                                                         
+249FM DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+249FM cA HF$The nuclear radius parameter r{-0}({+249}Fm)=1.4730 {I54}           
+249FM2cA is deduced from interpolation (or unweighted average) of radius        
+249FM3cA parameters of the adjacent even-even nuclides.                         
+253NO  P 0.0           (9/2-)           94.0 S   12             8415      4     
+253NO cP J$From Adopted Levels of {+253}No in the ENSDF (2013Br09)              
+253NO cP T$From weighted average of 100.0 s {I55} (2018Ac08), 102 s {I12}       
+253NO2cP (2017Mi01), 93.6 s {I12} (2009He23), 94 s {I+11-9} (2009Qi04),         
+253NO3cP 95 s {I10} (1967Mi03), 105 s {I20} (1967Gh01).                         
+253NO cP QP$From 2021Wa16                                                       
+249FM  N 0.536                 0.55    3                                        
+249FM cN NR$From I(|g+ce)=99.3 for all gammas from 209, 279 and 669 levels,     
+249FM2cN allowing for 0.7% relative |a feeding to g.s. or ground-state band.    
+249FM3cN It is considered approximate due to unplaced 75.0|g and other          
+249FM4cN uncertain features of the decay scheme                                 
+249FM cN BR$From Adopted Levels of {+253}No in ENSDF database (2013Br09)        
+249FM PN                                                                     3  
+249FM  G 75.0      2 1.3     3                                                  
+249FM cG E$75|g in coincidence with |a events ranging from 8050-8100 keV.       
+249FM2cG                                                                        
+249FM  L 0.0           (7/2+)          2.05 M    25                         A   
+249FM cL T$From Adopted Levels                                                  
+249FM cL $Configuration=7/2[624]                                                
+249FM  A 8280      20                                                       G   
+249FM cA E$From 2006Lo12                                                        
+249FM  L 58.20     17  (9/2+)                                               A   
+249FM  A 8220      20                                                       G   
+249FM cA E$From 2006Lo12                                                        
+249FM  G 58.3      2 1.3     3  (M1)                   50.6    9                
+249FMS G  LC=37.8 7$MC=9.36 16                                                  
+249FMS G  NC=2.62 5$OC=0.691 12$PC=0.1342 23$QC=0.00758 13                      
+249FM cG E,RI$From 2012He09. E(58|g) was also seen in 2011Lo06 (shown in Fig.4  
+249FM2cG in 2011Lo06)                                                           
+249FM cG M$From 2012He09 who notes that for M1 transition, the expected         
+249FM2cG I(|g+ce)(58.3|g)/I(|g+ce)(221.5|g)=1. The experimental                 
+249FM2cG ratio is 0.73 {I25} for M1, 4.1 {I15} for E2, 0.022 {I10} for E1; thus 
+249FM3cG M1 (or M1 with small E2 admixture) for 58.3|g is most probable.        
+249FM cG $It is noted by the evaluator that if 58.3|g is pure M1, I|g should be 
+249FM2cG 2.1, deduced from |g intensity balance at 58.2 level:                  
+249FM3cG I(|g+ce)(58.3|g)=I(|g+ce)(221.5|g)=109.2 units. If I|g=1.3 {I3} is     
+249FM4cG correct, then 58.3|g may be M1+E2 with |d |? 0.35.                     
+249FM  L 129.2      3  (11/2+)                                              A   
+249FM  A 8150      20                                                       G   
+249FM cA E$From 2006Lo12                                                        
+249FM  G 71                                                                    S
+249FM cG E$Expected by 2006Lo12 based on the 150|g in coincident with |?55-     
+249FM2cG and |?70-keV electrons and the presence of a structure at 100 keV in   
+249FM3cG the electron single spectrum                                           
+249FM  G 129.2     4 1.0     2  E2                     8.19   16                
+249FMS G  LC=5.88 12$MC=1.690 34                                                
+249FMS G  NC=0.481 10$OC=0.1216 24$PC=0.0195 4$QC=9.24E-5 17                    
+249FM cG E,RI$From 2012He09                                                     
+249FM cG M$From |a(LMN+)exp=4.0 {I18} (2006Lo12),.                              
+249FM  L 140       20                                                          ?
+249FM cL E$Calculated by the evaluator from E|a in 1997He29.                    
+249FM2cL May consist of unresolved doublet as observed by 1997He29              
+249FM  A   8144    20                                                           
+249FM cA E$Observed by 1997He29 who noted that it may consist of an             
+249FM2cA unresolved doublet                                                     
+249FM  L 209.30    20  (5/2+)                                                   
+249FM cL $Configuration=5/2[622]                                                
+249FM  A   8078    10 3.9    5    62   9                                        
+249FM cA E$Weighted average of 8075 {I15} (2012He09) and 8080 {I10} (2011Lo06). 
+249FM2cA Others: 8063 {I74} (1997He29), 8070 {I10} (2006Lo12)                   
+249FM cA IA$Estimated by evaluator from intensity balance.                      
+249FM2cA 2012He09 gives I|a= 4.2 {I6}                                           
+249FM  G 209.3     2 1.1     1  M1                     5.61    8                
+249FMS G  KC=4.35 6$LC=0.945 13$MC=0.2335 33                                    
+249FMS G  NC=0.0652 9$OC=0.01722 25$PC=0.00334 5$QC=0.0001866 27                
+249FM cG E$weighted average of 209.3 {I2} (2012He09) and                        
+249FM2cG 209.5 {I5} (2011Lo06)                                                  
+249FM cG RI$From 2012He09                                                       
+249FM cG M$From |a(LMN+)exp=2.8 {I22} (2006Lo12),                               
+249FM2cG |a(K)exp=4.4 {I12} (2012He09), |a(K)exp=4.9 {I19} (2012He09)           
+249FM3cG |a(LMN+)exp=3.42 {I87} (2011Lo06)                                      
+249FM  L  248      17                                                           
+249FM cL E$Calculated by the evaluator from E|a in 1997He29                     
+249FM  A   8038    17                                                           
+249FM cA E$From 1997He29                                                        
+249FM  L 279.80    16  (9/2-)                                                   
+249FM cL $Configuration=9/2[734]                                                
+249FM  A   8007    4 95.2    52  1.47  12                                       
+249FM cA E$Weighted average of 8004 {I10} (2012He09) and 8007 {I4} (2011Lo06).  
+249FM2cA Others: 8011 {I93} (1997He29), 8003 {I5} (2006Lo12),                   
+249FM3cA 8004 {I5} (2004He28)                                                   
+249FM cA IA$Estimated by the evaluator from                                     
+249FM4cA 100-(Summed |a branches to g.s., 209.30, and 669.5 -keV levels).       
+249FM5cA 2012He09 gives I|a= 95.8 {I1}                                          
+249FM  G 150.6     3 18      1  E1                     0.2151 32                
+249FMS G  KC=0.1594 23$LC=0.0416 6$MC=0.01035 15                                
+249FMS G  NC=0.00287 4$OC=0.000734 11$PC=0.0001266 19$QC=4.54E-6 7              
+249FM cG E$weighted average of 150.4 {I2} (2012He09) and                        
+249FM2cG 151.2 {I4} (2011Lo06)                                                  
+249FM cG RI$From 2012He09                                                       
+249FM cG M$From |a(LMN+)exp=0.11 {I3} (2006Lo12),                               
+249FM2cG |a(K)exp<0.98 (2004He28), |a(L)exp<0.3 (2004He28),                     
+249FM3cG |a(LMN+)exp=0.11 {I2} (2011Lo06)                                       
+249FM  G 221.7     2  100       E1                     0.0916 13                
+249FMS G  KC=0.0698 10$LC=0.01631 23$MC=0.00404 6                               
+249FMS G  NC=0.001119 16$OC=0.000289 4$PC=5.14E-5 7$QC=2.054E-6 29              
+249FM cG E$weighted average of 221.5 {I2} (2012He09) and                        
+249FM2cG 221.8 {I2} (2011Lo06)                                                  
+249FM cG RI$From 2012He09                                                       
+249FM cG M$From |a(LMN+)exp=0.04 {I1} (2006Lo12),                               
+249FM2cG |a(K)exp<0.17 (2004He28), |a(L)exp<0.05 (2004He28),                    
+249FM3cG |a(LMN+)exp=0.023 {I4} (2011Lo06)                                      
+249FM  G 279.7     2 44      1  E1                     0.0556  8                
+249FMS G  KC=0.0429 6$LC=0.00953 13$MC=0.002349 33                              
+249FMS G  NC=0.000652 9$OC=0.0001687 24$PC=3.05E-5 4$QC=1.294E-6 18             
+249FM cG E$weighted average of 279.5 {I2} (2012He09) and                        
+249FM2cG 279.8 {I2} (2011Lo06)                                                  
+249FM cG RI$From 2012He09                                                       
+249FM cG M$|a(LMN+)exp=0.08 {I2} (2006Lo12), |a(K)exp=0.12 {I3}                 
+249FM2cG (2006Lo12), |a(K)exp<0.35 (2004He28), |a(L)exp<0.1 (2004He28),         
+249FM3cG |a(K)exp=0.145 {I22} (2011Lo06), |a(LMN+)=0.076 {I12} (2011Lo06).      
+249FM  L 669.5      4  (7/2-)                                                   
+249FM cL $Configuration=7/2[743]                                                
+249FM  A  7619     15 0.24   6    24   7                                        
+249FM cA E$Weighted average of 7620 {I15} (2012He09) and 7615 {I4} (2011Lo06).  
+249FM cA IA$Estimated by evaluator from intensity balance.                      
+249FM2cA 2012He09 gives I|a= 0.25 {I6}                                          
+249FM  G 669.5     4 0.43    11 [E1]                   0.0102314                
+249FMS G  KC=0.00814 11$LC=0.001571 22$MC=0.000382 5                            
+249FMS G  NC=0.0001059 15$OC=2.77E-5 4$PC=5.22E-6 7$QC=2.64E-7 4                
+249FM cG E$From 2012He09                                                        

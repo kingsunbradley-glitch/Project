@@ -1,0 +1,47 @@
+245ES    ADOPTED LEVELS, GAMMAS                                  23NDS    202305
+245ES  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 189, 1 (2023)$CUT=14-Feb-2023$       
+245ES  Q -3880     SY 7780   SY 2450   SY 7909   3     2021WA16                 
+245ES cQ $|DQ(|b{+-})=260, |DS(n)=250, |DS(p)=170 (syst,2021Wa16)               
+245ES cQ $S(2n)=14570 {I270}, S(2p)=6950 {I170} (syst,2021Wa16)                 
+245ES c                                                                         
+245ES  XA249MD A DECAY                                                          
+245ES DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+245ES  L 0.0         (3/2-)            66.6 S    60                             
+245ESX L XREF=A                                                                 
+245ES2 L %A=54 7$ %EC=46 7 (2019Br06)                                           
+245ES cL %A$from counting of |a decays of {+249}Md and its |a-decay daughter    
+245ES2cL {+245}Es (2019Br06)                                                    
+245ES3cL Others: %|a=80 {I+20-50} (1985He22), %|e=20 {I+50-20} (1985He22),      
+245ES4cL %|a= 40 {I10} (1973Es01).                                              
+245ES cL T$Weighted average of 72 s {+60-24} (2022Te01), 65 s {I6} (2019Br06),  
+245ES2cL 55 s {I+12-18} (2008Ga25), 80 s {I+96-28} (1985He22),                  
+245ES3cL 66 s 6 (1989Ha27), and 80 s {I9} (1967Mi06)                            
+245ES cL J$Systematics of Nilsson orbitals suggests either the 3/2[521]         
+245ES2cL or the 7/2[633] state.                                                 
+245ES3cL 3/2[521] and 7/2[633] orbitals are                                     
+245ES4cL close in energy and either could be the g.s. However, 2005He27 estimate
+245ES5cL that 7/2+ bandhead of 7/2[633] band lies |?30 keV above the 3/2-       
+245ES6cL bandhead of 3/2[521] band, hence the g.s is assigned (3/2-)            
+245ES  L 0.0+X       (7/2+)                                                     
+245ES2 L XREF=A                                                                 
+245ES cL $Configuration=7/2[633]                                                
+245ES cL E$x |?30 keV (15 {I+-15} keV)(2005He27)                                
+245ES cL J$From 7/2[633] Nilsson orbital assignment (2005He27) and E1           
+245ES2cL 253.2|g from 7/2- 253.2+X level                                        
+245ES  L 52.8+X       (9/2+)                                                    
+245ES2 L XREF=A                                                                 
+245ES cL J$From systematics of |g  feeding from the (7/2-) level                
+245ES2cL in {+243}Es (2014Ne14), {+247}Es (2015Ne04) and {+249} (2012He09),     
+245ES3cL {+251}Es (2005He27)                                                    
+245ES  L 253.2+X   3  (7/2-)                                                    
+245ES2 L XREF=A                                                                 
+245ES cL $Configuration=7/2[514]                                                
+245ES cL $Favored |a decay from J|=(7/2-) {+249}Md and 7/2[514]                 
+245ES2cL Nilsson orbital assignment (2005He27)                                  
+245ES  G 200.4     7  20     8                                                  
+245ES  G 253.2     5  100        E1                    0.0673 10                
+245ES cG M$From |a(K)exp|<0.09; |a(L)exp|<0.034 (deduced from ratio of K| x ray,
+245ESxcG L| x ray and  I|g) (2005He27)                                          
+245ESF G FL=0.0+X                                                               
+245ESS G  KC=0.0518 8$LC=0.01155 17$MC=0.00285 4                                
+245ESS G  NC=0.000786 12$OC=0.0002014 30$PC=3.62E-5 5$QC=1.544E-6 22            

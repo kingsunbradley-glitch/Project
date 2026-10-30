@@ -1,0 +1,166 @@
+238PU    242CM A DECAY                                           15NDS    201507
+238PU  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 127, 191 (2015)$             
+238PU2 H CUT=1-Jun-2014$                                                        
+242CM  P 0.0         0+                162.86 D  8              6215.56   8     
+242CM cP T         From 2002Ch52 evaluation.                                    
+238PU  N 1.0         1.0       1.0                                              
+238PU cN NR,NT$1981Le15 deduce I|g(561|g)=0.00015% {I4} based on their relative 
+238PU2cN I|g data and a previous unpublished value by the authors, based on     
+238PU3cN |a|g, of the sum of intensities per 100 |a decays for the 515, 561,    
+238PU4cN 605, and 617 |g's                                                      
+238PU c  Q(|a) 6215.56 {I8} from 1995Au04                                       
+238PU c  |a|g: 1963Bj03, 1964Ba31                                               
+238PU c  |g|g: 1960As10, 1955As64                                               
+238PU c  |a|g(|q): 1953Mo74                                                     
+238PU c  T{-1/2} from 1986LoZT                                                  
+238PU c  X-Rays: M{-|a,|b}:L{-e}:L{-|a}:L{-|c,|b}:L{-|g}=                       
+238PU2c  30 {I3}:4.9 {I8}: 66. {I7}: 100 {I16}: 23. {I3} (1990Po14)             
+238PU cA E$Except for the g.s. and 44 level, the E|a values are obtained from   
+238PU2cA Q(|a) and the E(level) values. Experimental values are listed where    
+238PU3cA available. Values are reported by 1971Gr17 (s), 1971Bb10 (s), 1966Ba07 
+238PU2cA (s), 1963Bj03 (|a|g), 1963Dz07 (s), 1958Ko87 (s), and 1953As14 (s)     
+238PU cA IA        Deduced from level scheme of 1981Le15,                       
+238PU2cA unless otherwise noted. See also 2002Ch52.                             
+238PU cG E         From 1981Le15, except where noted otherwise                  
+238PU cG RI        From 1981Le15, except where noted otherwise                  
+238PU cG M,MR$From adopted gammas. ce measurements have been made               
+238PU2cG in |a decay by 1952Du12, 1956Ba95, 1956Sm18, 1960As10, and 1965Ak02    
+238PU cG E(C)$From |b{+-} decay                                                 
+238PU cG RI(A),TI(A)$I(|g+ce) is deduced from the requirement of an intensity   
+238PU2cG balance utilizing the |g branchings and the |g and |a feedings. I|g    
+238PU3cG is then deduced from I(|g+ce) and |a                                   
+238PU cG RI(B)$1981Le15 report E=617.22 {I12} with I|g/I|g(561|g)=0.0536 {I20}  
+238PU2cG for a doubly placed transition. The authors divide the intensity on the
+238PU3cG basis of model-dependent arguments                                     
+238PU cL J         From adopted levels.                                         
+238PU  L 0.0          0+               87.74 Y   4                              
+238PU  A 6112.72   8  74.08  7  1.000                                           
+238PU cA E$from 1991Ri01                                                        
+238PU cA IA$from 1998Ya17. Others: see 44 level. |SI(a to g.s. +44 level)=100   
+238PU  L 44.08     3  2+               177 PS    5                              
+238PU cL T         from 1970To08. Other: 183 ps {I15} (1960Be25)                
+238PU  A 6069.43   12 25.92  6  1.733  5                                        
+238PU cA E         energy adjusted by 1991Ry01 due to change in calibration     
+238PUxcA energy                                                                 
+238PU cA IA        from 1998Ya17. Others: 26.3 {I5} (1953As14), 26.5 {I5}       
+238PU2cA (1958Ko87), and 25.8 (1966Ba07)                                        
+238PU  G 44.08     3  0.03345 8 E2                      775      25.96    6     
+238PU2 G FLAG=AC$                                                               
+238PUS G L/T=0.729 6$ M/T=0.202 4$ N+/T=0.067 2$                                
+238PU cG CC$the value given is the E2 theory value lowered by 3% (see 1987Ra01) 
+238PU cG RI$an unweighted average of the directly measure I|g values gives      
+238PU2cG I|g=0.033 {I3}                                                         
+238PU  L     146.00 5 4+                                                        
+238PU  A 5969.24    9 0.035  2   395   23                                       
+238PU cA E$measured values are 5964 (1953As14), 5961 {I2} (1958Ko87), 5971 {I3} 
+238PU2cA (1963Dz07), and 5971.4 (1966Ba07)                                      
+238PU cA IA        from 1963Dz07. Other: 0.035 (1953As14), 0.030 {I1}           
+238PU2cA (1958Ko87), 0.036 (1966Ba07).                                          
+238PU  G 101.93    4 0.00253 12 E2                      14.8     0.040    2     
+238PU2 G FLAG=A$                                                                
+238PU cG RI$a weighted average of the directly measured values is 0.0033 {I8}.  
+238PU3cG An unweighted average is 0.0055 {I13}                                  
+238PU  L     303.42 7 6+                                                        
+238PU  A 5816.39   11 0.0046 5   458   50                                       
+238PU cA E$measured values are 5811 (1953As14), 5809 {I2} (1958Ko87), and       
+238PU2cA 5816 (1966Ba07)                                                        
+238PU cA IA$from 1958Ko87. Other: 0.0046 (1966Ba07)                             
+238PU  G 157.42    5 0.00142 15[E2]                      2.24     0.0046   5    
+238PU2 G FLAG=A$                                                                
+238PU cG RI$a weighted average of the directly measured values is 0.0020 {I5}   
+238PU  L     513.6216 8+                                                        
+238PU  A 5607.76   16 2E-5       7544                                           
+238PU cA E$1966Ba07 report 5614                                                 
+238PU cA IA        from 1966Ba07                                                
+238PU  G 210.20    14 1.2E-5      E2                    0.73    2E-5            
+238PU2 G FLAG=A$                                                                
+238PU cG E$from in-beam studies. Not seen in |a decay                           
+238PU  L     605.08 7 1-                                                        
+238PU  A 5517.75   11 2.5E-4 5   183   22                                       
+238PU cA IA$weighted average of 2.8|*10{+-4} {I5} (1963Bj01), 2.5|*10{+-4} {I6} 
+238PU2cA (1966Ba07, with a 20% uncertainty assigned by the evaluators), and     
+238PU3cA 2.6|*10{+-4} {I5} from the |g intensities.                             
+238PU  G 561.02    10 1.5E-4 4  E1                     0.0116                   
+238PU  G 605.04    10 1.0E-4 3  E1                     0.0101                   
+238PU cG RI        I|g(605)/I|g(561)=0.698 {I20}                                
+238PU  L     661.2811 3-                                                        
+238PU  A 5462.47   14 1.26E-524  1712  32                                       
+238PU  G 515.25    19 4.5E-6 12 E1+M2    0.114   17    0.023   3                
+238PU cG RI        I|g(515)/I|g(561)=0.0297 {I20}                               
+238PU  G 617.22    12 7.9E-6 21 E1+M2    0.077   17    0.0122 13            @   
+238PU2 G FLAG=B$                                                                
+238PU cG RI        I|g(617)/I|g(561)=0.0525 {I20}                               
+238PU  L     763.2212  5-                                                       
+238PU  A 5366.22   15 2.2E-7 3  24432                                           
+238PU  G 459.80    20 6E-8   3                                                  
+238PU cG RI        I|g(459.8)/I|g(561)=0.00038 {I16}                            
+238PU  G 617.22    12 1.6E-7                                                @   
+238PU2 G FLAG=B$                                                                
+238PU cG RI        I|g(617)/I|g(561)=0.0011                                     
+238PU  L     941.44 9 0+                                                        
+238PU  A 5186.95   12 3.6E-5  7  11.9  24                                       
+238PU cA IA$weighted average of 3.4|*10{+-5} {I8} (1963Bj01), 2.5|*10{+-5} {I8} 
+238PU2cA (1966Ba07, with a 30% uncertainty assigned by the evaluators), and     
+238PU3cA 3.5|*10{+-5} {I7} from the |g intensities                              
+238PU  G 336.38    15 7E-7    3 [E1]                                            
+238PU cG RI        I|g(336)/I|g(561)=0.0045 {I15}                               
+238PU  G 897.33    10 2.2E-5 6  (E2)                   0.0154                   
+238PU cG RI        I|g(897)/I|g(561)=0.145 {I10}                                
+238PU  G 941.5     2            E0                              1.3E-5     4    
+238PU cG E$from |e decay                                                        
+238PU cG TI$from I(|g+ce)/I|g(897|g)=0.59 {I8} in |e decay. 1960As10 report     
+238PU2cG 0.62 in |a decay. The value of 1.4 {I2} in |b{+-} decay appears to be  
+238PUxcG discrepant                                                             
+238PU  L     962.72 8 1-                                                        
+238PU  A 5165.95   16 1.13E-621  278   52                                       
+238PU  G 357.62     7 4.5E-8  9  M1+E2    2.43   20    0.224  15                
+238PU2 G FLAG=C$                                                                
+238PU cG RI$from I|g/I|g(919|g+963|g)=0.0424 {I11} in |b{+-} decay. Note that   
+238PU2cG there is an unplaced 358.0 {I5} transition with I|g=5.9|*10{+-7}       
+238PU3cG {I25}, part of which probably corresponds to the 358|g from the 962    
+238PUxcG level                                                                  
+238PU  G 918.7     2  5.4E-7 15  E1                    0.00471                  
+238PU cG RI        I|g(918)/I|g(561)=0.0036 {I3}                                
+238PU  G 962.8     2  5.3E-7 15  E1                    0.00434                  
+238PU cG RI$I|g/I|g(561|g)=0.0035 {I3}                                          
+238PU  L     983.00 9 2+                                                        
+238PU  A 5146.07   12 1.7E-6 4   137   33                                       
+238PU cA IA$1966Ba07 report I|a|<5|*10{+-6}                                     
+238PU  G 837.01    15 1.9E-7 6 [E2]                    0.0176                   
+238PU cG RI        I|g(837)/I|g(561)=0.00124 {I20}                              
+238PU  G 938.91    10 1.8E-7 6  E0+E2                   4.4    4                
+238PU cG CC$from |b{+-} decay                                                   
+238PU cG RI        I|g(939)/I|g(561)=0.00117 {I20}                              
+238PU  G 983.0     3  5.0E-7 18 [E2]                   0.0129                   
+238PU cG RI        I|g(983)/I|g(561)=0.0033 {I8}                                
+238PU  L 1018.6    3                                                           ?
+238PU  A 5111.1     3 2E-7   LE  686   GE                                       
+238PU  G 974.5     3  2E-7   LE                                                ?
+238PU  L    1028.62 5 2+                                                        
+238PU  A 5101.21   10 3.7E-6  8   32   7                                        
+238PU  G 882.63    3 6.7E-8  15 (E2)                   0.0159                  S
+238PU cG E,RI$not seen in |a decay. E is from |b{+-} decay, and I|g is from     
+238PU2cG I|g/I|g(984|g+1028|g)=0.01866 {I19} in |b{+-} decay                    
+238PU  G 984.5     1  2.0E-6  6  M1+E2    +23     GT   0.00129                  
+238PU cG RI        I|g(984)/I|g(561)=0.0131 {I20}                               
+238PU  G 1028.5    2  1.6E-6  5  E2                    0.0119                   
+238PU cG RI        I|g(1028)/I|g(561)=0.0105 {I10}                              
+238PU  L    1125.7917(4+)                                                       
+238PU  A 5005.64   19 3.1E-7  8   88   23                                       
+238PU  G 979.80    20 2.6E-7  8                                                 
+238PU cG RI        I|g(979)/I|g(561)=0.00173 {I30}                              
+238PU  G 1081.7    3  5.0E-8 20                                                 
+238PU cG RI        I|g(1081)/I|g(561)=0.00033 {I10}                             
+238PU  L    1228.6922 0+                                                        
+238PU  A 4904.44   23 5.5E-7 15   10   3                                        
+238PU  G 1184.6    3  5.0E-7 15 E2                                              
+238PU cG RI        I|g(1184)/I|g(561)=0.0033 {I4}                               
+238PU  G 1228.7     3          E0                               4.6E-8    15   S
+238PU cG E         from |e decay.                                               
+238PU cG TI$from I(|g+ce)/I|g(1184|g)=0.092 {I11} in |e decay.                  
+238PU  L    1264.2922 2+                                                        
+238PU  A 4869.43   23 5.2E-7 15  5.9   18                                       
+238PU  G 1118.3    3  1.7E-7  9 [E2]                                            
+238PU cG RI        I|g(1118)/I|g(561)=0.0011 {I5}                               
+238PU  G 1220.2    3  2.8E-7  9 E0+E2+M1               0.26   3                 
+238PU cG RI        I|g(1220)/I|g(561)=0.00187 {I30}                             

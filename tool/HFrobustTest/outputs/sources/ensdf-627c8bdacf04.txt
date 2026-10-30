@@ -1,0 +1,65 @@
+244CF    ADOPTED LEVELS                                          17NDS    201711
+244CF  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 146, 387 (2017)$CUT=31-Aug-2017$     
+244CF  Q -4.55E3   SY7.58E3  SY4500    5 7329.0  18    2017WA10                 
+244CF cQ $|DQ-=180, |DSN=110 (syst, 2017Wa10)                                   
+244CF c  Identification                                                         
+244CF c  1956Ch43: {+244}Cf was produced from {+244}Cm(|a,4n) with |a beam      
+244CF2c  from the 60-inch cyclotron of the Crocker Laboratory. The product      
+244CF3c  nuclei after subsequent chemical separation were measured in a |a      
+244CF4c  pulse height analyzer. {+244}Cf was identified and found to decay by   
+244CF5c  emission of 7.1 MeV alpha particles with a half-life of 25 minutes.    
+244CF c                                                                         
+244CF c  Systematic studies/Compilation/Evaluation:                             
+244CF c  2016Pr01: Compilation, evaluation for B(E2), T{-1/2} and deformation   
+244CF2c  parameter                                                              
+244CF c                                                                         
+244CF c  Theoretical studies:                                                   
+244CF c  2017Da09, 2017Zh03, 2017Ph01, 2016Su09, 2015Ba24, 2014De43, 2013Ra05,  
+244CF2c  2013Se17, 2013Is13, 2012Is08, 2011Qi06, 2011Zh36, 2009De32, 2009Ni06,  
+244CF3c  1985Po23, 1979Po23, 1997Mo25: Calculated |a decay half-life            
+244CF c  2015Ad15: Calculate |a decay half-life and branching ratios            
+244CF c  2015Me09: Calculate Q|a and T{-1/2}                                    
+244CF c  2010Wa31: Calculated relative intensities of |a decay to               
+244CF2c  rotational states in the framework of the generalized liquid drop      
+244CF3c  model (GLDM) and improved Royer's formula.                             
+244CF c  2005Re16: Calculated spontaneous fission half-lives                    
+244CF c  1984Eg01: Analysis of yrast states, backbending and alignment          
+244CF c  1983Bo15: Calculated equilibrium deformations and static               
+244CF2c  electric moment                                                        
+244CF c  1980Du07: Calculated moment of inertia                                 
+244CF c  1984Eg01, 1995Mo29: Calculated equilibrium deformations                
+244CF c  2014De43, 2012Zh01, 1995Mo29: Calculated deformation parameters        
+244CF c  1993Sa05: Calculated B(E2)(0+ to 2+)                                   
+244CF c  1989St20: Partial half-life for SF decay was calculated                
+244CF c  1993Gr15: Calculated relative fission/alpha-decay yields               
+244CF c  2009Mo18, 1983Ga05, 1979Kl08, 1976Iw02: Calculated fission             
+244CF2c  barriers heights                                                       
+244CF c  1980Ga07: Calculated fission barrier height |?6 MeV from               
+244CF2c  delayed-fission data following electron capture decay of               
+244CF3c  {+244}Es                                                               
+244CF c  1979Kl08: Calculated delayed-fission probability                       
+244CF c  1974YaZI: Calculated lowest-state energies for the first and           
+244CF2c  second saddle in fission                                               
+244CF c                                                                         
+244CF CL BAND(A)$K=0 g.s. band                                                  
+244CF  XA248FM A DECAY                                                          
+244CF  XB244ES EC DECAY                                                         
+244CF  L 0.0          0+               19.4 M    6                          A   
+244CFX L XREF=A                                                                 
+244CF cL T$From 1967Si08. Other measured half-lives:                            
+244CF2cL 25 min {i3} (1956Ch43), 20.4 min {i16} (1967Fi04), 20 min {i11}        
+244CF3cL (1973Es02).                                                            
+244CF2 L %A LE 100$                                                             
+244CF cL $Only |a decay has been observed.                                      
+244CF  L 37        22 2+                                                    A   
+244CF cL E$Calculated from measured E|a in {+248}Fm |a decay and                
+244CF2cL Q|a({+248}Fm)=7995 {I8} (2017Wa10)                                     
+244CFX L XREF=A                                                                 
+244CF cL J$From band member                                                     
+244CF  L 0+X                                                                 M1 
+244CF2 L %SF LE 100                                                             
+244CF cL $Only the SF decay has been identified.                                
+244CF cL $Half-life of this fission isomer has not been measured.               
+244CF cL E$The isomeric state was produced by {+244}Es |e decay.                
+244CF2cL Level energy has not been determined experimentally. Calculations by   
+244CF3cL 1974YaZI yield E(level)=0.9 MeV.                                       

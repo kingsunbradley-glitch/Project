@@ -1,0 +1,1154 @@
+236U     ADOPTED LEVELS, GAMMAS                                  22NDS    202205
+236U   H TYP=FUL$AUT=Shaofei Zhu$CIT=NDS 182, 2 (2022).$CUT=1-Apr-2022$         
+236U   Q -9.3E+2   5  6545.5 3  7133   14 4573.0  9    2021WA16                 
+236U  cQ $S(2n)=11843.0 {I3}, S(2p)=12746.3 {I24} (2021Wa16)                    
+236U  c  Spontaneous fission: 2005Xu01, 2004Ro01, 2001Vl04, 1997Ro12,           
+236U 2c  1993Mo16, 2001Po31 and 1994Pi12 (ternary fission accompanied by        
+236U 3c  emission of light charged particles); 2000Gu28 (fission fragments      
+236U 4c  distribution, theory)                                                  
+236U  cL E$Deduced by evaluator from a least-squares fit to adopted |g-ray      
+236U 2cL energies.                                                              
+236U  cL T(T)$From Recoil Distance Doppler Method (RDDM) in Coul. ex.           
+236U  cL T(O)$From B(E2) in Coul. ex.                                           
+236U  CL BAND(A)$KPI=0+ GS Rotational band                                      
+236U  CL BAND(B)$KPI=0- Octupole vibrational band                               
+236U  CL BAND(G)$KPI=3- CONF=((N,7/2(743))-(N,1/2(631)))                        
+236U  CL BAND(H)$KPI=6- CONF=((N,7/2(743))+(N,5/2(622)))                        
+236U  CL BAND(I)$KPI=0+                                                         
+236U  CL BAND(J)$KPI=(2+)                                                       
+236U  CL BAND(K)$KPI=1- CONF=((N,7/2(743))-(N,5/2(622)))                        
+236U  CL BAND(L)$KPI=4- CONF=((N,7/2(743))+(N,1/2(631)))                        
+236U  CL BAND(M)$KPI=2-                                                         
+236U  cL E(S)$g.s. band in second potential well with inertia constant A=3.36   
+236U 2cL keV {I1} following E=AJ(J+1).                                          
+236U  cL J(S)$From (d,p|g). Based on ce cascade interpreted as rotational band  
+236U 2cL (in second minimum) built on fission isomer                            
+236U  cL J(Z)$J|p from |g'(|q) in {+236}U(|g,|g')                               
+236U  cL J(U)$From cross section signature in {+235}U(d,p)                      
+236U  cL J(X)$(M1) |g rays to g.s. (J|p=0+) and 45.2-keV level (J|p=2+).        
+236U  cG E(A),RI(A)$From {+236}Pa |b{+-} decay                                  
+236U  cG E(B),RI(b)$From {+235}U(n,|g) E=thermal                                
+236U  cG E(C),RI(C)$From {+236}U(|g,|g')                                        
+236U  cG E(D),RI(D)$From Coulomb excitation                                     
+236U  cG E(E),RI(E)$From {+235}U(d,p|g)                                         
+236U  cG E(F),RI(F)$From {+236}U(d,pn|g)                                        
+236U  cG M(G)$From conversion electron subshell ratios in {+236}U(d,pn|g).      
+236U  cG M(H)$From conversion electron data in {+235}U(n,|g) E=thermal.         
+236U  cG M(J)$From |g'(|q) and systematics of branching ratios to the first     
+236U 2cG J|p=2+ excited states in {+236}U(|g,|g').                              
+236U  cG M(K)$From E2 matrix elements deduced in Coulomb excitation             
+236U 2cG measurements.                                                          
+236U  cG M(V)$From in-band transition of rotational band in the second well of  
+236U 2cG the nuclear potential in {+235}U(d,p|g).                               
+236U  cG M(W)$From |g|g angular correlations in {+235}U(d,p|g).                 
+236U  D  CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+236U   XA236PA B- DECAY                                                         
+236U   XB236NP EC DECAY (155E+3 Y)                                              
+236U   XC236NP EC DECAY (22.5 H)                                                
+236U   XD240PU A DECAY                                                          
+236U   XE234U(T,P)                                                              
+236U   XF235U(D,P)                                                              
+236U   XG235U(D,PG)                                                             
+236U   XH235U(N,G) E=THERMAL                                                    
+236U   XI235U(N,G) E=2 KEV                                                      
+236U   XJ236U(D,D')                                                             
+236U   XK236U(D,PNG)                                                            
+236U   XL236U(G,XN),(G,F) E=RESONANCE                                           
+236U   XM237NP(T,AG)                                                            
+236U   XN238U(P,T)                                                              
+236U   XOCOULOMB EXCITATION                                                     
+236U   XPINELASTIC SCATTERING                                                   
+236U   XQ236U(G,G')                                                             
+236U   XR237NP(209BI,210POG)                                                    
+236U   L 0.0          0+                2.342E7 Y 4                         A   
+236U X L XREF=ABCDEGHJKMNOPQR                                                   
+236U 2 L %A=100$%SF=9.4E-8 4                                                    
+236U  cL T$recommended value in 1989Ho24, based on measured values of           
+236U 2cL 2.45|*10{+7} y                                                         
+236U 3cL {I7} (1951Ja09), 2.391|*10{+7} y {I18} (1952Fl20) and 2.3415|*10{+7}   
+236U 4cL y {I39} with uncertainty adjusted from 0.06% to 0.25% (1972Fl03).      
+236U  cL %SF$from T{-1/2}(SF)=2.49|*10{+16} y {I11}, the weighted average of    
+236U 2cL 2.0|*10{+16} y {I16} (1949JaZZ), 2.7|*10{+16} y {I3} (1971Co35 taking  
+236U 3cL T{-1/2}(SF)({+238}U)=8.2|*10{+15} y {I1} in 2000Ho27), 2.43|*10{+16}   
+236U 4cL y {I13} (1981Vo02) and 2.7|*10{+16} y {I4} (1982BeYI,1983Be66).        
+236U  cL $Q{-0}=13.8 b{+2} {I2} from Isotope shifts (1978Ge10).                 
+236U   L 45.2431   20 2+                235 PS    6                         A   
+236U X L XREF=ABCDEGHIJKMNOPQR                                                  
+236U 2 L BE2=11.60 15                                                           
+236U  cL T$from {+240}Pu |a decay; other: 218 ps {I4} deduced using measured    
+236U 2cL B(E2)|^ value from Coul. ex.                                           
+236U  cL J$E2 |g to 0+ and g.s. band member                                     
+236U  cL $Q({+236}U)/Q({+234}U)=1.13 {I9} (1974Me18), 0.99 {I5} (1974Mo12)      
+236U  cL $Ratio of gyromagnetic factors g-factor ({+236}U)/g-factor             
+236U 2cL ({+234}U)=0.98 {I6} (1974Me18)                                         
+236U  cL $Measured isotopic shift, gyromagnetic factors.                        
+236U 2cL |D<r{+2}>/<r{+2}>=-21|*10{+-6} {I21} (1974Mo12), <6|*10{+-6}           
+236U 3cL (1974Me18)                                                             
+236U  cL BE2$from Coul. ex.; other: 12.2 {I6} from {+236}U(d,d').               
+236U   G 45.243    2  100       E2                      589   8                 
+236U F G FLAG=G                                                                 
+236U S G LC=429 6$MC=118.6 17$NC=32.1 5$OC=7.36 10$PC=1.191 17$QC=0.00285 4     
+236U B G BE2W=248 8                                                             
+236U  cG M$from {+236}Np |e decay (22.5 h) and {+240}Pu |a decay.               
+236U  cG E$weighted average of 45.29 {I6} (1956Ho54); 45.3 {I2} (1959Tr37);     
+236U 2cG 45.273 {I20} (1971Cl03,1972ClZS); 45.242 {I6} (1972Sc01);  45.232      
+236U 3cG {I5} (1971GuZY,1976GuZN); 45.244 {I2} (1981He16) and 45.23 {I3}        
+236U 4cG (1983Ah02); others: 44.2 {I1} (1956Gr11); 45.62 {I1} (1958Sa21);       
+236U 5cG 45.32 (1959Ga13) and 45.28 (1968Du06).                                 
+236U   L 149.480   5  4+                130 PS    9                         A   
+236U X L XREF=ABCDEGHIJKMNOPR                                                   
+236U  cL J$E2 |g to 2+ and g.s. band member                                     
+236U  cL T$weighted average of 124 ps {I7} (1976Gu06) from Coul. ex. and 142    
+236U 2cL ps {I10} (1970ToZZ) from  {+240}Pu |a decay.                           
+236U  cL $B(E4)|^=1.7 e{+2}b{+4} {I6} (1973Be44) from Coul. ex.                 
+236U   G 104.237   4  100       E2                      10.99 15                
+236U F G FLAG=G                                                                 
+236U S G LC=8.00 11$MC=2.220 31$NC=0.603 8$OC=0.1385 19$PC=0.02268 32$          
+236U S G QC=9.41E-5 13                                                          
+236U B G BE2W=340 24                                                            
+236U  cG M$from {+236}Np |e decay (155|*10{+3} y)                               
+236U  cG E$weighted average of 104.244 {I5} (1971GuZY,1976GuZN), 104.233 {I5}   
+236U 2cG (1972Sc01), 104.234 {I6} (1981He16,1986He12); others: 103.95 {I50}     
+236U 3cG (1958Sa21), 103.6 {I3} (1959Tr37), 104.15 {I2} (1971Cl03,1972ClZS)     
+236U 4cG and 104.23 {I2} (1983Ah02).                                            
+236U   L 309.788   6  6+                58 PS     3                         A   
+236U X L XREF=BDEGHJKMNOPR                                                      
+236U F L FLAG=T                                                                 
+236U  cL J$E2 |g to 4+ and g.s. band member                                     
+236U   G 160.308   3  100       E2                      1.761 25                
+236U F G FLAG=G                                                                 
+236U S G KC=0.2079 29$LC=1.132 16$MC=0.313 4$NC=0.0850 12$OC=0.01958 27$        
+236U S G PC=0.00325 5$QC=2.327E-5 33                                            
+236U B G BE2W=385 21                                                            
+236U  cG M$from {+236}Np |e decay (155|*10{+3} y)                               
+236U  cG E$weighted average of 160.280 {I15} (1971GuZY,1976GuZN), 160.310 {I8}  
+236U 2cG (1972Sc01), 160.312 {I10} (1975OtZX), 160.308 {I3}                     
+236U 3cG (1981He16,1986He12), others: 160.0 {I15} (1959Tr37), 160.27 {I2}       
+236U 4cG (1971Cl03,1972ClZS) and 160.33 {I2} (1983Ah02).                        
+236U   L 522.26    4  8+                23.9 PS   19                        A   
+236U X L XREF=DGJKMNOPR                                                         
+236U F L FLAG=T                                                                 
+236U 2 L BE2=6.1 8                                                              
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 6+ and g.s. band member                                     
+236U   G 212.47    4  100       E2                      0.599 8                 
+236U F G FLAG=G                                                                 
+236U S G KC=0.1400 20$LC=0.335 5$MC=0.0920 13$NC=0.02498 35$OC=0.00577 8$       
+236U S G PC=0.000968 14$QC=1.068E-5 15                                          
+236U B G BE2W=3.9E+2 4                                                          
+236U  cG E$weighted average of 212.48 {I5} (1975OtZX) and 212.46 {I5}           
+236U 2cG (1982Ow01).                                                            
+236U   L 687.56    4  1-                3.78 NS   9                         B   
+236U X L XREF=ABCDFGHJKMO                                                       
+236U F L FLAG=U                                                                 
+236U  cL T$from {+236}Np |e decay (22.5 h)                                      
+236U  cL J$E3 |g to 4+, E1 |g to 0+                                             
+236U   G 538.09    7  1.14   8  E3                      0.20  8                 
+236U  cG $|a(K)exp=0.11 {I5}                                                    
+236U S G KC=0.0623 9$LC=0.0587 8$MC=0.01603 22$NC=0.00437 6$OC=0.001025 14$     
+236U S G PC=0.0001801 25$QC=4.97E-6 7                                           
+236U B G BE3W=56 5                                                              
+236U  cG M$from |a(L1+L2)exp=0.086 {I27} (1969Le05) and |a(K)exp=0.11 {I5}      
+236U 2cG (1983Fa15).                                                            
+236U  cG E$weighted average of 538.25 {I20} (1969Le05), 538.09 {I15}            
+236U 2cG (1975OtZX), 537.92 {I20} (1977Po05) and 538.1 {I1} (1984Mi02).         
+236U  cG CC$from the summation of |a(L1+L2)exp  in 1969Le05 and |a(K)exp in     
+236U 2cG 1983Fa15 with additional 10% uncertainty for higher shells;            
+236U 3cG |a(K)exp=0.11 {I5} (1983Fa15).                                         
+236U  cG RI$weighted average of 1.11 {I12} (1969Le05) 1.1 {I1} (1975OtZX), 1.6  
+236U 2cG {I6} (1977Po05) and 1.6 {I3} (1984Mi02).                               
+236U   G 642.23    7  100    5 E1(+M2+E3)               0.15  2                 
+236U  cG $|a(K)exp=0.111 {I10} |a(L)exp=0.031 {I9}                              
+236U S G KC=0.0091 23$LC=0.0017 6$MC=4.2E-4 14$NC=1.1E-4 4$OC=2.7E-5 9$         
+236U S G PC=5.2E-6 17$QC=3.9E-7 13                                              
+236U B G BE1W=5.81E-8 22                                                        
+236U  cG M$from |a(K)exp=0.112 {I10}, |a(K)/|a(L)=3.59 {I11}, |a(L1)/|a(L2)=11  
+236U 2cG {I4}, |a(L1+L2)/|a(L3)=36 {I+10-7} (1969Le05); |a(K)exp=0.11 {I3},     
+236U 3cG |a(L)exp=0.031 {I9}, |a(K)/|a(L)=3.56 {I50} (1977Po05); |a(K)exp=0.11  
+236U 4cG {I1}, |a(L1)exp=0.032 {I3}, |a(L2)exp=0.0034 {I4}, |a(L3)exp=0.0016    
+236U 5cG {I11}, |a(M1)exp=0.0058 {I7}, Anomalous conversion due to penetration  
+236U 6cG effect. The M2 and E3 admixtures are smalls (1983Fa15).                
+236U  cG E$weighted average of 642.42 {I10} (1969Le05), 642.06 {I17}            
+236U 2cG (1969BaZW), 642.48 {I15} (1971Cl03,1972ClZS), 641.8 {I1} (1972MaYR),   
+236U 3cG 642.2 {I1} (1973Gr20), 642.3 {I3} (1973Or06), 642.33 {I10}             
+236U 4cG (1975OtZX), 642.24 {I10} (1977Po05) and 642.3 {I1} (1984Mi02).         
+236U  cG CC$from the summation all subshell |as in 1983Fa15 with additional 5%  
+236U 2cG uncertainty for higher shells; |a(K)exp=0.111 {I10} from weighted      
+236U 3cG average of 0.112 {I10} (1969Le05), 0.11 {I3} (1977Po05) and 0.11 {I1}  
+236U 4cG (1983Fa15); |a(L)exp=0.031 {I9} (1977Po05).                            
+236U   G 687.59    6  27.4   5  E1                      0.31  2                 
+236U  cG $|a(K)exp=0.219 {I14} |a(L)exp=0.069 {I9}                              
+236U S G KC=0.00596 8$LC=0.001038 15$MC=0.0002473 35$NC=6.63E-5 9$              
+236U S G OC=1.599E-5 22$PC=3.03E-6 4$QC=2.237E-7 31                             
+236U B G BE1W=2.59E-8 8                                                         
+236U  cG M$from |a(K)exp=0.22 {I2}, |a(K)/|a(L)=3.26 {I16}, |a(L1)/|a(L2)=7     
+236U 2cG {I3}, |a(L1+L2)/|a(L3)=46 {I+40-20} (1969Le05); |a(K)exp=0.219 {I14},  
+236U 3cG |a(L)exp=0.069 {I9}, |a(K)/|a(L)=3.19 {I38} (1977Po05);                
+236U 4cG |a(L1)exp=0.059 {I3}, |a(L2)exp=0.0129 {I15}, |a(L3)exp=0.0016 {I11},  
+236U 5cG |a(M1)exp=0.0195 {I23}, Anomalous conversion due to penetration        
+236U 6cG effects. The M2 and E3 admixtures are small (1983Fa15).                
+236U  cG E$Weighted average of 687.71 {I10} (1969Le05), 687.39 {I17}            
+236U 2cG (1969BaZW), 688.01 {I15} (1971Cl03,1972ClZS), 687.5 {I10} (1972MaYR),  
+236U 3cG 687.5 {I1} (1973Gr20), 687.6 {I3} (1973Or06), 687.57 {I16} (1975OtZX), 
+236U 4cG 687.52 {I10} (1977Po05) and 687.5 {I1} (1984Mi02).                     
+236U  cG CC$from the summation all subshell |as in 1983Fa15 with additional 5%  
+236U 2cG uncertainty for higher shells; |a(K)exp=0.219 {I14} from weighted      
+236U 3cG average of 0.22 {I2} (1969Le05) and 0.219 {I14} (1977Po05);            
+236U 4cG |a(L)exp=0.069 {I9} (1977Po05).                                        
+236U  cG RI$weighted average of 26.5 {I5} (1969Le05), 28.5 {I5}                 
+236U 2cG (1971GuZY,1976GuZN), 24.8 {I36} (1973Or06), 21 {I3} (1973Gr20), 26.2   
+236U 3cG {I7} (1975OtZX), 29.4 {I9} (1977Po05), 26.8 {I20} (1984Mi02) and 29    
+236U 4cG {I4} (1979McZP).                                                       
+236U   L 744.18    7  3-                                                    B   
+236U X L XREF=ABDEFGHJKO                                                        
+236U F L FLAG=U                                                                 
+236U 2 L BE3=0.70 5                                                             
+236U  cL BE3$from (d,d'); other: 0.53 {I7} from Coul. ex.                       
+236U  cL J$|g to 4+, |g to 1-, member K|p=0- band                               
+236U   G 56.6      8  5      AP [E2]                    199   14                
+236U S G LC=145 11$MC=40.1 29$NC=10.9 8$OC=2.50 18$PC=0.405 29$QC=0.00107 7     
+236U  cG E$from {+236}U(d,pn|g), uncertainty deduced from level energy          
+236U 2cG difference,                                                            
+236U  cG RI$deduced from |g-ray intensity balance in {+236}Pa |b{+-} decay;     
+236U 2cG other: I|g|>5 from {+236}U(d,pn|g).                                    
+236U   G 594.5     3  100       [E1]                   0.0096414                
+236U S G KC=0.00781 11$LC=0.001381 19$MC=0.000330 5$NC=8.83E-5 12$              
+236U S G OC=2.128E-5 30$PC=4.01E-6 6$QC=2.91E-7 4                               
+236U  cG E$from {+236}Pa |b{+-} decay.                                          
+236U   L 782.4     5  10+               11.6 PS   11                        A   
+236U X L XREF=KMOR                                                              
+236U F L FLAG=T                                                                 
+236U 2 L BE2=5.0 4                                                              
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 8+ and g.s. band member                                     
+236U   G 260.1     5  100       E2                      0.297 5                 
+236U F G FLAG=G                                                                 
+236U S G KC=0.0979 14$LC=0.1456 23$MC=0.0397 6$NC=0.01078 17$OC=0.00250 4$      
+236U S G PC=0.000423 7$QC=6.40E-6 9                                             
+236U B G BE2W=3.6E+2 4                                                          
+236U  cG E$from Coul. ex.                                                       
+236U   L 848.3     10 5-                                                    B   
+236U X L XREF=BGHJKO                                                            
+236U  cL J$(E2) |g to 3-, member of K|p=0- band.                                
+236U   G 103.4     AP 100       (E2)                    11.41 16                
+236U F G FLAG=EG                                                                
+236U S G LC AP 8.31$MC AP 2.305$NC AP 0.626$OC AP 0.1438$PC AP 0.02355$         
+236U S G QC AP 9.69E-5                                                          
+236U   L 919.18    12 0+                                                    I   
+236U X L XREF=ADHJN                                                             
+236U  cL J$from L(p,t)=0.                                                       
+236U   G 873.98    12 100       [E2]                   0.0143920                
+236U S G KC=0.01060 15$LC=0.00283 4$MC=0.000711 10$NC=0.0001917 27$             
+236U S G OC=4.58E-5 6$PC=8.47E-6 12$QC=4.85E-7 7                                
+236U  cG E$weighted average of 874.1 {I2} (1984Mi02) and 873.92 {I15}           
+236U 2cG (1975OtZX).                                                            
+236U   G 918.9     3            (E0)                                            
+236U F G FLAG=BH                                                                
+236U   L 957.90    15 2+                                                    J   
+236U X L XREF=ADHJNO                                                            
+236U 2 L BE2=0.195 14                                                           
+236U  cL BE2$from (d,d'); other: 0.18 {I2} from Coul. ex.                       
+236U  cL J$|g to 2+, |g to 0+,  L(p,t)=(2), Coul. ex. and (d,d'), probable      
+236U 2cL bandhead of K|p=2+                                                     
+236U   G 912.4     3  71     AP [M1+E2]                 0.032 18                
+236U F G FLAG=Bb                                                                
+236U S G KC=0.025 15$LC=0.0050 25$MC=0.0012 6$NC=3.3E-4 16$OC=8.E-5 4$          
+236U S G PC=1.5E-5 8$QC=1.1E-6 7                                                
+236U   G 958.0     2  100       [E2]                   0.0120417                
+236U F G FLAG=Bb                                                                
+236U S G KC=0.00902 13$LC=0.002264 32$MC=0.000565 8$NC=0.0001522 21$            
+236U S G OC=3.64E-5 5$PC=6.77E-6 9$QC=4.08E-7 6                                 
+236U  cG E$from {+236}Pa |b{+-} decay.                                          
+236U  cG RI$From {+235}U(n,|g) E=thermal                                        
+236U   L 960.05    20 (2+)                                                  I   
+236U X L XREF=DHI                                                               
+236U  cL J$(E0+M1) |g to 2+                                                     
+236U   G 810.9     AP 68     AP                                                 
+236U F G FLAG=Bb                                                                
+236U   G 914.8     2  100       (E0+M1)                                         
+236U F G FLAG=BbH                                                               
+236U   G 959.9     AP 80     AP                                                 
+236U F G FLAG=Bb                                                                
+236U   L 966.58    9  (1-)                                                  K   
+236U X L XREF=ADFGH                                                             
+236U F L FLAG=U                                                                 
+236U  cL J$(E1) |g to 0+, (E1) |g to 2+ and |g to 1-                            
+236U   G 222.4     1  23     LT                                                 
+236U   G 279.0     1  58     3                                                  
+236U F G FLAG=A                                                                 
+236U   G 921.2     2  44     11 (E1)                   0.004326                 
+236U F G FLAG=AH                                                                
+236U S G KC=0.00353 5$LC=0.000599 8$MC=0.0001423 20$NC=3.81E-5 5$OC=9.22E-6 13$ 
+236U S G PC=1.757E-6 25$QC=1.345E-7 19                                          
+236U   G 966.8     2  100    9  (E1)                   0.003976                 
+236U F G FLAG=AH                                                                
+236U S G KC=0.00325 5$LC=0.000549 8$MC=0.0001302 18$NC=3.49E-5 5$OC=8.44E-6 12$ 
+236U S G PC=1.610E-6 23$QC=1.239E-7 17                                          
+236U   L 987.66    8  2-                                                    K   
+236U X L XREF=AFGH                                                              
+236U F L FLAG=U                                                                 
+236U  cL J$(E1) |g to 2+, M1+E2 |g to 3-, |g to 1-, log| {Ift}=8.0 from J=1     
+236U 2cL in {+236}Pa |b{+-} decay.                                              
+236U   G 243.6     2  26     3  M1+E2     1.5    4      0.81  21                
+236U F G FLAG=AH                                                                
+236U S G KC=0.51 19$LC=0.216 13$MC=0.0564 23$NC=0.0153 6$OC=0.00360 17$         
+236U S G PC=0.00064 4$QC=2.6E-5 9                                               
+236U  cG M,MR$from ce measurements in (n,|g), E=thermal                         
+236U   G 300.0     1  17     3  [M1+E2]                 0.6   4                 
+236U F G FLAG=A                                                                 
+236U S G KC=0.4 4$LC=0.12 4$MC=0.030 7$NC=0.0081 20$OC=0.0019 5$PC=3.6E-4 11$   
+236U S G QC=2.1E-5 16                                                           
+236U   G 942.4     2  100    7  (E1)                   0.004156                 
+236U F G FLAG=AH                                                                
+236U S G KC=0.00339 5$LC=0.000575 8$MC=0.0001365 19$NC=3.66E-5 5$OC=8.85E-6 12$ 
+236U S G PC=1.686E-6 24$QC=1.294E-7 18                                          
+236U   L 999.8     12 7-                                                    B   
+236U X L XREF=JKO                                                               
+236U  cL J$from Coul. ex.,  E2 |g to 5-, member of K|p=0- band.                 
+236U   G 151.5     5  100       E2                      2.21  4                 
+236U F G FLAG=FG                                                                
+236U S G KC=0.2183 31$LC=1.455 30$MC=0.403 8$NC=0.1093 22$OC=0.0252 5$          
+236U S G PC=0.00417 8$QC=2.75E-5 5                                              
+236U   L 1001.6    3  (3+)                                                  J   
+236U X L XREF=HI                                                                
+236U  cL J$|g to 4+, |g to 3-, |g to 2+. Strongly populated in (n,|g) E=2 keV.  
+236U   G 258.4     AP                                                           
+236U F G FLAG=B                                                                 
+236U   G 852.2     AP 13     AP                                                 
+236U F G FLAG=Bb                                                                
+236U   G 956.3     3  100    12                                                 
+236U F G FLAG=Bb                                                                
+236U   L 1035.6    22 3-                                                    K   
+236U X L XREF=FHJO(1040)                                                        
+236U F L FLAG=U                                                                 
+236U 2 L BE3=0.35 2                                                             
+236U  cL BE3$from (d,d'); other: 0.31 {I8} from Coul. ex.                       
+236U  cL J$from (d,d')                                                          
+236U   G 886.2     AP 100       [E1]                   0.004636                 
+236U F G FLAG=Bb                                                                
+236U S G KC AP 0.00378$LC AP 0.000643$MC AP 0.0001528$NC AP 4.09E-5$            
+236U S G OC AP 9.90E-6$PC AP 1.885E-6$QC AP 1.437E-7                            
+236U   G 990.2     AP 88     AP [E1]                   0.003815                 
+236U F G FLAG=Bb                                                                
+236U S G KC AP 0.00311$LC AP 0.000526$MC AP 0.0001247$NC AP 3.34E-5$            
+236U S G OC AP 8.09E-6$PC AP 1.543E-6$QC AP 1.190E-7                            
+236U   L 1050.86   15 (4+)                                                  I   
+236U X L XREF=HI                                                                
+236U  cL J$strong population in (n,|g), |g to 2+, (E0+E2) |g to 4+.             
+236U   G 901.25    17           (E0+E2)                                         
+236U F G FLAG=B                                                                 
+236U   G 1006.0    3  100                              0.0109715                
+236U F G FLAG=Bb                                                                
+236U   L 1052.9    4  4-                101 NS    6                         L   
+236U X L XREF=FGH                                                               
+236U F L FLAG=U                                                                 
+236U  cL J$(E1) |g to 4+, M1+E2 |g to 3-, (d,p) favors 4-.                      
+236U  cL T$weighted average of 97 ns {I6} (1979McZP, 1978ClZR), 103 ns {I6}     
+236U 2cL (1980Bu13) and 125 ns {I20} (1973Br05).                                
+236U  cL $Configuration=((|n 1/2[631])+(|n 7/2[743])) from (d,p) strength       
+236U   G 65        AP           (E2)                    102.4 14               S
+236U F G FLAG=H                                                                 
+236U S G LC AP 74.6$MC AP 20.66$NC AP 5.61$OC AP 1.286$PC AP 0.2088$            
+236U S G QC AP 0.000597                                                         
+236U   G 204.6     10 100    15 (E2)                    0.687 16                
+236U F G FLAG=H                                                                 
+236U S G KC=0.1490 24$LC=0.393 10$MC=0.1080 27$NC=0.0293 7$OC=0.00678 17$       
+236U S G PC=0.001134 29$QC=1.179E-5 23                                          
+236U  cG E,RI$from delayed I|g in {+235}U(n,|g) E=thermal                       
+236U   G 307.9     10 90     15 M1+E2     1.3    5      0.46  18                
+236U F G FLAG=H                                                                 
+236U S G KC=0.32 16$LC=0.100 16$MC=0.0256 34$NC=0.0069 9$OC=0.00165 24$         
+236U S G PC=0.00030 5$QC=1.6E-5 7                                               
+236U  cG E,RI$from delayed I|g in {+235}U(n,|g) E=thermal                       
+236U  cG M,MR$from ce measurements in (n,|g), E=thermal                         
+236U   G 903.6     4  41     7  (E1)                   0.004476                 
+236U F G FLAG=H                                                                 
+236U S G KC=0.00365 5$LC=0.000621 9$MC=0.0001474 21$NC=3.95E-5 6$OC=9.55E-6 13$ 
+236U S G PC=1.819E-6 26$QC=1.390E-7 19                                          
+236U  cG RI$from delayed I|g in {+235}U(n,|g) E=thermal                         
+236U   L 1058.8    3  (4+)                                                  J   
+236U X L XREF=HIJ                                                               
+236U  cL J$M1 |g to 4+, |g to 2+, strongly populated in (n,|g); probable        
+236U 2cL member of K|p=2+ band.                                                 
+236U   G 909.3     3  100    9  M1                      0.05057                 
+236U F G FLAG=BbH                                                               
+236U S G KC=0.0404 6$LC=0.00760 11$MC=0.001830 26$NC=0.000493 7$                
+236U S G OC=0.0001198 17$PC=2.313E-5 32$QC=1.852E-6 26                          
+236U   G 1014.1       69     AP                                                 
+236U F G FLAG=Bb                                                                
+236U   L 1066.1    10 (3+,4+)                                                   
+236U X L XREF=I                                                                 
+236U  cL J$strongly fed in (n,|g).                                              
+236U   L 1070.0    10 (4-)                                                  K   
+236U X L XREF=EFH                                                               
+236U F L FLAG=U                                                                 
+236U  cL J$|g to 4+, (d,p) favors 4-.                                           
+236U   G 920.5        100                                                       
+236U F G FLAG=Bb                                                                
+236U   L 1085.4    7  12+               5.5 PS   +18-33                     A   
+236U X L XREF=KOR                                                               
+236U F L FLAG=O                                                                 
+236U 2 L BE2=4.1 6                                                              
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 10+ and g.s. band member                                    
+236U   G 303.0     5  100       E2                      0.182627                
+236U F G FLAG=DG                                                                
+236U S G KC=0.0736 11$LC=0.0798 12$MC=0.02163 33$NC=0.00587 9$OC=0.001364 21$   
+236U S G PC=0.000233 4$QC=4.44E-6 6                                             
+236U B G BE2W=4.1E+2 7                                                          
+236U   L 1093.8    10 (2+,5+)                                                   
+236U X L XREF=I                                                                 
+236U  cL J$from strength of average resonance (n,|g) capture                    
+236U   L 1104.4    14 (5-)                                                  L   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$(d,p) favors 5-.                                                     
+236U   L 1110.66   8  (2-)                                                  M   
+236U X L XREF=AHM                                                               
+236U  cL J$|g to 2+; |g to 1-; |g to 3-; log| {Ift}=7.6 from J=1 in {+236}Pa    
+236U 2cL |b{+-} decay.                                                          
+236U   G 366.6     1  82     9                                                  
+236U F G FLAG=A                                                                 
+236U   G 423.1     1  100    5                                                  
+236U F G FLAG=A                                                                 
+236U   G 1065.0    2  34     4                                                  
+236U F G FLAG=A                                                                 
+236U   L 1127.38   20 (5+)                                                  J   
+236U X L XREF=HI                                                                
+236U  cL J$|g to 4+, fed strongly in (n,|g).                                    
+236U   G 977.9     2  100                                                       
+236U F G FLAG=Bb                                                                
+236U   L 1147.0    10 (3+,4+)                                                   
+236U X L XREF=I                                                                 
+236U  cL J$strongly fed through E1 |g in resonance (n,|g) E=2 keV capture       
+236U 2cL states with J|p=3-,4-.                                                 
+236U   L 1149.4    10 (3-)                                                  M   
+236U X L XREF=HJO                                                               
+236U 2 L BE3=0.26 3                                                             
+236U  cL BE3$from (d,d'), other: 0.16 {I6} from Coul. ex.                       
+236U  cL J$|g to 3-, (d,d') favors (3-);                                        
+236U   G 405.2        100                                                       
+236U F G FLAG=Bb                                                                
+236U   L 1164      AP (5-)                                                  K  ?
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=1- band                           
+236U   L 1164      3  (6-)                                                  L   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=4- band                           
+236U   L 1171.8    2                                                            
+236U X L XREF=H                                                                 
+236U   L 1191.6    10 (3-)                                                  G   
+236U X L XREF=F                                                                 
+236U  cL J$from (d,p), possible member of K|p=3- band                           
+236U   L 1198.6    12 9-                                                    B   
+236U X L XREF=EKO                                                               
+236U  cL J$from Coul. ex. E2 |g to 7-, member of K|p=0- band.                   
+236U   G 198.8     3  100       E2                      0.764 12                
+236U F G FLAG=FG                                                                
+236U S G KC=0.1561 22$LC=0.444 7$MC=0.1222 19$NC=0.0332 5$OC=0.00766 12$        
+236U S G PC=0.001281 20$QC=1.273E-5 19                                          
+236U   L 1221.4    10 (2+,5+)                                                   
+236U X L XREF=HI                                                                
+236U  cL J$from the feeding strength of E1 |g in resonance (n,|g) E=2 keV       
+236U 2cL capture states with J|p=3-,4-.                                         
+236U   L 1232      AP (7-)                                                  L   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=4- band                           
+236U   L 1232.2    10 (4-)                                                  G   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=3- band                           
+236U   L 1240      2                                                            
+236U X L XREF=JN                                                                
+236U   L 1249.3    10 (2+,5+)                                                   
+236U X L XREF=I                                                                 
+236U  cL J$from the feeding strength of E1 |g in resonance (n,|g) E=2 keV       
+236U 2cL capture states with J|p=3-,4-.                                         
+236U   L 1265.2    10 (3+,4+)                                                   
+236U X L XREF=EIJ                                                               
+236U  cL J$strongly fed through E1 |g in resonance (n,|g) E=2 keV capture       
+236U 2cL states with J|p=3-,4-.                                                 
+236U   L 1271.10   8  (1-,2,3)                                                  
+236U X L XREF=A                                                                 
+236U  cL J$|g to 2+, |g to 3-,  log| {Ift}=8.3 from J=1 in {+236}Pa |b{+-}      
+236U 2cL decay.                                                                 
+236U   G 526.7     2  39     4                                                  
+236U F G FLAG=A                                                                 
+236U   G 1225.9    1  100    8                                                  
+236U F G FLAG=A                                                                 
+236U   L 1282.2    10 (5-)                                                  G   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=3- band                           
+236U   L 1320      4  (8-)                                                  L   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=4- band                           
+236U   L 1320.4    10 (2+,5+)                                                   
+236U X L XREF=I                                                                 
+236U  cL J$from the feeding strength of E1 |g in resonance (n,|g) E=2 keV       
+236U 2cL capture states with J|p=3-,4-.                                         
+236U   L 1329.0    10 (3+,4+)                                                   
+236U X L XREF=I                                                                 
+236U  cL J$strongly fed through E1 |g in resonance (n,|g) E=2 keV capture       
+236U 2cL states with J|p=3-,4-.                                                 
+236U   L 1332.8    10 (3+,4+)                                                   
+236U X L XREF=HIJ                                                               
+236U  cL J$strongly fed through E1 |g in resonance (n,|g) E=2 keV capture       
+236U 2cL states with J|p=3-,4-.                                                 
+236U   L 1342.8    10 (6-)                                                  G   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=3- band                           
+236U   L 1347.5    10 (3+,4+)                                                   
+236U X L XREF=HI                                                                
+236U  cL J$strongly fed through E1 |g in resonance (n,|g) E=2 keV capture       
+236U 2cL states with J|p=3-,4-.                                                 
+236U   L 1351.3    10 (3+,4+)                                                   
+236U X L XREF=EI                                                                
+236U  cL J$strongly fed through E1 |g in resonance (n,|g) E=2 keV capture       
+236U 2cL states with J|p=3-,4-.                                                 
+236U   L 1381.3    10 (3+,4+)                                                   
+236U X L XREF=I                                                                 
+236U  cL J$strongly fed through E1 |g in resonance (n,|g) E=2 keV capture       
+236U 2cL states with J|p=3-,4-.                                                 
+236U   L 1392      5                                                            
+236U X L XREF=E                                                                 
+236U   L 1399.8    10 (2+,5+)                                                   
+236U X L XREF=I                                                                 
+236U  cL J$from the feeding strength of E1 |g in resonance (n,|g) E=2 keV       
+236U 2cL capture states with J|p=3-,4-.                                         
+236U   L 1413.3    19 (7-)                                                  G   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=3- band                           
+236U   L 1426.4    9  14+               2.8 PS    3                         A   
+236U X L XREF=KOR                                                               
+236U F L FLAG=O                                                                 
+236U 2 L BE2=4.5 5                                                              
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 12+ and g.s. band member                                    
+236U   G 341.0     5  100       E2                      0.128519                
+236U F G FLAG=DG                                                                
+236U S G KC=0.0589 8$LC=0.0511 8$MC=0.01375 21$NC=0.00373 6$OC=0.000869 13$     
+236U S G PC=0.0001497 22$QC=3.38E-6 5                                           
+236U B G BE2W=4.5E+2 5                                                          
+236U   L 1443.6    13 11-                                                   B   
+236U X L XREF=KO                                                                
+236U  cL J$from Coul. ex. E2 |g to 9-, member of K|p=0- band.                   
+236U   G 245.0     5  100       E2                      0.363 6                 
+236U F G FLAG=FG                                                                
+236U S G KC=0.1091 16$LC=0.1855 30$MC=0.0507 8$NC=0.01377 23$OC=0.00319 5$      
+236U S G PC=0.000538 9$QC=7.42E-6 11                                            
+236U   L 1471.7    10 (6-)                                                  H   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=6- band                           
+236U   L 1541.8    13 (7-)                                                  H   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=6- band                           
+236U   L 1572.2    6                                                            
+236U X L XREF=H                                                                 
+236U   L 1580      13 (1,2)                                                    ?
+236U X L XREF=FG                                                                
+236U  cL J$populated by 1170|g from 2750-keV (J|p=0+) fission isomer.           
+236U  cL E$Possible but unlikely the order of 1580 and 1170                     
+236U 2cL are reversed which would result instead with a level at E(level)=1170. 
+236U   G 1580      11                                                          ?
+236U F G FLAG=E                                                                 
+236U   L 1604.80   7  (1-,2+)                                                   
+236U X L XREF=AF(1600.8)                                                        
+236U  cL J$|g to 0+, |g to 2+, |g to 3-.                                        
+236U   G 333.7     1  37     2                                                  
+236U F G FLAG=A                                                                 
+236U   G 617.1     2  9.5    20                                                 
+236U F G FLAG=A                                                                 
+236U   G 860.6     1  35     1                                                  
+236U F G FLAG=A                                                                 
+236U   G 917.0     3  62     4                                                  
+236U F G FLAG=A                                                                 
+236U   G 1559.6    1  100    9                                                  
+236U F G FLAG=A                                                                 
+236U   G 1604.9    2  18     5                                                  
+236U F G FLAG=A                                                                 
+236U   L 1621.8    12 (8-)                                                  H   
+236U X L XREF=F                                                                 
+236U F L FLAG=U                                                                 
+236U  cL J$from (d,p), possible member of K|p=6- band                           
+236U   L 1642.5    20                                                           
+236U X L XREF=H                                                                 
+236U   L 1662.36   8  (1,2+)                                                    
+236U X L XREF=AFH                                                               
+236U  cL J$|g to 0+, |g to 2+, log| {Ift}=7.1 from J=1 in {+236}Pa |b{+-}       
+236U 2cL decay.                                                                 
+236U   G 674.5     2  23     8                                                  
+236U F G FLAG=A                                                                 
+236U   G 975.0     2  21     5                                                  
+236U F G FLAG=A                                                                 
+236U   G 1617.1    1  100    9                                                  
+236U F G FLAG=A                                                                 
+236U   G 1662.4    2  66     7                                                  
+236U F G FLAG=A                                                                 
+236U   L 1689.6    17                                                           
+236U X L XREF=F                                                                 
+236U   L 1732.6    17 13-                                                   B   
+236U X L XREF=KO                                                                
+236U  cL J$from Coul. ex. E2 |g to 11-, member of K|p=0- band.                  
+236U   G 289       1  100       E2                      0.211 4                 
+236U F G FLAG=DG                                                                
+236U S G KC=0.0805 12$LC=0.0959 19$MC=0.0260 5$NC=0.00706 14$OC=0.001641 32$    
+236U S G PC=0.000280 5$QC=4.97E-6 8                                             
+236U   L 1748      3                                                            
+236U X L XREF=F                                                                 
+236U   L 1775.9    22                                                           
+236U X L XREF=F                                                                 
+236U   L 1791.3    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U 2 L BM1=0.38 5                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 1746.1    10 38     8  (M1)                   0.0092613                
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00717 10$LC=0.001332 19$MC=0.000320 5$NC=8.61E-5 12$              
+236U S G OC=2.096E-5 30$PC=4.05E-6 6$QC=3.27E-7 5                               
+236U   G 1791.3    10 100       (M1)                   0.0087012                
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00669 9$LC=0.001243 18$MC=0.000299 4$NC=8.04E-5 11$               
+236U S G OC=1.957E-5 28$PC=3.78E-6 5$QC=3.05E-7 4                               
+236U   L 1801.0    10 16+               2.1 PS    2                         A   
+236U X L XREF=KOR                                                               
+236U F L FLAG=O                                                                 
+236U 2 L BE2=3.8 3                                                              
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 14+ and g.s. band member                                    
+236U   G 374.6     5  100       E2                      0.098714                
+236U F G FLAG=DG                                                                
+236U S G KC=0.0493 7$LC=0.0363 5$MC=0.00971 14$NC=0.00263 4$OC=0.000614 9$      
+236U S G PC=0.0001066 16$QC=2.74E-6 4                                           
+236U B G BE2W=3.8E+2 4                                                          
+236U   L 1807.88   7  (1,2+)                                                    
+236U X L XREF=AFN                                                               
+236U  cL J$|g to 0+, |g to 2+ and  log| {Ift}=6.3 from J=1 in {+236}Pa |b{+-}   
+236U 2cL decay.                                                                 
+236U   G 1762.7    1  100    5                                                  
+236U F G FLAG=A                                                                 
+236U   G 1807.8    1  37     2                                                  
+236U F G FLAG=A                                                                 
+236U   L 1854.8    20                                                           
+236U X L XREF=F                                                                 
+236U   L 1865.39   15 (1,2+)                                                    
+236U X L XREF=A                                                                 
+236U  cL J$|g to 0+ and 1-, log| {Ift}=7.3 from J=1 in {+236}Pa |b{+-} decay.   
+236U   G 1177.7    2  100    14                                                 
+236U F G FLAG=A                                                                 
+236U   G 1865.5    2  67     8                                                  
+236U F G FLAG=A                                                                 
+236U   L 1896.9    7                                                            
+236U X L XREF=H                                                                 
+236U   L 1912.0    16                                                           
+236U X L XREF=F                                                                 
+236U   L 1946.8    20                                                           
+236U X L XREF=F                                                                 
+236U   L 1972.62   9  (1,2+)                                                    
+236U X L XREF=A                                                                 
+236U  cL J$|g to 0+ and 2+, log| {Ift}=6.6 from J=1 in {+236}Pa |b{+-} decay.   
+236U   G 1927.0    2  100    7                                                  
+236U F G FLAG=A                                                                 
+236U   G 1972.7    1  100    9                                                  
+236U F G FLAG=A                                                                 
+236U   L 1979.15   8  (1-,2)                                                    
+236U X L XREF=A                                                                 
+236U  cL J$|g to 1-, 2+ and 3-; log| {Ift}=6.4 from J=1 in {+236}Pa |b{+-}      
+236U 2cL decay.                                                                 
+236U   G 1234.9    1  100    8                                                  
+236U F G FLAG=A                                                                 
+236U   G 1291.6    1  100    8                                                  
+236U F G FLAG=A                                                                 
+236U   G 1934.1    2  98     8                                                  
+236U F G FLAG=A                                                                 
+236U   L 1981.04   16 (1,2+)                                                    
+236U X L XREF=A                                                                 
+236U  cL J$|g to 0+ and 2+; log| {Ift}=6.7 from J=1 in {+236}Pa |b{+-} decay.   
+236U   G 870.4     2  100    9                                                  
+236U F G FLAG=A                                                                 
+236U   G 1023.1    3  84     8                                                  
+236U F G FLAG=A                                                                 
+236U   G 1981.0    3  74     7                                                  
+236U F G FLAG=A                                                                 
+236U   L 2054.2    7  1(+)                                                  X   
+236U X L XREF=FQ                                                                
+236U F L FLAG=T                                                                 
+236U 2 L BM1=0.25 4                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2009.0    10 75     14 (M1)                   0.006689                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00492 7$LC=0.000913 13$MC=0.0002193 31$NC=5.90E-5 8$              
+236U S G OC=1.436E-5 20$PC=2.77E-6 4$QC=2.243E-7 32                             
+236U   G 2054.2    10 100       (M1)                   0.006379                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00463 7$LC=0.000859 12$MC=0.0002065 29$NC=5.56E-5 8$              
+236U S G OC=1.352E-5 19$PC=2.61E-6 4$QC=2.113E-7 30                             
+236U   L 2060.6    19 15-                                                   B   
+236U X L XREF=O                                                                 
+236U  cL J$from Coul. ex. E2 |g to 13-, member of K|p=0- band.                  
+236U   G 328       1  100       E2                      0.143924                
+236U F G FLAG=DK                                                                
+236U S G KC=0.0634 10$LC=0.0591 11$MC=0.01593 29$NC=0.00432 8$OC=0.001006 18$   
+236U S G PC=0.0001729 31$QC=3.70E-6 6                                           
+236U   L 2086.54   9  1(-)                                                      
+236U X L XREF=AQ                                                                
+236U 2 L BE1=2.7 7                                                              
+236U  cL BE1$from (|g,|g')                                                      
+236U  cL J$(E1) |g to 0+ and 2+; log| {Ift}=6.3 from J=1 in {+236}Pa |b{+-}     
+236U 2cL decay.                                                                 
+236U   G 2041.3    1  100    5  (E1)                   1.66E-32                 
+236U F G FLAG=AJ                                                                
+236U S G KC=0.000929 13$LC=0.0001512 21$MC=3.57E-5 5$NC=9.57E-6 13$             
+236U S G OC=2.325E-6 33$PC=4.48E-7 6$QC=3.64E-8 5                               
+236U   G 2086.5    2  56     5  (E1)                   1.65E-32                 
+236U F G FLAG=AJ                                                                
+236U S G KC=0.000896 13$LC=0.0001458 20$MC=3.44E-5 5$NC=9.22E-6 13$             
+236U S G OC=2.242E-6 31$PC=4.32E-7 6$QC=3.52E-8 5                               
+236U   L 2095.7    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.15 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+.                                                
+236U   G 2050.5    10 47     15 (M1)                   0.006399                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00466 7$LC=0.000864 12$MC=0.0002075 29$NC=5.58E-5 8$              
+236U S G OC=1.359E-5 19$PC=2.63E-6 4$QC=2.123E-7 30                             
+236U   G 2095.7    10 100       (M1)                   0.006109                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00439 6$LC=0.000814 11$MC=0.0001956 27$NC=5.26E-5 7$              
+236U S G OC=1.281E-5 18$PC=2.475E-6 35$QC=2.002E-7 28                           
+236U   L 2114      3                                                            
+236U X L XREF=F                                                                 
+236U   L 2155.40   12 (0,1,2)                                                   
+236U X L XREF=AF                                                                
+236U  cL J$log| {Ift}=6.6 from J=1 in {+236}Pa |b{+-} decay                     
+236U   G 550.6     1  100                                                       
+236U F G FLAG=A                                                                 
+236U   L 2176.9    18                                                           
+236U X L XREF=F                                                                 
+236U   L 2188.8    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.92 9                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+.                                                
+236U   G 2143.6    10 49     3  (M1)                   0.005828                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00413 6$LC=0.000766 11$MC=0.0001840 26$NC=4.95E-5 7$              
+236U S G OC=1.205E-5 17$PC=2.328E-6 33$QC=1.884E-7 26                           
+236U   G 2188.8    10 100       (M1)                   0.005588                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00391 5$LC=0.000724 10$MC=0.0001738 24$NC=4.68E-5 7$              
+236U S G OC=1.139E-5 16$PC=2.200E-6 31$QC=1.781E-7 25                           
+236U   L 2190      12 (1,2+)                                                    
+236U X L XREF=G                                                                 
+236U  cL J$|g from 0+ (2750-keV fission isomer), 2190|g to 0+.                  
+236U   G 2190      30 100                                                       
+236U F G FLAG=E                                                                 
+236U   L 2204.0    12 18+               1.17 PS   12                        A   
+236U X L XREF=FOR                                                               
+236U F L FLAG=O                                                                 
+236U 2 L BE2=4.7 5                                                              
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 16+ and g.s. band member                                    
+236U   G 403.0     5  100       E2                      0.081112                
+236U F G FLAG=DK                                                                
+236U S G KC=0.0430 6$LC=0.0280 4$MC=0.00746 11$NC=0.002021 30$OC=0.000473 7$    
+236U S G PC=8.25E-5 12$QC=2.330E-6 33                                           
+236U B G BE2W=4.9E+2 5                                                          
+236U   L 2226.9    3  (0,1,2)                                                  ?
+236U X L XREF=A                                                                 
+236U  cL J$|g to 2+, log| {Ift}=7.21 from J=1 in {+236}Pa |b{+-} decay          
+236U   G 2181.6    3  100                                                       
+236U F G FLAG=A                                                                 
+236U   L 2234      4                                                            
+236U X L XREF=F                                                                 
+236U   L 2243.9    10 1                                                     Z   
+236U X L XREF=Q                                                                 
+236U   G 2243.9    10 100                                                       
+236U F G FLAG=C                                                                 
+236U   L 2251.1    7  1(+)                                                  Z   
+236U X L XREF=Q                                                                 
+236U 2 L BM1=0.25 4                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$|g to 0+ and 2+.                                                     
+236U   G 2205.9    10 100                                                       
+236U F G FLAG=C                                                                 
+236U   G 2251.1    10 96     13                                                 
+236U F G FLAG=C                                                                 
+236U   L 2260.4    10                                                           
+236U X L XREF=F                                                                 
+236U   L 2284.7    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.31 4                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2239.5    10 51     7  (M1)                   0.005337                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00367 5$LC=0.000680 10$MC=0.0001634 23$NC=4.40E-5 6$              
+236U S G OC=1.070E-5 15$PC=2.068E-6 29$QC=1.674E-7 24                           
+236U   G 2284.7    10 100       (M1)                   0.005127                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00348 5$LC=0.000644 9$MC=0.0001547 22$NC=4.17E-5 6$               
+236U S G OC=1.014E-5 14$PC=1.959E-6 28$QC=1.586E-7 22                           
+236U   L 2426.6    22 17-                                                   B   
+236U X L XREF=O                                                                 
+236U  cL J$from Coul. ex. E2 |g to 15-, member of K|p=0- band.                  
+236U   G 366       1  100       E2                      0.105217                
+236U F G FLAG=DK                                                                
+236U S G KC=0.0515 8$LC=0.0394 7$MC=0.01057 18$NC=0.00286 5$OC=0.000669 12$     
+236U S G PC=0.0001158 20$QC=2.88E-6 4                                           
+236U   L 2435.6    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.25 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2390.4    10 34     7  (M1)                   0.004717                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00308 4$LC=0.000570 8$MC=0.0001368 19$NC=3.68E-5 5$OC=8.96E-6 13$ 
+236U S G PC=1.732E-6 24$QC=1.404E-7 20                                          
+236U   G 2435.6    10 100       (M1)                   0.004566                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00292 4$LC=0.000541 8$MC=0.0001300 18$NC=3.50E-5 5$OC=8.52E-6 12$ 
+236U S G PC=1.646E-6 23$QC=1.334E-7 19                                          
+236U   L 2440.2    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.19 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2395.0    10 26     7  (M1)                   0.004707                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00306 4$LC=0.000567 8$MC=0.0001361 19$NC=3.66E-5 5$OC=8.92E-6 13$ 
+236U S G PC=1.723E-6 24$QC=1.396E-7 20                                          
+236U   G 2440.2    10 100       (M1)                   0.004556                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00291 4$LC=0.000539 8$MC=0.0001293 18$NC=3.48E-5 5$OC=8.47E-6 12$ 
+236U S G PC=1.637E-6 23$QC=1.328E-7 19                                          
+236U   L 2457.3    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.21 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2412.1    10 50     9  (M1)                   0.004647                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00300 4$LC=0.000556 8$MC=0.0001335 19$NC=3.59E-5 5$OC=8.75E-6 12$ 
+236U S G PC=1.690E-6 24$QC=1.370E-7 19                                          
+236U   G 2457.3    10 100       (M1)                   0.004496                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00285 4$LC=0.000528 7$MC=0.0001269 18$NC=3.42E-5 5$OC=8.31E-6 12$ 
+236U S G PC=1.607E-6 23$QC=1.303E-7 18                                          
+236U   L 2494.5    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.21 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2449.3    10 29     8  (M1)                   0.004526                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00288 4$LC=0.000533 7$MC=0.0001280 18$NC=3.45E-5 5$OC=8.39E-6 12$ 
+236U S G PC=1.621E-6 23$QC=1.314E-7 18                                          
+236U   G 2494.5    10 100       (M1)                   0.004386                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00274 4$LC=0.000507 7$MC=0.0001218 17$NC=3.28E-5 5$OC=7.98E-6 11$ 
+236U S G PC=1.542E-6 22$QC=1.251E-7 18                                          
+236U   L 2498.5    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.20 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2453.3    10 66     12 (M1)                   0.004516                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00287 4$LC=0.000531 7$MC=0.0001275 18$NC=3.43E-5 5$OC=8.35E-6 12$ 
+236U S G PC=1.614E-6 23$QC=1.308E-7 18                                          
+236U   G 2498.5    10 100       (M1)                   0.004376                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.00273 4$LC=0.000505 7$MC=0.0001213 17$NC=3.26E-5 5$OC=7.95E-6 11$ 
+236U S G PC=1.535E-6 22$QC=1.245E-7 17                                          
+236U   L 2631.8    13 20+               0.84 PS   12                        A   
+236U X L XREF=OR                                                                
+236U F L FLAG=O                                                                 
+236U 2 L BE2=4.9 7                                                              
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 18+ and g.s. band member                                    
+236U   G 427.8     5  100       E2                      0.069410                
+236U F G FLAG=DK                                                                
+236U S G KC=0.0385 5$LC=0.02281 33$MC=0.00605 9$NC=0.001638 24$OC=0.000384 6$   
+236U S G PC=6.73E-5 10$QC=2.047E-6 29                                           
+236U B G BE2W=5.1E+2 8                                                          
+236U   L 2699.0    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.19 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2653.8    10 62     10 (M1)                   0.003986                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.002315 32$LC=0.000428 6$MC=0.0001028 14$NC=2.77E-5 4$             
+236U S G OC=6.74E-6 9$PC=1.302E-6 18$QC=1.057E-7 15                             
+236U   G 2699.0    10 100       (M1)                   0.003885                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.002210 31$LC=0.000409 6$MC=9.82E-5 14$NC=2.64E-5 4$OC=6.43E-6 9$  
+236U S G PC=1.243E-6 17$QC=1.009E-7 14                                          
+236U   L 2712.1    7  1(-)                                                  Z   
+236U X L XREF=Q                                                                 
+236U 2 L BE1=1.4 3                                                              
+236U  cL BE1$from (|g,|g')                                                      
+236U  cL J$(E1) |g to 0+ and 2+.                                                
+236U   G 2666.9    10 100    12 (E1)                   1.67E-32                 
+236U F G FLAG=C                                                                 
+236U S G KC=0.000603 8$LC=9.74E-5 14$MC=2.296E-5 32$NC=6.15E-6 9$               
+236U S G OC=1.497E-6 21$PC=2.89E-7 4$QC=2.378E-8 33                             
+236U   G 2712.1    10 44     8  (E1)                   1.68E-32                 
+236U F G FLAG=C                                                                 
+236U S G KC=0.000587 8$LC=9.47E-5 13$MC=2.234E-5 31$NC=5.99E-6 8$               
+236U S G OC=1.456E-6 20$PC=2.81E-7 4$QC=2.315E-8 32                             
+236U   L 2750      7  (0+)              67 NS    3                              
+236U X L XREF=GK                                                                
+236U 2 L %IT=88 3$%SF=12 3                                                      
+236U  cL %IT,%SF$deduced from weighted average of |G(|g)/|G(f)=7 {I2}           
+236U 2cL (1976An11) and |G{-|g}/|G{-f}=8 {I3} (1989Sc30) with %|a=0. Others:    
+236U 3cL |G{-|g}/|G{-f}|?6 (1978Gu02), |G{-|g}/|G{-f}<4.5 (1980Bu13),           
+236U 4cL |G{-|g}/|G{-f}=8 {I3} (1989Sc30), |G(|g)/|G(f)<1.5 (1978Ba47),         
+236U 5cL |G{-|g}/|G{-f}=6.6 {I6} (2020Ba53) for En=0.2-1.2 eV and               
+236U 6cL |G{-|g}/|G{-f}=12.5 {I18} (2020Ba53) for En=1.2-12 eV;                 
+236U 7cL %SF|?10 (1979Be33)                                                     
+236U  cL %A$<10, quoted by 1989Sc30 from unpublished work, and no reported      
+236U 2cL measurements.                                                          
+236U  cL J$(E1) |g to 1-; interpreted as the g.s. in second minimum of the      
+236U 2cL nuclear potential.                                                     
+236U  cL T$weighted average of 68 ns {I6} (2020Ba53), 66 ns {I3} (2020Ba53),    
+236U 2cL 92 ns {I15} (1972PiZR), 80 ns {I20} (1971Bo61),                        
+236U 3cL 70 ns {I30} (1971Be62), 70 ns {I14} (1970Re05) and 66.6 ns {I87}       
+236U 4cL (1970El03). Others: 110 ns {I50} (1969La14), 105 ns {I20}              
+236U 5cL (1970Wo06), 130 ns {I15} (1971Br38), 130 ns {I40} (1972Pe01), 116 ns   
+236U 6cL {I7} (1975Ch09), 120 ns {I15} (1977Bo09), 115 ns {I5}                  
+236U 7cL (1978Gu02,1980Gu20), 137 ns {I18} (1982Go02), 125 ns {I30} (1989Sc30), 
+236U 8cL 121 ns {I2} (1989Ma57,1990Ma59), 144 ns {I32} (1974HeZE),              
+236U 9cL  |?110 ns (1972HoXQ), and 114 ns {I46} (1970Vi05). Data are clustered  
+236U acL around two values, one approximately 70 ns and the other               
+236U bcL approximately 120 ns.  Evaluator adopts the former, as 2020Ba53        
+236U ccL note the possibility of contributions of higher lying states in        
+236U dcL measurements with longer lifetimes.                                    
+236U  cL E$from {+235}U(d,p|g). Others: |?2400 keV (1968Ca23,1969Bj02), <2960   
+236U 2cL (1970El03), |?2350 (1970So06) and 2795 keV {I5} (1987ScZP).            
+236U  cL $ce's preceding fission observed, interpreted as g.s. cascade in       
+236U 2cL second minimum with inertia constant A=3.54 (1974HeZE), and A=3.36     
+236U 3cL keV {I1} (1977Bo09) following E=AJ(J+1).                               
+236U  cL $One ternary fission per 160 binary fissions observed by 1989Ma57,     
+236U 2cL 1989Ma54                                                               
+236U   G 560       10 12        (E1)                    0.01084                 
+236U L G FL=2190                                                                
+236U F G FLAG=EW                                                                
+236U S G KC=0.00875 33$LC=0.00156 6$MC=0.000372 15$NC=0.000100 4$OC=2.40E-5 10$ 
+236U S G PC=4.52E-6 18$QC=3.24E-7 12                                            
+236U B G BE1W=5.6E-10 4                                                         
+236U   G 1170      10 20        (E1)                   0.002866                 
+236U L G FL=1580                                                                
+236U F G FLAG=EW                                                                
+236U S G KC=0.00234 5$LC=0.000390 8$MC=9.25E-5 19$NC=2.48E-5 5$OC=6.00E-6 12$   
+236U S G PC=1.149E-6 24$QC=9.00E-8 18                                           
+236U B G BE1W=1.02E-10 5                                                        
+236U   G 1783      10 100       (E1)                   1.76E-33                 
+236U L G FL=966.58                                                              
+236U F G FLAG=E                                                                 
+236U S G KC=0.001159 19$LC=0.0001895 32$MC=4.48E-5 8$NC=1.200E-5 20$            
+236U S G OC=2.91E-6 5$PC=5.60E-7 9$QC=4.53E-8 8                                 
+236U B G BE1W=1.45E-10 6                                                        
+236U   G 2062      10 26        (E1)                   1.66E-32                 
+236U F G FLAG=E                                                                 
+236U S G KC=0.000914 15$LC=0.0001487 24$MC=3.51E-5 6$NC=9.41E-6 15$             
+236U S G OC=2.29E-6 4$PC=4.40E-7 7$QC=3.58E-8 6                                 
+236U B G BE1W=2.43E-11 10                                                       
+236U   L 2756.2    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.08 2                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2711.0    10 55     16 (M1)                   0.003865                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.002184 31$LC=0.000404 6$MC=9.70E-5 14$NC=2.61E-5 4$OC=6.36E-6 9$  
+236U S G PC=1.228E-6 17$QC=9.97E-8 14                                           
+236U   G 2756.2    10 100       (M1)                   0.003775                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.002087 29$LC=0.000386 5$MC=9.27E-5 13$NC=2.496E-5 35$             
+236U S G OC=6.08E-6 9$PC=1.174E-6 16$QC=9.53E-8 13                              
+236U   L 2770      7  (2+)                                                  S   
+236U X L XREF=G                                                                 
+236U   G 20        CA 100       (E2)                    1.96E4                 S
+236U F G FLAG=EV                                                                
+236U S G LC=1.125E4 16$MC=6.23E3 9$NC=1686 24$OC=385 6$PC=61.9 9$QC=0.1021 15$  
+236U S G NC+=2.13E3 3                                                           
+236U  cG E$from level energy difference                                         
+236U   L 2817      7  (4+)                                                  S   
+236U X L XREF=G                                                                 
+236U   G 47.0         100       (E2)                    489   7                 
+236U F G FLAG=EV                                                                
+236U S G LC=357 5$MC=98.6 14$NC=26.7 4$OC=6.12 9$PC=0.990 14$QC=0.002409 34     
+236U   L 2823      4  (19-)                                                 B   
+236U X L XREF=O                                                                 
+236U  cL J$from Coul. ex. (E2) |g to 17-, member of K|p=0- band.                
+236U   G 396       AP 100       (E2)                    0.084912                
+236U F G FLAG=DK                                                                
+236U S G KC AP 0.0444$LC AP 0.0298$MC AP 0.00794$NC AP 0.002152$OC AP 0.000503$ 
+236U S G PC AP 8.77E-5$QC AP 2.422E-6                                           
+236U   L 2823.3    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.11 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2778.1    10 97     26 (M1)                   0.003735                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.002042 29$LC=0.000378 5$MC=9.07E-5 13$NC=2.442E-5 34$             
+236U S G OC=5.94E-6 8$PC=1.149E-6 16$QC=9.33E-8 13                              
+236U   G 2823.3    10 100       (M1)                   0.003655                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.001954 27$LC=0.000361 5$MC=8.68E-5 12$NC=2.336E-5 33$             
+236U S G OC=5.69E-6 8$PC=1.099E-6 15$QC=8.93E-8 13                              
+236U   L 2838.3    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.09 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2793.1    10 100       (M1)                   0.003705                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.002013 28$LC=0.000372 5$MC=8.94E-5 13$NC=2.406E-5 34$             
+236U S G OC=5.86E-6 8$PC=1.132E-6 16$QC=9.19E-8 13                              
+236U   G 2838.3    10 92     27 (M1)                   0.003635                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.001926 27$LC=0.000356 5$MC=8.55E-5 12$NC=2.303E-5 32$             
+236U S G OC=5.61E-6 8$PC=1.083E-6 15$QC=8.80E-8 12                              
+236U   L 2877.8    7  1(-)                                                  Z   
+236U X L XREF=Q                                                                 
+236U 2 L BE1=1.6 4                                                              
+236U  cL BE1$from (|g,|g')                                                      
+236U  cL J$(E1) |g to 0+ and 2+                                                 
+236U   G 2832.6    10 100       (E1)                   1.70E-32                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.000547 8$LC=8.83E-5 12$MC=2.081E-5 29$NC=5.58E-6 8$               
+236U S G OC=1.357E-6 19$PC=2.62E-7 4$QC=2.161E-8 30                             
+236U   G 2877.8    10 45     12 (E1)                   1.71E-32                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.000534 7$LC=8.60E-5 12$MC=2.028E-5 28$NC=5.44E-6 8$               
+236U S G OC=1.322E-6 19$PC=2.55E-7 4$QC=2.108E-8 30                             
+236U   L 2891      8  (6+)                                                  S   
+236U X L XREF=G                                                                 
+236U   G 73.9         100       (E2)                    55.5  8                 
+236U L G FL=2817                                                                
+236U F G FLAG=EV                                                                
+236U S G LC=40.4 6$MC=11.20 16$NC=3.04 4$OC=0.697 10$PC=0.1135 16$QC=0.000352 5 
+236U   L 2924.0    7  (1,2+)                                                    
+236U X L XREF=Q                                                                 
+236U  cL J$|g to 0+ and 2+                                                      
+236U   G 2878.8    10 100                                                       
+236U   G 2924.0    10 60     17                                                 
+236U   L 2969.0    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.12 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 2923.8    10 50     12 (M1)                   0.003505                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.001775 25$LC=0.000328 5$MC=7.88E-5 11$NC=2.122E-5 30$             
+236U S G OC=5.17E-6 7$PC=9.98E-7 14$QC=8.11E-8 11                               
+236U   G 2969.0    10 100       (M1)                   0.003445                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.001702 24$LC=0.000315 4$MC=7.56E-5 11$NC=2.035E-5 29$             
+236U S G OC=4.95E-6 7$PC=9.57E-7 13$QC=7.78E-8 11                               
+236U   L 2991      8  (8+)                                                  S   
+236U X L XREF=G                                                                 
+236U   G 100.8                  (E2)                    12.84 18                
+236U F G FLAG=EV                                                                
+236U S G LC=9.35 13$MC=2.59 4$NC=0.705 10$OC=0.1619 23$PC=0.0265 4$             
+236U S G QC=0.0001062 15                                                        
+236U   L 3081.0    14 22+               0.65 PS   15                        A   
+236U X L XREF=OR                                                                
+236U F L FLAG=O                                                                 
+236U 2 L BE2=4.9 11                                                             
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 20+ and g.s. band member                                    
+236U   G 449.2     5  100       E2                      0.06149                 
+236U F G FLAG=DK                                                                
+236U S G KC=0.0351 5$LC=0.01935 28$MC=0.00511 7$NC=0.001384 20$OC=0.000325 5$   
+236U S G PC=5.72E-5 8$QC=1.844E-6 26                                            
+236U B G BE2W=5.2E+2 12                                                         
+236U   L 3143.8    7  1(+)                                                  X   
+236U X L XREF=Q                                                                 
+236U F L FLAG=Z                                                                 
+236U 2 L BM1=0.15 3                                                             
+236U  cL BM1$from (|g,|g')                                                      
+236U  cL J$(M1) |g to 0+ and 2+                                                 
+236U   G 3098.6    10 56     14 (M1)                   0.003305                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.001514 21$LC=0.000280 4$MC=6.72E-5 9$NC=1.809E-5 25$OC=4.40E-6 6$ 
+236U S G PC=8.51E-7 12$QC=6.92E-8 10                                            
+236U   G 3143.8    10 100       (M1)                   0.003265                 
+236U F G FLAG=CJ                                                                
+236U S G KC=0.001454 20$LC=0.000269 4$MC=6.45E-5 9$NC=1.738E-5 24$OC=4.23E-6 6$ 
+236U S G PC=8.18E-7 11$QC=6.65E-8 9                                             
+236U   L 3434      7  (0+)              20 NS     LT                            
+236U X L XREF=K                                                                 
+236U  cL J$(E0) to 2750-keV, 0+ isomer; bandhead of |b band in second minimum   
+236U  cL T$from {+236}U(d,pn|g).                                                
+236U   G 684.5     7            (E0)                                            
+236U  cG E,M$from {+236}U(d,pn|g).                                              
+236U   L 3550.0    17 24+               0.41 PS   8                         A   
+236U X L XREF=O                                                                 
+236U F L FLAG=O                                                                 
+236U 2 L BE2=6.3 12                                                             
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 22+ and g.s. band member                                    
+236U   G 469       1  100       E2                      0.05528                 
+236U F G FLAG=DK                                                                
+236U S G KC=0.0324 5$LC=0.01678 26$MC=0.00442 7$NC=0.001196 19$OC=0.000281 4$   
+236U S G PC=4.96E-5 8$QC=1.682E-6 25                                            
+236U B G BE2W=6.7E+2 13                                                         
+236U   L 4039.0    20 26+               0.33 PS   9                         A   
+236U X L XREF=O                                                                 
+236U F L FLAG=O                                                                 
+236U 2 L BE2=6.3 16                                                             
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 24+ and g.s. band member                                    
+236U   G 489       1  100       E2                      0.04987                 
+236U F G FLAG=DK                                                                
+236U S G KC=0.0300 4$LC=0.01465 23$MC=0.00385 6$NC=0.001041 16$OC=0.000245 4$   
+236U S G PC=4.34E-5 7$QC=1.541E-6 23                                            
+236U B G BE2W=6.7E+2 19                                                         
+236U   L 4549.0    22 28+               0.17 PS   7                         A   
+236U X L XREF=O                                                                 
+236U F L FLAG=O                                                                 
+236U 2 L BE2=10 4                                                               
+236U  cL BE2$from Coul. ex.                                                     
+236U  cL J$E2 |g to 26+ and g.s. band member                                    
+236U   G 510       1  100       E2                      0.04517                 
+236U F G FLAG=DK                                                                
+236U S G KC=0.0278 4$LC=0.01281 20$MC=0.00335 5$NC=0.000907 14$OC=0.0002137 33$ 
+236U S G PC=3.80E-5 6$QC=1.411E-6 21                                            
+236U B G BE2W=1.1E+3 5                                                          
+236U   L 5077      4  (30+)                                                 A   
+236U X L XREF=O                                                                 
+236U  cL J$member of g.s. band member                                           
+236U   G 528       AP 100       (E2)                    0.04166                 
+236U F G FLAG=D                                                                 
+236U S G KC AP 0.0261$LC AP 0.01149$MC AP 0.00300$NC AP 0.000812$               
+236U S G OC AP 0.0001913$PC AP 3.41E-5$QC AP 1.313E-6                           
+236U  cG M$from in-band transition of ground-state band in Coul. ex.            

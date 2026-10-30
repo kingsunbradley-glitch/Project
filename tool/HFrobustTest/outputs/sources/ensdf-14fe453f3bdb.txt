@@ -1,0 +1,36 @@
+257NO    ADOPTED LEVELS                                          13NDS    201309
+257NO  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+257NO2 H CUT=1-Mar-2012$                                                        
+257NO D  Modified by E. Browne (March 30, 2012)                                 
+257NO  Q -2357     45 5645   104495    SY8477    6     2012WA38                 
+257NO cQ $|DS(p)=123 syst (2012Wa38)                                            
+257NO c                                                                         
+257NO c  Calculations, compilations:                                            
+257NO c  Binding energy: 1997Pa22                                               
+257NO c  Favored |a decay: 1993Bu09                                             
+257NO c  Ground state properties: 1997Mo25, 1995Mo29                            
+257NO c  Single-particle Nilsson states: 2005Pa13, 2003Be67, 1994Cw02           
+257NO c  Q(|a), half-life: 2012Po01, 2011Ad15, 2010Si27, 2009Do22, 2009Sa25,    
+257NO2c  2008Do12, 2007Sa28, 2007Zh41, 2006Ma78, 2006Ma78, 2006Ch63, 2001Re13.  
+257NO3c  S(n): 2004Pa31, 2003Ga34.                                              
+257NO c                                                                         
+257NO c  1994Cw02 have calculated the following single-particle level sequence: 
+257NO2c  g.s., 1/2[620]; 0.01 MeV, 3/2[622]; 0.09 MeV, 11/2[725]; 0.12 MeV,     
+257NO3c  7/2[613]; 0.47 MeV, 9/2[615].                                          
+257NO  XA261RF A DECAY (70 S)                                                   
+257NO  XB261RF A DECAY (2.1 S)                                                  
+257NO  L 0           (3/2+)            24.5 S    5                              
+257NOX L XREF=AB                                                                
+257NO2 L %A=85 15$%EC LE 30$%SF LT 1.5                                          
+257NO cL           Only |a decay has been observed. %SF from T{-1/2}(SF)>28 min 
+257NO2cL (2000Ho27,2000La34). %|e estimated in 2002Ho11.                        
+257NO dL           Calculated T{-1/2}(|a)|?200 s (1990Ha26)                     
+257NO cL J         Favored |a decay to 3/2+ {I3}/2[622] at 124 keV              
+257NO2cL in {+253}Fm (2005As05).                                                
+257NO cL T         From 2005As05. Other values: 24 s {I3} (2011Ha13),           
+257NO2cL 26 s {I2} (1970Es02), 23 s {I2} (1967Gh01),                            
+257NO3cL 25 s {I3} (2000La34).                                                  
+257NO cL           Calculated T{-1/2}(SF)|?30 s (1985Lo17).                     
+257NO  L   0.0+X                                                                
+257NOX L XREF=A                                                                 
+257NO cL E         x=239 {I36} from {+261}Rf |a decay (70 s)                    

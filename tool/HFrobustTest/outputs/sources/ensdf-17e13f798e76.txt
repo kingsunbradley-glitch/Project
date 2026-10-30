@@ -1,0 +1,224 @@
+248CF    ADOPTED LEVELS, GAMMAS                                  25NDS    202507
+248CF  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 204, 374 (2025)$CUT=30-Jun-2024$     
+248CF dG $Transition strength is calculated by Java-RULER (version 08-Feb-2024) 
+248CF dL E$Least-squares fitting is done by GLSC (version 30-Jun-2025)          
+248CF  Q -3060     SY 6943   15 5541   7 6361    5     2021WA16                 
+248CF cQ $|DQ(|b{+-})=50 (syst,2021Wa16)                                        
+248CF cQ $S(2n)=12995 {I5}, S(2p)=9957 {I5} (2021Wa16)                          
+248CF  XA248BK B- DECAY (23.7 H)                                                
+248CF  XC252FM A DECAY                                                          
+248CF  XD249CF(D,T)                                                             
+248CF  XE249CF(18O,19OG)                                                        
+248CF cG E$Except where noted otherwise, the energies are from                  
+248CF2cG ({+18}O,{+19}O|g)                                                      
+248CF cL E$Except where noted otherwise, the energies are from (d,t)            
+248CF2cL and gamma data                                                         
+248CF cL J$Except where noted otherwise, the J|p assignments are from (d,t)     
+248CF2cL based on band assignments, which in turn are based on a comparison     
+248CF3cL of experimental and calculated cross sections at 90, 120, and          
+248CF4cL 135 degrees.                                                           
+248CF CL BAND(A)$K|p=0+ g.s. band                                               
+248CF CL BAND(B)$K|p=2- 9/2-[734],5/2+[622] band                                
+248CF CL BAND(C)$K|p=8- 9/2-[734],7/2+[624] band                                
+248CF CL BAND(D)$K|p=5- 9/2-[734],1/2+[631] band                                
+248CF CL BAND(E)$K|p=2- 9/2-[734],5/2+[622] band                                
+248CF CL BAND(F)$K|p=7- 9/2-[734],5/2+[622] band                                
+248CF CL BAND(G)$K|p=4- 9/2-[734],1/2+[631] band                                
+248CF CL BAND(H)$K|p=5+ 9/2-[734],1/2-[501] band                                
+248CF CL BAND(I)$K|p=4+ 9/2-[734],1/2-[501] band                                
+248CF CL BAND(J)$K|p=(3-) 9/2-[734],3/2+[631] band                              
+248CF CL BAND(K)$K|p=6- 9/2-[734],3/2+[631] band                                
+248CF CL BAND(L)$K|p=7+ 9/2-[734],5/2-[503] band                                
+248CF CL BAND(M)$K|p=2+ 9/2-[734],5/2-[503] band                                
+248CF CL BAND(N)$K|p=3+ 9/2-[734],3/2-[501] band                                
+248CF CL BAND(O)$K|p=6+ 9/2-[734],3/2-[501] band                                
+248CF DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+248CF PN                                                                     6  
+248CF  L 0.0          0+               333.5 D   28                         A   
+248CF2 L %A=99.9971 3$%SF=0.0029 3                                              
+248CF cL T,%SF$1973Hu01 report T{-1/2}=333.5 d {I28} and |a/SF=3.5|*10{+4} {I3}.
+248CF2cL These data give T{-1/2}(SF)=3.2|*10{+4} y {I3} (recommended by         
+248CF3cL 2000Ho27). Other T{-1/2}(SF): 4.1|*10{+4} y {I4} (1968Sk01)            
+248CFX L XREF=ACDE                                                              
+248CF  L 41.53     6  2+                                                    A   
+248CFX L XREF=ACDE                                                              
+248CF cL J$HF=3.8 from 0+ ({+252}Fm |a decay)                                   
+248CF  G 41.53     6 100                                                        
+248CF cG E$from {+252}Fm |a decay                                               
+248CF  L 137.81    9  4+                                                    A   
+248CFX L XREF=CDE                                                               
+248CF  G 96.28     6 100                                                        
+248CF cG E$from {+252}Fm |a decay                                               
+248CF  L 287.51    13 6+                                                    A   
+248CFX L XREF=CDE                                                               
+248CF  G 149.7     1 100       (E2)                    3.69    5                
+248CFS G  KC=0.1479 21$LC=2.55 4$MC=0.726 10                                    
+248CFS G  NC=0.2043 29$OC=0.0507 7$PC=0.00821 12$QC=4.46E-5 6                   
+248CF cG M$from gamma-ray asymmetry in ({+18}O,{+19}O|g)                        
+248CF  L 488.11    17 8+                                                    A   
+248CFX L XREF=DE                                                                
+248CF  G 200.6     1 100       (E2)                    1.129  16                
+248CFS G  KC=0.1403 20$LC=0.714 10$MC=0.2018 29                                 
+248CFS G  NC=0.0567 8$OC=0.01410 20$PC=0.002318 33$QC=1.792E-5 25               
+248CF cG M$from gamma-ray asymmetry in ({+18}O,{+19}O|g)                        
+248CF  L 592.23    12 2-               4.64 NS   14                         B   
+248CFX L XREF=ADE                                                               
+248CF cL J$E1 550.7|g to 2+ 41.5-keV. log| {Ift}=7.1 from 1(-).                 
+248CF2cL No feeding to 0+ or 4+                                                 
+248CF cL T$from ({+18}O,{+19}O|g)                                               
+248CF  G 550.7     1 100       E1                      0.0136519                
+248CFS G  KC=0.01086 15$LC=0.002093 29$MC=0.000508 7                            
+248CFS G  NC=0.0001398 20$OC=3.59E-5 5$PC=6.70E-6 9$QC=3.47E-7 5                
+248CF cG E,M$from {+248}Bk |b{+-} decay (23.7 h)                                
+248CFB G BE1W=2.18E-7 7                                                         
+248CF  L 630       1  3-                                                    B   
+248CF DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+248CFX L XREF=DE                                                                
+248CF  L 677       1  4-                                                    B   
+248CFX L XREF=DE                                                                
+248CF  L 735       1  5-                                                    B   
+248CFX L XREF=DE                                                                
+248CF  L 737.4     5  10+                                                   A   
+248CFX L XREF=E                                                                 
+248CF  G 249.3     5 100                                                        
+248CF  L 779       2                                                            
+248CFX L XREF=D                                                                 
+248CF cL E$from (d,t)                                                           
+248CF  L 806       1  6-                                                    B   
+248CFX L XREF=DE                                                                
+248CF  L 885       1  7-                                                    B   
+248CFX L XREF=DE                                                                
+248CF  L 0.90E3    30                  139 NS    GT                          M ?
+248CF DL E         LEVEL ENERGY HELD FIXED IN LEAST-SQUARES ADJUSTMENT          
+248CFX L XREF=E                                                                 
+248CF cL E,T$from ({+18}O,{+19}O|g)                                             
+248CF  L 947.80    10                  11.64 NS  35                            ?
+248CFX L XREF=E                                                                 
+248CF cL E,T$from ({+18}O,{+19}O|g)                                             
+248CF  G 47.8      1 100       E1                      1.000  15                
+248CFS G  LC=0.744 11$MC=0.1896 29                                              
+248CFS G  NC=0.0517 8$OC=0.01253 19$PC=0.001857 28$QC=4.80E-5 7                 
+248CF cG M$from conversion coefficent data in {+248}Cf |b{+-} decay             
+248CFB G BE1W=6.74E-5 21                                                        
+248CF  L 979       2  8-                                                    B   
+248CFX L XREF=DE                                                                
+248CF  L 1021.83   32                                                           
+248CFX L XREF=DE(?)                                                             
+248CF  G 429.6     3 100                                                       ?
+248CF  L 1048      2                                                            
+248CFX L XREF=D                                                                 
+248CF  L 1079      2                                                            
+248CFX L XREF=D                                                                 
+248CF  L 1112      2                                                            
+248CFX L XREF=D                                                                 
+248CF  L 1179      2                                                            
+248CFX L XREF=D                                                                 
+248CF  L 1261      2  8-                                                    C   
+248CFX L XREF=D                                                                 
+248CF  L 1293      2                                                            
+248CFX L XREF=D                                                                 
+248CF  L 1319.2    10                                                           
+248CFX L XREF=DE                                                                
+248CF  G 727         100                                                       ?
+248CF  L 1351      2  9-                                                    C   
+248CFX L XREF=D                                                                 
+248CF  L 1408.90   14                                                           
+248CFX L XREF=DE(1.40E3)                                                        
+248CF  G 461.1     1 100                                                        
+248CF  L 1432      2                                                            
+248CFX L XREF=D                                                                 
+248CF  L 1463      1  5-                                                    D   
+248CFX L XREF=D                                                                 
+248CF  L 1477      2  2-                                                    E   
+248CFX L XREF=DE                                                                
+248CF  L 1507.2    10 3-                                                    E   
+248CFX L XREF=DE                                                                
+248CF  G 915         100                                                       ?
+248CF  L 1530      1  6-                                                    D   
+248CFX L XREF=D                                                                 
+248CF  L 1556.0    10 4-                                                    E   
+248CFX L XREF=DE                                                                
+248CF  G 926         100                                                       ?
+248CF  L 1571.6    5                                                           ?
+248CFX L XREF=E                                                                 
+248CF  G 979.4     5 100                                                       ?
+248CF  L 1577      1  7-                                                    F   
+248CFX L XREF=D                                                                 
+248CF  L 1605      1  7-                                                    D   
+248CFX L XREF=D                                                                 
+248CF  L 1621      1  5-                                                    E   
+248CFX L XREF=D                                                                 
+248CF  L 1634.2    6                                                           ?
+248CFX L XREF=E                                                                 
+248CF  G 1042.0    6 100                                                       ?
+248CF  L 1640      1  4-                                                    G   
+248CFX L XREF=D                                                                 
+248CF  L 1663      1  8-                                                    F   
+248CFX L XREF=D                                                                 
+248CF  L 1686      3  6-                                                    E   
+248CFX L XREF=D                                                                 
+248CF  L 1698      2  5-                                                    G   
+248CFX L XREF=D                                                                 
+248CF  L 1731      2  8-                                                    D   
+248CFX L XREF=D                                                                 
+248CF  L 1766      2  6-                                                    G   
+248CFX L XREF=D                                                                 
+248CF  L 1781      3  9-                                                    F   
+248CFX L XREF=D                                                                 
+248CF  L 1839      3  (9-)                                                  D   
+248CFX L XREF=D                                                                 
+248CF  L 1852      1  7-                                                    G   
+248CFX L XREF=D                                                                 
+248CF  L 1927      1  5+                                                    H   
+248CFX L XREF=D                                                                 
+248CF  L 1946      3  8-                                                    G   
+248CFX L XREF=D                                                                 
+248CF  L 1968      1                                                            
+248CFX L XREF=D                                                                 
+248CF  L 1992      1  6+                                                    H   
+248CFX L XREF=D                                                                 
+248CF  L 2018      3                                                            
+248CFX L XREF=D                                                                 
+248CF  L 2072      1  4+                                                    I   
+248CFX L XREF=D                                                                 
+248CF  L 2105      1  (4-)                                                  J   
+248CFX L XREF=D                                                                 
+248CF  L 2131      1  5+                                                    I   
+248CFX L XREF=D                                                                 
+248CF  L 2161      2  (5-)                                                  J   
+248CFX L XREF=D                                                                 
+248CF  L 2184      2  6-                                                    K   
+248CFX L XREF=D                                                                 
+248CF  L 2207      1  6+                                                    I   
+248CFX L XREF=D                                                                 
+248CF  L 2241      1  7+                                                    L   
+248CFX L XREF=D                                                                 
+248CF  L 2262      1  (7-)                                                  K   
+248CFX L XREF=D                                                                 
+248CF  L 2281      2  2+                                                    M   
+248CFX L XREF=D                                                                 
+248CF  L 2314      2  3+                                                    M   
+248CFX L XREF=D                                                                 
+248CF  L 2368      2  (4+)                                                  M   
+248CFX L XREF=D                                                                 
+248CF  L 2404      2  (5+)                                                  M   
+248CFX L XREF=D                                                                 
+248CF  L 2463      2                                                            
+248CFX L XREF=D                                                                 
+248CF  L 2495.2    14                                                           
+248CFX L XREF=DE                                                                
+248CF  G 1176        100                                                       ?
+248CF  L 2512      1  3+                                                    N   
+248CFX L XREF=D                                                                 
+248CF  L 2533      1                                                            
+248CFX L XREF=D                                                                 
+248CF  L 2557      1  4+                                                    N   
+248CFX L XREF=D                                                                 
+248CF  L 2580      1                                                            
+248CFX L XREF=D                                                                 
+248CF  L 2602      1  6+                                                    O   
+248CFX L XREF=D                                                                 
+248CF  L 2634      2  (5+)                                                  N   
+248CFX L XREF=D                                                                 
+248CF  L 2682      2  (7+)                                                  O   
+248CFX L XREF=D                                                                 

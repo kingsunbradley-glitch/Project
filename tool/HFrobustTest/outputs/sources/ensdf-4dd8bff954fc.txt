@@ -1,0 +1,181 @@
+236PU    ADOPTED LEVELS, GAMMAS                                  22NDS    202205
+236PU  H TYP=FUL$AUT=Shaofei Zhu$CIT=NDS 182, 2 (2022).$CUT=1-Apr-2022$         
+236PU  Q -3139     SY 7352   21 5430.5 18 5867.15 8    2021WA16                 
+236PU cQ $|DQ(|b{+-})=120 (2021Wa16)                                            
+236PU cQ $S(2n)=13591 {I7}, S(2p)=9821.4 {I16} (2021Wa16)                       
+236PU cL E$Deduced by the evaluator from a least-squares fit to |g-ray          
+236PU2cL energies.                                                              
+236PU cL J$From band structure, unless indicated otherwise.                     
+236PU CL BAND(A)$K|p=0+ g.s. rotational band. Band assignment                   
+236PU2cL from energy systematics (1983Ha31).                                    
+236PU CL BAND(B)$K|p=0- octupole vibrational band. Assignment based on          
+236PU2cL decay branching ratio to g.s. band (2005As01).                         
+236PU CL BAND(C)$KPI=0- (PI, 5/2[523])(PI, 5/2[642]), from SYST with 240PU      
+236PU2cL (2005As01)                                                             
+236PU cG E(Z),RI(Z)$From {+235}U(|a,3n|g)                                       
+236PU cG E(X),RI(X)$From {+236}Am |e decay (2.9 min)                            
+236PU cG E(Y),RI(Y)$From {+236}Am |e decay (3.6 min)                            
+236PU cG E(W),RI(W)$From {+237}Np({+209}Bi,{+210}Pb|g).                         
+236PU D  CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+236PU  XA236NP B- DECAY (155E+3 Y)                                              
+236PU  XB236NP B- DECAY (22.5 H)                                                
+236PU  XC240CM A DECAY                                                          
+236PU  XD236AM EC DECAY (3.6 M)                                                 
+236PU  XE236AM EC DECAY (2.9 M)                                                 
+236PU  XF235U(A,3NG)                                                            
+236PU  XG237NP(209BI,210PBG)                                                    
+236PU  L 0            0+                2.858 Y   8                         A   
+236PUX L XREF=ABCDEFG                                                           
+236PU2 L %A=100$%SF=1.9E-7 4                                                    
+236PU cL %SF$from T{-1/2}(SF)=1.5|*10{+9} y {I3} as unweighted average of       
+236PU2cL 3.5|*10{+9} y {I10} (1952Gh27), 2.09|*10{+9} y {I6} (1988SeZY),        
+236PU3cL 1.36|*10{+9} y {I20} (1990Og01,1995Hu21) and 1.13|*10{+9} y {I13}      
+236PU4cL (1995Hu21).                                                            
+236PU cL T$weighted average of 2.851 y {I8} (1957Ho66) and 2.866 y {I9}         
+236PU2cL (1984Na30). Other value: 2.7 y {I3} (1949Ja01).                        
+236PU cL ${+236}Pu decay by {+28}Mg emission observed by 1995Hu21 (15 tracks),  
+236PU2cL 1990Og01 (two {+28}Mg tracks). Partial T{-1/2}=1.06|*10{+14} y {I28}   
+236PU3cL (1995Hu21), |?1.5|*10{+14} y (1990Og01). T{-1/2}({+28}Mg,              
+236PU4cL Calculated)= 4.12|*10{+13} y (Cluster model,1994Bu07), 2.52|*10{+12} y 
+236PU5cL (Effective liquid drop model, 1993Go18).                               
+236PU  L 44.63     9  2+                                                    A   
+236PUX L XREF=ABCDEFG                                                           
+236PU  G 44.63     10 100       E2                      741   13                
+236PUS G LC=538 10$MC=150.1 27$NC=41.2 7$OC=9.69 17$PC=1.515 27$QC=0.00326 6    
+236PU cG E,RI,M$from {+236}Np |b{+-} decay (22.5 h)                             
+236PU  L 147.45    9  4+                                                    A   
+236PUX L XREF=ACDEFG                                                            
+236PU  G 102.82    2  100       [E2]                    13.87 19                
+236PUS G LC=10.06 14$MC=2.82 4$NC=0.775 11$OC=0.1826 26$PC=0.0291 4$            
+236PUS G QC=0.0001055 15                                                        
+236PU cG E,RI$from {+236}Np |b{+-} decay (153|*10{+3} y)                        
+236PU  L 305.80    10 6+                                                    A   
+236PUX L XREF=ACDFG                                                             
+236PU  G 158.35    2  100       E2                      2.139 30                
+236PUS G KC=0.1927 27$LC=1.413 20$MC=0.394 6$NC=0.1084 15$OC=0.0256 4$          
+236PUS G PC=0.00414 6$QC=2.465E-5 35                                            
+236PU cG E,RI$from {+236}Np |b{+-} decay (153|*10{+3} y)                        
+236PU cG M$from {+235}U(|a,3n|g).                                               
+236PU  L 515.70    22 8+                                                    A   
+236PUX L XREF=FG                                                                
+236PU  G 209.9     2  100       E2                      0.714 10                
+236PUF G FLAG=Z                                                                 
+236PUS G KC=0.1402 20$LC=0.417 6$MC=0.1157 17$NC=0.0318 5$OC=0.00753 11$        
+236PUS G PC=0.001235 18$QC=1.096E-5 16                                          
+236PU cG M$from {+235}U(|a,3n|g).                                               
+236PU  L 698.31    12 1-                                                    B   
+236PUX L XREF=E                                                                 
+236PU  G 653.68    12 100    15 [E1]                   0.0086512                
+236PUF G FLAG=X                                                                 
+236PUS G KC=0.00699 10$LC=0.001254 18$MC=0.000300 4$NC=8.12E-5 11$              
+236PUS G OC=2.004E-5 28$PC=3.72E-6 5$QC=2.229E-7 31                             
+236PU  G 698.3     2  71     11 [E1]                   0.0076611                
+236PUF G FLAG=X                                                                 
+236PUS G KC=0.00620 9$LC=0.001104 15$MC=0.000264 4$NC=7.15E-5 10$               
+236PUS G OC=1.765E-5 25$PC=3.28E-6 5$QC=1.985E-7 28                             
+236PU  L 758.02    17 3-                                                    B   
+236PUX L XREF=E                                                                 
+236PU  G 610.8     3  58     11 [E1]                   0.0098214                
+236PUF G FLAG=X                                                                 
+236PUS G KC=0.00792 11$LC=0.001431 20$MC=0.000343 5$NC=9.28E-5 13$              
+236PUS G OC=2.289E-5 32$PC=4.24E-6 6$QC=2.516E-7 35                             
+236PU  G 713.3     2  100    17 [E1]                   0.0073710                
+236PUF G FLAG=X                                                                 
+236PUS G KC=0.00597 8$LC=0.001060 15$MC=0.000254 4$NC=6.86E-5 10$               
+236PUS G OC=1.694E-5 24$PC=3.15E-6 4$QC=1.912E-7 27                             
+236PU  L 773.5     3  10+                                                   A   
+236PUX L XREF=FG                                                                
+236PU  G 257.8     2  100       [E2]                    0.346 5                 
+236PUF G FLAG=Z                                                                 
+236PUS G KC=0.1006 14$LC=0.1785 26$MC=0.0492 7$NC=0.01350 19$OC=0.00321 5$      
+236PUS G PC=0.000532 8$QC=6.41E-6 9                                             
+236PU  L 866.00    15 5-                                                    B   
+236PUX L XREF=D                                                                 
+236PU  G 560.3     2  43     8  [E1]                   0.0115616                
+236PUF G FLAG=Y                                                                 
+236PUS G KC=0.00931 13$LC=0.001699 24$MC=0.000408 6$NC=0.0001103 15$            
+236PUS G OC=2.72E-5 4$PC=5.02E-6 7$QC=2.94E-7 4                                 
+236PU  G 718.6     2  100    16 [E1]                   0.0072710                
+236PUF G FLAG=Y                                                                 
+236PUS G KC=0.00589 8$LC=0.001045 15$MC=0.0002502 35$NC=6.77E-5 9$              
+236PUS G OC=1.671E-5 23$PC=3.11E-6 4$QC=1.888E-7 26                             
+236PU  L 1074.3    4  12+                                                   A   
+236PUX L XREF=FG                                                                
+236PU  G 300.8     2  100       [E2]                    0.209730                
+236PUF G FLAG=Z                                                                 
+236PUS G KC=0.0769 11$LC=0.0970 14$MC=0.0265 4$NC=0.00729 10$OC=0.001735 25$    
+236PUS G PC=0.000291 4$QC=4.39E-6 6                                             
+236PU  L 1185.45   15 5-                1.2 US    3                          M  
+236PUX L XREF=D                                                                 
+236PUc L %IT=100                                                                
+236PU cL J$M1 |g to 5-; |g to 4+ and 6+; proposed as K-isomer with              
+236PU2cL configuration=((|p 5/2[523])(|p 5/2[642])), K|p=5- (2005As01)          
+236PU  G 319.50    11 66     10 M1(+E2)                 0.6   4                 
+236PUF G FLAG=Y                                                                 
+236PUS G KC=0.4 4$LC=0.12 4$MC=0.030 9$NC=0.0081 23$OC=0.0020 6$PC=3.6E-4 13$   
+236PUS G QC=1.8E-5 14                                                           
+236PU cG M$from {+236}Am |e decay (3.6 min)                                     
+236PU  G 879.7     2  100    14 [E1]                   0.005067                 
+236PUF G FLAG=Y                                                                 
+236PUS G KC=0.00412 6$LC=0.000717 10$MC=0.0001712 24$NC=4.63E-5 6$              
+236PUS G OC=1.145E-5 16$PC=2.144E-6 30$QC=1.334E-7 19                           
+236PUB G BE1W=9.0E-11 26                                                        
+236PU  G 1037.8    2  53     8  [E1]                   0.003805                 
+236PUF G FLAG=Y                                                                 
+236PUS G KC=0.00309 4$LC=0.000532 7$MC=0.0001268 18$NC=3.43E-5 5$OC=8.50E-6 12$ 
+236PUS G PC=1.596E-6 22$QC=1.010E-7 14                                          
+236PUB G BE1W=2.9E-11 9                                                         
+236PU  L 1311.51   23 (0-)                                                  C   
+236PUX L XREF=E                                                                 
+236PU cL J$from systematics with {+240}Pu.                                      
+236PU  G 613.2     2  100                                                       
+236PUF G FLAG=X                                                                 
+236PU  L 1340.82   19 (2-)                                                  C   
+236PUX L XREF=E                                                                 
+236PU cL J$from systematics with {+240}Pu.                                      
+236PU  G 582.8     2  100    15                                                 
+236PUF G FLAG=X                                                                 
+236PU  G 642.5     2  53     9                                                  
+236PUF G FLAG=X                                                                 
+236PU  L 1413.6    4  14+                                                   A   
+236PUX L XREF=FG                                                                
+236PU  G 339.3     2  100       [E2]                    0.145921                
+236PUF G FLAG=Z                                                                 
+236PUS G KC=0.0620 9$LC=0.0614 9$MC=0.01670 24$NC=0.00458 6$OC=0.001094 16$     
+236PUS G PC=0.0001850 26$QC=3.31E-6 5                                           
+236PU  L 1786.0    5  16+                                                   A   
+236PUX L XREF=FG                                                                
+236PU  G 372.4     3  100       [E2]                    0.112016                
+236PUF G FLAG=Z                                                                 
+236PUS G KC=0.0524 7$LC=0.0437 6$MC=0.01181 17$NC=0.00324 5$OC=0.000774 11$     
+236PUS G PC=0.0001319 19$QC=2.68E-6 4                                           
+236PU  L 2188.0    7  18+                                                       
+236PUX L XREF=G                                                                 
+236PU  G 402.0     5  100                                                       
+236PU  L 2615.7    9  20+                                                       
+236PUX L XREF=G                                                                 
+236PU  G 427.7     5  100                                                       
+236PUF G FLAG=W                                                                 
+236PU  L 3.E+3     AP (0+)              37 PS     4                             
+236PU2 L %SF LE 100                                                             
+236PU cL J$ground state in the second potential well from syst of fission       
+236PU2cL isomers (1974MeYP,1977Me08).                                           
+236PU cL E$from {+237}Np(p,2n) and {+234}U(|a,2n) (1974MeYP)                    
+236PU cL T$from 1977Me08 using {+234}U(|a,2n) reaction; other: 40 ps {I15}      
+236PU2cL (1974MeYP).                                                            
+236PU cL $Q(intrinsic)=37 b {I+14-8} (1977Me08).                                
+236PU cL %SF$no |g decay observed (1977Me08).                                   
+236PU  L 3063.7    10 22+                                                       
+236PUX L XREF=G                                                                 
+236PU  G 448.0     5  100                                                       
+236PUF G FLAG=W                                                                 
+236PU  L 3529.6    11 24+                                                       
+236PUX L XREF=G                                                                 
+236PU  G 465.9     5  100                                                       
+236PUF G FLAG=W                                                                 
+236PU  L 4.1E+3    2                    34 NS     8                             
+236PU2 L %SF LE 100                                                             
+236PU cL E,T$from {+237}Np(p,2n) (1969La14).                                    
+236PU cL J$not determined, possible two-quasi-particle K-isomer in the second   
+236PU2cL potential well from syst of fission isomers (1977Me08).                
+236PU cL %SF$no |g decay observed (1969La14).                                   

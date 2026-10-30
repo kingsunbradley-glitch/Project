@@ -1,0 +1,39 @@
+252MD    ADOPTED LEVELS                                          21NDS    202103
+252MD  H TYP=FUL$AUT=A.M. MATTERA, S. ZHU, A.B. HAYES, E.A. MCCUTCHAN$          
+252MD2 H CIT=NDS 172, 543 (2021)$CUT=1-Jan-2021$                                
+252MD  Q -2360     SY 6530   SY 2730   SY 7790    SY   2017WA10                 
+252MD cQ $|DQ(|b{+-})=130, |DS(n)=130, |DS(p)=130, |DQ(|a)=140 (2017Wa10)       
+252MD cQ $S(2n)=14260 (syst) {I330}; S(2p)=7290 (syst) {I160} (2017Wa10)        
+252MD cL E$Excited level energies are calculated from the |a energies measured  
+252MD2cL in {+256}Lr decay and Q(|a)({+256}Lr)|?8810, obtained by 2017Wa10      
+252MD3cL from Q(|a) systematics. 2017Wa10 estimate |DQ(|a)=140.                 
+252MD c  Assignment: {+243}Am({+13}C,4n) reaction (1973Es01),                   
+252MD2c  {+238}U({+19}F,5n) reaction (1965Do09), parent of {+252}Fm (7039-keV   
+252MD3c  |a from {+252}Fm) (1965Do09,1973Es01).                                 
+252MD c  Measured mass excess = 80467 keV {I89} (stat) {I22} (syst) using       
+252MD2c  multi-reflection tof (2018It04).                                       
+252MD  XA256LR A DECAY                                                          
+252MD  L 0.0                            2.3 M     8                             
+252MD2 L %EC LE 100                                                             
+252MD cL T$measured by 1973Es01; other measurement: T{-1/2}=8 min (1965Do09).   
+252MD cL $No |a decay from {+252}Md was observed by 1973Es01 and 1965Do09. The  
+252MD2cL |a decay of {+252}Fm was observed by 1965Do09 and 1973Es01 following   
+252MD3cL |e decay of {+252}Md. No upper limit was given for detection of any    
+252MD4cL |a from {+252}Md g.s. was given.                                       
+252MD cL $The theoretical calculations of 2019Mo01 yield                        
+252MD2cL T{-1/2}(|a)=1|*10{+4.38} s which corresponds to %|a=0.58. Authors of   
+252MD3cL 2019Mo01 calculate T{-1/2}(|b)>100 s for the partial-|b half-life for  
+252MD4cL Gamow-Teller |b decay.                                                 
+252MD cL J$possibly |n 9/2[734] + |p 7/2[514] orbitals coupled to 1+.           
+252MD  L 49        AP                                                           
+252MDX L XREF=A                                                                 
+252MD  L 158       AP                                                           
+252MDX L XREF=A                                                                 
+252MD  L 204       AP                                                           
+252MDX L XREF=A                                                                 
+252MD  L 246       AP                                                           
+252MDX L XREF=A                                                                 
+252MD  L 287       AP                                                           
+252MDX L XREF=A                                                                 
+252MD  L 359       AP                                                           
+252MDX L XREF=A                                                                 

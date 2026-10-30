@@ -1,0 +1,297 @@
+215FR    ADOPTED LEVELS, GAMMAS                                  13NDS    201312
+215FR  H TYP=FUL$AUT=A.K. Jain, S. Singh, B. Singh, N. Kaur, S. Lakshmai$       
+215FR2 H AUT=B. Maheshwari$                                                     
+215FR3 H CIT=NDS 114, 2023 (2013)$CUT=23-SEP-2013$                              
+215FR  Q -2216     10 6795   11 2651   11 9540   7     2012WA38                 
+215FR cQ $S(2n)=12272 {I9}, S(2p)=7680 {I8} (2012Wa38)                          
+215FR c                                                                         
+215FR c  {B{+215}Ac evaluated by A.K. Jain, S. Singh, B. Singh, N. Kaur,}       
+215FR2c  {BS. Lakshami, B. Maheshwari}                                          
+215FR c                                                                         
+215FR D  2011Sh27: cluster decay cross section calculations.                    
+215FR c  {+215}Fr identified (1961Gr43) in excitation function measurements in  
+215FR2c  {+208}Pb({+11}B,4n){+215}Fr reaction. 1970Bo13 identified {+215}Fr as  
+215FR3c  descendent of {+223}Pa, and estimated its half-life                    
+215FR c  All |g-ray and excited-state data are from the {+208}Pb({+11}B,4n|g)   
+215FR2c  dataset                                                                
+215FR cG $All data are from {+208}Pb({+11}B,4n|g).                              
+215FR cG E(R)$ The orderings of 133-107 cascade from 1813 level; 262-55 cascade 
+215FR2cG from 3069 level; 194-114-649 cascade from 3207 level; and 45-210       
+215FR3cG cascade from 3462 level are not established.                           
+215FR cL $The low-lying states of {+215}Fr result from the coupling of an       
+215FR2cL h{-9/2} proton to the 0+, 2+, 4+, 6+, and 8+ states of the even-even   
+215FR3cL core ({+214}Rn). The energies of these even-spin states are similar to 
+215FR4cL those of the 9/2, and (11/2,13/2), (15/2,17/2), (21/2,19/2) doublets   
+215FR5cL in {+215}Fr. The long-range |a particle groups emitted from these      
+215FR6cL states in {+215}Fr are analogous to those emitted from the g.s., 4+,   
+215FR7cL 6+, and 8+ states in {+216}Ra.                                         
+215FR cL $ First level scheme of {+215}Fr with four excited states was reported 
+215FR2cL by 1982GoZU (also 1983GoZX). 1984De16 extended the level scheme up to  
+215FR3cL 3068 level with 20 gamma rays. A contemporary study by 1984Sc25        
+215FR4cL produced a level scheme up to 3462 level with 26 gamma rays; the       
+215FR5cL level scheme up to 3068-keV level almost the same as in 1984De16.      
+215FR6cL 1985Dr04 measured polarization asymmetries for several of the gamma    
+215FR7cL rays, establishing definite multipolarities. They reported 21 gamma    
+215FR8cL rays and essentially confirmed the earlier level schemes of 1984De16   
+215FR9cL and 1984Sc25. In the opinion of the evaluators, further work is needed 
+215FRAcL to define the ordering of the cascades above 2251 level                
+215FR cL E$ From a least-squares fit of |g-ray energies                         
+215FR cL E(A)$ The orderings of 133-107 cascade from 1813 level; 262-55 cascade 
+215FR2cL from 3069-keV level; 194-114-649 cascade from 3207 level; and 45-210   
+215FR3cL cascade from 3462 level are not established. The level energies        
+215FR4cL for the intermediate levels can be different for alternate orderings   
+215FR cL J$ As proposed in 1985Dr04, 1984Sc25 and 1984De16 based on |g(|q),     
+215FR2cL |g(lin pol), ce, and transition probabilities. Multiple quasi-particle 
+215FR3cL shell model configurations presented here are from 1984Sc25.           
+215FR  XA219AC A DECAY (11.8 US)                                                
+215FR  XB208PB(11B,4NG)                                                         
+215FR PN                                                                     6  
+215FR  L        0.0    9/2-            86 NS     5                              
+215FR2 L %A=100                                                                 
+215FRX L XREF=AB                                                                
+215FR cL $ RMS charge radius <r{+2}>{+1/2}=5.620 fm {I20}; deduced from         
+215FR2cL interpolation of evaluated rms charge radii of {+212}Fr to {+228}Fr    
+215FR3cL (2013An02), with slope k{-z}=0.36 in formula 9 of 2004An14. Value has  
+215FR4cL been adjusted upward by 0.004 fm to account for slight difference in   
+215FR5cL the systematics trend of deduced rms radii for A=215, and evaluated    
+215FR6cL values in 2013An02 for A=210 isotopes                                  
+215FR cL J$favored |a decay (HF|?1) to {+211}At (J|p=9/2-).                     
+215FR cL T$ from slope of |a-decay time spectrum fitted to two components:      
+215FR2cL 86 ns and 30 ns (1984De16). Others: 104 ns {I16} (1984Sc25, slope of   
+215FR3cL time spectrum); 0.12 |ms {I2} (1974No02, measured for |?90 ns only),   
+215FR4cL <0.5 |ms (1970Bo13). Weighted average of all results is 89 ns {I6}     
+215FR cL $Configuration=|p1h{-9/2}~#0+                                          
+215FR cL $No |e decay. Evaluators calculated %|e+%|b{++}=1.0|*10{+-8} for       
+215FR2cL logft=5.0. %|e+%|b{++}<1.0|*10{+-8}, theory (1973Ta30).                
+215FR  L 670.34    13 (13/2)-                                                   
+215FRX L XREF=B                                                                 
+215FR cL J$ 670|g E2 to 9/2-. Configuration=|p1h{-9/2}~#2+.                     
+215FR  G 670.35    15 100       E2                      0.0191                  
+215FRS G KC=0.01387 20$LC=0.00394 6$MC=0.000984 14$NC=0.000258 4$OC=5.60E-5 8$  
+215FRS G PC=8.34E-6 12$QC=3.06E-7 5                                             
+215FR  L 699.97    13 (11/2)-                                                   
+215FRX L XREF=B                                                                 
+215FR cL J$ 700|g M1+E2 to 9/2-. Configuration=|p1h{-9/2}~#2+                   
+215FR  G 699.95    15 100       M1+E2     -3.8   5      0.020610                
+215FRS G KC=0.0155 9 $LC=0.00390 13$MC=0.00096 3$NC=0.000252 8 $OC=5.51E-5 18$  
+215FRS G PC=8.3E-6 3$QC=3.41E-7 19                                              
+215FR  L 835.43    14 (13/2)+                                                   
+215FR2 L %A=4.3 15                                                              
+215FRX L XREF=B                                                                 
+215FR cL J$ 135|g E1 to (11/2)-.                                                
+215FR cL %A$ deduced by evaluators from I|a(10160)/I|a(total)=                  
+215FR2cL 3.8% {I15} (1984Sc25), and renormalizing g.s. |a branch from 87.7%     
+215FR3cL to 100%.                                                               
+215FR  G 135.41    15 100    4 (E1)                     0.227                   
+215FRS G KC=0.179 3$LC=0.0366 6$MC=0.00876 13$NC=0.00227 4$OC=0.000488 7$       
+215FRS G PC=7.12E-5 10$QC=2.80E-6 4                                             
+215FR  G 164.96    15  56.8  25 (E1)                    0.1402                  
+215FRS G KC=0.1113 16$LC=0.0219 3$MC=0.00523 8$NC=0.001357 20$OC=0.000293 5$    
+215FRS G PC=4.34E-5 7$QC=1.79E-6 3                                              
+215FR  L 1121.51   17 (17/2)-                                                   
+215FR2 L %A=0.9 1                                                               
+215FRX L XREF=B                                                                 
+215FR cL J$ 451|g E2 to (13/2)-. Configuration=|p1h{-9/2}~#4+                   
+215FR cL %A$ for 1121 and/or 1149 levels; deduced by evaluators from            
+215FR2cL I|a(10460)/I|a(total)=0.8% {I1} (1984Sc25), and renormalizing g.s.     
+215FR3cL |a branch from 87.7% to 100%.                                          
+215FR  G 451.23    15 100       E2                      0.0473                  
+215FRS G KC=0.0300 5$LC=0.01294 19$MC=0.00333 5$NC=0.000873 13$OC=0.000187 3$   
+215FRS G PC=2.67E-5 4$QC=6.88E-7 10                                             
+215FR  L 1149.04   14 (15/2)-                                                   
+215FR2 L %A=0.9 1                                                               
+215FRX L XREF=B                                                                 
+215FR cL J$ 479|g M1+E2 to (13/2)-. Configuration=|p1h{-9/2}~#4+                
+215FR cL %A$ for 1121 and/or 1149 levels; deduced by evaluators from            
+215FR2cL I|a(10460)/I|a(total)=0.8% {I1} (1984Sc25), and renormalizing g.s.     
+215FR3cL |a branch from 87.7% to 100%.                                          
+215FR  G 27.5      2            (M1)                    124   4                S
+215FR cG E$from level-energy difference.                                        
+215FR  G 313.41    15 16.7   7  E1                      0.031                   
+215FR cG RI$ from 1984Sc25. Others: 24 {I4} (1984De16), 45.4 {I17} (1985Dr04);  
+215FR2cG the latter in severe disagreement                                      
+215FRS G KC=0.0251 4$LC=0.00450 7$MC=0.001067 15$NC=0.000277 4$OC=6.08E-5 9$    
+215FRS G PC=9.31E-6 13$QC=4.38E-7 7                                             
+215FR  G 449.11    15 100.0  24 E2                      0.0479                  
+215FRS G KC=0.0302 5$LC=0.01314 19$MC=0.00338 5$NC=0.000887 13$OC=0.000190 3$   
+215FRS G PC=2.71E-5 4$QC=6.95E-7 10                                             
+215FR  G 478.80    15 76     5  M1+E2     -3.8   +5-4   0.050 3                 
+215FR cG RI$ other: 100 {I12} (1984De16) is in disagreement                     
+215FRS G KC=0.0345 24$LC=0.0117 4$MC=0.00297 8$NC=0.000778 22$OC=0.000168 5$    
+215FRS G PC=2.45E-5 8$QC=7.8E-7 6                                               
+215FR  L 1440.02   18 (19/2)-            4 NS    2                              
+215FR2 L MOMM1=3.1 9 (1984De16)                                                 
+215FR2 L %A=4.7 4                                                               
+215FRX L XREF=B                                                                 
+215FR cL J$ 318|g M1+E2 to (17/2)-. Configuration=|p1h{-9/2}~#6+                
+215FR cL MOMM1$ from g factor=0.33 {I10}, DPAD of |g rays (1984De16), value is  
+215FR2cL for 1440 and/or 1573 level                                             
+215FR cL %A$ deduced by evaluators from I|a(10740)/I|a(total)=4.1% {I3}         
+215FR2cL (1984Sc25), and renormalizing g.s. |a branch from 87.7% to 100%.       
+215FR cL T$ |g|g(t) (1984De16), value is for 1440 and/or 1573 level             
+215FR2cL 10789 (1984De16)                                                       
+215FR  G 290.93    15 100    3  E2                      0.1590                  
+215FRS G KC=0.0746 11$LC=0.0625 9$MC=0.01653 24$NC=0.00434 6$OC=0.000914 13$    
+215FRS G PC=0.0001248 18$QC=1.81E-6 3                                           
+215FRB G BE2W=0.6 4                                                             
+215FR  G 318.52    15 22     3  M1+E2     +10    +6-2   0.125 4                 
+215FR cG RI$ unweighted average of values in 1984Sc25 and 1985Dr04              
+215FRS G KC=0.0654 25$LC=0.0446 7$MC=0.01171 17$NC=0.00307 5$OC=0.000650 10$    
+215FRS G PC=8.97E-5 14$QC=1.56E-6 6                                             
+215FRB G BM1W=3.E-7 +4-3$BE2W=0.09 5                                            
+215FR  L 1457.36   21 (21/2)-                                                   
+215FRX L XREF=B                                                                 
+215FR cL J$ 336|g E2 to (17/2)-. Configuration=|p1h{-9/2}~#6+                   
+215FR  G 335.88    15 100        E2                     0.1039                  
+215FRS G KC=0.0550 8$LC=0.0363 5$MC=0.00952 14$NC=0.00250 4$OC=0.000529 8$      
+215FRS G PC=7.31E-5 11$QC=1.309E-6 19                                           
+215FR  L 1573.10   21 (23/2)-           3.5 NS    14                            
+215FR2 L %A=4.1 4                                                               
+215FR2 L MOMM1=3.8 12 (1984Sc25)                                                
+215FRX L XREF=B                                                                 
+215FR cL J$ 115.8|g M1 to (21/2)-.                                              
+215FR2cL Configuration=|p1h{-9/2}{+5}~#|n2g{-9/2}{+1}~#|n1i{-11/2}{+1}.         
+215FR3cL Theoretical g-factor=0.12 (1984Sc25) for the assigned shell-model      
+215FR4cL configuration                                                          
+215FR cL MOMM1$ from g factor=0.33 {I10}, DPAD of |g rays (1984De16), value is  
+215FR2cL for 1440 and/or 1573 level                                             
+215FR cL %A$ deduced by evaluators from I|a(10890)/I|a(total)=3.6% {I3}         
+215FR2cL (1984Sc25), and renormalizing g.s. |a branch from 87.7% to 100%.       
+215FR cL T$|g|g(t) centroid shift method (1984Sc25). Other value: 4 ns {I2},    
+215FR2cL |g|g(t) centroid shift method (1984De16) for 1440 and/or 1573 level    
+215FR  G 115.8     2  5.3    6  [M1]                    9.43                    
+215FRS G KC=7.59 12$LC=1.402 21$MC=0.334 5$NC=0.0876 13$OC=0.0196 3$            
+215FRS G PC=0.00314 5$QC=0.000175 3                                             
+215FRB G BM1W=5.1E-5 22                                                         
+215FR  G 133.05    15 100    9  E2                      2.67                @   
+215FRS G KC=0.315 5$LC=1.734 25$MC=0.469 7$NC=0.1230 18$OC=0.0256 4$            
+215FRS G PC=0.00332 5$QC=1.310E-5 19                                            
+215FRB G BE2W=12 5                                                              
+215FR  L 1680.6     3 (25/2-)                                               A  ?
+215FRX L XREF=B                                                                 
+215FR cL J$ 107.4|g M1(+E2) to (23/2)-.                                         
+215FR2cL Configuration=|p1h{-9/2}{+5}~#|n2g{-9/2}{+1}~#|n(1i{-11/2}{+1})        
+215FR  G 107.4     3  100       M1(+E2)                 11.66 19            R   
+215FR cG CC$ for M1                                                             
+215FRS G KC=9.37 15$LC=1.74 3$MC=0.415 7$NC=0.1089 18$OC=0.0243 4$PC=0.00390 7$ 
+215FRS G QC=0.000218 4$                                                         
+215FR  L 1813.62   25 (27/2)-           2.1 NS    14                            
+215FRX L XREF=B                                                                 
+215FR cL J$ 133|g M1+E2 to (25/2)-; 240.5|g E2 to (23/2)-.                      
+215FR2cL Configuration=|p(1h{-9/2}{+4},2f{-7/2}{+1})~#                          
+215FR3cL |n(2g{-9/2}{+1},1i{-11/2}{+1}). Theoretical g-factor=0.35 (1984Sc25)   
+215FR4cL for assigned configuration                                             
+215FR cL T$|g|g(t), |a|g(t) centroid shift method (1984Sc25).                   
+215FR  G 133.05    15 41     11 M1+E2    +0.50   +13-18 5.6   4             @   
+215FRF G FLAG=R                                                                 
+215FRS G KC=4.2 5$LC=1.10 8$MC=0.273 24$NC=0.072 7$OC=0.0156 13$PC=0.00235 13$  
+215FRS G QC=9.7E-5 11                                                           
+215FRB G BM1W=0.0004 3$BE2W=1.7 15                                              
+215FR  G 240.53    15 100    4  E2                      0.292                   
+215FRS G KC=0.1117 16$LC=0.1332 19$MC=0.0355 5$NC=0.00932 14$OC=0.00196 3$      
+215FRS G PC=0.000263 4$QC=2.83E-6 4                                             
+215FRB G BE2W=1.1 8                                                             
+215FR  L 2015.9     3 (29/2)+           4.7 NS    14                            
+215FR2 L MOMM1=6.8 29 (1984De16,1989Ra17,2011StZZ)                              
+215FRX L XREF=B                                                                 
+215FR cL J$202|g E1 to (27/2)-. Theoretical g-factor=0.43 (1984Sc25) for        
+215FR2cL configuration=|p(1h{-9/2}{+4},1i{-13/2}{+1})~#|n(2g{-9/2}{+1}) agrees  
+215FR3cL with experimental value                                                
+215FR cL MOMM1$ from g factor=0.47 {I20}, DPAD of |g rays (1984De16).           
+215FR cL T$|g|g(t) and/or |a|g(t) with centroid-shift method. Weighted average  
+215FR2cL of 5.5 ns {I14} (1984Sc25), and 3 ns {I2} (1984De16). Other:           
+215FR3cL 9.8 ns {I14} (1982GoZU) tentatively assigned to a 1612 level decaying  
+215FR4cL by 202|g, but this |g now deexcites a level at 2016 keV; also this     
+215FR5cL half-life may have contribution from higher-lying isomers at 3068 and  
+215FR6cL 3462 keV with half-lives of 14.6 ns and 22.9 ns, respectively          
+215FR  G 202.32    15 100       E1                      0.0858                  
+215FRS G KC=0.0686 10$LC=0.01305 19$MC=0.00311 5$NC=0.000807 12$                
+215FRS G OC=0.0001754 25$PC=2.63E-5 4$QC=1.136E-6 16                            
+215FRB G BE1W=4.5E-6 14                                                         
+215FR  L 2251.3     4 (33/2)+           5.3 NS    14                            
+215FR2 L MOMM1=7.8 17 (1984De16,1989Ra17,2011StZZ)                              
+215FRX L XREF=B                                                                 
+215FR cL J$ 235.4|g E2 to (29/2)+. Theoretical g-factor=0.49 (1984Sc25) for     
+215FR2cL configuration=|p(1h{-9/2}{+4},1i{-13/2}{+1})~#                         
+215FR3cL |n(2g{-9/2}{+1},1i{-11/2}{+1}) agrees with experimental value          
+215FR cL MOMM1$ from g factor=0.47 {I10}, DPAD of |g rays (1984De16).           
+215FR cL T$|g|g(t) and/or |a|g(t) with centroid-shift method. Weighted average  
+215FR2cL of 5.5 ns {I14} (1984Sc25), and 5 ns {I2} (1984De16)                   
+215FR  G 235.39    15 100       E2                      0.314                   
+215FRS G KC=0.1168 17$LC=0.1454 21$MC=0.0388 6$NC=0.01019 15$OC=0.00214 3$      
+215FRS G PC=0.000286 4$QC=2.98E-6 5                                             
+215FRB G BE2W=1.5 4                                                             
+215FR  L 2806.8     4 (35/2)-                                               A  ?
+215FRX L XREF=B                                                                 
+215FR cL J$ 555.5|g E1 to (33/2)+.                                              
+215FR2cL Configuration=|p(1h{-9/2}{+5})~#|n(2g{-9/2}{+1},1i{-11/2}{+1})         
+215FR  G 555.48    15 100       E1                     0.0092213            R   
+215FRS G KC=0.00755 11$LC=0.001270 18$MC=0.000299 5$NC=7.80E-5 11$              
+215FRS G OC=1.724E-5 25$PC=2.70E-6 4$QC=1.383E-7 20                             
+215FR  L 2900.4     4 (35/2-)                                               A  ?
+215FRX L XREF=B                                                                 
+215FR cL J$ predicted by shell model (1984Sc25) with configuration=             
+215FR2cL |p(1h{-9/2}{+4},2f{-7/2}{+1})~#|n(2g{-9/2}{+1},1i{-11/2}{+1}).         
+215FR3cL J|p=33/2(+) proposed in 1985Dr04                                       
+215FR  G 649.09    15 100       D+Q                                         R   
+215FR  L 3014.0     5 (37/2-)                                               A  ?
+215FRX L XREF=B                                                                 
+215FR cL J$ 113.7|g to (35/2-). Shell-model                                     
+215FR2cL configuration=|p(1h{-9/2}{+5})~#|n(2g{-9/2}{+1},1i{-11/2}{+1}).        
+215FR  G 113.7     3  100       [M1]                    9.94  16            R   
+215FRS G KC=7.99 13$LC=1.478 24$MC=0.352 6$NC=0.0924 15$OC=0.0206 4$            
+215FRS G PC=0.00331 6$QC=0.000185 3                                             
+215FR  L 3068.9     4 (39/2)-           14.6 NS   14                            
+215FR2 L MOMM1=9.2 4 (1984De16,1989Ra17,2011StZZ)                               
+215FRX L XREF=B                                                                 
+215FR cL J$ 818|g E3 to (33/2)+. Theoretical g-factor=0.41 (1984Sc25) for       
+215FR2cL configuration=|p(1h{-9/2}{+4},1i{-13/2}{+1})~#                         
+215FR3cL |n(1i{-11/2}{+1},1j{-15/2}{+1}) agrees with experimental value         
+215FR cL MOMM1$from g factor=0.47 {I2}, DPAD of |g rays (1984De16, corrected    
+215FR2cL for diamagnetism and Knight shift). Other: g=0.48 {I2}, DPAD of |a     
+215FR3cL particles (1984De16).                                                  
+215FR cL T$|g|g(t) (262|g-555|g time curves fitted to a two-level decay         
+215FR2cL formula) (1984Sc25). Other: 33 ns {I5} or 30 ns {I5} (1984De16),       
+215FR3cL which may correspond to the half-life of the isomer at 3462 keV.       
+215FR  G 262.01    15 100    3  E2                      0.220               R   
+215FRS G KC=0.0931 13$LC=0.0941 14$MC=0.0250 4$NC=0.00656 10$OC=0.001380 20$    
+215FRS G PC=0.000187 3$QC=2.31E-6 4                                             
+215FRB G BE2W=0.26 3                                                            
+215FR  G 817.53    15 34.4   16  (E3)                   0.0331                  
+215FRS G KC=0.0217 3$LC=0.00846 12$MC=0.00217 3$NC=0.000572 8$OC=0.0001238 18$  
+215FRS G PC=1.83E-5 3$QC=5.92E-7 9                                              
+215FRB G BE3W=27 3                                                              
+215FR  L 3207.5     5 (41/2-)                                                   
+215FRX L XREF=B                                                                 
+215FR cL J$ 193.6|g (E2) to (37/2-). Shell-model                                
+215FR2cL configuration=|p(1h{-9/2}{+5})~#|n(2g{-9/2}{+1},1i{-11/2}{+1}).        
+215FR  G 138.5     3  52     10 [M1]                    5.67                    
+215FRS G KC=4.56 7$LC=0.838 13$MC=0.200 3$NC=0.0524 8$OC=0.01171 18$            
+215FRS G PC=0.00188 3$QC=0.0001049 16$                                          
+215FR  G 193.6     2  100    20 (E2)                    0.622               R   
+215FRS G KC=0.1740 25$LC=0.330 5$MC=0.0887 13$NC=0.0233 4$OC=0.00486 8$         
+215FRS G PC=0.000643 10$QC=4.81E-6 7                                            
+215FR  L 3409.1     4  (41/2)                                                   
+215FRX L XREF=B                                                                 
+215FR cL J$ |DJ=1, dipole 340|g to (39/2)-                                      
+215FR  G 340.25    15 100       D                                               
+215FR  L 3417.1     5 (45/2-)                                               A  ?
+215FRX L XREF=B                                                                 
+215FR cL J$ 210|g (E2) to (41/2-).                                              
+215FR  G 209.6     2  100       E2                      0.468               R   
+215FRS G KC=0.1485 21$LC=0.236 4$MC=0.0632 10$NC=0.01657 25$OC=0.00347 5$       
+215FRS G PC=0.000461 7$QC=3.95E-6 6                                             
+215FR  L 3462.3     6 (47/2+)           22.9 NS  21                             
+215FRX L XREF=B                                                                 
+215FR cL J$ 45|g (E1) to (45/2-). Configuration=                                
+215FR2cL |p(1h{-9/2}{+4},1i{-13/2}{+1})~#|n(2g{-9/2}{+1},1i{-11/2}{+1}).        
+215FR cL $ Theoretical g-factor=0.61 (1984Sc25)                                 
+215FR cL T$|g|g(t) (262|g-555|g time curves fitted to a two-level decay         
+215FR2cL formula), and from 210|g time spectrum (1984Sc25). Other: 33 ns {I5},  
+215FR3cL |g|g(t) for all |g rays; 30 ns {I5}, time spectrum of g.s. |a          
+215FR4cL transition fitted to a two-component decay (1984De16); where this      
+215FR5cL half-life is assigned to 3068 level                                    
+215FR  G 45.2      3  100       (E1)                    0.894 21            R   
+215FRS G LC=0.676 16$MC=0.165 4$NC=0.0423 10$OC=0.00869 20$PC=0.001128 25$      
+215FRS G QC=3.15E-5 7                                                           
+215FRB G BE1W=4.7E-5 5                                                          

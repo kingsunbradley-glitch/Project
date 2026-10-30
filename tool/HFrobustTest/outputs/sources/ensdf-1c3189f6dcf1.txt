@@ -1,0 +1,76 @@
+253CF    ADOPTED LEVELS, GAMMAS                                  13NDS    201309
+253CF  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+253CF2 H CUT=1-Mar-2012$                                                        
+253CF DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+253CF  Q 287       6  4804   4  6522   SY 6126   4     2012WA38                 
+253CF cQ           Estimated |DS(p)=200 (2012Wa38)                              
+253CF PN                                                                     6  
+253CF c                                                                         
+253CF c  Calculations, compilations:                                            
+253CF c  Favored |a decay: 2011Zh36, 1993Bu09, 1992Bu03                         
+253CF c  g.s. properties: 1997Mo25, 1995Mo29, 2005Pa73                          
+253CF c  Single-particle Nilsson levels: 1994Cw02, 2005Pa73                     
+253CF c                                                                         
+253CF c  1994Cw02 have calculated the following predominant configurations:     
+253CF2c  g.s., 1/2[620]; 20 keV, 3/2[622]; 50 keV, 7/2[613]; 170 keV, 11/2[725];
+253CF3c  430 keV, 9/2[615].                                                     
+253CF c  2005Pa73 have calculated the following predominant configurations:     
+253CF2c  g.s., 1/2[620]; 10 keV, 3/2[622]; 100 keV, 11/2[725];                  
+253CF3c  100 keV, 7/2[613]; 440 keV, 9/2[615].                                  
+253CF  XA257FM A DECAY                                                          
+253CF cL E$From {+257}Fm |a decay. The band assignments are those proposed      
+253CF2cL by 1967As02 and 1982Ah01.                                              
+253CF CL BAND(A)$Band 7/2+[613].                                                
+253CF2cL A=6.90 keV {I5}, B=-1.3 eV {I8}, E{-0}=-108.4 keV {I4}.                
+253CF3cL Configuration assignment on the basis of measured level                
+253CF2cL spacing and gK value for the rotational band (1982Ah01)                
+253CF CL BAND(B)$Band 9/2+[615].                                                
+253CF2cL A=7.29 keV {I2} (if B=0.0), E{-0}=60.6 keV {I5}.                       
+253CF3cL Configuration assignment on the basis of favored alpha decay           
+253CF2cL (1982Ah01)                                                             
+253CF cG           All |g data are from {+257}Fm |a decay                       
+253CF  L 0.0         (7/2+)            17.81 D   8                          A   
+253CF2 L %A=0.31 4$ %B-=99.69 4 (1966Rg01)                                      
+253CFX L XREF=A                                                                 
+253CF cL J$allowed or first forbidden non-unique |b{+-} decays to 7/2+ g.s.     
+253CF2cL and (9/2+) excited state in {+253}Es limits J to 7/2 or 9/2.           
+253CF2cL Nilsson model suggests configuration=(|n 7/2[613]) for N=155.          
+253CF cL T$from 1969DrZZ; other: 17.6 d {I2} (1965Me02). Both results were      
+253CF2cL deduced from the growth of {+253}Es (1965Me02)                         
+253CF  L 61.61     8  (9/2+)                                                A   
+253CFX L XREF=A                                                                 
+253CF cL J$M1+E2 |g to (7/2+); band assignment                                  
+253CF  G 61.6      1  100      M1+E2     0.27    2     47.4   19                
+253CFS G LC=35.1 14$MC=9.1 4$NC+=3.29 15                                        
+253CFS G NC=2.52 12$OC=0.64 3$PC=0.117 5$QC=0.00503 9                           
+253CF  L 136.62    9  (11/2+)                                               A   
+253CFX L XREF=A                                                                 
+253CF cL J$(M1) to (9/2+); band assignment                                      
+253CF  G 75.0      1  100    9 (M1)                    19.7                     
+253CFS G LC=14.72 22$MC=3.62 6$NC+=1.318 20                                     
+253CFS G NC=1.004 15$OC=0.261 4$PC=0.0504 8$QC=0.00298 5                        
+253CF  G 136.7     2  30     10                                                 
+253CF  L 241.01    8  (9/2+)                                                B   
+253CFX L XREF=A                                                                 
+253CF cL J$M1+E2 |g to (7/2+) g.s., (M1) |g to (11/2+) level                    
+253CF  G 104.4     1  5.6    5 (M1)                    7.52                     
+253CFS G LC=5.63 8$MC=1.386 20$NC+=0.504 8                                      
+253CFS G NC=0.384 6$OC=0.0997 15$PC=0.0193 3$QC=0.001136 17                     
+253CF  G 179.4     1  79     6 M1+E2     0.58    13    5.8    5                 
+253CFS G KC=4.2 5$LC=1.182 17$MC=0.301 6$NC+=0.1095 19                          
+253CFS G NC=0.0839 15$OC=0.0215 4$PC=0.00398 7$QC=0.000185 18                   
+253CF  G 241.0     1  100    6 M1+E2     1.06    13    1.78   17                
+253CFS G KC=1.22 16$LC=0.419 14$MC=0.109 3$NC+=0.0396 10                        
+253CFS G NC=0.0304 8$OC=0.00775 21$PC=0.00140 5$QC=5.4E-5 7                     
+253CF  L 321.21    22 (11/2+)                                               B   
+253CFX L XREF=A                                                                 
+253CF cL J$(M1+E2) |g to (9/2+) level; band assignment                          
+253CF  G 80.2      2  100      (M1+E2)                 39     24                
+253CFS G LC=29 17$MC=8 5$NC+=2.9 18                                             
+253CFS G NC=2.2 14$OC=0.6 4$PC=0.09 5$QC=0.0014 10                              
+253CF  L   417     5  (13/2+)                                               B   
+253CFX L XREF=A                                                                 
+253CF cL J$|a decay from (9/2+) {+257}Fm; band assignment                       
+253CF  G 96        5   100     [M1,E2]                 18     10               S
+253CFS G LC=13 7$MC=3.6 21$NC+=1.3 8                                            
+253CFS G NC=1.0 6$OC=0.26 15$PC=0.043 22$QC=0.0008 7                            

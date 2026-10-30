@@ -1,0 +1,32 @@
+206RA    210TH A DECAY                 2010HE25,1995UU01         25NDS    202503
+206RA  H TYP=FUL$AUT=F.G. KONDEV$CIT=NDS 201, 346 (2025)$CUT=21-Jan-2025$       
+206RA c  2010He25: {+210}Th nuclide produced in {+150}Sm({+64}Ni,4n), E=294 MeV.
+206RA2c  Target: 327-546 |mg/cm{+2} thick {+147}SmF{-3} enriched to 95.6%,      
+206RA3c  evaporated onto a 40 |mg/cm{+2} carbon foil and covered with a         
+206RA4c  10 |mg/cm{+2} carbon layer.                                            
+206RA5c  Evaporation residues were separated by SHIP and implanted into a 300   
+206RA6c  |mm thick, 35|*80 mm{+2} 16-strip positron-sensitive silicon           
+206RA7c  detector (PSSD). Six silicon box detectors were mounted in an open     
+206RA8c  box geometry upstream from the PSSD to measure the energy of |a        
+206RA9c  particles which escaped from the PSSD in the backward direction.       
+206RAac  A Clover Ge detector was also installed at the focal plane for |a-|g   
+206RAbc  coincidence measurements with |DT(|a-|g)|<5 |ms,                       
+206RAcc  however no coincidences were observed.                                 
+206RA c  1995Uu01: Source produced in {+181}Ta({+35}Cl,6n), E=191, 199 MeV;     
+206RA2c  Target: {+181}Ta prepared by rolling with a thickness of 350           
+206RA3c  |mg/cm{+2}; Detectors: Gas-filled recoil separator (RITU), position    
+206RA4c  sensitive PIPS detector; Measured: recoil-|a{-1}-|a{-2}-|a{-3} coin,   
+206RA5c  excitation functions, E|a, I|a, T{-1/2}; assignment to {+210}Th        
+206RA6c  was based on E|a{-1}({+210}Th)-E|a{-2}({+206}Ra)-E|a{-3}({+202}Rn)     
+206RA6c  correlations. Others (same collaboration): 1995Le15, 1995Le41.         
+206RA cA HF$r{-0}=1.509 {I9} for HF=1.0                                         
+206RA cL T$From adopted levels                                                  
+210TH  P 0.0               0+           15.1 MS  27                8069   6     
+210TH cP T$Weighted average 14 ms {I4} (2023Ch24) and 16.0 ms {I36} (2010He25). 
+210TH cP $Q(|a) from 2021Wa16                                                   
+206RA  N                          1    AP                                       
+206RA  L 0.0          0+               0.24 S    2                              
+206RA  A   7917    6   100     1.0     AP                                       
+206RA cA E$From 2010He25. Others: 7922 keV {I14} (2023Ch24), 7899 keV {I17}     
+206RA2cA (1995Uu01), 7896 keV {I25} (1995Le41,1995Le15), 7810 keV {I50}         
+206RA3cA (1996Ik01)                                                             

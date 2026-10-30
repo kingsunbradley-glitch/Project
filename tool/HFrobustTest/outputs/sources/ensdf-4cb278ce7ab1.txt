@@ -1,0 +1,46 @@
+259SG    ADOPTED LEVELS                                          13NDS    201309
+259SG  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+259SG2 H CUT=1-Aug-2011$                                                        
+259SG D  Modified by E. Browne (Oct. 19, 2011)                                  
+259SG  Q              6755   SY 2528   SY 9804   21    2012WA38                 
+259SG cQ $Estimated |DS(n)=429, |DS(p)=327 (2012Wa38)                           
+259SG c                                                                         
+259SG c  Calculations, compilations:                                            
+259SG c  Favored |a decay: 1993Bu09                                             
+259SG c  g.s. properties: 1997Mo25, 1995Mo29                                    
+259SG c  Pion decay: 1991Io03, 1988Io05                                         
+259SG c  Single-particle levels: 2005Pa73, 1994Cw02                             
+259SG c  Half-life, Q(|a): 2010Si27, 2008Do12, 2008Ro06, 2007Zh41, 2004Ro21.    
+259SG c  Half-life, E|a: 2009Do22                                               
+259SG c  1994Cw02 calculate the following single-particle level sequence:       
+259SG2c  g.s. 1/2[620], 0.07 MeV, 3/2[622; , 0.13 MeV, 11/2[725]; 0.25 MeV      
+259SG3c  , 7/2[613]; 0.45 MeV, 9/2[734]; 0.61 MeV, 9/2[615].                    
+259SG c                                                                         
+259SG c  2011Ca08: {+209}Bi({+51}V,n), {+208}Pb({+52}Cr,n)                      
+259SG c  2010Wa39: {+208}Pb({+52}Cr,n)                                          
+259SG c  2005Zu02: {+208}Pb({+54}Cr,3n)                                         
+259SG c  2005Za07: Synthesis of superheavy nuclei (Review article).             
+259SG c                                                                         
+259SG c  Assignment: {+207}Pb({+54}Cr,2n), parent of {+255}Rf (observed SF      
+259SG2c  activity attributed to {+255}Rf) (1984De07 and 1985Mu11).              
+259SG c                                                                         
+259SG c  Assignment of 7-ms activity to {+259}Sg in 1974OgZX was                
+259SG2c  not confirmed by 1984De07 and 1985Mu11.                                
+259SG  XA263HS A DECAY                                                          
+259SG  XB208PB(52CR,N)                                                          
+259SG  L 0.0                           0.29 S    5                              
+259SGX L XREF=AB                                                                
+259SG2 L %A=90 10$ %SF LT 20$%EC LE 13                                          
+259SG cL J         Analogy with {+249}Cm and {+251}Cf (N=153 nuclei) suggests   
+259SG2cL 1/2+ 1/2[620] Nilsson single-particle state for {+259}Sg g.s.          
+259SG3cL However, a calculated energy (theory,1994Cw02) for the 11/2- 11/2[725] 
+259SG4cL Nilsson single-particle state suggests this state as the g.s. in       
+259SGxcL {+259}Sg.                                                              
+259SG cL T         Weighted average of T{-1/2}=0.32 s {I+8-6} (2009Fo02) and    
+259SG2cL 0.28 s {I5} (2009He20). Other value: 0.48 s {I+28-13} (1985Mu11).      
+259SG cL %A$From 1985Mu11, 2009Fo02. Other: |?100 (1984De07).                   
+259SG2cL Other value: |?96% (2009Fo02).                                         
+259SG cL %SF$From 1985Mu11, 2000Ho27. Calculated T{-1/2}(SF)|?10 s (1988Lo03)   
+259SG cL %EC$From 2009Fo02.                                                     
+259SG cL           Deduced from Q(|b{+-})values: T{-1/2}(|a)=0.6 s,             
+259SG2cL T{-1/2}(|e+|b{++})=7 s, T{-1/2}(SF)=80 s (1995KoZL)                    

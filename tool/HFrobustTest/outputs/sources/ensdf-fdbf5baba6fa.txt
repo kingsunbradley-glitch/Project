@@ -1,0 +1,76 @@
+239AM    243BK A DECAY                 1966AH02,1991RY01         14NDS    201411
+239AM  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 122, 293 (2014)$             
+239AM2 H CUT=30-Jun-2013$                                                       
+239AM D  Recalculated HF.Remove comment on favored alpha (E.Browne,March 2002). 
+239AM D  New HF's differ about 20% from old values. Don't know why!(E. Browne). 
+239AM c  |a|g: 1956Ch77, 1966Ah02                                               
+239AM c  K| x ray: I|g=8 {I3}                                                   
+239AM c  2013Ni13: calculated branching ratios to three rotational bands.       
+239AM2c  Others: 2011Zh36, 2010Ni02                                             
+239AM cA E         From 1966Ah02 (semi) recalibrated by 1991Ry01                
+239AM cA IA        From 1966Ah02. Intensity per 100 |a decays                   
+239AM cA HF        Using r{-0}({+239}Am)=1.496, average of                      
+239AM2cA r{-0}({+238}Pu)=1.5013 {I10}, r{-0}({+240}Pu)=1.4979 {I7},             
+239AM3cA r{-0}({+238}Cm)=1.490 {I20}, and r{-0}({+240}Cm)=1.495 {I12}           
+239AM4cA (1998Ak04). HF values are approximate because of the imprecise value   
+239AMxcA of |?0.15% for the alpha-particle branching.                           
+239AM DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+239AM cG E         From 1966Ah02 (|a|g-semi), 1956Ch77 (|a|g-scin)              
+239AM cG RI        Photon intensity per 100 |a decays (1966Ah02,1956Ch77)       
+239AM cG M(A)      Multipolarity is E1 or E2 from relative photon and K| x ray  
+239AM2cG intensities. However, the ratio of reduced transition probabilities    
+239AM3cG suggests E1 multipolarity.                                             
+239AM cL J         From adopted levels                                          
+239AM CL BAND(A)$GS ROTATIONAL BAND.  CALCULATED |a BRANCHING=29.8% (2013Ni13)  
+239AM CL BAND(B)$ROTATIONAL BAND BUILT ON 187 LEVEL.                            
+239AM2cL Calculated |a branching=52.8% (2013Ni13)                               
+239AM CL BAND(C)$FAVORED ROTATIONAL BAND BUILT ON 557 LEVEL                     
+239AM2cL calculated |a branching=17.5% (2013Ni13)                               
+243BK  P 0.0         (3/2-)            4.5 H     2              6874      4     
+239AM  N 1.0       AP          0.0015  AP                                       
+239AM PN                                                                        
+239AM  L 0.0         (5/2)-            11.9 H    1                          A   
+239AM  A 6761      4  15.4   10 1190   AP                                       
+239AM  L 40.7      7 (7/2-)                                                 A   
+239AM  A 6721      4  12.5   9  982    AP                                       
+239AM  G 42        3  4        [M1]                    79     20               ?
+239AMS G LC=59 15$MC=15 4$NC+=5.2 13                                            
+239AMS G NC=4.0 10$OC=1.00 25$PC=0.19 5$QC=0.012 3                              
+239AM cG RI        is inconsistent with decay scheme; I|g|<0.3 from transition  
+239AM2cG intensity balance.                                                     
+239AM  L 94        6 (9/2-)                                                 A   
+239AM  A 6669      4  1.2    AP 6060   AP                                       
+239AM  L 156       7 (11/2-)                                                A   
+239AM  A 6608      5  0.7    AP 5560   AP                                       
+239AM  L 187.1     5 (5/2+)                                                 B   
+239AM  A 6577      4  25.6   16 111    AP                                       
+239AM  G 146.4     5  8      3 (E1)                    0.215  4             A   
+239AMS G KC=0.164 3$LC=0.0384 7$MC=0.00943 16$NC+=0.00329 6                     
+239AMS G NC=0.00255 5$OC=0.000622 11$PC=0.0001077 18$QC=4.53E-6 8               
+239AM  G 187.1     5  40     10(E1)                    0.1220 19            A   
+239AMS G KC=0.0943 15$LC=0.0208 4$MC=0.00509 8$NC+=0.00178 3                    
+239AMS G NC=0.001380 22$OC=0.000338 6$PC=5.96E-5 10$QC=2.68E-6 4                
+239AM  L 220       6 (7/2+)                                                 B   
+239AM  A 6545      4  19.4   13 104    AP                                       
+239AM  L 260       6 (9/2+)                                                 B   
+239AM  A 6505      4  6.9    7  195    AP                                       
+239AM  L 317       7 (11/2+)                                                B   
+239AM  A 6449      5  0.7    2  1060   AP                                       
+239AM  L 370       AP(13/2+)                                                B   
+239AM  A 6397      AP 0.2    AP 2120   AP                                       
+239AM  L 557       6  (3/2-)                                                C   
+239AM  A 6213      4  13.6   9  4.1    AP                                       
+239AM  G 536       10 10     LT[E2]                    0.0473 22            &  ?
+239AM3 G FL=40.7                                                                
+239AMS G KC=0.0283 11$LC=0.0139 9$MC=0.00369 24$NC+=0.00131 9                   
+239AMS G NC=0.00101 7$OC=0.000248 16$PC=4.4E-5 3$QC=1.30E-6 6                   
+239AM cG E         probable unresolved doublet to g.s. and 40.7 levels. I|g has 
+239AM2cG not been divided.                                                      
+239AM  G 536       10 10     LT[M1,E2]                 0.16   11            &  ?
+239AM3 G FL=0.0                                                                 
+239AMS G KC=0.12 10$LC=0.028 15$MC=0.007 4$NC+=0.0025 12                        
+239AMS G NC=0.0019 9$OC=0.00048 23$PC=9.E-5 5$QC=5.E-6 4                        
+239AM cG E         probable unresolved doublet to g.s. and 40.7 levels. I|g has 
+239AM2cG not been divided.                                                      
+239AM  L 586       6  (5/2-)                                                C   
+239AM  A 6185      4  3.9    5  10     AP                                       

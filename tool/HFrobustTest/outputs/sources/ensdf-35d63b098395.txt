@@ -1,0 +1,270 @@
+220AC    224PA A DECAY                 1996LI05                  26NDS    202609
+220AC  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220AC2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220AC dA HF$Hindrance Factor is calculated by AlphaHF (version 16-Dec-2025)     
+220AC dG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+220AC d  Previous modification was done by E. Browne (Jan. 11, 2011) using ICC's
+220AC2d  from BrIcc, providing a new and consistent interpretation of the decay 
+220AC3d  scheme by introducing a new level at 28-keV. The current dataset is an 
+220AC4d  update based on that modified version.                                 
+220AC dL E$Least-squares fitting is done by GLSC (version 19-Aug-2025).         
+220AC c  1996Li05 (also 1997Sh09): {+224}Pa source was produced by              
+220AC2c  {+209}Bi({+18}O,3n) with 96 MeV {+18}O beam from the Grenoble SARA     
+220AC3c  accelerator on a 1.5 mg/cm{+2} self-supporting {+209}Bi target, and    
+220AC4c  transported by a He-jet system to a tape tation. Measured E|a, I|a,    
+220AC5c  E|g, I|g, |a|g-coin, |g|a-coin, (ce)|a-coin. Deduced levels, J, |p,    
+220AC6c  |g-ray multipolarities, |a-decay branching ratios, hindrace factors.   
+220AC c  1987FuZT: {+224}Pa source was produced via {+209}Bi({+18}O,3n) with    
+220AC2c  E=88 MeV {+18}O beam from the RIKEN 160-cm cycloton. |a particles were 
+220AC3c  detected with a surface-barrier Si detector. Measured E|a, I|a,        
+220AC4c  |a|a(t). Deduced levels, |a-decay branching ratios.                    
+220AC c  1990An19: {+224}Pa source was produced via {+205}Tl({+22}Ne,X) at JINR.
+220AC2c  Measured E|a, |a|a(t) of decay daughter {+220}Ac. Deduced {+220}Ac     
+220AC3c  T{-1/2}.                                                               
+220AC c  The decay scheme is that proposed by 1996Li05 based on measured |g, |a,
+220AC2c  |a|g-coin and (ce)|a-coin measurements. A different decay scheme is    
+220AC3c  available in 1987FuZT which is only based on their measured E|a and is 
+220AC4c  less complete, and those data are given under comments. Note that most 
+220AC5c  levels in 1987FuZT are lower than the corresponding levels in 1996Li05 
+220AC6c  by an offset of about 28 keV.                                          
+220AC cA HF$The nuclear radius parameter r{-0}({+220}Ac)=1.5466 {I27} is deduced
+220AC2cA from interpolation of radius parameters of the adjacent even-even      
+220AC3cA nuclides in 2020Si16                                                   
+220AC cA $1990An19 observed two |a groups with E|a=7460 {I10} with %I|a=25 {I3} 
+220AC2cA and 7555 {I10} with %I|a=75 {I3}. Their energies are in agreement but  
+220AC3cA the branching ratios are in disagreement with those reported in        
+220AC4cA 1996Li05 and 1987FuZT.                                                 
+220AC cA E$From 1996Li05, unless otherwise noted.                               
+220AC cA IA$Deduced by the evaluators from |g+ce intensity balance at each level
+220AC2cA for excited states using conversion coefficients calculated by the     
+220AC3cA BrIcc code, unless otherwise noted. The original values (with no       
+220AC4cA uncertainties) in 1996Li05 are deduced by the authors using their      
+220AC5cA measured |a-gated I|g and I(ce) values, with the latter not given in   
+220AC6cA 1996Li05. The original values are given under comments where available.
+220AC cA E(A),IA(A)$|a energy is not reported in 1996Li05 and 1987FuZT and the  
+220AC2cA quoted value is deduced by the evaluators from Q(|b{+-})value; an      
+220AC3cA upper limit of the intensity is from 1996Li05                          
+220AC cG E,RI$From 1996Li05, unless otherwise noted. Original I|g values from   
+220AC2cG 1996Li05 are for per 1000 |a decays and the evaluators have converted  
+220AC3cG them to values for per 100 |a decays.                                  
+220AC cG M$Deduced by 1996Li05 based on their measured |a(K)exp, |a(L)exp and   
+220AC2cG K/L ratios. But the ce data are not explicitly given by the authors    
+220AC cG E(X),RI(X)$Possible doublet, assigned by the evaluators based on |a    
+220AC2cG data in 1996Li05 and 1987FuZT. 1996Li05 place 28|g only from 68.7-keV  
+220AC3cG level with I|g=8.1 {I6}, while a 28-keV level is suggested by an       
+220AC4cG observed E|a=7529 group in 1987FuZT, which could also decay by a 28-keV
+220AC5cG transition to ground state. The total I|g of this possible doublet is  
+220AC6cG divided based on the intensity balance of |g+ce and |a intensity       
+220AC7cG balance at E=69 level.                                                 
+220AC cL $Evaluators of previous evaluations (1997Ar04, 2011Br05) have          
+220AC2cL significantly modified the decay scheme by introducing a 28-keV level  
+220AC3cL from energy conservation calculations, as suggested in 1987FuZT. The   
+220AC4cL 7258 kev |a was assigned to the ground state originally. Thus, the     
+220AC5cL 28-keV |g ray reported in 1996Li05 is probably a doublet. The          
+220AC6cL individual intensities have been adjusted to produce a more consistent 
+220AC7cL transition-intensity balance in the decay scheme, and to reproduce the 
+220AC8cL experimental alpha-particle intensities. The multipolarity of the      
+220AC9cL 40.7-keV |g ray has been reported as M1 in 1996Li05. Evaluators,       
+220ACAcL however, have assigned an M1+3%E2 multipolarity to the |g ray for      
+220ACBcL consistency in the decay-scheme transition intensity balance, since its
+220ACCcL conversion coefficient is very sensitive to an E2 admixture. Using this
+220ACDcL interpretation, the sum of the |g-ray transition intensities to the    
+220ACEcL ground state and 13-keV level is 116% {I13}                            
+220AC cL E$From a least-squares fit to |g-ray energies.                         
+220AC cL J$Proposed by 1996Li05, based on |g-ray multipolarities, |a hindrance  
+220AC2cL factors, and shell-model expectations, unless otherwise noted. The same
+220AC3cL assignments are adopted in Adopted Levels                              
+220AC cL J(M)$Configuration=|ph{-9/2}~#|ni{-11/2} (1996Li05)                    
+220AC cL J(N)$Configuration=|ph{-9/2}~#|ng{-9/2} (1996Li05)                     
+224PA  P 0            (5-)             0.846 S   20             7694      4     
+224PA cP J,T$From Adopted Levels of {+224}Pa in ENSDF database (2022 update)    
+224PA cP QP$From 2021Wa16                                                       
+220AC  N 1.0                   1.0                                              
+220AC PN                                                                     2  
+220AC  L 0.0          (3-)             26.4 MS   2                          M   
+220AC cL T$from |a(t) of {+220}Ac |a decay in correlation with 7460 and 7555 |a 
+220AC2cL from {+224}Pa decay (1990An19)                                         
+220AC  A 7556         0.5    LT 1234   GT                                   A  ?
+220AC  L 13.78     13 (2-)                                                  M   
+220AC  A 7543         0.5    LT 1112   GT                                   A  ?
+220AC  G 13.8                                                                  S
+220AC cG E$from level energy difference; this |g transition is only shown in the
+220AC2cG decay scheme in 1996Li05 but is probably not observed                  
+220AC  L 28.00     10                                                          ?
+220AC cL $This level is suggested by E|a=7529 group in 1987FuZT and             
+220AC2cL Q(|b{+-})value=7694, which gives E(level)=29 keV. Note that 1987FuZT   
+220AC3cL assign this |a group to the ground state, which however is             
+220AC4cL inconsistent with the adopted Q(|b{+-})value.                          
+220AC  A 7528         1.30   18 420    75                                       
+220AC cA E$from 1987FuZT only, |a group not seen in 1996Li05. Note that 1987FuZT
+220AC2cA assign this |a group to ground state, but Q(|b{+-})value=7694 and this 
+220AC3cA E|a give E(level)=29                                                   
+220AC cA IA$others: 2.9 {I6} (1987FuZT)                                         
+220AC  G 28.0      1  0.30   4  [E1]                   3.34   6             X  ?
+220ACS G  LC=2.50 4$MC=0.634 11                                                 
+220ACS G  NC=0.1631 28$OC=0.0340 6$PC=0.00487 8$QC=0.0001637 26                 
+220AC cG M$E1 is assumed by the evaluators based on intensity balance,          
+220AC2cG considering that either M1 or E2 would give a very large |a(total)     
+220AC3cG value and thus a large I(|g+ce)(28|g) indicating a strong decay to     
+220AC4cG 28-keV level which is inconsistent with observation in 1996Li05        
+220AC  L 40.69     10 (4-)                                                  M   
+220AC  A 7516         0.5    LT 905    GT                                   A  ?
+220AC cA IA$other: negative feeding from |g+ce intensity balance indicates no |a
+220AC2cA decay to this level                                                    
+220AC  G 40.7      1  1.34   8  M1                     47.5   8                 
+220ACS G  LC=36.0 6$MC=8.64 14                                                  
+220ACS G  NC=2.29 4$OC=0.533 8$PC=0.0987 16$QC=0.00878 14                       
+220AC  L 68.71     13 (5-)                                                  N   
+220AC  A 7488         71     7 5.6     7                                        
+220AC cA E$other: 7489 in 1987FuZT assigned to a level at E=40 keV, however,    
+220AC2cA Q(|b{+-})value=7694 and this E|a is consistent with E(level)=69 keV    
+220AC cA IA$others: 66 {I3} (1987FuZT), 70 (1996Li05).                          
+220AC  G 28.0      1  0.51   5  M1                     143.4  25            X   
+220ACS G  LC=108.4 19$MC=26.1 5                                                 
+220ACS G  NC=6.93 12$OC=1.611 28$PC=0.298 5$QC=0.0266 5                         
+220AC  L 71.56     20 (1-)                                                      
+220AC  A 7486         0.7    LT 510    GT                                   A  ?
+220AC cA E$this very weak group if existing is completely obscured by the       
+220AC2cA strongest E|a=7488 group to 69-keV level                               
+220AC cA IA$other: 3.3 {I20} from |g+ce intensity balance.                      
+220AC  G 57.8      2  0.26   9  [M1]                   16.96  29                
+220ACS G  LC=12.83 22$MC=3.08 5                                                 
+220ACS G  NC=0.817 14$OC=0.1901 33$PC=0.0352 6$QC=0.00313 5                     
+220AC cG M$[M1,E2] from level scheme, but E2 would give a large |a(total) and   
+220AC2cG thus a very large I(|g+ce)(57.8|g) which would require a strong |a     
+220AC3cG decay to 72 level, inconsistent with the weak |a group assigned to that
+220AC4cG level in 1996Li05                                                      
+220AC  L 108.51    18 (3-)                                                  N   
+220AC  A 7449         3.8    12 77     30                                       
+220AC cA IA$other: 4.0 (1996Li05).                                              
+220AC  G 67.8      2  0.38   10 M1                     10.63  18                
+220ACS G  LC=8.05 13$MC=1.931 32                                                
+220ACS G  NC=0.512 8$OC=0.1191 20$PC=0.0220 4$QC=0.001959 32                    
+220AC  L 113.33    19 (1-)                                                  N   
+220AC  A 7444         1.13   21 251    57                                       
+220AC cA IA$other: 2.5 (1996Li05).                                              
+220AC  G 113.3     2  0.16   3  (E2)                   6.07   10                
+220ACS G  KC=0.266 4$LC=4.25 7$MC=1.163 19                                      
+220ACS G  NC=0.309 5$OC=0.0675 11$PC=0.01059 17$QC=5.02E-5 8                    
+220AC  L 145.56    28                                                          ?
+220AC cL $I(|a)=0.34 {I11} from |g+ce intensity balance. No |a decay to this    
+220AC2cL level has been observed                                                
+220AC  G 74.0      2  0.27   9  [E1]                   0.253  4                ?
+220ACS G  LC=0.1912 30$MC=0.0465 7                                              
+220ACS G  NC=0.01212 19$OC=0.00267 4$PC=0.000436 7$QC=2.165E-5 33               
+220AC cG $This transition is marked as tentative by the evaluators since the    
+220AC2cG decaying level is tentative in 1996Li05                                
+220AC cG M$assumed by the evaluators based on |g+ce intensity balance and no    
+220AC2cG observation of |a decay to 146 level, considering that either M1 or E2 
+220AC3cG would give a large |a(total) value and thus a large I(|g+ce)(74.0|g)   
+220AC4cG which would require a strong |a decay to to 146 level                  
+220AC  L 150.18    14 (4-)                                                  N   
+220AC  A 7408         3.5    4 61      10                                       
+220AC cA E$other: 7408 in 1987FuZT probably a doublet of 7408+7405 groups in    
+220AC2cA 1996Li05, considering I|a=17 {I2} for this group in 1987FuZT. Note that
+220AC3cA 1987FuZT assign this |a group to a 122 level, which is not confirmed by
+220AC4cA other studies and thus is not adopted by the evaluators;               
+220AC5cA Q(|b{+-})value=7694 and E|a=7408 give E(level)=151                     
+220AC cA IA$other: 4.0 (1996Li05).                                              
+220AC  G 109.5     1  0.30   3  M1                     13.07  19                
+220ACS G  KC=10.43 15$LC=2.000 28$MC=0.480 7                                    
+220ACS G  NC=0.1272 18$OC=0.0296 4$PC=0.00547 8$QC=0.000486 7                   
+220AC  L 153.00    10 (2-)                                                  N   
+220AC  A 7405         11.0   16 19     4                                        
+220AC cA E$see comments for E|a=7408 at 150 level                               
+220AC cA IA$others: 12 (1996Li05); 1987FuZT reported 17 {I2} for E|a=7408, which
+220AC2cA is probably a doublet                                                  
+220AC  G 39.5                                                                  ?
+220AC cG E$only shown in Fig.4 of 1996Li05 as a tentative transition            
+220AC  G 81.5      3  0.30   LE M1                     6.22   11                
+220ACS G  LC=4.71 8$MC=1.129 20                                                 
+220ACS G  NC=0.300 5$OC=0.0697 12$PC=0.01288 23$QC=0.001145 20                  
+220AC  G 139.2     1  0.48   4  M1                     6.65   9                 
+220ACS G  KC=5.32 8$LC=1.003 14$MC=0.2406 34                                    
+220ACS G  NC=0.0638 9$OC=0.01484 21$PC=0.00275 4$QC=0.0002434 34                
+220AC  G 153.0     1  1.07   7  M1                     5.08   7                 
+220ACS G  KC=4.07 6$LC=0.766 11$MC=0.1836 26                                    
+220ACS G  NC=0.0487 7$OC=0.01133 16$PC=0.002095 30$QC=0.0001857 26              
+220AC  L 184.21    16 (3-)                                                      
+220AC  A 7375         2.8    6 58      15                                       
+220AC cA E$other: 7388 from 1987FuZT is probably the same |a group. 1987FuZT    
+220AC2cA assign this |a to a 143 level, however, Q(|b{+-})value=7694 and        
+220AC3cA E|a=7375 give E(level)=171, which is close to the adopted              
+220AC4cA E(level)=184. Note that E|a=7388 group is obscured by the tail of the  
+220AC5cA stronger E|a=7408 group as seen in the |a spectrum in Fig.2 of 1987FuZT
+220AC cA IA$others: 2.5 (1996Li05); 4.4 {I5} (1987FuZT).                        
+220AC  G 170.5     3  0.19   3  M1                     3.74   6                 
+220ACS G  KC=3.00 4$LC=0.563 8$MC=0.1349 20                                     
+220ACS G  NC=0.0358 5$OC=0.00832 12$PC=0.001539 23$QC=0.0001364 20              
+220AC  G 184.2     2  0.63   5  M1                     3.01   4                 
+220ACS G  KC=2.412 35$LC=0.452 6$MC=0.1083 16                                   
+220ACS G  NC=0.0287 4$OC=0.00668 10$PC=0.001236 18$QC=0.0001095 16              
+220AC  L 233.81    17 (5+)                                                      
+220AC  A 7326         0.96   17 114    25                                       
+220AC cA E$others: two |a groups with E|a=7337, I|a=1.4 {I3} and E|a=7316,      
+220AC2cA I|a=1.9 {I3} reported in 1987FuZT and assigned to a level at E=195 and 
+220AC3cA 216, respectively, neither of which is confirmed by 1996Li05.          
+220AC4cA Q(|b{+-})value=7694 and E|a in 1987FuZT gives E(level)=223 and 245,    
+220AC5cA respectively.                                                          
+220AC cA IA$other: 1.5 (1996Li05).                                              
+220AC  G 165.1     1  0.84   15 E1                     0.1458 21                
+220ACS G  KC=0.1150 16$LC=0.02338 33$MC=0.00563 8                               
+220ACS G  NC=0.001476 21$OC=0.000333 5$PC=5.76E-5 8$QC=3.64E-6 5                
+220AC  L 263.22    15 (4+)                                                      
+220AC  A 7297         2.75   15 32     3                                        
+220AC cA E$other: 7292 assigned to a 240 level in 1987FuZT, but                 
+220AC2cA Q(|b{+-})value=7694 give E(level)=269.                                 
+220AC cA IA$others: 2.0 (1996Li05), 3.6 {I5} (1987FuZT)                         
+220AC  G 113.1     2  0.51   5  E1                     0.360  5                 
+220ACS G  KC=0.278 4$LC=0.0623 9$MC=0.01506 22                                  
+220ACS G  NC=0.00394 6$OC=0.000880 13$PC=0.0001488 22$QC=8.47E-6 12             
+220AC  G 154.7     2  0.28   6  [E1]                   0.1705 24                
+220ACS G  KC=0.1340 19$LC=0.0276 4$MC=0.00665 10                                
+220ACS G  NC=0.001744 25$OC=0.000393 6$PC=6.77E-5 10$QC=4.21E-6 6               
+220AC  G 194.5     1  1.57   10 E1                     0.0986 14                
+220ACS G  KC=0.0782 11$LC=0.01544 22$MC=0.00371 5                               
+220ACS G  NC=0.000974 14$OC=0.0002204 31$PC=3.84E-5 5$QC=2.53E-6 4              
+220AC  L 312.0     7                                                            
+220AC  A 7249         0.03   AP 1954   AP                                       
+220AC cA IA$other: 0.1 (1996Li05).                                              
+220AC  G 298.2     7  0.03   AP                                                 
+220AC  L 335.18    20                                                           
+220AC  A 7226         1.1    5 44      27                                       
+220AC cA E$other: 7221 assigned to a 313 level in 1987FuZT, but                 
+220AC2cA Q(|b{+-})value=7694 give E(level)=341.                                 
+220AC cA IA$others: 0.1 (1996Li05), 1.3 {I4} (1987FuZT)                         
+220AC  G 151.0     2  0.17   5  [D,E2]                 2.7    26                
+220AC dG CC$mean of max and min values of CC(E1)=0.1810 {I30}, CC(M1)=5.28 {I8} 
+220AC2dG and CC(E2)=1.820 {I30} by BrIcc                                        
+220AC  G 182.0     4  0.10   AP [D,E2]                 1.6    15                
+220AC dG CC$mean of max and min values of CC(E1)=0.1155 {I18}, CC(M1)=3.11 {I5} 
+220AC2dG and CC(E2)=0.880 {I15} by BrIcc                                        
+220AC  G 294.7     5  0.080  AP [D,E2]                 0.4    4                 
+220AC dG CC$mean of max and min values of CC(E1)=0.0376 {I6}, CC(M1)=0.812 {I12}
+220AC2dG and CC(E2)=0.1690 {I30} by BrIcc                                       
+220AC  G 335.0     7  0.040  AP [D,E2]                 0.30   27                
+220AC dG CC$mean of max and min values of CC(E1)=0.0283 {I5}, CC(M1)=0.571 {I9} 
+220AC2dG and CC(E2)=0.1155 {I18} by BrIcc                                       
+220AC  L 356.14    24                                                           
+220AC  A 7205         0.68   18 60     19                                       
+220AC cA E$other: 7191 assigned to a 343 level in 1987FuZT is probably the same 
+220AC2cA |a group, and Q(|b{+-})value=7694 and this E|a give E(level)=372       
+220AC cA IA$others: 0.2 (1996Li05), 0.7 {I2} (1987FuZT)                         
+220AC  G 247.6     3  0.18   5  [D,E2]                 0.7    6                 
+220AC dG CC$mean of max and min values of CC(E1)=0.0560 {I8}, CC(M1)=1.315 {I19}
+220AC2dG and CC(E2)=0.295 {I5} by BrIcc                                         
+220AC  G 287.4     3  0.21   5  [D,E2]                 0.5    4                 
+220AC dG CC$mean of max and min values of CC(E1)=0.0398 {I6}, CC(M1)=0.870 {I13}
+220AC2dG and CC(E2)=0.1830 {I30} by BrIcc                                       
+220AC  G 315.8     7  0.040  AP [D,E2]                 0.35   32                
+220AC dG CC$mean of max and min values of CC(E1)=0.0323 {I5}, CC(M1)=0.671 {I11}
+220AC2dG and CC(E2)=0.1372 {I22} by BrIcc                                       
+220AC  L 411.9     7                                                            
+220AC  A 7151         0.05   AP 517    AP                                       
+220AC cA IA$other: <0.05 (1996Li05).                                            
+220AC  G 398.0     10 0.020  AP  [D,E2]                0.19   17                
+220AC dG CC$mean of max and min values of CC(E1)=0.01950 {I30}, CC(M1)=0.357    
+220AC2dG {I6} and CC(E2)=0.0718 {I12} by BrIcc                                  
+220AC  G 412.0     10 0.020  AP  [D,E2]                0.17   15                
+220AC dG CC$mean of max and min values of CC(E1)=0.01820 {I30}, CC(M1)=0.325    
+220AC2dG {I5} and CC(E2)=0.0656 {I10} by BrIcc                                  

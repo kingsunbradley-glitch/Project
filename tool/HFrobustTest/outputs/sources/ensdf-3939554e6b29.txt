@@ -1,0 +1,72 @@
+224NP    ADOPTED LEVELS                                          ENSDF    202205
+224NP  H TYP=FUL$AUT=Balraj Singh, Sukhjeet Singh$CIT=ENSDF$CUT=08-Mar-2022$    
+224NP  H TYP=FUL$AUT=BALRAJ SINGH$CIT=ENSDF$CUT=07-JUN-2019$                    
+224NP  Q              6700   90  1300  70  9329  30    2021WA16                 
+224NP cQ $S(2n)=15390 {I50}, S(2p)=4610 {I90}, Q(|e)=6290 {I30},                
+224NP2cQ Q(|ep)=2410 {I80} (2021Wa16)                                           
+224NP c  2018Hu13: production and identification of {+224}Np nuclide in         
+224NP2c  {+187}Re({+40}Ar,3n),E=188 MeV reaction, and the observation of        
+224NP3c  six correlated |a-decay chains, starting from {+224}Np:                
+224NP4c  {+224}Np |) {+220}Pa |) {+216}Ac |) {+212}Fr. The {+40}Ar beam from the
+224NP5c  Sector-Focusing Cyclotron (SFC) of the Heavy Ion Research Facility in  
+224NP6c  Lanzhou (HIRFL). Target=enriched {+187}Re, 460-|mg/cm{+2} thick.       
+224NP7c  Evaporation residues (Er) were identified and separated using SHANS    
+224NP8c  separator, and implanted into a 300-|mm double-sided silicon strip     
+224NP9c  detector (DSSD). Measured ERs, E|a, I|a, Er-|a correlated events, and  
+224NPAc  half-life of the decay of {+224}Np g.s. FWHM=22 keV for non-pileup     
+224NPBc  |a events, and 55 or 70 keV for overlapping |a signals.                
+224NP c                                                                         
+224NP c  Theoretical calculations: two references extracted from the NSR        
+224NP2c  database are listed in document records.                               
+224NP d  2021Sa52:alculated Q(2|a), T{-1/2} using modified generalized liquid   
+224NP2d  drop model (MGLDM), and Coulomb and proximity potential model (CPPM).  
+224NP d  2019Sr04: calculated T{-1/2} for |a decay.                             
+224NP c                                                                         
+224NP c  History of decay chains observed by 2018Hu13:                          
+224NP c  Er=Evaporation residues. Part=partial |a energy deposit                
+224NP c                                                                         
+224NP c  Event #1: E(Er)=12566 keV                                              
+224NP c  E{-|a1}=9144 keV {I23}, |Dt{-1}=0.66 |ms, assigned to {+224}Np         
+224NP c  E{-|a2}=9522 keV {I45}, |Dt{-2}=580 ns, assigned to {+220}Pa           
+224NP c  E{-|a3}=9058 keV {I9},  |Dt{-3}=310.78 |ms, assigned to {+216}Ac       
+224NP c                                                                         
+224NP c  Event #2: E(Er)=14138 keV                                              
+224NP c  E{-|a1}=9154 keV {I23}, |Dt{-1}=160.71 |ms, assigned to {+224}Np       
+224NP c  E{-|a2}=9587 keV {I23}, |Dt{-2}=680 ns, assigned to {+220}Pa           
+224NP c  E{-|a3}=1912 keV {I9} (part), |Dt{-3}=600.43 |ms, assigned to {+216}Ac 
+224NP c                                                                         
+224NP c  Event #3: E(Er)=13704 keV                                              
+224NP c  E{-|a1}=9144 keV {I60}, |Dt{-1}=24.07 |ms, assigned to {+224}Np        
+224NP c  E{-|a2}=9531 keV {I60}, |Dt{-2}=220 ns, assigned to {+220}Pa           
+224NP c  E{-|a3}: escaped |a                                                    
+224NP c                                                                         
+224NP c  Event #4: E(Er)=13233 keV                                              
+224NP c  E{-|a1}=9104 keV {I60}, |Dt{-1}=68.93 |ms, assigned to {+224}Np        
+224NP c  E{-|a2}=644 keV {I60} (part), |Dt{-2}=240 ns, assigned to {+220}Pa     
+224NP c  E{-|a3}=9082 keV {I9},  |Dt{-3}=166.08 |ms, assigned to {+216}Ac       
+224NP c                                                                         
+224NP c  Event #5: E(Er)=12579 keV                                              
+224NP c  E{-|a1}=479 keV {I30} (part), |Dt{-1}=70.81 |ms, assigned to {+224}Np  
+224NP c  E{-|a2}=9572 keV {I30}, |Dt{-2}=500 ns, assigned to {+220}Pa           
+224NP c  E{-|a3}=8976 keV {I9},  |Dt{-3}=527.34 |ms, assigned to {+216}Ac       
+224NP c                                                                         
+224NP c  Event #6: E(Er)=13144 keV                                              
+224NP c  E{-|a1}=8868 keV {I60}, |Dt{-1}=4.89 |ms, assigned to {+224}Np         
+224NP c  E{-|a2}=9811 keV {I60}, |Dt{-2}=100 ns, assigned to {+220}Pa           
+224NP c  E{-|a3}=9067 keV {I9},  |Dt{-3}=431.74 |ms, assigned to {+216}Ac       
+224NP c                                                                         
+224NP  L   0                             38 US   +26-11                         
+224NP2 L %A AP 100                                                              
+224NP cL $Only |a decay has been detected. From theoretical T{-1/2}(|b)=5.4 s   
+224NP2cL and T{-1/2}(|a)=2 ms in 2019Mo01, only |a decay is expected.           
+224NP cL $Production |s=0.38 nb {I+26-11} (2018Hu13), uncertainty is            
+224NP2cL statistical only.                                                      
+224NP cL E$assumed that the observed |a activity is emanated from the decay of  
+224NP2cL the ground state of {+224}Np, and feeds two isomeric states in {+220}Pa
+224NP cL J$2- from systematic trend (2021Ko07). From |W(p)=7/2 and |W(n)=5/2    
+224NP2cL in theoretical calculations by 2019Mo01, J=(1,6)                       
+224NP cL T$measured by 2018Hu13, from (evaporation residues)|a-correlated decays
+224NP cL $Emitted E|a=9137 keV {I20} with I|a=83 {I51}, and E|a=8868 keV {I62}  
+224NP2cL with I|a=17 {I18} (2018Hu13), feeding excited states at 34 keV {I26}   
+224NP3cL and 297 keV {I65} in {+220}Pa, respectively. Note that no decay        
+224NP4cL branch to the g.s. of {+220}Pa is indicated by 2018Hu13.               

@@ -1,0 +1,69 @@
+220RA    224TH A DECAY                 1961RU06,1970VA13,2025TO0126NDS    202609
+220RA  H TYP=FUL$AUT=J.Chen, M.S. Basunia P.Dimitriou, et al.,$                 
+220RA2 H CIT=NDS 212, 18 (2026)$CUT=31-Mar-2026$                                
+220RA dA HF$Hindrance Factor is calculated by AlphaHF (version 11-Nov-2025)     
+220RA dG CC$From BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+220RA c  1961Ru06: {+224}Th obtained from the decay of {+228}U, produced by     
+220RA2c  bombarding {+232}Th with helium ion beam, alpha particle spectrograph, 
+220RA3c  Si and NaI(Tl) detectors, measured E|a, I|a, E|g, I|g, |a(K), |a-|g    
+220RA4c  coin, |g-|g coin, etc.                                                 
+220RA c  1970Va13: {+224}Th was produced from {+208}Pb({+22}Ne,|a2n) reaction;  
+220RA2c  Si detector, measured E|a and I|a.                                     
+220RA c  2025To01: {+224}Th was produced from {+238}U fragmentation,            
+220RA2c  E({+238}U)=1 GeV/u, on a {+9}Be target; Si-detectors, DSSD; measured   
+220RA3c  E|a.                                                                   
+220RA c  Others: 1989An13, 2000He17.                                            
+220RA cA HF$The nuclear radius parameter r{-0}({+220}Ra)=1.5388 {I27} is deduced
+220RA2cA from assumed HF=1.0 for the ground-state to ground-state alpha decay   
+220RA3cA branch (using AlphaHF (version 11-Nov-2025)). Other:                   
+220RA4cA r{-0}({+220}Ra)=1.5385 {I27} (2020Si16).                               
+220RA cA E,IA$From 1961Ru06 (Table XI), unless otherwise noted.                 
+220RA cA IA(A)$From |g-ray transition intensity balance.                        
+220RA cG E,RI$From 1961Ru06 (Table XII, Level scheme Fig. 45). I|g per 100 |a   
+220RA2cG decays.                                                                
+220RA cL E$From E|g data                                                        
+220RA cL J,T$From Adopted Levels                                                
+224TH  P 0             0+              1.04 S    2              7299      6     
+224TH cP T$From Adopted Levels of {+224}Th in ENSDF database (2022 update).     
+224TH2cP Other: 0.55 s {I17} (2025Gu12 - half-life was determined for isotope   
+224TH3cP identification, method was not described).                             
+224TH cP QP$From 2021Wa16.                                                      
+220RA  N 1.0                   1.0                                              
+220RA PN                                                                     3  
+220RA  G 90        2  0.02    1                                                 
+220RA cG E$the evaluators list as unplaced E|g, does not fit to the level       
+220RA2cG scheme. The level scheme is based on the reported E|a from {+224}Th    
+220RA3cG feeding the g.s. and excited states of {+220}Ra.                       
+220RA  L 0             0+              18 MS     2                              
+220RA  A 7168      7  79     2 1.0                                              
+220RA cA E$weighted average of 7170 {I10} (1970Va13), 7164 {I13} (2025To01),    
+220RA2cA 7170 {I17}, and 7170 {I20} (1989An13). Other: 7156 {I10} (2000He17).   
+220RA cA IA$others: 80 {I5} (1989An13), I|a=100-I|a(7000)=81 {I3} (1970Va13), 87
+220RA2cA {I8} (2000He17), 82 {I4} from |g-transition intensity balance.         
+220RA  L   177     2   2+                                                       
+220RA  A 7000      10 19     2 0.96    14                                       
+220RA cA E$from 1970Va13. Others: 6996 {I20} (2025To01), 7000 {I20} (1989An13), 
+220RA2cA 6990 (1961Ru06), 6984 {I15} (2000He17).                                
+220RA cA IA$others: 20 {I5} (1989An13), 19 {I3} (1970Va13), 13 {I3} (2000He17), 
+220RA2cA 17 {I4} from |g-transition intensity balance.                          
+220RA  G 177       2  9       2 E2                     0.92    4                
+220RAS G  KC=0.203 5$LC=0.527 28$MC=0.143 8                                     
+220RAS G  NC=0.0377 20$OC=0.0081 4$PC=0.00119 6$QC=1.019E-5 34                  
+220RA cG M$|a(K)exp=0.22 from (K x ray)(|a)/(|g)(|a) (1961Ru06); theory:        
+220RA2cG |a(K)=0.203 {I5} for E2 177|g.                                         
+220RA  L   411     3  (1-)                                                      
+220RA cL J$1- is expected from the excited level energy ratio of                
+220RA2cL E(1{+-})/E(2{++}) for the even-even {+220-224}Ra isotopes (Fig. 43 in  
+220RA3cL 1961Ru06).                                                             
+220RA  A 6770         1.2    5 2.0     11                                   A   
+220RA  G 235       3  0.4     3[E1]                    0.0616 21                
+220RAS G  KC=0.0494 16$LC=0.00932 33$MC=0.00223 8                               
+220RAS G  NC=0.000582 20$OC=0.000130 5$PC=2.14E-5 7$QC=1.32E-6 4                
+220RA  G 410       3  0.8     3[E1]                    0.0178  4                
+220RAS G  KC=0.01444 30$LC=0.00254 5$MC=0.000602 13                             
+220RAS G  NC=0.0001577 34$OC=3.55E-5 8$PC=5.98E-6 13$QC=4.09E-7 8               
+220RA  L   474      3 (3-)                                                      
+220RA  A 6700         0.3    1 4.5     18                                   A   
+220RA  G 297       3  0.3     1[E1]                    0.0360 10                
+220RAS G  KC=0.0290 8$LC=0.00530 15$MC=0.00126 4                                
+220RAS G  NC=0.000331 9$OC=7.39E-5 21$PC=1.232E-5 34$QC=7.96E-7 21              

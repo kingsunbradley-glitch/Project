@@ -1,0 +1,151 @@
+223TH    ADOPTED LEVELS, GAMMAS                                  01NDS    200110
+223TH  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 93, 846 (2001)$CUT=1-May-2001$           
+223TH  Q -2.93E3   8 5889    164525    117567    4     2012WA38                 
+223TH cQ $Note: Current evaluation has used the following Q record              
+223TH2cQ $ -2950    705891    164526    107567     4    1995Au04                
+223TH cL           The K=5/2 rotational bands of opposite parity (parity-doublet
+223TH2cL bands), which lie close to each other and are connected by strong      
+223TH3cL E1 transitions, suggest stable quadrupole and octupole deformations    
+223TH4cL for {+223}Th. The experimental band member energies are consistent with
+223TH5cL values calculated by 1988Le13 for the octupole single-particle assigned
+223TH6cL configurations. See {+208}Pb({+18}O,3n|g) for two possible additional  
+223TH7cL levels at 1757 (J|p=(31/2+)) and 1953 (J|p=(33/2+)).                   
+223TH cL J         J|p assignments to levels from {+208}Pb({+18}O,3n|g) are     
+223TH2cL based on rotational structure, and on |g-ray multipolarities and decay 
+223THxcL patterns.                                                              
+223TH CL BAND(A)$5/2(633) PARITY DOUBLET ROTATIONAL BAND.                       
+223TH2cL Rotational parameter: A=7.3 (1990Ja11).                                
+223TH CL BAND(B)$5/2-(752) PARITY DOUBLET ROTATIONAL BAND.                      
+223TH2cL Rotational parameter: A=5.7 (1990Ja11).                                
+223TH cL E$From {+208}Pb({+18}O,3n|g) and {+227}U |a decay.                     
+223TH cL J(G)      Based also on the similarity of the level structure,         
+223TH2cL |g-ray decay pattern, and relative |a-decay hindrance factors          
+223TH3cL in the isotone {+221}Ra (1991Ho05).                                    
+223TH cG E(D),RI(D)$Doublet.                                                    
+223TH cG E(F),RI(F),M(F),MR(F)$From {+227}U |a decay.                           
+223TH cG E,RI,TI,M,MR$From {+208}Pb({+18}O,3n|g), unless otherwise specified.   
+223TH  XA208PB(18O,3NG)                                                         
+223TH  XB227U A DECAY                                                           
+223TH  L        0.0   (5/2)+            0.60 S   2                          G   
+223THX L XREF=AB                                                                
+223TH2 L %A=100                                                                 
+223TH cL T         from {+223}Th |a decay (1987El02). Other values: 0.66 s {I1} 
+223TH2cL (1970Va13), 0.9 s {I1} (1958To25).                                     
+223TH cL J$favored |a decay (HF=2.3) to 140 level (J|p=(5/2)+) in {+219}Ra.     
+223TH2cL J|p=5/2+, theoretically predicted in 1987Sh24 using a static           
+223TH3cL quadrupole-octupole deformation.                                       
+223TH  L       51.3 5 (7/2)+                                                G   
+223THX L XREF=AB                                                                
+223TH cL J$exp |d(51.3|g)=0.21 {I1} agrees with a calculated value of 0.21 for  
+223TH2cL J|p=7/2+ and the octupole single-particle assigned configuration       
+223TH3cL (1988Le13).                                                            
+223TH  G       51.3 5   100    M1+E2     0.214   10      39.2 10                
+223TH  L      118.9 6 (9/2)+                                                A   
+223THX L XREF=A                                                                 
+223TH  G       67.5 3   100    M1+E2       0.2   AP         15 3                
+223TH  G 119.0     5  45     25 E2                       5.40                   
+223TH  L      180.5 5 (9/2-)                                                B   
+223THX L XREF=A                                                                 
+223TH  G      129.3 2  100                                                      
+223TH  L 209       1   (7/2)+                                               G   
+223THX L XREF=B                                                                 
+223TH  G 158          100    36M1+E2       1.3   +7-4    3.0  4             F   
+223TH  G 209          100    36M1+E2       1.3   +14-5  1.27  25            F   
+223TH  L      212.3 6 (11/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G       31.9 3  100   47                                                 
+223TH  G       93.4 2   58   16M1+E2      0.27    6        5.7 3                
+223TH  G      161.0 5   79   26                                             D   
+223TH  L      243.0 6 (11/2-)                                               B   
+223THX L XREF=A                                                                 
+223TH  G      124.1 2   100                                                     
+223TH  L 247       1   (3/2)+                                               G   
+223THX L XREF=B                                                                 
+223TH  G 247          100      M1                        1.53               F   
+223TH  L 310       1   (5/2)+                                               G   
+223THX L XREF=B                                                                 
+223TH  G 259          83     33(M1)                    1.34                 F   
+223TH  G 310           100   33M1                      0.815                F   
+223TH  L      320.0 6 (13/2+)                                               A   
+223THX L XREF=A                                                                 
+223TH  G       76.8 2   98   19                                                 
+223TH  G      108.6 2   56    5                                             D   
+223TH cG RI        Th K| x ray + {+223}Th.                                      
+223TH  G      200.9 2  100   5                                              &   
+223TH  L      324.1 6 (13/2)-                                               B   
+223THX L XREF=A                                                                 
+223TH  G      111.4 2  100     E1                       0.387                   
+223TH  L      412.4 6 (15/2-)                                               B   
+223THX L XREF=A                                                                 
+223TH  G         87                                                            ?
+223TH  G       92.3 2   100  13                                                 
+223TH  G      170.0 2   10   5                                                  
+223TH  L      428.7 6 (15/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G      104.8 5                                                       D   
+223TH  G        109                                                            ?
+223TH  G      216.6 3          E2                       0.504                   
+223TH  L      547.3 6 (17/2)-                                               B   
+223THX L XREF=A                                                                 
+223TH  G      118.7 2   65   15E1                        0.333                  
+223TH  G      136.0 2   22   9                                              &  ?
+223TH  G      223.2 2  100   6 E2                       0.453               &   
+223TH  L      569.6 6 (17/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G      140.9 2   4    LT                                                ?
+223TH  G      157.1 3   100  4 E1                        0.170              D   
+223TH  G      249.5 3   30   5                                              D   
+223TH  L      657.0 6 (19/2-)                                               B   
+223THX L XREF=A                                                                 
+223TH  G       87.4 2  100   9                                                  
+223TH  G        109                                                            ?
+223TH  G      244.6 2   33   14                                             D   
+223TH  L      706.0 6 (19/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G      136.0 2   19   8                                              &  ?
+223TH  G      158.6 2  100   5 E1                        0.166              D   
+223TH  G      277.4 2   17   3 E2                        0.219              D   
+223TH  L      838.1 6 (21/2)-                                               B   
+223THX L XREF=A                                                                 
+223TH  G      131.9 2   100  13E1                        0.258                  
+223TH  G      290.9 2   41   5 E2                        0.189                  
+223TH  L      858.1 6 (21/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G      200.9 2   100  5                                              &   
+223TH  G      288.5 2   6    1 E2                        0.194                  
+223TH  L      962.1 6 (23/2-)                                               B   
+223THX L XREF=A                                                                 
+223TH  G      103.8 5   100  10                                             D   
+223TH  G      305.2 2   13   1 E2                        0.163                  
+223TH  L     1021.6 6 (23/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G      183.3 3  100   24E1                        0.117              D   
+223TH  G      315.7 2   13   2 E2                        0.147                  
+223TH  L     1179.4 6 (25/2)-                                               B   
+223THX L XREF=A                                                                 
+223TH  G      157.6 3  100   4 E1                        0.168              D   
+223TH  G      341.4 2   8    3 E2                        0.117                  
+223TH  L     1185.4 6 (25/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G      223.2 2   675  38                                             &   
+223TH  G      326.8 5   100  27E2                        0.133              D   
+223TH  L     1313.8 6 (27/2)-                                               B   
+223THX L XREF=A                                                                 
+223TH  G      128.1 3   70   10E1                        0.276                  
+223TH  G      351.9 2   100  25                                                 
+223TH  L     1370.6 6 (27/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G      191.3 2   100  8 E1                        0.106                  
+223TH  G      349.0 2   29   11                                                 
+223TH  L     1551.7 6 (29/2)+                                               A   
+223THX L XREF=A                                                                 
+223TH  G      237.8 2   100  10E1                      0.0635                   
+223TH  G      366.3 2   30   10E2                      0.0962                   
+223TH  L     1558.4 6 (29/2)-                                               B   
+223THX L XREF=A                                                                 
+223TH  G      187.8 2  100   6 E1                        0.111                  
+223TH  G      378.9 5   24   6 E2                      0.0877               D   
+223TH  L     1702.5 7      (31/2)-                                          B   
+223THX L XREF=A                                                                 
+223TH  G      150.7 3   100  22E1                        0.187                  
+223TH  G      388.8 2   61   17E2                      0.0818                   

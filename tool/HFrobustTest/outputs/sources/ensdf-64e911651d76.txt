@@ -1,0 +1,43 @@
+231PU    235CM A DECAY (5.0 M)         2020KH10                  22NDS    202210
+231PU  H TYP=FUL$AUT=Balraj Singh, Jagdish K. Tuli, and Edgardo Browne$         
+231PU2 H CIT=NDS 185, 560 (2022)$CUT=31-Aug-2022$                               
+231PU c  Adapted from compiled dataset from 2020Kh10 in XUNDL database by       
+231PU2c  E.A. McCutchan (NNDC,BNL), March 19, 2020                              
+231PU c  2020Kh10: {+235}Cm from the |a decay chain for {+243}Fm decay:         
+231PU2c  {+243}Fm|){+239}Cf|){+235}Cm. The {+243}Fm activity was formed in      
+231PU3c  {+208}Pb({+40}Ar,X),E({+40}Ar)=192 MeV reaction, followed by separation
+231PU4c  of evaporation residues using SHIP velocity filter and time-of-flight  
+231PU5c  detectors at the UNILAC linear accelerator of GSI facility, and finally
+231PU6c  implanted into a position sensitive 16-strip Si detector, surrounded by
+231PU7c  six additional Si detectors for the detection of escaped |a particles  
+231PU8c  or fission fragments, and an HPGe Clover detector. FWHM=25 keV for     
+231PU9c  |a particles. Measured E|a, (recoil)|a|a|a and                         
+231PUAc  (recoil)|a|a|a(t)-correlated events, and (recoil)|a|g-coin from the    
+231PUBc  decay of {+243}Cm. First evidence for the identification of {+235}Cm   
+231PUCc  nuclide and its half-life determination.                               
+231PU c  According to 2020Kh10, proposed decay scheme is tentative              
+231PU c  Evaluators' note about the decay scheme: except for energies of one    
+231PU2c  definite |a transition and another tentative |a transition, no other   
+231PU3c  spectral information is available in literature                        
+235CM  P 0            (5/2+)           5.0 M     +41-17         7130      20    
+235CM cP J$Proposed by 2020Kh10 from configuration=5/2[633] based on systematics
+235CM cP T$300 s {I+250-100} from (recoil)|a{-3}-correlated decay curve         
+235CM2cP (2020Kh10). Authors point out that with a long correlation time and    
+235CM3cP background conditions in the present experiment, the decay curve       
+235CM4cP analysis could be affected by random events. In evaluators' opinion,   
+235CM5cP the half-life should be viewed with caution.                           
+235CM cP QP$Deduced by evaluators from measured E|a=7.01 MeV {I2} (2020Kh10),   
+235CM2cP assuming this as a g.s. to g.s. |a transition. Other: 7280 {I100}      
+235CM3cP (syst, 2021Wa16)                                                       
+231PU  N                        0.011  6                                        
+231PU cN BR$%|a=1.0 {I+7-5} for {+235}Cm |a decay (2020Kh10), determined from   
+231PU2cN from number of |a decays of {+235}Cm and {+239}Cf                      
+231PU  L 0                                                                      
+231PU  A 7.01E2    2                                                            
+231PU cA E$from two (recoil)|a-correlated events (2020Kh10)                     
+231PU cA $2020Kh10 deduced |a-hindrance factor=100 {I+230-83}                   
+231PU  L 324       28                                                          ?
+231PU cL E$from measured E|a=6.69 MeV {I2} and Q(|a)=7130 {I20}                 
+231PU  A 6.69E2    2                                                            
+231PU cA E$from five (recoil)|a-correlated events (2020Kh10)                    
+231PU cA $2020Kh10 deduced |a-hindrance factor=1.0 {I+8-5}                      

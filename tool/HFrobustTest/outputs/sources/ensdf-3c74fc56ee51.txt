@@ -1,0 +1,73 @@
+255RF    ADOPTED LEVELS                                          13NDS    201309
+255RF  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1041 (2013)$            
+255RF2 H CUT=1-Nov-2011$                                                        
+255RF D  Modified by E. Browne (Nov. 3, 2011, Jan. 20, 2012).                   
+255RF  Q -5402     SY 6939   SY 2831   SY 9055   4     2012WA38                 
+255RF cQ $|D(Q(|b{+-}))=438, |D(S(n))=306, |D(S(p))=322 (syst,2012Wa38)         
+255RF cQ $Q(|ep)=2317 {I115} (syst,2012Wa38)                                    
+255RF d  Structure calculations:                                                
+255RF d  G.S. properties: 1997Mo25, 1995Mo29                                    
+255RF d  Single-particle energies, levels: 2009Do22, 2006Sh19, 2005Pa73,        
+255RF2d  2004He23, 2001HeZZ, 1985Cw01.                                          
+255RF d  Deformation Parameters: 2011Ad15, 2011As03.                            
+255RF d  Fission half-life: 2005Re16, 2004Ro01, 1978Po09,                       
+255RF d  Cross section calculations: 2011Ca08, 2010Wa39, 2005Zu02, 2005Zu02,    
+255RF2d  2004Ad32, 2003Zu02, 2002Zu01, 2001Za10, 2000Ad15.                      
+255RF d  Calculated QA, T: 2010Si27, 2008Do12, 2008Ro06, 2007Zh41, 2005Zh24,    
+255RF2d  2001Mo07, 1999He07.                                                    
+255RF d  Other reactions: 2008Za07, 2007Og05.                                   
+255RF c  1994Cw02 calculated the following single-particle level sequence:      
+255RF2c  0, 9/2[734]; 290, 7/2[624]; 400, 5/2[622]; 670, 1/2[620];              
+255RF3c  790, 3/2[622]; 890, 11/2[725]; 920, 7/2[613]. See also 2005Pa73        
+255RF c                                                                         
+255RF c  Production and identification of {+255}Rf nuclide:                     
+255RF c  1975Og01, 1975Og04: {+207}Pb({+50}Ti,2n) excit, fission fragments      
+255RF2c  detected                                                               
+255RF c  1985He06, 1986He28, 1989He03: {+207}Pb({+50}Ti,2n) E=192 MeV;          
+255RF2c  total of 19 |a particles detected by |a-|a correlation                 
+255RF c  1984Og02, 1984Og03: {+208}Pb({+50}Ti,2n)                               
+255RF c  1997He29: {+208}Pb({+50}Ti,3n), {+206}Pb({+50}Ti,n), E=4.9 to 5.1 MeV  
+255RF2c  per A, measured excit, delayed |a-|a correlations.                     
+255RF c  2001He35: {+207}Pb({+50}Ti,2n). Measured |a, |a|g, |a|a. In the        
+255RF2c  experiment with improved statistics, compared with their earlier       
+255RF3c  experiments, the authors did not confirm any indication for existence  
+255RF4c  of a low-lying isomer in {+255}Rf with T{-1/2}|?0.9 s. Also 1999He07.  
+255RF c  2006He27: {+255}Rf isotope produced by the {+207}Pb({+50}Ti,2n) at     
+255RF2c  E=4.85 MeV/nucleon.  Reaction products were separated from the primary 
+255RF3c  beam by the SHIP velocity filter at GSI facility and implanted into a  
+255RF4c  position-sensitive 16-strip PIPS detector.                             
+255RF d  Others: 1997Ho13, 1989Il02, 1989Mu17, 1987Mu15,                        
+255RF c  A tentative |a-decaying isomer with half-life=0.8 s {I+5-2} reported   
+255RF2c  by 1997He29 has not been confirmed in authors' later (higher           
+255RF3c  statistics) works of 2001He25 and 2006He27                             
+255RF  XA259SG A DECAY                                                          
+255RF  XB208PB(48TI,N)                                                          
+255RF cL E         From {+259}Sg |a decay.                                      
+255RF  L 0.0          (9/2-)           1.68 S    9                              
+255RFX L XREF=AB                                                                
+255RF2 L %A=42 9$ %SF=58 9$%EC+%B+<1                                            
+255RF cL J$ analogy with N=151 nuclei ({+245}Pu,{+247}Cm,{+249}Cf,              
+255RF2cL {+251}Fm); configuration=(|n9/2[734])                                  
+255RF cL T$ From 2006He27. Others: 1.65 s {I+3-2} (2008Dr05), 1.64 s {I11}      
+255RF2cL (2001He35), 1.4 s {I+5-3} (1997He29), 1.4 s {I+3-2} (1986He28), 1.4    
+255RF3cL s {I2} (1985He06), 1.5 s {I+3-2} (1984De07), 1.7 s {I2}                
+255RF4cL (1984Og02,1984Og03), |?4 s (1975Og01).                                 
+255RF cL T$ 2001He35, 1997He29, 1986He28 and 1985He06 are from the same         
+255RF2cL group as 2006He27, thus the half-life reported in 2006He27             
+255RF3cL is assumed to supersede values in the earlier papers.                  
+255RF cL           %SF from T{-1/2}(SF)=2.9 s {I4} (weighted average of         
+255RF2cL 2.7 s {I5} (1985He06) and 3.1 s {I4} (1997He29), recommended in        
+255RF3cL 2000Ho27), and T{-1/2}=1.68 s {I9} (2006He27).                         
+255RF cL           %SF. Others: %SF=52 {I5} (2001He35); 52 {I7}                 
+255RF2cL (1985He06,1986He28); 45 {I6} (1997He29); |?50 (1984Og03,1970Og01).     
+255RF3cL From log| {Ift}|?6                                                     
+255RF3cL and Q(|e)|?4400 %|e+%|b{++}|<1.                                        
+255RF  L   63      AP                                                           
+255RFX L XREF=A                                                                 
+255RF  L  121      AP                                                           
+255RFX L XREF=A                                                                 
+255RF  L  656      AP                                                           
+255RFX L XREF=A                                                                 
+255RF cL E$ calculated E(1/2[620])=670 keV (1994Cw02)                           
+255RF cL J$ favored |a decay from {+259}Sg suggests same quasiparticle          
+255RF2cL configuration as that for {+259}Sg g.s.                                

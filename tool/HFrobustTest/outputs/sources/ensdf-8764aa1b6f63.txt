@@ -1,0 +1,39 @@
+246ES    250MD A DECAY                 2008AN16,1985HE22,1973ES0124NDS    202410
+246ES  H TYP=FUL$AUT=C.D. Nesaraja$CIT=NDS 198, 449 (2024)$CUT=31-Jul-2022$     
+246ES c  2008An16: {+250}Md was produced from the |a decay of {+254}Lr.         
+246ES2c  Measurement were performed at the UNILAC accelerator at GSI.           
+246ES3c  Alphas were measured using the 16 strip silicon PIPS.                  
+246ES4c  The |a energies were determined to an accuracy of 10 keV.              
+246ES5c  The |g rays in prompt and delayed coincidence with |a particles were   
+246ES6c  measured with a Clover Ge detector.                                    
+246ES7c  No level scheme is proposed by 2008An16 but the authors conclude that  
+246ES8c  none of the two |a groups at 7750 and 7840 keV decay directly to       
+246ES9c  the g.s. of {+246}Es.                                                  
+246ES c  1985He22: {+250}Md was produced from the |a decay of {+254}Lr.         
+246ES2c  Measurement were performed at GSI. Position-sensitive surface barrier  
+246ES3c  were used to measure the alphas. Deduced E|a, I|a, and T{-1/2}.        
+246ES c  1973Es01: {+250}Md was produced by bombarding {+243}Am with {+13}C     
+246ES2c  at the Berkeley heavy-ion accelerator.                                 
+246ES2c  The |a particles were measured with Si-Au surface barrier detectors.   
+246ES3c  Measured E|a and I|a.                                                  
+250MD  P 0                             51 S      6              8155      28    
+250MD cP T$From weighted average of 50 s {I+10-7} (2008An16),                   
+250MD2cP 40 s {I+37-13} (1985He22) and 52 s {I6} (1973Es01). The current        
+250MD3cP adopted T{-1/2} in the ENSDF database is 52 s {I6} (2001Ak11)          
+250MD cP QP$From 2021Wa16                                                       
+246ES  N                        0.070  8                                        
+246ES cN BR$%|e=93.0 {I8}, %|a=7.0 {8} (2008An16).                              
+246ES2cN Others: %|e= 94% {I3}(1973Es01), %|a= 13% {I+10} (1985He22).           
+246ES  A 7750      20  80    AP                                                 
+246ES cA E$Weighted average of 7750 keV {I20} (2008An16), 7751 keV {I20}        
+246ES2cA (1985He22), and 7750 keV {I20} (1973Es01).                             
+246ES cA IA$From 1985He22. Other:|?70 (1973Es01)                                
+246ES  A 7830      20  20    AP                                                 
+246ES cA E$Weighted average of 7840 keV {I40} (2008An16), 7837 keV {I20}        
+246ES2cA (1985He22), and 7820 keV {I30} (1973Es01).                             
+246ES cA E$In coincidence with unplaced 152.3|g                                 
+246ES cA IA$From 1985He22. Other:|?30 (1973Es01)                                
+246ES  G 152.3     5                                                            
+246ES cG E$Unplaced |g in coincidence with the 7840 {I40} |a group (2008An16).  
+246ES  L 0.0+X                         7.5 M     5                           M  
+246ES cL T$From Adopted Levels                                                  

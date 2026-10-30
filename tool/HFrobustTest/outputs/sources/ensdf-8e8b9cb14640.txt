@@ -1,0 +1,42 @@
+240ES    ADOPTED LEVELS                                          25NDS    202511
+240ES  H TYP=FUL$AUT=C. Morse$CIT=NDS 206, 359 (2025)$CUT=27-Sep-2024$          
+240ES  Q              7476   SY 1265   SY 8.26E+3 6    2021Wa16                 
+240ES cQ $|DS(n)=473, |DS(p)=385 (2021Wa16)                                     
+240ES cQ $S(2p)=4569 syst {I447},  Q(|ep)=2687 syst {I420} (2021Wa16)           
+240ES c  2017Ko02: {+240}Es produced in the {+209}Bi({+34}S,3n) reaction at     
+240ES2c  the University of Jyvaskyla accelerator laboratory. E({+34}S)= 174     
+240ES3c  MeV and 178 MeV, the latter reduced to 175 MeV and 172 MeV using       
+240ES4c  carbon foils with thicknesses of 0.2 and 0.4 mg/cm{+2} in front of     
+240ES5c  the target. The 0.5 mg/cm{+2} {+209}Bi target was evaporated on a      
+240ES6c  0.05 mg/cm{+2} carbon-backing foil. Evaporation residues were          
+240ES7c  separated by the RITU gas-filled separator and implanted into two      
+240ES8c  DSSDs of 300|mm thickness and consisting of 60 horizontal and 40       
+240ES9c  vertical strips. Three Clover-type HPGe detectors and a planer HPGe    
+240ESac  detector surrounded the DSSDs. Measured: E|a, E|g, implant-|a-|a(t),   
+240ESbc  implant-fission(t), implant-|a-fission(t) and implant-|a-|g(t)         
+240EScc  correlations.                                                          
+240ES c  $ This dataset was submitted by F.G. Kondev as a standalone            
+240ES2c  evaluation.  As no new data have been published, it has been retained  
+240ES3c  unchanged except for updated Q values.                                 
+240ES  XA244MD A DECAY                                                          
+240ES  L 0            (1+)              6 S       2                             
+240ESX L XREF=A                                                                 
+240ES2 L %A=70 10$%EC+%B+=30 10$%ECSF=4.8 18$                                   
+240ES3 L CONF=|[|p7/2[633]~#|n5/2[633]|]{-K|p=1+}                               
+240ES cL %A,%EC,%ECSF$From 2017Ko02. %|eSF=16 {I6} per 100 |e decays reported   
+240ES2cL in 2017Ko02                                                            
+240ES cL J$From systematics and the proposed configuration.                     
+240ES cL T$From implant-8190|a(t) and implant-8090|a(t). From the observed 15   
+240ES2cL implant-fission(t) events, a value of T{-1/2}=5 s {I2} was obtained.   
+240ES cL $E|a=8190 keV {I30} (27 events) and 8090 keV {I30} (60 events) in      
+240ES2cL 2017Ko02, correlated with E|a=6954 keV {I20} of {+236}Cm. The          
+240ES3cL implant-|a events were correlated within a 30 s time window.           
+240ES cL CONF$From systematics of Es (Z=99) isotopes, |p7/2[633] (i{-13/2})     
+240ES2cL and |p3/2[521] (f{-7/2}) orbitals are expected near the proton Fermi   
+240ES3cL surface, while the |n5/2[633] (g{-9/2}) orbital is expected near the   
+240ES4cL neutron Fermi surface for N=141 isotones. Thus, using the              
+240ES5cL Gallagher-Moszkowski rule, one may expect K|p=1+,                      
+240ES6cL |p7/2[633]~#|n5/2[633] for the ground state and K|p=6+,                
+240ES7cL |p7/2[633]~#|n5/2[633] for an excited isomeric state. K|p=1-,          
+240ES8cL |p3/2[521]~#|n5/2[633] is a possible alternative. The assignments are  
+240ES9cL tentative                                                              

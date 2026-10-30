@@ -1,0 +1,39 @@
+232NP    ADOPTED LEVELS                                          06NDS    200610
+232NP  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 107, 2579 (2006)$CUT=1-Nov-2004$         
+232NP  Q -1.00E3   SY6.34E3  SY3.74E3  SY6.01E3  SY    2012WA38                 
+232NP cQ $Note: Current evaluation has used the following Q record              
+232NP2cQ -1010     syst 6340   syst 3740   syst 6010   syst    2003Au03         
+232NP  XA232PU EC DECAY                                                         
+232NP  XB236AM A DECAY                                                          
+232NP  L 0            (4+)             14.7 M    3                              
+232NPX L XREF=AB                                                                
+232NP cL T         from 1970Ho27, 1972We16. Other: 1950Ma14                     
+232NP cL J$From Nilsson orbital assignments in neighboring nuclei (1972El21).   
+232NP2cL The 5/2[642] (or possibly the 5/2[523]) proton orbital is expected     
+232NP3cL at low energy in {+232}Np. The same is true for the 5/2[633] and       
+232NP4cL 3/2[631] (or possibly the 5/2[752]) neutron orbitals.                  
+232NP5cL The log| {Ift}=5.2 to the 1194.-keV (J|p=3+,4+) level in {+232}U       
+232NP6cL suggests J=3 or 4, but configuration=p 5/2[642] + |n 3/2[631] for      
+232NP7cL {+232}Np g.s. gives J|p=4+. An argument against this assignment is the 
+232NP8cL observation of a 1194-keV |g ray, which deexcites the 1194-keV level   
+232NP9cL to the g.s. (J|p=0+). However, it is possible that this 1194-keV |g    
+232NPAcL ray may had been incorrectly placed in the level scheme.               
+232NP2 L %EC+%B+=100$%A=0.0002                                                  
+232NP cL %A$From systematics (1997Mo25).                                        
+232NP DL J$from Nilsson assignments in neighboring nuclides (1972El21), we      
+232NP2DL expect the 5/2[642] (or possibly the 5/2[523]) as the lowest proton    
+232NP3DL orbit, and the 5/2[633], 3/2[631] (or possibly the 5/2[752]) as the    
+232NP4DL lowest neutron orbit. log| {Ift}'s to {+232}U favor J=3 or J=4 for     
+232NP5DL {+232}Np g.s.; thus, configuration=((|p 5/2[642])+(|n 3/2[631])),      
+232NP6DL resulting in J|p=4+. If the 1193.9|g in {+232}Np |e decay is           
+232NP7DL misplaced, then the 1193 level in {+232}U could be 4+; however,        
+232NP8DL J|p=5+ is not expected for {+232}Np g.s. from the above listed Nilsson 
+232NP9DL configurations, and 5- is very unlikely because log| {Ift}=5.17; this  
+232NPADL low log| {Ift} may be due to |p 5/2[642] |e decay to |n 5/2[633]       
+232NP2DL (compare the analogous decays of {+233}Np and {+235}Pu).               
+232NP  L 50        50 (1+)                                                     ?
+232NPX L XREF=AB                                                                
+232NP cL J$from log| {Ift}|?5.3 in {+232}Pu |e decay.                           
+232NPxcL Possible configuration=((|p 5/2[642])-(|n 3/2[631])).                  
+232NP cL E         from nonobservation of gammas above 100 keV in {+232}Pu      
+232NPxcL decay.                                                                 

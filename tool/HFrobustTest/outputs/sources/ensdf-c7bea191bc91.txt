@@ -1,0 +1,41 @@
+219PA    ADOPTED LEVELS                                          21NDS    202106
+219PA  H TYP=FUL$AUT=Balraj Singh et al.,$CIT=NDS 175, 1 (2021)$CUT=19-May-2021$
+219PA  Q -4710     70 8140   70 1070   70 10130  70    2021WA16                 
+219PA cQ $S(2n)=14610 {I70}, S(2p)=4700 {I70}, Q(|ep)=440 {I90} (2021Wa16)      
+219PA d  {+219}Pa evaluated by B. Singh, G. Mukherjee, S.K. Basu,               
+219PA2d  Srijit Bhattacharya, A.K. De.                                          
+219PA c  {+219}Pa activity was produced by {+204}Pb({+19}F,4n), E=100 MeV.      
+219PA2c  1987FaZS: assignment to {+219}Pa based on excitation functions, and on 
+219PA3c  the systematics of |a-particle energies and half-lives for other Pa    
+219PA4c  isotopes.                                                              
+219PA c  2001Ni06: {+219}Pa formed in Ce({+82}Se,X),E(c.m.)=215-253 MeV         
+219PA2c  at JAERI accelerator facility                                          
+219PA c  2005Li17: {+219}Pa formed in {+9}Be({+238}U,X),E=1 GeV/nucleon at      
+219PA2c  GSI facility                                                           
+219PA c  2017Su18: {+219}Pa obtained from {+223}Np |a decay, the latter         
+219PA2c  produced in {+187}Re({+40}Ar,4n),E=188 MeV, beam from the              
+219PA3c  Sector-focusing cyclotron (SFC) of HIRFL-Lanzhou facility. Target=460  
+219PA4c  |mg/cm{+2} thick sputtered on 80 |mg/cm{+2} thick carbon foils.        
+219PA5c  Evaporation residues were separated using the recoil separator SHANS,  
+219PA6c  and implanted into a 300-|mm double-sided silicon strip detector       
+219PA7c  (DSSSD). Measured E|a, and half-life of {+219}Pa decay. FWHM=22-30 keV 
+219PA8c  for E|a=7 MeV.                                                         
+219PA c  Theoretical calculations: 22 primary references in the NSR             
+219PA2c  database (www.nndc.bnl.gov/nsr), one related to structure              
+219PA3c  calculations, and 21 to radioactivity                                  
+219PA d  Theoretical calculations:                                              
+219PA d  Structure calculations (binding energy): 1987Sa19                      
+219PA d  Radioactivity (|a decay and cluster decay T{-1/2}): 21 references      
+219PA  XA223NP A DECAY (2.2 US)                                                 
+219PA  L 0                  9/2-       54 NS     10                             
+219PA2 L %A=100                                                                 
+219PAX L XREF=A                                                                 
+219PA cL E$detected activity is assumed to correspond to the g.s. of {+219}Pa   
+219PA cL $%|e+%|b{++}|?5|*10{+-9} (1973Ta30, theory);                           
+219PA2cL 5.4|*10{+-8} (2019Mo01, theory).                                       
+219PA cL T$weighted average of 60 ns {I+28-15} (2017Su18) and 53 ns {I10}       
+219PA2cL (1987FaZS).                                                            
+219PA cL J$favored |a decay (HF=1.0) to {+215}Ac (J|p=9/2-).                    
+219PA cL $E|a=9976 keV {I37} (2017Su18) from the decay of {+219}Pa. This can be 
+219PA2cL compared with 9900 keV {I50} in {+219}Pa |a decay dataset in the ENSDF 
+219PA3cL database (Sep 2013 update)                                             

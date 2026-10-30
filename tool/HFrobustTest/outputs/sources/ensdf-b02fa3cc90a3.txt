@@ -1,0 +1,51 @@
+236NP    ADOPTED LEVELS                                          22NDS    202205
+236NP  H TYP=FUL$AUT=Shaofei Zhu$CIT=NDS 182, 2 (2022).$CUT=1-Apr-2022$         
+236NP  Q 4.8E+2    5  5.74E+35  4.83E+35  5.01E+3 5    2021WA16                 
+236NP cQ $S(2n)=12720 {I50}, S(2p)=11540 {I50} (2021Wa16 )                      
+236NP c  Fission T{-1/2}, Cross section: 1998Er01, 1998Ro17, 1992Gr16,          
+236NP2c  1990Ro23, 1989Ko12, 1987Gr34                                           
+236NP CL BAND(C)$PI 5/2[523]+NU 1/2[631]                                        
+236NP cL J(A)$Favored |a decay from  ((|p5/2[523])-(|n 1/2[631]))3- with I|a    
+236NP2cL and E|a in agreement with the rotational band built on this            
+236NP3cL configuration.                                                         
+236NP  XA240AM A DECAY                                                          
+236NP  L 0            6(-)              1.55E+5 Y 1                         A   
+236NPX L XREF=A                                                                 
+236NP2 L %B-=12.0 1$%EC=87.8 2$%A=0.16 4                                        
+236NP cL %B-,%EC,%A,T$from T{-1/2}(|b{+-})=1.29|*10{+6} y {I1},                 
+236NP2cL T{-1/2}(|e)=1.760|*10{+5} y {I4} and T{-1/2}(|a)=9.5|*10{+7} y {I25}   
+236NP3cL (1981Li30).                                                            
+236NP cL %B-$other: 13 % {I1} (1983Ah02)                                        
+236NP cL T$other: T{-1/2}(|b{+-})=1.29|*10{+6} y {I+7-5} (1972En06)             
+236NP cL %EC$other: 87% {I1} (1983Ah02).                                        
+236NP cL J$|e decay to 6+ level in {+236}U and |b{+-} decay to 6+ level in      
+236NP2cL {+236}Pu; no |e decay and |b{+-} decay to 2+ or 0+ levels; large log   
+236NP3cL {Ift} values suggesting large K-hinderance and possible                
+236NP4cL configuration=((|p5/2[642])-(|n 7/2[743])) or ((|p 5/2[523])-(|n       
+236NP5cL 7/2[743])) while Gallagher-Moszkowski rule favors ((|p5/2[642])-(|n    
+236NP6cL 7/2[743])) with J|p=6- for lower energy (1981Li30).                    
+236NP  L 57        51 1(-)              22.5 H    4                          M  
+236NPX L XREF=A                                                                 
+236NP2 L %B-=49 1$%EC=51 1                                                      
+236NP cL %B-$weighted average of 57 {I5} (1956Gr11), 49 {I1} (1959Gi58) and 50  
+236NP2cL {I5} (1969Le05); other: 33 (1951Or02).                                 
+236NP cL %EC$from 1-%|b{+-} and no |a decay observed; others: 43 {I5}           
+236NP2cL (1956Gr11), 51 {I8} (1959Gi58), 50 {I5} (1969Le05) and 67 (1951Or02).  
+236NP cL E$deduced from E(|b{+-},{+236}Np(22.5 h))=537 keV 8 (1969Le05) and     
+236NP2cL Q(|b{+-},{+236}Np(g.s.))=480 keV 50 (2021Wa16).                        
+236NP cL J$|e decay to 0+,2+ and 1- levels in {+236}U and |b{+-} decay to 0+    
+236NP2cL and 2+ levels in {+236}Pu; Gallagher-Moszkowski rule favors            
+236NP3cL ((|p5/2[642])-(|n 7/2[743])) with J|p=1- for higher energy (1981Li30). 
+236NP cL T$from 1969Le05 and 1949Ja01.                                          
+236NP  L 241       50 (3-)                                                  A   
+236NPX L XREF=A                                                                 
+236NPF L FLAG=C                                                                 
+236NP cL E$from {+240}Am |a decay.                                              
+236NP  L 283       50 (4-)                                                  A   
+236NPX L XREF=A                                                                 
+236NPF L FLAG=C                                                                 
+236NP cL E$from {+240}Am |a decay.                                              
+236NP  L 334       50 (5-)                                                  A   
+236NPX L XREF=A                                                                 
+236NPF L FLAG=C                                                                 
+236NP cL E$from {+240}Am |a decay.                                              

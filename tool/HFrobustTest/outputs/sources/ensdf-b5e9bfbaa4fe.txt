@@ -1,0 +1,203 @@
+254ES    ADOPTED LEVELS, GAMMAS                                  19NDS    201902
+254ES  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 156, 1 (2019)$CUT=31-Jan-2019$        
+254ES  Q 1088      3 5091    4 4600    6 6615.7  15    2017WA10                 
+254ES cQ $S(2n)=11450 {I50}, S(2p)=11120 {I200} (syst) (2017Wa10)               
+254ES c  1954Fi14: {+254}Es isomer of 39 hours produced and identified in       
+254ES2c  neutron-activation of {+253}Es at Argonne National lab, measured       
+254ES3c  half-life                                                              
+254ES c  1954Ch23, 1955Ha35: {+254}Es isomer of 39 hours produced and identified
+254ES2c  in neutron-activation of Pu and higher mass nuclides at Berkeley,      
+254ES3c  followed by chemical separation and measurement of half-life           
+254ES4c  |b{+-} activity.                                                       
+254ES c  A 272-d activity in {+254}Es was reported by B.G. Harvey et al.,       
+254ES2c  in 1955 as quoted on page 960 of book by 1964Hy02.                     
+254ES c  Later half-life and other measurements of {+254}Es decay: 1956Jo09,    
+254ES2c  1958Sc35, 1962Un01, 1973Ah04, 1975Ah04, 1988Po05                       
+254ES c  2009Se09, 2011Gu11: {+254}Es produced through the irradiation of       
+254ES2c  {+252}Cf by neutrons at a reactor in Dimitrovgrad, Russia, followed    
+254ES3c  by |b{+-} decay to {+253}Es, which then captured a neutron through     
+254ES4c  the {+253}Es(n,|g) reaction to produce {+254}Es. The sample was        
+254ES5c  radiochemically separated before being mass separated and implanted    
+254ES7c  into an Fe foil at Bonn, Germany. Nuclear orientation experiments were 
+254ES8c  performed in Leuven, Belgium. The |a decays were detected by six Si    
+254ES9c  PIN-diodes and |g rays by two large volume HPGe detectors. Count rates 
+254ESAc  were recorded for both oriented and nonoriented nuclei, from which the 
+254ESBc  angular distribution was determined. Measured magnetic dipole moment   
+254ESCc  from the anisotropy of |a particles from oriented nuclei, and the      
+254ESDc  hyperfine magnetic field for Es impurities in Fe host. See also        
+254ESEc  2010Gu05, 2006Gu32, 2005Se08 and 2004Gu22 from the same group as       
+254ESFc  2009Se09 and about the same topic                                      
+254ES d  Yield measurement: 2013Kr14                                            
+254ES c  Theoretical studies: consult the NSR database at www.nndc.bnl.gov for  
+254ES2c  29 references dealing with theoretical calculations of                 
+254ES3c  half-lives for different decay modes, binding energies, fission        
+254ES4c  characteristics, and other nuclear structure aspects.                  
+254ES d  Theoretical nuclear structure calculations (levels, bands, etc.):      
+254ES2d  2014An15, 2007Sa02                                                     
+254ES d  Calculations of fission barrier: 1984Ku05.                             
+254ES d  Analysis of SF half-lives with respect to liquid-drop model:           
+254ES2d  2004Ro01, 1987Gu03.                                                    
+254ES cG $The level scheme given here is as proposed by 1993Mo18 in their       
+254ES2cG study of |a and |g data {+258}Md |a decay. It is not considered        
+254ES3cG complete by the evaluators as information about multipolarities and    
+254ES4cG mixing ratios is generally missing. There is also a serious problem    
+254ES5cG with a non-physical negative transition intensity balance at the       
+254ES6cG 171-keV level in {+258}Md |a decay                                     
+254ES cG E,RI,M,MR$From {+258}Md |a decay (51.50 d)                             
+254ES cG E(X)$The ordering of the 189.1-214.7 |g cascade is not established     
+254ES cL $1993Mo18 proposed a band based on bandhead 6- at 214.7 keV, with      
+254ES2cL band members of 7- at 289.9, 8- at 376.8 and 9- at 469.2 keV, with     
+254ES3cL configuration=|p3/2[521]~#|n9/2[615], K|p=6-. But theoretical analysis 
+254ES4cL by 2007Sa02 does not support this conjecture as the calculated energy  
+254ES5cL of the 6- bandhead for this configuration is >350 keV. In addition,    
+254ES6cL 376.8 level is assigned 8+ by 2007Sa02 from agreement of the           
+254ES7cL theoretical energy for configuration=|p7/2[633]~#|n9/2[615]            
+254ES cL E$From least-squares fit to E|g values                                 
+254ES CL BAND(A)$Probable K|p=(7+), g.s. band.                                  
+254ES2cL Band parameter A=5.0.                                                  
+254ES3cL Proposed configuration=|p7/2[633]~#|n7/2[613] (1993Mo18)               
+254ES  XA258MD A DECAY (51.50 D)                                                
+254ES PN                                                                     6  
+254ES  L 0.0         (7+)              275.7 D   5                          A   
+254ES2 L %A AP 100 $ %B-=1.74E-4 8 $ %SF<3E-6 $ %EC=?                           
+254ES2 L MOMM1=4.35 41 (2009Se09,2011Gu11,2014StZZ)                             
+254ESX L XREF=A                                                                 
+254ES cL MOMM1$from |a(|q) in oriented nuclei, sign is unknown                  
+254ES2cL (2009Se09,2011Gu11,2010Gu05)                                           
+254ES cL $A{-2}=+0.47 {I7}; A{-4}=-0.030 {I14} at 90 mK for the 6429 keV |a     
+254ES2cL transition from this level (2009Se09,2011Gu11)                         
+254ES cL T$measurement by 1975Ah04. Other measured half-lives are:              
+254ES2cL 266 d {I4} (1988Po05), 276 d {I76} (1962Un01), 480 d {I70} (1958Sc35), 
+254ES3cL 272 d (from G.G. Harvey et al. (1955) as quoted by 1964Hy02 on         
+254ES4cL page 960)                                                              
+254ES cL J$analogy to {+253}Es suggests |p7/2[633] for the 99th proton,         
+254ES2cL and analogy to {+255}Fm suggests |n7/2[613] for the 155th neutron      
+254ES3cL state. From favored |a to (7+) {+250}Bk, and |a(|q) from oriented      
+254ES4cL nuclei (2005Se08), a high-spin assignment for the {+254}Es g.s. is     
+254ES5cL consistent with weak |b and |e branches to {+254}Fm and {+254}Cf,      
+254ES6cL respectively. No |a branch from 51.5-d {+258}Md is expected. The       
+254ES7cL observation of a weak |a suggests some admixture with other            
+254ES8cL configurations.                                                        
+254ES cL $1985Ok04 determined |b{+-} decay/total=1.74|*10{+-6} {I8}             
+254ES2cL from relative intensities of {+254}Es and {+254}Fm |a's; {+254}Fm was  
+254ES3cL in equilibrium with {+254}Es. Earlier measurement: %|b{+-}<2|*10{+-4}  
+254ESxcL (1966Mc02).                                                            
+254ES cL $%SF<3|*10{+-6} is from T{-1/2}(SF)>2.5|*10{+7} y, measured            
+254ES2cL by 1967Fi03. Other measurement: 1965Me02.                              
+254ES cL $A partial half-life of |?8|*10{+3} s for |e decay,                    
+254ES2cL calculated by 1973Ta30 from the |b gross theory, suggests %|e|?0.03%.  
+254ES  L 80.1      1 (8+)                                                   A   
+254ESX L XREF=A                                                                 
+254ES cL J$(M1+E2) |g to g.s.; (E1) |g from (8-), 447.9 level;                  
+254ES2cL band member                                                            
+254ES  G 80.1      2   100      (M1+E2)   1.25   25      49   6                 
+254ESS G LC=35 4 $MC=9.9 12$NC=2.8 4$OC=0.70 9$PC=0.115 13$QC=0.00127 25        
+254ES  L 84.2      25 2+               39.3 H    2                           M1 
+254ES2 L %B-=98 2 $ %A=0.32 1 $ %EC=0.076 7 $ %IT<3 $ %SF<0.045 $               
+254ES2 L MOMM1=2.90 7 (1975Go05,2014StZZ)                                       
+254ES2 L MOME2=+3.7 5 (1975Go05,2016St14)                                       
+254ES cL T$measurement by 1962Un01 from |b and |g counting, weighted average    
+254ES2cL of three results. Other measurements: 38.5 h {I10} (1956Jo09),         
+254ES3cL 36.3 h (1954Ch23), 37 h {I1} (1954Fi14)                                
+254ES cL $%|b{+-}/%|a=302 {I9} (1973Ah04) from                                  
+254ES2cL intensities of 39-h {+254}Es and {+254}Fm |a decays                    
+254ES cL $%|e/%|b{+-}=7.8|*10{+-4} {I6} (1963Ph01) from                         
+254ES2cL the rates of |a emission and spontaneous fission in {+254}Fm and       
+254ES3cL {+254}Cf daughters, chemically separated from {+254}Es.                
+254ES cL $%IT<3 was deduced by 1973Ah04 by following growth in the              
+254ES2cL 6429|a peak of 275.7-d {+254}Es. %IT is probably much less than        
+254ES3cL 3% as gamma transition to (7+) g.s. requires M5 multipolarity.         
+254ES cL $%SF is calculated from T{-1/2}(SF)>10 y, listed by 1954Fi14.          
+254ES cL $All branchings are adopted from the experimental |b{+-}/|a,           
+254ES2cL |e/|b{+-}, T{-1/2}(SF), and the upper limit for isomeric transition    
+254ES3cL given above. Other measurements: %|b{+-}/%|a=382 {I30} (1967Fi03).     
+254ES cL J$spin was measured by 1975Go05 by using atomic-beam resonance method; 
+254ES2cL parity is from the hindrance factor of 6382|a to the positive-parity   
+254ES3cL level at 211-keV in {+250}Bk, and agreement of measured |m with        
+254ES4cL theoretical calculations (see 1975Go05) for a state with               
+254ES5cL configuration=|p7/2[633]~#|n3/2[622], 2+                               
+254ES cL $From their measured spectroscopic quadrupole moment,                  
+254ES2cL 1975Go05 calculated the deformation parameter, |e=0.21.                
+254ES cL E$From Q(|a)({+254}Es 39.3 h)=6699.9 {I20} (based on Q(|a) for         
+254ES2cL g.s. in 2017Wa10), and E|a=6383.9 {I20}, 6383.9 {I20} recalibrated |a  
+254ES3cL from 39.3 h {I2} {+254}Es level to the 211.82-keV, 35.587 levels in    
+254ES4cL {+250}Bk, respectively.                                                
+254ES  L 171.1     1 (9+)                                                   A   
+254ESX L XREF=A                                                                 
+254ES cL J$(E1) |g from (8-); probable band member                              
+254ES  G 91.0      3 26      16 [M1+E2]                  25   13                
+254ESF G FL=80.1                                                                
+254ESS G  LC=18.2 89$MC=5.0 28                                                  
+254ESS G  NC=1.42 78$OC=0.36 19$PC=0.060 28$QC=0.00109 79                       
+254ES  G 171.1     2 100     33 [E2]                     2.30                   
+254ESS G  KC=0.1482 21$LC=1.546 23$MC=0.441 7                                   
+254ESS G  NC=0.1246 19$OC=0.0313 5$PC=0.00509 8$QC=3.22E-5 5                    
+254ES  L 214.7     2                                                           ?
+254ESX L XREF=A                                                                 
+254ES cL E$existence of a level at 214.7 keV is not certain, as it relies on    
+254ES2cL only one |g ray to  ground state, and another |g placed from the       
+254ES3cL 402-keV level, from 189.1- and 214.7-keV gammas forming a cascade,     
+254ES4cL whose ordering is not certain                                          
+254ES cL J$1993Mo18 suggested that this level may be the 6- state with          
+254ES2cL configuration=|p3/2[521]~#|n9/2[615]. A |g transition from this level  
+254ES3cL to the g.s. with 7+, |p7/2[633]~#|n7/2[613] configuration would be     
+254ES4cL highly hindered. Theoretical analysis by 2007Sa02 disagrees with       
+254ES5cL the assignment of 6- bandhead for the proposed configuration, as the   
+254ES6cL calculated bandhead energy for this configuration is predicted by      
+254ES7cL 2007Sa02 as above 350 keV                                              
+254ES  G 214.7     2   100      [D,E2]                  2.5   24            X  ?
+254ES  L 289.9     3  (7+)                                                     ?
+254ESX L XREF=A                                                                 
+254ES cL $No |g decay of this level is known                                    
+254ES cL J$possible (M1+E2) |g from (8+) level.                                 
+254ES2cL Assignment by 1993Mo18 as 7- member of K|p=6- band is not adopted here 
+254ES  L 376.8     2  (8+)                                                      
+254ESX L XREF=A                                                                 
+254ES cL J$1993Mo18 proposed this level as the 8- member of the                 
+254ES2cL suggested K|p=6- band. For K|p=8-, |p7/2[514]~#|n9/2[615] of the       
+254ES3cL {+258}Md g.s., |a hindrance factor of 28 for the 6788|a is inconsistent
+254ES4cL with the proposed configuration (HF of such an |a transition between   
+254ES5cL is expected as much greater than 100). 2007Sa02, in their theoretical  
+254ES6cL analysis assign this level as K|p=8+, J|p=8+ with configuration=       
+254ES7cL |p7/2[633]~#|n9/2[615]                                                 
+254ES  G 86.9      2  10     3  (M1+E2)                30     17               ?
+254ESS G LC=22 12$MC=6 4$NC=1.7 10$OC=0.44 25$                                  
+254ESS G PC=0.07 4$QC=0.0013 9                                                  
+254ES  G 205.7     2 22      8  [M1+E2]                3.2    22                
+254ES  G 296.7     2 100     17 [M1+E2]                1.1    9                 
+254ES2 G FL=80.1                                                                
+254ES  G 376.8     4 32      13 [M1+E2]                0.6    5                 
+254ES  L 403.8     3                                                            
+254ESX L XREF=A                                                                 
+254ES cL $The gamma decay of this level is largely unknown                      
+254ES cL J$(7-) from theoretical analysis by 2007Sa02 with configuration=       
+254ES2cL |p7/2[514]~#|n7/2[613], K|p=7-                                         
+254ES  G 189.1     2  100       [D,E2]                  3.5   34            X  ?
+254ES  L 447.9     1 (8-)                                                       
+254ESX L XREF=A                                                                 
+254ES cL J$favored |a decay from 51.50-d {+258}Md. Configuration of this        
+254ES2cL state should be the same as that of the parent 51.50-d, {+258}Md which 
+254ES3cL is probably 8- with main configuration=|p7/2[514]~#|n9/2[615]. If      
+254ES4cL the ground state (7+) has configuration=|p7/2[633]~#|n7/2[613],        
+254ES5cL large admixtures in g.s. or in 447.9-keV level configurations are      
+254ES6cL expected because of the 447.9-keV |g transition which would be         
+254ES7cL forbidden (since otherwise, it would require both the proton and the   
+254ES8cL neutron states to change)                                              
+254ES cL $By assuming that the 80.0- and 171.1-keV levels are the 8+            
+254ES2cL and 9+ states of the g.s. rotational band, 1993Mo18                    
+254ES3cL pointed out that the relative intensities of the 276.8-, 376.8- and    
+254ES4cL 447.9-keV gammas disagree with the expected relative I|g values to 7+, 
+254ES5cL 8+, and 9+ rotational band members; and they proposed that the         
+254ES6cL 447.9-keV level has an admixture from another rotational band.         
+254ES  G 71.1      1 8.0     5  (E1)                    0.366                   
+254ES  G 276.8     1 20.2    19 (E1)                    0.0556                  
+254ES  G 367.8     1 100     7  (E1)                    0.0308                  
+254ES2 G FL=80.1                                                                
+254ES  G 447.9     1 37      4  (E1)                    0.0209                  
+254ES  L 469.2     2  (7+:10+)                                                  
+254ESX L XREF=A                                                                 
+254ES cL J$gammas to (8+) and (9+). 1993Mo18 proposed this level as 9- member   
+254ES2cL of K|p=6- band, which is not adopted here                              
+254ES  G 298.1     3 47      14 [D,E2]                  0.98  93                
+254ES  G 389.1     2 100     23 [D,E2]                  0.47  44                
+254ES2 G FL=80.1                                                                

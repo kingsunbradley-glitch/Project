@@ -1,0 +1,50 @@
+234PU    238CM A DECAY                                           26NDS    202601
+234PU  H TYP=FUL$AUT=S. Ota$CIT=NDS 207, 351 (2026)$CUT=1-Dec-2023$             
+234PU c  2006As03: |a decays of {+238}Cm produced by {+237}Np({+6}Li,xn) was    
+234PU2c  studied using a gas-jet coupled isotope separator on-line (ISOL) at    
+234PU3c  JAEA tandem. A stack of 21 {+237}Np targets set in a multiple-target   
+234PU4c  chamber with 5 mm spacings was bombarded with a {+6}Li beam. Each      
+234PU5c  target thickness is 100 |mg/cm{+2} and electro-deposited on a 0.8      
+234PU6c  mg/cm{+2} aluminum foil. The beam energy varies between 41-48 MeV      
+234PU7c  depending on the target. Reaction products recoiling out of the        
+234PU8c  targets were stopped in helium gas loaded with PbI{-2} clusters and    
+234PU9c  transported into an ion source of the ISOL with gas-jet stream         
+234PUac  through an 8-m long capillary. Atoms ionized in the surface            
+234PUbc  ionization-type thermal ion source were accelerated with 30 kV and     
+234PUcc  mass-separated. The separated ions were implanted into an              
+234PUdc  aluminum-coated Mylar tape in a tape transport system that             
+234PUec  periodically moved the implanted sources to seven consecutive          
+234PUfc  detector stations at 3000 second intervals. Each of the detector       
+234PUgc  stations was equipped with a Si PIN photodiode detector and |a         
+234PUhc  particles were detected. The |g-rays were measured with a short        
+234PUic  coaxial Ge detector. The measured |a decay curve indicates the         
+234PUjc  T{-{1/2}}=2.2 {I4} h. The energy difference of |a decays to the        
+234PUkc  {+234}Pu ground state and the first excited state (2{++}) indicates    
+234PUlc  the excited state's energy is 56 {I7} keV                              
+234PU c  1952Hi63: |a-decays of {+238}Cm were measured with pulse analyzer and  
+234PU2c  emulsions, The {+238}Cm were produced by bombarding {+239}Pu with      
+234PU3c  70-80 MeV Helium ions and chemically separated.                        
+234PU cL E$From |DE|a                                                           
+234PU cL J$From the Adopted Levels                                              
+234PU D  Slightly modified by E. Browne (August 2006).                          
+238CM  P 0.0                            2.2 H     4              6670     10    
+238CM cP QP$From 2021Wa16                                                       
+238CM cP T$From the A=238 ENSDF evaluation (2015Br06).                          
+234PU  N                        0.0571 AP                                       
+234PU cN BR$From 2006As03. |e/|a=16.5, thus %|a|?5.71 (obtained by combining    
+234PU2cN the deduced 6558|a partial T{-1/2}=50 h from systematics, the          
+234PU3cN relative intensity of 6558|a/6503|a=77/23, and the measured total      
+234PU4cN T{-1/2}=2.2 {I4} h). Other: |e/6558|a=240 {I50} is given in 1952Hi63   
+234PU5cN from disintegration and |a-decay rates. They estimated that possible   
+234PU6cN systematic errors due to counting efficiency could reduce this value   
+234PU7cN by a factor between 3 and 4. Assuming the factor of 4 reduction        
+234PU8cN (2002Ch52) and the measured relative intensity of 6520|a = 77 {I6}%    
+234PU9cN (2006As03) yields |e/|a=46.2 {I96}, thus %|a=2.12 {I43}.               
+234PU  L 0.0          0+                                                        
+234PU  A 6558      1077      6 1.0                                              
+234PU cA E{-|a}$from 2006As03. Other: 6520 keV {I50} (1952Hi63).                
+234PU cA I{-|a}$from 2006As03.                                                  
+234PU  L 56        7  2+                                                        
+234PU cL J$from systematics.                                                    
+234PU  A 6503      1123      6 1.9     7                                        
+234PU cA E{-|a},I{-|a}$from 2006As03.                                           

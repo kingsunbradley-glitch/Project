@@ -1,0 +1,834 @@
+238NP    ADOPTED LEVELS, GAMMAS                                  15NDS    201507
+238NP  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 127, 191 (2015)$             
+238NP2 H CUT=1-Jun-2014$                                                        
+238NP DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+238NP D  Updated by E. Browne (Nov., 18, 2014).                                 
+238NP  XA237NP(N,G) E=TH:PRIMARY G'S                                            
+238NP  XB242AM A DECAY (141 Y)                                                  
+238NP  XC237NP(N,G) E=TH:SECONDARY G'S                                          
+238NP  XD237NP(D,P)                                                             
+238NP  XE237NP(N,G) E=RESONANCE                                                 
+238NP  XF237NP(N,G) E=RES:AVG                                                   
+238NP  Q 1291.5    5 5488.3  2  5224.6 6  4691   4     2012WA38                 
+238NP c  Nilsson configurations are from 1990Ho02, unless otherwise noted.      
+238NP c  For theoretical investigations see:                                    
+238NP c  1987Be51 - Levels, bandhead energies.                                  
+238NP c  1988Fr16 - Newby shift.                                                
+238NP c  1988Qu03 - coupling effects.                                           
+238NP c  1989Pl10 - level density in second potential well.                     
+238NP c  1992Gr16 - Half-life for SF.                                           
+238NP c  additional list can be found in 1990Ho02.                              
+238NP c  Cluster decay                                                          
+238NP c  {+238}Np({+30}Mg): 2012Sa31, 2011Sh13, 2005Bh02.                       
+238NP c  Theory:                                                                
+238NP c  2013Ni03, 2012Ro34, 2011Sa40, 2010Ni02, 2008Do12, 2006Sa35,            
+238NP2c  2004Sa55, 2002Sc36.                                                    
+238NP CL BAND(A)   KPI=2+ 5/2(642)-NU 1/2(631)                                  
+238NP CL BAND(B)   KPI=3+ 5/2(642)+NU 1/2(631)                                  
+238NP CL BAND(C)   KPI=3- 5/2(523)+NU 1/2(631)                                  
+238NP CL BAND(D)   KPI=2- 5/2(523)-NU 1/2(631)                                  
+238NP CL BAND(E)   KPI=5+ 5/2(642)+NU 5/2(622)                                  
+238NP CL BAND(L)   KPI=0- 1/2(530)-NU 1/2(631)                                  
+238NP CL BAND(M)   KPI=0+ 1/2(400)-NU 1/2(631)                                  
+238NP CL BAND(O)   KPI=1- 1/2(530)+NU 1/2(631)                                  
+238NP CL BAND(P)   KPI=6+ 5/2(523)+NU 7/2(743)                                  
+238NP CL BAND(R)   KPI=6- 5/2(642)+NU 7/2(743)                                  
+238NP CL BAND(F)   KPI=0- 5/2(523)-NU 5/2(622)                                  
+238NP CL BAND(H)   KPI=0+ 5/2(642)-NU 5/2(622)                                  
+238NP CL BAND(K)   KPI=5- 5/2(523)+NU 5/2(622)                                  
+238NP cL E(S)      1990Ho02 estimate confidence in the evidence for a level     
+238NP2cL configuration as well established.                                     
+238NP cL E(T)      1990Ho02 estimate confidence in the evidence for a level     
+238NP2cL configuration as probable.                                             
+238NP cL E(U)      1990Ho02 estimate confidence in the evidence for a level     
+238NP2cL configuration as plausible.                                            
+238NP cL E(I)      1990Ho02 estimate confidence in the evidence for a level     
+238NP2cL configuration as speculative.                                          
+238NP cL E$From a least-squares fit to the adopted E|g's, except where          
+238NP2cL noted otherwise                                                        
+238NP cL J$The J|p assignments start with the following model-independent       
+238NP2cL data: J|p(342)=5- based on HF(|a)=2.01 {I7} from 5-. J(g.s.)=2, a      
+238NP3cL measured value (see 1976Fu06) with |p(g.s.)=+ from an E1, M1+E2, M1,   
+238NP4cL M1 cascade from the 342 level. J|p(136)=3- can then be established     
+238NP5cL based on an M1+E2, M1+E2 cascade from the 342 level, and an E1 to the  
+238NP6cL 2+ g.s. J|p(179)=4- follows from an M1+E2 from 342 and an M1+E2 to     
+238NP7cL 136, and J|p(86)=3+ based on an E1 from 179 and an M1+E2 to g.s. The   
+238NP8cL g.s., 86 level, and 136 levels are bandheads of K|p=2+, 3+, and 3-     
+238NP9cL bands, respectively. The 342 level is a K|p=5- bandhead. Other adopted 
+238NPAcL J|p's are based on band assignments of 1990Ho02, in addition to        
+238NPBcL transition multipolarities as noted. In general, J|p assignments of    
+238NPCcL 1 to 4 are based on feeding by primary |g's in thermal (n,|g),         
+238NPDcL J|p=1- to 4- assignments are based on feeding by primary |g's in       
+238NPEcL average resonance capture and J|p=1- to 3- assignments are based       
+238NPFcL on feeding by primary |g's in average resonance capture and from a     
+238NPGcL  2+ resonance.                                                         
+238NP cL T(Z)$T{-1/2}=50 ns for a level at E=300, from |a|g(t) (1966As06)       
+238NP cG E$From (n,|g) and |a decay. No details are available as to the         
+238NP2cG |g energy involved in the measurement                                  
+238NP cG RI$Branching ratios are from (n,|g), except where from |a decay as     
+238NP2cG noted, or where the level is populated only in |a decay                
+238NP cG E(A),RI(A)$From |a decay. Not seen in (n,|g)                           
+238NP cG E(B),RI(B)$From (n,|g) one has E|g=250.40 {I4} with mult=E1 or E2,     
+238NP2cG doubly placed from the 250.39 and 313 levels, and from |a decay        
+238NP3cG one has E|g=250.33 {I3} doubly placed from the 250.32 and 313 levels.  
+238NP4cG All placements involve |D|p=yes, except for the 250.39 level.          
+238NP5cG The evaluators adopt a                                                 
+238NP6cG weighted average of 250.36 {I3} for placement from the 313 level,      
+238NP7cG and the branchings for all placements are upper limits                 
+238NP cG E(C),M(C)$From (n,|g) one has E|g=314.31 {I3} with mult=M1+E2          
+238NP2cG doubly placed from the 497 and 530 levels. Both placements             
+238NP3cG involve |D|p=no                                                        
+238NP cG E(D),M(D)$In (n,|g) one has E|g=417.60 {I6} with mult=M1 doubly placed 
+238NP2cG from the 418 and 524 levels. Both placements involve |D|p=no           
+238NP cG E(E),RI(E),M(E)$In (n,|g) one has E|g=109.614 {I4} with mult mainly E1 
+238NP2cG doubly placed from the 136 and 342 levels. The transition is also      
+238NP3cG seen in |a decay. From a comparison of the branchings in (n,|g) and    
+238NP4cG |a decay the intensity can be divided between the two placements.      
+238NP5cG Most of the intensity belongs with the 136 level, and mult=E1 can      
+238NP6cG be assigned to this placement. Placement from the 342 level            
+238NP7cG involves |D|p=no                                                       
+238NP cG E(F),RI(F),M(F)$In |a decay one has E|g=163.25 {I2} doubly placed from 
+238NP2cG the 329 and 342 levels. E|g=163.29 {I5} is reported in (n,|g) with     
+238NP3cG mult=M1+E2, and placed from the 342 level only. From a comparison      
+238NP4cG of branchings from the two sources, all the intensity of the 163|g     
+238NP5cG in |a decay can be accounted for by placement from the 342 level       
+238NP cG E(G),M(G)$In (n,|g) one has E|g=152.69 {I3} with tentative mult=E1     
+238NP2cG doubly placed from the 179 and 259 levels. The same transition is      
+238NP3cG also seen in |a decay with the same placements. Both placements        
+238NP4cG involve |D|p=yes                                                       
+238NP cG MR$From {+237}Np(n,|g) E=th                                            
+238NP  L 0.0          2+               2.099 D   2                              
+238NP2 L XREF=ABCD$                                                             
+238NP3 L %B-=100                                                                
+238NP$ L FLAG=SA$                                                               
+238NP cL T$Weighted average of 2.1023 d 7, 2.1024 d 9, 2.1026 d 9               
+238NP2cL from (2006Re09), and 2.0980 d 3 (1990Ch35). Other values:              
+238NP3cL 2.117 d 2 (1966Qa01), 2.10 d {i1} (1950Fr53).                          
+238NP  L    26.426621 3+                                                        
+238NP2 L XREF=BCDE                                                              
+238NP$ L FLAG=SA$                                                               
+238NP cL J$M1+E2 to g.s. Member of band built on the g.s.                       
+238NP  G 26.43     2 100       M1+E2     0.097   6     333    12                
+238NPS G LC=248 9$MC=62.7 23$NC+=21.9 8                                         
+238NPS G NC=17.0 6$OC=4.13 15$PC=0.767 24$QC=0.0469 7                           
+238NP  L 62.330     4 4+                                                        
+238NP2 L XREF=BCD                                                               
+238NP$ L FLAG=SA$                                                               
+238NP cL J$member of g.s. band. M1+E2 to 3+.                                    
+238NP  G 35.90     2  83     17M1+E2     0.130   3     133.6  24                
+238NPS G LC=99.8 18$MC=25.1 5$NC+=8.78 16                                       
+238NPS G NC=6.81 13$OC=1.65 3$PC=0.307 6$QC=0.0188 3                            
+238NP  G 62.33     3  100      E2                      136.0                    
+238NPS G LC=98.9 14$MC=27.5 4$NC+=9.55 14                                       
+238NPS G NC=7.52 11$OC=1.749 25$PC=0.285 4$QC=0.000809 12                       
+238NP  L    86.673818 3+                                                        
+238NP2 L XREF=BCD                                                               
+238NP$ L FLAG=SB$                                                               
+238NP  G 24.37     2   0.28   4M1(+E2)   0.03    LE    326    8                 
+238NPS G LC=244 6$MC=60.3 15$NC+=21.2 5                                         
+238NPS G NC=16.3 4$OC=4.02 10$PC=0.779 17$QC=0.0598 9                           
+238NP  G 60.243    4  29.6   22M1+E2     0.089   23    23.5   7                 
+238NPS G LC=17.6 6$MC=4.32 15$NC+=1.52 5                                        
+238NPS G NC=1.17 4$OC=0.287 9$PC=0.0553 15$QC=0.00410 6                         
+238NP  G 86.676    2  100    17M1+E2     0.10    3     7.95   18                
+238NPS G LC=5.98 13$MC=1.46 4$NC+=0.513 13                                      
+238NPS G NC=0.395 10$OC=0.0972 23$PC=0.0188 4$QC=0.001413 22                    
+238NP  L    106.15515 5+                                                        
+238NP2 L XREF=BCD                                                               
+238NP$ L FLAG=SA$                                                               
+238NP cL J$member of g.s. band. M1+E2 to 4+                                     
+238NP  G 43.84     3  100      M1+E2     0.111   5     65.3   12                
+238NPS G LC=48.9 9$MC=12.12 24$NC+=4.25 8                                       
+238NPS G NC=3.29 7$OC=0.803 15$PC=0.152 3$QC=0.01043 15                         
+238NP  G 79.74     3   32     7E2                      42.0                     
+238NPS G LC=30.6 5$MC=8.51 12$NC+=2.96 5                                        
+238NPS G NC=2.33 4$OC=0.542 8$PC=0.0888 13$QC=0.000294 5                        
+238NP  L    121.645 9 4+                                                        
+238NP2 L XREF=BCD                                                               
+238NP$ L FLAG=SB$                                                               
+238NP cL J$band member. M1 |g's to 3+ and 4+                                    
+238NP  G 34.97     3  93     13M1                      110.8                    
+238NPS G LC=83.4 12$MC=20.3 3$NC+=7.14 11                                       
+238NPS G NC=5.50 8$OC=1.355 20$PC=0.263 4$QC=0.0205 3                           
+238NP  G 59.31     4   9.3   15M1                      23.4                     
+238NPS G LC=17.64 25$MC=4.29 6$NC+=1.507 22                                     
+238NPS G NC=1.161 17$OC=0.286 4$PC=0.0556 8$QC=0.00432 7                        
+238NP  G 95.22     2   52     7(M1)                    5.90                     
+238NPS G LC=4.44 7$MC=1.078 16$NC+=0.379 6                                      
+238NPS G NC=0.292 4$OC=0.0719 10$PC=0.01397 20$QC=0.001084 16                   
+238NP  G 121.69    4  100    15E2                      6.04                     
+238NPS G KC=0.179 3$LC=4.26 6$MC=1.186 17$NC+=0.412 6                           
+238NPS G NC=0.324 5$OC=0.0756 11$PC=0.01251 18$QC=6.14E-5 9                     
+238NP  L   136.045023  3-               6.0 NS                                  
+238NP2 L XREF=ABCEF$                                                            
+238NP$ L FLAG=SC$                                                               
+238NP cL T$from |a|g(t) (1966As06)                                              
+238NP  G 49.372    2  100.0  16E1                      0.820                    
+238NP2 G BE1W=1.1E-4                                                            
+238NPS G LC=0.615 9$MC=0.1536 22$NC+=0.0518 8                                   
+238NPS G NC=0.0408 6$OC=0.00939 14$PC=0.001508 22$QC=5.32E-5 8                  
+238NP  G 73.715    4  5.7    18E1                      0.285                    
+238NP2 G BE1W=2.0E-6$                                                           
+238NPS G LC=0.215 3$MC=0.0529 8$NC+=0.0180 3                                    
+238NPS G NC=0.01411 20$OC=0.00330 5$PC=0.000557 8$QC=2.30E-5 4                  
+238NP  G 109.614    4 10      4 E1+M2    0.026   6     0.138  19            @   
+238NP2 G BE1W=1.0E-6                                                            
+238NP3 G FLAG=E$                                                                
+238NP  G 136.045   10 7.9    13E1                      0.247                    
+238NP2 G BE1W=4.3E-7$                                                           
+238NPS G KC=0.190 3$LC=0.0436 6$MC=0.01064 15$NC+=0.00366 6                     
+238NPS G NC=0.00285 4$OC=0.000679 10$PC=0.0001206 17$QC=6.09E-6 9               
+238NP  L    161.68524  6+                                                       
+238NP2 L XREF=B                                                                 
+238NP$ L FLAG=SA$                                                               
+238NP cL J$member of g.s. band                                                  
+238NP  L    165.53215  5+                                                       
+238NP2 L XREF=BCD                                                               
+238NP$ L FLAG=SB$                                                               
+238NP cL J$band member. M1+E2 |g to 4+                                          
+238NP  G 43.98     4           M1+E2     0.13    4     68     8                 
+238NPS G LC=51 6$MC=12.6 16$NC+=4.4 6                                           
+238NPS G NC=3.4 5$OC=0.83 10$PC=0.157 17$QC=0.01030 17                          
+238NP  G 139.05    2           [E2]                    3.41                     
+238NPS G KC=0.211 3$LC=2.32 4$MC=0.647 9$NC+=0.225 4                            
+238NPS G NC=0.1767 25$OC=0.0413 6$PC=0.00685 10$QC=3.96E-5 6                    
+238NP  L    179.154 7  4-                                                       
+238NP2 L XREF=BCEF$                                                             
+238NP$ L FLAG=SC$                                                               
+238NP  G 43.11     3  23      4M1+E2     0.08    2     65     3                 
+238NPS G LC=48.5 21$MC=11.9 6$NC+=4.18 20                                       
+238NPS G NC=3.23 16$OC=0.79 4$PC=0.152 6$QC=0.01100 16                          
+238NP  G 92.486    7  100    21E1                      0.1574                   
+238NPS G LC=0.1184 17$MC=0.0291 4$NC+=0.00993 14                                
+238NPS G NC=0.00777 11$OC=0.00183 3$PC=0.000316 5$QC=1.410E-5 20                
+238NP  G 152.69       174    LE(E1)                    0.189                &   
+238NP2 G FLAG=G$                                                                
+238NPS G KC=0.1458 21$LC=0.0325 5$MC=0.00792 11$NC+=0.00272 4                   
+238NPS G NC=0.00212 3$OC=0.000507 7$PC=9.07E-5 13$QC=4.73E-6 7                  
+238NP  L   182.877518  2-                                                       
+238NP2 L XREF=ABCEF$                                                            
+238NP$ L FLAG=SD$                                                               
+238NP cL J$band head. E1 |g's to 2+ and 3+                                      
+238NP  G 46.84     3    0.80 12M1+E2     0.14    4     56     6                 
+238NPS G LC=42 5$MC=10.5 13$NC+=3.7 5                                           
+238NPS G NC=2.9 4$OC=0.69 8$PC=0.131 13$QC=0.00854 14                           
+238NP  G  95.7      6                                                           
+238NP  G 156.452   2   30.4  16E1                      0.1784                   
+238NPS G KC=0.1379 20$LC=0.0305 5$MC=0.00744 11$NC+=0.00256 4                   
+238NPS G NC=0.00199 3$OC=0.000477 7$PC=8.54E-5 12$QC=4.49E-6 7                  
+238NP  G 182.876   2   100   12E1                      0.1239                   
+238NPS G KC=0.0965 14$LC=0.0206 3$MC=0.00502 7$NC+=0.001731 25                  
+238NPS G NC=0.001346 19$OC=0.000323 5$PC=5.84E-5 9$QC=3.20E-6 5                 
+238NP  L 215.522    4  3-                                                       
+238NP2 L XREF=ABCEF$                                                            
+238NP$ L FLAG=SD$                                                               
+238NP cL J$band member. E1 |g's to 2+ and 3+                                    
+238NP  G 32.67     3  3.2     5M1(+E2)   0.025   LE    136.4  22                
+238NPS G LC=102.6 17$MC=25.0 4$NC+=8.79 15                                      
+238NPS G NC=6.77 11$OC=1.67 3$PC=0.324 5$QC=0.0251 4                            
+238NP  G 79.483    17 21      4E2(+M1)   4       GE    41.7   12                
+238NPS G LC=30.3 9$MC=8.44 24$NC+=2.93 8                                        
+238NPS G NC=2.31 7$OC=0.537 15$PC=0.0882 24$QC=0.00034 5                        
+238NP  G 153.192   12 53      6(E1)                    0.187                    
+238NPS G KC=0.1447 21$LC=0.0322 5$MC=0.00785 11$NC+=0.00270 4                   
+238NPS G NC=0.00210 3$OC=0.000503 7$PC=9.00E-5 13$QC=4.70E-6 7                  
+238NP  G 189.099   6  54      5E1                      0.1146                   
+238NPS G KC=0.0894 13$LC=0.0190 3$MC=0.00462 7$NC+=0.001592 23                  
+238NPS G NC=0.001238 18$OC=0.000297 5$PC=5.38E-5 8$QC=2.98E-6 5                 
+238NP cG RI$I|g/I|g(216|g)=0.46 {I11} in |a decay                               
+238NP  G 215.517   5  100     5E1                      0.0847                   
+238NPS G KC=0.0664 10$LC=0.01376 20$MC=0.00334 5$NC+=0.001154 17                
+238NPS G NC=0.000897 13$OC=0.000216 3$PC=3.94E-5 6$QC=2.25E-6 4                 
+238NP  L 217.949   10 0-                                                        
+238NP2 L XREF=C                                                                 
+238NP$ L FLAG=TL$                                                               
+238NP cL J$E2 to 2-. M2 to 2+. Not fed in (n,|g) from thermal, resonance,       
+238NP2cL or average resonance capture; therefore, J not 1 to 4.                 
+238NP3cL Probable K|p=0- bandhead                                               
+238NP  G 35.07     3    3.6   8E2                      2.21E3                   
+238NPS G LC=1611 24$MC=446 7$NC+=154.5 23                                       
+238NPS G NC=121.7 18$OC=28.3 5$PC=4.58 7$QC=0.00987 15                          
+238NP  G 217.966   20 100      M2                      10.57                    
+238NPS G KC=7.09 10$LC=2.56 4$MC=0.674 10$NC+=0.241 4                           
+238NPS G NC=0.186 3$OC=0.0456 7$PC=0.00865 13$QC=0.000607 9                     
+238NP  L      218.7 6(6+)                                                       
+238NP2 L XREF=BD$                                                               
+238NP$ L FLAG=TB$                                                               
+238NP cL J$probable band member. |g from 7+                                     
+238NP cL E$no deexciting transitions assigned by authors. Their energy of       
+238NP2cL 218.7 {I6} comes from feeding via a 170.5|g from the 389 level. On the 
+238NP3cL basis of an energy fit, the evaluators suggest possible placement      
+238NP4cL of a 52.98|g feeding the 5+ member of the assigned band at 165.59.     
+238NP5cL This would give E(level)=218.57 {I8}. The (d,p)                        
+238NP2cL level at 221.2 {I8} is assigned by 1990Ho02 as being the same level    
+238NP  G 52.98                 M1+E2     0.17    2     40.1   19               ?
+238NPS G LC=29.9 14$MC=7.5 4$NC+=2.63 14                                        
+238NPS G NC=2.03 11$OC=0.494 25$PC=0.093 4$QC=0.00589 9                         
+238NP  L    232.828 8 5-                                                        
+238NP2 L XREF=BC                                                                
+238NP$ L FLAG=CS$                                                               
+238NP cL J$probable band member. M1+E2 to 4-. Not seen in primary, average,     
+238NP2cL or in resonance capture; therefore, J|p not 1- to 4-                   
+238NP  G 53.70     7   20     3M1+E2     0.271   4     48.3   9                 
+238NPS G LC=35.9 7$MC=9.20 17$NC+=3.22 6                                        
+238NPS G NC=2.50 5$OC=0.601 11$PC=0.1092 19$QC=0.00549 8                        
+238NP  G 96.82     5   17     3E2                      16.87                    
+238NPS G LC=12.26 18$MC=3.42 5$NC+=1.187 17                                     
+238NPS G NC=0.934 14$OC=0.218 3$PC=0.0358 5$QC=0.0001386 20                     
+238NP  G 111.197   15 100    21[E1]                    0.0974                   
+238NPS G LC=0.0733 11$MC=0.0179 3$NC+=0.00615 9                                 
+238NPS G NC=0.00480 7$OC=0.001138 16$PC=0.000199 3$QC=9.45E-6 14                
+238NP  L 243.959    4 (1)+                                                      
+238NP2 L XREF=C                                                                 
+238NP$ L FLAG=TM$                                                               
+238NP cL J$probable bandhead. M1+E2 to 2+.                                      
+238NP  G 243.959   4  100      M1+E2     0.10    1     1.93                     
+238NPS G KC=1.528 22$LC=0.302 5$MC=0.0733 11$NC+=0.0257 4                       
+238NPS G NC=0.0198 3$OC=0.00488 7$PC=0.000948 14$QC=7.28E-5 11                  
+238NP  L 246.4     14  1 TO 4                                                   
+238NP2 L XREF=AE$                                                               
+238NP  L     250.33 3 (1+)                                                      
+238NP2 L XREF=B                                                                 
+238NP$ L FLAG=UH$                                                               
+238NP cL J$possible band member. |g to 2+                                       
+238NP  G 250.33     3 100                                                       
+238NP2 G FLAG=B$                                                                
+238NP  L 250.39     4 (2)-                                                      
+238NP2 L XREF=ACEF$                                                             
+238NP$ L FLAG=UL$                                                               
+238NP cL J$possible band member. J|p=1- to 3- from average resonance capture    
+238NP2cL and feeding from a 2+ resonance in (n,|g). (E1) to 3+                  
+238NP  G 223.89    10 100      (E1)                    0.0776                   
+238NPS G KC=0.0609 9$LC=0.01254 18$MC=0.00304 5$NC+=0.001052 15                 
+238NPS G NC=0.000817 12$OC=0.000197 3$PC=3.60E-5 5$QC=2.07E-6 3                 
+238NP  G 250.40     4 148    LE                                                 
+238NP2 G FLAG=B$                                                                
+238NP  L    258.853 8  4-                                                       
+238NP2 L XREF=ABCEF$                                                            
+238NP$ L FLAG=SD$                                                               
+238NP cL J$band member. M1+E2 to 3-. E2 to 2-                                   
+238NP  G 43.32     3  1.59   24M1+E2     0.391   20    156    9                 
+238NPS G LC=115 7$MC=30.5 19$NC+=10.6 7                                         
+238NPS G NC=8.3 5$OC=1.97 12$PC=0.339 19$QC=0.00996 17                          
+238NP  G 75.97     7  2.2     4E2                      52.9                     
+238NPS G LC=38.4 6$MC=10.71 16$NC+=3.72 6                                       
+238NPS G NC=2.93 5$OC=0.681 10$PC=0.1115 17$QC=0.000357 6                       
+238NP  G 122.76    7  6.6     3[M1]                    13.43                    
+238NPS G KC=10.60 15$LC=2.13 3$MC=0.517 8$NC+=0.182 3                           
+238NPS G NC=0.1401 20$OC=0.0345 5$PC=0.00670 10$QC=0.000519 8                   
+238NP  G 152.69     3 114    LE                                             &   
+238NP2 G FLAG=G$                                                                
+238NP  G 196.46    10  17     9                                                 
+238NP2 G FLAG=A$                                                                
+238NP  G 232.433   8  100    17E1                      0.0712                   
+238NPS G KC=0.0560 8$LC=0.01145 16$MC=0.00278 4$NC+=0.000961 14                 
+238NPS G NC=0.000746 11$OC=0.000180 3$PC=3.29E-5 5$QC=1.92E-6 3                 
+238NP  L    275.519 9 5+                                                        
+238NP2 L XREF=BCD                                                               
+238NP$ L FLAG=SE$                                                               
+238NP cL J$band head. M1+E2 to 4+                                               
+238NP  G 153.870   9  100      M1+E2                   4.7    25                
+238NPS G KC=3 3$LC=1.30 19$MC=0.34 7$NC+=0.119 24                               
+238NPS G NC=0.093 20$OC=0.022 4$PC=0.0039 5$QC=0.00015 13                       
+238NP  L 277.641   18(2)+                                                       
+238NP2 L XREF=C                                                                 
+238NP$ L FLAG=UM$                                                               
+238NP cL J$possible band member. E2(+M1) to 3+. |g to 2+                        
+238NP  G 251.25    4  61     15E2+(M1)   4.6     GE    0.39   4                 
+238NPS G KC=0.13 3$LC=0.184 4$MC=0.0504 9$NC+=0.0176 3                          
+238NPS G NC=0.01375 22$OC=0.00324 6$PC=0.000554 11$QC=8.9E-6 14                 
+238NP  G 277.633   19 100                                                       
+238NP  L 285.8     10 1 TO 4                                                   ?
+238NP2 L XREF=A$                                                                
+238NP  L 297.03     5 (6-)                                                      
+238NP2 L XREF=B                                                                 
+238NP$ L FLAG=TCZ$                                                              
+238NP cL J$probable band member. |g's to 5+                                     
+238NP  G 131.49     8  100                                                      
+238NP  G 190.88     5   39   22                                                 
+238NP  L 298.368    8  3+                                                       
+238NP2 L XREF=C                                                                 
+238NP$ L FLAG=TMZ$                                                              
+238NP cL J$probable band member. M1 |g's to 2+ and 4+                           
+238NP  G 54.40     4    0.66 10E2                      262                      
+238NPS G LC=190 3$MC=52.9 8$NC+=18.4 3                                          
+238NPS G NC=14.45 21$OC=3.36 5$PC=0.548 8$QC=0.001445 21                        
+238NP  G 236.025   11 100     8M1                      2.13                     
+238NPS G KC=1.691 24$LC=0.332 5$MC=0.0806 12$NC+=0.0283 4                       
+238NPS G NC=0.0218 3$OC=0.00537 8$PC=0.001043 15$QC=8.06E-5 12                  
+238NP  G 271.953   11  72     5M1                      1.437                    
+238NPS G KC=1.140 16$LC=0.224 4$MC=0.0542 8$NC+=0.0190 3                        
+238NPS G NC=0.01467 21$OC=0.00361 5$PC=0.000702 10$QC=5.42E-5 8                 
+238NP  G 298.38    4  9.2    10M1                      1.111                    
+238NPS G KC=0.882 13$LC=0.1727 25$MC=0.0418 6$NC+=0.01470 21                    
+238NPS G NC=0.01133 16$OC=0.00279 4$PC=0.000542 8$QC=4.18E-5 6                  
+238NP  L 299.23     6 (3+)                                                      
+238NP2 L XREF=B                                                                 
+238NP$ L FLAG=THZ$                                                              
+238NP cL J$probable band member. |g's to 2+ and 4+                              
+238NP  G 237.02    10 100     5                                                 
+238NP  G 272.75     7  81    18                                                 
+238NP  G 299.20    14  60    30                                                 
+238NP  L    299.78820(1)-                                                       
+238NP2 L XREF=CF$                                                               
+238NP$ L FLAG=TFZ$                                                              
+238NP cL J$probable band head. J|p=1- to 4- from population in average          
+238NP2cL resonance capture. |g to 2-                                            
+238NP  G 116.90     2 100                                                       
+238NP  L     300.68 7 1-,2,3,4-                                                 
+238NP2 L XREF=B                                                                 
+238NP2 L FLAG=Z$                                                                
+238NP cL J$|g's to 3-.                                                          
+238NP  G 84.9       2                                                           
+238NP  G 117.2      6                                                       *   
+238NP  G 164.67     7                                                           
+238NP  L    300.74316(6-)                                                       
+238NP2 L XREF=B$FLAG=TR$                                                        
+238NP cL J$probable band head. |g's to 4-, 5-, and 5+. Not seen in thermal,     
+238NP2cL average resonance, or resonance capture; therefore J not 1 to 4        
+238NP  G 67.93      3 59      5                                                 
+238NP  G 121.3      6                                                           
+238NP  G 135.19     2 100     6                                                 
+238NP  G 139.05     2 2.1    LE                                                 
+238NP  G 194.61     2 21.0    7                                                 
+238NP  L 305.4     20 1- TO 4-                                                  
+238NP2 L XREF=F$                                                                
+238NP cL E,J$1990Ho02 assign E=305.4 {I20} from their average resonance capture 
+238NP2cL work, with J|p thus 1- to 4-. The evaluators note that a               
+238NP3cL 218.56|g-126.21|g cascade from the 523.87 {I3}+,4+ level to the 179.150
+238NP4cL 4- level would yield E=305.34 {I3} for the intermediate level; however,
+238NP5cL mult(218.56|g) is M1+E2 so the resulting J|p(305) would be 3+ to 5+.   
+238NP6cL The energy agreement may be fortuitous; however,                       
+238NP7cL one notes from fig. 3 of 1990Ho02 that the I|g/E|g{+5} value for the   
+238NP8cL 305 level overlaps the calculated range for J|p=1+ to 4+               
+238NP  L    312.70419 5-                                                        
+238NP2 L XREF=BC                                                                
+238NP$ L FLAG=SD$                                                               
+238NP cL J$band member. M1+E2 to 4-                                             
+238NP  G 53.88     4  10.0   18M1+E2     0.22    4     42     5                 
+238NPS G LC=32 3$MC=8.0 9$NC+=2.8 3                                             
+238NPS G NC=2.17 24$OC=0.52 6$PC=0.097 9$QC=0.00553 11                          
+238NP  G 97.22     5  32      4E2                      16.54                    
+238NPS G LC=12.03 17$MC=3.35 5$NC+=1.165 17                                     
+238NPS G NC=0.916 13$OC=0.213 3$PC=0.0351 5$QC=0.0001365 20                     
+238NP  G 151.07     5 300    AP                        16.7                     
+238NP cG E,RI$seen only in |a decay and placed by the authors from the 313      
+238NP2cG level. The placement is perhaps questionable since I|g/I|g(176|g)=3.0  
+238NP3cG {I16} in |a decay, and this ratio for (n,|g) would give I|g(151|g)=0.5 
+238NP4cG {I3} per 100 neutron captures, an intensity large enough for the |g    
+238NP5cG line to have been seen                                                 
+238NP  G 176.62     5 100    18                                                 
+238NP  G 250.36     3 241    LE                                                 
+238NP2 G FLAG=B$                                                                
+238NP  L    315.063 8 4+,5+                                                     
+238NP2 L XREF=C$                                                                
+238NP cL J$E1+M2 to 5-. |g to 3-                                                
+238NP  G 82.232    4  100    14E1+M2     0.024   +6-7  0.32   6                 
+238NPS G LC=0.24 5$MC=0.061 13$NC+=0.021 5                                      
+238NPS G NC=0.017 4$OC=0.0040 9$PC=0.00070 16$QC=3.6E-5 10                      
+238NP  G 135.918    7  35     5                                                 
+238NP  G 179.00     3  33     7                                                 
+238NP  L 324.314    8 (4)-                                                      
+238NP2 L XREF=CF$                                                               
+238NP$ L FLAG=UL$                                                               
+238NP cL J$possible band member. |g to 3-. J|p=1- to 4- from arc                
+238NP  G 108.792    7 100                                                       
+238NP  L 325.210    9  1-                                                       
+238NP2 L XREF=ACEF$                                                             
+238NP$ L FLAG=UL$                                                               
+238NP cL J$M1 to 0-                                                             
+238NP  G 107.263   6  100      M1                      4.18                     
+238NPS G LC=3.15 5$MC=0.763 11$NC+=0.268 4                                      
+238NPS G NC=0.207 3$OC=0.0509 8$PC=0.00990 14$QC=0.000767 11                    
+238NP  G 142.328   10  68    20                                                 
+238NP  L 328.6      5  6+                                                       
+238NP2 L XREF=BD$                                                               
+238NP3 L FLAG=SE$                                                               
+238NP cL J$band member                                                          
+238NP cL E$E=328.6 {I5} from (d,p). 1990Ho09 place the 163.25|g from this level;
+238NP2cL however, this transition is doubly placed, and all of the intensity    
+238NP3cL can be accounted for by placement from the 342 level. The authors'     
+238NP4cL coincidence work does not seem to require a component from this        
+238NP5cL level. If a component of the 163|g does indeed deexcite this level,    
+238NP6cL then E(level) can be established as 328.84 {I4}                        
+238NP  G 163.25     2                                                          ?
+238NP2 G FLAG=F$                                                                
+238NP  L 334.0      6 1- TO 3-                                                  
+238NP2 L XREF=ABEF$                                                             
+238NP cL E$weighted average of 334.7 {I8} from arc and 333.4 {I7} from primary  
+238NP2cL |g's in thermal and resonance capture.                                 
+238NP3cL E=334.8 for a tentative level in |a decay                              
+238NP  L    342.439 8 5-                                                        
+238NP2 L XREF=BC$FLAG=SK$                                                       
+238NP cL J$band head. E1 to 5+. |g to 3-. Not seen in arc                       
+238NP  G 66.919    5   97     3E1                      0.368                    
+238NPS G LC=0.277 4$MC=0.0684 10$NC+=0.0232 4                                   
+238NPS G NC=0.0182 3$OC=0.00425 6$PC=0.000709 10$QC=2.82E-5 4                   
+238NP  G 109.614    4  120   LE                                             @   
+238NP2 G FLAG=E$                                                                
+238NP  G 163.26     2  100    6  M1+E2   6.26    7     1.86                     
+238NP2 G FLAG=F$                                                                
+238NPS G KC=0.310 5$LC=1.131 16$MC=0.313 5$NC+=0.1090 16                        
+238NPS G NC=0.0856 12$OC=0.0200 3$PC=0.00335 5$QC=2.93E-5 5                     
+238NP  G 206.37     2  10.2  12                                                 
+238NP2 G FLAG=A$                                                                
+238NP  L 348.8      9  1- TO 3-                                                 
+238NP2 L XREF=AEF$                                                              
+238NP cL E$from primary |g's in thermal and resonance capture.                  
+238NP2cL E=347.1 {I23} in arc                                                   
+238NP  L 352.46     4 (3)-                                                      
+238NP2 L XREF=CEF$                                                              
+238NP$ L FLAG=UF$                                                               
+238NP cL J$possible band member. Fed by primary |g's in arc and from a 2+       
+238NP2cL resonance                                                              
+238NP  G  52.60     5 1.8     5                                                 
+238NP cG M$1990Ho02 assign mult=E2 in (n,|g), and the placement requires |DJ=2, 
+238NP2cG |D|p=no; however, the ce ratios suggest an M1 component. One gets      
+238NP3cG |d=1.44 {I8}, 0.27 {I3}, and 0.93 {I7} from L1/L2, L3/L2, and M1/M2,   
+238NP4cG respectively. M3/M2 gives |d>0.25                                      
+238NP  G  93.67     5 100                                                       
+238NP  L     367.26 3 (2)-                                                      
+238NP2 L XREF=ACEF$                                                             
+238NP$ L FLAG=UF$                                                               
+238NP cL J$possible band member. Fed by primary |g in arc                       
+238NP  G 184.38     3100                                                        
+238NP  L 373.684   14(1)-                                                       
+238NP2 L XREF=ACEF$                                                             
+238NP$ L FLAG=UO$                                                               
+238NP cL J$possible band head. (M1) to 1-. |g to 0-. Fed by primary |g in arc   
+238NP  G 48.50     3  5.0    10(M1)                    42.3                     
+238NPS G LC=31.8 5$MC=7.74 11$NC+=2.72 4                                        
+238NPS G NC=2.10 3$OC=0.517 8$PC=0.1003 15$QC=0.00781 11                        
+238NP  G 155.731   11 100                                                       
+238NP  L 374.7     10(5+)                                                       
+238NP2 L XREF=BD$                                                               
+238NP$ L FLAG=TH$                                                               
+238NP cL E$from (d,p)                                                           
+238NP cL J$probable band member. |s(exp) in (d,p) agrees with |s(calc)          
+238NP  L     376.70 7 (6-)                                                      
+238NP2 L XREF=B                                                                 
+238NP$ L FLAG=TD$                                                               
+238NP cL J$probable band member. |g's to 4- and 5+                              
+238NP  G 117.8      6                                                           
+238NP  G 270.55     6                                                           
+238NP  L 380.60     4 (3)-                                                      
+238NP2 L XREF=CF$                                                               
+238NP$ L FLAG=UL$                                                               
+238NP cL J$possible band member. E2(+M1) to 2-. Fed by primary |g in arc        
+238NP  G 130.215   12          E2(+M1)   7.9     GE    4.56   9                 
+238NP2 G FL=250.39$                                                             
+238NPS G KC=0.27 7$LC=3.12 5$MC=0.867 13$NC+=0.302 5                            
+238NPS G NC=0.237 4$OC=0.0553 8$PC=0.00918 14$QC=5.2E-5 4                       
+238NP  L 386.3      3    1 TO 4                                                 
+238NP2 L XREF=AE$                                                               
+238NP cL E$weighted average of 386.3 {I3} from primary |g's in thermal capture, 
+238NP2cL and 386.2 {I5} in resonance capture                                    
+238NP  L      389.4 5  7+                                                       
+238NP2 L XREF=BD$                                                               
+238NP$ L FLAG=SE$                                                               
+238NP cL E$weighted average of 389.9 {I9} in (d,p), and 389.2 {I6} in |a decay  
+238NP cL J$band member                                                          
+238NP  G 113.7      6                                                           
+238NP  G 170.50     1                                                           
+238NP  L 395.198   17(5)+                                                       
+238NP2 L XREF=C                                                                 
+238NP$ L FLAG=IM$                                                               
+238NP cL J$possible band member. Not populated in primary, average resonance,   
+238NP2cL or in resonance capture; therefore J not 1 to 4.M1+E2 to 5+            
+238NP  G 289.04    8   67    15M1+E2     0.9     3     0.77   19                
+238NPS G KC=0.57 17$LC=0.151 16$MC=0.038 4$NC+=0.0133 12                        
+238NPS G NC=0.0103 9$OC=0.00250 23$PC=0.00047 6$QC=2.8E-5 8                     
+238NP  G 332.868   16 100      E2(+M1)   5.9     GE    0.155  10                
+238NPS G KC=0.071 9$LC=0.0617 13$MC=0.0166 3$NC+=0.00580 11                     
+238NPS G NC=0.00454 9$OC=0.001073 21$PC=0.000187 4$QC=4.2E-6 4                  
+238NP  L 397.3     15                                                           
+238NP2 L XREF=B$                                                                
+238NP cL E$from E|a                                                             
+238NP  L     407.59 6 6-                                                        
+238NP2 L XREF=B$                                                                
+238NP$ L FLAG=SK$                                                               
+238NP cL J$band member                                                          
+238NP  G 132.6      6                                                           
+238NP  G 174.76     6                                                           
+238NP  L 409.5      5(8-)                                                       
+238NP2 L XREF=D                                                                 
+238NP$ L FLAG=IR$                                                               
+238NP cL J$possible band member. |s(exp) in (d,p) agrees with |s(calc)          
+238NP  L    417.64112  2+,3+,4+                                                 
+238NP2 L XREF=C$                                                                
+238NP cL J$M1+E2 to 3+                                                          
+238NP  G 295.984   15 100     8E2                      0.208                    
+238NPS G KC=0.0780 11$LC=0.0950 14$MC=0.0259 4$NC+=0.00902 13                   
+238NPS G NC=0.00707 10$OC=0.001665 24$PC=0.000286 4$QC=5.03E-6 7                
+238NP  G 330.966   19  46    13                                                 
+238NP  G 391.27    3   59     5M1+E2     1.34    +26-190.25   4                 
+238NPS G KC=0.18 3$LC=0.051 4$MC=0.0129 9$NC+=0.0045 3                          
+238NPS G NC=0.00350 23$OC=0.00085 6$PC=0.000157 12$QC=8.8E-6 14                 
+238NP  G 417.60     6  4.9   LE                                             &   
+238NP2 G FLAG=D$                                                                
+238NP  L 431.3      6 (4+)                                                      
+238NP2 L XREF=D                                                                 
+238NP$ L FLAG=TH$                                                               
+238NP cL J$probable band member. |s(exp) in (d,p) agrees with |s(calc)          
+238NP  L    433.71613  3+,4+                                                    
+238NP2 L XREF=C$                                                                
+238NP cL J$E1 |g's to 3- and 4-                                                 
+238NP  G 174.88    3   23    17E1                      0.1375                   
+238NPS G KC=0.1069 15$LC=0.0231 4$MC=0.00561 8$NC+=0.00193 3                    
+238NPS G NC=0.001506 21$OC=0.000361 5$PC=6.51E-5 10$QC=3.52E-6 5                
+238NP  G 218.17     3  42     8                                                 
+238NP  G 297.672   15 100    12E1                      0.0410                   
+238NPS G KC=0.0325 5$LC=0.00638 9$MC=0.001544 22$NC+=0.000535 8                 
+238NPS G NC=0.000415 6$OC=0.0001003 14$PC=1.86E-5 3$QC=1.144E-6 16              
+238NP  L 442.23     3 (4)-                                                      
+238NP2 L XREF=ACEF$                                                             
+238NP$ L FLAG=UF$                                                               
+238NP cL J$possible band member. Fed by primary in arc                          
+238NP  G  74.975    2                                                           
+238NP  L 456.3      7 (8+)                                                      
+238NP2 L XREF=D                                                                 
+238NP$ L FLAG=UE$                                                               
+238NP cL J$possible band member                                                 
+238NP  L 457.65    19  1- TO 3-                                                 
+238NP2 L XREF=AEF$                                                              
+238NP cL E$weighted average of 457.37 {I24} from primary |g's in thermal and    
+238NP2cL resonance capture, and 458.1 {I3} in arc                               
+238NP  L 459.6      6(6+)                                                       
+238NP2 L XREF=B$                                                                
+238NP$ L FLAG=TP$                                                               
+238NP cL J$probable band head. HF in |a decay                                   
+238NP  G 117.2      6                                                       *   
+238NP  L 469.1     12 1- TO 4-                                                  
+238NP2 L XREF=BF$                                                               
+238NP  L 473.3      4 1- TO 4-                                                  
+238NP2 L XREF=F$                                                                
+238NP  L 484        3 7-                                                        
+238NP2 L XREF=B$FLAG=SK$                                                        
+238NP cL J$band member. HF in |a decay                                          
+238NP  L 497.20     3   2-,3-,4-                                                
+238NP2 L XREF=CF$                                                               
+238NP cL J$M1+E2 to 3-. If the doubly placed 314|g has most of its intensity    
+238NP2cL here, then its M1+E2 character to 2- rules out 4-.                     
+238NP  G 281.79    10 100      M1+E2     1.0     +5-3  0.77   21                
+238NPS G KC=0.56 19$LC=0.159 17$MC=0.040 4$NC+=0.0141 13                        
+238NPS G NC=0.0109 10$OC=0.00265 25$PC=0.00049 6$QC=2.7E-5 9                    
+238NP  G 314.31     3 176    LE                                             &   
+238NP2 G FLAG=C$                                                                
+238NP  L 505.1     10 1- TO 4-                                                  
+238NP2 L XREF=F$                                                                
+238NP  L     523.83 3 3+,4+,5+                                                  
+238NP2 L XREF=C$                                                                
+238NP cL J$M1+E2 to 4+                                                          
+238NP  G 358.25     4  79     7                                                 
+238NP  G 417.60     6  7.2   LE                                             &   
+238NP2 G FLAG=D$                                                                
+238NP  G 461.59    9   84    14M1+E2     0.93    +25-200.21   4                 
+238NPS G KC=0.16 3$LC=0.037 4$MC=0.0091 9$NC+=0.0032 4                          
+238NPS G NC=0.00247 25$OC=0.00060 6$PC=0.000114 13$QC=7.6E-6 13                 
+238NP  G 497.49     5 100     9                                                 
+238NP  L 524.2      6(6+)                                                       
+238NP2 L XREF=D$                                                                
+238NP$ L FLAG=TH$                                                               
+238NP cL J$probable band member. |s(exp) in (d,p) agrees with |s(calc)          
+238NP  L 525.3     15(7+)                                                       
+238NP2 L XREF=B$                                                                
+238NP$ L FLAG=UP$                                                               
+238NP cL J$possible band member                                                 
+238NP  L    529.85710 3-                                                        
+238NP2 L XREF=ACEF$                                                             
+238NP cL J$E2 to 5-. M1+E2 to 2-                                                
+238NP  G 217.26    7  100    10E2                      0.589                    
+238NPS G KC=0.1340 19$LC=0.332 5$MC=0.0915 13$NC+=0.0319 5                      
+238NPS G NC=0.0250 4$OC=0.00586 9$PC=0.000991 14$QC=1.090E-5 16                 
+238NP  G 314.31     3  70    LE                                             &   
+238NP2 G FLAG=C$                                                                
+238NP  G 346.98     1  37    10  M1+E2   0.7     4     0.53   15                
+238NPS G KC=0.41 13$LC=0.093 16$MC=0.023 4$NC+=0.0081 12                        
+238NPS G NC=0.0063 9$OC=0.00153 23$PC=0.00029 5$QC=2.0E-5 6                     
+238NP  L 543.24     4 3-,4-                                                     
+238NP2 L XREF=CF$                                                               
+238NP cL J$fed by primary in arc. |g to 5-                                      
+238NP  G 310.40     8   9     5                                                 
+238NP  G 364.09     4 100                                                       
+238NP  L    567.02313   3-                                                      
+238NP2 L XREF=ACEF$                                                             
+238NP cL J$E2 to 5-. M1+E2 to 2-                                                
+238NP  G 334.205   13  42    12E2                      0.1441                   
+238NPS G KC=0.0624 9$LC=0.0598 9$MC=0.01620 23$NC+=0.00565 8                    
+238NPS G NC=0.00442 7$OC=0.001044 15$PC=0.000181 3$QC=3.78E-6 6                 
+238NP  G 351.37    8   52     8E2                      0.1247                   
+238NPS G KC=0.0569 8$LC=0.0497 7$MC=0.01342 19$NC+=0.00468 7                    
+238NPS G NC=0.00366 6$OC=0.000865 13$PC=0.0001505 22$QC=3.38E-6 5               
+238NP  G 384.12     4  29     3 M1+E2    0.93    16    0.34    5                
+238NPS G KC=0.26 4$LC=0.063 5$MC=0.0156 11$NC+=0.0055 4                         
+238NPS G NC=0.0042 3$OC=0.00103 8$PC=0.000195 15$QC=1.24E-5 17                  
+238NP  G 430.96     3 100    12 M1+E2    0.87    22    0.26    5                
+238NPS G KC=0.20 4$LC=0.046 6$MC=0.0114 12$NC+=0.0040 5                         
+238NPS G NC=0.0031 4$OC=0.00076 8$PC=0.000144 17$QC=9.6E-6 18                   
+238NP  L 578        3                                                           
+238NP2 L XREF=B$                                                                
+238NP  L 584.5      3   1- TO 4-                                                
+238NP2 L XREF=AF$                                                               
+238NP cL E$weighted average of 584.9 {I4} from average resonance capture, and   
+238NP2cL 584.2 {I4} from primary |g in thermal capture                          
+238NP  L 601.2      3   1- TO 3-                                                
+238NP2 L XREF=AEF$                                                              
+238NP cL E$weighted average of 601.1 {I4} from primary |g's in thermal and      
+238NP2cL resonance capture, and 601.4 {I4} from arc                             
+238NP  L 603.7      6                                                           
+238NP2 L XREF=D                                                                 
+238NP  L 619.5      3     1 TO 4                                                
+238NP2 L XREF=EF$                                                               
+238NP cL E$from primary |g in thermal capture. E=623.6 {I15} from resonance     
+238NPxcL capture                                                                
+238NP  L 630.6     13                                                           
+238NP2 L XREF=D                                                                 
+238NP  L 635.3     10    1- TO 4-                                               
+238NP2 L XREF=EF$                                                               
+238NP  L 646.76     4    2+,3+,(4)+                                             
+238NP2 L XREF=C                                                                 
+238NP cL J$M1+E2 to 3+. E2(+M1) to 2+                                           
+238NP  G 584.47     5  63    16                                                 
+238NP  G 620.28    6  100    13M1+E2     0.97    21    0.093  15                
+238NPS G KC=0.072 12$LC=0.0157 19$MC=0.0039 5$NC+=0.00136 16                    
+238NPS G NC=0.00105 12$OC=0.00026 3$PC=4.9E-5 6$QC=3.4E-6 6                     
+238NP  G 646.75    7   87     8E2(+M1)   1.9     GE    0.040  12                
+238NPS G KC=0.029 10$LC=0.0083 16$MC=0.0021 4$NC+=0.00074 13                    
+238NPS G NC=0.00057 10$OC=0.000139 25$PC=2.6E-5 5$QC=1.4E-6 5                   
+238NP  L 648.1      9  1- TO 3-                                                 
+238NP2 L XREF=ADEF$                                                             
+238NP cL E$weighted average of 649.0 {I6} from average resonance capture,       
+238NP2cL 645.9 {I7} from primary |g's in thermal and resonance capture, and     
+238NP2cL 648.7 {I5} from (d,p)                                                  
+238NP  L 673.6      3 1- TO 3-                                                  
+238NP2 L XREF=AD(*675.6)EF$                                                     
+238NP cL E$weighted average of 673.7 {I3} from primary |g's in thermal and      
+238NP2cL resonance capture, and 672.7 {I10} in arc                              
+238NP  L 676.9     18 1- TO 4-                                                  
+238NP2 L XREF=D(*675.6)F$                                                       
+238NP  L 692.1      3    1- TO 3-                                               
+238NP2 L XREF=ADEF$                                                             
+238NP cL E$weighted average of 691.9 {I6} from (d,p), 692.1 {I3} from arc, and  
+238NP2cL 692.2 {I3} from primary |g's in thermal and resonance capture          
+238NP  L 709.24    25                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 722.4      7                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 764.1      6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 782.4      6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 797.4      4                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 800.4      8                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 809.8      3                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 813.9      7                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 834.7      6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 869.0      5                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 903.3      4                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 916.6      8                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 929.1      6                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 948.9      6                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 970.7      6                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 986.5      4                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 1026.6     6                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 1033.4     7                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 1046.5     6                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 1065.2     5                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 1081.0     6                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 1089.0     6                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 1107.8     7                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1119.6     7                                                          ?
+238NP2 L XREF=A$                                                                
+238NP cL E$the authors' value of 1197.6 in table I is a misprint                
+238NP  L 1143.0     6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1163.1     4                                                           
+238NP2 L XREF=A$                                                                
+238NP cL E$the authors' value of 1153.1 is a misprint, or else E|g is incorrect 
+238NP  L 1176.1     6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1256.1     3                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1260.5     6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1276.1     5                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1291.3     4                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1313.5     3                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1330.7     6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1364.8     7                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1369.8     7                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1375.6     4                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1384.6     3                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1392.8     5                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1408.5     6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1445.7     6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1484.1     8                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1492.8     7                                                          ?
+238NP2 L XREF=A$                                                                
+238NP  L 1509.0     5                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1546.5     7                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1711.5     5                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 1822.5     6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 2104.3     6                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 2109.5     5                                                           
+238NP2 L XREF=A$                                                                
+238NP  L 2300                          112 NS    39                          M1 
+238NP2 L %SF LE 100                                                             
+238NP cL           %SF: only SF activity was observed by 1970Vi05               
+238NP cL           |g branch from a shape isomer with                           
+238NP2cL T{-1/2} between 2 |ms and 20 ms was searched for its decay             
+238NP3cL by 1974Bo02 in {+238}U(p,n) reaction, and                              
+238NP4cL no |g could be assigned definitely.                                    
+238NP cL           Upper limit on the isomeric ratio was found by 1976Vo04      
+238NP2cL by |g|g(t) in {+237}Np(thermal n) reaction for an isomer with          
+238NPxcL T{-1/2}=70-200 ns.                                                     
+238NP cL T         measured by 1970Vi05 in {+237}Np(d,p), {+238}U(d,2n)         
+238NP cL           No SF isomer was observed in {+237}Np(d,p)                   
+238NP2cL with 10 ns|<T{-1/2}|<1 |ms (1969La14).                                 
+238NP cL           No SF isomer was observed in {+238}U(d,2n)                   
+238NP2cL with T{-1/2}>1 ns (1970Po01).                                          
+238NP cL           T{-1/2} for fission was calculated                           
+238NP2cL as 52 s by 1972We09, and                                               
+238NP3cL as 20000-2000 s by 1971Ba30.                                           
+238NP4cL T{-1/2}(|g)=2.3 s was calculated also by 1972We09.                     
+238NP cL E         E(level)=2100 calculated by 1971Ba30,                        
+238NP2cL E(level)=2300 calculated by 1972We09,                                  
+238NP3cL E(level)=2200 calculated by 1969Ni13.                                  
+238NP  L 2857.4     6                                                           
+238NP2 L XREF=A$                                                                

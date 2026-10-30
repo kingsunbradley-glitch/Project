@@ -1,0 +1,103 @@
+215AC    ADOPTED LEVELS, GAMMAS                                  13NDS    201312
+215AC  H TYP=FUL$AUT=A.K. Jain, S. Singh, B. Singh, N. Kaur, S. Lakshmai$       
+215AC2 H AUT=B. Maheshwari$                                                     
+215AC3 H CIT=NDS 114, 2023 (2013)$CUT=23-SEP-2013$                              
+215AC  Q -4891     15 8485   20 1351   13 7746    3    2012WA38                 
+215AC cQ $S(2n)=16270 {I50}, S(2p)=4994 {I13} (2012Wa38)                        
+215AC c                                                                         
+215AC c  {B{+215}Ac evaluated by A.K. Jain, S. Singh, B. Singh, N. Kaur,}       
+215AC2c  {BS. Lakshami, B. Maheshwari}                                          
+215AC c                                                                         
+215AC c  States in {+215}Ac have been interpreted in terms of the               
+215AC2c  shell model configurations h{-9/2}, f{-7/2}, and i{-13/2} available for
+215AC3c  the seven protons beyond closed shell (Z=82) (1983De08).               
+215AC c  2003Ca21: large-scale shell model calculations were performed for      
+215AC2c  {+215}Ac employing the computer code NATHAN with using modified        
+215AC3c  Kuo-Herling interaction. Additional low-lying levels are predicted in  
+215AC4c  these calculations which have not been observed experimentally         
+215AC c  2013Ba29: measured experimental isomer production ratio in             
+215AC2c  {+9}Be({+238}U,X) reaction at E=1 GeV/nucleon (2013Ba29) using the     
+215AC3c  FRS, RISING gamma detector array, and tof arrangement at GSI facility. 
+215AC DG CC$ FROM BrIcc v2.3 (2-Oct-2012) 2008Ki07, "Frozen Orbitals" appr.     
+215AC cG E,RI$ From {+204}Pb({+15}N,4n|g).                                      
+215AC cG M$ From |g(|q), and comparison with the corresponding transitions in   
+215AC2cG N=126 isotones {+211}At and {+213}Fr. All multipolarities are assumed  
+215AC3cG as stretched.                                                          
+215AC cL E$ From |g-ray energies                                                
+215AC cL J$ Assignments are based on |g(|q) data, the analogy with the          
+215AC2cL corresponding levels in the N=126 isotones {+211}At and {+213}Fr, and  
+215AC3cL also on the agreement of experimental g-factors with shell-model       
+215AC4cL predictions ({Ii.e.} constant values for h{-9/2} states).              
+215AC cL T$ From |g(t) in {+204}Pb({+15}N,4n|g)                                 
+215AC cL E(A)$ Measured isomer yield ratio: R{-exp}=20 {I4} for 1796, 21/2-     
+215AC2cL level and 20 {I5} for 2438+x, (29/2+) level (2013Ba29) in              
+215AC3cL {+9}Be({+238}U,X) reaction at 1 GeV/nucleon, where                     
+215AC4cL R{-exp}=Y/(N{-imp}(fragment)|g), N{-imp} is number of implanted ions,  
+215AC5cL Y is the isomeric yield, F and G are correction factors for in-flight  
+215AC6cL isomer decay losses and the finite detection time of the |g radiation, 
+215AC7cL respectively. Comparison of measured yield ratios with theoretical     
+215AC8cL values calculated by using ABRABLA Monte-Carlo code.                   
+215AC  XA219PA A DECAY (53 NS)                                                  
+215AC  XB204PB(15N,4NG)                                                         
+215AC PN                                                                     6  
+215AC  L 0.0           9/2-            0.17 S    1                              
+215AC2 L %A=99.91 2$%EC+%B+=0.09 2 (1968Va04)                                   
+215ACX L XREF=AB                                                                
+215AC cL %EC+%B+$ from observation of an 8.70 MeV {I2} |a group assigned        
+215AC2cL to {+215}Ra (1968Va04)                                                 
+215AC cL T$ from 1968Va04.                                                      
+215AC cL J$ favored |a decay (HF=1.3) to {+211}Fr (J|p=9/2-).                   
+215AC  L 1317.0    5 (13/2-)                                                    
+215ACX L XREF=B                                                                 
+215AC cL $ Configuration=|p1h{-9/2}{+7}                                         
+215AC  G 1317.0    5    100    (E2)                    0.00567                  
+215ACS G KC=0.00446 7$LC=0.000895 13$MC=0.000217 3                              
+215ACS G NC=5.74E-5 8$OC=1.321E-5 19$PC=2.39E-6 4$QC=1.86E-7 3$IPC=1.647E-5 25  
+215AC  L 1621.0    7 (17/2-)           30 NS     10                             
+215AC2 L MOMM1=7.82 16 (1983De08,1989Ra17)                                      
+215ACX L XREF=B                                                                 
+215AC cL MOMM1$ 7.74 {I9} from g factor=0.910 {I10} (TDPAD,1983De08). 1989Ra17  
+215AC2cL (also 2011StZZ) compilation lists 7.82 {I16}. It appears that 1989Ra17 
+215AC3cL applied upward correction of 1% and doubled the uncertainty, probably  
+215AC4cL based on estimated diamagnetism and Knight shift of 0|+1% by 1983De08  
+215AC cL $ Configuration=|p1h{-9/2}{+7}                                         
+215AC  G 304.0     5    100    (E2)                    0.1538                   
+215ACB G BE2W=0.08 3                                                            
+215ACS G KC=0.0700 10$LC=0.0618 10$MC=0.0165 3                                  
+215ACS G NC=0.00438 7$OC=0.000970 15$PC=0.0001585 25$QC=3.59E-6 6               
+215AC  L 1796.0    9 (21/2-)           185 NS    30                         A   
+215AC2 L MOMM1=9.66 20 (1983De08,1989Ra17)                                      
+215ACX L XREF=B                                                                 
+215AC cL $ Configuration=|p1h{-9/2}{+7}                                         
+215AC cL MOMM1$ 9.56 {I11} from g factor=0.910 {I10} (TDPAD,1983De08). 1989Ra17 
+215AC2cL (also 2011StZZ) compilation lists 9.66 {I20}. It appears that 1989Ra17 
+215AC3cL applied upward correction of 1% and doubled the uncertainty, probably  
+215AC4cL based on estimated diamagnetism and Knight shift of 0|+1% by 1983De08  
+215AC  G 175.0     5    100    (E2)                    1.021  19                
+215ACB G BE2W=0.119 20                                                          
+215ACS G KC=0.202 3$LC=0.601 12$MC=0.164 3                                      
+215ACS G NC=0.0435 9$OC=0.00953 18$PC=0.00151 3$QC=1.397E-5 23                  
+215AC  L 1796.0+X     (23/2-)                                                   
+215ACX L XREF=B                                                                 
+215AC cL E$ x=50 {I50}, extrapolated from E|g=511 keV in {+211}At,              
+215AC2cL and E|g=265 keV in {+213}Fr.                                           
+215AC cL $ Configuration=|p1h{-9/2}{+6}~#|p2f{-7/2}{+1}                         
+215AC  G  X                                                                     
+215ACF G FL=1796.0                                                              
+215AC cG E$ x=50 {I50} (1983De08)                                               
+215AC  L 2438+X           (29/2+)      335 NS    10                         A   
+215AC2 L MOMM1=15.13 30 (1983De08,1989Ra17)                                     
+215ACX L XREF=B                                                                 
+215AC cL J$ B(E3)(W.u.)=24.7 {I9} is similar to that of the corresponding       
+215AC2cL E3 transition in {+213}Fr, and typical of fast E3 transitions in       
+215AC3cL this region. The strength enhancement of such transitions is due to    
+215AC4cL the coupling with octupole vibrations in the  even core nucleus.       
+215AC cL MOMM1$ 14.98 {I15} from g factor=1.033 {I10} (TDPAD,1983De08). 1989Ra17
+215AC2cL (also 2011StZZ) compilation lists 15.13 {I30}. It appears that 1989Ra17
+215AC3cL applied upward correction of 1% and doubled the uncertainty, probably  
+215AC4cL based on estimated diamagnetism and Knight shift of 0|+1% by 1983De08  
+215AC cL $ Configuration=|p1h{-9/2}{+6}~#|p1i{-13/2}{+1}                        
+215AC  G 642.0     5    100    (E3)                    0.0702                   
+215ACB G BE3W=27.4 9                                                            
+215ACS G KC=0.0389 6$LC=0.0231 4$MC=0.00613 9                                   
+215ACS G NC=0.001637 24$OC=0.000367 6$PC=6.23E-5 9$QC=2.43E-6 4                 

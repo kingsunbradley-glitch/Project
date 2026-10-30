@@ -1,0 +1,88 @@
+218U     ADOPTED LEVELS                                          ENSDF    202106
+218U   H TYP=FUL$AUT=Balraj Singh$CIT=ENSDF$CUT=10-Jun-2021                     
+218U   H TYP=FUL$AUT=Balraj Singh, M.S. Basunia, Murray Martin et al.,$         
+218U 2 H CIT=NDS 160, 405 (2019)$CUT=30-Oct-2019$                               
+218U   Q             9150    SY 2449   19 8775   9     2021WA16                 
+218U  cQ $Estimated uncertainty=80 keV (2021Wa16)                               
+218U  cQ $Q(|e)=3245 {I23}, S(2n)=17310 {I30}, S(2p)=2982 {I18},                
+218U 2cQ Q(|ep)=2400 {I17} (2021Wa16)                                           
+218U  d  Oct 30, 2019 (2019Si39) evaluation of {+218}Th by B. Singh             
+218U 2d  for the IAEA-ICTP workshop in 2018                                     
+218U  c  {+218}U produced in {+197}Au({+27}Al,6n), and identified as parent of  
+218U 2c  {+214}Th (1992An04). 1997SaZQ reported a cross section of 1.7 nb {I12} 
+218U 3c  at E=161 MeV for this reaction.                                        
+218U  c  2007Le14 (also 2005Le42): {+218}U produced in {+182}W({+40}Ar,4n),E=186
+218U 2c  MeV; fusion products were separated from beam particles with the RITU  
+218U 3c  gas-filled separator and implanted into the DSSD of the GREAT          
+218U 4c  spectrometer at the RITU focal plane. Measured half-lives of g.s.      
+218U 5c  and an isomer                                                          
+218U  c  2015Ma37: {+218}U produced and identified in {+182}W({+40}Ar,4n),      
+218U 2c  E({+40}Ar)=189.5 MeV using the Sector-Focusing cyclotron facility at   
+218U 3c  HIRFL-Lanzhou. The evaporation residues (ERs)                          
+218U 4c  were separated from the incident beam particles using gas-filled recoil
+218U 5c  separator for heavy ions (SHANS). Measured E|a, (residues)|a{-1}|a{-2} 
+218U 7c  correlations, where |a{-1} is from parent nucleus and |a{-2} from      
+218U 8c  daughter nucleus, half-lives. The residues and |a particles were       
+218U 9c  detected by using multiwire proportional gas counter (MWPC) and        
+218U Ac  position-sensitive silicon strip detectors (PSSD). From Fig. 2 of      
+218U Bc  two-dimensional plot of mother and daughter |a-decay energies for      
+218U Cc  correlated (implants)-|a1-|a2 events, it appears that two decay        
+218U Dc  were observed for the ground state and one for the isomer.             
+218U  c  2018Ya01: {+218}U g.s. and isomer produced in {+187}Re({+36}Ar,4np),   
+218U 3c  E({+36}Ar)=191.5 MeV reaction, followed by separation of fragments     
+218U 4c  using SHANS separator and detection of (implants)|a-correlated decay   
+218U 5c  chains at HIRFL-Lanzhou accelerator facility. Authors reported three   
+218U 6c  correlated decay chains for the g.s., and two chains for the isomeric  
+218U 7c  state.                                                                 
+218U  c  2021Zh22: {+218}U produced and identified in {+184}W({+40}Ca,|a2n),    
+218U 2c  E({+40}Ca)=190, 206 MeV using the Sector-Focusing cyclotron facility at
+218U 3c  HIRFL-Lanzhou. The evaporation residues (ERs) were separated from the  
+218U 4c  incident beam particles using gas-filled recoil separator for heavy    
+218U 5c  ions (SHANS). Measured E|a, (residues)|a{-1}|a{-2} correlations, where 
+218U 6c  |a{-1} is from parent nucleus and |a{-2} from daughter nucleus,        
+218U 7c  and half-life. The residues and |a particles were detected using       
+218U 8c  multiwire proportional gas counter (MWPC) and position-sensitive       
+218U 9c  silicon strip detectors (PSSDs). The |a particles escaping the PSSD in 
+218U Ac  the backward direction were collected by a system of eight silicon     
+218U Bc  detectors. Energy resolution (FWHM) for |a particles was 35 keV for    
+218U Cc  E|a=6-9 MeV. A total of 76 Er-|a correlated chains were observed which 
+218U Dc  were assigned to the decay of {+218}U g.s. Comparison with shell-model 
+218U Ec  calculations.                                                          
+218U  c  2021Zh22, 2018Ya01 and 2015Ma37 are from the same group and laboratory,
+218U 2c  shared by many of the same authors.                                    
+218U  c  Theory references: consult NSR database (www.nndc.bnl.gov/nsr/)        
+218U 2c  for 36 primary references for calculations of half-lives               
+218U 3c  of radioactive decays, and 16 for nuclear structure                    
+218U   L 0            0+               0.65 MS   +8-7                           
+218U 2 L %A=100                                                                 
+218U  cL %A$only the |a decay with E(|a)=8612 {I14} (2021Zh22),                 
+218U 2cL 8612 {I9} (2007Le14,2005Le42), 8600 {I30} (2015Ma37), 8625 {I25}       
+218U 3cL (1992An04) has been observed. Theoretical partial T{-1/2} for |e+|b{++}
+218U 4cL decay=15.4 s (2019Mo01) gives %|e+%|b{++}=0.003                        
+218U  cL T$from 76 (implants)|a-correlated decay chains (2021Zh22), highest     
+218U 2cL statistics as compared to just a few events (|<10) in previous studies.
+218U 3cL Others: 0.131 ms {I+179-48} (2018Ya01, same group and laboratory as    
+218U 4cL 2021Zh22 and 2015Ma37); 1.15 ms {I+158-42} (2015Ma37, two              
+218U 5cL (implants)|a-correlated decay chains); 0.51 ms {I+17-10}               
+218U 6cL (2007Le14, also 2005Le42); 1.5 ms {I+73-7} (1992An04).                 
+218U  cL $Reduced |a-width=53 keV {I+7-6} (2021Zh22, in Rasmussen formalism)    
+218U 2cL suggests unhindered |a transition, consistent with g.s., 0+ to         
+218U 3cL g.s., 0+ |a transition                                                 
+218U   L 2105      19  (8+)             0.56 MS  +26-14                      M  
+218U 2 L %A=? $ %IT=?                                                           
+218U  cL $Only the |a decay has been observed with E|a=10678 {I17}              
+218U 2cL (2007Le14,2005Le42), 10701 {I30} (2015Ma37) and 10685 {I38}            
+218U 3cL (2018Ya01)                                                             
+218U  cL E$from difference in Q(|a) values (from E|a values in 2007Le14)        
+218U 2cL from the isomer and g.s. decay, assuming the isomer decays directly    
+218U 3cL to the {+214}Th g.s. through an L=8 transition                         
+218U  cL T$from 2007Le14 (also 2005Le42). Others: 0.134 ms {I+244-53}           
+218U 2cL (2018Ya01, from two (implants)|a-correlated decay chains);             
+218U 3cL 0.28 ms {I+130-12} (2015Ma37, from one (implants)|a-correlated         
+218U 4cL event). Weighted average of the three values is 0.45 ms {I13}.         
+218U 5cL Evaluator prefers the half-life from 2007Le14 due to better            
+218U 6cL statistics in this work as compared to those in 2018Ya01 and           
+218U 7cL 2015Ma37                                                               
+218U  cL J$from 2007Le14 (also 2005Le42) based on comparison with {+216}Th,     
+218U 2cL (8+) isomer and expected similar structures of {+216}Th and {+218}U.   
+218U 3cL Proposed configuration=|ph{-9/2}~#|pf{-7/2}                            

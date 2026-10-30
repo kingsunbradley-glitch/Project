@@ -1,0 +1,1638 @@
+229TH    ADOPTED LEVELS, GAMMAS                                  26NDS    202601
+229TH  H TYP=FUL$AUT=F.G. KONDEV, J.K. TULI and E. BROWNE$                      
+229TH2 H CIT=NDS 208, 397 (2026)$CUT=23-Oct-2025$                               
+229TH dG $Transition strength is calculated by Java-RULER (version 02-Dec-2024) 
+229TH dL E$Least-squares fitting is done by GLSC (version 19-Aug-2025)          
+229TH  Q -311      4 5256.7  26 6598.1 28 5167.6 10    2021WA16                 
+229TH cQ $S(2n)=12361.9 {I28}, S(2p)=12169.9 {I27} (2021Wa16)                   
+229TH cL E$From a least-squares fit to E|g, unless otherwise stated.            
+229TH2cL Reduced |h{+2}=1.080, compared to the critical value of |h{+2}=1.246   
+229TH cL E(X)$From {+230}Th(d,t)                                                
+229TH cL E(Y)$Strong Coriolis mixing between |n3/2[761] and |n5/2[752]          
+229TH2cL bands leads to deviation from the regular collective pattern.          
+229TH3cL See 1976Kr03 for details                                               
+229TH cL J(W)$Assignment proposed in 2003Ba78 ({+233}U |a decay)                
+229TH cG E,RI$From {+233}U |a decay, unless otherwise stated.                   
+229TH cG E(a),RI(b)$From {+229}Ac |b{+-} decay                                  
+229TH cG E(c)$From level energy differences                                     
+229TH cG RI(d)$From 2003Ba78 ({+233}U |a decay), based on the rotational model  
+229TH cG M,MR$From ce data in {+229}Ac |b{+-} decay (2002Gu15), unless otherwise
+229TH2cG stated                                                                 
+229TH cG MR(x)$From the in-band cascade-to-crossover branching ratios and the   
+229TH2cG rotational model, and Q{-0}=8.87 eb {I17} (by the evaluators)          
+229TH CL BAND(A)$K|p=5/2+, |n5/2[633] band                                      
+229TH CL BAND(B)$K|p=3/2+, |n3/2[631] band                                      
+229TH CL BAND(C)$K|p=3/2-, |n3/2[761]+|n3/2[631]~#0- band                       
+229TH CL BAND(D)$K|p=5/2-, |n5/2[752] band                                      
+229TH CL BAND(E)$K|p=5/2+, |n5/2[622]+|n5/2[633]~#0++|n5/2[752]~#0- band        
+229TH CL BAND(F)$K|p=1/2+, |n1/2[631] band                                      
+229TH CL BAND(G)$K|p=1/2-, |n1/2[501] band. The assignment is tentative         
+229TH CL BAND(H)$K|p=3/2+, |n3/2[642] band. The assignment is tentative         
+229TH CL BAND(J)$K|p=1/2+                                                       
+229TH CL BAND(K)$K|p=3/2-, |n3/2[501] band. The assignment is tentative         
+229TH CL BAND(L)$K|p=1/2-, |n1/2[770]. The assignment is tentative              
+229TH CL BAND(M)$K|p=7/2+, |n7/2[613]. The assignment is tentative              
+229TH CL BAND(N)$K|p=5/2-, |n5/2[633]~#0- octupole vibrational band             
+229TH  XF229TH IT DECAY                                                         
+229TH  XB229AC B- DECAY                                                         
+229TH  XC229PA EC DECAY                                                         
+229TH  XA233U A DECAY                                                           
+229TH  XD230TH(D,T)                                                             
+229TH  XECOULOMB EXCITATION                                                     
+229TH DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+229TH PN                                                                     6  
+229TH  L 0.0          5/2+              7907 Y   24                         A   
+229TH2 L XREF=ABCDEF                                                            
+229TH3 L %A=100$MOMM1=+0.365 3$MOME2=+3.11 5                                    
+229TH cL T$Weighted average of 7825 y {I44} (2018Es07, unc {I87} at 2|s),       
+229TH3cL 7917 y {I24} (2014Va04), 7932 y {I28} (2011Ki16, unc {I55} at 2|s) and 
+229TH4cL 7880 y {I60} (1989Go19, unc {I120} at 2|s). Others: 7340 y {I160}      
+229TH5cL (1950Ha52)                                                             
+229TH cL J$Directly measured using the hyperfine structure (1964Eg01, 1964To02, 
+229TH2cL 2025Zi04). |p is from |m and L(d,t)=2                                  
+229TH cL MOMM1,MOME2$From hyperfine structure measurements for 5F{-5/2} state in
+229TH2cL 2025Zi04; values measured for 6D{-5/2} state in 2025Zi04 are |m=0.31(7)
+229TH3cL and Q=3.10 {I4}. Others (|m): +0.360 {I7} (2013Sa69), +0.45 |m{-N} {I4}
+229TH4cL (1974Ge06), +0.41 |m{-N} {I10} (1964Eg01), +0.34 |m{-N} {I7}           
+229TH5cL (1964To02); Others (Q): +3.11 {I2} (2021Po12, partially based on       
+229TH6cL theory), +3.11 {I6} (2013Sa69), 3.15 eb {I3} (1988Be41), +4.3 eb {I8}  
+229TH7cL (1974Ge06)                                                             
+229TH cL $|d<r{+2}>({+232}Th,{+229}Th)=0.299 fm{+2} {I15} (2018Sa48, Th{+2+}),  
+229TH2cL based on experimental data in 1989Ka29                                 
+229TH  L 8355734E-911    3/2+          7.0 US    10                         BM  
+229TH2 L %IT=100$MOMM1=-0.381 6$MOME2=+1.773 29                                 
+229TH2 L XREF=ABCDF                                                             
+229TH cL E$From |l=148.38218 nm {I19}, weighted average of 148.38210 nm {I50}   
+229TH2cL (2024Ti04, laser excitation of Th{+4+}:CaF{-2}) and 148.38219 nm {I20},
+229TH3cL determined from 148.38219 nm {I4} (stat) {I20} (syst) (2024El03,       
+229TH4cL laser excitation of Th{+4+}:LiSrAlF{-6}). Others:                      
+229TH cL ${B[direct photon detection]:}                                         
+229TH2cL 8.355733554021 eV {I8} (stat) in 2024Zh44 (laser excitation            
+229TH2cL of a vacuum ultraviolet (VUV) comb of Th:CaF{-2}) from                 
+229TH3cL |w=2020407384335 kHz {I2} (stat); Others (2025Hi02, same group):       
+229TH4cL at 150 K {I1}: 8.355733554021 eV {I8} (stat) from |w=2020407384335 kHz 
+229TH5cL {I2} (stat); at 229 K {I1}: 8.355733552329 eV {I12} (stat) from        
+229TH6cL |w=2020407383926 kHz {I3} (stat); at 293 K {I1}: 8.355733550811 eV {I8}
+229TH7cL (stat) from |w=2020407383559 kHz {I2} (stat). 8.352 eV {I6}            
+229TH8cL from |l=148.45 nm {I11}, weighted average of 148.491 nm {I19} (stat)   
+229TH9cL {I150} (syst) (CaF{-2}) and 148.402 nm {I86} (stat) {I150} (syst)      
+229THacL (LiSrAlF{-6}) in 2025Pi03 ({+229m}Th produced in {+229}Ac |b{+-}       
+229THbcL decay), 8.367 eV {I12} from |l=148.18 nm {I4} (stat) {I20} (syst) in   
+229THccL 2024Hi06 ({+229m}Th produced in X-rays irradiation), 8.337 eV {I23}    
+229THdcL from |l=148.71 nm {I6} (stat) {I41} (syst) (MgF{-2} and CaF{-2}) in    
+229THecL 2023Kr02 ({+229m}Th produced in {+229}Ac |b{+-} decay),                
+229THfcL 8.355735 eV {I6} from |w=2020407.8 GHz {I15} in 2025Sc06 (resonant     
+229THgcL fluorescence of {+229}Th:CaF{-2} crystal);                             
+229THhcL no observation between 7.5 eV and 10 eV in 2018St09 and between 7.3 eV 
+229THicL and 8.8 eV in 2015Je01;                                                
+229TH cL ${B[direct ce detection]:}                                             
+229TH2cL 8.28 eV {I3} (stat) {I1} (syst) in 2019Se13 ({+229m}Th produced        
+229TH2cL in {+233}U |a decay), 8.6 eV {I2} (stat) {I1} (syst) in 2025On01       
+229TH3cL ({+229m}Th produced in {+233}U |a decay), between 6.3 eV and 18.3 eV   
+229TH4cL in 2016We07 ({+229m}Th produced in {+233}U |a decay);                  
+229TH cL ${B[indirect:~microcallorimetry]:}                                     
+229TH2cL 8.10 eV {I17} in 2020Si22 ({+229m}Th produced in {+233}U |a decay),    
+229TH2cL 8.30 eV {I92} in 2019Ya18 ({+229m}Th produced in {+233}U |a decay),    
+229TH3cL between 2.5 eV and 8.9 eV in 2019Ma63, 7.8 eV {I5} (2010BeZZ), 7.6 eV  
+229TH4cL {I5} (2007Be16);                                                       
+229TH cL ${B[indirect:~not~microcallorimetry]:}                                 
+229TH2cL <15 eV (2010Sa02), between 3 eV and 7 eV (2009In01), 5.5 eV {I10}      
+229TH2cL (2005Gu15), 3.5 eV {I10} (1994He08), -1 eV {I4} (1990Re03), <5 eV      
+229TH3cL (1990Bu17), <100 eV (1976Kr03,1971KrZL); no observation between        
+229TH4cL 2.3 eV and 6.3 eV in 2005Ga63                                          
+229TH cL T$From ce(t) in 2017Se01; others: 7.9 |ms [2025On01, ce(t)], 10 |ms    
+229TH2cL {I8} [2019Sh38, ce(t)], all values are for a neutral {+229m}Th atom.   
+229TH3cL Others: {B[Th-dopped:CaF{-2}]:}                                        
+229TH4cL 437 s {I10} [2024Ti04,|g(t)], 447 s {I16} (stat) {I20} (syst)          
+229TH5cL [2024Hi06,|g(t)], 444.3 s {I28} [2024Zh44,|g(t)], 428 s {I13}          
+229TH6cL at T=100 K, 428 s {I6} at T=150 K and 164 s {I6} at T=297 K            
+229TH7cL [2025Sc06,|g(t)];                                                      
+229TH8cL {B[Th-dopped:LiSrAlF{-6}]:} 397.5 s {I20} [2025Te04,|g(t)],            
+229TH9cL 299 s {I49} [2025Te04,growth(t)], 394 s {I9} (stat) {I14} (syst)       
+229THacL [2024El03,|g(t)]; {B[{+229m}Th-implanted:MgF{-2}]:} 670 s {I102}       
+229THbcL [2023Kr02,|g(t)]; {B[{+229m}Th{+3+}-trapped: vacuum]:} 1400 s          
+229THccL {I+600-300} (2024Ya11); {B [{+229m}Th{+2+}-implanted: MCP detector]:}  
+229THdcL >60 s [2016We07, ce(t)]; similar limit is quoted in                    
+229THecL 2018Th02, based on the storage time of the ions in the trap;           
+229THfcL {BOthers:} 6 h {I1} [2012Zh51, |g(t)], 1-3 min [2009In01, |a(t)],      
+229THgcL <2 h [2009Ki14, |a(t)], <3 m or >60 h [2005Ka58, |g(t) for HNO{-3}]    
+229THhcL 14 h {I3} [2003Mi02, 4.83-5.08|a(t)], <6 h or >20 d [2001Br20, |g(t)], 
+229THicL 20-400 min [1999KoZR, |g(t)]                                           
+229TH cL MOME2$From Q(3/2+,iso)/Q(5/2+,gs)=0.57003 {I1} (2024Zh44) and          
+229TH2cL Q(5/2+,gs)=3.11 eb {I5} (2025Zi04).                                    
+229TH3cL Others: Q(3/2+,iso)/Q(5/2+,gs)=0.555 {I19} (2018Th02) and 0.569 {I7}   
+229TH4cL [using B(iso)=1288 MHz {I10} (2024Ya11) and B(gs)=2265 MHz {I9}        
+229TH5cL (2011Ca17)]; Q(3/2+,iso)=1.77 eb {I1} from                             
+229TH6cL Q{-0}(3/2+,iso)/Q{-0}(5/2+,gs)=1.01791 {I2} (2025Be28) and             
+229TH7cL Q(5/2+,gs)=3.11 eb {I2} (2021Po12, partially based on theory)          
+229TH cL MOMM1$From |m(3/2+,iso)/|m(5/2+,gs)=-1.045 {I14} for Th{+3+} using     
+229TH2cL A(iso)=-267 MHz {I3} (2024Ya11) and A(gs)=153.3 MHz {I12} (2011Ca17)   
+229TH3cL and |m(5/2+,gs)=0.365 |m{-N} {I3}. Other: |m(3/2+,iso)/|m(5/2+,gs)=    
+229TH4cL -1.04 {I15} for Th{+2+} using A(iso)/A(gs)=-1.73 {I25} (2018Th02)      
+229TH cL $|d<r{+2}>({+229m}Th,{+229}Th)=0.0105 fm{+2} {I13} (2018Sa48, for      
+229TH2cL Th{+2+}), 0.0097 fm{+2} {I26} (2024Ya11, for Th{+3+}),                 
+229TH3cL 0.012 fm{+2} {I2} (2018Th02, for Th{+2+})                              
+229TH cL $Frequency ratio |n({+229m}Th)/|n({+87}Sr)=4.707072615078 {I5}         
+229TH2cL (2024Zh44, in CaF{-2} crystal at T=150 K {I1})                         
+229TH  G 8355734E-911  100     [M1]                    1.6E9  3                 
+229TH cG E$From |l=148.38218 nm {I19}, weighted average of 148.38210 nm {I50}   
+229TH2cG (2024Ti04, Th{+4+}:CaF{-2}) and 148.38219 nm {I20}, determined from    
+229TH3cG 148.38219 nm {I(4,stat)} {I(20,syst)} (2024El03, Th{+4+}:LiSrAlF{-6}). 
+229TH4cG Others: 8.355733554021 eV {I8} (stat) in 2024Zh44 (laser excitation    
+229TH5cG of a vacuum ultraviolet (VUV) comb of Th:CaF{-2}) from                 
+229TH6cG |w=2020407384335 kHz {I2} (stat); Others (2025Hi02, same group):       
+229TH7cG at 150 K {I1}: 8.355733554021 eV {I8} (stat) from |w=2020407384335 kHz 
+229TH8cG {I2} (stat); at 229 K {I1}: 8.355733552329 eV {I12} (stat) from        
+229TH9cG |w=2020407383926 kHz {I3} (stat); at 293 K {I1}: 8.355733550811 eV {I8}
+229THacG (stat) from |w=2020407383559 kHz {I2} (stat). 8.352 eV {I6}            
+229THbcG from |l=148.45 nm {I11}, weighted average of 148.491 nm {I19} (stat)   
+229THccG {I150} (syst) (CaF{-2}) and 148.402 nm {I86} (stat) {I150} (syst)      
+229THdcG (LiSrAlF{-6}) in 2025Pi03 ({+229m}Th produced in {+229}Ac |b{+-}       
+229THecG decay), 8.367 eV {I12} from |l=148.18 nm {I4} (stat) {I20} (syst) in   
+229THfcG 2024Hi06 ({+229m}Th produced in X-rays irradiation), 8.337 eV {I23}    
+229THgcG from |l=148.71 nm {I6} (stat) {I41} (syst) (MgF{-2} and CaF{-2}) in    
+229THhcG 2023Kr02 ({+229m}Th produced in {+229}Ac |b{+-} decay),                
+229THicG 8.355735 eV {I6} from |w=2020407.8 GHz {I15} in 2025Sc06 (resonant     
+229THjcG fluorescence of {+229}Th:CaF{-2} crystal)                              
+229TH cG CC$From B(M1)=0.0033 W.u. {I5} for a similar |n3/2[631]->|n5/2[633]    
+229TH2cG transition in {+233}U (2020Si28), T{-1/2}=7.0 |ms {I10} and            
+229TH3cG E|g=0.008355733 keV {I11}. Others (theoretical): 0.96|*10{+9} or       
+229TH4cG 1.6|*10{+9} (2020Tk01), 0.987|*10{+9} (2024Ka39)                       
+229TH  L 29.18995  7  5/2+             82.2 PS   40                         B   
+229TH2 L XREF=ABCD                                                              
+229TH cL J$29.1821|g M1+E2 to 3/2+; L(d,t)=2, band assignment                   
+229TH cL T$Weighted average of 84.2 ps {I63} and 80.9 ps {I51} from nuclear     
+229TH2cL resonant scattering data in 2019Ma63                                   
+229TH  G 29.1821   8 100         M1+E2    0.127  6     206     7            x   
+229THF G FL=8355734E-9                                                          
+229THS G  LC=154 5$MC=38.7 14                                                   
+229THS G  NC=10.3 4$OC=2.39 8$PC=0.440 14$QC=0.0297 4                           
+229TH cG E$Others: 29.18251 keV {I72} (stat) {I33} (syst)                       
+229TH2cG (2019Ya18), 29.1856 keV {I4} (2007Be16,2010BeZZ)                       
+229TH cG M$M/N=0.27/0.15 (1959Tr31); |a(M)exp=12 {I5} (2002Gu15)                
+229THB G BM1W=0.0479 +29-27 $BE2W=280 +33-30                                    
+229TH  G 29.18993  7  10.3   7  [M1]                   139.8  20                
+229THF G FL=0.0                                                                 
+229THS G  LC=105.6 15$MC=25.5 4                                                 
+229THS G  NC=6.80 10$OC=1.612 23$PC=0.313 4$QC=0.0299 4                         
+229TH cG E$From 2019Ma63. Other: 29.1899 keV {I8} (2020Si22).                   
+229TH cG RI$From 2020Si22, based on line-shape analysis. Others (model          
+229TH2cG dependent): 12 {I3} (2019Ma63), 8.3 {I7} (2007Be16)                    
+229THB G BM1W=0.00501 +44-42                                                    
+229TH  L 42.4333   4 7/2+              170 PS    4                          A   
+229TH2 L XREF=ABCDE                                                             
+229TH cL J$42.4331|g M1+E2 to 5/2+; L(d,p)=4; band assignment                   
+229TH cL T$Weighted average of 169 ps {I4} [2021Sh28, |a-42.4|g(|Dt)] and       
+229TH2cL 172 ps {I6} [1970To12, |a-ce(|Dt)]. Others: <1.9 ns (1967Tr07) and     
+229TH4cL 125 ps {I21} from B(E2)|^=3.691 e{+2}b{+2} {I89} in Coulomb Excitation 
+229TH5cL and the adopted branching ratios and conversion electron coefficients  
+229TH cL $B(E2)|^=3.691 e{+2}b{+2} {I89} in 1988Be41 (Coulomb Excitation)       
+229TH  G 13.2429   8  3.3    10 [M1]                   358     5                
+229THS G  MC=267 4                                                              
+229THS G  NC=71.2 10$OC=16.86 24$PC=3.27 5$QC=0.313 4                           
+229THB G BM1W=0.0135 +43-39                                                     
+229TH  G 42.4250      0.7    LE[E2]                    684    10            c   
+229TH cG E$Other: 42.4524 keV {I7} (1994He08, doublet)                          
+229THS G  LC=501 7$MC=136.9 19                                                  
+229THS G  NC=36.6 5$OC=8.14 11$PC=1.340 19$QC=0.00336 5                         
+229THS G FL=8355734E-9                                                          
+229TH  G 42.4331   8  100    6 M1+E2     0.364   +32-26121    12                
+229THF G FL=0.0                                                                 
+229THS G  LC=90 9$MC=23.5 24                                                    
+229THS G  NC=6.3 6$OC=1.42 14$PC=0.248 23$QC=0.00912 18                         
+229TH cG E$Others: 42.4349 keV {I2} (stat) (2007Be16,2010BeZZ,                  
+229TH2cG no systematic uncertainty given) [micro-calorimetry]; 42.4524 keV {I7} 
+229TH3cG (1994He08), 42.4344 keV {I11} (2003Ba78), 42.38 keV {I1} (1996Ko29),   
+229TH3cG 42.44 keV {I2} (1976Kr03), 42.48 keV {I3} (1977Ca04)                   
+229TH cG M$From L1/L2/L3/M1/M2/M3/N2+N3=15/25/30/3/10/9/13 in 1958Hi78;         
+229TH2cG L1/L2/L3/M/N=2.3/4.5/4.3/4.0/1.2 in 1959Tr31; (L1+L2)/L3=2.2 {1},      
+229TH3cG L1/L2=0.9 {I1} and L/M=3 in 1961An08; M/N=3.3 {I5}/1.1 {I2} in         
+229TH4cG 1989AhZZ; |a(L1+L2)exp=20 {I6} and |a(M)exp=7.4 {I28} (2002Gu15)       
+229TH cG MR$From L/M=3.2 (1958Hi78), M/N=3.3 (1959Tr31) and 3.0 {I7} (1989AhZZ),
+229TH2cG L12/L3=2.2 {I1} and L1/L2=0.9 {I1} (1961An08) and the briccmixing code.
+229TH3cG Uncertainty of 20% was assumed for values quoted in 1958Hi78 and       
+229TH4cG 1959Tr31.                                                              
+229THB G BM1W=0.0110 +14-9 $BE2W=2.5E2 +6-3                                     
+229TH  L 71.8212   4   7/2+            120 PS    40                         B   
+229TH2 L XREF=ABCD                                                              
+229TH cL J$42.6314|g (M1+E2) to 5/2+, 71.8133|g E2 to 3/2+; L(d,p)=(4); band    
+229TH2cL assignment                                                             
+229TH cL T$From |a-71.8|g(|Dt) in 2021Sh28 ({+233}U |a decay)                   
+229TH  G 29.3885   8   6.1   11 [M1]                   137.1  19                
+229THS G  LC=103.5 14$MC=24.99 35                                               
+229THS G  NC=6.67 9$OC=1.580 22$PC=0.307 4$QC=0.0293 4                          
+229TH cG E$Other: 29.3911 keV {I4 (stat)} (2007Be16,2010BeZZ, no                
+229TH2cG systematic uncertainty given)                                          
+229THB G BM1W=0.0061 +34-18                                                     
+229TH  G 42.6314   8  100    6  (M1+E2)   0.12   1     54.6   17            x   
+229THS G  LC=41.0 12$MC=10.11 34                                                
+229THS G  NC=2.70 9$OC=0.632 20$PC=0.1193 34$QC=0.00965 14                      
+229TH cG E$Other: 42.6333 keV {I2 (stat)} (2007Be16,2010BeZZ, no                
+229TH2cG systematic uncertainty given)                                          
+229THB G BM1W=0.032 +17-8 $BE2W=79 +44-23                                       
+229TH  G 71.8133   16 13.7   11 E2                     53.8    8                
+229THF G FL=8355734E-9                                                          
+229THS G  LC=39.4 6$MC=10.81 15                                                 
+229THS G  NC=2.90 4$OC=0.644 9$PC=0.1066 15$QC=0.000350 5                       
+229TH cG E$Others: 71.8159 keV {I20} (1994He08), 71.76 keV {I1} (1996Ko29),     
+229TH2cG 71.84 keV {I2} (1976Kr03), 71.84 keV {I4} (1977Ca04)                   
+229TH cG RI$Others (for the doublet 71.8|g): 127 {I2} (1996Ko29), 121 {I6}      
+229TH2cG (1976Kr03), 106 (1977Ca04)                                             
+229TH cG M$L3/M/N=0.08/0.07/0.03 in 1959Tr31                                    
+229THB G BE2W=56 +29-15                                                         
+229TH  G 71.8212      8.9    9  [M1]                   9.91   14            c  S
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=d                                                                 
+229THS G  LC=7.49 10$MC=1.803 25                                                
+229THS G  NC=0.481 7$OC=0.1139 16$PC=0.02211 31$QC=0.002106 29                  
+229THB G BM1W=6.1E-4 +32-16                                                     
+229TH  L 97.1357   4  9/2+              93 PS    9                          A   
+229TH2 L XREF=ABDE                                                              
+229TH cL J$54.7030|g M1+E2 to 7/2+, 97.1360|g E2 to 5/2+; L(d,t)=4; band        
+229TH2cL assignment                                                             
+229TH cL T$Weighted average of 103 ps {I12} [|a-54.7|g(|Dt)] and 88 ps {I9}     
+229TH2cL [|a-97.1|g(|Dt)] in 2021Sh28 ({+233}U |a decay). Others: 147 ps {I12}  
+229TH3cL from |a-ce(|Dt) in 1970To12 ({+233}U |a decay), 350 ps {I140} from     
+229TH3cL |a-|g(|Dt) in 1967Tr07 ({+233}U |a decay) and 98 ps {I8} from          
+229TH4cL B(E2)|^=1.281 e{+2}b{+2} {I48} in Coulomb Excitation and the adopted   
+229TH5cL branching ratios and conversion electron coefficients                  
+229TH cL $B(E2)|^=1.281 e{+2}b{+2} {I48} in 1988Be41 (Coulomb Excitation)       
+229TH  G 25.3144   8   10.8  6   [M1]                  212.8  30                
+229THS G  LC=160.6 22$MC=38.9 5                                                 
+229THS G  NC=10.38 15$OC=2.458 34$PC=0.477 7$QC=0.0456 6                        
+229TH cG E$Others: 25.3106 keV {I8} (1994He08),                                 
+229TH2cG 25.311 keV {I4} (2003Ba78), 25.24 keV {I1} (1996Ko29),                 
+229TH2cG 25.30 keV {I6} (1976Kr03), 25.27 keV {I12} (1977Ca04)                  
+229TH cG RI$Other: 30.0 {I14} from 2006Ru07                                     
+229THB G BM1W=0.0181 +25-21                                                     
+229TH  G 54.7030   8   92.2  24 M1+E2    0.45    +5-4  52      6                
+229THS G  LC=38 4$MC=10.0 11                                                    
+229THS G  NC=2.69 31$OC=0.61 7$PC=0.107 11$QC=0.00407 13                        
+229TH cG E$Others: 54.7038 keV {I14} (1994He08),                                
+229TH2cG 54.7040 keV {I11} (2003Ba78), 54.65 keV {I1} (1996Ko29),               
+229TH2cG 54.69 keV {I2} (1976Kr03), 54.74 keV {I5} (1977Ca04)                   
+229TH cG M$L1+L2/M/N=0.6/0.32/0.12 in 1959Tr31; L1/L2=0.9 {I1} in 1961An08      
+229TH cG MR$From M/N=2.7 and L12/M=1.9 (1959Tr31) and L1/L2=0.9 {I1} (1961An08) 
+229TH2cG and the briccmixing code. Uncertainty of 20% was assumed               
+229TH3cG for values quoted in 1959Tr31. Other: 0.48 {I1} from the in-band       
+229TH4cG cascade-to-crossover branching ratios and the rotational model, and    
+229TH5cG Q{-0}=8.87 eb {I17} (by the evaluators)                                
+229THB G BM1W=0.0127 +17-15 $BE2W=2.7E2 +7-5                                    
+229TH  G 67.9460   5  1.64   8 [E2]                    70.2   10                
+229THS G  LC=51.3 7$MC=14.08 20                                                 
+229THS G  NC=3.77 5$OC=0.839 12$PC=0.1387 19$QC=0.000438 6                      
+229TH cG E$Others: 67.9460 keV {I5} (1994He08), 67.89 keV {I1} (1996Ko29),      
+229TH2cG 67.98 keV {I5} (1976Kr03), 68.08 keV {I1} (1977Ca04)                   
+229THB G BE2W=9.5 +14-11                                                        
+229TH  G 97.1360   16 100.0  18  E2                    12.91  18                
+229THF G FL=0.0                                                                 
+229THS G  LC=9.44 13$MC=2.59 4                                                  
+229THS G  NC=0.695 10$OC=0.1549 22$PC=0.0257 4$QC=0.0001097 15                  
+229TH cG E$Unweighted average 97.1344 keV {I3} (1994He08) and 97.1376 keV {I11} 
+229TH2cG (2003Ba78). Others: 97.03 keV {I1} (1996Ko29),                         
+229TH3cG 97.14 keV {I2} (1976Kr03), 97.14 keV {I5} (1977Ca04)                   
+229TH cG M$L1/L2=0.2 {I1}, L/M=3.7 and L1+L2/L3=1.4 {I1} in 1961An08;           
+229TH2cG L2/L3/M/M=0.25/0.18/0.12/0.03 in 1959Tr31                              
+229THB G BE2W=97 +13-10                                                         
+229TH  L 125.4300  9   9/2+                                                 B   
+229TH2 L XREF=ABD                                                               
+229TH cL $83.000|g to 7/2+, 125.41|g to 5/2+; L(d,t)=4; band assignment         
+229TH  G 28.2943      1.05   26[M1]                    153.3  21            c  S
+229THF G FLAG=d                                                                 
+229THS G  LC=115.7 16$MC=28.0 4                                                 
+229THS G  NC=7.46 10$OC=1.767 25$PC=0.343 5$QC=0.0328 5                         
+229TH  G 53.6093   8  100    5 [M1]                    23.33  33                
+229THS G  LC=17.63 25$MC=4.24 6                                                 
+229THS G  NC=1.133 16$OC=0.268 4$PC=0.0521 7$QC=0.00496 7                       
+229TH cG E$Other: 53.6104 keV {I17} (2003Ba78)                                  
+229TH  G 83.000    13 5.5    5  [M1+E2]   0.13   1     6.85   11            x   
+229THS G  LC=5.16 8$MC=1.254 21                                                 
+229THS G  NC=0.335 6$OC=0.0789 13$PC=0.01516 24$QC=0.001361 19                  
+229TH cG E$Other: 83.0128 keV {I20} (1994He08)                                  
+229TH  G 96.232    4  44.1   32 [E2]                   13.49  19                
+229THS G  LC=9.86 14$MC=2.71 4                                                  
+229THS G  NC=0.726 10$OC=0.1618 23$PC=0.0268 4$QC=0.0001135 16                  
+229TH cG E$Other: 96.14 keV {I1} (1996Ko29)                                     
+229TH  G 125.41    4  1.467  26 [E2]                   4.22    6                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.262 4$LC=2.89 4$MC=0.795 11                                      
+229THS G  NC=0.2130 30$OC=0.0476 7$PC=0.00793 11$QC=4.63E-5 7                   
+229TH  L 146.3542  5  (5/2)-           332 PS    8                          D   
+229TH2 L XREF=ABC                                                               
+229TH3 L FLAG=Y                                                                 
+229TH cL J$146.3462|g E1 to 3/2+, 117.1628|g (E1) to 5/2+; configuration        
+229TH2cL assignment                                                             
+229TH cL T$Weighted average of 336 ps {I10} (2002Gu15, |b-146|g(t)) and         
+229TH2cL 329 ps {I8} (2006Ru07, |b|g-146|g(t)) ({+229}Ac |b{+-} decay)          
+229TH  G 74.539    4  21.8   8  [E1]                   0.255   4                
+229TH cG RI$Weighted average 22.9 {I12} (2003Ba78, {+233}U |a decay) and        
+229TH2cG 21.2 {I9} (2006Ru07, {+229}Ac |b{+-} decay)                            
+229THB G BE1W=1.38E-4 6                                                         
+229THS G  LC=0.1927 27$MC=0.0470 7                                              
+229THS G  NC=0.01233 17$OC=0.00277 4$PC=0.000478 7$QC=2.491E-5 35               
+229TH  G 117.1628  9  45.3   15 (E1)                   0.336   5                
+229TH cG RI$Weighted average 44.2 {I22} (2003Ba78, {+233}U |a decay) and        
+229TH2cG 46.2 {I20} (2006Ru07, {+229}Ac |b{+-} decay).                          
+229TH3cG Other: 49 {I4} (1987Ah05, {+229}Pa |e decay)                           
+229TH cG M$From |a(L1+L2)exp |J 0.02 (2002Gu15)                                 
+229THB G BE1W=7.38E-5 26                                                        
+229THS G  KC=0.259 4$LC=0.0586 8$MC=0.01419 20                                  
+229THS G  NC=0.00374 5$OC=0.000852 12$PC=0.0001519 21$QC=9.21E-6 13             
+229TH  G 146.3462  6  100.0  9  (E1)                   0.1984 28                
+229THF G FL=8355734E-9                                                          
+229TH cG M$From |a(K)exp |J 0.06, |a(L1+L2)exp |J 0.02 (2002Gu15)               
+229THB G BE1W=8.36E-5 23                                                        
+229THS G  KC=0.1549 22$LC=0.0329 5$MC=0.00795 11                                
+229THS G  NC=0.002097 29$OC=0.000481 7$PC=8.69E-5 12$QC=5.62E-6 8               
+229TH  L 148.163   2  (7/2-)           689 PS    34                         D   
+229TH2 L XREF=ABC                                                               
+229TH3 L FLAG=Y                                                                 
+229TH cL J$118.9721|g (E1) to 5/2+, 76.343|g to 7/2+; band assignment           
+229TH cL T$From |b|g-148|g(t) in 2006Ru07 ({+229}Ac |b{+-} decay)               
+229TH  G 1.8085      0.0063  6 [M1]                    8500                 c  S
+229TH2 G FLAG=b                                                                 
+229TH cG E$Placement in the level scheme from 2006Ru07 in {+229}Ac |b{+-} decay 
+229TH cG CC$8500 from 2006Ru07 ({+229}Ac |b{+-} decay)                          
+229THB G BM1W=0.162 15                                                          
+229TH  G 76.343    8  10.1   10 [E1]                   0.2396 34                
+229TH cG RI$Unweighted average 8.3 {I8} (2003Ba78, {+233}U |a decay), 11.2 {I5} 
+229TH2cG (2006Ru07, {+229}Ac |b{+-} decay) and 8.2 {I10} (1987Ah05,             
+229TH3cG {+229}Pa |e decay)                                                     
+229THB G BE1W=2.82E-5 31                                                        
+229THS G  LC=0.1808 25$MC=0.0441 6                                              
+229THS G  NC=0.01157 16$OC=0.00261 4$PC=0.000450 6$QC=2.365E-5 33               
+229TH  G 118.9721  15 100.0  23 (E1)                   0.325   5                
+229TH cG M$From |a(L1+L2)exp |J 0.09 (2002Gu15)                                 
+229THB G BE1W=7.37E-5 +45-39                                                    
+229THS G  KC=0.2501 35$LC=0.0563 8$MC=0.01363 19                                
+229THS G  NC=0.00359 5$OC=0.000819 11$PC=0.0001462 20$QC=8.90E-6 12             
+229TH  G 148.179   10  10.7  7 [E1]                    0.1926 27                
+229THF G FL=0.0                                                                 
+229TH cG RI$Weighted average 10.9 {I6} (2003Ba78, {+233}U |a decay), 10.2 {I5}  
+229TH2cG (2006Ru07, {+229}Ac |b{+-} decay) and 14.1 {I15} (1987Ah05,            
+229TH3cG {+229}Pa |e decay)                                                     
+229THB G BE1W=4.08E-6 +36-33                                                    
+229THS G  KC=0.1504 21$LC=0.0319 4$MC=0.00770 11                                
+229THS G  NC=0.002031 28$OC=0.000466 7$PC=8.42E-5 12$QC=5.47E-6 8               
+229TH  L 163.254   1  11/2+            220 PS    30                         A   
+229TH2 L XREF=AD(*164.0)E                                                       
+229TH cL J$66.1184|g to 9/2+, 120.8|g E2 to 7/2+; band assignment               
+229TH cL T$From |a-66.1|g(|Dt) in 2021Sh28 ({+233}U |a decay).                  
+229TH  G 37.823    16 8.1    14 [M1]                   65.1    9                
+229THS G  LC=49.2 7$MC=11.85 17                                                 
+229THS G  NC=3.16 4$OC=0.749 11$PC=0.1454 20$QC=0.01388 20                      
+229THB G BM1W=0.0075 +16-14                                                     
+229TH  G 66.1184   6  33.2   20 [M1+E2]  0.46    2     24.4    9                
+229THF G FLAG=x                                                                 
+229THS G  LC=18.1 7$MC=4.70 19                                                  
+229THS G  NC=1.26 5$OC=0.287 11$PC=0.0508 18$QC=0.00230 4                       
+229THB G BM1W=0.0048 +8-7 $BE2W=71 +14-11                                       
+229TH  G 91.4324      1.34   23 [E2]                   17.14  24            c  S
+229THF G FLAG=d                                                                 
+229THS G  LC=12.54 18$MC=3.45 5                                                 
+229THS G  NC=0.923 13$OC=0.2056 29$PC=0.0341 5$QC=0.0001368 19                  
+229THB G BE2W=3.2 +8-7                                                          
+229TH  G 120.8194  7  100    8 E2                      4.95    7                
+229THS G  KC=0.257 4$LC=3.43 5$MC=0.943 13                                      
+229THS G  NC=0.2527 35$OC=0.0564 8$PC=0.00939 13$QC=5.22E-5 7                   
+229TH cG M$L2/L3/M/N=0.012/0.010/0.007/0.003 in 1959Tr31                        
+229THB G BE2W=60 +11-9                                                          
+229TH  L 164.5323  5  (3/2)-           55 PS     4                          C   
+229TH2 L XREF=ABD(*164.0)                                                       
+229TH3 L FLAG=Y                                                                 
+229TH cL J$164.5240|g E1 to 3/2+, 16.36|g to (7/2-), 18.17|g to (5/2)-;         
+229TH2cL configuration assignment                                               
+229TH cL T$Weighted average of 53 ps {I4} (2002Gu15,|b-164|g(t)) and 61 ps {I7} 
+229TH2cL (2006Ru07,|b|g-164|g(t)) ({+229}Ac |b{+-} decay)                       
+229TH  G 16.3697     0.0012  2  [E2]                   20000                c  S
+229TH2 G FLAG=b                                                                 
+229TH cG E$Placement in the level scheme from 2006Ru07 in {+229}Ac |b{+-} decay 
+229TH cG CC$From 2006Ru07                                                       
+229TH  G 18.17     5  0.084  14[M1]                    142.6  24            a   
+229TH2 G FLAG=b                                                                 
+229THS G  LC=2.81 5$MC=104.1 17                                                 
+229THS G  NC=27.8 5$OC=6.58 11$PC=1.277 21$QC=0.1220 20                         
+229THB G BM1W=0.029 5                                                           
+229TH  G 135.3394  24 36.5   9  E1                     0.2391 33                
+229THS G  KC=0.1859 26$LC=0.0403 6$MC=0.00974 14                                
+229THS G  NC=0.00257 4$OC=0.000587 8$PC=0.0001057 15$QC=6.68E-6 9               
+229TH cG RI$Weighted average 34.7 {I19} (weighted average of 2003Ba78, 1984Re05,
+229TH2cG 1996Ko29 and 1976Kr03 data in {+233}U |a decay), 37 {I1} (2006Ru07,    
+229TH3cG {+229}Ac |b{+-} decay)                                                 
+229TH cG M$From |a(K)exp=0.16 {I3}, |a(L1+L2)exp=0.03 {I1} (2002Gu15)           
+229THB G BE1W=2.47E-4 +21-19                                                    
+229TH  G 164.5240  5  100       E1                     0.1500 21                
+229THF G FL=8355734E-9                                                          
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.1177 16$LC=0.02438 34$MC=0.00588 8                               
+229TH cG M$From |a(K)exp |J 0.08 (2002Gu15)                                     
+229THS G  NC=0.001553 22$OC=0.000357 5$PC=6.49E-5 9$QC=4.33E-6 6                
+229THB G BE1W=3.76E-4 +31-28                                                    
+229TH  L 173.4733  16 (9/2-)                                                D   
+229TH2 L XREF=AB                                                                
+229TH3 L FLAG=Y                                                                 
+229TH cL J$25.3106|g to (7/2-), 76.335|g to 9/2+; band assignment               
+229TH  G 25.3106   8  6.0    LT[M1]                    212.9  30                
+229THS G  LC=160.7 22$MC=38.9 5                                                 
+229THS G  NC=10.38 15$OC=2.459 34$PC=0.477 7$QC=0.0456 6                        
+229TH  G 27.1191      2.9    LT[E2]                    6.13E3  9            c  S
+229THS G  LC=4.50E3 6$MC=1225 17                                                
+229THS G  NC=327 5$OC=72.6 10$PC=11.93 17$QC=0.02497 35                         
+229TH  G 76.335    10 29     LT[E1]                    0.2397 34                
+229THS G  LC=0.1809 25$MC=0.0441 6                                              
+229THS G  NC=0.01158 16$OC=0.00261 4$PC=0.000450 6$QC=2.366E-5 33               
+229TH  G 101.62    5  100    23[E1]                    0.1125 16                
+229THS G  LC=0.0850 12$MC=0.02064 29                                            
+229THS G  NC=0.00543 8$OC=0.001233 17$PC=0.0002177 31$QC=1.262E-5 18            
+229TH  G 131.05    15 25.3   33[E1]                    0.258   4                
+229THS G  KC=0.2003 29$LC=0.0438 6$MC=0.01059 15                                
+229THS G  NC=0.00279 4$OC=0.000638 9$PC=0.0001146 16$QC=7.18E-6 10              
+229TH  L 195.7073  8   11/2+                                                B   
+229TH2 L XREF=A                                                                 
+229TH cL J$70.281|g .to 9/2+, 123.8860|g to 7/2+; band assignment               
+229TH  G 32.4538      2.2    4 [M1]                    102.3  14            c  S
+229THF G FLAG=d                                                                 
+229THS G  LC=77.2 11$MC=18.63 26                                                
+229THS G  NC=4.97 7$OC=1.178 16$PC=0.2286 32$QC=0.02182 31                      
+229TH  G 70.281    5  81     4  [M1+E2]  0.17    1     11.94  23                
+229THF G FLAG=x                                                                 
+229THS G  LC=8.98 17$MC=2.20 5                                                  
+229THS G  NC=0.588 12$OC=0.1380 27$PC=0.0262 5$QC=0.002191 31                   
+229TH  G 98.5716      13.4   22 [M1]                   3.95    6            c  S
+229THF G FLAG=d                                                                 
+229THS G  LC=2.99 4$MC=0.718 10                                                 
+229THS G  NC=0.1916 27$OC=0.0454 6$PC=0.00880 12$QC=0.000838 12                 
+229TH  G 123.8860  7  100    7 [E2]                    4.45    6                
+229THS G  KC=0.261 4$LC=3.06 4$MC=0.841 12                                      
+229THS G  NC=0.2253 32$OC=0.0503 7$PC=0.00838 12$QC=4.81E-5 7                   
+229TH  G 153.2     2  5.2    4 [E2]                    1.839  28            *   
+229THS G  KC=0.2362 33$LC=1.173 18$MC=0.321 5                                   
+229THS G  NC=0.0862 13$OC=0.01926 29$PC=0.00323 5$QC=2.53E-5 4                  
+229TH  L 202.4     2  (11/2)-                                               D   
+229TH2 L XREF=D                                                                 
+229TH3 L FLAG=X                                                                 
+229TH4 L FLAG=Y                                                                 
+229TH cL J$L(d,t)=5; band assignment                                            
+229TH  L 212.26    3  (5/2+)                                                    
+229TH2 L XREF=AB                                                                
+229TH3 L FLAG=W                                                                 
+229TH cL J$87.3|g to 9/2+, 212.32|g to 5/2+                                     
+229TH  G 87.3      5  68     18 [E2]                   21.3    7                
+229THS G  LC=15.6 5$MC=4.28 13                                                  
+229THS G  NC=1.147 35$OC=0.256 8$PC=0.0423 13$QC=0.000163 4                     
+229TH  G 212.32    8  100    3  [M1]                   2.201  31                
+229THF G FL=0.0                                                                 
+229THS G  KC=1.760 25$LC=0.333 5$MC=0.0801 11                                   
+229THS G  NC=0.02136 30$OC=0.00506 7$PC=0.000981 14$QC=9.31E-5 13               
+229TH  L 217.1610  17 (5/2-)           30 PS     7                          C   
+229TH2 L XREF=AB                                                                
+229TH3 L FLAG=Y                                                                 
+229TH cL J$145.342|g to 7/2+, 52.607|g to (3/2)-, 217.1519|g to 3/2+;           
+229TH2cL band assignment                                                        
+229TH cL T$From |b|g|g(t) centroid shift in 2006Ru07 ({+229}Ac |b{+-} decay)    
+229TH  G 52.607    25 3.78   27 [M1]                   24.66  35            b   
+229THS G  LC=18.63 26$MC=4.49 6                                                 
+229THS G  NC=1.197 17$OC=0.284 4$PC=0.0550 8$QC=0.00525 7                       
+229TH cG RI$Other: 4.4 {I4} (2003Ba78, {+233}U |a decay)                        
+229THB G BM1W=0.048 +15-10                                                      
+229TH  G 69.03     10 5.41   27 [M1]                   11.13  16            a   
+229THF G FLAG=b                                                                 
+229THS G  LC=8.41 12$MC=2.024 30                                                
+229THS G  NC=0.540 8$OC=0.1279 19$PC=0.0248 4$QC=0.002365 35                    
+229TH cG RI$Other: 4.4 {I10} (2003Ba78, {+233}U |a decay)                       
+229THB G BM1W=0.030 +10-6                                                       
+229TH  G 145.342   3  53.9   20 [E1]                   0.2017 28                
+229THS G  KC=0.1574 22$LC=0.0335 5$MC=0.00809 11                                
+229THS G  NC=0.002134 30$OC=0.000489 7$PC=8.84E-5 12$QC=5.70E-6 8               
+229TH cG RI$Weighted average 52.6 {I21} (2003Ba78, {+233}U |a decay), 56.8 {I31}
+229TH2cG (2006Ru07, {+229}Ac |b{+-} decay)                                      
+229THB G BE1W=2.6E-4 +9-5                                                       
+229TH  G 187.953   16 59     4  [E1]                   0.1093 15                
+229THS G  KC=0.0863 12$LC=0.01741 24$MC=0.00420 6                               
+229THS G  NC=0.001108 16$OC=0.000256 4$PC=4.68E-5 7$QC=3.23E-6 5                
+229TH cG RI$Weighted average 55.6 {I8} [weighted average of 2024Gr01, 2003Ba78, 
+229TH2cG 1996Ko29 and 1976Kr03 data in {+233}U |a decay] and                    
+229TH2cG 62.7 {I25} (2006Ru07, {+229}Ac |b{+-} decay)                           
+229THB G BE1W=1.34E-4 +42-27                                                    
+229TH  G 217.1519  20 100.0  14 [E1]                   0.0778 11                
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.0617 9$LC=0.01216 17$MC=0.00293 4                                
+229THS G  NC=0.000773 11$OC=0.0001788 25$PC=3.29E-5 5$QC=2.356E-6 33            
+229THB G BE1W=1.47E-4 +47-28                                                    
+229TH  L 235.1238  18  (5/2-,7/2-)                                              
+229TH2 L XREF=AB                                                                
+229TH3 L FLAG=W                                                                 
+229TH  G 86.3      3            [M1]                   5.81   10               ?
+229THS G  LC=4.39 8$MC=1.056 18                                                 
+229THS G  NC=0.282 5$OC=0.0667 12$PC=0.01295 22$QC=0.001232 21                  
+229TH  G 88.7      2   100      [M1]                   5.36    8                
+229THS G  LC=4.05 6$MC=0.975 15                                                 
+229THS G  NC=0.260 4$OC=0.0616 10$PC=0.01196 18$QC=0.001138 18                  
+229TH  L 237.3695  7  (7/2-)           34 PS     LE                         C   
+229TH2 L XREF=AB                                                                
+229TH3 L FLAG=Y                                                                 
+229TH cL J$111.90|g to 9/2+, 72.8|g to (3/2)-; band assignment                  
+229TH cL T$From |b|g|g(t) centroid shift in 2006Ru07 ({+229}Ac |b{+-} decay)    
+229TH  G 25.02     5  4.4    17[E1]                    4.57    7                
+229THS G  LC=3.41 5$MC=0.879 13                                                 
+229THS G  NC=0.2273 34$OC=0.0480 7$PC=0.00710 10$QC=0.0002352 34                
+229TH  G 63.79     6  1.3    5 [M1]                    14.02  20                
+229THS G  LC=10.59 15$MC=2.55 4                                                 
+229THS G  NC=0.680 10$OC=0.1611 23$PC=0.0313 4$QC=0.00298 4                     
+229TH  G 72.88     7 1.3     LT[E2]                    50.2    7                
+229THS G  LC=36.7 5$MC=10.08 15                                                 
+229THS G  NC=2.70 4$OC=0.601 9$PC=0.0993 15$QC=0.000329 5                       
+229TH  G 89.39     14 11.4   13[M1]                                             
+229TH cG RI$Other: 8.2 {I26} (2006Ru07, {+229}Ac |b{+-} decay)                  
+229THS G  LC=3.96 6$MC=0.954 14                                                 
+229THS G  NC=0.254 4$OC=0.0603 9$PC=0.01169 17$QC=0.001113 16                   
+229TH  G 90.999    11 13.5   18[M1]                    4.98    7                
+229THS G  LC=3.76 5$MC=0.905 13                                                 
+229THS G  NC=0.2416 34$OC=0.0572 8$PC=0.01110 16$QC=0.001056 15                 
+229TH cG RI$Other: 21 {I3} (2006Ru07, {+229}Ac |b{+-} decay)                    
+229TH  G 111.90    5  17.5   13[E1]                    0.372   5            a   
+229THS G  KC=0.284 4$LC=0.0660 9$MC=0.01601 22                                  
+229THS G  NC=0.00421 6$OC=0.000960 13$PC=0.0001706 24$QC=1.020E-5 14            
+229TH cG RI$Other: 61 {I5} (2006Ru07, {+229}Ac |b{+-} decay)                    
+229TH  G 165.581   19 17.8   10[E1]                    0.1477 21                
+229THS G  KC=0.1160 16$LC=0.02399 34$MC=0.00579 8                               
+229THS G  NC=0.001528 21$OC=0.000351 5$PC=6.39E-5 9$QC=4.27E-6 6                
+229TH cG RI$Other: 44 {I12} (2006Ru07, {+229}Ac |b{+-} decay)                   
+229TH  G 208.1795  7  100      [E1]                    0.0859 12                
+229THS G  KC=0.0680 10$LC=0.01350 19$MC=0.00325 5                               
+229THS G  NC=0.000858 12$OC=0.0001983 28$PC=3.65E-5 5$QC=2.58E-6 4              
+229TH cG RI$Other: 100 {I3} (2006Ru07, {+229}Ac |b{+-} decay)                   
+229TH  G 237.51    10 0.22   7 [E1]                    0.0632  9                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.0503 7$LC=0.00976 14$MC=0.002347 33                              
+229THS G  NC=0.000621 9$OC=0.0001437 20$PC=2.66E-5 4$QC=1.941E-6 27             
+229TH cG RI$Other: 0.98 (2006Ru07, {+229}Ac |b{+-} decay)                       
+229TH  L 241.556   14 13/2+                                                 A   
+229TH2 L XREF=AE                                                                
+229TH cL J$78.21|g to 11/2+, 144.426|g to 9/2+; band assignment                 
+229TH  G 45.849       3.1    5 [M1]                    36.9    5            c  S
+229TH2 G FLAG=d                                                                 
+229THS G  LC=27.9 4$MC=6.72 9                                                   
+229THS G  NC=1.794 25$OC=0.425 6$PC=0.0824 12$QC=0.00786 11                     
+229TH  G 78.21     5  18.3   23[M1+E2]   0.52    5     13.7    9                
+229THF G FLAG=x                                                                 
+229THS G  LC=10.2 7$MC=2.64 19                                                  
+229THS G  NC=0.71 5$OC=0.161 11$PC=0.0287 18$QC=0.00135 5                       
+229TH  G 116.3     2  1.6    3 [E2]                    5.84    9            @   
+229THS G  KC=0.2449 35$LC=4.09 7$MC=1.124 18                                    
+229THS G  NC=0.301 5$OC=0.0672 11$PC=0.01118 18$QC=5.91E-5 9                    
+229TH  G 144.426   14 100    10[E2]                    2.338  33                
+229THS G  KC=0.2503 35$LC=1.527 21$MC=0.419 6                                   
+229THS G  NC=0.1122 16$OC=0.02509 35$PC=0.00419 6$QC=3.01E-5 4                  
+229TH  L 255.91    2  (3/2+,5/2+,7/2+)                                          
+229TH2 L XREF=AB                                                                
+229TH3 L FLAG=W                                                                 
+229TH cL J$255.91|g to 5/2+                                                     
+229TH  G 43.69     3  58     19[M1]                    42.6    6                
+229THS G  LC=32.2 5$MC=7.75 11                                                  
+229THS G  NC=2.067 29$OC=0.490 7$PC=0.0950 13$QC=0.00907 13                     
+229TH  G 226.72    28 100    32[M1]                    1.832  26                
+229THS G  KC=1.465 21$LC=0.277 4$MC=0.0666 10                                   
+229THS G  NC=0.01776 26$OC=0.00421 6$PC=0.000816 12$QC=7.74E-5 11               
+229TH  G 255.89    3  52.6   29 [M1]                   1.308  18                
+229THF G FL=0.0                                                                 
+229THS G  KC=1.046 15$LC=0.1975 28$MC=0.0474 7                                  
+229THS G  NC=0.01265 18$OC=0.00300 4$PC=0.000581 8$QC=5.52E-5 8                 
+229TH  L 261.967   4   1/2+            15 PS     3                          F   
+229TH2 L XREF=ABD                                                               
+229TH cL J$261.956|g M1+E2 to 3/2+; L(d,t)=0                                    
+229TH cL T$From |b|g|g(t) centroid shift in 2006Ru07 ({+229}Ac |b{+-} decay).   
+229TH2cL Other: <35 ps from |b|g(t) (2002Gu15) ({+229}Ac |b{+-} decay)          
+229TH  G 97.37     4            [E1]                   0.1259 18               ?
+229THS G  LC=0.0951 13$MC=0.02311 32                                            
+229THS G  NC=0.00608 9$OC=0.001379 19$PC=0.0002426 34$QC=1.387E-5 19            
+229TH cG E,RI$Doublet. I|g=100 in 2003Ba78 ({+233}U |a decay), but existence of 
+229TH2cG such a strong transition is not confirmed in {+229}Ac |b{+-} decay     
+229TH  G 261.958   4  100      M1+E2     1.00    +22-180.74   10                
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.54 9$LC=0.153 7$MC=0.0384 13                                     
+229THS G  NC=0.01027 34$OC=0.00238 9$PC=0.000439 22$QC=2.9E-5 4                 
+229TH cG M,MR$From |a(K)exp=0.60 {I6}, |a(L1+L2)exp=0.12 {I1}, |a(M)exp=0.04    
+229TH2cG {I1} and |a(N)exp=0.010 {I5} (2002Gu15). |d using the briccmixing code;
+229TH2cG other: |d=0.87 {I12} in 2002Gu15                                       
+229THB G BM1W=0.024 +8-6 $BE2W=106 +36-26                                       
+229TH  L 272.849   8  (13/2+)                                               B  ?
+229TH2 L XREF=A                                                                 
+229TH cL J$77.142|g to 11/2+, 146.9|g to 9/2+; band assignment                  
+229TH  G 77.142    8           [M1+E2]                 23     15                
+229THS G  LC=17 11$MC=4.6 31                                                    
+229THS G  NC=1.2 8$OC=0.28 18$PC=0.047 29$QC=1.0E-3 7                           
+229TH  G 146.9     5  100    8 [E2]                    2.18    4               ?
+229THS G  KC=0.2466 35$LC=1.415 29$MC=0.388 8                                   
+229THS G  NC=0.1040 22$OC=0.0232 5$PC=0.00389 8$QC=2.86E-5 5                    
+229TH  L 276       1  (15/2-)                                               D   
+229TH2 L XREF=D                                                                 
+229TH3 L FLAG=X                                                                 
+229TH4 L FLAG=Y                                                                 
+229TH cL J$Assignment in {+230}Th(d,t); band assignment                         
+229TH  L 287.89    1  (7/2-)                                                    
+229TH2 L XREF=AB                                                                
+229TH3 L FLAG=W                                                                 
+229TH  G 51.0      3  4.9    15[M1]                    27.0    6                
+229THS G  LC=20.4 5$MC=4.91 11                                                  
+229THS G  NC=1.311 29$OC=0.311 7$PC=0.0603 14$QC=0.00575 13                     
+229TH  G 114.2     2  30     4 [M1]                    12.68  19                
+229THS G  KC=10.10 15$LC=1.952 29$MC=0.469 7                                    
+229THS G  NC=0.1252 19$OC=0.0297 4$PC=0.00575 9$QC=0.000547 8                   
+229TH  G 139.7278  45 16.0   11 [M1]                   7.17   10                
+229THS G  KC=5.73 8$LC=1.093 15$MC=0.263 4                                      
+229THS G  NC=0.0701 10$OC=0.01661 23$PC=0.00322 5$QC=0.000306 4                 
+229TH  G 162.48    3  8.8    6 [E1]                    0.1545 22            *   
+229THS G  KC=0.1212 17$LC=0.02517 35$MC=0.00608 9                               
+229THS G  NC=0.001603 22$OC=0.000369 5$PC=6.70E-5 9$QC=4.46E-6 6                
+229TH  G 216.053   17 100.0  19 [E1]                   0.0787 11                
+229THS G  KC=0.0625 9$LC=0.01231 17$MC=0.00296 4                                
+229THS G  NC=0.000783 11$OC=0.0001810 25$PC=3.33E-5 5$QC=2.382E-6 33            
+229TH  L 288.48    2   (3/2)+          16 PS     7                          F   
+229TH2 L XREF=ABDE(287)                                                         
+229TH cL J$141.95|g to (5/2)-; L(d,t)=2; band assignment                        
+229TH cL T$From |b|g|g(t) centroid shift in 2006Ru07 ({+229}Ac |b{+-} decay)    
+229TH cL $B(E2)|^=0.023 e{+2}b{+2} {I5} in 1988Be41 (Coulomb Excitation)        
+229TH  G 32.57     3  12     4 [M1]                    101.2  14                
+229THS G  LC=76.4 11$MC=18.44 26                                                
+229THS G  NC=4.92 7$OC=1.165 17$PC=0.2262 32$QC=0.02159 31                      
+229THB G BM1W=0.30 +20-10                                                       
+229TH  G 141.95    10 5.8    10[E1]                    0.2134 30                
+229THB G BE1W=1.4E-5 +14-5                                                      
+229THS G  KC=0.1663 23$LC=0.0356 5$MC=0.00860 12                                
+229THS G  NC=0.002268 32$OC=0.000520 7$PC=9.38E-5 13$QC=6.01E-6 8               
+229TH  G 259.268   19 100.0  25 [M1]                   1.261  18                
+229THS G  KC=1.009 14$LC=0.1904 27$MC=0.0457 6                                  
+229THS G  NC=0.01220 17$OC=0.00289 4$PC=0.000560 8$QC=5.32E-5 7                 
+229THB G BM1W=0.0049 +46-17                                                     
+229TH  G 288.50    3  75     9 [M1]                    0.938  13                
+229THF G FL=8355734E-9                                                          
+229THB G BM1W=0.0027 +25-10                                                     
+229THS G  KC=0.751 11$LC=0.1414 20$MC=0.0340 5                                  
+229THS G  NC=0.00906 13$OC=0.002145 30$PC=0.000416 6$QC=3.95E-5 6               
+229TH  L 302.990   4  (7/2+)           110 PS    17                         M   
+229TH2 L XREF=AB                                                                
+229TH3 L FLAG=W                                                                 
+229TH cL J$154.846|g to (7/2-), 205.90|g to 9/2+, 129.514|g to (9/2-)           
+229TH cL T$From |b|g|g(t) in 2006Ru07 ({+229}Ac |b{+-} decay)                   
+229TH  G 65.62     5  36     7 [E1]                    0.358   5                
+229THB G BE1W=3.6E-4 +10-8                                                      
+229THS G  LC=0.270 4$MC=0.0661 9                                                
+229THS G  NC=0.01731 24$OC=0.00388 5$PC=0.000659 9$QC=3.28E-5 5                 
+229TH  G 129.517      42     AP[E1]                    0.266   4            c  S
+229THB G BE1W=5.5E-5 +46-32                                                     
+229THS G  KC=0.2059 29$LC=0.0451 6$MC=0.01092 15                                
+229THS G  NC=0.00288 4$OC=0.000658 9$PC=0.0001180 17$QC=7.37E-6 10              
+229TH  G 154.846   22 100    3 [E1]                    0.1734 24                
+229THB G BE1W=7.6E-5 +15-11                                                     
+229THS G  KC=0.1357 19$LC=0.0285 4$MC=0.00687 10                                
+229THS G  NC=0.001813 25$OC=0.000416 6$PC=7.55E-5 11$QC=4.96E-6 7               
+229TH  G 177.78    32 4.7    10 [M1]                   3.63    5                
+229THS G  KC=2.90 4$LC=0.550 8$MC=0.1323 20                                     
+229THS G  NC=0.0353 5$OC=0.00836 12$PC=0.001622 24$QC=0.0001539 23              
+229THB G BM1W=2.9E-4 +8-7                                                       
+229TH  G 205.90    15  16.3  18 [M1]                   2.399  34            @   
+229THS G  KC=1.918 27$LC=0.363 5$MC=0.0873 12                                   
+229THS G  NC=0.02329 33$OC=0.00552 8$PC=0.001070 15$QC=0.0001016 14             
+229THB G BM1W=6.5E-4 +14-11                                                     
+229TH  G 260.52    3  69.9   26[M1]                    1.244  17                
+229THS G  KC=0.996 14$LC=0.1878 26$MC=0.0451 6                                  
+229THS G  NC=0.01204 17$OC=0.00285 4$PC=0.000553 8$QC=5.25E-5 7                 
+229THB G BM1W=0.00137 +26-20                                                    
+229TH  G 273.74    5  11.1   12 [M1]                   1.085  15                
+229THS G  KC=0.868 12$LC=0.1636 23$MC=0.0393 6                                  
+229THS G  NC=0.01048 15$OC=0.002482 35$PC=0.000482 7$QC=4.57E-5 6               
+229THB G BM1W=1.87E-4 +41-33                                                    
+229TH  G 302.990   4  56.7   15 [M1]                   0.820  11                
+229THS G  KC=0.656 9$LC=0.1235 17$MC=0.0296 4                                   
+229THS G  NC=0.00791 11$OC=0.001872 26$PC=0.000363 5$QC=3.45E-5 5               
+229THB G BM1W=7.0E-4 +13-10                                                     
+229TH  L 317.1697  8   5/2+            9.0 PS    16                         F   
+229TH2 L XREF=ABDE(313)                                                         
+229TH cL J$245.3498|g M1+E2 to 7/2+, 55.2|g to 1/2+; L(d,t)=2; band assignment  
+229TH cL T$From |b|g|g(t) centroid shift in 2006Ru07 ({+229}Ac |b{+-} decay)    
+229TH cL $B(E2)|^=0.010 e{+2}b{+2} {I4} in 1988Be41 (Coulomb Excitation)        
+229TH  G 28.691      0.051   9 [M1]                    147.1  21            c  S
+229TH2 G FLAG=b                                                                 
+229THS G  LC=111.1 16$MC=26.8 4                                                 
+229THS G  NC=7.16 10$OC=1.696 24$PC=0.329 5$QC=0.0314 4                         
+229THB G BM1W=0.019 +6-4                                                        
+229TH  G 55.203      0.0256  43 [E2]                   190.6  27            c  S
+229TH2 G FLAG=b                                                                 
+229THS G  LC=139.5 20$MC=38.2 5                                                 
+229THS G  NC=10.23 14$OC=2.274 32$PC=0.375 5$QC=0.001056 15                     
+229THB G BE2W=134 +38-29                                                        
+229TH  G 99.95     15 0.25   8 [E1]                    0.1176 17                
+229THB G BE1W=1.8E-5 +7-6                                                       
+229THS G  LC=0.0888 13$MC=0.02157 31                                            
+229THS G  NC=0.00567 8$OC=0.001288 19$PC=0.0002271 33$QC=1.309E-5 19            
+229TH  G 152.62    10 0.14   4 [E1]                    0.1795 25                
+229THB G BE1W=2.8E-6 +11-9                                                      
+229THS G  KC=0.1404 20$LC=0.0295 4$MC=0.00714 10                                
+229THS G  NC=0.001882 27$OC=0.000432 6$PC=7.82E-5 11$QC=5.12E-6 7               
+229TH  G 169.002   5  0.64   9 [E1]                    0.1407 20                
+229THB G BE1W=9.5E-6 +25-19                                                     
+229THS G  KC=0.1106 15$LC=0.02277 32$MC=0.00549 8                               
+229THS G  NC=0.001450 20$OC=0.000334 5$PC=6.07E-5 9$QC=4.08E-6 6                
+229TH  G 170.82    3  1.44   14 [E1]                   0.1371 19                
+229TH cG RI$Unweighted average of 1.58 {I4} (2006Ru07, {+229}Ac |b{+-} decay)   
+229TH2cG and 1.30 {I8} (2003Ba78, {+233}U |a decay)                             
+229THB G BE1W=2.06E-5 +49-36                                                    
+229THS G  KC=0.1078 15$LC=0.02216 31$MC=0.00535 7                               
+229THS G  NC=0.001411 20$OC=0.000325 5$PC=5.92E-5 8$QC=3.99E-6 6                
+229TH  G 245.3498  11 46.86  32  M1+E2    0.74   13    1.06   10                
+229TH cG RI$Weighted average of 46.6 {I13} (2006Ru07, {+229}Ac |b{+-} decay) and
+229TH2cG 46.88 {I33} [weighted average of 2024Gr01, 2003Ba78, 1996Ko29 and      
+229TH3cG 1984Re05 data in {+233}U |a decay]                                     
+229TH cG M$K/L=0.01/0.003 in 1959Tr31                                           
+229THB G BM1W=0.0178 +46-33 $BE2W=50 +16-14                                     
+229THS G  KC=0.80 9$LC=0.199 6$MC=0.0495 11                                     
+229THS G  NC=0.01321 30$OC=0.00308 8$PC=0.000576 20$QC=4.3E-5 5                 
+229TH  G 274.7347  13 5.32   10M1+E2     1.01    +17-150.64    7                
+229TH cG RI$Weighted average of 5.21 {I17} (2006Ru07) and 5.37 {I12} (weighted  
+229TH2cG average of 2003Ba78, 1996Ko29, and 2024Gr01 data in {+233}U |a decay ) 
+229THB G BM1W=0.00110 +31-23 $BE2W=4.6 +13-10                                   
+229THS G  KC=0.47 6$LC=0.130 5$MC=0.0328 11                                     
+229THS G  NC=0.00876 28$OC=0.00203 7$PC=0.000376 17$QC=2.52E-5 32               
+229TH  G 288.00    3  11.63  24[M1]                    0.943  13                
+229THS G  KC=0.755 11$LC=0.1421 20$MC=0.0341 5                                  
+229THS G  NC=0.00910 13$OC=0.002155 30$PC=0.000418 6$QC=3.97E-5 6               
+229THB G BM1W=0.0042 +9-6                                                       
+229TH  G 317.1689  15 100.0  8 M1+E2     1.18    +16-130.385  35                
+229THF G FL=0.0                                                                 
+229THB G BM1W=0.0114 +30-23 $BE2W=49 +12-9                                      
+229THS G  KC=0.280 31$LC=0.0786 33$MC=0.0198 7                                  
+229THS G  NC=0.00529 19$OC=0.00123 5$PC=0.000227 10$QC=1.50E-5 16               
+229TH  L 320.5462  6  5/2+             10.3 PS   21                         E   
+229TH cL J$278.10|g M1+E2 to 7/2+, 58.6|g to 1/2+, 223.39|g to 9/2+, 156.14|g   
+229TH2cL to (3/2)-                                                              
+229TH cL T$From |b|g|g(t) centroid shift in 2006Ru07 ({+229}Ac |b{+-} decay)    
+229TH2 L XREF=AB                                                                
+229TH  G 32.068       0.109  18 [M1]                   106.0  15            c  S
+229TH2 G FLAG=b                                                                 
+229THS G  LC=80.0 11$MC=19.30 27                                                
+229THS G  NC=5.15 7$OC=1.220 17$PC=0.2368 33$QC=0.02261 32                      
+229THB G BM1W=0.0159 +50-36                                                     
+229TH  G 32.73     5  18.5   23 [E1]                   2.263  33                
+229THS G  LC=1.697 25$MC=0.427 6                                                
+229THS G  NC=0.1110 16$OC=0.02394 35$PC=0.00372 5$QC=0.0001390 20               
+229TH cG $B(E1)(W.u.)=0.021 {I+6-4}, but this value exceeds RUL=0.01            
+229TH  G 58.580      0.046   9 [E2]                    143.1  20            c  S
+229TH2 G FLAG=b                                                                 
+229THS G  LC=104.7 15$MC=28.7 4                                                 
+229THS G  NC=7.68 11$OC=1.708 24$PC=0.282 4$QC=0.000818 11                      
+229THB G BE2W=99 +34-25                                                         
+229TH  G 85.4224   17 2.33   30 [E1]                   0.1779 25                
+229THS G  LC=0.1343 19$MC=0.0327 5                                              
+229THB G BE1W=1.47E-4 +43-31                                                    
+229THS G  NC=0.00859 12$OC=0.001941 27$PC=0.000338 5$QC=1.850E-5 26             
+229TH  G 103.69    30 1.4    4 [E1]                    0.1067 17                
+229THB G BE1W=4.9E-5 +20-16                                                     
+229THS G  LC=0.0806 13$MC=0.01957 31                                            
+229THS G  NC=0.00515 8$OC=0.001170 19$PC=0.0002069 33$QC=1.207E-5 19            
+229TH  G 156.14    10  0.78   5 [E1]                   0.1699 24                
+229THB G BE1W=8.1E-6 +21-15                                                     
+229THS G  KC=0.1331 19$LC=0.0279 4$MC=0.00673 9                                 
+229THS G  NC=0.001775 25$OC=0.000408 6$PC=7.39E-5 10$QC=4.87E-6 7               
+229TH  G 172.34    10 0.48   5 [E1]                    0.1343 19                
+229THB G BE1W=3.7E-6 +11-7                                                      
+229THS G  KC=0.1056 15$LC=0.02167 31$MC=0.00523 7                               
+229THS G  NC=0.001380 19$OC=0.000318 4$PC=5.79E-5 8$QC=3.91E-6 5                
+229TH  G 174.1919  20 3.92   8 [E1]                    0.1309 18                
+229TH cG RI$Weighted average of 3.91 {I9} (2006Ru07, {+229}Ac |b{+-} decay) and 
+229TH2cG 3.96 {I15} [weighted average of 2003Ba78 and 1996Ko29 data in          
+229TH3cG {+233}U |a decay]                                                      
+229THB G BE1W=2.9E-5 +8-5                                                       
+229THS G  KC=0.1030 14$LC=0.02109 30$MC=0.00509 7                               
+229THS G  NC=0.001343 19$OC=0.000309 4$PC=5.64E-5 8$QC=3.82E-6 5                
+229TH  G 223.39    6  0.54   4 [E2]                    0.443   6                
+229THB G BE2W=1.41 +38-27                                                       
+229THS G  KC=0.1294 18$LC=0.2301 32$MC=0.0625 9                                 
+229THS G  NC=0.01675 24$OC=0.00376 5$PC=0.000638 9$QC=9.24E-6 13                
+229TH  G 248.7242  10 30.74  25 (M1)                   1.415  20                
+229TH cG M$From ce(K) in 1959Tr31                                               
+229THB G BM1W=0.0096 +25-17                                                     
+229THS G  KC=1.132 16$LC=0.2138 30$MC=0.0514 7                                  
+229THS G  NC=0.01370 19$OC=0.00324 5$PC=0.000629 9$QC=5.97E-5 8                 
+229TH  G 278.10    4  23.64  38 M1+E2    1.08    +16-140.59    6                
+229TH cG RI$Weighted average of 23.18 {I73} (2006Ru07, {+229}Ac |b{+-} decay)   
+229TH2cG and 23.81 {I45} [weighted average of 2024Gr01, 2003Ba78, 1996Ko29 and  
+229TH3cG 1976Kr03 data in {+233}U |a decay]                                     
+229TH cG M,MR$From |a(K)exp=0.43 {I5} (2002Gu15). |d using the briccmixing code;
+229TH2cG other: |d=1.31 {I22} (2002Gu15)                                        
+229THB G BM1W=0.0024 +7-5 $BE2W=11.3 +34-24                                     
+229THS G  KC=0.43 5$LC=0.123 5$MC=0.0311 9                                      
+229THS G  NC=0.00831 25$OC=0.00193 6$PC=0.000355 15$QC=2.31E-5 27               
+229TH  G 291.3561  9   100.0 27 M1+E2    0.74    13    0.66    6            @   
+229TH2 G FLAG=b                                                                 
+229TH cG M$From |a(K)exp=0.50 {I5}, |a(L1+L2)exp=0.09 {I1} (2002Gu15)           
+229TH cG MR$From |a(K)exp in 2002Gu15 and the briccmixing code.                 
+229TH2cG Other: 0.64 {I9} in 2002Gu15                                           
+229THB G BM1W=0.0125 +38-26 $BE2W=25 +9-7                                       
+229THS G  KC=0.50 5$LC=0.117 5$MC=0.0289 11                                     
+229THS G  NC=0.00770 28$OC=0.00180 7$PC=0.000340 16$QC=2.65E-5 28               
+229TH  G 320.5471  13 58.2   46 M1+E2    1.30    +19-150.348  35                
+229THF G FL=0.0                                                                 
+229TH cG RI$Unweighted average of 53.6 {I18} (2006Ru07, {+229}Ac |b{+-} decay)  
+229TH2cG and 62.8 {I9} [weighted average of 2024Gr01, 2003Ba78, 1996Ko29,       
+229TH3cG 1984Re05 and 1976Kr03 data in {+233}U |a decay]                        
+229TH cG M,MR$From |a(K)exp=0.25 {I3} (2002Gu15). |d using the briccmixing code;
+229TH2cG other: |d=1.89 {I32} (2002Gu15)                                        
+229THB G BM1W=0.0032 +10-8 $BE2W=16.0 +46-33                                    
+229THS G  KC=0.249 31$LC=0.0737 33$MC=0.0186 7                                  
+229THS G  NC=0.00498 19$OC=0.00115 5$PC=0.000212 10$QC=1.34E-5 16               
+229TH  L 327.86    30 15/2+                                                 A   
+229TH2 L XREF=AE                                                                
+229TH cL J$86.3|g to 13/2+, 164.5|g to 11/2+; band assignment                   
+229TH  G 86.3      3  14.6   11 [M1+E2]  0.43    2     8.41   26            @   
+229THF G FLAG=x                                                                 
+229THS G  LC=6.27 19$MC=1.60 5                                                  
+229THS G  NC=0.427 14$OC=0.0984 31$PC=0.0179 5$QC=0.001067 23                   
+229TH  G 132.15       1.32   26 [E2]                   3.38    5            c  S
+229THF G FLAG=d                                                                 
+229THS G  KC=0.263 4$LC=2.281 32$MC=0.626 9                                     
+229THS G  NC=0.1678 23$OC=0.0375 5$PC=0.00625 9$QC=3.93E-5 6                    
+229TH  G 164.60       100.0  18 [E2]                   1.382  19            c  S
+229THS G  KC=0.2160 30$LC=0.853 12$MC=0.2336 33                                 
+229THS G  NC=0.0626 9$OC=0.01401 20$PC=0.002350 33$QC=2.067E-5 29               
+229TH  L 347.806   21 (5/2+)                                                    
+229TH2 L XREF=AE(*352)                                                          
+229TH3 L FLAG=W                                                                 
+229TH cL J$44.813|g to (7/2+), 92.23|g to (3/2+,5/2+,7/2+)                      
+229TH  G 44.813    21  86    29 [M1]                   39.5    6                
+229THS G  LC=29.8 4$MC=7.19 10                                                  
+229THS G  NC=1.919 27$OC=0.454 6$PC=0.0882 12$QC=0.00841 12                     
+229TH  G 92.23     24 100    36[M1]                    4.79    8                
+229THS G  LC=3.62 6$MC=0.871 14                                                 
+229THS G  NC=0.232 4$OC=0.0550 9$PC=0.01068 17$QC=0.001016 16                   
+229TH  L 359.72    4  (7/2+)                                                F   
+229TH2 L XREF=ABDE(*352)                                                        
+229TH cL J$142.69|g to (5/2)-, 185.83|g to (9/2-); L(d,t)=(4); band assignment  
+229TH  G 142.69    11  12.4  12 [E1]                   0.2108 30                
+229THS G  KC=0.1643 23$LC=0.0351 5$MC=0.00849 12                                
+229THS G  NC=0.002238 32$OC=0.000513 7$PC=9.25E-5 13$QC=5.94E-6 8               
+229TH  G 186.25       2.8    8 [E1]                    0.1117 16            c   
+229THS G  KC=0.0881 12$LC=0.01782 25$MC=0.00429 6                               
+229THS G  NC=0.001134 16$OC=0.000261 4$PC=4.78E-5 7$QC=3.30E-6 5                
+229TH cG E$Others: 185.83 keV {I11} (2003Ba78), 185.71 keV {I9} (1996Ko29),     
+229TH2cG 185.81 keV {I2} (1977Ca04)                                             
+229TH  G 317.3        100    42[M1]                    0.722  10            c  S
+229THS G  KC=0.578 8$LC=0.1087 15$MC=0.0261 4                                   
+229THS G  NC=0.00696 10$OC=0.001648 23$PC=0.000320 4$QC=3.03E-5 4               
+229TH  G 359.38    19 1.8    5 [M1]                    0.513   7                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.411 6$LC=0.0771 11$MC=0.01851 26                                 
+229THS G  NC=0.00494 7$OC=0.001169 16$PC=0.0002267 32$QC=2.151E-5 30            
+229TH  L 365.8152  13  7/2+            9 PS      4                          E   
+229TH2 L XREF=AB                                                                
+229TH cL J$268.680|g M1+E2 to 9/2+, 336.631|g M1+E2 to 5/2+; band assignment    
+229TH cL T$From |b|g|g(t) centroid shift in 2006Ru07 ({+229}Ac |b{+-} decay)    
+229TH  G 45.2690     1.12    21 [M1]                   38.3    5            c  S
+229TH2 G FLAG=b                                                                 
+229THS G  LC=29.0 4$MC=6.98 10                                                  
+229THS G  NC=1.862 26$OC=0.441 6$PC=0.0856 12$QC=0.00816 11                     
+229THB G BM1W=0.046 +34-16                                                      
+229TH  G 48.6455     1.33    27 [M1]                   31.0    4            c  S
+229TH2 G FLAG=b                                                                 
+229THS G  LC=23.45 33$MC=5.65 8                                                 
+229THS G  NC=1.507 21$OC=0.357 5$PC=0.0693 10$QC=0.00661 9                      
+229THB G BM1W=0.044 +34-16                                                      
+229TH  G 153.2     2            [M1]                   5.52    8            *  ?
+229THS G  KC=4.41 6$LC=0.840 12$MC=0.2021 29                                    
+229THS G  NC=0.0539 8$OC=0.01277 18$PC=0.00248 4$QC=0.0002352 34                
+229TH  G 192.29    6  4.06   36 [E1]                   0.1035 15                
+229THB G BE1W=1.8E-5 +13-6                                                      
+229THS G  KC=0.0818 11$LC=0.01645 23$MC=0.00396 6                               
+229THS G  NC=0.001047 15$OC=0.0002414 34$PC=4.42E-5 6$QC=3.07E-6 4              
+229TH  G 217.6     1  5.8    15[E1]                    0.0774 11            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.0614 9$LC=0.01210 17$MC=0.00291 4                                
+229THS G  NC=0.000769 11$OC=0.0001779 25$PC=3.28E-5 5$QC=2.346E-6 33            
+229TH cG E$Other: 217.8 keV {I2} (2003Ba78,1996Ko29)                            
+229TH cG RI$Other: <0.4 (2003Ba78), 9 {I3} (1996Ko29)                           
+229THB G BE1W=1.8E-5 +14-7                                                      
+229TH  G 219.46    3  15.39  32 [E1]                   0.0759 11                
+229TH cG RI$Weighted average of 16.1 {I6} (2006Ru07, {+229}Ac |b{+-} decay)     
+229TH2cG and 15.25 {I27} [weighted average of 2003Ba78 and 1996Ko29 data in     
+229TH3cG {+233}U |a decay]                                                      
+229THB G BE1W=4.5E-5 +33-15                                                     
+229THS G  KC=0.0602 8$LC=0.01185 17$MC=0.00285 4                                
+229THS G  NC=0.000753 11$OC=0.0001742 24$PC=3.21E-5 4$QC=2.303E-6 32            
+229TH  G 240.388   8  35.8   15 M1+E2    0.74    15    1.13   12                
+229TH cG RI$Weighted average of 35.5 {I9} (2006Ru07, {+229}Ac |b{+-} decay)     
+229TH2cG and 44 {I5} [unweighted average of 2003Ba78, 1996Ko29 and 1976Kr03     
+229TH3cG data in {+233}U |a decay]                                              
+229TH cG M,MR$From |a(K)exp=0.84 {I10} (2002Gu15). |d using the briccmixing     
+229TH2cG code; other: |d=0.63 {I11} (2002Gu15)                                  
+229THB G BM1W=0.0063 +47-21 $BE2W=19 +15-7                                      
+229THS G  KC=0.84 11$LC=0.212 7$MC=0.0528 12                                    
+229THS G  NC=0.01411 33$OC=0.00329 9$PC=0.000615 23$QC=4.5E-5 6                 
+229TH  G 268.680   18  31.5  4  M1+E2    0.69    16    0.85    9                
+229TH cG RI$Weighted average of 31.5 {I9} (2006Ru07, {+229}Ac |b{+-} decay)     
+229TH2cG and 31.5 {I5} [weighted average of 2003Ba78, 1996Ko29 and 1976Kr03     
+229TH3cG data in {+233}U |a decay]                                              
+229TH cG M,MR$From |a(K)exp=0.65 {I8} (2002Gu15). |d using the briccmixing      
+229TH2cG code; other: |d=0.57 {I10} (2002Gu15)                                  
+229THB G BM1W=0.0042 +31-14 $BE2W=9 +7-4                                        
+229THS G  KC=0.65 9$LC=0.152 7$MC=0.0375 14                                     
+229THS G  NC=0.0100 4$OC=0.00234 9$PC=0.000441 22$QC=3.5E-5 4                   
+229TH  G 293.995   9  16.0   4 M1(+E2)   0.3     LE    0.861  32                
+229TH cG RI$Weighted average of 16.1 {I6} (2006Ru07, {+229}Ac |b{+-} decay)     
+229TH2cG and 16.0 {I4} [weighted average of 2003Ba78 and 1996Ko29 data in       
+229TH3cG {+233}U |a decay]                                                      
+229TH cG M,MR$From |a(K)exp=0.82 {I12} (2002Gu15). |d using the briccmixing     
+229TH2cG code                                                                   
+229THB G BM1W=0.0023 +24-10 $BE2W LT 1.4                                        
+229THS G  KC=0.687 28$LC=0.1318 30$MC=0.0317 7                                  
+229THS G  NC=0.00847 17$OC=0.00200 4$PC=0.000387 9$QC=3.61E-5 14                
+229TH  G 323.3806  14 100.0  21 M1+E2    1.59    +18-150.291  23                
+229TH cG M,MR$From |a(K)exp=0.20 {I2} (2002Gu15). |d using the briccmixing      
+229TH2cG code; other: |d=2.79 {I40} (2002Gu15)                                  
+229THB G BM1W=0.0032 +24-11 $BE2W=24 +18-8                                      
+229THS G  KC=0.201 21$LC=0.0672 23$MC=0.0172 5                                  
+229THS G  NC=0.00459 13$OC=0.001057 33$PC=0.000192 7$QC=1.09E-5 11              
+229TH  G 336.631   16 71.7   15 M1+E2    1.51    +42-280.27    5                
+229TH cG M,MR$From |a(K)exp=0.19 {I4} (2002Gu15). |d using the briccmixing      
+229TH2cG code; other: |d=2.52 {I75} (2002Gu15)                                  
+229TH cG RI$Weighted average of 71.2 {I21} (2006Ru07, {+229}Ac |b{+-} decay)    
+229TH2cG and 72.2 {I21} [weighted average of 2024Gr01, 2003Ba78, 1996Ko29,      
+229TH3cG and 1976Kr03 data in {+233}U |a decay]                                 
+229THB G BM1W=0.0022 +18-9 $BE2W=14 +10-5                                       
+229THS G  KC=0.19 4$LC=0.060 4$MC=0.0152 10                                     
+229THS G  NC=0.00406 25$OC=0.00094 6$PC=0.000172 14$QC=1.03E-5 21               
+229TH  G 365.8205  35 97.9   21 (M1)                   0.489   7                
+229TH cG RI$Weighted average of 97 {I3} (2006Ru07, {+229}Ac |b{+-} decay)       
+229TH2cG and 98.8 {I30} [weighted average of 2024Gr01, 2003Ba78, 1996Ko29,      
+229TH3cG and 1976Kr03 data in {+233}U |a decay]                                 
+229TH cG M$K/L=0.0015/<0.001 in 1959Tr31                                        
+229THB G BM1W=0.008 +6-3                                                        
+229THS G  KC=0.392 5$LC=0.0734 10$MC=0.01763 25                                 
+229THS G  NC=0.00470 7$OC=0.001113 16$PC=0.0002159 30$QC=2.049E-5 29            
+229TH  L 374.80    2  (7/2+)                                                    
+229TH2 L XREF=A                                                                 
+229TH3 L FLAG=W                                                                 
+229TH cL J$86.3|g to (3/2)+, 139.3|g to (5/2-,7/2-)                             
+229TH  G 86.3      3  100    23[E2]                    22.5    5            @   
+229THS G  LC=16.5 4$MC=4.52 10                                                  
+229THS G  NC=1.211 26$OC=0.270 6$PC=0.0447 10$QC=0.0001698 33                   
+229TH  G 139.3     3           [E1]                    0.2232 33            *   
+229THS G  KC=0.1738 26$LC=0.0374 6$MC=0.00903 14                                
+229THS G  NC=0.00238 4$OC=0.000546 8$PC=9.83E-5 15$QC=6.27E-6 9                 
+229TH  G 302.978   19          [M1]                    0.820  11                
+229THS G  KC=0.656 9$LC=0.1235 17$MC=0.0296 4                                   
+229THS G  NC=0.00791 11$OC=0.001872 26$PC=0.000363 5$QC=3.45E-5 5               
+229TH  G 374.7     3  4.0    21 [M1]                   0.458   6                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.367 5$LC=0.0688 10$MC=0.01650 23                                 
+229THS G  NC=0.00440 6$OC=0.001042 15$PC=0.0002022 29$QC=1.918E-5 27            
+229TH  L 382.54    4  (7/2-,9/2,11/2+)                                         ?
+229TH2 L XREF=AD(381.4)                                                         
+229TH3 L FLAG=W                                                                 
+229TH cL J$209.08|g to (9/2-), 310.71|g to 7/2+. The assignment is tentative    
+229TH  G 209.08    8  5.0    8                                                  
+229TH  G 310.71    5  100    8                                                  
+229TH  L 423.96    2  (1/2)-           190 PS    8                          L   
+229THX L XREF=BD                                                                
+229TH cL J$135.55|g to (3/2)+, 162.01|g to 1/2+; L(d,t)=1                       
+229TH cL T$From |b|g|g(t) in 2006Ru07 ({+229}Ac |b{+-} decay)                   
+229TH  G 135.55    7   69    13 [E1]                   0.2383 33            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.1852 26$LC=0.0401 6$MC=0.00970 14                                
+229THS G  NC=0.00256 4$OC=0.000585 8$PC=0.0001052 15$QC=6.66E-6 9               
+229THB G BE1W=7.4E-5 +15-14                                                     
+229TH  G 162.01    4   40.0  13 [E1]                   0.1556 22            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.1221 17$LC=0.0254 4$MC=0.00612 9                                 
+229THS G  NC=0.001615 23$OC=0.000371 5$PC=6.74E-5 9$QC=4.48E-6 6                
+229THB G BE1W=2.50E-5 +41-31                                                    
+229TH  G 259.40    3  100    19 [M1]                   1.259  18            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=1.008 14$LC=0.1901 27$MC=0.0457 6                                  
+229THS G  NC=0.01218 17$OC=0.00288 4$PC=0.000560 8$QC=5.31E-5 7                 
+229THB G BM1W=0.00186 +16-19                                                    
+229TH  L 425.34    3   (5/2)+          290 PS    48                             
+229THX L XREF=B                                                                 
+229TH cL J$425.36|g M1 to 5/2+, 277.21|g to (7/2-), 163.35|g to 1/2+            
+229TH cL T$From |b|g|g(t) in 2006Ru07 ({+229}Ac |b{+-} decay)                   
+229TH  G 163.35    5     82  AP[E2]                    1.424  20            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.2182 31$LC=0.883 12$MC=0.2417 34                                 
+229THS G  NC=0.0648 9$OC=0.01449 20$PC=0.002430 34$QC=2.111E-5 30               
+229THB G BE2W=37 +21-18                                                         
+229TH  G 277.21    5    63    8 [E1]                   0.0444  6            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.0355 5$LC=0.00674 9$MC=0.001616 23                               
+229THS G  NC=0.000428 6$OC=9.93E-5 14$PC=1.847E-5 26$QC=1.396E-6 20             
+229THB G BE1W=4.2E-6 +16-10                                                     
+229TH  G 278.7     2   100   14 [E1]                   0.0438  6            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.0351 5$LC=0.00665 9$MC=0.001596 23                               
+229THS G  NC=0.000422 6$OC=9.80E-5 14$PC=1.824E-5 26$QC=1.380E-6 19             
+229THB G BE1W=6.5E-6 +24-16                                                     
+229TH  G 425.36    5   55.1  21 M1                     0.325   5            a   
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.260 4$LC=0.0486 7$MC=0.01167 16                                  
+229THS G  NC=0.00311 4$OC=0.000736 10$PC=0.0001429 20$QC=1.356E-5 19            
+229TH cG M$From |a(K)exp=0.40 {I8} (2002Gu15).                                  
+229THB G BM1W=1.23E-4 +44-28                                                    
+229TH  L 425.894   4  9/2+                                                  E   
+229TH2 L XREF=A                                                                 
+229TH cL J$184.1|g to 13/2+, 396.64|g to 5/2+; band assignment                  
+229TH  G 184.1     3  22.6   36 [E2]                   0.897  14                
+229THS G  KC=0.1824 26$LC=0.523 8$MC=0.1429 22                                  
+229THS G  NC=0.0383 6$OC=0.00858 13$PC=0.001445 23$QC=1.523E-5 22               
+229TH  G 188.65    12 26.5   44 [E1]                   0.1083 15                
+229THS G  KC=0.0855 12$LC=0.01725 24$MC=0.00416 6                               
+229THS G  NC=0.001098 15$OC=0.000253 4$PC=4.63E-5 7$QC=3.20E-6 5                
+229TH  G 230.18    1  1.72   12 [M1]                   1.756  25                
+229THS G  KC=1.405 20$LC=0.266 4$MC=0.0638 9                                    
+229THS G  NC=0.01702 24$OC=0.00403 6$PC=0.000782 11$QC=7.42E-5 10               
+229TH  G 328.758   5  79.4   29 [M1]                   0.655   9                
+229THS G  KC=0.525 7$LC=0.0985 14$MC=0.02365 33                                 
+229THS G  NC=0.00631 9$OC=0.001494 21$PC=0.000290 4$QC=2.75E-5 4                
+229TH  G 354.082   20 59.5   22 [M1]                   0.534   7                
+229THS G  KC=0.428 6$LC=0.0803 11$MC=0.01928 27                                 
+229THS G  NC=0.00514 7$OC=0.001217 17$PC=0.0002362 33$QC=2.241E-5 31            
+229TH  G 383.482   21 100.0  22 [M1]                   0.430   6                
+229THS G  KC=0.345 5$LC=0.0645 9$MC=0.01549 22                                  
+229THS G  NC=0.00413 6$OC=0.000978 14$PC=0.0001897 27$QC=1.800E-5 25            
+229TH  G 396.64    13 4.0    6 [E2]                    0.0762 11                
+229THS G  KC=0.0420 6$LC=0.02524 35$MC=0.00666 9                                
+229THS G  NC=0.001783 25$OC=0.000405 6$PC=7.117E-5 99$QC=2.430E-6 34            
+229TH  L 428.04    7  (5/2+)                                                    
+229TH2 L XREF=A                                                                 
+229TH3 L FLAG=W                                                                 
+229TH cL J$125.04|g to (7/2+), 139.3|g to (3/2)+                                
+229TH  G 125.04    23 73     22[M1]                    9.83   15                
+229THS G  KC=7.84 12$LC=1.503 23$MC=0.362 5                                     
+229THS G  NC=0.0965 14$OC=0.02284 34$PC=0.00443 7$QC=0.000421 6                 
+229TH  G 139.3     3  3.4    4 [M1]                    7.24   11            *   
+229THS G  KC=5.78 9$LC=1.103 17$MC=0.265 4                                      
+229THS G  NC=0.0708 11$OC=0.01676 26$PC=0.00325 5$QC=0.000309 5                 
+229TH  G 210.90    8  100    18[E1]                    0.0833 12                
+229THS G  KC=0.0660 9$LC=0.01307 18$MC=0.00315 4                                
+229THS G  NC=0.000831 12$OC=0.0001921 27$PC=3.53E-5 5$QC=2.511E-6 35            
+229TH  L 436.86    4  (7/2-)                                                    
+229TH2 L XREF=A                                                                 
+229TH3 L FLAG=W                                                                 
+229TH cL J$272.40|g to (3/2)-, 311.9|g to 9/2+                                  
+229TH  G 77.142    8  100    10 [E1]                   0.2331 33                
+229THS G  LC=0.1759 25$MC=0.0429 6                                              
+229THS G  NC=0.01126 16$OC=0.002535 35$PC=0.000438 6$QC=2.312E-5 32             
+229TH  G 116.3     2  0.76   15 [E1]                   0.342   5            @   
+229THS G  KC=0.263 4$LC=0.0597 9$MC=0.01447 21                                  
+229THS G  NC=0.00381 6$OC=0.000869 13$PC=0.0001548 23$QC=9.36E-6 14             
+229TH  G 224.39    19 3.4    8 [E1]                    0.0721 10                
+229THS G  KC=0.0572 8$LC=0.01122 16$MC=0.00270 4                                
+229THS G  NC=0.000713 10$OC=0.0001650 23$PC=3.04E-5 4$QC=2.194E-6 31            
+229TH  G 272.40    9  19.5   6 [E2]                    0.2280 32                
+229THS G  KC=0.0882 12$LC=0.1027 14$MC=0.0277 4                                 
+229THS G  NC=0.00742 10$OC=0.001672 24$PC=0.000286 4$QC=5.70E-6 8               
+229TH  G 311.9     3  17.4   11 [E1]                   0.0341  5                
+229THS G  KC=0.0274 4$LC=0.00511 7$MC=0.001224 17                               
+229THS G  NC=0.000324 5$OC=7.54E-5 11$PC=1.408E-5 20$QC=1.090E-6 15             
+229TH  G 339.2     6  0.7    5 [E1]                    0.0284  4                
+229THS G  KC=0.02281 33$LC=0.00421 6$MC=0.001008 15                             
+229THS G  NC=0.000267 4$OC=6.22E-5 9$PC=1.165E-5 17$QC=9.17E-7 13               
+229TH  L 449.6     5  1/2+                                                  J   
+229TH2 L XREF=D                                                                 
+229TH3 L FLAG=X                                                                 
+229TH cL J$L(d,t)=0                                                             
+229TH  L 449.85    3  (5/2)+                                                    
+229TH2 L XREF=AB                                                                
+229TH cL J$407.41|g M1+E2 to 7/2+, 161.96|g (7/2-); direct feeding in           
+229TH2cL {+229}Ac |b{+-} (J|p=3/2+)                                             
+229TH  G 161.96    5    3.3  6  [E1]                   0.1557 22            c   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.1221 17$LC=0.0254 4$MC=0.00613 9                                 
+229THS G  NC=0.001616 23$OC=0.000372 5$PC=6.75E-5 9$QC=4.49E-6 6                
+229TH cG E$Other: 161.46 keV {I8} (2006Ru07).                                   
+229TH  G 407.42         25.2 6  M1+E2    0.98    +27-210.221  35            c   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.169 30$LC=0.039 4$MC=0.0097 9                                    
+229THS G  NC=0.00258 23$OC=0.00060 6$PC=0.000114 12$QC=8.9E-6 16                
+229TH cG E$Other: 406.45 keV {I4} (2002Gu15).                                   
+229TH cG M,MR$From |a(K)exp=0.17 {I3} (2002Gu15). |d using the briccmixing      
+229TH2cG code; other: |d=1.09 {I27} (2002Gu15)                                  
+229TH  G 420.70    5   1.51  6  [M1]                   0.334   5            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.268 4$LC=0.0501 7$MC=0.01202 17                                  
+229THS G  NC=0.00321 4$OC=0.000759 11$PC=0.0001473 21$QC=1.398E-5 20            
+229TH  G 449.4     2  100    15 M1+E2    1.22    +32-230.145  24            a   
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.110 20$LC=0.0267 27$MC=0.0066 6                                  
+229THS G  NC=0.00177 16$OC=0.00041 4$PC=7.7E-5 8$QC=5.8E-6 10                   
+229TH cG M,MR$From |a(K)exp=0.11 {I2} (2002Gu15). |d using the briccmixing      
+229TH2cG code; other: |d=1.69 {I43} (2002Gu15)                                  
+229TH  L 465.447   21 (5/2-,7/2,9/2+)                                           
+229TH2 L XREF=A                                                                 
+229TH3 L FLAG=W                                                                 
+229TH cL J$291.93|g to (9/2-), 436.20|g to 5/2+                                 
+229TH  G 162.48    3                                                        *   
+229TH  G 291.93    4  100    16                                                 
+229TH  G 393.64    5  12.4   7                                                  
+229TH  G 423.09    14 0.51   11                                                 
+229TH  G 436.20    12 3.8    13                                             @   
+229TH  G 465.37    12 4.7    22                                                 
+229THF G FL=0.0                                                                 
+229TH  L 478.637   19 (5/2)+           16 PS     LE                             
+229TH2 L XREF=ABD(479.1)E(480)                                                  
+229TH cL J$381.54|g to 9/2+, 190.196|g to (3/2)+, 314.12|g to (3/2)-; L(d,t)=2  
+229TH cL T$From |b|g|g(t) centroid shift in 2006Ru07 ({+229}Ac |b{+-} decay)    
+229TH cL $B(E2)|^=0.021 e{+2}b{+2} {I6} or B(E3)|^=0.15 e{+2}b{+3} {I4} in      
+229TH2cL 1988Be41 (Coulomb Excitation)                                          
+229TH  G 157.88    9  4.6    11 [M1]                   5.07    7            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=4.05 6$LC=0.771 11$MC=0.1855 26                                    
+229THS G  NC=0.0495 7$OC=0.01172 17$PC=0.002273 32$QC=0.0002159 30              
+229TH  G 190.159      0.51   6  [M1]                   3.00    4            c   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=2.398 34$LC=0.455 6$MC=0.1093 15                                   
+229THS G  NC=0.0292 4$OC=0.00691 10$PC=0.001340 19$QC=0.0001272 18              
+229TH cG E$Others: 189.60 keV {I4} (2002Gu15) and 189.6 keV {I1} (2006Ru07).    
+229TH  G 241.18    9  3.1    5 [E1]                    0.0610  9            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.0485 7$LC=0.00941 13$MC=0.002261 32                              
+229THS G  NC=0.000598 8$OC=0.0001385 19$PC=2.56E-5 4$QC=1.878E-6 26             
+229TH  G 261.477      3.3    5 [E1]                    0.0507  7            c   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.0404 6$LC=0.00774 11$MC=0.001859 26                              
+229THS G  NC=0.000492 7$OC=0.0001141 16$PC=2.117E-5 30$QC=1.580E-6 22           
+229TH cG E$Other: 261.80 keV {I9} (2006Ru07)                                    
+229TH  G 314.12    5  4.5    6 [E1]                    0.0336  5            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.0269 4$LC=0.00503 7$MC=0.001204 17                               
+229THS G  NC=0.000319 4$OC=7.41E-5 10$PC=1.385E-5 19$QC=1.074E-6 15             
+229TH cG E$Other: 315.39 keV {I13} (2003Ba78)                                   
+229TH cG RI$Other: 68 {I11} (2003Ba78)                                          
+229TH  G 330.51    4  2.80   12 [E1]                   0.0300  4            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.02412 34$LC=0.00447 6$MC=0.001070 15                             
+229THS G  NC=0.000283 4$OC=6.60E-5 9$PC=1.235E-5 17$QC=9.67E-7 14               
+229TH  G 332.284      0.51   6  [E1]                   0.0297  4            c   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.02384 33$LC=0.00442 6$MC=0.001057 15                             
+229THS G  NC=0.000280 4$OC=6.52E-5 9$PC=1.220E-5 17$QC=9.56E-7 13               
+229TH cG E$Others: 332.52 keV {I4} (2002Gu15)                                   
+229TH  G 381.54    15  26    9  [E2]                   0.0845 12                
+229THS G  KC=0.0454 6$LC=0.0289 4$MC=0.00766 11                                 
+229THS G  NC=0.002049 29$OC=0.000466 7$PC=8.15E-5 11$QC=2.65E-6 4               
+229TH cG RI$Other: 26 {I9} (2003Ba78) and 21.5 {I15} (1996Ko29)                 
+229TH  G 406.58    16 20.0   34 [M1]                   0.367   5                
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.294 4$LC=0.0550 8$MC=0.01320 19                                  
+229THS G  NC=0.00352 5$OC=0.000833 12$PC=0.0001617 23$QC=1.534E-5 22            
+229TH cG RI$Other: 10.2 {I28} (2003Ba78), 10.8 {I15} (1996Ko29)                 
+229TH  G 436.20    4 32.0    12 [M1]                   0.303   4            @   
+229TH2 G FLAG=ab                                                                
+229THS G  KC=0.2432 34$LC=0.0454 6$MC=0.01089 15                                
+229THS G  NC=0.00290 4$OC=0.000688 10$PC=0.0001334 19$QC=1.267E-5 18            
+229TH cG M$Note that |a(K)exp<0.014 (2002Gu15) would imply Mult.=E1             
+229TH  G 449.46    7   21.1  34 [M1]                   0.280   4                
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.2243 31$LC=0.0419 6$MC=0.01004 14                                
+229THS G  NC=0.00268 4$OC=0.000634 9$PC=0.0001230 17$QC=1.168E-5 16             
+229TH cG RI$Other: 43 {I6} (2003Ba78), 46 {I15} (1996Ko29)                      
+229TH  G 478.64    4  100.0  29 [M1]                   0.2361 33                
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.1894 27$LC=0.0353 5$MC=0.00846 12                                
+229THS G  NC=0.002256 32$OC=0.000534 7$PC=0.0001037 15$QC=9.84E-6 14            
+229TH cG M$Note that |a(K)exp=0.012 {I1} (2002Gu15) would imply Mult.=E1        
+229TH  L 513.41    2  (5/2+,7/2,9/2+)                                           
+229TH2 L XREF=A                                                                 
+229TH3 L FLAG=W                                                                 
+229TH cL J$513.23|g to 5/2+, 416.24|g to 9/2+                                   
+229TH  G 387.96    12 7.2    18                                                 
+229TH  G 416.24    3  68     4                                                  
+229TH  G 441.53    17 4.4    14                                                 
+229TH  G 471.05    4  97     11                                                 
+229TH  G 513.23    13 100    14                                             *   
+229THF G FL=0.0                                                                 
+229TH  L 526.4801  20 (5/2)-                                                N   
+229TH2 L XREF=ABE(512)                                                          
+229TH cL J$526.89|g E1 to 5/2+, 455.13|g to 7/2+                                
+229TH cL $B(E3)|^=0.076 e{+2}b{+3} {I30} in 1988Be41 (Coulomb Excitation)       
+229TH  G 167.10    21 1.43   12  [E1]                  0.1445 21                
+229THS G  KC=0.1135 16$LC=0.02344 34$MC=0.00566 8                               
+229THS G  NC=0.001493 21$OC=0.000343 5$PC=6.25E-5 9$QC=4.19E-6 6                
+229TH  G 205.90    15 1.19   15  [E1]                  0.0881 12            @   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.0698 10$LC=0.01387 20$MC=0.00334 5                               
+229THS G  NC=0.000882 12$OC=0.0002038 29$PC=3.74E-5 5$QC=2.65E-6 4              
+229TH  G 223.39    6   9.85  30  [E1]                  0.0728 10                
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.0578 8$LC=0.01134 16$MC=0.00273 4                                
+229THS G  NC=0.000721 10$OC=0.0001668 23$PC=3.08E-5 4$QC=2.216E-6 31            
+229TH  G 291.3561  9   54    22  [M1]                  0.913  13            @   
+229THS G  KC=0.731 10$LC=0.1376 19$MC=0.0330 5                                  
+229THS G  NC=0.00881 12$OC=0.002087 29$PC=0.000405 6$QC=3.84E-5 5               
+229TH  G 309.58    12 7.76   30 [M1]                   0.772  11                
+229TH2 G FLAG=b                                                                 
+229TH cG RI$Other: 8.0 {I20} from I|g in {+233}U |a decay.                      
+229THS G  KC=0.619 9$LC=0.1163 16$MC=0.0279 4                                   
+229THS G  NC=0.00745 10$OC=0.001764 25$PC=0.000342 5$QC=3.25E-5 5               
+229TH  G 455.13    33 0.101  18 [E1]                   0.0152621                
+229THS G  KC=0.01236 17$LC=0.002200 31$MC=0.000524 7                            
+229THS G  NC=0.0001389 20$OC=3.25E-5 5$PC=6.14E-6 9$QC=5.10E-7 7                
+229TH  G 484.1     1  0.19   5  [E1]                   0.0134719                
+229THS G  KC=0.01092 15$LC=0.001930 27$MC=0.000460 6                            
+229THS G  NC=0.0001218 17$OC=2.85E-5 4$PC=5.40E-6 8$QC=4.53E-7 6                
+229TH  G 526.4795     100    3  E1                     0.0113916            c   
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.00925 13$LC=0.001620 23$MC=0.000385 5                            
+229THS G  NC=0.0001021 14$OC=2.392E-5 33$PC=4.54E-6 6$QC=3.86E-7 5              
+229TH cG E,RI$Note that this |g-ray transition was not observed in the |a-decay 
+229TH2cG measurements of 2003Ba78, 1996Ko29, and 1976Kr03.                      
+229TH cG M$From |a(K)exp<0.01 (2002Gu15).                                       
+229TH  L 536.31    11  (1/2)-                                               G   
+229TH2 L XREF=ABD(535.6)                                                        
+229TH cL J$371.26|g to (3/2)-, 536.44|g to 3/2+; L(d,t)=1                       
+229TH  G 371.26    23 100    5 [M1]                    0.470   7                
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.376 5$LC=0.0705 10$MC=0.01693 24                                 
+229THS G  NC=0.00451 6$OC=0.001069 15$PC=0.0002074 29$QC=1.968E-5 28            
+229TH  G 536.44    12 4.1    14[E1]                    0.0109815                
+229THF G FL=8355734E-9                                                          
+229THS G  KC=0.00892 12$LC=0.001558 22$MC=0.000370 5                            
+229THS G  NC=9.82E-5 14$OC=2.301E-5 32$PC=4.37E-6 6$QC=3.72E-7 5                
+229TH  L 562       5  (7/2-)                                                N   
+229TH2 L XREF=E                                                                 
+229TH cL E,J$From Coulomb Excitation. B(E3)|^=0.195 e{+2}b{+3} {I39} (1988Be41) 
+229TH  L 569.259   14  (3/2)+                                               H   
+229TH cL J$569.30|g M1+E2 to 5/2+, 203.47|g to 7/2+, 307.29|g to 1/2+           
+229TH2 L XREF=AB                                                                
+229TH  G 203.47    6  1.09   14 [E2]                   0.619   9            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.1536 22$LC=0.341 5$MC=0.0928 13                                  
+229THS G  NC=0.02488 35$OC=0.00558 8$PC=0.000943 13$QC=1.171E-5 16              
+229TH  G 248.8     1  11.1   11 M1+E2    0.80    +16-140.98   10            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.73 9$LC=0.188 6$MC=0.0469 12                                     
+229THS G  NC=0.01253 32$OC=0.00292 8$PC=0.000544 21$QC=3.9E-5 5                 
+229TH cG M,MR$From |a(K)exp=0.73 {I9} (2002Gu15). |d using the briccmixing      
+229TH2cG code; other: |d=0.76 {I13} (2002Gu15)                                  
+229TH  G 252.07    4  34.3   11M1+E2     0.78    12    0.96    8            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.72 7$LC=0.181 6$MC=0.0451 11                                     
+229THS G  NC=0.01205 28$OC=0.00281 7$PC=0.000524 18$QC=3.8E-5 4                 
+229TH cG M$From |a(K)exp=0.72 {I7}, |a(L1+L2)exp=0.14 {I1}, |a(M)exp=0.03 {I1}  
+229TH2cG (2002Gu15)                                                             
+229TH cG MR$From |a(K)exp in 2002Gu15 and the briccmixing code.                 
+229TH2cG Other: 0.71 {I10} in 2002Gu15                                          
+229TH  G 280.72    4  1.105  35[M1]                    1.012  14            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.810 11$LC=0.1526 21$MC=0.0366 5                                  
+229THS G  NC=0.00977 14$OC=0.002315 32$PC=0.000449 6$QC=4.26E-5 6               
+229TH  G 307.29    4  2.56   8 [M1]                    0.788  11            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.631 9$LC=0.1187 17$MC=0.0285 4                                   
+229THS G  NC=0.00760 11$OC=0.001800 25$PC=0.000349 5$QC=3.31E-5 5               
+229TH  G 313.45    18 2.9    15[M1]                    0.746  11                
+229THS G  KC=0.598 8$LC=0.1124 16$MC=0.0270 4                                   
+229THS G  NC=0.00720 10$OC=0.001704 24$PC=0.000331 5$QC=3.14E-5 4               
+229TH  G 352.07    4  2.12   7 [E1]                    0.0262  4            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.02106 29$LC=0.00387 5$MC=0.000926 13                             
+229THS G  NC=0.0002452 34$OC=5.71E-5 8$PC=1.072E-5 15$QC=8.50E-7 12             
+229TH  G 404.72    4  9.07   23[E1]                    0.0194627            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.01571 22$LC=0.00284 4$MC=0.000677 9                              
+229THS G  NC=0.0001794 25$OC=4.19E-5 6$PC=7.89E-6 11$QC=6.42E-7 9               
+229TH  G 422.94    4  6.98   23[E1]                    0.0177525            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.01435 20$LC=0.00258 4$MC=0.000615 9                              
+229THS G  NC=0.0001629 23$OC=3.81E-5 5$PC=7.18E-6 10$QC=5.89E-7 8               
+229TH  G 526.89    7  2.4    9  [E2]                   0.0377  5            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.02441 34$LC=0.00991 14$MC=0.00256 4                              
+229THS G  NC=0.000685 10$OC=0.0001570 22$PC=2.82E-5 4$QC=1.332E-6 19            
+229TH  G 540.08    7  3.4    11 [M1]                   0.1707 24            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.1371 19$LC=0.0255 4$MC=0.00610 9                                 
+229THS G  NC=0.001627 23$OC=0.000385 5$PC=7.48E-5 10$QC=7.10E-6 10              
+229TH  G 569.30    7  100.0  23 M1+E2    1.55    +22-170.066   6            a   
+229THF G FL=0.0                                                                 
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.050 5$LC=0.0120 8$MC=0.00298 18                                  
+229THS G  NC=0.00079 5$OC=0.000185 11$PC=3.48E-5 23$QC=2.61E-6 26               
+229TH cG M$From |a(K)exp=0.050 {I5}, |a(L1+L2)exp=0.010 {I5} (2002Gu15)         
+229TH cG MR$From |a(K)exp and |a(L1+L2)exp in 2002Gu15 and briccmixing code.    
+229TH2cG Other: 2.76 {I39} in 2002Gu15                                          
+229TH  L 571.2     6  (3/2)-                                                G   
+229TH2 L XREF=D                                                                 
+229TH3 L FLAG=X                                                                 
+229TH cL J$From L(d,t)=1; band assignment                                       
+229TH  L 576.85    6                                                            
+229TH2 L XREF=B                                                                 
+229TH  G 127.02    5    16.3 6                                                  
+229TH cG RI$For 127.02|g+126.6|g                                                
+229TH  G 576.2     3    100  AP                                                 
+229THF G FL=0.0                                                                 
+229TH cG E$E|g for doublet=576.08 {I7}                                          
+229TH  L 585.09    5  (5/2+,7/2,9/2+)                                           
+229TH2 L XREF=A                                                                 
+229TH3 L FLAG=W                                                                 
+229TH cL J$584.94|g to 5/2+, 459.74|g to 9/2+                                   
+229TH  G 459.74    6  100    8                                                  
+229TH  G 513.23    13                                                       *   
+229TH  G 542.41    13 6.7    32                                                 
+229TH  G 584.94    16 3.18   AP                                                 
+229THF G FL=0.0                                                                 
+229TH  L 586.3     6   (5/2)-,(3/2-)                                        G   
+229TH2 L XREF=D                                                                 
+229TH cL J$From L(d,t)=1+(3)                                                    
+229TH  L 605.22    1   5/2+                                                 H   
+229TH cL J$562.84|g M1+E2 to 7/2+, 576.04|g M1+E2 to 5/2+, 343.3|g to 1/2+      
+229TH2 L XREF=AB                                                                
+229TH  G 126.585      2.38   8  [M1]                   9.49   13            c  S
+229TH2 G FLAG=b                                                                 
+229THS G  KC=7.57 11$LC=1.451 20$MC=0.349 5                                     
+229THS G  NC=0.0931 13$OC=0.02205 31$PC=0.00428 6$QC=0.000407 6                 
+229TH cG E$Other: 127.6 keV {I1} (2002Gu15)                                     
+229TH  G 155.371      6.7    25 [M1]                   5.31    7            c   
+229TH2 G FLAG=b                                                                 
+229THF G FL=449.85                                                              
+229THS G  KC=4.24 6$LC=0.807 11$MC=0.1941 27                                    
+229THS G  NC=0.0518 7$OC=0.01226 17$PC=0.002379 33$QC=0.0002260 32              
+229TH cG E$Other: 156.3 keV {I1} (2006Ru07)                                     
+229TH  G 239.41    4  37.1   13 M1+E2    0.79    12    1.10    9            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.82 9$LC=0.213 6$MC=0.0532 11                                     
+229THS G  NC=0.01421 28$OC=0.00331 7$PC=0.000616 19$QC=4.4E-5 4                 
+229TH cG M$From |a(K)exp=0.82 {I8}, |a(L1+L2)exp=0.11 {I2} (2002Gu15)           
+229TH cG MR$From |a(K)exp in 2002Gu15 and briccmixing code.                     
+229TH2cG Other: 0.68 {I9} in 2002Gu15                                           
+229TH  G 284.67    4  21.7   8 M1+E2     0.94    15    0.61    7            a   
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.45 6$LC=0.118 5$MC=0.0296 11                                     
+229THS G  NC=0.00791 29$OC=0.00184 7$PC=0.000342 17$QC=2.42E-5 31               
+229TH cG M$From |a(K)exp=0.45 {I5}, |a(L1+L2)exp=0.07 {I1} (2002Gu15)           
+229TH cG MR$From |a(K)exp in 2002Gu15 and briccmixing code.                     
+229TH  G 288.037   25 7.1    13 [M1]                   0.942  13                
+229TH2 G FLAG=b                                                                 
+229THS G  KC=0.754 11$LC=0.1421 20$MC=0.0341 5                                  
+229THS G  NC=0.00910 13$OC=0.002155 30$PC=0.000418 6$QC=3.97E-5 6               
+229TH cG E$Doublet in 2003Ba78. Other: 288.0292 keV {I9} (1994He08), doublet    
+229TH  G 343.3     1  0.75   17 [E2]                   0.1133 16            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.0558 8$LC=0.0424 6$MC=0.01129 16                                 
+229THS G  NC=0.00302 4$OC=0.000685 10$PC=0.0001190 17$QC=3.34E-6 5              
+229TH  G 367.83    4  3.79   13 [E1]                   0.0238233            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.01919 27$LC=0.00351 5$MC=0.000838 12                             
+229THS G  NC=0.0002220 31$OC=5.18E-5 7$PC=9.73E-6 14$QC=7.78E-7 11              
+229TH  G 388.05    4  5.50   17 [E1]                   0.0212630            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.01715 24$LC=0.00311 4$MC=0.000744 10                             
+229THS G  NC=0.0001970 28$OC=4.60E-5 6$PC=8.65E-6 12$QC=6.98E-7 10              
+229TH  G 440.71    4  6.29   21 [E1]                   0.0163023            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.01319 18$LC=0.002358 33$MC=0.000562 8                            
+229THS G  NC=0.0001489 21$OC=3.48E-5 5$PC=6.58E-6 9$QC=5.43E-7 8                
+229TH  G 457.07    4  12.1   4  [E1]                   0.0151321            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.01225 17$LC=0.002180 31$MC=0.000520 7                            
+229THS G  NC=0.0001377 19$OC=3.22E-5 5$PC=6.09E-6 9$QC=5.06E-7 7                
+229TH cG E$Others: 456.87 keV {I16} (2003Ba78,1996Ko29)                         
+229TH  G 458.87    5  0.67   4  [E1]                   0.0150121            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.01216 17$LC=0.002162 30$MC=0.000515 7                            
+229THS G  NC=0.0001365 19$OC=3.19E-5 4$PC=6.04E-6 8$QC=5.02E-7 7                
+229TH  G 533.47    7  16.7   4 M1+E2     1.05    +46-310.103  24            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.080 20$LC=0.0175 29$MC=0.0043 7                                  
+229THS G  NC=0.00115 18$OC=0.00027 4$PC=5.1E-5 9$QC=4.2E-6 10                   
+229TH cG E$Others: 533.53 keV {I5} (2003Ba78,1996Ko29)                          
+229TH cG M,MR$From |a(K)exp=0.08 {I2} (2002Gu15). |d using the briccmixing code;
+229TH2cG other: |d=1.27 {I45} in 2002Gu15                                       
+229TH  G 562.84    7  32.1   8 M1+E2     1.28    +32-240.078  12            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.060 10$LC=0.0137 15$MC=0.00336 35                                
+229THS G  NC=0.00090 9$OC=0.000210 22$PC=4.0E-5 4$QC=3.1E-6 5                   
+229TH cG E$Others: 562.95 keV {I24} (2003Ba78), 562.60 keV {I4} (1996Ko29),     
+229TH2cG 562.8 keV {I5} (1976Kr03)                                              
+229TH cG M,MR$From |a(K)exp=0.06 {I1} (2002Gu15). |d using the briccmixing code;
+229TH2cG other: |d=1.84 {I43} in 2002Gu15                                       
+229TH  G 576.04    7  10.8   APM1+E2     1.49    +48-310.066  12            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.050 10$LC=0.0119 15$MC=0.00293 35                                
+229THS G  NC=0.00078 9$OC=0.000183 22$PC=3.4E-5 4$QC=2.6E-6 5                   
+229TH cG E$Others: 576.09 keV {I20} (2003Ba78), 575.99 keV {I7} (1996Ko29)      
+229TH cG M,MR$From |a(K)exp=0.05 {I1} (2002Gu15). |d using the briccmixing code;
+229TH2cG other: |d=2.41 {I68} in 2002Gu15                                       
+229TH  G 605.26    7  100.0  29 M1+E2    1.00    +28-220.077  12            a   
+229THF G FLAG=b                                                                 
+229THF G FL=0.0                                                                 
+229THS G  KC=0.060 10$LC=0.0126 15$MC=0.00308 35                                
+229THS G  NC=0.00082 9$OC=0.000193 22$PC=3.7E-5 4$QC=3.1E-6 5                   
+229TH cG E$Others: 605.22 keV {I13} (2003Ba78), 605.16 keV {I1} (1996Ko29)      
+229TH cG M,MR$From |a(K)exp=0.06 {I1} (2002Gu15). |d using the briccmixing code;
+229TH2cG other: |d=1.22 {I29} in 2002Gu15                                       
+229TH  L 611       5  (9/2-)                                                N   
+229TH2 L XREF=E                                                                 
+229TH cL E,J$From Coulomb Excitation. B(E3)|^=0.114 e{+2}b{+3} {I33} (1988Be41) 
+229TH  L 620.79    7  (5/2+,7/2)                                                
+229TH2 L XREF=A                                                                 
+229TH cL J$523.59|g to 9/2+, 474.41|g to (5/2)-, 591.6|g to 5/2+                
+229TH  G 474.41    8  83     12                                                 
+229TH  G 523.59    24 100    27                                                 
+229TH  G 578.61    17 36.6   25                                                 
+229TH  G 591.6     3  7.6    25                                                 
+229TH  G 620.63    23 16     6                                                  
+229THF G FL=0.0                                                                 
+229TH  L 637.38    4  (5/2+,7/2,9/2+)                                           
+229TH2 L XREF=A                                                                 
+229TH cL J$540.3|g to 9/2+, 608.15|g to 5/2+                                    
+229TH  G 402.36    9  100    11                                                 
+229TH  G 425.33    12 12.5   22                                                 
+229TH  G 540.3     3  25.4   25                                                 
+229TH  G 608.15    5  7.5    25                                                 
+229TH  G 637.25    10 3.6    AP                                                 
+229THF G FL=0.0                                                                 
+229TH  L 638.598   25 1/2-,3/2-                                                 
+229TH2 L XREF=BD                                                                
+229TH cL J$492.2|g to (5/2-), 474.10|g to (3/2)-; L(d,t)=1                      
+229TH  G 69.1      2            [E1]                   0.312   5            a   
+229THS G  LC=0.236 4$MC=0.0576 9                                                
+229THS G  NC=0.01509 24$OC=0.00338 5$PC=0.000579 9$QC=2.94E-5 5                 
+229TH  G 474.10    4  100.0  25 [M1]                   0.2422 34            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.1943 27$LC=0.0362 5$MC=0.00868 12                                
+229THS G  NC=0.002315 32$OC=0.000548 8$PC=0.0001064 15$QC=1.010E-5 14           
+229TH  G 492.22    4   68.3  25 [M1,E2]                0.13    9            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.10 7$LC=0.022 10$MC=0.0055 23                                    
+229THS G  NC=0.0015 6$OC=3.5E-4 15$PC=6.5E-5 31$QC=5.E-6 4                      
+229TH  L 653.759   30  (3/2)-                                                   
+229TH2 L XREF=BD                                                                
+229TH cL J$653.86|g to 5/2+, 489.21|g to (3/2)-; L(d,t)=1                       
+229TH  G 84.50                   [E1]                  0.1831 26            c   
+229THF G FLAG=a                                                                 
+229THS G  LC=0.1383 19$MC=0.0337 5                                              
+229THS G  NC=0.00884 12$OC=0.001997 28$PC=0.000348 5$QC=1.895E-5 27             
+229TH cG E$Other: 84.8 keV {I1} (2006Ru07)                                      
+229TH  G 489.21    4    100  6   [M1]                  0.2226 31            a   
+229THF G FLAG=b                                                                 
+229THS G  KC=0.1786 25$LC=0.0333 5$MC=0.00798 11                                
+229THS G  NC=0.002126 30$OC=0.000503 7$PC=9.77E-5 14$QC=9.28E-6 13              
+229TH  G 653.86    10   11.1 56  [E1]                  0.0074910            a   
+229THF G FL=0.0                                                                 
+229THF G FLAG=b                                                                 
+229THS G  KC=0.00611 9$LC=0.001046 15$MC=0.0002480 35                           
+229THS G  NC=6.58E-5 9$OC=1.544E-5 22$PC=2.95E-6 4$QC=2.58E-7 4                 
+229TH  L 656.93    5  (5/2+,7/2,9/2+)                                           
+229TH2 L XREF=A                                                                 
+229TH cL J$531.54|g to 9/2+, 627.70|g to 5/2+                                   
+229TH  G 177.94    16                                                           
+229TH  G 531.54    8  17.2   39                                                 
+229TH  G 559.87    18  5.6   AP                                                 
+229TH  G 584.94    16                                                       *   
+229TH  G 614.60    20 17.2   39                                                 
+229TH  G 627.70    8  11.7   39                                                 
+229TH  G 657.30    17 100    22                                                 
+229THF G FL=0.0                                                                 
+229TH  L 661.577   27 (3/2,5/2)                                                 
+229TH2 L XREF=B                                                                 
+229TH cL J$661,59|g to 5/2+, 444.40|g to (5/2)-, 497.043|g to (3/2)-; direct    
+229TH2cL |b{+-} decay feeding                                                   
+229TH  G 22.98                                                              c   
+229THF G FLAG=a                                                                 
+229TH cG E$Other: 24.8 keV {I1} (2006Ru07)                                      
+229TH  G 444.40    4   84.4  26                                             a   
+229THF G FLAG=b                                                                 
+229TH  G 497.043       58.3  18                                             c   
+229THF G FLAG=b                                                                 
+229TH cG E$Other: 497.35 keV {I4} (2006Ru07)                                    
+229TH  G 515.25    7  100.0  26                                             a   
+229THF G FLAG=b                                                                 
+229TH  G 661.59    7   29.6  9                                              a   
+229THF G FL=0.0                                                                 
+229THF G FLAG=b                                                                 
+229TH  L 665.02    9  (3/2)-                                                   ?
+229TH2 L XREF=AD                                                                
+229TH cL J$665.03|g to 5/2+; L(d,t)=1                                           
+229TH  G 500.44    23 100    23 [M1]                   0.2094 29                
+229THS G  KC=0.1681 24$LC=0.0313 4$MC=0.00750 11                                
+229THS G  NC=0.001999 28$OC=0.000473 7$PC=9.19E-5 13$QC=8.73E-6 12              
+229TH  G 665.03    10 32.3   AP [E1]                   0.0072510                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.00592 8$LC=0.001011 14$MC=0.0002398 34                           
+229THS G  NC=6.36E-5 9$OC=1.493E-5 21$PC=2.85E-6 4$QC=2.505E-7 35               
+229TH  L 689.01    5    (5/2)-                                                  
+229TH2 L XREF=BD                                                                
+229TH cL J$688.96|g to 5/2+, 540.9|g to (7/2-); L(d,t)=3                        
+229TH  G 83.9      2             [E1]                  0.1866 29                
+229THS G  LC=0.1409 22$MC=0.0343 5                                              
+229THS G  NC=0.00901 14$OC=0.002035 31$PC=0.000354 5$QC=1.925E-5 29             
+229TH  G 540.9     2    100  9   [M1,E2]               0.10    7                
+229THS G  KC=0.08 6$LC=0.017 8$MC=0.0042 19                                     
+229THS G  NC=0.0011 5$OC=2.6E-4 12$PC=5.0E-5 24$QC=4.2E-6 29                    
+229TH  G 542.68    7   76.8  18  [M1]                  0.1685 24                
+229THS G  KC=0.1353 19$LC=0.02513 35$MC=0.00602 8                               
+229THS G  NC=0.001606 22$OC=0.000380 5$PC=7.38E-5 10$QC=7.01E-6 10              
+229TH  G 688.96    8   28.6  18  [E1]                  0.0067910                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.00554 8$LC=0.000944 13$MC=0.0002237 31                           
+229THS G  NC=5.93E-5 8$OC=1.393E-5 20$PC=2.66E-6 4$QC=2.350E-7 33               
+229TH  L 714.5     10                                                       X   
+229TH2 L XREF=D                                                                 
+229TH  L 743.4     12                                                       X   
+229TH2 L XREF=D                                                                 
+229TH  L 749.8     1  (5/2+,7/2,9/2+)                                           
+229TH2 L XREF=A                                                                 
+229TH cL J$652.79|g to 9/2+, 720.62|g to 5/2+                                   
+229TH  G 514.72    13 100    4                                                  
+229TH  G 652.79    19 2.17   AP                                                 
+229TH  G 707.4     3  18     5                                                  
+229TH  G 720.62    11 4.6    15                                                 
+229TH  G 749.8     4  4.6    15                                                 
+229THF G FL=0.0                                                                 
+229TH  L 779.29    6     (5/2)-                                                 
+229TH2 L XREF=BD(778.8)                                                         
+229TH cL J$614.82|g to (3/2)-, 779.00|g to 5/2+; L(d,t)=3; proposed             
+229TH2cL configuration                                                          
+229TH cL CONF$|n5/2[503] Nilsson orbital mixed with the |n5/2[633]~#0-          
+229TH2cL state (a K|p=0- octupole phonon based on the |n5/2[633] ground state)  
+229TH3cL from 2008Bu14 [{+230}Th(d,t)]                                          
+229TH  G 614.82    7    100  6   [M1]                  0.1208 17                
+229THS G  KC=0.0971 14$LC=0.01796 25$MC=0.00430 6                               
+229THS G  NC=0.001147 16$OC=0.000272 4$PC=5.27E-5 7$QC=5.02E-6 7                
+229TH  G 779.00    15   31   6   [E1]                  0.00541 8                
+229THF G FL=0.0                                                                 
+229THS G  KC=0.00443 6$LC=0.000745 10$MC=0.0001763 25                           
+229THS G  NC=4.68E-5 7$OC=1.100E-5 15$PC=2.108E-6 30$QC=1.888E-7 26             
+229TH  L 815.1     8  (3/2)-                                                K   
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1; band assignment                                       
+229TH  L 825.1     10 5/2-,7/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=3                                                        
+229TH  L 843.4     13   (5/2)-                                              K   
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=3; band assignment                                       
+229TH  L 895.2     9  1/2-,3/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1                                                        
+229TH  L 929.1     10                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 972.6     12                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 982.6     11  1/2+                                                     
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=0                                                        
+229TH  L 1019.0    11                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1051.7    13                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1061.8    13                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1093.8    11 1/2-,3/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1                                                        
+229TH  L 1104.1    11 1/2-,3/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1                                                        
+229TH  L 1121.3    11 1/2-,3/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1                                                        
+229TH  L 1135.5    13                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1192.6    15                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1207.3    13 1/2-,3/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1                                                        
+229TH  L 1241.6    13 3/2+,5/2+                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=2                                                        
+229TH  L 1266.4    14                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1302.5    14                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1336.0    14 5/2-,7/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=3                                                        
+229TH  L 1382.8    15                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1406.9    15 (5/2-,7/2-)                                               
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=(3)                                                      
+229TH  L 1463.8    15                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1500.9    15 1/2-,3/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1                                                        
+229TH  L 1513.0    15 1/2-,3/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1                                                        
+229TH  L 1538.5    16 1/2-,3/2-                                                 
+229TH2 L XREF=D$FLAG=X                                                          
+229TH cL J$From L(d,t)=1                                                        
+229TH  L 1575.8    17                                                           
+229TH2 L XREF=D$FLAG=X                                                          
+229TH  L 1628.3    16                                                           
+229TH2 L XREF=D$FLAG=X                                                          

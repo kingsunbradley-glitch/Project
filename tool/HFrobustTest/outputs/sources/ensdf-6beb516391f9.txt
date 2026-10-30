@@ -1,0 +1,148 @@
+233U     237PU A DECAY (45.43 D)       1979EL05                  20NDS    202012
+233U   H TYP=FUL$AUT=B. Singh, J. K. Tuli,  E. Browne$CIT=NDS 170, 499 (2020)$  
+233U 2 H CUT=8-Oct-2020$                                                        
+233U  c  1979El05: {+237}Pu source was prepared in {+235}U(|a,2n),E=30 MeV at   
+233U 2c  ORNL isochronous cyclotron. Measured E|g, I|g using Ge(Li) detectors.  
+233U 3c  Deduced levels, J|p, I(|a)/I(|e) ratio, Nilsson assignments.           
+233U  c  The decay scheme is basically from 1979El05.                           
+233U  cA $Two |a groups at 5650 {I20} and 5360 {I20} keV with relative          
+233U 2cA intensities 21 {I4} and 79 {I8}, respectively were observed by 1957Th10
+233U 3cA (ce). The stronger |a group was also seen by 1957Ho68 (ce) at 5340 keV 
+233U 4cA {I12}. The ratio of total |a intensities to the g.s. and the 5/2[752]  
+233U 5cA bands deduced here is |?16/|?73, which is roughly consistent with the  
+233U 6cA measurement by 1957Th10.                                               
+233U  cA E$Deduced from Q(|a)=5747.6 {I23} (2017Wa10), and level energies.      
+233U  cA IA$Deduced by the evaluators from the |g intensities.                  
+233U 2cA The intensities of the |a transitions to the 5/2[752] and 7/2[743]     
+233U 3cA bands (levels above 155.1 keV) are given as approximate values since   
+233U 4cA these intensities are expected to change somewhat by, as yet,          
+233U 5cA unobserved intraband transitions. Exceptions are noted.                
+233U  cA IA(a)$The |a intensity to each member of the g.s. band is deduced      
+233U 2cA by evaluators from the hindrance factors for the {+235}U |a            
+233U 3cA transitions to the {+231}Th g.s. band members 5/2+ to 11/2+, which     
+233U 4cA are believed to be analogous to those for {+237}Pu decay to {+233}U.   
+233U 5cA The |a decay intensities in {+235}U decay have been taken from the     
+233U 6cA {+235}U |a decay dataset in the ENSDF database (May 2013 update).      
+233U 7cA Value of r{-0}=1.52410 {I58} for {+231}Th was used, based on r{-0}     
+233U 8cA parameters in 2020Si16. Total relative                                 
+233U 9cA |a intensity to the g.s. band members (5/2+, 7/2+, 9/2+, 11/2+) is     
+233U AcA |?16.6, as compared to 10.1 {I1} for {+235}U |a decay to g.s. members  
+233U BcA (5/2+, 7/2+, 9/2+, 11/2+) in {+231}Th                                  
+233U  cA HF$The nuclear radius parameter r{-0}({+233}U)=1.50884 {I18}           
+233U 2cA is deduced from interpolation (or unweighted average) of radius        
+233U 3cA parameters of the adjacent even-even nuclides (2020Si16)               
+233U  cG E$Measurements of 1979El05 (semi).                                     
+233U  cG RI$Measurements of 1979El05. I|g=100 corresponds to 21.8 {I17}         
+233U 2cG photons per 100 |a decays.                                             
+233U  cG E(b)$From the Adopted Gammas                                           
+233U  cG E(d)$This |g is shown in the decay scheme of 1979El05, as              
+233U 2cG expected, but not observed. Evaluators do not include this |g in the   
+233U 3cG Adopted dataset, as it is not confirmed in any other study.            
+233U  cG RI(G)$|g ray was obscured by the presence of neighboring               
+233U 2cG background radiation (1979El05).                                       
+233U  cL E$From least squares fit to E|g data                                   
+233U  cL J$From the Adopted Levels.                                             
+233U  CL BAND(A)$|n5/2[633] band                                                
+233U  CL BAND(B)$|n5/2[752] band                                                
+233U  CL BAND(D)$|n7/2[743] band                                                
+237PU  P 0.0          7/2-             45.43 D   13             5747.6    23    
+237PU cP J$Assignment in {+237}Pu Adopted Levels in the ENSDF database          
+237PU2cP (March 2006 update) is still valid. Configuration=|n7/2[743]           
+237PU cP T$Unweighted average of 45.66 d {I4} (1994Ta25, K x-ray decay curves); 
+237PU2cP 45.12 d {I3} (1981Ba15, x-ray and low-energy |g decay curves);         
+237PU3cP 45.3 d {I2} (1977Sm02, K x-ray decay curve); 45.63 d {I20} (1957Ho68,  
+237PU4cP |g decay curve). Weighted average is 45.32 d {I15}, but reduced        
+237PU5cP |h{+2} is 39.7 as compared to critical |h{+2}=2.6. Value of            
+237PU6cP 45.64 d {I4} is  given in {+237}Pu Adopted Levels in the ENSDF         
+237PU7cP database (March 2006 update). Others: 44 d {I2} (1957Th10), 40 d       
+237PU8cP (1949Ja01)                                                             
+237PU cP QP$From 2017Wa10                                                       
+233U   N 0.218     17          0.000042 4                                       
+233U  cN NR$Absolute intensities were obtained by 1979El05 from comparison of   
+233U 2cN |g intensities measured in |a and |e decays of {+237}Pu.               
+233U  cN BR$%|a=0.0042 {I4} measured by 1979El05. The same value is given in    
+233U 2cN {+237}Pu Adopted Levels in the ENSDF database (March 2006 update)      
+233U  PN                                                                     3  
+233U   L 0.0          5/2+                                                  A   
+233U   A 5650.6    23 6.6    AP  2550  40                                   a   
+233U  cA HF$deduced by evaluators from I|a=4.77 {I7} (from {+235}U |a decay     
+233U 2cA in ENSDF, May 2013 update) and r{-0}=1.52410 {I58} for {+231}Th        
+233U   L 40.349     5 7/2+                                                  A   
+233U   A 5610.3    23 6.4    AP  1570  30                                   a   
+233U  cA HF$deduced by evaluators from I|a=3.82 {I6} (from {+235}U |a decay in  
+233U 2cA ENSDF) and r{-0}=1.52410 {I58} for {+231}Th                            
+233U   G 40.351    10                                                       b  S
+233U   L 92.17     12 9/2+                                                  A   
+233U   A 5558.6    24 2.8    AP  1860  60                                   a   
+233U  cA HF$deduced by evaluators from I|a=1.28 {I4} (from {+235}U |a decay in  
+233U 2cA ENSDF) and r{-0}=1.52410 {I58} for {+231}Th                            
+233U   G 51.5      5                                                        b  S
+233U   G 92.1      5                                                        b  S
+233U   L 155.31     9  11/2+                                                A   
+233U   A 5495.5    24 0.75   AP  313E1 40                                   a   
+233U  cA HF$deduced by evaluators from I|a=0.24 {I3} (from {+235}U |a decay in  
+233U 2cA ENSDF) and r{-0}=1.52410 {I58} for {+231}Th                            
+233U   G 63.4      2                                                        d  S
+233U   G 114.92    10                                                       d  S
+233U   L 298.75    13 (5/2-)                                                B   
+233U   A 5351.8    24 17.4   AP   20   AP                                       
+233U   G 258.46    20 16.1   12[E1]                    0.0547                   
+233U S G  KC=0.0433 7$LC=0.00857 12$MC=0.00207 3                                
+233U S G  NC=0.000553 8$OC=0.0001318 19$PC=2.41E-5 4$QC=1.496E-6 21             
+233U   G 298.89    20 72.2   18[E1]                    0.0396                   
+233U S G  KC=0.0315 5$LC=0.00609 9$MC=0.001468 21                               
+233U S G  NC=0.000393 6$OC=9.37E-5 14$PC=1.728E-5 25$QC=1.105E-6 16             
+233U   L 320.74    13  7/2-                                                 B   
+233U   A 5329.9    24 44.7   AP  5.8   AP                                       
+233U   G 228.56    20 36.2   15[E1]                    0.0723                   
+233U S G  KC=0.0571 8$LC=0.01151 17$MC=0.00279 4                                
+233U S G  NC=0.000744 11$OC=0.000177 3$PC=3.22E-5 5$QC=1.94E-6 3                
+233U   G 280.40    20 100    2 [E1]                    0.0456                   
+233U S G  KC=0.0362 5$LC=0.00707 10$MC=0.001705 24                              
+233U S G  NC=0.000456 7$OC=0.0001088 16$PC=2.00E-5 3$QC=1.262E-6 18             
+233U   G 320.75    20 59.6   18[E1]                    0.0339                   
+233U S G  KC=0.0270 4$LC=0.00518 8$MC=0.001247 18                               
+233U S G  NC=0.000333 5$OC=7.97E-5 12$PC=1.473E-5 21$QC=9.56E-7 14              
+233U   L 353.81    13  9/2-                                                 B   
+233U   A 5296.9    24 12.2   AP   13   AP                                       
+233U   G 198.61    20 7.3    10[E1]                    0.1001                   
+233U S G  KC=0.0786 12$LC=0.01625 24$MC=0.00394 6                               
+233U S G  NC=0.001051 15$OC=0.000249 4$PC=4.51E-5 7$QC=2.63E-6 4                
+233U   G 261.66    20 18.1   11[E1]                    0.0532                   
+233U S G  KC=0.0422 6$LC=0.00832 12$MC=0.00201 3                                
+233U S G  NC=0.000537 8$OC=0.0001280 18$PC=2.35E-5 4$QC=1.458E-6 21             
+233U   G 313.34    20 27.8   14[E1]                    0.0357                   
+233U S G  KC=0.0284 4$LC=0.00546 8$MC=0.001316 19                               
+233U S G  NC=0.000352 5$OC=8.41E-5 12$PC=1.553E-5 22$QC=1.003E-6 15             
+233U   L 397.57    23  11/2-                                                B   
+233U   A 5253.2    24 0.7    GE  140   LE                                       
+233U   G 305.4     2  2.9    9 [E1]                    0.0377                   
+233U S G  KC=0.0301 5$LC=0.00579 9$MC=0.001396 20                               
+233U S G  NC=0.000373 6$OC=8.92E-5 13$PC=1.645E-5 24$QC=1.057E-6 15             
+233U   L 503.61    11 7/2-                                                  D   
+233U   A 5147.1    24 5.5    AP  3.6   AP                                       
+233U   G 181.8     10 0.8    AP[M1]                    4.06   9                ?
+233U F G FLAG=G                                                                 
+233U S G  KC=3.22 7$LC=0.628 14$MC=0.152 4                                      
+233U S G  NC=0.0409 9$OC=0.00995 21$PC=0.00192 4$QC=0.000153 4                  
+233U   G 205.05    20 3.2    8 [M1]                    2.89                     
+233U S G  KC=2.30 4$LC=0.447 7$MC=0.1080 16                                     
+233U S G  NC=0.0291 5$OC=0.00708 11$PC=0.001365 20$QC=0.0001089 16              
+233U   G 411.1     2  1.7    5 [E1]                    0.0200                   
+233U S G  KC=0.01610 23$LC=0.00298 5$MC=0.000715 10                             
+233U S G  NC=0.000191 3$OC=4.59E-5 7$PC=8.56E-6 12$QC=5.83E-7 9                 
+233U   G 463.1     2  3.4    10[E1]                    0.01572                  
+233U S G  KC=0.01267 18$LC=0.00231 4$MC=0.000553 8                              
+233U S G  NC=0.0001480 21$OC=3.56E-5 5$PC=6.66E-6 10$QC=4.63E-7 7               
+233U   G 503.9     2  6.9    13[E1]                    0.01328                  
+233U S G  KC=0.01073 15$LC=0.00193 3$MC=0.000463 7                              
+233U S G  NC=0.0001239 18$OC=2.98E-5 5$PC=5.59E-6 8$QC=3.95E-7 6                
+233U   L 561.4     20 (9/2-)                                                D  ?
+233U   A 5089.1    31 0.5    AP   17   AP                                       
+233U   G 241       2  0.5    AP[M1]                    1.84   5                ?
+233U F G FLAG=G                                                                 
+233U S G  KC=1.46 4$LC=0.284 8$MC=0.0686 19                                     
+233U S G  NC=0.0185 5$OC=0.00449 13$PC=0.000866 24$QC=6.91E-5 19                
+233U   G 521.1     20 0.8    AP[E1]                    0.0124420               ?
+233U S G  KC=0.01005 16$LC=0.00180 3$MC=0.000432 7                              
+233U S G  NC=0.0001156 19$OC=2.78E-5 5$PC=5.22E-6 9$QC=3.71E-7 6                

@@ -1,0 +1,105 @@
+241CM    ADOPTED LEVELS, GAMMAS                                  15NDS    201512
+241CM  H TYP=FUL$AUT=C.D. NESARAJA$CIT=NDS 130, 183 (2015)$CUT=30-Sep-2015$     
+241CM  Q -2330     SY 6093.3 21 5097   14 6185.2 6     2012WA38                 
+241CM cQ $|D(Q(|b{+-}))=-200 (syst, 2012Wa38)                                   
+241CM cL J(E)$The following arguments are based on those given by 1996Ma72 in   
+241CM2cL their {+245}Cf |a decay paper. On the basis of the observation         
+241CM3cL of 56.1 and 50.6 gammas in coincidence with the 7083|a, and the        
+241CM4cL absence of any gammas in coincidence with the 7138|a, the authors      
+241CM5cL propose the existence of excited levels at 5.6 and 56.1. From          
+241CM6cL systematics, the g.s. configuration for {+245}Cf is expected to be     
+241CM7cL 5/2[622] or 1/2[631]. HF(7138|a)<4 identifies the 7138|a as the        
+241CM8cL favored transition connecting states of the same configuration,        
+241CM9cL and HF(7083|a)=20 suggests that the 7083|a and 7138|a feed members     
+241CMAcL of the same band. If the configuration of {+245}Cf is 5/2[622], then   
+241CMBcL the 7138 and 7083 |a's must feed the 5/2+ and 7/2+ members of          
+241CMCcL this band in the daughter {+245}Cm; however, the deduced rotational    
+241CMDcL parameters do not agree with systematics for this configuration.       
+241CMEcL The evaluator notes that these systematics lead to an expected         
+241CMFcL 7/2 - 5/2 separation of 44 keV rather than 56 keV. On the other        
+241CMGcL hand, if the parent configuration is 1/2[631], then the 7138           
+241CMHcL |a feeds the g.s., and the assumption that the 5.6 and 56.1            
+241CMIcL levels are the 3/2+ and 5/2+ members of this band gives rotational     
+241CMJcL parameters consistent with systematics for the 1/2[631] band.          
+241CMKcL The evaluator adopts these assignments                                 
+241CM cL J(D)$2003As01 suggest that the |e decay proceeds from the parent       
+241CM2cL 7/2[633] state to the 7/2[624] state in {+241}Cm, expected to lie      
+241CM3cL at |?420 keV. They point out that the inverse transition in            
+241CM4cL {+243}Pu |b{+-} decay has log| {Ift}=5.5, and the similar transitions  
+241CM5cL from 5/2[642] to 5/2[633] in {+232}Np, {+233}Np, {+235}Pu, and         
+241CM6cL {+236}Am |e decays have log| {Ift} values in the range 4.8 to 5.4. For 
+241CM7cL the 420 level, a log| {Ift} of 5.0 to 5.5 lead to a deduced            
+241CM8cL T{-1/2}({+241}Bk) of 4.4 to 14 minutes, consistent with the measured   
+241CM9cL T{-1/2}. The authors further suggest that the three transitions they   
+241CMAcL observe in |e decay can be assigned as decay from the 7/2[624] level   
+241CMBcL to the 5/2[622] band head, followed by transitions to the 3/2 and 5/2  
+241CMCcL members of the 1/2[631] g.s. band. The energy of the 3/2+ member       
+241CMDcL of the 1/2[631] has been determined in {+245}Cf |a decay               
+241CM CL BAND(A)$1/2+[631] BAND                                                 
+241CM  XA245CF A DECAY                                                          
+241CM  XB241BK EC DECAY                                                         
+241CM  L 0.0          1/2+             32.8 D    2                              
+241CM2 L %EC=99.0 1 $%A=1.0 1$FLAG=A$XREF=AB$                                   
+241CM cL %A$I|a/(I|a+I|e)=0.010 {I1} from a measurement of Ice(145.536|g) in    
+241CM2cL {+237}Pu following |a decay of {+241}Cm (1974Po08).                    
+241CM3cL Other: %|a=0.96 {I9} from absolute counting (1960Gl01).                
+241CM cL T$From least squares decay analyses of the 471.8 keV |g using a Ge(Li) 
+241CM2cL detector. Others: 35 d (1952Hi11), 37 d (1967Ba42)                     
+241CM cL J$HF=2.5 {I3} for |a decay to the 1/2+ 145.54 level in {+237}Pu with   
+241CM2cL configuration 1/2[631]                                                 
+241CM  L 5.5          (3/2+)                                                    
+241CM2 L FLAG=AE$XREF=AB$                                                       
+241CM cL E$From |a decay                                                        
+241CM  L 57.1         (5/2+)                                                    
+241CM2 L FLAG=AE$XREF=AB$                                                       
+241CM  G 51.6                                                                   
+241CM cG E$From E|g(262.3 {I1})-(210.7 {I2}) from the 268 level in |e decay     
+241CM2cG E=50.6 is reported in |a decay                                         
+241CM  G 57.1                                                                   
+241CM cG E$From E|g(262.3 {I1}) from the 268 level in |e decay and E(5.5 level) 
+241CM2cG from |a decay. E=56.1 is reported in |a decay                          
+241CM  L 81           (7/2+)                                                   ?
+241CM2 L XREF=A$                                                                
+241CM cL E,J$Possible 7/2+ member of the 1/2[631] band, but see the             
+241CM2cL evaluator's comment in the {+245}Cf |a decay dataset                   
+241CM  L 163          (9/2+)                                                   ?
+241CM2 L XREF=A$                                                                
+241CM cL E,J$Possible 9/2+ member of the 1/2[631] band, but see the             
+241CM2cL evaluator's comment in the {+245}Cf |a decay dataset                   
+241CM  L 267.8        (5/2+)                                                    
+241CM2 L FLAG=D$XREF=B$                                                         
+241CM cL $Configuration=5/2+[622] (2003As01)                                    
+241CM  L 420.2        (7/2+)                                                    
+241CM2 L FLAG=D$XREF=B$                                                         
+241CM cL $Configuration=7/2+[624] (2003As01)                                    
+241CM  L 2300      AP                  15.3 NS   10                          M1 
+241CM2 L %SF=100                                                                
+241CM cL %SF$Only SF decay observed. From calculations of T{-1/2} for SF and for
+241CM2cL T{-1/2} for |g decay (1972We09) one predicts the isomeric decay branch 
+241CM3cL to be 1.3|*10{+-5}%                                                    
+241CM cL E$From a fit to the {+239}Pu(|a,2n) excitation function, reported      
+241CM2cL values are 2.3 MeV {I2} (1971Br39) and 2.6 MeV {I2} (1972Vy07).        
+241CM3cL 1972We09 calculate 2.11 MeV                                            
+241CM tL T         measured values and production methods:                      
+241CM2tL 20 ns       {+239}Pu(|a,2n)  (1969Me11); 19 ns {I8}     {+241}Am(d,n)  
+241CM+tL    (1970Po01);                                                         
+241CM3tL 25 ns {I15}    {+243}Am(p,3n)  (1971Re11); 15.3 ns {I10}  {+239}Pu(|a,2
+241CM+tL n)  (1971Br39                                                          
+241CM+tL );                                                                     
+241CM4tL 20 ns       {+239}Pu(|a,2n)  (1972Ga42); 10 ns {I1}     {+239}Pu(|a,2n)
+241CM+tL   (1974SpZS                                                            
+241CM+tL ).                                                                     
+241CM cL $For theoretical calculations of T{-1/2}(SF) see, for example,         
+241CM2cL 1978Po09, 1985Lo17, and 1990Bh02.                                      
+241CM cL ${+239}Pu(a,2nf): fission fragment angular distributions               
+241CM2cL were measured; spin and configuration assignments were                 
+241CM3cL proposed by 1974SpZS, 1974GaZD. See also 1975Kh06 for possible         
+241CM4cL spins deduced from angular-distribution measurements of 1974SpZS.      
+241CM cL           ({+3}He,tF): fission probability was obtained from measured  
+241CM2cL fission counts (singles) and the observed coincidences between         
+241CM3cL fission fragments; barrier heights were deduced by 1976Ga11. Barrier   
+241CM4cL parameters were also deduced by 1981Re06 from analysis of fission      
+241CM5cL probability data of 1976Ga11. See 1972We09, 1980Ku14 and 1984Ku05 for  
+241CM6cL calculated barrier parameters.                                         
+241CM cL           {+238}Pu(|a,nF): |G(n)/|G(f) was deduced, compared with      
+241CM2cL theory including pairing by 1973Me23.                                  
