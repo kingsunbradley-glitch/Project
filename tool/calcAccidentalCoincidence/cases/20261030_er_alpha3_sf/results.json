@@ -1,0 +1,118 @@
+{
+  "188600": {
+    "input": {
+      "description": "用户参数：ER-alpha1-alpha2-alpha3-SF；SF-like 全实验总计数为 188600，alpha3 到 SF 搜索窗为 100 s。",
+      "model": "sequential",
+      "step_background_counts": [
+        65110,
+        154000,
+        154000,
+        188600
+      ],
+      "background_time_s": 2358720,
+      "position_bins": 6144,
+      "step_windows_s": [
+        0.1,
+        100,
+        100,
+        100
+      ],
+      "implantations": 13250000,
+      "observed_chains": 1
+    },
+    "result": {
+      "method": "Berkeley",
+      "model": "sequential",
+      "step_rates_hz": [
+        0.02760395468728802,
+        0.06528964862298195,
+        0.06528964862298195,
+        0.07995862162528829
+      ],
+      "step_windows_s": [
+        0.1,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "mu_per_step": [
+        4.4928311665507864e-07,
+        0.0010626570413896797,
+        0.0010626570413896797,
+        0.0013014098571824265
+      ],
+      "P_per_step": [
+        4.4928301572743437e-07,
+        0.0010620926213418883,
+        0.0010620926213418883,
+        0.0013005633906140385
+      ],
+      "P_per_implantation": 6.591379387740501e-16,
+      "log10_P_per_implantation": -15.181023690444443,
+      "n_b": 8.733577688756179e-09,
+      "log10_n_b": -8.058807812171615,
+      "observed_chains": 1,
+      "P_at_least_observed_chains": 8.733577650618482e-09,
+      "log10_P_at_least_observed_chains": -8.058807814068087,
+      "meaning": "选定起始事件后，按每步重启的窗口取至少一次概率的乘积；不是在单个总窗中恰好出现若干事件"
+    }
+  },
+  "194": {
+    "input": {
+      "description": "用户参数：ER-alpha1-alpha2-alpha3-SF；SF-like 全实验总计数改为 194，alpha3 到 SF 搜索窗为 100 s。",
+      "model": "sequential",
+      "step_background_counts": [
+        65110,
+        154000,
+        154000,
+        194
+      ],
+      "background_time_s": 2358720,
+      "position_bins": 6144,
+      "step_windows_s": [
+        0.1,
+        100,
+        100,
+        100
+      ],
+      "implantations": 13250000,
+      "observed_chains": 1
+    },
+    "result": {
+      "method": "Berkeley",
+      "model": "sequential",
+      "step_rates_hz": [
+        0.02760395468728802,
+        0.06528964862298195,
+        0.06528964862298195,
+        8.224799891466558e-05
+      ],
+      "step_windows_s": [
+        0.1,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "mu_per_step": [
+        4.4928311665507864e-07,
+        0.0010626570413896797,
+        0.0010626570413896797,
+        1.338671857335051e-06
+      ],
+      "P_per_step": [
+        4.4928301572743437e-07,
+        0.0010620926213418883,
+        0.0010620926213418883,
+        1.3386709613142795e-06
+      ],
+      "P_per_implantation": 6.784512192987188e-19,
+      "log10_P_per_implantation": -18.168481372692497,
+      "n_b": 8.98947865570804e-12,
+      "log10_n_b": -11.04626549441967,
+      "observed_chains": 1,
+      "P_at_least_observed_chains": 8.989478655667639e-12,
+      "log10_P_at_least_observed_chains": -11.046265494421622,
+      "meaning": "选定起始事件后，按每步重启的窗口取至少一次概率的乘积；不是在单个总窗中恰好出现若干事件"
+    }
+  }
+}

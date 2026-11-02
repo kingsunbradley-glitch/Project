@@ -1,0 +1,464 @@
+{
+  "188600": {
+    "inputs": {
+      "Berkeley": {
+        "description": "用户参数：ER-alpha1-alpha2-alpha3-SF；SF-like 全实验总计数为 188600，alpha3 到 SF 搜索窗为 100 s。",
+        "model": "sequential",
+        "step_background_counts": [
+          65110,
+          154000,
+          154000,
+          188600
+        ],
+        "background_time_s": 2358720,
+        "position_bins": 6144,
+        "step_windows_s": [
+          0.1,
+          100,
+          100,
+          100
+        ],
+        "implantations": 13250000,
+        "observed_chains": 1
+      },
+      "GSI": {
+        "mode": "fixed",
+        "background_counts": [
+          13250000,
+          65110,
+          154000,
+          188600
+        ],
+        "measurement_time_s": 2358720,
+        "position_bins": 6144,
+        "sequence": [
+          0,
+          1,
+          2,
+          2,
+          3
+        ],
+        "windows_s": [
+          0.1,
+          100,
+          100,
+          100
+        ],
+        "observed_chains": 1
+      },
+      "Lazarev": {
+        "pair_counts": [
+          5.95300129567979,
+          69.18959996488208,
+          163.64918437401076,
+          200.4171180060937
+        ],
+        "intermediate_counts": [
+          65110,
+          154000,
+          154000
+        ],
+        "observed_chains": 1
+      },
+      "Dubna_raw_counts": {
+        "counts": {
+          "window_s": 300.1,
+          "categories": [
+            {
+              "name": "alpha1",
+              "rate_hz": 4.492831166550785e-06,
+              "count": 1
+            },
+            {
+              "name": "alpha23",
+              "rate_hz": 1.0626570413896802e-05,
+              "count": 2
+            },
+            {
+              "name": "SF",
+              "rate_hz": 1.3014098571824266e-05,
+              "count": 1
+            }
+          ]
+        }
+      }
+    },
+    "Berkeley_sequential": {
+      "method": "Berkeley",
+      "model": "sequential",
+      "step_rates_hz": [
+        0.02760395468728802,
+        0.06528964862298195,
+        0.06528964862298195,
+        0.07995862162528829
+      ],
+      "step_windows_s": [
+        0.1,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "mu_per_step": [
+        4.4928311665507864e-07,
+        0.0010626570413896797,
+        0.0010626570413896797,
+        0.0013014098571824265
+      ],
+      "P_per_step": [
+        4.4928301572743437e-07,
+        0.0010620926213418883,
+        0.0010620926213418883,
+        0.0013005633906140385
+      ],
+      "P_per_implantation": 6.591379387740501e-16,
+      "log10_P_per_implantation": -15.181023690444443,
+      "n_b": 8.733577688756179e-09,
+      "log10_n_b": -8.058807812171615,
+      "observed_chains": 1,
+      "P_at_least_observed_chains": 8.733577650618482e-09,
+      "log10_P_at_least_observed_chains": -8.058807814068087,
+      "meaning": "选定起始事件后，按每步重启的窗口取至少一次概率的乘积；不是在单个总窗中恰好出现若干事件"
+    },
+    "GSI_fixed_no_intervening_events": {
+      "mode": "fixed",
+      "mean_equation": 5,
+      "measurement_time_s": 2358720.0,
+      "rates_hz": [
+        5.617453534120201,
+        0.02760395468728802,
+        0.06528964862298195,
+        0.07995862162528829
+      ],
+      "windows_s": [
+        0.1,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "observed_chains": 1,
+      "position_bins": 6144,
+      "sequence": [
+        0,
+        1,
+        2,
+        2,
+        3
+      ],
+      "occupancy": [
+        9.42432577971315e-05,
+        0.0942432577971315,
+        0.0942432577971315,
+        0.0942432577971315
+      ],
+      "n_b": 7.603332645121872e-09,
+      "log10_n_b": -8.118996008752937,
+      "n_b_low_rate": 8.748554819779819e-09,
+      "P_err": 7.603332616216536e-09,
+      "log10_P_err": -8.11899601040398,
+      "P_err_low_rate": 8.74855478151122e-09,
+      "log10_P_eq3": -8.118996008752937,
+      "warnings": []
+    },
+    "Lazarev_model_pair_counts": {
+      "method": "Lazarev",
+      "pair_counts": [
+        5.95300129567979,
+        69.18959996488208,
+        163.64918437401076,
+        200.4171180060937
+      ],
+      "intermediate_counts": [
+        65110.0,
+        154000.0,
+        154000.0
+      ],
+      "n_b": 8.748554819779819e-09,
+      "log10_n_b": -8.05806368247846,
+      "observed_chains": 1,
+      "P_at_least_observed_chains": 8.748554781511233e-09,
+      "log10_P_at_least_observed_chains": -8.058063684378183,
+      "meaning": "由偶然配对统计得到 n_b，再计算整个搜索中至少出现观测链数的泊松上尾概率",
+      "input_status": "各相邻配对数为率模型估计，尚未提供实测配对统计"
+    },
+    "Dubna_counts_with_all_sequential_time_gates": {
+      "n_b": 8.675002897851153e-09,
+      "log10_n_b": -8.061730371462673,
+      "observed_chains": 1,
+      "P_at_least_observed_chains": 8.675002860223319e-09,
+      "log10_P_at_least_observed_chains": -8.061730373346425,
+      "time_acceptance": 2.465846363055478e-05,
+      "model_definition": "ER 为锚；固定最大总跨度内恰好 A1、B2、SF1，并显式要求 ER-A-B-B-SF 顺序和全部相邻时间门；允许额外 ER，不允许额外 A/B/SF。属于对 Dubna 计数式添加时间选择的扩展。"
+    },
+    "Dubna_raw_counts_reference_not_matching_search": {
+      "method": "Dubna",
+      "counts": {
+        "categories": [
+          {
+            "name": "alpha1",
+            "mean": 0.0013482986330818907,
+            "count": 1,
+            "Q_exact": 0.0013464819488695542,
+            "log10_Q_exact": -2.87079946442766
+          },
+          {
+            "name": "alpha23",
+            "mean": 0.0031890337812104305,
+            "count": 2,
+            "Q_exact": 5.068777922830079e-06,
+            "log10_Q_exact": -5.295096736001342
+          },
+          {
+            "name": "SF",
+            "mean": 0.0039055309814044624,
+            "count": 1,
+            "Q_exact": 0.0038903075562874275,
+            "log10_Q_exact": -2.4100160632710685
+          }
+        ],
+        "P_exact_configuration": 2.6551419003516005e-11,
+        "log10_P_exact_configuration": -10.57591226370007,
+        "meaning": "各类独立背景在固定窗内恰好出现指定个数的联合概率；以终端事件为条件时不再乘终端事件概率"
+      }
+    },
+    "MonteCarlo": {
+      "status": "missing_event_list_or_insertion_statistics"
+    },
+    "assumptions": [
+      "所有计数共用 655.2 h 全探测器曝光，6144 个均匀位置单元",
+      "ER、alpha1、alpha23、SF 为互不重叠背景类别，alpha23 在链中使用两次",
+      "固定背景率估计，不传播本底计数的统计不确定度",
+      "至少一条概率为将 n_b 代入泊松链数分布的结果，不是链为假的后验概率"
+    ]
+  },
+  "194": {
+    "inputs": {
+      "Berkeley": {
+        "description": "用户参数：ER-alpha1-alpha2-alpha3-SF；SF-like 全实验总计数改为 194，alpha3 到 SF 搜索窗为 100 s。",
+        "model": "sequential",
+        "step_background_counts": [
+          65110,
+          154000,
+          154000,
+          194
+        ],
+        "background_time_s": 2358720,
+        "position_bins": 6144,
+        "step_windows_s": [
+          0.1,
+          100,
+          100,
+          100
+        ],
+        "implantations": 13250000,
+        "observed_chains": 1
+      },
+      "GSI": {
+        "mode": "fixed",
+        "background_counts": [
+          13250000,
+          65110,
+          154000,
+          194
+        ],
+        "measurement_time_s": 2358720,
+        "position_bins": 6144,
+        "sequence": [
+          0,
+          1,
+          2,
+          2,
+          3
+        ],
+        "windows_s": [
+          0.1,
+          100,
+          100,
+          100
+        ],
+        "observed_chains": 1
+      },
+      "Lazarev": {
+        "pair_counts": [
+          5.95300129567979,
+          69.18959996488208,
+          163.64918437401076,
+          0.20615546602959794
+        ],
+        "intermediate_counts": [
+          65110,
+          154000,
+          154000
+        ],
+        "observed_chains": 1
+      },
+      "Dubna_raw_counts": {
+        "counts": {
+          "window_s": 300.1,
+          "categories": [
+            {
+              "name": "alpha1",
+              "rate_hz": 4.492831166550785e-06,
+              "count": 1
+            },
+            {
+              "name": "alpha23",
+              "rate_hz": 1.0626570413896802e-05,
+              "count": 2
+            },
+            {
+              "name": "SF",
+              "rate_hz": 1.3386718573350518e-08,
+              "count": 1
+            }
+          ]
+        }
+      }
+    },
+    "Berkeley_sequential": {
+      "method": "Berkeley",
+      "model": "sequential",
+      "step_rates_hz": [
+        0.02760395468728802,
+        0.06528964862298195,
+        0.06528964862298195,
+        8.224799891466558e-05
+      ],
+      "step_windows_s": [
+        0.1,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "mu_per_step": [
+        4.4928311665507864e-07,
+        0.0010626570413896797,
+        0.0010626570413896797,
+        1.338671857335051e-06
+      ],
+      "P_per_step": [
+        4.4928301572743437e-07,
+        0.0010620926213418883,
+        0.0010620926213418883,
+        1.3386709613142795e-06
+      ],
+      "P_per_implantation": 6.784512192987188e-19,
+      "log10_P_per_implantation": -18.168481372692497,
+      "n_b": 8.98947865570804e-12,
+      "log10_n_b": -11.04626549441967,
+      "observed_chains": 1,
+      "P_at_least_observed_chains": 8.989478655667639e-12,
+      "log10_P_at_least_observed_chains": -11.046265494421622,
+      "meaning": "选定起始事件后，按每步重启的窗口取至少一次概率的乘积；不是在单个总窗中恰好出现若干事件"
+    },
+    "GSI_fixed_no_intervening_events": {
+      "mode": "fixed",
+      "mean_equation": 5,
+      "measurement_time_s": 2358720.0,
+      "rates_hz": [
+        5.617453534120201,
+        0.02760395468728802,
+        0.06528964862298195,
+        8.224799891466558e-05
+      ],
+      "windows_s": [
+        0.1,
+        100.0,
+        100.0,
+        100.0
+      ],
+      "observed_chains": 1,
+      "position_bins": 6144,
+      "sequence": [
+        0,
+        1,
+        2,
+        2,
+        3
+      ],
+      "occupancy": [
+        9.294318661180642e-05,
+        0.09294318661180641,
+        0.09294318661180641,
+        0.09294318661180641
+      ],
+      "n_b": 7.836064942501355e-12,
+      "log10_n_b": -11.105901973385173,
+      "n_b_low_rate": 8.999043664036476e-12,
+      "P_err": 7.836064942470642e-12,
+      "log10_P_err": -11.105901973386874,
+      "P_err_low_rate": 8.999043663995985e-12,
+      "log10_P_eq3": -11.105901973385173,
+      "warnings": []
+    },
+    "Lazarev_model_pair_counts": {
+      "method": "Lazarev",
+      "pair_counts": [
+        5.95300129567979,
+        69.18959996488208,
+        163.64918437401076,
+        0.20615546602959794
+      ],
+      "intermediate_counts": [
+        65110.0,
+        154000.0,
+        154000.0
+      ],
+      "n_b": 8.999043664036507e-12,
+      "log10_n_b": -11.045803640949543,
+      "observed_chains": 1,
+      "P_at_least_observed_chains": 8.999043663996032e-12,
+      "log10_P_at_least_observed_chains": -11.045803640951496,
+      "meaning": "由偶然配对统计得到 n_b，再计算整个搜索中至少出现观测链数的泊松上尾概率",
+      "input_status": "各相邻配对数为率模型估计，尚未提供实测配对统计"
+    },
+    "Dubna_counts_with_all_sequential_time_gates": {
+      "n_b": 8.958268516357926e-12,
+      "log10_n_b": -11.04777592409441,
+      "observed_chains": 1,
+      "P_at_least_observed_chains": 8.958268516317793e-12,
+      "log10_P_at_least_observed_chains": -11.047775924096355,
+      "time_acceptance": 2.465846363055478e-05,
+      "model_definition": "ER 为锚；固定最大总跨度内恰好 A1、B2、SF1，并显式要求 ER-A-B-B-SF 顺序和全部相邻时间门；允许额外 ER，不允许额外 A/B/SF。属于对 Dubna 计数式添加时间选择的扩展。"
+    },
+    "Dubna_raw_counts_reference_not_matching_search": {
+      "method": "Dubna",
+      "counts": {
+        "categories": [
+          {
+            "name": "alpha1",
+            "mean": 0.0013482986330818907,
+            "count": 1,
+            "Q_exact": 0.0013464819488695542,
+            "log10_Q_exact": -2.87079946442766
+          },
+          {
+            "name": "alpha23",
+            "mean": 0.0031890337812104305,
+            "count": 2,
+            "Q_exact": 5.068777922830079e-06,
+            "log10_Q_exact": -5.295096736001342
+          },
+          {
+            "name": "SF",
+            "mean": 4.0173542438624904e-06,
+            "count": 1,
+            "Q_exact": 4.017338104759789e-06,
+            "log10_Q_exact": -5.396061615902806
+          }
+        ],
+        "P_exact_configuration": 2.741840478033082e-14,
+        "log10_P_exact_configuration": -13.561957816331807,
+        "meaning": "各类独立背景在固定窗内恰好出现指定个数的联合概率；以终端事件为条件时不再乘终端事件概率"
+      }
+    },
+    "MonteCarlo": {
+      "status": "missing_event_list_or_insertion_statistics"
+    },
+    "assumptions": [
+      "所有计数共用 655.2 h 全探测器曝光，6144 个均匀位置单元",
+      "ER、alpha1、alpha23、SF 为互不重叠背景类别，alpha23 在链中使用两次",
+      "固定背景率估计，不传播本底计数的统计不确定度",
+      "至少一条概率为将 n_b 代入泊松链数分布的结果，不是链为假的后验概率"
+    ]
+  }
+}

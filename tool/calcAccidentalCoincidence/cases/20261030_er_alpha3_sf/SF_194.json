@@ -1,0 +1,10 @@
+{
+  "description": "用户参数：ER-alpha1-alpha2-alpha3-SF；SF-like 全实验总计数改为 194，alpha3 到 SF 搜索窗为 100 s。",
+  "model": "sequential",
+  "step_background_counts": [65110, 154000, 154000, 194],
+  "background_time_s": 2358720,
+  "position_bins": 6144,
+  "step_windows_s": [0.1, 100, 100, 100],
+  "implantations": 13250000,
+  "observed_chains": 1
+}
