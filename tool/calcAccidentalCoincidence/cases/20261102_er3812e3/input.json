@@ -1,0 +1,13 @@
+{
+  "description": "本次明确使用 ER=3812000、alpha1=61470、alpha2/3=148200、SF=188600；保留原有效曝光与相邻窗口。",
+  "measurement_time_s": 2358720,
+  "position_bins": 6144,
+  "background_counts": {
+    "ER": 3812000,
+    "alpha1": 61470,
+    "alpha23": 148200,
+    "SF": 188600
+  },
+  "step_windows_s": [0.1, 100, 100, 100],
+  "observed_chains": 1
+}

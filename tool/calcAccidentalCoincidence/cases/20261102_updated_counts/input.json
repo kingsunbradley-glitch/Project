@@ -1,0 +1,13 @@
+{
+  "description": "用户更新计数；ER 原文为 2..982e6，按小数点笔误解释为 2.982e6。",
+  "measurement_time_s": 2358720,
+  "position_bins": 6144,
+  "background_counts": {
+    "ER": 2982000,
+    "alpha1": 61470,
+    "alpha23": 148200,
+    "SF": 188600
+  },
+  "step_windows_s": [0.1, 100, 100, 100],
+  "observed_chains": 1
+}
