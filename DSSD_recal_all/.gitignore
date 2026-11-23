@@ -1,0 +1,4 @@
+# make sync-setup 生成的状态文件（setup.h 本身要不要入库由你决定）
+.setup_state
+setup_stamp.txt
+MyConfig.h

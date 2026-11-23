@@ -21,6 +21,28 @@ import numpy as np
 
 
 HERE = Path(__file__).resolve().parent
+
+# 用户配置区
+CALCULATION_CSV = HERE / "ExFunCalc.csv"
+# 道、剩余核、Elab (MeV)、E* (MeV)、截面 (pb)、截面下/上误差 (pb)、
+# 类型、靶厚 (mg/cm²)、束流剂量 (10^19)、E* 下/上误差 (MeV)。
+# 上限的截面误差填 None。E* 误差用于 Origin 风格图。
+EXPERIMENTAL_POINTS = (
+    ("4n", "274Ds", 225, 50, 0.15, None, None, "upper_limit", "0.47|0.60", "2.28|2.96", 1, 1),
+    ("5n", "273Ds", 225, 50, 0.14, 0.08, 0.18, "measurement", "0.47|0.60", "2.28|2.96", 1, 1.2),
+    ("4n", "274Ds", 220, 45, 1.1, None, None, "upper_limit", "0.47", "0.817", 1, 1),
+    ("5n", "273Ds", 220, 45, 1.1, None, None, "upper_limit", "0.47", "0.817", 1, 1),
+    ("4n", "274Ds", 217, 42, 0.34, None, None, "upper_limit", "0.60", "2.04", 1, 1),
+    ("5n", "273Ds", 217, 42, 0.34, None, None, "upper_limit", "0.60", "2.04", 1, 1),
+)
+ORIGIN_HIDDEN_UPPER_LIMIT = ("4n", 50)  # 道、E* (MeV)
+# 用户配置区结束
+
+EXPERIMENTAL_COLUMNS = (
+    "channel", "residue", "E_lab_MeV", "E_star_MeV", "sigma_pb", "err_minus_pb",
+    "err_plus_pb", "kind", "target_thickness_mg_cm2", "beam_dose_1e19",
+    "E_star_err_minus_MeV", "E_star_err_plus_MeV",
+)
 CHANNELS = {
     "275Ds": {"channel": "3n", "color": "#666666", "style": "-."},
     "274Ds": {"channel": "4n", "color": "#0072B2", "style": "--"},
@@ -49,9 +71,16 @@ def read_calculation(path):
     return data
 
 
-def read_experiment(path):
-    with path.open(encoding="utf-8", newline="") as stream:
-        rows = list(csv.DictReader(stream))
+def configured_experimental_rows():
+    return [dict(zip(EXPERIMENTAL_COLUMNS, point, strict=True)) for point in EXPERIMENTAL_POINTS]
+
+
+def read_experiment(path=None):
+    if path is None:
+        rows = configured_experimental_rows()
+    else:
+        with path.open(encoding="utf-8", newline="") as stream:
+            rows = list(csv.DictReader(stream))
     seen = set()
     for row in rows:
         for key in ("E_lab_MeV", "E_star_MeV", "sigma_pb"):
@@ -219,8 +248,8 @@ def run_audit(script, args, destination):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--calculation", type=Path, default=HERE / "ExFunCalc.csv")
-    parser.add_argument("--experiment", type=Path, default=HERE / "experimental_data.csv")
+    parser.add_argument("--calculation", type=Path, default=CALCULATION_CSV)
+    parser.add_argument("--experiment", type=Path, help="override the default experimental points with a CSV file")
     parser.add_argument("--output-dir", type=Path, default=HERE / "figures")
     parser.add_argument("--skill-dir", type=Path)
     args = parser.parse_args()

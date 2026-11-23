@@ -1,7 +1,9 @@
 # DSSD 归一化与刻度程序使用说明（README）
 
 > 本说明文档介绍整套 DSSD 处理流程：**Step 0 预筛选 → Step 1 归一化 → Step 2 绝对刻度（内源刻度）与诊断**，以及相关配置、输入输出文件和常见问题。  
-> 可以直接把本段内容作为工程的 README 或任务说明书使用。
+> 可以直接把本段内容作为工程的 README 或任务说明书使用。  
+> **日常操作请先看 [使用说明.md](使用说明.md)**：那里是"怎么用"（命令、配置、日志速查、
+> 常见任务），本文侧重"为什么这样实现"（算法、代码位置、数据结构）。
 
 ---
 
@@ -60,9 +62,13 @@
 
 ---
 
+> 本机路径/run 范围请写在 `MyConfig.h`（见 `MyConfig.h.example`），不要改 `Config.h`。
+
 ## 3. 配置文件 `Config.h`
 
 所有关键参数都集中在 `Config.h` 中，需要根据实际实验环境进行一次性修改。
+道号区间和最终刻度文件名不在这里定义，而是从 ANA_SHANS2 的共享 `setup.h` 推导
+（见 3.3）；绝对刻度用的峰从运行期文件 `ref_peaks.txt` 读取（见 3.4）。
 
 ### 3.1 线程与输入文件
 
@@ -107,17 +113,58 @@
 
 可根据工程目录结构进行适当修改。
 
-### 3.3 通道定义与归一化参数
+### 3.3 通道定义：直接吃 ANA 共享 `setup.h`
 
-示意：
-``` C++
-    #define TOTAL_CH 224
+本程序不再自己维护道号区间，而是从 `root2root` / `Cal_Auto_*` 那一套共享的
+`setup.h` 推导（`Config.h` 第 0 节）。`Config.h` 用 `__has_include("setup.h")`
+判断能否找到它，搜索路径由 makefile 的 `ANA_SETUP_DIR` 提供：
 
-    inline constexpr int NUM_DSSDX_POS = 128; // X 面条数：0–127
-    inline constexpr int NUM_DSSDY_POS = 48;  // Y 面条数：128–175
-    // YH 面：176–223
+``` make
+ANA_SETUP_DIR ?= /path/to/ANA_SHANS2_202602_v1.07.4/Cal_Auto_All_202412/Cal_Auto_DSSD_Normalize
+CXXFLAGS  += -I$(ANA_SETUP_DIR)
 ```
-归一化时使用的能量范围及条件：
+
+拿到 `setup.h` 有两种方式，编译出来的数值完全一样，区别只在"谁是唯一真相"：
+
+| 方式 | 怎么做 | 实际生效的文件 | 适用场景 |
+| --- | --- | --- | --- |
+| A 直接引用（默认） | 什么都不用做 | `-I $(ANA_SETUP_DIR)` 指向的共享文件 | 共享文件就在本机；希望上游一改，下次 make 自动跟上 |
+| B 本地快照 | `make sync-setup` | 本目录下的 `./setup.h` 副本 | 与 ANA 其它程序"每个程序目录各带一份"的约定一致；打包或换机器时不必带路径 |
+
+- B 方式会同时写下 `setup_stamp.txt`（源路径、md5、拷贝时间）。程序启动日志会把
+  这份快照的来源和时间打出来，避免"以为在跑新版，其实是三个月前的副本"。
+- `make unsync-setup` 删除本地副本，回到 A 方式。
+- makefile 用 `.setup_state` 记录"当前生效的是哪一份、md5 是多少"。**切换模式、
+  或上游 `setup.h` 内容变了，都会自动触发重编**，不会静默沿用旧的目标文件。
+
+能找到时采用 `setup.h` 的 `DSSD_X_CH_LOW/HIGH`、`DSSD_Y_CH_LOW/HIGH`、
+`DSSD_YH_CH_LOW/HIGH` 和 `RECONVERT_CALIBRATION_FILENAME`；找不到时退回
+`Config.h` 里的内置兜底值（数值与 2026-07 版 `setup.h` 一致）。两种情况都会在
+启动日志第一行说明，例如：
+
+``` text
+# 方式 A
+--> [setup.h] 已加载 ANA 共享 setup.h
+    DSSD X 0-127, Y 128-175, YH 176-223 (共 224 道)
+
+# 方式 B
+--> [setup.h] 本地快照 ./setup.h（快照于 2026-11-13 17:20:31 CST），源: /.../Cal_Auto_DSSD_Normalize/setup.h
+    DSSD X 0-127, Y 128-175, YH 176-223 (共 224 道)
+```
+
+由 `setup.h` 派生的常量（全部是 `constexpr`，不要在别处另写数字）：
+
+| 常量 | 含义 | 当前值 |
+| --- | --- | --- |
+| `CH_BASE_X` / `CH_BASE_Y` / `CH_BASE_YH` | 三个面在全局道里的起点 | 0 / 128 / 176 |
+| `NUM_DSSDX_POS` / `NUM_DSSDY_POS` / `NUM_DSSDYH_POS` | 每个面的条数 | 128 / 48 / 48 |
+| `TOTAL_DSSD_CH` | 三个面的全局道上界，也是输出表的行数 | 224 |
+| `OUTPUT_DAT_FILE` | 最终刻度文件名，取 `RECONVERT_CALIBRATION_FILENAME` | `ener_cal_Recal.dat` |
+
+注意 `TOTAL_DSSD_CH` 不能叫 `TOTAL_CH`：共享 `setup.h` 里的 `TOTAL_CH` 是整个
+DAQ 的道数（39 板 × 8 道 = 312），同名会冲突。
+
+归一化本身用的能量范围与条件仍然写在本文件里：
 ``` C++
     inline constexpr double NORM_MIN_E = 4000.0;
     inline constexpr double NORM_MAX_E = 14000.0;
@@ -133,38 +180,50 @@
 说明：
 
 - `NORM_MIN_E` / `NORM_MAX_E`：归一化选用的能量范围。
-- `NORM_E_DIFF`：归一化时要求 X/Y 能量差的最大允许值。
+- `NORM_E_DIFF`：归一化时要求 X/Y 能量差的最大允许值。注意这一刀切在"待测量的
+  残差"上，实测同一条的 `E_Y-E_X` 展宽约 28 keV（rms），±200 keV 相当 7σ，
+  几乎不切事件，但概念上仍应尽量宽（或改成不切）。
 - `NORM_MIN_ENTRIES`：每条进行归一化拟合所需的最小统计量。
 - `NORM_REF_MIN_COUNTS`：作为参考条所需的最小 hit 数。
 - 若未显式指定 `REF_STRIP_X` / `REF_STRIP_Y`，则自动选取统计量最大的条作为参考条。
 - 建议X面不选择39 89附近的，在Veto峰中有没有筛选干净的信号
 - XY尽量选择FWHM比较好的条，可以尝试运行make Cali查看每一条的FWHM。
 
-### 3.4 平面绝对刻度峰与诊断峰
+### 3.4 参考峰表 `ref_peaks.txt`（运行期读取）
 
-示意定义：
-``` C++
-    struct PeakDef {
-        double energy;   // keV
-        double window;   // keV
-    };
+绝对刻度用的峰不再写死在代码里，而是放在程序目录下的 `ref_peaks.txt`：换实验
+只改这个文件，不用重新编译。格式是 `能量 keV  搜索半窗 keV`，用 `[节名]` 分组：
 
-    inline const std::vector<PeakDef> REF_PEAKS = {
-        {6113, 50.0},//242Cm
-        {7686, 50.0},//214Po
-        {8784, 50.0}//212Po
-    };
+``` text
+[ref]                     # 参与平面 (K,B) 拟合
+8783.0   30.0
+7065.0   30.0
+7128.0   30.0
 
-    inline const std::vector<PeakDef> DIAG_PEAKS = {
-        {6113, 40.0},//242Cm
-        {7686, 40.0},//214Po
-        {5307, 40.0}//212Po
-    };
+[diag]                    # 只做刻度后验收，不参与拟合
+6113.0   40.0
+7686.0   40.0
+5304.0   40.0
+
+[strip]                   # 逐条 FWHM / dE 两列用的峰（可省）
+6113.0  100.0
 ```
-说明：
 
-- `REF_PEAKS`：用于 X/Y/YH 三个平面的整体绝对刻度。
-- `DIAG_PEAKS`：用于刻度后诊断，统计峰位偏差 RMS 和最大 FWHM。
+- `[ref]`：`CalibratePlane()` 用它做 `pol1` 拟合。至少要 `REF_MIN_POINTS`（2）
+  个峰被成功定位，否则直线都定不出来（日志 `[FALLBACK]`），该面沿用 X 面
+  （`[INHERIT]`）。跨度、点数、残差、K/B 偏离只影响日志里的 `[WARN]`，**不否决
+  拟合结果**——本程序也可能处理未做外刻度的原始 ADC，那时 K/B 本来就该偏离 1/0。
+- `[diag]`：6113 / 7686 / 5304 三条 α 线故意留在拟合之外，这样它们对刻度是
+  独立检验而不是自我实现；残差写进 `peaks_list.txt` 的对应段。
+- `[strip]`：逐条一致性检查的峰，缺省时用 `Config.h` 的 `target_E` / `fit_win`。
+- 文件缺失或某个节解析为空时，退回 `Config.h` 里 `REF_PEAKS_DEFAULT` /
+  `DIAG_PEAKS_DEFAULT` 的同样数值，并打印 `[WARN]`，不会静默。
+- 启动日志会把实际读到的峰逐条列出（`ref ... (窗 ±60 keV)`），跑完先看这一段。
+
+峰间隔决定斜率精度：两点相隔 Δ 时增益误差约 `sqrt(2)*dE/Δ`。当前这组参考峰里
+7065 与 7128 只差 63 keV，而谱线 FWHM 已 30 keV 量级，这一对点单独没有杠杆
+（实测局域增益比全局值低 3.2%），是 6 MeV 处约 ±9 keV 系统误差的来源；日志里
+对这种情况打印 `[WARN] 相邻参考峰 ... 的局域增益`。
 
 ### 3.5 总谱直方图参数与本底扣除
 
@@ -222,6 +281,15 @@
     make clean
 ``` 
 这样可以简化日常编译过程。
+
+`ANA_SETUP_DIR` 默认指向本机 ANA_SHANS2 的 `Cal_Auto_DSSD_Normalize` 目录；
+换机器或换版本时在命令行覆盖即可，不需要改文件：
+
+``` shell
+    make ANA_SETUP_DIR=/path/to/Cal_Auto_DSSD_Normalize
+    make sync-setup      # 把共享 setup.h 快照到本目录（与 ANA 其它程序一致）
+    make unsync-setup    # 撤销快照，恢复 -I 直接读取
+```
 
 ---
 
@@ -439,24 +507,45 @@
 
 ### 8.4 输出 `ener_cal_Recal.dat` 格式示意
 
-    # Ch     b_total       k_total       FWHM       PlaneRMS
-    0        b0            k0            fwhm0      rms_X
-    1        b1            k1            fwhm1      rms_X
+    0        b0            k0            fwhm0      dE0
+    1        b1            k1            fwhm1      dE1
     ...
-    127      b127          k127          fwhm127    rms_X
-    128      b128          k128          fwhm128    rms_Y
+    127      b127          k127          fwhm127    dE127
+    128      b128          k128          fwhm128    dE128
     ...
-    175      b175          k175          fwhm175    rms_Y
-    176      b176          k176          fwhm176    rms_YH
+    175      b175          k175          fwhm175    dE175
+    176      b176          k176          fwhm176    dE176
     ...
-    223      b223          k223          fwhm223    rms_YH
+    223      b223          k223          fwhm223    dE223
+    # ------------------------------------------------------------
+    # 列: Ch  b(截距,keV)  k(斜率)  FWHM(keV)  dE_6113(keV)
+    # X  (0-128): K=...  B=...  [本面拟合: 3 点, 跨度 ..., 残差 rms ...]
+    ...
 
 说明：
 
+- 文件第一行起就是 224 行数据，表头与平面小结放在末尾的 `#` 注释里。
+  这是为了配合 root2root 的 `Read_Par_From_File()`：它用
+  `sscanf(line,"%d\t%lf\t%lf",&ch,&par[0],&par[1])` 逐行读且**不检查返回值**，
+  表头若出现在第一行，解析失败时 `ch`/`par` 还是未初始化的栈内容，可能写坏任意
+  一个道；把数据放最前面，后面 `#` 行解析失败时只会把第 223 道的值原地重写一次。
 - `b_total`, `k_total`：该条最终能量刻度系数，可用于后续分析中将 ADC 转换为 keV：
   - `E_cal = k_total * ADC + b_total`
-- `FWHM`：该条诊断峰（通常为 6113 keV）拟合得到的 FWHM。
-- `PlaneRMS`：该条所属平面诊断峰峰位偏差的 RMS，平面内各条相同。
+- `FWHM`：该条诊断峰（通常为 6113 keV）拟合得到的 FWHM；0 表示该条没测到峰。
+- `dE_6113`：该条 6113 keV 峰位相对标称值的偏差（keV）；0 表示没测到峰。
+  它代替了旧版的平面级 `PlaneRMS`——后者是平面常数，逐条重复写 224 行没有信息量。
+
+平面刻度的质量控制（`Config.h` 的 5b 段）：
+
+- 参考峰去重：两个参考点认到同一个物理峰（间距小于 `REF_DUP_SIGMA` 倍 sigma）时，
+  后一个被丢弃。7065 与 7128 只隔 63 keV，在 YH 这种 FWHM 40 keV 量级的谱上
+  会双双落到同一个峰，三点拟合退化成两点。
+- 只有两种情况弃用拟合结果：能定位的参考峰少于 `REF_MIN_POINTS`（2 个），
+  或拟合给出非物理的 `K<=0` / 非有限值。其余全部只报警告、结果照用：
+  `REF_GOOD_POINTS`（少于 3 点没有冗余）、`REF_WARN_SPAN_KEV`（杠杆不足）、
+  `REF_WARN_RESID`（残差大）、`REF_WARN_K_TOL` / `REF_WARN_B_TOL`（K/B 偏离 1/0）。
+  之所以不硬性否决：本程序同样用于处理**未做外刻度的原始 ADC**，那种输入下
+  `K/B` 偏离 (1,0) 是正确的，不是错误。
 
 ### 8.5 运行方式
 

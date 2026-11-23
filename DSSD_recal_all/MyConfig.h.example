@@ -1,0 +1,32 @@
+// ============================================================================
+//  MyConfig.h —— 本机专属设置（模板）
+//
+//  用法：cp MyConfig.h.example MyConfig.h，然后只改 MyConfig.h。
+//  这样以后升级程序时，直接覆盖 Config.h / *.cpp / *.h，本地设置不会被冲掉。
+//  MyConfig.h 不存在时，程序用 Config.h 里的默认值，行为与以前完全一致。
+//
+//  注意：这里用的是宏，不是 constexpr 变量；只写下面这些 MY_* 宏即可。
+// ============================================================================
+
+// [必改] 输入文件模板。%05d 会被替换成 run 号（run 2 -> SS03200002_map.root）
+#ifndef MY_INPUT_DIR_PATTERN
+#define MY_INPUT_DIR_PATTERN "/home/sunzr/SS032/data/1111/SS032%05d_map.root"
+#endif
+
+// [必改] 运行号范围（含两端）。RUN_END 必须 >= 目录里实际最大的 run，
+//        设小了不会报错，只会静默少读数据。
+#ifndef MY_RUN_START
+#define MY_RUN_START 2
+#endif
+#ifndef MY_RUN_END
+#define MY_RUN_END 20
+#endif
+
+// [按需] Step 1 的能量窗与两面对照窗（keV，或已刻度前的 ADC 道）
+// #define MY_NORM_MIN_E   4000.0
+// #define MY_NORM_MAX_E   14000.0
+// #define MY_NORM_E_DIFF  200.0
+
+// [按需] 归一化参考条：选计数最高、且不在 Veto 缝隙上的条
+// #define REF_STRIP_X 10
+// #define REF_STRIP_Y 23

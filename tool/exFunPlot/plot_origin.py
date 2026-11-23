@@ -8,9 +8,16 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib import font_manager
 from matplotlib.ticker import MultipleLocator, LogLocator, NullFormatter
-from plot_excitation_functions import read_calculation, clip_log_polyline
+from plot_excitation_functions import (
+    CALCULATION_CSV, EXPERIMENTAL_COLUMNS, ORIGIN_HIDDEN_UPPER_LIMIT,
+    clip_log_polyline, configured_experimental_rows, read_calculation,
+)
 
 HERE = Path(__file__).resolve().parent
+
+# 用户配置区。实验点和误差见 plot_excitation_functions.py 的 EXPERIMENTAL_POINTS。
+BASS_ENERGY_MEV = 43.8  # 实验报告图 3
+
 # 加载真正的 Times New Roman，避免字体回退。
 for name in ('times.ttf','timesi.ttf','timesbd.ttf','timesbi.ttf'):
     font_manager.fontManager.addfont('/mnt/c/Windows/Fonts/'+name)
@@ -20,14 +27,10 @@ plt.rcParams.update({'font.family':'serif','font.serif':['Times New Roman'],
     'font.size':13,'font.weight':'bold','axes.labelsize':16,'axes.labelweight':'bold',
     'axes.linewidth':.8,'xtick.direction':'in','ytick.direction':'in',
     'xtick.top':True,'ytick.right':True,'pdf.fonttype':42,'svg.fonttype':'none'})
-data = read_calculation(HERE/'ExFunCalc.csv')
-with (HERE/'experimental_data.csv').open(newline='',encoding='utf-8') as f:
-    rows = list(csv.DictReader(f))
-for row in rows:
-    row['E_star_err_minus_MeV'] = '1'
-    row['E_star_err_plus_MeV'] = '1.2' if row['kind']=='measurement' else '1'
+data = read_calculation(CALCULATION_CSV)
+rows = configured_experimental_rows()
 with (HERE/'experimental_data_with_energy_errors.csv').open('w',newline='',encoding='utf-8') as f:
-    writer=csv.DictWriter(f,fieldnames=list(rows[0]))
+    writer=csv.DictWriter(f,fieldnames=EXPERIMENTAL_COLUMNS)
     writer.writeheader(); writer.writerows(rows)
 fig,ax=plt.subplots(figsize=(190/25.4,120/25.4))
 fig.subplots_adjust(left=.12,right=.975,bottom=.17,top=.965)
@@ -35,16 +38,16 @@ ax.set(xlim=(30,70),ylim=(1.1e-3,3),yscale='log')
 for isotope,color,style,label in [('274Ds','#000000','--',r'$4n$: $^{274}$Ds (calc.)'),('273Ds','#D32F2F','-',r'$5n$: $^{273}$Ds (calc.)')]:
     x,y=clip_log_polyline(data['E*'],data[isotope],ax.get_xlim(),ax.get_ylim())
     ax.plot(x,y,color=color,linestyle=style,lw=1.2,label=label)
-# 两个道在 42、45 MeV 的上限及能量误差完全相同：共用黑色符号，能量不偏移。
+# 两个道的上限及能量误差相同时，共用黑色符号。
 seen=set()
+hidden_channel, hidden_energy = ORIGIN_HIDDEN_UPPER_LIMIT
 for row in rows:
     x,y=float(row['E_star_MeV']),float(row['sigma_pb'])
     xe=np.array([[float(row['E_star_err_minus_MeV'])],[float(row['E_star_err_plus_MeV'])]])
     if row['kind']=='upper_limit':
-        # 按用户要求，不显示 50 MeV 的 4n 上限；原始实验数据仍保留。
-        if row['channel']=='4n' and np.isclose(x,50):
+        if row['channel'] == hidden_channel and np.isclose(x, hidden_energy):
             continue
-        key=(x,y)
+        key = (x, y, *xe.ravel())
         if key in seen: continue
         seen.add(key)
         color='#000000'
@@ -55,10 +58,9 @@ for row in rows:
     else:
         ax.errorbar(x,y,xerr=xe,yerr=[[float(row['err_minus_pb'])],[float(row['err_plus_pb'])]],fmt='o',color='#D32F2F',ms=4.5,capsize=3,elinewidth=1.0,zorder=5)
 # 用户指定的势垒位置；箭头是能量标记，不代表截面测量。
-# VBass = 43.8 MeV，来自实验报告的图 3。
-ax.annotate('', xy=(43.8, 1.22e-3), xytext=(43.8, 2.8e-3),
+ax.annotate('', xy=(BASS_ENERGY_MEV, 1.22e-3), xytext=(BASS_ENERGY_MEV, 2.8e-3),
             arrowprops=dict(arrowstyle='-|>', color='black', lw=1.4, mutation_scale=12))
-ax.text(44.3, 2.65e-3, r'$V_{\mathrm{BASS}}$', fontsize=16, fontweight='bold', va='center')
+ax.text(BASS_ENERGY_MEV + 0.5, 2.65e-3, r'$V_{\mathrm{BASS}}$', fontsize=16, fontweight='bold', va='center')
 ax.text(36.3, 0.18, '4n', fontsize=17, fontweight='bold', color='black')
 ax.text(54.2, 0.16, '5n', fontsize=17, fontweight='bold', color='#D32F2F')
 ax.set_xlabel(r'Excitation energy $E^{*}$ (MeV)')
