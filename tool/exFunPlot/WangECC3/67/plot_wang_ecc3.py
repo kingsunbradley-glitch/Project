@@ -28,7 +28,7 @@ UPPER_LIMITS = (
     (45, 0.283, 0.85),
     (42, 0.095, 0.85),
 )
-BASS_E_STAR_MEV = 44.7
+BASS_E_STAR_MEV = 46.2 #178.7 calc by linse++
 # 用户配置区结束
 
 
