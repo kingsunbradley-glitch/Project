@@ -96,8 +96,40 @@ and with the well-known $\alpha$-decay lines of
 The reference $\alpha$-particle energies were adopted from
 the National Nuclear Data Center (NNDC) NuDat database
 \cite{NNDCNuDat}.
-For the cross-section evaluation, the separator transmission efficiency was estimated to be 20\% following the simulation procedure of Ref.~\cite{zhang2026MonteCarloSimulation}.The experimental conditions and the measured cross sections are summarized in Table~\ref{tab:cross_sections}.
+% For the cross-section evaluation, the separator transmission efficiency was estimated to be 20\% following the simulation procedure of Ref.~\cite{zhang2026MonteCarloSimulation}.The experimental conditions and the measured cross sections are summarized in Table~\ref{tab:cross_sections}.
+For the cross-section evaluation, the separator transmission efficiency was estimated to be 67(10)\% following the $^{48}\text{Ca} + ^{208}\text{Pb} $ measurement of Ref.~\cite{zhang2026TargetDetectionSystems}.The experimental conditions and the measured cross sections are summarized in Table~\ref{tab:cross_sections}.
 
+%%%%%%%%%%% simulation procedure of Ref.~\cite{zhang2026MonteCarloSimulation}
+%\begin{table}[htbp]
+% \centering
+% \captionsetup{font=small}
+% \caption{Target thicknesses of $^{238}$U, average projectile energies $\bar{E}_{\rm lab}$ at the middle of the target layers, corresponding average excitation energies $\bar{E}^{*}$ of the compound nucleus calculated from the mass tables of Refs.~\cite{myers1996NuclearPropertiesAccording,wang2021NUBASE2020EvaluationNuclear}, total beam doses, and measured cross sections $\sigma$ or upper limits for the $4n$ and $5n$ evaporation channels in the $^{40}$Ar + $^{238}$U reaction. Values separated by ``$|$'' correspond to measurements with two target thicknesses, and the beam doses are listed in the same order.}
+% \label{tab:cross_sections}
+% \begin{threeparttable}
+% \setlength{\tabcolsep}{3.5pt}
+% \renewcommand{\arraystretch}{1.08}
+% \small
+% \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}cccccc@{}}
+% \toprule
+% \makecell[c]{Target thickness\\(mg/cm$^{2}$)} &
+% \makecell[c]{$\bar{E}_{\rm lab}$\tnote{a}\\(MeV)} &
+% \makecell[c]{$\bar{E}^{*}_{\mathrm{CN}}$\\(MeV)} &
+% \makecell[c]{Beam dose\\($\times 10^{19}$)} &
+% \makecell[c]{$\sigma_{4n}$\\(pb)} &
+% \makecell[c]{$\sigma_{5n}$\\(pb)} \\
+% \midrule
+% $0.47\,|\,0.60$ & $225\,|\,227$ & 50 & $2.28\,|\,2.82$ & $<0.13$ & $0.14^{+0.19}_{-0.10}$ \\
+% 0.47 & 220 & 45 & 0.817 & $<1.1$ & $<1.1$ \\
+% 0.60 & 217 & 42 & 1.90 & $<0.32$ & $<0.32$ \\
+% \bottomrule
+% \end{tabular*}
+% \begin{tablenotes}[flushleft]
+% \footnotesize
+% \item[a] The systematic uncertainty of the beam energy is 1 MeV.
+% \end{tablenotes}
+% \end{threeparttable}
+% \end{table}
+%%%%%%%%%%% $^{48}\text{Ca} + ^{208}\text{Pb} $ measurement
 \begin{table}[htbp]
 \centering
 \captionsetup{font=small}
@@ -113,12 +145,12 @@ For the cross-section evaluation, the separator transmission efficiency was esti
 \makecell[c]{$\bar{E}_{\rm lab}$\tnote{a}\\(MeV)} &
 \makecell[c]{$\bar{E}^{*}_{\mathrm{CN}}$\\(MeV)} &
 \makecell[c]{Beam dose\\($\times 10^{19}$)} &
-\makecell[c]{$\sigma_{4n}$\\(pb)} &
-\makecell[c]{$\sigma_{5n}$\\(pb)} \\
+\makecell[c]{$\sigma_{4n}$\\(fb)} &
+\makecell[c]{$\sigma_{5n}$\\(fb)} \\
 \midrule
-$0.47\,|\,0.60$ & $225\,|\,227$ & 50 & $2.28\,|\,2.82$ & $<0.13$ & $0.14^{+0.19}_{-0.10}$ \\
-0.47 & 220 & 45 & 0.817 & $<1.1$ & $<1.1$ \\
-0.60 & 217 & 42 & 1.90 & $<0.32$ & $<0.32$ \\
+$0.47\,|\,0.60$ & $225\,|\,227$ & 50 & $2.28\,|\,2.82$ & $<40$ & $42^{+57}_{-29}$ \\
+0.47 & 220 & 45 & 0.817 & $<283$ & $<283$ \\
+0.60 & 217 & 42 & 1.90 & $<95$ & $<95$ \\
 \bottomrule
 \end{tabular*}
 \begin{tablenotes}[flushleft]
@@ -127,6 +159,7 @@ $0.47\,|\,0.60$ & $225\,|\,227$ & 50 & $2.28\,|\,2.82$ & $<0.13$ & $0.14^{+0.19}
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
+
 To interpret the observed decay pattern, configuration-constrained potential-energy-surface (PES) calculations were performed in the deformation space $(\beta_2,\beta_4,\beta_6)$. The nuclear surface is parameterized in terms of spherical harmonics, and the total energy is evaluated within the macroscopic--microscopic Strutinsky framework using a realistic phenomenological mean-field Hamiltonian~\cite{brack1972FunnyHillsShellCorrection,xu1998MultiquasiparticlePotentialenergySurfaces,meng2022LandscapeAppreciationSystematic}. In this approach, the total energy consists of a macroscopic contribution described by the standard liquid-drop model~\cite{myersNUCLEARMASSESDEFORMATIONS} and microscopic corrections arising from shell effects~\cite{strutinsky1967ShellEffectsNuclear} and pairing correlations. The single-particle levels are generated from a deformed Woods--Saxon potential with the universal parameter set~\cite{CWIOK1987379}, while pairing correlations are treated using the approximate particle-number-conserving Lipkin--Nogami method~\cite{PRADHAN1973357}, with the monopole pairing strengths $G$ determined from the average-gap prescription~\cite{MOLLER199220}. For each specified one-quasineutron configuration, the corresponding unpaired neutron orbital is continuously tracked and blocked over the entire deformation lattice. The potential-energy surface is then obtained by minimizing the energy with respect to deformation while maintaining the assigned quasiparticle configuration, thereby allowing deformation and pairing effects to be treated self-consistently for each configuration.
 
 \section{Results and discussion}
@@ -280,7 +313,7 @@ T\"urler \textit{et al.}~\cite{turlerNuclearStructureReaction2012} pointed out t
 %These labels do not necessarily imply the existence of two distinct nuclear states. 
 The event observed in the present work, with $E_\alpha=8.916(21)$ MeV and $\Delta t=9.363$ s, is assigned to $^{269}\mathrm{Hs}^{l}$ and represents the first lifetime determination for this energy branch, completing the relevant whole decay chain.
 
-As shown in Fig.~\ref{fig:distributionHs}, both $^{269}\mathrm{Hs}^{h}$ and $^{269}\mathrm{Hs}^{l}$ are populated in the directly produced $^{269}\mathrm{Hs}$ sample. The corresponding event ratios are $n(^{269}\mathrm{Hs}^{h}):n(^{269}\mathrm{Hs}^{l})=11:5$ for the directly produced sample and $6:1$ for the sample populated through the $\alpha$ decay of $^{273}\mathrm{Ds}$. These ratios are based on the full event compilation shown in Fig.~\ref{fig:distributionHs}, including the literature event with an uncertain assignment. Notably, the $^{269}\mathrm{Hs}^{l}$ event populated through $^{273}\mathrm{Ds}$ decay is associated with its longer-lived branch, whereas the $^{269}\mathrm{Hs}^{h}$ events are predominantly associated with the shorter-lived branch. No clear evidence for the cross-population channels $^{273}\mathrm{Ds}^{b}\rightarrow{}^{269}\mathrm{Hs}^{l}$ or $^{273}\mathrm{Ds}^{a}\rightarrow{}^{269}\mathrm{Hs}^{h}$ is found in the available data. Although the limited statistics prevent a definitive conclusion, this apparent selectivity may indicate the population of different low-lying configurations in $^{269}\mathrm{Hs}$ through the two $^{273}\mathrm{Ds}$ decay branches.
+As shown in Fig.~\ref{fig:distributionHs}, both $^{269}\mathrm{Hs}^{h}$ and $^{269}\mathrm{Hs}^{l}$ are populated in the directly produced $^{269}\mathrm{Hs}$ sample. The corresponding event ratios are $n(^{269}\mathrm{Hs}^{h}):n(^{269}\mathrm{Hs}^{l})=11:5$ for the directly produced sample and $6:1$ for the sample populated through the $\alpha$ decay of $^{273}\mathrm{Ds}$. These ratios are based on the full event compilation shown in Fig.~\ref{fig:distributionHs}, including the literature event with an uncertain assignment. Notably, the $^{269}\mathrm{Hs}^{l}$ event populated through $^{273}\mathrm{Ds}$ decay is associated with its longer-lived branch, whereas the $^{269}\mathrm{Hs}^{h}$ events are predominantly associated with the shorter-lived branch. No clear evidence for the cross-population channels $^{273}\mathrm{Ds}^{h}\rightarrow{}^{269}\mathrm{Hs}^{l}$ or $^{273}\mathrm{Ds}^{l}\rightarrow{}^{269}\mathrm{Hs}^{h}$ is found in the available data. Because $\alpha$-decay transitions are sensitive to the initial and final states of the parent and daughter nuclei, favored decays preferentially connect states with similar configurations for comparable $Q_{\alpha}$ values~\cite{asai2015NuclearStructureElements}. Although the limited statistics prevent a definitive conclusion, this apparent selectivity may indicate the population of different low-lying configurations in $^{269}\mathrm{Hs}$ through the two $^{273}\mathrm{Ds}$ decay branches.
 
 \begin{figure}
 \centering
@@ -295,14 +328,14 @@ Measured $\alpha$-particle energy distribution for events assigned to $^{269}$Hs
 
 Accordingly, the branch that starts from the higher $E_{\alpha}$ value and the shorter lifetime of $^{273}\mathrm{Ds}$ is assigned to
 \begin{align*}
-^{273}\text{Ds}^{b} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{h} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
+^{273}\text{Ds}^{h} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{h} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
 \end{align*}
 The branch that starts from the lower $E_{\alpha}$ value and the longer lifetime of $^{273}\mathrm{Ds}$ is assigned to
 \begin{align*}
-^{273}\text{Ds}^{a} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{l} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
+^{273}\text{Ds}^{l} &\xrightarrow{\alpha} {}^{269}\text{Hs}^{l} \xrightarrow{\alpha} {}^{265}\text{Sg}^{b} \xrightarrow{\alpha} {}^{261}\text{Rf}^{b} \xrightarrow{\text{SF}} \text{fission} .
 \end{align*}
 
-For clarity, the working assignments adopted in the present work are summarized in Table~\ref{tab:state_summary}. On the basis of the present data, two distinct states are discussed for $^{273}$Ds, denoted as $^{273}$Ds$^{a}$ and $^{273}$Ds$^{b}$. Compared with $^{273}\mathrm{Ds}^{a}$ and $^{273}\mathrm{Ds}^{b}$, the evidence distinguishing $^{269}\mathrm{Hs}^{h}$ and $^{269}\mathrm{Hs}^{l}$ as separate states rather than a single state remains inconclusive and relies solely on their differing decay properties. Because the statistics are limited and part of the historical data has a modest energy resolution. Therefore, this grouping is used simply as a basis for the tentative Nilsson configuration assignments discussed below, rather than as a firm experimental level scheme.
+For clarity, the working assignments adopted in the present work are summarized in Table~\ref{tab:state_summary}. On the basis of the present data, two distinct states are discussed for $^{273}$Ds, denoted as $^{273}$Ds$^{a}$ and $^{273}$Ds$^{b}$. Compared with $^{273}\mathrm{Ds}^{a}$ and $^{273}\mathrm{Ds}^{b}$, the evidence distinguishing $^{269}\mathrm{Hs}^{h}$ and $^{269}\mathrm{Hs}^{l}$ as separate states rather than a single state remains inconclusive and relies solely on their differing decay properties. Because the statistics are limited and part of the historical data has a modest energy resolution. Therefore, this grouping is used simply as a basis for the tentative Nilsson configuration assignments discussed below.
 
 \begin{table}[htbp]
 \centering
@@ -462,7 +495,7 @@ different nuclear states.
 
 \begin{figure}
 \centering
-\includegraphics[width=0.48\textwidth]{excitation_functions_wang_ecc3.pdf}
+\includegraphics[width=0.48\textwidth]{excitation_functions_wang_ecc3_67.pdf}
 \caption{
 Excitation functions for the $^{40}$Ar + $^{238}$U reaction.
 The solid red and dashed black curves represent the calculated
